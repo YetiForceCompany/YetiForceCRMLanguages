@@ -3,7 +3,7 @@
     "FL_PROVIDER": "Dostawca",
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Rodzaj wiadomości",
-    "FL_API_KEY": "Api key",
+    "FL_API_KEY": "Klucz API",
     "PLL_INACTIVE": "Nieaktywny",
     "PLL_ACTIVE": "Aktywny",
     "LBL_ADD_RECORD": "Nowa konfiguracja",

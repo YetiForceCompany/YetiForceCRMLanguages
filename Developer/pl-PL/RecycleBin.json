@@ -1,6 +1,7 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "Usuń cały kosz"
+    "LBL_RECYCLE_DELETE_ALL": "Usuń cały kosz",
+    "RecycleBin": "Trash bin"
   },
   "js": {
     "JS_MASS_DELETE": "Masowe usuwanie",
