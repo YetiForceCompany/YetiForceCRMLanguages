@@ -1,8 +1,8 @@
 {
   "php": {
-    "FBookkeeping": "Contabilitate",
-    "SINGLE_FBookkeeping": "Contabilitate",
-    "FBookkeeping ID": "ID Contabilitate",
-    "FL_SUBJECT": "Subiect"
+    "FBookkeeping": "Bookkeeping",
+    "SINGLE_FBookkeeping": "Bookkeeping",
+    "FBookkeeping ID": "Bookkeeping ID",
+    "FL_SUBJECT": "Subject"
   }
 }
