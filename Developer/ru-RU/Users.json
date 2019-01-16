@@ -31,7 +31,7 @@
     "LBL_ALL_FIELDS_BELOW_ARE_REQUIRED": "(Все поля обязательны для заполнения)",
     "LBL_ALMOST_THERE": "Почти готово",
     "LBL_BASE_CURRENCY": "Базовая валюта",
-    "LBL_BRUTAL_FORCE": "List of failed login attempts",
+    "LBL_BRUTAL_FORCE": "Список неудачных попыток входа",
     "LBL_CHANGE_PASSWORD": "Изменить пароль",
     "LBL_CHOOSE_BASE_CURRENCY": "Выберите базовую валюту",
     "LBL_CHOOSE_DATE_FORMAT": "Выберите формат даты",
@@ -350,11 +350,11 @@
     "FL_LOGIN_METHOD": "Authentication method",
     "PLL_AUTHY_TOTP": "Single-use code (TOTP)",
     "FL_AUTHY_SECRET_TOTP": "Private key (TOTP)",
-    "PLL_PASSWORD": "Password",
+    "PLL_PASSWORD": "Пароль",
     "PLL_LDAP": "LDAP",
-    "PLL_PASSWORD_2FA": "Password + 2FA",
-    "BTN_MASS_OFF_2FA": "Mass disable 2FA",
-    "LBL_2FA_TOTP_INFO_IN_DEMO": "In demo mode, 2FA is for preview only."
+    "PLL_PASSWORD_2FA": "Пароль + 2FA",
+    "BTN_MASS_OFF_2FA": "Массовое отключение 2FA",
+    "LBL_2FA_TOTP_INFO_IN_DEMO": "Демо режим. Режим 2FA только для предпросмотра."
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Разделитель десятичных и тысячных не могут быть одинаковыми",
@@ -362,7 +362,7 @@
     "JS_REENTER_PASSWORDS": "Пожалуйста, введите пароли заново. Значения полей \\\"Новый пароль\\\" и \\\"Подтверждение пароля\\\" не совпадают.",
     "JS_NEW_ACCESS_KEY_REQUESTED": "Enter new access key",
     "JS_CHANGE_ACCESS_KEY_CONFIRMATION": "New access key was requested. Old access key must be replaced with a new one in all installed extensions. Do you want to continue?",
-    "JS_2FA_OFF_CONFIRMATION": "Are you sure you want to disable two-factor authentication for this user?",
-    "JS_2FA_OFF_IN_PROGRESS": "Disabling two-factor authentication in progress"
+    "JS_2FA_OFF_CONFIRMATION": "Вы уверены, что хотите отключить двухфакторную авторизацию для этого пользователя?",
+    "JS_2FA_OFF_IN_PROGRESS": "Отключение двухфакторной авторизации в процессе"
   }
 }
