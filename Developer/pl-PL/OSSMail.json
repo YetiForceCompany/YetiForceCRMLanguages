@@ -74,7 +74,7 @@
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Ilość zaznaczonych rekordów",
     "LBL_MINIMIZE_BAR": "Zwijanie i rozwijanie paska",
     "LBL_CREATEMAIL": "Wyślij maila",
-    "LBL_ADD_RELATION": "Dodaj powiząnie"
+    "LBL_ADD_RELATION": "Dodaj powiązanie"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

@@ -230,7 +230,7 @@
     "LBL_FILE_HAS_BEEN_MODIFIED": "The file was modified because it contained dangerous code.",
     "LBL_FIELDS": "Campos",
     "LBL_FILTER": "Filtro",
-    "LBL_FILTER_FIELD": "Filter field",
+    "LBL_FILTER_FIELD": "Field from filter",
     "LBL_FILTER_CONDITIONS": "Condições de Filtro",
     "LBL_FILTER_ON_DATE": "Filtrar data",
     "LBL_FINAL_DISCOUNT_AMOUNT": "Soma Final Desconto",

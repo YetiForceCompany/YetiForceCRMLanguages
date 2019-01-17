@@ -1,13 +1,13 @@
 {
   "php": {
-    "LBL_INVOICE": "Invoice",
+    "LBL_INVOICE": "Rechnung",
     "LBL_INVOICE_NUMBER": "MwSt-Rechnungsnummer",
     "LBL_TO_FINVOICE_NUMBER": "To invoice number",
-    "LBL_INVOICE_PROFORMA": "Pro-forma invoice",
-    "LBL_RECIPIENT": "Recipient",
-    "LBL_ORDER": "Order",
-    "LBL_SUBMIT_ORDER": "Person authorized to submit order",
-    "LBL_TO_PAY": "Total",
+    "LBL_INVOICE_PROFORMA": "Proforma Rechnung",
+    "LBL_RECIPIENT": "Empfänger",
+    "LBL_ORDER": "Bestellung",
+    "LBL_SUBMIT_ORDER": "Person berechtigt, die Bestellung abschicken",
+    "LBL_TO_PAY": "Gesamt",
     "LBL_TO_PAY_WORD": "Total (in Worten)",
     "LBL_DEALER": "Verkäufer",
     "LBL_BUYER": "Käufer",
@@ -24,9 +24,9 @@
     "LBL_LAST_NAME": "Nachname",
     "LBL_PHONE": "Telefon",
     "LBL_EMAIL": "E-Mail",
-    "LBL_VATID": "Vat ID",
-    "LBL_SALE_DATE": "Sale date",
-    "LBL_PAYMENT_METHOD": "Payment method",
-    "LBL_PLACE_DATE": "Place, date"
+    "LBL_VATID": "USt-ID",
+    "LBL_SALE_DATE": "Verkaufsdatum",
+    "LBL_PAYMENT_METHOD": "Zahlungsmethode",
+    "LBL_PLACE_DATE": "Ort, Datum"
   }
 }

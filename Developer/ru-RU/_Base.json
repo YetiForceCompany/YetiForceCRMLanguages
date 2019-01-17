@@ -230,7 +230,7 @@
     "LBL_FILE_HAS_BEEN_MODIFIED": "The file was modified because it contained dangerous code.",
     "LBL_FIELDS": "Поля",
     "LBL_FILTER": "Фильтр",
-    "LBL_FILTER_FIELD": "Filter field",
+    "LBL_FILTER_FIELD": "Поле из фильтра",
     "LBL_FILTER_CONDITIONS": "Условия фильтра",
     "LBL_FILTER_ON_DATE": "Фильтр по дате",
     "LBL_FINAL_DISCOUNT_AMOUNT": "Окончательная сумма скидки",

@@ -56,7 +56,7 @@
     "LBL_COLLAPSE_ALL": "Zwiń wszystkie",
     "LBL_COUNT_ALL_MAILS": "Ilość wszystkich maili",
     "LBL_VERIFY": "Do powiązania",
-    "LBL_REL_MOD": "Moduły powiząne",
+    "LBL_REL_MOD": "Moduły powiązane",
     "LBL_BindMailsOK": "Oznaczono maile do powiązania, przy kolejnym wywołaniu cron-a zostaną wiadomości powiązane",
     "LBL_BindMails": "Przypisz maile",
     "LBL_ChangeType": "Zmiana typu wiadomości",

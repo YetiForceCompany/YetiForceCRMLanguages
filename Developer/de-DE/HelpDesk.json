@@ -1,6 +1,6 @@
 {
   "php": {
-    "FL_SERVICE_CONTRACTS": "Service Level Agreement",
+    "FL_SERVICE_CONTRACTS": "Service Level Agreement (SLA)",
     "FL_SERVICE_CONTRACTS_TYPE": "SLA Typ",
     "FL_SERVICE_CONTRACTS_DATE": "SLA Ablaufdatum",
     "FL_REPORT_TIME": "Meldezeit",
@@ -15,7 +15,7 @@
     "Critical": "kritisch",
     "Days": "Tage",
     "Feature": "neues Feature",
-    "HelpDesk ID": "Ticket ID",
+    "HelpDesk ID": "Ticket-ID",
     "HelpDesk": "Tickets",
     "High": "Hoch",
     "Hi": "Hallo",

@@ -33,11 +33,11 @@
     "PLL_AWAITING_REALIZATION": "Čakamo ralaizacijo",
     "PLL_FOR_PROCESSING": "Pripravljeno za izvedbo",
     "PLL_IN_PROGRESSING": "V izvajanju",
-    "PLL_SUBMITTED_COMMENTS": "Komentar",
+    "PLL_SUBMITTED_COMMENTS": "Predložene pripombe",
     "PLL_FOR_APPROVAL": "Za odobritev",
     "PLL_CANCELLED": "Prekinjeno",
     "PLL_ACCEPTED": "Sprejeto",
     "LBL_YEAR": "Leto",
-    "FL_ISSUE_TIME": "Invoice date"
+    "FL_ISSUE_TIME": "Datum računa"
   }
 }

@@ -230,7 +230,7 @@
     "LBL_FILE_HAS_BEEN_MODIFIED": "The file was modified because it contained dangerous code.",
     "LBL_FIELDS": "Campuri",
     "LBL_FILTER": "Filtru",
-    "LBL_FILTER_FIELD": "Camp filtru",
+    "LBL_FILTER_FIELD": "Field from filter",
     "LBL_FILTER_CONDITIONS": "Conditii filtru",
     "LBL_FILTER_ON_DATE": "Filtreaza data",
     "LBL_FINAL_DISCOUNT_AMOUNT": "Suma finala de reducere",
