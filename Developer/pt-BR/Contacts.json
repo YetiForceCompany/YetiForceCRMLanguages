@@ -14,7 +14,7 @@
     "Office Phone": "Telefone Profissional",
     "Portal User": "Portal do Usuário",
     "Reference": "Referência",
-    "Reports To": "Reporta-se à",
+    "Reports To": "Parent Contact",
     "Secondary Email": "E-mail Alternativo",
     "SINGLE_Contacts": "Contato",
     "Support End Date": "Data de Término do Suporte",
@@ -43,7 +43,8 @@
     "End of support for contact": "Fim de Suporte",
     "Birthdays of contacts": "Aniversários Contatos",
     "LBL_SWITCH_ON_DECISION_MAKER": "Tomador de Decisão",
-    "LBL_SWITCH_OFF_DECISION_MAKER": "Todos"
+    "LBL_SWITCH_OFF_DECISION_MAKER": "Todos",
+    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
   },
   "js": {
 

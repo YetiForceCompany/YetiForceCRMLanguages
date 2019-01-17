@@ -1,0 +1,18 @@
+{
+  "php": {
+    "Answer": "Odgovor",
+    "Comments": "Komentarji",
+    "Draft": "Osnutek",
+    "Faq": "FAQ",
+    "Faq No": "FAQ št.",
+    "General": "Splošno",
+    "LBL_COMMENT_INFORMATION": "Komentar",
+    "LBL_FAQ_INFORMATION": "FAQ podatki",
+    "LBL_RECORDS_LIST": "Pregled FAQ",
+    "LBL_SOLUTION": "Rešitev",
+    "Obsolete": "Zastarelo",
+    "Published": "Objavljeno",
+    "Question": "Vprašanje",
+    "SINGLE_Faq": "FAQ"
+  }
+}

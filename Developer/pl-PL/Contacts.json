@@ -14,7 +14,7 @@
     "Office Phone": "Telefon podstawowy",
     "Portal User": "Użytkownik portalu klienta",
     "Reference": "Referencje",
-    "Reports To": "Raportuj do",
+    "Reports To": "Kontakt nadrzędny",
     "Secondary Email": "Mail dodatkowy",
     "SINGLE_Contacts": "Kontakt",
     "Support End Date": "Data zakończenia wsparcia",
@@ -43,7 +43,8 @@
     "End of support for contact": "Koniec wsparcia kontaktu",
     "Birthdays of contacts": "Urodziny kontaktów",
     "LBL_SWITCH_ON_DECISION_MAKER": "Decyzyjna",
-    "LBL_SWITCH_OFF_DECISION_MAKER": "Wszystkie"
+    "LBL_SWITCH_OFF_DECISION_MAKER": "Wszystkie",
+    "LBL_SHOW_HIERARCHY": "Hierarchia kontaktu"
   },
   "js": {
 

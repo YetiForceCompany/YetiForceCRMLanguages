@@ -14,7 +14,7 @@
     "Office Phone": "Telefoon kantoor",
     "Portal User": "Portaal gebruiker",
     "Reference": "Referentie",
-    "Reports To": "Reporteer aan",
+    "Reports To": "Parent Contact",
     "Secondary Email": "Tweede Email",
     "SINGLE_Contacts": "Contact",
     "Support End Date": "Support eind datum",
@@ -43,7 +43,8 @@
     "End of support for contact": "Einde van het support contract",
     "Birthdays of contacts": "Verjaardag van de contacten",
     "LBL_SWITCH_ON_DECISION_MAKER": "Decision maker",
-    "LBL_SWITCH_OFF_DECISION_MAKER": "All"
+    "LBL_SWITCH_OFF_DECISION_MAKER": "All",
+    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
   },
   "js": {
 

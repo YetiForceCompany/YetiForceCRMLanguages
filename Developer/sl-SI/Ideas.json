@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Ideje",
+    "SINGLE_Ideas": "Ideja",
+    "LBL_IDEAS_INFORMATION": "Osnovni podatki",
+    "LBL_SUBJECT": "zadeva",
+    "LBL_STATUS": "Status",
+    "Description": "Opis",
+    "LBL_EXTENT_DESCRIPTION": "Podroben opis ideje",
+    "Attention": "Komentarji",
+    "LBL_NO": "Številka",
+    "Draft": "Osnutek",
+    "Proposition": "Predlog"
+  }
+}

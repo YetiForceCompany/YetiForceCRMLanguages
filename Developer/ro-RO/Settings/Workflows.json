@@ -164,6 +164,7 @@
     "LBL_UPDATE_WORK_TIME": "Actualizati timpul de lucru",
     "LBL_UPDATE_RELATED_FIELD": "Actualizati inregistrare asociata",
     "LBL_AUTO_ASSIGN": "Auto repartizati inregistrari",
+    "LBL_NEW_USER_CREATED": "New user created",
     "Current Date": "Data curenta",
     "Current Time": "Ora curenta",
     "System Timezone": "Zona de timp sistem",

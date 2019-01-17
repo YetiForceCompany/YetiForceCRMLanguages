@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "Naziv države",
+    "LBL_COUNTRY_SHORTNAME": "Šifra države",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Ali naj bo država v celotnem sistemu na voljo?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Omogočite ali onemogočite vse države",
+    "LBL_VISIBLE_IN_PHONE": "Ali je treba državo vključiti v telefonsko številko?",
+    "LBL_VISIBLE_IN_COUNTRY": "Ali naj bo država prikazana v naslovih?",
+    "LBL_ROW_TO_TOP": "Premakni vrstico povsem gor",
+    "LBL_ROW_TO_BOTTOM": "Premakni vrstico povsem dol",
+    "LBL_COUNTRY_SETTINGS": "Nastavitve države",
+    "LBL_COUNTRY_DESCRIPTION": "Nastavitev razpoložljivosti države v sistemu"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "Nastavitve države"
+  }
+}

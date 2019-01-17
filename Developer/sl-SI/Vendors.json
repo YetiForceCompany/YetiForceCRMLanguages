@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "za",
+    "LBL_EXPORT_TO_PDF": "Izvoz kot PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Podatki o naslovu",
+    "LBL_VENDORS_ADD_TASK": "Dodaj nalogo",
+    "LBL_VENDORS_ADD_EVENT": "Dodaj dogodek",
+    "300-Sales-Software": "300-Prodaja-Software",
+    "301-Sales-Hardware": "301-Prodaja-Hardware",
+    "302-Rental-Income": "302-Rental-Income",
+    "303-Interest-Income": "303-Interest-Income",
+    "304-Sales-Software-Support": "304-Prodaja-Software-Podpora",
+    "305-Sales Other": "305-Prodaja ostalo",
+    "306-Internet Sales": "306-Internetne storitve",
+    "307-Service-Hardware Labor": "307-Storitve-Hardware",
+    "308-Sales-Books": "308-Prodaja-Knjige",
+    "Email": "E-naslov",
+    "GL Account": "Konto glavne knjige",
+    "LBL_VENDOR_INFORMATION": "Podrobnosti dobavitelja",
+    "Phone": "Telefonska številka",
+    "SINGLE_Vendors": "Dobavitelj",
+    "Vendor Name": "Naziv dobavitelja",
+    "Vendor No": "Št. dobavitelja",
+    "Vendors": "Dobavitelji",
+    "Website": "Spletna stran",
+    "LBL_BUILDING_NUMBER": "Hišna številka",
+    "LBL_LOCAL_NUMBER": "Št. pisarne"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Brisanje tega dobavitelja bo odstranilo tudi njegova pripadajoča naročila. Ali ste prepričani, da želite izbrisati tega dobavitelja?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Brisanje teh dobaviteljev bo odstranilo tudi njihova pripadajoča naročila. Ali ste prepričani, da želite izbrisati te dobavitelje ?"
+  }
+}

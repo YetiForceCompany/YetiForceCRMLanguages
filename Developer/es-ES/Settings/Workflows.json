@@ -164,6 +164,7 @@
     "LBL_UPDATE_WORK_TIME": "Actualizar el tiempo de trabajo",
     "LBL_UPDATE_RELATED_FIELD": "Actualizar registro relacionado",
     "LBL_AUTO_ASSIGN": "Auto asignar registro",
+    "LBL_NEW_USER_CREATED": "New user created",
     "Current Date": "Fecha actual",
     "Current Time": "Hora actual",
     "System Timezone": "Zona horaria del sistema",

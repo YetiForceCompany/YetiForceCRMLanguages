@@ -1,6 +1,6 @@
 {
   "php": {
-    "Calendar": "Do wykonania",
+    "Calendar": "Zadanie",
     "Checkbox": "Pole zaznaczenia",
     "Currency": "Pole walutowe",
     "Date": "Pole daty",
@@ -171,7 +171,7 @@
     "LBL_QUICK_CREATE_VIEW": "Szybkie tworzenie",
     "LBL_INTEGER": "Liczba całkowita",
     "LBL_INTEGER_DESC": "",
-    "LBL_BOOLEAN": "Checkbox",
+    "LBL_BOOLEAN": "Pole zaznaczenia",
     "LBL_BOOLEAN_DESC": "",
     "LBL_DATE": "Data",
     "LBL_DATE_DESC": "",

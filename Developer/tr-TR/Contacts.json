@@ -14,7 +14,7 @@
     "Office Phone": "Ofis telefonu",
     "Portal User": "Portal kullanıcısı",
     "Reference": "Referans",
-    "Reports To": "Raporlar",
+    "Reports To": "Parent Contact",
     "Secondary Email": "İkincil e-posta",
     "SINGLE_Contacts": "İletişim",
     "Support End Date": "Destek bitiş tarihi",
@@ -43,7 +43,8 @@
     "End of support for contact": "Temas desteğinin sonu",
     "Birthdays of contacts": "Kişilerin doğum günleri",
     "LBL_SWITCH_ON_DECISION_MAKER": "Karar verici",
-    "LBL_SWITCH_OFF_DECISION_MAKER": "Hepsi"
+    "LBL_SWITCH_OFF_DECISION_MAKER": "Hepsi",
+    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
   },
   "js": {
 

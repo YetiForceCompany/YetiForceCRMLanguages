@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IGIN": "Interna izdaja blaga",
+    "SINGLE_IGIN": "Interna izdaja blaga",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentarji",
+    "FL_ACCEPTANCE_DATE": "Datum izdaje",
+    "FL_SUBJECT": "Zadeva",
+    "FL_NUMBER": "Številka",
+    "FL_STORAGE": "Skaldišče",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V relizaciji",
+    "PLL_OBJECTIONS": "Pripombe",
+    "PLL_FOR_APPROVAL": "Za potrditev",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_ACCEPTED": "Potrjeno",
+    "LBL_CHANGE_STATUS": "Spremeni status"
+  }
+}

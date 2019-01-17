@@ -164,6 +164,7 @@
     "LBL_UPDATE_WORK_TIME": "MAJ Heure ouvré",
     "LBL_UPDATE_RELATED_FIELD": "Mettre à jour l'enregistrement lié",
     "LBL_AUTO_ASSIGN": "Affectation automatique d'un enregistrement",
+    "LBL_NEW_USER_CREATED": "New user created",
     "Current Date": "Date courante",
     "Current Time": "Heure courante",
     "System Timezone": "Fuseau horaire du système",

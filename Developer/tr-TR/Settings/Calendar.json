@@ -1,6 +1,6 @@
 {
   "php": {
-    "Calendar": "Calendar",
+    "Calendar": "Koledar",
     "LBL_ACTIVITY_TYPES": "Calendar – Types",
     "LBL_ACTIVITY_TYPES_DESCRIPTION": "Management of activity types.",
     "LBL_ACTIVITY_NAME": "Activity types name",

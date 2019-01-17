@@ -38,6 +38,8 @@
     "LBL_HOMEICON_DESC": "Element meniu care redirectioneaza catre panoul principal",
     "LBL_CUSTOMFILTER": "Filtru",
     "LBL_CUSTOMFILTER_DESC": "Element meniu care redirectioneaza catre filtrul personalizat.",
+    "LBL_RECYCLEBIN": "Recycle bin",
+    "LBL_RECYCLEBIN_DESC": "Menu item redirecting to recycle bin.",
     "LBL_PROFILE": "Profil",
     "LBL_PROFILE_DESC": "Element de meniu care permite modificarea profilului utilizatorului.",
     "LBL_REMOVED_MENU_ITEM": "Elementul de meniu a fost elimninat",

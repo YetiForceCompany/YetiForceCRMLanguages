@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Dodaj k",
+    "LBL_EDIT_LIST_PRICE": "Uredi cenik",
+    "LBL_PRICEBOOK_INFORMATION": "Osnovni podatki cenika",
+    "LBL_UNIT_PRICE": "Cena enote",
+    "Price Book Name": "Ime cenika",
+    "PriceBook No": "Št. cenika",
+    "PriceBooks": "Ceniki",
+    "SINGLE_PriceBooks": "Cenik",
+    "yes": "Da",
+    "no": "Ne",
+    "Unit Price": "Cena - EM"
+  }
+}

@@ -164,6 +164,7 @@
     "LBL_UPDATE_WORK_TIME": "Arbeitszeit aktualisieren",
     "LBL_UPDATE_RELATED_FIELD": "Verknüpfter Datensatz aktualisieren",
     "LBL_AUTO_ASSIGN": "Automatisierte Datensatzzuordnung",
+    "LBL_NEW_USER_CREATED": "New user created",
     "Current Date": "Aktuelles Datum",
     "Current Time": "Aktuelle Uhrzeit",
     "System Timezone": "Zeitzone System",

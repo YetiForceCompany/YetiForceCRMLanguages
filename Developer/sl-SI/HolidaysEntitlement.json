@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Letni dopust",
+    "SINGLE_HolidaysEntitlement": "Letni dopust",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Osnovni podatki",
+    "LBL_CUSTOM_INFORMATION": "Sistemski podatki",
+    "LBL_YEAR": "leto",
+    "LBL_DAYS": "Število dni dopusta",
+    "LBL_EMPLOYEE": "Zaposleni",
+    "LBL_NUMBER": "Številka"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Promet od prodje v skladišču",
+    "SINGLE_ISTN": "Promet od prodje v skladišču",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Opombe",
+    "FL_ESTIMATED_DATE": "Predviden datum",
+    "FL_SUBJECT": "Zadeva",
+    "FL_NUMBER": "Številka",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_OBJECTIONS": "Pripombe",
+    "PLL_FOR_APPROVAL": "Za odobritev",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_ACCEPTED": "Sprejeto",
+    "PLL_RECEIVED": "Prejeto",
+    "PLL_TRANSFER": "Prenos",
+    "PLL_DISPATCHED": "Opustiti",
+    "FL_TYPE": "Vrsta"
+  }
+}
