@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "دسترسی‌های پیشرفته",
+    "AdvancedPermission": "دسترسی‌های پیشرفته",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "پیکربندی مجوز اعطا یا مجوز برداشت به سوابق.",
+    "LBL_NAME": "نام مجوز",
+    "LBL_MODULE": "ماژول",
+    "LBL_ACTION": "عملیات",
+    "LBL_STATUS": "وضعیت",
+    "LBL_ROLE": "سطح کاربری",
+    "LBL_MEMBERS": "اعضا",
+    "LBL_PRIORITY": "اولويت",
+    "FL_ACTIVE": "فعال",
+    "FL_INACTIVE": "غیرفعال",
+    "FL_UNLOCK_RECORD": "اجازه دسترسی",
+    "FL_LOCK_RECORD": "برداشتن دسترسی",
+    "LBL_SAVE_AND_CONDITIONS": "بعدی",
+    "ERR_INACTIVE_ALERT_TITLE": "دسترسی پیشرفته غیر فعال شده‌ است",
+    "ERR_INACTIVE_ALERT_DESC": "برای فعال کردن  پارامتر PERMITTED_BY_ADVANCED_PERMISSION در config\/security.php تغییر دهید.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "محاسبه مجدد مجوز",
+    "LBL_RECALCULATE_PERMISSION_BTN": "مجوز محاسبه مجدد",
+    "LBL_RECALCULATE_CRON_INFO": "اجازه محاسبه مجدد نیاز به فعال بودن CRON دارد، لطفاً از فعال بودن اصمینان حاصل نمایید.",
+    "LBL_MODULES_LIST": "لیست ماژول ها",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "مجوز‌های ویژه بدلیل نیاز به فعال بودن در مجوز‌ها غیر فعال‌شده‌اند. برای اجازه شروع کار شما باید cron را فعال و متغیر CACHING_PERMISSION_TO_RECORD [config\/security.php] را به true تنظیم کنید."
+  }
+}

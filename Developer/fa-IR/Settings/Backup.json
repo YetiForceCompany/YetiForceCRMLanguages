@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "مدیر پشتیبان گیری",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "ایجاد فایل‌های پشتیبان",
+    "LBL_DOWNLOAD": "دریافت",
+    "LBL_FILE_NAME": "نام فایل",
+    "LBL_FILE_SIZE": "حجم فایل",
+    "LBL_FILE_DATE": "تاریخ اصلاح",
+    "LBL_BACKUP_LIST": "فهرست پشتیبان",
+    "ERR_CONFIG_ALERT_TITLE": "مدیر پشتیبان غیرفعال شده است",
+    "ERR_CONFIG_ALERT_DESC": "برای فعال کردن در متغیر BACKUP_PATH در فایل پیکربندی [config\/modules\/Backup.php] مسیر مناسب تنظیم کنید."
+  },
+  "js": {
+
+  }
+}

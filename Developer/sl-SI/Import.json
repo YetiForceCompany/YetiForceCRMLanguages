@@ -8,14 +8,14 @@
     "LBL_STANDARD_FIELDS": "Standardna polja",
     "LBL_INVENTORY_FIELDS": "Dodatna polja",
     "UTF-8": "UTF-8",
-    "vcf": "VCard",
+    "vcf": "Vizitka (vCard)",
     "semicolon": "Podpičje",
     "comma": "Vejica",
     "ISO-8859-1": "ISO-8859-1",
     "Merge": "Združi",
     "Overwrite": "Prepiši",
     "Skip": "Preskoči",
-    "LBL_FILL_EMPTY": "Fill in (update only empty fields in the record, do not change existing values)",
+    "LBL_FILL_EMPTY": "Izpolnite (posodobite samo prazna polja v zapisu, ne spreminjajte obstoječe vrednosti)",
     "LBL_IMPORT_STEP_1": "Korak  1",
     "LBL_IMPORT_STEP_1_DESCRIPTION": "Izberi datoteko",
     "LBL_IMPORT_SUPPORTED_FILE_TYPES": "Podprte vrste datotek",
@@ -55,7 +55,7 @@
     "LBL_UNDO_RESULT": "Razveljavi uvoz",
     "LBL_TOTAL_RECORDS": "Število vseh zapisov",
     "LBL_NUMBER_OF_RECORDS_DELETED": "Število vseh zbrisanih zapisov",
-    "LBL_OK_BUTTON_LABEL": "Ok",
+    "LBL_OK_BUTTON_LABEL": "V redu",
     "LBL_IMPORT_SCHEDULED": "Planiran uvoz",
     "LBL_RUNNING": "Poteka",
     "LBL_CANCEL_IMPORT": "Prekini uvoz",
@@ -77,6 +77,6 @@
     "skipped": "Prezreti zapisi",
     "failed": "Napačni zapisi",
     "LBL_SELECT_FILE": "Izberi datoteko ",
-    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing recorda are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record."
+    "LBL_MERGE_TYPE_INFO": "Preskoči: obstoječi zapisi so preskočeni in niso posodobljeni.\n\nPrepiši: obstoječi zapis se prepiše s podatki iz datoteke ali pa se izpolnijo privzete vrednosti, če so zahtevane vrednosti v zapisu in datoteki prazne. Če ni označeno kot zahtevano, se vrednosti zapišejo v zapis s praznimi vrednostmi iz datoteke.\n\nSpoji: vrednosti zapisov se prepišejo z vrednostmi iz datoteke, če vrednosti iz datoteke niso prazne (če pa so prazne, se ohranijo vrednosti iz zapisa).\n\nIzpolnite: posodobljena so le prazna polja v zapisu. Vrednosti iz polja se ne prepišejo, če že obstaja zapis v zapisu."
   }
 }

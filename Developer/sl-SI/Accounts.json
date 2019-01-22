@@ -10,7 +10,7 @@
     "Employees": "Št. zaposlenih",
     "industry": "Dejavnost",
     "Integrator": "Posredovan",
-    "Investor": "Investor",
+    "Investor": "Vlagatelj",
     "LBL_ACCOUNT_INFORMATION": "Kupec",
     "LBL_ADVANCED_BLOCK": "Podrobnosti",
     "LBL_CONTACT_INFO": "Kontaktne informacije",
@@ -84,13 +84,13 @@
     "PLL_EUROPEAN_PRIVATE_PARTNERSHIP": "Evropsko zasebno partnerstvo",
     "PLL_EUROPEAN_RECIPROCAL_PARTNERSHIP": "Evropsko investicijsko partnerstvo",
     "PLL_EUROPEAN_ASSOCIATION": "Evropsko združenje",
-    "PLL_UFCIITS": "Undertakings for collective investment in transferable securities",
+    "PLL_UFCIITS": "Podjetja za kolektivne naložbe v prenosljive vrednostne papirje",
     "LBL_DEACTIVATED_BY": "Podjetje deaktivirano od dne",
     "SINGLE_Vendors": "Dobavitelj"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Podjetje s tem imenom že obstaja. Ali želite kljub narediti kopijo podjetja?",
-    "LBL_DELETE_CONFIRMATION": "Deleting this Account will remove its related Opportunities and Quotes. Are you sure you want to delete this Account?",
-    "LBL_MASS_DELETE_CONFIRMATION": "Deleting this Account(s) will remove its related Opportunities and Quotes. Are you sure you want to delete the selected records?"
+    "LBL_DELETE_CONFIRMATION": "Brisanje tega dobavitelja bo odstranilo tudi njegova pripadajoča naročila. Ali ste prepričani, da želite izbrisati tega dobavitelja?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Brisanje teh strank bo odstranilo tudi njihova pripadajoče ponudbe in možnosti za prodajo. Ali ste prepričani, da želite izbrisati te stranke?"
   }
 }

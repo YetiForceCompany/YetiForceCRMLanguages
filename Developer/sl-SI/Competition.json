@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Konkurenca",
+    "Competition": "Konkurence",
     "SINGLE_Competition": "Konkurenca",
     "LBL_COMPETITION_INFORMATION": "Osnovne informacije",
     "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
     "LBL_DESCRIPTION_INFORMATION": "Podroben opis",
-    "LBL_SUBJECT": "Zadeva",
+    "LBL_SUBJECT": "Ime",
     "LBL_NUMBER": "Številka",
     "LBL_CLOSED_TIME": "Zakljenjeno",
     "LBL_VAT_ID": "ID za DDV",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "LBL_SHOW_HIERARCHY": "Hierarhija",
+    "LBL_PARENT_ID": "Nadrejena konkurenca"
   }
 }

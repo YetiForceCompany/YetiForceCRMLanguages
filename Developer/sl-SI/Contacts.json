@@ -13,7 +13,7 @@
     "LBL_IMAGE_INFORMATION": "Fotografija kontakta",
     "Office Phone": "Primarni telefon",
     "Portal User": "Portal za uporabnike",
-    "Reference": "Reference",
+    "Reference": "Sklic",
     "Reports To": "Nadrejeni",
     "Secondary Email": "Drugi naslovi e-pošte",
     "SINGLE_Contacts": "Oseba",
@@ -37,14 +37,14 @@
     "Approval for email": "Dovoljenje za  pošiljanje e-pošte",
     "Do Not Call": "ne kliči",
     "LBL_LANGUAGE_NOTIFICATIONS": "Jezik",
-    "SINGLE_Leads": "Lead",
+    "SINGLE_Leads": "Interesenti",
     "SINGLE_Vendors": "Dobavitelj",
     "Decision maker": "Nosilec odločanja",
     "End of support for contact": "Konec vzdrževanja za kontakt",
     "Birthdays of contacts": "Rojstni dnevi kontaktov",
     "LBL_SWITCH_ON_DECISION_MAKER": "Odloča",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Vsi",
-    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
+    "LBL_SHOW_HIERARCHY": "Struktura kontaktov"
   },
   "js": {
 

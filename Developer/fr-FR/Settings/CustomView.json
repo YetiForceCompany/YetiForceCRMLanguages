@@ -26,7 +26,7 @@
     "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Sélectionner un champ pour activer le tri",
     "LBL_SORT_ASCENDING_ORDER": "Tri par ordre croissant",
     "LBL_SORT_DESCENDING_ORDER": "Tri par ordre décroissant",
-    "LBL_ATTENTION": "Attention!"
+    "LBL_ATTENTION": "Warning!"
   },
   "js": {
     "Saving changes": "Sauvergarde des changements...",
