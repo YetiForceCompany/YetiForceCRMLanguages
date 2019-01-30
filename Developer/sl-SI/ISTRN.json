@@ -3,10 +3,10 @@
     "ISTRN": "Storage Transfer Received Notes",
     "SINGLE_ISTRN": "Storage Transfer Received Notes",
     "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
+    "LBL_ATTENTION_BLOCK": "Komentarji",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",
     "FL_VENDOR": "Vendor",
-    "FL_SUBJECT": "Subject",
+    "FL_SUBJECT": "Zadeva",
     "FL_NUMBER": "Number",
     "FL_STORAGE": "Storage",
     "FL_STATUS": "Status",
@@ -14,7 +14,7 @@
     "PLL_IN_REALIZATION": "In realization",
     "PLL_OBJECTIONS": "Objections",
     "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
+    "PLL_CANCELLED": "Prekinjeno",
     "PLL_ACCEPTED": "Accepted",
     "LBL_CHANGE_STATUS": "Change Status"
   }

@@ -6,7 +6,7 @@
     "LBL_BLOCK": "Skupina",
     "LBL_TOTAL_TIME": "Skupaj čas",
     "LBL_STATUS": "Status",
-    "Assigned To": "Odgovoren",
+    "Assigned To": "Skrbnik",
     "LBL_TITLE": "Naziv",
     "LBL_START_DATE": "Datum začetka",
     "LBL_END_DATE": "Datum zaključka",
@@ -19,7 +19,7 @@
     "PLL_TO_APPROVAL": "Preveriti",
     "LBL_RELATEDA": "Stranka",
     "LBL_RELATEDB": "Proces",
-    "LBL_TYPE": "Tip",
+    "LBL_TYPE": "Vrsta",
     "LBL_MEETING_ROOMS": "Sejna soba",
     "LBL_EQUIPMENT": "Oprema",
     "LBL_CARS": "Vozilo",
@@ -39,7 +39,7 @@
     "PLL_DRAFT": "Osnutek",
     "PLL_CANCELLED": "Prekinjeno",
     "JS_ASSIGNED_TO": "Odgovoren",
-    "JS_TYPE": "Tip",
+    "JS_TYPE": "Vrsta",
     "JS_YES": "Da",
     "JS_NO": "Ne"
   }

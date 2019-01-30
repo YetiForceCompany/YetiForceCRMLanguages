@@ -153,6 +153,7 @@
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "Adauga campuri bloc avansat",
     "LBL_MAX_LENGTH_TEXT": "Dimensiune maxima text",
     "LBL_MAX_WIDTH_COLUMN": "Latime coloana [%]",
+    "LBL_MAX_WIDTH_COLUMN_INFO": "The percentage value in relation to the width of the window.",
     "LBL_EDIT_CUSTOM_FIELD": "Editeaza camp",
     "LBL_EXCEEDED_MAXIMUM_NUMBER_CHARACTERS_FOR_FIELD_NAME": "Ati depasit numarul maxim de 30 de caractere permise pentru denumirea campului.",
     "LBL_RELATED_TAB_TYPE": "Fila",

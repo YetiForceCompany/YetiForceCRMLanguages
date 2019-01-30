@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_ROOM_CRM": "Favourites",
+    "LBL_ROOM_CRM": "Favorite",
     "LBL_ROOM_GROUP": "Group room",
     "LBL_ROOM_GLOBAL": "Global room",
     "LBL_MESSAGE": "Message",
@@ -15,8 +15,8 @@
     "LBL_SOUND_OFF": "Sound off",
     "LBL_SOUND_ON": "Sound on",
     "LBL_HISTORY_CHAT": "Chat history",
-    "LBL_MORE": "more",
-    "LBL_HIDE": "hide",
+    "LBL_MORE": "mai mult",
+    "LBL_HIDE": "ascunde",
     "LBL_NO_MESSAGES": "No messages",
     "LBL_UNREAD": "Unread",
     "LBL_ENTER": "It enables\/disables sending messages after pressing ENTER",
@@ -25,6 +25,6 @@
     "LBL_ROOM_DESCRIPTION_GROUP": "Chat rooms list with user groups",
     "LBL_ROOM_DESCRIPTION_GLOBAL": "Chat rooms list visible for all users",
     "LBL_CHAT_USER_SWITCHED": "Chat is inactive if you switched to another user.",
-    "LBL_CHAT_NEW_MESSAGE": "New message"
+    "LBL_CHAT_NEW_MESSAGE": "Mesaj nou"
   }
 }

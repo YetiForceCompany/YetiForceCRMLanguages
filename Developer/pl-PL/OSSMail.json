@@ -74,7 +74,10 @@
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Ilość zaznaczonych rekordów",
     "LBL_MINIMIZE_BAR": "Zwijanie i rozwijanie paska",
     "LBL_CREATEMAIL": "Wyślij maila",
-    "LBL_ADD_RELATION": "Dodaj powiązanie"
+    "LBL_ADD_RELATION": "Dodaj powiązanie",
+    "LBL_ADD_TO_MY_CALENDAR": "Dodaj do mojego kalendarza",
+    "LBL_ERROR_OCCURRED_DURING_IMPORT": "Wystąpił błąd podczas importowania",
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Plik został zaimportowany %s"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

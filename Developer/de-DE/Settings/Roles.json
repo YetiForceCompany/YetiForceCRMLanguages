@@ -35,7 +35,7 @@
     "LBL_PERMISSIONS_TO_VIEW_RELATED_RECORDS": "Soll die Vorschau von nicht eigenen Datensätzen, welche mit eigenen verknüpft sind, erlaubt werden",
     "LBL_PERMISSIONS_TO_EDIT_RELATED_RECORDS": "Soll das Editieren von nicht eigenen Datensätzen, welche mit eigenen verknüpft sind, erlaubt werden",
     "LBL_PERMISSIONS_FIELD_RELATED_RECORDS": "Berechtigungen für die verknüpften Datensätze sind feldbasiert",
-    "LBL_PERMITTED_BY_READ_ACCESS": "Access to record",
+    "LBL_PERMITTED_BY_READ_ACCESS": "Datenzugriff",
     "LBL_PERMITTED_BY_SHARING": "Zugriffsberechtigung Ausnahmen",
     "LBL_INACTIVE": "Inaktiv",
     "LBL_ONLY_PARENT": "Eltern Datensatz",
@@ -45,9 +45,9 @@
     "LBL_BLOCK_CUT": "Block ausschneiden",
     "LBL_BLOCK_PASTE": "Block einfügen",
     "LBL_AUTO_ASSIGN_RECORDS": "Automatische Zuordnung",
-    "LBL_UPLOAD_LOGO": "Upload logo",
+    "LBL_UPLOAD_LOGO": "Logo Hochladen",
     "LBL_UPLOAD_ERROR": "Error during upload",
-    "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
+    "LBL_UPLOAD_SUCCESS": "Erfolgreich hochgeladen",
     "LBL_MULTI_COMPANY": "Organizational structure"
   },
   "js": {

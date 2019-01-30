@@ -1,7 +1,7 @@
 {
   "php": {
     "SVendorEnquiries": "Lieferantenanfrage",
-    "SINGLE_SVendorEnquiries": "Vendor enquiry",
+    "SINGLE_SVendorEnquiries": "Lieferantenanfrage",
     "LBL_SCALCULATIONS_INFORMATION": "Basis Informationen",
     "LBL_CUSTOM_INFORMATION": "System Informationen",
     "LBL_DESCRIPTION_INFORMATION": "Details",

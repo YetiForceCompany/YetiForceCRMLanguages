@@ -5,7 +5,7 @@
   },
   "js": {
     "JS_MASS_DELETE": "Množično brisanje",
-    "JS_MASS_ACTIVATE": "Masovno aktiviranje",
+    "JS_MASS_ACTIVATE": "Množično aktiviranje",
     "JS_DELETE_ALL_RECYCLE_RECORD": "Izbrišite vse zapise iz koša",
     "JS_ACTIVATE_RECORD_DESC": "Aktiviranje zapisa samo spremeni stanje zapisa brez spreminjanja preostalih informacij. Ali ste prepričani, da želite aktivirati zapis?",
     "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Brisanje zapisa je trajno in nepovratno za vse podatke zapisa. Ali ste prepričani, da želite izbrisati zapis?",

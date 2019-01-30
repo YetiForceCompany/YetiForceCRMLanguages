@@ -2,7 +2,7 @@
   "php": {
     "Picklist": "Auswahlliste",
     "Calendar": "Kalender",
-    "LBL_EDIT": "Edit",
+    "LBL_EDIT": "Ändern",
     "LBL_ADD_ITEM_TO": "Eintrag hinzufügen an",
     "LBL_ADD_VALUE": "Wert hinzufügen",
     "LBL_ALL_ROLES": "Alle Rollen",
@@ -23,7 +23,7 @@
     "LBL_ITEM_VALUE": "Eintrag Wert",
     "LBL_NON_EDITABLE_PICKLIST_VALUES": "Nicht Editierbare Werte",
     "LBL_NON_EDITABLE_PICKLIST_VALUE": "Value is non-editable",
-    "LBL_RENAME_VALUE": "Rename value",
+    "LBL_RENAME_VALUE": "Wert umbennen",
     "LBL_REPLACE_IT_WITH": "Ersetzen durch",
     "LBL_ROLE_NAME": "Rollenname",
     "LBL_SAVE_ORDER": "Reihenfolge speichern",

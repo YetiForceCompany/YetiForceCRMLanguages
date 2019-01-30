@@ -1,6 +1,6 @@
 {
   "php": {
-    "Updates": "Updates",
+    "Updates": "Aktualisierungen",
     "LBL_YES": "Ja",
     "LBL_NO": "Nein",
     "LBL_TIME": "Zeit",
@@ -8,7 +8,7 @@
     "LBL_FROM_VERSION": "Von Version",
     "LBL_TO_VERSION": "Nach Version",
     "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
+    "LBL_UPDATES": "Aktualisierungen",
     "LBL_UPDATES_DESCRIPTION": "Updates Historie",
     "LBL_IMPORT_UPDATE": "Update hochladen",
     "LBL_NAME_PACKAGES": "Name"

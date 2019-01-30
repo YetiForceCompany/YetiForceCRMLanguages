@@ -1,6 +1,6 @@
 {
   "php": {
-    "BruteForce": "Brute Force",
+    "BruteForce": "Brute-Force",
     "LBL_NUMBER_OF_ATTEMPTS": "Anzahl von Versuchen",
     "LBL_TIME_LOCK": "Zeitsperre (Minuten)",
     "LBL_SETTINGS": "Einstellungen",
@@ -16,7 +16,7 @@
     "LBL_UNBLOCK": "Entsperren",
     "LBL_USERS_FOR_NOTIFICATIONS": "Benutzer für Benachrichtungen",
     "LBL_BRUTEFORCE_ACTIVE": "Aktiv",
-    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_VIEW_SHOW": "Brute-Force",
     "LBL_SENT_NOTIFICATIONS": "Benachrichtigung senden"
   },
   "js": {

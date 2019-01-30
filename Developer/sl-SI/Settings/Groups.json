@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group name",
-    "Description": "Description"
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_ADD_USERS_ROLES": "Dodajte uporabnike, vloge...",
+    "LBL_DUPLICATES_EXIST": "To ime skupine že obstaja",
+    "LBL_GROUP_MEMBERS": "Člani skupine",
+    "LBL_GROUP_NAME": "Ime skupine",
+    "LBL_ROLEANDSUBORDINATE": "Vloge in podrejeni",
+    "LBL_TO_OTHER_GROUP": "V drugo skupino ",
+    "LBL_TRANSFORM_OWNERSHIP": "Prenos lastništva",
+    "SINGLE_Groups": "Skupina",
+    "Users": "Uporabniki",
+    "Name": "Ime skupine",
+    "Description": "Opis"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Izberi vsaj enega člana za skupino",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Skupina uspešno izbrisana"
   }
 }

@@ -7,8 +7,6 @@
     "LBL_SEARCH_VALUE_DESCRIPTION": "Ville, rue, bâtiment, numéro ...",
     "LBL_IN_RADIUS": "Rayon [km]",
     "LBL_CALCULATE_TRACK": "Définir la route",
-    "LBL_START": "Début",
-    "LBL_END": "Fin",
     "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Définir la route",
     "LBL_DISTANCE": "Distance [km]",
     "LBL_TRAVEL_TIME": "Temps [min]",

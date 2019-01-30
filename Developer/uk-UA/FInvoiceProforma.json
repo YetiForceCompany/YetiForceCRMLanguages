@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FInvoiceProforma": "Попередні рахунки",
+    "SINGLE_FInvoiceProforma": "Попередні рахунок",
+    "LBL_CUSTOM_INFORMATION": "Системна іформація",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адреса доставки",
+    "FL_SUBJECT": "Предмет",
+    "FL_PAYMENT_DATE": "Термін",
+    "FL_SALE_DATE": "Термін продажу",
+    "FL_ACCOUNT": "Контраент",
+    "FL_FORM_PAYMENT": "Метод оплати",
+    "FL_STATUS": "Статус",
+    "FL_NUMBER": "Рахунок №",
+    "FL_TOTAL": "Чистий",
+    "FL_GROSS": "Валовий",
+    "PLL_CASH": "Готівка",
+    "PLL_TRANSFER": "Банківський переказ",
+    "PLL_WIRE_TRANSFER": "Електронний переказ"
+  }
+}

@@ -34,7 +34,7 @@
     "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Webserver Anforderungen unter yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Die Server Konfiguration wurde nicht richtig eingestellt. Es kann Probleme mit dem System geben, oder die eingegebenen Daten können beschädigt oder gelöscht werden. Weitere Informationen finden Sie im Artikel %s. Erkannte Probleme:",
-    "LBL_PERFORMANCE": "Performance",
+    "LBL_PERFORMANCE": "Leistung",
     "LBL_PHPEXT": "PHP Extensions",
     "LBL_DATABASE": "Datenbasis",
     "LBL_STABILITY": "Stabilität",
@@ -49,9 +49,9 @@
     "LBL_CRON_DISABLED_DESC": "The schedule mechanism of cron tasks has not been activated thus not all system functionalities are available",
     "LBL_CRON_TASK_FAILED_DESC": "Not all cron tasks were completed successfully.",
     "LBL_HOW_TO_ENABLE_CRON": "How to enable cron",
-    "LBL_CRON_TASKS_LIST": "Cron task list",
-    "LBL_REGISTRATION": "Registration",
+    "LBL_CRON_TASKS_LIST": "Cron Tasks",
+    "LBL_REGISTRATION": "Registrierung",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
-    "LBL_COMPANY_DATA": "Go to company details"
+    "LBL_COMPANY_DATA": "Unternehmensangaben bearbeiten"
   }
 }

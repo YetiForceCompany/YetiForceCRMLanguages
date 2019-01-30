@@ -8,9 +8,9 @@
     "CRM Archive": "CRM Archiv",
     "CRM Archive Sent": "CRM Archiv Gesendet",
     "Drafts": "Entwurf",
-    "INBOX": "INBOX",
+    "INBOX": "POSTEINGANG",
     "Junk": "JUNK",
-    "Sent": "SENT",
+    "Sent": "Gesendet",
     "ERR_INCORRECT_ACCESS_DATA": "Fehlerhafter Datenzugriff",
     "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "Die unten aufgeführten Verzeichnisse werden nach dem Sichern gelöscht"
   },

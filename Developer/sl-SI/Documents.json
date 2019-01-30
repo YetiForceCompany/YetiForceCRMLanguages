@@ -14,7 +14,7 @@
     "LBL_ADD_NEW_FOLDER": "Ustvari novo mapo",
     "LBL_ADD_RECORD": "Dodaj dokument",
     "LBL_ADD_RELATION": "Dodaj dokument",
-    "LBL_SELECT_RELATION": "Izberite dokument",
+    "LBL_SELECT_RELATION": "Izberi dokument",
     "LBL_CHECK_FILE_INTEGRITY": "Preveri celovitost datoteke",
     "LBL_DENIED_DOCUMENTS": "Zavrnjeni dokumenti",
     "LBL_DESCRIPTION": "Opis",
@@ -46,7 +46,7 @@
     "Default": "Standard",
     "LBL_SELECT_Documents": "Izberi dokument",
     "LBL_RELATIONS": "Povezave",
-    "LBL_MASS_ADD": "Masovno dodajanje"
+    "LBL_MASS_ADD": "Množično dodajanje"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Datoteke premakni v naslednjo mapo",

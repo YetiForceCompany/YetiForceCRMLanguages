@@ -1,7 +1,7 @@
 {
   "php": {
     "MultiCompany": "Departmente",
-    "SINGLE_MultiCompany": "Department",
+    "SINGLE_MultiCompany": "Departament",
     "LBL_BASIC_INFORMATION": "Detalii companie",
     "LBL_CONTACT_INFORMATION": "Informatii contact",
     "LBL_REGISTRATION_INFORMATION": "Informatii inregistrare",
@@ -10,7 +10,7 @@
     "LBL_ADDITIONAL_INFORMATION": "Informatii aditionale",
     "FL_COMPANY_NAME": "Denumire companie",
     "FL_PARENT": "Departament principal",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Statut",
     "FL_EMAIL_1": "Email principal",
     "FL_EMAIL_2": "Email secundar",
     "FL_PHONE": "Telefon principal",
@@ -24,7 +24,7 @@
     "PLL_ACTIVE": "Activa",
     "PLL_INACTIVE": "Inactiva",
     "LBL_SHOW_HIERARCHY": "Ierarhie",
-    "FL_WEBSITE": "Website",
+    "FL_WEBSITE": "Site",
     "FL_LOGO": "Logo"
   }
 }

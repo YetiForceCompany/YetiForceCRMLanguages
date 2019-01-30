@@ -17,7 +17,7 @@
     "LBL_TRANSFER_CURRENCY": "Aktive Währung wechseln",
     "Active": "Aktiv",
     "Inactive": "Inaktiv",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "LBL_SET_AS_DEFAULT": "Als Standard festlegen"
   },
   "js": {
     "JS_CURRENCY_DELETED_SUCCESSFULLY": "Währung erfolgreich gelöscht",

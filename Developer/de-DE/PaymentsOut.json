@@ -23,7 +23,7 @@
     "Account": "Organisationsnr.",
     "Currency": "Währung",
     "Go to Payments": "Ausgangszahlungen",
-    "Create records": "Import",
+    "Create records": "Importieren",
     "LBL_ERROR_FILE": "Datei muss hinzugefügt werden.",
     "LBL_ERROR_TYPE": "Falsches Datenformat.",
     "MSG_SAVE_OK": "Zahlung angelegt.",

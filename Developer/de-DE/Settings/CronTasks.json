@@ -12,7 +12,7 @@
     "Frequency": "Frequenz",
     "Frequency(H:M)": "Frequenz(h:m)",
     "LBL_DURATION": "Dauer",
-    "Id": "Id",
+    "Id": "ID",
     "Last End": "Letzter Scan beendet",
     "Last Start": "Letzter Scan gestartet",
     "LBL_ACTIVE": "Aktiv",
@@ -64,8 +64,8 @@
     "LBL_BATCH_METHODS": "Methoden Hintergrundverarbeitung",
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Lösche temporäre Dateien",
     "LBL_SESSION_CLEANER": "Lösche inaktive Sitzungen",
-    "LBL_ARCHIVE_OLD_RECORDS": "Archive old records",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Download messages from social media"
+    "LBL_ARCHIVE_OLD_RECORDS": "Datensatz archivieren",
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Nachrichten von Social Media laden"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Die empfohlene Frequenz für den eingeplanten Import ist 15min",

@@ -10,14 +10,14 @@
     "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
     "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts and time limit for IP blocking.",
     "LBL_IP": "IP address",
-    "LBL_DATE": "Date",
+    "LBL_DATE": "Datum",
     "LBL_USERS": "Users",
     "LBL_BROWSERS": "Browsers",
     "LBL_UNBLOCK": "Unblock",
-    "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Uporabniki za obvestila",
     "LBL_BRUTEFORCE_ACTIVE": "Active",
     "LBL_VIEW_SHOW": "Brute Force",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications"
+    "LBL_SENT_NOTIFICATIONS": "Pošlji obvestila"
   },
   "js": {
     "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."

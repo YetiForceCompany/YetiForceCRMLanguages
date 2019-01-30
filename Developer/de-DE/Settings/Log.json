@@ -5,7 +5,7 @@
     "LBL_ACCESS_FOR_ADMIN": "Zugriff für Admin",
     "LBL_ACCESS_FOR_API": "Zugriff für API",
     "LBL_ACCESS_FOR_USER": "Zugriff für Benutzer",
-    "LBL_ACCESS_TO_RECORD": "Zugriff zu Datensatz",
+    "LBL_ACCESS_TO_RECORD": "Datenzugriff",
     "LBL_CSRF": "CSRF",
     "LBL_USERNAME": "Benutzername",
     "LBL_DATE": "Datum",

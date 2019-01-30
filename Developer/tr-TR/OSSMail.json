@@ -74,7 +74,10 @@
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Seçilen kayıtların sayısı",
     "LBL_MINIMIZE_BAR": "Çubuğu Küçült",
     "LBL_CREATEMAIL": "Eposta gönder",
-    "LBL_ADD_RELATION": "Add relation"
+    "LBL_ADD_RELATION": "Add relation",
+    "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
+    "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s"
   },
   "js": {
     "NoFindEmailInRecord": "Kaydın e-posta adresi yok",

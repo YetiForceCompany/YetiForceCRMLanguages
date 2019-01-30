@@ -1,6 +1,6 @@
 {
   "php": {
-    "FL_PROVIDER": "Provider",
+    "FL_PROVIDER": "Anbieter",
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Nachrichtentyp",
     "FL_API_KEY": "Api Schlüssel",
@@ -17,6 +17,6 @@
   "js": {
     "LBL_DELETE_CONFIRMATION": "Sind Sie sicher diese Konfiguration zu löschen?",
     "JS_RECORD_DELETED_SUCCESSFULLY": "Konfiguration erfolgreich gelöscht",
-    "JS_SAVE_SUCCESS": "Gesichert"
+    "JS_SAVE_SUCCESS": "Gespeichert"
   }
 }

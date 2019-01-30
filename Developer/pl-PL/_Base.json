@@ -1113,6 +1113,7 @@
     "LBL_XML_EXPORT_TPL": "Szablon",
     "LBL_CSV": "CSV",
     "LBL_XML": "XML",
+    "LBL_ICAL": "iCalendar",
     "LBL_HEADLINE": "Nagłówek",
     "LBL_BASIC_VERSE": "Wiersz podstawowy",
     "LBL_ADDITIONAL_VERSE": "Wiersz dodatkowy",
@@ -1308,7 +1309,9 @@
     "LBL_YETIFORCE_REGISTRATION": "Rejestracja systemu CRM",
     "LBL_YETIFORCE_NEWSLETTER": "Newsletter",
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "uzupełnij dane",
-    "LBL_YETIFORCE_NEWSLETTER_ERROR": "Nie wprowadzono adresu e-mail do danych firmy. Jeśli chcesz otrzymywać newsletter %s."
+    "LBL_YETIFORCE_NEWSLETTER_ERROR": "Nie wprowadzono adresu e-mail do danych firmy. Jeśli chcesz otrzymywać newsletter %s.",
+    "LBL_START": "Początek",
+    "LBL_END": "Koniec"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

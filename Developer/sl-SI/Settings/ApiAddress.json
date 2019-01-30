@@ -9,7 +9,7 @@
     "LBL_ENTER_KEY_APPLICATION": "Enter key application",
     "LBL_MIN_LOOKUP_LENGTH": "The minimum number of characters a user must type before a search is performed",
     "LBL_SAVE_NOTIFY_OK": "Shranjene spremembe.",
-    "LBL_CHOOSE_API": "Izberite API",
+    "LBL_CHOOSE_API": "Izberi API",
     "LBL_USE_GOOGLE_GEOCODER": "Uporaba Google geokodiranje",
     "google_map_api": "Geokodiranje Google",
     "opencage_data": "Use OpenCage Geocoder",

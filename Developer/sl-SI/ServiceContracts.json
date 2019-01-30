@@ -1,13 +1,13 @@
 {
   "php": {
-    "ServiceContracts": "Vzdrževalne pogodbe (SLA)",
-    "Service Contracts": "Vzdrževalne pogodbe (SLA)",
-    "SINGLE_ServiceContracts": "Vzdrževalna pogodba (SLA)",
-    "LBL_SERVICE_CONTRACT_INFORMATION": "Podrobnosti",
+    "ServiceContracts": "Vzdrževalna pogodba",
+    "Service Contracts": "Vzdrževalna pogodba",
+    "SINGLE_ServiceContracts": "Vzdrževalna pogodba",
+    "LBL_SERVICE_CONTRACT_INFORMATION": "Podrobnosti vzdrževalne pogodbe",
     "Contract No": "Številka vzdrževalne pogodbe",
     "Start Date": "Velja od",
     "End Date": "Do dne",
-    "Tracking Unit": "Sledenje - enota",
+    "Tracking Unit": "Enota sledenja v",
     "Total Units": "Skupaj enot",
     "Used Units": "Uporabljena enota",
     "Progress": "Napredek",
@@ -30,7 +30,7 @@
     "Archived": "Arhivirano",
     "LBL_SUMMARY": "Skupaj porabljen čas",
     "Due date": "Velja do",
-    "Related to": "Povezava na",
+    "Related to": "V povezavi",
     "LBL_ACTIVE_SERVICE_CONTRACTS": "Aktivne vzdrževalne pogodbe"
   }
 }

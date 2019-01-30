@@ -14,7 +14,7 @@
     "LBL_NOTIFICATION": "Obvestila v klepetu",
     "LBL_SOUND_OFF": "Zvok izklopi",
     "LBL_SOUND_ON": "Zvok vklopi",
-    "LBL_HISTORY_CHAT": "Zgodovina klepetov",
+    "LBL_HISTORY_CHAT": "Zgodovina klepetalnice",
     "LBL_MORE": "več",
     "LBL_HIDE": "skrij",
     "LBL_NO_MESSAGES": "Ni sporočil",
@@ -24,7 +24,7 @@
     "LBL_ROOM_DESCRIPTION_CRM": "Seznam klepetalnic označenih kot priljubljene",
     "LBL_ROOM_DESCRIPTION_GROUP": "Seznam klepetalnic s skupinami uporabnikov",
     "LBL_ROOM_DESCRIPTION_GLOBAL": "Seznam klepetalnic viden za vse uporabnike",
-    "LBL_CHAT_USER_SWITCHED": "Klepetalnica ni aktivna, če se preklopili na drugega uporabnika.",
+    "LBL_CHAT_USER_SWITCHED": "Klepetalnica ni aktivna, če ste preklopili na drugega uporabnika.",
     "LBL_CHAT_NEW_MESSAGE": "Novo sporočilo"
   }
 }

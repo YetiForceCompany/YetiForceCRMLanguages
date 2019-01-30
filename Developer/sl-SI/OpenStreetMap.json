@@ -1,22 +1,20 @@
 {
   "php": {
     "OpenStreetMap": "OpenStreetMap",
-    "LBL_GROUP_BY": "Group",
-    "LBL_GROUP_NEIGHBOURS": "Group neighboring elements",
-    "LBL_NOT_FOUND_PLACE": "Place not found",
-    "LBL_SEARCH_VALUE_DESCRIPTION": "City, street, building number...",
-    "LBL_IN_RADIUS": "Within radius [km]",
-    "LBL_CALCULATE_TRACK": "Set route",
-    "LBL_START": "Start",
-    "LBL_END": "End",
-    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Set route",
-    "LBL_DISTANCE": "Distance [km]",
-    "LBL_TRAVEL_TIME": "Time [min]",
-    "LBL_INSTRUCTION": "Manual",
-    "LBL_SEARCH_IN_RADIUS": "Search in radius",
-    "LBL_COPY_TO_CLIPBOARD": "Copy to clipboard",
-    "LBL_CLIPBOARD": "Clipboard",
-    "LBL_INDIRECT_POINT": "Indirect point",
-    "ERR_ADDRESS_NOT_FOUND": "Address not found"
+    "LBL_GROUP_BY": "Skupina",
+    "LBL_GROUP_NEIGHBOURS": "Skupine sosednjih elementov",
+    "LBL_NOT_FOUND_PLACE": "Mesto ni bilo mogoče najti",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "Mesto, ulica, hišna številka...",
+    "LBL_IN_RADIUS": "V radiju [km]",
+    "LBL_CALCULATE_TRACK": "Nastavi pot",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Nastavi pot",
+    "LBL_DISTANCE": "Razdalja [km]",
+    "LBL_TRAVEL_TIME": "Čas [min]",
+    "LBL_INSTRUCTION": "Ročno",
+    "LBL_SEARCH_IN_RADIUS": "Iskanje v radijusu",
+    "LBL_COPY_TO_CLIPBOARD": "Kopiraj v odložišče",
+    "LBL_CLIPBOARD": "Odložišče",
+    "LBL_INDIRECT_POINT": "Posredna točka",
+    "ERR_ADDRESS_NOT_FOUND": "Naslov ni bil najden"
   }
 }

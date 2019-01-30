@@ -1,7 +1,7 @@
 {
   "php": {
     "Calendar": "Calendar",
-    "LBL_ACTIVITY_TYPES": "Tip aktivnosti",
+    "LBL_ACTIVITY_TYPES": "Vrsta aktivnosti",
     "LBL_ACTIVITY_TYPES_DESCRIPTION": "Management of activity types.",
     "LBL_ACTIVITY_NAME": "Activity types name",
     "LBL_MODULE": "Module",
@@ -9,7 +9,7 @@
     "LBL_TOOLS": "Tools",
     "LBL_ACTIVE": "Active",
     "LBL_SAVE_ACTIVE_TYPE": "Saved change",
-    "LBL_UPDATE_COLOR": "Change Color",
+    "LBL_UPDATE_COLOR": "Spremeni barvo",
     "LBL_EDIT_COLOR": "Uredi barvo",
     "LBL_SELECT_COLOR": "Select color:",
     "LBL_SAVE_COLOR": "Color saved",
@@ -17,7 +17,7 @@
     "LBL_CALENDAR_CONFIG_DESCRIPTION": " ",
     "LBL_USER_COLORS": "User colors",
     "PLL_BREAK_TIME": "Break from work",
-    "PLL_HOLIDAY_TIME": "Holiday",
+    "PLL_HOLIDAY_TIME": "Praznik",
     "LBL_SAVE_CHANGES": "Saved changes",
     "LBL_UPDATE_EVENT": "Update event in the Calendar when rescheduled.",
     "LBL_GENERATE_COLOR": "Generate random color",

@@ -32,8 +32,8 @@
     "LBL_MARK_AS_READ": "Als gelesen markieren",
     "LBL_NO_NOTIFICATIONS": "Keine Benachrichtigungen",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Cron Startfrequenz",
-    "LBL_MODULES": "Modules",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications",
+    "LBL_MODULES": "Module",
+    "LBL_SENT_NOTIFICATIONS": "Benachrichtigung senden",
     "LBL_NOTIFICATION_SETTINGS": "Einstellungen",
     "LBL_UNREAD": "Ungelesen",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Keine ungelesenen Benachrichtigungen"

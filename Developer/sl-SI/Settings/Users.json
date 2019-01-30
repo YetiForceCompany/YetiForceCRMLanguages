@@ -2,8 +2,8 @@
   "php": {
     "Users": "Uporabnik",
     "USER_MAIL_EXIST": "User with this e-mail address exists",
-    "LBL_PRIORITY": "Priority",
-    "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
+    "LBL_PRIORITY": "Proiriteta",
+    "LBL_LDAP_RECOMMENDED_INFO": "Ne priporočamo, da izberete uporabnike z administratorskimi pravicami za avtorizacijo LDAP. V primeru težav z avtorizacijo mora obstajati uporabnik, ki se lahko prijavi brez LDAP integracije.",
     "LBL_AUTHORIZATION": "LDAP",
     "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",

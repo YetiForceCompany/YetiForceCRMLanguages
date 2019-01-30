@@ -5,7 +5,7 @@
     "LBL_CURRENCY_UPDATE_DESCRIPTION": "Systemeinstellungen um Wechselkurse zu definieren.",
     "LBL_SELECT_BANK": "Bank wählen",
     "MSG_ONE_CURRENCY": "Es ist nur eine Hauptwährung gesetzt. Um weitere Währungsraten zu verwenden, müssen diese Währungen in den CRM Einstellungen hinzugefügt werden.",
-    "MSG_NO_NET_CONN": "No Internet connection, currency information was not downloaded.",
+    "MSG_NO_NET_CONN": "Keine Internet-Verbindung, Währungsinformationen wurde nicht heruntergeladen.",
     "LBL_HISTORY": "Historie zu den Wechselraten",
     "LBL_BANK": "Bank wählen, welche Informationen zu den Wechselraten liefert",
     "LBL_CAL_DATE": "Kursdatum",
@@ -24,9 +24,9 @@
     "LBL_SET_BANK_ERROR": "Bank konnte nicht Aktiv gesetzt werden.",
     "LBL_INFORMATIONS": "Informationen",
     "LBL_WARNING": "Warnung!",
-    "NBP": "National Bank of Poland",
-    "ECB": "European Central Bank",
-    "CBR": "Central Bank of Russia",
+    "NBP": "Der polnischen Nationalbank",
+    "ECB": "Europäische Zentralbank",
+    "CBR": "Zentralbank der Russischen Föderation",
     "NBR": "Narodowy Bank Rumunii"
   }
 }

@@ -7,8 +7,6 @@
     "LBL_SEARCH_VALUE_DESCRIPTION": "Ciudad, calle, número de edificio...",
     "LBL_IN_RADIUS": "Dentro del radio [km]",
     "LBL_CALCULATE_TRACK": "Establecer ruta",
-    "LBL_START": "Comienzo",
-    "LBL_END": "Final",
     "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Establecer ruta",
     "LBL_DISTANCE": "Distancia [km]",
     "LBL_TRAVEL_TIME": "Tiempo [min]",

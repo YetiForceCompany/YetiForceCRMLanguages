@@ -8,7 +8,7 @@
     "LBL_EDIT_PRIVILIGE": "Ändern",
     "LBL_DELETE_PRIVILIGE": "Löschen",
     "LBL_PROFILES": "Profil:",
-    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Module\/action excluded from verification of permissions",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Modul\/Aktion ausgeschlossen von der Überprüfung von Berechtigungen",
     "SEC_USER_IS_ADMIN": "Benutzer ist Administrator",
     "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Berechtigung zum Modul, Benutzer hat Zugriff auf die Inhalte des Moduls",
     "SEC_MODULE_VIEW_ALL_PERMISSION": "Globale Berechtigung um Daten anzuzeigen",

@@ -22,7 +22,7 @@
     "LBL_SUBSCRIBERID": "Nummer Teilnehmer",
     "LBL_DESTINATION": "Wohin wurde telefoniert",
     "LBL_SOURCE": "Quelle des Anrufes",
-    "Record Id": "Record Id",
+    "Record Id": "Datensatz Id",
     "Outgoing missed": "Ausgehend nicht erreicht",
     "Outgoing received": "Ausgehend erreicht",
     "Incoming": "Eingehend erreicht",

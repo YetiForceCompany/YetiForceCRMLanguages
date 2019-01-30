@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "Baza znanja",
     "SINGLE_KnowledgeBase": "Baza znanja",
-    "LBL_CUSTOM_INFORMATION": "Podatki o stranki",
+    "LBL_CUSTOM_INFORMATION": "Informacije po meri",
     "FL_SUBJECT": "Zadeva",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Osnovni podatki",
     "FL_CONTENT": "Vsebina",
@@ -17,7 +17,7 @@
     "FL_STATUS": "Status",
     "LBL_RECORD_PREVIEW": "Predogled",
     "PLL_DRAFT": "Osnutek",
-    "PLL_IN_REALIZATION": "V obdelavi",
+    "PLL_IN_REALIZATION": "V realizaciji",
     "PLL_OBJECTIONS": "Pripombe",
     "PLL_FOR_APPROVAL": "V potrjevanju",
     "PLL_CANCELLED": "Prekinjeno",

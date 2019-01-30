@@ -1,15 +1,15 @@
 {
   "php": {
-    "Updates": "Updates",
+    "Updates": "Posodobitve",
     "LBL_YES": "Yes",
     "LBL_NO": "No",
-    "LBL_TIME": "Date",
+    "LBL_TIME": "Datum",
     "LBL_USER": "Username",
     "LBL_FROM_VERSION": "From version",
     "LBL_TO_VERSION": "To version",
     "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
+    "LBL_UPDATES": "Posodobitve",
+    "LBL_UPDATES_DESCRIPTION": "Zgodovina posodobitev",
     "LBL_IMPORT_UPDATE": "Upload update",
     "LBL_NAME_PACKAGES": "Name"
   }

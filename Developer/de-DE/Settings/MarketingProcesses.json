@@ -4,7 +4,7 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Zuständigkeit übertragen",
     "LBL_CONVERSION_TO_ACCOUNT_INFO": "Ist diese Option gewählt, so wird dem Benutzer die Zuständigkeit für die Organisation übertragen, der diese aus einem Lead erzeugt",
     "LBL_LEADS": "Leads",
-    "LBL_INFO": "Information",
+    "LBL_INFO": "Informationen",
     "LBL_VALUES": "Werte",
     "LBL_GROUPS_INFO": "Gruppen ohne Zuständigkeit",
     "LBL_LEAD_STATUS": "Status welche die Leadbearbeitung beenden",

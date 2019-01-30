@@ -16,7 +16,7 @@
     "FL_ACCOUNT": "Cont",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Brut",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Statut",
     "FL_PAYMENT_STATUS": "Status plata",
     "FL_INVOICE_TYPE": "Tip factura",
     "FL_CATEGORY": "Categorie",
@@ -38,6 +38,6 @@
     "PLL_CANCELLED": "Anulata",
     "PLL_ACCEPTED": "Acceptata",
     "LBL_YEAR": "An",
-    "FL_ISSUE_TIME": "Invoice date"
+    "FL_ISSUE_TIME": "Data facturii"
   }
 }

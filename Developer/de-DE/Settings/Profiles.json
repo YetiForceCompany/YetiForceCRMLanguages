@@ -29,7 +29,7 @@
     "Profiles": "Profile",
     "SINGLE_Profiles": "Profil",
     "Name": "Name",
-    "LBL_VIEW_PRVILIGE": "View",
+    "LBL_VIEW_PRVILIGE": "Anzeigen",
     "LBL_CREATE_PRIVILIGE": "Erstellen",
     "LBL_EDIT_PRIVILIGE": "Bearbeiten",
     "LBL_DELETE_PRIVILIGE": "Löschen",
@@ -89,7 +89,7 @@
     "ActivityPostponed": "Datensätze verschieben",
     "Emails": "E-Mails senden [SMTP]",
     "ModTracker": "Historie ändern",
-    "AssignToYourself": "Assign to me",
+    "AssignToYourself": "Mir Zuordnen",
     "AutoAssignRecord": "Automatic transfer of records"
   },
   "js": {
