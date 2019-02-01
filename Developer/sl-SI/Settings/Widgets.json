@@ -14,7 +14,7 @@
     "EmailList": "List of emails",
     "RelatedModule": "Related module",
     "WYSIWYG": "WYSIWYG",
-    "PreviewMail": "Preview mail",
+    "PreviewMail": "Predogled e-pošte",
     "FastEdit": "Edit selection list",
     "Related module": "Related module",
     "Size": "Column",
@@ -56,8 +56,8 @@
     "LBL_SHOW_ALL_RECORDS_INFO": "Ne - Dovoljenja se upoštevajo\n  Da - Iskanje zapisov brez dovoljenj",
     "LBL_SHITCH_HEADER": "Switch in header",
     "LBL_SHITCH_HEADER_INFO": "Switch can be found in the widget's header.",
-    "HistoryRelation": "Timeline",
-    "CountRecords": "Number of records",
+    "HistoryRelation": "Časovnica",
+    "CountRecords": "Število zapisov",
     "LBL_LIST_WITH_SUMMARY": "Seznam z povzetkom"
   },
   "js": {

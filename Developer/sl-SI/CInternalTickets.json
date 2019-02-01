@@ -1,7 +1,7 @@
 {
   "php": {
-    "CInternalTickets": "Interne karte",
-    "SINGLE_CInternalTickets": "Interna karta",
+    "CInternalTickets": "Interna reklamacija",
+    "SINGLE_CInternalTickets": "Interna reklamacija",
     "LBL_ADDITIONAL_INFORMATION": "Dodatni podatki",
     "LBL_BASIC_INFORMATION": "Osnovni podatki",
     "LBL_TICKET_RESOLUTION": "Rešitev",

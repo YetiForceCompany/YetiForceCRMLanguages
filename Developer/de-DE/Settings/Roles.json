@@ -14,7 +14,7 @@
     "LBL_DUPLICATES_EXIST": "Rolle existiert bereits",
     "LBL_NAME": "Name",
     "LBL_PRIVILEGES": "Rechte",
-    "LBL_PROFILE": "Profile",
+    "LBL_PROFILE": "Profil",
     "LBL_REPORTS_TO": "Berichtet an",
     "LBL_TO_OTHER_ROLE": "Zu anderer Rolle",
     "LBL_TRANSFER_OWNERSHIP": "Benutzer wechseln",
@@ -46,9 +46,9 @@
     "LBL_BLOCK_PASTE": "Block einfügen",
     "LBL_AUTO_ASSIGN_RECORDS": "Automatische Zuordnung",
     "LBL_UPLOAD_LOGO": "Logo Hochladen",
-    "LBL_UPLOAD_ERROR": "Error during upload",
+    "LBL_UPLOAD_ERROR": "Fehler beim Hochladen",
     "LBL_UPLOAD_SUCCESS": "Erfolgreich hochgeladen",
-    "LBL_MULTI_COMPANY": "Organizational structure"
+    "LBL_MULTI_COMPANY": "Organisationsstruktur"
   },
   "js": {
     "JS_NO_PERMISSIONS_TO_MOVE": "keine Berechtigungen zum verschieben",

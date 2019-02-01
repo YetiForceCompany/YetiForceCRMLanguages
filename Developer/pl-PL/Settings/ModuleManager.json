@@ -41,7 +41,7 @@
     "LBL_VERSION_NOT_SUPPORTED": "Wersja modułu nie jest kompatybilna z wersją systemu YetiForce.",
     "LBL_VERSION": "Wersja",
     "LBL_IMPORT_MODULE_FROM_FILE": "Importuj pakiet z pliku",
-    "LBL_DELETE_EXIST_DIRECTORY": "Instalacja niemożliwa ponieważ istnieje katalog o nazwie modułu, aby kontynuować prosimy usunąć katalog o nazwie instalowanego modułu.",
+    "LBL_DELETE_EXIST_DIRECTORY": "Katalog modułu już istnieje, aby kontynuować import należy usunąć katalog z nazwą modułu.",
     "LBL_ERROR_VERSION": "Błędna wersja modułu, wersja modułu __MODULEVERSION__ a powinna być większa niż __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "Moduł nie zawiera domyślnego języka systemu (__DEFAULTLANGUAGE__).",
     "LBL_ERROR_MISSING_FILES": "Nie znaleziono plików w pakiecie",

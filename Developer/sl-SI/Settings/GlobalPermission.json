@@ -6,7 +6,7 @@
     "LBL_PROFILE_NAME": "Ime profila",
     "LBL_DESCRIPTION": "Profil opis",
     "LBL_VIEW_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Browsing",
-    "LBL_VIEW_ALL": "Enable preview of all records",
+    "LBL_VIEW_ALL": "Omogoči predogled vseh zapisov",
     "LBL_EDIT_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Create\/Edit.",
     "LBL_EDIT_ALL": "Enable editing of all records",
     "LBL_SAVE_OK": "Saved change"

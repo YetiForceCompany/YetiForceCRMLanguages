@@ -132,7 +132,7 @@
     "LBL_PHONE": "TELEFON",
     "LBL_EDIT_EVENT": "Edytuj termin",
     "LBL_USER_NAME": "Nazwa użytkownika",
-    "LBL_AUTO_FILL_DESCRIPTION": "Wypełnienie daty rozpoczęcia na podstawie pierwszego wolnego terminu",
+    "LBL_AUTO_FILL_DESCRIPTION": "Kliknięcie na przycisk powoduje wypełnienie daty rozpoczęcia na podstawie pierwszego wolnego terminu dostępnego dla aktualnego użytkownika.",
     "LBL_CACHE_SELECTED_FILTERS": "Zmieniłeś standardowy widok w kalendarzu, aby go wyczyścić wciśnij przycisk \"Wyczyść widok\".",
     "LBL_CACHE_CLEAR": "Wyczyść widok",
     "LBL_PROCESS": "Proces",

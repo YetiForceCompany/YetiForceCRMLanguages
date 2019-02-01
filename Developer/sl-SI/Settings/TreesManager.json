@@ -1,15 +1,15 @@
 {
   "php": {
     "LBL_ADD_RECORD": "Add",
-    "TreesManager": "Tree manager",
-    "LBL_TREES_MANAGER": "Fields – Folders",
-    "LBL_TREES_MANAGER_DESCRIPTION": "Tree template manager",
+    "TreesManager": "Upravitelj drevesne strukture",
+    "LBL_TREES_MANAGER": "Upravitelj polj drevesne strukture",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Upravitelj predlog drevesne strukture",
     "LBL_NO_RECORDS_FOUND": "Ni najdeno predlogov drevesne strukture",
-    "LBL_EDIT_TEMPLATE_TREES": "Edit tree template",
-    "LBL_CREATING_TEMPLATE_TREES": "Create tree template",
+    "LBL_EDIT_TEMPLATE_TREES": "Uredi predlogo drevesne strukture",
+    "LBL_CREATING_TEMPLATE_TREES": "Ustvari predlogo drevesne strukture",
     "LBL_NAME": "Template name",
     "LBL_MODULE": "Module",
-    "LBL_ADD_ITEM_TREE": "Add new item",
+    "LBL_ADD_ITEM_TREE": "Dodaj nov predmet",
     "LBL_ADD_TO_TREES": "Add",
     "LBL_SAVE": "Save",
     "LBL_SELECT_REPLACE_TREE_ITEM": "Change tree item to:",
@@ -18,7 +18,7 @@
     "LBL_SHARE_WITH": "Share with"
   },
   "js": {
-    "JS_TREE_DELETED_SUCCESSFULLY": "Tree template deleted successfully",
+    "JS_TREE_DELETED_SUCCESSFULLY": "Predloga drevesne strukture uspešno izbrisana",
     "JS_JSTREE_CREATE": "Add",
     "JS_JSTREE_RENAME": "Change name",
     "JS_JSTREE_REMOVE": "Delete",

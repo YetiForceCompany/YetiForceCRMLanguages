@@ -1,7 +1,7 @@
 {
   "php": {
-    "ISTN": "Promet od prodje v skladišču",
-    "SINGLE_ISTN": "Promet od prodje v skladišču",
+    "ISTN": "Pojasnila pri prodaji zalog",
+    "SINGLE_ISTN": "Pojasnila pri prodaji zalog",
     "LBL_DESCRIPTION_BLOCK": "Opis",
     "LBL_ATTENTION_BLOCK": "Opombe",
     "FL_ESTIMATED_DATE": "Predviden datum",

@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_COUNTRY_NAME": "Naziv države",
+    "LBL_COUNTRY_NAME": "Ime države",
     "LBL_COUNTRY_SHORTNAME": "Šifra države",
     "LBL_COUNTRY_TOGGLE_STATUS": "Ali naj bo država v celotnem sistemu na voljo?",
     "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Omogočite ali onemogočite vse države",

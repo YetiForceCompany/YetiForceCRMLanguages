@@ -90,7 +90,7 @@
     "Emails": "E-Mails senden [SMTP]",
     "ModTracker": "Historie ändern",
     "AssignToYourself": "Mir Zuordnen",
-    "AutoAssignRecord": "Automatic transfer of records"
+    "AutoAssignRecord": "Automatische Übertragung von Datensätzen"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil erfolgreich gelöscht"

@@ -22,7 +22,7 @@
     "LBL_ITEM_TO_RENAME": "Eintrag zum umbenennen",
     "LBL_ITEM_VALUE": "Eintrag Wert",
     "LBL_NON_EDITABLE_PICKLIST_VALUES": "Nicht Editierbare Werte",
-    "LBL_NON_EDITABLE_PICKLIST_VALUE": "Value is non-editable",
+    "LBL_NON_EDITABLE_PICKLIST_VALUE": "Wert kann nicht bearbeitet werden",
     "LBL_RENAME_VALUE": "Wert umbennen",
     "LBL_REPLACE_IT_WITH": "Ersetzen durch",
     "LBL_ROLE_NAME": "Rollenname",
@@ -36,7 +36,7 @@
     "NO_PICKLIST_FIELDS": "hat keine Auswahllisten-Felder",
     "LBL_NEW_VALUE": "Neuer Wert",
     "LBL_CLOSES_RECORD": "Datensatz schließen",
-    "LBL_PREFIX": "Prefix"
+    "LBL_PREFIX": "Präfix"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Alle Rollen gewählt",

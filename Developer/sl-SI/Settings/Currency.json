@@ -15,8 +15,8 @@
     "LBL_EDIT_CURRENCY": "Edit currency",
     "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
     "LBL_TRANSFER_CURRENCY": "Transfer currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
+    "Active": "Aktiven",
+    "Inactive": "Neaktiven",
     "LBL_SET_AS_DEFAULT": "Set as default"
   },
   "js": {

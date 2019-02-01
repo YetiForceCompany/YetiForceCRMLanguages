@@ -71,10 +71,10 @@
     "LBL_ADD_SERVICES": "Dodaj storitev",
     "LBL_SEND_MASS_EMAIL": "Pošljite množično e-pošto",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Število najdenih naslovov e-pošte",
-    "LBL_NUMBER_OF_SELECTED_RECORDS": "Number of selected records",
+    "LBL_NUMBER_OF_SELECTED_RECORDS": "Število izbranih zapisov",
     "LBL_MINIMIZE_BAR": "Minimize bar",
     "LBL_CREATEMAIL": "Send email",
-    "LBL_ADD_RELATION": "Add relation",
+    "LBL_ADD_RELATION": "Dodaj razmerje",
     "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s"

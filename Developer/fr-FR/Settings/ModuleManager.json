@@ -41,7 +41,7 @@
     "LBL_VERSION_NOT_SUPPORTED": "La version du module version n'est pas compatible avec la version YetiForce",
     "LBL_VERSION": "Version",
     "LBL_IMPORT_MODULE_FROM_FILE": "Importer lot depuis fichier",
-    "LBL_DELETE_EXIST_DIRECTORY": "Merci de supprimer le dossier existant pour le module afin de pouvoir procéder à l'import",
+    "LBL_DELETE_EXIST_DIRECTORY": "Module directory already exists. In order to continue the import, delete the directory with a module name.",
     "LBL_ERROR_VERSION": "Mauvaise version du module, module version __MODULEVERSION__ mais la version devrait être supérieure à __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "Module ne contient pas la langue par défaut (__DEFAULTLANGUAGE__).",
     "LBL_ERROR_MISSING_FILES": "No files found in the package",

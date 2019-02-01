@@ -17,7 +17,7 @@
     "FL_TOTAL": "Neto",
     "FL_GROSS": "Bruto",
     "FL_STATUS": "Status",
-    "FL_PAYMENT_STATUS": "Stanje plačila",
+    "FL_PAYMENT_STATUS": "Status plačila",
     "FL_INVOICE_TYPE": "Vrsta računa",
     "FL_CATEGORY": "Kategorija",
     "PLL_CASH": "Gotovina",

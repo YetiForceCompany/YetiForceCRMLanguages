@@ -1311,11 +1311,11 @@
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "Fill in the required information",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "No e-mail address was added to company details. If you want to receive newsletter %s.",
     "LBL_START": "Start",
-    "LBL_END": "End"
+    "LBL_END": "Ende"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",
-    "JS_ADD_RECORD": "The record has been added.",
+    "JS_ADD_RECORD": "Der Datensatz wurde hinzugefügt.",
     "JS_ADD_TO_FAVORITES": "Zu Favoriten hinzufügen.",
     "JS_REMOVE_TO_FAVORITES": "Aus Favoriten löschen.",
     "JS_SUMMARY": "Summe",
@@ -1596,7 +1596,7 @@
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domain wurde gesperrt. Bitte geben Sie eine andere an.",
     "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Sind Sie sicher, dass Sie die verknüpften E-Mails nochmal zurücksetzen möchten?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Sind Sie sicher, dass Sie die Änderungen in den selektierten Datensätze anschauen möchten?",
-    "JS_LBL_REVIEW_CHANGES": "Review changes",
+    "JS_LBL_REVIEW_CHANGES": "Änderungen überprüfen",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "is the base currency and cannot be disabled",
     "JS_MARKED_AS_READ": "Als gelesen markieren",
     "JS_FILE_EXCEEDS_MAX_UPLOAD_SIZE": "Mindestens eine angehängte Datei ist zu groß",
@@ -1642,6 +1642,6 @@
     "JS_NO_DESKTOP_PERMISSION": "Failed to obtain consent for notifications, please check your browser settings.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Gesicherte Adressdaten",
     "JS_UNEXPECTED_ERROR": "Unexpected error occurred",
-    "JS_NOT_ALLOWED_VALUE": "Entered invalid value"
+    "JS_NOT_ALLOWED_VALUE": "Ungültigen Wert eingegeben"
   }
 }

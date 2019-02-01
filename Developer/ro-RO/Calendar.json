@@ -132,7 +132,7 @@
     "LBL_PHONE": "PHONE",
     "LBL_EDIT_EVENT": "Edit event",
     "LBL_USER_NAME": "User name",
-    "LBL_AUTO_FILL_DESCRIPTION": "Completati data de incepere pe baza primei date disponibile",
+    "LBL_AUTO_FILL_DESCRIPTION": "Clicking this button will result in filling the start date based on the earliest available date for the current user.",
     "LBL_CACHE_SELECTED_FILTERS": "Vizualizarea standard in Calendar a fost modificata. Click \"Sterge vizualizare\" pentru a o sterge.",
     "LBL_CACHE_CLEAR": "Curata vizualizare",
     "LBL_PROCESS": "Proces",

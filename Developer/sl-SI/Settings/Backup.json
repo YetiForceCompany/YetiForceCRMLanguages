@@ -6,7 +6,7 @@
     "LBL_FILE_NAME": "File name",
     "LBL_FILE_SIZE": "File size",
     "LBL_FILE_DATE": "Spremenjen datum",
-    "LBL_BACKUP_LIST": "Backup list",
+    "LBL_BACKUP_LIST": "Seznam varnostnih kopij",
     "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
     "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it."
   },

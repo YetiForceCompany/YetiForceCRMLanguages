@@ -8,7 +8,7 @@
     "LBL_PAYMENTSTITLE": "Oznaka izplačila",
     "LBL_PAYMENTSNO": "Številka",
     "LBL_BANK_ACCOUNT": "Transakcijski račun",
-    "LBL_PAYMENTSSTATUS": "Stanje",
+    "LBL_PAYMENTSSTATUS": "Status",
     "LBL_PAYMENTS_IMPORT": "Uvoz izplačil",
     "LBL_RELATEDID": "Komitent",
     "LBL_SALESID": "Račun \/ Naročilo",

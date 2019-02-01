@@ -41,7 +41,7 @@
     "LBL_VERSION_NOT_SUPPORTED": "Версия модуля не совместима с данной версией системы",
     "LBL_VERSION": "Версия",
     "LBL_IMPORT_MODULE_FROM_FILE": "Загрузить Модуль из файла",
-    "LBL_DELETE_EXIST_DIRECTORY": "Пожалуйста, удалите существующую папку модуля для продолжения установки.",
+    "LBL_DELETE_EXIST_DIRECTORY": "Module directory already exists. In order to continue the import, delete the directory with a module name.",
     "LBL_ERROR_VERSION": "Некорректная версия модуля.Версия модуля: __MODULEVERSION__ - Версия системы: __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "Модуль не содержит языковые файлы установленного по умолчанию языка системы. Язык системы (__DEFAULTLANGUAGE__).",
     "LBL_ERROR_MISSING_FILES": "No files found in the package",

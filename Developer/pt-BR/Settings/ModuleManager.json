@@ -41,7 +41,7 @@
     "LBL_VERSION_NOT_SUPPORTED": "A versão do Módulo não é compatível com a versão do vtiger",
     "LBL_VERSION": "Versão",
     "LBL_IMPORT_MODULE_FROM_FILE": "Importar Pacote a partir do Arquivo",
-    "LBL_DELETE_EXIST_DIRECTORY": "Por favor, apague o diretório do módulo existente para seguir com a importação do módulo",
+    "LBL_DELETE_EXIST_DIRECTORY": "Module directory already exists. In order to continue the import, delete the directory with a module name.",
     "LBL_ERROR_VERSION": "Versão do módulo incorreta, versão __MODULEVERSION__, contudo, deveria ser maior que __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "O módulo não possui o idioma padrão (__DEFAULTLANGUAGE__).",
     "LBL_ERROR_MISSING_FILES": "No files found in the package",
