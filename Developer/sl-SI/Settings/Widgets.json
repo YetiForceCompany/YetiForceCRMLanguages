@@ -1,6 +1,6 @@
 {
   "php": {
-    "Widgets": "Modules – Widgets",
+    "Widgets": "Moduli-pripomočki",
     "LBL_MODULE_DESC": "Module managing widgets in summary",
     "Add widget": "Add Widget",
     "Type widget": "Type",
@@ -29,7 +29,7 @@
     "Edit widget": "Edit widget",
     "Remove": "Remove",
     "Removed widget": "Widget was removed",
-    "List of widgets for the module": "List of widgets for module",
+    "List of widgets for the module": "Seznam pripomočkov za modul",
     "Update has been completed": "Uspešno posodobljeno",
     "Size info": "Size of widget in records summary, 12 - maximum size, 1 minimal",
     "Limit entries info": "Number of columns displayed in records list view. Columns are counted from the first displayed column in related module.",

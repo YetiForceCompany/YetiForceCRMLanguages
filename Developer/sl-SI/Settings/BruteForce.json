@@ -1,25 +1,25 @@
 {
   "php": {
     "BruteForce": "Brute Force",
-    "LBL_NUMBER_OF_ATTEMPTS": "Number of attemps",
-    "LBL_TIME_LOCK": "Time lock (minutes)",
-    "LBL_SETTINGS": "Settings",
-    "LBL_BLOCKED_IP": "Blocked IP address",
-    "LBL_SAVE_SUCCESS": "Changes have been saved",
-    "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
-    "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
-    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts and time limit for IP blocking.",
-    "LBL_IP": "IP address",
+    "LBL_NUMBER_OF_ATTEMPTS": "Število poskusov",
+    "LBL_TIME_LOCK": "Zaklepanje časa (minut)",
+    "LBL_SETTINGS": "Nastavitve",
+    "LBL_BLOCKED_IP": "Blokiran IP naslov",
+    "LBL_SAVE_SUCCESS": "Spremembe so bile shranjene",
+    "LBL_UNBLOCK_FAIL": "IP naslov še ni bil deblokiran",
+    "LBL_UNBLOCK_SUCCESS": "IP naslov je bil deblokiran",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Nastavi največje število neuspelih prijav in rok za IP blokiranje.",
+    "LBL_IP": "IP naslov",
     "LBL_DATE": "Datum",
-    "LBL_USERS": "Users",
-    "LBL_BROWSERS": "Browsers",
-    "LBL_UNBLOCK": "Unblock",
+    "LBL_USERS": "Uporabniki",
+    "LBL_BROWSERS": "Brskalniki",
+    "LBL_UNBLOCK": "Odblokiraj",
     "LBL_USERS_FOR_NOTIFICATIONS": "Uporabniki za obvestila",
     "LBL_BRUTEFORCE_ACTIVE": "Aktiven",
     "LBL_VIEW_SHOW": "Brute Force",
     "LBL_SENT_NOTIFICATIONS": "Pošlji obvestila"
   },
   "js": {
-    "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."
+    "JS_COULD_NOT_FINNISH_REACTION": "Napaka. Shranjevanje ni uspelo."
   }
 }

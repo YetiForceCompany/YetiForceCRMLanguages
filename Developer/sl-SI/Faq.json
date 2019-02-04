@@ -7,12 +7,12 @@
     "Faq No": "FAQ št.",
     "General": "Splošno",
     "LBL_COMMENT_INFORMATION": "Komentar",
-    "LBL_FAQ_INFORMATION": "FAQ podatki",
-    "LBL_RECORDS_LIST": "Pregled FAQ",
+    "LBL_FAQ_INFORMATION": "Pogosta vprašanja podatki",
+    "LBL_RECORDS_LIST": "Pregled pogostih vprašanj",
     "LBL_SOLUTION": "Rešitev",
     "Obsolete": "Zastarelo",
     "Published": "Objavljeno",
     "Question": "Vprašanje",
-    "SINGLE_Faq": "FAQ"
+    "SINGLE_Faq": "Pogosta vprašanja"
   }
 }
