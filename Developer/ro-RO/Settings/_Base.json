@@ -20,7 +20,7 @@
     "LBL_CONFIG_DESCRIPTION": "Modificati datele de configurare a sistemului",
     "LBL_CONFIG_EDITOR": "Configurare – Sistem",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Actualizati fisierul de configurare al aplicatiei",
-    "LBL_CONFIG_FILE": "config/Main.php",
+    "LBL_MAIN_CONFIG": "Main configuration",
     "LBL_CREATING_NEW": "Crearea de noi",
     "LBL_CURRENCY_DESCRIPTION": "Gestionati monedele internationale si cursurile de schimb",
     "LBL_CURRENCY_SETTINGS": "Valute",

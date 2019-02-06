@@ -20,7 +20,7 @@
     "LBL_CONFIG_DESCRIPTION": "Konfiguruj główne ustawienia systemu",
     "LBL_CONFIG_EDITOR": "System - konfiguracja",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Konfigurują parametry systemowe predefiniowane w pliku konfiguracyjnym config/config.inc.php",
-    "LBL_CONFIG_FILE": "config/Main.php",
+    "LBL_MAIN_CONFIG": "Główna konfiguracja",
     "LBL_CREATING_NEW": "Tworzenie nowego",
     "LBL_CURRENCY_DESCRIPTION": "Zarządzaj walutami, dla których możesz określić wartości po których system dokona przeliczania pomiędzy walutami.",
     "LBL_CURRENCY_SETTINGS": "Waluty",

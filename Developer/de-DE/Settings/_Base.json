@@ -20,7 +20,7 @@
     "LBL_CONFIG_DESCRIPTION": "Bearbeiten Sie die Konfiguration von Yetiforce CRM",
     "LBL_CONFIG_EDITOR": "System – Konfiguration",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Konfigurationsdatei der Anwendung aktualisieren",
-    "LBL_CONFIG_FILE": "config/Main.php",
+    "LBL_MAIN_CONFIG": "Main configuration",
     "LBL_CREATING_NEW": "Neu erstellen",
     "LBL_CURRENCY_DESCRIPTION": "Verwalten von internationalen Währungen und Wechselkursen",
     "LBL_CURRENCY_SETTINGS": "Währungseinstellungen",

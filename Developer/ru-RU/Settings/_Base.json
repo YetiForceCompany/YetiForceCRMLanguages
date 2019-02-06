@@ -20,7 +20,7 @@
     "LBL_CONFIG_DESCRIPTION": "Вы редактируете конфигурационный файл системы",
     "LBL_CONFIG_EDITOR": "Настройка системы",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Обновление файла конфигурации",
-    "LBL_CONFIG_FILE": "config/Main.php",
+    "LBL_MAIN_CONFIG": "Main configuration",
     "LBL_CREATING_NEW": "Создать новую",
     "LBL_CURRENCY_DESCRIPTION": "Управление валютами и курсами",
     "LBL_CURRENCY_SETTINGS": "Настройка валют",

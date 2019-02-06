@@ -43,6 +43,8 @@
     "LBL_DOWNLOAD": "Prenos",
     "LBL_DOWNLOADED_LANGUAGE": "Prenesen jezik",
     "LBL_NO_INTERNET_CONNECTION": "Ni internetne povezave",
-    "LBL_NO_LANGUAGES_TO_DOWNLOAD": "Ni jezikov za prenos"
+    "LBL_NO_LANGUAGES_TO_DOWNLOAD": "Ni jezikov za prenos",
+    "LBL_TRANSLATED_WORDS": "Translated words",
+    "LBL_LANG": "Language"
   }
 }

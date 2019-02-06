@@ -20,7 +20,7 @@
     "LBL_CONFIG_DESCRIPTION": "Editar detalles de configuración del sistema",
     "LBL_CONFIG_EDITOR": "Sistema – Configuración",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Actualizar archivo de configuración de la aplicación",
-    "LBL_CONFIG_FILE": "config/Main.php",
+    "LBL_MAIN_CONFIG": "Main configuration",
     "LBL_CREATING_NEW": "Crear nuevo",
     "LBL_CURRENCY_DESCRIPTION": "Gestionar las monedas internacionales y los tipos de cambio",
     "LBL_CURRENCY_SETTINGS": "Monedas",

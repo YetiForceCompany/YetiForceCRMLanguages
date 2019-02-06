@@ -99,7 +99,7 @@
     "LBL_DENY_PUBLIC_DIR_STATUS": "Is access denied?",
     "LBL_LABEL_LAST_CRON_START": "Time Cron was last run",
     "LBL_LABEL_PROTOCOL_VERSION": "HTTP protocol version",
-    "LBL_LABEL_HTTP_METHODS": "HTTP methods",
+    "LBL_LABEL_HTTP_METHODS": "HTTP metoda",
     "LBL_HELP_MBSTRING": "Extension used to manage strings. Used to convert strings to different encodings.",
     "LBL_HELP_HTTPS": "SSL is security technology used to create encrypted connections between the web server and the browser. We recommend enabling it in order to prevent third parties from intercepting communication between you and the server.",
     "LBL_HELP_DISPLAY_ERRORS": "Error messages and warnings will be sent to the browser. They often include sensitive technical information about the system and must never be available to untrusted sources. This option should only be enabled in the test or developer version to display errors and warnings.",

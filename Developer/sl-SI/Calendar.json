@@ -132,7 +132,7 @@
     "LBL_PHONE": "TELEFON",
     "LBL_EDIT_EVENT": "Uredi dogodek",
     "LBL_USER_NAME": "Uporabniško ime",
-    "LBL_AUTO_FILL_DESCRIPTION": "Clicking this button will result in filling the start date based on the earliest available date for the current user.",
+    "LBL_AUTO_FILL_DESCRIPTION": "Konfigurirajte nastavitve odhodnega strežnika s strani z nastavitvami.",
     "LBL_CACHE_SELECTED_FILTERS": "Standardni pogled v koledarju spremenjen. Kliknite \"počisti pogled\" za brisanje.",
     "LBL_CACHE_CLEAR": "Počisti poglede",
     "LBL_PROCESS": "Proces",
