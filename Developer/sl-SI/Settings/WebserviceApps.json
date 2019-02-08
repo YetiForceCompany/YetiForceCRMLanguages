@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_APP_NAME": "Name",
-    "LBL_ADDRESS_URL": "URL",
-    "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit"
+    "LBL_APP_NAME": "Ime",
+    "LBL_ADDRESS_URL": "URL naslov",
+    "LBL_TYPE_SERVER": "Vrsta",
+    "LBL_API_KEY": "Ključ",
+    "LBL_ADD_APPLICATION": "Dodaj ključ",
+    "LBL_WEBSERVICE_APPS": "Spletne storitve - aplikacije",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Polna funkcionalnost modula je pripravljena že od verzije 3.1.",
+    "LBL_PASS": "Geslo",
+    "LBL_TITLE_ADDED": "Dodaj",
+    "LBL_TITLE_EDIT": "Uredi"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Si prepričan, da želiš zbrisati ključ?"
   }
 }

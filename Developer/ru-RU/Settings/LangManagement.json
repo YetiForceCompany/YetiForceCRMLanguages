@@ -53,6 +53,7 @@
     "LBL_STATS_INFO": "Представленные статистические значения определяют соотношение количества непереведенных меток для всех меток, которые существуют в файле базового языка в процентах.",
     "LBL_UNTRANSLATED_LABELS": "Не переведенные переменные",
     "LBL_IMPORT_LANG": "Import language",
+    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
     "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
   },
   "js": {

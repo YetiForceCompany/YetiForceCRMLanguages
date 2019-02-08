@@ -1311,7 +1311,8 @@
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "Izpolnite zahtevane podatke",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "E-poštni naslov ni bil dodan podjetju. Če želite prejemati e-novice %s.",
     "LBL_START": "Začni",
-    "LBL_END": "Končaj"
+    "LBL_END": "Končaj",
+    "LBL_AUTOMATIC": "Automatic"
   },
   "js": {
     "JS_APPROVE": "Odobri",

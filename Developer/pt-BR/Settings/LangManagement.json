@@ -53,6 +53,7 @@
     "LBL_STATS_INFO": "Os valores estatísticos demonstrados determinam a porcentagem da proporção de rótulos não traduzidos frente a todos os rótulos existentes no arquivo de idiomas base.",
     "LBL_UNTRANSLATED_LABELS": "Rótulos Não Traduzidos",
     "LBL_IMPORT_LANG": "Import language",
+    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
     "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
   },
   "js": {

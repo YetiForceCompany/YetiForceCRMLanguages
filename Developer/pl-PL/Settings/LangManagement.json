@@ -53,6 +53,7 @@
     "LBL_STATS_INFO": "Prezentowane wartości statystyczne określają stosunek etykiet nieprzetłumaczonych do wszystkich etykiet występujących w pliku(-ach) języka bazowego w procentach.",
     "LBL_UNTRANSLATED_LABELS": "Nieprzetłumaczone etykiety",
     "LBL_IMPORT_LANG": "Importuj język",
+    "LBL_IETF_LANGUAGE_TAG": "Znacznik języka IETF",
     "LBL_NOT_CORRECT_LANGUAGE_TAG": "Kod języka nie jest zgodny ze standardem IETF."
   },
   "js": {

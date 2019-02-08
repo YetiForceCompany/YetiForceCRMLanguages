@@ -1311,7 +1311,8 @@
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "uzupełnij dane",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "Nie wprowadzono adresu e-mail do danych firmy. Jeśli chcesz otrzymywać newsletter %s.",
     "LBL_START": "Początek",
-    "LBL_END": "Koniec"
+    "LBL_END": "Koniec",
+    "LBL_AUTOMATIC": "Automatycznie"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

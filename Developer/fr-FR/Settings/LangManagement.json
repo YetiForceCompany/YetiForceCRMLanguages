@@ -53,6 +53,7 @@
     "LBL_STATS_INFO": "Les valeurs statistiques affichées représentent le nombre de labels non traduits sur l'ensemble des labels qui existent dans la langue de base exprimées en pourcentage.",
     "LBL_UNTRANSLATED_LABELS": "Étiquettes non traduites",
     "LBL_IMPORT_LANG": "Import language",
+    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
     "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
   },
   "js": {
