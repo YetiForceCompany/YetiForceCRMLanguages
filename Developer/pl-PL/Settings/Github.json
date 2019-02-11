@@ -12,7 +12,7 @@
     "open": "Otwarty",
     "LBL_ME": "Tylko ja",
     "LBL_ERROR_CONNECTED": "Wystąpił błąd podczas komunikacji z adresem www.api.github.com, zalecamy sprawdzenie dostępu do internetu oraz sprawdzenie ustawień firewalla",
-    "LBL_CONFIRM_REGULATIONS": "Zapoznałem się z regulaminem dodawania problemów: %s",
+    "LBL_CONFIRM_REGULATIONS": "Przeczytałem zasady dodawania nowych zgłoszeń: %s",
     "LBL_DEFAULT_DESCRIPTION": "Wygenerowane przez YetiForceCRM wersja ",
     "LBL_CHANGE_AUTHORIZATION": "Zmień autoryzację",
     "LBL_USERNAME_DESCRIPTION": "Nazwa użytkownika używana w serwisie www.github.com",

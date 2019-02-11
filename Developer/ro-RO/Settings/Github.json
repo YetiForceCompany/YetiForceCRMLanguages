@@ -12,7 +12,7 @@
     "open": "Deschis",
     "LBL_ME": "Doar eu",
     "LBL_ERROR_CONNECTED": "Aparut o eroare in conectarea la www.api.github.com, va rugam verificati conexiunea la internet si setarile firewall",
-    "LBL_CONFIRM_REGULATIONS": "Am citit regulile de adaugare a unor noi probleme: <a href=\"https:\/\/yetiforce.com\/en\/developer-documentation\/bugs\/126-issues.html\">link<\/a>",
+    "LBL_CONFIRM_REGULATIONS": "I have read the rules of adding new issues: %s",
     "LBL_DEFAULT_DESCRIPTION": "Generat de YetiforceCRM ver. ",
     "LBL_CHANGE_AUTHORIZATION": "Schimba autorizare",
     "LBL_USERNAME_DESCRIPTION": "Numele dvs de utilizator www.github.com",

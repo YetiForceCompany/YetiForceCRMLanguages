@@ -12,7 +12,7 @@
     "open": "Открыто",
     "LBL_ME": "Только мои",
     "LBL_ERROR_CONNECTED": "Произошла ошибка при подключении к www.api.github.com, проверьте подключение к Интернету и настройки брандмауэра",
-    "LBL_CONFIRM_REGULATIONS": "Я прочитал правила добавления новых вопросов: <a href=\\\"https:\/\/yetiforce.com\/en\/developer-documentation\/bugs\/126-issues.html\\\"><\/a>",
+    "LBL_CONFIRM_REGULATIONS": "I have read the rules of adding new issues: %s",
     "LBL_DEFAULT_DESCRIPTION": "Создано в YetiforceCRM версии:",
     "LBL_CHANGE_AUTHORIZATION": "Изменить авторизацию",
     "LBL_USERNAME_DESCRIPTION": "Имя пользователя на www.github.com",

@@ -3,98 +3,98 @@
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 89,
-        "time": "2019-02-08 08:56:27"
+        "progress": 88,
+        "time": "2019-02-11 14:10:54"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 5,
-        "time": "2019-02-08 08:56:36"
+        "progress": 6,
+        "time": "2019-02-11 14:11:01"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 78,
-        "time": "2019-02-08 08:57:48"
+        "time": "2019-02-11 14:11:57"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 7,
-        "time": "2019-02-08 08:56:54"
+        "time": "2019-02-11 14:11:15"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 75,
-        "time": "2019-02-08 08:56:19"
+        "progress": 74,
+        "time": "2019-02-11 14:10:48"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 9,
-        "time": "2019-02-08 08:56:45"
+        "time": "2019-02-11 14:11:08"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 19,
-        "time": "2019-02-08 08:56:10"
+        "time": "2019-02-11 14:10:41"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2019-02-08 08:57:04"
+        "time": "2019-02-11 14:11:21"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 66,
-        "time": "2019-02-08 08:57:14"
+        "progress": 65,
+        "time": "2019-02-11 14:11:28"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
-        "progress": 81,
-        "time": "2019-02-08 08:57:23"
+        "progress": 80,
+        "time": "2019-02-11 14:11:35"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 79,
-        "time": "2019-02-08 08:57:31"
+        "progress": 78,
+        "time": "2019-02-11 14:11:43"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 66,
-        "time": "2019-02-08 08:57:40"
+        "progress": 67,
+        "time": "2019-02-11 14:11:50"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 28,
-        "time": "2019-02-08 08:57:56"
+        "time": "2019-02-11 14:12:04"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 17,
-        "time": "2019-02-08 08:58:04"
+        "time": "2019-02-11 14:12:12"
     }
 }

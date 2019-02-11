@@ -12,7 +12,7 @@
     "open": "Offen",
     "LBL_ME": "Nur für mich",
     "LBL_ERROR_CONNECTED": "Ein Fehler ist beim verbinden mit www.api.github.com aufgetreten, bitte Internet- und Firewalleinstellungen überprüfen",
-    "LBL_CONFIRM_REGULATIONS": "Ich habe die Regeln zum Hinzufügen neuer Meldungen gelesen: <a href=\"https:\/\/yetiforce.com\/en\/developer-documentation\/bugs\/126-issues.html\">link<\/a>",
+    "LBL_CONFIRM_REGULATIONS": "I have read the rules of adding new issues: %s",
     "LBL_DEFAULT_DESCRIPTION": "Erzeugt von YetiforceCRM ver. ",
     "LBL_CHANGE_AUTHORIZATION": "Berechtigung ändern",
     "LBL_USERNAME_DESCRIPTION": "www.github.com Benutzername",

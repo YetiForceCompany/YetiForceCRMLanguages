@@ -1,7 +1,7 @@
 {
   "php": {
     "Access to record": "Access to records",
-    "GlobalPermission": "Special access",
+    "GlobalPermission": "Poseben dostop",
     "LBL_Module_desc": "Tukaj lahko določite, kateri profili imajo dostop do vseh zapisov ne glede vloge.",
     "LBL_PROFILE_NAME": "Ime profila",
     "LBL_DESCRIPTION": "Profil opis",

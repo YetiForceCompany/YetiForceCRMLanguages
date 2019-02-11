@@ -183,7 +183,8 @@
     "MultiImage": "Pliki graficzne (wiele)",
     "DateTime": "Pole daty i czasu",
     "LBL_HEADER_TYPE_VALUE": "Wartość",
-    "LBL_HEADER_TYPE_PROGRESS": "Linia postępu"
+    "LBL_HEADER_TYPE_PROGRESS": "Linia postępu",
+    "LBL_EDIT_MANDATORY_INFO": "Ma zastosowanie dla całego rekordu. Jeśli wybrano \"Nie\", rekord można zapisać bez żadnych stanów magazynowych."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

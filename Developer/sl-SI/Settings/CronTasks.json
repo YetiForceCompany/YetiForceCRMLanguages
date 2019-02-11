@@ -1,7 +1,7 @@
 {
   "php": {
     "Recommended frequency for Scheduled Import is 15 mins": "Recommended frequency for Scheduled Import is 15 mins",
-    "Recommended frequency for SendReminder is 15 mins": "Recommended frequency for SendReminder is 15 mins",
+    "Recommended frequency for SendReminder is 15 mins": "Priporočena frekvenca za pošiljanje opomnika je 15 minut",
     "Recommended frequency for RecurringInvoice is 12 hours": "Recommended frequency for RecurringInvoice is 12 hours",
     "Recommended frequency for Workflow is 15 mins": "Priporočena frekvenca delovnega postopka je 15 min",
     "Recommended frequency for MailScanner is 15 mins": "Recommended frequency for MailScanner is 15 mins",
@@ -33,7 +33,7 @@
     "RecurringInvoice": "Recurring Invoice",
     "LBL_MAIL_SCANNER_ACTION": "Mail Scanner Action",
     "LBL_MAIL_SCANNER_VERIFICATION": "Mail Scanner Verification",
-    "LBL_SEND_REMINDER": "Send Reminder",
+    "LBL_SEND_REMINDER": "Pošlji opomnik",
     "LBL_SCHEDULED_IMPORT": "Scheduled Import",
     "LBL_SCHEDULE_REPORTS": "Schedule Reports",
     "LBL_MAIL_SCANNER_BIND": "Mail Scanner Bind",
@@ -69,7 +69,7 @@
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Recommended frequency for Scheduled Import is 15 mins",
-    "Recommended frequency for SendReminder is 15 mins": "Recommended frequency for SendReminder is 15 mins",
+    "Recommended frequency for SendReminder is 15 mins": "Priporočena frekvenca za pošiljanje opomnika je 15 minut",
     "Recommended frequency for RecurringInvoice is 12 hours": "Recommended frequency for RecurringInvoice is 12 hours",
     "Recommended frequency for Workflow is 15 mins": "Priporočena frekvenca delovnega postopka je 15 min",
     "Recommended frequency for MailScanner is 15 mins": "Recommended frequency for MailScanner is 15 mins",
