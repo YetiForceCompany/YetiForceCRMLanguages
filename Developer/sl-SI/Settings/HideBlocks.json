@@ -1,16 +1,16 @@
 {
   "php": {
-    "HideBlocks": "Hide blocks",
-    "LBL_HIDEBLOCKS": "Fields – Hide Blocks",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Manage which blocks with fields to hide",
-    "LBL_BLOCK_LABEL": "Block",
-    "LBL_MODULE": "Module",
+    "HideBlocks": "Skrij sklop",
+    "LBL_HIDEBLOCKS": "Polja – Skrij sklop",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Upravljajte, katere sklope s polji želite skriti",
+    "LBL_BLOCK_LABEL": "Sklop",
+    "LBL_MODULE": "Modul",
     "LBL_ENABLED": "Aktiven",
-    "LBL_EDIT_BLOCK": "Edit",
-    "LBL_NEW_BLOCK": "Create",
-    "LBL_BLOCK": "Block",
-    "LBL_NEXT": "Next",
-    "LBL_VIEW": "View",
-    "LBL_MANDATORY_FIELDS_EXIST": "This block cannot be hidden because it contains mandatory fields."
+    "LBL_EDIT_BLOCK": "Uredi",
+    "LBL_NEW_BLOCK": "Ustvari",
+    "LBL_BLOCK": "Sklop",
+    "LBL_NEXT": "Naslednji",
+    "LBL_VIEW": "Pregled",
+    "LBL_MANDATORY_FIELDS_EXIST": "Ta sklop ni mogoče skriti, ker vsebuje obvezna polja."
   }
 }

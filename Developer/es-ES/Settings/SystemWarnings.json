@@ -7,7 +7,6 @@
     "LBL_CONFIG_REPORT_LINK": "Mostrar librería que falta",
     "LBL_CONFIG_REPORT_DESC": "El servidor no se ha configurado correctamente. El sistema puede funcionar incorrectamente, o los datos introducidos pueden estar dañados o eliminados. Más información en el artículo <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\">Requisitos del servidor en yetiforce.com<\/a>",
     "LBL_NEWSLETTER": "Boletín",
-    "LBL_NEWSLETTER_DESC": "Suscríbete al boletín gratuito de YetiForce. Manténgase al día con las últimas características del sistema, y obtenga más información sobre el sector CRM. Le enviaremos información sobre nuevas versiones, actualizaciones, eventos, nuevas incorporaciones al sistema y mucho más. Únase a nuestra comunidad y manténgase actualizado. Se requiere conexión a Internet para registrarse.",
     "LBL_STATS": "Enviar información estadística",
     "LBL_STATS_DESC": "Ayúdenos a mejorar YetiForce y nuestros servicios enviándonos información anónima sobre su versión CRM actual. Los datos que recopilamos incluyen: <ul><li>la clave única de su instancia generada sólo con el propósito de boletín<\/li><li>versión del sistema<\/li><li>idioma<\/li>Zona horaria<\/li><\/ul>Tratamos asuntos de seguridad muy seriamente y nos aseguramos de que los datos recopilados se usen sólo para fines estadísticos. Únase a nosotros y construya la comunidad de YetiForce con nosotros.",
     "LBL_SAVE_TO_NEWSLETTER": "Suscríbete al boletín",
