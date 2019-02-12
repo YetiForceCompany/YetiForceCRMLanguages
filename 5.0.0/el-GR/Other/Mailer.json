@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Προγραμματισμένη εισαγωγή έχει ολοκληρωθεί",
+    "LBL_CRON_COMPLETED_IMPORT": "Σύνοψη εισαγωγής εγγραφών για το module:"
+  }
+}

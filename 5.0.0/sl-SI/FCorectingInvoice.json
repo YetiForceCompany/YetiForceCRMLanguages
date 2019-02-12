@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "Popravljeni računi",
+    "SINGLE_FCorectingInvoice": "Popravljen račun",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_INVOICE_ADDRESS": "Naslov za račun",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Naslov za dobavo",
+    "FL_SUBJECT": "Zadeva",
+    "FL_PAYMENT_DATE": "Datum plačila",
+    "FL_SALE_DATE": "Prodano dne",
+    "FL_FORM_PAYMENT": "Način plačila",
+    "FL_BANK_ACCOUNT": "TRR",
+    "FL_NUMBER": "Številka računa",
+    "FL_ACCOUNT": "Stranka",
+    "FL_TOTAL": "Neto",
+    "FL_GROSS": "Bruto",
+    "FL_STATUS": "Status",
+    "PLL_CASH": "Gotovina",
+    "PLL_TRANSFER": "Nakazilo",
+    "PLL_WIRE_TRANSFER": "Elektronski prenos",
+    "LBL_YEAR": "Leto",
+    "FL_INVOICE": "Račun",
+    "LBL_COMMENTS": "Opomba",
+    "FL_EXTERNAL_COMMENT": "Zunanja opomba",
+    "FL_INTERNAL_COMMENT": "Notranja opomba",
+    "LBL_BEFORE_CORRECTION": "Pred popravkom",
+    "LBL_AFTER_CORRECTION": "Po popravku",
+    "LBL_CHOOSE_INVOICE": "Izberi račun, ki ga treba popraviti",
+    "LBL_COPY_FROM_INVOICE": "Kopiranje iz začetnega računa",
+    "LBL_INVOICE_INFO": "Polja začetnega računa - pred popravki.",
+    "LBL_AFTER_INVOICE_INFO": "Kako naj bi izgledal končni račun po popravku.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Polja računa, ki jih je potrebno popraviti. Kopiraj vsa polja iz prvotnega računa in po potrebi spremenite vrednosti."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Izberi račun, ki ga treba popraviti"
+  }
+}

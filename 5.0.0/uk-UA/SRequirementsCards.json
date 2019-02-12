@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SRequirementsCards": "Параметри запиту",
+    "SINGLE_SRequirementsCards": "Параметри запиту",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "System information",
+    "LBL_DESCRIPTION_INFORMATION": "Детальна інформація",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Час закриття",
+    "LBL_STATUS": "Статус",
+    "LBL_RESPONSE_TIME": "Час відкриття",
+    "SINGLE_SSalesProcesses": "Угода",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "В роботі",
+    "PLL_FOR_VERIFICATION": "Перевірка",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_COMPLETED": "Виконано",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_COMPANIES": "Dane firm",
+    "Companies": "Dane firm",
+    "LBL_COMPANIES_DESCRIPTION": "Zarządzenie danymi firmy",
+    "LBL_ID": "Id",
+    "LBL_NAME": "Nazwa firmy",
+    "LBL_EMAIL": "E-mail",
+    "LBL_CITY": "Miasto",
+    "LBL_COUNTRY": "Kraj",
+    "LBL_TYPE": "Typ",
+    "LBL_TYPE_TARGET_USER": "Użytkownik docelowy",
+    "LBL_TYPE_INTEGRATOR": "Integrator",
+    "LBL_TYPE_PROVIDER": "Dostawca",
+    "LBL_COMPANYSIZE": "Wielkość firmy",
+    "LBL_WEBSITE": "Strona WWW",
+    "LBL_INDUSTRY": "Branża",
+    "LBL_FIRSTNAME": "Imię",
+    "LBL_LASTNAME": "Nazwisko",
+    "LBL_LOGO": "Logo",
+    "LBL_EMAIL_NEWSLETTER_INFO": "Opcjonalne pola, wprowadzając dane wyrażasz zgodę na otrzymywanie newslettera.",
+    "LBL_COMPANY_NAMES_EXIST": "Firma o podanej nazwie już istnieje",
+    "LBL_REGISTER_CRM_ONLINE": "Rejestracja - OnLine",
+    "LBL_REGISTER_CRM_SERIAL": "Rejestracja - Klucz",
+    "LBL_NOT_REGISTERED": "Nie zarejestrowano",
+    "LBL_WAITING_FOR_ACCEPTANCE": "Oczekuje na akceptacje",
+    "LBL_INCORRECT_DATA": "Błędne dane",
+    "LBL_INCOMPLETE_DATA": "Niekompletne dane",
+    "LBL_OFFLINE_SERIAL_NOT_FOUND": "Offline - Nie znaleziono klucza",
+    "LBL_OFFLINE_SIGNED": "Offline - Zaakceptowana",
+    "LBL_SPECIAL_REGISTRATION": "Rejestracja specjalna",
+    "LBL_ACCEPTED": "Zaakceptowano"
+  },
+  "js": {
+    "JS_ENTER_REGISTRATION_KEY": "Wprowadź klucz rejestracyjny",
+    "JS_ENTER_ALL_REGISTRATION_DATA": "Wprowadź wszystkie wymaganie dane"
+  }
+}

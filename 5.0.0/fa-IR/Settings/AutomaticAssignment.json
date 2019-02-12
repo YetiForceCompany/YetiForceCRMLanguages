@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "تخصیص خودکار رکوردها",
+    "AutomaticAssignment": "تخصیص خودکار رکوردها",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "نام فیلد",
+    "FL_MODULE": "ماژول",
+    "FL_VALUE": "مقدار",
+    "FL_ROLES": "نقش",
+    "FL_SMOWNERS": "صاحب رکورد",
+    "FL_ASSIGN": "تنظیمات پیش‌فرض",
+    "FL_CONDITIONS": "شرایط جستجوی ثبت",
+    "FL_MODE": "حالت",
+    "LBL_CREATE_RECORD": "ایجاد رکورد",
+    "BTN_NEXT": "بعدی",
+    "BTN_CLOSE": "بستن",
+    "BTN_ADD": "افزودن",
+    "LBL_CHANGE_ROLE_TYPE": "تغییر نوع نقش",
+    "LBL_CHANGE_RECORD_STATE": "تغییر وضعیت رکورد",
+    "BTN_SAVE": "ذخیره",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "شامل محدودیت ثبت کاربر",
+    "LBL_SET_DEFAULT_USER": "تنظیم کاربر پیش فرض",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "غیر فعال کردن حالت سیستم",
+    "LBL_SYSTEM": "سیستم",
+    "LBL_NOTE": "یادداشت!",
+    "LBL_VALUE_INFO": "The following field sets the value for the selected module field.",
+    "LBL_ROLES_INFO": "The list of pre-assigned users is created from the below roles.",
+    "LBL_SMOWNERS_INFO": "The list of pre-assigned users is created from the below users, groups. This user list is created only if there are no users selected from roles.",
+    "LBL_ASSIGN_INFO": "Set default Assigned To. The value set here will be assigned to the record when the user, who was assigned, can not be found.",
+    "LBL_CONDITIONS_INFO": "Set record search conditions. In order to select one user from the available user list, the system counts the number of records assigned to the user in the module. The user with the lowest number of records is assigned to the record.",
+    "LBL_ROLEID_INFO": "Set one of the following modes: SYSTEM - user by such mechanisms as workflows tasks and handlers; NON-SYSTEM –  allows to assign a record manually by the user."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "آیا مطمئنید که میخواهید نوع رکورد را تغییر دهید ؟",
+    "JS_SAVE_SUCCESS": "تغییرات با موفقیت ذخیره شد"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Interna reklamacija",
+    "SINGLE_CInternalTickets": "Interna reklamacija",
+    "LBL_ADDITIONAL_INFORMATION": "Dodatni podatki",
+    "LBL_BASIC_INFORMATION": "Osnovni podatki",
+    "LBL_TICKET_RESOLUTION": "Rešitev",
+    "LBL_ATTENTION_BLOCK": "Zapiski",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "FL_SUBJECT": "Zadeva",
+    "FL_STATUS": "Status",
+    "FL_RESOLUTION": "Rešitev",
+    "PLL_UNASSIGNED": "Neopredeljeno",
+    "PLL_AWAITING_REALIZATION": "Čakanje na izvedbo",
+    "PLL_FOR_PROCESSING": "Za realizacijo",
+    "PLL_IN_PROGRESSING": "V odelavi",
+    "PLL_SUBMITTED_COMMENTS": "Komentarji",
+    "PLL_FOR_APPROVAL": "Za odobritev",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_ACCEPTED": "Sprejeto"
+  }
+}

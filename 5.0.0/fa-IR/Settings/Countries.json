@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "نام كشور",
+    "LBL_COUNTRY_SHORTNAME": "کد کشور",
+    "LBL_COUNTRY_TOGGLE_STATUS": "آیا کشور در تمام سیستم در دسترس باشد؟",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "فعال یا غیر فعال کردن همه کشورها",
+    "LBL_VISIBLE_IN_PHONE": "آیا کشور در قسمت نوع تلفن قابل مشاهده باشد؟",
+    "LBL_VISIBLE_IN_COUNTRY": "آیا کشور در فیلد آدرس کشور قابل مشاهده باشد؟",
+    "LBL_ROW_TO_TOP": "انتقال به بالا",
+    "LBL_ROW_TO_BOTTOM": "انتقال به پایین",
+    "LBL_COUNTRY_SETTINGS": "تنظیمات کشور",
+    "LBL_COUNTRY_DESCRIPTION": "پیکربندی دسترسی کشورها در سیستم"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "تنظیمات کشور"
+  }
+}

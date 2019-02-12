@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Anúncios",
+    "SINGLE_Announcements": "Anúncio",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Informação básica",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_NUMBER": "Número",
+    "FL_STATUS": "Situação",
+    "FL_INTERVAL": "Hora do Lembrete",
+    "FL_IS_MANDATORY": "Obligatory to accept",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_FOR_ACCEPTANCE": "Para Aprovação",
+    "PLL_PUBLISHED": "Publicado",
+    "PLL_ARCHIVES": "Arquivado",
+    "LBL_REMIND_ME_LATER": "Lembrar-me depois",
+    "LBL_MARK_AS_READ": "Marcar como lido",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Foi aceito?",
+    "LBL_DATE": "Ler"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FInvoiceProforma": "Proforma faturalar",
+    "SINGLE_FInvoiceProforma": "Proforma fatura",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Teslimat adresi",
+    "FL_SUBJECT": "Konu",
+    "FL_PAYMENT_DATE": "Teslim tarihi",
+    "FL_SALE_DATE": "Satış tarihi",
+    "FL_ACCOUNT": "Hesap",
+    "FL_FORM_PAYMENT": "Ödeme yöntemi",
+    "FL_STATUS": "Durum",
+    "FL_NUMBER": "Fatura numarası",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Brüt",
+    "PLL_CASH": "Cash",
+    "PLL_TRANSFER": "Bank transfer",
+    "PLL_WIRE_TRANSFER": "Electronic transfer"
+  }
+}

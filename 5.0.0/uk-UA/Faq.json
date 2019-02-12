@@ -1,0 +1,18 @@
+{
+  "php": {
+    "Answer": "Відповідь",
+    "Comments": "Коментарі",
+    "Draft": "Чернетка",
+    "Faq": "Питання \/ Відповідь",
+    "Faq No": "Номер",
+    "General": "Загальне ",
+    "LBL_COMMENT_INFORMATION": "Коментарій",
+    "LBL_FAQ_INFORMATION": "Основна інформація",
+    "LBL_RECORDS_LIST": "Список",
+    "LBL_SOLUTION": "Рішення",
+    "Obsolete": "Застаріло",
+    "Published": " Опубліковано",
+    "Question": "Питання",
+    "SINGLE_Faq": "Питання \/ Відповідь"
+  }
+}

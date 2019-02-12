@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_COMPANIES": "مشخصات شرکت",
+    "Companies": "مشخصات شرکت",
+    "LBL_COMPANIES_DESCRIPTION": "مدیریت اطلاعات شرکت",
+    "LBL_ID": "شناسه",
+    "LBL_NAME": "نام کامل شرکت",
+    "LBL_EMAIL": "رایانامه",
+    "LBL_CITY": "شهر",
+    "LBL_COUNTRY": "کشور",
+    "LBL_TYPE": "نوع",
+    "LBL_TYPE_TARGET_USER": "کاربر نهایی",
+    "LBL_TYPE_INTEGRATOR": "یکپارچه سازی",
+    "LBL_TYPE_PROVIDER": "ارائه دهنده",
+    "LBL_COMPANYSIZE": "Company size",
+    "LBL_WEBSITE": "وب‌سایت",
+    "LBL_INDUSTRY": "صنعت",
+    "LBL_FIRSTNAME": "First name",
+    "LBL_LASTNAME": "Last name",
+    "LBL_LOGO": "Logo",
+    "LBL_EMAIL_NEWSLETTER_INFO": "Optional fields, entering data, you agree to receive Newsletter",
+    "LBL_COMPANY_NAMES_EXIST": "نام شرکت در حال حاضر وجود دارد",
+    "LBL_REGISTER_CRM_ONLINE": "ثبت‌ - آنلاین",
+    "LBL_REGISTER_CRM_SERIAL": "ثبت‌ - آنلاین",
+    "LBL_NOT_REGISTERED": "ثبت نشده",
+    "LBL_WAITING_FOR_ACCEPTANCE": "در انتظار تایید",
+    "LBL_INCORRECT_DATA": "داده‌های نادرست",
+    "LBL_INCOMPLETE_DATA": "داده‌های ناقص",
+    "LBL_OFFLINE_SERIAL_NOT_FOUND": "Offline - Key not found",
+    "LBL_OFFLINE_SIGNED": "Offline - Accepted",
+    "LBL_SPECIAL_REGISTRATION": "ثبت‌نام ویژه",
+    "LBL_ACCEPTED": "پذیرفته شد"
+  },
+  "js": {
+    "JS_ENTER_REGISTRATION_KEY": "کد ثبت‌نام را وارد کنید",
+    "JS_ENTER_ALL_REGISTRATION_DATA": "تمام اطلاعات مورد نیاز را وارد کنید"
+  }
+}

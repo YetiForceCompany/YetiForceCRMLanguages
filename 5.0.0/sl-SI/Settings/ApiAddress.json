@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_SAVE": "Shrani",
+    "ApiAddress": "Iskanje naslovov",
+    "LBL_API_ADDRESS": "Karte [Google & OSM]",
+    "LBL_API_ADDRESS_DESCRIPTION": "Modul omogoča iskanje \/ samodokončanje naslova v sistemu med ustvarjanjem \/ urejanjem podatkov.",
+    "LBL_USE_OPENCAGE_GEOCODER": "Uporabi OpenCage Geocoder",
+    "LBL_REMOVE_CONNECTION": "Odstrani povezavo",
+    "LBL_ENTER_KEY_APPLICATION": "Vnesi ključ aplikacije",
+    "LBL_MIN_LOOKUP_LENGTH": "Najmanjše število znakov, ki jih mora vnesti uporabnik, preden se izvede iskanje",
+    "LBL_SAVE_NOTIFY_OK": "Shranjene spremembe.",
+    "LBL_CHOOSE_API": "Izberi API",
+    "LBL_USE_GOOGLE_GEOCODER": "Uporaba Google geokodiranje",
+    "google_map_api": "Geokodiranje Google",
+    "opencage_data": "Uporabi OpenCage Geocoder",
+    "LBL_GLOBAL_CONFIG": "Splošne nastavitve",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Shranite splošne nastavitve",
+    "LBL_NUMBER_SEARCH_RESULTS": "Število rezultatov iskanja"
+  },
+  "js": {
+    "Invalid API key": "Neveljaven ključ API",
+    "JS_ERROR": "Napaka",
+    "JS_LOADING_PLEASE_WAIT": "Nalaganje ... počakajte.",
+    "JS_WRONG_NUMBER": "Dovoljeni znaki: številke, večje od 1."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_SAVE": "ذخیره",
+    "ApiAddress": "آدرس جستجو",
+    "LBL_API_ADDRESS": "نقشه [گوگل & OSM]",
+    "LBL_API_ADDRESS_DESCRIPTION": "ماژول اجازه می دهد هنگام جستجو\/ تکمیل به صورت خودکار داده ها آدرس را در سیستم ایجاد\/ویرایش شود.",
+    "LBL_USE_OPENCAGE_GEOCODER": "استفاده از OpenCage Geocoder",
+    "LBL_REMOVE_CONNECTION": "حذف ارتباط",
+    "LBL_ENTER_KEY_APPLICATION": "کلید برنامه را وارد کنید",
+    "LBL_MIN_LOOKUP_LENGTH": "حداقل تعداد کاراکترهایی که یک کاربر باید قبل از جستجو انجام دهد",
+    "LBL_SAVE_NOTIFY_OK": "ذخیره‌ی تغییرات.",
+    "LBL_CHOOSE_API": "API را انتخاب کنید",
+    "LBL_USE_GOOGLE_GEOCODER": "استفاده از گوگل Geocoding",
+    "google_map_api": "گوگل Geocoding",
+    "opencage_data": "استفاده از OpenCage Geocoder",
+    "LBL_GLOBAL_CONFIG": "پیکربندی سراسری",
+    "LBL_SAVE_GLOBAL_SETTINGS": "ذخیره تنظیمات سراسری",
+    "LBL_NUMBER_SEARCH_RESULTS": "تعداد نتایج"
+  },
+  "js": {
+    "Invalid API key": "کلید API نامعتبر",
+    "JS_ERROR": "خطا",
+    "JS_LOADING_PLEASE_WAIT": "درحال بارگذاری، لطفاً کمی صبر کنید.",
+    "JS_WRONG_NUMBER": "نویسه‌های مجاز: ارقام بزرگتر از 1."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Potni nalog",
+    "SINGLE_CMileageLogbook": "Potni nalog",
+    "LBL_ADDITIONAL_INFORMATION": "Dodatni podatki",
+    "LBL_BASIC_INFORMATION": "osnovni podatki",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Zapiski",
+    "FL_SUBJECT": "Zadeva",
+    "FL_STATUS": "Status",
+    "FL_NUMBER_KILOMETERS": "Število kilometrov",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_FOR_APPROVAL": "Za potrditev ",
+    "PLL_ACCEPTED": "Sprejeto",
+    "PLL_CANCELLED": "Prekinjeno"
+  }
+}

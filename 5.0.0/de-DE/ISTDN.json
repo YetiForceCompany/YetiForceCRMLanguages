@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Storage Transfer Dispatched Notes",
+    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "Beschreibung",
+    "LBL_ATTENTION_BLOCK": "Kommentare",
+    "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",
+    "FL_ACCOUNT": "Organisation",
+    "FL_SUBJECT": "Betreff",
+    "FL_NUMBER": "Nummer",
+    "FL_STORAGE": "Lager",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Entwurf",
+    "PLL_IN_REALIZATION": "In Bearbeitung",
+    "PLL_OBJECTIONS": "Einwände",
+    "PLL_FOR_APPROVAL": "in Genehmigung",
+    "PLL_CANCELLED": "Abgesagt",
+    "PLL_ACCEPTED": "Genehmigt",
+    "LBL_CHANGE_STATUS": "Status ändern"
+  }
+}

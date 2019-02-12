@@ -1,0 +1,25 @@
+{
+  "php": {
+    "providertype": "Dostawca",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS maksymalnie 160 znaków",
+    "username": "Nazwa użytkownika",
+    "password": "Hasło",
+    "isactive": "Aktywny",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Wyślij smsa do zaznaczonych numerów",
+    "LBL_STEP_1": "Krok 1",
+    "LBL_STEP_2": "Krok 2",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Wybierz pola numerów do wysyłki",
+    "LBL_TYPE_THE_MESSAGE": "Rodzaj wiadomości",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "tutaj wpisz swoją wiadomość",
+    "LBL_ADD_MORE_FIELDS": "Dodaj więcej pól",
+    "LBL_SERVER_CONFIG": "Konfiguracja serwera",
+    "FL_STATUS": "Status",
+    "PLL_UNDEFINED": "Niezdefiniowany",
+    "PLL_DELIVERED": "Dostarczony",
+    "PLL_FAILED": "Niepowodzenie",
+    "LBL_MASS_SEND_SMS_INFO": "Wszystkie SMS-y są wysłane w cronie.",
+    "LBL_CHECK_STATUS": "Sprawdź status",
+    "message": "Wiadomość",
+    "LBL_SMSNOTIFIER_INFORMATION": "Informacje o wiadomości"
+  }
+}

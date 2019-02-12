@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Γρήγορη δημιουργία",
+    "LBL_SEPARATOR": "Ξεχωριστό",
+    "LBL_OTHER": "\"Άλλο\"",
+    "MEN_VIRTUAL_DESK": "Εικονικό γραφείο",
+    "MEN_COMPANIES_CONTACTS": "Εταιρείες και επαφές",
+    "MEN_SALES": "Πωλήσεις",
+    "MEN_PROJECTS": "Υλοποίηση",
+    "MEN_MARKETING": "Marketing",
+    "MEN_SUPPORT": "Υποστήριξη",
+    "MEN_ACCOUNTING": "Πελάτες",
+    "MEN_COMPANY": "Εταιρεία",
+    "MEN_ORGANIZATION": "Οργανισμός",
+    "MEN_DATABESES": "Βάσεις δεδομένων",
+    "MEN_TEAMWORK": "Ομάδα Εργασίας",
+    "MEN_PRODUCTBASE": "Βάση δεδομένων προϊόντων",
+    "MEN_LISTS": "Λίστες",
+    "MEN_SERVICESBASE": "Υπηρεσίες στην βάση δεδομένων",
+    "MEN_SALE_PROCESSES": "Διαδικασίες Πώλησης",
+    "Menu": "Μενού",
+    "MEN_LOGISTICS": "Εφοδιασμός",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Αλλαγή του κωδικού πρόσβασης σύνδεσης",
+    "LBL_CHANGE": "Αλλαγή",
+    "LBL_USER_PROFILE": "Προφίλ χρήστη",
+    "MEN_GDPR": "GDPR"
+  }
+}

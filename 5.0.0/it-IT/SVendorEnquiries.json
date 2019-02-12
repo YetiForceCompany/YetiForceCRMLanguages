@@ -1,0 +1,27 @@
+{
+  "php": {
+    "SVendorEnquiries": "Ordini di acquisto",
+    "SINGLE_SVendorEnquiries": "Vendor enquiry",
+    "LBL_SCALCULATIONS_INFORMATION": "Informazioni",
+    "LBL_CUSTOM_INFORMATION": "Info sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Dettagli",
+    "LBL_STATISTICS": "Statistiche",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Numero",
+    "LBL_CLOSED_TIME": "Data chiusura",
+    "LBL_STATUS": "Status",
+    "LBL_RESPONSE_TIME": "Tipo di risposta",
+    "SINGLE_SSalesProcesses": "Opportunità",
+    "FL_TOTAL_PRICE": "Totale netto",
+    "FL_MARGINP": "Margine totale %",
+    "FL_MARGIN": "Margine totale",
+    "FL_VENDOR": "Fornitore",
+    "FL_SCALCULATIONS": "Calculation",
+    "PLL_DRAFT": "Bozza",
+    "PLL_IN_REALIZATION": "In esecuzione",
+    "PLL_FOR_VERIFICATION": "Per verifica",
+    "PLL_CANCELLED": "Cancellato",
+    "PLL_COMPLETED": "Completato",
+    "LBL_CHANGE_STATUS": "Cambia status"
+  }
+}

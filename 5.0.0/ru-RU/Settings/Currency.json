@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Курс",
+    "Currency": "Валюта",
+    "Symbol": "Символ",
+    "Currency Code": "Код валюты",
+    "Currency Name": "Валюта",
+    "LBL_ADD_NEW_CURRENCY": "Добавить Валюту",
+    "LBL_ADD_RECORD": "Добавить Валюту",
+    "LBL_CURRENCY_CODE": "Код Валюты",
+    "LBL_CURRENCY_NAME": "Валюта",
+    "LBL_CURRENCY_STATUS_DESC": "Установите флажок, чтобы Валюта была активной",
+    "LBL_CURRENCY_SYMBOL": "Символ",
+    "LBL_CURRENT_CURRENCY": "Текущая Валюта",
+    "LBL_EDIT_CURRENCY": "Редактировать Валюту",
+    "LBL_ENTER_CONVERSION_RATE": "Введите обменный курс",
+    "LBL_TRANSFER_CURRENCY": "Заменить Валюту",
+    "Active": "Активна",
+    "Inactive": "Не активна",
+    "LBL_SET_AS_DEFAULT": "Set as default"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Валюта успешно удалена",
+    "JS_CURRENCY_DETAILS_SAVED": "Данные Валюты сохранены",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+  }
+}

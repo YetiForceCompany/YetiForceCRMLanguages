@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Samodejno dodeli zapise",
+    "AutomaticAssignment": "Samodejno dodeli zapise",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Ime polja",
+    "FL_MODULE": "Modul",
+    "FL_VALUE": "Vrednost",
+    "FL_ROLES": "Vloge",
+    "FL_SMOWNERS": "Skrbnik zapisa",
+    "FL_ASSIGN": "Privzete nastavitve",
+    "FL_CONDITIONS": "Pogoji za iskanje zapisov",
+    "FL_MODE": "Način",
+    "LBL_CREATE_RECORD": "Ustvari zapis",
+    "BTN_NEXT": "Naslednji",
+    "BTN_CLOSE": "Zapri",
+    "BTN_ADD": "Dodaj",
+    "LBL_CHANGE_ROLE_TYPE": "Spremeni vrsto vloge\/fukcije",
+    "LBL_CHANGE_RECORD_STATE": "Spremeni status zapisa",
+    "BTN_SAVE": "Shrani",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Vključi omejitev zapisov uporabnika",
+    "LBL_SET_DEFAULT_USER": "Nastavi privzetega uporabnika",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Onemogoči sistemski način",
+    "LBL_SYSTEM": "Sistem",
+    "LBL_NOTE": "Zapis!",
+    "LBL_VALUE_INFO": "Naslednje polje določa vrednost za izbrano polje modula.",
+    "LBL_ROLES_INFO": "Seznam vnaprej dodeljenih uporabnikov se ustvari iz spodnjih vlog.",
+    "LBL_SMOWNERS_INFO": "Seznam vnaprej dodeljenih uporabnikov se ustvari iz spodaj navedenih uporabnikov, skupin. Ta seznam uporabnikov je ustvarjen samo takrat, če ni bil izbran noben uporabnik iz vlog.",
+    "LBL_ASSIGN_INFO": "Nastavi privzeto dodeljeno za. Tu nastavljena vrednost bo dodeljena zapisu, ko uporabnika, ki je bil dodeljen, ni mogoče najti.",
+    "LBL_CONDITIONS_INFO": "Nastavi iskalne pogoje zapisov. Za izbiro enega uporabnika iz razpoložljivega seznama uporabnikov sistem prešteje število zapisov, dodeljenih uporabniku v modulu. Uporabniku z najmanjšim številom zapisov je dodeljen zapis.",
+    "LBL_ROLEID_INFO": "Nastavite enega od naslednjih načinov: SISTEM - uporabniku s takšnimi mehanizmi, kot so naloge delovnih postopkov; NON-SYSTEM - omogoča, da uporabnik sam ročno dodeli zapis."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Ali ste prepričani, da želite spremeniti status zapisovanja?",
+    "JS_SAVE_SUCCESS": "Spremembe so uspešno shranjene"
+  }
+}

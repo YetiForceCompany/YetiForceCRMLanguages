@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Zunanje storitve",
+    "SINGLE_OSSOutsourcedServices": "Zunanja storitev",
+    "LBL_INFORMATION": "Podatkovni sklop",
+    "Assigned To": "Skrbnik",
+    "LBL_osservicesstatus": "Status",
+    "Individual Agreement": "Individualna dogovor",
+    "In service": "Je podprt",
+    "Finished support": "Podpora končana",
+    "Product Name": "Ime storitve",
+    "Sub Category": "Podkategorija",
+    "Category": "Kategorija",
+    "Date Sold": "Datum prodaje",
+    "Date in Service": "Podpora končana dne",
+    "Description": "Opis",
+    "LBL_DESCRIPTION_INFORMATION": "Opisni podatki",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "Where bought": "Nabavljeno",
+    "Number": "Število",
+    "Save": "Shrani",
+    "LBL_GENERATE_EXTENSION": "Ustvari podaljšanje",
+    "Selling proposition": "Priložnost",
+    "Active": "Aktivno",
+    "Inactive": "Neaktivno"
+  }
+}

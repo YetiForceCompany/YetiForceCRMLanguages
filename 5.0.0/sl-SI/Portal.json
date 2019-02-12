@@ -1,0 +1,25 @@
+{
+  "php": {
+    "HTTP_ERROR": "Spletno stran, ki jo želite odpreti ni varna oz. je ni možno odpreti.  Če kljub temu želite odpreti to stran kliknite Content-Blocker v pregledu naslovov in jo aktivirajte.",
+    "LBL_ADD_BOOKMARK": "Dodaj zaznamek",
+    "LBL_ADD_NEW_BOOKMARK": "Dodaj nov zaznamek",
+    "LBL_BOOKMARK": "Zaznamek",
+    "LBL_BOOKMARK_NAME": "Ime zaznamka",
+    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "Zaznamek uspešno shranjen",
+    "LBL_BOOKMARKS": "Zaznamki",
+    "LBL_BOOKMARKS_DELETED_SUCCESSFULLY": "Zaznamek uspešno izbrisan",
+    "LBL_BOOKMARKS_LIST": "Pregled zaznamkov",
+    "LBL_BOOKMARK_URL": "Zaznamek URL",
+    "LBL_CREATED_ON": "Ustvarjen dne",
+    "LBL_EDIT_BOOKMARK": "Uredi zaznamek",
+    "LBL_ENTER_BOOKMARK_NAME": "Vpiši ime zaznamka",
+    "LBL_ENTER_URL": "Vpiši URL (www.e-clan.si)",
+    "LBL_OUR_SITES_LIST": "Pregled naših strani",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "Zapisek uspešno izbrisan",
+    "Portal": "Naše strani",
+    "SINGLE_Portal": "Naša stran"
+  },
+  "js": {
+    "JS_ENTER_MANDATORY_FIELD": "Prosim, da izpolnite vsa obvezna polja"
+  }
+}
