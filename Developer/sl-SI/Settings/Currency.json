@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion rate",
-    "Currency": "Currency",
-    "Symbol": "Symbol",
-    "Currency Code": "Currency code",
-    "Currency Name": "Currency name",
-    "LBL_ADD_NEW_CURRENCY": "Add new currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency code",
-    "LBL_CURRENCY_NAME": "Currency name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency active",
-    "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current currency",
-    "LBL_EDIT_CURRENCY": "Edit currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer currency",
+    "Conversion Rate": "Menjalni tečaj",
+    "Currency": "Valuta",
+    "Symbol": "Simbol",
+    "Currency Code": "Šifra valute",
+    "Currency Name": "Ime valute",
+    "LBL_ADD_NEW_CURRENCY": "Dodaj novo valuto",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CURRENCY_CODE": "Šifra valute",
+    "LBL_CURRENCY_NAME": "Ime valute",
+    "LBL_CURRENCY_STATUS_DESC": "Omogoči potrditveno polje, da aktiviraš valuto",
+    "LBL_CURRENCY_SYMBOL": "Simbol",
+    "LBL_CURRENT_CURRENCY": "Aktivna valuta",
+    "LBL_EDIT_CURRENCY": "Uredi valuto",
+    "LBL_ENTER_CONVERSION_RATE": "Vpiši menjalni tečaj",
+    "LBL_TRANSFER_CURRENCY": "Zamenjaj valuto",
     "Active": "Aktiven",
     "Inactive": "Neaktiven",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "LBL_SET_AS_DEFAULT": "Nastavi kot privzeto"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency deleted successfully.",
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Valuta uspešno izbrisana.",
     "JS_CURRENCY_DETAILS_SAVED": "Podrobnosti o valuti so shranjene.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Opozorilo! Ta operacija bo spremenila valuto na mnogih mestih v sistemu. Finančni dokumenti, izdani pred to spremembo, lahko zahtevajo pretvorbo valut. Če so bili ti dokumenti izdani v njihovih proizvodnih različicah, izvedite ročno pretvorbo valut. Potrebno bo izračunati menjalne tečaje za preostale valute."
   }
 }
