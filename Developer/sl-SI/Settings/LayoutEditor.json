@@ -184,7 +184,7 @@
     "DateTime": "Date and time file",
     "LBL_HEADER_TYPE_VALUE": "Vrednost",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
-    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines."
+    "LBL_EDIT_MANDATORY_INFO": "Velja za celoten zapis. Če je izbrana možnost \"Ne\", se zapis lahko shrani brez kakršnih koli vrstic inventarja."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

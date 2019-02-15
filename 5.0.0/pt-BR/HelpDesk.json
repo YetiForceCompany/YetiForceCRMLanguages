@@ -16,7 +16,7 @@
     "Days": "Dias",
     "Feature": "Aspecto",
     "HelpDesk ID": "ID do Ticket",
-    "HelpDesk": "Tickets",
+    "HelpDesk": "Pedidos",
     "High": "Alta",
     "Hi": "Olá",
     "Hours": "Horas",
@@ -86,6 +86,6 @@
     "LBL_NOTICE_CLOSE": "Fechado",
     "Services": "services",
     "Support": "support",
-    "Administrative": "administrative"
+    "Administrative": "administrativo"
   }
 }
