@@ -1,6 +1,6 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name"
+    "Announcements|FL_INTERVAL": "Frequência de lembretes em dias, se um usuário não fez revisão alterações. Se o campo permanece vazio o lembrete não será exibido novamente.",
+    "Accounts|Account Name": "Este campo é destinado ao nome da empresa"
   }
 }

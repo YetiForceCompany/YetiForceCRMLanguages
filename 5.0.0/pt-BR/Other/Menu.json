@@ -11,7 +11,7 @@
     "MEN_SUPPORT": "Suporte",
     "MEN_ACCOUNTING": "Contabilidade",
     "MEN_COMPANY": "Gestão",
-    "MEN_ORGANIZATION": "Organization",
+    "MEN_ORGANIZATION": "Organização",
     "MEN_DATABESES": "Dados Gerais",
     "MEN_TEAMWORK": "Trabalho em Equipe",
     "MEN_PRODUCTBASE": "Dados de Produtos",
@@ -22,7 +22,7 @@
     "MEN_LOGISTICS": "Logística",
     "LBL_CHANGE_LOGIN_PASSWORD": "Alterar a senha de acesso",
     "LBL_CHANGE": "Alterar",
-    "LBL_USER_PROFILE": "User profile",
+    "LBL_USER_PROFILE": "Perfil do utilizador",
     "MEN_GDPR": "GDPR"
   }
 }

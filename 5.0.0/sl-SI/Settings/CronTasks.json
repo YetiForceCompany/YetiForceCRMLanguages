@@ -27,7 +27,7 @@
     "Status": "Status",
     "LBL_ADD_CRON": "Add task",
     "MODULE": "Module",
-    "LBL_NAME": "Name",
+    "LBL_NAME": "Ime",
     "LBL_PATH_TO_FILE": "File path",
     "LBL_WORKFLOW": "Delovni postopek",
     "RecurringInvoice": "Recurring Invoice",
@@ -76,6 +76,6 @@
     "FREQUENCY_NUMBER": "The frequency must by an integer",
     "FREQUENCY_REQUIRED": "The field frequency is required",
     "PATH_REQUIRED": "Path field is required",
-    "NAME_REQUIRED": "Name field is required"
+    "NAME_REQUIRED": "Zahtevano je ime polja"
   }
 }
