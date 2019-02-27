@@ -1,7 +1,7 @@
 {
   "php": {
     "IIDN": "Interne Lieferscheine",
-    "SINGLE_IIDN": "Interne Lieferscheine",
+    "SINGLE_IIDN": "Interner Lieferschein",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",

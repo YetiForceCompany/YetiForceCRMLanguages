@@ -3,8 +3,8 @@
     "LBL_TO_LC": "to",
     "LBL_EXPORT_TO_PDF": "Export to PDF",
     "LBL_VENDOR_ADDRESS_INFORMATION": "Address information",
-    "LBL_VENDORS_ADD_TASK": "Add Task",
-    "LBL_VENDORS_ADD_EVENT": "Add Event",
+    "LBL_VENDORS_ADD_TASK": "添加任务",
+    "LBL_VENDORS_ADD_EVENT": "添加事件",
     "300-Sales-Software": "300-Sales-Software",
     "301-Sales-Hardware": "301-Sales-Hardware",
     "302-Rental-Income": "302-Rental-Income",
@@ -14,20 +14,20 @@
     "306-Internet Sales": "306-Internet sales",
     "307-Service-Hardware Labor": "307-Service-Hardware Labor",
     "308-Sales-Books": "308-Sales-Books",
-    "Email": "Primary Email",
+    "Email": "主要电子邮件",
     "GL Account": "GL account",
-    "LBL_VENDOR_INFORMATION": "Vendor details",
+    "LBL_VENDOR_INFORMATION": "供应商详细信息",
     "Phone": "Primary phone",
-    "SINGLE_Vendors": "Vendor",
-    "Vendor Name": "Vendor name",
+    "SINGLE_Vendors": "供应商",
+    "Vendor Name": "供应商名称",
     "Vendor No": "Vendor number",
-    "Vendors": "Vendors",
-    "Website": "Website",
+    "Vendors": "供应商",
+    "Website": "网站",
     "LBL_BUILDING_NUMBER": "Building number",
-    "LBL_LOCAL_NUMBER": "Office number"
+    "LBL_LOCAL_NUMBER": "办公室电话号码"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Deleting this Vendor will remove its related PurchaseOrders. Are you sure you want to delete this Vendor?",
+    "LBL_DELETE_CONFIRMATION": "删除此供应商将删除其相关的采购订单。确实要删除此供应商吗？",
     "LBL_MASS_DELETE_CONFIRMATION": "Deleting this vendor(s) will remove its related Purchase Orders. Are you sure you want to delete the selected Records?"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGRNC": "Goods Received Notes Corrections",
-    "SINGLE_IGRNC": "Goods Received Note Correction",
+    "IGRNC": "Wareneingang Hinweiskorrekturen",
+    "SINGLE_IGRNC": "Wareneingang Hinweiskorrektur",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",
@@ -10,7 +10,7 @@
     "FL_NUMBER": "Nummer",
     "FL_STORAGE": "Lager",
     "FL_STATUS": "Status",
-    "FL_IGRN": "Goods received document",
+    "FL_IGRN": "Wareneingangsdokument",
     "PLL_DRAFT": "Entwurf",
     "PLL_IN_REALIZATION": "In Bearbeitung",
     "PLL_OBJECTIONS": "Einwände",

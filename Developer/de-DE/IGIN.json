@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGIN": "Goods Issued Notes",
-    "SINGLE_IGIN": "Goods Issued Note",
+    "IGIN": "Waren Hinweise",
+    "SINGLE_IGIN": "Waren Hinweis",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",

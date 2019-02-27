@@ -1,6 +1,6 @@
 {
   "php": {
-    "GlobalPermission": "Access to records",
+    "GlobalPermission": "Доступ до записів",
     "LBL_SEND_EMAIL": "Send via email",
     "--None--": "--None--",
     "Account Name": "Account name",

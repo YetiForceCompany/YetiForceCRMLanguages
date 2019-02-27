@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGDNC": "Goods Dispatched Notes Corrections",
-    "SINGLE_IGDNC": "Goods Dispatched Note Correction",
+    "IGDNC": "Warenversand Hinweiskorrekturen",
+    "SINGLE_IGDNC": "Warenversand Hinweiskorrektur",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",
@@ -10,7 +10,7 @@
     "FL_NUMBER": "Nummer",
     "FL_STORAGE": "Speicher",
     "FL_STATUS": "Status",
-    "FL_IGDN": "Goods Dispatched Note",
+    "FL_IGDN": "Waren Versandnotiz",
     "PLL_DRAFT": "Entwurf",
     "PLL_IN_REALIZATION": "In Bearbeitung",
     "PLL_OBJECTIONS": "Einwände",

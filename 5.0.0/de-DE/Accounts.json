@@ -55,7 +55,7 @@
     "LBL_DISCOUNT": "Rabatt",
     "LBL_CREDIT_LIMIT": "Kreditlimit",
     "LBL_VIEW_ACCOUNTSLISTTREE": "Produkte und Dienstleistungen",
-    "LBL_ACCOUNTS_LIST_TREE_ALERT": "List of Accounts depends on selected filter and selected products in tree.",
+    "LBL_ACCOUNTS_LIST_TREE_ALERT": "Die Liste der Organisationen hängt von ausgewählten Filtern und ausgewählten Produkten im Baum ab.",
     "LBL_PARENT_IS_CHILD": "Die ausgewählte Organisation kann nicht ein zweites Mal dieser Organisation zugeordnet werden",
     "LBL_NUMBER_OF_ACTIVE_CONTRACTS": "Anzahl aktiver Serviceverträge",
     "PLL_PROMISING_CLIENT": "Vielversprechender Kunde",

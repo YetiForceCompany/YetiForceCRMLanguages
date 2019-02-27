@@ -27,7 +27,7 @@
     "LBL_VIEW_CONFIGURATION": "Konfigurationssicht",
     "LBL_WIDGET_ADDED": "Widget wurde dem Block erfolgreich hinzugefügt ",
     "LBL_CACHE_WIDGET": "Cache",
-    "LBL_TICK_SIZE": "Tick size (y)",
+    "LBL_TICK_SIZE": "Tick-Größe (y)",
     "LBL_MAXIMUM_VALUE": "Maximaler Wert (y)",
     "LBL_SHOW_USERS": "Benutzernamen anzeigen",
     "LBL_TITLE_WIDGET": "Widgetname",

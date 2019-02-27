@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGRN": "Goods Received Notes",
-    "SINGLE_IGRN": "Goods Received Note",
+    "IGRN": "Wareneingang Hinweise",
+    "SINGLE_IGRN": "Wareneingang Hinweis",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_ACCEPTANCE_DATE": "Bestätigungsdatum",

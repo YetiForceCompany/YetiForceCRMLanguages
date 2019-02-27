@@ -30,7 +30,7 @@
     "LBL_MECHANISM_ENCRYPTION": "Verschlüsselungs Mechanismus",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Keine Verschlüsselung bedeutet, dass sensible Daten wie Passwörter oder Zugangsschlüssel, lesbar in der Datenbank gesichert werden.",
     "LBL_RECOMMENDED_VALUE": "Erforderlich",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
+    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/de\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Webserver Anforderungen unter yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Die Server Konfiguration wurde nicht richtig eingestellt. Es kann Probleme mit dem System geben, oder die eingegebenen Daten können beschädigt oder gelöscht werden. Weitere Informationen finden Sie im Artikel %s. Erkannte Probleme:",
     "LBL_PERFORMANCE": "Leistung",
@@ -44,13 +44,13 @@
     "LBL_SECURITY_CONF_DESC": "Fehler bei der Konfiguration von Parametern im Zusammenhang mit der Systemsicherheit erkannt. Es kann Probleme mit dem System geben, oder die eingegebenen Daten können beschädigt oder gelöscht werden. Weitere Informationen finden Sie im Artikel %s. Passen Sie folgende Parameter an:",
     "LBL_LIB_REQUIRED": "Erforderlich",
     "LBL_LIB_OPTIONAL": "Optional",
-    "LBL_CRON_STATE": "Cron mechanism status",
-    "LBL_CRON_DISABLED_DESC": "The schedule mechanism of cron tasks has not been activated thus not all system functionalities are available",
-    "LBL_CRON_TASK_FAILED_DESC": "Not all cron tasks were completed successfully.",
-    "LBL_HOW_TO_ENABLE_CRON": "How to enable cron",
+    "LBL_CRON_STATE": "Cron-Mechanismus-Status",
+    "LBL_CRON_DISABLED_DESC": "Der Zeitplanung der Cron-Aufgaben wurde nicht aktiviert, so dass nicht alle Systemfunktionalitäten verfügbar sind",
+    "LBL_CRON_TASK_FAILED_DESC": "Nicht alle Cron-Aufgaben wurden erfolgreich abgeschlossen.",
+    "LBL_HOW_TO_ENABLE_CRON": "Wie kann cron aktiviert werden",
     "LBL_CRON_TASKS_LIST": "Cron Tasks",
     "LBL_REGISTRATION": "Registrierung",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
+    "LBL_NEWSLETTER_NO_COMPANY_DATA": "Es wurde keine E-Mail-Adresse zu den Firmendaten hinzugefügt. Füllen Sie die erforderlichen Daten aus, wenn Sie einen Newsletter erhalten möchten.",
     "LBL_COMPANY_DATA": "Unternehmensangaben bearbeiten"
   }
 }
