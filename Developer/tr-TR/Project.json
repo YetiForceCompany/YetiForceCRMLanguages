@@ -20,6 +20,7 @@
     "description": "Açıklama",
     "Related to": "İle ilgili",
     "FL_MEMBER_OF": "Ana Projesi",
+    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
     "LBL_TASKS_OPEN": "Görevler açıldı",
     "LBL_TASKS_DUE": "Gereken görevler",
     "LBL_TASKS_COMPLETED": "Görevler tamamlandı",

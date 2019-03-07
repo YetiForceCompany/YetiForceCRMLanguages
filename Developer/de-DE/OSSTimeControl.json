@@ -91,7 +91,8 @@
     "LBL_TIME_CONTROL_LIST": "Liste Zeiterfassung",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Detilierte Liste zur Zeiterfassung",
     "LBL_TIME_CONTROL_USER_GROUP": "Liste Zeiterfassung mit zusätzlichen Informationen über die Benutzer",
-    "LBL_TYPE": "Aktivitätstyp"
+    "LBL_TYPE": "Aktivitätstyp",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Zweiter Unterprozess"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Erlaubte Zeichen: [0-9]",

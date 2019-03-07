@@ -1,18 +1,18 @@
 {
   "php": {
-    "Answer": "Answer",
-    "Comments": "Comments",
-    "Draft": "Draft",
-    "Faq": "FAQ",
-    "Faq No": "FAQ number",
-    "General": "General",
-    "LBL_COMMENT_INFORMATION": "Comments",
-    "LBL_FAQ_INFORMATION": "FAQ information",
-    "LBL_RECORDS_LIST": "FAQs list",
-    "LBL_SOLUTION": "Solution",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question",
-    "SINGLE_Faq": "FAQ"
+    "Answer": "Απάντηση",
+    "Comments": "Σχόλια",
+    "Draft": "Προσχέδιο",
+    "Faq": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ",
+    "Faq No": "Αριθμός ΣΥΧΝΩΝ ΕΡΩΤΗΣΕΩΝ",
+    "General": "Γενικά",
+    "LBL_COMMENT_INFORMATION": "Σχόλια",
+    "LBL_FAQ_INFORMATION": "Πληροφορίες ΣΥΧΝΩΝ ΕΡΩΤΗΣΕΩΝ",
+    "LBL_RECORDS_LIST": "Λίστα ΣΥΧΝΩΝ ΕΡΩΤΗΣΕΩΝ",
+    "LBL_SOLUTION": "Λύση",
+    "Obsolete": "Ξεπερασμένο",
+    "Published": "Δημοσιευμένο",
+    "Question": "Ερώτηση",
+    "SINGLE_Faq": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
   }
 }

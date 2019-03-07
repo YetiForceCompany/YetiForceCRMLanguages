@@ -20,6 +20,7 @@
     "description": "Descriere",
     "Related to": "Repartizat la",
     "FL_MEMBER_OF": "Proiect principal",
+    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
     "LBL_TASKS_OPEN": "Sarcini deschise",
     "LBL_TASKS_DUE": "Sarcini depasite",
     "LBL_TASKS_COMPLETED": "Sarcini completate",

@@ -1,20 +1,20 @@
 {
   "php": {
-    "Announcements": "Announcements",
-    "SINGLE_Announcements": "Announcement",
-    "LBL_ANNOUNCEMENTS_INFORMATION": "Basic information",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "FL_STATUS": "Status",
-    "FL_INTERVAL": "Reminder time",
-    "FL_IS_MANDATORY": "Obligatory to accept",
-    "PLL_DRAFT": "Draft",
-    "PLL_FOR_ACCEPTANCE": "For approval",
-    "PLL_PUBLISHED": "Published",
-    "PLL_ARCHIVES": "Archived",
-    "LBL_REMIND_ME_LATER": "Remind me later",
-    "LBL_MARK_AS_READ": "Mark as read",
-    "LBL_ACCEPT_ANNOUNCEMENT": "Was accepted?",
-    "LBL_DATE": "Read on"
+    "Announcements": "Ανακοινώσεις",
+    "SINGLE_Announcements": "Ανακοίνωση",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "FL_STATUS": "Κατάσταση",
+    "FL_INTERVAL": "Ώρα υπενθύμισης",
+    "FL_IS_MANDATORY": "Υποχρεωτική η αποδοχή",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_FOR_ACCEPTANCE": "Για έγκριση",
+    "PLL_PUBLISHED": "Δημοσιευμένο",
+    "PLL_ARCHIVES": "Αρχειοθετημένο",
+    "LBL_REMIND_ME_LATER": "Υπενθύμιση αργότερα",
+    "LBL_MARK_AS_READ": "Σήμανση ως αναγνωσμένο",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Έγινε αποδεκτή;",
+    "LBL_DATE": "Ημερομηνία ανάγνωσης"
   }
 }

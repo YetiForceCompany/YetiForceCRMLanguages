@@ -91,7 +91,8 @@
     "LBL_TIME_CONTROL_LIST": " Список контролю часу",
     "LBL_TIME_CONTROL_DETAILED_LIST": " Докладний список контролю часу",
     "LBL_TIME_CONTROL_USER_GROUP": " Список контролю часу з додатковою інформацією про користувачів",
-    "LBL_TYPE": "Тип діяльності "
+    "LBL_TYPE": "Тип діяльності ",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Дозволені символи: [0-9]",

@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion rate",
-    "Currency": "Currency",
-    "Symbol": "Symbol",
-    "Currency Code": "Currency code",
-    "Currency Name": "Currency name",
-    "LBL_ADD_NEW_CURRENCY": "Add new currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency code",
-    "LBL_CURRENCY_NAME": "Currency name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency active",
-    "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current currency",
-    "LBL_EDIT_CURRENCY": "Edit currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "Conversion Rate": "Συντελεστής μετατροπής",
+    "Currency": "Nόμισμα",
+    "Symbol": "Σύμβολο",
+    "Currency Code": "Κωδικός νομίσματος",
+    "Currency Name": "Ονομασία νομίσματος",
+    "LBL_ADD_NEW_CURRENCY": "Πρόσθεσε νέο νόμισμα",
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "LBL_CURRENCY_CODE": "Κωδικός νομίσματος",
+    "LBL_CURRENCY_NAME": "Ονομασία νομίσματος",
+    "LBL_CURRENCY_STATUS_DESC": "Ενεργοποιήστε το πεδίο ελέγχου για να κάνετε ενεργό το νόμισμα",
+    "LBL_CURRENCY_SYMBOL": "Σύμβολο",
+    "LBL_CURRENT_CURRENCY": "Τρέχον νόμισμα",
+    "LBL_EDIT_CURRENCY": "Επεξεργασία νομίσματος",
+    "LBL_ENTER_CONVERSION_RATE": "Εισάγετε την ισοτιμία",
+    "LBL_TRANSFER_CURRENCY": "Μεταφορά νομίσματος",
+    "Active": "Ενεργό",
+    "Inactive": "Ανενεργό",
+    "LBL_SET_AS_DEFAULT": "Ορισμός ως προεπιλογή"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency deleted successfully.",
-    "JS_CURRENCY_DETAILS_SAVED": "Currency details saved.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Νόμισμα διαγράφηκε επιτυχώς.",
+    "JS_CURRENCY_DETAILS_SAVED": "Νόμισμα στοιχεία έχουν αποθηκευτεί.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Προσοχη! Αυτή η λειτουργία θα αλλάξει το νόμισμα σε πολλά μέρη του συστήματος. Τα οικονομικά έγγραφα που έχουν εκδοθεί πριν από αυτήν την αλλαγή ενδέχεται να απαιτούν μετατροπή νομίσματος. Εκτελέστε χειροκίνητη μετατροπή. Θα απαιτηθεί υπολογισμός των συναλλαγματικών ισοτιμιών για τα υπόλοιπα νομίσματα."
   }
 }

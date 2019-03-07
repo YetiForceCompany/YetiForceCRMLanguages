@@ -1,4 +1,18 @@
 {
+    "ar-SA": {
+        "prefix": "ar-SA",
+        "crowdinCode": "ar",
+        "name": "Arabic",
+        "progress": 1,
+        "time": "2019-03-07 06:53:36"
+    },
+    "da-DK": {
+        "prefix": "da-DK",
+        "crowdinCode": "da",
+        "name": "Danish",
+        "progress": 6,
+        "time": "2019-03-07 06:54:26"
+    },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
@@ -10,15 +24,15 @@
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 6,
-        "time": "2019-02-20 13:55:21"
+        "progress": 28,
+        "time": "2019-03-07 06:56:04"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
-        "progress": 78,
-        "time": "2019-02-15 13:13:06"
+        "progress": 83,
+        "time": "2019-03-07 06:59:42"
     },
     "fa-IR": {
         "prefix": "fa-IR",
@@ -66,8 +80,8 @@
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
-        "progress": 17,
-        "time": "2019-02-27 06:37:24"
+        "progress": 18,
+        "time": "2019-03-07 06:57:42"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -87,28 +101,28 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 68,
-        "time": "2019-02-27 06:38:58"
+        "progress": 69,
+        "time": "2019-03-07 06:59:18"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 28,
-        "time": "2019-02-15 13:13:37"
+        "time": "2019-03-07 07:00:07"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 21,
-        "time": "2019-02-27 06:40:08"
+        "progress": 22,
+        "time": "2019-03-07 07:00:32"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
-        "progress": 5,
-        "time": "2019-02-27 06:34:07"
+        "progress": 6,
+        "time": "2019-03-07 06:54:01"
     }
 }

@@ -20,6 +20,7 @@
     "description": "Opis",
     "Related to": "Komitent",
     "FL_MEMBER_OF": "Nadrejeni projekt",
+    "LBL_ESTIMATED_WORK_TIME": "Ocenjeni delovni čas",
     "LBL_TASKS_OPEN": "Odprte naloge",
     "LBL_TASKS_DUE": "Zapadle naloge",
     "LBL_TASKS_COMPLETED": "Zaključene naloge",

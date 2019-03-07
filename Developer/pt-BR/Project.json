@@ -20,6 +20,7 @@
     "description": "Descrição",
     "Related to": "Relacionado a",
     "FL_MEMBER_OF": "Parent Project",
+    "LBL_ESTIMATED_WORK_TIME": "Tempo de trabalho estimado",
     "LBL_TASKS_OPEN": "Tarefas Abertas",
     "LBL_TASKS_DUE": "Tarefas Vencidas",
     "LBL_TASKS_COMPLETED": "Tarefas Concluídas",

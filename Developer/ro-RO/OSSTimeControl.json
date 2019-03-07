@@ -91,7 +91,8 @@
     "LBL_TIME_CONTROL_LIST": "Lista Control Timp",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Lista detaliata Control Timp",
     "LBL_TIME_CONTROL_USER_GROUP": "Lista de control a timpului cu informatii suplimentare despre utilizatori",
-    "LBL_TYPE": "Tip activitate"
+    "LBL_TYPE": "Tip activitate",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caractere permise: [0-9]",

@@ -11,7 +11,7 @@
     "LBL_SAVE_NOTIFY_OK": "Cambios guardados.",
     "LBL_CHOOSE_API": "Escoja la API",
     "LBL_USE_GOOGLE_GEOCODER": "Utilizar Google Geocoding",
-    "google_map_api": "Google Geocoding",
+    "google_map_api": "Geocodificación de Google",
     "opencage_data": "OpenCage Geocoder",
     "LBL_GLOBAL_CONFIG": "Configuración global",
     "LBL_SAVE_GLOBAL_SETTINGS": "Guardar la configuración global",

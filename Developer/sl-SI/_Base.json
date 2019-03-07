@@ -1317,7 +1317,8 @@
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "E-poštni naslov ni bil dodan podjetju. Če želite prejemati e-novice %s.",
     "LBL_START": "Začni",
     "LBL_END": "Končaj",
-    "LBL_AUTOMATIC": "Automatic"
+    "LBL_AUTOMATIC": "Automatic",
+    "LBL_SELECT_UP_TO_RECORDS": "Select up to %s records"
   },
   "js": {
     "JS_APPROVE": "Odobri",

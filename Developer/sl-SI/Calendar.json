@@ -149,9 +149,9 @@
     "LBL_NEVER": "Nikdar",
     "LBL_COUNT": "Število ponovitev",
     "LBL_REAPEAT_IN": "Ponovi v ",
-    "LBL_DAYS_TYPE": "Dan (dni)",
-    "LBL_WEEKS_TYPE": "Teden(i)",
-    "LBL_MONTHS_TYPE": "Mesec(i)",
+    "LBL_DAYS_TYPE": "Dnevno",
+    "LBL_WEEKS_TYPE": "Tedensko",
+    "LBL_MONTHS_TYPE": "Mesečno",
     "LBL_YEAR_TYPE": "Leto",
     "LBL_SM_FRI": "Pet",
     "LBL_SM_MON": "Pon",
@@ -185,7 +185,8 @@
     "LBL_REMAIND_HOURS": "Spomni me  po izbranem številu ur",
     "LBL_REMAIND_MINS": "Spomni me  po izbranem številu minut",
     "LBL_WORK_DAYS": "Delovni dnevi",
-    "LBL_EDIT_FROM_CALENDAR": "Uredi iz koledarja"
+    "LBL_EDIT_FROM_CALENDAR": "Uredi iz koledarja",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Pogled koledarja uspešno dodan",

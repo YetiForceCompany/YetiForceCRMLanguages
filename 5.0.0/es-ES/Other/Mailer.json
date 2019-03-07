@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CRON_EMAIL_SUBJECT": "Scheduled import has finished",
-    "LBL_CRON_COMPLETED_IMPORT": "Record import summary for the module:"
+    "LBL_CRON_EMAIL_SUBJECT": "Importación programada ha terminado",
+    "LBL_CRON_COMPLETED_IMPORT": "Registro del resumen de importación para el modulo:"
   }
 }

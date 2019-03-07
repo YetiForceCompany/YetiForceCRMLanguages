@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_COUNTRY_NAME": "Country name",
-    "LBL_COUNTRY_SHORTNAME": "Country code",
-    "LBL_COUNTRY_TOGGLE_STATUS": "Is the country avalabile globally in the system?",
-    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Enable or disable all countries",
-    "LBL_VISIBLE_IN_PHONE": "Is the country visible in phone type field?",
-    "LBL_VISIBLE_IN_COUNTRY": "Is the country visible in \"Country\" address field?",
-    "LBL_ROW_TO_TOP": "Move row to the top",
-    "LBL_ROW_TO_BOTTOM": "Move row to the bottom",
-    "LBL_COUNTRY_SETTINGS": "Country settings",
-    "LBL_COUNTRY_DESCRIPTION": "Configure the availability of countries in the system"
+    "LBL_COUNTRY_NAME": "Όνομα χώρας",
+    "LBL_COUNTRY_SHORTNAME": "Κώδικας χώρας",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Είναι η χώρα διαθέσιμη συνολικά στο σύστημα;",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Ενεργοποιήσετε ή να απενεργοποιήσετε όλες τις χώρες",
+    "LBL_VISIBLE_IN_PHONE": "Είναι ορατή η χώρα στο πεδίο Τύπος τηλεφώνου;",
+    "LBL_VISIBLE_IN_COUNTRY": "Είναι ορατή η χώρα στο πεδίο διεύθυνσης;",
+    "LBL_ROW_TO_TOP": "Μετακίνηση γραμμής στην κορυφή",
+    "LBL_ROW_TO_BOTTOM": "Μετακίνηση γραμμής στο τέλος",
+    "LBL_COUNTRY_SETTINGS": "Ρυθμίσεις για τη χώρα",
+    "LBL_COUNTRY_DESCRIPTION": "Διαμόρφωση της διαθεσιμότητας χωρών στο σύστημα"
   },
   "js": {
-    "JS_COUNTRY_SETTING": "Country settings"
+    "JS_COUNTRY_SETTING": "Ρυθμίσεις για τη χώρα"
   }
 }

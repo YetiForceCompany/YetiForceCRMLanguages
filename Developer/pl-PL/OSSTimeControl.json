@@ -91,7 +91,8 @@
     "LBL_TIME_CONTROL_LIST": "Lista czasu pracy",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Lista szczegółowa czasu pracy",
     "LBL_TIME_CONTROL_USER_GROUP": "Lista czasu pracy z dodatkowymi informacjami o użytkowniku",
-    "LBL_TYPE": "Rodzaj aktywności"
+    "LBL_TYPE": "Rodzaj aktywności",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dopuszczalne znaki: [0-9]",

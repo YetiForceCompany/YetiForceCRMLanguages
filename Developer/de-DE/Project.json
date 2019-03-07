@@ -20,6 +20,7 @@
     "description": "Beschreibung",
     "Related to": "Bezogen auf",
     "FL_MEMBER_OF": "Übergeordnetes Projekt",
+    "LBL_ESTIMATED_WORK_TIME": "Geschätzte Arbeitszeit",
     "LBL_TASKS_OPEN": "Offene Aufgaben",
     "LBL_TASKS_DUE": "Fällige Aufgaben",
     "LBL_TASKS_COMPLETED": "Abgeschlossene Aufgabe",

@@ -1,10 +1,10 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Nicht zugelassener Wert",
-    "ERR_ILLEGAL_FIELD_VALUE": "Nicht zugelassener Wert in Feld %s (%s)",
-    "ERR_VALUE_IS_TOO_LONG": "Wert in Feld %s ist zu lang (%s)",
-    "ERR_TO_MANY_FILES": "Zu viele Dateien - Limit wurde erreicht",
-    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Wert %s muss größer Null sein (%s)",
+    "ERR_ILLEGAL_FIELD_VALUE": "Ungültiger Wert wurde für diesen Feldtyp eingegeben. Feldname: %s, Modul: %s, Wert: %s",
+    "ERR_VALUE_IS_TOO_LONG": "Zeichenlimit überschritten. Feldname: %s, Modul: %s, Wert: %s",
+    "ERR_TO_MANY_FILES": "Zu viele Dateien übertragen - Limit wurde überschritten. Feldname: %s, Modul: %s, Wert: %s",
+    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Der Feldwert muss größer als Null sein. Feldname: %s, Modul: %s, Wert: %s",
     "ERR_NOT_ALLOWED_VALUE": "Fehlerhafter Wert entdeckt, bitte kontaktieren Sie Ihren Administrator",
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Das Passwort wurde bereits verwendet. Das System erlaubt aus Sicherheitsgründen keine bisherigen Passwörter.",
     "ERR_USER_EXISTS": "Benutzer mit dem gleichen Namen und Rolle schon vorhanden (%s)",

@@ -91,7 +91,8 @@
     "LBL_TIME_CONTROL_LIST": "Zaman Kontrol Listesi",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
     "LBL_TIME_CONTROL_USER_GROUP": "Kullanıcılar hakkında ek bilgi içeren Zaman Kontrol Listesi",
-    "LBL_TYPE": "Activity type"
+    "LBL_TYPE": "Activity type",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "MSG_ERROR_NUMBER": "İzin verilen karakterler: [0-9]",

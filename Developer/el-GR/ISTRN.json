@@ -2,20 +2,20 @@
   "php": {
     "ISTRN": "Storage Transfer Received Notes",
     "SINGLE_ISTRN": "Storage Transfer Received Notes",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
-    "FL_ACCEPTANCE_DATE": "Date of acceptance",
-    "FL_VENDOR": "Vendor",
-    "FL_SUBJECT": "Subject",
-    "FL_NUMBER": "Number",
+    "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
+    "LBL_ATTENTION_BLOCK": "Σχόλια",
+    "FL_ACCEPTANCE_DATE": "Ημερομηνία αποδοχής",
+    "FL_VENDOR": "Προμηθευτής",
+    "FL_SUBJECT": "Θέμα",
+    "FL_NUMBER": "Αριθμός",
     "FL_STORAGE": "Storage",
-    "FL_STATUS": "Status",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
     "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "PLL_FOR_APPROVAL": "Για έγκριση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή",
+    "LBL_CHANGE_STATUS": "Αλλαγή Κατάστασης"
   }
 }

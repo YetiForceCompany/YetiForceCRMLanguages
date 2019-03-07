@@ -20,6 +20,7 @@
     "description": "Описание",
     "Related to": "Связан с",
     "FL_MEMBER_OF": "Родительский проект",
+    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
     "LBL_TASKS_OPEN": "Открытые Задачи",
     "LBL_TASKS_DUE": "Просроченные",
     "LBL_TASKS_COMPLETED": "Закрытые Задачи",
