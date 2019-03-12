@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
-    "RecycleBin": "Trash bin"
+    "RecycleBin": "Cestino"
   },
   "js": {
     "JS_MASS_DELETE": "Mass delete",

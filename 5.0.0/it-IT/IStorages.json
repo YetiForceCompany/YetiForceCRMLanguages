@@ -1,7 +1,7 @@
 {
   "php": {
-    "IStorages": "Storages",
-    "SINGLE_IStorages": "Storage",
+    "IStorages": "Magazzini",
+    "SINGLE_IStorages": "Magazzino",
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_PARENT_STORAGE": "Parent storage",

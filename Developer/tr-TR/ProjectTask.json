@@ -21,13 +21,9 @@
     "low": "düşük",
     "normal": "normal",
     "high": "yüksek",
-    "In Progress": "Devam etmekte",
-    "Open": "Açık",
-    "Completed": "Tamamlandı",
-    "Deferred": "Ertelenen",
-    "Cancelled": "İptal edildi",
     "administrative": "İç",
     "operative": "Dış",
-    "other": "Paylaşılan"
+    "other": "Paylaşılan",
+    "LBL_PROJECT": "Project"
   }
 }

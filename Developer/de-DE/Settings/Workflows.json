@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Verkaufsphase - Bestellung und Vertrag",
     "Sales stage - Verification of documents": "Verkaufsphase - Überprüfung der Dokumente",
     "Sales stage - Sales winnings - waiting for projects": "Verkaufsphase - Verkäufe gewonnen - Warten auf Projekte",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Verkaufsphase - Verkauf gewonnen - Vertragserfüllung",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Verkaufsphase - Verkauf gewonnen - Vertragserfüllung",
     "Sales stage - Sales Win - post sales activities": "Verkaufsphase - Verkauf gewonnen - Nachvertragsaktivitäten",
     "Marketing process - Data Verification": "Marketingprozess - Datenüberprüfung",
     "Marketing process - Preliminary analysis": "Marketingprozess - Voranalyse",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "Workflow Datei (XML) wurde erfolgreich importiert.",
     "LBL_RETURN": "Zurück",
     "LBL_GO_TO_TEMPLATE": "Klicke um zum importierten Datensatz zu springen.",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "Script existiert physikalisch, enthält aber nicht den importierten Funktionsname. Manuell %s zu %s hinzufügen.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "Speichern der Workflow Skriptdatei fehlgeschlagen. Manuell kopieren %s zu %s.",
     "LBL_MESSAGES_FROM_USERS": "Nachrichten von den Benutzern",
     "LBL_WATCHDOG": "Protokolliere Änderungen",
     "LBL_SKIP_CURRENT_USER": "Aktuellen Benutzer überspringen",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Prüfen ob Empfänger den Empfang der E-Mail bestätigt hat",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Feld, welches addiert werden soll",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Feld, in welchem die Summe gespeichert werden soll",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Summenfeldwerte aus verknüpften Modulfeldern"
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Summenfeldwerte aus verknüpften Modulfeldern",
+    "LBL_ATTACH_DOCS_FROM": "Dokumente anhängen von"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Dieselben Felder mehr als einmal ausgewählt",

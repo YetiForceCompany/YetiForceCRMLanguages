@@ -8,7 +8,7 @@
     "Payment": "Plačilo",
     "LBL_TOTAL_TIME": "Skupaj čas [ur]",
     "LBL_STATUS": "Status",
-    "Assigned To": "Skrbnik",
+    "Assigned To": "Odgovoren",
     "name": "Zadeva",
     "Start Date": "Datum začetka",
     "End Date": "Datum zaključka",
@@ -101,7 +101,7 @@
     "JS_START_DATE": "Začetek",
     "JS_END_DATE": "Konec",
     "JS_TOTAL_TIME": "Skupen čas",
-    "JS_ASSIGNED_TO": "Skrbnik",
+    "JS_ASSIGNED_TO": "Odgovoren",
     "JS_TYPE": "Vrsta",
     "JS_NUMBER": "Število"
   }

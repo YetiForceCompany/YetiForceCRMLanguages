@@ -2,7 +2,7 @@
   "php": {
     "PaymentsIn": "Payments in",
     "SINGLE_PaymentsIn": "Payment in",
-    "LBL_MAIN_INFORMATION": "Basic information",
+    "LBL_MAIN_INFORMATION": "Βασικές πληροφορίες",
     "LBL_PAYMENT_INFORMATION": "Payment information",
     "LBL_PAYMENTSVALUE": "Value",
     "LBL_PAYMENTSTITLE": "Payment title",

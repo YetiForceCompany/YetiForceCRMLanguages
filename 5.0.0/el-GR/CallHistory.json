@@ -20,7 +20,7 @@
     "LBL_IPADDRESS": "Αναγνωριστικό Διεύθυνσης",
     "LBL_SIMSERIAL": "Αριθμός SIM",
     "LBL_SUBSCRIBERID": "Αριθμός Συνδρομητή",
-    "LBL_DESTINATION": "Where called",
+    "LBL_DESTINATION": "Απο που έγινε η κλήση",
     "LBL_SOURCE": "Προέλευση κλήσης",
     "Record Id": "Αναγνωριστικό εγγραφής",
     "Outgoing missed": "Εξερχόμενες αναπάντητες",

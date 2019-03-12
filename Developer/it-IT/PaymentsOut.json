@@ -1,7 +1,7 @@
 {
   "php": {
-    "PaymentsOut": "Payments out",
-    "SINGLE_PaymentsOut": "Payment out",
+    "PaymentsOut": "Pagamenti",
+    "SINGLE_PaymentsOut": "Pagamento",
     "LBL_MAIN_INFORMATION": "Basic information",
     "LBL_PAYMENT_INFORMATION": "Payment information",
     "LBL_PAYMENTSVALUE": "Value",

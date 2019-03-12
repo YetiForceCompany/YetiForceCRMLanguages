@@ -2,7 +2,7 @@
   "php": {
     "LBL_INVOICE": "Τιμολόγιο",
     "LBL_INVOICE_NUMBER": "Αριθμός τιμολογίου",
-    "LBL_TO_FINVOICE_NUMBER": "Αριθμό τιμολογίου ΦΠΑ",
+    "LBL_TO_FINVOICE_NUMBER": "Στον αριθμό τιμολογίου",
     "LBL_INVOICE_PROFORMA": "Προτιμολόγιο",
     "LBL_RECIPIENT": "Παραλήπτης",
     "LBL_ORDER": "Παραγγελία",

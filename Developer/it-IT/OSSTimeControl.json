@@ -1,8 +1,8 @@
 {
   "php": {
     "Brutto": "Gross",
-    "SINGLE_OSSTimeControl": "Time Control",
-    "OSSTimeControl": "Time Control",
+    "SINGLE_OSSTimeControl": "Presenze e assenze",
+    "OSSTimeControl": "Presenze e assenze",
     "LBL_MAIN_INFORMATION": "Basic information",
     "LBL_BLOCK": "Relations",
     "Payment": "Payment",

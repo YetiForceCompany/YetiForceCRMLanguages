@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Etapa de ventas - Orden y Contrato",
     "Sales stage - Verification of documents": "Etapa de ventas - Verificación de documentos",
     "Sales stage - Sales winnings - waiting for projects": "Etapa de ventas - Ganancias de ventas - esperando proyectos",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Etapa de ventas - Victoria en ventas - ejecución del contrato\/acuerdo",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Etapa de ventas - Victoria en ventas - ejecución del contrato/acuerdo",
     "Sales stage - Sales Win - post sales activities": "Etapa de ventas - Victoria en ventas - actividades post venta",
     "Marketing process - Data Verification": "Proceso de Marketing - Verificación de datos",
     "Marketing process - Preliminary analysis": "Proceso de Marketing - Análisis preliminar",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "El archivo XML del Trigger se ha importado correctamente.",
     "LBL_RETURN": "Volver",
     "LBL_GO_TO_TEMPLATE": "Haga clic para ir al registro importado.",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "El script existe físicamente pero no contiene el nombre de la función importada. Agregue manualmente %s a %s.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "No se pudo guardar el archivo de script de métodos de flujo de trabajo. Copie manualmente %s en %s.",
     "LBL_MESSAGES_FROM_USERS": "Mensajes de usuarios",
     "LBL_WATCHDOG": "Control de cambios",
     "LBL_SKIP_CURRENT_USER": "Saltar usuario actual",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Verificar si el destinatario aceptó recibir correos electrónicos",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Field to be summed",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Field where summation will be saved",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields"
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields",
+    "LBL_ATTACH_DOCS_FROM": "Attach documents from"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mismos campos seleccionados más de una vez",

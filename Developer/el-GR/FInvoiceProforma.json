@@ -1,20 +1,20 @@
 {
   "php": {
-    "FInvoiceProforma": "Proforma invoices",
-    "SINGLE_FInvoiceProforma": "Proforma invoice",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
-    "FL_SUBJECT": "Subject",
-    "FL_PAYMENT_DATE": "Due date",
-    "FL_SALE_DATE": "Sale date",
-    "FL_ACCOUNT": "Account",
-    "FL_FORM_PAYMENT": "Payment method",
-    "FL_STATUS": "Status",
-    "FL_NUMBER": "Invoice number",
-    "FL_TOTAL": "Net",
-    "FL_GROSS": "Gross",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "FInvoiceProforma": "Προτιμολόγια",
+    "SINGLE_FInvoiceProforma": "Προτιμολόγιο",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Διεύθυνση παράδοσης",
+    "FL_SUBJECT": "Θέμα",
+    "FL_PAYMENT_DATE": "Ημερομηνία πληρωμής μέχρι",
+    "FL_SALE_DATE": "Ημερομηνία Πώλησης",
+    "FL_ACCOUNT": "Πελάτης",
+    "FL_FORM_PAYMENT": "Μέθοδος πληρωμής",
+    "FL_STATUS": "Κατάσταση",
+    "FL_NUMBER": "Αριθμός προτιμολογίου",
+    "FL_TOTAL": "Καθαρό ποσό",
+    "FL_GROSS": "Μικτό ποσό",
+    "PLL_CASH": "Μετρητά",
+    "PLL_TRANSFER": "Τραπεζικό έμβασμα",
+    "PLL_WIRE_TRANSFER": "Ηλεκτρονική μεταφορά"
   }
 }

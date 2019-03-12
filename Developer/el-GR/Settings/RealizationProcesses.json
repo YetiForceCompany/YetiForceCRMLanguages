@@ -5,7 +5,7 @@
     "LBL_TYPE": "Status",
     "LBL_PROJECT": "Project",
     "LBL_PROJECT_STATUS_INFO": "Statuses determining that the project is closed",
-    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Καταστάσεις που καθορίζουν ότι το ορόσημο έκλεισε",
     "LBL_PROJECTTASK_STATUS_INFO": "Statuses determining that the task is closed",
     "LBL_SAVE_CONFIG_OK": "Changes saved successfully.",
     "LBL_SAVE_CONFIG_ERROR": "Failed to save changes.",

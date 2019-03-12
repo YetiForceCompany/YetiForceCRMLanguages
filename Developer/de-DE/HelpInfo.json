@@ -2,6 +2,6 @@
   "php": {
     "Announcements|FL_INTERVAL": "Frequenz der Erinnerungen in Tagen, falls ein Benutzer die Änderungen nicht anschaut. Ist das Feld leer, wird die Erinnerung nicht noch einmal angezeigt.",
     "Accounts|Account Name": "Diese Feld ist für den Firmenname gedacht",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used"
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Das Standardland, das bei der Synchronisierung des CardDAV Telefonfeldes verwendet wird. Wenn das Telefon ohne nationale Nummer ist, wird dieses Feld verwendet"
   }
 }

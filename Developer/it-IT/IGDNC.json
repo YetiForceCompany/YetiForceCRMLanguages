@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGDNC": "Goods Dispatched Notes Corrections",
-    "SINGLE_IGDNC": "Goods Dispatched Note Correction",
+    "IGDNC": "Correzioni nota merce spedita",
+    "SINGLE_IGDNC": "Correzione nota merce spedita",
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",

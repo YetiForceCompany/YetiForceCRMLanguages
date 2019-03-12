@@ -19,7 +19,7 @@
     "PLL_FAILED": "Failed",
     "LBL_MASS_SEND_SMS_INFO": "All text messages are sent in cron",
     "LBL_CHECK_STATUS": "Check status",
-    "message": "Message",
+    "message": "Messaggio",
     "LBL_SMSNOTIFIER_INFORMATION": "SMS information"
   }
 }

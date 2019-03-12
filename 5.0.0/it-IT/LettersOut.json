@@ -1,7 +1,7 @@
 {
   "php": {
-    "LettersOut": "Lettere in uscita",
-    "SINGLE_LettersOut": "Lettere in uscita",
+    "LettersOut": "Corrispondenze inviate",
+    "SINGLE_LettersOut": "Corrispondenza inviata",
     "LBL_MAIN_INFORMATION": "Letters Information",
     "Number": "Numero",
     "Title": "Oggetto",

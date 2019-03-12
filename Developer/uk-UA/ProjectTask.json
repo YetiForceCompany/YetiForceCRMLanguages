@@ -21,13 +21,9 @@
     "low": "Низький",
     "normal": "Нормальний",
     "high": "Високий",
-    "In Progress": "В прогресі",
-    "Open": "Відкрит",
-    "Completed": "Завершений",
-    "Deferred": "Відкладений",
-    "Cancelled": "Скасовано",
     "administrative": "Внутрішній",
     "operative": "Зовнішній",
-    "other": "Загальний"
+    "other": "Загальний",
+    "LBL_PROJECT": "Project"
   }
 }

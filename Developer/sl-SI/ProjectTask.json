@@ -21,13 +21,9 @@
     "low": "nizka",
     "normal": "normalna",
     "high": "visoka",
-    "In Progress": "V obdelavi",
-    "Open": "Odprt",
-    "Completed": "Zaključen",
-    "Deferred": "Preloženo",
-    "Cancelled": "Prekinjeno",
     "administrative": "Interna",
     "operative": "Zunanja",
-    "other": "Deljeno"
+    "other": "Deljeno",
+    "LBL_PROJECT": "Project"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "SINGLE_ProjectTask": "Project Task",
-    "Project Task": "Project Tasks",
+    "SINGLE_ProjectTask": "Attività di progetto",
+    "Project Task": "Attività di progetto",
     "Start Date": "Start Date",
     "Target End Date": "Target End Date",
     "End Date": "End Date",
@@ -21,13 +21,9 @@
     "low": "low",
     "normal": "normal",
     "high": "high",
-    "In Progress": "In Progress",
-    "Open": "Open",
-    "Completed": "Completed",
-    "Deferred": "Deferred",
-    "Cancelled": "Cancelled",
     "administrative": "Internal",
     "operative": "External",
-    "other": "Shared"
+    "other": "Shared",
+    "LBL_PROJECT": "Project"
   }
 }

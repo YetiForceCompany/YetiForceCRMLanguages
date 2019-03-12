@@ -1,7 +1,7 @@
 {
   "php": {
-    "Assets": "Beni",
-    "SINGLE_Assets": "Bene",
+    "Assets": "Risorse cedute",
+    "SINGLE_Assets": "Risorsa ceduta",
     "LBL_ASSET_INFORMATION": "Dettagli",
     "Asset No": "Bene nr.",
     "Serial Number": "Serial number",

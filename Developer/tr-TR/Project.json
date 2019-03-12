@@ -44,14 +44,6 @@
     "low": "düşük",
     "normal": "normal",
     "high": "yüksek",
-    "prospecting": "Potansiyel oluşturma",
-    "initiated": "Başlatılan",
-    "in progress": "Devam etmekte",
-    "waiting for feedback": "Geribildirim için bekleniyor",
-    "on hold": "Beklemede",
-    "completed": "Tamamlandı",
-    "delivered": "Teslim",
-    "archived": "Arşivlenmiş",
     "LBL_GANTT_FILTER": "Filter",
     "LBL_GANTT_NOW": "Center",
     "LBL_GANTT_ZOOM_X": "X axis zoom",
@@ -60,7 +52,8 @@
     "LBL_GANTT_TASKLIST": "List width",
     "LBL_GANTT_TASKLIST_VISIBLE": "Show list",
     "LBL_GANTT_TITLE": "Gantt chart",
-    "LBL_GANTT_TITLE_ALL_PROJECTS": "Gantt chart - all projects"
+    "LBL_GANTT_TITLE_ALL_PROJECTS": "Gantt chart - all projects",
+    "LBL_SHOW_HIERARCHY": "Project hierarchy"
   },
   "js": {
     "JS_NO.": "No.",

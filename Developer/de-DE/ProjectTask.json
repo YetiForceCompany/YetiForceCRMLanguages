@@ -21,13 +21,9 @@
     "low": "niedrig",
     "normal": "normal",
     "high": "hoch",
-    "In Progress": "In Bearbeitung",
-    "Open": "Offen",
-    "Completed": "Abgeschlossen",
-    "Deferred": "Aufgeschoben",
-    "Cancelled": "Abgebrochen",
     "administrative": "Intern",
     "operative": "Extern",
-    "other": "Gemeinsam"
+    "other": "Gemeinsam",
+    "LBL_PROJECT": "Projekt"
   }
 }

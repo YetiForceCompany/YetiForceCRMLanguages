@@ -1,7 +1,7 @@
 {
   "php": {
-    "MultiCompany": "Departments",
-    "SINGLE_MultiCompany": "Department",
+    "MultiCompany": "Dipartimenti",
+    "SINGLE_MultiCompany": "Dipartimento",
     "LBL_BASIC_INFORMATION": "Company details",
     "LBL_CONTACT_INFORMATION": "Contact info",
     "LBL_REGISTRATION_INFORMATION": "Registration info",

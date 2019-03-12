@@ -1,7 +1,7 @@
 {
   "php": {
-    "LettersIn": "Letters incoming",
-    "SINGLE_LettersIn": "Letters incoming",
+    "LettersIn": "Corrispondenze ricevute",
+    "SINGLE_LettersIn": "Corrispondenza ricevuta",
     "LBL_MAIN_INFORMATION": "Letters Information",
     "Number": "Number",
     "Title": "Subject",

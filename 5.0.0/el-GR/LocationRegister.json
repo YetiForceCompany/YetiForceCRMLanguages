@@ -2,7 +2,7 @@
   "php": {
     "LocationRegister": "Location Register",
     "SINGLE_LocationRegister": "Location Register",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
     "FL_NAME": "Name",
     "FL_PARENT_LOCATION": "Parent location",
     "PLL_DRAFT": "Draft",
@@ -13,7 +13,7 @@
     "FL_STATUS": "Status",
     "PLL_ELECTRONIC": "Electronic",
     "PLL_PHYSICAL": "Physical",
-    "FL_SECURITY_TYPE": "Security type",
+    "FL_SECURITY_TYPE": "Τύπος ασφάλειας",
     "LBL_ADDRESS": "Address",
     "FL_BUILDING_NUMBER": "Building number",
     "FL_DISTRICT": "District",

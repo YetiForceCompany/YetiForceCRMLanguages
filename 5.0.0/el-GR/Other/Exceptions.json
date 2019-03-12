@@ -27,7 +27,7 @@
     "ERR_FIELD_NOT_FOUND": "Το πεδίο δεν βρέθηκε",
     "ERR_NO_VALUE": "Καμία τιμή",
     "ERR_API": "Σφάλμα στο API",
-    "ERR_MODULE_DOES_NOT_EXIST": "Το mudule %s δεν υπάρχει",
+    "ERR_MODULE_DOES_NOT_EXIST": "Το Module %s δεν υπάρχει",
     "ERR_RECORD_NOT_FOUND": "Δεν υπάρχει εγγραφή με αναγνωριστικό: %s",
     "ERR_NO_PERMISSIONS_TO_FIELD": "Δεν υπάρχουν δικαιώματα στο πεδίο",
     "ERR_NO_PERMITTED_TO_VIEW": "Δεν υπάρχουν δικαιώματα για προβολή",

@@ -1,8 +1,8 @@
 {
   "php": {
-    "ServiceContracts": "Service Contracts",
-    "Service Contracts": "Service Contracts",
-    "SINGLE_ServiceContracts": "Service Contract",
+    "ServiceContracts": "Contratti di assistenza",
+    "Service Contracts": "Contratti di assistenza",
+    "SINGLE_ServiceContracts": "Contratto di assistenza",
     "LBL_SERVICE_CONTRACT_INFORMATION": "Service Contract details",
     "Contract No": "Contract number",
     "Start Date": "Start date",

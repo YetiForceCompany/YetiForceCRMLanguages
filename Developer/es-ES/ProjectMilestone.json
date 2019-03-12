@@ -20,11 +20,6 @@
     "PLL_SHARED": "Compartido",
     "PLL_LOW": "Baja",
     "PLL_NORMAL": "Normal",
-    "PLL_HIGH": "Alta",
-    "PLL_IN_PROGRESS": "In Progress",
-    "PLL_OPEN": "Open",
-    "PLL_COMPLETED": "Completed",
-    "PLL_DEFERRED": "Deferred",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_HIGH": "Alta"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSEmployees": "Employees",
-    "SINGLE_OSSEmployees": "Employee",
+    "OSSEmployees": "Dipendenti",
+    "SINGLE_OSSEmployees": "Dipendente",
     "LBL_INFORMATION": "Employee details",
     "LBL_CONTACTS": "Contact details",
     "LBL_PERMANENT_ADDRESS": "Address of permanent residence",

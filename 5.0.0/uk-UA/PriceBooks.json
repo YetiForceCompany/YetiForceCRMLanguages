@@ -1,15 +1,15 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price"
+    "LBL_ADD_TO": "Додати до",
+    "LBL_EDIT_LIST_PRICE": "Редагувати список цін",
+    "LBL_PRICEBOOK_INFORMATION": "Подробиці прайс листу",
+    "LBL_UNIT_PRICE": "Ціна за одиницю",
+    "Price Book Name": "Назва прайс листу",
+    "PriceBook No": "Номер прайс листу",
+    "PriceBooks": "Прайс листи",
+    "SINGLE_PriceBooks": "Прайс лист",
+    "yes": "Так",
+    "no": "Ні",
+    "Unit Price": "Ціна за одиницю"
   }
 }

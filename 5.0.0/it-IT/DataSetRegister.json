@@ -1,8 +1,8 @@
 {
   "php": {
-    "DataSetRegister": "Data Set Register",
-    "SINGLE_DataSetRegister": "Data Set Register",
-    "LBL_DATA_SET_REGISTER": "Data Set Register",
+    "DataSetRegister": "Registro gruppi dati",
+    "SINGLE_DataSetRegister": "Gruppo dati (GDPR)",
+    "LBL_DATA_SET_REGISTER": "Gruppo dati (GDPR)",
     "FL_SUBJECT": "Subject",
     "FL_STATUS": "Status",
     "FL_SCOPE_DATA": "Scope of data in set",

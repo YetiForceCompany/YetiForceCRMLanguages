@@ -1,9 +1,9 @@
 {
   "php": {
     "LBL_AUTOLOGIN": "Mail - Aυτόματη σύνδεση",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Ρύθμιση παραμέτρων αυτόματης σύνδεσης για την λειτουργική μονάδα email",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Ρύθμιση παραμέτρων αυτόματης σύνδεσης για το module email",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Mail - Διαμόρφωση",
-    "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Γενική διαμόρφωση της λειτουργικής μονάδας (module) Email",
+    "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Γενική διαμόρφωση του module Email",
     "LBL_RC_USER": "Λογαριασμός Email χρήστη",
     "LBL_CRM_USER": "Χρήστες με πρόσβαση στο γραμματοκιβώτιο",
     "LBL_SAVED_CHANGES": "Οι αλλαγές αποθηκεύτηκαν",

@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Stagiu vanzare - Comanda si Contract",
     "Sales stage - Verification of documents": "Stagiu vanzare - Verificarea documentelor",
     "Sales stage - Sales winnings - waiting for projects": "Stagiu vanzare - Castigare vanzare - asteapta pentru proiecte",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Stagiu vanzare - Castigare vanzare - performanta contractului \/ acordului",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Stagiu vanzare - Castigare vanzare - performanta contractului / acordului",
     "Sales stage - Sales Win - post sales activities": "Stagiu vanzare - Castigare vanzare - Activitati post vanzare",
     "Marketing process - Data Verification": "Proces Marketing - Verificare date",
     "Marketing process - Preliminary analysis": "Proces Marketing - Analiza preliminara",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "Fisierul trigger XML a fost importat cu succes.",
     "LBL_RETURN": "Intoarcere",
     "LBL_GO_TO_TEMPLATE": "Faceti clic pentru a merge la inregistrarea importata.",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "Scriptul exista fizic, dar nu contine numele functiei importate. Adaugati manual %s la %s.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "Nu a reusit salvarea fisierului script de metode de flux de lucru. Copiati manual %s la %s.",
     "LBL_MESSAGES_FROM_USERS": "Mesaje de la utilizatori",
     "LBL_WATCHDOG": "Urmareste schimbari",
     "LBL_SKIP_CURRENT_USER": "Sari peste utilizatorul curent",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Verificati daca destinatarul este de acord sa primeasca email-uri",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Camp pentru a fi insumat",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Camp unde insumarea va fi salvata",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Insumati valorile introduse din campurile modulelor asociate"
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Insumati valorile introduse din campurile modulelor asociate",
+    "LBL_ATTACH_DOCS_FROM": "Attach documents from"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Aceleasi campuri selectate mai mult decat odata",

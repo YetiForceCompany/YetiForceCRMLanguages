@@ -1,6 +1,6 @@
 {
   "php": {
-    "SINGLE_ProjectMilestone": "Project Milestone",
+    "SINGLE_ProjectMilestone": "Tappa di progetto",
     "LBL_PROJECT_MILESTONE_INFORMATION": "Project Milestone Details",
     "Project Milestone Name": "Project Milestone Name",
     "Milestone Date": "Milestone Date",
@@ -20,11 +20,6 @@
     "PLL_SHARED": "Shared",
     "PLL_LOW": "Low",
     "PLL_NORMAL": "Normal",
-    "PLL_HIGH": "High",
-    "PLL_IN_PROGRESS": "In Progress",
-    "PLL_OPEN": "Open",
-    "PLL_COMPLETED": "Completed",
-    "PLL_DEFERRED": "Deferred",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_HIGH": "High"
   }
 }

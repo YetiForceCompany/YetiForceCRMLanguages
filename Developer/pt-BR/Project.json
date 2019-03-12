@@ -44,14 +44,6 @@
     "low": "baixo",
     "normal": "normal",
     "high": "alto",
-    "prospecting": "Prospectando",
-    "initiated": "Iniciado",
-    "in progress": "Em Andamento",
-    "waiting for feedback": "Aguardando Feedback",
-    "on hold": "Aguardando",
-    "completed": "Concluído",
-    "delivered": "Entregue",
-    "archived": "Arquivado",
     "LBL_GANTT_FILTER": "Filter",
     "LBL_GANTT_NOW": "Center",
     "LBL_GANTT_ZOOM_X": "X axis zoom",
@@ -60,7 +52,8 @@
     "LBL_GANTT_TASKLIST": "List width",
     "LBL_GANTT_TASKLIST_VISIBLE": "Show list",
     "LBL_GANTT_TITLE": "Gantt chart",
-    "LBL_GANTT_TITLE_ALL_PROJECTS": "Gantt chart - all projects"
+    "LBL_GANTT_TITLE_ALL_PROJECTS": "Gantt chart - all projects",
+    "LBL_SHOW_HIERARCHY": "Hierarquia do projeto"
   },
   "js": {
     "JS_NO.": "No.",

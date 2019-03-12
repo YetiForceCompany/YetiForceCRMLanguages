@@ -2,7 +2,7 @@
   "php": {
     "PaymentsOut": "Payments out",
     "SINGLE_PaymentsOut": "Payment out",
-    "LBL_MAIN_INFORMATION": "Basic information",
+    "LBL_MAIN_INFORMATION": "Βασικές πληροφορίες",
     "LBL_PAYMENT_INFORMATION": "Payment information",
     "LBL_PAYMENTSVALUE": "Value",
     "LBL_PAYMENTSTITLE": "Payment title",

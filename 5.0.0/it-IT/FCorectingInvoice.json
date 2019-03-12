@@ -1,7 +1,7 @@
 {
   "php": {
-    "FCorectingInvoice": "Correcting Invoices",
-    "SINGLE_FCorectingInvoice": "Correcting Invoice",
+    "FCorectingInvoice": "Fatture di accredito",
+    "SINGLE_FCorectingInvoice": "Fattura di accredito",
     "LBL_CUSTOM_INFORMATION": "System information",
     "LBL_INVOICE_ADDRESS": "Invoice address",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",

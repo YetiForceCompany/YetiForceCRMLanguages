@@ -165,7 +165,7 @@
     "LBL_HELP_DOM": "Extension allows to handle XML documents via DOM API with PHP.",
     "LBL_HELP_ZIP": "Allows to read and save compressed ZIP archives and files located in them.",
     "LBL_HELP_SOAP": "Allows processes running on disparate operating systems to communicate",
-    "LBL_HELP_FILEINFO": "Detects content type and file encoding.",
+    "LBL_HELP_FILEINFO": "Ανιχνεύει τον τύπο περιεχομένου και την κωδικοποίηση του αρχείου.",
     "LBL_HELP_ICONV": "It converts one encodings to any other",
     "LBL_HELP_EXIF": "Extension enables work with image metadata",
     "LBL_HELP_LDAP": "Protocol used to access databases that store information in a tree structure.",

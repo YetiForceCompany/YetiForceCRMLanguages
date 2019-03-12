@@ -1,9 +1,9 @@
 {
   "php": {
-    "Webservices": "Webservices",
-    "LBL_CHANGE_PASSWORD_FAILURE": "Failed to change password",
-    "LBL_DATABASE_QUERY_ERROR": "Database error while performing requested operation",
-    "LBL_INVALID_OLD_PASSWORD": "Invalid value given for old password.",
-    "LBL_NEW_PASSWORD_MISMATCH": "New Password and confirm password don't match"
+    "Webservices": "WebServices",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Απέτυχε η αλλαγή κωδικού πρόσβασης",
+    "LBL_DATABASE_QUERY_ERROR": "Σφάλμα βάσης δεδομένων κατά την εκτέλεση της ζητούμενης λειτουργίας",
+    "LBL_INVALID_OLD_PASSWORD": "Μη έγκυρη τιμή δόθηκε για παλιό κωδικό πρόσβασης.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Ο νέος κωδικός πρόσβασης και η επιβεβαίωση δεν ταιριάζουν"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "CInternalTickets": "Internal tickets",
-    "SINGLE_CInternalTickets": "Internal ticket",
+    "CInternalTickets": "Ticket interni",
+    "SINGLE_CInternalTickets": "Ticket interno",
     "LBL_ADDITIONAL_INFORMATION": "Additional information",
     "LBL_BASIC_INFORMATION": "Basic information",
     "LBL_TICKET_RESOLUTION": "Solution",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGDN": "Goods Dispatched Note",
-    "SINGLE_IGDN": "Goods Dispatched Note",
+    "IGDN": "Note merci spedite",
+    "SINGLE_IGDN": "Nota merce spedita",
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",

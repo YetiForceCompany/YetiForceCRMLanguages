@@ -1,6 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Valoare ilegala",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
     "ERR_ILLEGAL_FIELD_VALUE": "Illegal value has been entered for this field type. Field name: %s, Module: %s, Value: %s",
     "ERR_VALUE_IS_TOO_LONG": "Character limit exceeded. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Too many files transferred - limit was exceeded. Field name: %s, Module: %s, Value: %s",
@@ -23,6 +25,7 @@
     "ERR_FILE_PHP_CODE_INJECTION": "Fisierul contine cod PHP periculos si a fost respins",
     "ERR_FILE_XPACKET_CODE_INJECTION": "Fisierul contine cod XPACKET periculos si a fost respins",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Nu aveti permisiuni pentru a crea directoare de fisiere",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
     "ERR_AUTO_LOGOUT": "Deconectat automat din cauza  inactivitatii",
     "ERR_FIELD_NOT_FOUND": "Field not found",
     "ERR_NO_VALUE": "No value",

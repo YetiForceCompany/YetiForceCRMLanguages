@@ -21,13 +21,9 @@
     "low": "Низкий",
     "normal": "Нормальный",
     "high": "Высокий",
-    "In Progress": "В прогрессе",
-    "Open": "Открыт",
-    "Completed": "Завершенный",
-    "Deferred": "Отложенный",
-    "Cancelled": "Отменен",
     "administrative": "Внутренний",
     "operative": "Внешний",
-    "other": "Общий"
+    "other": "Общий",
+    "LBL_PROJECT": "Project"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "SINGLE_Reservations": "Reservation",
-    "Reservations": "Reservations",
+    "SINGLE_Reservations": "Prenotazione",
+    "Reservations": "Prenotazioni",
     "LBL_MAIN_INFORMATION": "Reservation details",
     "LBL_BLOCK": "Relations",
     "LBL_TOTAL_TIME": "Total time",

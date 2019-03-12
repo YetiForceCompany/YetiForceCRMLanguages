@@ -1,7 +1,7 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
+    "HolidaysEntitlement": "Ferie annuali",
+    "SINGLE_HolidaysEntitlement": "Ferie annuali",
     "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_YEAR": "Year",

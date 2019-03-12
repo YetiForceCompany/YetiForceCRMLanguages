@@ -1,6 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Nicht zugelassener Wert",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skript existiert physisch, enthält aber keinen importierten Funktionsnamen.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Fehler beim Speichern der Workflow-Methoden-Skriptdatei fehlgeschlagen.",
     "ERR_ILLEGAL_FIELD_VALUE": "Ungültiger Wert wurde für diesen Feldtyp eingegeben. Feldname: %s, Modul: %s, Wert: %s",
     "ERR_VALUE_IS_TOO_LONG": "Zeichenlimit überschritten. Feldname: %s, Modul: %s, Wert: %s",
     "ERR_TO_MANY_FILES": "Zu viele Dateien übertragen - Limit wurde überschritten. Feldname: %s, Modul: %s, Wert: %s",
@@ -23,6 +25,7 @@
     "ERR_FILE_PHP_CODE_INJECTION": "Datei enthält gefährlichen PHP Code und wurde daher verworfen",
     "ERR_FILE_XPACKET_CODE_INJECTION": "Datei enthält gefährlichen XPACKET Code und wurde daher verworfen",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Keine Berechtigung um Verzeichnisse zu erstellen",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "Das Verzeichnis kann nicht erstellt werden",
     "ERR_AUTO_LOGOUT": "Automatisch abgemeldet aufgrund keiner Aktivität",
     "ERR_FIELD_NOT_FOUND": "Feld nicht gefunden",
     "ERR_NO_VALUE": "kein Wert",

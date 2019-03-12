@@ -15,7 +15,7 @@
     "LBL_Lang_ac_admin": "Administrador",
     "LBL_Lang_ac_user": "Usuarios",
     "LBL_Lang_action": "Acciones",
-    "LBL_LAST_UPDATE": "Update date",
+    "LBL_LAST_UPDATE": "Fecha de actualización",
     "LBL_SaveDataOK": "Cambios guardados",
     "LBL_DeleteDataOK": "Idioma eliminado",
     "LBL_AddDataOK": "Nuevo idioma añadido",
@@ -52,9 +52,9 @@
     "LBL_SHOW": "Mostrar",
     "LBL_STATS_INFO": "Los valores estadísticos presentados determinan la proporción en porcentaje de etiquetas no traducidas a todas las etiquetas que existen en el archivo del idioma base.",
     "LBL_UNTRANSLATED_LABELS": "Etiquetas no traducidas",
-    "LBL_IMPORT_LANG": "Import language",
-    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
-    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
+    "LBL_IMPORT_LANG": "Importar idioma",
+    "LBL_IETF_LANGUAGE_TAG": "Etiqueta de idioma IETF",
+    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Etiqueta de idioma no compatible con el estándar IETF."
   },
   "js": {
     "Translations": "Traducciones",

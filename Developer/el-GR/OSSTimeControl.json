@@ -3,7 +3,7 @@
     "Brutto": "Gross",
     "SINGLE_OSSTimeControl": "Time Control",
     "OSSTimeControl": "Time Control",
-    "LBL_MAIN_INFORMATION": "Basic information",
+    "LBL_MAIN_INFORMATION": "Βασικές πληροφορίες",
     "LBL_BLOCK": "Relations",
     "Payment": "Payment",
     "LBL_TOTAL_TIME": "Total time [h]",
@@ -28,7 +28,7 @@
     "Paid": "Paid",
     "Free": "Free",
     "LBL_CALENDAR_VIEW": "Calendar",
-    "LBL_TIMECONTROL_TYPE": "Type",
+    "LBL_TIMECONTROL_TYPE": "Τύπος",
     "SETTINGS": "Settings",
     "LBL_HELP_SETTINGS": "Help",
     "DELETE": "Delete",
@@ -56,7 +56,7 @@
     "Company presentation": "Company presentation",
     "Product\/service presentation": "Product\/service presentation",
     "Calculations preparation": "Calculations preparation",
-    "Quote preparation": "Quote preparation",
+    "Quote preparation": "Προετοιμασία προσφοράς",
     "Order\/Service preparation": "Order\/Service preparation",
     "Project preparation": "Project preparation",
     "Task realization": "Task realization",
@@ -91,7 +91,7 @@
     "LBL_TIME_CONTROL_LIST": "Time Control List",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
     "LBL_TIME_CONTROL_USER_GROUP": "Time Control List with additional information about users",
-    "LBL_TYPE": "Activity type",
+    "LBL_TYPE": "Τύπος δραστηριότητας",
     "FL_SUBPROCESS_SECOND_LEVEL": "Υποεπεξεργασία δευτέρου επιπέδου"
   },
   "js": {
@@ -102,7 +102,7 @@
     "JS_END_DATE": "End date",
     "JS_TOTAL_TIME": "Total time",
     "JS_ASSIGNED_TO": "Assigned to",
-    "JS_TYPE": "Type",
+    "JS_TYPE": "Τύπος",
     "JS_NUMBER": "Number"
   }
 }

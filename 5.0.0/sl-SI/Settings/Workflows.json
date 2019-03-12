@@ -9,7 +9,7 @@
     "LBL_ADD_TASKS_FOR_WORKFLOW": "Dodajanje opravil za delovne postopke",
     "LBL_ADD_TIME": "Dodaj čas",
     "LBL_ANNUAL_REVENUE": "letni promet",
-    "LBL_ASSIGNED_TO": "Skrbnik",
+    "LBL_ASSIGNED_TO": "Odgovoren",
     "LBL_CANNOT_DELETE_DEFAULT_WORKFLOW": "Privzetega delovnega postopka ne morete izbrisati",
     "LBL_CREATED_IN_OLD_LOOK_CANNOT_BE_EDITED": "Ta delovni postopek je bil ustvarjen v starejši različici. Pogojev ustvarjenih v starejših različicah ni mogoče urejati. Lahko se odločite, da ponovno ustvarite pogoje ali pa uporabiti stare obstoječe pogoje brez spreminjanja.",
     "LBL_CREATING_WORKFLOW": "Ustvari delovni postopek",

@@ -7,7 +7,7 @@
     "LBL_DELETE_KEY": "Eliminar clave",
     "LBL_ADD_KEY": "Añadir clave",
     "LBL_DISPLAY_NAME": "Usuario",
-    "LBL_EMAIL": "Correo",
+    "LBL_EMAIL": "Correo electrónico",
     "LBL_LOGIN": "Iniciar sesión",
     "LBL_SELECT_USER": "Seleccionar usuario:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "La aplicación DAV no está activa",

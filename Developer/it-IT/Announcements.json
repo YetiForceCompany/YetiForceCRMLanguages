@@ -1,7 +1,7 @@
 {
   "php": {
-    "Announcements": "Announcements",
-    "SINGLE_Announcements": "Announcement",
+    "Announcements": "Comunicazioni",
+    "SINGLE_Announcements": "Comunicazione",
     "LBL_ANNOUNCEMENTS_INFORMATION": "Basic information",
     "LBL_SUBJECT": "Subject",
     "LBL_NUMBER": "Number",

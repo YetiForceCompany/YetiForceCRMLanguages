@@ -1,12 +1,12 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
-    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
-    "LBL_CUSTOM_INFORMATION": "System Information",
-    "LBL_YEAR": "Year",
-    "LBL_DAYS": "Number of holidays",
-    "LBL_EMPLOYEE": "Employee",
-    "LBL_NUMBER": "Number"
+    "HolidaysEntitlement": "Ετήσιες Άδειες",
+    "SINGLE_HolidaysEntitlement": "Ετήσια Άδεια",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_YEAR": "Έτος",
+    "LBL_DAYS": "Αρ. Ημερών αδειών",
+    "LBL_EMPLOYEE": "Υπάλληλος",
+    "LBL_NUMBER": "Αριθμός"
   }
 }

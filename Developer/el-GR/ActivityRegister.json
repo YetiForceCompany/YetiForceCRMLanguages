@@ -1,7 +1,7 @@
 {
   "php": {
-    "ActivityRegister": "Activity Register",
-    "SINGLE_ActivityRegister": "Activity Register",
+    "ActivityRegister": "Μητρώο δραστηριοτήτων",
+    "SINGLE_ActivityRegister": "Μητρώο δραστηριοτήτων",
     "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
     "FL_SUBJECT": "Θέμα",
     "FL_PARENT_ACTIVITY": "Γονική δραστηριότητα",
@@ -11,19 +11,19 @@
     "PLL_IN_REALIZATION": "Σε υλοποίηση",
     "PLL_COMPLETED": "Ολοκληρώθηκε",
     "PLL_CANCELLED": "Ακυρώθηκε",
-    "FL_DATA_SET": "Data set",
-    "PLL_ENTRUSTMENT": "Entrustment",
-    "PLL_SHARING": "Sharing",
-    "PLL_TRANSFER": "Transfer",
-    "PLL_ENTRUSTMENT_ACCEPTANCE": "Entrustment acceptance",
-    "PLL_INTERNAL": "Internal",
-    "FL_START_DATE": "Start date",
-    "FL_END_DATE": "End date",
-    "LBL_DATES": "Activity dates",
-    "LBL_DESCRIPTION": "Description",
-    "FL_DESCRIPTION": "Description",
-    "FL_COMMENTS": "Comments",
-    "LBL_COMMENTS": "Comments",
-    "FL_ACTIVITY_TYPE": "Activity type"
+    "FL_DATA_SET": "Σύνολο δεδομένων",
+    "PLL_ENTRUSTMENT": "Ανάθεση",
+    "PLL_SHARING": "Κοινή Χρήση",
+    "PLL_TRANSFER": "Μεταφορά",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Αποδοχή ανάθεσης",
+    "PLL_INTERNAL": "Εσωτερική",
+    "FL_START_DATE": "Ημερομηνία έναρξης",
+    "FL_END_DATE": "Ημερομηνία λήξης",
+    "LBL_DATES": "Ημερομηνίες δραστηριοτήτων",
+    "LBL_DESCRIPTION": "Περιγραφή",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_COMMENTS": "Σχόλια",
+    "LBL_COMMENTS": "Σχόλια",
+    "FL_ACTIVITY_TYPE": "Τύπος δραστηριότητας"
   }
 }

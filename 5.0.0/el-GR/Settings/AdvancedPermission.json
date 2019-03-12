@@ -4,7 +4,7 @@
     "AdvancedPermission": "Προηγμένα δικαιώματα",
     "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Διαμόρφωση προσαρμοσμένων δικαιωμάτων, δυνατότητα χορήγησης ή κατάργησης δικαιωμάτων σε εγγραφές.",
     "LBL_NAME": "Όνομα κανόνα",
-    "LBL_MODULE": "Λειτουργική μονάδα (Module)",
+    "LBL_MODULE": "Module",
     "LBL_ACTION": "Ενέργεια",
     "LBL_STATUS": "Κατάσταση",
     "LBL_ROLE": "Ρόλος",
@@ -20,7 +20,7 @@
     "LBL_RECALCULATE_PERMISSION_TITLE": "Επανυπολογισμός δικαιωμάτων",
     "LBL_RECALCULATE_PERMISSION_BTN": "Επανυπολογισμός δικαιωμάτων",
     "LBL_RECALCULATE_CRON_INFO": "Ο επανυπολογισμός δικαιωμάτων απαιτεί ενεργό CRON, ελέγξτε στις ρυθμίσεις αν η εργασία είναι ενεργή.",
-    "LBL_MODULES_LIST": "Λίστα των λειτουργικών μονάδων (modules)",
+    "LBL_MODULES_LIST": "Λίστα των modules",
     "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Τα προχωρημένα δικαιώματα έχουν απενεργοποιηθεί επειδή πρέπει να είναι ενεργή η προσωρινή αποθήκευση των εγγραφών. Για να αρχίσουν να λειτουργούν τα δικαιώματα, πρέπει να ενεργοποιήσετε το cron και τη μεταβλητή CACHING_PERMISSION_TO_RECORD [config \/ security.php] να οριστεί σε true."
   }
 }

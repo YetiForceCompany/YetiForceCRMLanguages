@@ -3,15 +3,15 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 1,
-        "time": "2019-03-07 06:53:36"
+        "progress": 3,
+        "time": "2019-03-12 10:32:29"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
-        "progress": 6,
-        "time": "2019-03-07 06:54:26"
+        "progress": 10,
+        "time": "2019-03-12 10:33:25"
     },
     "de-DE": {
         "prefix": "de-DE",
@@ -24,15 +24,15 @@
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 28,
-        "time": "2019-03-07 06:56:04"
+        "progress": 45,
+        "time": "2019-03-12 10:35:17"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
-        "progress": 83,
-        "time": "2019-03-07 06:59:42"
+        "progress": 87,
+        "time": "2019-03-12 10:39:33"
     },
     "fa-IR": {
         "prefix": "fa-IR",
@@ -52,8 +52,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 9,
-        "time": "2019-02-15 13:08:52"
+        "progress": 15,
+        "time": "2019-03-12 10:35:45"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -74,14 +74,14 @@
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 65,
-        "time": "2019-02-27 06:37:47"
+        "time": "2019-03-12 10:37:40"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
-        "progress": 18,
-        "time": "2019-03-07 06:57:42"
+        "progress": 21,
+        "time": "2019-03-12 10:37:10"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -102,7 +102,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 69,
-        "time": "2019-03-07 06:59:18"
+        "time": "2019-03-12 10:39:05"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -115,14 +115,14 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 22,
-        "time": "2019-03-07 07:00:32"
+        "progress": 26,
+        "time": "2019-03-12 10:40:30"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 6,
-        "time": "2019-03-07 06:54:01"
+        "time": "2019-03-12 10:32:57"
     }
 }

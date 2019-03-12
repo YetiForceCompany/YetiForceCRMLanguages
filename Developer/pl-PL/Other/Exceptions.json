@@ -1,6 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Niedozwolona wartość",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skrypt fizycznie istnieje, ale nie zawiera nazwy importowanej funkcji.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Nie można zapisać pliku skryptu metod workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Wprowadzono niedozwoloną wartość dla tego typu pola. Nazwa pola: %s, Moduł: %s, Wartość: %s",
     "ERR_VALUE_IS_TOO_LONG": "Przekroczono limit znaków. Nazwa pola: %s, moduł: %s, wartość: %s",
     "ERR_TO_MANY_FILES": "Przekroczono limit ilości przesyłanych plików. Nazwa pola: %s, moduł: %s, wartość: %s",
@@ -23,6 +25,7 @@
     "ERR_FILE_PHP_CODE_INJECTION": "Plik zawiera niebezpieczny kod PHP i został odrzucony",
     "ERR_FILE_XPACKET_CODE_INJECTION": "Plik zawiera niebezpieczny kod XPACKET i został odrzucony",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Brak uprawnień do tworzenia katalogów",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "Nie można utworzyć folderu",
     "ERR_AUTO_LOGOUT": "Nastąpiło automatyczne wylogowanie ze względu na brak aktywności",
     "ERR_FIELD_NOT_FOUND": "Nie znaleziono pola",
     "ERR_NO_VALUE": "Brak wartości",

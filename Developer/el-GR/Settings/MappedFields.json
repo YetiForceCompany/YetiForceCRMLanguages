@@ -10,18 +10,18 @@
     "LBL_STATUS": "Status",
     "active": "Active",
     "inactive": "Inactive",
-    "LBL_SELECT_MODULE": "Select module",
-    "LBL_SELECT_REL_MODULE": "Select related module",
+    "LBL_SELECT_MODULE": "Επιλέξτε module",
+    "LBL_SELECT_REL_MODULE": "Επιλέξτε σχετιζόμενο module",
     "LBL_MF_SETTINGS": "Modules",
     "LBL_MAPPING_LIST": "Mapping",
     "LBL_EXCEPTIONS": "Exceptions",
     "LBL_PERMISSIONS": "Permissions",
     "LBL_STEP_N": "Step %d",
-    "LBL_ENTER_BASIC_DETAILS": "Enter basic information",
+    "LBL_ENTER_BASIC_DETAILS": "Εισάγετε βασικές πληροφορίες",
     "LBL_NEXT": "Next",
-    "LBL_TEMPATE_EXIST": "Template for selected modules already exists",
+    "LBL_TEMPATE_EXIST": "Πρότυπο για τα επιλεγμένα modules υπάρχει ήδη",
     "LBL_MAPPING_SETTINGS_DETAILS": "Select fields for mapping",
-    "LBL_FIELDS_TYPE": "Field type",
+    "LBL_FIELDS_TYPE": "Τύπος πεδίου",
     "LBL_DEFAULT_VALUE": "Default value",
     "LBL_ACTIONS": "Actions",
     "LBL_ADD_CONDITION": "Add mapping",
@@ -72,7 +72,7 @@
   },
   "js": {
     "JS_IS_ALREADY_BEEN_MAPPED": "This field has already been mapped.",
-    "JS_YOU_CAN_NOT_SELECT_THE_SAME_MODULES": "You can't select the same modules",
+    "JS_YOU_CAN_NOT_SELECT_THE_SAME_MODULES": "Δεν μπορείτε να επιλέξετε τα ίδια modules",
     "JS_MF_SAVED_SUCCESSFULLY": "Changes saved successfully"
   }
 }

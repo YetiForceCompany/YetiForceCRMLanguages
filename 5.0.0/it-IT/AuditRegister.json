@@ -1,7 +1,7 @@
 {
   "php": {
-    "AuditRegister": "Audit Register",
-    "SINGLE_AuditRegister": "Audit Register",
+    "AuditRegister": "Registro revisioni",
+    "SINGLE_AuditRegister": "Revisione (GDPR)",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "FL_NAME": "Name",
     "FL_LOCATION_REGISTER": "Location register",

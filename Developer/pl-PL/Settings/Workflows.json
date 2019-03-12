@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Proces sprzedażowy - Zamówienie i Umowa",
     "Sales stage - Verification of documents": "Proces sprzedażowy - Weryfikacja dokumentów",
     "Sales stage - Sales winnings - waiting for projects": "Proces sprzedażowy -  Przychody ze sprzedaży - oczekiwanie na projekty",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Proces sprzedażowy - osiągnięcia sprzedaży - realizacja umowy",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Proces sprzedażowy - osiągnięcia sprzedaży - realizacja umowy",
     "Sales stage - Sales Win - post sales activities": "Proces sprzedażowy - osiągnięcia sprzedaży- działania posprzedażowe",
     "Marketing process - Data Verification": "Proces marketingowy - weryfikacja danych",
     "Marketing process - Preliminary analysis": "Proces marketingowy - Analiza wstępna",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "Pomyślnie zaimportowano plik automatyzacji.",
     "LBL_RETURN": "Wróć",
     "LBL_GO_TO_TEMPLATE": "Kliknij aby przejść do zaimportowanego rekordu.",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "Skrypt fizycznie istnieje, ale nie zawiera importowanej funkcji. Ręcznie skopiuj %s do %s.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "Nie udało się zapisać importowanego skryptu z funkcją obiegu informacji. Ręcznie skopiuj %s do %s.",
     "LBL_MESSAGES_FROM_USERS": "Wiadomości od użytkowników",
     "LBL_WATCHDOG": "Śledzenie zmian",
     "LBL_SKIP_CURRENT_USER": "Pomiń obecnego użytkownika",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Sprawdzaj zgode na kontakt mailowy odbiorców",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Pole które ma być sumowane",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Pole do którego zapisać sumę",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sumowanie wartości z pól modułu zależnego "
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sumowanie wartości z pól modułu zależnego ",
+    "LBL_ATTACH_DOCS_FROM": "Załącz dokumenty z"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

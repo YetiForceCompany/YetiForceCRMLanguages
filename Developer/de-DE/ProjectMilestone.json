@@ -20,11 +20,6 @@
     "PLL_SHARED": "Geteilt",
     "PLL_LOW": "niedrig",
     "PLL_NORMAL": "normal",
-    "PLL_HIGH": "hoch",
-    "PLL_IN_PROGRESS": "In Bearbeitung",
-    "PLL_OPEN": "Offen",
-    "PLL_COMPLETED": "Abgeschlossen",
-    "PLL_DEFERRED": "Ausgesetzt",
-    "PLL_CANCELLED": "Gestoppt"
+    "PLL_HIGH": "hoch"
   }
 }

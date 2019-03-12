@@ -1,7 +1,7 @@
 {
   "php": {
-    "IIDN": "Internal Delivery Notes",
-    "SINGLE_IIDN": "Internal Delivery Notes",
+    "IIDN": "Note interne di consegna",
+    "SINGLE_IIDN": "Nota interna di consegna",
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",

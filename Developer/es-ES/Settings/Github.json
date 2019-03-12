@@ -11,12 +11,12 @@
     "closed": "Cerrado",
     "open": "Abierto",
     "LBL_ME": "Solo yo",
-    "LBL_ERROR_CONNECTED": "Se ha producido un error al conectarse a www.api.github.com, compruebe la configuración de conexión a Internet y firewall",
-    "LBL_CONFIRM_REGULATIONS": "I have read the rules of adding new issues: %s",
+    "LBL_ERROR_CONNECTED": "Se ha producido un error al conectarse a www.api.github.com, compruebe la conexión a Internet y la configuracion del firewall",
+    "LBL_CONFIRM_REGULATIONS": "He leído las reglas de añadir nuevos problemas: %s",
     "LBL_DEFAULT_DESCRIPTION": "Generado por YetiforceCRM ver. ",
     "LBL_CHANGE_AUTHORIZATION": "Cambiar autorización",
     "LBL_USERNAME_DESCRIPTION": "Su nombre de usuario de www.github.com",
-    "LBL_TOKEN_DESCRIPTION": "Código de acceso de cuenta única de 40 caracteres. Puede encontrar el manual de creación de token %s",
+    "LBL_TOKEN_DESCRIPTION": "Código de acceso unico a cuenta de 40 caracteres. Puede encontrar el manual de creación de token %s",
     "LBL_NO_ISSUES": "Sin problemas reportados",
     "LBL_PHP_VERSION": "PHP"
   }

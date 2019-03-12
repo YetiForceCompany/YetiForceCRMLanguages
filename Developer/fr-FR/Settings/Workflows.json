@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Etapes de Ventes - Commandes et contrat",
     "Sales stage - Verification of documents": "Etapes de Ventes - Vérification des documents",
     "Sales stage - Sales winnings - waiting for projects": "Etapes de Ventes - Ventes remportées - Attente des projets",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Etapes de Ventes - Ventes remportées - performance du contract ",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Etapes de Ventes - Ventes remportées - performance du contract ",
     "Sales stage - Sales Win - post sales activities": "Etapes de Ventes - Ventes remportées - Activités après-vente",
     "Marketing process - Data Verification": "Processus Marketing - Vérification des données",
     "Marketing process - Preliminary analysis": "Processus Marketing - Analyses préliminaires",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "Fichier XML du déclencheur importé avec succès.",
     "LBL_RETURN": "Retour",
     "LBL_GO_TO_TEMPLATE": "Cliquer pour aller à l'enregistrement importé.",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "Le script existe mais ne contient pas le nom de la fonction importée. Ajouter manuellement %s à %s.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "Echec de la sauvegarde du fichier script des méthodes de workflow. Copier manuellement %s à %s.",
     "LBL_MESSAGES_FROM_USERS": "Messages des utilisateurs",
     "LBL_WATCHDOG": "Suivi des modifications",
     "LBL_SKIP_CURRENT_USER": "Ignorer l'utilisateur actuel",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Verify if recipient agreed to receive e-mails",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Field to be summed",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Field where summation will be saved",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields"
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields",
+    "LBL_ATTACH_DOCS_FROM": "Attach documents from"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Le même champ est sélectionné à multiples reprises",

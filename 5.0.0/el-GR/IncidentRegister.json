@@ -2,7 +2,7 @@
   "php": {
     "IncidentRegister": "Incident Register",
     "SINGLE_IncidentRegister": "Incident Register",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
     "FL_NAME": "Name",
     "FL_LOCATION_REGISTER": "Location register",
     "FL_DATASETREGISTER": "Data set register",
@@ -12,7 +12,7 @@
     "PLL_COMPLETED": "Completed",
     "PLL_CANCELLED": "Cancelled",
     "FL_STATUS": "Status",
-    "FL_TYPE": "Type",
+    "FL_TYPE": "Τύπος",
     "PLL_INTERNAL": "Internal",
     "PLL_EXTERNAL": "External",
     "LBL_INCIDENT_DATES": "Incident dates",

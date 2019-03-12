@@ -20,11 +20,6 @@
     "PLL_SHARED": "Общий",
     "PLL_LOW": "Низкий",
     "PLL_NORMAL": "Нормальный",
-    "PLL_HIGH": "Высокий",
-    "PLL_IN_PROGRESS": "In Progress",
-    "PLL_OPEN": "Open",
-    "PLL_COMPLETED": "Completed",
-    "PLL_DEFERRED": "Deferred",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_HIGH": "Высокий"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Email aziendale",
-    "SINGLE_OSSMailView": "Email aziendale",
+    "OSSMailView": "Email",
+    "SINGLE_OSSMailView": "Email",
     "LBL_RECORDS_LIST": "Lista delle email",
     "LBL_INFORMATION": "Informazioni",
     "LBL_ORIGN_MESSAGE": "Messaggio originale",

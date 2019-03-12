@@ -1,7 +1,7 @@
 {
   "php": {
-    "EmailTemplates": "Email templates",
-    "SINGLE_EmailTemplates": "Email template",
+    "EmailTemplates": "Modelli email",
+    "SINGLE_EmailTemplates": "Modello email",
     "LBL_CONTENT_MAIL": "Email content",
     "LBL_BASIC_DETAILS": "Informazioni base",
     "FL_NAME": "Nome",

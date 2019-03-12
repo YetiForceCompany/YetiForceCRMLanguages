@@ -1,7 +1,7 @@
 {
   "php": {
-    "IGRN": "Nota prodotti ricevuti",
-    "SINGLE_IGRN": "Nota prodotti ricevuti",
+    "IGRN": "Note merci in ingresso",
+    "SINGLE_IGRN": "Nota merce in ingresso",
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",

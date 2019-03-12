@@ -1,8 +1,8 @@
 {
   "php": {
-    "OutsourcedProducts": "Outsourced Products",
-    "SINGLE_OutsourcedProducts": "Outsourced Product",
-    "LBL_INFORMATION": "Outsourced Products",
+    "OutsourcedProducts": "Prodotti esternalizzati",
+    "SINGLE_OutsourcedProducts": "Prodotto esternalizzato",
+    "LBL_INFORMATION": "Informazioni base",
     "Assigned To": "Assigned to",
     "LBL_RODZAJUMOWY": "Type of agreement",
     "LBL_osservicesstatus": "Status",

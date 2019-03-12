@@ -1,7 +1,7 @@
 {
   "php": {
-    "SQuoteEnquiries": "Ordini di vendita",
-    "SINGLE_SQuoteEnquiries": "Sales enquiry",
+    "SQuoteEnquiries": "Richieste di preventivo",
+    "SINGLE_SQuoteEnquiries": "Richiesta di preventivo",
     "LBL_QUOTESENQUIRES_INFORMATION": "Basic information",
     "LBL_CUSTOM_INFORMATION": "System information",
     "LBL_DESCRIPTION_INFORMATION": "Description details",

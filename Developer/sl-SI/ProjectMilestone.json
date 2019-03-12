@@ -20,11 +20,6 @@
     "PLL_SHARED": "V skupni rabi",
     "PLL_LOW": "Nizka",
     "PLL_NORMAL": "Normalna",
-    "PLL_HIGH": "Visoka",
-    "PLL_IN_PROGRESS": "V obdelavi",
-    "PLL_OPEN": "Odprto",
-    "PLL_COMPLETED": "Zaključeno",
-    "PLL_DEFERRED": "Preloženo",
-    "PLL_CANCELLED": "Prekinjeno"
+    "PLL_HIGH": "Visoka"
   }
 }

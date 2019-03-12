@@ -133,7 +133,7 @@
     "Action_Bind": "Marked to bind",
     "Action_CronMailScanner": "Cron - Email scanning",
     "Action_CronBind": "Cron - Bind",
-    "Action_ChangeType": "Change mail type",
+    "Action_ChangeType": "Αλλαγή τύπου email",
     "AccontDeleteOK": "Deleted account",
     "No": "No",
     "LBL_MAIL_LOGS": "Mail Logs",

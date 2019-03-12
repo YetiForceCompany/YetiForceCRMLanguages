@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Competition",
-    "SINGLE_Competition": "Competitor",
-    "LBL_COMPETITION_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Name",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "Competition": "Ανταγωνισμός",
+    "SINGLE_Competition": "Ανταγωνιστής",
+    "LBL_COMPETITION_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_SUBJECT": "Όνομασία",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_VAT_ID": "ΑΦΜ",
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία",
+    "LBL_PARENT_ID": "Ανταγωνιστής γονέας"
   }
 }

@@ -93,7 +93,7 @@
     "Sales stage - Order and Contract": "Этап продаж - Заказ и Договор",
     "Sales stage - Verification of documents": "Этап продаж - Проверка документов",
     "Sales stage - Sales winnings - waiting for projects": "Этап продаж - Успешная продажа, ожидание проекта",
-    "Sales stage - Sales Win - performance of the contract \/ agreement": "Этап продаж - Успешная продажа, выполнение условий договора",
+    "Sales stage - Sales Win - performance of the contract / agreement": "Этап продаж - Успешная продажа, выполнение условий договора",
     "Sales stage - Sales Win - post sales activities": "Этап продаж - Обслуживание",
     "Marketing process - Data Verification": "Маркетинг - Проверка данных",
     "Marketing process - Preliminary analysis": "Маркетинг - Предварительный анализ",
@@ -190,8 +190,6 @@
     "LBL_UPLOAD_OK": "Удачный импорт записей из файла XML",
     "LBL_RETURN": "Возврат",
     "LBL_GO_TO_TEMPLATE": "Нажмите для перехода к импортированным записям",
-    "LBL_SCRIPT_EXISTS_FUNCTION_NOT": "Существующий сценарий не содержит функции импорта. Добавьте вручную %s в %s.",
-    "LBL_FAILED_TO_SAVE_SCRIPT": "Не удалось сохранить сценарий. Сохранить вручную %s в %s.",
     "LBL_MESSAGES_FROM_USERS": "Сообщение от пользователей",
     "LBL_WATCHDOG": "Отслеживать изменения",
     "LBL_SKIP_CURRENT_USER": "Пропустить текущего пользователя",
@@ -236,7 +234,8 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Получатель согласен принимать почтовые сообщения?",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Field to be summed",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Field where summation will be saved",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields"
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum filed values from related module fields",
+    "LBL_ATTACH_DOCS_FROM": "Attach documents from"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Некоторые поля выбраны более одного раза",

@@ -20,11 +20,6 @@
     "PLL_SHARED": "Distribuit",
     "PLL_LOW": "Scazut",
     "PLL_NORMAL": "Normal",
-    "PLL_HIGH": "Ridicat",
-    "PLL_IN_PROGRESS": "In Progres",
-    "PLL_OPEN": "Deschis",
-    "PLL_COMPLETED": "Completat",
-    "PLL_DEFERRED": "Amanat",
-    "PLL_CANCELLED": "Anulat"
+    "PLL_HIGH": "Ridicat"
   }
 }

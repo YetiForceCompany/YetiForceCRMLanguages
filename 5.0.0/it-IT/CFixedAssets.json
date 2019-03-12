@@ -1,7 +1,7 @@
 {
   "php": {
-    "CFixedAssets": "Fixed assets",
-    "SINGLE_CFixedAssets": "Fixed assets",
+    "CFixedAssets": "Immobilizzazioni materiali",
+    "SINGLE_CFixedAssets": "Immobilizzazione materiale",
     "LBL_VEHICLE": "Vehicle",
     "LBL_BASIC_INFORMATION": "Basic information",
     "LBL_DESCRIPTION_BLOCK": "Description",

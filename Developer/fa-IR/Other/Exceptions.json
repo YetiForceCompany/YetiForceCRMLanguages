@@ -1,6 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "مقدار غیرمجاز",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
     "ERR_ILLEGAL_FIELD_VALUE": "Illegal value has been entered for this field type. Field name: %s, Module: %s, Value: %s",
     "ERR_VALUE_IS_TOO_LONG": "Character limit exceeded. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Too many files transferred - limit was exceeded. Field name: %s, Module: %s, Value: %s",
@@ -23,6 +25,7 @@
     "ERR_FILE_PHP_CODE_INJECTION": "فایل حاوی کد PHP خطرناک و رد شد",
     "ERR_FILE_XPACKET_CODE_INJECTION": "فایل حاوی کد XPACKET خطرناک و رد شد",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "هیچ مجوزی برای ایجاد دایرکتوری نیست",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
     "ERR_AUTO_LOGOUT": "به طور خودکار به دلیل بی فعالیتی خارج شدید",
     "ERR_FIELD_NOT_FOUND": "فیلد یافت نشد",
     "ERR_NO_VALUE": "بدون مقدار",

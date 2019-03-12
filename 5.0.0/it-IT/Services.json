@@ -1,7 +1,7 @@
 {
   "php": {
-    "Services": "Services",
-    "SINGLE_Services": "Service",
+    "Services": "Servizi",
+    "SINGLE_Services": "Servizio",
     "LBL_SERVICE_INFORMATION": "Service details",
     "LBL_MORE_CURRENCIES": "more currencies",
     "LBL_PRICES": "Service prices",

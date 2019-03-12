@@ -1,7 +1,7 @@
 {
   "php": {
-    "IncidentRegister": "Registro degli incidenti",
-    "SINGLE_IncidentRegister": "Registro degli incidenti",
+    "IncidentRegister": "Registro violazioni",
+    "SINGLE_IncidentRegister": "Violazione (GDPR)",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "FL_NAME": "Name",
     "FL_LOCATION_REGISTER": "Location register",

@@ -35,8 +35,13 @@
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Wartości przypisane do roli",
     "NO_PICKLIST_FIELDS": "nie mają żadnych pól słownikowych",
     "LBL_NEW_VALUE": "Nowa wartość",
-    "LBL_CLOSES_RECORD": "Zamyka rekord",
-    "LBL_PREFIX": "Prefiks"
+    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_PREFIX": "Prefiks",
+    "LBL_BLOCKED_RECORD_INFO": "Wybranie tej opcji uniemożliwi edycję rekordu. Jeśli chcesz odblokować rekord musisz mieć włączone uprawnienia w profilu",
+    "LBL_AUTOMATION_NO_CONCERN": "Nie dotyczy",
+    "LBL_AUTOMATION_OPEN": "Otwarty",
+    "LBL_AUTOMATION_CLOSED": "Zakończone",
+    "LBL_AUTOMATION_INFO": "Ta wartość może być brana pod uwagę dla niektórych automatycznych mechanizmów"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Wszystkie role zaznaczone",

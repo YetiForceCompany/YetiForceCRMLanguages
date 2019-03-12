@@ -1,7 +1,7 @@
 {
   "php": {
-    "ActivityRegister": "Activity Register",
-    "SINGLE_ActivityRegister": "Activity Register",
+    "ActivityRegister": "Registro attività",
+    "SINGLE_ActivityRegister": "Attività (GDPR)",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "FL_SUBJECT": "Subject",
     "FL_PARENT_ACTIVITY": "Parent activity",

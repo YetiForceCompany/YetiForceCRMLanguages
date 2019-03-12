@@ -33,8 +33,8 @@
     "LBL_REGISTER": "Registracija",
     "LBL_REGISTERED": "Registracija uspešna",
     "LBL_REGISTRATION_KEY": "Registracijski ključ",
-    "LBL_REGISTRATION_OFFLINE_DESC": "To register a version of the system that has no access to the Internet send an email to %s with the following data",
-    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "Subject: YetiForce offline registration\n\nMessage:\nCRM registration:\nCompany name:\nCountry:\nCity:\nCompany size:\nProduct key: %s",
+    "LBL_REGISTRATION_OFFLINE_DESC": "Prijaviti različico sistema, ki nima dostopa do interneta pošljete e-sporočilo na %s z naslednjimi podatki",
+    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "Subject: YetiForce offline registration\n\nMessage:\nCRM registration:\nThe name of your company:\nCountry:\nCity:\nThe number of employees of the company:\nYour company's website:\nProduct key: %s",
     "LBL_SUPPLIERS": "Dobavitelj",
     "LBL_INVALID_OFFLINE_KEY": "Vnesen ključ je napačen",
     "LBL_ONLINE_REGISTRATION_FAILED": "Napaka pri registraciji.",
@@ -44,7 +44,7 @@
     "LBL_DOWNLOADED_LANGUAGE": "Prenesen jezik",
     "LBL_NO_INTERNET_CONNECTION": "Ni internetne povezave",
     "LBL_NO_LANGUAGES_TO_DOWNLOAD": "Ni jezikov za prenos",
-    "LBL_TRANSLATED_WORDS": "Translated words",
-    "LBL_LANG": "Language"
+    "LBL_TRANSLATED_WORDS": "Prevedene besede",
+    "LBL_LANG": "Jezik"
   }
 }
