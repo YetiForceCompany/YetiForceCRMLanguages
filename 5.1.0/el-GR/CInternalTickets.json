@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Εσωτερικά Αιτήματα Υποστήριξης",
+    "SINGLE_CInternalTickets": "Εσωτερικό Αίτημα Υποστήριξης",
+    "LBL_ADDITIONAL_INFORMATION": "Πρόσθετες πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_TICKET_RESOLUTION": "Λύση",
+    "LBL_ATTENTION_BLOCK": "Σημειώσεις",
+    "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
+    "FL_SUBJECT": "Θέμα",
+    "FL_STATUS": "Κατάσταση",
+    "FL_RESOLUTION": "Λύση",
+    "PLL_UNASSIGNED": "Μη Ανατιθεμενο",
+    "PLL_AWAITING_REALIZATION": "Αναμονή υλοποίησης",
+    "PLL_FOR_PROCESSING": "Σε υλοποίηση",
+    "PLL_IN_PROGRESSING": "Σε εξέλιξη",
+    "PLL_SUBMITTED_COMMENTS": "Έχουν υποβληθεί σχόλια",
+    "PLL_FOR_APPROVAL": "Για έγκριση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή"
+  }
+}

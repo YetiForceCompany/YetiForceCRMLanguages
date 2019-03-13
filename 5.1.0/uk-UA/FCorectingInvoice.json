@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "Коригування рахунків",
+    "SINGLE_FCorectingInvoice": "Коригування рахунків",
+    "LBL_CUSTOM_INFORMATION": "Системна інформація",
+    "LBL_INVOICE_ADDRESS": "Адреса виставлення рахунку",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адреса доставки",
+    "FL_SUBJECT": "Предмет",
+    "FL_PAYMENT_DATE": "Термін",
+    "FL_SALE_DATE": "Термін продажу",
+    "FL_FORM_PAYMENT": "Метод оплати",
+    "FL_BANK_ACCOUNT": "Номер банківського рахунку",
+    "FL_NUMBER": "Рахунок №",
+    "FL_ACCOUNT": "Контрагент",
+    "FL_TOTAL": "Чистий",
+    "FL_GROSS": "Валовий",
+    "FL_STATUS": "Статус",
+    "PLL_CASH": "Готівка",
+    "PLL_TRANSFER": "Банківський переказ",
+    "PLL_WIRE_TRANSFER": "Електронний переказ",
+    "LBL_YEAR": "Рік",
+    "FL_INVOICE": "Рахунок ",
+    "LBL_COMMENTS": "Коментарі ",
+    "FL_EXTERNAL_COMMENT": "Зовнішній коментар",
+    "FL_INTERNAL_COMMENT": "Внутрішній коментар",
+    "LBL_BEFORE_CORRECTION": "До виправлення",
+    "LBL_AFTER_CORRECTION": "Після виправлення",
+    "LBL_CHOOSE_INVOICE": "Виберіть рахунок для виправлення",
+    "LBL_COPY_FROM_INVOICE": "Копіювати з початкового рахунку",
+    "LBL_INVOICE_INFO": "Початкові поля рахунку - до виправлень",
+    "LBL_AFTER_INVOICE_INFO": "Як повинен виглядати остаточний рахунок після виправлення",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Поля рахунку повинні бути виправлені. Скопіюйте всі поля з початкового рахунку і змініть значення в міру необхідності."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Виберіть рахунок для виправлення"
+  }
+}

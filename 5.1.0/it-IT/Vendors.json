@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "a",
+    "LBL_EXPORT_TO_PDF": "Esporta in PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Indirizzo",
+    "LBL_VENDORS_ADD_TASK": "Aggiungi compito",
+    "LBL_VENDORS_ADD_EVENT": "Aggiungi evento",
+    "300-Sales-Software": "300-Vendita-Software",
+    "301-Sales-Hardware": "301-Vendita-Hardware",
+    "302-Rental-Income": "302-Redditto-Affitti",
+    "303-Interest-Income": "303-Reddito-Interessi",
+    "304-Sales-Software-Support": "304-Supporto-Vendita",
+    "305-Sales Other": "305-Vendita-Altro",
+    "306-Internet Sales": "306-Internet-Vendita",
+    "307-Service-Hardware Labor": "307-Servizi-Manodopera",
+    "308-Sales-Books": "308-Vendita-Libri",
+    "Email": "Email principale",
+    "GL Account": "Identificativo libri contabili",
+    "LBL_VENDOR_INFORMATION": "Informazioni base",
+    "Phone": "Telefono principale",
+    "SINGLE_Vendors": "Fornitore",
+    "Vendor Name": "Nome",
+    "Vendor No": "Vendor number",
+    "Vendors": "Fornitori",
+    "Website": "Sito web",
+    "LBL_BUILDING_NUMBER": "Edificio",
+    "LBL_LOCAL_NUMBER": "Ufficio"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Deleting this Vendor will remove its related PurchaseOrders. Are you sure you want to delete this Vendor?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Deleting this vendor(s) will remove its related Purchase Orders. Are you sure you want to delete the selected Records?"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "php": {
+    "SVendorEnquiries": "Vendor enquiries",
+    "SINGLE_SVendorEnquiries": "Vendor enquiry",
+    "LBL_SCALCULATIONS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_STATISTICS": "Στατιστικά",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_STATUS": "Κατασταση",
+    "LBL_RESPONSE_TIME": "Χρόνος απόκρισης",
+    "SINGLE_SSalesProcesses": "Ευκαιρία",
+    "FL_TOTAL_PRICE": "Καθαρό σύνολο",
+    "FL_MARGINP": "Συνολικό περιθώριο (%)",
+    "FL_MARGIN": "Συνολικό περιθώριο",
+    "FL_VENDOR": "Προμηθευτής",
+    "FL_SCALCULATIONS": "Calculation",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_COMPLETED": "Ολοκληρώθηκε",
+    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης"
+  }
+}

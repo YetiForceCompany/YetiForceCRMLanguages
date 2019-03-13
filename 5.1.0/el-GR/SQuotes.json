@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SQuotes": "Προσφορές",
+    "SINGLE_SQuotes": "Προσφορά",
+    "LBL_SQUOTES_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_STATISTICS": "Στατιστικά",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_STATUS": "Κατασταση",
+    "LBL_RESPONSE_TIME": "Χρόνος απόκρισης",
+    "LBL_COMPANY_NAME": "Επωνυμία εταιρείας",
+    "SINGLE_SSalesProcesses": "Ευκαιρία",
+    "FL_TOTAL_PRICE": "Καθαρό σύνολο",
+    "FL_MARGINP": "Συνολικό περιθώριο (%)",
+    "FL_MARGIN": "Συνολικό περιθώριο",
+    "FL_SUM_GROSS": "Ακαθάριστο ποσό",
+    "FL_SUM_DISCOUNT": "Ποσό έκπτωσης",
+    "FL_VALID_UNTIL": "Ισχύει μέχρι",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_AWAITING_DECISION": "Σε αναμονή απόφασης",
+    "PLL_NEGOTIATIONS": "Διαπραγματεύσεις",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Αποδεκτή",
+    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης"
+  }
+}

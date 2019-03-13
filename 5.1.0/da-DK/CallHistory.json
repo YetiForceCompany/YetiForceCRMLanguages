@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Call history",
+    "SINGLE_CallHistory": "Call history",
+    "LBL_CALLHISTORY_INFORMATION": "Information om opkaldshistorik",
+    "LBL_CUSTOM_INFORMATION": "Yderligere oplysninger",
+    "LBL_PHONE_INFORMATION": "Telefonoplysninger",
+    "LBL_RELATED_INFORMATION": "Relaterede oplysninger",
+    "LBL_TYPE": "Type",
+    "LBL_FROM_NUMBER": "FRA nummer",
+    "LBL_TO_NUMBER": "TIL nummer",
+    "LBL_LOCATION": "Placering",
+    "LBL_PHONE_CALL_ID": "Opkald ID på telefon",
+    "LBL_DURATION": "Opkaldsvarighed",
+    "LBL_STATUS": "Status",
+    "LBL_START_TIME": "Opkald i gang",
+    "LBL_END_TIME": "Opkald afsluttet",
+    "LBL_COUNTRY_CODE": "Landekode",
+    "LBL_IMEI": "IMEI-nummer",
+    "LBL_IPADDRESS": "Id-adresse",
+    "LBL_SIMSERIAL": "SIM-nummer",
+    "LBL_SUBSCRIBERID": "Abonnementsnummer",
+    "LBL_DESTINATION": "Hvor kaldet",
+    "LBL_SOURCE": "Opkalds kilde",
+    "Record Id": "Post-id",
+    "Outgoing missed": "Udgående tabt",
+    "Outgoing received": "Udgående modtaget",
+    "Incoming": "Indgående modtaget",
+    "Missed": "Indgående mistet",
+    "Voicemail": "Indgående voicemail"
+  }
+}

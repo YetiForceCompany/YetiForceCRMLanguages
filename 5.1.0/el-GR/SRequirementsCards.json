@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SRequirementsCards": "Sales requirements",
+    "SINGLE_SRequirementsCards": "Sales requirement",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_STATISTICS": "Στατιστικά",
+    "LBL_SUBJECT": "Ονομασία",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_STATUS": "Κατασταση",
+    "LBL_RESPONSE_TIME": "Χρόνος απόκρισης",
+    "SINGLE_SSalesProcesses": "Ευκαιρία",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_COMPLETED": "Ολοκληρώθηκε",
+    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης"
+  }
+}

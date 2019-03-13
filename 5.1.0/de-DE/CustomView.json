@@ -1,0 +1,8 @@
+{
+  "php": {
+    "CustomView": "Filter - Konfiguration",
+    "LBL_FEATURED": "Zu Favoriten hinzufügen",
+    "LBL_COLOR_VIEW": "Farben anzeigen",
+    "LBL_ADD_FIELD": "Feld hinzufügen"
+  }
+}

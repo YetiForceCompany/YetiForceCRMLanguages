@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SCalculations": "Còmputi",
+    "SINGLE_SCalculations": "Còmputo",
+    "LBL_SCALCULATIONS_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_STATISTICS": "Statistiche",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Progressivo",
+    "LBL_CLOSED_TIME": "Closed time",
+    "LBL_STATUS": "Stato",
+    "LBL_RESPONSE_TIME": "Tempi di consegna",
+    "SINGLE_SSalesProcesses": "Opportunità",
+    "FL_TOTAL_PRICE": "Net total",
+    "FL_MARGINP": "Total margin percentage",
+    "FL_MARGIN": "Total margin",
+    "PLL_DRAFT": "Bozza",
+    "PLL_IN_REALIZATION": "In realizzazione",
+    "PLL_FOR_VERIFICATION": "Da verificare",
+    "PLL_CANCELLED": "Annullato",
+    "PLL_COMPLETED": "Completato",
+    "LBL_CHANGE_STATUS": "Change status"
+  }
+}

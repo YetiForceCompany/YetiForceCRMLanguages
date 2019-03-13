@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "Correcting Invoices",
+    "SINGLE_FCorectingInvoice": "Correcting Invoice",
+    "LBL_CUSTOM_INFORMATION": "System information",
+    "LBL_INVOICE_ADDRESS": "Invoice address",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
+    "FL_SUBJECT": "Subject",
+    "FL_PAYMENT_DATE": "Due date",
+    "FL_SALE_DATE": "Sale date",
+    "FL_FORM_PAYMENT": "Payment method",
+    "FL_BANK_ACCOUNT": "Bank account number",
+    "FL_NUMBER": "Invoice number",
+    "FL_ACCOUNT": "Account",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Gross",
+    "FL_STATUS": "Status",
+    "PLL_CASH": "Cash",
+    "PLL_TRANSFER": "Bank transfer",
+    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "LBL_YEAR": "Year",
+    "FL_INVOICE": "Invoice",
+    "LBL_COMMENTS": "Kommentarer",
+    "FL_EXTERNAL_COMMENT": "Ekstern kommentar",
+    "FL_INTERNAL_COMMENT": "Intern kommentar",
+    "LBL_BEFORE_CORRECTION": "Før rettelse",
+    "LBL_AFTER_CORRECTION": "Efter rettelse",
+    "LBL_CHOOSE_INVOICE": "Vælg faktura der skal rettes",
+    "LBL_COPY_FROM_INVOICE": "Kopier fra oprindelig faktura",
+    "LBL_INVOICE_INFO": "Oprindelige faktura felter - før rettelse.",
+    "LBL_AFTER_INVOICE_INFO": "Hvordan skal endelig faktura se ud efter rettelse.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Faktura felter der skal rettes. Kopier alle felter fra oprindelig faktura og ændrer værdier efter behov."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Vælg faktura der skal rettes"
+  }
+}

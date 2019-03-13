@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Urejevalnik za hiter vnos",
+    "LBL_QUICK_CREATE_EDITOR": "Polja za hiter vnos",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Modul, ki omogoča spreminjanje postavitve polj v urejevalniku za hiter vnos",
+    "LBL_SEQUENCE": "Field sequence",
+    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+  }
+}

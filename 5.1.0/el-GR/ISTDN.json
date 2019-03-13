@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Storage Transfer Dispatched Notes",
+    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
+    "LBL_ATTENTION_BLOCK": "Σχόλια",
+    "FL_ACCEPTANCE_DATE": "Ημερομηνία αποδοχής",
+    "FL_ACCOUNT": "Λογαριασμός",
+    "FL_SUBJECT": "Θέμα",
+    "FL_NUMBER": "Αριθμός",
+    "FL_STORAGE": "Storage",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_OBJECTIONS": "Objections",
+    "PLL_FOR_APPROVAL": "Για έγκριση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή",
+    "LBL_CHANGE_STATUS": "Αλλαγή Κατάστασης"
+  }
+}

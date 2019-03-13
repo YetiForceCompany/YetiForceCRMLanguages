@@ -1,0 +1,7 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Pogostost opomnikov v dnevih, če uporabnik ni pregledal sprememb. Če polje ostane prazno, opomnik ne bo ponovno prikazan.",
+    "Accounts|Account Name": "To polje je namenjeno za ime podjetja",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Asignar registros automáticamente",
+    "AutomaticAssignment": "Asignar registros automáticamente",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Nombre del campo",
+    "FL_MODULE": "Módulo",
+    "FL_VALUE": "Valor",
+    "FL_ROLES": "Roles",
+    "FL_SMOWNERS": "Propietario del registro",
+    "FL_ASSIGN": "Configuración por defecto",
+    "FL_CONDITIONS": "Guardar condiciones de búsqueda",
+    "FL_MODE": "Modo",
+    "LBL_CREATE_RECORD": "Crear registro",
+    "BTN_NEXT": "Siguiente",
+    "BTN_CLOSE": "Cerrar",
+    "BTN_ADD": "Añadir",
+    "LBL_CHANGE_ROLE_TYPE": "Cambiar tipo de rol",
+    "LBL_CHANGE_RECORD_STATE": "Cambiar el estado del registro",
+    "BTN_SAVE": "Guardar",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Incluir el límite de registro del usuario",
+    "LBL_SET_DEFAULT_USER": "Establecer usuario predeterminado",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Desactivar el modo del sistema",
+    "LBL_SYSTEM": "Sistema",
+    "LBL_NOTE": "Nota!",
+    "LBL_VALUE_INFO": "El campo siguiente establece el valor para el campo del módulo seleccionado.",
+    "LBL_ROLES_INFO": "La lista de usuarios pre-asignados se crea desde los siguientes roles.",
+    "LBL_SMOWNERS_INFO": "La lista de usuarios pre-asignados se crea de los siguientes usuarios, grupos. Esta lista de usuarios sólo se crea si no hay usuarios seleccionados desde los roles.",
+    "LBL_ASSIGN_INFO": "Establesca Asignado por Defecto A. El usuario establecido aquí, se asignará al registro cuando el usuario al que fue asignado, no pueda ser encontrado.",
+    "LBL_CONDITIONS_INFO": "Información de las condiciones",
+    "LBL_ROLEID_INFO": "Información del rol"
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "¿Está seguro de que desea cambiar el estado del registro?",
+    "JS_SAVE_SUCCESS": "Cambios guardados con éxito"
+  }
+}

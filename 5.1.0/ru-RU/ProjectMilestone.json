@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Контрольная точка",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Основная информация",
+    "Project Milestone Name": "Наименование",
+    "Milestone Date": "Дата",
+    "Project Milestone No": "№",
+    "description": "Описание",
+    "Related to": "Проект",
+    "FL_PARENT_PROJECT_MILESTONE": "Parent project milestone",
+    "FL_STATUS": "Status",
+    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
+    "LBL_MILESTONES_LIST": "Контрольные точки",
+    "LBL_TASKS_LIST": "Проектные задачи",
+    "LBL_PROJECTS_LIST": "Список Проектов",
+    "LBL_PRIORITY": "Приоритет",
+    "LBL_PROGRESS": "Прогресс",
+    "PLL_INTERNAL": "Внутренний",
+    "PLL_EXTERNAL": "Внешний",
+    "PLL_SHARED": "Общий",
+    "PLL_LOW": "Низкий",
+    "PLL_NORMAL": "Нормальный",
+    "PLL_HIGH": "Высокий"
+  }
+}

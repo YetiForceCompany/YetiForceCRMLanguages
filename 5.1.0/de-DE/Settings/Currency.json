@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Umrechnungskurs",
+    "Currency": "Währung",
+    "Symbol": "Symbol",
+    "Currency Code": "Währungsschlüssel",
+    "Currency Name": "Name der Währung",
+    "LBL_ADD_NEW_CURRENCY": "Neue Währung hinzufügen",
+    "LBL_ADD_RECORD": "Währung hinzufügen",
+    "LBL_CURRENCY_CODE": "Währungskürzel",
+    "LBL_CURRENCY_NAME": "Währungsname",
+    "LBL_CURRENCY_STATUS_DESC": "aktive Währung (Haken gesetzt)",
+    "LBL_CURRENCY_SYMBOL": "Symbol",
+    "LBL_CURRENT_CURRENCY": "Aktuelle Währung",
+    "LBL_EDIT_CURRENCY": "Währung bearbeiten",
+    "LBL_ENTER_CONVERSION_RATE": "Umrechnungskurs eingeben",
+    "LBL_TRANSFER_CURRENCY": "Aktive Währung wechseln",
+    "Active": "Aktiv",
+    "Inactive": "Inaktiv",
+    "LBL_SET_AS_DEFAULT": "Als Standard festlegen"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Währung erfolgreich gelöscht",
+    "JS_CURRENCY_DETAILS_SAVED": "Währungsdetails gespeichert",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warnung! Die Ausführung wird die Währung an vielen Stellen des Systems ändern. Finanzdokumente, die vor dieser Änderung ausgegeben wurden, könnten eine Währungsumwandlung erfordern. Bitte führen Sie eine manuelle Währungsumwandlung durch, wenn diese Dokumente in ihren Produktionsversionen ausgegeben wurden. Die Berechnung der Wechselkurse für die restlichen Währungen wird erforderlich sein."
+  }
+}

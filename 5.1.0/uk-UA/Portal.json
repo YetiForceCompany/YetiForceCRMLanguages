@@ -1,0 +1,25 @@
+{
+  "php": {
+    "HTTP_ERROR": "Сайт, який ви намагаєтеся відкрити не є безпечним. Якщо ви хочете переглянути сайт, то необхідно натиснути на блокатор вмісту в адресному рядку і включити його.",
+    "LBL_ADD_BOOKMARK": "Сайт",
+    "LBL_ADD_NEW_BOOKMARK": "Додавання нового сайту",
+    "LBL_BOOKMARK": "Сайт",
+    "LBL_BOOKMARK_NAME": "Назва сайту",
+    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "Сайт успішно збережений",
+    "LBL_BOOKMARKS": "Сайти",
+    "LBL_BOOKMARKS_DELETED_SUCCESSFULLY": "Сайти успішно видалені",
+    "LBL_BOOKMARKS_LIST": "Список сайтів",
+    "LBL_BOOKMARK_URL": "Адреса сайту",
+    "LBL_CREATED_ON": "Дата створення",
+    "LBL_EDIT_BOOKMARK": "Змінити сайт",
+    "LBL_ENTER_BOOKMARK_NAME": "Введіть ім'я сайту",
+    "LBL_ENTER_URL": "Введіть посилання",
+    "LBL_OUR_SITES_LIST": "Список сайтів",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "Запис успішно видалена",
+    "Portal": "Наші сайти ",
+    "SINGLE_Portal": "Наш сайт"
+  },
+  "js": {
+    "JS_ENTER_MANDATORY_FIELD": "Необхідно заповнити обов'язкові поля"
+  }
+}

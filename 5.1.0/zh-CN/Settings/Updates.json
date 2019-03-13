@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Updates": "更新",
+    "LBL_YES": "是",
+    "LBL_NO": "否",
+    "LBL_TIME": "日期",
+    "LBL_USER": "用户名",
+    "LBL_FROM_VERSION": "自版本",
+    "LBL_TO_VERSION": "至版本",
+    "LBL_RESULT": "状态",
+    "LBL_UPDATES": "更新",
+    "LBL_UPDATES_DESCRIPTION": "更新历史",
+    "LBL_IMPORT_UPDATE": "上传更新",
+    "LBL_NAME_PACKAGES": "名称"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_APP_NAME": "名称",
+    "LBL_ADDRESS_URL": "地址",
+    "LBL_TYPE_SERVER": "类型",
+    "LBL_API_KEY": "密钥",
+    "LBL_ADD_APPLICATION": "添加密钥",
+    "LBL_WEBSERVICE_APPS": "网页服务 - 应用程序",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "创建并管理通过 API 集成的应用程序密钥。",
+    "LBL_PASS": "密码",
+    "LBL_TITLE_ADDED": "新增",
+    "LBL_TITLE_EDIT": "编辑"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "您是否确定要删除此密钥？"
+  }
+}

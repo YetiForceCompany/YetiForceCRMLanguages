@@ -1,0 +1,7 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Değişiklikleri gözden geçiren kullanıcıların günler içindeki hatırlatıcıların sıklığı. Alan boşsa, hatırlatıcı tekrar görüntülenmez.",
+    "Accounts|Account Name": "Bu alan şirket adı için tasarlanmıştır",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used"
+  }
+}

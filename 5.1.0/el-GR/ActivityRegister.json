@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Μητρώο δραστηριοτήτων",
+    "SINGLE_ActivityRegister": "Μητρώο δραστηριοτήτων",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
+    "FL_SUBJECT": "Θέμα",
+    "FL_PARENT_ACTIVITY": "Γονική δραστηριότητα",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Αναμονής για αποδοχή",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_COMPLETED": "Ολοκληρώθηκε",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "FL_DATA_SET": "Σύνολο δεδομένων",
+    "PLL_ENTRUSTMENT": "Ανάθεση",
+    "PLL_SHARING": "Κοινή Χρήση",
+    "PLL_TRANSFER": "Μεταφορά",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Αποδοχή ανάθεσης",
+    "PLL_INTERNAL": "Εσωτερική",
+    "FL_START_DATE": "Ημερομηνία έναρξης",
+    "FL_END_DATE": "Ημερομηνία λήξης",
+    "LBL_DATES": "Ημερομηνίες δραστηριοτήτων",
+    "LBL_DESCRIPTION": "Περιγραφή",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_COMMENTS": "Σχόλια",
+    "LBL_COMMENTS": "Σχόλια",
+    "FL_ACTIVITY_TYPE": "Τύπος δραστηριότητας"
+  }
+}

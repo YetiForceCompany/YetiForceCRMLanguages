@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Αγαπημένα",
+    "LBL_ROOM_GROUP": "Χώρος Συνομιλίας Ομάδας",
+    "LBL_ROOM_GLOBAL": "Γενικός Χώρος Συνομιλίας",
+    "LBL_MESSAGE": "Εισάγετε το μήνυμα σας εδώ. Πατήστε SHIFT + ENTER για να προσθέσετε μια νέα γραμμή.",
+    "LBL_PARTICIPANTS": "Συμμετέχοντες",
+    "LBL_SEARCH_PARTICIPANTS": "Αναζήτηση συμμετεχόντων",
+    "LBL_SEARCH_MESSAGE": "Αναζήτηση μηνυμάτων",
+    "LBL_CREATE_CHAT_ROOM": "Δημιουργία χώρου συνομιλίας",
+    "LBL_REMOVE_FROM_FAVORITES": "Αφαίρεση από τα αγαπημένα",
+    "LBL_ADD_FROM_FAVORITES": "Προσθήκη στα αγαπημένα",
+    "LBL_EARLIER": "Νωρίτερα",
+    "LBL_NOTIFICATION": "Ειδοποιήσεις συνομιλίας",
+    "LBL_SOUND_OFF": "Ήχος ανενεργός",
+    "LBL_SOUND_ON": "Ήχος ενεργός",
+    "LBL_HISTORY_CHAT": "Ιστορικό συνομιλίας",
+    "LBL_MORE": "περισότερα",
+    "LBL_HIDE": "απόκρυψη",
+    "LBL_NO_MESSAGES": "Δεν υπάρχουν μηνύματα",
+    "LBL_UNREAD": "Μη αναγνωσμένα",
+    "LBL_ENTER": "Πιέζοντας το πλήκτρο ENTER ενεργοποιεί\/απενεργοποιεί την αποστολή μηνυμάτων",
+    "LBL_DETAIL_VIEW": "Προβολή λεπτομερειών",
+    "LBL_ROOM_DESCRIPTION_CRM": "Λίστα Χώρων Συνομιλίας (Chat rooms) που έχουν επισημανθεί ως αγαπημένα",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Λίστα Χώρων Συνομιλίας (Chat rooms) για ομάδες χρηστών",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Λίστα Χώρων Συνομιλίας (Chat rooms) ορατή για όλους τους χρήστες",
+    "LBL_CHAT_USER_SWITCHED": "Η συνομιλία θα είναι ανενεργή εάν μεταβείτε σε άλλο χρήστη.",
+    "LBL_CHAT_NEW_MESSAGE": "Νέο μήνυμα"
+  }
+}

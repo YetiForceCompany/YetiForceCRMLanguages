@@ -1,0 +1,18 @@
+{
+  "php": {
+    "Answer": "Svar",
+    "Comments": "Kommentarer",
+    "Draft": "Kladde",
+    "Faq": "FAQ",
+    "Faq No": "FAQ nummer",
+    "General": "Generelt",
+    "LBL_COMMENT_INFORMATION": "Kommentarer",
+    "LBL_FAQ_INFORMATION": "FAQ information",
+    "LBL_RECORDS_LIST": "FAQs liste",
+    "LBL_SOLUTION": "Løsning",
+    "Obsolete": "Forældet",
+    "Published": "Publiceret",
+    "Question": "Spørgsmål",
+    "SINGLE_Faq": "FAQ"
+  }
+}

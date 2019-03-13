@@ -1,0 +1,18 @@
+{
+  "php": {
+    "Answer": "Απάντηση",
+    "Comments": "Σχόλια",
+    "Draft": "Προσχέδιο",
+    "Faq": "Συχνές Ερωτήσεις",
+    "Faq No": "Αριθμός",
+    "General": "Γενικά",
+    "LBL_COMMENT_INFORMATION": "Σχόλια",
+    "LBL_FAQ_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_RECORDS_LIST": "Λίστα Συχνών Ερωτήσεων",
+    "LBL_SOLUTION": "Λύση",
+    "Obsolete": "Ξεπερασμένο",
+    "Published": "Δημοσιευμένο",
+    "Question": "Ερώτηση",
+    "SINGLE_Faq": "Συχνή Ερώτηση"
+  }
+}

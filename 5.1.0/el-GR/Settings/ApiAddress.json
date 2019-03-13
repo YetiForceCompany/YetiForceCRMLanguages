@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_SAVE": "Αποθήκευση",
+    "ApiAddress": "Αναζήτηση διεύθυνσης",
+    "LBL_API_ADDRESS": "Χάρτες [Google & OSM]",
+    "LBL_API_ADDRESS_DESCRIPTION": "Module που επιτρέπει την αναζήτηση \/ αυτοσυμπλήρωση διεύθυνσης κατά τη δημιουργία\/επεξεργασία δεδομένων εντός του συστήματος.",
+    "LBL_USE_OPENCAGE_GEOCODER": "Χρησιμοποιήστε OpenCage Geocoder",
+    "LBL_REMOVE_CONNECTION": "Κατάργηση σύνδεσης",
+    "LBL_ENTER_KEY_APPLICATION": "Εισάγετε το κλειδί εφαρμογής",
+    "LBL_MIN_LOOKUP_LENGTH": "Ο ελάχιστος αριθμός χαρακτήρων, που πρέπει να πληκτρολογήσετε πριν εκτελεστεί αναζήτηση",
+    "LBL_SAVE_NOTIFY_OK": "Αποθήκευση αλλαγών.",
+    "LBL_CHOOSE_API": "Επιλέξτε API",
+    "LBL_USE_GOOGLE_GEOCODER": "Χρησιμοποιήστε το Google Geocoding",
+    "google_map_api": "Google Geocoding",
+    "opencage_data": "Χρησιμοποιήστε OpenCage Geocoder",
+    "LBL_GLOBAL_CONFIG": "Καθολικές ρυθμίσεις",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Αποθηκεύστε τις καθολικές ρυθμίσεις",
+    "LBL_NUMBER_SEARCH_RESULTS": "Αριθμός των αποτελεσμάτων αναζήτησης"
+  },
+  "js": {
+    "Invalid API key": "Μη έγκυρο κλειδί API",
+    "JS_ERROR": "Σφάλμα",
+    "JS_LOADING_PLEASE_WAIT": "Φόρτωση, παρακαλώ περιμένετε.",
+    "JS_WRONG_NUMBER": "Χαρακτήρες που επιτρέπονται: ψηφία μεγαλύτερα από 1."
+  }
+}

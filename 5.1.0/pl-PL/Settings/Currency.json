@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Kurs wymiany",
+    "Currency": "Waluta",
+    "Symbol": "Symbol",
+    "Currency Code": "Kod waluty",
+    "Currency Name": "Nazwa waluty",
+    "LBL_ADD_NEW_CURRENCY": "Dodaj nową walutę",
+    "LBL_ADD_RECORD": "Dodaj walutę",
+    "LBL_CURRENCY_CODE": "Kod waluty",
+    "LBL_CURRENCY_NAME": "Nazwa waluty",
+    "LBL_CURRENCY_STATUS_DESC": "Włącz walutę aby system przeliczył wartość",
+    "LBL_CURRENCY_SYMBOL": "Symbol",
+    "LBL_CURRENT_CURRENCY": "Aktualna waluta",
+    "LBL_EDIT_CURRENCY": "Edytuj walutę",
+    "LBL_ENTER_CONVERSION_RATE": "Wprowadź przelicznik",
+    "LBL_TRANSFER_CURRENCY": "Transferuj walutę",
+    "Active": "Aktywny",
+    "Inactive": "Nieaktywny",
+    "LBL_SET_AS_DEFAULT": "Ustaw jako domyślny"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Usunięto walutę poprawnie",
+    "JS_CURRENCY_DETAILS_SAVED": "Szczegóły waluty zapisano",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Uwaga! Ta operacja zmieni domyślną walutę w wielu miejscach w systemie. Uprzednio wystawione dokumenty finansowe mogą wymagać przewalutowania. Dokonaj ręcznego przewalutowania jeśli dokumenty te zostały wystawione produkcyjnie. Wymagane będzie przeliczenie kursu dla pozostałych walut."
+  }
+}

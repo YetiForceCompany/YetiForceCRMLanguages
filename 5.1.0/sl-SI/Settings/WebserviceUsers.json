@@ -1,0 +1,30 @@
+{
+  "php": {
+    "WebserviceUsers": "Spletne storitve - Uporabniki",
+    "LBL_WEBSERVICE_USERS": "Spletne storitve - Uporabniki",
+    "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
+    "FL_SERVER": "Strežnik",
+    "FL_STATUS": "Status",
+    "FL_LOGIN": "Prijava",
+    "FL_PASSWORD": "Geslo",
+    "FL_TYPE": "Vrsta",
+    "FL_LOGIN_TIME": "Prijava",
+    "FL_LOGOUT_TIME": "Odjava",
+    "FL_LANGUAGE": "Jezik",
+    "FL_RECORD_NAME": "Zapis",
+    "FL_USER": "Uporabnik",
+    "BTN_SAVE": "Shrani",
+    "BTN_CLOSE": "Prekliči",
+    "PLL_USER_PERMISSIONS": "Dovoljenja na podlagi uporabnika",
+    "PLL_ACCOUNTS_RELATED_RECORDS": "Vse zapise podjetja dodeli neposredno v stik",
+    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Vse sorodne zapise račun dodeljena neposredno v stik in račune, ki so nižje v hierarhiji",
+    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Vse sorodne zapise račun dodeljena neposredno v stik in račune, ki so v hierarhiji",
+    "PLL_ACTIVE": "Aktiven",
+    "PLL_INACTIVE": "Neaktiven",
+    "LBL_CREATE_RECORD": "Ustvari"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Si prepričan, da želiš zbrisati ključ?",
+    "JS_SAVE_SUCCESS": "Sprembe so uspešno shranjene"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Προσθήκη σε",
+    "LBL_EDIT_LIST_PRICE": "Επεξεργασία λίστας τιμών",
+    "LBL_PRICEBOOK_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_UNIT_PRICE": "Τιμή μονάδας",
+    "Price Book Name": "Ονομασία",
+    "PriceBook No": "Αριθμός",
+    "PriceBooks": "Τιμοκατάλογοι",
+    "SINGLE_PriceBooks": "Τιμοκατάλογος",
+    "yes": "Ναι",
+    "no": "Όχι",
+    "Unit Price": "Τιμή μονάδας"
+  }
+}

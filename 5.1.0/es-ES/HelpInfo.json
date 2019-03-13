@@ -1,0 +1,7 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Frecuencia de los recordatorios en días, si un usuario no revisó los cambios. Si el campo permanece vacío, el recordatorio no se mostrará de nuevo.",
+    "Accounts|Account Name": "Este campo está destinado al nombre de la Empresa",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "El país escogido de forma predeterminada al sincronizar el campo de teléfono CardDAV. Si el teléfono no tiene un número nacional, se utilizará este campo"
+  }
+}

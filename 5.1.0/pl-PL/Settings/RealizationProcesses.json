@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Projekt",
+    "LBL_INFO": "Informacja",
+    "LBL_TYPE": "Status",
+    "LBL_PROJECT": "Projekt",
+    "LBL_PROJECT_STATUS_INFO": "Statusy oznaczające zamknięcie projektu",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statusy oznaczające zamknięcie etapu",
+    "LBL_PROJECTTASK_STATUS_INFO": "Statusy oznaczające zamknięcie zadania",
+    "LBL_SAVE_CONFIG_OK": "Pomyślnie zapisano zmiany.",
+    "LBL_SAVE_CONFIG_ERROR": "Nie udało się zapisać zmian.",
+    "RealizationProcesses": "Procesy realizacji"
+  },
+  "js": {
+
+  }
+}

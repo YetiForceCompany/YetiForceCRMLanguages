@@ -1,0 +1,27 @@
+{
+  "php": {
+    "SVendorEnquiries": "Запити постачальникам",
+    "SINGLE_SVendorEnquiries": "Запити постачальникам",
+    "LBL_SCALCULATIONS_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "Системна інформація",
+    "LBL_DESCRIPTION_INFORMATION": "Опис подробиць",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Час закриття",
+    "LBL_STATUS": "Статус",
+    "LBL_RESPONSE_TIME": "Час відповіді",
+    "SINGLE_SSalesProcesses": "Угода",
+    "FL_TOTAL_PRICE": "Чиста загальна сума",
+    "FL_MARGINP": "Загальна маржа у відсотках",
+    "FL_MARGIN": "Загальна маржа",
+    "FL_VENDOR": "Постачальник",
+    "FL_SCALCULATIONS": "Розрахунок",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "В реалізації",
+    "PLL_FOR_VERIFICATION": "Для перевірки",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_COMPLETED": "Завершено",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}
