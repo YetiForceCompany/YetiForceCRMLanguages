@@ -29,6 +29,7 @@
     "ERR_AUTO_LOGOUT": "Nastąpiło automatyczne wylogowanie ze względu na brak aktywności",
     "ERR_FIELD_NOT_FOUND": "Nie znaleziono pola",
     "ERR_NO_VALUE": "Brak wartości",
+    "ERR_BODY_IS_EMPTY": "Brak treści",
     "ERR_API": "Błąd w API",
     "ERR_MODULE_DOES_NOT_EXIST": "Moduł o nazwie %s nie istnieje",
     "ERR_RECORD_NOT_FOUND": "Nie istnieje rekord o ID: %s",

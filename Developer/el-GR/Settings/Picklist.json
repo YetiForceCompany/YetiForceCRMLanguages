@@ -35,7 +35,7 @@
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Τιμές που έχουν ανατεθεί σε ένα ρόλο",
     "NO_PICKLIST_FIELDS": "do not have any picklist fields",
     "LBL_NEW_VALUE": "Νέα τιμή",
-    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_CLOSES_RECORD": "Έχετε κλειδώσει την εγγραφή;",
     "LBL_PREFIX": "Πρόθεμα",
     "LBL_BLOCKED_RECORD_INFO": "Αυτή η επιλογή θα εμποδίσει την επεξεργασία της εγγραφής. Αν θέλετε να ξεκλειδώσει η εγγραφή πρέπει να αποδεχτείτε τα εκχωρημένα δικαιώματα στο προφίλ",
     "LBL_AUTOMATION_NO_CONCERN": "Μη Εφαρμόσιμο",

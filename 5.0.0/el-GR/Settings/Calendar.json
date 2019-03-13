@@ -19,7 +19,7 @@
     "PLL_BREAK_TIME": "Διάλειμμα στην εργασία",
     "PLL_HOLIDAY_TIME": "Διακοπές",
     "LBL_SAVE_CHANGES": "Έχουν αποθηκευτεί οι αλλαγές",
-    "LBL_UPDATE_EVENT": "Update event in the Calendar when rescheduled.",
+    "LBL_UPDATE_EVENT": "Ενημέρωση συμβάντων στο ημερολόγιο όταν προγραμματιστεί εκ νέου.",
     "LBL_GENERATE_COLOR": "Δημιουργία τυχαίου χρώματος",
     "LBL_GENERATED_COLOR": "Το χρώμα δημιουργήθηκε",
     "LBL_NOTWORKING_DAYS": "Μη εργάσιμες ημέρες",

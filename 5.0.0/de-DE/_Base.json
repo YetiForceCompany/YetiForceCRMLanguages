@@ -1325,7 +1325,7 @@
     "JS_SUCCESSFULLY_PERFORMED_ACTION_FOR": "Erfolgreich ausgeführte Aktion für",
     "JS_ACTION_FAILED_FOR": "Aktion fehlerhaft für",
     "JS_DATE_SHOULD_BE_GREATER_THAN": " Enddatum kann nicht gleich oder kleiner als Startdatum sein",
-    "JS_HOURS_SHOULD_BE_SMALLER_THAN": "Arbeitszeit darf 24 Stunden nicht überschreiten",
+    "JS_HOURS_SHOULD_BE_SMALLER_THAN": "Arbeitszeit kann nicht länger als 24 Stunden sein",
     "Generate default PDF": "Standard-PDF generieren",
     "JS_SAVE_LOADER_INFO": "Speichere Daten...",
     "JS_SAVE_NOTIFY_OK": "Änderungen gespeichert",

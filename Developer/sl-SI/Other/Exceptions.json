@@ -29,6 +29,7 @@
     "ERR_AUTO_LOGOUT": "Samodejno odjavljeni zaradi nedejavnosti",
     "ERR_FIELD_NOT_FOUND": "Polja ni mogoče najti",
     "ERR_NO_VALUE": "Ni vrednosti",
+    "ERR_BODY_IS_EMPTY": "Body is empty",
     "ERR_API": "Napaka v API",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s ne obstaja",
     "ERR_RECORD_NOT_FOUND": "Ni nobenega zapisa, z ID-jem: %s",

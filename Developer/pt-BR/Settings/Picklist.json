@@ -35,7 +35,7 @@
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Valores atribuídos a uma função",
     "NO_PICKLIST_FIELDS": "não existe nenhum campo Lista de Opções",
     "LBL_NEW_VALUE": "Novo valor",
-    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_CLOSES_RECORD": "O registo deve ser bloqueado?",
     "LBL_PREFIX": "Prefix",
     "LBL_BLOCKED_RECORD_INFO": "A seleção desta opção impedirá o registo de ser editado. Se quiser desbloquear o registo, tem que aceitar as permissões atribuídas no perfil",
     "LBL_AUTOMATION_NO_CONCERN": "Não aplicável",

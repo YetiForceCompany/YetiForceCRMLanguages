@@ -173,7 +173,7 @@
     "LBL_ACTIVITY_TYPES_DESCRIPTION": "Gestión de tipos de actividades.",
     "LBL_BRUTEFORCE": "Contraseñas - Fuerza bruta",
     "LBL_BRUTEFORCE_DESCRIPTION": "Establezca el número máximo de intentos fallidos de inicio de sesión y el límite de tiempo para bloquear la IP.",
-    "LBL_WIDGETS_DESCRIPTION": "Module managing widgets in summary.",
+    "LBL_WIDGETS_DESCRIPTION": "Módulo de administración de Widgets en Resumen.",
     "LBL_CREDITS_DESCRIPTION": " ",
     "LBL_CUSTOMVIEW_DESCRIPTION": " ",
     "LBL_SEARCH_SETUP_DESCRIPTION": "Este panel permite establecer etiquetas para los campos uitype 10 y para mecanismos de búsqueda. Estos mecanismos funcionan de forma independiente – puedes ver muchas columnas en un campo mientras estás buscando, pero cuando selecciona un registro, se cargará un nombre de una etiqueta.",

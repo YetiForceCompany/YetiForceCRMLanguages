@@ -29,6 +29,7 @@
     "ERR_AUTO_LOGOUT": "Αυτόματη αποσύνδεση λόγω αδράνειας",
     "ERR_FIELD_NOT_FOUND": "Το πεδίο δεν βρέθηκε",
     "ERR_NO_VALUE": "Καμία τιμή",
+    "ERR_BODY_IS_EMPTY": "Το σώμα είναι άδειο",
     "ERR_API": "Σφάλμα στο API",
     "ERR_MODULE_DOES_NOT_EXIST": "Το Module %s δεν υπάρχει",
     "ERR_RECORD_NOT_FOUND": "Δεν υπάρχει εγγραφή με αναγνωριστικό: %s",

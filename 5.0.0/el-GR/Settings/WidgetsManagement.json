@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CHOISE_AUTHORIZED": "Select role",
+    "LBL_CHOISE_AUTHORIZED": "Επιλογή ρόλου",
     "LBL_ADD_DASHBOARD_BLOCK": "Add summary block for module",
     "LBL_WIDTH": "Width",
     "LBL_HEIGHT": "Height",

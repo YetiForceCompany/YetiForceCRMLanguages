@@ -2,14 +2,14 @@
   "php": {
     "Competition": "Concorrenti",
     "SINGLE_Competition": "Concorrente",
-    "LBL_COMPETITION_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Name",
-    "LBL_NUMBER": "Number",
+    "LBL_COMPETITION_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_SUBJECT": "Nome",
+    "LBL_NUMBER": "Progressivo",
     "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "LBL_VAT_ID": "Partita IVA",
+    "LBL_SHOW_HIERARCHY": "Gerarchia",
+    "LBL_PARENT_ID": "Membro di"
   }
 }

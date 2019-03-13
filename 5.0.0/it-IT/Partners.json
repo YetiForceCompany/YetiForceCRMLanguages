@@ -2,13 +2,13 @@
   "php": {
     "Partners": "Partner",
     "SINGLE_Partners": "Partner",
-    "LBL_PARTNERS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
+    "LBL_PARTNERS_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Progressivo",
     "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "FL_CATEGORY": "Category"
+    "LBL_VAT_ID": "Partita IVA",
+    "FL_CATEGORY": "Categoria"
   }
 }

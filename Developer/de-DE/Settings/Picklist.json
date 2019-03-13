@@ -35,7 +35,7 @@
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Einer Rolle zugewiesene Werte",
     "NO_PICKLIST_FIELDS": "hat keine Auswahllisten-Felder",
     "LBL_NEW_VALUE": "Neuer Wert",
-    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_CLOSES_RECORD": "Soll der Datensatz gesperrt werden?",
     "LBL_PREFIX": "Präfix",
     "LBL_BLOCKED_RECORD_INFO": "Wenn Sie diese Option auswählen, wird verhindert, dass der Datensatz bearbeitet wird. Wenn Sie den Datensatz entsperren möchten, müssen Sie die zugewiesenen Berechtigungen im Profil akzeptieren",
     "LBL_AUTOMATION_NO_CONCERN": "Nicht anwendbar",

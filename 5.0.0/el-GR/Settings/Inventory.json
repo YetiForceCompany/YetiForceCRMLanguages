@@ -1,9 +1,9 @@
 {
   "php": {
-    "LBL_CREDITLIMITS": "Merchant limits",
+    "LBL_CREDITLIMITS": "Πιστωτικά όρια",
     "LBL_CREDITLIMITS_DESCRIPTION": " ",
-    "LBL_CREDITLIMITS_SINGLE": "Merchant limit",
-    "LBL_CREDITLIMITS_INFO": "In the YetiForce system we got the ability to manage merchant limits for Accounts. This functionality is used to limit the Account's excessive debt in permanent cooperation. Merchant limits are mainly granted to these Accounts who cooperate with us for a longer period of time and we want to extend their payment deadline, which means that the Account won't be able to place a new order unless his previous balance has been regulated [current balance and issued document exceed granted limit].",
+    "LBL_CREDITLIMITS_SINGLE": "Πιστωτικό όριο",
+    "LBL_CREDITLIMITS_INFO": "Στο σύστημα YetiForce έχουμε τη δυνατότητα να διαχειριστούμε τα πιστωτικά όρια για τους πελάτες. Αυτή η λειτουργία χρησιμοποιείται για τον περιορισμό της υπερχρέωσης του πελάτη ενώ συνεχίζουμε τη συνεργασία μαζί του. Πιστωτικά όρια χορηγούνται κυρίως πελάτες που συνεργάζονται μαζί μας για ένα μεγαλύτερο χρονικό διάστημα και θέλουμε να διευρύνουμε την προθεσμία πληρωμής, το οποίο σημαίνει ότι ο πελάτης δεν θα είναι σε θέση να κάνει μια νέα παραγγελία εκτός εάν έχει ρυθμιστεί το προηγούμενο υπόλοιπο [τρέχων υπόλοιπο συν ποσό εκδοθέντος εγγράφου υπερβαίνει το όριο χορήγησης].",
     "LBL_ENTER_NAME": "Εισαγάγετε το όνομα",
     "LBL_ENTER_VALUE": "Εισαγάγετε μια τιμή",
     "LBL_NAME": "Όνομα",
@@ -35,15 +35,15 @@
     "LBL_YES": "Ναι",
     "LBL_NO": "Όχι",
     "Inventory": "Εκτεταμένα modules",
-    "LBL_VIEW_CREDITLIMITS": "Merchant limits base",
-    "LBL_VIEW_TAXES": "Tax base",
-    "LBL_VIEW_TAXCONFIGURATION": "Tax configuration",
-    "LBL_VIEW_DISCOUNTCONFIGURATION": "Discount configuration",
-    "LBL_VIEW_DISCOUNTS": "Discount base",
-    "LBL_ALERT_TAX_CONFIG_TITLE": "Tax settings description:",
+    "LBL_VIEW_CREDITLIMITS": "Πιστωτικά όρια",
+    "LBL_VIEW_TAXES": "Φόροι",
+    "LBL_VIEW_TAXCONFIGURATION": "Φόροι - Διαμόρφωση",
+    "LBL_VIEW_DISCOUNTCONFIGURATION": "Εκπτώσεις - Διαμόρφωση",
+    "LBL_VIEW_DISCOUNTS": "Εκπτώσεις",
+    "LBL_ALERT_TAX_CONFIG_TITLE": "Φορολογικές ρυθμίσεις Περιγραφή:",
     "LBL_ALERT_TAX_CONFIG_DESC": "Τύποι άθροισης φόρων:\nIn total:\n- Το άθροισμα όλων των φόρων υπολογίζεται επί της αρχικής αξίας των προϊόντων\/υπηρεσιών.\n[Example]\nΥπάρχουν δύο φόροι που έχουν επιλεγεί: ο πρώτος 23%%, ο δεύτερος 8%%. Το σύστημα αθροίζει την αξία των δύο φόρων επί του αρχικού καθαρόυ ποσού. \nΣτο παραπάνω παράδειγμα για καθαρή αξία 100 €, το συνολικό ακαθάριστο ποσό θα είναι (100* 1,31) = 131,00 €\n\nCascade:\n- Ο φόρος υπολογίζεται σωρευτικά στην τιμή του\/της προϊόντος\/υπηρεσίας.\n[Example]\nΕπιλέγονται δύο φόροι: ο πρώτος 23%%, ο δεύτερος 8%%. Το σύστημα υπολογίζει την τιμή για τον πρώτο φόρο και στη συνέχεια προστίθεται η αξία του δεύτερου φόρου. \nΣτο παραπάνω παράδειγμα για καθαρή αξία 100€, το ακαθάριστο ποσό θα είναι (100 * 1,23) * 1,08 = 132,84 €\n\nΠεριγραφή φόρων:\nΦόρος από τη λίστα των διαθέσιμων φόρων:\n- καθορίζονται στις ρυθμίσεις για Προηγμένα Modules.\nΦόρος από τη λίστα προϊόντων\/υπηρεσιών:\n- καθορισμένος ξεχωριστά για κάθε προϊόν\/υπηρεσία στα αντίστοιχα Modules. \nΠροσαρμοσμένο φόρος:\n- καθορίζεται μία φορά για την επιλεγμένη εγγραφή. \nΦόρος Πελάτη:\n- ορίζεται ξεχωριστά για επιλεγμένους πελάτες.",
-    "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "Discount settings description:",
-    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Summation type:\nIn total:\n- Total value of all discounts calculated on the basis of product\/services value.\n[Example]\nThere are two discounts selected: the first one is 20%%, the second one is 10%%. The system sums the value of both discounts from the original net amount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 30%%) = 70,00 zł\n\nCascade:\n- Discount amount is calculated each time from the product\/service value.\n[Example]\nTwo discounts are selected: the first one is 20%%, the second one is 10%%. The system calculates the value for the first discount and then this amount is reduced by the value of the second discount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 20%%) - 10%% = 72 zł\n\nDiscount settings description:\nDiscount from the list of available discounts:\n- Specified in settings for Advanced Modules.\nDiscount from products\/services list:\n- Specified individually for products in the Products module.\nCustom discount:\n- Specified once for a selected record.\nAccount's discount:\n- Specified individually for a selected Account."
+    "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "Ρυθμίσεις Εκπτώσεων Περιγραφή:",
+    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Τύποι άθροισης εκπτώσεων:\nIn total:\n- Το άθροισμα όλων των εκπτώσεων υπολογίζεται επί της αρχικής αξίας των προϊόντων\/υπηρεσιών.\n[Example]\nΥπάρχουν δύο εκπτώσεις που έχουν επιλεγεί: η πρώτη 2ο%%, η δεύτερη 10%%. Το σύστημα εφαρμόζει το άθροισμα των δύο εκπτώσεων επί του αρχικού καθαρού ποσού. \nΣτο παραπάνω παράδειγμα για καθαρή αξία 100€, το ποσό μετά τις εκπτώσεις θα είναι (100 - 30%%) = 70,00€\n\nCascade:\n- Οι εκπτώσεις υπολογίζονται σωρευτικά στην τιμή του\/της προϊόντος\/υπηρεσίας.\n[Example]\nΕπιλέγονται δύο εκπτώσεις: η πρώτη 2ο%%, η δεύτερη 10%%. Το σύστημα υπολογίζει την τιμή με την πρώτη έκπτωση και επ' αυτής στη συνέχεια εφαρμόζεται η δεύτερη έκπτωση. \nΣτο παραπάνω παράδειγμα για καθαρή αξία 100€, το ακαθάριστο ποσό θα είναι (100 - 20%%) - 10%% = 72€\n\nΠεριγραφή εκπτώσεων:\nΈκπτωση από τη λίστα των διαθέσιμων εκπτώσεων:\n- καθορίζονται στις ρυθμίσεις για Προηγμένα Modules.\nΈκπτωση από τη λίστα προϊόντων\/υπηρεσιών:\n- καθορισμένος ξεχωριστά για κάθε προϊόν\/υπηρεσία στα αντίστοιχα Modules. \nΠροσαρμοσμένη έκπτωση:\n- καθορίζεται μία φορά για την επιλεγμένη εγγραφή. \nΈκπτωση Πελάτη:\n- ορίζεται ξεχωριστά για επιλεγμένους πελάτες."
   },
   "js": {
     "JS_SAVE_CHANGES": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία.",

@@ -1,6 +1,6 @@
 {
   "php": {
-    "Leads": "Potenciales",
+    "Leads": "Contactos Potenciales",
     "LBL_OPPURTUNITIES": "Oportunidades",
     "checkBox": "Casilla de verificación",
     "currency": "Moneda",
@@ -19,7 +19,7 @@
     "LBL_OPPORTUNITIES": "Oportunidades",
     "LBL_ORGANIZATIONS": "Empresas",
     "LBL_SAVED_SUCCESSFULLY": "Guardado correctamente",
-    "LBL_VIEW_MAPPINGDETAIL": "Mapping settings",
+    "LBL_VIEW_MAPPINGDETAIL": "Configuración de Mapeo",
     "multiSelectCombo": "Desplegable de selección múltiple",
     "percent": "Por ciento",
     "phone": "Teléfono",

@@ -1,8 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Illegal value",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
-    "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script existe fisicamente, mas não contém o nome da função importada.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Falha ao gravar o arquivo de script de métodos de workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Foi registado um valor ilegal para este tipo de campo. Nome do campo: %s, módulo: %s, valor: %s",
     "ERR_VALUE_IS_TOO_LONG": "Limite de caracteres excedido. Nome do campo: %s, módulo: %s, valor: %s",
     "ERR_TO_MANY_FILES": "Muitos arquivos transferidos - limite foi excedido. Nome do campo: %s, módulo: %s, valor: %s",
@@ -25,10 +25,11 @@
     "ERR_FILE_PHP_CODE_INJECTION": "File contains dangerous PHP code and was rejected",
     "ERR_FILE_XPACKET_CODE_INJECTION": "File contains dangerous XPACKET code and was rejected",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "No permissions to create directories",
-    "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "O diretório não pode ser criado",
     "ERR_AUTO_LOGOUT": "Logged out automatically due to no activity",
     "ERR_FIELD_NOT_FOUND": "Field not found",
     "ERR_NO_VALUE": "No value",
+    "ERR_BODY_IS_EMPTY": "Body is empty",
     "ERR_API": "Error in API",
     "ERR_MODULE_DOES_NOT_EXIST": "Module %s does not exist",
     "ERR_RECORD_NOT_FOUND": "There is no record with ID: %s",
