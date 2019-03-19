@@ -27,7 +27,7 @@
     "LBL_REGISTER_CRM_ONLINE": "Online-Anmeldung-",
     "LBL_ERROR_MESSAGE": "Fehler: %s",
     "LBL_REGISTER_CRM_SERIAL": "Registrierungsschlüssel",
-    "LBL_REGISTER_CHECK": "Check status",
+    "LBL_REGISTER_CHECK": "Status überprüfen",
     "LBL_NOT_REGISTERED": "Nicht registriert",
     "LBL_WAITING_FOR_ACCEPTANCE": "Warten auf Freigabe",
     "LBL_INCORRECT_DATA": "Fehlerhafte Daten",

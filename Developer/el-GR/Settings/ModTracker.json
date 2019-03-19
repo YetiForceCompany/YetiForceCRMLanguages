@@ -1,12 +1,12 @@
 {
   "php": {
-    "ModTracker": "Change history",
-    "LBL_MODTRACKER_SETTINGS": "Modules – Track Changes \/ History",
-    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Manage change history in modules",
+    "ModTracker": "Ιστορικό αλλαγών",
+    "LBL_MODTRACKER_SETTINGS": "Modules - Παρακολούθηση αλλαγών",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Καθορίστε για ποια modules επιθυμείτε την παρακολούθηση αλλαγών",
     "LBL_MODULE": "Module",
-    "LBL_ACTIVE": "Track changes",
-    "LBL_TOOLS": "Tools",
-    "LBL_TRACK_CHANGES_ENABLED": "Track changes enabled",
-    "LBL_TRACK_CHANGES_DISABLE": "Track changes disabled"
+    "LBL_ACTIVE": "Παρακολούθηση αλλαγών",
+    "LBL_TOOLS": "Εργαλεία",
+    "LBL_TRACK_CHANGES_ENABLED": "Παρακολούθηση αλλαγών ενεργοποιημένη",
+    "LBL_TRACK_CHANGES_DISABLE": "Παρακολούθηση αλλαγών απενεργοποιημένη"
   }
 }

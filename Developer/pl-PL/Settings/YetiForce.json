@@ -33,7 +33,7 @@
     "LBL_REGISTER": "Zarejestruj",
     "LBL_REGISTERED": "Rejestracja zakończona pomyślnie.",
     "LBL_REGISTRATION_KEY": "Klucz rejestracyjny",
-    "LBL_REGISTRATION_OFFLINE_DESC": "Aby zarejestrować wersję systemu która nie ma dostępu do internetu, należy wysłać maila na adres % z danymi",
+    "LBL_REGISTRATION_OFFLINE_DESC": "Aby zarejestrować wersję systemu która nie ma dostępu do internetu, należy wysłać maila na adres %s z danymi",
     "LBL_REGISTRATION_OFFLINE_EXAMPLE": "Temat: Rejestracja Offline systemu YetiForceCRM\n\nTreść: \nProszę o rejestrację mojego systemu CRM:\n\nNazwa Twojej firmy:\nKraj:\nMiasto:\nLiczba pracowników:\nStrona internetowa:\nKlucz produktu: %s",
     "LBL_SUPPLIERS": "Dostawcy",
     "LBL_INVALID_OFFLINE_KEY": "Wprowadzony klucz jest błedny",

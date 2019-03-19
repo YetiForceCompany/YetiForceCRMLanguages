@@ -35,13 +35,13 @@
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Values assigned to a role",
     "NO_PICKLIST_FIELDS": "do not have any picklist fields",
     "LBL_NEW_VALUE": "New value",
-    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_CLOSES_RECORD": "Record blokkeren?",
     "LBL_PREFIX": "Prefix",
-    "LBL_BLOCKED_RECORD_INFO": "Selecting this option will prevent the record from being edited. If you want to unblock the record you have to accept the assigned permissions in the profile",
-    "LBL_AUTOMATION_NO_CONCERN": "Not applicable",
+    "LBL_BLOCKED_RECORD_INFO": "Met deze optie voorkomt u wijzigingen aan het record. Als u het record wilt deblokkeren, dient u de toegewezen machtigingen in het profiel te aanvaarden",
+    "LBL_AUTOMATION_NO_CONCERN": "Niet van toepassing",
     "LBL_AUTOMATION_OPEN": "Open",
-    "LBL_AUTOMATION_CLOSED": "Closed",
-    "LBL_AUTOMATION_INFO": "This value might be taken into account in some automatic mechanisms"
+    "LBL_AUTOMATION_CLOSED": "Gesloten",
+    "LBL_AUTOMATION_INFO": "Deze waarde kan in sommige automatische mechanismen in acht worden genomen"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "All Roles Selected",

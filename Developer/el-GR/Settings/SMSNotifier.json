@@ -1,22 +1,22 @@
 {
   "php": {
-    "FL_PROVIDER": "Provider",
-    "FL_STATUS": "Status",
-    "FL_SMSAPI_FROM": "Message type",
-    "FL_API_KEY": "Api key",
-    "PLL_INACTIVE": "Inactive",
-    "PLL_ACTIVE": "Active",
-    "LBL_ADD_RECORD": "New configuration",
-    "LBL_SMSNOTIFIER": "SMS provider configuration",
+    "FL_PROVIDER": "Πάροχος",
+    "FL_STATUS": "Κατάσταση",
+    "FL_SMSAPI_FROM": "Τύπος μηνύματος",
+    "FL_API_KEY": "Κλειδί API",
+    "PLL_INACTIVE": "Ανενεργό",
+    "PLL_ACTIVE": "Ενεργό",
+    "LBL_ADD_RECORD": "Νέα διαμόρφωση",
+    "LBL_SMSNOTIFIER": "Ρύθμιση παραμέτρων της υπηρεσίας παροχής SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",
-    "LBL_ADD_CONFIGURATION": "New configuration",
-    "LBL_EDIT_CONFIGURATION": "Edit configuration",
-    "BTN_SAVE": "Save",
-    "BTN_CLOSE": "Cancel"
+    "LBL_ADD_CONFIGURATION": "Νέα διαμόρφωση",
+    "LBL_EDIT_CONFIGURATION": "Επεξεργασία παραμέτρων",
+    "BTN_SAVE": "Αποθήκευση",
+    "BTN_CLOSE": "Άκυρο"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Are you sure you want to delete this configuration?",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuration removed successfully",
-    "JS_SAVE_SUCCESS": "Saved"
+    "LBL_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη ρύθμιση;",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Ρύθμιση παραμέτρων καταργήθηκε με επιτυχία",
+    "JS_SAVE_SUCCESS": "Αποθηκεύτηκε"
   }
 }

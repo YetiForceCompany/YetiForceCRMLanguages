@@ -1,7 +1,7 @@
 {
   "php": {
-    "SCalculations": "Calculations",
-    "SINGLE_SCalculations": "Calculation",
+    "SCalculations": "Υπολογισμοί",
+    "SINGLE_SCalculations": "Υπολογισμός",
     "LBL_SCALCULATIONS_INFORMATION": "Βασικές πληροφορίες",
     "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
     "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",

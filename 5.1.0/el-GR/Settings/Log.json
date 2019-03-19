@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_LOGS": "Security incidents",
-    "LBL_LOGS_DESC": "Panel for viewing security incidents",
-    "LBL_ACCESS_FOR_ADMIN": "Access for admin",
-    "LBL_ACCESS_FOR_API": "Access for API",
-    "LBL_ACCESS_FOR_USER": "Access for user",
-    "LBL_ACCESS_TO_RECORD": "Access to record",
+    "LBL_LOGS": "Περιστατικά ασφαλείας",
+    "LBL_LOGS_DESC": "Πίνακας για την προβολή συμβάντων ασφαλείας",
+    "LBL_ACCESS_FOR_ADMIN": "Πρόσβασης για admin",
+    "LBL_ACCESS_FOR_API": "Πρόσβαση για API",
+    "LBL_ACCESS_FOR_USER": "Πρόσβαση για χρήστη",
+    "LBL_ACCESS_TO_RECORD": "Πρόσβαση σε εγγραφή",
     "LBL_CSRF": "CSRF",
-    "LBL_USERNAME": "Username",
-    "LBL_DATE": "Date",
+    "LBL_USERNAME": "Όνομα χρήστη",
+    "LBL_DATE": "Ημερομηνία",
     "LBL_IP": "IP",
-    "LBL_RECORD": "Record ID",
+    "LBL_RECORD": "Αναγνωριστικό εγγραφής",
     "LBL_MODULE": "Module",
     "LBL_URL": "URL",
-    "LBL_AGENT": "Agent",
-    "LBL_REQUEST": "Request",
+    "LBL_AGENT": "Πράκτορας(Agent)",
+    "LBL_REQUEST": "Αίτηση",
     "LBL_REFERER": "Referer"
   }
 }

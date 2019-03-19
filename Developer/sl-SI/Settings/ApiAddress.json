@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Shrani",
     "ApiAddress": "Iskanje naslovov",
-    "LBL_API_ADDRESS": "Karte [Google & OSM]",
+    "LBL_API_ADDRESS": "Iskanje naslovov",
     "LBL_API_ADDRESS_DESCRIPTION": "Modul omogoča iskanje \/ samodokončanje naslova v sistemu med ustvarjanjem \/ urejanjem podatkov.",
     "LBL_USE_OPENCAGE_GEOCODER": "Uporabi OpenCage Geocoder",
     "LBL_REMOVE_CONNECTION": "Odstrani povezavo",
@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "Uporaba Google geokodiranje",
     "google_map_api": "Geokodiranje Google",
     "opencage_data": "Uporabi OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "Splošne nastavitve",
+    "LBL_GLOBAL_CONFIG": "Configuration",
     "LBL_SAVE_GLOBAL_SETTINGS": "Shranite splošne nastavitve",
     "LBL_NUMBER_SEARCH_RESULTS": "Število rezultatov iskanja"
   },

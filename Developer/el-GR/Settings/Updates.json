@@ -1,16 +1,16 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
-    "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_NAME_PACKAGES": "Name"
+    "Updates": "Ενημερώσεις",
+    "LBL_YES": "Ναι",
+    "LBL_NO": "Όχι",
+    "LBL_TIME": "Ημερομηνία",
+    "LBL_USER": "Όνομα χρήστη",
+    "LBL_FROM_VERSION": "Από την έκδοση",
+    "LBL_TO_VERSION": "Στην έκδοση",
+    "LBL_RESULT": "Κατάσταση",
+    "LBL_UPDATES": "Ενημερώσεις",
+    "LBL_UPDATES_DESCRIPTION": "Ιστορικό ενημερώσεων",
+    "LBL_IMPORT_UPDATE": "Μεταφόρτωση ενημερωμένης έκδοσης",
+    "LBL_NAME_PACKAGES": "Όνομα"
   }
 }

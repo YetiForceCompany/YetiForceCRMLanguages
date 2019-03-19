@@ -17,7 +17,7 @@
     "LBL_ALL_GROUP_LIST": "Διαθέσιμες επιλογές",
     "LBL_GROUP_MEMBERS": "Περιλαμβάνεται στην ενέργεια",
     "LBL_ADD_PERMISSIONS": "Προσθέστε δικαιώματα",
-    "LBL_RECEIVE_PERMISSION": "Receive permissions",
+    "LBL_RECEIVE_PERMISSION": "Ανάκληση άδειας",
     "LBL_SAVE_SEQUENCES": "Επιτυχής αποθήκευση",
     "LBL_EXISTS_PERMISSION_IN_CONFIG": "Σύγκρουση με %s \nΤο επιλεγμένο δικαίωμα δεν μπορεί να χρησιμοποιηθεί σε περισσότερα από ένα φίλτρα.",
     "LBL_SORTING": "Ταξινόμηση",

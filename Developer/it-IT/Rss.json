@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
-    "LBL_ADD_FEED_SOURCE": "Add Feed Source",
-    "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
-    "LBL_SENDER": "Sender",
-    "LBL_FEED_SOURCE": "Feed Source",
-    "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
-    "SINGLE_Rss": "Rss Feed",
-    "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
+    "LBL_RSS_FEED_SOURCES": "Sorgenti notizie RSS",
+    "LBL_ADD_FEED_SOURCE": "Aggiungi sorgente",
+    "LBL_FEEDS_LIST_FROM": "Lista notizie da",
+    "LBL_SET_AS_DEFAULT": "Imposta come predefinito",
+    "LBL_SENDER": "Provenienza",
+    "LBL_FEED_SOURCE": "Sorgente notizie",
+    "LBL_ENTER_FEED_SOURCE": "Inserisci sorgente notizie",
+    "SINGLE_Rss": "Sorgente notizie RSS",
+    "LBL_CHANGE_RSS_CHANNEL": "Cambia canale RSS"
   },
   "js": {
     "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",

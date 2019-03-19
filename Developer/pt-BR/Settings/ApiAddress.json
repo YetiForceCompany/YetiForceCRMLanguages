@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Salvar",
     "ApiAddress": "Pesquisar endereço",
-    "LBL_API_ADDRESS": "Mapas [Google & OSM]",
+    "LBL_API_ADDRESS": "Pesquisar endereço",
     "LBL_API_ADDRESS_DESCRIPTION": "O módulo permite pesquisar\/autocompletar o endereço durante a criação\/edição dos dados no Sistema.",
     "LBL_USE_OPENCAGE_GEOCODER": "Utilize o Geocodificador OpenCage",
     "LBL_REMOVE_CONNECTION": "Remover Conexão",
@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "Utilizar Google Geocoding",
     "google_map_api": "Google Geocoding",
     "opencage_data": "OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "Configuração Global",
+    "LBL_GLOBAL_CONFIG": "Configuração",
     "LBL_SAVE_GLOBAL_SETTINGS": "Salvar as configurações globais",
     "LBL_NUMBER_SEARCH_RESULTS": "Número resultados da busca"
   },

@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "ذخیره",
     "ApiAddress": "آدرس جستجو",
-    "LBL_API_ADDRESS": "نقشه [گوگل & OSM]",
+    "LBL_API_ADDRESS": "آدرس جستجو",
     "LBL_API_ADDRESS_DESCRIPTION": "ماژول اجازه می دهد هنگام جستجو\/ تکمیل به صورت خودکار داده ها آدرس را در سیستم ایجاد\/ویرایش شود.",
     "LBL_USE_OPENCAGE_GEOCODER": "استفاده از OpenCage Geocoder",
     "LBL_REMOVE_CONNECTION": "حذف ارتباط",
@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "استفاده از گوگل Geocoding",
     "google_map_api": "گوگل Geocoding",
     "opencage_data": "استفاده از OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "پیکربندی سراسری",
+    "LBL_GLOBAL_CONFIG": "Configuration",
     "LBL_SAVE_GLOBAL_SETTINGS": "ذخیره تنظیمات سراسری",
     "LBL_NUMBER_SEARCH_RESULTS": "تعداد نتایج"
   },

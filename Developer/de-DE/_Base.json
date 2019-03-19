@@ -1328,8 +1328,8 @@
     "PLL_SUBMITTED_COMMENTS": "Eingegebene Kommentare",
     "PLL_IN_PROGRESSING": "In Bearbeitung",
     "PLL_IN_APPROVAL": "In Genehmigung",
-    "PLL_COMPLETED": "Komplett",
-    "PLL_CANCELLED": "Abgesagt",
+    "PLL_COMPLETED": "Abgeschlossen",
+    "PLL_CANCELLED": "Abgebrochen",
     "LBL_SELECT_UP_TO_RECORDS": "Bis zu %s Datensätze auswählen"
   },
   "js": {

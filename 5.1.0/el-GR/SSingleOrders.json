@@ -22,8 +22,8 @@
     "FL_SUM_GROSS": "Ακαθάριστο ποσό",
     "FL_SUM_DISCOUNT": "Ποσό έκπτωσης",
     "FL_POS": "POS",
-    "FL_NUMBER_TABLE": "Table number",
-    "FL_NUMBER_SEAT": "Seat number",
+    "FL_NUMBER_TABLE": "Αριθμός τραπεζιού",
+    "FL_NUMBER_SEAT": "Αριθμός θέσης",
     "FL_STORAGE": "Αποθ. χώρος",
     "PLL_DRAFT": "Προσχέδιο",
     "PLL_IN_REALIZATION": "Σε υλοποίηση",
@@ -34,7 +34,7 @@
     "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης",
     "LBL_SYNCHRONIZE_POS": "Συγχρονισμός POS",
     "FL_SOURCE": "Πηγή",
-    "PLL_MANUAL": "Manual",
+    "PLL_MANUAL": "Χειροκίνητα",
     "PLL_SHOP": "Κατάστημα"
   }
 }

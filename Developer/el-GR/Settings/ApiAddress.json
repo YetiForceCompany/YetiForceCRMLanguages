@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Αποθήκευση",
     "ApiAddress": "Αναζήτηση διεύθυνσης",
-    "LBL_API_ADDRESS": "Χάρτες [Google & OSM]",
+    "LBL_API_ADDRESS": "Αναζήτηση διεύθυνσης",
     "LBL_API_ADDRESS_DESCRIPTION": "Module που επιτρέπει την αναζήτηση \/ αυτοσυμπλήρωση διεύθυνσης κατά τη δημιουργία\/επεξεργασία δεδομένων εντός του συστήματος.",
     "LBL_USE_OPENCAGE_GEOCODER": "Χρησιμοποιήστε OpenCage Geocoder",
     "LBL_REMOVE_CONNECTION": "Κατάργηση σύνδεσης",
@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "Χρησιμοποιήστε το Google Geocoding",
     "google_map_api": "Google Geocoding",
     "opencage_data": "Χρησιμοποιήστε OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "Καθολικές ρυθμίσεις",
+    "LBL_GLOBAL_CONFIG": "Ρύθμιση παραμέτρων",
     "LBL_SAVE_GLOBAL_SETTINGS": "Αποθηκεύστε τις καθολικές ρυθμίσεις",
     "LBL_NUMBER_SEARCH_RESULTS": "Αριθμός των αποτελεσμάτων αναζήτησης"
   },

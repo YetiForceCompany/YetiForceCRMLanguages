@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "Фільтри - Конфігурація",
+    "LBL_FEATURED": "Додати до обраних",
+    "LBL_COLOR_VIEW": "Переглянути колір",
+    "LBL_ADD_FIELD": "Додати поле"
   }
 }

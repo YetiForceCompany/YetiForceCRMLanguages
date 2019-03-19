@@ -1,21 +1,21 @@
 {
   "php": {
-    "LBL_CONVERSION": "Conversion",
-    "LBL_CONVERSION_TO_ACCOUNT": "Change Assigned To",
-    "LBL_CONVERSION_TO_ACCOUNT_INFO": "When this option is ticked, a user who converts a Lead to an Account becomes its Assigned To",
-    "LBL_LEADS": "Leads",
-    "LBL_INFO": "Information",
-    "LBL_VALUES": "Values",
+    "LBL_CONVERSION": "Μετατροπή",
+    "LBL_CONVERSION_TO_ACCOUNT": "Αλλαγή του κατόχου της εγγραφής",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "Όταν αυτή η επιλογή είναι τσεκαρισμένη, ο χρήστης που μετατρέπει έναν Δυνητικό Πελάτη σε Πελάτη γίνεται κατοχος της εγγραφής",
+    "LBL_LEADS": "Δυνητικοί Πελάτες",
+    "LBL_INFO": "Πληροφορίες",
+    "LBL_VALUES": "Τιμές",
     "LBL_GROUPS_INFO": "Groups with no Assigned To",
-    "LBL_LEAD_STATUS": "Statuses indicating end of work with Leads",
-    "LBL_LEAD_CONVERT_STATUS": "Statuses that allow for converting Lead to Account",
-    "LBL_CURRENTUSER_STATUS": "Change Assigned To to a user who edits a record",
-    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
-    "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
-    "LBL_CONDITION": "Add condition",
-    "MarketingProcesses": "Marketing processes"
+    "LBL_LEAD_STATUS": "Καταστάσεις που υποδεικνύουν το τέλος της εργασίας με Δυνητικό Πελάτη",
+    "LBL_LEAD_CONVERT_STATUS": "Καταστάσεις που επιτρέπουν τη μετατροπή Δυνητικού Πελάτη σε Πελάτη",
+    "LBL_CURRENTUSER_STATUS": "Αλλαγή κατόχου εγγραφής στο χρήστη ο οποίος την επεξεργάζεται",
+    "LBL_CONVERT_LEAD_MERGE": "Σύνδεση με την εγγραφή που πληροί καθορισμένες απαιτήσεις κατά τη μετατροπή από Δυνητικό Πελάτη σε Πελάτη",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "Η επιλογή αυτή αναγκάζει το σύστημα να συνδέσει αυτόματα την εγγραφή που μετατρέπεται με έναν ήδη υπάρχοντα λογαριασμό - νεος Πελάτης δεν θα δημιουργηθεί, αντί για αυτό, όλα τα υπάρχοντα δεδομένα της εγγραφής θα μεταφερθούν από το Δυνητικό Πελάτη",
+    "LBL_CONDITION": "Προσθήκη συνθήκης",
+    "MarketingProcesses": "Διαδικασίες μάρκετινγκ"
   },
   "js": {
-    "JS_NO_CONDITIONS": "At least one condition is required"
+    "JS_NO_CONDITIONS": "Απαιτείται τουλάχιστον μία συνθήκη"
   }
 }

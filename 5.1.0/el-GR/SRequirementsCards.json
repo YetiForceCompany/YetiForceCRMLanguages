@@ -1,7 +1,7 @@
 {
   "php": {
-    "SRequirementsCards": "Sales requirements",
-    "SINGLE_SRequirementsCards": "Sales requirement",
+    "SRequirementsCards": "Απαιτήσεις πωλήσεων",
+    "SINGLE_SRequirementsCards": "Απαίτηση πωλήσεων",
     "LBL_SREQUIREMENTSCARDS_INFORMATION": "Βασικές πληροφορίες",
     "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
     "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",

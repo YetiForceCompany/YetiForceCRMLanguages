@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Сохранить",
     "ApiAddress": "Поиск адресов",
-    "LBL_API_ADDRESS": "Карты [Google & OSM]",
+    "LBL_API_ADDRESS": "Поиск адресов",
     "LBL_API_ADDRESS_DESCRIPTION": "Модуль позволяет искать и автоматически заполнять формы с адресами во время создания или изменения записей",
     "LBL_USE_OPENCAGE_GEOCODER": "Использовать OpenCage",
     "LBL_REMOVE_CONNECTION": "Удалить ключ приложения",
@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "Использовать Google",
     "google_map_api": "Google Geocoding",
     "opencage_data": "OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "Основные настройки",
+    "LBL_GLOBAL_CONFIG": "Configuration",
     "LBL_SAVE_GLOBAL_SETTINGS": "Сохранить",
     "LBL_NUMBER_SEARCH_RESULTS": "Количество результатов в поиске"
   },

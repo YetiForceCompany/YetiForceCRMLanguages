@@ -62,6 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Kontakti",
     "LBL_PROCESS": "Procesi",
     "LBL_SUB_PROCESS": "Podprocesi",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_REMOVE_RELATION": "Odstranite povezavo",
     "LBL_SELECT_RECORD": "Povezava na obstoječi zapis",
     "LBL_ADD_CALENDAR": "Dodaj dogodek",

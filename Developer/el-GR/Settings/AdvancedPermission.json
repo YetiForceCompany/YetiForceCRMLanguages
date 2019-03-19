@@ -13,14 +13,14 @@
     "FL_ACTIVE": "Ενεργό",
     "FL_INACTIVE": "Ανενεργό",
     "FL_UNLOCK_RECORD": "Παραχώρηση πρόσβασης",
-    "FL_LOCK_RECORD": "Αποκλεισμός πρόσβασης",
+    "FL_LOCK_RECORD": "Απόσυρση πρόσβασης",
     "LBL_SAVE_AND_CONDITIONS": "Επόμενο",
-    "ERR_INACTIVE_ALERT_TITLE": "Δικαιώματα για προχωρημένους είναι απενεργοποιημένα",
+    "ERR_INACTIVE_ALERT_TITLE": "Τα προηγμένα - ειδικά δικαιώματα είναι απενεργοποιημένα",
     "ERR_INACTIVE_ALERT_DESC": "Αλλάξτε την παράμετρο PERMITTED_BY_ADVANCED_PERMISSION στο αρχείο config\/security.php για να ενεργοποιήσετε.",
     "LBL_RECALCULATE_PERMISSION_TITLE": "Επανυπολογισμός δικαιωμάτων",
     "LBL_RECALCULATE_PERMISSION_BTN": "Επανυπολογισμός δικαιωμάτων",
     "LBL_RECALCULATE_CRON_INFO": "Ο επανυπολογισμός δικαιωμάτων απαιτεί ενεργό CRON, ελέγξτε στις ρυθμίσεις αν η εργασία είναι ενεργή.",
     "LBL_MODULES_LIST": "Λίστα των modules",
-    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Τα προχωρημένα δικαιώματα έχουν απενεργοποιηθεί επειδή πρέπει να είναι ενεργή η προσωρινή αποθήκευση των εγγραφών. Για να αρχίσουν να λειτουργούν τα δικαιώματα, πρέπει να ενεργοποιήσετε το cron και τη μεταβλητή CACHING_PERMISSION_TO_RECORD [config \/ security.php] να οριστεί σε true."
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Τα προηγμένα δικαιώματα έχουν απενεργοποιηθεί επειδή πρέπει να είναι ενεργή η προσωρινή αποθήκευση των εγγραφών. Για να αρχίσουν να λειτουργούν, πρέπει να ενεργοποιήσετε το cron και η μεταβλητή CACHING_PERMISSION_TO_RECORD [config \/ security.php] να οριστεί σε true."
   }
 }

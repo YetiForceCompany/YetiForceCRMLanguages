@@ -62,6 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Contacts",
     "LBL_PROCESS": "Processus",
     "LBL_SUB_PROCESS": "Sous-processus",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_REMOVE_RELATION": "Supprimer la relation",
     "LBL_SELECT_RECORD": "Lier à un enregistrement existant",
     "LBL_ADD_CALENDAR": "Ajouter un événement",

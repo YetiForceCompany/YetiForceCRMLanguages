@@ -62,6 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Contacte",
     "LBL_PROCESS": "Procese",
     "LBL_SUB_PROCESS": "Subprocese",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_REMOVE_RELATION": "Elimina relatie",
     "LBL_SELECT_RECORD": "Relatat la inregistrare existenta",
     "LBL_ADD_CALENDAR": "Adauga eveniment",

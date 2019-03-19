@@ -1,7 +1,7 @@
 {
   "php": {
-    "SQuoteEnquiries": "Sales enquiries",
-    "SINGLE_SQuoteEnquiries": "Sales enquiry",
+    "SQuoteEnquiries": "Ερωτηματολόγια πωλήσεων",
+    "SINGLE_SQuoteEnquiries": "Ερωτηματολόγιο πώλησης",
     "LBL_QUOTESENQUIRES_INFORMATION": "Βασικές πληροφορίες",
     "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
     "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",

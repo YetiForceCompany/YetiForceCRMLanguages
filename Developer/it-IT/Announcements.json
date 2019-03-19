@@ -2,19 +2,19 @@
   "php": {
     "Announcements": "Comunicazioni",
     "SINGLE_Announcements": "Comunicazione",
-    "LBL_ANNOUNCEMENTS_INFORMATION": "Informazioni Di Base",
-    "LBL_SUBJECT": "Soggetto",
-    "LBL_NUMBER": "Numero",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Informazioni base",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Progressivo",
     "FL_STATUS": "Stato",
-    "FL_INTERVAL": "Orario promemoria",
-    "FL_IS_MANDATORY": "Obbligatorio per accettare",
-    "PLL_DRAFT": "Draft",
-    "PLL_FOR_ACCEPTANCE": "For approval",
-    "PLL_PUBLISHED": "Published",
-    "PLL_ARCHIVES": "Archived",
-    "LBL_REMIND_ME_LATER": "Remind me later",
-    "LBL_MARK_AS_READ": "Mark as read",
+    "FL_INTERVAL": "Intervallo promemoria",
+    "FL_IS_MANDATORY": "Accettazione obbligatoria",
+    "PLL_DRAFT": "Bozza",
+    "PLL_FOR_ACCEPTANCE": "Da approvare",
+    "PLL_PUBLISHED": "Pubblicato",
+    "PLL_ARCHIVES": "Archiviato",
+    "LBL_REMIND_ME_LATER": "Ricordamelo più tardi",
+    "LBL_MARK_AS_READ": "Segna come letto",
     "LBL_ACCEPT_ANNOUNCEMENT": "Was accepted?",
-    "LBL_DATE": "Read on"
+    "LBL_DATE": "Data lettura"
   }
 }
