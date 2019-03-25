@@ -76,6 +76,7 @@
     "LBL_MINIMIZE_BAR": "Minimizati bara",
     "LBL_CREATEMAIL": "Trimite Mail",
     "LBL_ADD_RELATION": "Add relation",
+    "LBL_ADD_DOCUMENTS": "Add documents",
     "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s"
@@ -83,6 +84,7 @@
   "js": {
     "NoFindEmailInRecord": "Inregistrarea nu are o adresa de email",
     "AddFindEmailInRecord": "Email descarcat",
-    "StartedDownloadingEmail": "Descarcare email pornita"
+    "StartedDownloadingEmail": "Descarcare email pornita",
+    "JS_DOCUMENTS_ADDED": "Documents have been added"
   }
 }

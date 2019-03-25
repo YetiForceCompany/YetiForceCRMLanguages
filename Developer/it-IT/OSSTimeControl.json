@@ -6,14 +6,14 @@
     "LBL_MAIN_INFORMATION": "Informazioni base",
     "LBL_BLOCK": "Relazioni",
     "Payment": "Payment",
-    "LBL_TOTAL_TIME": "Tempo totale [h]",
+    "LBL_TOTAL_TIME": "Tempo totale [ore]",
     "LBL_STATUS": "Stato",
     "Assigned To": "Assegnato a",
     "name": "Oggetto",
     "Start Date": "Data inizio",
     "End Date": "Data fine",
-    "Time Start": "Data inizio",
-    "End Time": "Data fine",
+    "Time Start": "Orario inizio",
+    "End Time": "Orario fine",
     "Draft": "Bozza",
     "Achieved": "Archiviato",
     "Canceled": "Annullato",
@@ -94,7 +94,7 @@
     "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
     "LBL_TIME_CONTROL_USER_GROUP": "Time Control List with additional information about users",
     "LBL_TYPE": "Tipo attività",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Attività di progetto"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Allowed characters: [0-9]",

@@ -1,6 +1,6 @@
 {
   "php": {
-    "HTTP_ERROR": "The website that you are trying to open is not secure and might not open. If you still wish to view the webpage then you can click on the content blocker in the address bar and enable it.",
+    "HTTP_ERROR": "Il sito, che si sta tentando di aprire, non è sicuro. Se desideri vedere il sito, dovresti disabilitare il blocco dei contenuti nella barra degli indirizzi.",
     "LBL_ADD_BOOKMARK": "Aggiungi segnalibro",
     "LBL_ADD_NEW_BOOKMARK": "Aggiungi nuovo segnalibro",
     "LBL_BOOKMARK": "Segnalibro",
@@ -15,7 +15,7 @@
     "LBL_ENTER_BOOKMARK_NAME": "Inserisci oggetto",
     "LBL_ENTER_URL": "Inserisci URL (www.esempio.it)",
     "LBL_OUR_SITES_LIST": "Our sites list",
-    "LBL_RECORD_DELETED_SUCCESSFULLY": "Record deleted successfully",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "Segnalibro eliminato",
     "Portal": "Segnalibri",
     "SINGLE_Portal": "Segnalibro"
   },

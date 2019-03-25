@@ -33,7 +33,7 @@
     "LBL_SELECT_PICKLIST_IN": "Επιλέξτε λίστα επιλογών",
     "LBL_TO_DELETE_MULTIPLE_HOLD_CONTROL_KEY": "Για να διαγράψετε πολλά στοιχεία κρατήστε πατημένο το πλήκτρο ctrl ενώ επιλέγετε στοιχεία",
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Τιμές που έχουν ανατεθεί σε ένα ρόλο",
-    "NO_PICKLIST_FIELDS": "do not have any picklist fields",
+    "NO_PICKLIST_FIELDS": "δεν υπάρχει κανένα πεδίο λίστας",
     "LBL_NEW_VALUE": "Νέα τιμή",
     "LBL_CLOSES_RECORD": "Έχετε κλειδώσει την εγγραφή;",
     "LBL_PREFIX": "Πρόθεμα",
@@ -44,18 +44,18 @@
     "LBL_AUTOMATION_INFO": "Αυτή η τιμή μπορεί να ληφθεί υπόψη σε ορισμένους αυτοματοποιημένους μηχανισμούς"
   },
   "js": {
-    "JS_ALL_ROLES_SELECTED": "All Roles selected",
+    "JS_ALL_ROLES_SELECTED": "Όλοι οι ρολόι επιλέχθηκαν",
     "JS_ITEM_ADDED_SUCCESSFULLY": "Το στοιχείο προστέθηκε επιτυχώς",
     "JS_ITEM_RENAMED_SUCCESSFULLY": "Το στοιχείο μετονομάστηκε επιτυχώς",
     "JS_ITEMS_DELETED_SUCCESSFULLY": "Τα στοιχεία έχουν διαγραφεί με επιτυχία",
     "JS_LIST_UPDATED_SUCCESSFULLY": "Η λίστα ενημερώθηκε με επιτυχία",
-    "JS_MORE_THAN_ONE_ITEM_SELECTED": "More than one item selected",
+    "JS_MORE_THAN_ONE_ITEM_SELECTED": "Εχουν επιλεγεί περισσότερα από ένα στοιχεία",
     "JS_NO_ITEM_SELECTED": "Δεν υπάρχει επιλεγμένο στοιχείο",
     "JS_NOT_ALLOWED": "δεν επιτρέπεται",
     "JS_PLEASE_SELECT_MODULE": "Παρακαλώ επιλέξτε ένα module",
-    "JS_SEQUENCE_UPDATED_SUCCESSFULLY": "Sequence updated successfully",
+    "JS_SEQUENCE_UPDATED_SUCCESSFULLY": "Η σειρά αποθηκευτηκε με επιτυχία",
     "JS_SPECIAL_CHARACTERS": "Ειδικούς χαρακτήρες, όπως",
-    "JS_VALUE_ASSIGNED_SUCCESSFULLY": "Value assigned successfully",
+    "JS_VALUE_ASSIGNED_SUCCESSFULLY": "Η τιμή έχει εκχωρηθεί με επιτυχία",
     "JS_YOU_CANNOT_DELETE_ALL_THE_VALUES": "Δεν μπορείτε να διαγράψετε όλες τις τιμές"
   }
 }

@@ -15,7 +15,7 @@
     "FL_DATE_PRODUCTION": "Data produzione",
     "FL_DATE_ACQUISITION": "Data acquisto",
     "FL_PURCHASE_PRICE": "Prezzo acquisto",
-    "FL_ACTUAL_PRICE": "Prezzo effettivo",
+    "FL_ACTUAL_PRICE": "Valore effettivo",
     "FL_RESERVATION": "Prenotabile",
     "FL_CATEGORY": "Categoria",
     "FL_FUEL_TYPE": "Alimentazione",
@@ -46,11 +46,11 @@
     "PLL_PENDING_FOR_SALE": "In attesa di vendita",
     "PLL_REPROCESSED": "Rigenerato",
     "PLL_SOLD": "Venduto",
-    "PLL_DEVICE": "Device",
-    "PLL_MACHINE": "Machine",
-    "PLL_VEHICLE": "Vehicle",
-    "PLL_PROPERTY": "Property",
-    "PLL_INVENTORY": "Inventory",
+    "PLL_DEVICE": "Dispositivo",
+    "PLL_MACHINE": "Macchinario",
+    "PLL_VEHICLE": "Veicolo",
+    "PLL_PROPERTY": "Proprietà",
+    "PLL_INVENTORY": "Magazzino",
     "PLL_DIESEL": "Diesel"
   }
 }

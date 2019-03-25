@@ -1,7 +1,7 @@
 {
   "php": {
-    "LocationRegister": "Location Register",
-    "SINGLE_LocationRegister": "Location Register",
+    "LocationRegister": "Μητρώο τοποθεσίας",
+    "SINGLE_LocationRegister": "Μητρώο τοποθεσίας",
     "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
     "FL_NAME": "Όνομα",
     "FL_PARENT_LOCATION": "Γονική τοποθεσία",
@@ -22,7 +22,7 @@
     "FL_POBOX": "Ταχυδρομική θυρίδα",
     "FL_LOCAL_NUMBER": "Αριθμός γραφείου",
     "FL_POST_CODE": "Ταχυδρομικός Κώδικας",
-    "FL_CITY": "Πόλη",
+    "FL_CITY": "Πόλη\/Χωριό",
     "FL_COUNTY": "Περιφ. Ενότητα \/ Νομός",
     "FL_COUNTRY": "Χώρα",
     "FL_TOWNSHIP": "Δήμος",

@@ -3,7 +3,7 @@
     "Search Configuration": "Ρύθμιση παραμέτρων αναζήτησης",
     "Search Setup": "Αναζήτηση - Διαμόρφωση",
     "Search": "Αναζήτηση - Διαμόρφωση",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
+    "LBL_Module_desc": "Αυτός ο πίνακας σας επιτρέπει να ορίσετε ετικέτες για πεδία uitype 10 και μηχανισμούς αναζήτησης. Οι μηχανισμοί αυτοί λειτουργούν ανεξάρτητα-μπορείτε να δείτε πολλές στήλες σε ένα πεδίο κατά την αναζήτηση, αλλά όταν επιλέγετε μια εγγραφή, ένα όνομα από μια ετικέτα θα φορτωθεί.",
     "Module": "Module",
     "Table": "Πίνακας",
     "LabelFields": "Κύριες στήλες για module (συμπεριλαμβανομένης μιας ετικέτας για uitype 10)",

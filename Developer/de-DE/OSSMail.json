@@ -76,6 +76,7 @@
     "LBL_MINIMIZE_BAR": "Minimieren",
     "LBL_CREATEMAIL": "E-Mail senden",
     "LBL_ADD_RELATION": "Modulbeziehung hinzufügen",
+    "LBL_ADD_DOCUMENTS": "Dokumente hinzufügen",
     "LBL_ADD_TO_MY_CALENDAR": "Zu meinem Kalender hinzufügen",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Beim Import ist ein Fehler aufgetreten",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Die Datei wurde importiert %s"
@@ -83,6 +84,7 @@
   "js": {
     "NoFindEmailInRecord": "Datensatz hat keine E-Mail-Adresse",
     "AddFindEmailInRecord": "Heruntergeladene E-Mail",
-    "StartedDownloadingEmail": "EMail Download gestartet"
+    "StartedDownloadingEmail": "EMail Download gestartet",
+    "JS_DOCUMENTS_ADDED": "Dokumente wurden hinzugefügt"
   }
 }

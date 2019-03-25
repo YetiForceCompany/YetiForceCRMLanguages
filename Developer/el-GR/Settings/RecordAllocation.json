@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_OWNER_ALLOCATION": "Assign owner",
+    "LBL_OWNER_ALLOCATION": "Εκχώρηση ιδιοκτησίας",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "Εκχώρηση κοινής χρήσης σε χρήστες",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
-    "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",
+    "LBL_SORTING_SETTINGS_WORNING": "Προσοχη!\n η ρύθμιση θα λειτουργήσει μόνο όταν την ενεργοποιήσετε στον πίνακα ρόλων",
+    "LBL_ADD_PANEL_TO_MODULE": "Κατανομή σε αυτό το module",
     "LBL_SELECT_MODULE": "Επιλέξτε module",
     "LBL_GO_TO_PANEL": "μεταβείτε στον πίνακα",
     "LBL_USERS_AND_GROUPS": "Χρήστες και Ομάδες"
   },
   "js": {
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Είστε βέβαιοι ότι θέλετε να καταργήσετε όλες τις αναθέσεις σε αυτό το module;"
   }
 }

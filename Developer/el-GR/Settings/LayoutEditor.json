@@ -184,7 +184,7 @@
     "DateTime": "Ημερομηνία και ώρα",
     "LBL_HEADER_TYPE_VALUE": "Τιμή",
     "LBL_HEADER_TYPE_PROGRESS": "Μπάρα προόδου",
-    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines."
+    "LBL_EDIT_MANDATORY_INFO": "Ισχύει για ολόκληρη την εγγραφή. Εάν 'Όχι' είναι επιλεγμένο, η εγγραφή μπορεί να σωθεί χωρίς γραμμές αποθέματος."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

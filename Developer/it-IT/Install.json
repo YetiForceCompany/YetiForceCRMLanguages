@@ -119,7 +119,7 @@
   "js": {
     "JS_ALL": "All",
     "JS_OK": "Ok",
-    "JS_CANCEL": "Cancel",
+    "JS_CANCEL": "Annulla",
     "LBL_PASS_TO_SHORT": "Password is too short - the minimum length is 8 characters",
     "LBL_PASS_TO_LONG": "The password is too long - maximum length is 32 characters",
     "LBL_PASS_NO_NUM": "The password must contain numbers",

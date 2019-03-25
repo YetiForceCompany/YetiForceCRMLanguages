@@ -1,7 +1,7 @@
 {
   "php": {
-    "SVendorEnquiries": "Vendor enquiries",
-    "SINGLE_SVendorEnquiries": "Vendor enquiry",
+    "SVendorEnquiries": "Αιτήματα προς Προμηθευτές",
+    "SINGLE_SVendorEnquiries": "Αίτημα προς Προμηθευτή",
     "LBL_SCALCULATIONS_INFORMATION": "Βασικές πληροφορίες",
     "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
     "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
@@ -16,7 +16,7 @@
     "FL_MARGINP": "Συνολικό περιθώριο (%)",
     "FL_MARGIN": "Συνολικό περιθώριο",
     "FL_VENDOR": "Προμηθευτής",
-    "FL_SCALCULATIONS": "Calculation",
+    "FL_SCALCULATIONS": "Υπολογισμός",
     "PLL_DRAFT": "Προσχέδιο",
     "PLL_IN_REALIZATION": "Σε υλοποίηση",
     "PLL_FOR_VERIFICATION": "Για επαλήθευση",

@@ -6,7 +6,7 @@
     "LBL_CUSTOM_INFORMATION": "Informazioni aggiuntive",
     "LBL_PHONE_INFORMATION": "Phone information",
     "LBL_RELATED_INFORMATION": "Related information",
-    "LBL_TYPE": "Type",
+    "LBL_TYPE": "Tipo",
     "LBL_FROM_NUMBER": "Dal numero",
     "LBL_TO_NUMBER": "Al numero",
     "LBL_LOCATION": "Location",
@@ -23,10 +23,10 @@
     "LBL_DESTINATION": "Where called",
     "LBL_SOURCE": "Call source",
     "Record Id": "Record Id",
-    "Outgoing missed": "Outgoing missed",
-    "Outgoing received": "Outgoing received",
-    "Incoming": "Incoming received",
-    "Missed": "Incoming missed",
-    "Voicemail": "Incoming voicemail"
+    "Outgoing missed": "In uscita - persa",
+    "Outgoing received": "In uscita - risposta",
+    "Incoming": "In ingresso - risposta",
+    "Missed": "In ingresso - persa",
+    "Voicemail": "In ingresso - Voicemail"
   }
 }

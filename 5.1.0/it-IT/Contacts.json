@@ -1,9 +1,9 @@
 {
   "php": {
-    "Member Of": "Membro di",
+    "Member Of": "Appartenente a",
     "Birthdate": "Data di nascita",
-    "Contact Id": "ID Contatto",
-    "Contact Image": "Immagine contatto",
+    "Contact Id": "Progressivo",
+    "Contact Image": "Immagine",
     "Contacts": "Contatti",
     "Email": "Email principale",
     "LBL_CONTACT_INFORMATION": "Informazioni base",

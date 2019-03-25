@@ -4,7 +4,7 @@
     "Service Contracts": "Contratti di assistenza",
     "SINGLE_ServiceContracts": "Contratto di assistenza",
     "LBL_SERVICE_CONTRACT_INFORMATION": "Informazioni base",
-    "Contract No": "Contract number",
+    "Contract No": "Progressivo",
     "Start Date": "Data inizio",
     "End Date": "End date",
     "Tracking Unit": "Unità di monitoraggio",
@@ -30,7 +30,7 @@
     "Archived": "Archiviato",
     "LBL_SUMMARY": "Work time summary",
     "Due date": "Data scadenza",
-    "Related to": "Relativo a",
+    "Related to": "Azienda",
     "LBL_ACTIVE_SERVICE_CONTRACTS": "Active SLA"
   }
 }

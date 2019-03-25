@@ -1394,7 +1394,7 @@
     "JS_LBL_SAVE": "Shrani",
     "JS_MAP_MANDATORY_FIELDS": "Preslikajte obvezna polja",
     "JS_MAP_NAME_ALREADY_EXISTS": "Ime karte že obstaja",
-    "JS_MAP_NAME_CAN_NOT_BE_EMPTY": "Ime zemljevida ne sme biti prazno",
+    "JS_MAP_NAME_CAN_NOT_BE_EMPTY": "Ime uvoza razporeditve ne sme biti prazno",
     "JS_MASS_EDIT_LIMIT": "Množično urejanje lahko obdela največ 500 zapisov naenkrat",
     "JS_MAX_FILE_UPLOAD_EXCEEDS": "presežena je velikost datoteke za nalaganje",
     "JS_MAX_TAG_LENGTH_EXCEEDS": "Dolžina oznake presega maksimalno velikost",
