@@ -20,7 +20,7 @@
     "LBL_TRANSFER_OWNERSHIP": "Transfer ownership",
     "LBL_USERS_WITH_LOWER_LEVEL": "Users having subordinate Role",
     "LBL_USERS_WITH_SAME_OR_LOWER_LEVEL": "Users having same Role or subordinate Role",
-    "LBL_FROM_PANEL": "from panel - assign records",
+    "LBL_FROM_PANEL": "In base ai vincoli definiti",
     "Roles": "Roles",
     "SINGLE_Roles": "Role",
     "LBL_USERS_LIST": "List of users belonging to this Role:",

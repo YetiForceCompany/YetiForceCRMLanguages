@@ -94,7 +94,7 @@
     "LBL_TIME_CONTROL_DETAILED_LIST": "Αναλυτική λίστα ελέγχου χρόνου",
     "LBL_TIME_CONTROL_USER_GROUP": "Λίστα ελέγχου χρόνου με πρόσθετες πληροφορίες σχετικά με τους χρήστες",
     "LBL_TYPE": "Τύπος δραστηριότητας",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Υποεπεξεργασία δευτέρου επιπέδου"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Επιτρεπτοί χαρακτήρες: [0-9]",

@@ -11,8 +11,8 @@
     "LBL_CHANGE_RSS_CHANNEL": "Cambia canale RSS"
   },
   "js": {
-    "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
-    "JS_INVALID_RSS_URL": "Invalid Rss URL",
-    "JS_RSS_MADE_AS_DEFAULT": "Rss made as default"
+    "JS_RSS_SUCCESSFULLY_SAVED": "Sorgente RSS salvata con successo",
+    "JS_INVALID_RSS_URL": "Url sorgente RSS non valido",
+    "JS_RSS_MADE_AS_DEFAULT": "Sorgente RSS impostata come predefinita"
   }
 }

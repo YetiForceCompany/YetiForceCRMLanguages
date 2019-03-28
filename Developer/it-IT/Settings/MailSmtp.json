@@ -1,7 +1,7 @@
 {
   "php": {
     "MailSmtp": "SMTP configuration",
-    "LBL_MAIL_SMTP": "SMTP configuration ",
+    "LBL_MAIL_SMTP": "Configurazione SMTP",
     "LBL_MAILSMTP_EDIT": "Record edit",
     "LBL_MAILSMTP_TO_SEND_DESCRIPTION": "Configure outgoing mail servers",
     "LBL_HOST": "Host",

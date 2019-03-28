@@ -11,8 +11,8 @@
     "Total Units": "Unità totali",
     "Used Units": "Unità effettive",
     "Progress": "Avanzamento",
-    "Planned Duration": "Planned duration (in days)",
-    "Actual Duration": "Actual duration (in days)",
+    "Planned Duration": "Durata pianificata (in giorni)",
+    "Actual Duration": "Durata effettiva (in giorni)",
     "Low": "Basso",
     "Normal": "Normale",
     "High": "Alto",
@@ -28,9 +28,9 @@
     "On Hold": "In attesa",
     "Complete": "Completato",
     "Archived": "Archiviato",
-    "LBL_SUMMARY": "Work time summary",
+    "LBL_SUMMARY": "Riepilogo tempo di lavoro",
     "Due date": "Data scadenza",
     "Related to": "Azienda",
-    "LBL_ACTIVE_SERVICE_CONTRACTS": "Active SLA"
+    "LBL_ACTIVE_SERVICE_CONTRACTS": "Contratto di assistenza (SLA) attivo"
   }
 }

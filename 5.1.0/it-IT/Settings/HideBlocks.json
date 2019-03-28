@@ -1,8 +1,8 @@
 {
   "php": {
     "HideBlocks": "Hide blocks",
-    "LBL_HIDEBLOCKS": "Fields – Hide Blocks",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Manage which blocks with fields to hide",
+    "LBL_HIDEBLOCKS": "Campi - Nascondi blocchi",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Gestisce la visibilità dei blocchi di campi del modulo",
     "LBL_BLOCK_LABEL": "Block",
     "LBL_MODULE": "Module",
     "LBL_ENABLED": "Active",

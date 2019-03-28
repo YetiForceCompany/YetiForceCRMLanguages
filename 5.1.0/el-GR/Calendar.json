@@ -189,7 +189,7 @@
     "LBL_REMAIND_MINS": "Υπενθύμιση μετά τον επιλεγμένο αριθμό λεπτών",
     "LBL_WORK_DAYS": "Εργάσιμες μέρες",
     "LBL_EDIT_FROM_CALENDAR": "Επεξεργασία από το ημερολόγιο",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Υποεπεξεργασία δευτέρου επιπέδου"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Προβολή ημερολογίου προστέθηκε με επιτυχία",

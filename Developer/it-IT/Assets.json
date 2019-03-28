@@ -8,11 +8,11 @@
     "Date Sold": "Data vendita",
     "Date in Service": "Data termine",
     "Invoice Name": "Numero fattura",
-    "Shipping Tracking Number": "Tracking number",
+    "Shipping Tracking Number": "Numero di tracciamento spedizione",
     "Asset Name": "Nome",
-    "Customer Name": "Nome Cliente",
-    "Notes": "Nota",
-    "LBL_GENERATE_EXTENSION": "Generate extension",
+    "Customer Name": "Cliente",
+    "Notes": "Note",
+    "LBL_GENERATE_EXTENSION": "Génera estensione",
     "FL_RENEWAL": "Rinnovo",
     "LBL_SET_RENEWAL": "Rinnova",
     "FL_RENEWAL_INVOICE": "Fattura rinnovo",
@@ -34,7 +34,7 @@
     "attentions": "Commenti",
     "BLOCK_INFORMATION_TIME": "Informazioni di sistema",
     "LBL_ORDER_TIME": "Tempi di consegna",
-    "LBL_EXPIRING_SOLD_PRODUCTS": "Expiring sold products",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "LBL_EXPIRING_SOLD_PRODUCTS": "Scadenza risorse cedute",
+    "LBL_CHANGE_STATUS": "Cambia stato"
   }
 }

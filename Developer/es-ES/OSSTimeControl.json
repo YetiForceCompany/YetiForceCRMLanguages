@@ -70,9 +70,9 @@
     "Accounting work": "Trabajo de contabilidad",
     "PLL_WORKING_TIME": "Tiempo de trabajo",
     "PLL_BREAK_TIME": "Tiempo de descanso",
-    "PLL_HOLIDAY": "Paid leave",
-    "PLL_UNPAID_LEAVE": "Unpaid leave",
-    "PLL_SICK_LEAVE": "Sick leave",
+    "PLL_HOLIDAY": "Licencia remunerada",
+    "PLL_UNPAID_LEAVE": "Licencia no remunerada",
+    "PLL_SICK_LEAVE": "Licencia por enfermedad",
     "LBL_Holidays": "Vacaciones",
     "LBL_YEAR": "Año:",
     "LBL_Used_Entitled": "Usado\/Entitled:",
@@ -94,7 +94,7 @@
     "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
     "LBL_TIME_CONTROL_USER_GROUP": "Lista de control de tiempo con información adicional sobre los usuarios",
     "LBL_TYPE": "Activity type",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Subproceso de segundo nivel"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caracteres permitidos: [0-9]",

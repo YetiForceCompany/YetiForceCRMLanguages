@@ -3,15 +3,15 @@
     "FInvoice": "Fatture di vendita",
     "SINGLE_FInvoice": "Fattura di vendita",
     "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
-    "LBL_INVOICE_ADDRESS": "Invoice address",
-    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
+    "LBL_INVOICE_ADDRESS": "Indirizzo fattura",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Indirizzo di recapito",
     "LBL_DESCRIPTION_BLOCK": "Descrizione",
     "LBL_ATTENTION_BLOCK": "Commenti",
     "FL_SUBJECT": "Oggetto",
     "FL_PAYMENT_DATE": "Data scadenza pagamento",
     "FL_SALE_DATE": "Data vendita",
     "FL_FORM_PAYMENT": "Metodo pagamento",
-    "FL_BANK_ACCOUNT": "Bank account number",
+    "FL_BANK_ACCOUNT": "IBAN",
     "FL_NUMBER": "Progressivo",
     "FL_ACCOUNT": "Azienda",
     "FL_TOTAL": "Totale netto",
@@ -37,7 +37,7 @@
     "PLL_FOR_APPROVAL": "Da approvare",
     "PLL_CANCELLED": "Annullato",
     "PLL_ACCEPTED": "Accettato",
-    "LBL_YEAR": "Year",
+    "LBL_YEAR": "Anno",
     "FL_ISSUE_TIME": "Data documento"
   }
 }

@@ -13,7 +13,7 @@
     "LBL_USE_GOOGLE_GEOCODER": "Utilizar Google Geocoding",
     "google_map_api": "Geocodificación de Google",
     "opencage_data": "OpenCage Geocoder",
-    "LBL_GLOBAL_CONFIG": "Configuration",
+    "LBL_GLOBAL_CONFIG": "Configuración",
     "LBL_SAVE_GLOBAL_SETTINGS": "Guardar la configuración global",
     "LBL_NUMBER_SEARCH_RESULTS": "Número de resultados de búsqueda"
   },

@@ -2,7 +2,7 @@
   "php": {
     "LBL_ADD_TEMPLATE": "Add mapping",
     "LBL_IMPORT_TEMPLATE": "Import template",
-    "LBL_MAPPEDFIELDS": "Mapping",
+    "LBL_MAPPEDFIELDS": "Mappature",
     "LBL_MAPPEDFIELDS_DESCRIPTION": " ",
     "LBL_EXPORT_RECORD": "Export",
     "LBL_MODULE": "Module",

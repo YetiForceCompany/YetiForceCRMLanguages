@@ -23,7 +23,7 @@
     "FL_START_DATE": "Data inizio",
     "PLL_WEBSITE": "Sito web",
     "PLL_PHONE": "Telefono",
-    "PLL_MAIL_CAMPAIGN": "Email marketing",
+    "PLL_MAIL_CAMPAIGN": "Campagna email",
     "PLL_CONFERENCE": "Conferenza",
     "PLL_RECOMMENDATION": "Raccomandazione",
     "PLL_MEETING": "Convegno",
@@ -31,9 +31,9 @@
     "PLL_COMMUNITY": "Community",
     "PLL_OTHER": "Altro",
     "PLL_NEW_SALES": "Nuova vendita",
-    "PLL_RENEWAL": "Renewal",
-    "PLL_AFTERSALES": "Aftersales",
-    "PLL_TENDER": "Tender",
+    "PLL_RENEWAL": "Rinnovo",
+    "PLL_AFTERSALES": "Post-vendita",
+    "PLL_TENDER": "Gara",
     "PLL_DRAFT": "Bozza",
     "PLL_FOR_REALIZATION": "Da realizzare",
     "PLL_QUOTE_ENQUIRY": "Richiesta preventivo",
@@ -52,7 +52,7 @@
     "PLL_SALE_CANCELLED": "Annullato",
     "LBL_SWITCHHEADER_ON_0": "Aperto",
     "LBL_SWITCHHEADER_OFF_0": "Chiuso",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open\/Closed",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Apri \/ Chiudi",
     "LBL_SHOW_HIERARCHY": "Gerarchia"
   }
 }

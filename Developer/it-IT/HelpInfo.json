@@ -1,7 +1,7 @@
 {
   "php": {
     "Announcements|FL_INTERVAL": "Frequenza del promemoria in giorni: valido qualora un utente non abbia visionato la comunicazione o gli aggiornamenti. Se il valore è pari a zero, il promemoria sarà mostrato una sola volta.",
-    "Accounts|Account Name": "This field is intended for company name",
+    "Accounts|Account Name": "Questo campo è inteso come nome azienda",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Il paese di riferimento, durante la sincronizzazione dei numeri telefonici CardDAV, qualora non sia specificato il prefisso telefonico internazionale"
   }
 }

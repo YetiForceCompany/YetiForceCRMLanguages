@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_AUTOMATIC_ASSIGNMENT": "Auto assign records",
-    "AutomaticAssignment": "Auto assign records",
+    "LBL_AUTOMATIC_ASSIGNMENT": "Auto assegnazione",
+    "AutomaticAssignment": "Auto assegnazione",
     "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
     "FL_FIELD": "Field name",
     "FL_MODULE": "Module",

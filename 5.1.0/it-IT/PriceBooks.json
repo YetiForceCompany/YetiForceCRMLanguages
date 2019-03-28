@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
+    "LBL_ADD_TO": "Aggiungi a",
+    "LBL_EDIT_LIST_PRICE": "Modifica listino prezzi",
     "LBL_PRICEBOOK_INFORMATION": "Informazioni base",
     "LBL_UNIT_PRICE": "Prezzo unitario",
     "Price Book Name": "Nome",

@@ -20,7 +20,7 @@
     "description": "Descripción",
     "Related to": "Relacionado con",
     "FL_MEMBER_OF": "Proyecto padre",
-    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
+    "LBL_ESTIMATED_WORK_TIME": "Tiempo de trabajo estimado",
     "LBL_TASKS_OPEN": "Tareas abiertas",
     "LBL_TASKS_DUE": "Tareas pendientes",
     "LBL_TASKS_COMPLETED": "Tareas completadas",
@@ -53,7 +53,7 @@
     "LBL_GANTT_TASKLIST_VISIBLE": "Show list",
     "LBL_GANTT_TITLE": "Gantt chart",
     "LBL_GANTT_TITLE_ALL_PROJECTS": "Gantt chart - all projects",
-    "LBL_SHOW_HIERARCHY": "Project hierarchy"
+    "LBL_SHOW_HIERARCHY": "Jerarquía del proyecto"
   },
   "js": {
     "JS_NO.": "No.",

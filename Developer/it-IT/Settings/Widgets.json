@@ -1,7 +1,7 @@
 {
   "php": {
     "Widgets": "Modules – Widgets",
-    "LBL_MODULE_DESC": "Module managing widgets in summary",
+    "LBL_MODULE_DESC": "Gestisce i widget nel sommario di ogni modulo",
     "Add widget": "Aggiungi widget",
     "Type widget": "Tipo",
     "LBL_WIDGET_TYPE": "Tipo di widget",

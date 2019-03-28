@@ -2,7 +2,7 @@
   "php": {
     "FBookkeeping": "Tenuta libri",
     "SINGLE_FBookkeeping": "Tenuta libri",
-    "FBookkeeping ID": "Bookkeeping ID",
+    "FBookkeeping ID": "Identificativo libro contabile",
     "FL_SUBJECT": "Oggetto"
   }
 }

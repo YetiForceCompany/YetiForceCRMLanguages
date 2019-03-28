@@ -7,7 +7,7 @@
     "Budget Cost": "Budget",
     "Campaign Type": "Tipo",
     "LBL_CAMPAIGN_INFORMATION": "Informazioni base",
-    "LBL_EXPECTATIONS_AND_ACTUALS": "Expectations and results",
+    "LBL_EXPECTATIONS_AND_ACTUALS": "Aspettative e risultati",
     "Actual Cost": "Costo effettivo",
     "Actual Response Count": "Conteggio risposte effettive",
     "Actual ROI": "ROI effettivo",
@@ -17,9 +17,9 @@
     "Average": "Medio",
     "Banner Ads": "Banner pubblicitari",
     "Cancelled": "Annullato",
-    "Contacted - Never Contact Again": "Contacted - never contact again",
-    "Contacted - Successful": "Contacted - successful",
-    "Contacted - Unsuccessful": "Contacted - unsuccessful",
+    "Contacted - Never Contact Again": "Contattato - mai ricontattato",
+    "Contacted - Successful": "Contattato - con successo",
+    "Contacted - Unsuccessful": "Contattato - senza successo",
     "Direct Mail": "Posta diretta",
     "Excellent": "Eccellente",
     "Expected Response Count": "Conteggio risposte previste",
@@ -30,7 +30,7 @@
     "Good": "Buono",
     "Inactive": "Inattivo",
     "Active": "Attivo",
-    "--None--": "--None--",
+    "--None--": "--Nessuno--",
     "Num Sent": "Platea raggiunta",
     "Others": "Altro",
     "Planning": "In pianificazione",
@@ -43,10 +43,10 @@
     "TargetSize": "Dimensione platea",
     "Telemarketing": "Telemarketing",
     "Webinar": "Seminario web",
-    "Message sent": "Message sent",
+    "Message sent": "Messaggio inviato",
     "LBL_LOAD_RECORDS": "Aggiungi da filtro",
     "LBL_LOAD_RECORDS_INFO": "Usato per aggiungere i record che soddisfanno le condizioni specificate dal filtro.",
-    "LBL_COUNT_RECORDS_WIDGET": "Number of related modules records"
+    "LBL_COUNT_RECORDS_WIDGET": "Numero di record dei moduli relazionati"
   },
   "js": {
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_ADD_THIS_FILTER": "Sei sicuro di volere aggiungere i record da filtro?"

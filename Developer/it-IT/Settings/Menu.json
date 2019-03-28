@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_MENU_BUILDER": "Menu - Configuration",
-    "LBL_MENU_BUILDER_DESCRIPTION": "Create and manage menu items.",
+    "LBL_MENU_BUILDER": "Menù principale - Configurazione",
+    "LBL_MENU_BUILDER_DESCRIPTION": "Crea e gestisce le voci del menù principale",
     "LBL_DEFAULT_MENU": "Default menu",
     "LBL_ADD_MENU": "Add menu item",
     "LBL_CREATING_MENU": "Create new menu item",

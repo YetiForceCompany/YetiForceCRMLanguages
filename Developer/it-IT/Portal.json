@@ -14,12 +14,12 @@
     "LBL_EDIT_BOOKMARK": "Modifica",
     "LBL_ENTER_BOOKMARK_NAME": "Inserisci oggetto",
     "LBL_ENTER_URL": "Inserisci URL (www.esempio.it)",
-    "LBL_OUR_SITES_LIST": "Our sites list",
+    "LBL_OUR_SITES_LIST": "Elenco segnalibri",
     "LBL_RECORD_DELETED_SUCCESSFULLY": "Segnalibro eliminato",
     "Portal": "Segnalibri",
     "SINGLE_Portal": "Segnalibro"
   },
   "js": {
-    "JS_ENTER_MANDATORY_FIELD": "Please enter all mandatory fields"
+    "JS_ENTER_MANDATORY_FIELD": "Inserisci tutti i campi obbligatori"
   }
 }

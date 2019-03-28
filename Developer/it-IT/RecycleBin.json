@@ -4,11 +4,11 @@
     "RecycleBin": "Cestino"
   },
   "js": {
-    "JS_MASS_DELETE": "Mass delete",
-    "JS_MASS_ACTIVATE": "Mass activate",
-    "JS_DELETE_ALL_RECYCLE_RECORD": "Delete all records from Recycle Bin",
+    "JS_MASS_DELETE": "Eliminazione massiva",
+    "JS_MASS_ACTIVATE": "Ripristino massivo",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Elimina tutti i record dal cestino",
     "JS_ACTIVATE_RECORD_DESC": "Il ripristino di un record modifica solo lo stato del record, senza cambiare il resto delle informazioni. Sei sicuro di volere ripristinare il record?",
     "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "L'eliminazione è permanente e irreversibile per tutte le informazioni dei record. Sei sicuro di volere eliminare i record?",
-    "JS_ADDED_TO_QUEUE": "Added to the queue. All elements will be deleted"
+    "JS_ADDED_TO_QUEUE": "Aggiunto alla coda. Tutti gli elementi saranno eliminati"
   }
 }
