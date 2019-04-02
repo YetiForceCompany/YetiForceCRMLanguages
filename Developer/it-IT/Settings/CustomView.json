@@ -1,7 +1,7 @@
 {
   "php": {
     "CustomView": "Filtri - Configurazione",
-    "LBL_CUSTOMVIEW_DESCRIPTION": "This tool allows setting custom views for modules. These modules must contain records and use standard filters in YetiForce CRM.",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Gestisce tutti i filtri di tutti i moduli sulla base degli utenti e gruppi.",
     "ViewName": "View name",
     "SetDefault": "Default",
     "Privileges": "Privileges",

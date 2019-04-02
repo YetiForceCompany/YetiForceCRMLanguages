@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_LOGS": "Violazioni sicurezza",
-    "LBL_LOGS_DESC": "Panel for viewing security incidents",
+    "LBL_LOGS_DESC": "Mostra la lista di eventuali accessi illeciti",
     "LBL_ACCESS_FOR_ADMIN": "Access for admin",
     "LBL_ACCESS_FOR_API": "Access for API",
     "LBL_ACCESS_FOR_USER": "Access for user",

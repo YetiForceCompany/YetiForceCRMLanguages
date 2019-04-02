@@ -1,9 +1,9 @@
 {
   "php": {
     "LBL_AUTOLOGIN": "Email - Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Configura il login automatico per la webmail",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Email - Configurazione",
-    "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "General configuration of the Mail module",
+    "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Gestisce le opzioni generali della webmail",
     "LBL_RC_USER": "User Email Account",
     "LBL_CRM_USER": "Users with access to Mailbox",
     "LBL_SAVED_CHANGES": "Changes have been saved",
@@ -38,7 +38,7 @@
     "LBL_EMAILS_TO_SEND": "Email in uscita",
     "LBL_RECORD_ACCEPTED": "Record accepted",
     "LBL_TO": "To",
-    "LBL_EMAILS_TO_SEND_DESCRIPTION": "List of emails to send. Sending email messages takes place in cron.",
+    "LBL_EMAILS_TO_SEND_DESCRIPTION": "Visualizza la lista delle email in uscita",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "Emails to send",
     "LBL_EMAIL_WAS_SENT": "Email has been sent, preview unavailable."
   }

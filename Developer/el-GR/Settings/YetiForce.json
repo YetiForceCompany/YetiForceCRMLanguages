@@ -34,7 +34,7 @@
     "LBL_REGISTERED": "Επιτυχής εγγραφή",
     "LBL_REGISTRATION_KEY": "Κλειδί εγγραφής",
     "LBL_REGISTRATION_OFFLINE_DESC": "Για να καταχωρήσετε μια έκδοση του συστήματος που δεν έχει πρόσβαση στο διαδίκτυο στείλετε ένα email στο %s με τα ακόλουθα δεδομένα",
-    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "Θέμα: YetiForce offline εγγραφή\n\nΜήνυμα:\nΕγγραφή CRM:\nΤο όνομα της εταιρείας σας:\nΧώρα:\nΠόλη:\nΟ αριθμός των εργαζομένων της εταιρείας σας:\nΙστοσελίδα της εταιρείας σας:\nProduct key: %s",
+    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "Θέμα: YetiForce offline εγγραφή\n\nΜήνυμα:\nΕγγραφή CRM:\nΤο όνομα της εταιρείας σας:\nΧώρα:\nΠόλη:\nΟ αριθμός εργαζομένων της εταιρείας σας:\nΙστοσελίδα της εταιρείας σας:\nProduct key: %s \nInstance ID: %s",
     "LBL_SUPPLIERS": "Προμηθευτές",
     "LBL_INVALID_OFFLINE_KEY": "Πληκτρολογήσατε εσφαλμένο κλειδί",
     "LBL_ONLINE_REGISTRATION_FAILED": "Σφάλμα κατά την εγγραφή.",

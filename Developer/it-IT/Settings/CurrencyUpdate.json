@@ -2,7 +2,7 @@
   "php": {
     "CurrencyUpdate": "Currency Update",
     "LBL_CURRENCY_UPDATE": "Aggiornamento valute",
-    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Options for setting systems built in currency conversion rates.",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Definisce i parametri per recuperare i tassi di cambio delle valute",
     "LBL_SELECT_BANK": "Select the Bank",
     "MSG_ONE_CURRENCY": "There is only one main currency set. To get currency rates for other currencies please add more currencies in CRM settings.",
     "MSG_NO_NET_CONN": "No Internet connection, currency information was not downloaded.",

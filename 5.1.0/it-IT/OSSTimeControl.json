@@ -1,8 +1,8 @@
 {
   "php": {
     "Brutto": "Totale",
-    "SINGLE_OSSTimeControl": "Presenze e assenze",
-    "OSSTimeControl": "Presenze e assenze",
+    "SINGLE_OSSTimeControl": "Piano temporale",
+    "OSSTimeControl": "Piano temporale",
     "LBL_MAIN_INFORMATION": "Informazioni base",
     "LBL_BLOCK": "Relazioni",
     "Payment": "Pagamento",
@@ -88,9 +88,9 @@
     "LBL_WORKDAYS_INFO": "Giorni di lavoro",
     "LBL_SUM": "Somma",
     "LBL_SUM_OF_WORKING_TIME_DIVIDED_INTO_USERS": "Grafico orario di lavoro diviso in utenti",
-    "LBL_TIME_CONTROL_LIST": "Lista presenze e assenze",
-    "LBL_TIME_CONTROL_DETAILED_LIST": "Elenco dettagliato presenze e assenze",
-    "LBL_TIME_CONTROL_USER_GROUP": "Lista presenze e assenze con informazioni aggiuntive sugli utenti",
+    "LBL_TIME_CONTROL_LIST": "Lista piano temporale",
+    "LBL_TIME_CONTROL_DETAILED_LIST": "Elenco dettagliato piano temporale",
+    "LBL_TIME_CONTROL_USER_GROUP": "Lista piano temporale con informazioni aggiuntive sugli utenti",
     "LBL_TYPE": "Tipo attività",
     "FL_SUBPROCESS_SECOND_LEVEL": "Attività di progetto"
   },

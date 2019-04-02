@@ -1,7 +1,7 @@
 {
   "php": {
     "ServiceContracts": "Συμβάσεις υπηρεσιών",
-    "Service Contracts": "Σύμβαση υπηρεσιών",
+    "Service Contracts": "Συμβάσεις υπηρεσιών",
     "SINGLE_ServiceContracts": "Σύμβαση υπηρεσιών",
     "LBL_SERVICE_CONTRACT_INFORMATION": "Βασικές πληροφορίες",
     "Contract No": "Αριθμός σύμβασης",
