@@ -27,7 +27,7 @@
     "LBL_ENTITY_VARIABLES": "Campi globali",
     "LBL_COPY_TO_CLIPBOARD": "Copia",
     "LBL_COPY_VALUE": "valore campo",
-    "LBL_COPY_LABEL": "valore campo",
+    "LBL_COPY_LABEL": "nome campo",
     "LBL_AUTOMATIC": "Automatic",
     "LBL_RELATED_RECORDS_LIST": "Moduli relazionati (M:M)",
     "LBL_DATE_TODAY": "Today",

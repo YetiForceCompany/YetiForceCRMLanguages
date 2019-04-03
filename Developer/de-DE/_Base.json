@@ -1330,7 +1330,10 @@
     "PLL_COMPLETED": "Abgeschlossen",
     "PLL_CANCELLED": "Abgebrochen",
     "LBL_SELECT_UP_TO_RECORDS": "Bis zu %s Datensätze auswählen",
-    "LBL_MASS_DOWNLOAD": "Mass download"
+    "LBL_MASS_DOWNLOAD": "Massen-Download",
+    "LBL_AMOUNT_TO_RETURN": "Amount to be refunded",
+    "LBL_TABLE_TAX_SUMMARY_FOR_CORRECT": "Tax summary for correcting invoices",
+    "LBL_TAX_CORRECT_SUMMARY": "Tax reduction amount"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

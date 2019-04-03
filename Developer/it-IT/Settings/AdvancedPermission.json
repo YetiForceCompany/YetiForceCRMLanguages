@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_ADVANCED_PERMISSION": "Advanced permissions",
-    "AdvancedPermission": "Advanced permissions",
+    "LBL_ADVANCED_PERMISSION": "Permessi avanzati",
+    "AdvancedPermission": "Permessi avanzati",
     "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Configurazione dei permessi personalizzati: concede \/ revoca i permessi per i record. Non in tempo reale, ma via CRON.",
     "LBL_NAME": "Rule name",
     "LBL_MODULE": "Module",
