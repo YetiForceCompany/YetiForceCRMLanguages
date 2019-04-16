@@ -355,7 +355,10 @@
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Пароль + 2FA",
     "BTN_MASS_OFF_2FA": "Массовое отключение 2FA",
-    "LBL_2FA_TOTP_INFO_IN_DEMO": "Демо режим. Режим 2FA только для предпросмотра."
+    "LBL_2FA_TOTP_INFO_IN_DEMO": "Демо режим. Режим 2FA только для предпросмотра.",
+    "FL_DEFAULT_SEARCH_MODULE": "Default module",
+    "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Разделитель десятичных и тысячных не могут быть одинаковыми",

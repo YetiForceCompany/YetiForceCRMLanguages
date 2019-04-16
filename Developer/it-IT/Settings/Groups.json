@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group name",
-    "Description": "Description"
+    "LBL_ADD_RECORD": "Aggiungi gruppo",
+    "LBL_ADD_USERS_ROLES": "Seleziona utenti, ruoli, ...",
+    "LBL_DUPLICATES_EXIST": "Il nome esiste già",
+    "LBL_GROUP_MEMBERS": "Membri",
+    "LBL_GROUP_NAME": "Nome",
+    "LBL_ROLEANDSUBORDINATE": "Ruolo e subordinati",
+    "LBL_TO_OTHER_GROUP": "A un altro gruppo",
+    "LBL_TRANSFORM_OWNERSHIP": "Riassegna",
+    "SINGLE_Groups": "Gruppo",
+    "Users": "Utenti",
+    "Name": "Nome",
+    "Description": "Descrizione"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Seleziona almeno un membro",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Gruppo eliminato"
   }
 }

@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Alle relevanten Datensätze der Organisation direkt dem Kontakt zuweisen und Organisationen in Hierchie",
     "PLL_ACTIVE": "Aktiv",
     "PLL_INACTIVE": "Inaktiv",
-    "LBL_CREATE_RECORD": "Erzeugen"
+    "LBL_CREATE_RECORD": "Erzeugen",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sind Sie sicher diesen Schlüssel zu löschen?",

@@ -66,7 +66,7 @@
     "LBL_ChangeTypeOK": "Tipo de mensaje cambiado",
     "Configuration": "Configuración",
     "LBL_MAIL_REPLY_INTRO": "En el %s, %s escribió:",
-    "LBL_MAIL_FORWARD_INTRO": "-------- Original message --------",
+    "LBL_MAIL_FORWARD_INTRO": "-------- Mensaje original --------",
     "Graf": "Correos corporativos por tipo",
     "Today": "Hoy",
     "Yesterday": "Ayer",

@@ -1,8 +1,8 @@
 {
   "php": {
     "SVendorEnquiries": "Solicitud de pedidos a Proveedores",
-    "SINGLE_SVendorEnquiries": "Vendor enquiry",
-    "LBL_SCALCULATIONS_INFORMATION": "Basic information",
+    "SINGLE_SVendorEnquiries": "Consulta del vendedor",
+    "LBL_SCALCULATIONS_INFORMATION": "Información básica",
     "LBL_CUSTOM_INFORMATION": "Información adicional",
     "LBL_DESCRIPTION_INFORMATION": "Descripción",
     "LBL_STATISTICS": "Estadísticas",

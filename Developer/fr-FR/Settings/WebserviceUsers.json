@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Tous les enregistrements liés des comptes seront affectés directement aux contacts et comptes de la hiérarchie",
     "PLL_ACTIVE": "Actif",
     "PLL_INACTIVE": "Inactif",
-    "LBL_CREATE_RECORD": "Créer"
+    "LBL_CREATE_RECORD": "Créer",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Voulez-vous vraiment supprimer la clé ?",

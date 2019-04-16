@@ -2,7 +2,7 @@
   "php": {
     "DataSetRegister": "Registro de conjunto de datos",
     "SINGLE_DataSetRegister": "Registro de conjunto de datos",
-    "LBL_DATA_SET_REGISTER": "Data Set Register",
+    "LBL_DATA_SET_REGISTER": "Registro de conjunto de datos",
     "FL_SUBJECT": "Asunto",
     "FL_STATUS": "Estado",
     "FL_SCOPE_DATA": "Alcance de los datos en conjunto",
@@ -17,7 +17,7 @@
     "FL_DESCRIPTION": "Descriptión",
     "LBL_DESCRIPTION": "Descriptión",
     "FL_COMMENTS": "Comentarios",
-    "LBL_REGISTER_DATE": "Entries",
+    "LBL_REGISTER_DATE": "Entradas",
     "LBL_BASIC_INFORMATION": "Información sobre Conjunto de datos",
     "LBL_COMMENTS": "Comentarios",
     "PLL_CONSENT": "Consentimiento",

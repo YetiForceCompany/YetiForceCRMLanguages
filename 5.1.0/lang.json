@@ -25,14 +25,14 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 100,
-        "time": "2019-04-02 08:05:13"
+        "time": "2019-04-16 07:24:20"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
-        "progress": 88,
-        "time": "2019-03-28 12:06:44"
+        "progress": 99,
+        "time": "2019-04-16 07:29:03"
     },
     "fa-IR": {
         "prefix": "fa-IR",
@@ -52,8 +52,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 67,
-        "time": "2019-04-03 10:22:50"
+        "progress": 92,
+        "time": "2019-04-16 07:24:50"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -101,8 +101,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 70,
-        "time": "2019-03-28 12:06:24"
+        "progress": 69,
+        "time": "2019-04-16 07:28:31"
     },
     "tr-TR": {
         "prefix": "tr-TR",

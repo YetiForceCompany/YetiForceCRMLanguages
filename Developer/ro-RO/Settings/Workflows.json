@@ -234,7 +234,7 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Verificati daca destinatarul este de acord sa primeasca email-uri",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Camp pentru a fi insumat",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Camp unde insumarea va fi salvata",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Insumati valorile introduse din campurile modulelor asociate",
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum field values from related module fields",
     "LBL_ATTACH_DOCS_FROM": "Attach documents from"
   },
   "js": {

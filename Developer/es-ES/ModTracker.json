@@ -38,12 +38,12 @@
     "LBL_DELETED": "eliminó",
     "LBL_ACTIVE": "restauró",
     "LBL_ARCHIVED": "archivó",
-    "LBL_TRANSFER_EDIT": "record was changed in the transfer process",
-    "LBL_TRANSFER_DELETE": "record was deleted in the transfer process",
-    "LBL_TRANSFER_UNLINK": "relation was deleted in the transfer process",
-    "LBL_TRANSFER_LINK": "relation was added in the transfer process",
-    "LBL_INV_ADDED": "Added",
-    "LBL_INV_UPDATED": "Updated",
-    "LBL_INV_DELETED": "Deleted"
+    "LBL_TRANSFER_EDIT": "el registro fue cambiado en el proceso de transferencia",
+    "LBL_TRANSFER_DELETE": "el registro fue cambiado en el proceso de transferencia",
+    "LBL_TRANSFER_UNLINK": "el registro fue cambiado en el proceso de transferencia",
+    "LBL_TRANSFER_LINK": "el registro fue cambiado en el proceso de transferencia",
+    "LBL_INV_ADDED": "Añadido",
+    "LBL_INV_UPDATED": "Actualizado",
+    "LBL_INV_DELETED": "Borrado"
   }
 }

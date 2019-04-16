@@ -52,7 +52,7 @@
     "PLL_SALE_CANCELLED": "Annullato",
     "LBL_SWITCHHEADER_ON_0": "Aperto",
     "LBL_SWITCHHEADER_OFF_0": "Chiuso",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Apri \/ Chiudi",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Aperto \/ chiuso",
     "LBL_SHOW_HIERARCHY": "Gerarchia"
   }
 }

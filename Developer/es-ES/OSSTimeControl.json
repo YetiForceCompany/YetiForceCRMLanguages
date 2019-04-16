@@ -1,6 +1,6 @@
 {
   "php": {
-    "Brutto": "Subtotal",
+    "Brutto": "Bruto",
     "SINGLE_OSSTimeControl": "Control del tiempo",
     "OSSTimeControl": "Control del tiempo",
     "LBL_MAIN_INFORMATION": "Información sobre el Control del tiempo",
@@ -91,9 +91,9 @@
     "LBL_SUM": "Suma",
     "LBL_SUM_OF_WORKING_TIME_DIVIDED_INTO_USERS": "Gráfico de tiempo de trabajo dividido por usuarios",
     "LBL_TIME_CONTROL_LIST": "Lista de control de tiempo",
-    "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
+    "LBL_TIME_CONTROL_DETAILED_LIST": "Lista detallada del control de tiempo",
     "LBL_TIME_CONTROL_USER_GROUP": "Lista de control de tiempo con información adicional sobre los usuarios",
-    "LBL_TYPE": "Activity type",
+    "LBL_TYPE": "Tipo de actividad",
     "FL_SUBPROCESS_SECOND_LEVEL": "Subproceso de segundo nivel"
   },
   "js": {

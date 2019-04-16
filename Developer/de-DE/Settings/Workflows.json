@@ -234,7 +234,7 @@
     "LBL_CHECK_EMAIL_OPTOUT": "Prüfen ob Empfänger den Empfang der E-Mail bestätigt hat",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Feld, welches addiert werden soll",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Feld, in welchem die Summe gespeichert werden soll",
-    "LBL_SUM_FIELD_FROM_DEPENDENT": "Summenfeldwerte aus verknüpften Modulfeldern",
+    "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum field values from related module fields",
     "LBL_ATTACH_DOCS_FROM": "Dokumente anhängen von"
   },
   "js": {

@@ -61,7 +61,7 @@
     "JS_FILTER_BY_STATUSES": "Filtri stato",
     "JS_UPDATE_GANTT": "Aggiorna",
     "JS_PROJECT_STATUSES": "Stato progetti",
-    "JS_MILESTONE_STATUSES": "Stato progetti",
+    "JS_MILESTONE_STATUSES": "Stato tappe",
     "JS_TASK_STATUSES": "Stato attività",
     "JS_ASSIGNED": "Assegnato a",
     "JS_GANTT_ERROR_LOADING_DATA_TASK_REMOVED": "Errore durante il caricamento dei dati: l'elemento è stato rimosso",

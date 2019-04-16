@@ -67,7 +67,7 @@
     "LBL_VTIGER": "YetiForce",
     "LBL_EXAMPLE_EXPRESSION": "Expresión",
     "LBL_ANNUAL_REVENUE": "ingresos anuales",
-    "LBL_EXPRESSION_EXAMPLE2": "if mailingcountry == 'India' then concat(firstname,' ',lastname) else concat(lastname,' ',firstname) end",
+    "LBL_EXPRESSION_EXAMPLE2": "si mailingcountry == 'India' entonces concat(nombre,' ', apellido) de lo contrario concat(apellido,' ', apellido) fin",
     "MappedFields": "Mapeo de campos"
   },
   "js": {

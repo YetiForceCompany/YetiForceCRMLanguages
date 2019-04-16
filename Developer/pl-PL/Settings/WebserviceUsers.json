@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Wszystkie powiązane rekordy kontrahenta przypisanego bezpośrednio pod kontakt i kontrahentów z hierarchii",
     "PLL_ACTIVE": "Aktywny",
     "PLL_INACTIVE": "Nieaktywny",
-    "LBL_CREATE_RECORD": "Utwórz"
+    "LBL_CREATE_RECORD": "Utwórz",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?",

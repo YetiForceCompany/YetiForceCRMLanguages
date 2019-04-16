@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_TRANSLATE": "Translation",
+    "LBL_TRANSLATE": "Traduzione",
     "LBL_COMPANY_VARIABLES": "Campi dipartimento",
     "LBL_CUSTOM_VARIABLES": "Campi personalizzati",
     "LBL_EMPLOYEE_NAME": "Employee name",
@@ -21,7 +21,7 @@
     "LBL_RELATED_RECORD_LABEL": "Related record label",
     "LBL_OWNER_EMAIL": "Email owner",
     "LBL_MODULE_FIELDS": "Campi del modulo",
-    "LBL_DEPENDENT_MODULE_FIELDS": "Campi dei moduli dipendenti (1:M)",
+    "LBL_DEPENDENT_MODULE_FIELDS": "Campi dei moduli collegati (1:M)",
     "LBL_ADDITIONAL_VARIABLES": "Campi aggiuntivi",
     "LBL_SOURCE_MODULE_FIELDS": "Fields from source module",
     "LBL_ENTITY_VARIABLES": "Campi globali",

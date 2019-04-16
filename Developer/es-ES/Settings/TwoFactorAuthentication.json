@@ -1,13 +1,13 @@
 {
   "php": {
-    "LBL_TOTP_AUTHY_MODE": "Authentication modes",
+    "LBL_TOTP_AUTHY_MODE": "Modos de autentificación",
     "LBL_TOTP_OFF": "TOTP - OFF",
-    "LBL_TOTP_OPTIONAL": "TOTP - optional, user-defined",
-    "LBL_TOTP_OBLIGATORY": "TOTP - mandatory, each user must have this option configured",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Number of failed attempts",
-    "LBL_2FA_CONF": "Multi-factor authentication",
-    "LBL_TOTP": "Time-based One-time Password algorithm",
-    "LBL_TOTP_AUTHY_MODE_DESC": "Select authentication modes",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Max number of failed attempts to enter verification code"
+    "LBL_TOTP_OPTIONAL": "TOTP - opcional, definido por el usuario",
+    "LBL_TOTP_OBLIGATORY": "TOTP - obligatoria, cada usuario debe tener esta opción configurada",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Número de intentos fallidos",
+    "LBL_2FA_CONF": "Autenticación de múltiples factores",
+    "LBL_TOTP": "Algoritmo de contraseña de una sola vez basado en el tiempo",
+    "LBL_TOTP_AUTHY_MODE_DESC": "Seleccione el modo de autenticación",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Número máximo de intentos fallidos para introducir código de verificación"
   }
 }

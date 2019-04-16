@@ -21,7 +21,7 @@
     "LBL_USERS_WITH_LOWER_LEVEL": "Usuarios con Roles secundarios",
     "LBL_USERS_WITH_SAME_OR_LOWER_LEVEL": "Usuarios que tengan el mismo Rol o Rol secundario",
     "LBL_FROM_PANEL": "Desde el panel (Asignar propietario\/usuario)",
-    "Roles": "Roles",
+    "Roles": "Roles(funciones)",
     "SINGLE_Roles": "Rol",
     "LBL_USERS_LIST": "Lista de usuarios que pertenecen a este rol:",
     "LBL_JUST_ME": "Solo yo",
@@ -45,10 +45,10 @@
     "LBL_BLOCK_CUT": "Bloquear cortar",
     "LBL_BLOCK_PASTE": "Bloquear pegar",
     "LBL_AUTO_ASSIGN_RECORDS": "Asignar registros automáticamente",
-    "LBL_UPLOAD_LOGO": "Upload logo",
-    "LBL_UPLOAD_ERROR": "Error during upload",
-    "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
-    "LBL_MULTI_COMPANY": "Organizational structure"
+    "LBL_UPLOAD_LOGO": "Cargar logo",
+    "LBL_UPLOAD_ERROR": "Error al subir el archivo",
+    "LBL_UPLOAD_SUCCESS": "Cargado exitosamente",
+    "LBL_MULTI_COMPANY": "Estructura organizacional"
   },
   "js": {
     "JS_NO_PERMISSIONS_TO_MOVE": "No tiene permisos para mover",

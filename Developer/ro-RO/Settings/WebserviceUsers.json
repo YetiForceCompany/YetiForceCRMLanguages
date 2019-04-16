@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Toate inregistrarile legate de cont atribuite direct contactului si conturilor din ierarhie",
     "PLL_ACTIVE": "Activ",
     "PLL_INACTIVE": "Inactiv",
-    "LBL_CREATE_RECORD": "Creaza"
+    "LBL_CREATE_RECORD": "Creaza",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sigur doriti sa stergeti aceasta cheie?",

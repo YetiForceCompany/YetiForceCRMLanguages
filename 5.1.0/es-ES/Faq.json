@@ -3,7 +3,7 @@
     "Answer": "Respuesta",
     "Comments": "Comentarios",
     "Draft": "Borrador",
-    "Faq": "FAQ",
+    "Faq": "Preguntas frecuentes (FAQ)",
     "Faq No": "ID",
     "General": "General",
     "LBL_COMMENT_INFORMATION": "Comentarios",
@@ -13,6 +13,6 @@
     "Obsolete": "Obsoleta",
     "Published": "Publicada",
     "Question": "Pregunta",
-    "SINGLE_Faq": "FAQ"
+    "SINGLE_Faq": "Preguntas frecuentes (FAQ)"
   }
 }

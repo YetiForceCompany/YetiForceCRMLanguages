@@ -355,7 +355,10 @@
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Κωδικό πρόσβασης + έλεγχος 2 παραγόντων",
     "BTN_MASS_OFF_2FA": "Μαζική απενεργοποίηση ελέγχου ταυτότητας 2 παραγόντων",
-    "LBL_2FA_TOTP_INFO_IN_DEMO": "Σε δοκιμαστική λειτουργία, ο έλεγχος ταυτότητας 2 παραγόντων είναι για μόνο προεπισκόπηση."
+    "LBL_2FA_TOTP_INFO_IN_DEMO": "Σε δοκιμαστική λειτουργία, ο έλεγχος ταυτότητας 2 παραγόντων είναι για μόνο προεπισκόπηση.",
+    "FL_DEFAULT_SEARCH_MODULE": "Προεπιλεγμένο module",
+    "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Ρυθμίσεις καθολικής αναζήτησης"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Το διαχωριστικό δεκαδικών και το διαχωριστικό ομαδοποίησης δεν μπορεί να είναι το ίδιο.",

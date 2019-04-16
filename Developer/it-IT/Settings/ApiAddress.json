@@ -1,26 +1,26 @@
 {
   "php": {
-    "LBL_SAVE": "Save",
-    "ApiAddress": "Address Search",
-    "LBL_API_ADDRESS": "Address Search",
+    "LBL_SAVE": "Salva",
+    "ApiAddress": "Ricerca indirizzo",
+    "LBL_API_ADDRESS": "Ricerca indirizzo",
     "LBL_API_ADDRESS_DESCRIPTION": "Configura la ricerca degli indirizzi stradali.",
-    "LBL_USE_OPENCAGE_GEOCODER": "Use OpenCage Geocoder",
-    "LBL_REMOVE_CONNECTION": "Remove Connection",
-    "LBL_ENTER_KEY_APPLICATION": "Enter key application",
-    "LBL_MIN_LOOKUP_LENGTH": "The minimum number of characters a user must type before a search is performed",
-    "LBL_SAVE_NOTIFY_OK": "Saved changes.",
-    "LBL_CHOOSE_API": "Choose API",
-    "LBL_USE_GOOGLE_GEOCODER": "Use Google Geocoding",
+    "LBL_USE_OPENCAGE_GEOCODER": "Usa OpenCage Geocoder",
+    "LBL_REMOVE_CONNECTION": "Elimina",
+    "LBL_ENTER_KEY_APPLICATION": "Api key",
+    "LBL_MIN_LOOKUP_LENGTH": "Numero minimo di caratteri che un utente deve digitare prima che venga eseguita una ricerca",
+    "LBL_SAVE_NOTIFY_OK": "Modifiche salvate",
+    "LBL_CHOOSE_API": "Scegli servizio di geo-codifica indirizzi",
+    "LBL_USE_GOOGLE_GEOCODER": "Usa Google Geocoding",
     "google_map_api": "Google Geocoding",
-    "opencage_data": "OpenCage Geocoder",
+    "opencage_data": "Usa OpenCage Geocoder",
     "LBL_GLOBAL_CONFIG": "Configuration",
-    "LBL_SAVE_GLOBAL_SETTINGS": "Save the global settings",
-    "LBL_NUMBER_SEARCH_RESULTS": "Number of search results"
+    "LBL_SAVE_GLOBAL_SETTINGS": "Salva configurazione",
+    "LBL_NUMBER_SEARCH_RESULTS": "Numero di risultati di ricerca"
   },
   "js": {
-    "Invalid API key": "Invalid API key",
-    "JS_ERROR": "Error",
-    "JS_LOADING_PLEASE_WAIT": "Loading, Please wait.",
-    "JS_WRONG_NUMBER": "Characters allowed: digits greater than 1."
+    "Invalid API key": "API key non valida",
+    "JS_ERROR": "Errore",
+    "JS_LOADING_PLEASE_WAIT": "In caricamento ...",
+    "JS_WRONG_NUMBER": "Caratteri consentiti: cifre maggiori di 1"
   }
 }

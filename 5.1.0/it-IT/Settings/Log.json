@@ -2,19 +2,19 @@
   "php": {
     "LBL_LOGS": "Violazioni sicurezza",
     "LBL_LOGS_DESC": "Mostra la lista di eventuali accessi illeciti",
-    "LBL_ACCESS_FOR_ADMIN": "Access for admin",
-    "LBL_ACCESS_FOR_API": "Access for API",
-    "LBL_ACCESS_FOR_USER": "Access for user",
-    "LBL_ACCESS_TO_RECORD": "Access to record",
+    "LBL_ACCESS_FOR_ADMIN": "Accessi amministratore",
+    "LBL_ACCESS_FOR_API": "Accessi web service (API)",
+    "LBL_ACCESS_FOR_USER": "Accessi utente",
+    "LBL_ACCESS_TO_RECORD": "Accessi ai record",
     "LBL_CSRF": "CSRF",
-    "LBL_USERNAME": "Username",
-    "LBL_DATE": "Date",
+    "LBL_USERNAME": "Utente",
+    "LBL_DATE": "Data",
     "LBL_IP": "IP",
-    "LBL_RECORD": "Record ID",
-    "LBL_MODULE": "Module",
+    "LBL_RECORD": "Identificativo record",
+    "LBL_MODULE": "Modulo",
     "LBL_URL": "URL",
     "LBL_AGENT": "Agent",
-    "LBL_REQUEST": "Request",
-    "LBL_REFERER": "Referer"
+    "LBL_REQUEST": "Richiesta",
+    "LBL_REFERER": "Referrer"
   }
 }

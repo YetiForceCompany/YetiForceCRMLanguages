@@ -3,7 +3,7 @@
     "MultiCompany": "Departamentos",
     "SINGLE_MultiCompany": "Departamento",
     "LBL_BASIC_INFORMATION": "Detalles de la empresa",
-    "LBL_CONTACT_INFORMATION": "Contact info",
+    "LBL_CONTACT_INFORMATION": "Información de contacto",
     "LBL_REGISTRATION_INFORMATION": "Información del registro",
     "LBL_ADDRESS_INFORMATION": "Detalles de dirección",
     "LBL_SYSTEM_INFORMATION": "Información del sistema",
@@ -24,7 +24,7 @@
     "PLL_ACTIVE": "Activo",
     "PLL_INACTIVE": "Inactivo",
     "LBL_SHOW_HIERARCHY": "Jerarquía",
-    "FL_WEBSITE": "Website",
+    "FL_WEBSITE": "Sitio web",
     "FL_LOGO": "Logo"
   }
 }

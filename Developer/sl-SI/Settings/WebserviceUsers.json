@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Vse sorodne zapise račun dodeljena neposredno v stik in račune, ki so v hierarhiji",
     "PLL_ACTIVE": "Aktiven",
     "PLL_INACTIVE": "Neaktiven",
-    "LBL_CREATE_RECORD": "Ustvari"
+    "LBL_CREATE_RECORD": "Ustvari",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Si prepričan, da želiš zbrisati ključ?",

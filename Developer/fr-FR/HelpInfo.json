@@ -2,6 +2,7 @@
   "php": {
     "Announcements|FL_INTERVAL": "Fréquence des rappels en jours, si un utilisateur n'a pas examiné les modifications. Si le champ reste vide, le rappel ne sera plus affiché.",
     "Accounts|Account Name": "Ce champ est destiné au nom de l'entreprise",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used"
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
   }
 }

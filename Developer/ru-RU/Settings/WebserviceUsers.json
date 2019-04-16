@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Все связанные записи аккаунта, привязанные напрямую к контакту и акканту по иерархии",
     "PLL_ACTIVE": "Активно",
     "PLL_INACTIVE": "Неактивно",
-    "LBL_CREATE_RECORD": "Создать"
+    "LBL_CREATE_RECORD": "Создать",
+    "FL_STORAGE": "Storage"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Вы уверены, что хотите удалить ключ?",

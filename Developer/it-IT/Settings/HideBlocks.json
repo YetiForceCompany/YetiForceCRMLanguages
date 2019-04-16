@@ -1,16 +1,16 @@
 {
   "php": {
-    "HideBlocks": "Hide blocks",
+    "HideBlocks": "Nasconde blocchi",
     "LBL_HIDEBLOCKS": "Campi - Nascondi blocchi",
     "LBL_HIDEBLOCKS_DESCRIPTION": "Gestisce la visibilità dei blocchi di campi del modulo",
-    "LBL_BLOCK_LABEL": "Block",
-    "LBL_MODULE": "Module",
-    "LBL_ENABLED": "Active",
-    "LBL_EDIT_BLOCK": "Edit",
-    "LBL_NEW_BLOCK": "Create",
-    "LBL_BLOCK": "Block",
-    "LBL_NEXT": "Next",
-    "LBL_VIEW": "View",
-    "LBL_MANDATORY_FIELDS_EXIST": "This block cannot be hidden because it contains mandatory fields."
+    "LBL_BLOCK_LABEL": "Blocco",
+    "LBL_MODULE": "Modulo",
+    "LBL_ENABLED": "Attivo",
+    "LBL_EDIT_BLOCK": "Modifica",
+    "LBL_NEW_BLOCK": "Creazione",
+    "LBL_BLOCK": "Blocco",
+    "LBL_NEXT": "Successivo",
+    "LBL_VIEW": "Vista",
+    "LBL_MANDATORY_FIELDS_EXIST": "Questo blocco non può essere nascosto perché contiene campi obbligatori."
   }
 }

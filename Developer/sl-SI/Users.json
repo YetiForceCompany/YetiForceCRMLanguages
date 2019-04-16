@@ -355,7 +355,10 @@
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Geslo + 2FA",
     "BTN_MASS_OFF_2FA": "Množično onemogočiti 2FA",
-    "LBL_2FA_TOTP_INFO_IN_DEMO": "V demo načinu, 2FA je za samo predogled."
+    "LBL_2FA_TOTP_INFO_IN_DEMO": "V demo načinu, 2FA je za samo predogled.",
+    "FL_DEFAULT_SEARCH_MODULE": "Default module",
+    "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalno ločilo in ločilo za združevanje ne smeta biti enaki.",

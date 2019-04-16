@@ -1,11 +1,11 @@
 {
   "php": {
     "Updates": "Actualizaciones",
-    "LBL_YES": "Sí",
+    "LBL_YES": "Si",
     "LBL_NO": "No",
     "LBL_TIME": "Fecha",
     "LBL_USER": "Nombre de usuario",
-    "LBL_FROM_VERSION": "De la versión",
+    "LBL_FROM_VERSION": "Desde la versión",
     "LBL_TO_VERSION": "A la versión",
     "LBL_RESULT": "Estado",
     "LBL_UPDATES": "Actualizaciones",

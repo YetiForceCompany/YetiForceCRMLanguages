@@ -21,7 +21,8 @@
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Todos los registros de las Empresas asignados directamente al Contacto y Empresa en jerarquía",
     "PLL_ACTIVE": "Activo",
     "PLL_INACTIVE": "Inactivo",
-    "LBL_CREATE_RECORD": "Crear un nuevo usuario"
+    "LBL_CREATE_RECORD": "Crear un nuevo usuario",
+    "FL_STORAGE": "Almacenamiento"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "¿Seguro que desea eliminar el Usuario de la API?",

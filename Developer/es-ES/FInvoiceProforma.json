@@ -13,8 +13,8 @@
     "FL_NUMBER": "ID Factura",
     "FL_TOTAL": "Total",
     "FL_GROSS": "Subtotal",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_CASH": "Efectivo",
+    "PLL_TRANSFER": "Transferencia bancaria",
+    "PLL_WIRE_TRANSFER": "Transferencia electrónica"
   }
 }

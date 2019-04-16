@@ -1,8 +1,8 @@
 {
   "php": {
-    "FCorectingInvoice": "Rectificación de Facturas",
-    "SINGLE_FCorectingInvoice": "Rectificación de Factura",
-    "LBL_CUSTOM_INFORMATION": "Información adicional",
+    "FCorectingInvoice": "Corrección de la facturas",
+    "SINGLE_FCorectingInvoice": "Corrección de la facturas",
+    "LBL_CUSTOM_INFORMATION": "Datos del sistema",
     "LBL_INVOICE_ADDRESS": "Dirección de facturación",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Información sobre la Dirección de Entrega",
     "FL_SUBJECT": "Asunto",
@@ -15,23 +15,23 @@
     "FL_TOTAL": "Total",
     "FL_GROSS": "Subtotal",
     "FL_STATUS": "Estado",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "PLL_CASH": "Efectivo",
+    "PLL_TRANSFER": "Transferencia bancaria",
+    "PLL_WIRE_TRANSFER": "Transferencia electrónica",
     "LBL_YEAR": "Año",
     "FL_INVOICE": "Factura",
-    "LBL_COMMENTS": "Comments",
-    "FL_EXTERNAL_COMMENT": "External comment",
-    "FL_INTERNAL_COMMENT": "Internal comment",
-    "LBL_BEFORE_CORRECTION": "Before correction",
-    "LBL_AFTER_CORRECTION": "After correction",
-    "LBL_CHOOSE_INVOICE": "Select invoice to be corrected",
-    "LBL_COPY_FROM_INVOICE": "Copy from initial invoice",
-    "LBL_INVOICE_INFO": "Initial invoice fields - before corrections.",
-    "LBL_AFTER_INVOICE_INFO": "How should final invoice look like after correction.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Invoice fields to be corrected. Copy all fields from initial invoice and change values as needed."
+    "LBL_COMMENTS": "Comentarios",
+    "FL_EXTERNAL_COMMENT": "Comentario externo",
+    "FL_INTERNAL_COMMENT": "Comentario interno",
+    "LBL_BEFORE_CORRECTION": "Antes de la corrección",
+    "LBL_AFTER_CORRECTION": "Después de la corrección",
+    "LBL_CHOOSE_INVOICE": "Seleccione la factura que hay que corregir",
+    "LBL_COPY_FROM_INVOICE": "Copiar desde factura inicial",
+    "LBL_INVOICE_INFO": "Campos iniciales de factura - antes de las correcciones.",
+    "LBL_AFTER_INVOICE_INFO": "Cómo debe verse factura final después de la corrección.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Campos de factura a ser corregidos. Copia todos los campos de la factura inicial y cambia los valores según sea necesario."
   },
   "js": {
-    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Select invoice to be corrected"
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Seleccione la factura que hay que corregir"
   }
 }

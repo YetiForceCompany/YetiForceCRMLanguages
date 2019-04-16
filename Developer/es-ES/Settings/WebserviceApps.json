@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_APP_NAME": "Usuario (API)",
+    "LBL_APP_NAME": "Nombre",
     "LBL_ADDRESS_URL": "URL",
     "LBL_TYPE_SERVER": "Tipo",
     "LBL_API_KEY": "Clave de la API",

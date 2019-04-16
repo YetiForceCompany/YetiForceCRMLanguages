@@ -5,8 +5,8 @@
     "LBL_TYPE": "Estado",
     "LBL_PROJECT": "Proyecto",
     "LBL_PROJECT_STATUS_INFO": "Estados que determinan que el proyecto está cerrado",
-    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",
-    "LBL_PROJECTTASK_STATUS_INFO": "Statuses determining that the task is closed",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Estados que determinan que el hito está cerrado",
+    "LBL_PROJECTTASK_STATUS_INFO": "Estatutos que determinan que la tarea está cerrada",
     "LBL_SAVE_CONFIG_OK": "Cambios guardados correctamente.",
     "LBL_SAVE_CONFIG_ERROR": "Error al guardar los cambios.",
     "RealizationProcesses": "Procesos de realización"

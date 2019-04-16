@@ -53,7 +53,7 @@
     "ReadRecord": "Leer todos los cambios realizados en los registros",
     "WorkflowTrigger": "Disparador de flujo de trabajo",
     "QuickExportToExcel": "Exportación rápida a Excel",
-    "CreateDashboardFilter": "Create filter widgets",
+    "CreateDashboardFilter": "Crear widgets de filtro",
     "DetailTransferOwnership": "Vista previa del Registro - cambiar el propietario",
     "ExportPdf": "Exportar a PDF",
     "RecordMapping": "Vista previa del registro - Generación de registro de campos mapeados",
@@ -88,9 +88,9 @@
     "ActivityComplete": "Cerrar registros",
     "ActivityPostponed": "Aplazar registros",
     "Emails": "Enviar correos [SMTP]",
-    "ModTracker": "Change history",
-    "AssignToYourself": "Assign to me",
-    "AutoAssignRecord": "Automatic transfer of records"
+    "ModTracker": "Historial de cambios",
+    "AssignToYourself": "Asignado a mi",
+    "AutoAssignRecord": "Transferencia automática de registros"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Perfil eliminado correctamente"
