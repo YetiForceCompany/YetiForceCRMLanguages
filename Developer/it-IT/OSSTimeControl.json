@@ -70,9 +70,9 @@
     "Accounting work": "Lavoro contabile",
     "PLL_WORKING_TIME": "Lavorativo",
     "PLL_BREAK_TIME": "Riposo",
-    "PLL_HOLIDAY": "Paid leave",
-    "PLL_UNPAID_LEAVE": "Unpaid leave",
-    "PLL_SICK_LEAVE": "Sick leave",
+    "PLL_HOLIDAY": "Ferie pagate",
+    "PLL_UNPAID_LEAVE": "Ferie non pagate",
+    "PLL_SICK_LEAVE": "Permesso per malattia",
     "LBL_Holidays": "Ferie",
     "LBL_YEAR": "Anno",
     "LBL_Used_Entitled": "Usato \/ concesso",
@@ -104,7 +104,7 @@
     "JS_END_DATE": "Data fine",
     "JS_TOTAL_TIME": "Tempo totale",
     "JS_ASSIGNED_TO": "Assegnato a",
-    "JS_TYPE": "Type",
+    "JS_TYPE": "Tipo",
     "JS_NUMBER": "Progressivo"
   }
 }

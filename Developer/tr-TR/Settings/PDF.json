@@ -158,7 +158,9 @@
     "B": "B",
     "A": "A",
     "DEMY": "Demy",
-    "ROYAL": "Rotyal"
+    "ROYAL": "Rotyal",
+    "LBL_STANDARD_TEMPLATES": "Standard templates",
+    "LBL_DYNAMIC_TEMPLATES": "Dynamic templates"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "PDF template saved.",

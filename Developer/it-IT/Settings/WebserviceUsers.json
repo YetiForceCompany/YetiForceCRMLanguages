@@ -22,7 +22,7 @@
     "PLL_ACTIVE": "Attivo",
     "PLL_INACTIVE": "Inattivo",
     "LBL_CREATE_RECORD": "Aggiungi record",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Magazzino"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare le credenziali?",

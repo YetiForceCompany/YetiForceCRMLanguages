@@ -2,7 +2,7 @@
   "php": {
     "OSSMailView": "Email",
     "SINGLE_OSSMailView": "Email",
-    "LBL_RECORDS_LIST": "Lista delle email",
+    "LBL_RECORDS_LIST": "Lista record",
     "LBL_INFORMATION": "Informazioni",
     "LBL_ORIGN_MESSAGE": "Messaggio originale",
     "relatedid": "Relativo a",
