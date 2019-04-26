@@ -20,9 +20,9 @@
     "LBL_CHANGE_OWNER": "Changer le propriétaire",
     "LBL_CONTACTS_BIRTH_DAY": "Date de naissance",
     "LBL_CONTACTS_SUPPORT_END_DATE": "Date de fin de support",
-    "LBL_PARTICIPANTS_EMAIL": "Participant's email",
-    "LBL_PARTICIPANTS_NAME": "Name of the participant",
-    "LBL_ADD_PARTICIPANT": "Invite a participant outside of CRM",
+    "LBL_PARTICIPANTS_EMAIL": "Email du participant",
+    "LBL_PARTICIPANTS_NAME": "Nom du participant",
+    "LBL_ADD_PARTICIPANT": "Inviter un participant à l’extérieur du CRM",
     "LBL_DAY0": "Dimanche",
     "LBL_DAY1": "Lundi",
     "LBL_DAY2": "Mardi",
@@ -164,8 +164,8 @@
     "LBL_SM_TUE": "Mar",
     "LBL_SM_WED": "Mer",
     "LBL_UNTIL": "jusqu'à",
-    "LBL_INVITE_RECORDS": "Invite participants",
-    "LBL_SELECT_INVITE": "Invite a participant from CRM",
+    "LBL_INVITE_RECORDS": "Inviter des participants",
+    "LBL_SELECT_INVITE": "Inviter un participant du CRM",
     "LBL_NEEDS-ACTION": "En attente d'acceptation",
     "LBL_ACCEPTED": "Accepté",
     "LBL_DECLINED": "Rejeté",
@@ -189,7 +189,7 @@
     "LBL_REMAIND_MINS": "Remind after the selected number of minutes",
     "LBL_WORK_DAYS": "Jours travaillés",
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vue calendrier ajoutée avec succès",

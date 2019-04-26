@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Ακυρώθηκε",
     "PLL_ACCEPTED": "Έγινε Αποδοχή",
     "LBL_YEAR": "Έτος",
-    "FL_ISSUE_TIME": "Ημ\/νία Τιμολόγησης"
+    "FL_ISSUE_TIME": "Ημ\/νία Τιμολόγησης",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

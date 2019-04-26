@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Anulowano",
     "PLL_ACCEPTED": "Zaakceptowano",
     "LBL_YEAR": "Rok",
-    "FL_ISSUE_TIME": "Data wystawienia"
+    "FL_ISSUE_TIME": "Data wystawienia",
+    "FL_OPPORTUNITY": "Szansa sprzedaży",
+    "FL_PROJECT": "Projekt"
   }
 }

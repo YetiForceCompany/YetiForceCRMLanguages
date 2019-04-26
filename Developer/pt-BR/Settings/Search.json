@@ -1,7 +1,7 @@
 {
   "php": {
     "Search Configuration": "Configurações de Pesquisa",
-    "Search Setup": "Pesquisa - Configuração",
+    "Search Setup": "Labels and searching",
     "Search": "Configurações de Pesquisa",
     "LBL_Module_desc": "Este painel permite a configuração do rótulo para campos uitype 10 e para os mecanismos de busca. Estes mecanismos trabalham independentemente - você pode visualizar várias colunas em um campo enquanto procura, mas quando você seleciona um registro, um nome de um rótulo será carregado.",
     "Module": "Módulo",

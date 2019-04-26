@@ -158,9 +158,7 @@
     "B": "B",
     "A": "A",
     "DEMY": "Demy",
-    "ROYAL": "Rotyal",
-    "LBL_STANDARD_TEMPLATES": "Modelli standard",
-    "LBL_DYNAMIC_TEMPLATES": "Modelli dinamici"
+    "ROYAL": "Rotyal"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "Modello salvato",

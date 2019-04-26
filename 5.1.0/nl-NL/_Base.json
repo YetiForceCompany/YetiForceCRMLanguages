@@ -648,7 +648,7 @@
     "Project Milestone Name": "Project Milestone Naam",
     "Milestone Date": "Milestone Datum",
     "WEBLOADTIME": "Page loading time",
-    "LBL_FOOTER_CONTENT": "Copyright 2014 YetiForce.com All rights reserved. %s<br\/>Creating YetiForce software was possible thanks to the %s called Vtiger CRM and other programs that have open source codes.",
+    "LBL_FOOTER_CONTENT": "YetiForce was created thanks to an %s called Vtiger CRM and other open source projects.",
     "LBL_RELATED_ASSETS": "Products sold",
     "LBL_RELATED_OSSOS": "Services outsourced",
     "LBL_RELATED_OSSSS": "Services sold",

@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "Εκπρόθεσμα συμβάντα",
     "LBL_TABLE_TAX_SUMMARY": "Περίληψη φόρου για προχωρημένο μπλοκ",
     "LBL_ALL_PAGES": "Όλες οι σελίδες",
-    "LBL_CURRENT_PAGE": "Τρέχουσα σελίδα"
+    "LBL_CURRENT_PAGE": "Τρέχουσα σελίδα",
+    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
+    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
   }
 }

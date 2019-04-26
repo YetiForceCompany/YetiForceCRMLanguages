@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Anulata",
     "PLL_ACCEPTED": "Acceptata",
     "LBL_YEAR": "An",
-    "FL_ISSUE_TIME": "Data facturii"
+    "FL_ISSUE_TIME": "Data facturii",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

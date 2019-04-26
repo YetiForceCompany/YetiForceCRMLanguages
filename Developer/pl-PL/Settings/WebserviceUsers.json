@@ -22,7 +22,7 @@
     "PLL_ACTIVE": "Aktywny",
     "PLL_INACTIVE": "Nieaktywny",
     "LBL_CREATE_RECORD": "Utwórz",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Magazyn"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?",

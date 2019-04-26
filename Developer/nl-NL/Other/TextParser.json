@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "Achterstallige gebeurtenissen",
     "LBL_TABLE_TAX_SUMMARY": "BTW samenvatting voor geavanceerd blok",
     "LBL_ALL_PAGES": "Alle pagina's",
-    "LBL_CURRENT_PAGE": "Huidige pagina"
+    "LBL_CURRENT_PAGE": "Huidige pagina",
+    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
+    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
   }
 }

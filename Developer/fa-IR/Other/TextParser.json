@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "رویداد‌های گذشته",
     "LBL_TABLE_TAX_SUMMARY": "خلاصه مالیات برای بلوک‌های پیشرفته",
     "LBL_ALL_PAGES": "تمام صفحات",
-    "LBL_CURRENT_PAGE": "صفحه جاری"
+    "LBL_CURRENT_PAGE": "صفحه جاری",
+    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
+    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
   }
 }

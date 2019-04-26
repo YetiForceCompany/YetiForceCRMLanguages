@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "İptal edildi",
     "PLL_ACCEPTED": "Kabul Edildi",
     "LBL_YEAR": "Yıl",
-    "FL_ISSUE_TIME": "Invoice date"
+    "FL_ISSUE_TIME": "Invoice date",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

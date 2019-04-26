@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "Przeterminowane wydarzenia",
     "LBL_TABLE_TAX_SUMMARY": "Podsumowanie podatku dla bloku zaawansowanego",
     "LBL_ALL_PAGES": "Liczba wszystkich stron",
-    "LBL_CURRENT_PAGE": "Numer aktualnej strony"
+    "LBL_CURRENT_PAGE": "Numer aktualnej strony",
+    "LBL_INVENTORY_TABLE": "Tabela modułu zaawansowanego z niestandardowymi predefiniowanymi kolumnami",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Tabela modułu zaawansowanego z dynamicznymi kolumnami",
+    "LBL_INVENTORY_VARIABLES": "Dodatkowe zmienne modułu zaawansowanego "
   }
 }

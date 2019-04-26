@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "Überfällige Ereignisse",
     "LBL_TABLE_TAX_SUMMARY": "Summe der Steuer für erweiterten Block",
     "LBL_ALL_PAGES": "Alle Seiten",
-    "LBL_CURRENT_PAGE": "Aktuelle Seite"
+    "LBL_CURRENT_PAGE": "Aktuelle Seite",
+    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
+    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
   }
 }

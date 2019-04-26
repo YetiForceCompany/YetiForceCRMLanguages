@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Prekinjeno",
     "PLL_ACCEPTED": "Sprejeto",
     "LBL_YEAR": "Leto",
-    "FL_ISSUE_TIME": "Datum računa"
+    "FL_ISSUE_TIME": "Datum računa",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

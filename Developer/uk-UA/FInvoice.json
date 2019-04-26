@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Скасовано",
     "PLL_ACCEPTED": "Підтверджено",
     "LBL_YEAR": "Рік ",
-    "FL_ISSUE_TIME": "Дата рахунку"
+    "FL_ISSUE_TIME": "Дата рахунку",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

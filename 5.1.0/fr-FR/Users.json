@@ -92,7 +92,7 @@
     "LBL_YOUR_CONTACT_NUMBER": "Votre numéro de téléphone",
     "LBL_CARDDAV_SYNCHRONIZATION_CONTACT": "Synchroniser les contacts CardDAV",
     "LBL_CALDAV_SYNCHRONIZATION_CALENDAR": "Synchroniser le calendrier CalDAV",
-    "LBL_CARDDAV_DEFAULT_COUNTRY": "Default country for CardDAV",
+    "LBL_CARDDAV_DEFAULT_COUNTRY": "Pays par défaut pour CardDAV",
     "Number Of Currency Decimals": "Nombre de décimales de la devise",
     "Office Phone": "Téléphone professionel",
     "Other Event Duration": "Durée des autres évenements (mins)",

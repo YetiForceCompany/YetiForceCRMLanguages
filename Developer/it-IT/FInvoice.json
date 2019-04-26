@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Annullato",
     "PLL_ACCEPTED": "Accettato",
     "LBL_YEAR": "Anno",
-    "FL_ISSUE_TIME": "Data documento"
+    "FL_ISSUE_TIME": "Data documento",
+    "FL_OPPORTUNITY": "Opportunità",
+    "FL_PROJECT": "Progetto"
   }
 }

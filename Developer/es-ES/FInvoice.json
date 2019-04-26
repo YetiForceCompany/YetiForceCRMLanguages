@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Cancelado",
     "PLL_ACCEPTED": "Aceptado",
     "LBL_YEAR": "Año",
-    "FL_ISSUE_TIME": "Fecha de facturación"
+    "FL_ISSUE_TIME": "Fecha de facturación",
+    "FL_OPPORTUNITY": "Oportunidad",
+    "FL_PROJECT": "Proyecto"
   }
 }

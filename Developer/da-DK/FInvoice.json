@@ -38,6 +38,8 @@
     "PLL_CANCELLED": "Annulleret",
     "PLL_ACCEPTED": "Accepteret",
     "LBL_YEAR": "År",
-    "FL_ISSUE_TIME": "Fakturadato"
+    "FL_ISSUE_TIME": "Fakturadato",
+    "FL_OPPORTUNITY": "Opportunity",
+    "FL_PROJECT": "Project"
   }
 }

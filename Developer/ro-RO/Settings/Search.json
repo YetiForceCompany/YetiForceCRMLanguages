@@ -1,7 +1,7 @@
 {
   "php": {
     "Search Configuration": "Configurare cautare",
-    "Search Setup": "Cautare - Configurare",
+    "Search Setup": "Labels and searching",
     "Search": "Configurare cautare",
     "LBL_Module_desc": "Acest panou permite setarea etichetelor pentru campurile uitype 10 si pentru mecanismele de cautare. Aceste mecanisme functioneaza independent – puteti cauta mai multe coloane intr-un camp in timp ce cautati, dar cand selectati o inregistrare, va fi incarcat un nume dintr-o eticheta.",
     "Module": "Modul",

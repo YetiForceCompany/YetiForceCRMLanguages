@@ -56,6 +56,9 @@
     "LBL_OVERDUE_DEADLINES": "Zapadli dogodki",
     "LBL_TABLE_TAX_SUMMARY": "Znesek Ddv za napredni blok",
     "LBL_ALL_PAGES": "Vse strani",
-    "LBL_CURRENT_PAGE": "Trenutna stran"
+    "LBL_CURRENT_PAGE": "Trenutna stran",
+    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
+    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
   }
 }

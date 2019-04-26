@@ -62,7 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Contacts",
     "LBL_PROCESS": "Processus",
     "LBL_SUB_PROCESS": "Sous-processus",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau",
     "LBL_REMOVE_RELATION": "Supprimer la relation",
     "LBL_SELECT_RECORD": "Lier à un enregistrement existant",
     "LBL_ADD_CALENDAR": "Ajouter un événement",
@@ -76,7 +76,7 @@
     "LBL_MINIMIZE_BAR": "Réduire la barre",
     "LBL_CREATEMAIL": "Envoyer email",
     "LBL_ADD_RELATION": "Add relation",
-    "LBL_ADD_DOCUMENTS": "Add documents",
+    "LBL_ADD_DOCUMENTS": "Ajouter des documents",
     "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s"
@@ -85,6 +85,6 @@
     "NoFindEmailInRecord": "L'enregistrement ne contient pas d'adresse email",
     "AddFindEmailInRecord": "Email téléchargé",
     "StartedDownloadingEmail": "Téléchargement de l'email en cours",
-    "JS_DOCUMENTS_ADDED": "Documents have been added"
+    "JS_DOCUMENTS_ADDED": "Les documents ont été ajoutés"
   }
 }
