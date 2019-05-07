@@ -1,7 +1,7 @@
 {
   "php": {
-    "FInvoice": "Sales invoices",
-    "SINGLE_FInvoice": "Sales invoice",
+    "FInvoice": "Счета-фактуры продаж",
+    "SINGLE_FInvoice": "Счет-фактура продаж",
     "LBL_CUSTOM_INFORMATION": "Системная информация",
     "LBL_INVOICE_ADDRESS": "Адрес выставления счета",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Адрес доставки",
@@ -38,6 +38,6 @@
     "PLL_CANCELLED": "Отменены",
     "PLL_ACCEPTED": "Подтверждены",
     "LBL_YEAR": "Год",
-    "FL_ISSUE_TIME": "Invoice date"
+    "FL_ISSUE_TIME": "Дата выставления счёта"
   }
 }

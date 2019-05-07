@@ -13,8 +13,8 @@
     "FL_NUMBER": "Счет №",
     "FL_TOTAL": "Чистый",
     "FL_GROSS": "Валовый",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_CASH": "Наличные",
+    "PLL_TRANSFER": "Банковский перевод",
+    "PLL_WIRE_TRANSFER": "Электронный перевод"
   }
 }

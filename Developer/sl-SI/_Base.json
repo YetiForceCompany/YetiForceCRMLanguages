@@ -1675,6 +1675,8 @@
     "JS_NO_DESKTOP_PERMISSION": "Dovoljenja za obvestila ni bilo mogoče dobiti, preverite nastavitve brskalnika.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Preneseni podatke o naslovu",
     "JS_UNEXPECTED_ERROR": "Prišlo je do nepričakovane napake",
+    "JS_ENTERED_VALUE_IS_TOO_SHORT": "Entered value is too short",
+    "JS_ENTERED_VALUE_IS_TOO_LONG": "Entered value is too long",
     "JS_NOT_ALLOWED_VALUE": "Vnesena je neveljavna vrednost"
   }
 }

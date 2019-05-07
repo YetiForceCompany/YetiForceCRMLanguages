@@ -1,7 +1,7 @@
 {
   "php": {
     "Search Configuration": "Configurazione ricerca",
-    "Search Setup": "Labels and searching",
+    "Search Setup": "Etichette e ricerca",
     "Search": "Configurazione ricerca",
     "LBL_Module_desc": "Imposta, per ogni modulo, i campi su cui viene effettuata la ricerca. Inoltre definisce quali colonne visualizzare nei risultati.",
     "Module": "Modulo",

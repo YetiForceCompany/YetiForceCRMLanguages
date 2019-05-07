@@ -1,7 +1,7 @@
 {
   "php": {
-    "Account Name": "Nome",
-    "Account No": "Progressivo",
+    "Account Name": "Nome Azienda",
+    "Account No": "Codice azienda",
     "Accounts": "Aziende",
     "Analyst": "Analista",
     "Competitor": "Concorrente",
@@ -11,7 +11,7 @@
     "industry": "Settore",
     "Integrator": "Integratore",
     "Investor": "Investitore",
-    "LBL_ACCOUNT_INFORMATION": "Informazioni base",
+    "LBL_ACCOUNT_INFORMATION": "Dettagli",
     "LBL_ADVANCED_BLOCK": "Blocco avanzato",
     "LBL_CONTACT_INFO": "Informazioni di contatto",
     "LBL_REGISTRATION_INFO": "Dettagli di registrazione",

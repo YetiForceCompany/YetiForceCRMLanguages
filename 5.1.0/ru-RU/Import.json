@@ -15,7 +15,7 @@
     "Merge": "Совместить",
     "Overwrite": "Перезаписать",
     "Skip": "Пропустить",
-    "LBL_FILL_EMPTY": "Fill in (update only empty fields in the record, do not change existing values)",
+    "LBL_FILL_EMPTY": "Заполните (обновить только пустые поля в записи, не изменять существующие значения)",
     "LBL_IMPORT_STEP_1": "Шаг 1",
     "LBL_IMPORT_STEP_1_DESCRIPTION": "Выберите файл",
     "LBL_IMPORT_SUPPORTED_FILE_TYPES": "Поддерживаемые типы файлов: .CSV, .VCF",
@@ -77,6 +77,6 @@
     "skipped": "Пропущено записей",
     "failed": "Ошибочные записи",
     "LBL_SELECT_FILE": "Выберите файл для Импорта",
-    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing recorda are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record."
+    "LBL_MERGE_TYPE_INFO": "Пропустить: существующие записи пропускаются и не обновляются.\n\nПерезаписать: существующие записи перезаписываются данными из файла или значениями по умолчанию, если требуемых значений нет в файле. Если не помечены как обязательные, значения перезаписываются пустыми значениями из файла.\n\nСлияние: значения перезаписываются значениями из файла, если значения из файла не являются пустыми (однако, если они пусты, значения из записи сохраняются).\n\nЗаполнить: обновляются только пустые поля. Значения из поля не перезаписываются, если в записи уже есть существующее значение."
   }
 }

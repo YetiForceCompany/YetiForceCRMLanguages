@@ -28,6 +28,7 @@
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Δεν είναι δυνατό να δημιουργηθεί ο κατάλογος",
     "ERR_AUTO_LOGOUT": "Αυτόματη αποσύνδεση λόγω αδράνειας",
     "ERR_FIELD_NOT_FOUND": "Το πεδίο δεν βρέθηκε",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Αριθμός ορισμάτων που δεν επιτρέπονται (%d %s σε %s)",
     "ERR_NO_VALUE": "Καμία τιμή",
     "ERR_BODY_IS_EMPTY": "Το σώμα είναι άδειο",
     "ERR_API": "Σφάλμα στο API",

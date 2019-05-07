@@ -9,7 +9,7 @@
     "LBL_NUMBER": "Номер",
     "LBL_CLOSED_TIME": "Время закрытия",
     "LBL_VAT_ID": "ИНН",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "LBL_SHOW_HIERARCHY": "Иерархия",
+    "LBL_PARENT_ID": "Родитель конкурента"
   }
 }

@@ -28,6 +28,7 @@
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Nie można utworzyć folderu",
     "ERR_AUTO_LOGOUT": "Nastąpiło automatyczne wylogowanie ze względu na brak aktywności",
     "ERR_FIELD_NOT_FOUND": "Nie znaleziono pola",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Niedozwolona ilość parametrów (%d %s %s)",
     "ERR_NO_VALUE": "Brak wartości",
     "ERR_BODY_IS_EMPTY": "Brak treści",
     "ERR_API": "Błąd w API",

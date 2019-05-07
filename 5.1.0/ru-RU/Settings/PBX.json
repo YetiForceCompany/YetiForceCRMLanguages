@@ -9,8 +9,8 @@
     "LBL_URL": "Адрес сервера",
     "LBL_USERNAME": "Логин",
     "LBL_PASSWORD": "Пароль",
-    "LBL_SECRET_KEY": "Secret Key",
-    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+    "LBL_SECRET_KEY": "Секретный ключ",
+    "LBL_OUTBOUND_CONTEXT": "Исходящий контекст"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Изменения сохранены"

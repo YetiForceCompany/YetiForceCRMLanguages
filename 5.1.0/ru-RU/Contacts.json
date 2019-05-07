@@ -14,7 +14,7 @@
     "Office Phone": "Рабочий тел.",
     "Portal User": "Пользователь портала",
     "Reference": "Рекомендации",
-    "Reports To": "Parent Contact",
+    "Reports To": "Родительский контакт",
     "Secondary Email": "Доп. Почта",
     "SINGLE_Contacts": "Контакт",
     "Support End Date": "Окончание тех. поддержки",
@@ -44,7 +44,7 @@
     "Birthdays of contacts": "День рождения",
     "LBL_SWITCH_ON_DECISION_MAKER": "Включить принятие решений",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Отключить принятие решений",
-    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
+    "LBL_SHOW_HIERARCHY": "Иерархия контактов"
   },
   "js": {
 

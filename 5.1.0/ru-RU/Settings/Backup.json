@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it."
+    "LBL_BACKUP_MANAGER": "Менеджер резервных копий",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Управление файлами резервной копии",
+    "LBL_DOWNLOAD": "Скачать",
+    "LBL_FILE_NAME": "Имя файла",
+    "LBL_FILE_SIZE": "Размер файла",
+    "LBL_FILE_DATE": "Дата изменения",
+    "LBL_BACKUP_LIST": "Списки резервных копий",
+    "ERR_CONFIG_ALERT_TITLE": "Менеджер резервных копий отключен",
+    "ERR_CONFIG_ALERT_DESC": "Установите соответствующий путь в переменной BACKUP_PATH в конфигурационном файле [config\/Components\/Backup.php], чтобы включить его."
   },
   "js": {
 

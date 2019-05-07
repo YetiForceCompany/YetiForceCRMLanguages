@@ -39,7 +39,7 @@
     "PLL_ACCEPTED": "Angenommen",
     "LBL_YEAR": "Jahr",
     "FL_ISSUE_TIME": "Rechnungsdatum",
-    "FL_OPPORTUNITY": "Opportunity",
-    "FL_PROJECT": "Project"
+    "FL_OPPORTUNITY": "Verkaufschance",
+    "FL_PROJECT": "Projekt"
   }
 }

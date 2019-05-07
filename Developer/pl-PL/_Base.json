@@ -1675,6 +1675,8 @@
     "JS_NO_DESKTOP_PERMISSION": "Nie udało się uzyskać zgody na powiadomienia, sprawdź ustawienia przeglądarki.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Wczytano dane adresowe",
     "JS_UNEXPECTED_ERROR": "Wystąpił nieoczekiwany błąd",
+    "JS_ENTERED_VALUE_IS_TOO_SHORT": "Wprowadzona wartość jest za krótka",
+    "JS_ENTERED_VALUE_IS_TOO_LONG": "Wprowadzona wartość jest za długa",
     "JS_NOT_ALLOWED_VALUE": "Wprowadzono niedozwoloną wartość"
   }
 }

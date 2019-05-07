@@ -10,8 +10,8 @@
     "MEN_MARKETING": "Маркетинг",
     "MEN_SUPPORT": "Поддержка",
     "MEN_ACCOUNTING": "Бухгалтерия",
-    "MEN_COMPANY": "Company",
-    "MEN_ORGANIZATION": "Organization",
+    "MEN_COMPANY": "Компания",
+    "MEN_ORGANIZATION": "Организация",
     "MEN_DATABESES": "База данных",
     "MEN_TEAMWORK": "Команда",
     "MEN_PRODUCTBASE": "База товаров",
@@ -22,7 +22,7 @@
     "MEN_LOGISTICS": "Логистика",
     "LBL_CHANGE_LOGIN_PASSWORD": "Изменить логин и пароль",
     "LBL_CHANGE": "Изменить",
-    "LBL_USER_PROFILE": "User profile",
-    "MEN_GDPR": "GDPR"
+    "LBL_USER_PROFILE": "Профиль пользователя",
+    "MEN_GDPR": "Общий регламент по защите данных"
   }
 }

@@ -28,6 +28,7 @@
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "No se puede crear el directorio",
     "ERR_AUTO_LOGOUT": "Sesión cerrada automáticamente por inactividad",
     "ERR_FIELD_NOT_FOUND": "Campo no encontrado",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Número de argumentos no permitidos (%d %s en %s)",
     "ERR_NO_VALUE": "Sin valor",
     "ERR_BODY_IS_EMPTY": "Cuerpo está vacío",
     "ERR_API": "Error en la API",

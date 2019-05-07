@@ -57,8 +57,8 @@
     "LBL_TABLE_TAX_SUMMARY": "Sommario tasse per blocco esteso",
     "LBL_ALL_PAGES": "Tutte le pagine",
     "LBL_CURRENT_PAGE": "Pagina corrente",
-    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
-    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
-    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
+    "LBL_INVENTORY_TABLE": "Tabella inventario con colonne predefinite personalizzate",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Tabella inventario con colonne dinamiche",
+    "LBL_INVENTORY_VARIABLES": "Variabili di inventario aggiuntive"
   }
 }

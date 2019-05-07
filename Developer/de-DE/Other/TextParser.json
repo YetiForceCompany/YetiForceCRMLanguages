@@ -57,8 +57,8 @@
     "LBL_TABLE_TAX_SUMMARY": "Summe der Steuer für erweiterten Block",
     "LBL_ALL_PAGES": "Alle Seiten",
     "LBL_CURRENT_PAGE": "Aktuelle Seite",
-    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
-    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
-    "LBL_INVENTORY_VARIABLES": "Additional inventory variables"
+    "LBL_INVENTORY_TABLE": "Inventar-Tabelle mit benutzerdefinierten vordefinierten Spalten",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventar-Tabelle mit dynamischen Spalten",
+    "LBL_INVENTORY_VARIABLES": "Zusätzliche Inventarvariablen"
   }
 }

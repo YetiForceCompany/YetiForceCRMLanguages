@@ -1,7 +1,7 @@
 {
   "php": {
     "Search Configuration": "Configuración de búsqueda",
-    "Search Setup": "Labels and searching",
+    "Search Setup": "Etiquetas y búsqueda",
     "Search": "Configuración de búsqueda",
     "LBL_Module_desc": "Este panel permite establecer etiquetas para los campos uitype 10 y para los mecanismos de búsqueda. Estos mecanismos funcionan de forma independiente – se pueden ver muchas columnas en un campo mientras se busca, pero cuando se selecciona un registro, se cargará un nombre de una etiqueta.",
     "Module": "Módulo",

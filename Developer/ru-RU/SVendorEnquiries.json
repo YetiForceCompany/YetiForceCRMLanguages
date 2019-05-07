@@ -2,7 +2,7 @@
   "php": {
     "SVendorEnquiries": "Запросы поставщикам",
     "SINGLE_SVendorEnquiries": "Запрос поставщику",
-    "LBL_SCALCULATIONS_INFORMATION": "Basic information",
+    "LBL_SCALCULATIONS_INFORMATION": "Основная информация",
     "LBL_CUSTOM_INFORMATION": "Системная информация",
     "LBL_DESCRIPTION_INFORMATION": "Описание",
     "LBL_STATISTICS": "Статистика",

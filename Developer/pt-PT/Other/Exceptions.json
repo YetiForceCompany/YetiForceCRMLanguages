@@ -28,6 +28,7 @@
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "O diretório não pode ser criado",
     "ERR_AUTO_LOGOUT": "Logged out automatically due to no activity",
     "ERR_FIELD_NOT_FOUND": "Field not found",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Número de argumentos não permitidos (%d %s em %s)",
     "ERR_NO_VALUE": "No value",
     "ERR_BODY_IS_EMPTY": "Corpo está vazio",
     "ERR_API": "Error in API",

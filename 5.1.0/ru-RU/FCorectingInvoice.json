@@ -15,23 +15,23 @@
     "FL_TOTAL": "Чистый",
     "FL_GROSS": "Валовый",
     "FL_STATUS": "Статус",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "PLL_CASH": "Наличные",
+    "PLL_TRANSFER": "Банковский перевод",
+    "PLL_WIRE_TRANSFER": "Электронный перевод",
     "LBL_YEAR": "Год",
     "FL_INVOICE": "Счет",
-    "LBL_COMMENTS": "Comments",
-    "FL_EXTERNAL_COMMENT": "External comment",
-    "FL_INTERNAL_COMMENT": "Internal comment",
-    "LBL_BEFORE_CORRECTION": "Before correction",
-    "LBL_AFTER_CORRECTION": "After correction",
-    "LBL_CHOOSE_INVOICE": "Select invoice to be corrected",
-    "LBL_COPY_FROM_INVOICE": "Copy from initial invoice",
-    "LBL_INVOICE_INFO": "Initial invoice fields - before corrections.",
-    "LBL_AFTER_INVOICE_INFO": "How should final invoice look like after correction.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Invoice fields to be corrected. Copy all fields from initial invoice and change values as needed."
+    "LBL_COMMENTS": "Комментарии",
+    "FL_EXTERNAL_COMMENT": "Внешний комментарий",
+    "FL_INTERNAL_COMMENT": "Внутренний комментарий",
+    "LBL_BEFORE_CORRECTION": "Перед исправлением",
+    "LBL_AFTER_CORRECTION": "После исправления",
+    "LBL_CHOOSE_INVOICE": "Выберите счёт для исправления",
+    "LBL_COPY_FROM_INVOICE": "Копировать из первоначального счета",
+    "LBL_INVOICE_INFO": "Первоначальные поля счета - перед исправлениями.",
+    "LBL_AFTER_INVOICE_INFO": "Как должен выглядеть конечный после коррекции.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Поля счета для исправления. Скопируйте все поля из первоначального счета и, если это необходимо, измените их значения."
   },
   "js": {
-    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Select invoice to be corrected"
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Выберите счёт для исправления"
   }
 }

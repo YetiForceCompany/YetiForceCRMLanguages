@@ -22,7 +22,7 @@
     "PLL_ACTIVE": "Ενεργή",
     "PLL_INACTIVE": "Ανενεργή",
     "LBL_CREATE_RECORD": "Δημιουργία",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Αποθηκευτικός χώρος"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;",

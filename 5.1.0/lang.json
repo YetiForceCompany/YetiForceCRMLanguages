@@ -32,7 +32,7 @@
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 99,
-        "time": "2019-04-26 13:18:18"
+        "time": "2019-05-07 08:08:33"
     },
     "fa-IR": {
         "prefix": "fa-IR",
@@ -53,7 +53,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-04-19 08:24:11"
+        "time": "2019-05-07 08:04:09"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -94,8 +94,8 @@
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 78,
-        "time": "2019-04-26 13:17:23"
+        "progress": 86,
+        "time": "2019-05-07 08:07:28"
     },
     "sl-SI": {
         "prefix": "sl-SI",
