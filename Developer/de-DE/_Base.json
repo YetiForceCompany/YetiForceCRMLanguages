@@ -1675,8 +1675,8 @@
     "JS_NO_DESKTOP_PERMISSION": "Die Einwilligung für Benachrichtigungen ist fehlgeschlagen, bitte überprüfen Sie Ihre Browser-Einstellungen.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Gesicherte Adressdaten",
     "JS_UNEXPECTED_ERROR": "Es ist ein unerwarteter Fehler aufgetreten",
-    "JS_ENTERED_VALUE_IS_TOO_SHORT": "Entered value is too short",
-    "JS_ENTERED_VALUE_IS_TOO_LONG": "Entered value is too long",
+    "JS_ENTERED_VALUE_IS_TOO_SHORT": "Eingegebener Wert ist zu kurz",
+    "JS_ENTERED_VALUE_IS_TOO_LONG": "Eingegebener Wert ist zu lang",
     "JS_NOT_ALLOWED_VALUE": "Ungültigen Wert eingegeben"
   }
 }

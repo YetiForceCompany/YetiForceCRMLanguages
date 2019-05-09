@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Editar Visualização Agenda",
     "LBL_EVENT": "Evento",
     "LBL_EVENT_INFORMATION": "Detalhes do Evento",
-    "LBL_EVENT_OR_TASK": "Evento \/ Tarefa",
+    "LBL_EVENT_OR_TASK": "Evento / Tarefa",
     "LBL_EVENTS": "Eventos",
     "LBL_FINISH": "Finalizar",
     "LBL_IMPORT_RECORDS": "Importar Registros",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Remind after the selected number of minutes",
     "LBL_WORK_DAYS": "Dias uteis",
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Segundo nível subprocesso"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Segundo nível subprocesso",
+    "LBL_GROUP_NAME": "Nome do grupo"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "A visualização da Agenda foi adicionada com sucesso",

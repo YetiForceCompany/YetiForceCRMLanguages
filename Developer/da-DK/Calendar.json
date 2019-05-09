@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Redigering af kalenderens udseende",
     "LBL_EVENT": "Begivenhed",
     "LBL_EVENT_INFORMATION": "Begivenhedsoplysninger",
-    "LBL_EVENT_OR_TASK": "Begivenhed \/ To do",
+    "LBL_EVENT_OR_TASK": "Begivenhed / To do",
     "LBL_EVENTS": "Begivenheder",
     "LBL_FINISH": "Færdig",
     "LBL_IMPORT_RECORDS": "Importer poster",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Remind after the selected number of minutes",
     "LBL_WORK_DAYS": "Work days",
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "LBL_GROUP_NAME": "Group name"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

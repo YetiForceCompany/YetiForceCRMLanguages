@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Editer la vue Calendrier",
     "LBL_EVENT": "Événement",
     "LBL_EVENT_INFORMATION": "Détails de l'événement",
-    "LBL_EVENT_OR_TASK": "Événement \/ Tâches",
+    "LBL_EVENT_OR_TASK": "Événement / Tâches",
     "LBL_EVENTS": "Événements",
     "LBL_FINISH": "Terminer",
     "LBL_IMPORT_RECORDS": "Importer des enregistrements",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Remind after the selected number of minutes",
     "LBL_WORK_DAYS": "Jours travaillés",
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau",
+    "LBL_GROUP_NAME": "Group name"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vue calendrier ajoutée avec succès",

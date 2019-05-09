@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Urejanje pogleda koledarja",
     "LBL_EVENT": "Dogodek",
     "LBL_EVENT_INFORMATION": "Podrobnosti dogodka",
-    "LBL_EVENT_OR_TASK": "Dogodek \/ naloga",
+    "LBL_EVENT_OR_TASK": "Dogodek / naloga",
     "LBL_EVENTS": "Dogodki",
     "LBL_FINISH": "Zaključeno",
     "LBL_IMPORT_RECORDS": "Uvozite zapise",
@@ -76,10 +76,10 @@
     "Send Notification": "Pošlji obvestilo",
     "SINGLE_Calendar": "Naloga",
     "SINGLE_Events": "Dogodek",
-    "Start Date & Time": "Datum začetka\/čas",
-    "End Date & Time": "Dan zaključka\/Ura",
+    "Start Date & Time": "Datum začetka/čas",
+    "End Date & Time": "Dan zaključka/Ura",
     "Start Date &amp; Time": "Datum začetka-Čas",
-    "End Date &amp; Time": "Datum zaključka \/ čas",
+    "End Date &amp; Time": "Datum zaključka / čas",
     "End Date": "Datum zaključka",
     "Subject": "Zadeva",
     "Tasks": "Naloga",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Spomni me  po izbranem številu minut",
     "LBL_WORK_DAYS": "Delovni dnevi",
     "LBL_EDIT_FROM_CALENDAR": "Uredi iz koledarja",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja",
+    "LBL_GROUP_NAME": "Group name"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Pogled koledarja uspešno dodan",

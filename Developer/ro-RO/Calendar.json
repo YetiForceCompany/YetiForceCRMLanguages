@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Editare vizualizare Calendar",
     "LBL_EVENT": "Eveniment",
     "LBL_EVENT_INFORMATION": "Detalii eveniment",
-    "LBL_EVENT_OR_TASK": "Eveniment \/ De Facut",
+    "LBL_EVENT_OR_TASK": "Eveniment / De Facut",
     "LBL_EVENTS": "Evenimente",
     "LBL_FINISH": "Sfarsit",
     "LBL_IMPORT_RECORDS": "Importa inregistrari",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Remind after the selected number of minutes",
     "LBL_WORK_DAYS": "Work days",
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "LBL_GROUP_NAME": "Group name"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vizualizare Calendar adaugata cu succes",

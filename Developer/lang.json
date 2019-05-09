@@ -3,126 +3,126 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 37,
-        "time": "2019-05-07 08:00:05"
+        "progress": 6,
+        "time": "2019-05-09 09:06:39"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
-        "progress": 0,
-        "time": "2019-05-07 08:01:11"
+        "progress": 14,
+        "time": "2019-05-09 09:07:42"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 98,
-        "time": "2019-05-07 08:02:48"
+        "progress": 100,
+        "time": "2019-05-09 09:09:20"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 100,
-        "time": "2019-05-07 08:03:20"
+        "time": "2019-05-09 09:09:52"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
-        "progress": 100,
-        "time": "2019-05-07 08:08:17"
+        "progress": 99,
+        "time": "2019-05-09 09:14:26"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
-        "progress": 0,
-        "time": "2019-05-07 08:04:26"
+        "progress": 10,
+        "time": "2019-05-09 09:10:52"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 67,
-        "time": "2019-05-07 08:02:16"
+        "progress": 85,
+        "time": "2019-05-09 09:08:46"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-05-07 08:03:52"
+        "time": "2019-05-09 09:10:22"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
-        "progress": 6,
-        "time": "2019-05-07 08:01:42"
+        "progress": 23,
+        "time": "2019-05-09 09:08:14"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2019-05-07 08:04:58"
+        "time": "2019-05-09 09:11:22"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 0,
-        "time": "2019-05-07 08:06:03"
+        "progress": 75,
+        "time": "2019-05-09 09:12:23"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
-        "progress": 69,
-        "time": "2019-05-07 08:05:31"
+        "progress": 30,
+        "time": "2019-05-09 09:11:52"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
-        "progress": 0,
-        "time": "2019-05-07 08:06:35"
+        "progress": 85,
+        "time": "2019-05-09 09:12:53"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 0,
-        "time": "2019-05-07 08:07:10"
+        "progress": 91,
+        "time": "2019-05-09 09:13:24"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 13,
-        "time": "2019-05-07 08:07:44"
+        "progress": 78,
+        "time": "2019-05-09 09:13:55"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
-        "progress": 1,
-        "time": "2019-05-07 08:08:48"
+        "progress": 36,
+        "time": "2019-05-09 09:14:57"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 0,
-        "time": "2019-05-07 08:09:20"
+        "progress": 43,
+        "time": "2019-05-09 09:15:29"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
-        "progress": 2,
-        "time": "2019-05-07 08:00:39"
+        "progress": 8,
+        "time": "2019-05-09 09:07:11"
     }
 }

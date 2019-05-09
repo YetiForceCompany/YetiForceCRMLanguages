@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Edycja kalendarza",
     "LBL_EVENT": "Termin",
     "LBL_EVENT_INFORMATION": "Szczegóły wydarzenia",
-    "LBL_EVENT_OR_TASK": "Termin \/ Zadanie",
+    "LBL_EVENT_OR_TASK": "Termin / Zadanie",
     "LBL_EVENTS": "Wydarzenia",
     "LBL_FINISH": "Zakończ",
     "LBL_IMPORT_RECORDS": "Importuj rekordy",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Przypomnij po wybranej liczbie minut",
     "LBL_WORK_DAYS": "Dni robocze",
     "LBL_EDIT_FROM_CALENDAR": "Edytuj z kalendarza",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu",
+    "LBL_GROUP_NAME": "Nazwa grupy"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Dodano kalendarz",

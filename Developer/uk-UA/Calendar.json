@@ -38,7 +38,7 @@
     "LBL_EDITING_CALENDAR_VIEW": "Редагування вигляду календаря",
     "LBL_EVENT": "Подія",
     "LBL_EVENT_INFORMATION": "Деталі події",
-    "LBL_EVENT_OR_TASK": "Подія \/ Завдання",
+    "LBL_EVENT_OR_TASK": "Подія / Завдання",
     "LBL_EVENTS": "Події",
     "LBL_FINISH": "Готово",
     "LBL_IMPORT_RECORDS": "Імпортувати записи",
@@ -189,7 +189,8 @@
     "LBL_REMAIND_MINS": "Нагадати через вибрану кількість годин",
     "LBL_WORK_DAYS": "Робочі дні",
     "LBL_EDIT_FROM_CALENDAR": "Редагувати з календаря",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "LBL_GROUP_NAME": "Group name"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Подання календаря додано успішно",
