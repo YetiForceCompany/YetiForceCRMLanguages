@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "SLA son kullanma tarihi",
     "FL_REPORT_TIME": "Rapor zamanı",
     "FL_RESPONSE_TIME": "Yanıt süresi",
+    "FL_HELP_DESK_PARENT": "Parent ticket",
     "PLL_SUBMITTED_COMMENTS": "Gönderilen yorumlar",
     "PLL_FOR_APPROVAL": "Onay için",
     "PLL_TO_CLOSE": "Kapatmak için",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Grafikler",
     "Rejected": "Reddedildi",
     "Answered": "Gerçekleşmeyi bekliyor",
-    "P&S Sold": "Satılan Ürün \/ Hizmet",
+    "P&S Sold": "Product / Service",
     "Record Id": "Kayıt ID",
     "ticketpriorities": "öncelik",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Bu desteğin, herhangi bir Hesapla ilgisi yoktur. Lütfen bir ilişki oluşturun. ",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Kapalı",
     "Services": "hizmetler",
     "Support": "destek",
-    "Administrative": "idari"
+    "Administrative": "idari",
+    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_MASS_STATUS_CHANGE": "Mass status change",
+    "LBL_RECORDS": "Records to change",
+    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
+    "LBL_UPDATE": "Update"
   }
 }

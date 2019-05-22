@@ -4,125 +4,132 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 6,
-        "time": "2019-05-09 09:06:39"
+        "time": "2019-05-22 13:16:39"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
         "progress": 14,
-        "time": "2019-05-09 09:07:42"
+        "time": "2019-05-22 13:17:44"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 100,
-        "time": "2019-05-09 09:09:20"
+        "progress": 99,
+        "time": "2019-05-22 13:19:54"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 100,
-        "time": "2019-05-09 09:09:52"
+        "progress": 99,
+        "time": "2019-05-22 13:20:26"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 99,
-        "time": "2019-05-09 09:14:26"
+        "time": "2019-05-22 13:24:59"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 10,
-        "time": "2019-05-09 09:10:52"
+        "time": "2019-05-22 13:21:28"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 85,
-        "time": "2019-05-09 09:08:46"
+        "progress": 84,
+        "time": "2019-05-22 13:19:20"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-05-09 09:10:22"
+        "time": "2019-05-22 13:20:58"
+    },
+    "nl-BE": {
+        "prefix": "nl-BE",
+        "crowdinCode": "nl-BE",
+        "name": "Dutch, Belgium",
+        "progress": 2,
+        "time": "2019-05-22 13:18:48"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 23,
-        "time": "2019-05-09 09:08:14"
+        "time": "2019-05-22 13:18:16"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
-        "progress": 100,
-        "time": "2019-05-09 09:11:22"
+        "progress": 99,
+        "time": "2019-05-22 13:21:58"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 75,
-        "time": "2019-05-09 09:12:23"
+        "time": "2019-05-22 13:22:58"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 30,
-        "time": "2019-05-09 09:11:52"
+        "time": "2019-05-22 13:22:28"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 85,
-        "time": "2019-05-09 09:12:53"
+        "time": "2019-05-22 13:23:28"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 91,
-        "time": "2019-05-09 09:13:24"
+        "time": "2019-05-22 13:23:58"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 78,
-        "time": "2019-05-09 09:13:55"
+        "progress": 79,
+        "time": "2019-05-22 13:24:29"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
-        "progress": 36,
-        "time": "2019-05-09 09:14:57"
+        "progress": 35,
+        "time": "2019-05-22 13:25:36"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 43,
-        "time": "2019-05-09 09:15:29"
+        "time": "2019-05-22 13:26:16"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 8,
-        "time": "2019-05-09 09:07:11"
+        "time": "2019-05-22 13:17:13"
     }
 }

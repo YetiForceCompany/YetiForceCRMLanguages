@@ -24,7 +24,6 @@
     "FL_POS": "POS",
     "FL_NUMBER_TABLE": "Αριθμός τραπεζιού",
     "FL_NUMBER_SEAT": "Αριθμός θέσης",
-    "FL_STORAGE": "Αποθ. χώρος",
     "PLL_DRAFT": "Προσχέδιο",
     "PLL_IN_REALIZATION": "Σε υλοποίηση",
     "PLL_FOR_VERIFICATION": "Για επαλήθευση",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Συγχρονισμός POS",
     "FL_SOURCE": "Πηγή",
     "PLL_MANUAL": "Χειροκίνητα",
-    "PLL_SHOP": "Κατάστημα"
+    "PLL_SHOP": "Κατάστημα",
+    "FL_STORAGE": "Αποθ. χώρος"
   }
 }

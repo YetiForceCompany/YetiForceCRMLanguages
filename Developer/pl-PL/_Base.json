@@ -863,6 +863,8 @@
     "does not equal": "nie jest równy",
     "less than or equal to": "jest mniejszy lub równy",
     "equal to": "równy",
+    "Record is open": "Rekord jest otwarty",
+    "Record is closed": "Rekord jest zamknięty",
     "None": "Brak",
     "greater than or equal to": "jest większy lub równy",
     "before": "przed",
@@ -1285,6 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Masowa aktywacja",
     "LBL_MASS_MOVE_TO_TRASH": "Masowe przenoszenie do kosza",
     "LBL_DELETE_RECORD": "Usuń rekord",
+    "LBL_DUPLICATE_LOGIN": "Login o takiej nazwie już istnieje.",
     "LBL_MOVE_TO_TRASH": "Przenieś do kosza",
     "LBL_MOVE_TO_TRASH_DESC": "Przeniesienie rekordu do kosza zmienia tylko stan rekordu nie zmieniając pozostałych informacji. Czy na pewno chcesz przenieść ten rekord?",
     "LBL_DELETE_RECORD_COMPLETELY": "Usuń rekord z systemu",
@@ -1341,7 +1344,8 @@
     "LBL_SAVE_SCHEME": "Zapisz schemat",
     "LBL_SCHEME_SAVED": "Schemat kolumn pomyślnie zapisany",
     "LBL_STANDARD_TEMPLATES_DESC": "Standardowe szablony to te, które mają statyczne kolumny modułu zaawansowanego.",
-    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamiczne szablony to te, które zawierają zmienne dynamicznych kolumn modułu zaawansowanego.\nW przypadku kolumn dynamicznych można wybrać kolumny dla wybranych rekordów za każdym razem, gdy chcesz wygenerować PDF lub zapisać te kolumny jako schemat dla wybranych rekordów."
+    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamiczne szablony to te, które zawierają zmienne dynamicznych kolumn modułu zaawansowanego.\nW przypadku kolumn dynamicznych można wybrać kolumny dla wybranych rekordów za każdym razem, gdy chcesz wygenerować PDF lub zapisać te kolumny jako schemat dla wybranych rekordów.",
+    "LBL_FOR_THE_PORTAL": "Dla portalu"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

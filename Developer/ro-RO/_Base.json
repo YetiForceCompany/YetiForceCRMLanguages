@@ -863,6 +863,8 @@
     "does not equal": "nu este egal",
     "less than or equal to": "mai putin sau egal cu",
     "equal to": "Egal cu",
+    "Record is open": "Record is open",
+    "Record is closed": "Record is closed",
     "None": "Nimic",
     "greater than or equal to": "mai mare sau egal cu",
     "before": "inainte",
@@ -1285,6 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Activare multipla",
     "LBL_MASS_MOVE_TO_TRASH": "Mutare multipla in Cosul de gunoi",
     "LBL_DELETE_RECORD": "Sterge inregistrare",
+    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
     "LBL_MOVE_TO_TRASH": "Mutare in Cosul de gunoi",
     "LBL_MOVE_TO_TRASH_DESC": "Mutarea unei inregistrari in Cosul de gunoi modifica numai starea inregistrarii fara a schimba restul informatiilor. Sigur doriti sa mutati inregistrarea?",
     "LBL_DELETE_RECORD_COMPLETELY": "Sterge inregistrare din sistem",
@@ -1341,7 +1344,8 @@
     "LBL_SAVE_SCHEME": "Save scheme",
     "LBL_SCHEME_SAVED": "Column scheme was successfully saved.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standard templates are those that have static inventory columns.",
-    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s)."
+    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s).",
+    "LBL_FOR_THE_PORTAL": "For the portal"
   },
   "js": {
     "JS_APPROVE": "Approve",

@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Association européenne",
     "PLL_UFCIITS": "Organisme de placements collectif en valeurs mobilières (OPCVM)",
     "LBL_DEACTIVATED_BY": "Compte désactivé par",
-    "SINGLE_Vendors": "Vendeur"
+    "SINGLE_Vendors": "Vendeur",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Le nom du compte existe déjà. Voulez-vous créer un enregistrement en double ?",

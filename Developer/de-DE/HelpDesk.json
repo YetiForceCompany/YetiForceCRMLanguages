@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "SLA Ablaufdatum",
     "FL_REPORT_TIME": "Meldezeit",
     "FL_RESPONSE_TIME": "Antwortzeit",
+    "FL_HELP_DESK_PARENT": "Parent ticket",
     "PLL_SUBMITTED_COMMENTS": "Gesendete Kommentare",
     "PLL_FOR_APPROVAL": "Zur Freigabe",
     "PLL_TO_CLOSE": "Zum Schließen",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Diagramme",
     "Rejected": "Abgelehnt",
     "Answered": "Auf Umsetzung warten",
-    "P&S Sold": "Produkt\/Dienstleistung verkauft",
+    "P&S Sold": "Produkt / Service",
     "Record Id": "Datensatz Id",
     "ticketpriorities": "Priorität",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Das Ticket ist nicht mit einer Organisation verknüpft. Bitte verküpfen Sie dies Ticket mit einer Organisation.",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Geschlossen",
     "Services": "Dienste",
     "Support": "Support",
-    "Administrative": "administrativ"
+    "Administrative": "administrativ",
+    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_MASS_STATUS_CHANGE": "Mass status change",
+    "LBL_RECORDS": "Records to change",
+    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
+    "LBL_UPDATE": "Update"
   }
 }

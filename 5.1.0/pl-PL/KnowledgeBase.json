@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "Baza wiedzy",
     "SINGLE_KnowledgeBase": "Baza wiedzy",
-    "LBL_CUSTOM_INFORMATION": "Informacje opisowe",
+    "LBL_CUSTOM_INFORMATION": "Informacje dodatkowe",
     "FL_SUBJECT": "Tytuł",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Informacje podstawowe",
     "FL_CONTENT": "Treść",

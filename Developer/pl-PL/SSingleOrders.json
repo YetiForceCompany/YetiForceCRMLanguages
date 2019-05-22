@@ -24,7 +24,6 @@
     "FL_POS": "POS",
     "FL_NUMBER_TABLE": "Numer stolika",
     "FL_NUMBER_SEAT": "Numer siedzenia",
-    "FL_STORAGE": "Magazyn",
     "PLL_DRAFT": "Wersja robocza",
     "PLL_IN_REALIZATION": " W realizacji",
     "PLL_FOR_VERIFICATION": "Do weryfikacji",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Synchronizacja POS",
     "FL_SOURCE": "Źródło",
     "PLL_MANUAL": "Manualnie",
-    "PLL_SHOP": "Sklep"
+    "PLL_SHOP": "Sklep",
+    "FL_STORAGE": "Magazyn"
   }
 }

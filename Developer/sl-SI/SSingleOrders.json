@@ -24,7 +24,6 @@
     "FL_POS": "POS",
     "FL_NUMBER_TABLE": "Št. regala",
     "FL_NUMBER_SEAT": "Številka pozicije",
-    "FL_STORAGE": "Skladišče",
     "PLL_DRAFT": "Osnutek",
     "PLL_IN_REALIZATION": "V realizaciji",
     "PLL_FOR_VERIFICATION": "V potrditvi",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Sinhronizacija POS",
     "FL_SOURCE": "Vir",
     "PLL_MANUAL": "Navodila",
-    "PLL_SHOP": "Trgovina"
+    "PLL_SHOP": "Trgovina",
+    "FL_STORAGE": "Skladišče"
   }
 }

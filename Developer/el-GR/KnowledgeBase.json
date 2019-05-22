@@ -2,6 +2,7 @@
   "php": {
     "KnowledgeBase": "Γνωσιακή Βάση",
     "SINGLE_KnowledgeBase": "Γνωσιακή Βάση",
+    "BTN_KNOWLEDGE_BASE": "Γνωσιακή Βάση",
     "LBL_CUSTOM_INFORMATION": "Προσθετες πληροφορίες",
     "FL_SUBJECT": "Θέμα",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Βασικές πληροφορίες",
@@ -27,12 +28,10 @@
     "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
     "LBL_ATTENTION_BLOCK": "Παρατηρήσεις",
     "LBL_FULL_SCREEN": "Πλήρης Οθόνη",
-    "LBL_WIDTH_HEIGHT": "Πλάτος x ύψος",
-    "LBL_ALLOWED_WIDTH_HEIGHT": "Το μέγιστο πλάτος x ύψος πρέπει να είναι",
-    "LBL_MAX_FILE_SIZE": "Μέγιστο μέγεθος αρχείου πρέπει να είναι",
-    "LBL_FILE_UPLOADED": "μεταφορτώθηκε με επιτυχία",
     "LBL_SIZE": "Μέγεθος",
-    "ERR_NOT_ALLOWED": "Το αρχείο έχει μη έγκυρη επέκταση",
-    "ERR_UNABLE_TO_UPLOAD": "Αδυναμία μεταφόρτωσης αρχείου"
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Σχετικές καταχωρήσεις",
+    "FL_INTRODUCTION": "Eισαγωγή",
+    "ERR_NOT_ALLOWED": "Το αρχείο έχει μη έγκυρη επέκταση"
   }
 }

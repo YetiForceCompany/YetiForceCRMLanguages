@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Evropsko združenje",
     "PLL_UFCIITS": "Podjetja za kolektivne naložbe v prenosljive vrednostne papirje",
     "LBL_DEACTIVATED_BY": "Podjetje deaktivirano od dne",
-    "SINGLE_Vendors": "Dobavitelj"
+    "SINGLE_Vendors": "Dobavitelj",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Podjetje s tem imenom že obstaja. Ali želite kljub narediti kopijo podjetja?",

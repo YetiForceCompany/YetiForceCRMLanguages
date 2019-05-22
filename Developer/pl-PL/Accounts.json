@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Stowarzyszenie europejskie",
     "PLL_UFCIITS": "Przedsiębiorstwo zbiorowego inwestowania w zbywalne papiery wartościowe",
     "LBL_DEACTIVATED_BY": "Kontrahent został dezaktywowany przez ",
-    "SINGLE_Vendors": "Dostawca"
+    "SINGLE_Vendors": "Dostawca",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Cennik"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Taki kontrahent istnieje. Czy chcesz utworzyć duplikat?",

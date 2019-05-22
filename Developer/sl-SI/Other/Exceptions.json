@@ -11,6 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "To geslo je že uporabljeno. Sistem ne dovoljuje uporabe istega gesla iz varnostnih razlogov.",
     "ERR_USER_EXISTS": "Uporabnik z istim uporabniškim imenom in funkcijo že obstaja (%s)",
     "ERR_NOT_ACCESSIBLE": "Dostop zavrnjen",
+    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Nimate dovoljenja, potrebna za ogled/urejanje tega zapisa. Če bi želeli imeti dovoljenje za ogled, se obrnite na skrbnika.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Vsebina spremenljivke (% s) se ne more zagnati kot funkcija",
     "ERR_DUPLICATES_VALUES_FOUND": "Najdene so podvojene vrednosti %s",
@@ -40,6 +41,7 @@
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Presežena omejitev ponavljanj.",
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Napaka pri razčlenjevanju odzivov strežnika",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Napaka pri povezavi z oddaljenim strežnikom",
-    "ERR_NO_INTERNET_CONNECTION": "Ni internetne povezave"
+    "ERR_NO_INTERNET_CONNECTION": "Ni internetne povezave",
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
   }
 }

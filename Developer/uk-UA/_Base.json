@@ -863,6 +863,8 @@
     "does not equal": "не дорівнює",
     "less than or equal to": "менше або дорівнює",
     "equal to": "дорівнює",
+    "Record is open": "Record is open",
+    "Record is closed": "Record is closed",
     "None": "--Немає--",
     "greater than or equal to": "більше або дорівнює",
     "before": "до",
@@ -1285,6 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Mass activate",
     "LBL_MASS_MOVE_TO_TRASH": "Mass move to Recycle Bin",
     "LBL_DELETE_RECORD": "Видалити запис",
+    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
     "LBL_MOVE_TO_TRASH": "Перемістити до кошика",
     "LBL_MOVE_TO_TRASH_DESC": "Переміщення запису до кошика лише змінює стан запису, не змінюючи решти інформації. Ви впевнені, що бажаєте перемістити запис?",
     "LBL_DELETE_RECORD_COMPLETELY": "Delete record from system",
@@ -1341,7 +1344,8 @@
     "LBL_SAVE_SCHEME": "Save scheme",
     "LBL_SCHEME_SAVED": "Column scheme was successfully saved.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standard templates are those that have static inventory columns.",
-    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s)."
+    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s).",
+    "LBL_FOR_THE_PORTAL": "For the portal"
   },
   "js": {
     "JS_APPROVE": "Схвалити",

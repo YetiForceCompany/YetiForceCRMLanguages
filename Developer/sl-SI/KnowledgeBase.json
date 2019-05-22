@@ -2,6 +2,7 @@
   "php": {
     "KnowledgeBase": "Baza znanja",
     "SINGLE_KnowledgeBase": "Baza znanja",
+    "BTN_KNOWLEDGE_BASE": "Baza znanja",
     "LBL_CUSTOM_INFORMATION": "Informacije po meri",
     "FL_SUBJECT": "Zadeva",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Osnovni podatki",
@@ -27,12 +28,10 @@
     "LBL_DESCRIPTION_BLOCK": "Opis",
     "LBL_ATTENTION_BLOCK": "Komentar",
     "LBL_FULL_SCREEN": "Celi zaslon",
-    "LBL_WIDTH_HEIGHT": "Širina x Višina",
-    "LBL_ALLOWED_WIDTH_HEIGHT": "Maksimalna širina x višina mora biti",
-    "LBL_MAX_FILE_SIZE": "Največja velikost datoteke",
-    "LBL_FILE_UPLOADED": "Uspešno naloženo",
     "LBL_SIZE": "Velikost",
-    "ERR_NOT_ALLOWED": "Datoteka nima dovoljene končnice",
-    "ERR_UNABLE_TO_UPLOAD": "Datoteke ni možno naložiti"
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Related entries",
+    "FL_INTRODUCTION": "Introduction",
+    "ERR_NOT_ALLOWED": "Datoteka nima dovoljene končnice"
   }
 }

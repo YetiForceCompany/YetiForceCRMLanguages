@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Aankondigingen",
+    "SINGLE_Announcements": "Aankondiging",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Basis Informatie",
+    "LBL_SUBJECT": "Onderwerp",
+    "LBL_NUMBER": "Nummer",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Herinneringstijd",
+    "FL_IS_MANDATORY": "Verplicht om te accepteren",
+    "PLL_DRAFT": "Ontwerp",
+    "PLL_FOR_ACCEPTANCE": "Voor goedkeuring",
+    "PLL_PUBLISHED": "Gepubliceerd",
+    "PLL_ARCHIVES": "Archived",
+    "LBL_REMIND_ME_LATER": "Remind me later",
+    "LBL_MARK_AS_READ": "Mark as read",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Was accepted?",
+    "LBL_DATE": "Read on"
+  }
+}

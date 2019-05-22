@@ -24,7 +24,6 @@
     "FL_POS": "TPV",
     "FL_NUMBER_TABLE": "Número de mesa",
     "FL_NUMBER_SEAT": "Número de asiento",
-    "FL_STORAGE": "Almacenamiento",
     "PLL_DRAFT": "Borrador",
     "PLL_IN_REALIZATION": "En proceso",
     "PLL_FOR_VERIFICATION": "Por Aprobar",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Sincronizar POS",
     "FL_SOURCE": "Origen",
     "PLL_MANUAL": "Manual",
-    "PLL_SHOP": "Tienda"
+    "PLL_SHOP": "Tienda",
+    "FL_STORAGE": "Almacenamiento"
   }
 }

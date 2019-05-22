@@ -24,7 +24,6 @@
     "FL_POS": "POS",
     "FL_NUMBER_TABLE": "Numéro de table",
     "FL_NUMBER_SEAT": "Numéro de siège",
-    "FL_STORAGE": "Rangement",
     "PLL_DRAFT": "Brouillon",
     "PLL_IN_REALIZATION": "En réalisation",
     "PLL_FOR_VERIFICATION": "En vérification",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Synchroniser POS",
     "FL_SOURCE": "Source",
     "PLL_MANUAL": "Manuel",
-    "PLL_SHOP": "Boutique"
+    "PLL_SHOP": "Boutique",
+    "FL_STORAGE": "Rangement"
   }
 }

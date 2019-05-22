@@ -1,8 +1,8 @@
 {
   "php": {
-    "Assets": "Risorse cedute",
-    "SINGLE_Assets": "Risorsa ceduta",
-    "LBL_ASSET_INFORMATION": "Informazioni base",
+    "Assets": "Beni",
+    "SINGLE_Assets": "Bene",
+    "LBL_ASSET_INFORMATION": "Dettagli del Cespite",
     "Asset No": "Progressivo",
     "Serial Number": "Numero seriale",
     "Date Sold": "Data vendita",
@@ -14,7 +14,7 @@
     "Notes": "Note",
     "LBL_GENERATE_EXTENSION": "Genera estensione",
     "FL_RENEWAL": "Rinnovo",
-    "LBL_SET_RENEWAL": "Rinnova",
+    "LBL_SET_RENEWAL": "Imposta rinnovo",
     "FL_RENEWAL_INVOICE": "Fattura rinnovo",
     "FL_CONTACT": "Contatto",
     "PLL_DRAFT": "Bozza",
@@ -34,7 +34,7 @@
     "attentions": "Commenti",
     "BLOCK_INFORMATION_TIME": "Informazioni di sistema",
     "LBL_ORDER_TIME": "Tempi di consegna",
-    "LBL_EXPIRING_SOLD_PRODUCTS": "Scadenza risorse cedute",
+    "LBL_EXPIRING_SOLD_PRODUCTS": "Scadenza prodotti venduti",
     "LBL_CHANGE_STATUS": "Cambia stato"
   }
 }

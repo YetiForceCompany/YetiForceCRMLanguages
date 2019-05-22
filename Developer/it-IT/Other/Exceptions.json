@@ -11,6 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Questa password è già stata utilizzata. Il sistema non consente di utilizzare la stessa password per motivi di sicurezza.",
     "ERR_USER_EXISTS": "L'utente con lo stesso nome utente e ruolo esiste già (%s)",
     "ERR_NOT_ACCESSIBLE": "Accesso negato",
+    "ERR_DUPLICATE_LOGIN": "Il login specificato esiste già.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Non hai i permessi necessari per visualizzare/modificare questo record. Contatta l'amministratore se vuoi i permessi.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Il contenuto della variabile (%s) non può essere usato come funzione",
     "ERR_DUPLICATES_VALUES_FOUND": "Trovati %s valori duplicati",
@@ -40,6 +41,7 @@
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Limite di iterazione superato.",
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Errore durante l'analisi delle risposte del server",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Errore durante la connessione al server remoto",
-    "ERR_NO_INTERNET_CONNECTION": "Nessuna connessione Internet"
+    "ERR_NO_INTERNET_CONNECTION": "Nessuna connessione Internet",
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "L'oggetto deve avere un'interfaccia %s"
   }
 }

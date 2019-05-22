@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Ευρωπαϊκή Ένωση",
     "PLL_UFCIITS": "Οργανισμοί συλλογικών επενδύσεων σε κινητές αξίες",
     "LBL_DEACTIVATED_BY": "Ο λογαριασμός απενεργοποιήθηκε από",
-    "SINGLE_Vendors": "Προμηθευτής"
+    "SINGLE_Vendors": "Προμηθευτής",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Το όνομα του πελάτη υπάρχει ήδη. Θέλετε να δημιουργήσετε μία διπλότυπη εγγραφή;",

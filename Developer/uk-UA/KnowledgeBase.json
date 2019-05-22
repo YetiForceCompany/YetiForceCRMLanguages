@@ -2,6 +2,7 @@
   "php": {
     "KnowledgeBase": "База знань",
     "SINGLE_KnowledgeBase": "База знань",
+    "BTN_KNOWLEDGE_BASE": "База знань",
     "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
     "FL_SUBJECT": "Тема",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Основна інформація",
@@ -27,12 +28,10 @@
     "LBL_DESCRIPTION_BLOCK": "Опис",
     "LBL_ATTENTION_BLOCK": "Коментарі",
     "LBL_FULL_SCREEN": "На весь екран",
-    "LBL_WIDTH_HEIGHT": "Ширина\/Висота",
-    "LBL_ALLOWED_WIDTH_HEIGHT": "Максимальна Ширина\/Висота має бути",
-    "LBL_MAX_FILE_SIZE": "Максимальний розмір файлу має бути",
-    "LBL_FILE_UPLOADED": "успішно завантажено",
     "LBL_SIZE": "Розмір",
-    "ERR_NOT_ALLOWED": "Файл не має дозволеного типу розширення",
-    "ERR_UNABLE_TO_UPLOAD": "Не вдалося завантажити файл"
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Related entries",
+    "FL_INTRODUCTION": "Introduction",
+    "ERR_NOT_ALLOWED": "Файл не має дозволеного типу розширення"
   }
 }

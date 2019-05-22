@@ -863,6 +863,8 @@
     "does not equal": "différent de",
     "less than or equal to": "égal ou inférieur que",
     "equal to": "égal à",
+    "Record is open": "Record is open",
+    "Record is closed": "Record is closed",
     "None": "Aucun",
     "greater than or equal to": "égal ou plus grand que",
     "before": "plus tôt",
@@ -1285,6 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Activation de masse",
     "LBL_MASS_MOVE_TO_TRASH": "Déplacement de masse vers la corbeille",
     "LBL_DELETE_RECORD": "Supprimer enregistrement",
+    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
     "LBL_MOVE_TO_TRASH": "Déplacement vers la corbeille",
     "LBL_MOVE_TO_TRASH_DESC": "Le déplacement d'un enregistrement vers la corbeille ne modifie que l'état de l'enregistrement sans modifier le reste des informations. Êtes-vous sûr de vouloir déplacer le disque?",
     "LBL_DELETE_RECORD_COMPLETELY": "Supprimer l'enregistrement du système",
@@ -1341,7 +1344,8 @@
     "LBL_SAVE_SCHEME": "Save scheme",
     "LBL_SCHEME_SAVED": "Column scheme was successfully saved.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standard templates are those that have static inventory columns.",
-    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s)."
+    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamic templates are those that contain dynamic inventory columns variable.\nWith dynamic columns, you can chose columns for selected record(s) each time you want to generate pdf or save these columns as a scheme for selected record(s).",
+    "LBL_FOR_THE_PORTAL": "For the portal"
   },
   "js": {
     "JS_APPROVE": "Approve",

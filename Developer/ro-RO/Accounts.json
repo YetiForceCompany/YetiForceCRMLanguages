@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Asociatie europeana",
     "PLL_UFCIITS": "Obiective de plasamentcolectiv in valori mobiliare",
     "LBL_DEACTIVATED_BY": "Cont dezactivat de ",
-    "SINGLE_Vendors": "Furnizor"
+    "SINGLE_Vendors": "Furnizor",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Numele clientului exista deja.Vrei sa creezi o inregistrare duplicat?",

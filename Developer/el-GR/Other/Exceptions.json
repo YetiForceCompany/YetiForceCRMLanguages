@@ -11,6 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Αυτός ο κωδικός πρόσβασης έχει ήδη χρησιμοποιηθεί. Το σύστημα δεν επιτρέπει να χρησιμοποιηθεί ο ίδιος κωδικός πρόσβασης για λόγους ασφαλείας.",
     "ERR_USER_EXISTS": "Υπάρχει ήδη χρήστης με το ίδιο όνομα χρήστη και τον ίδιο ρόλο (%s)",
     "ERR_NOT_ACCESSIBLE": "Δεν επιτρέπεται η πρόσβαση",
+    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Δεν έχετε τα απαιτούμενα δικαιώματα για την προβολή / επεξεργασία αυτής της εγγραφής. Επικοινωνήστε με τον διαχειριστή εάν πρέπει να έχετε την άδεια να το δείτε.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Το περιεχόμενο της μεταβλητής (%s) δεν μπορεί να κληθεί ως συνάρτηση",
     "ERR_DUPLICATES_VALUES_FOUND": "Βρέθηκαν διπλότυπες τιμές % s",
@@ -40,6 +41,7 @@
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Υπέρβαση του ορίου επαναλήψεων.",
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Σφάλμα κατά την ανάλυση των απαντήσεων του server",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Σφάλμα κατά τη σύνδεση με τον απομακρυσμένο Server",
-    "ERR_NO_INTERNET_CONNECTION": "Χωρίς σύνδεση στο διαδίκτυο"
+    "ERR_NO_INTERNET_CONNECTION": "Χωρίς σύνδεση στο διαδίκτυο",
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
   }
 }

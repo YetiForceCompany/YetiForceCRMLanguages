@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Sociedad Colectiva",
     "PLL_UFCIITS": "Fondos de inversión de UFCIITS",
     "LBL_DEACTIVATED_BY": "Empresa desactivado por ",
-    "SINGLE_Vendors": "Proveedor"
+    "SINGLE_Vendors": "Proveedor",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "El nombre de la Empresa ya existe. ¿Quieres crear un registro duplicado?",

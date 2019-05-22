@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "Date d'expiration du contrat de service",
     "FL_REPORT_TIME": "Heure du rapport",
     "FL_RESPONSE_TIME": "Temps de réponse",
+    "FL_HELP_DESK_PARENT": "Parent ticket",
     "PLL_SUBMITTED_COMMENTS": "Commentaires soumis",
     "PLL_FOR_APPROVAL": "Pour approbation",
     "PLL_TO_CLOSE": "A fermer",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Graphiques",
     "Rejected": "Rejeté",
     "Answered": "En attente de réalisation",
-    "P&S Sold": "Produit \/ Service vendu",
+    "P&S Sold": "Product / Service",
     "Record Id": "N° de l'enregistrement",
     "ticketpriorities": "priorité",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Le ticket n'est associé à aucun compte. Veuillez créer une relation.",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Fermé",
     "Services": "services",
     "Support": "support",
-    "Administrative": "administrative"
+    "Administrative": "administrative",
+    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_MASS_STATUS_CHANGE": "Mass status change",
+    "LBL_RECORDS": "Records to change",
+    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
+    "LBL_UPDATE": "Update"
   }
 }

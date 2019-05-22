@@ -11,6 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Aceasta parola a fost deja utilizata. Din motive de securitate sistemul nu accepta parole deja utilizate.",
     "ERR_USER_EXISTS": "Utilizator cu acelasi nume d eutilizator si rol exista deja (%s)",
     "ERR_NOT_ACCESSIBLE": "Acces respins",
+    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Nu ai permisiunile necesare pentru a vedea/modifica aceasta inregistrare. Contacteaza administratorul programului daca ai nevoie sa vezi aceasta inregistrare",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Continutul variabilei (%s) nu poate fi declansat ca functie",
     "ERR_DUPLICATES_VALUES_FOUND": "Valori duplicate %s gasite",
@@ -40,6 +41,7 @@
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Exceeded iteration limit.",
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Error while parsing server responses",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Error while connecting to remote server",
-    "ERR_NO_INTERNET_CONNECTION": "No Internet connection"
+    "ERR_NO_INTERNET_CONNECTION": "No Internet connection",
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
   }
 }

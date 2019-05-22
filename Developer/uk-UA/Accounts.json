@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Європейська асоціація",
     "PLL_UFCIITS": "Організація коллективного інвестування у цінні папери",
     "LBL_DEACTIVATED_BY": "Контрагент деактивований;",
-    "SINGLE_Vendors": "Постачальник"
+    "SINGLE_Vendors": "Постачальник",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Державна установа вже існує. Створити дублікат?",

@@ -2,6 +2,7 @@
   "php": {
     "KnowledgeBase": "Wissensbasis",
     "SINGLE_KnowledgeBase": "Wissensbasis",
+    "BTN_KNOWLEDGE_BASE": "Wissensbasis",
     "LBL_CUSTOM_INFORMATION": "Kundeninformation",
     "FL_SUBJECT": "Betreff",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Information",
@@ -27,12 +28,10 @@
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "LBL_FULL_SCREEN": "Vollbild",
-    "LBL_WIDTH_HEIGHT": "Breite x Höhe",
-    "LBL_ALLOWED_WIDTH_HEIGHT": "Die maximale Breite x Höhe ist",
-    "LBL_MAX_FILE_SIZE": "Maximale Dateigröße ist",
-    "LBL_FILE_UPLOADED": "Erfolgreich geladen",
     "LBL_SIZE": "Größe",
-    "ERR_NOT_ALLOWED": "Die Datei hat nicht die erlaubten Dateiendung",
-    "ERR_UNABLE_TO_UPLOAD": "Datei kann nicht geladen werden"
+    "FL_FEATURED": "Empfohlene",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Verwandte Einträge",
+    "FL_INTRODUCTION": "Einführung",
+    "ERR_NOT_ALLOWED": "Die Datei hat nicht die erlaubten Dateiendung"
   }
 }

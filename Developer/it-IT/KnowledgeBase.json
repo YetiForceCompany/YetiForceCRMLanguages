@@ -2,6 +2,7 @@
   "php": {
     "KnowledgeBase": "Conoscenze di base",
     "SINGLE_KnowledgeBase": "Conoscenza di base",
+    "BTN_KNOWLEDGE_BASE": "Conoscenze di base",
     "LBL_CUSTOM_INFORMATION": "Informazioni personalizzate",
     "FL_SUBJECT": "Oggetto",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Informazioni base",
@@ -27,12 +28,10 @@
     "LBL_DESCRIPTION_BLOCK": "Descrizione",
     "LBL_ATTENTION_BLOCK": "Commenti",
     "LBL_FULL_SCREEN": "Schermo intero",
-    "LBL_WIDTH_HEIGHT": "Larghezza x altezza",
-    "LBL_ALLOWED_WIDTH_HEIGHT": "I valori massimi di larghezza x altezza devono essere",
-    "LBL_MAX_FILE_SIZE": "La dimensione massima del file deve essere",
-    "LBL_FILE_UPLOADED": "Caricato con successo",
     "LBL_SIZE": "Dimensione",
-    "ERR_NOT_ALLOWED": "Il file non ha il tipo di estensione consentito",
-    "ERR_UNABLE_TO_UPLOAD": "Impossibile caricare il file"
+    "FL_FEATURED": "In evidenza",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Voci correlate",
+    "FL_INTRODUCTION": "Introduzione",
+    "ERR_NOT_ALLOWED": "Il file non ha il tipo di estensione consentito"
   }
 }

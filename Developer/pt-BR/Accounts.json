@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Associação Européia",
     "PLL_UFCIITS": "Clube de investimento Coletivo em Valores Mobiliários",
     "LBL_DEACTIVATED_BY": "Conta desativada por",
-    "SINGLE_Vendors": "Fornecedor"
+    "SINGLE_Vendors": "Fornecedor",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "O nome da Conta já existe. Deseja criar um registro duplicado?",

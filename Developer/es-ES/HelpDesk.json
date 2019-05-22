@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "fecha de caducidad del SLA",
     "FL_REPORT_TIME": "Tiempo de informe",
     "FL_RESPONSE_TIME": "Tiempo de respuesta",
+    "FL_HELP_DESK_PARENT": "Parent ticket",
     "PLL_SUBMITTED_COMMENTS": "Comentarios enviados",
     "PLL_FOR_APPROVAL": "Por Aprobar",
     "PLL_TO_CLOSE": "Para cerrar",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Gráficas",
     "Rejected": "Rechazado",
     "Answered": "A la espera de realización",
-    "P&S Sold": "Activo \/ Servicio Contratado",
+    "P&S Sold": "Producto / Servicio",
     "Record Id": "ID",
     "ticketpriorities": "prioridad",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "La Incidencia no está relacionado con ninguna Empresa. Por favor, cree una relación.",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Cerrado",
     "Services": "servicios",
     "Support": "Soporte",
-    "Administrative": "administrativo"
+    "Administrative": "administrativo",
+    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_MASS_STATUS_CHANGE": "Mass status change",
+    "LBL_RECORDS": "Records to change",
+    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
+    "LBL_UPDATE": "Update"
   }
 }

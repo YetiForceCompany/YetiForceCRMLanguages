@@ -863,6 +863,8 @@
     "does not equal": "ungleich",
     "less than or equal to": "kleiner als oder gleich",
     "equal to": "Gleich zu",
+    "Record is open": "Record is open",
+    "Record is closed": "Record is closed",
     "None": "Keine",
     "greater than or equal to": "größer als oder gleich",
     "before": "vor",
@@ -1285,6 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Massenaktivierung",
     "LBL_MASS_MOVE_TO_TRASH": "Massenlöschen (Papierkorb)",
     "LBL_DELETE_RECORD": "Datensatz löschen",
+    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
     "LBL_MOVE_TO_TRASH": "In Papierkorb verschieben",
     "LBL_MOVE_TO_TRASH_DESC": "Das Verschieben eines Datensatzes in den Papierkorb ändert nur den Datensatzstatus ohne den Rest der Informationen zu ändern. Sind Sie sicher den Datensatz zu verschieben?",
     "LBL_DELETE_RECORD_COMPLETELY": "Datensatz aus System löschen",
@@ -1341,7 +1344,8 @@
     "LBL_SAVE_SCHEME": "Schema speichern",
     "LBL_SCHEME_SAVED": "Spaltenplan wurde erfolgreich gespeichert.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standardvorlagen sind diejenigen, die statische Inventarspalten haben.",
-    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamische Vorlagen sind jene, die dynamische Inventarspalten enthalten.\nMit dynamischen Spalten können Sie Spalten für ausgewählte Datensätze wählen, wenn Sie ein Pdf erzeugen oder diese Spalten als Schema für ausgewählte Datensätze speichern möchten."
+    "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamische Vorlagen sind jene, die dynamische Inventarspalten enthalten.\nMit dynamischen Spalten können Sie Spalten für ausgewählte Datensätze wählen, wenn Sie ein Pdf erzeugen oder diese Spalten als Schema für ausgewählte Datensätze speichern möchten.",
+    "LBL_FOR_THE_PORTAL": "For the portal"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

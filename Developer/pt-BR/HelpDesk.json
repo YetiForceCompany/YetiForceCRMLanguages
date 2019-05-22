@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "Data de validade SLA",
     "FL_REPORT_TIME": "Hora do Relatorio",
     "FL_RESPONSE_TIME": "Hora da Resposta",
+    "FL_HELP_DESK_PARENT": "Ticket principal",
     "PLL_SUBMITTED_COMMENTS": "Comentários submetidos",
     "PLL_FOR_APPROVAL": "Para aprovação",
     "PLL_TO_CLOSE": "Para fechar",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Gráfico",
     "Rejected": "Rejeitado",
     "Answered": "Aguardando realizaçao",
-    "P&S Sold": "Produto \/ Serviço Vendido",
+    "P&S Sold": "Produto / Serviço",
     "Record Id": "No. Registro",
     "ticketpriorities": "prioridade",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "O Ticket não esta relacionado a nenhuma Conta. Por favor, crie uma relaçao.",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Fechado",
     "Services": "services",
     "Support": "support",
-    "Administrative": "administrativo"
+    "Administrative": "administrativo",
+    "LBL_SHOW_HIERARCHY": "Hierarquia",
+    "LBL_MASS_STATUS_CHANGE": "Mudança de estado em massa",
+    "LBL_RECORDS": "Registos a alterar",
+    "LBL_CHILD_RECORDS": "Registos secundários para principais",
+    "LBL_MASS_STATUS_UPDATED": "Status atualizado nos registos selecionados",
+    "LBL_UPDATE": "Atualizar"
   }
 }

@@ -46,7 +46,7 @@
     "LBL_LIB_OPTIONAL": "Opzionale",
     "LBL_CRON_STATE": "Stato CRON",
     "LBL_CRON_DISABLED_DESC": "Il meccanismo di pianificazione dei processi CRON non è stato attivato, quindi non tutte le funzionalità di sistema sono disponibili",
-    "LBL_CRON_TASK_FAILED_DESC": "Non tutti i processi CRON sono state completati con successo.",
+    "LBL_CRON_TASK_FAILED_DESC": "Non tutti i processi CRON sono stati completati con successo.",
     "LBL_HOW_TO_ENABLE_CRON": "Come abilitare CRON",
     "LBL_CRON_TASKS_LIST": "Lista processi CRON",
     "LBL_REGISTRATION": "Registrazione",

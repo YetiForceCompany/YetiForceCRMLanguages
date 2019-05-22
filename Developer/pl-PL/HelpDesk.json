@@ -5,6 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "Data zakończenia wsparcia SLA",
     "FL_REPORT_TIME": "Czas zgłoszenia ",
     "FL_RESPONSE_TIME": "Czas odpowiedzi",
+    "FL_HELP_DESK_PARENT": "Zgłoszenie nadrzędne",
     "PLL_SUBMITTED_COMMENTS": "Zgłoszono uwagi",
     "PLL_FOR_APPROVAL": "Do akceptacji",
     "PLL_TO_CLOSE": "Do zamknięcia",
@@ -70,7 +71,7 @@
     "LBL_CHARTS": "Wykresy",
     "Rejected": "Odrzucony",
     "Answered": "Oczekuje na realizacje",
-    "P&S Sold": "Produkt\/Usługa Sprzedana",
+    "P&S Sold": "Produkt/Usługa",
     "Record Id": "ID rekordu",
     "ticketpriorities": "priorytet",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Zgłoszenie nie jest podpięte pod kontrahenta, należy powiązać z kontrahentem",
@@ -86,6 +87,12 @@
     "LBL_NOTICE_CLOSE": "Zamknięto",
     "Services": "Usługi",
     "Support": "Wsparcie",
-    "Administrative": "Administracja"
+    "Administrative": "Administracja",
+    "LBL_SHOW_HIERARCHY": "Hierarchia",
+    "LBL_MASS_STATUS_CHANGE": "Masowa zmiana statusu",
+    "LBL_RECORDS": "Rekordy do zmiany",
+    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_MASS_STATUS_UPDATED": "Status zaktualizowany w wybranych rekordach",
+    "LBL_UPDATE": "Aktualizuj"
   }
 }

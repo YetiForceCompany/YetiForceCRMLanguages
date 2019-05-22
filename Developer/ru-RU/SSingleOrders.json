@@ -24,7 +24,6 @@
     "FL_POS": "Позиция",
     "FL_NUMBER_TABLE": "Номер стеллажа",
     "FL_NUMBER_SEAT": "Номер места",
-    "FL_STORAGE": "Склад",
     "PLL_DRAFT": "Черновик",
     "PLL_IN_REALIZATION": "Обработка",
     "PLL_FOR_VERIFICATION": "На проверке",
@@ -35,6 +34,7 @@
     "LBL_SYNCHRONIZE_POS": "Синхронизировать позиции",
     "FL_SOURCE": "Источник",
     "PLL_MANUAL": "В ручную",
-    "PLL_SHOP": "Магазин"
+    "PLL_SHOP": "Магазин",
+    "FL_STORAGE": "Склад"
   }
 }

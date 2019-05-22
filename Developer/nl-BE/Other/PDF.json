@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_INVOICE": "Factuur",
+    "LBL_INVOICE_NUMBER": "BTW-factuurnummer",
+    "LBL_TO_FINVOICE_NUMBER": "Naar BTW-factuurnummer",
+    "LBL_INVOICE_PROFORMA": "Proforma factuur",
+    "LBL_RECIPIENT": "Ontvanger",
+    "LBL_ORDER": "Bestelling",
+    "LBL_SUBMIT_ORDER": "Gemachtigd persoon om bestelling in te dienen",
+    "LBL_TO_PAY": "Totaal",
+    "LBL_TO_PAY_WORD": "Totaal (in woorden)",
+    "LBL_DEALER": "Verkoper",
+    "LBL_BUYER": "Koper",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Gemachtigd persoon om te ontvangen",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Gemachtigd persoon voor uitgifte",
+    "LBL_SALES_QUOTE_FOR": "Offerte voor",
+    "LBL_DATE_EXECUTION": "Datum van voltooiing",
+    "LBL_STAGE": "Uitgegeven door",
+    "LBL_VALID_UNTIL": "Geldig tot",
+    "LBL_QUOTE_NUMBER": "Offerte nummer",
+    "LBL_DETAILS": "Details",
+    "LBL_COMMENTS": "Opmerkingen",
+    "LBL_FIRST_NAME": "Voornaam",
+    "LBL_LAST_NAME": "Achternaam",
+    "LBL_PHONE": "Telefoon",
+    "LBL_EMAIL": "E-mail",
+    "LBL_VATID": "BTW-nummer",
+    "LBL_SALE_DATE": "Verkoopdatum",
+    "LBL_PAYMENT_METHOD": "Betaalwijze",
+    "LBL_PLACE_DATE": "Plaats, datum"
+  }
+}

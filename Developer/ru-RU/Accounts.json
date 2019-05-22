@@ -86,7 +86,9 @@
     "PLL_EUROPEAN_ASSOCIATION": "Европейская ассоциация",
     "PLL_UFCIITS": "Организация Коллективного Инвестирования",
     "LBL_DEACTIVATED_BY": "Акаунт выключен ",
-    "SINGLE_Vendors": "Поставщик"
+    "SINGLE_Vendors": "Поставщик",
+    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_PRICEBOOK": "Pricebook"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Такой клиент уже существует. Создать дубликат?",
