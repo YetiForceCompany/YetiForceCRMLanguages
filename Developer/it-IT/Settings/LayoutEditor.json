@@ -74,11 +74,11 @@
     "LBL_DISPLAY_TYPE_10": "Campo visibile ovunque e non modificabile",
     "LBL_HELP_INFO": "Icona aiuto",
     "LBL_GENERATED_TYPE": "Campo base",
-    "LBL_TREE_TEMPLATE": "Cartelle \/ categorie",
-    "Tree": "Campo cartelle \/ categorie",
-    "CategoryMultipicklist": "Cartelle \/ categorie a scelta multipla",
+    "LBL_TREE_TEMPLATE": "Cartelle / categorie",
+    "Tree": "Campo cartelle / categorie",
+    "CategoryMultipicklist": "Cartelle / categorie a scelta multipla",
     "LBL_FIELD_MASK": "Maschera di formato",
-    "LBL_FIELD_MASK_INFO": "Definizioni predefinite di maschera \n9: numerico\na: alfabetico\n*: alfanumerico\n\nEsempio:\n(99) 9999-9999\n+48 999-999-999\naaa_999_aaa\ndd\/mm\/yyyy",
+    "LBL_FIELD_MASK_INFO": "Definizioni predefinite di maschera \n9: numerico\na: alfabetico\n*: alfanumerico\n\nEsempio:\n(99) 9999-9999\n+48 999-999-999\naaa_999_aaa\ndd/mm/yyyy",
     "MultiReferenceValue": "Valori da modulo relazionato",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "Modulo relazionato",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "Campo del modulo relazionato",
@@ -184,7 +184,9 @@
     "DateTime": "Data e ora",
     "LBL_HEADER_TYPE_VALUE": "Valore",
     "LBL_HEADER_TYPE_PROGRESS": "Barra di avanzamento",
-    "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi"
+    "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi",
+    "MultiDomain": "Selezione dominio multiplo",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "L'operazione di cambiamento tipo di modulo è stata aggiunta alla coda attività cron."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

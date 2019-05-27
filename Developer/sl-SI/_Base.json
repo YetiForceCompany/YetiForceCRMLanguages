@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Shranjevanje podatkov...",
     "JS_SAVE_NOTIFY_OK": "Spremembe so bile shranjene",
     "JS_SAVE_NOTIFY_SUCCESS": "Uspešno shranjen",
+    "JS_SAVE_NOTIFY_FAIL": "Changes were not saved",
     "JS_SAVED_FROM": "od",
     "JS_SAVED_TO": "za",
     "JS_OF": "od",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Prišlo je do nepričakovane napake",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "Entered value is too short",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "Entered value is too long",
-    "JS_NOT_ALLOWED_VALUE": "Vnesena je neveljavna vrednost"
+    "JS_NOT_ALLOWED_VALUE": "Vnesena je neveljavna vrednost",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Please select valid domain names.",
+    "JS_MAIN_CATEGORIES": "Main categories",
+    "JS_SEARCH_CURRENT_CATEGORY": "Search current category",
+    "JS_RELATED_ARTICLES": "Related Articles",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Kategorija",
+    "JS_CREATED": "Ustvarjeno",
+    "JS_MODIFIED": "Spremenjeno"
   }
 }

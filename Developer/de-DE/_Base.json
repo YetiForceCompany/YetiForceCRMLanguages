@@ -863,8 +863,8 @@
     "does not equal": "ungleich",
     "less than or equal to": "kleiner als oder gleich",
     "equal to": "Gleich zu",
-    "Record is open": "Record is open",
-    "Record is closed": "Record is closed",
+    "Record is open": "Datensatz ist geöffnet",
+    "Record is closed": "Datensatz ist geschlossen",
     "None": "Keine",
     "greater than or equal to": "größer als oder gleich",
     "before": "vor",
@@ -1287,7 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Massenaktivierung",
     "LBL_MASS_MOVE_TO_TRASH": "Massenlöschen (Papierkorb)",
     "LBL_DELETE_RECORD": "Datensatz löschen",
-    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
+    "LBL_DUPLICATE_LOGIN": "Der angegebene Login existiert bereits.",
     "LBL_MOVE_TO_TRASH": "In Papierkorb verschieben",
     "LBL_MOVE_TO_TRASH_DESC": "Das Verschieben eines Datensatzes in den Papierkorb ändert nur den Datensatzstatus ohne den Rest der Informationen zu ändern. Sind Sie sicher den Datensatz zu verschieben?",
     "LBL_DELETE_RECORD_COMPLETELY": "Datensatz aus System löschen",
@@ -1345,7 +1345,7 @@
     "LBL_SCHEME_SAVED": "Spaltenplan wurde erfolgreich gespeichert.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standardvorlagen sind diejenigen, die statische Inventarspalten haben.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamische Vorlagen sind jene, die dynamische Inventarspalten enthalten.\nMit dynamischen Spalten können Sie Spalten für ausgewählte Datensätze wählen, wenn Sie ein Pdf erzeugen oder diese Spalten als Schema für ausgewählte Datensätze speichern möchten.",
-    "LBL_FOR_THE_PORTAL": "For the portal"
+    "LBL_FOR_THE_PORTAL": "Für das Portal"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",
@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Speichere Daten...",
     "JS_SAVE_NOTIFY_OK": "Änderungen gespeichert",
     "JS_SAVE_NOTIFY_SUCCESS": "Erfolgreich gespeichert",
+    "JS_SAVE_NOTIFY_FAIL": "Änderungen wurden nicht gespeichert",
     "JS_SAVED_FROM": "von",
     "JS_SAVED_TO": "an",
     "JS_OF": "von",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Es ist ein unerwarteter Fehler aufgetreten",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "Eingegebener Wert ist zu kurz",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "Eingegebener Wert ist zu lang",
-    "JS_NOT_ALLOWED_VALUE": "Ungültigen Wert eingegeben"
+    "JS_NOT_ALLOWED_VALUE": "Ungültigen Wert eingegeben",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Bitte wählen Sie gültige Domain-Namen aus.",
+    "JS_MAIN_CATEGORIES": "Hauptkategorien",
+    "JS_SEARCH_CURRENT_CATEGORY": "Aktuelle Kategorie durchsuchen",
+    "JS_RELATED_ARTICLES": "Verwandte Artikel",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Kategorie",
+    "JS_CREATED": "Erstellt",
+    "JS_MODIFIED": "Geändert"
   }
 }

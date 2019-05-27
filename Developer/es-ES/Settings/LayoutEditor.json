@@ -78,7 +78,7 @@
     "Tree": "\"tree_\" - Árbol jerárquico",
     "CategoryMultipicklist": "\"treem_\" - Árbol jerárquico múltiple",
     "LBL_FIELD_MASK": "Campo de máscara",
-    "LBL_FIELD_MASK_INFO": "Definiciones de enmascaramiento predeterminadas 9: numérico a: alfabéticamente *: Alfanumérico Ejemplo: (99) 9999-9999 +48 999-999-999 aaa_999_aaa dd\/mm\/aaaa",
+    "LBL_FIELD_MASK_INFO": "Definiciones de enmascaramiento predeterminadas 9: numérico a: alfabéticamente *: Alfanumérico Ejemplo: (99) 9999-9999 +48 999-999-999 aaa_999_aaa dd/mm/aaaa",
     "MultiReferenceValue": "\"relv_\" - Valores del módulo relacionado",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "Módulo relacionado",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "Campo relacionado",
@@ -137,7 +137,7 @@
     "LBL_DOUBLE": "Decimal",
     "LBL_DOUBLE_DESC": "",
     "LBL_REFERENCE_DESC": "Campo adicional utilizado para relacionar un elemento dado con cualquier registro del sistema.",
-    "LBL_PURCHASE_DESC": "Campo numérico utilizado para introducir el valor de compra\/adquisición de un elemento dado.",
+    "LBL_PURCHASE_DESC": "Campo numérico utilizado para introducir el valor de compra/adquisición de un elemento dado.",
     "LBL_MARGIN_DESC": "Campo no editable calculado automáticamente, contiene el valor del beneficio para un elemento dado (Precio con dto. – Compra), no incluye impuesto.",
     "LBL_MARGIN_PERCENT_DESC": "Campo no editable calculado automáticamente, contiene el valor del beneficio, expresado como un porcentaje.",
     "LBL_ITEM_NUMBER": "Número de artículo",
@@ -184,7 +184,9 @@
     "DateTime": "\"datetime_\" - fecha y hora",
     "LBL_HEADER_TYPE_VALUE": "Valor",
     "LBL_HEADER_TYPE_PROGRESS": "Barra de progreso",
-    "LBL_EDIT_MANDATORY_INFO": "Aplica a todo el registro. Si se selecciona \"No\", el registro se puede guardar sin líneas de inventario."
+    "LBL_EDIT_MANDATORY_INFO": "Aplica a todo el registro. Si se selecciona \"No\", el registro se puede guardar sin líneas de inventario.",
+    "MultiDomain": "Selección múltiple de dominio",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "La operación de cambio de tipo de módulo se ha añadido a la cola de tareas Cron."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "El nombre del bloque ya existe",

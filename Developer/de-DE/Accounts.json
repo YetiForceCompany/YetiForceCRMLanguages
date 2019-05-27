@@ -87,8 +87,8 @@
     "PLL_UFCIITS": "Organismen für gemeinsame Anlagen in Wertpapieren <OGAW>",
     "LBL_DEACTIVATED_BY": "Organisation deaktiviert von ",
     "SINGLE_Vendors": "Lieferant",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook"
+    "FL_CHECK_STOCK_LEVELS": "Lagerbestand überprüfen",
+    "FL_PRICEBOOK": "Preisbuch"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Organisationsname ist bereits vorhanden. Möchten Sie einen doppelten Datensatz erstellen?",

@@ -11,7 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Esta contraseña ya ha sido utilizada. El sistema no permite usar la misma contraseña por razones de seguridad.",
     "ERR_USER_EXISTS": "Ya existe el usuario con el mismo nombre de usuario y mismo rol (%s)",
     "ERR_NOT_ACCESSIBLE": "Acceso denegado",
-    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
+    "ERR_DUPLICATE_LOGIN": "Ya existe un usuario con el inicio de sesión especificado.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "No tiene los permisos necesarios para ver/editar este registro. Contacte el administrador si cree que deberia tener permiso para verlo.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "El contenido de la variable (%s) no puede activarse como función",
     "ERR_DUPLICATES_VALUES_FOUND": "Se encontraron valores %s duplicados",
@@ -42,6 +42,6 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Error mientras se analizan las respuestas del servidor",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Error mientras se conectaba al servidor remoto",
     "ERR_NO_INTERNET_CONNECTION": "Sin conexión a Internet",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "El objeto debe tener una interfaz %s"
   }
 }

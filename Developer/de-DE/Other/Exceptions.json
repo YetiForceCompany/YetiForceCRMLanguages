@@ -11,7 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Das Passwort wurde bereits verwendet. Das System erlaubt aus Sicherheitsgründen keine bisherigen Passwörter.",
     "ERR_USER_EXISTS": "Benutzer mit dem gleichen Namen und Rolle schon vorhanden (%s)",
     "ERR_NOT_ACCESSIBLE": "Zugriff verweigert",
-    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
+    "ERR_DUPLICATE_LOGIN": "Benutzer mit angegebenem Login-Namen existiert bereits.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Fehlende Berechtigung um diesen Datensatz anzuschauen oder zu editieren. Bitte kontaktieren Sie den Administrator falls Sie diese Berechtigung benötigen.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Inhalt Variable (%s) funktioniert nicht als Funktionstrigger",
     "ERR_DUPLICATES_VALUES_FOUND": "Doppelte %s Werte gefunden",
@@ -42,6 +42,6 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Fehler beim Parsen der Serverantworten",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Fehler bei der Verbindung zum Remote-Server",
     "ERR_NO_INTERNET_CONNECTION": "Keine Internetverbindung",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "Das Objekt muss eine Schnittstelle %s haben"
   }
 }

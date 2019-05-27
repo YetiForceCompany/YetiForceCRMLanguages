@@ -863,8 +863,8 @@
     "does not equal": "não é igual a",
     "less than or equal to": "menor ou igual a",
     "equal to": "Igual a",
-    "Record is open": "Record is open",
-    "Record is closed": "Record is closed",
+    "Record is open": "Registo aberto",
+    "Record is closed": "Registo fechado",
     "None": "Nenhum",
     "greater than or equal to": "maior que ou igual a",
     "before": "antes",
@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "A guardar dados...",
     "JS_SAVE_NOTIFY_OK": "As alterações foram aplicadas",
     "JS_SAVE_NOTIFY_SUCCESS": "Guardado com sucesso",
+    "JS_SAVE_NOTIFY_FAIL": "Changes were not saved",
     "JS_SAVED_FROM": "de",
     "JS_SAVED_TO": "para",
     "JS_OF": "de",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Ocorreu um erro inesperado",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "A chave é demasiado pequena",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "A chave é demasiado longa",
-    "JS_NOT_ALLOWED_VALUE": "Entered invalid value"
+    "JS_NOT_ALLOWED_VALUE": "Entered invalid value",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Please select valid domain names.",
+    "JS_MAIN_CATEGORIES": "Categorias principais",
+    "JS_SEARCH_CURRENT_CATEGORY": "Search current category",
+    "JS_RELATED_ARTICLES": "Related Articles",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Categoria",
+    "JS_CREATED": "Criado",
+    "JS_MODIFIED": "Modificado"
   }
 }

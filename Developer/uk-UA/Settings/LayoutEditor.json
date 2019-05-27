@@ -78,7 +78,7 @@
     "Tree": "Каталог",
     "CategoryMultipicklist": "Каталог з мульти-вибором",
     "LBL_FIELD_MASK": "Маска поля",
-    "LBL_FIELD_MASK_INFO": "Маска за замовчуванням: 9-цифра, a-літера, *-будь-який символ. Наприклад:(99) 9999-9999; +48 999-999-999; aaa_999_aaa; dd\/mm\/yyyy",
+    "LBL_FIELD_MASK_INFO": "Маска за замовчуванням: 9-цифра, a-літера, *-будь-який символ. Наприклад:(99) 9999-9999; +48 999-999-999; aaa_999_aaa; dd/mm/yyyy",
     "MultiReferenceValue": "Значення відповідного модуля",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "Пов'язані модулі",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "Пов'язані поля",
@@ -124,7 +124,7 @@
     "LBL_DISCOUNT_MODE_DESC": "Перелік доступних режимів знижки: групова або індивідуальна.",
     "LBL_TAX_MODE_DESC": "Перелік доступних податкових режимів: груповий або індивідуальний.",
     "LBL_COMMENT_DESC": "Візуальний редактор використовується для опису, за замовчуванням поле знаходиться в згорнутому вигляді.",
-    "LBL_DISCOUNT_DESC": " 183\/5000 Числове поле, яке використовується для введення значення знижки для вибраного елемента, знижки можна вибрати з переліку доступних знижок. Підсумовування можна налаштувати в системному адмініструванні",
+    "LBL_DISCOUNT_DESC": " 183/5000 Числове поле, яке використовується для введення значення знижки для вибраного елемента, знижки можна вибрати з переліку доступних знижок. Підсумовування можна налаштувати в системному адмініструванні",
     "LBL_GROSS_PRICE_DESC": "Поле не редагується, обчислюється автоматично, містить кінцеву ціну елемента (Ціна після знижки + податок).",
     "LBL_ITEM_NAME_DESC": "Mandatory basic field, specifies modules to select records from. Additionally includes limit settings to block record saving when the credit limit is reached.",
     "LBL_QUANTITY_DESC": "Numeric field used to enter the quantity for each record, for example product quantity. Its value has to be higher than zero.",
@@ -137,7 +137,7 @@
     "LBL_DOUBLE": "Десятковий",
     "LBL_DOUBLE_DESC": "",
     "LBL_REFERENCE_DESC": "Additional field used to relate a given element with any record in the system.",
-    "LBL_PURCHASE_DESC": "Numeric field used to enter the purchase\/acquisition value of a given element.",
+    "LBL_PURCHASE_DESC": "Numeric field used to enter the purchase/acquisition value of a given element.",
     "LBL_MARGIN_DESC": "Non-editable field calculated automatically, contains the profit value for a given element (Price after discount – Purchase), does not include tax.",
     "LBL_MARGIN_PERCENT_DESC": "Non-editable field calculated automatically, contains the profit value, expressed as a percentage.",
     "LBL_ITEM_NUMBER": "Номер",
@@ -184,7 +184,9 @@
     "DateTime": "Дата і час",
     "LBL_HEADER_TYPE_VALUE": "Значення",
     "LBL_HEADER_TYPE_PROGRESS": "Прогрес",
-    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines."
+    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",
+    "MultiDomain": "Domain multi select",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Блок з такою назвою вже існує",

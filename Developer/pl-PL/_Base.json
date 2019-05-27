@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Trwa zapisywanie danych...",
     "JS_SAVE_NOTIFY_OK": "Zapisano zmiany.",
     "JS_SAVE_NOTIFY_SUCCESS": "Pomyśnie dokonano zapisu.",
+    "JS_SAVE_NOTIFY_FAIL": "Zmiany nie zostały zapisane",
     "JS_SAVED_FROM": "z",
     "JS_SAVED_TO": "na",
     "JS_OF": "z",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Wystąpił nieoczekiwany błąd",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "Wprowadzona wartość jest za krótka",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "Wprowadzona wartość jest za długa",
-    "JS_NOT_ALLOWED_VALUE": "Wprowadzono niedozwoloną wartość"
+    "JS_NOT_ALLOWED_VALUE": "Wprowadzono niedozwoloną wartość",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Wybierz prawidłowe nazwy domen.",
+    "JS_MAIN_CATEGORIES": "Kategorie główne",
+    "JS_SEARCH_CURRENT_CATEGORY": "Przeszukaj bieżącą kategorię",
+    "JS_RELATED_ARTICLES": "Powiązane artykuły",
+    "JS_ARTICLES": "Artykuły",
+    "JS_AUTHORED_BY": "Autor",
+    "JS_TOGGLE_MENU": "Przełącz menu",
+    "JS_CATEGORY": "Kategoria",
+    "JS_CREATED": "Utworzona",
+    "JS_MODIFIED": "Zmodyfikowane"
   }
 }

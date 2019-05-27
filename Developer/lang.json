@@ -4,132 +4,132 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 6,
-        "time": "2019-05-22 13:16:39"
+        "time": "2019-05-27 11:48:38"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
         "progress": 14,
-        "time": "2019-05-22 13:17:44"
+        "time": "2019-05-27 11:49:43"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
         "progress": 99,
-        "time": "2019-05-22 13:19:54"
+        "time": "2019-05-27 11:51:47"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 99,
-        "time": "2019-05-22 13:20:26"
+        "time": "2019-05-27 11:52:18"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 99,
-        "time": "2019-05-22 13:24:59"
+        "time": "2019-05-27 11:56:55"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 10,
-        "time": "2019-05-22 13:21:28"
+        "time": "2019-05-27 11:53:19"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
         "progress": 84,
-        "time": "2019-05-22 13:19:20"
+        "time": "2019-05-27 11:51:16"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 100,
-        "time": "2019-05-22 13:20:58"
+        "progress": 99,
+        "time": "2019-05-27 11:52:48"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
-        "progress": 2,
-        "time": "2019-05-22 13:18:48"
+        "progress": 8,
+        "time": "2019-05-27 11:50:45"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 23,
-        "time": "2019-05-22 13:18:16"
+        "time": "2019-05-27 11:50:14"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 99,
-        "time": "2019-05-22 13:21:58"
+        "time": "2019-05-27 11:53:51"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 75,
-        "time": "2019-05-22 13:22:58"
+        "time": "2019-05-27 11:54:53"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 30,
-        "time": "2019-05-22 13:22:28"
+        "time": "2019-05-27 11:54:23"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 85,
-        "time": "2019-05-22 13:23:28"
+        "time": "2019-05-27 11:55:24"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 91,
-        "time": "2019-05-22 13:23:58"
+        "time": "2019-05-27 11:55:55"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 79,
-        "time": "2019-05-22 13:24:29"
+        "time": "2019-05-27 11:56:25"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 35,
-        "time": "2019-05-22 13:25:36"
+        "time": "2019-05-27 11:57:26"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 43,
-        "time": "2019-05-22 13:26:16"
+        "time": "2019-05-27 11:57:57"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 8,
-        "time": "2019-05-22 13:17:13"
+        "time": "2019-05-27 11:49:11"
     }
 }

@@ -78,7 +78,7 @@
     "Tree": "Campos da árvore",
     "CategoryMultipicklist": "Tree field (multiple choice)",
     "LBL_FIELD_MASK": "Mascara Campo",
-    "LBL_FIELD_MASK_INFO": "Definição de mascaras padrão \r\n9: numérico\r\na: alfabético\r\n*: Alfanumérico\r\n\r\nExamplo:\r\n(99) 9999-9999\r\n+55 999-999-999\r\naaa_999_aaa\r\ndd\/mm\/yyyy",
+    "LBL_FIELD_MASK_INFO": "Definição de mascaras padrão \r\n9: numérico\r\na: alfabético\r\n*: Alfanumérico\r\n\r\nExamplo:\r\n(99) 9999-9999\r\n+55 999-999-999\r\naaa_999_aaa\r\ndd/mm/yyyy",
     "MultiReferenceValue": "Valores a partir do módulo relacionado",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "Módulo relacionado",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "Campo relacionado",
@@ -137,7 +137,7 @@
     "LBL_DOUBLE": "Decimal",
     "LBL_DOUBLE_DESC": "",
     "LBL_REFERENCE_DESC": "Campo adicional utilizado para relacionar um determinado elemento com qualquer registro no Sistema.",
-    "LBL_PURCHASE_DESC": "Campo numérico utilizado para digitar o valor de compra\/aquisição de um determinado elemento.",
+    "LBL_PURCHASE_DESC": "Campo numérico utilizado para digitar o valor de compra/aquisição de um determinado elemento.",
     "LBL_MARGIN_DESC": "Campo não editável calculado automaticamente, contém o valor do lucro para um determinado elemento (Preço depois do desconto - Compra), não inclui os impostos.",
     "LBL_MARGIN_PERCENT_DESC": "Campo não editável calculado automaticamente, contém o valor do lucro, expresso em percentual.",
     "LBL_ITEM_NUMBER": "Número item",
@@ -184,7 +184,9 @@
     "DateTime": "Date and time file",
     "LBL_HEADER_TYPE_VALUE": "Value",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
-    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines."
+    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",
+    "MultiDomain": "Domain multi select",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nome do Bloco já existe",

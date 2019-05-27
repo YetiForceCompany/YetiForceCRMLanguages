@@ -1143,7 +1143,7 @@
     "LBL_ALL_TIME_CONTROL": "Ore di lavoro totale di tutti gli utenti",
     "LBL_NEW_ACCOUNTS": "Nuove aziende",
     "LBL_NEGLECTED_ACCOUNTS": "Aziende trascurate",
-    "LBL_ADD_CHART_FILTER": "Aggiungi grafico da filtro al",
+    "LBL_ADD_CHART_FILTER": "Aggiungi grafico da filtro",
     "LBL_PIE_CHART": "A torta",
     "LBL_DONUT_CHART": "Ad anello",
     "LBL_AXIS_CHART": "Grafico ad assi",
@@ -1324,7 +1324,7 @@
     "LBL_AUTOMATIC": "Automatico",
     "LBL_UPCOMING_PROJECT_TASKS": "Prossime attività di progetto",
     "LBL_NO_UPCOMING_PROJECT_TASKS": "Nessuna attività di progetto imminente",
-    "LBL_COMPLETED_PROJECT_TASKS": "Attività del progetto completate",
+    "LBL_COMPLETED_PROJECT_TASKS": "Attività di progetto completate",
     "LBL_NO_COMPLETED_PROJECT_TASKS": "Nessuna attività di progetto completata",
     "PLL_PLANNED": "Pianificato",
     "PLL_ON_HOLD": "In attesa",
@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Salvataggio in corso ...",
     "JS_SAVE_NOTIFY_OK": "Modifiche salvate",
     "JS_SAVE_NOTIFY_SUCCESS": "Salvato con successo",
+    "JS_SAVE_NOTIFY_FAIL": "Le modifiche non sono state salvate",
     "JS_SAVED_FROM": "da",
     "JS_SAVED_TO": "a",
     "JS_OF": "di",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Si è verificato un errore imprevisto",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "Il valore inserito è troppo corto",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "Il valore inserito è troppo lungo",
-    "JS_NOT_ALLOWED_VALUE": "Inserito valore non valido"
+    "JS_NOT_ALLOWED_VALUE": "Inserito valore non valido",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Seleziona nomi di dominio validi.",
+    "JS_MAIN_CATEGORIES": "Categorie Principali",
+    "JS_SEARCH_CURRENT_CATEGORY": "Cerca categoria corrente",
+    "JS_RELATED_ARTICLES": "Articoli correlati",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Categoria",
+    "JS_CREATED": "Creato",
+    "JS_MODIFIED": "Modificato"
   }
 }

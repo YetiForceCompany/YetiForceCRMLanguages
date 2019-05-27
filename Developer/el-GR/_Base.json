@@ -863,8 +863,8 @@
     "does not equal": "δεν είναι ίσο με",
     "less than or equal to": "μικρότερο από ή ίσο με",
     "equal to": "Ίσο με",
-    "Record is open": "Record is open",
-    "Record is closed": "Record is closed",
+    "Record is open": "Η εγγραφή είναι ανοιχτή",
+    "Record is closed": "Η εγγραφή είναι κλειστή",
     "None": "Κανένα",
     "greater than or equal to": "μεγαλύτερο από ή ίσο με",
     "before": "πριν",
@@ -1287,7 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Μαζική ενεργοποίηση",
     "LBL_MASS_MOVE_TO_TRASH": "Μαζική μετακίνηση στον κάδο ανακύκλωσης",
     "LBL_DELETE_RECORD": "Διαγραφή εγγραφής",
-    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
+    "LBL_DUPLICATE_LOGIN": "Η καθορισμένη σύνδεση υπάρχει ήδη.",
     "LBL_MOVE_TO_TRASH": "Μετακίνηση στον κάδο ανακύκλωσης",
     "LBL_MOVE_TO_TRASH_DESC": "Μετακινώντας μια εγγραφή στον κάδο ανακύκλωσης αλλάζει μόνο την κατάσταση της χωρίς να αλλάζει το υπόλοιπο των πληροφοριών. Είστε βέβαιοι ότι θέλετε να μετακινήσετε την εγγραφή;.",
     "LBL_DELETE_RECORD_COMPLETELY": "Διαγραφή εγγραφής από το σύστημα",
@@ -1345,7 +1345,7 @@
     "LBL_SCHEME_SAVED": "Ο συνδυασμός στηλών αποθηκεύτηκε με επιτυχία.",
     "LBL_STANDARD_TEMPLATES_DESC": "Τυπικά πρότυπα είναι αυτά που έχουν στατικές στήλες προϊόντων/υπηρεσιών.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Τα δυναμικά πρότυπα είναι αυτά που περιέχουν μεταβλητές δυναμικών στηλών προϊόντων/υπηρεσιών.\nΜε τις δυναμικές στήλες, μπορείτε να επιλέξετε στήλες για επιλεγμένες εγγραφές κάθε φορά που θέλετε να δημιουργήσετε PDF ή να αποθηκεύσετε αυτές τις στήλες ως συνδυασμό για επιλεγμένες εγγραφές.",
-    "LBL_FOR_THE_PORTAL": "For the portal"
+    "LBL_FOR_THE_PORTAL": "Για την πύλη"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",
@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Αποθήκευση δεδομένων...",
     "JS_SAVE_NOTIFY_OK": "Οι αλλαγές αποθηκεύτηκαν",
     "JS_SAVE_NOTIFY_SUCCESS": "Αποθηκεύτηκε με επιτυχία",
+    "JS_SAVE_NOTIFY_FAIL": "Οι αλλαγές δεν αποθηκεύτηκαν",
     "JS_SAVED_FROM": "από",
     "JS_SAVED_TO": "έως",
     "JS_OF": "από",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Παρουσιάστηκε μη αναμενόμενο σφάλμα",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "Η τιμή που εισήχθη είναι πολύ μικρή",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "Η τιμή που εισήχθη είναι πολύ μεγάλη",
-    "JS_NOT_ALLOWED_VALUE": "Καταχωρήθηκε μη έγκυρη τιμή"
+    "JS_NOT_ALLOWED_VALUE": "Καταχωρήθηκε μη έγκυρη τιμή",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Please select valid domain names.",
+    "JS_MAIN_CATEGORIES": "Κύριες κατηγορίες",
+    "JS_SEARCH_CURRENT_CATEGORY": "Αναζήτηση στην τρέχουσα κατηγορία",
+    "JS_RELATED_ARTICLES": "Σχετικά άρθρα",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Κατηγορία",
+    "JS_CREATED": "Δημιουργήθηκε",
+    "JS_MODIFIED": "Τροποποιήθηκε"
   }
 }

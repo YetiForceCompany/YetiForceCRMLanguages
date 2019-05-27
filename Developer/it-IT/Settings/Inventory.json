@@ -3,7 +3,7 @@
     "LBL_CREDITLIMITS": "Limiti alla vendita",
     "LBL_CREDITLIMITS_DESCRIPTION": " ",
     "LBL_CREDITLIMITS_SINGLE": "Limite alla vendita",
-    "LBL_CREDITLIMITS_INFO": "In YetiForce c'è la possibilità di gestire i limiti di vendita per ogni azienda. Questa funzionalità è utilizzata per limitare il debito eccessivo dell'azienda nel tempo.\n\nI limiti commerciali sono concessi principalmente a quelle aziende con cui si collabora per un lungo periodo di tempo, e per le quali vogliamo prorogare il termine di pagamento: questo significa che l'azienda non sarà in grado di effettuare un nuovo ordine fintantoché il suo debito non sarà estinto [il saldo attuale e il documento emesso superano il limite di vendita].",
+    "LBL_CREDITLIMITS_INFO": "In YetiForce c'è la possibilità di gestire i limiti di vendita per ogni azienda. Questa funzionalità è utilizzata per limitare il debito eccessivo dell'azienda nel tempo.\n\nI limiti commerciali sono concessi principalmente a quelle aziende con cui si collabora per un lungo periodo di tempo, e per le quali vogliamo prorogare il termine di pagamento: questo significa che l'azienda non sarà in grado di effettuare un nuovo ordine fintantoché il suo debito non sarà estinto ['saldo di magazzino' + 'totale ordine emesso' supera il 'limite di vendita'].",
     "LBL_ENTER_NAME": "Inserisci nome",
     "LBL_ENTER_VALUE": "Inserisci valore",
     "LBL_NAME": "Nome",

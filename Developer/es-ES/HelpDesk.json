@@ -5,7 +5,7 @@
     "FL_SERVICE_CONTRACTS_DATE": "fecha de caducidad del SLA",
     "FL_REPORT_TIME": "Tiempo de informe",
     "FL_RESPONSE_TIME": "Tiempo de respuesta",
-    "FL_HELP_DESK_PARENT": "Parent ticket",
+    "FL_HELP_DESK_PARENT": "Caso padre",
     "PLL_SUBMITTED_COMMENTS": "Comentarios enviados",
     "PLL_FOR_APPROVAL": "Por Aprobar",
     "PLL_TO_CLOSE": "Para cerrar",
@@ -88,11 +88,11 @@
     "Services": "servicios",
     "Support": "Soporte",
     "Administrative": "administrativo",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_MASS_STATUS_CHANGE": "Mass status change",
-    "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records for actual",
-    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
-    "LBL_UPDATE": "Update"
+    "LBL_SHOW_HIERARCHY": "Jerarquía",
+    "LBL_MASS_STATUS_CHANGE": "Cambio de estado masivo",
+    "LBL_RECORDS": "Registros a cambiar",
+    "LBL_CHILD_RECORDS": "Registros hijos del actual",
+    "LBL_MASS_STATUS_UPDATED": "Estado actualizado para los registros seleccionados",
+    "LBL_UPDATE": "Actualizar"
   }
 }

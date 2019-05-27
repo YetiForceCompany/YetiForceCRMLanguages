@@ -78,7 +78,7 @@
     "Tree": "Каталог",
     "CategoryMultipicklist": "Множественный выбор",
     "LBL_FIELD_MASK": "Маска поля",
-    "LBL_FIELD_MASK_INFO": "Маска по умолчанию \r\n9: цифры\r\na: буквы\r\n*: цифры и буквы\r\n\r\nПример:\r\n(99) 9999-9999\r\n+48 999-999-999\r\naaa_999_aaa\r\ndd\/mm\/yyyy",
+    "LBL_FIELD_MASK_INFO": "Маска по умолчанию \r\n9: цифры\r\na: буквы\r\n*: цифры и буквы\r\n\r\nПример:\r\n(99) 9999-9999\r\n+48 999-999-999\r\naaa_999_aaa\r\ndd/mm/yyyy",
     "MultiReferenceValue": "Значения соответствующего модуля",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "Связанные модули",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "Связанные поля",
@@ -184,7 +184,9 @@
     "DateTime": "Date and time file",
     "LBL_HEADER_TYPE_VALUE": "Value",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
-    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines."
+    "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",
+    "MultiDomain": "Domain multi select",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Блок с таким именем уже существует",

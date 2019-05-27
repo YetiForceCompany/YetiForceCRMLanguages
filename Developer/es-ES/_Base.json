@@ -863,8 +863,8 @@
     "does not equal": "distinto (!=)",
     "less than or equal to": "menor que o igual a (<=)",
     "equal to": "igual a",
-    "Record is open": "Record is open",
-    "Record is closed": "Record is closed",
+    "Record is open": "Registro está abierto",
+    "Record is closed": "Registro está cerrado",
     "None": "Ninguno",
     "greater than or equal to": "mayor qué o igual a (>=)",
     "before": "Antes",
@@ -1287,7 +1287,7 @@
     "LBL_MASS_ACTIVATE": "Activar en masa",
     "LBL_MASS_MOVE_TO_TRASH": "Mover a la papelera en masa",
     "LBL_DELETE_RECORD": "Eliminar",
-    "LBL_DUPLICATE_LOGIN": "The specified login already exists.",
+    "LBL_DUPLICATE_LOGIN": "Ya existe un usuario con el inicio de sesión especificado.",
     "LBL_MOVE_TO_TRASH": "Mover a la papelera",
     "LBL_MOVE_TO_TRASH_DESC": "Mover un registro a la papelera solo cambia el estado del registro sin cambiar el resto de la información. ¿Seguro que quieres mover el registro?",
     "LBL_DELETE_RECORD_COMPLETELY": "Borrar registro del sistema definitivamente",
@@ -1345,7 +1345,7 @@
     "LBL_SCHEME_SAVED": "El esquema de columnas se guardó correctamente.",
     "LBL_STANDARD_TEMPLATES_DESC": "Las plantillas estándar son aquellas que tienen columnas estáticas de inventario.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Las plantillas dinámicas son aquellas que contienen variables dinámicas de columnas de inventario.\nCon columnas dinámicas, puedes elegir columnas para el registro(s) seleccionado cada vez que quieras generar pdf o guardar estas columnas como esquema para el registro(s) seleccionado.",
-    "LBL_FOR_THE_PORTAL": "For the portal"
+    "LBL_FOR_THE_PORTAL": "Para el portal"
   },
   "js": {
     "JS_APPROVE": "Aprovada",
@@ -1363,6 +1363,7 @@
     "JS_SAVE_LOADER_INFO": "Guardando datos...",
     "JS_SAVE_NOTIFY_OK": "Los cambios han sido guardados",
     "JS_SAVE_NOTIFY_SUCCESS": "Guardado correctamente",
+    "JS_SAVE_NOTIFY_FAIL": "No se han guardado los cambios",
     "JS_SAVED_FROM": "desde",
     "JS_SAVED_TO": "a",
     "JS_OF": "de",
@@ -1681,6 +1682,16 @@
     "JS_UNEXPECTED_ERROR": "Ha ocurrido un error inesperado",
     "JS_ENTERED_VALUE_IS_TOO_SHORT": "El valor introducido es muy corto",
     "JS_ENTERED_VALUE_IS_TOO_LONG": "El valor introducido es muy largo",
-    "JS_NOT_ALLOWED_VALUE": "Se introdujo un valor no valido"
+    "JS_NOT_ALLOWED_VALUE": "Se introdujo un valor no valido",
+    "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Por favor, seleccione nombres de dominio válidos.",
+    "JS_MAIN_CATEGORIES": "Categorías principales",
+    "JS_SEARCH_CURRENT_CATEGORY": "Buscar categoría actual",
+    "JS_RELATED_ARTICLES": "Artículos relacionados",
+    "JS_ARTICLES": "Articles",
+    "JS_AUTHORED_BY": "Authored by",
+    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_CATEGORY": "Categoría",
+    "JS_CREATED": "Creado",
+    "JS_MODIFIED": "Modificado"
   }
 }

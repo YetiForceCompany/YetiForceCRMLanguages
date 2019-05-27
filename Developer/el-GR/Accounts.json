@@ -87,8 +87,8 @@
     "PLL_UFCIITS": "Οργανισμοί συλλογικών επενδύσεων σε κινητές αξίες",
     "LBL_DEACTIVATED_BY": "Ο λογαριασμός απενεργοποιήθηκε από",
     "SINGLE_Vendors": "Προμηθευτής",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook"
+    "FL_CHECK_STOCK_LEVELS": "Έλεγχος κατάστασης αποθέματος",
+    "FL_PRICEBOOK": "Τιμοκατάλογος"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Το όνομα του πελάτη υπάρχει ήδη. Θέλετε να δημιουργήσετε μία διπλότυπη εγγραφή;",
