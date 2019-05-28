@@ -1,18 +1,28 @@
 {
   "php": {
-    "Answer": "Ответ",
-    "Comments": "Комментарии",
-    "Draft": "Черновик",
     "Faq": "Вопрос \/ Ответ",
+    "SINGLE_Faq": "Вопрос \/ Ответ",
+    "Draft": "Черновик",
+    "FL_SUBJECT": "Subject",
+    "FL_CONTENT": "Content",
+    "FL_CATEGORY": "Category",
+    "FL_VIEWS": "View",
+    "PLL_PAGE": "Page",
+    "PLL_PRESENTATION": "Presentation",
+    "LBL_VIEW_TREE": "Records tree",
+    "LBL_PREVIOUS": "Previous",
+    "LBL_NEXT": "Next",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Article",
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_FAQ": "Related entries",
     "Faq No": "Номер",
     "General": "Общее",
     "LBL_COMMENT_INFORMATION": "Комментарий",
     "LBL_FAQ_INFORMATION": "Основная информация",
     "LBL_RECORDS_LIST": "Список",
-    "LBL_SOLUTION": "Решение",
     "Obsolete": "Устарело",
     "Published": "Опубликовано",
-    "Question": "Вопрос",
-    "SINGLE_Faq": "Вопрос \/ Ответ"
+    "Question": "Вопрос"
   }
 }

@@ -1,18 +1,28 @@
 {
   "php": {
-    "Answer": "Raspuns",
-    "Comments": "Comentarii",
-    "Draft": "Ciorna",
     "Faq": "FAQ",
+    "SINGLE_Faq": "FAQ",
+    "Draft": "Ciorna",
+    "FL_SUBJECT": "Subject",
+    "FL_CONTENT": "Content",
+    "FL_CATEGORY": "Category",
+    "FL_VIEWS": "View",
+    "PLL_PAGE": "Page",
+    "PLL_PRESENTATION": "Presentation",
+    "LBL_VIEW_TREE": "Records tree",
+    "LBL_PREVIOUS": "Previous",
+    "LBL_NEXT": "Next",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Article",
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_FAQ": "Related entries",
     "Faq No": "Numar FAQ",
     "General": "General",
     "LBL_COMMENT_INFORMATION": "Comentarii",
     "LBL_FAQ_INFORMATION": "Informatii FAQ",
     "LBL_RECORDS_LIST": "Lista FAQ",
-    "LBL_SOLUTION": "Solutie",
     "Obsolete": "Invechit",
     "Published": "Publicat",
-    "Question": "Intrebare",
-    "SINGLE_Faq": "FAQ"
+    "Question": "Intrebare"
   }
 }

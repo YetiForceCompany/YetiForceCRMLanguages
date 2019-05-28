@@ -1,18 +1,28 @@
 {
   "php": {
-    "Answer": "Antwort",
-    "Comments": "Kommentare",
-    "Draft": "Entwurf",
     "Faq": "FAQ",
+    "SINGLE_Faq": "FAQ",
+    "Draft": "Entwurf",
+    "FL_SUBJECT": "Subject",
+    "FL_CONTENT": "Content",
+    "FL_CATEGORY": "Category",
+    "FL_VIEWS": "View",
+    "PLL_PAGE": "Page",
+    "PLL_PRESENTATION": "Presentation",
+    "LBL_VIEW_TREE": "Records tree",
+    "LBL_PREVIOUS": "Previous",
+    "LBL_NEXT": "Next",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Article",
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_FAQ": "Related entries",
     "Faq No": "FAQ Nr.",
     "General": "Allgemein",
     "LBL_COMMENT_INFORMATION": "Kommentar",
     "LBL_FAQ_INFORMATION": "FAQ Information",
     "LBL_RECORDS_LIST": "Liste FAQ",
-    "LBL_SOLUTION": "Lösung",
     "Obsolete": "veraltet",
     "Published": "veröffentlicht",
-    "Question": "Frage",
-    "SINGLE_Faq": "FAQ"
+    "Question": "Frage"
   }
 }

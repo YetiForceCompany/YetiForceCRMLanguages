@@ -1687,9 +1687,9 @@
     "JS_MAIN_CATEGORIES": "Categorie Principali",
     "JS_SEARCH_CURRENT_CATEGORY": "Cerca categoria corrente",
     "JS_RELATED_ARTICLES": "Articoli correlati",
-    "JS_ARTICLES": "Articles",
-    "JS_AUTHORED_BY": "Authored by",
-    "JS_TOGGLE_MENU": "Toggle menu",
+    "JS_ARTICLES": "Articoli",
+    "JS_AUTHORED_BY": "Scritto da",
+    "JS_TOGGLE_MENU": "Attiva/Disattiva menù",
     "JS_CATEGORY": "Categoria",
     "JS_CREATED": "Creato",
     "JS_MODIFIED": "Modificato"

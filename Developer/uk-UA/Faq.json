@@ -1,18 +1,28 @@
 {
   "php": {
-    "Answer": "Відповідь",
-    "Comments": "Коментарі",
-    "Draft": "Чернетка",
     "Faq": "Питання \/ Відповідь",
+    "SINGLE_Faq": "Питання \/ Відповідь",
+    "Draft": "Чернетка",
+    "FL_SUBJECT": "Subject",
+    "FL_CONTENT": "Content",
+    "FL_CATEGORY": "Category",
+    "FL_VIEWS": "View",
+    "PLL_PAGE": "Page",
+    "PLL_PRESENTATION": "Presentation",
+    "LBL_VIEW_TREE": "Records tree",
+    "LBL_PREVIOUS": "Previous",
+    "LBL_NEXT": "Next",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Article",
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_FAQ": "Related entries",
     "Faq No": "Номер",
     "General": "Загальне ",
     "LBL_COMMENT_INFORMATION": "Коментарій",
     "LBL_FAQ_INFORMATION": "Основна інформація",
     "LBL_RECORDS_LIST": "Список",
-    "LBL_SOLUTION": "Рішення",
     "Obsolete": "Застаріло",
     "Published": " Опубліковано",
-    "Question": "Питання",
-    "SINGLE_Faq": "Питання \/ Відповідь"
+    "Question": "Питання"
   }
 }
