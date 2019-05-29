@@ -1345,7 +1345,19 @@
     "LBL_SCHEME_SAVED": "Schema colonna salvato con successo.",
     "LBL_STANDARD_TEMPLATES_DESC": "I modelli standard sono quelli con colonne di inventario statiche.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "I modelli dinamici sono quelli che contengono variabili dinamiche delle colonne di inventario.\ncon colonne dinamiche, è possibile scegliere le colonne per i record selezionati ogni volta che si desidera generare un Pdf o salvare queste colonne come schema per i record selezionati.",
-    "LBL_FOR_THE_PORTAL": "Per il portale"
+    "LBL_FOR_THE_PORTAL": "Per il portale",
+    "BL_RECORD_STATUS_TIMES": "Record status times",
+    "FL_RESPONSE_RANGE_TIME": "Response range time",
+    "FL_SOLUTION_RANGE_TIME": "Solution range time",
+    "FL_IDLE_RANGE_TIME": "Idle range time",
+    "FL_CLOSING_RANGE_TIME": "Closing range time",
+    "FL_RESPONSE_DATE_TIME": "Response date time",
+    "FL_SOLUTION_DATE_TIME": "Solution date time",
+    "FL_IDLE_DATE_TIME": "Idle date time",
+    "FL_CLOSING_DATE_TIME": "Closing date time",
+    "FL_RESPONSE_EXPECTED": "Response expected",
+    "FL_SOLUTION_EXPECTED": "Solution expected",
+    "FL_IDLE_DATE_EXPECTED": "Idle date expected"
   },
   "js": {
     "JS_APPROVE": "Approva",

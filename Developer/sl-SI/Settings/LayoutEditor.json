@@ -182,6 +182,7 @@
     "Image": "Image file",
     "MultiImage": "Multi image files",
     "DateTime": "Date and time file",
+    "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Vrednost",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
     "LBL_EDIT_MANDATORY_INFO": "Velja za celoten zapis. Če je izbrana možnost \"Ne\", se zapis lahko shrani brez kakršnih koli vrstic inventarja.",

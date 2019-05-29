@@ -182,6 +182,7 @@
     "Image": "Bild Datei",
     "MultiImage": "Bild Dateien",
     "DateTime": "Datum und Uhrzeit Datei",
+    "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Wert",
     "LBL_HEADER_TYPE_PROGRESS": "Fortschrittsbalken",
     "LBL_EDIT_MANDATORY_INFO": "Anwendung auf den gesamten Datensatz. Wenn 'Nein' ausgewählt ist, kann der Datensatz ohne Inventar-Zeilen gespeichert werden.",

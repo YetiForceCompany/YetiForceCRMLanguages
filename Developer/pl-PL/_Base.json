@@ -1345,7 +1345,19 @@
     "LBL_SCHEME_SAVED": "Schemat kolumn pomyślnie zapisany",
     "LBL_STANDARD_TEMPLATES_DESC": "Standardowe szablony to te, które mają statyczne kolumny modułu zaawansowanego.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamiczne szablony to te, które zawierają zmienne dynamicznych kolumn modułu zaawansowanego.\nW przypadku kolumn dynamicznych można wybrać kolumny dla wybranych rekordów za każdym razem, gdy chcesz wygenerować PDF lub zapisać te kolumny jako schemat dla wybranych rekordów.",
-    "LBL_FOR_THE_PORTAL": "Dla portalu"
+    "LBL_FOR_THE_PORTAL": "Dla portalu",
+    "BL_RECORD_STATUS_TIMES": "Czasy stanów rekordu",
+    "FL_RESPONSE_RANGE_TIME": "Czas reakcji",
+    "FL_SOLUTION_RANGE_TIME": "Czas rozwiązania",
+    "FL_IDLE_RANGE_TIME": "Czas bezczynności",
+    "FL_CLOSING_RANGE_TIME": "Czas zamknięcia",
+    "FL_RESPONSE_DATE_TIME": "Data i czas reakcji",
+    "FL_SOLUTION_DATE_TIME": "Data i czas rozwiązania",
+    "FL_IDLE_DATE_TIME": "Data i czas bezczynności",
+    "FL_CLOSING_DATE_TIME": "Data i czas zamknięcia",
+    "FL_RESPONSE_EXPECTED": "Oczekiwany czas reakcji",
+    "FL_SOLUTION_EXPECTED": "Oczekiwany czas rozwiązania",
+    "FL_IDLE_DATE_EXPECTED": "Oczekiwany czas bezczynności"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

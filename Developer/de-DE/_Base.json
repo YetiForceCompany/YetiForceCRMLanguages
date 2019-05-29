@@ -1345,7 +1345,19 @@
     "LBL_SCHEME_SAVED": "Spaltenplan wurde erfolgreich gespeichert.",
     "LBL_STANDARD_TEMPLATES_DESC": "Standardvorlagen sind diejenigen, die statische Inventarspalten haben.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Dynamische Vorlagen sind jene, die dynamische Inventarspalten enthalten.\nMit dynamischen Spalten können Sie Spalten für ausgewählte Datensätze wählen, wenn Sie ein Pdf erzeugen oder diese Spalten als Schema für ausgewählte Datensätze speichern möchten.",
-    "LBL_FOR_THE_PORTAL": "Für das Portal"
+    "LBL_FOR_THE_PORTAL": "Für das Portal",
+    "BL_RECORD_STATUS_TIMES": "Record status times",
+    "FL_RESPONSE_RANGE_TIME": "Response range time",
+    "FL_SOLUTION_RANGE_TIME": "Solution range time",
+    "FL_IDLE_RANGE_TIME": "Idle range time",
+    "FL_CLOSING_RANGE_TIME": "Closing range time",
+    "FL_RESPONSE_DATE_TIME": "Response date time",
+    "FL_SOLUTION_DATE_TIME": "Solution date time",
+    "FL_IDLE_DATE_TIME": "Idle date time",
+    "FL_CLOSING_DATE_TIME": "Closing date time",
+    "FL_RESPONSE_EXPECTED": "Response expected",
+    "FL_SOLUTION_EXPECTED": "Solution expected",
+    "FL_IDLE_DATE_EXPECTED": "Idle date expected"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

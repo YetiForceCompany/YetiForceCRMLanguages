@@ -182,6 +182,7 @@
     "Image": "\"img_\" - Imagen",
     "MultiImage": "\"mimg_\" - MultiImage",
     "DateTime": "\"datetime_\" - fecha y hora",
+    "RangeTime": "Rango de Tiempo",
     "LBL_HEADER_TYPE_VALUE": "Valor",
     "LBL_HEADER_TYPE_PROGRESS": "Barra de progreso",
     "LBL_EDIT_MANDATORY_INFO": "Aplica a todo el registro. Si se selecciona \"No\", el registro se puede guardar sin líneas de inventario.",

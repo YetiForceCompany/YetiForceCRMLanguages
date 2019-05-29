@@ -1345,7 +1345,19 @@
     "LBL_SCHEME_SAVED": "Ο συνδυασμός στηλών αποθηκεύτηκε με επιτυχία.",
     "LBL_STANDARD_TEMPLATES_DESC": "Τυπικά πρότυπα είναι αυτά που έχουν στατικές στήλες προϊόντων/υπηρεσιών.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Τα δυναμικά πρότυπα είναι αυτά που περιέχουν μεταβλητές δυναμικών στηλών προϊόντων/υπηρεσιών.\nΜε τις δυναμικές στήλες, μπορείτε να επιλέξετε στήλες για επιλεγμένες εγγραφές κάθε φορά που θέλετε να δημιουργήσετε PDF ή να αποθηκεύσετε αυτές τις στήλες ως συνδυασμό για επιλεγμένες εγγραφές.",
-    "LBL_FOR_THE_PORTAL": "Για την πύλη"
+    "LBL_FOR_THE_PORTAL": "Για την πύλη",
+    "BL_RECORD_STATUS_TIMES": "Record status times",
+    "FL_RESPONSE_RANGE_TIME": "Response range time",
+    "FL_SOLUTION_RANGE_TIME": "Solution range time",
+    "FL_IDLE_RANGE_TIME": "Idle range time",
+    "FL_CLOSING_RANGE_TIME": "Closing range time",
+    "FL_RESPONSE_DATE_TIME": "Response date time",
+    "FL_SOLUTION_DATE_TIME": "Solution date time",
+    "FL_IDLE_DATE_TIME": "Idle date time",
+    "FL_CLOSING_DATE_TIME": "Closing date time",
+    "FL_RESPONSE_EXPECTED": "Response expected",
+    "FL_SOLUTION_EXPECTED": "Solution expected",
+    "FL_IDLE_DATE_EXPECTED": "Idle date expected"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",

@@ -1345,7 +1345,19 @@
     "LBL_SCHEME_SAVED": "El esquema de columnas se guardó correctamente.",
     "LBL_STANDARD_TEMPLATES_DESC": "Las plantillas estándar son aquellas que tienen columnas estáticas de inventario.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Las plantillas dinámicas son aquellas que contienen variables dinámicas de columnas de inventario.\nCon columnas dinámicas, puedes elegir columnas para el registro(s) seleccionado cada vez que quieras generar pdf o guardar estas columnas como esquema para el registro(s) seleccionado.",
-    "LBL_FOR_THE_PORTAL": "Para el portal"
+    "LBL_FOR_THE_PORTAL": "Para el portal",
+    "BL_RECORD_STATUS_TIMES": "Record status times",
+    "FL_RESPONSE_RANGE_TIME": "Rango Tiempo de respuesta",
+    "FL_SOLUTION_RANGE_TIME": "Rango del tiempo para la solución",
+    "FL_IDLE_RANGE_TIME": "Rango de tiempo de inactividad",
+    "FL_CLOSING_RANGE_TIME": "Rango de tiempo para el cierre",
+    "FL_RESPONSE_DATE_TIME": "Rango del tiempo de respuesta",
+    "FL_SOLUTION_DATE_TIME": "Fecha y Hora de la solución",
+    "FL_IDLE_DATE_TIME": "Fecha y hora de inactividad",
+    "FL_CLOSING_DATE_TIME": "Fecha y hora de cierre",
+    "FL_RESPONSE_EXPECTED": "Respuesta esperada",
+    "FL_SOLUTION_EXPECTED": "Solución esperada",
+    "FL_IDLE_DATE_EXPECTED": "Fecha de inactividad esperada"
   },
   "js": {
     "JS_APPROVE": "Aprovada",

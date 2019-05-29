@@ -31,8 +31,8 @@
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
-        "progress": 99,
-        "time": "2019-05-22 13:25:15"
+        "progress": 100,
+        "time": "2019-05-29 09:48:14"
     },
     "fa-IR": {
         "prefix": "fa-IR",
@@ -74,7 +74,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2019-05-22 13:22:13"
+        "time": "2019-05-29 09:45:26"
     },
     "pt-BR": {
         "prefix": "pt-BR",

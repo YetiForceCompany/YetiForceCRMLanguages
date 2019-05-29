@@ -182,6 +182,7 @@
     "Image": "Immagine",
     "MultiImage": "Immagini multiple",
     "DateTime": "Data e ora",
+    "RangeTime": "Intervallo di tempo",
     "LBL_HEADER_TYPE_VALUE": "Valore",
     "LBL_HEADER_TYPE_PROGRESS": "Barra di avanzamento",
     "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi",

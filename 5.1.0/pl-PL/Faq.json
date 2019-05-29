@@ -3,16 +3,16 @@
     "Answer": "Odpowiedź",
     "Comments": "Komentarze",
     "Draft": "Szkic",
-    "Faq": "Instrukcje",
+    "Faq": "Dokumentacja",
     "Faq No": "Numer",
     "General": "Ogólny",
     "LBL_COMMENT_INFORMATION": "Komentarze",
-    "LBL_FAQ_INFORMATION": "Informacje dotyczące instrukcji",
-    "LBL_RECORDS_LIST": "Lista instrukcji",
+    "LBL_FAQ_INFORMATION": "Informacje dotyczące dokumentacji",
+    "LBL_RECORDS_LIST": "Lista rekordów",
     "LBL_SOLUTION": "Rozwiązanie",
     "Obsolete": "Zdezaktualizowany",
     "Published": "Opublikowany",
     "Question": "Pytanie",
-    "SINGLE_Faq": "Instrukcja"
+    "SINGLE_Faq": "Dokumentacja"
   }
 }
