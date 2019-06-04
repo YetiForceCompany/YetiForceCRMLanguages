@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Benutzer wechseln",
     "LBL_POPUP_TYPE": "Pop-up Fenstertyp für Datensatzliste.\r\n1 - Normal, 2 - Erweiterte Suche",
     "LBL_SHOWING_BREADCRUMBS": "Zeige Breadcrumbs Menü",
-    "LBL_SHOW_RESPONSE_TIME": "Ein-/Ausblenden der Seitenaufbauzeit",
     "LBL_TITLE_MAX_LENGTH": "Maximale Länge von Zeichen für den Titel ",
     "LBL_MINIMUM_CRON_FREQUENCY": "Minimale Cron Frequenz [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximale Anzahl von Datensätzen beim Masseneditieren",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Kostenloser Support",
     "LBL_YETIFORCE_ASSISTANCE": "Bezahlter Support",
     "LBL_PICKLIST_VARIABLES": "Auswahllisten-Werte",
-    "LBL_PICKLIST_VARIABLES_INFO": "Die Verwendung dieser Variable führt zu getrennten Nummern für jeden Picklist-Wert und ein kurzer Wert ersetzt die Variable."
+    "LBL_PICKLIST_VARIABLES_INFO": "Die Verwendung dieser Variable führt zu getrennten Nummern für jeden Picklist-Wert und ein kurzer Wert ersetzt die Variable.",
+    "LBL_BUSINESS_HOURS": "Business hours"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Zugriff erfolgreich",

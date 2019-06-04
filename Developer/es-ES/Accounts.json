@@ -88,7 +88,8 @@
     "LBL_DEACTIVATED_BY": "Empresa desactivado por ",
     "SINGLE_Vendors": "Proveedor",
     "FL_CHECK_STOCK_LEVELS": "Comprobar niveles de inventario",
-    "FL_PRICEBOOK": "Lista de precios"
+    "FL_PRICEBOOK": "Lista de precios",
+    "FL_SUM_ORDERS": "Suma de órdenes de pedidos abiertas"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "El nombre de la Empresa ya existe. ¿Quieres crear un registro duplicado?",

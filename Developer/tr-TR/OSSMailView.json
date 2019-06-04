@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Tüm daralt",
     "LBL_COUNT_ALL_MAILS": "Tüm e-postaların sayısı",
     "LBL_VERIFY": "İlgili doğrulama",
-    "LBL_REL_MOD": "İlgili modüller",
     "LBL_BindMailsOK": "İşaretli e-postalar bağlanacak, sonraki etkinleştirme cron iletileri kayıtla ilişkili olacak",
     "LBL_BindMails": "E-postaları atayın",
     "LBL_ChangeType": "Posta türünü değiştir",

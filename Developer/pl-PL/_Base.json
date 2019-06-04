@@ -1699,11 +1699,17 @@
     "JS_MAIN_CATEGORIES": "Kategorie główne",
     "JS_SEARCH_CURRENT_CATEGORY": "Przeszukaj bieżącą kategorię",
     "JS_RELATED_ARTICLES": "Powiązane artykuły",
+    "JS_RELATED_RECORDS": "Powiązane rekordy",
     "JS_ARTICLES": "Artykuły",
     "JS_AUTHORED_BY": "Autor",
     "JS_TOGGLE_MENU": "Przełącz menu",
     "JS_CATEGORY": "Kategoria",
     "JS_CREATED": "Utworzona",
-    "JS_MODIFIED": "Zmodyfikowane"
+    "JS_MODIFIED": "Zmodyfikowane",
+    "JS_MAXIMIZE": "Powiększ",
+    "JS_MINIMIZE": "Pomniejsz",
+    "JS_QUICK_CREATE": "Szybkie tworzenie",
+    "JS_SEARCH_PLACEHOLDER": "Wyszukaj...",
+    "JS_COMMENTS": "Komentarze"
   }
 }

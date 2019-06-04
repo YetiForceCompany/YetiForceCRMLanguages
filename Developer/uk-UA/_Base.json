@@ -1698,12 +1698,18 @@
     "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Please select valid domain names.",
     "JS_MAIN_CATEGORIES": "Main categories",
     "JS_SEARCH_CURRENT_CATEGORY": "Search current category",
-    "JS_RELATED_ARTICLES": "Related Articles",
+    "JS_RELATED_ARTICLES": "Related articles",
+    "JS_RELATED_RECORDS": "Related records",
     "JS_ARTICLES": "Articles",
     "JS_AUTHORED_BY": "Authored by",
     "JS_TOGGLE_MENU": "Toggle menu",
     "JS_CATEGORY": "Категорія",
     "JS_CREATED": "Створено",
-    "JS_MODIFIED": "Змінено"
+    "JS_MODIFIED": "Змінено",
+    "JS_MAXIMIZE": "Maximize",
+    "JS_MINIMIZE": "Minimize",
+    "JS_QUICK_CREATE": "Швидке створення",
+    "JS_SEARCH_PLACEHOLDER": "Search...",
+    "JS_COMMENTS": "Коментарі"
   }
 }

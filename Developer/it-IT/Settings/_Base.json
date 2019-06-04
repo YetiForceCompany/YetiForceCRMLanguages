@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Scambia utenti",
     "LBL_POPUP_TYPE": "Tipo di finestra pop-up con lista record: 1 - normale, 2 - ricerca estesa",
     "LBL_SHOWING_BREADCRUMBS": "Mostra menù breadcrumb",
-    "LBL_SHOW_RESPONSE_TIME": "Mostra o nascondi il tempo per comporre ogni pagina",
     "LBL_TITLE_MAX_LENGTH": "Lunghezza massima, in caratteri, dell'oggetto / titolo del record",
     "LBL_MINIMUM_CRON_FREQUENCY": "Frequenza minima CRON [min]",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Numero massimo di record nelle azioni massive",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Supporto gratuito",
     "LBL_YETIFORCE_ASSISTANCE": "Supporto a pagamento",
     "LBL_PICKLIST_VARIABLES": "Variabile dal modulo",
-    "LBL_PICKLIST_VARIABLES_INFO": "L'utilizzo di questa variabile comporterà la presenza di un valore di un menù a tendina, nel prefisso o nel suffisso. Il valore corrisponderà a quello presente nel record medesimo."
+    "LBL_PICKLIST_VARIABLES_INFO": "L'utilizzo di questa variabile comporterà la presenza di un valore di un menù a tendina, nel prefisso o nel suffisso. Il valore corrisponderà a quello presente nel record medesimo.",
+    "LBL_BUSINESS_HOURS": "Ore Lavorative"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizzazione riuscita",

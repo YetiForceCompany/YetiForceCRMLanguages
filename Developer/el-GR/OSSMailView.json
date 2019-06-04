@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Σύμπτυξη όλων",
     "LBL_COUNT_ALL_MAILS": "Αριθμός όλων των emails",
     "LBL_VERIFY": "Για επαλήθευση",
-    "LBL_REL_MOD": "Σχετιζόμενα modules",
     "LBL_BindMailsOK": "Marked emails to bind, the next activation cron messages will be related to record",
     "LBL_BindMails": "Assign emails",
     "LBL_ChangeType": "Αλλαγή τύπου email",

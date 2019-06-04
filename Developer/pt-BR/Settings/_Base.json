@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Alternar Usuários",
     "LBL_POPUP_TYPE": "Tipo de janela pop-up com lista de registros.  1 - Normal, 2 - Busca expandida",
     "LBL_SHOWING_BREADCRUMBS": "Exibir menu de atalhos",
-    "LBL_SHOW_RESPONSE_TIME": "Exibir ou ocultar o tempo para compor cada página",
     "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title ",
     "LBL_MINIMUM_CRON_FREQUENCY": "Frequência mínima do CRON [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Número máximo de registros para edição em massa",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Free support",
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",
     "LBL_PICKLIST_VARIABLES": "Picklist variables",
-    "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable."
+    "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
+    "LBL_BUSINESS_HOURS": "Business hours"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizado com sucesso",

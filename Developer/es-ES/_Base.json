@@ -1346,7 +1346,7 @@
     "LBL_STANDARD_TEMPLATES_DESC": "Las plantillas estándar son aquellas que tienen columnas estáticas de inventario.",
     "LBL_DYNAMIC_TEMPLATES_DESC": "Las plantillas dinámicas son aquellas que contienen variables dinámicas de columnas de inventario.\nCon columnas dinámicas, puedes elegir columnas para el registro(s) seleccionado cada vez que quieras generar pdf o guardar estas columnas como esquema para el registro(s) seleccionado.",
     "LBL_FOR_THE_PORTAL": "Para el portal",
-    "BL_RECORD_STATUS_TIMES": "Record status times",
+    "BL_RECORD_STATUS_TIMES": "Grabar tiempos de estado",
     "FL_RESPONSE_RANGE_TIME": "Rango Tiempo de respuesta",
     "FL_SOLUTION_RANGE_TIME": "Rango del tiempo para la solución",
     "FL_IDLE_RANGE_TIME": "Rango de tiempo de inactividad",
@@ -1699,11 +1699,17 @@
     "JS_MAIN_CATEGORIES": "Categorías principales",
     "JS_SEARCH_CURRENT_CATEGORY": "Buscar categoría actual",
     "JS_RELATED_ARTICLES": "Artículos relacionados",
+    "JS_RELATED_RECORDS": "Registros relacionados",
     "JS_ARTICLES": "Articulos",
     "JS_AUTHORED_BY": "Creado por",
     "JS_TOGGLE_MENU": "Alternar menú",
     "JS_CATEGORY": "Categoría",
     "JS_CREATED": "Creado",
-    "JS_MODIFIED": "Modificado"
+    "JS_MODIFIED": "Modificado",
+    "JS_MAXIMIZE": "Maximizar",
+    "JS_MINIMIZE": "Minimizar",
+    "JS_QUICK_CREATE": "Creación rápida",
+    "JS_SEARCH_PLACEHOLDER": "Búsqueda...",
+    "JS_COMMENTS": "Comentarios"
   }
 }

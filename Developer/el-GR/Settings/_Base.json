@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Εναλλαγή χρηστών",
     "LBL_POPUP_TYPE": "Αναδυόμενο παράθυρο με λίστα εγγραφών:  1 - κανονική, 2 - εκτεταμένης αναζήτησης",
     "LBL_SHOWING_BREADCRUMBS": "Εμφάνιση breadcrumbs",
-    "LBL_SHOW_RESPONSE_TIME": "Εμφάνιση ή απόκρυψη χρόνου για σύνθεση κάθε σελίδας",
     "LBL_TITLE_MAX_LENGTH": "Μέγιστο μήκος χαρακτήρων για τον τίτλο ",
     "LBL_MINIMUM_CRON_FREQUENCY": "Cron ελάχιστη συχνότητα [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Μέγιστος αριθμός εγγραφών για μαζική επεξεργασία",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Δωρεάν υποστήριξη",
     "LBL_YETIFORCE_ASSISTANCE": "Υποστήριξη με χρέωση",
     "LBL_PICKLIST_VARIABLES": "Απο λίστα επιλογών",
-    "LBL_PICKLIST_VARIABLES_INFO": "Χρησιμοποιώντας αυτήν τη μεταβλητή θα οδηγήσει σε ξεχωριστή αρίθμηση για κάθε τιμή της λίστας επιλογών, και μια σύντομη(short) τιμή θα αντικαταστήσει τη μεταβλητή."
+    "LBL_PICKLIST_VARIABLES_INFO": "Χρησιμοποιώντας αυτήν τη μεταβλητή θα οδηγήσει σε ξεχωριστή αρίθμηση για κάθε τιμή της λίστας επιλογών, και μια σύντομη(short) τιμή θα αντικαταστήσει τη μεταβλητή.",
+    "LBL_BUSINESS_HOURS": "Business hours"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

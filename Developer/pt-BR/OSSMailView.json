@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Collapse all",
     "LBL_COUNT_ALL_MAILS": "Number of all emails",
     "LBL_VERIFY": "Para verificação",
-    "LBL_REL_MOD": "Módulos relacionados",
     "LBL_BindMailsOK": "Marcar e-mails para vincular a próxima ativação das mensagens do CRON a serem gravados",
     "LBL_BindMails": "Atribuir e-mails",
     "LBL_ChangeType": "Mudar tipo e-mail",

@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Przełączanie użytkowników",
     "LBL_POPUP_TYPE": "Wygląd okna popup z listą rekordów. 1 - podstawowe, 2 - rozszerzone",
     "LBL_SHOWING_BREADCRUMBS": "Pokazywanie menu okruszkowego",
-    "LBL_SHOW_RESPONSE_TIME": "Informacja o czasie wygenerowania strony",
     "LBL_TITLE_MAX_LENGTH": "Maksymalna długość tytułu",
     "LBL_MINIMUM_CRON_FREQUENCY": "Minimalna częstotliwość crona [min]",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maksymalna liczba rekordów w masowej edycji",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Bezpłatne wsparcie",
     "LBL_YETIFORCE_ASSISTANCE": "Płatne wsparcie",
     "LBL_PICKLIST_VARIABLES": "Zmienne słownikowe",
-    "LBL_PICKLIST_VARIABLES_INFO": "Użycie tej zmiennej spowoduje numerowanie dla każdej wartości słownikowej oddzielnie, a w miejscu zmiennej wprowadzona zostanie wartość skrócona."
+    "LBL_PICKLIST_VARIABLES_INFO": "Użycie tej zmiennej spowoduje numerowanie dla każdej wartości słownikowej oddzielnie, a w miejscu zmiennej wprowadzona zostanie wartość skrócona.",
+    "LBL_BUSINESS_HOURS": "Godziny pracy"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Réduire tout",
     "LBL_COUNT_ALL_MAILS": "Nombre total d'emails",
     "LBL_VERIFY": "Lier à la vérification",
-    "LBL_REL_MOD": "Modules liés",
     "LBL_BindMailsOK": "Marqué les emails à rattacher, le prochain cron les liera à l'enregistrement",
     "LBL_BindMails": "Assigner les emails",
     "LBL_ChangeType": "Modifier le type d'email",

@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Colapsar todo",
     "LBL_COUNT_ALL_MAILS": "Cantidad de correos",
     "LBL_VERIFY": "Verificación relacionada",
-    "LBL_REL_MOD": "Módulos relacionados",
     "LBL_BindMailsOK": "Marcados los correos a enlazar, en la siguiente activación de CRON los mensajes serán enlazados al registro",
     "LBL_BindMails": "Enlazar correos",
     "LBL_ChangeType": "Cambiar tipo de correo",

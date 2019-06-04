@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Riduci tutto",
     "LBL_COUNT_ALL_MAILS": "Numero totale email",
     "LBL_VERIFY": "Da verificare",
-    "LBL_REL_MOD": "Relativo a",
     "LBL_BindMailsOK": "Le email sono segnate da associare: nelle prossime esecuzioni CRON, i messaggi verranno relazionati ai record",
     "LBL_BindMails": "Riassegnazione massiva delle relazioni",
     "LBL_ChangeType": "Modifica massiva tipo",

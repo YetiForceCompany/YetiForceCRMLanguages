@@ -88,7 +88,8 @@
     "LBL_DEACTIVATED_BY": "Compte désactivé par",
     "SINGLE_Vendors": "Vendeur",
     "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook"
+    "FL_PRICEBOOK": "Pricebook",
+    "FL_SUM_ORDERS": "Sum of open sales orders"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Le nom du compte existe déjà. Voulez-vous créer un enregistrement en double ?",

@@ -1698,12 +1698,18 @@
     "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Bitte wählen Sie gültige Domain-Namen aus.",
     "JS_MAIN_CATEGORIES": "Hauptkategorien",
     "JS_SEARCH_CURRENT_CATEGORY": "Aktuelle Kategorie durchsuchen",
-    "JS_RELATED_ARTICLES": "Verwandte Artikel",
+    "JS_RELATED_ARTICLES": "Related articles",
+    "JS_RELATED_RECORDS": "Related records",
     "JS_ARTICLES": "Articles",
     "JS_AUTHORED_BY": "Authored by",
     "JS_TOGGLE_MENU": "Toggle menu",
     "JS_CATEGORY": "Kategorie",
     "JS_CREATED": "Erstellt",
-    "JS_MODIFIED": "Geändert"
+    "JS_MODIFIED": "Geändert",
+    "JS_MAXIMIZE": "Maximize",
+    "JS_MINIMIZE": "Minimize",
+    "JS_QUICK_CREATE": "Schnellerfassung",
+    "JS_SEARCH_PLACEHOLDER": "Suche...",
+    "JS_COMMENTS": "Kommentare"
   }
 }

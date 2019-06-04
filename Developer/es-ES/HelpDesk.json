@@ -3,8 +3,6 @@
     "FL_SERVICE_CONTRACTS": "Contrato de servicio (SLA)",
     "FL_SERVICE_CONTRACTS_TYPE": "Tipo de SLA ",
     "FL_SERVICE_CONTRACTS_DATE": "fecha de caducidad del SLA",
-    "FL_REPORT_TIME": "Tiempo de informe",
-    "FL_RESPONSE_TIME": "Tiempo de respuesta",
     "FL_HELP_DESK_PARENT": "Caso padre",
     "PLL_SUBMITTED_COMMENTS": "Comentarios enviados",
     "PLL_FOR_APPROVAL": "Por Aprobar",

@@ -88,7 +88,8 @@
     "LBL_DEACTIVATED_BY": "Konto deaktiveret af ",
     "SINGLE_Vendors": "Forhandler",
     "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook"
+    "FL_PRICEBOOK": "Pricebook",
+    "FL_SUM_ORDERS": "Sum of open sales orders"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Kontonavnet findes allerede. Vil du oprette en dubletpost?",

@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Restrangeti toate",
     "LBL_COUNT_ALL_MAILS": "Numarul tuturor email-urilor",
     "LBL_VERIFY": "La verificarea relatata",
-    "LBL_REL_MOD": "Module relatate",
     "LBL_BindMailsOK": "Email-urile marcate pentru a le lega, urmatoarele mesaje de activare cron vor fi legate de inregistrare",
     "LBL_BindMails": "Repartizati email-uri",
     "LBL_ChangeType": "Modifica tip email",

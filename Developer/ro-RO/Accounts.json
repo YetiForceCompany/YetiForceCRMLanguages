@@ -88,7 +88,8 @@
     "LBL_DEACTIVATED_BY": "Cont dezactivat de ",
     "SINGLE_Vendors": "Furnizor",
     "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook"
+    "FL_PRICEBOOK": "Pricebook",
+    "FL_SUM_ORDERS": "Sum of open sales orders"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Numele clientului exista deja.Vrei sa creezi o inregistrare duplicat?",

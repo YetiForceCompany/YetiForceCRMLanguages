@@ -56,7 +56,6 @@
     "LBL_COLLAPSE_ALL": "Strni vse",
     "LBL_COUNT_ALL_MAILS": "Število vseh e-poštnih sporočil",
     "LBL_VERIFY": "V preverjanju",
-    "LBL_REL_MOD": "Povezani moduli",
     "LBL_BindMailsOK": "Označena e-pošta se bo ob naslednjem zagonu Cron-a povezala z pripadajočimi podatkovnimi zapisi",
     "LBL_BindMails": "Dodeli e-poštna sporočila",
     "LBL_ChangeType": "Spremeni vrsto pošte",

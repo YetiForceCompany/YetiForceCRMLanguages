@@ -1355,8 +1355,8 @@
     "FL_SOLUTION_DATE_TIME": "Solution date time",
     "FL_IDLE_DATE_TIME": "Idle date time",
     "FL_CLOSING_DATE_TIME": "Closing date time",
-    "FL_RESPONSE_EXPECTED": "Response expected",
-    "FL_SOLUTION_EXPECTED": "Solution expected",
+    "FL_RESPONSE_EXPECTED": "Απάντηση αναμένεται",
+    "FL_SOLUTION_EXPECTED": "Λύση αναμένεται",
     "FL_IDLE_DATE_EXPECTED": "Idle date expected"
   },
   "js": {
@@ -1698,12 +1698,18 @@
     "JS_PLEASE_SELECT_VALID_DOMAIN_NAMES": "Please select valid domain names.",
     "JS_MAIN_CATEGORIES": "Κύριες κατηγορίες",
     "JS_SEARCH_CURRENT_CATEGORY": "Αναζήτηση στην τρέχουσα κατηγορία",
-    "JS_RELATED_ARTICLES": "Σχετικά άρθρα",
+    "JS_RELATED_ARTICLES": "Σχετικά Άρθρα",
+    "JS_RELATED_RECORDS": "Σχετικές εγγραφές",
     "JS_ARTICLES": "Άρθρα",
-    "JS_AUTHORED_BY": "Authored by",
+    "JS_AUTHORED_BY": "Συντάχθηκε από",
     "JS_TOGGLE_MENU": "Toggle menu",
     "JS_CATEGORY": "Κατηγορία",
     "JS_CREATED": "Δημιουργήθηκε",
-    "JS_MODIFIED": "Τροποποιήθηκε"
+    "JS_MODIFIED": "Τροποποιήθηκε",
+    "JS_MAXIMIZE": "Μεγιστοποίηση",
+    "JS_MINIMIZE": "Ελαχιστοποίηση",
+    "JS_QUICK_CREATE": "Γρήγορη δημιουργία",
+    "JS_SEARCH_PLACEHOLDER": "Αναζήτηση...",
+    "JS_COMMENTS": "Σχόλια"
   }
 }

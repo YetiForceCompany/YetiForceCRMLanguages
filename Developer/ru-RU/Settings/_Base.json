@@ -257,7 +257,6 @@
     "LBL_VIEW_SWITCHUSERS": "Переключение между профилями пользователей",
     "LBL_POPUP_TYPE": "Тип всплывающего окна со списком записей.  1 - Нормальный, 2 - Расширенный",
     "LBL_SHOWING_BREADCRUMBS": "Показывать строку навигации",
-    "LBL_SHOW_RESPONSE_TIME": "Показывать время загрузки страницы",
     "LBL_TITLE_MAX_LENGTH": "Максимальная длина символов для заголовка",
     "LBL_MINIMUM_CRON_FREQUENCY": "Минимальная частота обработчика [мин] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Максимальное количество записей при массовом редактировании",
@@ -367,7 +366,8 @@
     "LBL_YETIFORCE_ISSUES": "Free support",
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",
     "LBL_PICKLIST_VARIABLES": "Picklist variables",
-    "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable."
+    "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
+    "LBL_BUSINESS_HOURS": "Business hours"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Успешная авторизация",

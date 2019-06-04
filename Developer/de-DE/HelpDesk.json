@@ -3,8 +3,6 @@
     "FL_SERVICE_CONTRACTS": "Service Level Agreement (SLA)",
     "FL_SERVICE_CONTRACTS_TYPE": "SLA Typ",
     "FL_SERVICE_CONTRACTS_DATE": "SLA Ablaufdatum",
-    "FL_REPORT_TIME": "Meldezeit",
-    "FL_RESPONSE_TIME": "Antwortzeit",
     "FL_HELP_DESK_PARENT": "Übergeordnetes Ticket",
     "PLL_SUBMITTED_COMMENTS": "Gesendete Kommentare",
     "PLL_FOR_APPROVAL": "Zur Freigabe",
