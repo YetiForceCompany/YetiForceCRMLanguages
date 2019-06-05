@@ -505,6 +505,7 @@
     "LBL_VIEW_EXPORT": "Exportar",
     "LBL_VIEW_IMPORT": "Importar",
     "LBL_VIEW_GANTT": "Gantt",
+    "LBL_VIEW_KNOWLEDGEBASE": "Base de Conocimientos",
     "LBL_QUICK_ACCESS_MENU": "Menú de acceso rápido",
     "LBL_Wed": "Mié",
     "LBL_YEAR": "año",
@@ -1710,6 +1711,12 @@
     "JS_MINIMIZE": "Minimizar",
     "JS_QUICK_CREATE": "Creación rápida",
     "JS_SEARCH_PLACEHOLDER": "Búsqueda...",
-    "JS_COMMENTS": "Comentarios"
+    "JS_COMMENTS": "Comentarios",
+    "JS_MONTHS_FULL": "Meses",
+    "JS_DAYS_FULL": "Días",
+    "JS_HOURS_FULL": "Hours",
+    "JS_MINUTES_FULL": "Minutes",
+    "JS_SECONDS_FULL": "Seconds",
+    "JS_FULL_TEXT_SEARCH_INFO": "Full text search functionality, results must contain at least one entered word.\n\nAllowed operators:\n'+'  - leading plus sign indicates that the results must contain a word. For example:\n'+access +sftp' Find rows that contain both words.\n'+access sftp' Search rows that contain the word 'access', but rank rows higher if they also contain 'sftp'\n\n'-'  - leading minus sign forces that the word mustn't appear in the results. For example:\n'+ access -sftp'  Find rows that include the word 'access', but don't include the word 'sftp'.\n\n'*' - words match if they begin with a word before the operator*. For example:\n'acce*'  Find rows that include words such as 'acce', 'accept', 'access', etc.\n\n '\"' The results must include the entire phrase exactly the way was typed."
   }
 }

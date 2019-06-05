@@ -8,9 +8,17 @@
     "LBL_WORKING_HOURS": "Godziny pracy",
     "LBL_DEFAULT": "Domyślny",
     "LBL_NAME": "Nazwa",
-    "LBL_HOLIDAYS": "Urlopy",
-    "LBL_EDIT_BUSINESS_HOURS": "Edytuj godzin pracy",
-    "LBL_ADD_BUSINESS_HOURS": "Dodaj godziny godzin pracy"
+    "LBL_HOLIDAYS": "Święta",
+    "LBL_EDIT_BUSINESS_HOURS": "Edytuj godziny pracy",
+    "LBL_ADD_BUSINESS_HOURS": "Dodaj wpisy z godzinami pracy",
+    "LBL_DEFAULT_TIMES": "Domyślne czasy",
+    "LBL_DEFAULT_REACTION_TIME": "Domyślny czas reakcji",
+    "LBL_DEFAULT_IDLE_TIME": "Domyślny czas bezczynności",
+    "LBL_DEFAULT_RESOLVE_TIME": "Domyślny czas rozwiązania",
+    "LBL_REACTION_TIME": "Reakcji",
+    "LBL_IDLE_TIME": "Bezczynności",
+    "LBL_RESOLVE_TIME": "Rozwiązania",
+    "LBL_HOLIDAYS_DESCRIPTION": "Przejdź do konfiguracji kalendarza świąt"
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?"

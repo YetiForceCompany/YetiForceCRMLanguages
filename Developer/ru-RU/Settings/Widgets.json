@@ -42,7 +42,7 @@
     "Filter": "Фильтр",
     "Filter info": "Включить фильтрацию данных по выбранному Фильтру",
     "None": "Нет",
-    "ProductsServices": "Товары и Услуги",
+    "ProductsServices": "Products & services",
     "LBL_SELECTING_FIELDS": "Selecting fields",
     "LBL_SELECTING_FIELDS_INFO": "Field names from a selected module to be displayed in the view.",
     "LBL_VIEW_TYPE": "View",

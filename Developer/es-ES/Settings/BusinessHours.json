@@ -10,7 +10,15 @@
     "LBL_NAME": "Nombre",
     "LBL_HOLIDAYS": "Día festivo",
     "LBL_EDIT_BUSINESS_HOURS": "Editar horario de atención",
-    "LBL_ADD_BUSINESS_HOURS": "Añadir horario de entrada"
+    "LBL_ADD_BUSINESS_HOURS": "Añadir horario de entrada",
+    "LBL_DEFAULT_TIMES": "Default times",
+    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
+    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
+    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
+    "LBL_REACTION_TIME": "Reaction",
+    "LBL_IDLE_TIME": "Idle",
+    "LBL_RESOLVE_TIME": "Resolve",
+    "LBL_HOLIDAYS_DESCRIPTION": "Go to holidays settings"
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "¿Seguro que desea eliminar esta entrada?"
