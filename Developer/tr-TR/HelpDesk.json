@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "SSS'ye Dönüştür",
     "LBL_COULDNOT_CLOSED": "Destek olamaz",
     "LBL_CUSTOMER_COMMENTS": "Müşteri, cevabınıza aşağıdaki ek bilgileri verdi:",
-    "LBL_DETAIL": "ayrıntılar şunlardır:",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Lütfen e-posta adresinizi veriniz",
     "LBL_LOGIN_REVOKED": "Giriş bilgileriniz iptal edildi. Lütfen yöneticinize başvurun. ",
     "LBL_MAIL_COULDNOT_SENT": "Posta gönderilemedi",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchy",
     "LBL_MASS_STATUS_CHANGE": "Mass status change",
     "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
     "LBL_UPDATE": "Update"
   }

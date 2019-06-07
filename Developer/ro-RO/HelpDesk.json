@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Convertire la FAQ",
     "LBL_COULDNOT_CLOSED": "Tichetul nu poate fi",
     "LBL_CUSTOMER_COMMENTS": "Clientul a furnizat urmatoarele raspunsuri suplimentare:",
-    "LBL_DETAIL": "detaliile sunt :",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Te rugam furnizeaza-ne id-ul tau de email",
     "LBL_LOGIN_REVOKED": "Autentificarea dumneavoastra a fost revocata. Va rugam contactati administratorul de sistem.",
     "LBL_MAIL_COULDNOT_SENT": "Mail-ul nu a putut fi trimis",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchy",
     "LBL_MASS_STATUS_CHANGE": "Mass status change",
     "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
     "LBL_UPDATE": "Update"
   }

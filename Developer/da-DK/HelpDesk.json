@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Konverter til FAQ",
     "LBL_COULDNOT_CLOSED": "Sag kunne ikke blive",
     "LBL_CUSTOMER_COMMENTS": "Kunden har givet følgende yderligere information til dit svar:",
-    "LBL_DETAIL": "detaljerne er:",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Venligst giv din email et ID",
     "LBL_LOGIN_REVOKED": "Dit login er afvist. Venligst kontakt din administrator.",
     "LBL_MAIL_COULDNOT_SENT": "E-mailen kunne ikke sendes",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchy",
     "LBL_MASS_STATUS_CHANGE": "Mass status change",
     "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
     "LBL_UPDATE": "Update"
   }

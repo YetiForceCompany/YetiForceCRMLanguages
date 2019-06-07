@@ -11,14 +11,14 @@
     "LBL_HOLIDAYS": "Festività",
     "LBL_EDIT_BUSINESS_HOURS": "Modifica orario di lavoro",
     "LBL_ADD_BUSINESS_HOURS": "Aggiungi ore di lavoro",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_REACTION_TIME": "Reaction",
-    "LBL_IDLE_TIME": "Idle",
-    "LBL_RESOLVE_TIME": "Resolve",
-    "LBL_HOLIDAYS_DESCRIPTION": "Go to holidays settings"
+    "LBL_DEFAULT_TIMES": "Orari predefiniti",
+    "LBL_DEFAULT_REACTION_TIME": "Tempo di risposta\/reazione predefinito",
+    "LBL_DEFAULT_IDLE_TIME": "Tempo di inattività predefinito",
+    "LBL_DEFAULT_RESOLVE_TIME": "Tempo di risoluzione predefinito",
+    "LBL_REACTION_TIME": "Reazione",
+    "LBL_IDLE_TIME": "Inattivo",
+    "LBL_RESOLVE_TIME": "Risolvere",
+    "LBL_HOLIDAYS_LINK": "Vai alle impostazioni vacanze\/festività"
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questa voce?"

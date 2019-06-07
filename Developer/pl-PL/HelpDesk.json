@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchia",
     "LBL_MASS_STATUS_CHANGE": "Masowa zmiana statusu",
     "LBL_RECORDS": "Rekordy do zmiany",
-    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_CHILD_RECORDS": "Rekordy podrzędne dla aktualnego",
     "LBL_MASS_STATUS_UPDATED": "Status zaktualizowany w wybranych rekordach",
     "LBL_UPDATE": "Aktualizuj"
   }

@@ -1703,7 +1703,7 @@
     "JS_RELATED_RECORDS": "Powiązane rekordy",
     "JS_ARTICLES": "Artykuły",
     "JS_AUTHORED_BY": "Autor",
-    "JS_TOGGLE_MENU": "Przełącz menu",
+    "JS_TOGGLE_CATEGORY_MENU": "Przełącz menu kategorii",
     "JS_CATEGORY": "Kategoria",
     "JS_CREATED": "Utworzona",
     "JS_MODIFIED": "Zmodyfikowane",
@@ -1717,6 +1717,7 @@
     "JS_HOURS_FULL": "Godziny",
     "JS_MINUTES_FULL": "Minuty",
     "JS_SECONDS_FULL": "Sekundy",
-    "JS_FULL_TEXT_SEARCH_INFO": "Wyszukiwarka pełnotekstowa, wyniki muszą zawierać co najmniej jedno wprowadzone słowo.\nDozwolone operatory:\n'+' - Wiodący znak plus wskazuje, że w wynikach musi znajdować się słowo. np. \n'+access +sftp'  Oba słowa muszą wystąpić w wynikach\n'+access sftp' Szukaj wyników zawierających słowo „access”, ale ranguj wyżej w wynikach, jeśli zawierają również „sftp”\n\n'-' - Wiodący znak minus wymusza, że dane słowo nie może wystąpić w wynikach. np.\n'+ access -sftp'  Znajdź wyniki zawierające słowo 'access', ale nie 'sftp'.\n\n'*' - Słowa pasują, jeśli zaczynają się od słowa poprzedzającego operator *. np.\n'acce*' Znajdź wyniki zawierające słowa takie jak 'acce', 'accept', 'access' itp.\n\n'\"' - Dokładnie całe wyrażenie, tak jak zostało wpisane musi znajdować się w wynikach."
+    "JS_FULL_TEXT_SEARCH_INFO": "Wyszukiwarka pełnotekstowa, wyniki muszą zawierać co najmniej jedno wprowadzone słowo.\nDozwolone operatory:\n'+' - Wiodący znak plus wskazuje, że w wynikach musi znajdować się słowo. np. \n'+access +sftp'  Oba słowa muszą wystąpić w wynikach\n'+access sftp' Szukaj wyników zawierających słowo „access”, ale ranguj wyżej w wynikach, jeśli zawierają również „sftp”\n\n'-' - Wiodący znak minus wymusza, że dane słowo nie może wystąpić w wynikach. np.\n'+ access -sftp'  Znajdź wyniki zawierające słowo 'access', ale nie 'sftp'.\n\n'*' - Słowa pasują, jeśli zaczynają się od słowa poprzedzającego operator *. np.\n'acce*' Znajdź wyniki zawierające słowa takie jak 'acce', 'accept', 'access' itp.\n\n'\"' - Dokładnie całe wyrażenie, tak jak zostało wpisane musi znajdować się w wynikach.",
+    "JS_KNOWLEDGEBASE": "Baza wiedzy"
   }
 }

@@ -318,7 +318,7 @@
     "LBL_MAX_NUMBER_FILTER_COLUMNS": "Max 12",
     "LBL_MAX_QTY_SELECT": "Il valore massimo è",
     "LBL_MAX_UPLOAD_SIZE": "La dimensione massima per il caricamento è",
-    "LBL_May": "Mag",
+    "LBL_May": "Maggio",
     "LBL_MERGE": "Unisci",
     "LBL_MERGE_RECORDS_DESCRIPTION": "Definisci il record primario dalla intestazione. Il record primario sarà preservato dopo l'unione.\nGli altri record saranno eliminati conservando, però, eventuali relazioni da altri moduli, riassociandole al record primario.",
     "LBL_MERGE_RECORDS_IN": "Unisci record in",
@@ -1348,14 +1348,14 @@
     "LBL_DYNAMIC_TEMPLATES_DESC": "I modelli dinamici sono quelli che contengono variabili dinamiche delle colonne di inventario.\ncon colonne dinamiche, è possibile scegliere le colonne per i record selezionati ogni volta che si desidera generare un Pdf o salvare queste colonne come schema per i record selezionati.",
     "LBL_FOR_THE_PORTAL": "Per il portale",
     "BL_RECORD_STATUS_TIMES": "Registra i tempi di stato",
-    "FL_RESPONSE_RANGE_TIME": "Tempo intervallo di risposta",
-    "FL_SOLUTION_RANGE_TIME": "Intervallo di tempo per la soluzione",
-    "FL_IDLE_RANGE_TIME": "Intervallo di tempo di inattività",
-    "FL_CLOSING_RANGE_TIME": "Intervallo di tempo di chiusura",
+    "FL_RESPONSE_RANGE_TIME": "Tempo di risposta",
+    "FL_SOLUTION_RANGE_TIME": "Tempo risoluzione",
+    "FL_IDLE_RANGE_TIME": "Tempo inattività ",
+    "FL_CLOSING_RANGE_TIME": "Tempo di chiusura",
     "FL_RESPONSE_DATE_TIME": "Data e ora risposta",
     "FL_SOLUTION_DATE_TIME": "Data e ora soluzione",
-    "FL_IDLE_DATE_TIME": "Intervallo di tempo di inattività",
-    "FL_CLOSING_DATE_TIME": "Data e ora chiusura",
+    "FL_IDLE_DATE_TIME": "Data e ora di inattività",
+    "FL_CLOSING_DATE_TIME": "Data e ora di chiusura",
     "FL_RESPONSE_EXPECTED": "Risposta attesa",
     "FL_SOLUTION_EXPECTED": "Soluzione prevista",
     "FL_IDLE_DATE_EXPECTED": "Data di inattività prevista"
@@ -1703,7 +1703,7 @@
     "JS_RELATED_RECORDS": "Record relazionati",
     "JS_ARTICLES": "Articoli",
     "JS_AUTHORED_BY": "Scritto da",
-    "JS_TOGGLE_MENU": "Attiva/Disattiva menù",
+    "JS_TOGGLE_CATEGORY_MENU": "Attiva/disattiva il menu categoria",
     "JS_CATEGORY": "Categoria",
     "JS_CREATED": "Creato",
     "JS_MODIFIED": "Modificato",
@@ -1717,6 +1717,7 @@
     "JS_HOURS_FULL": "Hours",
     "JS_MINUTES_FULL": "Minutes",
     "JS_SECONDS_FULL": "Seconds",
-    "JS_FULL_TEXT_SEARCH_INFO": "Full text search functionality, results must contain at least one entered word.\n\nAllowed operators:\n'+'  - leading plus sign indicates that the results must contain a word. For example:\n'+access +sftp' Find rows that contain both words.\n'+access sftp' Search rows that contain the word 'access', but rank rows higher if they also contain 'sftp'\n\n'-'  - leading minus sign forces that the word mustn't appear in the results. For example:\n'+ access -sftp'  Find rows that include the word 'access', but don't include the word 'sftp'.\n\n'*' - words match if they begin with a word before the operator*. For example:\n'acce*'  Find rows that include words such as 'acce', 'accept', 'access', etc.\n\n '\"' The results must include the entire phrase exactly the way was typed."
+    "JS_FULL_TEXT_SEARCH_INFO": "Full text search functionality, results must contain at least one entered word.\n\nAllowed operators:\n'+'  - leading plus sign indicates that the results must contain a word. For example:\n'+access +sftp' Find rows that contain both words.\n'+access sftp' Search rows that contain the word 'access', but rank rows higher if they also contain 'sftp'\n\n'-'  - leading minus sign forces that the word mustn't appear in the results. For example:\n'+ access -sftp'  Find rows that include the word 'access', but don't include the word 'sftp'.\n\n'*' - words match if they begin with a word before the operator*. For example:\n'acce*'  Find rows that include words such as 'acce', 'accept', 'access', etc.\n\n '\"' The results must include the entire phrase exactly the way was typed.",
+    "JS_KNOWLEDGEBASE": "Conoscenze di base"
   }
 }

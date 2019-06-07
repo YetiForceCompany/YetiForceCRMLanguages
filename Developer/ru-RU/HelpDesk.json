@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Преобразовать в ЧаВо",
     "LBL_COULDNOT_CLOSED": "Заявка не может быть",
     "LBL_CUSTOMER_COMMENTS": "Клиент предоставил следующую дополнительную информацию на Ваш ответ:",
-    "LBL_DETAIL": "детали:",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Пожалуйста, укажите Ваш адрес электронной почты",
     "LBL_LOGIN_REVOKED": "Ваш Логин заблокирован. Пожалуйста свяжитесь с Администратором.",
     "LBL_MAIL_COULDNOT_SENT": "Письмо не может быть отправлено",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchy",
     "LBL_MASS_STATUS_CHANGE": "Mass status change",
     "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records for actual",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
     "LBL_UPDATE": "Update"
   }

@@ -18,7 +18,7 @@
     "LBL_REACTION_TIME": "Reakcji",
     "LBL_IDLE_TIME": "Bezczynności",
     "LBL_RESOLVE_TIME": "Rozwiązania",
-    "LBL_HOLIDAYS_DESCRIPTION": "Przejdź do konfiguracji kalendarza świąt"
+    "LBL_HOLIDAYS_LINK": "Przejdź do panelu konfiguracji świąt"
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?"

@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "In FAQ konvertieren",
     "LBL_COULDNOT_CLOSED": "Der nachfolgende Ticket Status konnte nicht gesetzt werden:",
     "LBL_CUSTOMER_COMMENTS": "Der Kunde hat die folgenden Informationen zu dem Ticket hinzugefügt:",
-    "LBL_DETAIL": "Hier sind die Details dazu :",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Bitte die E-Mail-Adresse angeben",
     "LBL_LOGIN_REVOKED": "Sie haben keine Zugangsberechtigung mehr. Bitte kontaktieren Sie den Administrator.",
     "LBL_MAIL_COULDNOT_SENT": "Die E-Mail konnte nicht gesendet werden.",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarchie",
     "LBL_MASS_STATUS_CHANGE": "Massenstatus ändern",
     "LBL_RECORDS": "Zu ändernde Datensätze",
-    "LBL_CHILD_RECORDS": "Untergeordnete Datensätze aktualisieren",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status in ausgewählten Datensätzen aktualisiert",
     "LBL_UPDATE": "Update"
   }

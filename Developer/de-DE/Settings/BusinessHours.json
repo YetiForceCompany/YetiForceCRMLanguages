@@ -1,26 +1,26 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
+    "LBL_BUSINESS_HOURS": "Geschäftszeiten",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Geschäftszeiten ist ein Modul, in dem Sie die Arbeitszeiten Ihres Teams einstellen können.",
+    "LBL_WORKING_HOURS_FROM": "Von",
+    "LBL_WORKING_HOURS_TO": "An",
+    "LBL_WORKING_DAYS": "Arbeitstage",
+    "LBL_WORKING_HOURS": "Arbeitszeit",
+    "LBL_DEFAULT": "Standard",
     "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_REACTION_TIME": "Reaction",
+    "LBL_HOLIDAYS": "Urlaub",
+    "LBL_EDIT_BUSINESS_HOURS": "Bearbeiten der Geschäftszeiten",
+    "LBL_ADD_BUSINESS_HOURS": "Geschäftsstunden-Eintrag hinzufügen",
+    "LBL_DEFAULT_TIMES": "Standard-Zeiten",
+    "LBL_DEFAULT_REACTION_TIME": "Standard Reaktionszeit",
+    "LBL_DEFAULT_IDLE_TIME": "Standard Idle-Zeit",
+    "LBL_DEFAULT_RESOLVE_TIME": "Standard Lösungszeit",
+    "LBL_REACTION_TIME": "Reaktion",
     "LBL_IDLE_TIME": "Idle",
-    "LBL_RESOLVE_TIME": "Resolve",
-    "LBL_HOLIDAYS_DESCRIPTION": "Go to holidays settings"
+    "LBL_RESOLVE_TIME": "Lösen",
+    "LBL_HOLIDAYS_LINK": "Gehe zu den Urlaubseinstellungen"
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?"
   }
 }

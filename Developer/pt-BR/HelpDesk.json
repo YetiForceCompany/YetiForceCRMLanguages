@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Converter para FAQ",
     "LBL_COULDNOT_CLOSED": "Ticket não pôde ser",
     "LBL_CUSTOMER_COMMENTS": "O Cliente realizou o seguinte comentário em relação a sua resposta:",
-    "LBL_DETAIL": "os detalhes são :",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Por favor, informe seu email",
     "LBL_LOGIN_REVOKED": "Seu acesso foi revogado. Por favor, entre em contato com o administrador.",
     "LBL_MAIL_COULDNOT_SENT": "E-mail não pode ser enviado.",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Hierarquia",
     "LBL_MASS_STATUS_CHANGE": "Mudança de estado em massa",
     "LBL_RECORDS": "Registos a alterar",
-    "LBL_CHILD_RECORDS": "Registos secundários para principais",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status atualizado nos registos selecionados",
     "LBL_UPDATE": "Atualizar"
   }

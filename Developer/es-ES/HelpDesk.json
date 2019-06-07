@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Convertir a FAQ",
     "LBL_COULDNOT_CLOSED": "La incidencia no pudo cerrarse",
     "LBL_CUSTOMER_COMMENTS": "El Contacto ha proporcionado la siguiente información adicional a tu solicitud: ",
-    "LBL_DETAIL": "Los detalles son:",
+    "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Por favor indique su Id email",
     "LBL_LOGIN_REVOKED": "Tu acceso ha sido rechazado. Por favor contacto con el administrador del sistema.",
     "LBL_MAIL_COULDNOT_SENT": "El correo no pudo ser enviado",
@@ -89,7 +89,7 @@
     "LBL_SHOW_HIERARCHY": "Jerarquía",
     "LBL_MASS_STATUS_CHANGE": "Cambio de estado masivo",
     "LBL_RECORDS": "Registros a cambiar",
-    "LBL_CHILD_RECORDS": "Registros hijos del actual",
+    "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Estado actualizado para los registros seleccionados",
     "LBL_UPDATE": "Actualizar"
   }
