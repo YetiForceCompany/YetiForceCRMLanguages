@@ -54,7 +54,7 @@
     "Products": "Ürünler",
     "Qty In Demand": "Talep Edilen Mkt.",
     "Qty In Stock": "Ürün miktarı",
-    "Qty\/Unit": "Miktar\/Birim",
+    "Qty/Unit": "Miktar/Birim",
     "Reams": "Kağıt pakerler",
     "Reorder Level": "Yeniden sipariş seviyesi",
     "Serial No": "Seri numarası.",
@@ -76,6 +76,7 @@
     "LBL_TAXES": "Vergiler",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Kayıt listesi, satış fırsatı ile ilişkili ürünler ve hizmetler ile sınırlıdır",
     "FL_EAN_13": "EAN 13",
-    "FL_QTY_IN_STOCK": "Stokta bulunan ürünün miktarı"
+    "FL_QTY_IN_STOCK": "Stokta bulunan ürünün miktarı",
+    "FL_PURCHASE": "Purchase"
   }
 }

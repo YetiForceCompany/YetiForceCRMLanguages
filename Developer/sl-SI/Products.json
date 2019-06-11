@@ -54,7 +54,7 @@
     "Products": "Izdelki",
     "Qty In Demand": "Rezervacija",
     "Qty In Stock": "Zaloga",
-    "Qty\/Unit": "Količina\/Enota",
+    "Qty/Unit": "Količina/Enota",
     "Reams": "Neomejeno",
     "Reorder Level": "Minimalna zaloga",
     "Serial No": "Serijska št.",
@@ -64,7 +64,7 @@
     "Spiral Binder": "Spiralno vezivo",
     "Sq Ft": "Sq Ft",
     "Tax Class": "Davčna stopnja",
-    "Unit Price": "Cena\/EM",
+    "Unit Price": "Cena/EM",
     "List Price": "Cenik",
     "Usage Unit": "Enota mere",
     "Vendor PartNo": "Šifra dobavitelja",
@@ -76,6 +76,7 @@
     "LBL_TAXES": "Davek",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Seznam evidenc je omejen na izdelke in storitve, povezane s prodajno priložnostjo",
     "FL_EAN_13": "EAN-13",
-    "FL_QTY_IN_STOCK": "Zaloga"
+    "FL_QTY_IN_STOCK": "Zaloga",
+    "FL_PURCHASE": "Purchase"
   }
 }

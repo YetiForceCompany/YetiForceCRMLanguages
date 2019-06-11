@@ -1350,12 +1350,12 @@
     "BL_RECORD_STATUS_TIMES": "Grabar tiempos de estado",
     "FL_RESPONSE_RANGE_TIME": "Tiempo de respuesta",
     "FL_SOLUTION_RANGE_TIME": "Tiempo de solución",
-    "FL_IDLE_RANGE_TIME": "Idle time",
-    "FL_CLOSING_RANGE_TIME": "Closing time",
-    "FL_RESPONSE_DATE_TIME": "Response date and time",
-    "FL_SOLUTION_DATE_TIME": "Solution date and time",
-    "FL_IDLE_DATE_TIME": "Idle date and time",
-    "FL_CLOSING_DATE_TIME": "Closing date and time",
+    "FL_IDLE_RANGE_TIME": "Tiempo de inactividad",
+    "FL_CLOSING_RANGE_TIME": "Horario de cierre",
+    "FL_RESPONSE_DATE_TIME": "Fecha y hora de respuesta",
+    "FL_SOLUTION_DATE_TIME": "Fecha y hora de la solución",
+    "FL_IDLE_DATE_TIME": "Fecha y hora de inactividad",
+    "FL_CLOSING_DATE_TIME": "Fecha y hora de cierre",
     "FL_RESPONSE_EXPECTED": "Respuesta esperada",
     "FL_SOLUTION_EXPECTED": "Solución esperada",
     "FL_IDLE_DATE_EXPECTED": "Fecha de inactividad esperada"
@@ -1703,7 +1703,7 @@
     "JS_RELATED_RECORDS": "Registros relacionados",
     "JS_ARTICLES": "Articulos",
     "JS_AUTHORED_BY": "Creado por",
-    "JS_TOGGLE_CATEGORY_MENU": "Toggle the category menu",
+    "JS_TOGGLE_CATEGORY_MENU": "Cambiar la categoría del menú",
     "JS_CATEGORY": "Categoría",
     "JS_CREATED": "Creado",
     "JS_MODIFIED": "Modificado",
@@ -1718,6 +1718,8 @@
     "JS_MINUTES_FULL": "Minutos",
     "JS_SECONDS_FULL": "Segundos",
     "JS_FULL_TEXT_SEARCH_INFO": "Funcionalidad de búsqueda de texto completo, los resultados deben contener al menos una palabra introducida.\n\nOperadores permitidos:\n' +' signo más inicial indica que el resultado debe contener una palabra. Por ejemplo:\n'+acceso +sftp' Buscar las filas que contengan ambas palabras.\n'+acceso sftp' Busca filas que incluya la palabra \"acceso\", pero posiciona mejor las filas si también contienen 'sftp'\n\n'-' signo menos inicial fuerza a que la palabra no aparezca en los resultados. Por ejemplo:\n'+ acceso -sftp' Buscar filas que incluyen la palabra \"acceso\", pero que no contengan la palabra \"sftp'.\n\n'*' palabras coincidirán si empiezan con una palabra antes de que el operador*. Por ejemplo:\n'acce*' Buscar filas que incluyen palabras tales como ‘acceso', 'accesorio' etc.\n\n '\"' Los resultados deben incluir la totalidad de la frase exactamente la forma en que fue escrito.",
-    "JS_KNOWLEDGEBASE": "Knowledge base"
+    "JS_KNOWLEDGEBASE": "Base de Conocimientos",
+    "JS_SEARCH_INFO": "Use full-text search syntax",
+    "JS_DELETE_RECORD_CONFIRMATION": "Are you sure you want to delete this record?"
   }
 }

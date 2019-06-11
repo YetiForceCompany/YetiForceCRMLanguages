@@ -54,7 +54,7 @@
     "Products": "Prodotti",
     "Qty In Demand": "Q.tà in richiesta",
     "Qty In Stock": "Quantità",
-    "Qty\/Unit": "Q.tà \/ unità",
+    "Qty/Unit": "Q.tà / unità",
     "Reams": "Risme",
     "Reorder Level": "Soglia riordino",
     "Serial No": "Numero seriale",
@@ -75,7 +75,8 @@
     "pack": "confezione",
     "LBL_TAXES": "Tassazione",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista dei record è limitata ai prodotti e ai servizi associati all'opportunità di vendita",
-    "FL_EAN_13": "EAN \/ GS1",
-    "FL_QTY_IN_STOCK": "Quantità di prodotto in magazzino"
+    "FL_EAN_13": "EAN / GS1",
+    "FL_QTY_IN_STOCK": "Quantità di prodotto in magazzino",
+    "FL_PURCHASE": "Acquisto"
   }
 }

@@ -54,7 +54,7 @@
     "Products": "Produse",
     "Qty In Demand": "Cant. in asteptare",
     "Qty In Stock": "Cantitate produs",
-    "Qty\/Unit": "Cant\/Unit",
+    "Qty/Unit": "Cant/Unit",
     "Reams": "Top",
     "Reorder Level": "Nivel reordonare",
     "Serial No": "Serial nr.",
@@ -76,6 +76,7 @@
     "LBL_TAXES": "Taxe",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista de inregistrari se limiteaza la produsele si serviciile asociate oportunitatii de vanzare",
     "FL_EAN_13": "EAN-13",
-    "FL_QTY_IN_STOCK": "Cantitate produs in stoc"
+    "FL_QTY_IN_STOCK": "Cantitate produs in stoc",
+    "FL_PURCHASE": "Purchase"
   }
 }

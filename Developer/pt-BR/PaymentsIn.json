@@ -11,7 +11,7 @@
     "LBL_PAYMENTSSTATUS": "Status",
     "LBL_PAYMENTS_IMPORT": "Valor recebimento",
     "LBL_RELATEDID": "Relacionado a",
-    "LBL_SALESID": "Fatura\/Pedido",
+    "LBL_SALESID": "Fatura/Pedido",
     "LBL_PAYMENTSNAME": "Nome recebimento",
     "LBL_ADD_RECORD": "Adicionar registro",
     "LBL_RECORDS_LIST": "Lista de registros",
@@ -56,6 +56,10 @@
     "Paribas": "BNP PARIBAS",
     "SGB": "Spółdzielcza Grupa Bankowa",
     "Citi": "Citibank",
-    "idea": "Idea Bank S.A."
+    "idea": "Idea Bank S.A.",
+    "FL_TRANSACTION": "Transaction",
+    "FL_ORDER": "Order",
+    "FL_INVOICE": "Invoice",
+    "FL_PAYMENT_SYSTEM": "Payment system"
   }
 }

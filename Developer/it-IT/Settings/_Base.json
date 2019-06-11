@@ -397,6 +397,8 @@
     "JS_RS_ADD_YEAR_VARIABLE": "Copia la variabile anno nel prefisso o suffisso",
     "JS_RS_ADD_MONTH_VARIABLE": "Copia la variabile mese nel prefisso o suffisso",
     "JS_RS_ADD_DAY_VARIABLE": "Copia la variabile giorno nel prefisso o suffisso",
-    "JS_PICKLIST_TOO_MANY": "Il progressivo può contenere solo una variabile del menù a tendina"
+    "JS_PICKLIST_TOO_MANY": "Il progressivo può contenere solo una variabile del menù a tendina",
+    "JS_YES": "Sì",
+    "JS_NO": "No"
   }
 }

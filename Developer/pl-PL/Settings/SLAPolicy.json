@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_NAME": "Nazwa",
+    "LBL_OPERATIONAL_HOURS": "Godziny",
+    "LBL_EDIT": "Edytuj",
+    "LBL_CREATE": "Create new SLA policy",
+    "LBL_CALENDAR_HOURS": "Godziny kalendarzowe",
+    "LBL_BUSINESS_HOURS": "Godziny pracy",
+    "LBL_SOURCE_MODULE": "Module",
+    "LBL_REACTION_TIME": "Reaction time",
+    "LBL_IDLE_TIME": "Idle time",
+    "LBL_RESOLVE_TIME": "Resolve time"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Wybierz godziny pracy",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Name",
+    "JS_BUSINESS_HOURS_DAYS": "Dni robocze",
+    "JS_HOLIDAYS": "Święta"
+  }
+}

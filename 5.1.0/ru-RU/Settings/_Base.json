@@ -158,7 +158,7 @@
     "GlobalPermission": "Права доступа",
     "Search Setup": "Редактор поиска",
     "LBL_EXTENDED_MODULES": "Пользовательские Модули",
-    "LBL_PBX": "PBX",
+    "LBL_PBX": "АТС",
     "LBL_PBX_DESCRIPTION": "Интеграция с PBX позволяет совершать звонки напрямую из CRM.",
     "CustomView": "Редактор фильтров",
     "Widgets": "Виджеты",

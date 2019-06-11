@@ -11,7 +11,7 @@
     "LBL_PAYMENTSSTATUS": "Durumu",
     "LBL_PAYMENTS_IMPORT": "Alınan Ödemeler",
     "LBL_RELATEDID": "İle ilgili",
-    "LBL_SALESID": "Fatura \/ sipariş",
+    "LBL_SALESID": "Fatura / sipariş",
     "LBL_PAYMENTSNAME": "Ödeme adı",
     "LBL_ADD_RECORD": "Kayıt ekle",
     "LBL_RECORDS_LIST": "Kayıtların listesi",
@@ -56,6 +56,10 @@
     "Paribas": "BNP PARIBAS",
     "SGB": "Spółdzielcza Grupa Bankowa",
     "Citi": "Citi Handlowy",
-    "idea": "Idea Bank S.A."
+    "idea": "Idea Bank S.A.",
+    "FL_TRANSACTION": "Transaction",
+    "FL_ORDER": "Order",
+    "FL_INVOICE": "Invoice",
+    "FL_PAYMENT_SYSTEM": "Payment system"
   }
 }

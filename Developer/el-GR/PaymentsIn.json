@@ -11,7 +11,7 @@
     "LBL_PAYMENTSSTATUS": "Κατάσταση",
     "LBL_PAYMENTS_IMPORT": "Εισαγωγή εισπράξεων",
     "LBL_RELATEDID": "Σχετίζεται με",
-    "LBL_SALESID": "Τιμολόγιο \/ Παραγγελία",
+    "LBL_SALESID": "Τιμολόγιο / Παραγγελία",
     "LBL_PAYMENTSNAME": "Θέμα",
     "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
     "LBL_RECORDS_LIST": "Λίστα εγγραφών",
@@ -56,6 +56,10 @@
     "Paribas": "BNP PARIBAS",
     "SGB": "Spółdzielcza Grupa Bankowa",
     "Citi": "Citi Handlowy",
-    "idea": "Idea Bank S.A."
+    "idea": "Idea Bank S.A.",
+    "FL_TRANSACTION": "Συναλλαγή",
+    "FL_ORDER": "Παραγγελία",
+    "FL_INVOICE": "Τιμολόγιο",
+    "FL_PAYMENT_SYSTEM": "Σύστημα πληρωμής"
   }
 }

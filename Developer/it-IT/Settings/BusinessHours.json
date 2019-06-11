@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_BUSINESS_HOURS": "Ore Lavorative",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Ore di lavoro è un modulo in cui puoi impostare l'orario di lavoro del tuo team.",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Ore lavorative è un modulo in cui puoi impostare l'orario di lavoro del tuo team.",
     "LBL_WORKING_HOURS_FROM": "Da",
     "LBL_WORKING_HOURS_TO": "A",
     "LBL_WORKING_DAYS": "Giorni lavorativi",
@@ -15,12 +15,12 @@
     "LBL_DEFAULT_REACTION_TIME": "Tempo di risposta\/reazione predefinito",
     "LBL_DEFAULT_IDLE_TIME": "Tempo di inattività predefinito",
     "LBL_DEFAULT_RESOLVE_TIME": "Tempo di risoluzione predefinito",
-    "LBL_REACTION_TIME": "Reazione",
-    "LBL_IDLE_TIME": "Inattivo",
-    "LBL_RESOLVE_TIME": "Risolvere",
+    "LBL_REACTION_TIME": "Tempo di reazione",
+    "LBL_IDLE_TIME": "Tempo inattività",
+    "LBL_RESOLVE_TIME": "Tempo di risoluzione",
     "LBL_HOLIDAYS_LINK": "Vai alle impostazioni vacanze\/festività"
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questa voce?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questo inserimento?"
   }
 }

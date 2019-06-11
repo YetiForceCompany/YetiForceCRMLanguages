@@ -11,7 +11,7 @@
     "LBL_PAYMENTSSTATUS": "Stato",
     "LBL_PAYMENTS_IMPORT": "Importa riscossioni",
     "LBL_RELATEDID": "Relativo a",
-    "LBL_SALESID": "Fattura \/ ordine",
+    "LBL_SALESID": "Fattura / ordine",
     "LBL_PAYMENTSNAME": "Oggetto",
     "LBL_ADD_RECORD": "Aggiungi record",
     "LBL_RECORDS_LIST": "Lista record",
@@ -56,6 +56,10 @@
     "Paribas": "PARIBAS BNP",
     "SGB": "Banco di Spółdzielcza Grupa",
     "Citi": "Citi Handlowy",
-    "idea": "Idea Bank S.A."
+    "idea": "Idea Bank S.A.",
+    "FL_TRANSACTION": "Transazione",
+    "FL_ORDER": "Ordine",
+    "FL_INVOICE": "Fattura",
+    "FL_PAYMENT_SYSTEM": "Sistema di pagamento"
   }
 }

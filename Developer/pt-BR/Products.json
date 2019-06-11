@@ -54,7 +54,7 @@
     "Products": "Produtos",
     "Qty In Demand": "Qde. Última Compra",
     "Qty In Stock": "Quantidade do produto",
-    "Qty\/Unit": "Qde. por Unidade",
+    "Qty/Unit": "Qde. por Unidade",
     "Reams": "Resma",
     "Reorder Level": "Nível Reorganização",
     "Serial No": "No. Série",
@@ -76,6 +76,7 @@
     "LBL_TAXES": "Impostos",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "A lista de registros está limitada aos Produtos e Serviços associados com a Oportunidade de venda",
     "FL_EAN_13": "EAN-13",
-    "FL_QTY_IN_STOCK": "Quantidade de produtos em estoque"
+    "FL_QTY_IN_STOCK": "Quantidade de produtos em estoque",
+    "FL_PURCHASE": "Purchase"
   }
 }

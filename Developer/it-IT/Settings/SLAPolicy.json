@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Politica SLA",
+    "LBL_NAME": "Nome Politica",
+    "LBL_OPERATIONAL_HOURS": "Ore operative",
+    "LBL_EDIT": "Modifica politica SLA",
+    "LBL_CREATE": "Crea una nuova politica di SLA",
+    "LBL_CALENDAR_HOURS": "Ore del calendario",
+    "LBL_BUSINESS_HOURS": "Ore Lavorative",
+    "LBL_SOURCE_MODULE": "Modulo",
+    "LBL_REACTION_TIME": "Tempo di reazione",
+    "LBL_IDLE_TIME": "Tempo inattività",
+    "LBL_RESOLVE_TIME": "Tempo di risoluzione"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Seleziona ore lavorative",
+    "JS_BUSINESS_HOURS_FROM": "Da",
+    "JS_BUSINESS_HOURS_TO": "A",
+    "JS_BUSINESS_HOURS_NAME": "Nome",
+    "JS_BUSINESS_HOURS_DAYS": "Giorni lavorativi",
+    "JS_HOLIDAYS": "Festività"
+  }
+}

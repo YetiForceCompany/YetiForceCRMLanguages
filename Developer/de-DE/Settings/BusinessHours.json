@@ -15,9 +15,9 @@
     "LBL_DEFAULT_REACTION_TIME": "Standard Reaktionszeit",
     "LBL_DEFAULT_IDLE_TIME": "Standard Idle-Zeit",
     "LBL_DEFAULT_RESOLVE_TIME": "Standard Lösungszeit",
-    "LBL_REACTION_TIME": "Reaktion",
-    "LBL_IDLE_TIME": "Idle",
-    "LBL_RESOLVE_TIME": "Lösen",
+    "LBL_REACTION_TIME": "Reaction time",
+    "LBL_IDLE_TIME": "Idle time",
+    "LBL_RESOLVE_TIME": "Resolve time",
     "LBL_HOLIDAYS_LINK": "Gehe zu den Urlaubseinstellungen"
   },
   "js": {
