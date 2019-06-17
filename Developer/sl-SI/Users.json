@@ -92,7 +92,7 @@
     "LBL_YOUR_CONTACT_NUMBER": "Vaše kontaktne številke",
     "LBL_CARDDAV_SYNCHRONIZATION_CONTACT": "Sinhronizirajte stike CardDAV",
     "LBL_CALDAV_SYNCHRONIZATION_CALENDAR": "Sinhronizacija koledarja s protokolom CalDAV",
-    "LBL_CARDDAV_DEFAULT_COUNTRY": "Default country for CardDAV",
+    "LBL_CARDDAV_DEFAULT_COUNTRY": "Privzeta država za CardDAV",
     "Number Of Currency Decimals": "Število decimalnih številk",
     "Office Phone": "Telefon v pisarni",
     "Other Event Duration": "Trajanje drugih dogodkov (min)",
@@ -356,9 +356,9 @@
     "PLL_PASSWORD_2FA": "Geslo + 2FA",
     "BTN_MASS_OFF_2FA": "Množično onemogočiti 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "V demo načinu, 2FA je za samo predogled.",
-    "FL_DEFAULT_SEARCH_MODULE": "Default module",
-    "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
-    "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings"
+    "FL_DEFAULT_SEARCH_MODULE": "Privzeti modul",
+    "FL_OVERRIDE_SEARCH_MODULE": "Obvezen vnos standarda",
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Globalne nastavitve iskanja"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalno ločilo in ločilo za združevanje ne smeta biti enaki.",

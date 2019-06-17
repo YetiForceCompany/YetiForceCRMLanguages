@@ -34,6 +34,11 @@
     "FL_SOURCE": "Sorgente",
     "PLL_MANUAL": "Manuale",
     "PLL_SHOP": "Negozio",
-    "FL_STORAGE": "Magazzino"
+    "FL_STORAGE": "Magazzino",
+    "FL_PAYMENT_STATUS": "Stato pagamento",
+    "PLL_NOT_PAID": "Non pagato",
+    "PLL_PAID": "Pagato",
+    "PLL_OVERPAID": "Pagato in eccesso",
+    "PLL_UNDERPAID": "Sottopagato"
   }
 }

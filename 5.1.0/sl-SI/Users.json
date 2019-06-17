@@ -92,7 +92,7 @@
     "LBL_YOUR_CONTACT_NUMBER": "Vaše kontaktne številke",
     "LBL_CARDDAV_SYNCHRONIZATION_CONTACT": "Sinhronizirajte stike CardDAV",
     "LBL_CALDAV_SYNCHRONIZATION_CALENDAR": "Sinhronizacija koledarja s protokolom CalDAV",
-    "LBL_CARDDAV_DEFAULT_COUNTRY": "Default country for CardDAV",
+    "LBL_CARDDAV_DEFAULT_COUNTRY": "Privzeta država za CardDAV",
     "Number Of Currency Decimals": "Število decimalnih številk",
     "Office Phone": "Telefon v pisarni",
     "Other Event Duration": "Trajanje drugih dogodkov (min)",

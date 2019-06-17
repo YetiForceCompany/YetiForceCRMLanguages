@@ -397,8 +397,6 @@
     "JS_RS_ADD_YEAR_VARIABLE": "Jahresvariable in den Prefix oder Postfix kopieren",
     "JS_RS_ADD_MONTH_VARIABLE": "Monatsvariable in den Prefix oder Postfix kopieren",
     "JS_RS_ADD_DAY_VARIABLE": "Tagesvariable in den Prefix oder Postfix kopieren",
-    "JS_PICKLIST_TOO_MANY": "Nummerierung kann nur eine Picklist-Variable enthalten",
-    "JS_YES": "Yes",
-    "JS_NO": "No"
+    "JS_PICKLIST_TOO_MANY": "Nummerierung kann nur eine Picklist-Variable enthalten"
   }
 }

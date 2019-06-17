@@ -37,6 +37,7 @@
     "Migration": "Migración",
     "Customization": "Personalización",
     "Training": "Formación",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista de registros se limita a los productos y servicios asociados en la pestaña de “Productos & Servicios” del Módulo relacionado"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista de registros se limita a los productos y servicios asociados en la pestaña de “Productos & Servicios” del Módulo relacionado",
+    "FL_COST": "Cost"
   }
 }

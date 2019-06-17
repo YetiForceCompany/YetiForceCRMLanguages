@@ -37,6 +37,7 @@
     "Migration": "Migration",
     "Customization": "Personnalisation",
     "Training": "Formation",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Liste des produits et services limités à celle mentionnée dans l'opportunité"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Liste des produits et services limités à celle mentionnée dans l'opportunité",
+    "FL_COST": "Cost"
   }
 }

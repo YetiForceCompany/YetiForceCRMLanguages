@@ -1512,6 +1512,7 @@
     "OVERWRITE_EXISTING_MSG2": "szczegóły adresu?",
     "PM": "PM",
     "SHOULD_BE_LESS_THAN_TODAY": "Musi być wcześniejsza niż dzisiejsza data",
+    "JS_ACCOUNTS": "Kontrahenci",
     "SINGLE_Accounts": "Kontrahent",
     "SINGLE_Contacts": "Kontakt",
     "JS_CHANGES_WILL_BE_LOST": "Nie zapisałeś danych, wprowadzone dane zostaną utracone.",
@@ -1705,6 +1706,7 @@
     "JS_AUTHORED_BY": "Autor",
     "JS_TOGGLE_CATEGORY_MENU": "Przełącz menu kategorii",
     "JS_CATEGORY": "Kategoria",
+    "JS_CATEGORIES": "Kategorie",
     "JS_CREATED": "Utworzona",
     "JS_MODIFIED": "Zmodyfikowane",
     "JS_MAXIMIZE": "Powiększ",
@@ -1719,7 +1721,7 @@
     "JS_SECONDS_FULL": "Sekundy",
     "JS_FULL_TEXT_SEARCH_INFO": "Wyszukiwarka pełnotekstowa, wyniki muszą zawierać co najmniej jedno wprowadzone słowo.\nDozwolone operatory:\n'+' - Wiodący znak plus wskazuje, że w wynikach musi znajdować się słowo. np. \n'+access +sftp'  Oba słowa muszą wystąpić w wynikach\n'+access sftp' Szukaj wyników zawierających słowo „access”, ale ranguj wyżej w wynikach, jeśli zawierają również „sftp”\n\n'-' - Wiodący znak minus wymusza, że dane słowo nie może wystąpić w wynikach. np.\n'+ access -sftp'  Znajdź wyniki zawierające słowo 'access', ale nie 'sftp'.\n\n'*' - Słowa pasują, jeśli zaczynają się od słowa poprzedzającego operator *. np.\n'acce*' Znajdź wyniki zawierające słowa takie jak 'acce', 'accept', 'access' itp.\n\n'\"' - Dokładnie całe wyrażenie, tak jak zostało wpisane musi znajdować się w wynikach.",
     "JS_KNOWLEDGEBASE": "Baza wiedzy",
-    "JS_SEARCH_INFO": "Use full-text search syntax",
+    "JS_SEARCH_INFO": "Użyj składni wyszukiwania pełnotekstowego",
     "JS_DELETE_RECORD_CONFIRMATION": "Czy na pewno chcesz usunąć ten rekord?"
   }
 }

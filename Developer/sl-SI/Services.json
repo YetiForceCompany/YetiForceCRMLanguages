@@ -37,6 +37,7 @@
     "Migration": "Migracija",
     "Customization": "Prilagajanje",
     "Training": "Trening",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Pregled vnosov omejen na izdelke in storitve,za katere obstaja možnost prodaje"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Pregled vnosov omejen na izdelke in storitve,za katere obstaja možnost prodaje",
+    "FL_COST": "Cost"
   }
 }

@@ -23,7 +23,7 @@
     "LBL_CONVERT_FAQ": "Pretvori v pogosta vprašanja",
     "LBL_COULDNOT_CLOSED": "Ni bilo mogoče določiti statusa reklamacije.",
     "LBL_CUSTOMER_COMMENTS": "Stranka je dodala naslednje podatke o reklamaciji:",
-    "LBL_DETAIL": "the details are:",
+    "LBL_DETAIL": "podrobnosti so:",
     "LBL_GIVE_MAILID": "Prosimo, navedite E-poštni naslov",
     "LBL_LOGIN_REVOKED": "Nimate dovoljenja za dostop. Obrnite se na skrbnika.",
     "LBL_MAIL_COULDNOT_SENT": "E-sporočila ni bilo mogoče poslati.",
@@ -69,7 +69,7 @@
     "LBL_CHARTS": "Grafika",
     "Rejected": "Zavrnjeno",
     "Answered": "Čakamo na realizacijo",
-    "P&S Sold": "Product / Service",
+    "P&S Sold": "Izdelek / Storitev",
     "Record Id": "Zapis ID",
     "ticketpriorities": "prioriteta",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Reklamacija ni povezana z nobenim podjetjem.  Prosimo, da jo povežete z enim od podjetij",
@@ -86,11 +86,11 @@
     "Services": "Storitve",
     "Support": "Podpora",
     "Administrative": "Administrativna dela",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_MASS_STATUS_CHANGE": "Mass status change",
-    "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records to current one",
-    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
-    "LBL_UPDATE": "Update"
+    "LBL_SHOW_HIERARCHY": "Stuktura",
+    "LBL_MASS_STATUS_CHANGE": "Množična sprememba statusa",
+    "LBL_RECORDS": "Zapisi za spremembo",
+    "LBL_CHILD_RECORDS": "Trenutni zapisi v podnivoju",
+    "LBL_MASS_STATUS_UPDATED": "Status posodobljen v izbrani zapisi",
+    "LBL_UPDATE": "Posodobitev"
   }
 }

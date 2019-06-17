@@ -34,6 +34,11 @@
     "FL_SOURCE": "Источник",
     "PLL_MANUAL": "В ручную",
     "PLL_SHOP": "Магазин",
-    "FL_STORAGE": "Склад"
+    "FL_STORAGE": "Склад",
+    "FL_PAYMENT_STATUS": "Payment status",
+    "PLL_NOT_PAID": "Not paid",
+    "PLL_PAID": "Paid",
+    "PLL_OVERPAID": "Over paid",
+    "PLL_UNDERPAID": "Underpaid"
   }
 }

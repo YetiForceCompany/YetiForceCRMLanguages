@@ -37,6 +37,7 @@
     "Migration": "Миграция",
     "Customization": "Настройка",
     "Training": "Тренинг",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Ограниченный список продуктов и услуг, связанных с возможностью продажи"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Ограниченный список продуктов и услуг, связанных с возможностью продажи",
+    "FL_COST": "Cost"
   }
 }

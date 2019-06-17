@@ -37,6 +37,7 @@
     "Migration": "Migrazione",
     "Customization": "Personalizzazione",
     "Training": "Formazione",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista dei record è limitata ai prodotti e ai servizi associati all'opportunità di vendita"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista dei record è limitata ai prodotti e ai servizi associati all'opportunità di vendita",
+    "FL_COST": "Costo"
   }
 }

@@ -37,6 +37,7 @@
     "Migration": "Migração",
     "Customization": "Personalização",
     "Training": "Formação",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista de registos é limitada aos produtos e serviços associados à oportunidade de venda"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista de registos é limitada aos produtos e serviços associados à oportunidade de venda",
+    "FL_COST": "Custo"
   }
 }

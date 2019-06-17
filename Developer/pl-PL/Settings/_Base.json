@@ -397,8 +397,6 @@
     "JS_RS_ADD_YEAR_VARIABLE": "Skopiuj zmienną typu rok do prefiksu lub postfixu",
     "JS_RS_ADD_MONTH_VARIABLE": "Skopiuj zmienną typu miesiąc do prefiksu lub postfiksu",
     "JS_RS_ADD_DAY_VARIABLE": "Skopiuj zmienną typu dzień do prefiksu lub postfixu",
-    "JS_PICKLIST_TOO_MANY": "W numeracji może znajdować się tylko jedna zmienna słownikowa",
-    "JS_YES": "Yes",
-    "JS_NO": "No"
+    "JS_PICKLIST_TOO_MANY": "W numeracji może znajdować się tylko jedna zmienna słownikowa"
   }
 }

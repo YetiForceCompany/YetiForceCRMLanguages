@@ -37,6 +37,7 @@
     "Migration": "Migration",
     "Customization": "Anpassung",
     "Training": "Training",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Liste von Datensätzen beschränkt sich auf die Produkte und Dienstleistungen, die mit der Verkaufschance verknüpft sind"
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Liste von Datensätzen beschränkt sich auf die Produkte und Dienstleistungen, die mit der Verkaufschance verknüpft sind",
+    "FL_COST": "Kosten"
   }
 }

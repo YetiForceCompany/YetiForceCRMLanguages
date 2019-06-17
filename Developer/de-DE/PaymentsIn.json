@@ -57,9 +57,9 @@
     "SGB": "Spółdzielcza Grupa Bankowa",
     "Citi": "Citi Handlowy",
     "idea": "Idea Bank S.A.",
-    "FL_TRANSACTION": "Transaction",
-    "FL_ORDER": "Order",
-    "FL_INVOICE": "Invoice",
-    "FL_PAYMENT_SYSTEM": "Payment system"
+    "FL_TRANSACTION": "Transaktion",
+    "FL_ORDER": "Bestellung",
+    "FL_INVOICE": "Rechnung",
+    "FL_PAYMENT_SYSTEM": "Zahlungssystem"
   }
 }

@@ -34,6 +34,11 @@
     "FL_SOURCE": "Źródło",
     "PLL_MANUAL": "Manualnie",
     "PLL_SHOP": "Sklep",
-    "FL_STORAGE": "Magazyn"
+    "FL_STORAGE": "Magazyn",
+    "FL_PAYMENT_STATUS": "Status płatności",
+    "PLL_NOT_PAID": "Nie zapłacono",
+    "PLL_PAID": "Zapłacona",
+    "PLL_OVERPAID": "Nadpłata",
+    "PLL_UNDERPAID": "Niedopłata"
   }
 }

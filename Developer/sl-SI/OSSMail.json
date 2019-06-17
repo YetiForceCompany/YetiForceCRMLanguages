@@ -62,7 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Kontakti",
     "LBL_PROCESS": "Procesi",
     "LBL_SUB_PROCESS": "Podprocesi",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja",
     "LBL_REMOVE_RELATION": "Odstranite povezavo",
     "LBL_SELECT_RECORD": "Povezava na obstoječi zapis",
     "LBL_ADD_CALENDAR": "Dodaj dogodek",
@@ -76,7 +76,7 @@
     "LBL_MINIMIZE_BAR": "Minimirajte vrstico",
     "LBL_CREATEMAIL": "Pošlji e-pošto",
     "LBL_ADD_RELATION": "Dodaj razmerje",
-    "LBL_ADD_DOCUMENTS": "Add documents",
+    "LBL_ADD_DOCUMENTS": "Dodaj dokument",
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj v moj koledar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Napaka pri uvozu",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Datoteka je bila uvožena %s"
@@ -85,6 +85,6 @@
     "NoFindEmailInRecord": "Zapis nima e-poštnega naslova",
     "AddFindEmailInRecord": "Prenesena e-pošta",
     "StartedDownloadingEmail": "Začel z nalaganjem e-pošte",
-    "JS_DOCUMENTS_ADDED": "Documents have been added"
+    "JS_DOCUMENTS_ADDED": "Dokumenti so bili dodani"
   }
 }

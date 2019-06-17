@@ -77,6 +77,6 @@
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista de registros se limita a los productos y servicios asociados en la pestaña de “Productos & Servicios” del Módulo relacionado",
     "FL_EAN_13": "EAN-13",
     "FL_QTY_IN_STOCK": "Cantidad de productos en Stock",
-    "FL_PURCHASE": "Purchase"
+    "FL_PURCHASE": "Compra"
   }
 }

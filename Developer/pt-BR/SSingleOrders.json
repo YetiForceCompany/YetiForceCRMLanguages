@@ -34,6 +34,11 @@
     "FL_SOURCE": "Fonte",
     "PLL_MANUAL": "Manual",
     "PLL_SHOP": "Loja",
-    "FL_STORAGE": "Estoque"
+    "FL_STORAGE": "Estoque",
+    "FL_PAYMENT_STATUS": "Payment status",
+    "PLL_NOT_PAID": "Not paid",
+    "PLL_PAID": "Paid",
+    "PLL_OVERPAID": "Over paid",
+    "PLL_UNDERPAID": "Underpaid"
   }
 }
