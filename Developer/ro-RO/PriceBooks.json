@@ -10,6 +10,8 @@
     "SINGLE_PriceBooks": "Carte Preturi",
     "yes": "Da",
     "no": "Nu",
-    "Unit Price": "Pret Unitar"
+    "Unit Price": "Pret Unitar",
+    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
+    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
   }
 }

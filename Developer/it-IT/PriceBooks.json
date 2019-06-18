@@ -10,6 +10,8 @@
     "SINGLE_PriceBooks": "Listino prezzi",
     "yes": "Sì",
     "no": "No",
-    "Unit Price": "Prezzo unitario"
+    "Unit Price": "Prezzo unitario",
+    "LBL_SPECIFY_THE_MARGIN": "Specifica il margine",
+    "LBL_SPECIFY_THE_MARGINP": "Specificare il margine (%)"
   }
 }

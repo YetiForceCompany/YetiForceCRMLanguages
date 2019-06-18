@@ -10,6 +10,8 @@
     "SINGLE_PriceBooks": "Fiyat Listesi",
     "yes": "Evet",
     "no": "Hayır",
-    "Unit Price": "Birim fiyat"
+    "Unit Price": "Birim fiyat",
+    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
+    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
   }
 }

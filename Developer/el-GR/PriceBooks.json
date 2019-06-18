@@ -10,6 +10,8 @@
     "SINGLE_PriceBooks": "Τιμοκατάλογος",
     "yes": "Ναι",
     "no": "Όχι",
-    "Unit Price": "Τιμή μονάδας"
+    "Unit Price": "Τιμή μονάδας",
+    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
+    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
   }
 }

@@ -10,6 +10,8 @@
     "SINGLE_PriceBooks": "Cennik",
     "yes": "Tak",
     "no": "Nie",
-    "Unit Price": "Cena jednostkowa"
+    "Unit Price": "Cena jednostkowa",
+    "LBL_SPECIFY_THE_MARGIN": "Określ marże",
+    "LBL_SPECIFY_THE_MARGINP": "Określ marże (%)"
   }
 }
