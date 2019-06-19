@@ -180,6 +180,8 @@
     "UpdateBalance": "Mettre à jour le solde",
     "UpdateInventory": "Mettre à jour le stock",
     "LBL_TRIGGER_USER": "Utilisateur sélectionné dans le workflow déclenche",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Select an e-mail address from related modules.",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "The system will send an e-mail message to all related entries that have an e-mail field filled in. This operation may take some time depending on the number of records.",
     "LBL_PDF_TEMPLATE": "Sélectionner un modèle PDF",
     "LBL_IMPORT_TEMPLATE": "Importer déclencheur",
     "LBL_EXPORT_RECORD": "Exporter enregistrement",

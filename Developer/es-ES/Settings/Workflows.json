@@ -180,6 +180,8 @@
     "UpdateBalance": "Actualizar balance",
     "UpdateInventory": "Actualizar inventario",
     "LBL_TRIGGER_USER": "Usuario seleccionado en desencadenador de flujo de trabajo mondal",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Select an e-mail address from related modules.",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "The system will send an e-mail message to all related entries that have an e-mail field filled in. This operation may take some time depending on the number of records.",
     "LBL_PDF_TEMPLATE": "Seleccionar plantilla PDF",
     "LBL_IMPORT_TEMPLATE": "Importar Trigger",
     "LBL_EXPORT_RECORD": "Exportar registro",

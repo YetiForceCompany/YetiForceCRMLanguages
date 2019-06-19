@@ -89,7 +89,9 @@
     "SINGLE_Vendors": "Dostawca",
     "FL_CHECK_STOCK_LEVELS": "Sprawdź stan magazynu",
     "FL_PRICEBOOK": "Cennik",
-    "FL_SUM_ORDERS": "Suma wszystkich otwartych zamówień"
+    "FL_SUM_ORDERS": "Suma wszystkich otwartych zamówień",
+    "FL_TAXES": "Podatki",
+    "FL_AVAILABLE_TAXES": "Dostępne podatki"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Taki kontrahent istnieje. Czy chcesz utworzyć duplikat?",

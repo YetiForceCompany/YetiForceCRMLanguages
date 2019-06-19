@@ -89,7 +89,9 @@
     "SINGLE_Vendors": "Proveedor",
     "FL_CHECK_STOCK_LEVELS": "Comprobar niveles de inventario",
     "FL_PRICEBOOK": "Lista de precios",
-    "FL_SUM_ORDERS": "Suma de órdenes de pedidos abiertas"
+    "FL_SUM_ORDERS": "Suma de órdenes de pedidos abiertas",
+    "FL_TAXES": "Taxes",
+    "FL_AVAILABLE_TAXES": "Available taxes"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "El nombre de la Empresa ya existe. ¿Quieres crear un registro duplicado?",
