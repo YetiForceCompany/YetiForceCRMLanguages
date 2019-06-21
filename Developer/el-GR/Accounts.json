@@ -90,8 +90,8 @@
     "FL_CHECK_STOCK_LEVELS": "Έλεγχος κατάστασης αποθέματος",
     "FL_PRICEBOOK": "Τιμοκατάλογος",
     "FL_SUM_ORDERS": "Σύνολο όλων των ανοικτών παραγγελιών",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_TAXES": "Φόροι",
+    "FL_AVAILABLE_TAXES": "Διαθέσιμοι φόροι"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Το όνομα του πελάτη υπάρχει ήδη. Θέλετε να δημιουργήσετε μία διπλότυπη εγγραφή;",

@@ -132,6 +132,7 @@
     "LBL_VALUE_OF_FIELDS": "Wert vom Feld",
     "LBL_VALUE_OF_SERVER": "Wert vom Server",
     "LBL_WORKFLOWS_RUN_TIME": "Workflow Laufzeit und Datum",
+    "LBL_TASK_START_DATES_AND_TIMES": "Task start dates and times",
     "Sales stage - Negotiations": "Verkaufsphase - Verhandlung",
     "LBL_UPDATE_DATES_BASE_DATE_CHANGES": "Aktualisiere das Datum der erzeugten Ereignisse wenn sich das Basisdaum ändert",
     "LBL_CURRENT_USER": "Aktuell eingeloggtern Benutzer",

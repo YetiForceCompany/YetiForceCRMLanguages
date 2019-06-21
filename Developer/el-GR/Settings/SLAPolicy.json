@@ -1,23 +1,23 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_OPERATIONAL_HOURS": "Operational hours",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_CALENDAR_HOURS": "Calendar hours",
-    "LBL_BUSINESS_HOURS": "Business hours",
+    "LBL_SLA_POLICY": "SLA Πολιτική",
+    "LBL_NAME": "Oνομασία πολιτικής",
+    "LBL_OPERATIONAL_HOURS": "Ώρες λειτουργίας",
+    "LBL_EDIT": "Επεξεργασία SLA πολιτικής",
+    "LBL_CREATE": "Δημιουργία νέας SLA πολιτικής",
+    "LBL_CALENDAR_HOURS": "Ημερολόγιο",
+    "LBL_BUSINESS_HOURS": "Business",
     "LBL_SOURCE_MODULE": "Module",
-    "LBL_REACTION_TIME": "Reaction time",
-    "LBL_IDLE_TIME": "Idle time",
-    "LBL_RESOLVE_TIME": "Resolve time"
+    "LBL_REACTION_TIME": "Χρόνος απόκρισης",
+    "LBL_IDLE_TIME": "Χρόνος αδράνειας",
+    "LBL_RESOLVE_TIME": "Χρόνος επίλυσης"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Επιλέξτε ώρες εργασίας",
+    "JS_BUSINESS_HOURS_FROM": "Από",
+    "JS_BUSINESS_HOURS_TO": "Έως",
+    "JS_BUSINESS_HOURS_NAME": "Όνομασία",
+    "JS_BUSINESS_HOURS_DAYS": "Εργάσιμες ημέρες",
+    "JS_HOLIDAYS": "Αργίες"
   }
 }

@@ -31,6 +31,26 @@
     "LBL_SUMMARY": "Podsumowanie czasu pracy",
     "Due date": "Planowana data zakończenia",
     "Related to": "Powiązany z",
-    "LBL_ACTIVE_SERVICE_CONTRACTS": "Aktywne umowy SLA"
+    "LBL_ACTIVE_SERVICE_CONTRACTS": "Aktywne umowy SLA",
+    "LBL_SLA_POLICY": "Polityka SLA",
+    "LBL_POLICY_FROM": "Konfiguracja polityki SLA",
+    "LBL_POLICY_FROM_DEFAULT": "Ustawienia domyślne",
+    "LBL_POLICY_FROM_TEMPLATE": "Szablon SLA",
+    "LBL_POLICY_FROM_CUSTOM": "Ustawienia niestandardowe",
+    "LBL_POLICY_NAME": "Nazwa",
+    "LBL_POLICY_MODULE": "Moduł",
+    "LBL_ADD_ENTRY": "Dodaj wpis",
+    "LBL_STATUS": "Status",
+    "LBL_CONDITIONS": "Warunki",
+    "LBL_TIMES": "Times",
+    "LBL_BUSINESS_HOURS": "Godziny pracy"
+  },
+  "js": {
+    "JS_POLICY_NAME": "Nazwa",
+    "JS_OPERATIONAL_HOURS": "Godziny",
+    "JS_REACTION_TIME": "Czas reakcji",
+    "JS_IDLE_TIME": "Czas bezczynności",
+    "JS_RESOLVE_TIME": "Czas rozwiązania",
+    "JS_BUSINESS_HOURS": "Godziny pracy"
   }
 }

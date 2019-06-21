@@ -132,6 +132,7 @@
     "LBL_VALUE_OF_FIELDS": "Vrednost iz polja",
     "LBL_VALUE_OF_SERVER": "Vrednost iz strežnika",
     "LBL_WORKFLOWS_RUN_TIME": "Začetek delovnega postopka (čas/datum)",
+    "LBL_TASK_START_DATES_AND_TIMES": "Task start dates and times",
     "Sales stage - Negotiations": "Faza prodaje - pogajanje",
     "LBL_UPDATE_DATES_BASE_DATE_CHANGES": "Update the dates of the generated events when the base date changes",
     "LBL_CURRENT_USER": "Currently logged in user",
