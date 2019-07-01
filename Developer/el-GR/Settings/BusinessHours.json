@@ -15,9 +15,6 @@
     "LBL_DEFAULT_REACTION_TIME": "Προεπιλεγμένος χρόνος απόκρισης",
     "LBL_DEFAULT_IDLE_TIME": "Προεπιλεγμένος χρόνος αδράνειας",
     "LBL_DEFAULT_RESOLVE_TIME": "Προεπιλεγμένος χρόνος επίλυσης",
-    "LBL_REACTION_TIME": "Χρόνος αντίδρασης",
-    "LBL_IDLE_TIME": "Χρόνος αδράνειας",
-    "LBL_RESOLVE_TIME": "Χρόνος επίλυσης",
     "LBL_HOLIDAYS_LINK": "Μετάβαση στον πίνακα ρυθμίσεων αργιών"
   },
   "js": {

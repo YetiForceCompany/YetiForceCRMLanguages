@@ -2,15 +2,9 @@
   "php": {
     "LBL_SLA_POLICY": "SLA-Richtlinien",
     "LBL_NAME": "Name der Richtlinien",
-    "LBL_OPERATIONAL_HOURS": "Geschäftszeiten",
     "LBL_EDIT": "SLA-Richtlinien bearbeiten",
     "LBL_CREATE": "Neue SLA-Richtlinien erstellen",
-    "LBL_CALENDAR_HOURS": "Calendar",
-    "LBL_BUSINESS_HOURS": "Business",
-    "LBL_SOURCE_MODULE": "Modul",
-    "LBL_REACTION_TIME": "Reaktionszeit",
-    "LBL_IDLE_TIME": "Leerlaufzeit",
-    "LBL_RESOLVE_TIME": "Antwortzeit"
+    "LBL_SOURCE_MODULE": "Modul"
   },
   "js": {
     "JS_BUSINESS_HOURS": "Wählen Sie Geschäftszeiten",

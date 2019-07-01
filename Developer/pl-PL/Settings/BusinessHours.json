@@ -15,9 +15,6 @@
     "LBL_DEFAULT_REACTION_TIME": "Domyślny czas reakcji",
     "LBL_DEFAULT_IDLE_TIME": "Domyślny czas bezczynności",
     "LBL_DEFAULT_RESOLVE_TIME": "Domyślny czas rozwiązania",
-    "LBL_REACTION_TIME": "Czas reakcji",
-    "LBL_IDLE_TIME": "Czas bezczynności",
-    "LBL_RESOLVE_TIME": "Czas rozwiązania",
     "LBL_HOLIDAYS_LINK": "Przejdź do panelu konfiguracji świąt"
   },
   "js": {

@@ -39,7 +39,7 @@
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 10,
-        "time": "2019-05-09 09:11:07"
+        "time": "2019-07-01 12:30:51"
     },
     "fr-FR": {
         "prefix": "fr-FR",
@@ -53,7 +53,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-06-19 14:57:00"
+        "time": "2019-07-01 12:30:27"
     },
     "nl-BE": {
         "prefix": "nl-BE",
@@ -80,8 +80,8 @@
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 76,
-        "time": "2019-05-09 09:12:38"
+        "progress": 82,
+        "time": "2019-07-01 12:32:04"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -109,7 +109,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 80,
-        "time": "2019-06-17 09:11:21"
+        "time": "2019-07-01 12:33:18"
     },
     "tr-TR": {
         "prefix": "tr-TR",

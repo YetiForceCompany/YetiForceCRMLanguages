@@ -15,9 +15,6 @@
     "LBL_DEFAULT_REACTION_TIME": "Tiempo de reacción por defecto",
     "LBL_DEFAULT_IDLE_TIME": "Tiempo de inactividad predeterminado",
     "LBL_DEFAULT_RESOLVE_TIME": "Tiempo de resolución por defecto",
-    "LBL_REACTION_TIME": "Tiempo de reacción",
-    "LBL_IDLE_TIME": "Tiempo de inactividad",
-    "LBL_RESOLVE_TIME": "Tiempo de respuesta",
     "LBL_HOLIDAYS_LINK": "Ir a la configuración de días festivos"
   },
   "js": {

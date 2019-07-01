@@ -2,15 +2,9 @@
   "php": {
     "LBL_SLA_POLICY": "SLA Πολιτική",
     "LBL_NAME": "Oνομασία πολιτικής",
-    "LBL_OPERATIONAL_HOURS": "Ώρες λειτουργίας",
     "LBL_EDIT": "Επεξεργασία SLA πολιτικής",
     "LBL_CREATE": "Δημιουργία νέας SLA πολιτικής",
-    "LBL_CALENDAR_HOURS": "Ημερολόγιο",
-    "LBL_BUSINESS_HOURS": "Business",
-    "LBL_SOURCE_MODULE": "Module",
-    "LBL_REACTION_TIME": "Χρόνος απόκρισης",
-    "LBL_IDLE_TIME": "Χρόνος αδράνειας",
-    "LBL_RESOLVE_TIME": "Χρόνος επίλυσης"
+    "LBL_SOURCE_MODULE": "Module"
   },
   "js": {
     "JS_BUSINESS_HOURS": "Επιλέξτε ώρες εργασίας",

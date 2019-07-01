@@ -1,12 +1,12 @@
 {
   "php": {
     "Account Name": "Nome da Conta",
-    "Account No": "Cód. da Conta",
+    "Account No": "Número da conta",
     "Accounts": "Contas",
     "Analyst": "Analista",
     "Competitor": "Concorrente",
     "Customer": "Cliente",
-    "Email": "E-mail Principal",
+    "Email": "E-mail principal",
     "Employees": "Empregados",
     "industry": "Atividade",
     "Integrator": "Integrador",

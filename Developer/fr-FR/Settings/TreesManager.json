@@ -14,6 +14,7 @@
     "LBL_SAVE": "Sauvergarder",
     "LBL_SELECT_REPLACE_TREE_ITEM": "Modifier élément arbre vers :",
     "Category": "Catégorie",
+    "LBL_MULTICATEGORY": "List of categories",
     "Reservations": "Reservations",
     "LBL_SHARE_WITH": "Partager avec"
   },

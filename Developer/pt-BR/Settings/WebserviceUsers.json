@@ -22,7 +22,7 @@
     "PLL_ACTIVE": "Ativo",
     "PLL_INACTIVE": "Inativo",
     "LBL_CREATE_RECORD": "Criar",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Estoque"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Você tem certeza que deseja remover esta chave?",

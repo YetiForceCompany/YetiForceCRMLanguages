@@ -2,7 +2,7 @@
   "php": {
     "csv": "CSV",
     "xml": "XML",
-    "zip": "ZIP",
+    "zip": "CEP",
     "LBL_EXTENSION_TYPE": "Arquivos zipados expandidos",
     "LBL_XML_EXPORT_TPL": "Modelo",
     "LBL_STANDARD_FIELDS": "Campos padrões",
@@ -15,7 +15,7 @@
     "Merge": "Mesclar",
     "Overwrite": "Sobrescrever",
     "Skip": "Pular",
-    "LBL_FILL_EMPTY": "Fill in (update only empty fields in the record, do not change existing values)",
+    "LBL_FILL_EMPTY": "Preencha (atualize somente campos vazios no registro, não altere valores existentes)",
     "LBL_IMPORT_STEP_1": "Passo 1",
     "LBL_IMPORT_STEP_1_DESCRIPTION": "Selecionar Arquivo",
     "LBL_IMPORT_SUPPORTED_FILE_TYPES": "Tipo(s) Arquivo(s) Suportado(a)",
@@ -77,6 +77,6 @@
     "skipped": "Registros Ignorados",
     "failed": "Registros Falhos",
     "LBL_SELECT_FILE": "Selecionar arquivo para importação",
-    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing recorda are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record."
+    "LBL_MERGE_TYPE_INFO": "Ignorar: registros existentes são ignorados e não atualizados.\n\nSobrescrever: os registros existentes são sobrescritos com os dados do arquivo ou os valores padrão são preenchidos se os valores necessários no registro e no arquivo estiverem vazios. Se não marcado como necessário, os valores serão sobrescritos no registro com valores vazios do arquivo.\n\nMesclar: os valores de registro são sobrescritos com valores do arquivo, se os valores do arquivo não estiverem vazios (no entanto, se estiverem vazios, os valores do registro serão mantidos).\n\nPreencher: somente os campos vazios no registro são atualizados. Os valores do campo não são sobrescritos se já houver um valor existente no registro."
   }
 }

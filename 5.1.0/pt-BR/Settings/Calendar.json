@@ -19,7 +19,7 @@
     "PLL_BREAK_TIME": "Intervalo Trabalho",
     "PLL_HOLIDAY_TIME": "Feriados",
     "LBL_SAVE_CHANGES": "Alterações salvas",
-    "LBL_UPDATE_EVENT": "Atualizar o Evento na Agena quando reagendado.",
+    "LBL_UPDATE_EVENT": "Atualize o evento no Calendário ao reagendar novamente.",
     "LBL_GENERATE_COLOR": "Gerar cor aleatória",
     "LBL_GENERATED_COLOR": "Cor gerada",
     "LBL_NOTWORKING_DAYS": "Não é dia útil",

@@ -63,7 +63,7 @@
     "LBL_USE_FUNCTION": "Funzioni",
     "LBL_VTIGER": "YetiForce",
     "LBL_WORKFLOW": "Workflow",
-    "MANUAL": "Ogni volta che il CRON esegue i workflow",
+    "MANUAL": "Al verificarsi di un evento previsto e programmato nel modulo stesso",
     "SCHEDULE_WORKFLOW": "Informazioni base",
     "Execution Condition": "Condizione di esecuzione",
     "Module": "Modulo",

@@ -361,13 +361,13 @@
     "LBL_LICENSE": "License",
     "LBL_MISSING_LICENSE_FILE": "Missing license file",
     "LBL_SUGAR_DESCRIPTION": "Vtiger was based on Sugar CRM. Currently, only several Sugar files remain in YetiForce.",
-    "LBL_VTIGER_DESCRIPTION": "Aproximadamente 30% do código original do Vtiger é deixado. O restante do código foi reescrito e ampliado.",
+    "LBL_VTIGER_DESCRIPTION": "Foi deixado aproximadamente 30% do código original do Vtiger. O restante do código foi reescrito e ampliado.",
     "LBL_YETIFORCE_SHOP": "Store",
     "LBL_YETIFORCE_ISSUES": "Free support",
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",
     "LBL_PICKLIST_VARIABLES": "Picklist variables",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
-    "LBL_BUSINESS_HOURS": "Business hours"
+    "LBL_BUSINESS_HOURS": "Horário de funcionamento"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizado com sucesso",
