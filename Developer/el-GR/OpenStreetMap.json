@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Χρόνος (λεπτά)",
     "LBL_INSTRUCTION": "Χειροκίνητα",
     "LBL_SEARCH_IN_RADIUS": "Αναζήτηση σε ακτίνα",
-    "LBL_COPY_TO_CLIPBOARD": "Αντιγραφή στο Πρόχειρο",
     "LBL_CLIPBOARD": "Πρόχειρο",
     "LBL_INDIRECT_POINT": "Ενδιάμεσο σημείο",
     "ERR_ADDRESS_NOT_FOUND": "Διεύθυνση δεν βρέθηκε"

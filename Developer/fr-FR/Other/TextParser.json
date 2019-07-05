@@ -25,7 +25,6 @@
     "LBL_ADDITIONAL_VARIABLES": "Variables supplémentaires",
     "LBL_SOURCE_MODULE_FIELDS": "Champs du module source",
     "LBL_ENTITY_VARIABLES": "Variables générales",
-    "LBL_COPY_TO_CLIPBOARD": "Copier dans le presse-papier",
     "LBL_COPY_VALUE": "Valeur du champ",
     "LBL_COPY_LABEL": "Nom du champ",
     "LBL_AUTOMATIC": "Automatique",

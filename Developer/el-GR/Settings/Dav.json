@@ -11,7 +11,7 @@
     "LBL_LOGIN": "Είσοδος",
     "LBL_SELECT_USER": "Επιλέξτε χρήστη:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Εφαρμογή DAV δεν είναι ενεργή",
-    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Eφαρμογή DAV δεν έχει ενεργοποιηθεί ακόμα, ενεργοποιήστε την στο αρχείο config\/api.php",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Eφαρμογή DAV δεν έχει ενεργοποιηθεί ακόμα, ενεργοποιήστε την στο αρχείο config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Νέο κλειδί έχει προστεθεί με επιτυχία",
     "LBL_ERROR_SAVE_KEY": "Σφάλμα κατά την Αποθήκευση κλειδιού",
     "LBL_SUCCESS_SAVE_CHANGES": "Οι αλλαγές αποθηκεύτηκαν",
@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "Κλειδιά DAV",
     "LBL_DUPLICATE_USER_SERVICES": "Κλειδί για αυτή την εφαρμογή υπάρχει ήδη.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Πληροφορίες ρύθμισης παραμέτρων",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Παραδείγματα ρύθμισης παραμέτρων σύνδεσης διακομιστή DAV για διαφορετικές εφαρμογές και συστήματα:\n<b>DAVdroid<\/b>\nAddress: %sdav.php\nPreventive authorization NO\n<b>Thunderbird CalDAV<\/b>\nAddress: https:\/\/gitdeveloper.yetiforce.com\/dav.php\/calendars\/demo\/YFCalendar\/\n<b>iOS<\/b>\nAddress: http:\/\/gitdeveloper.yetiforce.com\/dav.php\/principals\/demo\/ \nFor SSL connections: \n http:\/\/gitdeveloper.yetiforce.com:443\/dav.php\/principals\/demo\/"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
   },
   "js": {
     "Adding a Key": "Προσθήκη κλειδιού"

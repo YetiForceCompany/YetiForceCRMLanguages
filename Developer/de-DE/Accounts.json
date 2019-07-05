@@ -90,8 +90,8 @@
     "FL_CHECK_STOCK_LEVELS": "Lagerbestand überprüfen",
     "FL_PRICEBOOK": "Preisbuch",
     "FL_SUM_ORDERS": "Summe der offenen Bestellungen",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_TAXES": "Steuern",
+    "FL_AVAILABLE_TAXES": "Verfügbare Steuern"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Organisationsname ist bereits vorhanden. Möchten Sie einen doppelten Datensatz erstellen?",

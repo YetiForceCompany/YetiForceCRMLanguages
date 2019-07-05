@@ -25,7 +25,6 @@
     "LBL_ADDITIONAL_VARIABLES": "Дополнительные переменные",
     "LBL_SOURCE_MODULE_FIELDS": "Поля из модуля-источника",
     "LBL_ENTITY_VARIABLES": "Общие переменные",
-    "LBL_COPY_TO_CLIPBOARD": "Скопировать в буфер",
     "LBL_COPY_VALUE": "Значение поля",
     "LBL_COPY_LABEL": "Название поля",
     "LBL_AUTOMATIC": "Автоматически",

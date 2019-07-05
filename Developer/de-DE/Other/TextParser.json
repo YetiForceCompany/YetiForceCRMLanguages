@@ -25,7 +25,6 @@
     "LBL_ADDITIONAL_VARIABLES": "Zusätzliche Variablen",
     "LBL_SOURCE_MODULE_FIELDS": "Felder aus Quellmodul",
     "LBL_ENTITY_VARIABLES": "Allgemeine Variablen",
-    "LBL_COPY_TO_CLIPBOARD": "In Zwischenspeicher kopieren",
     "LBL_COPY_VALUE": "Feldwert",
     "LBL_COPY_LABEL": "Feldname",
     "LBL_AUTOMATIC": "Automatisch",

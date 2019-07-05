@@ -11,7 +11,7 @@
     "LBL_LOGIN": "Logare",
     "LBL_SELECT_USER": "Selectati utilizator:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Aplicatia DAV nu este activa",
-    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Aplicatia DAV nu a fost activata inca, activati-o in config\/api.php",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Aplicatia DAV nu a fost activata inca, activati-o in config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Noua cheie a fost adaugata cu succes",
     "LBL_ERROR_SAVE_KEY": "Eroare salvare cheie",
     "LBL_SUCCESS_SAVE_CHANGES": "Modificari salvate",
@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "Chei DAV",
     "LBL_DUPLICATE_USER_SERVICES": "Cheia pentru aceasta aplicatie exista deja.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Informatii despre configurare",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Exemple de configurare a conexiunii serverului DAV, pentru diferite aplicatii si sisteme:\r\n<b>DAVdroid<\/b>\r\nAddress: %sdav.php\r\nPreventive authorization NO\r\n<b>Thunderbird CalDAV<\/b>\r\nAddress: https:\/\/gitdeveloper.yetiforce.com\/dav.php\/calendars\/demo\/YFCalendar\/\r\n<b>iOS<\/b>\r\nAddress: http:\/\/gitdeveloper.yetiforce.com\/dav.php\/principals\/demo\/ \r\nPentru conexiuni SSL: \r\n http:\/\/gitdeveloper.yetiforce.com:443\/dav.php\/principals\/demo\/"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
   },
   "js": {
     "Adding a Key": "Adaugati cheie"

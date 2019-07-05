@@ -11,7 +11,7 @@
     "LBL_LOGIN": "Acesso",
     "LBL_SELECT_USER": "Escolha um Usuário:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Aplicação DAV não está ativa",
-    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "A aplicação DAV ainda não foi ativada, por favor, ative o \"DAV\" no arquivo config\/api.php",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "A aplicação DAV ainda não foi ativada, por favor, ative o \"DAV\" no arquivo config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Nova chave foi adicionada",
     "LBL_ERROR_SAVE_KEY": "Erro na chave adicionada",
     "LBL_SUCCESS_SAVE_CHANGES": "Alterações gravadas",
@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "Chaves DAV",
     "LBL_DUPLICATE_USER_SERVICES": "A chave para esta aplicação já existe.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Informação de Configuração",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Examplos de configuração de conexão de Servidor DAV para diferentes apps e sistemas:\r\n<b>DAVdroid<\/b>\r\nEndereço: https:\/\/gitdeveloper.yetiforce.com\/dav.php\r\nAutorização preventiva\r\n<b>CalDAV Thunderbird<\/b>\r\nEndereço: https:\/\/gitdeveloper.yetiforce.com\/dav.php\/calendars\/demo\/YFCalendar\/\r\n<b>iOS<\/b>\r\nEndereço: http:\/\/gitdeveloper.yetiforce.com\/dav.php\/principals\/demo\/ \r\nPara conexões SSL: \r\n http:\/\/gitdeveloper.yetiforce.com:443\/dav.php\/principals\/demo\/"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
   },
   "js": {
     "Adding a Key": "Adicionar Chave"

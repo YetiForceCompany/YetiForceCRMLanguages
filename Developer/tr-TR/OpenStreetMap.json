@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Zaman [dk]",
     "LBL_INSTRUCTION": "Manuel",
     "LBL_SEARCH_IN_RADIUS": "Yarıçap içinde ara",
-    "LBL_COPY_TO_CLIPBOARD": "Panoya kopyala",
     "LBL_CLIPBOARD": "Pano",
     "LBL_INDIRECT_POINT": "Dolaylı nokta",
     "ERR_ADDRESS_NOT_FOUND": "Adres bulunamadı"

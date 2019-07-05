@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Tempo [min]",
     "LBL_INSTRUCTION": "Manual",
     "LBL_SEARCH_IN_RADIUS": "Buscar nos arredores",
-    "LBL_COPY_TO_CLIPBOARD": "Copiar para área de transferência",
     "LBL_CLIPBOARD": "Área de Transferência",
     "LBL_INDIRECT_POINT": "Ponto indireto",
     "ERR_ADDRESS_NOT_FOUND": "Endereço Não Encontrado"

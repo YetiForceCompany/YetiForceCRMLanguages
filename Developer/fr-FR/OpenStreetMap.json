@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Temps [min]",
     "LBL_INSTRUCTION": "Manuel",
     "LBL_SEARCH_IN_RADIUS": "Recherche en rayon",
-    "LBL_COPY_TO_CLIPBOARD": "Copier dans le presse-papier",
     "LBL_CLIPBOARD": "Presse-papiers",
     "LBL_INDIRECT_POINT": "Point indirect",
     "ERR_ADDRESS_NOT_FOUND": "Adresse introuvable"

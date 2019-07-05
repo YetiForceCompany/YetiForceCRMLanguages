@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Tiempo [min]",
     "LBL_INSTRUCTION": "Manual",
     "LBL_SEARCH_IN_RADIUS": "Buscar en radio",
-    "LBL_COPY_TO_CLIPBOARD": "Copiar al portapapeles",
     "LBL_CLIPBOARD": "Portapapeles",
     "LBL_INDIRECT_POINT": "Punto indirecto",
     "ERR_ADDRESS_NOT_FOUND": "Dirección no encontrada"

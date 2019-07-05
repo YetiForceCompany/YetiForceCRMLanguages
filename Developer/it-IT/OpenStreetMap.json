@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Tempo percorrenza [min]",
     "LBL_INSTRUCTION": "Manuale",
     "LBL_SEARCH_IN_RADIUS": "Cerca nel raggio",
-    "LBL_COPY_TO_CLIPBOARD": "Copia",
     "LBL_CLIPBOARD": "Appunti",
     "LBL_INDIRECT_POINT": "Punto indiretto",
     "ERR_ADDRESS_NOT_FOUND": "Indirizzo non trovato"

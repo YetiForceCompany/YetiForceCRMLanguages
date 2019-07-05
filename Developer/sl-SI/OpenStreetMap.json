@@ -12,7 +12,6 @@
     "LBL_TRAVEL_TIME": "Čas [min]",
     "LBL_INSTRUCTION": "Ročno",
     "LBL_SEARCH_IN_RADIUS": "Iskanje v radijusu",
-    "LBL_COPY_TO_CLIPBOARD": "Kopiraj v odložišče",
     "LBL_CLIPBOARD": "Odložišče",
     "LBL_INDIRECT_POINT": "Posredna točka",
     "ERR_ADDRESS_NOT_FOUND": "Naslov ni bil najden"

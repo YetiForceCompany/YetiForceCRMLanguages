@@ -121,7 +121,6 @@
     "LBL_CHOOSE_DATE": "Укажите дату",
     "LBL_SELECT_MONTH_AND_DAY": "Выберите месяц и день",
     "LBL_SELECTED_DATES": "Выбранные даты",
-    "LBL_EXCEEDING_MAXIMUM_LIMIT": "Превышен максимальный лимит",
     "LBL_NEXT_TRIGGER_TIME": "Следующий триггер времени на",
     "LBL_ACTIVATION_TASKS": "Активировать Задачу",
     "LBL_DEACTIVATION_TASKS": "Деактивировать Задачу",
