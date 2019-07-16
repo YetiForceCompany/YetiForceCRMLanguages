@@ -1366,7 +1366,8 @@
     "FL_RESPONSE_EXPECTED": "Risposta attesa",
     "FL_SOLUTION_EXPECTED": "Soluzione prevista",
     "FL_IDLE_DATE_EXPECTED": "Data di inattività prevista",
-    "BTN_COPY_TO_CLIPBOARD": "Copia negli appunti"
+    "BTN_COPY_TO_CLIPBOARD": "Copia negli appunti",
+    "LBL_HAS_CHANGED": "modificato"
   },
   "js": {
     "JS_APPROVE": "Approva",

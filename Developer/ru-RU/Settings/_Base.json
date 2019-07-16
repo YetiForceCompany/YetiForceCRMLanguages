@@ -88,6 +88,7 @@
     "LBL_PIN": "Прикрепить",
     "LBL_PRODUCT_SERVICE_TAXES": "Налоги на товары и услуги",
     "LBL_PROFILE_DESCRIPTION": "Управление доступом пользователей к модулям для различных Ролей",
+    "LBL_SHOP_YETIFORCE_DESCRIPTION": "In order for the store to function properly and purchased products / packages, the CRON mechanism must be active. Information about payments and adding functionality is done by CRON, so it is important that it works properly. <br> Prices in the store depend on the size of your company, depending on the number of users, we determine the size of the company and the price for the product.",
     "LBL_PROFILES": "Профили",
     "LBL_RESET_TO_DEFAULT": "Значения по умолчанию",
     "LBL_ROLE_DESCRIPTION": "Установить иерархию ролей и назначить пользователям",

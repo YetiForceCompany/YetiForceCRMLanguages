@@ -88,6 +88,7 @@
     "LBL_PIN": "Anheften",
     "LBL_PRODUCT_SERVICE_TAXES": "Produkt- und Dienstleistungssteuersätze",
     "LBL_PROFILE_DESCRIPTION": "Definieren Sie Profile als Basis für die Rechtevergabe an Nutzern über verschiedene Rollen",
+    "LBL_SHOP_YETIFORCE_DESCRIPTION": "Damit der Shop ordnungsgemäß funktioniert und auch gekaufte Produkte / Pakete, muss die CRON-Mechanismus aktiv sein. Informationen über die Zahlungen und das hinzufügen von Funktionalität erfolgt durch CRON, daher ist es wichtig, dass dieser richtig funktioniert. <br> Preise im Shop sind abhängig von der Größe Ihres Unternehmens, somit wird abhängig von der Anzahl der Nutzer und von der Größe des Unternehmens der Preis für das Produkt ermittelt.",
     "LBL_PROFILES": "Profile",
     "LBL_RESET_TO_DEFAULT": "Auf Standard zurücksetzen",
     "LBL_ROLE_DESCRIPTION": "Definieren Sie die Hierarchie von Rollen und weisen Sie diesen Profilen zu",

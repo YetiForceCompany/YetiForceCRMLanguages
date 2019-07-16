@@ -1366,7 +1366,8 @@
     "FL_RESPONSE_EXPECTED": "Oczekiwany czas reakcji",
     "FL_SOLUTION_EXPECTED": "Oczekiwany czas rozwiązania",
     "FL_IDLE_DATE_EXPECTED": "Oczekiwany czas bezczynności",
-    "BTN_COPY_TO_CLIPBOARD": "Kopiuj do schowka"
+    "BTN_COPY_TO_CLIPBOARD": "Kopiuj do schowka",
+    "LBL_HAS_CHANGED": "zmieniono"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

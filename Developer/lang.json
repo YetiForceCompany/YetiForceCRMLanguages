@@ -4,132 +4,132 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 5,
-        "time": "2019-07-11 12:28:55"
+        "time": "2019-07-16 10:13:45"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
         "progress": 14,
-        "time": "2019-07-11 12:29:36"
+        "time": "2019-07-16 10:14:45"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 99,
-        "time": "2019-07-11 12:30:51"
+        "progress": 100,
+        "time": "2019-07-16 10:16:44"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 99,
-        "time": "2019-07-11 12:31:10"
+        "time": "2019-07-16 10:17:15"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 99,
-        "time": "2019-07-11 12:34:03"
+        "time": "2019-07-16 10:21:47"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 10,
-        "time": "2019-07-11 12:31:48"
+        "time": "2019-07-16 10:18:16"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 83,
-        "time": "2019-07-11 12:30:31"
+        "progress": 82,
+        "time": "2019-07-16 10:16:14"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 100,
-        "time": "2019-07-11 12:31:29"
+        "progress": 99,
+        "time": "2019-07-16 10:17:45"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 8,
-        "time": "2019-07-11 12:30:12"
+        "time": "2019-07-16 10:15:44"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 22,
-        "time": "2019-07-11 12:29:54"
+        "time": "2019-07-16 10:15:14"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2019-07-11 12:32:08"
+        "time": "2019-07-16 10:18:47"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 81,
-        "time": "2019-07-11 12:32:45"
+        "time": "2019-07-16 10:19:48"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
-        "progress": 30,
-        "time": "2019-07-11 12:32:26"
+        "progress": 29,
+        "time": "2019-07-16 10:19:17"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 83,
-        "time": "2019-07-11 12:33:04"
+        "time": "2019-07-16 10:20:18"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 89,
-        "time": "2019-07-11 12:33:23"
+        "time": "2019-07-16 10:20:48"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 78,
-        "time": "2019-07-11 12:33:43"
+        "time": "2019-07-16 10:21:17"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 35,
-        "time": "2019-07-11 12:34:22"
+        "time": "2019-07-16 10:22:16"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 42,
-        "time": "2019-07-11 12:34:41"
+        "time": "2019-07-16 10:22:45"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 8,
-        "time": "2019-07-11 12:29:17"
+        "time": "2019-07-16 10:14:15"
     }
 }

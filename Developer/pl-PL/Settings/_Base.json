@@ -88,6 +88,7 @@
     "LBL_PIN": "Przypnij",
     "LBL_PRODUCT_SERVICE_TAXES": "Podatki od produktów i usług",
     "LBL_PROFILE_DESCRIPTION": "Zarządzaj profilami i definiuj w nich dostęp do modułów, pól, narzędzi w celu personalizacji systemu CRM.",
+    "LBL_SHOP_YETIFORCE_DESCRIPTION": "Aby sklep funkcjonował prawidłowo i kupował produkty/pakiety, mechanizm CRON musi być aktywny. Informacje o płatnościach i dodawanie funkcjonalności są wykonywane przez CRON, dlatego ważne jest, aby działał prawidłowo. <br> Ceny w sklepie zależą od wielkości Twojej firmy, w zależności od liczby użytkowników, określamy wielkość firmy i cenę produktu.",
     "LBL_PROFILES": "Profile",
     "LBL_RESET_TO_DEFAULT": "Resetuj do ustawień domyślnych",
     "LBL_ROLE_DESCRIPTION": "Ustaw role i role podrzędne na podstawie struktury organizacyjnej firmy a następnie powiąż profile użytkowników systemu.",

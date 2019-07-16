@@ -46,6 +46,13 @@
     "LBL_NO_INTERNET_CONNECTION": "Sin conexión a Internet",
     "LBL_NO_LANGUAGES_TO_DOWNLOAD": "No hay idiomas para descargar",
     "LBL_TRANSLATED_WORDS": "Palabras traducidas",
-    "LBL_LANG": "Idioma"
+    "LBL_LANG": "Idioma",
+    "LBL_BUY": "Buy",
+    "LBL_PERIOD_OF_MONTH": "M",
+    "LBL_SUCCESSFUL_TRANSACTION": "Thank you for making the payment. The transaction is being processed, purchased functions will be added to your system once we receive the payment.",
+    "LBL_FAILED_TRANSACTION": "Transaction failed or was cancelled, please check the payment on your PayPal account and try again.",
+    "LBL_SHOP_PREMIUMMODULES": "Premium modules",
+    "LBL_SHOP_DONATIONS": "Donate / Support our project",
+    "LBL_SHOP_PREMIUMSUPPORT": "Premium support"
   }
 }
