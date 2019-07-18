@@ -2,7 +2,7 @@
   "php": {
     "ADD_CONDITIONS": "Dodaj pogoje",
     "ADD_TASKS": "Dodaj nalogo",
-    "Calendar": "Za narediti",
+    "Calendar": "Opravilo",
     "LBL_ACTIVE": "Aktiven",
     "LBL_ADD_FIELD": "Dodaj polje",
     "LBL_ADD_FIELDS": "Dodaj polja",
@@ -149,7 +149,7 @@
     "Select e-mail address": "Izberi e-poštni naslov",
     "Send Mail": "Send Mail",
     "Invoke Custom Function": "Invoke custom function",
-    "Create Todo": "Create ToDo",
+    "Create Todo": "Dodaj opravilo",
     "Create Event": "Ustvari dogodek",
     "Update Fields": "Update fields",
     "Create Entity": "Create entity",

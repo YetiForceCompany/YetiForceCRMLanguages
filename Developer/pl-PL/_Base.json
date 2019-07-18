@@ -1367,7 +1367,10 @@
     "FL_SOLUTION_EXPECTED": "Oczekiwany czas rozwiązania",
     "FL_IDLE_DATE_EXPECTED": "Oczekiwany czas bezczynności",
     "BTN_COPY_TO_CLIPBOARD": "Kopiuj do schowka",
-    "LBL_HAS_CHANGED": "zmieniono"
+    "LBL_HAS_CHANGED": "zmieniono",
+    "LBL_YETIFORCE_SHOP_CHECK_STATUS": "YETIFORCE_SHOP_CHECK_STATUS",
+    "LBL_YETIFORCE_SHOP_ERROR": "YETIFORCE_SHOP_ERROR",
+    "LBL_YETIFORCE_SHOP": "Sklep YetiForce"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1750,7 +1753,7 @@
     "JS_CHAT_NOTIFICATION": "Powiadomienia czatu",
     "JS_CHAT_SOUND_OFF": "Wyłącz dźwięk",
     "JS_CHAT_SOUND_ON": "Włącz dźwięk",
-    "JS_CHAT_HISTORY_CHAT": "Historia",
+    "JS_CHAT_HISTORY": "Historia czatu",
     "JS_CHAT_MORE": "więcej",
     "JS_CHAT_HIDE": "ukryj",
     "JS_CHAT_NO_MESSAGES": "Brak wiadomości",

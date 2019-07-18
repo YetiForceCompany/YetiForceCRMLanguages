@@ -79,7 +79,8 @@
     "LBL_ADD_DOCUMENTS": "Aggiungi documenti",
     "LBL_ADD_TO_MY_CALENDAR": "Aggiungi al calendario",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Si è verificato un errore durante l'importazione",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Il file è stato importato %s"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Il file è stato importato %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Azioni sulla barra non disponibili"
   },
   "js": {
     "NoFindEmailInRecord": "Il record non ha indirizzo email",

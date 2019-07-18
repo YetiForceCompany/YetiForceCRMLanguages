@@ -1367,7 +1367,10 @@
     "FL_SOLUTION_EXPECTED": "Λύση αναμένεται",
     "FL_IDLE_DATE_EXPECTED": "Idle date expected",
     "BTN_COPY_TO_CLIPBOARD": "Copy to clipboard",
-    "LBL_HAS_CHANGED": "άλλαξε"
+    "LBL_HAS_CHANGED": "άλλαξε",
+    "LBL_YETIFORCE_SHOP_CHECK_STATUS": "YETIFORCE_SHOP_CHECK_STATUS",
+    "LBL_YETIFORCE_SHOP_ERROR": "YETIFORCE_SHOP_ERROR",
+    "LBL_YETIFORCE_SHOP": "Yetiforce shop"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",
@@ -1750,7 +1753,7 @@
     "JS_CHAT_NOTIFICATION": "Ειδοποιήσεις συνομιλίας",
     "JS_CHAT_SOUND_OFF": "Ήχος ανενεργός",
     "JS_CHAT_SOUND_ON": "Ήχος ενεργός",
-    "JS_CHAT_HISTORY_CHAT": "Ιστορικό συνομιλίας",
+    "JS_CHAT_HISTORY": "Ιστορικό συνομιλίας",
     "JS_CHAT_MORE": "περισσότερα",
     "JS_CHAT_HIDE": "απόκρυψη",
     "JS_CHAT_NO_MESSAGES": "Κανένα μήνυμα",

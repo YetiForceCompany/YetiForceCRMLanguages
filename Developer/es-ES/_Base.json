@@ -1367,7 +1367,10 @@
     "FL_SOLUTION_EXPECTED": "Solución esperada",
     "FL_IDLE_DATE_EXPECTED": "Fecha de inactividad esperada",
     "BTN_COPY_TO_CLIPBOARD": "Copy to clipboard",
-    "LBL_HAS_CHANGED": "cambiado"
+    "LBL_HAS_CHANGED": "cambiado",
+    "LBL_YETIFORCE_SHOP_CHECK_STATUS": "YETIFORCE_SHOP_CHECK_STATUS",
+    "LBL_YETIFORCE_SHOP_ERROR": "YETIFORCE_SHOP_ERROR",
+    "LBL_YETIFORCE_SHOP": "Yetiforce shop"
   },
   "js": {
     "JS_APPROVE": "Aprovada",
@@ -1750,7 +1753,7 @@
     "JS_CHAT_NOTIFICATION": "Chat notifications",
     "JS_CHAT_SOUND_OFF": "Sound off",
     "JS_CHAT_SOUND_ON": "Sound on",
-    "JS_CHAT_HISTORY_CHAT": "Chat history",
+    "JS_CHAT_HISTORY": "Chat history",
     "JS_CHAT_MORE": "más",
     "JS_CHAT_HIDE": "Ocultar",
     "JS_CHAT_NO_MESSAGES": "No messages",

@@ -52,7 +52,13 @@
     "LBL_SUCCESSFUL_TRANSACTION": "Dziękujemy za dokonanie płatności. Płatność jest w trakcie księgowania, po zakończeniu wykupione funkcje zostaną dodane do Twojego systemu.",
     "LBL_FAILED_TRANSACTION": "Płatność nie powiodła się lub została anulowana. \nW celu weryfikacji problemu sprawdź płatność na swoim koncie w PayPal i spróbuj ponownie.",
     "LBL_SHOP_PREMIUMMODULES": "Moduły premium",
+    "LBL_SHOP_PREMIUMMODULES_DESC": "Włącz nowe funcje systemu",
     "LBL_SHOP_DONATIONS": "Wesprzyj nasz projekt",
-    "LBL_SHOP_PREMIUMSUPPORT": "Wsparcie Premium"
+    "LBL_SHOP_DONATIONS_DESC": "Chcesz mieć wpływ na przyszłość YetiForce? Wesprzyj jego rozwój!",
+    "LBL_SHOP_PREMIUMSUPPORT": "Wsparcie Premium",
+    "LBL_SHOP_PREMIUMSUPPORT_DESC": "Jeśli nie wiesz, jak działa system lub potrzebujesz indywidualnej i szybkiej pomocy, ten pakiet jest dla Ciebie",
+    "LBL_SHOP_DISABLEFOOTER": "Wyłącz stopkę",
+    "LBL_SHOP_DISABLEFOOTER_DESC": "Istnieje możliwość wyłączenia stopki YetiForce za opłatą.",
+    "LBL_SIZE_OF_YOUR_COMPANY_HAS_CHANGED": "Wielkość Twojej firmy uległa zmianie, wykupiony wcześniej pakiet jest za mały. Zaktualizuj subskrypcję."
   }
 }

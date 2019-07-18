@@ -34,7 +34,7 @@
     "LBL_REACTION_TIME": "Tempo di reazione",
     "LBL_IDLE_TIME": "Tempo di inattività",
     "LBL_RESOLVE_TIME": "Tempo di risoluzione",
-    "LBL_OPERATIONAL_HOURS": "Ore operative",
+    "LBL_OPERATIONAL_HOURS": "Ore di funzionamento",
     "LBL_CALENDAR_HOURS": "Calendario",
     "LBL_BUSINESS_HOURS": "Business",
     "LBL_SLA_POLICY": "Politica SLA",
@@ -42,7 +42,7 @@
     "LBL_POLICY_TYPE_GLOBAL": "Globale (dalle ore di lavoro)",
     "LBL_POLICY_TYPE_TEMPLATE": "Modello",
     "LBL_POLICY_TYPE_CUSTOM": "Impostazioni personalizzate",
-    "LBL_POLICY_NAME": "Nome criterio",
+    "LBL_POLICY_NAME": "Nome della policy",
     "LBL_POLICY_MODULE": "Modulo",
     "LBL_ADD_ENTRY": "Aggiungi voce",
     "LBL_STATUS": "Stato",
@@ -50,7 +50,7 @@
     "LBL_TIMES": "Tempistiche"
   },
   "js": {
-    "JS_POLICY_NAME": "Nome Politica",
+    "JS_POLICY_NAME": "Nome della policy",
     "JS_OPERATIONAL_HOURS": "Ore operative",
     "JS_REACTION_TIME": "Tempo di reazione",
     "JS_IDLE_TIME": "Tempo di inattività",
