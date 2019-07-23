@@ -1368,8 +1368,7 @@
     "FL_IDLE_DATE_EXPECTED": "Oczekiwany czas bezczynności",
     "BTN_COPY_TO_CLIPBOARD": "Kopiuj do schowka",
     "LBL_HAS_CHANGED": "zmieniono",
-    "LBL_YETIFORCE_SHOP_CHECK_STATUS": "YETIFORCE_SHOP_CHECK_STATUS",
-    "LBL_YETIFORCE_SHOP_ERROR": "YETIFORCE_SHOP_ERROR",
+    "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Jeden z wykupionych produktów stracił ważnośc lub wymaga zmiany pakietu. Produkt został tymczasowo anulowany.",
     "LBL_YETIFORCE_SHOP": "Sklep YetiForce"
   },
   "js": {

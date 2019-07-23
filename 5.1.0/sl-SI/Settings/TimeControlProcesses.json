@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_TIMECONTROL_PROCESSES": "Delovni postopek",
-    "TimeControlProcesses": "Time control processes",
+    "TimeControlProcesses": "Časovni nadzor procesov",
     "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
     "LBL_ONEDAY_VALID": "Work time limited to 24 hours",
     "LBL_TIMEOVERLAP_VALID": "Allow time overlapping",

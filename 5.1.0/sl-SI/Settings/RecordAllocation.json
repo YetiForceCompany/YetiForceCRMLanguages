@@ -2,7 +2,7 @@
   "php": {
     "LBL_OWNER_ALLOCATION": "Assign owner",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "Dodeli uporabnike skupne rabe",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
     "LBL_SORTING_SETTINGS_WORNING": "Opozorilo!\n  Konfiguracija bo delovala samo, če jo omogočite na plošči Vloge",
     "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",

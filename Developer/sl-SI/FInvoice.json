@@ -40,6 +40,10 @@
     "LBL_YEAR": "Leto",
     "FL_ISSUE_TIME": "Datum računa",
     "FL_OPPORTUNITY": "Priložnost",
-    "FL_PROJECT": "Projekt"
+    "FL_PROJECT": "Projekt",
+    "PLL_NOT_PAID": "Not paid",
+    "PLL_PAID": "Paid",
+    "PLL_OVERPAID": "Over paid",
+    "PLL_UNDERPAID": "Underpaid"
   }
 }

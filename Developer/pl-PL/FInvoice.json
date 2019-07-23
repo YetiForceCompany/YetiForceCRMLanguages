@@ -40,6 +40,10 @@
     "LBL_YEAR": "Rok",
     "FL_ISSUE_TIME": "Data wystawienia",
     "FL_OPPORTUNITY": "Szansa sprzedaży",
-    "FL_PROJECT": "Projekt"
+    "FL_PROJECT": "Projekt",
+    "PLL_NOT_PAID": "Nie zapłacono",
+    "PLL_PAID": "Zapłacona",
+    "PLL_OVERPAID": "Nadpłata",
+    "PLL_UNDERPAID": "Niedopłata"
   }
 }

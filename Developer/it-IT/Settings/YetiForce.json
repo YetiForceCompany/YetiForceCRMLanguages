@@ -34,7 +34,7 @@
     "LBL_REGISTERED": "Registrazione riuscita",
     "LBL_REGISTRATION_KEY": "Chiave di registrazione",
     "LBL_REGISTRATION_OFFLINE_DESC": "Per registrare una versione del sistema che non ha accesso a Internet invia un'email a %s con i seguenti dati:",
-    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "\n\nOggetto: Registrazione offline YetiForce\n\nMessaggio: <qui un tuo messaggio / richiesta>\nRegistrazione CRM: <qualche informazione sull'utilizzo>\nIl nome della tua azienda: <nome società>\nPaese: <il paese di registrazione della società>\nCittà: <il comune di registrazione della società>\nIl numero di dipendenti dell'azienda: <numero di dipendenti società>\nIl sito web della tua azienda: <il sito web commerciale della società, se disponibile>\nChiave prodotto: %s\nIdentificativo installazione: %s",
+    "LBL_REGISTRATION_OFFLINE_EXAMPLE": "\n\nOggetto: Registrazione offline YetiForce\n\nMessaggio: <qui un tuo messaggio \/ richiesta>\nRegistrazione CRM: <qualche informazione sull'utilizzo>\nIl nome della tua azienda: <nome società>\nPaese: <il paese di registrazione della società>\nCittà: <il comune di registrazione della società>\nIl numero di dipendenti dell'azienda: <numero di dipendenti società>\nIl sito web della tua azienda: <il sito web commerciale della società, se disponibile>\nChiave prodotto: %s\nIdentificativo installazione: %s",
     "LBL_SUPPLIERS": "Fornitori",
     "LBL_INVALID_OFFLINE_KEY": "Inserita chiave non corretta",
     "LBL_ONLINE_REGISTRATION_FAILED": "Errore durante la registrazione",
@@ -51,14 +51,6 @@
     "LBL_PERIOD_OF_MONTH": "M",
     "LBL_SUCCESSFUL_TRANSACTION": "Grazie per aver effettuato il pagamento. La transazione è in fase di elaborazione, le funzioni acquistate saranno aggiunte al sistema una volta ricevuto il pagamento.",
     "LBL_FAILED_TRANSACTION": "Transazione non riuscita o annullata, si prega di controllare il pagamento sul tuo account PayPal e riprovare.",
-    "LBL_SHOP_PREMIUMMODULES": "Moduli Premium",
-    "LBL_SHOP_PREMIUMMODULES_DESC": "Abilitare nuove funzionalità del sistema",
-    "LBL_SHOP_DONATIONS": "Dona / supporta il nostro progetto",
-    "LBL_SHOP_DONATIONS_DESC": "Would you like to influence the future of YetiForce? Support its development!",
-    "LBL_SHOP_PREMIUMSUPPORT": "Assistenza Premium",
-    "LBL_SHOP_PREMIUMSUPPORT_DESC": "If you do not know how the system works, or you require individual and quick help, this package is for you",
-    "LBL_SHOP_DISABLEFOOTER": "Disabilita piè di pagina",
-    "LBL_SHOP_DISABLEFOOTER_DESC": "You can now disable the YetiForce footer for a fee.",
-    "LBL_SIZE_OF_YOUR_COMPANY_HAS_CHANGED": "The size of your company has changed, the purchased package is too small for the current size. Update your subscription."
+    "LBL_SIZE_OF_YOUR_COMPANY_HAS_CHANGED": "La dimensione della vostra azienda è cambiata, il pacchetto acquistato è troppo piccolo per le dimensioni attuali. Aggiorna il tuo abbonamento."
   }
 }

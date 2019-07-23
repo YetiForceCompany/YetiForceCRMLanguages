@@ -40,6 +40,10 @@
     "LBL_YEAR": "Έτος",
     "FL_ISSUE_TIME": "Ημ\/νία Τιμολόγησης",
     "FL_OPPORTUNITY": "Ευκαιρία",
-    "FL_PROJECT": "Έργο"
+    "FL_PROJECT": "Έργο",
+    "PLL_NOT_PAID": "Δεν πληρώθηκε",
+    "PLL_PAID": "Εξοφλημένο",
+    "PLL_OVERPAID": "Πληρώθηκε μεγαλύτερο ποσό",
+    "PLL_UNDERPAID": "Μερικώς εξοφλημένο"
   }
 }

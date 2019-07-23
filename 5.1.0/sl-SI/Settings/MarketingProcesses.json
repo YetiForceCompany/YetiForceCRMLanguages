@@ -13,7 +13,7 @@
     "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
     "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
     "LBL_CONDITION": "Add condition",
-    "MarketingProcesses": "Marketing processes"
+    "MarketingProcesses": "Tržni procesi"
   },
   "js": {
     "JS_NO_CONDITIONS": "At least one condition is required"

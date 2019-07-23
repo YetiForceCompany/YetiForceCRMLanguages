@@ -92,7 +92,7 @@
     "LBL_TIME_CONTROL_DETAILED_LIST": "Elenco dettagliato piano temporale",
     "LBL_TIME_CONTROL_USER_GROUP": "Lista piano temporale con informazioni aggiuntive sugli utenti",
     "LBL_TYPE": "Tipo attività",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Attività di progetto"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Sotto-processo di secondo livello"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caratteri consentiti: [0-9]",

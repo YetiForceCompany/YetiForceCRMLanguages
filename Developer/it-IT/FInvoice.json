@@ -40,6 +40,10 @@
     "LBL_YEAR": "Anno",
     "FL_ISSUE_TIME": "Data documento",
     "FL_OPPORTUNITY": "Opportunità",
-    "FL_PROJECT": "Progetto"
+    "FL_PROJECT": "Progetto",
+    "PLL_NOT_PAID": "Non pagato",
+    "PLL_PAID": "Pagato",
+    "PLL_OVERPAID": "Pagato in eccesso",
+    "PLL_UNDERPAID": "Sottopagato"
   }
 }

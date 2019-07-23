@@ -25,7 +25,7 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 100,
-        "time": "2019-06-11 07:56:32"
+        "time": "2019-07-23 12:05:21"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -53,21 +53,21 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-07-16 10:18:00"
+        "time": "2019-07-23 12:05:50"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 8,
-        "time": "2019-05-27 11:51:01"
+        "time": "2019-07-23 12:03:59"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 23,
-        "time": "2019-05-09 09:08:30"
+        "time": "2019-07-23 12:03:32"
     },
     "pl-PL": {
         "prefix": "pl-PL",
@@ -108,8 +108,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 80,
-        "time": "2019-07-01 12:33:18"
+        "progress": 82,
+        "time": "2019-07-23 12:09:00"
     },
     "tr-TR": {
         "prefix": "tr-TR",

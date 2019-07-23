@@ -1368,8 +1368,7 @@
     "FL_IDLE_DATE_EXPECTED": "Data di inattività prevista",
     "BTN_COPY_TO_CLIPBOARD": "Copia negli appunti",
     "LBL_HAS_CHANGED": "modificato",
-    "LBL_YETIFORCE_SHOP_CHECK_STATUS": "YETIFORCE_SHOP_CHECK_STATUS",
-    "LBL_YETIFORCE_SHOP_ERROR": "YETIFORCE_SHOP_ERROR",
+    "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Uno dei prodotti acquistati è scaduto o richiede la modifica di un pacchetto. Il prodotto è stato temporaneamente annullato.",
     "LBL_YETIFORCE_SHOP": "Negozio di Yetiforce"
   },
   "js": {
