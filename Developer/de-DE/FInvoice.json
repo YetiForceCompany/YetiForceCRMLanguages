@@ -41,9 +41,9 @@
     "FL_ISSUE_TIME": "Rechnungsdatum",
     "FL_OPPORTUNITY": "Verkaufschance",
     "FL_PROJECT": "Projekt",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_NOT_PAID": "Nicht bezahlt",
+    "PLL_PAID": "Bezahlt",
+    "PLL_OVERPAID": "Überzahlung",
+    "PLL_UNDERPAID": "Unterzahlung"
   }
 }

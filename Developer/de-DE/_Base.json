@@ -1368,7 +1368,7 @@
     "FL_IDLE_DATE_EXPECTED": "Idle Datum erwartet",
     "BTN_COPY_TO_CLIPBOARD": "In Zwischenspeicher kopieren",
     "LBL_HAS_CHANGED": "geändert",
-    "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "One of the purchased products has expired or requires changing a package. The product has been temporarily canceled.",
+    "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Eine der gekauften Produkte ist abgelaufen oder erfordert eine Änderung eines Pakets. Das Produkt wurde vorübergehend deaktiviert.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop"
   },
   "js": {
@@ -1752,7 +1752,7 @@
     "JS_CHAT_NOTIFICATION": "Chat-Benachrichtigungen",
     "JS_CHAT_SOUND_OFF": "Ton aus",
     "JS_CHAT_SOUND_ON": "Ton an",
-    "JS_CHAT_HISTORY": "Chat history",
+    "JS_CHAT_HISTORY": "Chatverlauf",
     "JS_CHAT_MORE": "mehr",
     "JS_CHAT_HIDE": "weniger",
     "JS_CHAT_NO_MESSAGES": "Keine Nachrichten",

@@ -90,6 +90,8 @@
     "LBL_RECORDS": "Registos a alterar",
     "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Status atualizado nos registos selecionados",
-    "LBL_UPDATE": "Atualizar"
+    "LBL_UPDATE": "Atualizar",
+    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
+    "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets"
   }
 }

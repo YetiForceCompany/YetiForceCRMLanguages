@@ -90,6 +90,8 @@
     "LBL_RECORDS": "Rekordy do zmiany",
     "LBL_CHILD_RECORDS": "Rekordy podrzędne dla aktualnego",
     "LBL_MASS_STATUS_UPDATED": "Status zaktualizowany w wybranych rekordach",
-    "LBL_UPDATE": "Aktualizuj"
+    "LBL_UPDATE": "Aktualizuj",
+    "LBL_ADD_TIME_CONTROL": "Dodaj czas pracy przed zamknięciem zgłoszenia",
+    "LBL_CLOSE_RELATED_TICKETS": "Zanim zamkniesz zgłoszenie, zamknij powiązane zgłoszenia"
   }
 }

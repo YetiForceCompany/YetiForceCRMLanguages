@@ -51,6 +51,19 @@
     "LBL_PERIOD_OF_MONTH": "M",
     "LBL_SUCCESSFUL_TRANSACTION": "Grazie per aver effettuato il pagamento. La transazione è in fase di elaborazione, le funzioni acquistate saranno aggiunte al sistema una volta ricevuto il pagamento.",
     "LBL_FAILED_TRANSACTION": "Transazione non riuscita o annullata, si prega di controllare il pagamento sul tuo account PayPal e riprovare.",
-    "LBL_SIZE_OF_YOUR_COMPANY_HAS_CHANGED": "La dimensione della vostra azienda è cambiata, il pacchetto acquistato è troppo piccolo per le dimensioni attuali. Aggiorna il tuo abbonamento."
+    "LBL_SIZE_OF_YOUR_COMPANY_HAS_CHANGED": "La dimensione della vostra azienda è cambiata, il pacchetto acquistato è troppo piccolo per le dimensioni attuali. Aggiorna il tuo abbonamento.",
+    "LBL_PRODUCT_PREVIEW": "Anteprima prodotto",
+    "LBL_SUPPORT_US": "Supportaci",
+    "LBL_SHOP_PRODUCT_NAME": "Nome del prodotto",
+    "LBL_SHOP_AMOUNT": "Importo",
+    "LBL_SHOP_INVOICE_DETAILS": "Invoice data extracted from company data",
+    "LBL_SHOP_INVOICE_DETAILS_DESC": "Modification of entered data triggers data update in the system",
+    "LBL_SHOP_SUBSCRIPTIONS_DAY": "Scadenza del pagamento",
+    "LBL_SHOP_PACKAGE": "Pacchetto",
+    "LBL_SHOP_PACKAGE_DESC": "Dipende dalla dimensione dell'azienda",
+    "LBL_SHOP_PAYMENT_FREQUENCY": "Frequenza di pagamento",
+    "LBL_SHOP_PAYMENT_FREQUENCY_M": "Mensile",
+    "LBL_SHOP_PROCEED_TO_CHECKOUT": "Proceed to payment",
+    "LBL_SHOP_NO_COMPANIES_ALERT": "Non ci sono dati dell'utente di destinazione (l'azienda che possiede il CRM) nel sistema. I dati sono richiesti per emettere una fattura, non è possibile effettuare un pagamento senza questi dati."
   }
 }

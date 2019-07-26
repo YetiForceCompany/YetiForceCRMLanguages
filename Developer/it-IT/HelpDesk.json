@@ -90,6 +90,8 @@
     "LBL_RECORDS": "Record da cambiare",
     "LBL_CHILD_RECORDS": "Record figli a quello attuale",
     "LBL_MASS_STATUS_UPDATED": "Stato aggiornato nei record selezionati",
-    "LBL_UPDATE": "Aggiorna"
+    "LBL_UPDATE": "Aggiorna",
+    "LBL_ADD_TIME_CONTROL": "Aggiungi orario di lavoro prima di chiudere il ticket",
+    "LBL_CLOSE_RELATED_TICKETS": "Prima di chiudere questo ticket, chiudi i ticket correlati"
   }
 }

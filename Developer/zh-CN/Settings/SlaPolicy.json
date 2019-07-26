@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SLA_POLICY": "SLA 政策",
+    "LBL_NAME": "政策名称",
+    "LBL_EDIT": "编辑 SLA 政策",
+    "LBL_CREATE": "新建 SLA 政策",
+    "LBL_SOURCE_MODULE": "模块"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "选择营业时间",
+    "JS_BUSINESS_HOURS_FROM": "自",
+    "JS_BUSINESS_HOURS_TO": "至",
+    "JS_BUSINESS_HOURS_NAME": "名称",
+    "JS_BUSINESS_HOURS_DAYS": "工作日",
+    "JS_HOLIDAYS": "节假日"
   }
 }

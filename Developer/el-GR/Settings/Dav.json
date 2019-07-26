@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "Κλειδιά DAV",
     "LBL_DUPLICATE_USER_SERVICES": "Κλειδί για αυτή την εφαρμογή υπάρχει ήδη.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Πληροφορίες ρύθμισης παραμέτρων",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Παραδείγματα διαμόρφωσης σύνδεσης διακομιστή DAV για διαφορετικές εφαρμογές και συστήματα:"
   },
   "js": {
     "Adding a Key": "Προσθήκη κλειδιού"

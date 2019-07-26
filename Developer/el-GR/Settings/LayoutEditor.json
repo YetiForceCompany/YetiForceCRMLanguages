@@ -48,7 +48,7 @@
     "LBL_SUMMARY_FIELD": "Προβολή σύνοψης",
     "LBL_WRONG_FIELD_TYPE": "Λάθος τύπος πεδίου",
     "MultiSelectCombo": "Σύνθετο πλαίσιο πολλαπλών επιλογών",
-    "AdvPercentage": "Percent (Advanced)",
+    "AdvPercentage": "Τοις Εκατό (Advanced)",
     "Percent": "Ποσοστό Επί Τοις Εκατό",
     "Phone": "Τηλέφωνο",
     "Picklist": "Λίστα επιλογών",
@@ -183,12 +183,12 @@
     "Image": "Αρχείο εικόνας",
     "MultiImage": "Αρχεία πολλαπλών εικόνων",
     "DateTime": "Ημερομηνία και ώρα",
-    "RangeTime": "Range time",
+    "RangeTime": "Εύρος χρόνου",
     "LBL_HEADER_TYPE_VALUE": "Τιμή",
     "LBL_HEADER_TYPE_PROGRESS": "Μπάρα προόδου",
     "LBL_EDIT_MANDATORY_INFO": "Ισχύει για ολόκληρη την εγγραφή. Εάν 'Όχι' είναι επιλεγμένο, η εγγραφή μπορεί να σωθεί χωρίς γραμμές αποθέματος.",
-    "MultiDomain": "Domain multi select",
-    "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue."
+    "MultiDomain": "Πολλαπλή επιλογή Domain",
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Η λειτουργία αλλαγής του τύπου module έχει προστεθεί στην ουρά εργασιών του cron."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

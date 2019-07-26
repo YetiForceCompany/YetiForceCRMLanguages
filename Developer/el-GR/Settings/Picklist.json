@@ -42,14 +42,14 @@
     "LBL_RECORD_STATE_NO_CONCERN": "Μη Εφαρμόσιμο",
     "LBL_RECORD_STATE_OPEN": "Ανοιχτό",
     "LBL_RECORD_STATE_CLOSED": "Κλειστό",
-    "LBL_RECORD_STATE_INFO": "This value might be taken into account in some record state mechanisms",
+    "LBL_RECORD_STATE_INFO": "Αυτή η τιμή μπορεί να ληφθεί υπόψη σε ορισμένους αυτοματοποιημένους μηχανισμούς",
     "LBL_EDIT_PROCESS_STATUS": "Επεξεργασία κατάστασης διεργασίας",
     "LBL_TIME_COUNTING": "Καταμέτρηση χρόνου",
     "LBL_TIME_COUNTING_INFO": "Μπορείτε να ομαδοποιήσετε διάφορες καταστάσεις σε κατηγορίες βάσει των οποίων το σύστημα θα συνοψίζει τις ώρες για αυτές τις καταστάσεις. Το σύστημα μπορεί επίσης να προβεί σε ορισμένες ενέργειες όταν ξεπεραστεί ο χρόνος.",
     "LBL_TIME_COUNTING_REACTION": "Χρόνος απόκρισης",
     "LBL_TIME_COUNTING_RESOLVE": "Χρόνος επίλυσης",
     "LBL_TIME_COUNTING_IDLE": "Χρόνος αδράνειας",
-    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Field is not a process status field."
+    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Το πεδίο δεν είναι μία διεργασία κατάστασης πεδίου."
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Όλοι οι ρολόι επιλέχθηκαν",
