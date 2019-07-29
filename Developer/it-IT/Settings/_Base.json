@@ -110,6 +110,7 @@
     "LBL_PREMIUM_ZONE": "Zona Premium",
     "LBL_PARTNER_ZONE": "Zona partner",
     "LBL_SYSTEM_MONITORING": "Sistema di monitoraggio",
+    "LBL_SHOP_MARKETPLACE": "Marketplace",
     "LBL_SHOP_PREMIUMMODULES": "Moduli Premium",
     "LBL_SHOP_PREMIUMMODULES_INTRO": "Abilitare nuove funzionalità del sistema",
     "LBL_SHOP_PREMIUMMODULES_DESC": "Abilitare nuove funzionalità del sistema",
@@ -140,6 +141,7 @@
     "LBL_SHOP_MODULESENTERPRISE": "Moduli Enterprise",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
+    "LBL_SHOP_RENEW": "Rinnova",
     "LBL_SETTINGS_SHORT_CUT": "I miei collegamenti",
     "LBL_CALENDAR_LABELS_COLORS": "Colori e calendario",
     "LBL_SEARCH_AND_FILTERS": "Etichette, ricerche e filtri",
@@ -403,7 +405,8 @@
     "LBL_YETIFORCE_ASSISTANCE": "Supporto a pagamento",
     "LBL_PICKLIST_VARIABLES": "Variabile dal modulo",
     "LBL_PICKLIST_VARIABLES_INFO": "L'utilizzo di questa variabile comporterà la presenza di un valore di un menù a tendina, nel prefisso o nel suffisso. Il valore corrisponderà a quello presente nel record medesimo.",
-    "LBL_BUSINESS_HOURS": "Ore Lavorative"
+    "LBL_BUSINESS_HOURS": "Ore Lavorative",
+    "LBL_SEARCH_PLACEHOLDER": "Cerca..."
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizzazione riuscita",

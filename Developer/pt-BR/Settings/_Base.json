@@ -110,6 +110,7 @@
     "LBL_PREMIUM_ZONE": "Premium zone",
     "LBL_PARTNER_ZONE": "Zona do parceiro",
     "LBL_SYSTEM_MONITORING": "System monitoring",
+    "LBL_SHOP_MARKETPLACE": "Marketplace",
     "LBL_SHOP_PREMIUMMODULES": "Premium modules",
     "LBL_SHOP_PREMIUMMODULES_INTRO": "Enable new system capabilities",
     "LBL_SHOP_PREMIUMMODULES_DESC": "Enable new system capabilities",
@@ -140,6 +141,7 @@
     "LBL_SHOP_MODULESENTERPRISE": "Enterprise modules",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
+    "LBL_SHOP_RENEW": "Renovar",
     "LBL_SETTINGS_SHORT_CUT": "My shortcuts",
     "LBL_CALENDAR_LABELS_COLORS": "Cores e Calendário",
     "LBL_SEARCH_AND_FILTERS": "Etiquetas, Pesquisas e Filtros",
@@ -403,7 +405,8 @@
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",
     "LBL_PICKLIST_VARIABLES": "Picklist variables",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
-    "LBL_BUSINESS_HOURS": "Horário de funcionamento"
+    "LBL_BUSINESS_HOURS": "Horário de funcionamento",
+    "LBL_SEARCH_PLACEHOLDER": "Pesquisar..."
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizado com sucesso",

@@ -110,6 +110,7 @@
     "LBL_PREMIUM_ZONE": "Strefa premium",
     "LBL_PARTNER_ZONE": "Strefa partnera",
     "LBL_SYSTEM_MONITORING": "Monitoring systemu",
+    "LBL_SHOP_MARKETPLACE": "Marketplace",
     "LBL_SHOP_PREMIUMMODULES": "Moduły premium",
     "LBL_SHOP_PREMIUMMODULES_INTRO": "Włącz nowe funcje systemu",
     "LBL_SHOP_PREMIUMMODULES_DESC": "Włącz nowe funcje systemu",
@@ -140,6 +141,7 @@
     "LBL_SHOP_MODULESENTERPRISE": "Moduły enterprise ",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
+    "LBL_SHOP_RENEW": "Wznów",
     "LBL_SETTINGS_SHORT_CUT": "Moje skróty",
     "LBL_CALENDAR_LABELS_COLORS": "Kolory i kalendarz",
     "LBL_SEARCH_AND_FILTERS": "Etykiety, wyszukiwanie i filtrowanie",
@@ -403,7 +405,8 @@
     "LBL_YETIFORCE_ASSISTANCE": "Płatne wsparcie",
     "LBL_PICKLIST_VARIABLES": "Zmienne słownikowe",
     "LBL_PICKLIST_VARIABLES_INFO": "Użycie tej zmiennej spowoduje numerowanie dla każdej wartości słownikowej oddzielnie, a w miejscu zmiennej wprowadzona zostanie wartość skrócona.",
-    "LBL_BUSINESS_HOURS": "Godziny pracy"
+    "LBL_BUSINESS_HOURS": "Godziny pracy",
+    "LBL_SEARCH_PLACEHOLDER": "Wyszukaj..."
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

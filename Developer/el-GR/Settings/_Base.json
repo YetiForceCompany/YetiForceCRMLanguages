@@ -110,6 +110,7 @@
     "LBL_PREMIUM_ZONE": "Premium ζώνη",
     "LBL_PARTNER_ZONE": "Ζώνη συνεργατών",
     "LBL_SYSTEM_MONITORING": "Παρακολούθηση συστήματος",
+    "LBL_SHOP_MARKETPLACE": "Αγορά",
     "LBL_SHOP_PREMIUMMODULES": "Premium modules",
     "LBL_SHOP_PREMIUMMODULES_INTRO": "Ενεργοποίηση νέων δυνατοτήτων συστήματος",
     "LBL_SHOP_PREMIUMMODULES_DESC": "Ενεργοποίηση νέων δυνατοτήτων συστήματος",
@@ -140,6 +141,7 @@
     "LBL_SHOP_MODULESENTERPRISE": "Enterprise modules",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
+    "LBL_SHOP_RENEW": "Ανανέωση",
     "LBL_SETTINGS_SHORT_CUT": "Οι συντομεύσεις μου",
     "LBL_CALENDAR_LABELS_COLORS": "Χρώματα και ημερολόγιο",
     "LBL_SEARCH_AND_FILTERS": "Ετικέτες, αναζήτηση και φιλτράρισμα",
@@ -403,7 +405,8 @@
     "LBL_YETIFORCE_ASSISTANCE": "Υποστήριξη με χρέωση",
     "LBL_PICKLIST_VARIABLES": "Απο λίστα επιλογών",
     "LBL_PICKLIST_VARIABLES_INFO": "Χρησιμοποιώντας αυτήν τη μεταβλητή θα οδηγήσει σε ξεχωριστή αρίθμηση για κάθε τιμή της λίστας επιλογών, και μια σύντομη(short) τιμή θα αντικαταστήσει τη μεταβλητή.",
-    "LBL_BUSINESS_HOURS": "Εργάσιμες ώρες"
+    "LBL_BUSINESS_HOURS": "Εργάσιμες ώρες",
+    "LBL_SEARCH_PLACEHOLDER": "Αναζήτηση..."
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",
