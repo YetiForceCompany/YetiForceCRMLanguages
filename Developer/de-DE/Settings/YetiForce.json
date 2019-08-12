@@ -56,14 +56,15 @@
     "LBL_SUPPORT_US": "Unterstütze uns",
     "LBL_SHOP_PRODUCT_NAME": "Produktname",
     "LBL_SHOP_AMOUNT": "Betrag",
-    "LBL_SHOP_INVOICE_DETAILS": "Invoice data extracted from company data",
-    "LBL_SHOP_INVOICE_DETAILS_DESC": "Modification of entered data triggers data update in the system",
+    "LBL_SHOP_INVOICE_DETAILS": "Rechnungsdaten aus Firmendaten extrahiert",
+    "LBL_SHOP_INVOICE_DETAILS_DESC": "Die Änderung der eingegebenen Daten löst eine Datenaktualisierung im System aus",
     "LBL_SHOP_SUBSCRIPTIONS_DAY": "Zahlungsdatum",
     "LBL_SHOP_PACKAGE": "Paket",
     "LBL_SHOP_PACKAGE_DESC": "Abhängig von Firmengröße",
     "LBL_SHOP_PAYMENT_FREQUENCY": "Zahlungsfrequenz",
     "LBL_SHOP_PAYMENT_FREQUENCY_M": "Monatlich",
-    "LBL_SHOP_PROCEED_TO_CHECKOUT": "Proceed to payment",
-    "LBL_SHOP_NO_COMPANIES_ALERT": "Es gibt keine Daten des Zielbenutzers (das Unternehmen, das das CRM besitzt) im System. Die Daten sind erforderlich, um eine Rechnung zu erstellen, es ist nicht möglich, eine Zahlung ohne diese Daten zu tätigen."
+    "LBL_SHOP_PROCEED_TO_CHECKOUT": "Weiter zur Zahlung",
+    "LBL_SHOP_NO_COMPANIES_ALERT": "Es gibt keine Daten des Zielbenutzers (das Unternehmen, das das CRM besitzt) im System. Die Daten sind erforderlich, um eine Rechnung zu erstellen, es ist nicht möglich, eine Zahlung ohne diese Daten zu tätigen.",
+    "LBL_SHOP_NO_COMPANIES_BUTTON": "Fill in the data"
   }
 }

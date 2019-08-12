@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Standard modulet",
     "LBL_DELETE_RECORD": "Slet",
     "LBL_DESCRIPTION": "Beskriveslse",
+    "LBL_DESCRIPTION_VALUE_LIST": "Description that contains information about the status value in the preview header with the \"progress line\" option.",
+    "LBL_DESCRIPTION_PREFIXES": "Sets record numbering prefix assigned to given value after pre-adjusting prefixes for the record in system configuration.",
     "LBL_DISABLED": "Deaktiveret",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Hvis du vil redigere firmaoplysninger, skal du klikke på ikonet indstillinger > Tilføj/slet brugere > selskab ",
     "LBL_EDITING": "Redigering",

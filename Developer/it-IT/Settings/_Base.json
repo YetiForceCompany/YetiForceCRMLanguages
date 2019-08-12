@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Modulo predefinito",
     "LBL_DELETE_RECORD": "Elimina",
     "LBL_DESCRIPTION": "Descrizione",
+    "LBL_DESCRIPTION_VALUE_LIST": "Descrizione che contiene informazioni sul valore dello stato nell'intestazione di anteprima con l'opzione \"riga di progresso\".",
+    "LBL_DESCRIPTION_PREFIXES": "Imposta il prefisso di numerazione record assegnato al valore dato dopo l'adeguamento dei prefissi per il record nella configurazione di sistema.",
     "LBL_DISABLED": "Disabilitato",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Per modificare i dettagli della società, clicca sull'icona Impostazioni > Aggiungi / elimina utenti > Società ",
     "LBL_EDITING": "Modifica",

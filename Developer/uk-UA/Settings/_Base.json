@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Стандартний модуль",
     "LBL_DELETE_RECORD": "Видалити",
     "LBL_DESCRIPTION": "Опис",
+    "LBL_DESCRIPTION_VALUE_LIST": "Description that contains information about the status value in the preview header with the \"progress line\" option.",
+    "LBL_DESCRIPTION_PREFIXES": "Sets record numbering prefix assigned to given value after pre-adjusting prefixes for the record in system configuration.",
     "LBL_DISABLED": "Виключено",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Щоб відредагувати дані про компанію, будь ласка, натисніть на значок Налаштування > Додати/Видалити користувачів > Компанія ",
     "LBL_EDITING": "Редагування",

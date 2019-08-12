@@ -9,7 +9,9 @@
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Die volle Funktionalität des Moduls steht ab v.3.1 bereit",
     "LBL_PASS": "Passwort",
     "LBL_TITLE_ADDED": "Hinzufügen",
-    "LBL_TITLE_EDIT": "Ändern"
+    "LBL_TITLE_EDIT": "Ändern",
+    "Portal": "Portal",
+    "Payments": "Zahlungen"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sind Sie sicher den Schlüssel zu löschen?"

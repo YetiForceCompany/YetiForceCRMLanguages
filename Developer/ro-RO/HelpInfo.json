@@ -1,8 +1,0 @@
-{
-  "php": {
-    "Announcements|FL_INTERVAL": "Frecventa memento-urilor in zile, daca un utilizator nu a revizuit modificarile. Daca campul ramane gol, mementoul nu va fi afisat din nou.",
-    "Accounts|Account Name": "Acest camp este destinat pentru numele companiei",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
-  }
-}

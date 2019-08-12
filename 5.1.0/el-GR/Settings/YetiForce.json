@@ -1,7 +1,7 @@
 {
   "php": {
     "YetiForce": "YetiForce",
-    "LBL_YETIFORCE_STATUS_HEADER": "YetiForce Status",
+    "LBL_YETIFORCE_STATUS_HEADER": "Κατάσταση YetiForce",
     "LBL_YETIFORCE_STATUS_DESC": "Σελίδα ρύθμισης παραμέτρων της υπηρεσίας κατάστασης YetiForce",
     "LBL_YETIFORCE_STATUS_FULL_DESC": "Ο μηχανισμός κατάστασης, παρακολουθεί το έργο του συστήματος CRM και μεταδίδει επιλεγμένες πληροφορίες στη YetiForce Sp. z o.o. Όλες οι πληροφορίες που συλλέγονται δεν θα δημοσιεύονται και προορίζονται μόνο για την παρακολούθηση του συστήματος CRM για δυσλειτουργίες και για το περιβάλλον στο οποίο είναι εγκατεστημένο.",
     "LBL_PARAM_NAME": "Παράμετρος",
@@ -38,7 +38,7 @@
     "LBL_SUPPLIERS": "Προμηθευτές",
     "LBL_INVALID_OFFLINE_KEY": "Πληκτρολογήσατε εσφαλμένο κλειδί",
     "LBL_ONLINE_REGISTRATION_FAILED": "Σφάλμα κατά την εγγραφή.",
-    "LBL_REGISTRATION_PENDING": "Εγγραφή σε εκκρεμότητα για επικύρωση",
+    "LBL_REGISTRATION_PENDING": "Η καταχώριση εκκρεμεί για επικύρωση",
     "LBL_ACTIVATE": "Ενεργοποίηση",
     "LBL_DOWNLOAD_LANG": "Λήψη γλωσσών",
     "LBL_DOWNLOAD": "Λήψη",

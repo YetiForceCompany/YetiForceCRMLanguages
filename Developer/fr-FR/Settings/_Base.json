@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Module par défaut",
     "LBL_DELETE_RECORD": "Supprimer",
     "LBL_DESCRIPTION": "Description",
+    "LBL_DESCRIPTION_VALUE_LIST": "Description that contains information about the status value in the preview header with the \"progress line\" option.",
+    "LBL_DESCRIPTION_PREFIXES": "Sets record numbering prefix assigned to given value after pre-adjusting prefixes for the record in system configuration.",
     "LBL_DISABLED": "Désactivé",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Pour éditer les infomations société, merci de cliquer sur l'icône Paramètres > Ajouter/Supprimer Utilisateurs > Société ",
     "LBL_EDITING": "Edition",

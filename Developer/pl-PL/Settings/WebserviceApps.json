@@ -9,7 +9,9 @@
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Tworzenie i zarządzanie kluczami aplikacji integrującymi się poprzez interfejs API.",
     "LBL_PASS": "Hasło",
     "LBL_TITLE_ADDED": "Dodaj",
-    "LBL_TITLE_EDIT": "Edytuj"
+    "LBL_TITLE_EDIT": "Edytuj",
+    "Portal": "Portal klienta\/ Rest API",
+    "Payments": "Płatności (funkcjonalność płatna)"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?"

@@ -237,7 +237,8 @@
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Campo a ser sumado",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Campo donde se guardará la suma",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Valores de campo de suma de los campos relacionados con módulo",
-    "LBL_ATTACH_DOCS_FROM": "Adjuntar documentos de"
+    "LBL_ATTACH_DOCS_FROM": "Adjuntar documentos de",
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mismos campos seleccionados más de una vez",

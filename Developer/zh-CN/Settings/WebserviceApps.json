@@ -9,7 +9,9 @@
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "创建并管理通过 API 集成的应用程序密钥。",
     "LBL_PASS": "密码",
     "LBL_TITLE_ADDED": "新增",
-    "LBL_TITLE_EDIT": "编辑"
+    "LBL_TITLE_EDIT": "编辑",
+    "Portal": "Portal",
+    "Payments": "Payments"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "您是否确定要删除此密钥？"

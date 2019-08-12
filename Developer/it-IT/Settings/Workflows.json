@@ -99,9 +99,9 @@
     "Marketing process - Preliminary analysis": "Processo di marketing - analisi preliminare",
     "Marketing process - Advanced Analysis": "Processo di marketing - analisi avanzata",
     "Marketing process - Initial acquisition": "Processo di marketing - acquisizione iniziale",
-    "Generate Customer Login Details": "Génera dati di accesso cliente",
+    "Generate Customer Login Details": "Genera dati di accesso cliente",
     "Send Customer Login Details": "Invia dati di accesso cliente",
-    "Generate mail address book": "Génera rubrica email",
+    "Generate mail address book": "Genera rubrica email",
     "New comment added to ticket - contact person": "Nuovo commento aggiunto al ticket - contatto",
     "New comment added to ticket - account": "Nuovo commento aggiunto al ticket - azienda",
     "New comment added to ticket - contact": "Nuovo commento aggiunto al ticket - contatto",
@@ -237,7 +237,8 @@
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Campo da sommare",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Campo in cui salvare la somma",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Somma valori in campo di modulo collegato",
-    "LBL_ATTACH_DOCS_FROM": "Allega documenti da"
+    "LBL_ATTACH_DOCS_FROM": "Allega documenti da",
+    "LBL_WATCHDOG_INFO": "Questo compito funziona correttamente solo con i moduli gerarchici."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",

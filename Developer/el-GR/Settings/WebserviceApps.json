@@ -9,7 +9,9 @@
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Δημιουργία και διαχείριση κλειδιών εφαρμογών που ενσωματώνονται μέσω του API.",
     "LBL_PASS": "Κωδικόs πρόσβασης",
     "LBL_TITLE_ADDED": "Προσθήκη",
-    "LBL_TITLE_EDIT": "Επεξεργασία"
+    "LBL_TITLE_EDIT": "Επεξεργασία",
+    "Portal": "Portal",
+    "Payments": "Payments"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;"

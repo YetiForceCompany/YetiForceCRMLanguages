@@ -41,9 +41,9 @@
     "FL_ISSUE_TIME": "Datum računa",
     "FL_OPPORTUNITY": "Priložnost",
     "FL_PROJECT": "Projekt",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_NOT_PAID": "Ni plačano",
+    "PLL_PAID": "Plačano",
+    "PLL_OVERPAID": "Preplačano",
+    "PLL_UNDERPAID": "Premalo plačano"
   }
 }

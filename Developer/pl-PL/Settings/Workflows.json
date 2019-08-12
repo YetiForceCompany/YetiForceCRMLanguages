@@ -237,7 +237,8 @@
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Pole które ma być sumowane",
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Pole do którego zapisać sumę",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Sumuj wartości pól z powiązanych pól modułu",
-    "LBL_ATTACH_DOCS_FROM": "Załącz dokumenty z"
+    "LBL_ATTACH_DOCS_FROM": "Załącz dokumenty z",
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

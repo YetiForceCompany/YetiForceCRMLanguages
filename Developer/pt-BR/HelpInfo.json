@@ -1,8 +1,0 @@
-{
-  "php": {
-    "Announcements|FL_INTERVAL": "Frequência de lembretes em dias, se o usuário não rever as alterações. Se o campo for mantido vazio, o lembrete não será exibido novamente.",
-    "Accounts|Account Name": "Este campo é destinado ao nome da Empresa",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "País padrão usado ao sincronizar o campo de telefone CardDAV. Se o telefone estiver sem um número nacional, este campo será usado",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
-  }
-}

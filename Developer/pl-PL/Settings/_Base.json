@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Domyślny moduł",
     "LBL_DELETE_RECORD": "Usuń",
     "LBL_DESCRIPTION": "Opis",
+    "LBL_DESCRIPTION_VALUE_LIST": "Opis zawierający informacje o wartości statusu w nagłówku podglądu z opcją „pasek postępu”.",
+    "LBL_DESCRIPTION_PREFIXES": "Ustawia prefiks numeracji rekordów przypisany do danej wartości po wstępnym dostosowaniu prefiksów dla rekordu w konfiguracji systemu.",
     "LBL_DISABLED": "Wyłączony",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Aby edytować dane firmy, kliknij na ikonę Ustawienia > Firma",
     "LBL_EDITING": "Edytowanie",

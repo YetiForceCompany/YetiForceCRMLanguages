@@ -9,7 +9,9 @@
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Por favor observe que o módulo se tornará completamente funcional na v.3.1",
     "LBL_PASS": "Senha",
     "LBL_TITLE_ADDED": "Adicionar",
-    "LBL_TITLE_EDIT": "Editar"
+    "LBL_TITLE_EDIT": "Editar",
+    "Portal": "Portal",
+    "Payments": "Pagamentos"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Tem certeza que deseja apagar esta chave?"

@@ -64,6 +64,7 @@
     "LBL_SHOP_PAYMENT_FREQUENCY": "Frequenza di pagamento",
     "LBL_SHOP_PAYMENT_FREQUENCY_M": "Mensile",
     "LBL_SHOP_PROCEED_TO_CHECKOUT": "Procedi al pagamento",
-    "LBL_SHOP_NO_COMPANIES_ALERT": "Non ci sono dati dell'utente di destinazione (l'azienda che possiede il CRM) nel sistema. I dati sono richiesti per emettere una fattura, non è possibile effettuare un pagamento senza questi dati."
+    "LBL_SHOP_NO_COMPANIES_ALERT": "Non ci sono dati dell'utente di destinazione (l'azienda che possiede il CRM) nel sistema. I dati sono richiesti per emettere una fattura, non è possibile effettuare un pagamento senza questi dati.",
+    "LBL_SHOP_NO_COMPANIES_BUTTON": "Inserisci i dati"
   }
 }

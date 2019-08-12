@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Standardmodul",
     "LBL_DELETE_RECORD": "Löschen",
     "LBL_DESCRIPTION": "Beschreibung",
+    "LBL_DESCRIPTION_VALUE_LIST": "Beschreibung, die Informationen über den Status-Wert im Vorschaukopf mit der Option \"Fortschrittszeile\" enthält.",
+    "LBL_DESCRIPTION_PREFIXES": "Setzt den Datensatz-Nummerierungspräfix, der dem angegebenen Wert zugeordnet ist, nach der Voreinstellung der Präfixe für den Datensatz in der Systemkonfiguration.",
     "LBL_DISABLED": "Deaktiviert",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Um Firmendaten zu bearbeiten, klicken Sie bitte auf das Einstellungen Symbol > Hinzufügen / Löschen von Benutzer> Firma ",
     "LBL_EDITING": "Bearbeitung",
@@ -110,7 +112,7 @@
     "LBL_PREMIUM_ZONE": "Premium-Zone",
     "LBL_PARTNER_ZONE": "Partnerzone",
     "LBL_SYSTEM_MONITORING": "Systemüberwachung",
-    "LBL_SHOP_MARKETPLACE": "Marketplace",
+    "LBL_SHOP_MARKETPLACE": "Marktplatz",
     "LBL_SHOP_PREMIUMMODULES": "Premium-Module",
     "LBL_SHOP_PREMIUMMODULES_INTRO": "Neue Systemfunktionen aktivieren",
     "LBL_SHOP_PREMIUMMODULES_DESC": "Neue Systemfunktionen aktivieren",
@@ -141,7 +143,7 @@
     "LBL_SHOP_MODULESENTERPRISE": "Enterprise Module",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
-    "LBL_SHOP_RENEW": "Renew",
+    "LBL_SHOP_RENEW": "Verlängern",
     "LBL_SETTINGS_SHORT_CUT": "Meine Verknüpfungen",
     "LBL_CALENDAR_LABELS_COLORS": "Farben und Kalender",
     "LBL_SEARCH_AND_FILTERS": "Labels, Suche und Filterung",
@@ -406,7 +408,7 @@
     "LBL_PICKLIST_VARIABLES": "Auswahllisten-Werte",
     "LBL_PICKLIST_VARIABLES_INFO": "Die Verwendung dieser Variable führt zu getrennten Nummern für jeden Picklist-Wert und ein kurzer Wert ersetzt die Variable.",
     "LBL_BUSINESS_HOURS": "Geschäftszeiten",
-    "LBL_SEARCH_PLACEHOLDER": "Search..."
+    "LBL_SEARCH_PLACEHOLDER": "Suchen..."
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Zugriff erfolgreich",

@@ -64,6 +64,7 @@
     "LBL_SHOP_PAYMENT_FREQUENCY": "Częstotliwość pobierania płatności",
     "LBL_SHOP_PAYMENT_FREQUENCY_M": "Miesięczna",
     "LBL_SHOP_PROCEED_TO_CHECKOUT": "Przejdź do płatności",
-    "LBL_SHOP_NO_COMPANIES_ALERT": "W systemie nie wprowadzono danych użytkownika docelowego czyli firmy która jest właścicielem systemu CRM. Dane potrzebne są do wystawienia faktury, bez nich nie jest możliwa płatność."
+    "LBL_SHOP_NO_COMPANIES_ALERT": "W systemie nie wprowadzono danych użytkownika docelowego czyli firmy która jest właścicielem systemu CRM. Dane potrzebne są do wystawienia faktury, bez nich nie jest możliwa płatność.",
+    "LBL_SHOP_NO_COMPANIES_BUTTON": "Wypełnij dane"
   }
 }

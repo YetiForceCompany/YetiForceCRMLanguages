@@ -29,6 +29,8 @@
     "LBL_DEFAULT_MODULE": "Προεπιλεγμένο module",
     "LBL_DELETE_RECORD": "Διαγραφή",
     "LBL_DESCRIPTION": "Περιγραφή",
+    "LBL_DESCRIPTION_VALUE_LIST": "Description that contains information about the status value in the preview header with the \"progress line\" option.",
+    "LBL_DESCRIPTION_PREFIXES": "Sets record numbering prefix assigned to given value after pre-adjusting prefixes for the record in system configuration.",
     "LBL_DISABLED": "Απενεργοποιημένο",
     "LBL_EDIT_COMPANY_DETAILS_MESSAGE": "Για να επεξεργαστείτε τα στοιχεία της εταιρείας, παρακαλούμε κάντε κλικ στο εικονίδιο Ρυθμίσεις > Προσθήκη/Διαγραφή Χρηστών > Εταιρεία ",
     "LBL_EDITING": "Επεξεργασία",
