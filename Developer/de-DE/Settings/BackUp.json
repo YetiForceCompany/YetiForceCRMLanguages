@@ -10,7 +10,5 @@
     "ERR_CONFIG_ALERT_TITLE": "Backup-Management ist deaktiviert",
     "ERR_CONFIG_ALERT_DESC": "Legen Sie den entsprechenden Pfad in der BACKUP_PATH-Variable in der Konfigurationsdatei [config\/Components\/Backup.php] fest, um ihn zu aktivieren."
   },
-  "js": {
-
-  }
+  "js": {}
 }

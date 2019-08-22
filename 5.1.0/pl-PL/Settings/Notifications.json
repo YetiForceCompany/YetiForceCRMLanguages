@@ -8,7 +8,5 @@
     "LBL_LOCK": "Blokada",
     "LBL_NOTICE_CONFIG_WARNING": "Wyłączono opcję obserwacji modułów w konfiguracji. Włącz ją, aby móc zarządzać powiadomieniami."
   },
-  "js": {
-
-  }
+  "js": {}
 }

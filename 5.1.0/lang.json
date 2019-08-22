@@ -6,6 +6,13 @@
         "progress": 5,
         "time": "2019-05-09 09:06:55"
     },
+    "bg-BG": {
+        "prefix": "bg-BG",
+        "crowdinCode": "bg",
+        "name": "Bulgarian",
+        "progress": 6,
+        "time": "2019-08-22 11:46:55"
+    },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
@@ -18,14 +25,14 @@
         "crowdinCode": "de",
         "name": "German",
         "progress": 100,
-        "time": "2019-05-09 09:09:37"
+        "time": "2019-08-22 11:48:44"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 100,
-        "time": "2019-08-12 10:05:49"
+        "time": "2019-08-22 11:49:02"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -53,7 +60,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-08-12 10:06:14"
+        "time": "2019-08-22 11:49:21"
     },
     "nl-BE": {
         "prefix": "nl-BE",
@@ -74,21 +81,21 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2019-06-05 14:20:57"
+        "time": "2019-08-22 11:49:56"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 82,
-        "time": "2019-07-01 12:32:04"
+        "time": "2019-08-22 11:50:31"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 29,
-        "time": "2019-05-09 09:12:07"
+        "time": "2019-08-22 11:50:14"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -108,8 +115,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 82,
-        "time": "2019-08-12 10:09:07"
+        "progress": 83,
+        "time": "2019-08-22 11:51:24"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -130,6 +137,6 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 8,
-        "time": "2019-07-26 12:29:29"
+        "time": "2019-08-22 11:47:13"
     }
 }

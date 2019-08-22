@@ -258,6 +258,7 @@
     "LBL_SELECT_USERS": "Seleziona utenti",
     "Meeting": "Riunione",
     "Call": "Chiamata",
+    "Task": "Da Fare",
     "Mobile Call": "Chiamata cellulare",
     "Planned": "Pianificato",
     "Held": "Assegnato",
@@ -364,7 +365,8 @@
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In modalità demo, 2FA è solo per l'anteprima.",
     "FL_DEFAULT_SEARCH_MODULE": "Modulo predefinito",
     "FL_OVERRIDE_SEARCH_MODULE": "Forza la selezione predefinita",
-    "LBL_GLOBAL_SEARCH_SETTINGS": "Impostazioni di ricerca avanzata"
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Impostazioni di ricerca avanzata",
+    "FL_PRIMARY_PHONE": "Telefono principale"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separatore decimale e separatore di raggruppamento non possono essere gli stessi.",

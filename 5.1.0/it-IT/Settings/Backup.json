@@ -10,7 +10,5 @@
     "ERR_CONFIG_ALERT_TITLE": "Il backup è disabilitato",
     "ERR_CONFIG_ALERT_DESC": "Imposta il percorso, della cartella in cui reperire i backup, nella variabile BACKUP_PATH nel file di configurazione [config\/Components\/Backup.php] per abilitarlo."
   },
-  "js": {
-
-  }
+  "js": {}
 }

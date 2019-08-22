@@ -258,6 +258,7 @@
     "LBL_SELECT_USERS": "Seleccionar usuarios",
     "Meeting": "Reunión",
     "Call": "Llamada",
+    "Task": "To Do",
     "Mobile Call": "Llamada móvil",
     "Planned": "Planificado",
     "Held": "Sostener",
@@ -364,7 +365,8 @@
     "LBL_2FA_TOTP_INFO_IN_DEMO": "En modo demo, 2FA sólo es para previsualizar.",
     "FL_DEFAULT_SEARCH_MODULE": "Módulo predeterminado",
     "FL_OVERRIDE_SEARCH_MODULE": "Forzar la selección por defecto",
-    "LBL_GLOBAL_SEARCH_SETTINGS": "Configuración de búsqueda global"
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Configuración de búsqueda global",
+    "FL_PRIMARY_PHONE": "Primary phone"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separador decimal y separador de agrupación no pueden ser iguales.",

@@ -10,8 +10,8 @@
     "LBL_PASS": "Κωδικόs πρόσβασης",
     "LBL_TITLE_ADDED": "Προσθήκη",
     "LBL_TITLE_EDIT": "Επεξεργασία",
-    "Portal": "Portal",
-    "Payments": "Payments"
+    "Portal": "Πύλη",
+    "Payments": "Πληρωμές"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;"

@@ -238,7 +238,7 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Πεδίο όπου θα αποθηκευτεί το άθροισμα",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Άθροιση τιμών πεδίων από πεδία σχετιζόμενου module",
     "LBL_ATTACH_DOCS_FROM": "Επισυνάψτε έγγραφα από",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "Αυτή η διεργασία δουλεύει σωστά μόνο ιεραρχώντας τα modules."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ίδια πεδία επιλέγονται περισσότερο από μία φορά",

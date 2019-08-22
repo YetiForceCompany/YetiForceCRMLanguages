@@ -8,7 +8,5 @@
     "LBL_LOCK": "Zaklepanje",
     "LBL_NOTICE_CONFIG_WARNING": "Gledanje modulov je omogočeno v nastavitvah. Onemogočite jih, če želite upravljati obvestila."
   },
-  "js": {
-
-  }
+  "js": {}
 }

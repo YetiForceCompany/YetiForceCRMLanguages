@@ -1244,7 +1244,7 @@
     "FL_CAMPAIGN_STATUS": "Kampagnenstatus",
     "LBL_CLOSED_TICKETS_BY_PRIORITY": "Geschlossene Tickets nach Priorität",
     "LBL_CLOSED_TICKETS_BY_USER": "Geschlossene Tickets nach Benutzer",
-    "LBL_REVIEW_CHANGES": "Mark updates as reviewed",
+    "LBL_REVIEW_CHANGES": "Aktualisierungen als überprüft markieren",
     "LBL_ACCOUNTS_BY_INDUSTRY": "Organisationen nach Industrie",
     "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Geschätzter Wert Verkaufschancen",
     "LBL_UPDATE_FIELD": "Aktualisiere Feld",
@@ -1371,7 +1371,7 @@
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Die Bezahlfunktionen wurden ohne den Kauf des richtigen Produkts im Shop aktiviert. Sie verletzen die Bedingungen der Software-Lizenz.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Eine der gekauften Produkte ist abgelaufen oder erfordert eine Änderung eines Pakets. Das Produkt wurde vorübergehend deaktiviert.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
-    "LBL_USER_CURRENTLY_NOT_LOGGED": "user currently not logged"
+    "LBL_USER_CURRENTLY_NOT_LOGGED": "Benutzer momentan nicht angemeldet"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",
@@ -1659,8 +1659,8 @@
     "JS_WIDGET_DELETED": "Widget gelöscht",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domain wurde gesperrt. Bitte geben Sie eine andere an.",
     "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Sind Sie sicher, dass Sie die verknüpften E-Mails nochmal zurücksetzen möchten?",
-    "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Are you sure you want to mark updates as reviewed in the selected records?",
-    "JS_LBL_REVIEW_CHANGES": "Mark updates as reviewed",
+    "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Sind Sie sicher, dass Sie die ausgewählten Datensätzen als überprüft markieren möchten?",
+    "JS_LBL_REVIEW_CHANGES": "Aktualisierungen als überprüft markieren",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "die Basiswährung kann nicht deaktiviert werden",
     "JS_MARKED_AS_READ": "Als gelesen markieren",
     "JS_FILE_EXCEEDS_MAX_UPLOAD_SIZE": "Mindestens eine angehängte Datei ist zu groß",
@@ -1771,9 +1771,9 @@
     "JS_CHAT_TAG_USER": "Tag-Benutzer",
     "JS_CHAT_ROOMS_MENU": "Raum-Menü umschalten",
     "JS_CHAT_PICK_EMOJI": "Wählen Sie Ihr Emoji-…",
-    "JS_CHAT_ADD_FAVORITE_ROOM_FROM_MODULE": "Add favorite room from module",
-    "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Search records of the selected module",
-    "JS_CHAT_HIDE_SEARCH_FIELD": "Hide search field",
+    "JS_CHAT_ADD_FAVORITE_ROOM_FROM_MODULE": "Favourisierten Raum aus Modul hinzufügen",
+    "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Suchergebnisse des ausgewählten Moduls",
+    "JS_CHAT_HIDE_SEARCH_FIELD": "Suchfeld ausblenden",
     "JS_EMOJI_NOTFOUND": "Kein Emoji gefunden",
     "JS_EMOJI_SEARCHRESULT": "Suchergebnisse",
     "JS_EMOJI_RECENT": "den letzten",
@@ -1787,6 +1787,6 @@
     "JS_EMOJI_FLAGS": "Markierungen",
     "JS_EMOJI_CUSTOM": "Benutzerdefiniert",
     "JS_EMOJI_SEARCH": "Suche…",
-    "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket"
+    "JS_CANT_CLOSE_NEW_RECROD": "Sie können kein neues Ticket schließen"
   }
 }

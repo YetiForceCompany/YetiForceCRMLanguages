@@ -8,7 +8,5 @@
     "LBL_LOCK": "Bloquear",
     "LBL_NOTICE_CONFIG_WARNING": "Os módulos de observação estão habilitados na configuração. Desabilite-o para gerenciar as notificações."
   },
-  "js": {
-
-  }
+  "js": {}
 }

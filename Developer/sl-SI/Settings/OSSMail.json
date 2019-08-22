@@ -3,7 +3,5 @@
     "OSSMail": "E-pošta",
     "ERR_NO_MODULE_IS_INACTIVE": "Modul \"E-pošta\" je neaktiven, prosimo da ga predhodno aktivirate."
   },
-  "js": {
-
-  }
+  "js": {}
 }

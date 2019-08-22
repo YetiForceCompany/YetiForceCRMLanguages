@@ -8,7 +8,5 @@
     "LBL_LOCK": "Blocca",
     "LBL_NOTICE_CONFIG_WARNING": "La visualizzazione dei moduli è abilitata nella configurazione. Disabilitarla per gestire le notifiche."
   },
-  "js": {
-
-  }
+  "js": {}
 }

@@ -65,6 +65,6 @@
     "LBL_SHOP_PAYMENT_FREQUENCY_M": "Monatlich",
     "LBL_SHOP_PROCEED_TO_CHECKOUT": "Weiter zur Zahlung",
     "LBL_SHOP_NO_COMPANIES_ALERT": "Es gibt keine Daten des Zielbenutzers (das Unternehmen, das das CRM besitzt) im System. Die Daten sind erforderlich, um eine Rechnung zu erstellen, es ist nicht möglich, eine Zahlung ohne diese Daten zu tätigen.",
-    "LBL_SHOP_NO_COMPANIES_BUTTON": "Fill in the data"
+    "LBL_SHOP_NO_COMPANIES_BUTTON": "Daten eingeben"
   }
 }

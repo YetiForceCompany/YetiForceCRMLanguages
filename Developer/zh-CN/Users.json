@@ -258,6 +258,7 @@
     "LBL_SELECT_USERS": "选择用户",
     "Meeting": "会议",
     "Call": "通话",
+    "Task": "To Do",
     "Mobile Call": "移动电话",
     "Planned": "计划",
     "Held": "Held",
@@ -364,7 +365,8 @@
     "LBL_2FA_TOTP_INFO_IN_DEMO": "在演示模式下, 2fa 仅用于预览。",
     "FL_DEFAULT_SEARCH_MODULE": "Default module",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
-    "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings"
+    "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings",
+    "FL_PRIMARY_PHONE": "Primary phone"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "小数分隔符和分组分隔符不能是相同的",
