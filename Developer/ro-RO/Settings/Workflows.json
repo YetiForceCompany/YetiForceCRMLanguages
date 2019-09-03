@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "La ora:",
     "LBL_ON_THESE_DAYS": "In aceste zile:",
     "LBL_CHOOSE_DATE": "Alegeti data:",
-    "LBL_SELECT_MONTH_AND_DAY": "Selectati luna si ziua:",
     "LBL_SELECTED_DATES": "Date selectate:",
     "LBL_NEXT_TRIGGER_TIME": "Urmatorul timp de declansare activat",
     "LBL_ACTIVATION_TASKS": "Activati sarcinile",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Camp unde insumarea va fi salvata",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum field values from related module fields",
     "LBL_ATTACH_DOCS_FROM": "Attach documents from",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Show tasks",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Enable deactivation tasks"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Aceleasi campuri selectate mai mult decat odata",

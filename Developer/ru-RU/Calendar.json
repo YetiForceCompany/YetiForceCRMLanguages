@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "Выкл",
     "LBL_FOLLOWUP": "Связанные события",
     "PLL_PLANNED": "Запланировано",
-    "PLL_IN_REALIZATION": "В процессе",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Просрочено",
     "PLL_POSTPONED": "Отложено",
     "PLL_CANCELLED": "Отменено",

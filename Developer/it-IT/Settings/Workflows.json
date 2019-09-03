@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "All'ora",
     "LBL_ON_THESE_DAYS": "In questi giorni",
     "LBL_CHOOSE_DATE": "Scegli data",
-    "LBL_SELECT_MONTH_AND_DAY": "Giorno e mese selezionati",
     "LBL_SELECTED_DATES": "Date selezionate",
     "LBL_NEXT_TRIGGER_TIME": "Prossima attivazione alle",
     "LBL_ACTIVATION_TASKS": "Attiva tutti i processi",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Campo in cui salvare la somma",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Somma valori in campo di modulo collegato",
     "LBL_ATTACH_DOCS_FROM": "Allega documenti da",
-    "LBL_WATCHDOG_INFO": "Questo compito funziona correttamente solo con i moduli gerarchici."
+    "LBL_WATCHDOG_INFO": "Questo compito funziona correttamente solo con i moduli gerarchici.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Mostra attività",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Consentire la disattivazione attività"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",

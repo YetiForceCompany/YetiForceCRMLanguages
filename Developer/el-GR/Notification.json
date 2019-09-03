@@ -29,6 +29,7 @@
     "FL_STATUS": "Κατάσταση",
     "FL_USER": "Χρήστης",
     "FL_TYPE": "Τύπος",
+    "FL_CATEGORY": "Κατηγορία",
     "LBL_MARK_AS_READ": "Σήμανση ως αναγνωσμένη",
     "LBL_NO_NOTIFICATIONS": "Δεν υπάρχουν ειδοποιήσεις",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Συχνότητα εκτέλεσης του cron",

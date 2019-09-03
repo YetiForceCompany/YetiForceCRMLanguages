@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "OFF",
     "LBL_FOLLOWUP": "Eveniment relatat",
     "PLL_PLANNED": "Planificat",
-    "PLL_IN_REALIZATION": "Pentru a fi realizat",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Depasit",
     "PLL_POSTPONED": "Amanat",
     "PLL_CANCELLED": "Anulat",

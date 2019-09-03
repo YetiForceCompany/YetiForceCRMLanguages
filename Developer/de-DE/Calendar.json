@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "Aus",
     "LBL_FOLLOWUP": "Relevantes Ereignis",
     "PLL_PLANNED": "Geplant",
-    "PLL_IN_REALIZATION": "Zu realisieren",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Überfällig",
     "PLL_POSTPONED": "Zurückgestellt",
     "PLL_CANCELLED": "Abgebrochen",

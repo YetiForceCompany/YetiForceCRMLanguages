@@ -155,6 +155,8 @@
     "LBL_MAX_LENGTH_TEXT": "Longitud máxima del texto",
     "LBL_MAX_WIDTH_COLUMN": "Ancho de columna [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "El valor porcentual en relación con el ancho de la ventana.",
+    "LBL_TABINDEX": "Tab key sequence",
+    "LBL_TABINDEX_INFO": "Set desired field sequence to appear after clicking on the TAB key.",
     "LBL_EDIT_CUSTOM_FIELD": "Editar campo",
     "LBL_EXCEEDED_MAXIMUM_NUMBER_CHARACTERS_FOR_FIELD_NAME": "Excedió la cantidad máxima de 30 caracteres para el nombre del campo.",
     "LBL_RELATED_TAB_TYPE": "Pestañas",

@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "KAPALI",
     "LBL_FOLLOWUP": "İlgili olay",
     "PLL_PLANNED": "Planlı",
-    "PLL_IN_REALIZATION": "Gerçekleştirilecek",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Geçmiş",
     "PLL_POSTPONED": "Ertelendi",
     "PLL_CANCELLED": "İptal edildi",

@@ -371,7 +371,7 @@
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalno ločilo in ločilo za združevanje ne smeta biti enaki.",
     "JS_ENTER_CONFIRMATION_PASSWORD": "Vnesite vašo potrditev gesla.",
-    "JS_REENTER_PASSWORDS": "Znova vnesite geslo.  V \\\"novo geslo\\\" in \\\"potrdi novo geslo\\\" se vrednosti ne ujemajo.",
+    "JS_REENTER_PASSWORDS": "Please re-enter passwords.  The \"new password\" and \"confirm password\" values do not match.",
     "JS_NEW_ACCESS_KEY_REQUESTED": "Vnesite nov ključ za dostop",
     "JS_CHANGE_ACCESS_KEY_CONFIRMATION": "Zahtevan je bil nov ključ za dostop. Stari ključ dostopa je treba nadomestiti z novim v vseh nameščenih razširitvah. Ali želite nadaljevati?",
     "JS_2FA_OFF_CONFIRMATION": "Ali ste prepričani, da želite onemogočiti dvojno preverjanja pristnosti za tega uporabnika?",

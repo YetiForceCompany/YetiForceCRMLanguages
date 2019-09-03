@@ -29,6 +29,7 @@
     "FL_STATUS": "Statut",
     "FL_USER": "Utilizator",
     "FL_TYPE": "Tup",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Marcheaza ca citit",
     "LBL_NO_NOTIFICATIONS": "Nu exista notificari",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Frecventa lansare cron",

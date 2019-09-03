@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "At time:",
     "LBL_ON_THESE_DAYS": "V teh dneh:",
     "LBL_CHOOSE_DATE": "Choose date:",
-    "LBL_SELECT_MONTH_AND_DAY": "Izberi mesec in dan:",
     "LBL_SELECTED_DATES": "Izberi datum:",
     "LBL_NEXT_TRIGGER_TIME": "Next trigger time on",
     "LBL_ACTIVATION_TASKS": "Activate tasks",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Field where summation will be saved",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Vsota vrednosti polj iz sorodnih modulov",
     "LBL_ATTACH_DOCS_FROM": "Pripeti dokumenti od",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Show tasks",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Enable deactivation tasks"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

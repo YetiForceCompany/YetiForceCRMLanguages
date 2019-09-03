@@ -14,7 +14,7 @@
     "LBL_LDAP_DOMAIN": "Dominio (aggiunto automaticamente al login)",
     "LBL_VIEW_AUTH": "Autorizzazione",
     "LBL_SWITCH_USERS": "Estensione ruoli",
-    "LBL_SWITCH_USERS_DESCRIPTION": "Consente di estendere un ruolo \/ utente ad altri ruoli \/ utenti",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Consente di estendere un ruolo / utente ad altri ruoli / utenti",
     "LBL_SU_BASE_ACCESS": "Utente",
     "LBL_SU_AVAILABLE_ACCESS": "È consentito accedere come",
     "LBL_LOCKS": "Vincoli interazione",

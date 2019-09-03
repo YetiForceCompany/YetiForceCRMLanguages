@@ -29,6 +29,7 @@
     "FL_STATUS": "Stato",
     "FL_USER": "Utente",
     "FL_TYPE": "Provenienza",
+    "FL_CATEGORY": "Categoria",
     "LBL_MARK_AS_READ": "Segna come letto",
     "LBL_NO_NOTIFICATIONS": "Nessuna notifica",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Frequenza di avvio CRON",

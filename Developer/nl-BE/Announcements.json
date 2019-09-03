@@ -11,10 +11,10 @@
     "PLL_DRAFT": "Ontwerp",
     "PLL_FOR_ACCEPTANCE": "Voor goedkeuring",
     "PLL_PUBLISHED": "Gepubliceerd",
-    "PLL_ARCHIVES": "Archived",
-    "LBL_REMIND_ME_LATER": "Remind me later",
-    "LBL_MARK_AS_READ": "Mark as read",
-    "LBL_ACCEPT_ANNOUNCEMENT": "Was accepted?",
-    "LBL_DATE": "Read on"
+    "PLL_ARCHIVES": "Gearchiveerd",
+    "LBL_REMIND_ME_LATER": "Mij later herinneren",
+    "LBL_MARK_AS_READ": "Als gelezen markeren",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Is geaccepteerd?",
+    "LBL_DATE": "Gelezen op"
   }
 }

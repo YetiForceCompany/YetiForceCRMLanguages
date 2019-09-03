@@ -29,6 +29,7 @@
     "FL_STATUS": "Статус",
     "FL_USER": "Користувач",
     "FL_TYPE": "Тип",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Помітити як прочитане",
     "LBL_NO_NOTIFICATIONS": "Оповіщення відсутні",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Частота запуску CRON",

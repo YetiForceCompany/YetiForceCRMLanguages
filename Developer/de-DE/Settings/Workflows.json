@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "Zum Zeitpunkt",
     "LBL_ON_THESE_DAYS": "An diesen Tagen",
     "LBL_CHOOSE_DATE": "Datum wählen",
-    "LBL_SELECT_MONTH_AND_DAY": "Monat und Datum wählen",
     "LBL_SELECTED_DATES": "Ausgewählte Termine",
     "LBL_NEXT_TRIGGER_TIME": "Nächste Auslösezeit um",
     "LBL_ACTIVATION_TASKS": "Aktiviere Aufgaben",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Feld, in welchem die Summe gespeichert werden soll",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Summenfeldwerte aus verknüpften Modulfeldern",
     "LBL_ATTACH_DOCS_FROM": "Dokumente anhängen von",
-    "LBL_WATCHDOG_INFO": "Diese Aufgabe funktioniert nur mit Hierarchie-Modulen korrekt."
+    "LBL_WATCHDOG_INFO": "Diese Aufgabe funktioniert nur mit Hierarchie-Modulen korrekt.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Aufgaben anzeigen",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Deaktivierungsaufgaben aktivieren"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Dieselben Felder mehr als einmal ausgewählt",

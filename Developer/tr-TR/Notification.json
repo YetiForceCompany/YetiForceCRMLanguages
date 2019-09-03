@@ -29,6 +29,7 @@
     "FL_STATUS": "Durum",
     "FL_USER": "Kullanıcı",
     "FL_TYPE": "Tür",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Okundu olarak işaretle",
     "LBL_NO_NOTIFICATIONS": "Bildirim yok",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Cron başlatma frekansı",

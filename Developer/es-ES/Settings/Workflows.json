@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "En el momento:",
     "LBL_ON_THESE_DAYS": "En estos días:",
     "LBL_CHOOSE_DATE": "Elegir fecha:",
-    "LBL_SELECT_MONTH_AND_DAY": "Seleccione el mes y el día:",
     "LBL_SELECTED_DATES": "Fechas seleccionadas:",
     "LBL_NEXT_TRIGGER_TIME": "tiempo de activación para el próximo",
     "LBL_ACTIVATION_TASKS": "Activar tareas",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Campo donde se guardará la suma",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Valores de campo de suma de los campos relacionados con módulo",
     "LBL_ATTACH_DOCS_FROM": "Adjuntar documentos de",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Show tasks",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Enable deactivation tasks"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mismos campos seleccionados más de una vez",

@@ -10,7 +10,7 @@
     "SummaryCategory": "Sommari relativi",
     "Comments": "Commenti",
     "Updates": "Aggiornamenti",
-    "Activities": "Attività \/ eventi",
+    "Activities": "Attività / eventi",
     "EmailList": "Email",
     "RelatedModule": "Relazione",
     "WYSIWYG": "Descrizione record",
@@ -55,7 +55,7 @@
     "LBL_SHOW_ALL_RECORDS": "Mostra tutti i record",
     "LBL_SHOW_ALL_RECORDS_INFO": "No - Ricerca condizionata dai permessi \nSì - Ricerca non condizionata dai permessi",
     "LBL_SHITCH_HEADER": "Commutatore",
-    "LBL_SHITCH_HEADER_INFO": "Abilita un bottone bi-valore per ulteriore filtraggio (es. Sì\/No, Aperto\/Chiuso, ...)",
+    "LBL_SHITCH_HEADER_INFO": "Abilita un bottone bi-valore per ulteriore filtraggio (es. Sì/No, Aperto/Chiuso, ...)",
     "HistoryRelation": "Cronologia",
     "CountRecords": "Numero di record",
     "LBL_LIST_WITH_SUMMARY": "Elenco con sommario"

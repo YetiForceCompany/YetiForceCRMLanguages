@@ -155,6 +155,8 @@
     "LBL_MAX_LENGTH_TEXT": "Lunghezza massima",
     "LBL_MAX_WIDTH_COLUMN": "Larghezza colonna [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Larghezza percentuale in relazione alla larghezza della finestra del browser.",
+    "LBL_TABINDEX": "Sequenza del tasto Tab",
+    "LBL_TABINDEX_INFO": "Imposta la sequenza del campo desiderata da visualizzare dopo aver cliccato sulla chiave TAB.",
     "LBL_EDIT_CUSTOM_FIELD": "Modifica campo",
     "LBL_EXCEEDED_MAXIMUM_NUMBER_CHARACTERS_FOR_FIELD_NAME": "Hai superato il numero massimo di 30 caratteri per il nome del campo.",
     "LBL_RELATED_TAB_TYPE": "Scheda",

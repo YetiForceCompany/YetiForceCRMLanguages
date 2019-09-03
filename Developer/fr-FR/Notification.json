@@ -29,6 +29,7 @@
     "FL_STATUS": "Statut",
     "FL_USER": "Utilisateurs",
     "FL_TYPE": "Type",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Marquer comme lu",
     "LBL_NO_NOTIFICATIONS": "Aucune notification",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Fréquence de lancement du CRON",

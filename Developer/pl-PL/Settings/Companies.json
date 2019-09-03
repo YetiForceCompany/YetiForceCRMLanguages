@@ -8,7 +8,7 @@
     "LBL_EMAIL": "E-mail",
     "LBL_CITY": "Miejscowość",
     "LBL_COUNTRY": "Kraj",
-    "LBL_CONDITIONS_OF_REGISTRATION": "Wszystkie poniższe dane muszą być prawdziwe, obowiązek rejestracji produktu wynika z warunków licencji.  %s \nW rejestracji powinny być zawarte wszystkie firmy zaangażowane we wdrażanie systemu CRM, np. \"Docelowy użytkownik\" powinien zawsze być wypełniony danymi firmy, która używa tego systemu.\nWpis o typie \"Dostawca\" musi istnieć, gdy firma wdrażająca CRM jest inna niż ta, która korzysta z systemu. \nWpis o typie \"Integrator\" musi istnieć jeśli została przeprowadzona integracja z systemem CRM, a dane firmy, która zintegrowała system, muszą zostać przesłane.\nAby system poprawnie zweryfikował klucz rejestracyjny, Cron musi być aktywny i działać poprawnie.\n %s",
+    "LBL_CONDITIONS_OF_REGISTRATION": "Wszystkie poniższe dane muszą być prawdziwe, obowiązek rejestracji produktu wynika z warunków licencji. \nW rejestracji powinny być zawarte wszystkie firmy zaangażowane we wdrażanie systemu CRM, np. \"Docelowy użytkownik\" powinien zawsze być wypełniony danymi firmy, która używa tego systemu.\nWpis o typie \"Dostawca\" musi istnieć, gdy firma wdrażająca CRM jest inna niż ta, która korzysta z systemu. \nWpis o typie \"Integrator\" musi istnieć jeśli została przeprowadzona integracja z systemem CRM, a dane firmy, która zintegrowała system, muszą zostać przesłane.\nAby system poprawnie zweryfikował klucz rejestracyjny, Cron musi być aktywny i działać poprawnie.\nRejestracje są weryfikowane ręcznie, dlatego może upłynąć trochę czasu, zanim zmieni się status Twojej rejestracji. Dziękujemy za cierpliwość.",
     "LBL_TYPE": "Typ",
     "LBL_TYPE_TARGET_USER": "Użytkownik docelowy",
     "LBL_TYPE_INTEGRATOR": "Integrator",

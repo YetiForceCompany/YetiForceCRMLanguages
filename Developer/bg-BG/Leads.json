@@ -49,7 +49,7 @@
     "PLL_CONTACTS_IN_THE_FUTURE": "Contact in the future",
     "PLL_LEAD_UNTAPPED": "Unobtained",
     "PLL_LEAD_ACQUIRED": "For conversion",
-    "PLL_PENDING": "Pending",
+    "PLL_PENDING": "Чакащо",
     "PLL_IN_REALIZATION": "In realization",
     "PLL_INCORRECT": "Incorrect",
     "Approval for phone calls": "Permission to call",
@@ -91,6 +91,6 @@
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "At least two Accounts meet the requirements for linking, go to : (Administration > Processes > Marketing processes > Conversion) %s"
   },
   "js": {
-    "JS_SELECT_ORGANIZATION": "Select Account to proceed"
+    "JS_SELECT_ORGANIZATION": "Изберете профил, за да продължите"
   }
 }

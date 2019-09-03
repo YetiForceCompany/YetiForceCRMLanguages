@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "Ώρα:",
     "LBL_ON_THESE_DAYS": "Αυτές τις μέρες:",
     "LBL_CHOOSE_DATE": "Επιλέξτε ημερομηνία:",
-    "LBL_SELECT_MONTH_AND_DAY": "Επιλογή μήνα και ημέρας:",
     "LBL_SELECTED_DATES": "Επιλεγμένες ημερομηνίες:",
     "LBL_NEXT_TRIGGER_TIME": "Επόμενη ενεργοποίηση σε",
     "LBL_ACTIVATION_TASKS": "Ενεργοποίηση εργασιών",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Πεδίο όπου θα αποθηκευτεί το άθροισμα",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Άθροιση τιμών πεδίων από πεδία σχετιζόμενου module",
     "LBL_ATTACH_DOCS_FROM": "Επισυνάψτε έγγραφα από",
-    "LBL_WATCHDOG_INFO": "Αυτή η διεργασία δουλεύει σωστά μόνο ιεραρχώντας τα modules."
+    "LBL_WATCHDOG_INFO": "Αυτή η διεργασία δουλεύει σωστά μόνο ιεραρχώντας τα modules.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Εμφάνιση εργασιών",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Ενεργοποίηση απενεργοποιημένων εργασιών"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ίδια πεδία επιλέγονται περισσότερο από μία φορά",

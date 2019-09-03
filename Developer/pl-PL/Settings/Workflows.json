@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "O godzinie:",
     "LBL_ON_THESE_DAYS": "W dniach:",
     "LBL_CHOOSE_DATE": "W określonej dacie:",
-    "LBL_SELECT_MONTH_AND_DAY": "Wybierz dni:",
     "LBL_SELECTED_DATES": "Wybrane daty:",
     "LBL_NEXT_TRIGGER_TIME": "Następny czas uruchomienia",
     "LBL_ACTIVATION_TASKS": "Aktywuj zadania",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Pole do którego zapisać sumę",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Sumuj wartości pól z powiązanych pól modułu",
     "LBL_ATTACH_DOCS_FROM": "Załącz dokumenty z",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "To zadanie poprawnie działa poprawnie tylko z hierarchią modułów.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Pokaż zadania",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Włącz zadania dezaktywacji"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

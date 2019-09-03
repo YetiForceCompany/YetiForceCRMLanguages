@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "IZKLOP",
     "LBL_FOLLOWUP": "Sorodni dogodek",
     "PLL_PLANNED": "Načrtovano",
-    "PLL_IN_REALIZATION": "Za uredit",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Zapadlo",
     "PLL_POSTPONED": "Prestavljeno",
     "PLL_CANCELLED": "Prekinjeno",

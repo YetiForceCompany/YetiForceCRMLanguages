@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "ВИМК",
     "LBL_FOLLOWUP": "Супутні події",
     "PLL_PLANNED": "Заплановано",
-    "PLL_IN_REALIZATION": "До реалізації",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "Прострочено",
     "PLL_POSTPONED": "Відкладено",
     "PLL_CANCELLED": "Відмінено",

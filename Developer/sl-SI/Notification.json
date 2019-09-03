@@ -29,6 +29,7 @@
     "FL_STATUS": "Status",
     "FL_USER": "Uporabnik",
     "FL_TYPE": "Vrsta",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Označi kot prebrano",
     "LBL_NO_NOTIFICATIONS": "Ni obvestil",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Cron sekvence",

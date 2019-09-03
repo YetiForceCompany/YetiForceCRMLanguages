@@ -366,12 +366,12 @@
     "FL_DEFAULT_SEARCH_MODULE": "Standard-Modul",
     "FL_OVERRIDE_SEARCH_MODULE": "Standardauswahl erzwingen",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Globale Sucheinstellungen",
-    "FL_PRIMARY_PHONE": "Primary phone"
+    "FL_PRIMARY_PHONE": "Primäre Telefonummer"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dezimaltrennzeichen und Zifferngruppierungs-Trennzeichen darf nicht gleich sein",
     "JS_ENTER_CONFIRMATION_PASSWORD": "Bitte Passwort bestätigen",
-    "JS_REENTER_PASSWORDS": "Bitte geben Sie die Passwörter erneut ein. Das \\\"Neue Passwort\\\" und \\\"Kennwort bestätigen\\\" -Werte stimmen nicht überein.",
+    "JS_REENTER_PASSWORDS": "Please re-enter passwords.  The \"new password\" and \"confirm password\" values do not match.",
     "JS_NEW_ACCESS_KEY_REQUESTED": "Neuen Zugangsschlüssel eingeben",
     "JS_CHANGE_ACCESS_KEY_CONFIRMATION": "Neuer Zugangsschlüssel wurde angefordert. Alter Zugangsschlüssel muss in allen installierten Erweiterungen ausgetauscht werden. Wollen Sie weitermachen?",
     "JS_2FA_OFF_CONFIRMATION": "Sind Sie sicher dass Sie die Zwei-Faktor-Authentifizierung für diesen Benutzer deaktivieren möchten?",

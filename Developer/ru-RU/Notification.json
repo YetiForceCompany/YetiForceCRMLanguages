@@ -29,6 +29,7 @@
     "FL_STATUS": "Статус",
     "FL_USER": "Пользователь",
     "FL_TYPE": "Тип",
+    "FL_CATEGORY": "Category",
     "LBL_MARK_AS_READ": "Пометить как прочитанное",
     "LBL_NO_NOTIFICATIONS": " Нет уведомлений",
     "LBL_CRON_LAUNCHING_FREQUENCY": "Частота запуска CRON",

@@ -371,7 +371,7 @@
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separador decimal y separador de agrupación no pueden ser iguales.",
     "JS_ENTER_CONFIRMATION_PASSWORD": "Ingrese la contraseña de confirmación.",
-    "JS_REENTER_PASSWORDS": "Vuelve a introducir las contraseñas. Los valores de \\\"contraseña nueva\\\" y \\\"confirmación de contraseña\\\" no coinciden.",
+    "JS_REENTER_PASSWORDS": "Please re-enter passwords.  The \"new password\" and \"confirm password\" values do not match.",
     "JS_NEW_ACCESS_KEY_REQUESTED": "Introduzca nueva clave de acceso",
     "JS_CHANGE_ACCESS_KEY_CONFIRMATION": "Se ha solicitado una nueva clave de acceso. La clave de acceso anterior debe ser reemplazada por una nueva en todas las extensiones instaladas. ¿Desea continuar?",
     "JS_2FA_OFF_CONFIRMATION": "¿Estás seguro de que desea deshabilitar la autenticación de dos factores para este usuario?",

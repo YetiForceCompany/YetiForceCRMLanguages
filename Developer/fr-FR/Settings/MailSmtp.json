@@ -30,7 +30,7 @@
     "LBL_CREATE_SMTP": "Créer SMTP",
     "LBL_SMTP_DETAIL": "Détails SMTP",
     "LBL_NORMAL": "Normal",
-    "LBL_NO_URGENT": "No-urgent",
+    "LBL_NO_URGENT": "Not urgent",
     "LBL_URGENT": "Urgent",
     "LBL_MAIL_PRIORITY": "E-mail priority",
     "LBL_CONFIRM_READING_TO": "Confirmation of reading the message",
@@ -39,6 +39,6 @@
     "LBL_ADDITIONAL_HEADERS": "Additional headers",
     "LBL_SAVE_SENT_MESSAGE": "Save the sent message",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Les emails seront envoyés individuellement pour chaque destinataire",
-    "LBL_OPTIONS_INFO": "Exemple de paramètres supplémentaires:\r\n 'ssl' => [\r\n'verify_peer'  => true,\r\n'verify_depth' => 3,\r\n'allow_self_signed' => true,\r\n'peer_name' => 'smtp.example.com',\r\n'cafile' => '\/etc\/ssl\/ca_cert.pem',\r\n]"
+    "LBL_OPTIONS_INFO": "Exemple de paramètres supplémentaires:\r\n 'ssl' => [\r\n'verify_peer'  => true,\r\n'verify_depth' => 3,\r\n'allow_self_signed' => true,\r\n'peer_name' => 'smtp.example.com',\r\n'cafile' => '/etc/ssl/ca_cert.pem',\r\n]"
   }
 }

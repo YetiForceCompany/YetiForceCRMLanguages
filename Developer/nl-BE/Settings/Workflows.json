@@ -119,7 +119,6 @@
     "LBL_AT_TIME": "At Time",
     "LBL_ON_THESE_DAYS": "On these days",
     "LBL_CHOOSE_DATE": "Choose Date",
-    "LBL_SELECT_MONTH_AND_DAY": "Select Month and Date",
     "LBL_SELECTED_DATES": "Selected Dates",
     "LBL_NEXT_TRIGGER_TIME": "Next trigger time on",
     "LBL_ACTIVATION_TASKS": "Activate Tasks",
@@ -146,7 +145,7 @@
     "ON_SCHEDULE": "Define a schedule for execution",
     "EmailTempleteList": "Select a template email to be sent",
     "Do you send all attachments": "Send all attachments?",
-    "Select e-mail address": "Select e-mail address",
+    "Select e-mail address": "Selecteer e-mailadres",
     "Send Mail": "Send Mail",
     "Invoke Custom Function": "Invoke Custom Function",
     "Create Todo": "Create ToDo",
@@ -180,8 +179,8 @@
     "UpdateBalance": "Update Balance",
     "UpdateInventory": "Update Inventory",
     "LBL_TRIGGER_USER": "User selected in workflow trigger mondal",
-    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Select an e-mail address from related modules.",
-    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "The system will send an e-mail message to all related entries that have an e-mail field filled in. This operation may take some time depending on the number of records.",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Selecteer een e-mailadres van gerelateerde modules.",
+    "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Het systeem zal een e-mail bericht sturen naar alle gerelateerde items die een e-mailadres hebben. Dit kan enige tijd duren afhankelijk van het aantal records.",
     "LBL_PDF_TEMPLATE": "Select PDF template",
     "LBL_IMPORT_TEMPLATE": "Import trigger",
     "LBL_EXPORT_RECORD": "Export record",
@@ -238,7 +237,9 @@
     "LBL_SUMFIELDFROMDEPENDENT_TARGET": "Field where summation will be saved",
     "LBL_SUM_FIELD_FROM_DEPENDENT": "Sum field values from related module fields",
     "LBL_ATTACH_DOCS_FROM": "Attach documents from",
-    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules."
+    "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules.",
+    "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Show tasks",
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Enable deactivation tasks"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

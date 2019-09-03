@@ -1,10 +1,10 @@
 {
   "php": {
-    "Payments": "Payments",
-    "LBL_RIGHT_CLICK_COPY": "Right click and copy"
+    "Payments": "결제",
+    "LBL_RIGHT_CLICK_COPY": "오른쪽 클릭하고 복사"
   },
   "js": {
-    "JS_DELETED_SUCCESSFULLY": "Deleted successfully",
-    "JS_SAVED_SUCCESSFULLY": "Saved successfully"
+    "JS_DELETED_SUCCESSFULLY": "삭제 성공",
+    "JS_SAVED_SUCCESSFULLY": "저장 성공"
   }
 }

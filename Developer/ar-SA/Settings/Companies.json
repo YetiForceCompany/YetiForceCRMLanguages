@@ -8,7 +8,7 @@
     "LBL_EMAIL": "E-mail",
     "LBL_CITY": "City/Village",
     "LBL_COUNTRY": "Country",
-    "LBL_CONDITIONS_OF_REGISTRATION": "يجب أن تكون جميع البيانات أدناه صحيح، هو شرط إلزامي لتسجيل المنتج الذي ينتج من شروط الترخيص.  %s \nفي التسجيل، وينبغي أن يكون هناك جميع الشركات المعنية بتنفيذ نظام إدارة علاقات العملاء، مثل \"الهدف المستخدم\" ينبغي دائماً ملء البيانات الخاصة بإحدى الشركات التي تستخدم هذا النظام. \nنوع الإدخال \"المورد\" يجب أن تكون موجودة عند شركة تنفيذ CRM مختلف عن ذلك الذي يستخدمه. \nنوع الإدخال \"موحد\" يجب أن يكون موجوداً عندما تم إجراء التكامل مع نظام إدارة علاقات العملاء والبيانات الخاصة بالشركة التي النظام المتكامل يحتاج لتقديمها.\nمن أجل النظام بشكل صحيح التحقق من مفتاح التسجيل، يجب أن تكون نشطة وتعمل بشكل صحيح كرون.\n %s",
+    "LBL_CONDITIONS_OF_REGISTRATION": "All data below must be true, it is an obligatory condition of registering the product that results from the license terms.  %s \nIn the registration, there should be all companies involved in the implementation of the CRM system, e.g. \"Target user\" should always be filled in with the data of a company that uses this system. \nThe \"Supplier\" entry type must exist when a company implementing CRM is different from the one that uses it. \nThe \"Integrator\" entry type must exist when integration with a CRM system was performed and the data of the company that integrated the system needs to be submitted.\nIn order for the system to correctly verify the registration key, Cron must be active and function properly. \nRegistrations are verified manually therefore it might take some time before your registration status changes. Thank you for your patience.\n %s",
     "LBL_TYPE": "Type",
     "LBL_TYPE_TARGET_USER": "End user",
     "LBL_TYPE_INTEGRATOR": "Integrator",

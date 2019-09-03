@@ -121,7 +121,7 @@
     "LBL_OFF_SWITCH": "OFF",
     "LBL_FOLLOWUP": "Événement lié",
     "PLL_PLANNED": "Planifié",
-    "PLL_IN_REALIZATION": "A faire",
+    "PLL_IN_REALIZATION": "Pending",
     "PLL_OVERDUE": "En retard",
     "PLL_POSTPONED": "Retardé",
     "PLL_CANCELLED": "Annulé",

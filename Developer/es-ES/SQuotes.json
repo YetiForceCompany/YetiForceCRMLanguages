@@ -1,8 +1,8 @@
 {
   "php": {
-    "SQuotes": "Ofertas \/ Presupuestos",
-    "SINGLE_SQuotes": "Oferta \/ Presupuesto",
-    "LBL_SQUOTES_INFORMATION": "Información sobre el Oferta \/ Presupuesto",
+    "SQuotes": "Ofertas / Presupuestos",
+    "SINGLE_SQuotes": "Oferta / Presupuesto",
+    "LBL_SQUOTES_INFORMATION": "Información sobre el Oferta / Presupuesto",
     "LBL_CUSTOM_INFORMATION": "Información adicional",
     "LBL_DESCRIPTION_INFORMATION": "Descripción",
     "LBL_STATISTICS": "Estadísticas",
