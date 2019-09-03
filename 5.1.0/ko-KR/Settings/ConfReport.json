@@ -1,12 +1,12 @@
 {
   "php": {
-    "ConfReport": "Server configuration",
-    "On": "On",
-    "Off": "Off",
+    "ConfReport": "서버 환경설정",
+    "On": "켜짐",
+    "Off": "꺼짐",
     "LBL_YES": "Yes",
     "LBL_NO": "No",
-    "NOT RECOMMENDED": "Not Recommended",
-    "LBL_CONFIGURATION": "Server configuration",
+    "NOT RECOMMENDED": "추천하지 않음",
+    "LBL_CONFIGURATION": "서버 환경설정",
     "LBL_CONFREPORT_DESCRIPTION": "Allows you to verify that the main server settings are compatible with the recommended parameters.",
     "LBL_PARAMETER": "Parameter",
     "LBL_VALUE": "Value",

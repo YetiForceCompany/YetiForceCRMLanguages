@@ -26,7 +26,7 @@
     "LBL_VALUE_INFO": "Il valore seguente viene utilizzato per identificare i record sui quali deve essere effettuata l'assegnazione",
     "LBL_ROLES_INFO": "Lista di utenti, ricavata dai ruoli specificati, a cui possono essere assegnati i record",
     "LBL_SMOWNERS_INFO": "Lista di utenti, ricavata da utenti e gruppi specificati, a cui possono essere assegnati i record - utilizzata solo nel caso in cui nessun utente sia ricavabile dai ruoli",
-    "LBL_ASSIGN_INFO": "Attiva \/ disattiva un utente alternativo: il record viene assegnato all'utente alternativo specificato qualora non sia reperibile un utente assegnabile",
+    "LBL_ASSIGN_INFO": "Attiva / disattiva un utente alternativo: il record viene assegnato all'utente alternativo specificato qualora non sia reperibile un utente assegnabile",
     "LBL_CONDITIONS_INFO": "Al fine di selezionare un utente, a cui assegnare il record, dalla lista degli utenti ricavati, il sistema conteggia il numero di record assegnati a ogni utenti: viene scelto l'utente col minor numero di record assegnati",
     "LBL_ROLEID_INFO": "Automatico (No): i record vengono assegnati da sistema via workflow o handler\nManuale (Sì): ogni record deve essere assegnato manualmente - il ruolo specifica quali utenti possono effettuare l'assegnazione manuale"
   },

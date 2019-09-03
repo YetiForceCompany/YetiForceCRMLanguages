@@ -1,12 +1,12 @@
 {
   "php": {
     "Leads": "Interesenti",
-    "LBL_OPPURTUNITIES": "Opportunities",
-    "checkBox": "Check Box",
-    "currency": "Currency",
+    "LBL_OPPURTUNITIES": "Priložnosti",
+    "checkBox": "Potrditveno Polje",
+    "currency": "Valuta",
     "date": "Datum",
-    "decimal": "Decimal",
-    "email": "Email",
+    "decimal": "Decimalka",
+    "email": "E-pošta",
     "LBL_ADD_MAPPING": "Add Mapping",
     "LBL_CONTACTS": "Kontakti",
     "LBL_CONVERT_LEAD_FIELD_MAPPING": "Convert Lead Mapping",

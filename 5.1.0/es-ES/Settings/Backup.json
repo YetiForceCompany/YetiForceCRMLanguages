@@ -10,7 +10,5 @@
     "ERR_CONFIG_ALERT_TITLE": "Gestor de copia de seguridad desactivado",
     "ERR_CONFIG_ALERT_DESC": "Establezca la ruta apropiada en la variable BACKUP_PATH en el archivo de configuración [config\/Components\/Backup.php] para activarlo."
   },
-  "js": {
-
-  }
+  "js": {}
 }

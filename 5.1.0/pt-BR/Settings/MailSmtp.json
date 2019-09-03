@@ -30,6 +30,6 @@
     "LBL_CREATE_SMTP": "Criar SMTP",
     "LBL_SMTP_DETAIL": "Detalhes do SMTP",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "E-mails serão enviados individualmente para cada destinatário",
-    "LBL_OPTIONS_INFO": "Exemplo de Parâmetros adicionais:\r\n 'ssl' =&gt; [\r\n'verify_peer'  =&gt; true,\r\n'verify_depth' =&gt; 3,\r\n'allow_self_signed' =&gt; true,\r\n'peer_name' =&gt; 'smtp.exemplo.com',\r\n'cafile' =&gt; '\/etc\/ssl\/ca_cert.pem',\r\n]"
+    "LBL_OPTIONS_INFO": "Exemplo de Parâmetros adicionais:\r\n 'ssl' =&gt; [\r\n'verify_peer'  =&gt; true,\r\n'verify_depth' =&gt; 3,\r\n'allow_self_signed' =&gt; true,\r\n'peer_name' =&gt; 'smtp.exemplo.com',\r\n'cafile' =&gt; '/etc/ssl/ca_cert.pem',\r\n]"
   }
 }

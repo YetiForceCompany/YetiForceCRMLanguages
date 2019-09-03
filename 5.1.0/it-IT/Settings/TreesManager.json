@@ -1,9 +1,9 @@
 {
   "php": {
     "LBL_ADD_RECORD": "Aggiungi",
-    "TreesManager": "Gestore cartelle \/ categorie",
-    "LBL_TREES_MANAGER": "Campi - Cartelle \/ categorie",
-    "LBL_TREES_MANAGER_DESCRIPTION": "Gestisce i valori tipo cartella \/ categoria",
+    "TreesManager": "Gestore cartelle / categorie",
+    "LBL_TREES_MANAGER": "Campi - Cartelle / categorie",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Gestisce i valori tipo cartella / categoria",
     "LBL_NO_RECORDS_FOUND": "Nessun record",
     "LBL_EDIT_TEMPLATE_TREES": "Modifica",
     "LBL_CREATING_TEMPLATE_TREES": "Crea",

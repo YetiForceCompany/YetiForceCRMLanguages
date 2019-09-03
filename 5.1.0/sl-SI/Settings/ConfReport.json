@@ -66,7 +66,7 @@
     "LBL_CRON_PHPINI": "Cron - PHP konfiguracija",
     "LBL_CRON_LOG_FILE": "Cron - dnevnik napak",
     "LBL_ENVIRONMENTAL_INFORMATION": "Informacije o okolju",
-    "LBL_PERFORMANCE_VERIFICATION": "Performance verification",
+    "LBL_PERFORMANCE_VERIFICATION": "Preverjanje učinkovitosti",
     "LBL_CRON_PHP_SAPI": "Cron - API strežnik",
     "LBL_LABEL_OPERATING_SYSTEM": "Operacijski sistem",
     "LBL_LATEST_PHP_TITLE": "PHP.net",

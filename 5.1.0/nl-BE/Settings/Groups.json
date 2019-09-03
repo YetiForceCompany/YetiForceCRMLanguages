@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group Name already Exists",
-    "LBL_GROUP_MEMBERS": "Group Members",
-    "LBL_GROUP_NAME": "Group Name",
-    "LBL_ROLEANDSUBORDINATE": "Role and Subordinates",
-    "LBL_TO_OTHER_GROUP": "To Other Group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group Name",
-    "Description": "Description"
+    "LBL_ADD_RECORD": "Gegevens toevoegen",
+    "LBL_ADD_USERS_ROLES": "Gebruikers, rollen,... toevoegen",
+    "LBL_DUPLICATES_EXIST": "Groepsnaam bestaat al",
+    "LBL_GROUP_MEMBERS": "Groepsleden",
+    "LBL_GROUP_NAME": "Groepsnaam",
+    "LBL_ROLEANDSUBORDINATE": "Rollen en ondergeschikten",
+    "LBL_TO_OTHER_GROUP": "Naar andere groep ",
+    "LBL_TRANSFORM_OWNERSHIP": "Eigenaar overdragen",
+    "SINGLE_Groups": "Groep",
+    "Users": "Gebruikers",
+    "Name": "Groepsnaam",
+    "Description": "Omschrijving"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",

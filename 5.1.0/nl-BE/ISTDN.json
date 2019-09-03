@@ -2,7 +2,7 @@
   "php": {
     "ISTDN": "Storage Transfer Dispatched Notes",
     "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
-    "LBL_DESCRIPTION_BLOCK": "Description",
+    "LBL_DESCRIPTION_BLOCK": "Beschrijving",
     "LBL_ATTENTION_BLOCK": "Comments",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",
     "FL_ACCOUNT": "Account",
