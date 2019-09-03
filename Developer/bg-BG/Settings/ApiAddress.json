@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_SAVE": "Запази",
+    "ApiAddress": "Търсене на адрес",
+    "LBL_API_ADDRESS": "Търсене на адрес",
+    "LBL_API_ADDRESS_DESCRIPTION": "Module дето позволява търсенето\/ автоматичното попълване на адрес при създаване\/редактиране на системните данни.",
+    "LBL_USE_OPENCAGE_GEOCODER": "Използвайте OpenCage Geocoder",
+    "LBL_REMOVE_CONNECTION": "Премахване на връзка",
+    "LBL_ENTER_KEY_APPLICATION": "Въведете ключа за приложението",
+    "LBL_MIN_LOOKUP_LENGTH": "Минималният брой символи който потребителят трябва да въведе преди да извърши едно търсене",
+    "LBL_SAVE_NOTIFY_OK": "Запазване на промените.",
+    "LBL_CHOOSE_API": "Изберете API",
+    "LBL_USE_GOOGLE_GEOCODER": "Използвайте Google Geocoding",
+    "google_map_api": "Google Geocoding",
+    "opencage_data": "Използвайте OpenCage Geocoder",
+    "LBL_GLOBAL_CONFIG": "Конфигурация",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Запазване на глобалните параметри",
+    "LBL_NUMBER_SEARCH_RESULTS": "Брой на резултатите от търсенето"
+  },
+  "js": {
+    "Invalid API key": "Невалиден API ключ",
+    "JS_ERROR": "Грешка",
+    "JS_LOADING_PLEASE_WAIT": "Зарежда се, моля изчакайте.",
+    "JS_WRONG_NUMBER": "Позволени симболи: Цифри по-големи от 1."
+  }
+}

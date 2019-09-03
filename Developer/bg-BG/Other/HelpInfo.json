@@ -1,0 +1,8 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Честота на напомнянията в дни, ако потребителят не е прегледал промените. Ако полето остане празно, напомнянето няма да се появи отново.",
+    "Accounts|Account Name": "Полето е предназначено за име на компания",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
+  }
+}

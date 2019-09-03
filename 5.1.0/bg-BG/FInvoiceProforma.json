@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FInvoiceProforma": "Проформа фактури",
+    "SINGLE_FInvoiceProforma": "Проформа фактура",
+    "LBL_CUSTOM_INFORMATION": "Информация за системата",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адрес за доставка",
+    "FL_SUBJECT": "Тема",
+    "FL_PAYMENT_DATE": "Срок",
+    "FL_SALE_DATE": "Дата на продажба",
+    "FL_ACCOUNT": "Профил",
+    "FL_FORM_PAYMENT": "Метод на плащане",
+    "FL_STATUS": "Статус",
+    "FL_NUMBER": "Номер на фактура",
+    "FL_TOTAL": "Нето",
+    "FL_GROSS": "Бруто",
+    "PLL_CASH": "В брой",
+    "PLL_TRANSFER": "Банков превод",
+    "PLL_WIRE_TRANSFER": "Електронен превод"
+  }
+}

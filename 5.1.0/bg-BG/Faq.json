@@ -1,0 +1,18 @@
+{
+  "php": {
+    "Answer": "Отговор",
+    "Comments": "Коментари",
+    "Draft": "Чернова",
+    "Faq": "FAQ",
+    "Faq No": "FAQ номер",
+    "General": "Общо",
+    "LBL_COMMENT_INFORMATION": "Коментари",
+    "LBL_FAQ_INFORMATION": "FAQ информация",
+    "LBL_RECORDS_LIST": "Списък на често задавани въпроси",
+    "LBL_SOLUTION": "Решение",
+    "Obsolete": "Остарял",
+    "Published": "Публикуван",
+    "Question": "Въпрос",
+    "SINGLE_Faq": "FAQ"
+  }
+}

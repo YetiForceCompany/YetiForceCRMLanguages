@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "FAQ",
+    "SINGLE_Faq": "FAQ",
+    "Draft": "Чернова",
+    "FL_SUBJECT": "Относно",
+    "FL_CONTENT": "Съдържание",
+    "FL_CATEGORY": "Категория",
+    "FL_ACCOUNT": "Акаунт",
+    "FL_VIEWS": "Виж",
+    "PLL_PAGE": "Страница",
+    "PLL_PRESENTATION": "Презентация",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Knowledge base",
+    "LBL_PREVIOUS": "Предишен",
+    "LBL_NEXT": "Следващ",
+    "FL_STATUS": "Статус",
+    "LBL_ARTICLE": "Статия",
+    "FL_FEATURED": "На фокус",
+    "LBL_RELATED_FAQ": "Подобни записи",
+    "FL_INTRODUCTION": "Въведение",
+    "Faq No": "FAQ номер",
+    "General": "Общо",
+    "LBL_FAQ_INFORMATION": "FAQ информация",
+    "LBL_RECORDS_LIST": "Списък на често задавани въпроси",
+    "Obsolete": "Остарял",
+    "Published": "Публикуван",
+    "Question": "Въпрос"
+  }
+}

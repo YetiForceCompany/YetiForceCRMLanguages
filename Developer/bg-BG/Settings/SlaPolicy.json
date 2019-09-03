@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Политика на SLA",
+    "LBL_NAME": "Име на политика",
+    "LBL_EDIT": "Редактиране на SLA политика",
+    "LBL_CREATE": "Създаване на нова SLA политика",
+    "LBL_SOURCE_MODULE": "Модул"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Изберете работно време",
+    "JS_BUSINESS_HOURS_FROM": "Oт",
+    "JS_BUSINESS_HOURS_TO": "До",
+    "JS_BUSINESS_HOURS_NAME": "Име",
+    "JS_BUSINESS_HOURS_DAYS": "Работни дни",
+    "JS_HOLIDAYS": "Празници"
+  }
+}

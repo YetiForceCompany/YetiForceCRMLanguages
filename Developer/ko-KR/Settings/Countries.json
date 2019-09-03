@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "국가명",
+    "LBL_COUNTRY_SHORTNAME": "국가코드",
+    "LBL_COUNTRY_TOGGLE_STATUS": "시스템에서 그 나라는 전역적으로 허용됩니까?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "모든 나라를 활성화 또는 비활성화",
+    "LBL_VISIBLE_IN_PHONE": "그 국가가 전화번호 타입 필드항목에서 보여집니까?",
+    "LBL_VISIBLE_IN_COUNTRY": "그 국가가 \"국가\" 주소 필드항목에서 보여집니까?",
+    "LBL_ROW_TO_TOP": "상단에서 행 이동",
+    "LBL_ROW_TO_BOTTOM": "하단에서 행 이동",
+    "LBL_COUNTRY_SETTINGS": "국가 설정",
+    "LBL_COUNTRY_DESCRIPTION": "시스템에서 허용가능한 국가 구성"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "국가 설정"
+  }
+}

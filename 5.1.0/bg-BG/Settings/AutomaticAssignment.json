@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Автоматично определяне на записи",
+    "AutomaticAssignment": "Автоматично определяне на записи",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Име на поле",
+    "FL_MODULE": "Модул",
+    "FL_VALUE": "Стойност",
+    "FL_ROLES": "Роли",
+    "FL_SMOWNERS": "Собственик на запис",
+    "FL_ASSIGN": "Стандартни настройки",
+    "FL_CONDITIONS": "Записване на условията за търсене",
+    "FL_MODE": "Режим",
+    "LBL_CREATE_RECORD": "Създаване на запис",
+    "BTN_NEXT": "Следващ",
+    "BTN_CLOSE": "Затвори",
+    "BTN_ADD": "Добавяне",
+    "LBL_CHANGE_ROLE_TYPE": "Промяна на вид роля",
+    "LBL_CHANGE_RECORD_STATE": "Промяна на състоянието на на записа",
+    "BTN_SAVE": "Запази",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Включва ограничаването на записи на потребителя",
+    "LBL_SET_DEFAULT_USER": "Задайте потребител по подразбиране",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Деактивиране на системен режим",
+    "LBL_SYSTEM": "Система",
+    "LBL_NOTE": "Забележка!",
+    "LBL_VALUE_INFO": "Следващото поле задава стойността на избраното модул поле.",
+    "LBL_ROLES_INFO": "Списъкът на предварително пределени потребители е създаден от посочените по-долу роли.",
+    "LBL_SMOWNERS_INFO": "The list of pre-assigned users is created from the below users, groups. This user list is created only if there are no users selected from roles.",
+    "LBL_ASSIGN_INFO": "Set default Assigned To. The value set here will be assigned to the record when the user, who was assigned, can not be found.",
+    "LBL_CONDITIONS_INFO": "Set record search conditions. In order to select one user from the available user list, the system counts the number of records assigned to the user in the module. The user with the lowest number of records is assigned to the record.",
+    "LBL_ROLEID_INFO": "Set one of the following modes: SYSTEM - user by such mechanisms as workflows tasks and handlers; NON-SYSTEM –  allows to assign a record manually by the user."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Сигурни ли ще че искате да промените статуса на записа?",
+    "JS_SAVE_SUCCESS": "Промените са запазени успешно"
+  }
+}
