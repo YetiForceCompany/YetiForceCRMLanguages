@@ -1,18 +1,18 @@
 {
   "php": {
-    "Answer": "Answer",
-    "Comments": "Comments",
-    "Draft": "Draft",
+    "Answer": "Antwoord",
+    "Comments": "Opmerkingen",
+    "Draft": "Ontwerp",
     "Faq": "FAQ",
-    "Faq No": "Faq Number",
-    "General": "General",
-    "LBL_COMMENT_INFORMATION": "Comments",
-    "LBL_FAQ_INFORMATION": "FAQ Information",
-    "LBL_RECORDS_LIST": "FAQs List",
-    "LBL_SOLUTION": "Solution",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question",
+    "Faq No": "FAQ nummer",
+    "General": "Algemeen",
+    "LBL_COMMENT_INFORMATION": "Opmerkingen",
+    "LBL_FAQ_INFORMATION": "FAQ informatie",
+    "LBL_RECORDS_LIST": "FAQ lijst",
+    "LBL_SOLUTION": "Oplossing",
+    "Obsolete": "Verouderd",
+    "Published": "Gepubliceerd",
+    "Question": "Vraag",
     "SINGLE_Faq": "FAQ"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
+    "Announcements|FL_INTERVAL": "Frequentie van herinneringen in dagen, als een gebruiker de wijzigingen niet heeft beoordeeld. Als het veld leeg blijft wordt de herinnering niet meer weergegeven.",
+    "Accounts|Account Name": "Dit veld is bedoeld voor de bedrijfsnaam",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used"
   }
 }

@@ -1,6 +1,6 @@
 {
   "php": {
-    "Leads": "리드",
+    "Leads": "잠재고객",
     "LBL_OPPURTUNITIES": "기회",
     "checkBox": "체크 박스",
     "currency": "환율",
@@ -9,7 +9,7 @@
     "email": "이메일",
     "LBL_ADD_MAPPING": "지도 추가",
     "LBL_CONTACTS": "고객(연락처)",
-    "LBL_CONVERT_LEAD_FIELD_MAPPING": "리드 매핑 변환",
+    "LBL_CONVERT_LEAD_FIELD_MAPPING": "잠재고객 매핑 변환",
     "LBL_DELETED_SUCCESSFULLY": "삭제완료",
     "LBL_FIELD_LABEL": "필드항목 레이블",
     "LBL_FIELD_TYPE": "필드항목 형식",

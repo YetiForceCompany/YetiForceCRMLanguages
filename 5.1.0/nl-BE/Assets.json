@@ -1,9 +1,9 @@
 {
   "php": {
     "Assets": "Activa",
-    "SINGLE_Assets": "Activum",
-    "LBL_ASSET_INFORMATION": "Activumdetails",
-    "Asset No": "Asset No",
+    "SINGLE_Assets": "Activa",
+    "LBL_ASSET_INFORMATION": "Activa details",
+    "Asset No": "Activa nr.",
     "Serial Number": "Serienummer",
     "Date Sold": "Verkoopsdatum",
     "Date in Service": "Vervaldatum",
