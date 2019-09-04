@@ -1,19 +1,19 @@
 {
   "php": {
-    "EmailTemplates": "Email templates",
-    "SINGLE_EmailTemplates": "Email template",
-    "LBL_CONTENT_MAIL": "Email content",
-    "LBL_BASIC_DETAILS": "Basic information",
-    "FL_NAME": "Name",
+    "EmailTemplates": "E-mailsjablonen",
+    "SINGLE_EmailTemplates": "E-mailsjabloon",
+    "LBL_CONTENT_MAIL": "E-mail inhoud",
+    "LBL_BASIC_DETAILS": "Basisinformatie",
+    "FL_NAME": "Naam",
     "FL_TYPE": "Type",
     "FL_MODULE": "Module",
-    "FL_SUBJECT": "Subject",
-    "FL_CONTENT": "Content",
-    "FL_SMTP_PRIORITY": "SMTP priority",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_CONTENT": "Inhoud",
+    "FL_SMTP_PRIORITY": "SMTP-prioriteit",
     "PLL_MODULE": "Module",
     "PLL_RECORD": "Record",
-    "PLL_MAIL": "Email bricht",
+    "PLL_MAIL": "Bericht",
     "PLL_LIST": "Lijst",
-    "PLL_DEFAULT": "Default company"
+    "PLL_DEFAULT": "Standaardbedrijf"
   }
 }

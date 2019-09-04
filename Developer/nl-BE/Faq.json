@@ -2,7 +2,7 @@
   "php": {
     "Faq": "FAQ",
     "SINGLE_Faq": "FAQ",
-    "Draft": "Draft",
+    "Draft": "Ontwerp",
     "FL_SUBJECT": "Subject",
     "FL_CONTENT": "Content",
     "FL_CATEGORY": "Category",
@@ -18,12 +18,12 @@
     "FL_FEATURED": "Featured",
     "LBL_RELATED_FAQ": "Related entries",
     "FL_INTRODUCTION": "Introduction",
-    "Faq No": "Faq Number",
-    "General": "General",
-    "LBL_FAQ_INFORMATION": "FAQ Information",
-    "LBL_RECORDS_LIST": "FAQs List",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question"
+    "Faq No": "FAQ nummer",
+    "General": "Algemeen",
+    "LBL_FAQ_INFORMATION": "FAQ informatie",
+    "LBL_RECORDS_LIST": "FAQ lijst",
+    "Obsolete": "Verouderd",
+    "Published": "Gepubliceerd",
+    "Question": "Vraag"
   }
 }

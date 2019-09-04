@@ -121,8 +121,8 @@
     "LBL_SHOP_MODULESENTERPRISE": "Moduły enterprise ",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
-    "LBL_SHOP_YETIADDRESSFINDER": "Wyszukiwarka adresów YetiForce",
-    "LBL_SHOP_YETIADDRESSFINDER_INTRO": "",
-    "LBL_SHOP_YETIADDRESSFINDER_DESC": ""
+    "LBL_SHOP_YETIFORCEGEOCODER": "Wyszukiwarka adresów YetiForce",
+    "LBL_SHOP_YETIFORCEGEOCODER_INTRO": "Szybkie i łatwe wyszukiwanie dowolnego adresu na świecie bez konieczności wpisywania go ręcznie.",
+    "LBL_SHOP_YETIFORCEGEOCODER_DESC": "Wyszukiwarka bazuje na Open Street Maps z pełną mapą świata i nie posiada limitów połączeń. Dodatkowo do poprawnego działania nie jest konieczny kosztowny serwer."
   }
 }

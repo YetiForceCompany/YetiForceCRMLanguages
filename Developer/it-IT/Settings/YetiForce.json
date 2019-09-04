@@ -68,7 +68,7 @@
     "LBL_SHOP_PROCEED_TO_CHECKOUT": "Procedi al pagamento",
     "LBL_SHOP_NO_COMPANIES_ALERT": "Non ci sono dati dell'utente di destinazione (l'azienda che possiede il CRM) nel sistema. I dati sono richiesti per emettere una fattura, non è possibile effettuare un pagamento senza questi dati.",
     "LBL_SHOP_NO_COMPANIES_BUTTON": "Inserisci i dati",
-    "LBL_SHOP_INSTALLINCLOUD": "Installation in the cloud",
+    "LBL_SHOP_INSTALLINCLOUD": "Installazione nel cloud",
     "LBL_SHOP_INSTALLINHOSTING": "Installation on hosting",
     "LBL_SHOP_COMPANY_DATA": "Dati azienda",
     "LBL_SHOP_COMPANY_SIZE_MICRO": "Micro (fino a 10)",
@@ -121,8 +121,8 @@
     "LBL_SHOP_MODULESENTERPRISE": "Enterprise modules",
     "LBL_SHOP_MODULESENTERPRISE_INTRO": "",
     "LBL_SHOP_MODULESENTERPRISE_DESC": "",
-    "LBL_SHOP_YETIADDRESSFINDER": "Yetiforce address finder",
-    "LBL_SHOP_YETIADDRESSFINDER_INTRO": "",
-    "LBL_SHOP_YETIADDRESSFINDER_DESC": ""
+    "LBL_SHOP_YETIFORCEGEOCODER": "YetiForce address finder",
+    "LBL_SHOP_YETIFORCEGEOCODER_INTRO": "Quick and easy search for any address in the world without entering it manually.",
+    "LBL_SHOP_YETIFORCEGEOCODER_DESC": "YetiForce address finder is based on Open Street Maps with a complete world map and no connection limits. In addition, an expensive server is not required for its proper operation."
   }
 }
