@@ -1,6 +1,6 @@
 {
   "php": {
-    "Member Of": "Član od",
+    "Member Of": "Sodelavec od",
     "Birthdate": "Rojen dne",
     "Contact Id": "Kontakt ID",
     "Contact Image": "Fotografija",
@@ -9,7 +9,7 @@
     "LBL_CONTACT_INFORMATION": "Podatki o kontaktu",
     "LBL_COPY_MAILING_ADDRESS": "Kopiraj naslov e-pošte",
     "LBL_COPY_OTHER_ADDRESS": "Kopiraj druge naslove",
-    "LBL_CUSTOMER_PORTAL_INFORMATION": "Portal za stranke",
+    "LBL_CUSTOMER_PORTAL_INFORMATION": "Podrobnosti o portalu za stranke",
     "LBL_IMAGE_INFORMATION": "Fotografija kontakta",
     "Office Phone": "Primarni telefon",
     "Portal User": "Portal za uporabnike",
@@ -31,7 +31,7 @@
     "Inactive": "Neaktiven",
     "Other Po Box": "Drugi poštni predal",
     "Mailing Po Box": "Primarni poštni predal",
-    "LBL_ADDRESS_INFORMATION": "Standardni naslov",
+    "LBL_ADDRESS_INFORMATION": "Naslov stalnega prebivališča",
     "LBL_CONTACT_INFO": "Kontaktni podatki",
     "Approval for phone calls": "Dovoljenje za  klic",
     "Approval for email": "Dovoljenje za  pošiljanje e-pošte",

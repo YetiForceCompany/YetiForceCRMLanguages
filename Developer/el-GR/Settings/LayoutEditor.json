@@ -155,7 +155,7 @@
     "LBL_MAX_LENGTH_TEXT": "Μέγιστο μήκος κειμένου",
     "LBL_MAX_WIDTH_COLUMN": "Πλάτος στήλης [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Η ποσοστιαία τιμή σε σχέση με το πλάτος του παραθύρου.",
-    "LBL_TABINDEX": "Tab key sequence",
+    "LBL_TABINDEX": "Πλήκτρο Tab ακολουθία",
     "LBL_TABINDEX_INFO": "Ρυθμίστε την επιθυμητή σειρά των πεδίων με την οποία θα εμφανίζονται αφού κάνετε κλικ στο πλήκτρο TAB.",
     "LBL_EDIT_CUSTOM_FIELD": "Επεξεργασία πεδίου",
     "LBL_EXCEEDED_MAXIMUM_NUMBER_CHARACTERS_FOR_FIELD_NAME": "Έχετε υπερβεί τον μέγιστο αριθμό 30 χαρακτήρψν για το όνομα του πεδίου.",
