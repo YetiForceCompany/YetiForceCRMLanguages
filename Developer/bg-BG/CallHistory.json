@@ -17,16 +17,16 @@
     "LBL_END_TIME": "Разговорът приключи",
     "LBL_COUNTRY_CODE": "Код на страната",
     "LBL_IMEI": "IMEI",
-    "LBL_IPADDRESS": "ID address",
-    "LBL_SIMSERIAL": "SIM number",
-    "LBL_SUBSCRIBERID": "Subscriber number",
-    "LBL_DESTINATION": "Where called",
-    "LBL_SOURCE": "Call source",
-    "Record Id": "Record Id",
-    "Outgoing missed": "Outgoing missed",
-    "Outgoing received": "Outgoing received",
-    "Incoming": "Incoming received",
-    "Missed": "Incoming missed",
-    "Voicemail": "Incoming voicemail"
+    "LBL_IPADDRESS": "ID на адрес",
+    "LBL_SIMSERIAL": "Номер на SIM-карта",
+    "LBL_SUBSCRIBERID": "Номер на абонат",
+    "LBL_DESTINATION": "Къде стана разговора",
+    "LBL_SOURCE": "Източник на обаждането",
+    "Record Id": "Id На Записа",
+    "Outgoing missed": "Изходящи пропуснати",
+    "Outgoing received": "Изходящи приети",
+    "Incoming": "Получени входящи",
+    "Missed": "Входящи пропуснати",
+    "Voicemail": "Входящи в гласова поща"
   }
 }

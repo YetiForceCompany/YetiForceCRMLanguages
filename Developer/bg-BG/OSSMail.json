@@ -62,7 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Контакти",
     "LBL_PROCESS": "Процеси",
     "LBL_SUB_PROCESS": "Подпроцеси",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Второ ниво подпроцес",
     "LBL_REMOVE_RELATION": "Премахване на връзка",
     "LBL_SELECT_RECORD": "Свързви със съществуващ запис",
     "LBL_ADD_CALENDAR": "Добави събитие",
@@ -80,7 +80,7 @@
     "LBL_ADD_TO_MY_CALENDAR": "Добавяне в календара ми",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Възникна грешка при импортирането",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Файлът е импортиран %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available"
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в лентата не са налични"
   },
   "js": {
     "NoFindEmailInRecord": "Записът няма имейл адрес",

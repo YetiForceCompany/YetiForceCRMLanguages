@@ -92,7 +92,7 @@
     "LBL_TIME_CONTROL_DETAILED_LIST": "Подробен списък за контрол на времето",
     "LBL_TIME_CONTROL_USER_GROUP": "Списък на контрол на времето с повече информация относно потребителите",
     "LBL_TYPE": "Вид активност",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Второ ниво подпроцес"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Позволени символи: [0-9]",

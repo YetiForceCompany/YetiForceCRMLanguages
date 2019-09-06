@@ -30,7 +30,7 @@
     "LBL_CREATE_SMTP": "Създаване на SMTP",
     "LBL_SMTP_DETAIL": "Детайли за SMTP",
     "LBL_NORMAL": "Нормално",
-    "LBL_NO_URGENT": "Not urgent",
+    "LBL_NO_URGENT": "Не-спешно",
     "LBL_URGENT": "Спешно",
     "LBL_MAIL_PRIORITY": "Приоритетна електронна поща",
     "LBL_CONFIRM_READING_TO": "Потвърждение за прочитане на съобщението",

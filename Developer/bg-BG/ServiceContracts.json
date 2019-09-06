@@ -33,28 +33,28 @@
     "Related to": "Related to",
     "LBL_REACTION_TIME": "Време за отговор",
     "LBL_IDLE_TIME": "Време на изчакване",
-    "LBL_RESOLVE_TIME": "Resolve time",
+    "LBL_RESOLVE_TIME": "Време за разрешаване",
     "LBL_OPERATIONAL_HOURS": "Работно време",
     "LBL_CALENDAR_HOURS": "Календар",
     "LBL_BUSINESS_HOURS": "Бизнес",
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_POLICY_TYPE": "SLA configuration",
-    "LBL_POLICY_TYPE_GLOBAL": "Global (from business hours)",
+    "LBL_SLA_POLICY": "Политика на SLA",
+    "LBL_POLICY_TYPE": "SLA конфигурация",
+    "LBL_POLICY_TYPE_GLOBAL": "В световен мащаб (от работни часа)",
     "LBL_POLICY_TYPE_TEMPLATE": "Шаблон",
-    "LBL_POLICY_TYPE_CUSTOM": "Custom settings",
+    "LBL_POLICY_TYPE_CUSTOM": "Собствени настройки",
     "LBL_POLICY_NAME": "Име на политиката",
     "LBL_POLICY_MODULE": "Модул",
     "LBL_ADD_ENTRY": "Добави запис",
     "LBL_STATUS": "Статус",
     "LBL_CONDITIONS": "Условия",
-    "LBL_TIMES": "Times"
+    "LBL_TIMES": "Пъти"
   },
   "js": {
     "JS_POLICY_NAME": "Име на политика",
     "JS_OPERATIONAL_HOURS": "Работно време",
     "JS_REACTION_TIME": "Време за отговор",
     "JS_IDLE_TIME": "Време на изчакване",
-    "JS_RESOLVE_TIME": "Resolve time",
+    "JS_RESOLVE_TIME": "Време за разрешаване",
     "JS_BUSINESS_HOURS": "Работно време"
   }
 }
