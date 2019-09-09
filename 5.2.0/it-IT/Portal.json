@@ -1,0 +1,25 @@
+{
+  "php": {
+    "HTTP_ERROR": "Il sito, che si sta tentando di aprire, non è sicuro. Se desideri vedere il sito, dovresti disabilitare il blocco dei contenuti nella barra degli indirizzi.",
+    "LBL_ADD_BOOKMARK": "Aggiungi segnalibro",
+    "LBL_ADD_NEW_BOOKMARK": "Aggiungi nuovo segnalibro",
+    "LBL_BOOKMARK": "Segnalibro",
+    "LBL_BOOKMARK_NAME": "Oggetto",
+    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "Segnalibro salvato",
+    "LBL_BOOKMARKS": "Segnalibri",
+    "LBL_BOOKMARKS_DELETED_SUCCESSFULLY": "Segnalibri eliminati",
+    "LBL_BOOKMARKS_LIST": "Lista segnalibri",
+    "LBL_BOOKMARK_URL": "Indirizzo (URL)",
+    "LBL_CREATED_ON": "Data creazione",
+    "LBL_EDIT_BOOKMARK": "Modifica",
+    "LBL_ENTER_BOOKMARK_NAME": "Inserisci oggetto",
+    "LBL_ENTER_URL": "Inserisci URL (www.esempio.it)",
+    "LBL_OUR_SITES_LIST": "Elenco segnalibri",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "Segnalibro eliminato",
+    "Portal": "Segnalibri",
+    "SINGLE_Portal": "Segnalibro"
+  },
+  "js": {
+    "JS_ENTER_MANDATORY_FIELD": "Inserisci tutti i campi obbligatori"
+  }
+}

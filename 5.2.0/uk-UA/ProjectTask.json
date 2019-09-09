@@ -1,0 +1,29 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Проектне завдання",
+    "Project Task": "Проектні завдання",
+    "Start Date": "Дата початку",
+    "Target End Date": "Планована дата завершення",
+    "End Date": "Дата завершення",
+    "Related to": "Проект",
+    "Parent ID": "Проектне завдання",
+    "Project Task Number": "Код",
+    "description": "Опис",
+    "FL_TOTAL_TIME_H": "Усього часу",
+    "Project Task No": "№",
+    "Project Task Name": "Найменування",
+    "LBL_ESTIMATED_WORK_TIME": "Розрахунковий час роботи",
+    "Add Project Task": "Додати проектну задачу",
+    "LBL_PROJECT_TASK_INFORMATION": "Основна інформаці ",
+    "LBL_PROJECTS_LIST": "Список проектів ",
+    "LBL_TASKS_LIST": "Проектні завдання",
+    "LBL_MILESTONES_LIST": "Контрольна точка",
+    "low": "Низький",
+    "normal": "Нормальний",
+    "high": "Високий",
+    "administrative": "Внутрішній",
+    "operative": "Зовнішній",
+    "other": "Загальний",
+    "LBL_PROJECT": "Project"
+  }
+}

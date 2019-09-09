@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_INVOICE": "فاکتور",
+    "LBL_INVOICE_NUMBER": "شماره فاکتور مالیات بر ارزش افزوده",
+    "LBL_TO_FINVOICE_NUMBER": "به شماره فاکتور مالیات بر ارزش افزوده",
+    "LBL_INVOICE_PROFORMA": "پیش فاکتور",
+    "LBL_RECIPIENT": "دریافت‌‌کننده‌",
+    "LBL_ORDER": "سفارش",
+    "LBL_SUBMIT_ORDER": "فرد مجاز به ارسال سفارش",
+    "LBL_TO_PAY": "مجموع",
+    "LBL_TO_PAY_WORD": "تعداد (به حروف)",
+    "LBL_DEALER": "فروشنده",
+    "LBL_BUYER": "خریدار",
+    "LBL_AUTHORIZED_TO_RECEIVE": "فرد مجاز به دریافت",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "فرد مجاز به صدور مجوز",
+    "LBL_SALES_QUOTE_FOR": "نقل قول برای",
+    "LBL_DATE_EXECUTION": "تاریخ اتمام",
+    "LBL_STAGE": "صادر شده به وسیله",
+    "LBL_VALID_UNTIL": "معتبر تا",
+    "LBL_QUOTE_NUMBER": "شماره نقل‌قول",
+    "LBL_DETAILS": "جزئیات",
+    "LBL_COMMENTS": "توضیحات",
+    "LBL_FIRST_NAME": "نام",
+    "LBL_LAST_NAME": "نام خانوادگی",
+    "LBL_PHONE": "تلفن",
+    "LBL_EMAIL": "رایانامه",
+    "LBL_VATID": "شماره مالیات بر ارزش افزوده",
+    "LBL_SALE_DATE": "تاریخ فروش",
+    "LBL_PAYMENT_METHOD": "روش پرداخت",
+    "LBL_PLACE_DATE": "موقعیت، تاریخ"
+  }
+}

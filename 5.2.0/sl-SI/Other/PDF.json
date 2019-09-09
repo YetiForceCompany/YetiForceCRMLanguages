@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_INVOICE": "Račun",
+    "LBL_INVOICE_NUMBER": "DDV št. računa",
+    "LBL_TO_FINVOICE_NUMBER": "DDV št. prejemnika računa",
+    "LBL_INVOICE_PROFORMA": "Predračun",
+    "LBL_RECIPIENT": "Prejemnik",
+    "LBL_ORDER": "Naročilo",
+    "LBL_SUBMIT_ORDER": "Osebe, pooblaščene za pošiljanje naročil",
+    "LBL_TO_PAY": "Skupaj",
+    "LBL_TO_PAY_WORD": "Skupaj (z besedami)",
+    "LBL_DEALER": "Prodajalec",
+    "LBL_BUYER": "Kupec",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Osebe, pooblaščene za prevzeme",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Osebe, pooblaščene za izdajo",
+    "LBL_SALES_QUOTE_FOR": "Ponudba za",
+    "LBL_DATE_EXECUTION": "Datum zaključka",
+    "LBL_STAGE": "Izdal",
+    "LBL_VALID_UNTIL": "Veljavno do",
+    "LBL_QUOTE_NUMBER": "Številka ponudbe",
+    "LBL_DETAILS": "Podrobnosti",
+    "LBL_COMMENTS": "Komentarji",
+    "LBL_FIRST_NAME": "Ime",
+    "LBL_LAST_NAME": "Priimek",
+    "LBL_PHONE": "Telefon",
+    "LBL_EMAIL": "Elektronski naslov",
+    "LBL_VATID": "ID za DDV",
+    "LBL_SALE_DATE": "Datum prodaje",
+    "LBL_PAYMENT_METHOD": "Način plačila",
+    "LBL_PLACE_DATE": "Kraj, datum"
+  }
+}

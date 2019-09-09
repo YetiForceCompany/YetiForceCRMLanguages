@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA Zásady",
+    "LBL_NAME": "Název zásady",
+    "LBL_EDIT": "Upravit zásady SLA",
+    "LBL_CREATE": "Vytvořte nové zásady SLA",
+    "LBL_SOURCE_MODULE": "Modul"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Vyberte otevírací dobu",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Název",
+    "JS_BUSINESS_HOURS_DAYS": "Pracovní dny",
+    "JS_HOLIDAYS": "Svátky"
+  }
+}

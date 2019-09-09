@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Política SLA",
+    "LBL_NAME": "Nombre de la Directiva",
+    "LBL_EDIT": "Editar política SLA",
+    "LBL_CREATE": "Crear nueva política SLA",
+    "LBL_SOURCE_MODULE": "Módulo"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Seleccione el horario de atención",
+    "JS_BUSINESS_HOURS_FROM": "Desde",
+    "JS_BUSINESS_HOURS_TO": "Hasta",
+    "JS_BUSINESS_HOURS_NAME": "Nombre",
+    "JS_BUSINESS_HOURS_DAYS": "Días laborables",
+    "JS_HOLIDAYS": "Día festivo"
+  }
+}

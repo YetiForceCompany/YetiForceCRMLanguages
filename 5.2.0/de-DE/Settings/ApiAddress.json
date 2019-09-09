@@ -1,0 +1,41 @@
+{
+  "php": {
+    "LBL_SAVE": "Sichern",
+    "ApiAddress": "Adresssuche",
+    "LBL_API_ADDRESS": "Adresssuche",
+    "LBL_API_ADDRESS_DESCRIPTION": "Module erlaubt während der Erstellung/Bearbeitung von Daten, die Suche/das Autovervollständigen einer Adresse im System.",
+    "LBL_ENTER_KEY_APPLICATION": "Schlüssel Anwendung eingeben",
+    "LBL_MIN_LOOKUP_LENGTH": "Die minimale Anzahl von Zeichen, die ein Benutzer eingeben muss, bevor die Suche durchgeführt wird.",
+    "LBL_SAVE_NOTIFY_OK": "Änderungen gespeichert",
+    "LBL_COUNTRY_CODES": "Country codes",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
+    "LBL_KEY": "Key",
+    "LBL_KEY_PLACEHOLDER": "Schlüssel Anwendung eingeben",
+    "LBL_MAP_URL": "Map url",
+    "LBL_MAP_URL_PLACEHOLDER": "Enter map url",
+    "LBL_USE_GOOGLE_GEOCODER": "Nutze Google Geocoding",
+    "LBL_PROVIDER_NAME": "Provider name",
+    "LBL_PROVIDER_DEFAULT": "Default provider",
+    "LBL_PROVIDER_ACTIVE": "Is provider active",
+    "LBL_PROVIDER_ACTIONS": "Actions",
+    "LBL_PROVIDER_CONFIG": "Configure provider",
+    "LBL_PROVIDER_UNSET": "Before activating provider you have to configure it by clicking settings button",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "Google Geocoding",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Google Geocoding site",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage Geocoder site",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim Geocoder site",
+    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce Geocoder",
+    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "YetiForce Geocoder site",
+    "LBL_GLOBAL_CONFIG": "Konfiguration",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Speichern Sie die globalen Einstellungen",
+    "LBL_NUMBER_SEARCH_RESULTS": "Anzahl der Suchergebnisse"
+  },
+  "js": {
+    "Invalid API key": "Fehlerhafter API Schlüssel",
+    "JS_ERROR": "Fehler",
+    "JS_LOADING_PLEASE_WAIT": "Wird geladen, bitte warten.",
+    "JS_WRONG_NUMBER": " Erlaubte Zeichen: Ziffern größer als 1."
+  }
+}

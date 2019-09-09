@@ -1,0 +1,29 @@
+{
+  "php": {
+    "IStorages": "Сховища",
+    "SINGLE_IStorages": "Сховище",
+    "LBL_DESCRIPTION_BLOCK": "Опис",
+    "LBL_ATTENTION_BLOCK": "Коментарі",
+    "FL_PARENT_STORAGE": "Центральне сховище",
+    "FL_SUBJECT": "Найменування",
+    "FL_STATUS": "Статус",
+    "FL_TYPE": "Тип",
+    "FL_NUMBER": "Номер",
+    "FL_QTY_IN_STOCK": "Кількість товарів на складі",
+    "PLL_ACTIVE": "Активний",
+    "PLL_INACTIVE": "Неактивний",
+    "PLL_INTERNAL": "Внутрішній",
+    "PLL_EXTERNAL": "Зовнішній",
+    "LBL_NOT_PARENT_STORAGE": "Необхідно вказати назву Головного сховища",
+    "LBL_SHOW_HIERARCHY": "Структура",
+    "LBL_PARENT_IS_CHILD": "Обране Головне сховище не може бути підлеглим поточному сховищу",
+    "LBL_PRODUCTS_CONTROL_TABLE": "Таблиця контролю товарів",
+    "LBL_PRODUCTS_TABLE": "Таблиця з товарами",
+    "LBL_PRODUCTS_TABLE_HIERARCHY": "Таблиця зі структурою товарів",
+    "LBL_PRODUCTS_VALUE_TABLE": "Таблиця з властивостями товарів",
+    "LBL_TABLE_HIERARCHY": "Таблиця структури",
+    "LBL_SECONDARY_STORAGES": "Додаткове сховище",
+    "LBL_ROW_NUM": "Номер",
+    "LBL_STORAGE_OWNER": "Власник"
+  }
+}

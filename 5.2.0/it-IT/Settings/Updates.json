@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Updates": "Aggiornamenti",
+    "LBL_YES": "Sì",
+    "LBL_NO": "No",
+    "LBL_TIME": "Data",
+    "LBL_USER": "Nome utente",
+    "LBL_FROM_VERSION": "Dalla versione",
+    "LBL_TO_VERSION": "Alla versione",
+    "LBL_RESULT": "Stato",
+    "LBL_UPDATES": "Aggiornamenti",
+    "LBL_UPDATES_DESCRIPTION": "Cronologia aggiornamenti",
+    "LBL_IMPORT_UPDATE": "Carica aggiornamento",
+    "LBL_NAME_PACKAGES": "Nome"
+  }
+}

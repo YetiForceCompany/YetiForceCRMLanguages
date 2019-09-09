@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "FAQ",
+    "SINGLE_Faq": "Pogosta vprašanja",
+    "Draft": "Osnutek",
+    "FL_SUBJECT": "Zadeva",
+    "FL_CONTENT": "Vsebina",
+    "FL_CATEGORY": "Kategorija",
+    "FL_ACCOUNT": "Account",
+    "FL_VIEWS": "Pregled",
+    "PLL_PAGE": "Stran",
+    "PLL_PRESENTATION": "Predstavitev",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Baza znanja",
+    "LBL_PREVIOUS": "Prejšnji",
+    "LBL_NEXT": "Naslednji",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Izdelek",
+    "FL_FEATURED": "Prestavljeni",
+    "LBL_RELATED_FAQ": "Sorodni vnosi",
+    "FL_INTRODUCTION": "Uvod",
+    "Faq No": "FAQ št.",
+    "General": "Splošno",
+    "LBL_FAQ_INFORMATION": "Pogosta vprašanja podatki",
+    "LBL_RECORDS_LIST": "Pregled pogostih vprašanj",
+    "Obsolete": "Zastarelo",
+    "Published": "Objavljeno",
+    "Question": "Vprašanje"
+  }
+}

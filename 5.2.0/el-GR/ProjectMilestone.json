@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Ορόσημο έργου",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Βασικές πληροφορίες",
+    "Project Milestone Name": "Ονομασία",
+    "Milestone Date": "Ημερομηνία",
+    "Project Milestone No": "Αριθμός",
+    "description": "Περιγραφή",
+    "Related to": "Έργο",
+    "FL_PARENT_PROJECT_MILESTONE": "Γονικό ορόσημο",
+    "FL_STATUS": "Κατάσταση",
+    "LBL_ESTIMATED_WORK_TIME": "Εκτιμώμενος χρόνος εργασίας",
+    "LBL_MILESTONES_LIST": "Λίστα ορόσημων",
+    "LBL_TASKS_LIST": "Λίστα εργασιών",
+    "LBL_PROJECTS_LIST": "Λίστα έργων",
+    "LBL_PRIORITY": "Προτεραιότητα",
+    "LBL_PROGRESS": "Πρόοδος",
+    "PLL_INTERNAL": "Εσωτερικό",
+    "PLL_EXTERNAL": "Εξωτερικό",
+    "PLL_SHARED": "Κοινής χρήσης",
+    "PLL_LOW": "Χαμηλή",
+    "PLL_NORMAL": "Κανονική",
+    "PLL_HIGH": "Υψηλή"
+  }
+}

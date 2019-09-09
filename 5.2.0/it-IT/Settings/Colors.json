@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "Colori",
+    "LBL_COLOR": "Colore",
+    "LBL_PICKLISTS": "Menù a tendina",
+    "LBL_SELECT_PICKLIST": "Seleziona menù a tendina",
+    "LBL_REMOVE_COLOR": "Elimina colore",
+    "LBL_GENERATE_COLOR": "Genera colore",
+    "LBL_UPDATE_COLOR": "Cambia colore",
+    "LBL_REMOVED_COLOR": "Colore eliminato",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Modifica colore",
+    "LBL_SELECT_COLOR": "Scegli un colore",
+    "LBL_CALENDAR_COLORS": "Colori calendario",
+    "LBL_CALENDAR_TYPE": "Tipo attività / evento",
+    "LBL_SAVE_COLOR": "Colore salvato",
+    "Call": "Chiamata",
+    "Task": "Compito",
+    "Meeting": "Riunione",
+    "LBL_GROUPS_COLORS": "Gruppi",
+    "LBL_USERS_COLORS": "Utenti",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "La funzionalità colore non è stata attivata per il menù a tendina",
+    "LBL_UPDATE_COLOR_COLUMN": "Attiva",
+    "LBL_WARNING": "Avviso",
+    "LBL_ITEM": "Valore",
+    "LBL_MODULE": "Modulo",
+    "LBL_GROUP_NAME": "Gruppo"
+  }
+}

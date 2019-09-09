@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Обяви",
+    "SINGLE_Announcements": "Обява",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Основна информация",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "FL_STATUS": "Статус",
+    "FL_INTERVAL": "Време за напомняне",
+    "FL_IS_MANDATORY": "Необходимо е да се приеме",
+    "PLL_DRAFT": "Чернова",
+    "PLL_FOR_ACCEPTANCE": "За одобрение",
+    "PLL_PUBLISHED": "Публикуван",
+    "PLL_ARCHIVES": "Архивирано",
+    "LBL_REMIND_ME_LATER": "Напомни ми по-късно",
+    "LBL_MARK_AS_READ": "Маркирай като прочетено",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Беше ли прието?",
+    "LBL_DATE": "Прочети повече"
+  }
+}

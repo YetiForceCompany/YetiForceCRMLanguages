@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA Πολιτική",
+    "LBL_NAME": "Oνομασία πολιτικής",
+    "LBL_EDIT": "Επεξεργασία SLA πολιτικής",
+    "LBL_CREATE": "Δημιουργία νέας SLA πολιτικής",
+    "LBL_SOURCE_MODULE": "Module"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Επιλέξτε ώρες εργασίας",
+    "JS_BUSINESS_HOURS_FROM": "Από",
+    "JS_BUSINESS_HOURS_TO": "Έως",
+    "JS_BUSINESS_HOURS_NAME": "Όνομασία",
+    "JS_BUSINESS_HOURS_DAYS": "Εργάσιμες ημέρες",
+    "JS_HOLIDAYS": "Αργίες"
+  }
+}

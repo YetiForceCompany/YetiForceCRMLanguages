@@ -1,0 +1,21 @@
+{
+  "php": {
+    "LBL_CONVERSION": "Conversione",
+    "LBL_CONVERSION_TO_ACCOUNT": "Assegna a chi effettua la conversione",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "L'utente, che converte un lead in azienda, diventa il proprietario dell'azienda",
+    "LBL_LEADS": "Lead",
+    "LBL_INFO": "Opzione",
+    "LBL_VALUES": "Impostazione",
+    "LBL_GROUPS_INFO": "Gruppi senza diritto di proprietà",
+    "LBL_LEAD_STATUS": "Stati che definiscono un lead come chiuso",
+    "LBL_LEAD_CONVERT_STATUS": "Stati che consentono la conversione di un lead ad azienda",
+    "LBL_CURRENTUSER_STATUS": "Assegna il record all'utente che lo modifica",
+    "LBL_CONVERT_LEAD_MERGE": "Riassocia record relazionati, ma senza convertire",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "Se le condizioni sono tutte soddisfatte, ovvero l'azienda, dal lead, esiste già, non viene creata una nuova azienda, ma i record relazionati al lead, che si sta convertendo, saranno riassociati alla azienda identificata, che soddisfa le condizioni impostate",
+    "LBL_CONDITION": "Aggiungi condizione",
+    "MarketingProcesses": "Processo di marketing"
+  },
+  "js": {
+    "JS_NO_CONDITIONS": "È richiesta almeno una condizione"
+  }
+}

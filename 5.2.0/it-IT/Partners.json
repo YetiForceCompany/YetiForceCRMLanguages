@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Partner",
+    "SINGLE_Partners": "Partner",
+    "LBL_PARTNERS_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_SUBJECT": "Nome",
+    "LBL_NUMBER": "Progressivo",
+    "LBL_CLOSED_TIME": "Data chiusura",
+    "LBL_VAT_ID": "Partita IVA",
+    "FL_CATEGORY": "Categoria"
+  }
+}

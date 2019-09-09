@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Dodaj",
+    "TreesManager": "Upravitelj drevesne strukture",
+    "LBL_TREES_MANAGER": "Upravitelj polj drevesne strukture",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Upravitelj predlog drevesne strukture",
+    "LBL_NO_RECORDS_FOUND": "Ni najdeno predlogov drevesne strukture",
+    "LBL_EDIT_TEMPLATE_TREES": "Uredi predlogo drevesne strukture",
+    "LBL_CREATING_TEMPLATE_TREES": "Ustvari predlogo drevesne strukture",
+    "LBL_NAME": "Ime predloge",
+    "LBL_MODULE": "Moduli",
+    "LBL_ADD_ITEM_TREE": "Dodaj nov predmet",
+    "LBL_ADD_TO_TREES": "Dodaj",
+    "LBL_SAVE": "Shrani",
+    "LBL_SELECT_REPLACE_TREE_ITEM": "Spremeni podatek v drevesni strukturi:",
+    "Category": "Kategorija",
+    "LBL_MULTICATEGORY": "List of categories",
+    "Reservations": "Rezervacije",
+    "LBL_SHARE_WITH": "Skupna raba z"
+  },
+  "js": {
+    "JS_TREE_DELETED_SUCCESSFULLY": "Predloga drevesne strukture uspešno izbrisana",
+    "JS_JSTREE_CREATE": "Dodaj",
+    "JS_JSTREE_RENAME": "Spremeni ime",
+    "JS_JSTREE_REMOVE": "Izbriši",
+    "JS_JSTREE_CCP": "Uredi",
+    "JS_JSTREE_CUT": "Izreži",
+    "JS_JSTREE_COPY": "Kopiraj",
+    "JS_JSTREE_PASTE": "Prilepi",
+    "JS_JSTREE_CHANGE_ICON": "Spremeni ikono",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Polje ne sme biti prazno",
+    "JS_NO_ITEM_SELECTED": "Ni izbran noben element",
+    "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "Ne morete izbrisati vseh elementov",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Ne morete izbrisati nadrejenega elementa",
+    "JS_NEW_ITEM": "Novo vozlišče",
+    "JS_ONLY_ONE_ITEM_SELECTED": "Lahko je izbran le en element."
+  }
+}

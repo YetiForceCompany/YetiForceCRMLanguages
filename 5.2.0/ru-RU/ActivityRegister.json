@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Реестр активности",
+    "SINGLE_ActivityRegister": "Реестр активности",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "FL_SUBJECT": "Тема",
+    "FL_PARENT_ACTIVITY": "Активность родителя",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Черновик",
+    "PLL_WAITING_FOR_ACCEPTANCE": "В ожидании подтверждения",
+    "PLL_IN_REALIZATION": "В процессе",
+    "PLL_COMPLETED": "Завершенный",
+    "PLL_CANCELLED": "Отмененный",
+    "FL_DATA_SET": "Набор данных",
+    "PLL_ENTRUSTMENT": "Entrustment",
+    "PLL_SHARING": "Sharing",
+    "PLL_TRANSFER": "Передача",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Entrustment acceptance",
+    "PLL_INTERNAL": "Внутренний",
+    "FL_START_DATE": "Дата начала",
+    "FL_END_DATE": "Дата Окончания",
+    "LBL_DATES": "Даты активности",
+    "LBL_DESCRIPTION": "Описание",
+    "FL_DESCRIPTION": "Описание",
+    "FL_COMMENTS": "Комментарии",
+    "LBL_COMMENTS": "Комментарии",
+    "FL_ACTIVITY_TYPE": "Вид активности"
+  }
+}

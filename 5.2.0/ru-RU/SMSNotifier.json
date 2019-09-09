@@ -1,0 +1,25 @@
+{
+  "php": {
+    "providertype": "Провайдер",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "Максимум 160 символов",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "isactive": "Активный",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Отправка SMS-сообщения на выбранные номера",
+    "LBL_STEP_1": "Шаг 1",
+    "LBL_STEP_2": "Шаг 2",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Выберите тип телефонного номера",
+    "LBL_TYPE_THE_MESSAGE": "Введите текст сообщения",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "Текст",
+    "LBL_ADD_MORE_FIELDS": "Добавьте поле",
+    "LBL_SERVER_CONFIG": "Конфигурация сервера",
+    "FL_STATUS": "Статус",
+    "PLL_UNDEFINED": "Неопределено",
+    "PLL_DELIVERED": "Доставлено",
+    "PLL_FAILED": "Ошибка",
+    "LBL_MASS_SEND_SMS_INFO": "Все текстовые сообщения отсылаются через cron",
+    "LBL_CHECK_STATUS": "Проверить статус",
+    "message": "Сообщение",
+    "LBL_SMSNOTIFIER_INFORMATION": "Информация SMS"
+  }
+}

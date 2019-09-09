@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "ساخت سریع",
+    "LBL_SEPARATOR": "جدا کننده",
+    "LBL_OTHER": "سایر موارد",
+    "MEN_VIRTUAL_DESK": "میز‌های مجازی",
+    "MEN_COMPANIES_CONTACTS": "شرکت‌ها و مخاطبین",
+    "MEN_SALES": "فروش",
+    "MEN_PROJECTS": "تحقق",
+    "MEN_MARKETING": "بازاریابی",
+    "MEN_SUPPORT": "پشتیبانی",
+    "MEN_ACCOUNTING": "حسابداری",
+    "MEN_COMPANY": "شرکت",
+    "MEN_ORGANIZATION": "سازمان",
+    "MEN_DATABESES": "پایگاه‌داده‌ها",
+    "MEN_TEAMWORK": "کار تیمی",
+    "MEN_PRODUCTBASE": "محصول پایگاه‌داده",
+    "MEN_LISTS": "فهرست",
+    "MEN_SERVICESBASE": "پایگاه‌داده خدمات",
+    "MEN_SALE_PROCESSES": "فرآیند‌های فروش",
+    "Menu": "منو",
+    "MEN_LOGISTICS": "تدارکات",
+    "LBL_CHANGE_LOGIN_PASSWORD": "تغییر رمز ورود",
+    "LBL_CHANGE": "تغییر",
+    "LBL_USER_PROFILE": "مشخصات کاربر",
+    "MEN_GDPR": "GDPR"
+  }
+}

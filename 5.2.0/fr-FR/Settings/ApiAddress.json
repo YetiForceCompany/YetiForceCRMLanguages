@@ -1,0 +1,41 @@
+{
+  "php": {
+    "LBL_SAVE": "Sauvegarder",
+    "ApiAddress": "Chercher adresse",
+    "LBL_API_ADDRESS": "Chercher adresse",
+    "LBL_API_ADDRESS_DESCRIPTION": "Module autorisant la recherche et la complétion automatique de l'adresse durant la création et l'édition des données dans le système.",
+    "LBL_ENTER_KEY_APPLICATION": "Saisir la clé de l'application",
+    "LBL_MIN_LOOKUP_LENGTH": "Le nombre minimum de caractères qu'un utilisateur doit taper avant qu'une recherche ne soit effectuée",
+    "LBL_SAVE_NOTIFY_OK": "Paramètres modifiés avec succès.",
+    "LBL_COUNTRY_CODES": "Country codes",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
+    "LBL_KEY": "Key",
+    "LBL_KEY_PLACEHOLDER": "Saisir la clé de l'application",
+    "LBL_MAP_URL": "Map url",
+    "LBL_MAP_URL_PLACEHOLDER": "Enter map url",
+    "LBL_USE_GOOGLE_GEOCODER": "Utiliser le GéoCoding de Google",
+    "LBL_PROVIDER_NAME": "Provider name",
+    "LBL_PROVIDER_DEFAULT": "Default provider",
+    "LBL_PROVIDER_ACTIVE": "Is provider active",
+    "LBL_PROVIDER_ACTIONS": "Actions",
+    "LBL_PROVIDER_CONFIG": "Configure provider",
+    "LBL_PROVIDER_UNSET": "Before activating provider you have to configure it by clicking settings button",
+    "LBL_PROVIDER_GOOGLEGEOCODE": " Géocoding de Google",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Google Geocoding site",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage Geocoder site",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim Geocoder site",
+    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce Geocoder",
+    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "YetiForce Geocoder site",
+    "LBL_GLOBAL_CONFIG": "Configuration",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Sauvegarder les paramètres globaux",
+    "LBL_NUMBER_SEARCH_RESULTS": "Nombre de résultats de recherche"
+  },
+  "js": {
+    "Invalid API key": "Clé API invalide",
+    "JS_ERROR": "Erreur",
+    "JS_LOADING_PLEASE_WAIT": "Chargement, merci de patienter.",
+    "JS_WRONG_NUMBER": "Caractères autorisés : chiffre plus grand que 1."
+  }
+}

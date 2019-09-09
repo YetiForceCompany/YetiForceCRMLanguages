@@ -1,0 +1,43 @@
+{
+  "php": {
+    "PublicHoliday": "Giorni festivi",
+    "LBL_PUBLIC_HOLIDAY": "Calendario - Giorni festivi",
+    "LBL_PUBLIC_HOLIDAY_DESCRIPTION": " ",
+    "LBL_ADD_HOLIDAY": "Aggiungi giorno festivo",
+    "LBL_HOLIDAY_LIST": "Lista giorni festivi",
+    "LBL_YEAR_FROM": "Da",
+    "LBL_YEAR_TO": "A",
+    "LBL_EDIT": "Modifica",
+    "LBL_DELETE": "Elimina",
+    "JS_HOLIDAY_DELETE_OK": "Festività eliminata",
+    "JS_HOLIDAY_DELETE_ERROR": "Impossibile eliminare il giorno festivo",
+    "LBL_ADD_NEW_HOLIDAY": "Aggiungi giorno festivo",
+    "LBL_DATE": "Data",
+    "LBL_DAY_NAME": "Nome festività",
+    "LBL_DAY_NAME_DESC": "Inserisci nome",
+    "LBL_NEW_DATE_OK": "Festività aggiunta",
+    "LBL_NEW_DATE_ERROR": "Impossibile aggiungere festività",
+    "LBL_EDIT_DATE_OK": "Festività modificata",
+    "LBL_EDIT_DATE_ERROR": "Nessuna modifica apportata",
+    "LBL_FILL_FORM_ERROR": "Devi compilare tutti i campi",
+    "Monday": "Lunedì",
+    "Tuesday": "Martedì",
+    "Wednesday": "Mercoledì",
+    "Thursday": "Giovedì",
+    "Friday": "Venerdì",
+    "Saturday": "Sabato",
+    "Sunday": "Domenica",
+    "LBL_HOLIDAY_TYPE": "Tipo festività",
+    "LBL_NATIONAL": "nazionale",
+    "LBL_ECCLESIASTICAL": "religiosa",
+    "ecclesiastical": "religiosa",
+    "national": "nazionale",
+    "LBL_VIEW_CONFIGURATION": "Giorni festivi",
+    "LBL_DATE_RANGE": "Intervallo"
+  },
+  "js": {
+    "JS_ADD_NEW_HOLIDAY": "Aggiungi giorno festivo",
+    "JS_EDIT_HOLIDAY": "Modifica giorno festivo",
+    "JS_FILL_FORM_ERROR": "Devi compilare tutti i campi"
+  }
+}

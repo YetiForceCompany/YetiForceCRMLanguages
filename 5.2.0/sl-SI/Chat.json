@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Priljubljeni",
+    "LBL_ROOM_GROUP": "Skupinska klepetalnica",
+    "LBL_ROOM_GLOBAL": "Globalna klepetalnica",
+    "LBL_MESSAGE": "Vnesite vaše sporočilo tukaj. Pritisnite SHIFT + ENTER, če želite dodati novo vrstico.",
+    "LBL_PARTICIPANTS": "Udeleženci",
+    "LBL_SEARCH_PARTICIPANTS": "Iskanje udeležencev",
+    "LBL_SEARCH_MESSAGE": "Išči sporočila",
+    "LBL_CREATE_CHAT_ROOM": "Ustvarite klepetalnico",
+    "LBL_REMOVE_FROM_FAVORITES": "Odstrani iz priljubljenih",
+    "LBL_ADD_FROM_FAVORITES": "Dodaj med priljubljene",
+    "LBL_EARLIER": "Prej",
+    "LBL_NOTIFICATION": "Obvestila v klepetu",
+    "LBL_SOUND_OFF": "Zvok izklopi",
+    "LBL_SOUND_ON": "Zvok vklopi",
+    "LBL_HISTORY_CHAT": "Zgodovina klepetalnice",
+    "LBL_MORE": "več",
+    "LBL_HIDE": "skrij",
+    "LBL_NO_MESSAGES": "Ni sporočil",
+    "LBL_UNREAD": "Neprebrano",
+    "LBL_ENTER": "Omogoči \/ onemogoči pošiljanje sporočil po pritisku tipke ENTER",
+    "LBL_DETAIL_VIEW": "Podroben pogled",
+    "LBL_ROOM_DESCRIPTION_CRM": "Seznam klepetalnic označenih kot priljubljene",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Seznam klepetalnic s skupinami uporabnikov",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Seznam klepetalnic viden za vse uporabnike",
+    "LBL_CHAT_USER_SWITCHED": "Klepetalnica ni aktivna, če ste preklopili na drugega uporabnika.",
+    "LBL_CHAT_NEW_MESSAGE": "Novo sporočilo"
+  }
+}

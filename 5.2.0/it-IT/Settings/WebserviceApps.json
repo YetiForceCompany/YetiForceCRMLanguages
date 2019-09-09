@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_APP_NAME": "Nome",
+    "LBL_ADDRESS_URL": "URL",
+    "LBL_TYPE_SERVER": "Tipo",
+    "LBL_API_KEY": "Chiave di accesso",
+    "LBL_ADD_APPLICATION": "Aggiungi chiave di accesso",
+    "LBL_WEBSERVICE_APPS": "Web service - Applicazioni",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Definisce le chiavi di accesso delle aziende al portale cliente",
+    "LBL_PASS": "Chiave di accesso",
+    "LBL_TITLE_ADDED": "Aggiungi",
+    "LBL_TITLE_EDIT": "Modifica",
+    "Portal": "Amministrazione Portale",
+    "Payments": "Pagamenti"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la chiave di accesso?"
+  }
+}

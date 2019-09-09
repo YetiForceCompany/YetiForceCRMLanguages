@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Quick create",
+    "LBL_SEPARATOR": "Separator",
+    "LBL_OTHER": "Other",
+    "MEN_VIRTUAL_DESK": "Virtual desk",
+    "MEN_COMPANIES_CONTACTS": "Companies and Contacts",
+    "MEN_SALES": "销售",
+    "MEN_PROJECTS": "Realization",
+    "MEN_MARKETING": "Marketing",
+    "MEN_SUPPORT": "支持",
+    "MEN_ACCOUNTING": "Accounting",
+    "MEN_COMPANY": "公司",
+    "MEN_ORGANIZATION": "Organization",
+    "MEN_DATABESES": "数据库",
+    "MEN_TEAMWORK": "团队合作",
+    "MEN_PRODUCTBASE": "产品数据库",
+    "MEN_LISTS": "列表",
+    "MEN_SERVICESBASE": "Service database",
+    "MEN_SALE_PROCESSES": "Sale processes",
+    "Menu": "菜单",
+    "MEN_LOGISTICS": "Logistics",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Changing the login password",
+    "LBL_CHANGE": "Change",
+    "LBL_USER_PROFILE": "用户配置文件",
+    "MEN_GDPR": "GDPR"
+  }
+}

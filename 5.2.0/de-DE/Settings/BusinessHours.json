@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Geschäftszeiten",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Geschäftszeiten ist ein Modul, in dem Sie die Arbeitszeiten Ihres Teams einstellen können.",
+    "LBL_WORKING_HOURS_FROM": "Von",
+    "LBL_WORKING_HOURS_TO": "An",
+    "LBL_WORKING_DAYS": "Arbeitstage",
+    "LBL_WORKING_HOURS": "Arbeitszeit",
+    "LBL_DEFAULT": "Standard",
+    "LBL_NAME": "Name",
+    "LBL_HOLIDAYS": "Urlaub",
+    "LBL_EDIT_BUSINESS_HOURS": "Bearbeiten der Geschäftszeiten",
+    "LBL_ADD_BUSINESS_HOURS": "Geschäftsstunden-Eintrag hinzufügen",
+    "LBL_DEFAULT_TIMES": "Standard-Zeiten",
+    "LBL_DEFAULT_REACTION_TIME": "Standard Reaktionszeit",
+    "LBL_DEFAULT_IDLE_TIME": "Standard Idle-Zeit",
+    "LBL_DEFAULT_RESOLVE_TIME": "Standard Lösungszeit",
+    "LBL_HOLIDAYS_LINK": "Gehe zu den Urlaubseinstellungen"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?"
+  }
+}

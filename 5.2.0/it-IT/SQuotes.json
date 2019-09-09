@@ -1,0 +1,30 @@
+{
+  "php": {
+    "SQuotes": "Preventivi",
+    "SINGLE_SQuotes": "Preventivo",
+    "LBL_SQUOTES_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_STATISTICS": "Statistiche",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Progressivo",
+    "LBL_CLOSED_TIME": "Data chiusura",
+    "LBL_STATUS": "Stato",
+    "LBL_COMPANY_NAME": "Azienda",
+    "SINGLE_SSalesProcesses": "Opportunità",
+    "FL_TOTAL_PRICE": "Totale netto",
+    "FL_MARGINP": "Totale margine percentuale",
+    "FL_MARGIN": "Totale margine",
+    "FL_SUM_GROSS": "Totale",
+    "FL_SUM_DISCOUNT": "Totale sconto",
+    "FL_VALID_UNTIL": "Validità",
+    "PLL_DRAFT": "Bozza",
+    "PLL_IN_REALIZATION": "In realizzazione",
+    "PLL_FOR_VERIFICATION": "Da verificare",
+    "PLL_AWAITING_DECISION": "In attesa di conferma",
+    "PLL_NEGOTIATIONS": "In negoziazione",
+    "PLL_CANCELLED": "Annullato",
+    "PLL_ACCEPTED": "Accettato",
+    "LBL_CHANGE_STATUS": "Cambia stato"
+  }
+}

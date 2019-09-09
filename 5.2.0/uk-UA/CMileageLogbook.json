@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Журнал обліку пробігу",
+    "SINGLE_CMileageLogbook": "Журнал обліку пробігу",
+    "LBL_ADDITIONAL_INFORMATION": "Додаткова інформація",
+    "LBL_BASIC_INFORMATION": "Основна інформація",
+    "LBL_DESCRIPTION_BLOCK": "Опис",
+    "LBL_ATTENTION_BLOCK": "Примітки",
+    "FL_SUBJECT": "Тема",
+    "FL_STATUS": "Статус",
+    "FL_NUMBER_KILOMETERS": "Кількість км",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_FOR_APPROVAL": "На схваленни",
+    "PLL_ACCEPTED": "Затверджено",
+    "PLL_CANCELLED": "Відхилено"
+  }
+}

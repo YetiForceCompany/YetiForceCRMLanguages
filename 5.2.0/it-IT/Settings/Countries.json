@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "Nome",
+    "LBL_COUNTRY_SHORTNAME": "Codice",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Abilita / disabilita",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Abilita / disabilita tutti i paesi",
+    "LBL_VISIBLE_IN_PHONE": "Disponibile / non disponibile per i campi telefonici",
+    "LBL_VISIBLE_IN_COUNTRY": "Disponibile / non disponibile negli indirizzi stradali",
+    "LBL_ROW_TO_TOP": "Sposta la riga in alto",
+    "LBL_ROW_TO_BOTTOM": "Sposta la riga in basso",
+    "LBL_COUNTRY_SETTINGS": "Configurazione paesi",
+    "LBL_COUNTRY_DESCRIPTION": "Configura i paesi disponibili"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "Impostazioni paese"
+  }
+}

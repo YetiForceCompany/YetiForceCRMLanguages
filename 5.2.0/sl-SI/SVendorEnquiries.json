@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Poizvedbe dobavitelju",
+    "SINGLE_SVendorEnquiries": "Povpraševanje prodajalca",
+    "LBL_SCALCULATIONS_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobni opis",
+    "LBL_STATISTICS": "Statistika",
+    "LBL_SUBJECT": "Zadeva",
+    "LBL_NUMBER": "Številka",
+    "LBL_CLOSED_TIME": "Zaključeno dne",
+    "LBL_STATUS": "Status",
+    "SINGLE_SSalesProcesses": "Priložnost",
+    "FL_TOTAL_PRICE": "Skupaj skupaj",
+    "FL_MARGINP": "Skupaj popust v odstotkih",
+    "FL_MARGIN": "Skupaj popust",
+    "FL_VENDOR": "Proizvajalec",
+    "FL_SCALCULATIONS": "Kalkulacija",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_FOR_VERIFICATION": "V preverjanju",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_COMPLETED": "Zaključeno",
+    "LBL_CHANGE_STATUS": "Spremeni status"
+  }
+}

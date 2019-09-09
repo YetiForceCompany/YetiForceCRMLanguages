@@ -1,0 +1,41 @@
+{
+  "php": {
+    "LBL_SAVE": "Zapisz",
+    "ApiAddress": "Wyszukiwarka adresów",
+    "LBL_API_ADDRESS": "Wyszukiwarka adresów",
+    "LBL_API_ADDRESS_DESCRIPTION": "Moduł umożliwiający wyszukiwanie/podpowiadanie adresu podczas tworzenia i edycji danych w systemie.",
+    "LBL_ENTER_KEY_APPLICATION": "Wprowadź klucz aplikacji",
+    "LBL_MIN_LOOKUP_LENGTH": "Minimalna liczba znaków, którą należy wpisać przed rozpoczęciem wyszukiwania",
+    "LBL_SAVE_NOTIFY_OK": "Zapisano zmiany.",
+    "LBL_COUNTRY_CODES": "Kody krajów",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "np. en, fr",
+    "LBL_KEY": "Klucz",
+    "LBL_KEY_PLACEHOLDER": "Wprowadź klucz aplikacji",
+    "LBL_MAP_URL": "URL mapy",
+    "LBL_MAP_URL_PLACEHOLDER": "Wprowadź adres URL mapy",
+    "LBL_USE_GOOGLE_GEOCODER": "Użyj Google Geocoding",
+    "LBL_PROVIDER_NAME": "Nazwa dostawcy",
+    "LBL_PROVIDER_DEFAULT": "Domyślny dostawca",
+    "LBL_PROVIDER_ACTIVE": "Czy dostawca jest aktywny?",
+    "LBL_PROVIDER_ACTIONS": "Akcje",
+    "LBL_PROVIDER_CONFIG": "Konfigurowanie dostawcy",
+    "LBL_PROVIDER_UNSET": "Przed aktywacją dostawcy musisz go skonfigurować klikając przycisk ustawień",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "Google Geocoding",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Strona Google Geocoding",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Strona OpenCage Geocoder",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Strona Nominatim Geocoder",
+    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce Geocoder",
+    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "Strona YetiForce Geocoder",
+    "LBL_GLOBAL_CONFIG": "Konfiguracja",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Zapisz globalną konfigurację",
+    "LBL_NUMBER_SEARCH_RESULTS": "Ilość wyników wyszukiwania"
+  },
+  "js": {
+    "Invalid API key": "Nieprawidłowy klucz aplikacji",
+    "JS_ERROR": "Błąd",
+    "JS_LOADING_PLEASE_WAIT": "Trwa ładowanie widoku, proszę czekać",
+    "JS_WRONG_NUMBER": "Dozwolone znaki: cyfry wieksze od 1"
+  }
+}

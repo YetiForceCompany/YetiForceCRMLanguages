@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "Скриване на блокове",
+    "LBL_HIDEBLOCKS": "Полета – Скриване На Блокове",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Управлявайте кой блокове с полета да се крият",
+    "LBL_BLOCK_LABEL": "Блок",
+    "LBL_MODULE": "Модул",
+    "LBL_ENABLED": "Активен",
+    "LBL_EDIT_BLOCK": "Редактирай",
+    "LBL_NEW_BLOCK": "Създай",
+    "LBL_BLOCK": "Блок",
+    "LBL_NEXT": "Следващ",
+    "LBL_VIEW": "Преглед",
+    "LBL_MANDATORY_FIELDS_EXIST": "Полето не може да бъде скрито тай като съдържа задължителни полета."
+  }
+}

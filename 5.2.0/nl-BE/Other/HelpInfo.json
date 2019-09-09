@@ -1,0 +1,8 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Frequentie van herinneringen in dagen, als een gebruiker de wijzigingen niet heeft beoordeeld. Als het veld leeg blijft wordt de herinnering niet meer weergegeven.",
+    "Accounts|Account Name": "Dit veld is bedoeld voor de bedrijfsnaam",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
+  }
+}

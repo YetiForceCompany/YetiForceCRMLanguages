@@ -1,0 +1,21 @@
+{
+  "php": {
+    "SRequirementsCards": "Requisitos de Vendas",
+    "SINGLE_SRequirementsCards": "Requisito de Venda",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Informações Básicas",
+    "LBL_CUSTOM_INFORMATION": "Informaçao do Sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descriçao",
+    "LBL_STATISTICS": "Estatiticas",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_NUMBER": "Número",
+    "LBL_CLOSED_TIME": "Hora do Fechamento",
+    "LBL_STATUS": "Status",
+    "SINGLE_SSalesProcesses": "Oportunidade",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_IN_REALIZATION": "Em execuçao",
+    "PLL_FOR_VERIFICATION": "Para verificaçao",
+    "PLL_CANCELLED": "Cancelado",
+    "PLL_COMPLETED": "Concluido",
+    "LBL_CHANGE_STATUS": "Alterar Status"
+  }
+}

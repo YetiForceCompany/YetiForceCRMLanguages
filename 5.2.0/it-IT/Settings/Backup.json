@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "File di backup",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Consente di scaricare eventuali backup eseguiti.",
+    "LBL_DOWNLOAD": "Scarica",
+    "LBL_FILE_NAME": "Nome file",
+    "LBL_FILE_SIZE": "Dimensione",
+    "LBL_FILE_DATE": "Data modifica",
+    "LBL_BACKUP_LIST": "Lista file di backup",
+    "ERR_CONFIG_ALERT_TITLE": "Il backup è disabilitato",
+    "ERR_CONFIG_ALERT_DESC": "Imposta il percorso, della cartella in cui reperire i backup, nella variabile BACKUP_PATH nel file di configurazione [config\/Components\/Backup.php] per abilitarlo."
+  },
+  "js": {}
+}

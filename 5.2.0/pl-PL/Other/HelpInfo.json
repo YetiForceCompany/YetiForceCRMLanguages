@@ -1,0 +1,8 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Co ile dni wyświetlać użytkownikowi powiadomienie, jeśli nie zapoznał się ze zmianami. Jeśli pole pozostanie puste to przypomnienie nie będzie ponownie wyświetlone.",
+    "Accounts|Account Name": "Pole przeznaczone na nazwę firmy",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Domyślny kraj używany podczas synchronizowania pola telefonu CardDAV. To pole będzie używane jeśli telefon nie ma numeru krajowego.",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Zawsze ustawiaj wybrany element jako moduł domyślny w globalnej wyszukiwarce."
+  }
+}

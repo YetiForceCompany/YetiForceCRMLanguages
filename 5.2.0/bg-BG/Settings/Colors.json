@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "Цветове",
+    "LBL_COLOR": "Цвят",
+    "LBL_PICKLISTS": "Picklists",
+    "LBL_SELECT_PICKLIST": "Изберете picklist",
+    "LBL_REMOVE_COLOR": "Премахване на цвят",
+    "LBL_GENERATE_COLOR": "Създаване на цвят",
+    "LBL_UPDATE_COLOR": "Промяна на цвят",
+    "LBL_REMOVED_COLOR": "Цветът е премахнат",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Редактиране на цвят",
+    "LBL_SELECT_COLOR": "Изберете цвят:",
+    "LBL_CALENDAR_COLORS": "Цветове на календара",
+    "LBL_CALENDAR_TYPE": "Вид активност",
+    "LBL_SAVE_COLOR": "Цвeтът е запазен",
+    "Call": "Повикване",
+    "Task": "Задача",
+    "Meeting": "Събрание",
+    "LBL_GROUPS_COLORS": "Група цветове",
+    "LBL_USERS_COLORS": "Цветове на потребителя",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Цветната функционалност не е активирана за този списък",
+    "LBL_UPDATE_COLOR_COLUMN": "Активиране",
+    "LBL_WARNING": "Предупреждение",
+    "LBL_ITEM": "Стойност",
+    "LBL_MODULE": "Модул",
+    "LBL_GROUP_NAME": "Група"
+  }
+}

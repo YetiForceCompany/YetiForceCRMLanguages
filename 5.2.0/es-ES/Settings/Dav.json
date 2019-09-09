@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_DAV_KEYS": "Aplicaciones DAV",
+    "LBL_DAV_KEYS_DESCRIPTION": "Crear y administrar claves DAV",
+    "LBL_KEY": "Clave",
+    "LBL_TOOLS": "Herramientas",
+    "LBL_DELETE_KEY": "Eliminar clave",
+    "LBL_ADD_KEY": "Añadir clave",
+    "LBL_DISPLAY_NAME": "Usuario",
+    "LBL_EMAIL": "Correo electrónico",
+    "LBL_LOGIN": "Iniciar sesión",
+    "LBL_SELECT_USER": "Seleccionar usuario:",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "La aplicación DAV no está activa",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "La aplicación DAV aún no se ha activado, habilítela en config/api.php",
+    "LBL_SUCCESS_SAVE_KEY": "Se ha agregado correctamente una nueva clave",
+    "LBL_ERROR_SAVE_KEY": "Error al guardar la clave",
+    "LBL_SUCCESS_SAVE_CHANGES": "Cambios guardados",
+    "LBL_ACTIVE_USER": "Estado del usuario",
+    "LBL_KEY_HAS_BEEN_REMOVED": "Se ha eliminado la clave",
+    "LBL_SELECT_TYPE": "Tipo",
+    "LBL_COUNT_CARD": "Número de contactos",
+    "LBL_COUNT_CAL": "Número de eventos",
+    "Dav": "Claves DAV",
+    "LBL_VIEW_KEYS": "Claves DAV",
+    "LBL_DUPLICATE_USER_SERVICES": "La clave para esta aplicación ya existe.",
+    "LBL_ALERT_DAV_CONFIG_TITLE": "Información de configuración",
+    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
+  },
+  "js": {
+    "Adding a Key": "Añadir clave"
+  }
+}

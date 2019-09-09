@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SCalculations": "Kalkulacije",
+    "SINGLE_SCalculations": "Kalkulacija",
+    "LBL_SCALCULATIONS_INFORMATION": "Osnovni podatki",
+    "LBL_CUSTOM_INFORMATION": "Sistemski podatki",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobnejši opis",
+    "LBL_STATISTICS": "Statistika",
+    "LBL_SUBJECT": "Oznaka",
+    "LBL_NUMBER": "Številka",
+    "LBL_CLOSED_TIME": "Čas zaključka",
+    "LBL_STATUS": "Statut",
+    "SINGLE_SSalesProcesses": "Možnost prodaje",
+    "FL_TOTAL_PRICE": "Skupaj neto",
+    "FL_MARGINP": "Skupna marža v odstotkih",
+    "FL_MARGIN": "Marža skupaj",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_FOR_VERIFICATION": "V preverjanju",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_COMPLETED": "Zaključeno",
+    "LBL_CHANGE_STATUS": "Status spremembe"
+  }
+}
