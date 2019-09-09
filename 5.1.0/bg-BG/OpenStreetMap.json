@@ -2,19 +2,19 @@
   "php": {
     "OpenStreetMap": "OpenStreetMap",
     "LBL_GROUP_BY": "Група",
-    "LBL_GROUP_NEIGHBOURS": "Group neighboring elements",
-    "LBL_NOT_FOUND_PLACE": "Place not found",
-    "LBL_SEARCH_VALUE_DESCRIPTION": "City, street, building number...",
-    "LBL_IN_RADIUS": "Within radius [km]",
-    "LBL_CALCULATE_TRACK": "Set route",
-    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Set route",
-    "LBL_DISTANCE": "Distance [km]",
-    "LBL_TRAVEL_TIME": "Time [min]",
-    "LBL_INSTRUCTION": "Manual",
-    "LBL_SEARCH_IN_RADIUS": "Search in radius",
-    "LBL_COPY_TO_CLIPBOARD": "Copy to clipboard",
-    "LBL_CLIPBOARD": "Clipboard",
-    "LBL_INDIRECT_POINT": "Indirect point",
-    "ERR_ADDRESS_NOT_FOUND": "Address not found"
+    "LBL_GROUP_NEIGHBOURS": "Групиране на съседни елементи",
+    "LBL_NOT_FOUND_PLACE": "Местоположението не е открито",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "Град, улица, номер на сграда...",
+    "LBL_IN_RADIUS": "В радиус от [км]",
+    "LBL_CALCULATE_TRACK": "Зададен маршрут",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Зададен маршрут",
+    "LBL_DISTANCE": "Разстояние [км]",
+    "LBL_TRAVEL_TIME": "Време [мин]",
+    "LBL_INSTRUCTION": "Ръчно",
+    "LBL_SEARCH_IN_RADIUS": "Търси в радиуси",
+    "LBL_COPY_TO_CLIPBOARD": "Копирай в клипборда",
+    "LBL_CLIPBOARD": "Клипборд",
+    "LBL_INDIRECT_POINT": "Непряка точка",
+    "ERR_ADDRESS_NOT_FOUND": "Адресът не е открит"
   }
 }

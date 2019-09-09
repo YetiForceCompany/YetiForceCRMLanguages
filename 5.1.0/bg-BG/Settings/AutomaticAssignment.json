@@ -25,10 +25,10 @@
     "LBL_NOTE": "Забележка!",
     "LBL_VALUE_INFO": "Следващото поле задава стойността на избраното модул поле.",
     "LBL_ROLES_INFO": "Списъкът на предварително пределени потребители е създаден от посочените по-долу роли.",
-    "LBL_SMOWNERS_INFO": "The list of pre-assigned users is created from the below users, groups. This user list is created only if there are no users selected from roles.",
-    "LBL_ASSIGN_INFO": "Set default Assigned To. The value set here will be assigned to the record when the user, who was assigned, can not be found.",
-    "LBL_CONDITIONS_INFO": "Set record search conditions. In order to select one user from the available user list, the system counts the number of records assigned to the user in the module. The user with the lowest number of records is assigned to the record.",
-    "LBL_ROLEID_INFO": "Set one of the following modes: SYSTEM - user by such mechanisms as workflows tasks and handlers; NON-SYSTEM –  allows to assign a record manually by the user."
+    "LBL_SMOWNERS_INFO": "Списъкът на предварително зададени потребители се създава от потребители, групи по надолу. Този потребителски списък е създаден само ако няма потребители, избрани от ролите.",
+    "LBL_ASSIGN_INFO": "Задаване по подразбиране Присвоено на. Стойността, зададена тук, ще бъде присвоена на записа, когато потребителят, който е назначен, не може да бъде намерен.",
+    "LBL_CONDITIONS_INFO": "Задайте условия за търсене на запис. За да изберете един потребител от наличния списък с потребители, системата отброява броя на записите, присвоени на потребителя в модула. Потребителят с най-малък брой записи е присвоен на записа.",
+    "LBL_ROLEID_INFO": "Задайте един от следните режими: СИСТЕМА - потребител чрез такива механизми като задачи на работните процеси и обработчици; NON-SYSTEM - позволява ръчно задаване на запис от потребителя."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Сигурни ли ще че искате да промените статуса на записа?",
