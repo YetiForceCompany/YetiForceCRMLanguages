@@ -10,7 +10,5 @@
     "ERR_CONFIG_ALERT_TITLE": "Менеджер резервных копий отключен",
     "ERR_CONFIG_ALERT_DESC": "Установите соответствующий путь в переменной BACKUP_PATH в конфигурационном файле [config\/Components\/Backup.php], чтобы включить его."
   },
-  "js": {
-
-  }
+  "js": {}
 }

@@ -29,8 +29,8 @@
     "Prof.": "Проф.",
     "Active": "Активный",
     "Inactive": "Отключен",
-    "Other Po Box": "А\/я  (другое)",
-    "Mailing Po Box": "А\/я (почта)",
+    "Other Po Box": "А/я  (другое)",
+    "Mailing Po Box": "А/я (почта)",
     "LBL_ADDRESS_INFORMATION": "Адрес по прописке",
     "LBL_CONTACT_INFO": "Информация о контакте",
     "Approval for phone calls": "Можно звонить",
@@ -46,7 +46,5 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Отключить принятие решений",
     "LBL_SHOW_HIERARCHY": "Иерархия контактов"
   },
-  "js": {
-
-  }
+  "js": {}
 }

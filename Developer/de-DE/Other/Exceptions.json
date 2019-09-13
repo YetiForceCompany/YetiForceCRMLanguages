@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Keine Berechtigung um Verzeichnisse zu erstellen",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Das Verzeichnis kann nicht erstellt werden",
     "ERR_AUTO_LOGOUT": "Automatisch abgemeldet aufgrund keiner Aktivität",
-    "ERR_FIELD_NOT_FOUND": "Feld nicht gefunden",
+    "ERR_FIELD_NOT_FOUND": "Feld nicht gefunden (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Anzahl der nicht erlaubten Argumente (%d %s in %s)",
     "ERR_NO_VALUE": "kein Wert",
     "ERR_BODY_IS_EMPTY": "Body ist leer",

@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Frequência de lembretes em dias, se o usuário não rever as alterações. Se o campo for mantido vazio, o lembrete não será exibido novamente.",
     "Accounts|Account Name": "Este campo é destinado ao nome da Empresa",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "País padrão usado ao sincronizar o campo de telefone CardDAV. Se o telefone estiver sem um número nacional, este campo será usado",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Sempre definir o elemento selecionado como módulo padrão no motor de busca global.",
+    "FL_RESPONSE_RANGE_TIME": "O número de minutos que decorreram antes da reação, calculado com base na SLA do negócio em dias/horas",
+    "FL_SOLUTION_RANGE_TIME": "O número de minutos decorridos para resolver um determinado registro, calculado em diferentes status, dependendo da configuração e com base no SLA e dias úteis / horas",
+    "FL_IDLE_RANGE_TIME": "O numero de minutos que um determinado registro pode ser inativo, ex.: quando esperando por informações adicionais, ele é calculado com base na SLA e dias úteis",
+    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
+    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
+    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
+    "FL_IDLE_DATE_TIME": "Idle end date and time.",
+    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
   }
 }

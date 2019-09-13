@@ -80,7 +80,7 @@
     "LBL_MODTRACKER_DESCRIPTION": "Select modules for tracking",
     "LBL_MODULE_MANAGER": "Module management",
     "LBL_MODULES": "Modules",
-    "LBL_NOTIFICATIONS": "Notifications",
+    "LBL_NOTIFICATIONS": "通知",
     "LBL_SYSTEM_TOOLS": "System tools",
     "LBL_PASSWORD": "Password",
     "LBL_PICKLIST_DEPENDENCY_DESCRIPTION": "Setup dependency between Picklist values in each module",

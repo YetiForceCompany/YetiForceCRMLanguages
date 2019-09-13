@@ -14,7 +14,7 @@
     "FL_TOTAL": "HT",
     "FL_GROSS": "TTC",
     "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_TRANSFER": "Virement",
+    "PLL_WIRE_TRANSFER": "Transfert électronique"
   }
 }

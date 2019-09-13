@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Co ile dni wyświetlać użytkownikowi powiadomienie, jeśli nie zapoznał się ze zmianami. Jeśli pole pozostanie puste to przypomnienie nie będzie ponownie wyświetlone.",
     "Accounts|Account Name": "Pole przeznaczone na nazwę firmy",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Domyślny kraj używany podczas synchronizowania pola telefonu CardDAV. To pole będzie używane jeśli telefon nie ma numeru krajowego.",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Zawsze ustawiaj wybrany element jako moduł domyślny w globalnej wyszukiwarce."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Zawsze ustawiaj wybrany element jako moduł domyślny w globalnej wyszukiwarce.",
+    "FL_RESPONSE_RANGE_TIME": "Ilość minut, które upłynęły na podjęcie reakcji, wyliczania na podstawie umowy SLA i dni/godzin pracy.",
+    "FL_SOLUTION_RANGE_TIME": "Ilość minut, które upłynęły na rozwiązanie danego rekordu, ilość jest mierzona na różnych statusach w zależności od konfiguracji, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
+    "FL_IDLE_RANGE_TIME": "Ilość minut bezczynności danego rekordu, np. oczekiwanie na dodatkowe informacje, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
+    "FL_CLOSING_RANGE_TIME": "Ilość minut liczona od utworzenia do ostatniego zamknięcia rekordu, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
+    "FL_RESPONSE_DATE_TIME": "Data i czas podjęcia reakcji",
+    "FL_SOLUTION_DATE_TIME": "Data i czas zakończenia rozwiązywania ",
+    "FL_IDLE_DATE_TIME": "Data i czas zakończenia stanu bezczynności",
+    "FL_RESPONSE_EXPECTED": "Planowana/oczekiwana data do kiedy zostanie podjęta rekacja nad rekordem, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
+    "FL_IDLE_DATE_EXPECTED": "Planowana/oczekiwana data do kiedy jest dozwolona bezczynności, wyliczana na podstawie umowy SLA i dni/godzin pracy."
   }
 }

@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "Политика на SLA",
-    "LBL_NAME": "Име на политика",
-    "LBL_EDIT": "Редактиране на SLA политика",
-    "LBL_CREATE": "Създаване на нова SLA политика",
-    "LBL_SOURCE_MODULE": "Модул"
+    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_NAME": "Policy name",
+    "LBL_EDIT": "Edit SLA policy",
+    "LBL_CREATE": "Create new SLA policy",
+    "LBL_SOURCE_MODULE": "Module"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Изберете работно време",
-    "JS_BUSINESS_HOURS_FROM": "Oт",
-    "JS_BUSINESS_HOURS_TO": "До",
-    "JS_BUSINESS_HOURS_NAME": "Име",
-    "JS_BUSINESS_HOURS_DAYS": "Работни дни",
-    "JS_HOLIDAYS": "Празници"
+    "JS_BUSINESS_HOURS": "Select business hours",
+    "JS_BUSINESS_HOURS_FROM": "From",
+    "JS_BUSINESS_HOURS_TO": "To",
+    "JS_BUSINESS_HOURS_NAME": "Name",
+    "JS_BUSINESS_HOURS_DAYS": "Working days",
+    "JS_HOLIDAYS": "Holidays"
   }
 }

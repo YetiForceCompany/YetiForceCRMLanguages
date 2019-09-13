@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Nimate dovoljenj za ustvarjanje imenikov",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Imenika ni mogoče ustvariti",
     "ERR_AUTO_LOGOUT": "Samodejno odjavljeni zaradi nedejavnosti",
-    "ERR_FIELD_NOT_FOUND": "Polja ni mogoče najti",
+    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
     "ERR_NO_VALUE": "Ni vrednosti",
     "ERR_BODY_IS_EMPTY": "Telo je prazno",

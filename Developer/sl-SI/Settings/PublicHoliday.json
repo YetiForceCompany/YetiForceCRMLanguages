@@ -1,6 +1,6 @@
 {
   "php": {
-    "PublicHoliday": "Prazniki",
+    "PublicHoliday": "Državni prazniki",
     "LBL_PUBLIC_HOLIDAY": "Koledar - prazniki",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": " ",
     "LBL_ADD_HOLIDAY": "Dodaj praznik",
@@ -14,7 +14,7 @@
     "LBL_ADD_NEW_HOLIDAY": "Dodaj nov praznik",
     "LBL_DATE": "Datum",
     "LBL_DAY_NAME": "Ime praznika",
-    "LBL_DAY_NAME_DESC": "Vnesite ime praznikih",
+    "LBL_DAY_NAME_DESC": "Vnesite državni praznik",
     "LBL_NEW_DATE_OK": "Uspešno dodani nov praznik",
     "LBL_NEW_DATE_ERROR": "Ni bilo mogoče dodati novega praznika",
     "LBL_EDIT_DATE_OK": "Uspešno spremenjen praznik",

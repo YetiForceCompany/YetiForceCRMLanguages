@@ -156,7 +156,7 @@
     "LBL_MAX_WIDTH_COLUMN": "Spaltenbreite [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Der Prozentwert in Bezug auf die Breite des Fensters.",
     "LBL_TABINDEX": "Tab-Taste Reihenfolge",
-    "LBL_TABINDEX_INFO": "Set desired field sequence to appear after clicking on the TAB key.",
+    "LBL_TABINDEX_INFO": "Setzen Sie die gewünschte Feldfolge, die nach dem Klick auf die TAB-Taste angezeigt wird.",
     "LBL_EDIT_CUSTOM_FIELD": "Feld editieren",
     "LBL_EXCEEDED_MAXIMUM_NUMBER_CHARACTERS_FOR_FIELD_NAME": "Die maximale Länge von 30 Zeichen für den Feldnamen wurde überschritten.",
     "LBL_RELATED_TAB_TYPE": "Reiter",

@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Zásady",
-    "LBL_NAME": "Název zásady",
-    "LBL_EDIT": "Upravit zásady SLA",
-    "LBL_CREATE": "Vytvořte nové zásady SLA",
-    "LBL_SOURCE_MODULE": "Modul"
+    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_NAME": "Policy name",
+    "LBL_EDIT": "Edit SLA policy",
+    "LBL_CREATE": "Create new SLA policy",
+    "LBL_SOURCE_MODULE": "Module"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Vyberte otevírací dobu",
-    "JS_BUSINESS_HOURS_FROM": "Od",
-    "JS_BUSINESS_HOURS_TO": "Do",
-    "JS_BUSINESS_HOURS_NAME": "Název",
-    "JS_BUSINESS_HOURS_DAYS": "Pracovní dny",
-    "JS_HOLIDAYS": "Svátky"
+    "JS_BUSINESS_HOURS": "Select business hours",
+    "JS_BUSINESS_HOURS_FROM": "From",
+    "JS_BUSINESS_HOURS_TO": "To",
+    "JS_BUSINESS_HOURS_NAME": "Name",
+    "JS_BUSINESS_HOURS_DAYS": "Working days",
+    "JS_HOLIDAYS": "Holidays"
   }
 }

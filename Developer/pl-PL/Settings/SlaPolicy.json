@@ -2,7 +2,7 @@
   "php": {
     "LBL_SLA_POLICY": "Polityka SLA",
     "LBL_NAME": "Nazwa",
-    "LBL_EDIT": "Edytuj",
+    "LBL_EDIT": "Edytuj politykę SLA",
     "LBL_CREATE": "Utwórz nową politykę SLA",
     "LBL_SOURCE_MODULE": "Moduł"
   },

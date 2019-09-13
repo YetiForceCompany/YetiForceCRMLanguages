@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Нямате права за създаване на директории",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Директорията не може да бъде създадена",
     "ERR_AUTO_LOGOUT": "Автоматично излизане поради липса на активност",
-    "ERR_FIELD_NOT_FOUND": "Полето не е намерено",
+    "ERR_FIELD_NOT_FOUND": "Полето не е намерено (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Брой на не позволени аргументи (%d %s in %s)",
     "ERR_NO_VALUE": "Няма стойност",
     "ERR_BODY_IS_EMPTY": "Съдържанието е празно",

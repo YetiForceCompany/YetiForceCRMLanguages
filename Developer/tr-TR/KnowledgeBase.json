@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "BilgiTabanları",
     "SINGLE_KnowledgeBase": "BilgiTabanı",
-    "BTN_KNOWLEDGE_BASE": "BilgiTabanları",
+    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
     "LBL_CUSTOM_INFORMATION": "Özel bilgiler",
     "FL_SUBJECT": "Konu",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Temel bilgiler",

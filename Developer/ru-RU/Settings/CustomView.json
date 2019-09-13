@@ -22,7 +22,7 @@
     "LBL_EXISTS_PERMISSION_IN_CONFIG": "Конфликт с %s \r\n Выбранные права не могут быть использованы более чем в одном фильтре",
     "LBL_SORTING": "Сортировка",
     "LBL_SORTING_SETTINGS": "Настройка сортировки",
-    "LBL_SORTING_SETTINGS_WORNING": "Сортировка записей может занять значительное количество времени.<\/strong><\/strong>",
+    "LBL_SORTING_SETTINGS_WORNING": "Сортировка записей может занять значительное количество времени.</strong></strong>",
     "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Выберите поле для сортировки записей",
     "LBL_SORT_ASCENDING_ORDER": "Сортировка в порядке возрастания",
     "LBL_SORT_DESCENDING_ORDER": "Сортировка в порядке убывания",

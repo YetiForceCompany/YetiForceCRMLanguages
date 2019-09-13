@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Guardar",
     "ApiAddress": "Búsqueda de direcciones",
-    "LBL_API_ADDRESS": "Búsqueda de direcciones",
+    "LBL_API_ADDRESS": "Address Search",
     "LBL_API_ADDRESS_DESCRIPTION": "Módulo que permite buscar/autocompletar la dirección durante la creación/edición de datos dentro del sistema.",
     "LBL_ENTER_KEY_APPLICATION": "Introduzca la clave de aplicación",
     "LBL_MIN_LOOKUP_LENGTH": "El número mínimo de caracteres que un usuario debe escribir antes de realizar una búsqueda",
@@ -10,7 +10,7 @@
     "LBL_COUNTRY_CODES": "Country codes",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
     "LBL_KEY": "Key",
-    "LBL_KEY_PLACEHOLDER": "Introduzca la clave de aplicación",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
     "LBL_MAP_URL": "Map url",
     "LBL_MAP_URL_PLACEHOLDER": "Enter map url",
     "LBL_USE_GOOGLE_GEOCODER": "Utilizar Google Geocoding",

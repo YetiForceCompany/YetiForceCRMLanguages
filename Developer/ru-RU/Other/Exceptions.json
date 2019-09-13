@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Нет прав для создания каталогов",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
     "ERR_AUTO_LOGOUT": "Выйти автоматически из-за отсутствия активности",
-    "ERR_FIELD_NOT_FOUND": "Поле не найдено",
+    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
     "ERR_NO_VALUE": "Нет значения",
     "ERR_BODY_IS_EMPTY": "Body is empty",

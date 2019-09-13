@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "ذخیره",
     "ApiAddress": "آدرس جستجو",
-    "LBL_API_ADDRESS": "آدرس جستجو",
+    "LBL_API_ADDRESS": "Address Search",
     "LBL_API_ADDRESS_DESCRIPTION": "ماژول اجازه می دهد هنگام جستجو/ تکمیل به صورت خودکار داده ها آدرس را در سیستم ایجاد/ویرایش شود.",
     "LBL_ENTER_KEY_APPLICATION": "کلید برنامه را وارد کنید",
     "LBL_MIN_LOOKUP_LENGTH": "حداقل تعداد کاراکترهایی که یک کاربر باید قبل از جستجو انجام دهد",
@@ -10,7 +10,7 @@
     "LBL_COUNTRY_CODES": "Country codes",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
     "LBL_KEY": "Key",
-    "LBL_KEY_PLACEHOLDER": "کلید برنامه را وارد کنید",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
     "LBL_MAP_URL": "Map url",
     "LBL_MAP_URL_PLACEHOLDER": "Enter map url",
     "LBL_USE_GOOGLE_GEOCODER": "استفاده از گوگل Geocoding",

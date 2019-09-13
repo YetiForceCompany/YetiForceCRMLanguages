@@ -347,7 +347,7 @@
     "LBL_AUTHENTICATION_CODE": "Koda za preverjanje pristnosti",
     "LBL_TWO_FACTOR_AUTHENTICATION": "Dvojno preverjanja pristnosti",
     "LBL_2FA_SECRET": "Skrivna koda",
-    "LBL_2FA_TOTP_QR_CODE": "Enkratno uporabo kode",
+    "LBL_2FA_TOTP_QR_CODE": "2FA TOTP activation key",
     "LBL_AUTHY_SECRET_TOTP_SUCCESS": "Dvojno preverjanje pristnosti je bilo uspešno omogočeno.",
     "LBL_2FA_WRONG_CODE": "Napačna šifra - vnesite jo znova ali pa se obrnite na skrbnika",
     "LBL_2FA_OFF": "Omogoči dvojno preverjanja pristnosti",

@@ -48,7 +48,7 @@
     "LBL_UPLOAD_LOGO": "Upload logo",
     "LBL_UPLOAD_ERROR": "Error during upload",
     "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
-    "LBL_MULTI_COMPANY": "Organizacijska struktura"
+    "LBL_MULTI_COMPANY": "Organiz. struktura"
   },
   "js": {
     "JS_NO_PERMISSIONS_TO_MOVE": "Ni dovoljenj za premikanje",
