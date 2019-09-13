@@ -10,7 +10,5 @@
     "ERR_CONFIG_ALERT_TITLE": "Gestionnaire de sauvegarde est désactivé",
     "ERR_CONFIG_ALERT_DESC": "Défini le chemin d’accès approprié dans BACKUP_PATH variable dans le fichier de configuration [config\/Components\/Backup.php] pour l’activer."
   },
-  "js": {
-
-  }
+  "js": {}
 }

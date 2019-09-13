@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Запази",
     "ApiAddress": "Търсене на адрес",
-    "LBL_API_ADDRESS": "Търсене на адрес",
+    "LBL_API_ADDRESS": "Address Search",
     "LBL_API_ADDRESS_DESCRIPTION": "Module дето позволява търсенето/ автоматичното попълване на адрес при създаване/редактиране на системните данни.",
     "LBL_ENTER_KEY_APPLICATION": "Въведете ключа за приложението",
     "LBL_MIN_LOOKUP_LENGTH": "Минималният брой символи който потребителят трябва да въведе преди да извърши едно търсене",
@@ -10,7 +10,7 @@
     "LBL_COUNTRY_CODES": "Кодове на страната",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "например, En, Fr и",
     "LBL_KEY": "Ключ",
-    "LBL_KEY_PLACEHOLDER": "Въведете ключа за приложението",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
     "LBL_MAP_URL": "Url-адрес карти",
     "LBL_MAP_URL_PLACEHOLDER": "Въведете Url на карта",
     "LBL_USE_GOOGLE_GEOCODER": "Използвайте Google Geocoding",

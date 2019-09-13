@@ -1,1 +1,170 @@
-[]
+{
+    "ar-SA": {
+        "prefix": "ar-SA",
+        "crowdinCode": "ar",
+        "name": "Arabic",
+        "progress": 5,
+        "time": "2019-09-13 07:59:25"
+    },
+    "bg-BG": {
+        "prefix": "bg-BG",
+        "crowdinCode": "bg",
+        "name": "Bulgarian",
+        "progress": 50,
+        "time": "2019-09-13 08:00:10"
+    },
+    "bs-BA": {
+        "prefix": "bs-BA",
+        "crowdinCode": "bs",
+        "name": "Bosnian",
+        "progress": 39,
+        "time": "2019-09-13 07:59:47"
+    },
+    "cs-CZ": {
+        "prefix": "cs-CZ",
+        "crowdinCode": "cs",
+        "name": "Czech",
+        "progress": 8,
+        "time": "2019-09-13 08:00:54"
+    },
+    "da-DK": {
+        "prefix": "da-DK",
+        "crowdinCode": "da",
+        "name": "Danish",
+        "progress": 13,
+        "time": "2019-09-13 08:01:16"
+    },
+    "de-DE": {
+        "prefix": "de-DE",
+        "crowdinCode": "de",
+        "name": "German",
+        "progress": 99,
+        "time": "2019-09-13 08:02:42"
+    },
+    "el-GR": {
+        "prefix": "el-GR",
+        "crowdinCode": "el",
+        "name": "Greek",
+        "progress": 99,
+        "time": "2019-09-13 08:03:03"
+    },
+    "es-ES": {
+        "prefix": "es-ES",
+        "crowdinCode": "es-ES",
+        "name": "Spanish",
+        "progress": 96,
+        "time": "2019-09-13 08:07:21"
+    },
+    "fa-IR": {
+        "prefix": "fa-IR",
+        "crowdinCode": "fa",
+        "name": "Persian",
+        "progress": 9,
+        "time": "2019-09-13 08:04:11"
+    },
+    "fr-FR": {
+        "prefix": "fr-FR",
+        "crowdinCode": "fr",
+        "name": "French",
+        "progress": 82,
+        "time": "2019-09-13 08:02:21"
+    },
+    "it-IT": {
+        "prefix": "it-IT",
+        "crowdinCode": "it",
+        "name": "Italian",
+        "progress": 99,
+        "time": "2019-09-13 08:03:26"
+    },
+    "ko-KR": {
+        "prefix": "ko-KR",
+        "crowdinCode": "ko",
+        "name": "Korean",
+        "progress": 18,
+        "time": "2019-09-13 08:03:48"
+    },
+    "nl-BE": {
+        "prefix": "nl-BE",
+        "crowdinCode": "nl-BE",
+        "name": "Dutch, Belgium",
+        "progress": 17,
+        "time": "2019-09-13 08:02:00"
+    },
+    "nl-NL": {
+        "prefix": "nl-NL",
+        "crowdinCode": "nl",
+        "name": "Dutch",
+        "progress": 22,
+        "time": "2019-09-13 08:01:38"
+    },
+    "pl-PL": {
+        "prefix": "pl-PL",
+        "crowdinCode": "pl",
+        "name": "Polish",
+        "progress": 100,
+        "time": "2019-09-13 08:04:33"
+    },
+    "pt-BR": {
+        "prefix": "pt-BR",
+        "crowdinCode": "pt-BR",
+        "name": "Portuguese, Brazilian",
+        "progress": 79,
+        "time": "2019-09-13 08:05:20"
+    },
+    "pt-PT": {
+        "prefix": "pt-PT",
+        "crowdinCode": "pt-PT",
+        "name": "Portuguese",
+        "progress": 29,
+        "time": "2019-09-13 08:04:55"
+    },
+    "ro-RO": {
+        "prefix": "ro-RO",
+        "crowdinCode": "ro",
+        "name": "Romanian",
+        "progress": 81,
+        "time": "2019-09-13 08:05:44"
+    },
+    "ru-RU": {
+        "prefix": "ru-RU",
+        "crowdinCode": "ru",
+        "name": "Russian",
+        "progress": 87,
+        "time": "2019-09-13 08:06:08"
+    },
+    "sk-SK": {
+        "prefix": "sk-SK",
+        "crowdinCode": "sk",
+        "name": "Slovak",
+        "progress": 9,
+        "time": "2019-09-13 08:06:33"
+    },
+    "sl-SI": {
+        "prefix": "sl-SI",
+        "crowdinCode": "sl",
+        "name": "Slovenian",
+        "progress": 80,
+        "time": "2019-09-13 08:06:58"
+    },
+    "tr-TR": {
+        "prefix": "tr-TR",
+        "crowdinCode": "tr",
+        "name": "Turkish",
+        "progress": 34,
+        "time": "2019-09-13 08:07:43"
+    },
+    "uk-UA": {
+        "prefix": "uk-UA",
+        "crowdinCode": "uk",
+        "name": "Ukrainian",
+        "progress": 41,
+        "time": "2019-09-13 08:08:04"
+    },
+    "zh-CN": {
+        "prefix": "zh-CN",
+        "crowdinCode": "zh-CN",
+        "name": "Chinese Simplified",
+        "progress": 9,
+        "time": "2019-09-13 08:00:32"
+    }
+}

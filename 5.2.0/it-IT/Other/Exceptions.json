@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Nessun permesso per creare cartelle",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "La cartella non può essere creata",
     "ERR_AUTO_LOGOUT": "Disconnesso automaticamente a causa di inattività",
-    "ERR_FIELD_NOT_FOUND": "Campo non trovato",
+    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Numero di argomenti non consentiti (%d %s in %s)",
     "ERR_NO_VALUE": "Nessun valore",
     "ERR_BODY_IS_EMPTY": "Corpo vuoto",

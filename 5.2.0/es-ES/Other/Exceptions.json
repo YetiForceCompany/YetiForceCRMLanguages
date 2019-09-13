@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Sin permisos para crear directorios",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "No se puede crear el directorio",
     "ERR_AUTO_LOGOUT": "Sesión cerrada automáticamente por inactividad",
-    "ERR_FIELD_NOT_FOUND": "Campo no encontrado",
+    "ERR_FIELD_NOT_FOUND": "El campo (%s) no se encontró",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Número de argumentos no permitidos (%d %s en %s)",
     "ERR_NO_VALUE": "Sin valor",
     "ERR_BODY_IS_EMPTY": "Cuerpo está vacío",

@@ -91,7 +91,7 @@
     "LBL_CHILD_RECORDS": "Registros secundarios al actual",
     "LBL_MASS_STATUS_UPDATED": "Estado actualizado para los registros seleccionados",
     "LBL_UPDATE": "Actualizar",
-    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets"
+    "LBL_ADD_TIME_CONTROL": "Añadir tiempo de trabajo antes de cerrar el ticket",
+    "LBL_CLOSE_RELATED_TICKETS": "Antes de cerrar este ticket, cierre los tickets relacionados"
   }
 }

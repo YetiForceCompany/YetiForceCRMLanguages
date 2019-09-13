@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Κάθε πόσες ημέρες θα εμφανίζεται μια ειδοποίηση στον χρήστη, εάν δεν έχει διαβάσει τις αλλαγές. Εάν το πεδίο παραμείνει κενό, η υπενθύμιση δεν θα εμφανιστεί ξανά.",
     "Accounts|Account Name": "Πεδίο για το όνομα της εταιρείας",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Η προεπιλεγμένη χώρα χρησιμοποιείται κατά τον συγχρονισμό του πεδίου τηλεφώνου του CardDAV. Εάν το τηλέφωνο είναι χωρίς εθνικό αριθμό, θα χρησιμοποιηθεί ο εθνικός αριθμός αυτής της χώρας",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Πάντα να ορίζετε το επιλεγμένο στοιχείο ως προεπιλεγμένο module στον μηχανισμό καθολικής αναζήτησης."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Πάντα να ορίζετε το επιλεγμένο στοιχείο ως προεπιλεγμένο module στον μηχανισμό καθολικής αναζήτησης.",
+    "FL_RESPONSE_RANGE_TIME": "Ο αριθμός των λεπτών που έχουν περάσει πριν από την αντίδραση, υπολογίζεται με βάση το SLA και τις εργάσιμες ημέρες / ώρες",
+    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
+    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
+    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
+    "FL_RESPONSE_DATE_TIME": "Ημερομηνία και ώρα έναρξης αντίδρασης.",
+    "FL_SOLUTION_DATE_TIME": "Ημερομηνία και ώρα επίλυσης.",
+    "FL_IDLE_DATE_TIME": "Ημερομηνία και ώρα λήξης της κατάστασης αδράνειας.",
+    "FL_RESPONSE_EXPECTED": "Προβλεπόμενη / αναμενόμενη ημερομηνία έως ότου πραγματοποιηθεί η αντίδρασης στην εγγραφή, \nυπολογίζεται με βάση το SLA και τις εργάσιμες ημέρες / ώρες.",
+    "FL_IDLE_DATE_EXPECTED": "Προβλεπόμενη / αναμενόμενη ημερομηνία μέχρις ότου επιτρέπεται η αδράνεια, υπολογίζεται βάσει του SLA και των εργάσιμων ημερών / ωρών."
   }
 }

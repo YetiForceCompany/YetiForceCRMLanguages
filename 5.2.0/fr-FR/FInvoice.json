@@ -39,9 +39,9 @@
     "PLL_ACCEPTED": "Accepté",
     "LBL_YEAR": "Années",
     "FL_ISSUE_TIME": "Invoice date",
-    "FL_OPPORTUNITY": "Opportunity",
-    "FL_PROJECT": "Project",
-    "PLL_NOT_PAID": "Not paid",
+    "FL_OPPORTUNITY": "Opportunité",
+    "FL_PROJECT": "Projet",
+    "PLL_NOT_PAID": "Non payé",
     "PLL_PAID": "Paid",
     "PLL_OVERPAID": "Over paid",
     "PLL_UNDERPAID": "Underpaid"

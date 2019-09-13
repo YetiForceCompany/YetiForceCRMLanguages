@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Salva",
     "ApiAddress": "Ricerca indirizzo",
-    "LBL_API_ADDRESS": "Ricerca indirizzo",
+    "LBL_API_ADDRESS": "Address Search",
     "LBL_API_ADDRESS_DESCRIPTION": "Configura la ricerca degli indirizzi stradali.",
     "LBL_ENTER_KEY_APPLICATION": "Api key",
     "LBL_MIN_LOOKUP_LENGTH": "Numero minimo di caratteri che un utente deve digitare prima che venga eseguita una ricerca",
@@ -10,7 +10,7 @@
     "LBL_COUNTRY_CODES": "Country codes",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "es. it, fr",
     "LBL_KEY": "Chiave",
-    "LBL_KEY_PLACEHOLDER": "Api key",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
     "LBL_MAP_URL": "Mappa url",
     "LBL_MAP_URL_PLACEHOLDER": "Inserisci mappa url",
     "LBL_USE_GOOGLE_GEOCODER": "Usa Google Geocoding",

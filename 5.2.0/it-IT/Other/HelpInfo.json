@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Frequenza del promemoria in giorni: valido qualora un utente non abbia visionato la comunicazione o gli aggiornamenti. Se il valore è pari a zero, il promemoria sarà mostrato una sola volta.",
     "Accounts|Account Name": "Questo campo è inteso come nome azienda",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Il paese di riferimento, durante la sincronizzazione dei numeri telefonici CardDAV, qualora non sia specificato il prefisso telefonico internazionale",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Imposta sempre l'elemento selezionato come modulo predefinito nella ricerca globale."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Imposta sempre l'elemento selezionato come modulo predefinito nella ricerca globale.",
+    "FL_RESPONSE_RANGE_TIME": "Il numero di minuti trascorsi prima della reazione, calcolati sulla base dello SLA e dei giorni/ore lavorativi",
+    "FL_SOLUTION_RANGE_TIME": "Il numero di minuti che sono trascorsi per risolvere un dato record, calcolato su diversi stati a seconda della configurazione e basato sullo SLA e sui giorni/ore lavorativi",
+    "FL_IDLE_RANGE_TIME": "Il numero di minuti che un dato record è stato inattivo, ad esempio in attesa di ulteriori informazioni, viene calcolato in base allo SLA e ai giorni lavorativi",
+    "FL_CLOSING_RANGE_TIME": "Il numero di minuti trascorsi tra la creazione e l'ultima chiusura di un record, è calcolato in base allo SLA e ai giorni/ore lavorativi",
+    "FL_RESPONSE_DATE_TIME": "Data e ora di inizio della reazione.",
+    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
+    "FL_IDLE_DATE_TIME": "Idle end date and time.",
+    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
   }
 }

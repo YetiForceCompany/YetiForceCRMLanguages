@@ -1,7 +1,7 @@
 {
   "php": {
-    "Faq": "Вопрос \/ Ответ",
-    "SINGLE_Faq": "Вопрос \/ Ответ",
+    "Faq": "Вопрос / Ответ",
+    "SINGLE_Faq": "Вопрос / Ответ",
     "Draft": "Черновик",
     "FL_SUBJECT": "Subject",
     "FL_CONTENT": "Content",

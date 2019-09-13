@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Frecuencia de los recordatorios en días, si un usuario no revisó los cambios. Si el campo permanece vacío, el recordatorio no se mostrará de nuevo.",
     "Accounts|Account Name": "Este campo está destinado al nombre de la Empresa",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "El país escogido de forma predeterminada al sincronizar el campo de teléfono CardDAV. Si el teléfono no tiene un número nacional, se utilizará este campo",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Siempre establece el elemento seleccionado como módulo predeterminado en el motor de búsqueda global."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Siempre establece el elemento seleccionado como módulo predeterminado en el motor de búsqueda global.",
+    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
+    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
+    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
+    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
+    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
+    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
+    "FL_IDLE_DATE_TIME": "Idle end date and time.",
+    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
   }
 }

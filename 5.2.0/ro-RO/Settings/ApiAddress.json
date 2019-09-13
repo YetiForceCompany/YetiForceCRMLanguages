@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Salveaza",
     "ApiAddress": "Cauta adresa",
-    "LBL_API_ADDRESS": "Cauta adresa",
+    "LBL_API_ADDRESS": "Address Search",
     "LBL_API_ADDRESS_DESCRIPTION": "Modulul permite cautarea/ autocompletarea adresei pe parcursul crearii/modificarii datelor in sistem.",
     "LBL_ENTER_KEY_APPLICATION": "Introdu cheia aplicatiei",
     "LBL_MIN_LOOKUP_LENGTH": "Numarul minim de caractere pe care utilizatorul trebuie sa le scrie inainte de efectuarea unei cautari",
@@ -10,7 +10,7 @@
     "LBL_COUNTRY_CODES": "Country codes",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
     "LBL_KEY": "Key",
-    "LBL_KEY_PLACEHOLDER": "Introdu cheia aplicatiei",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
     "LBL_MAP_URL": "Map url",
     "LBL_MAP_URL_PLACEHOLDER": "Enter map url",
     "LBL_USE_GOOGLE_GEOCODER": "Utilizeaza Google Geocoding",

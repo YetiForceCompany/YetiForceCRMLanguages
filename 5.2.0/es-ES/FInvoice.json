@@ -41,9 +41,9 @@
     "FL_ISSUE_TIME": "Fecha de facturación",
     "FL_OPPORTUNITY": "Oportunidad",
     "FL_PROJECT": "Proyecto",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_NOT_PAID": "No pagados",
+    "PLL_PAID": "Pagado",
+    "PLL_OVERPAID": "Pagado en exceso",
+    "PLL_UNDERPAID": "Con saldo pendiente"
   }
 }

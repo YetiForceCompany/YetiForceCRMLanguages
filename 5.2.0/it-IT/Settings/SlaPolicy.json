@@ -1,17 +1,17 @@
 {
   "php": {
     "LBL_SLA_POLICY": "Politica SLA",
-    "LBL_NAME": "Nome Politica",
+    "LBL_NAME": "Nome della politica",
     "LBL_EDIT": "Modifica politica SLA",
-    "LBL_CREATE": "Crea una nuova politica di SLA",
-    "LBL_SOURCE_MODULE": "Modulo"
+    "LBL_CREATE": "Crea una nuova politica SLA",
+    "LBL_SOURCE_MODULE": "Module"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Seleziona ore lavorative",
-    "JS_BUSINESS_HOURS_FROM": "Da",
-    "JS_BUSINESS_HOURS_TO": "A",
-    "JS_BUSINESS_HOURS_NAME": "Nome",
-    "JS_BUSINESS_HOURS_DAYS": "Giorni lavorativi",
-    "JS_HOLIDAYS": "Festività"
+    "JS_BUSINESS_HOURS": "Select business hours",
+    "JS_BUSINESS_HOURS_FROM": "From",
+    "JS_BUSINESS_HOURS_TO": "To",
+    "JS_BUSINESS_HOURS_NAME": "Name",
+    "JS_BUSINESS_HOURS_DAYS": "Working days",
+    "JS_HOLIDAYS": "Holidays"
   }
 }

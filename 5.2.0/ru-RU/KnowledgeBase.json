@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "База знаний",
     "SINGLE_KnowledgeBase": "Знание",
-    "BTN_KNOWLEDGE_BASE": "База знаний",
+    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
     "LBL_CUSTOM_INFORMATION": "Пользовательская информация",
     "FL_SUBJECT": "Предмет",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Основная информация",

@@ -3,6 +3,15 @@
     "Announcements|FL_INTERVAL": "Frequenz der Erinnerungen in Tagen, falls ein Benutzer die Änderungen nicht anschaut. Ist das Feld leer, wird die Erinnerung nicht noch einmal angezeigt.",
     "Accounts|Account Name": "Diese Feld ist für den Firmenname gedacht",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Das Standardland, das bei der Synchronisierung des CardDAV Telefonfeldes verwendet wird. Wenn das Telefon ohne nationale Nummer ist, wird dieses Feld verwendet",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Immer das ausgewählte Element als Standardmodul in der globalen Suchmaschine setzen."
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Immer das ausgewählte Element als Standardmodul in der globalen Suchmaschine setzen.",
+    "FL_RESPONSE_RANGE_TIME": "Die Anzahl der Minuten die vergangen sind, bevor eine Reaktion erfolgte, diese werden auf der Basis der SLA- und Werktage/Stunden berechnet",
+    "FL_SOLUTION_RANGE_TIME": "Die Anzahl der Minuten, die vergangen sind, um einen bestimmten Datensatz zu lösen, dies wird je nach Konfiguration und verschiedene Status berechnet und basiert auf den SLA- und Werktagen/Stunden",
+    "FL_IDLE_RANGE_TIME": "Die Anzahl der Minuten, die ein bestimmter Datensatz inaktiv war, z.B. wenn auf zusätzliche Informationen gewartet wird, diese werden anhand der SLA- und Werktage/Stunden berechnet",
+    "FL_CLOSING_RANGE_TIME": "Die Anzahl der Minuten, die zwischen dem Erstellen und dem letzten Schließen eines Datensatzes vergangen sind, diese werden auf der Basis der SLA- und Werktage/Stunden berechnet",
+    "FL_RESPONSE_DATE_TIME": "Anfangsdatum und Zeit der Reaktionszeit.",
+    "FL_SOLUTION_DATE_TIME": "Lösungsdatum und Zeit.",
+    "FL_IDLE_DATE_TIME": "Leerlauf Datum und Zeit.",
+    "FL_RESPONSE_EXPECTED": "Geplantes/erwartetes Datum bis zur Durchführung der Reaktion auf den Datensatz, wird anhand der SLA- und Werktage/Stunden berechnet.",
+    "FL_IDLE_DATE_EXPECTED": "Geplantes/erwartetes Datum bis zur zulässigen Leerlaufzeit, wird anhand der SLA- und Werktage/Stunden berechnet."
   }
 }

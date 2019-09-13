@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "Ispravljanje faktura",
+    "SINGLE_FCorectingInvoice": "Ispravljanje fakture",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_INVOICE_ADDRESS": "Adresa za fakturisanje",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresa za dostavu",
+    "FL_SUBJECT": "Predmet",
+    "FL_PAYMENT_DATE": "Datum dospijeća",
+    "FL_SALE_DATE": "Datum prodaje",
+    "FL_FORM_PAYMENT": "Način Plaćanja",
+    "FL_BANK_ACCOUNT": "Broj bankovnog računa",
+    "FL_NUMBER": "Broj fakture",
+    "FL_ACCOUNT": "Klijent",
+    "FL_TOTAL": "Neto",
+    "FL_GROSS": "Bruto",
+    "FL_STATUS": "Status",
+    "PLL_CASH": "Gotovina",
+    "PLL_TRANSFER": "Bankovni prijenos",
+    "PLL_WIRE_TRANSFER": "Elektronski prijenos",
+    "LBL_YEAR": "Godina",
+    "FL_INVOICE": "Faktura",
+    "LBL_COMMENTS": "Komentari",
+    "FL_EXTERNAL_COMMENT": "Vanjski komentar",
+    "FL_INTERNAL_COMMENT": "Interni komentar",
+    "LBL_BEFORE_CORRECTION": "Prije ispravke",
+    "LBL_AFTER_CORRECTION": "Nakon ispravke",
+    "LBL_CHOOSE_INVOICE": "Odaberite fakturu koju treba ispraviti",
+    "LBL_COPY_FROM_INVOICE": "Kopiranje sa početne fakture",
+    "LBL_INVOICE_INFO": "Početna polja fakture - prije ispravke.",
+    "LBL_AFTER_INVOICE_INFO": "Kako bi trebala izgledati konačna faktura nakon ispravke.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Polja fakture koje treba ispraviti. Kopirajte sva polja s početne fakture i po potrebi promijenite vrijednosti."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Odaberite fakturu koju treba ispraviti"
+  }
+}

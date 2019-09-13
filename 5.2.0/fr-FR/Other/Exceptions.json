@@ -28,7 +28,7 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Aucune permission pour créer des répertoires",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Le répertoire ne peut pas être supprimé",
     "ERR_AUTO_LOGOUT": "Déconnecté automatiquement en raison d'inactivité",
-    "ERR_FIELD_NOT_FOUND": "Champ non trouvé",
+    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
     "ERR_NO_VALUE": "Aucune valeur",
     "ERR_BODY_IS_EMPTY": "Le corps est vide",
