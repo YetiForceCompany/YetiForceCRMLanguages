@@ -350,7 +350,7 @@
     "LBL_2FA_TOTP_QR_CODE": "2FA TOTP activation key",
     "LBL_AUTHY_SECRET_TOTP_SUCCESS": "Zwei-Faktor-Authentifizierung wurde erfolgreich aktiviert.",
     "LBL_2FA_WRONG_CODE": "Fehlerhafter Code - Nocheinmal eingeben oder Kontaktieren Sie Ihren Administrator",
-    "LBL_2FA_OFF": "Zwei-Faktor-Authentifizierung aktivieren",
+    "LBL_2FA_OFF": "Disable two-factor authentication",
     "LBL_2FA_TITLE": "Zwei-Faktor-Authentifizierung",
     "LBL_2FA_DESCRIPTION": "Dieser Schritt bestätigt das die Person die sich versucht anzumelden Sie sind",
     "LBL_2FA_SECRET_ALREADY_SET": "Privater Schlüssel (TOTP) wurde generiert, sollte dieser geändert werden, muss ein neuer Schlüssel generiert werden.",

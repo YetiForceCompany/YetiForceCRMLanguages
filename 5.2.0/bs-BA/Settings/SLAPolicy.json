@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SLA_POLICY": "SLA politika",
+    "LBL_NAME": "Naziv politike",
+    "LBL_EDIT": "Uređivanje SLA politike",
+    "LBL_CREATE": "Kreirajte novu SLA politiku",
+    "LBL_SOURCE_MODULE": "Modul"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Odaberite radno vrijeme",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Naziv",
+    "JS_BUSINESS_HOURS_DAYS": "Radni dani",
+    "JS_HOLIDAYS": "Praznici"
   }
 }

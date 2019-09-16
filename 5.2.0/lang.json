@@ -17,8 +17,8 @@
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 39,
-        "time": "2019-09-13 07:59:47"
+        "progress": 100,
+        "time": "2019-09-16 08:57:20"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -74,7 +74,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 99,
-        "time": "2019-09-13 08:03:26"
+        "time": "2019-09-16 09:00:45"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -143,8 +143,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 80,
-        "time": "2019-09-13 08:06:58"
+        "progress": 81,
+        "time": "2019-09-16 09:03:57"
     },
     "tr-TR": {
         "prefix": "tr-TR",

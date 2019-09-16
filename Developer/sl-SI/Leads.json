@@ -53,7 +53,7 @@
     "PLL_IN_REALIZATION": "V realizaciji",
     "PLL_INCORRECT": "Nepravilno",
     "Approval for phone calls": "Dovoljenje za klic",
-    "Approval for email": "Dovoljenje za pošiljanje e-pošte",
+    "Approval for email": "Se mu lahko pošlje e-pošta",
     "Contact Information": "Kontaktni podatki",
     "LBL_REGISTRATION_INFO": "Ajpes",
     "PLL_B2C": "B2C",
@@ -86,7 +86,7 @@
     "Orders accepted": "Sprejeta naročila",
     "Attention": "Zapiski",
     "Attorney General's Office": "Urad državnega tožilca",
-    "LBL_RELATION": "Razmerje",
+    "LBL_RELATION": "Vrsta kupca",
     "LBL_LEGAL_FORM": "Pravna oblika",
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Najmanj dva računa izpolnjujeta zahteve za povezovanje, pojdite na: (Uprava> Procesi> Tržni procesi> Pretvorba)% s"
   },

@@ -90,8 +90,8 @@
     "FL_CHECK_STOCK_LEVELS": "Preverite stanje zalog",
     "FL_PRICEBOOK": "Cenik",
     "FL_SUM_ORDERS": "Znesek odprtih naročil",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_TAXES": "Davki",
+    "FL_AVAILABLE_TAXES": "Razpoložljivi davki"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Podjetje s tem imenom že obstaja. Ali želite kljub narediti kopijo podjetja?",

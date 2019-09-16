@@ -17,7 +17,7 @@
     "LBL_FROM_EMAIL": "E-pošta pošiljatelja",
     "LBL_NAME": "Ime",
     "LBL_SAVE_SEND_MAIL": "Ali želiš shraniti poslano e-pošto?",
-    "LBL_SAVE_SEND_MAIL_INFO": "All sent emails are not saved (Gmail saves them automatically, so there is no need to enable this option). In order to save emails, enter an additional configuration.",
+    "LBL_SAVE_SEND_MAIL_INFO": "Vse poslane e-pošte, se ne shranijo (Gmail jih shrani samodejno, zato ni treba, da omogočite to možnost). Če želite shraniti e-pošto, vnesite dodatno konfiguracijo.",
     "LBL_VALIDATE_CERT": "Ali želite potrditi certifikat?",
     "LBL_IMAP_SAVE_MAIL": "IMAP configuration for saving emails",
     "LBL_SEND_FOLDER": "Folder",

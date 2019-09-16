@@ -2,7 +2,7 @@
   "php": {
     "FL_PROVIDER": "Πάροχος",
     "FL_STATUS": "Κατάσταση",
-    "FL_SMSAPI_FROM": "Τύπος μηνύματος",
+    "FL_SMSAPI_FROM": "Όνομα αποστολέα",
     "FL_API_KEY": "Κλειδί API",
     "PLL_INACTIVE": "Ανενεργό",
     "PLL_ACTIVE": "Ενεργό",

@@ -2,7 +2,7 @@
   "php": {
     "FL_PROVIDER": "Furnizor",
     "FL_STATUS": "Status",
-    "FL_SMSAPI_FROM": "Tip mesaj",
+    "FL_SMSAPI_FROM": "Sender name",
     "FL_API_KEY": "Cheie Api",
     "PLL_INACTIVE": "Inactiv",
     "PLL_ACTIVE": "Activ",

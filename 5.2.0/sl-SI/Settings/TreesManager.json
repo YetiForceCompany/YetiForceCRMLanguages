@@ -29,7 +29,7 @@
     "JS_JSTREE_PASTE": "Prilepi",
     "JS_JSTREE_CHANGE_ICON": "Spremeni ikono",
     "JS_FIELD_CAN_NOT_BE_EMPTY": "Polje ne sme biti prazno",
-    "JS_NO_ITEM_SELECTED": "Ni izbran noben element",
+    "JS_NO_ITEM_SELECTED": "Ni izbran noben zapis",
     "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "Ne morete izbrisati vseh elementov",
     "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Ne morete izbrisati nadrejenega elementa",
     "JS_NEW_ITEM": "Novo vozlišče",

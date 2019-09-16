@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it."
+    "LBL_BACKUP_MANAGER": "Upravitelj sigurnosnih kopija",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Upravljanje datotekama sigurnosnih kopija",
+    "LBL_DOWNLOAD": "Preuzimanje",
+    "LBL_FILE_NAME": "Naziv datoteke",
+    "LBL_FILE_SIZE": "Veličina datoteke",
+    "LBL_FILE_DATE": "Datum izmjene",
+    "LBL_BACKUP_LIST": "Lista sigurnosnih kopija",
+    "ERR_CONFIG_ALERT_TITLE": "Upravitelj sigurnosnih kopija je isključen",
+    "ERR_CONFIG_ALERT_DESC": "Postavite odgovarajuću putanju u varijabli BACKUP_PATH u konfiguracijskoj datoteci [config \/ Components \/ Backup.php] da biste je omogućili."
   },
   "js": {}
 }

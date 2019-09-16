@@ -2,7 +2,7 @@
   "php": {
     "FL_PROVIDER": "Dostawca",
     "FL_STATUS": "Status",
-    "FL_SMSAPI_FROM": "Rodzaj wiadomości",
+    "FL_SMSAPI_FROM": "Sender name",
     "FL_API_KEY": "Klucz API",
     "PLL_INACTIVE": "Nieaktywny",
     "PLL_ACTIVE": "Aktywny",

@@ -202,7 +202,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Custom block deleted",
     "JS_CUSTOM_FIELD_ADDED": "New custom field added",
     "JS_CUSTOM_FIELD_DELETED": "Custom field deleted",
-    "JS_DUPLICATES_VALUES_FOUND": "Duplicate values found",
+    "JS_DUPLICATES_VALUES_FOUND": "Najdene so podvojene vrednosti",
     "JS_FIELD_DETAILS_SAVED": "Podrobnosti polja so shranjene",
     "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "Length should be less than or equal to",

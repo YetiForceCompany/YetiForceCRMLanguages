@@ -350,7 +350,7 @@
     "LBL_2FA_TOTP_QR_CODE": "2FA TOTP activation key",
     "LBL_AUTHY_SECRET_TOTP_SUCCESS": "Autentificarea in doi pasi a fost activata cu succes.",
     "LBL_2FA_WRONG_CODE": "Cod incorect - Introduceti-l din nou sau contactati administratorul.",
-    "LBL_2FA_OFF": "Activeaza autentificarea in doi pasi.",
+    "LBL_2FA_OFF": "Disable two-factor authentication",
     "LBL_2FA_TITLE": "Two-factor authentication",
     "LBL_2FA_DESCRIPTION": "Acest pas confirma faptul ca persoana care incearca sa se conecteze este de fapt tu",
     "LBL_2FA_SECRET_ALREADY_SET": "Cheia privata (TOTP) a fost deja generata, pentru ao schimba, activati o noua cheie.",
