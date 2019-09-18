@@ -1,34 +1,34 @@
 {
   "php": {
     "Users": "用户",
-    "USER_MAIL_EXIST": "已存在使用此电子邮件地址的用户",
+    "USER_MAIL_EXIST": "此邮件地址已被其他用户使用",
     "LBL_PRIORITY": "优先级",
-    "LBL_LDAP_RECOMMENDED_INFO": "我们不建议对于拥有管理权限的用户选择轻型目录访问协议认证。为防止认证发生问题，您必须使一名用户无需此协议即可登录。",
-    "LBL_AUTHORIZATION": "轻型目录访问协议",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
-    "LBL_LDAP_AUTH": "轻型目录访问协议",
-    "LBL_ACTIVE_LDAP_AUTH": "使用轻型目录访问协议认证",
+    "LBL_LDAP_RECOMMENDED_INFO": "我们不推荐选择具有 LDAP 授权的管理员权限的用户。为了避免授权问题，必须是每月LDAP授权的用户才能登陆.",
+    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION_DESCRIPTION": "工作流详情 ",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "授权与LDAP",
     "LBL_LDAP_SERVER": "服务器地址",
     "LBL_LDAP_PORT": "端口",
-    "LBL_SAVE_CONFIG": "已保存配置",
-    "LBL_LDAP_DOMAIN": "域（已自动添加至登录）",
-    "LBL_VIEW_AUTH": "认证",
+    "LBL_SAVE_CONFIG": "保存设置",
+    "LBL_LDAP_DOMAIN": "域（自动添加到登录）",
+    "LBL_VIEW_AUTH": "授权",
     "LBL_SWITCH_USERS": "切换用户",
-    "LBL_SWITCH_USERS_DESCRIPTION": "允许在系统中切换用户的工具。",
+    "LBL_SWITCH_USERS_DESCRIPTION": "允许在系统中切换用户的工具.",
     "LBL_SU_BASE_ACCESS": "用户",
     "LBL_SU_AVAILABLE_ACCESS": "允许登录",
     "LBL_LOCKS": "锁定",
-    "LBL_LOCKS_DESCRIPTION": "阻止浏览器行为（如复制、剪切等）的工具。",
-    "LBL_LOCK_COPY": "复制锁定",
-    "LBL_LOCK_CUT": "剪切锁定",
-    "LBL_LOCK_PASTE": "粘贴锁定",
-    "LBL_LOCK_RIGHT_MENU": "右键锁定",
-    "LBL_LOCK_SELECT_TEXT": "选择锁定",
-    "LBL_LOCK_DRAG": "拖拽锁定"
+    "LBL_LOCKS_DESCRIPTION": "阻挡浏览器操作（复制，剪切等）的工具",
+    "LBL_LOCK_COPY": "锁定复制",
+    "LBL_LOCK_CUT": "锁定剪切",
+    "LBL_LOCK_PASTE": "锁定粘贴",
+    "LBL_LOCK_RIGHT_MENU": "锁定右键",
+    "LBL_LOCK_SELECT_TEXT": "锁定选择",
+    "LBL_LOCK_DRAG": "锁定拖拽"
   },
   "js": {
     "JS_PLEASE_SELECT_MODULE": "请选择模块",
-    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "小数分隔符与分组分隔符不能一致",
-    "Changed password successfully": "已成功更改密码"
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "小数点和分组分隔符不能相同",
+    "Changed password successfully": "变更已变更"
   }
 }

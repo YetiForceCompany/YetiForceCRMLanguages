@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "筛选视图-配置",
+    "LBL_FEATURED": "添加到收藏夹",
+    "LBL_COLOR_VIEW": "视图颜色",
+    "LBL_ADD_FIELD": "添加字段"
   }
 }

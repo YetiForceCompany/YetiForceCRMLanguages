@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group name",
-    "Description": "Description"
+    "LBL_ADD_RECORD": "添加群组",
+    "LBL_ADD_USERS_ROLES": "添加用户、 角色...",
+    "LBL_DUPLICATES_EXIST": "用户组名称已经存在",
+    "LBL_GROUP_MEMBERS": "用户组成员",
+    "LBL_GROUP_NAME": "用户组名称",
+    "LBL_ROLEANDSUBORDINATE": "职位角色和其下属",
+    "LBL_TO_OTHER_GROUP": "至其他用户组 ",
+    "LBL_TRANSFORM_OWNERSHIP": "转移所有权",
+    "SINGLE_Groups": "用户组",
+    "Users": "用户",
+    "Name": "用户组名称",
+    "Description": "说明"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "为每个用户组选择至少一个成员",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "用户组已删除"
   }
 }
