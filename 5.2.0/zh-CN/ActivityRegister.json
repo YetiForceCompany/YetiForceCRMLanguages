@@ -1,7 +1,7 @@
 {
   "php": {
-    "ActivityRegister": "活动寄存器",
-    "SINGLE_ActivityRegister": "活动寄存器",
+    "ActivityRegister": "活动注册",
+    "SINGLE_ActivityRegister": "活动注册",
     "LBL_BASIC_INFORMATION": "基本信息",
     "FL_SUBJECT": "标题",
     "FL_PARENT_ACTIVITY": "父活动",
@@ -11,7 +11,7 @@
     "PLL_IN_REALIZATION": "执行中",
     "PLL_COMPLETED": "已完成",
     "PLL_CANCELLED": "已取消",
-    "FL_DATA_SET": "数据集",
+    "FL_DATA_SET": "数据",
     "PLL_ENTRUSTMENT": "委托",
     "PLL_SHARING": "共享",
     "PLL_TRANSFER": "转移",

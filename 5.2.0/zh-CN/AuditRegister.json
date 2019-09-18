@@ -1,11 +1,11 @@
 {
   "php": {
-    "AuditRegister": "审计寄存器",
-    "SINGLE_AuditRegister": "审计寄存器",
+    "AuditRegister": "审计注册",
+    "SINGLE_AuditRegister": "审计注册",
     "LBL_BASIC_INFORMATION": "基本信息",
     "FL_NAME": "名称",
-    "FL_LOCATION_REGISTER": "位置寄存器",
-    "FL_DATASETREGISTER": "数据集寄存器",
+    "FL_LOCATION_REGISTER": "位置注册",
+    "FL_DATASETREGISTER": "数据注册",
     "PLL_DRAFT": "草稿",
     "PLL_WAITING_FOR_ACCEPTANCE": "等待接受",
     "PLL_IN_REALIZATION": "执行中",
