@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NAME": "Name",
-    "LBL_TYPE": "Type",
-    "LBL_DEFAULT": "Default",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CREATE_RECORD": "Add telephone exchange",
-    "LBL_EDIT_RECORD": "Edit telephone exchange",
-    "LBL_URL": "Server address",
-    "LBL_USERNAME": "Login",
-    "LBL_PASSWORD": "Password",
-    "LBL_SECRET_KEY": "Secret Key",
-    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+    "LBL_NAME": "名称",
+    "LBL_TYPE": "类型",
+    "LBL_DEFAULT": "默认",
+    "LBL_ADD_RECORD": "添加",
+    "LBL_CREATE_RECORD": "添加电话交换",
+    "LBL_EDIT_RECORD": "编辑电话交换",
+    "LBL_URL": "服务器地址",
+    "LBL_USERNAME": "登录",
+    "LBL_PASSWORD": "密码",
+    "LBL_SECRET_KEY": "密钥",
+    "LBL_OUTBOUND_CONTEXT": "出站上下文"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "更改已保存"
   }
 }

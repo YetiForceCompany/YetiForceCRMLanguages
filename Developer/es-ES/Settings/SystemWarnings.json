@@ -51,6 +51,7 @@
     "LBL_CRON_TASKS_LIST": "Tareas del Cron",
     "LBL_REGISTRATION": "Registro",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No se ha añadido ninguna dirección de correo electrónico a los detalles de la empresa. Complete los datos necesarios si desea recibir un boletín de noticias.",
-    "LBL_COMPANY_DATA": "Ir a datos de la empresa"
+    "LBL_COMPANY_DATA": "Ir a datos de la empresa",
+    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

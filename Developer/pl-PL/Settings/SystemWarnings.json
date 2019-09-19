@@ -51,6 +51,7 @@
     "LBL_CRON_TASKS_LIST": "Lista zadań cron",
     "LBL_REGISTRATION": "Rejestracja",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Nie wprowadzono adresu e-mail do danych firmy. Jeśli chcesz otrzymywać newsletter uzupełnij dane.",
-    "LBL_COMPANY_DATA": "Przejdź do danych firmy"
+    "LBL_COMPANY_DATA": "Przejdź do danych firmy",
+    "LBL_UPDATER_DESC": "Dostępne są aktualizacje dla Twojej wersji systemu. Zalecamy aktualizację."
   }
 }

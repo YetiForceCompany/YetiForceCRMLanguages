@@ -51,6 +51,7 @@
     "LBL_CRON_TASKS_LIST": "Λίστα εργασιών cron",
     "LBL_REGISTRATION": "Εγγραφή",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Δεν προστέθηκε διεύθυνση email στα στοιχεία της εταιρείας. Αν θέλετε να λαμβάνετε ενημερωτικά δελτία συμπληρώστε τα απαραίτητα στοιχεία.",
-    "LBL_COMPANY_DATA": "Μεταβείτε στην καταχώρηση της εταιρείας"
+    "LBL_COMPANY_DATA": "Μεταβείτε στην καταχώρηση της εταιρείας",
+    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

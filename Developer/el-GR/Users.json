@@ -363,6 +363,7 @@
     "PLL_PASSWORD_2FA": "Κωδικό πρόσβασης + έλεγχος 2 παραγόντων",
     "BTN_MASS_OFF_2FA": "Μαζική απενεργοποίηση ελέγχου ταυτότητας 2 παραγόντων",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "Σε δοκιμαστική λειτουργία, ο έλεγχος ταυτότητας 2 παραγόντων είναι για μόνο προεπισκόπηση.",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.\nBelow are some links to the most popular applications",
     "FL_DEFAULT_SEARCH_MODULE": "Προεπιλεγμένο module",
     "FL_OVERRIDE_SEARCH_MODULE": "Εξαναγκασμός στην προεπιλεγμένη επιλογή",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Ρυθμίσεις καθολικής αναζήτησης",

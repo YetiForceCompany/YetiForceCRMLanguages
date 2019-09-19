@@ -2,7 +2,7 @@
   "php": {
     "LBL_MENU_BUILDER": "Menu - Configuration",
     "LBL_MENU_BUILDER_DESCRIPTION": "Create and manage menu items.",
-    "LBL_DEFAULT_MENU": "Default menu",
+    "LBL_DEFAULT_MENU": "Privzeti meni",
     "LBL_ADD_MENU": "Dodaj element v meni",
     "LBL_CREATING_MENU": "Ustvari nov element v meni",
     "LBL_SELECT_TYPE_OF_MENU": "Select menu type",

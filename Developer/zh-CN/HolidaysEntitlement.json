@@ -1,12 +1,12 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
-    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
-    "LBL_CUSTOM_INFORMATION": "System Information",
-    "LBL_YEAR": "Year",
-    "LBL_DAYS": "Number of holidays",
-    "LBL_EMPLOYEE": "Employee",
-    "LBL_NUMBER": "Number"
+    "HolidaysEntitlement": "年假",
+    "SINGLE_HolidaysEntitlement": "年假",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "自定义信息",
+    "LBL_CUSTOM_INFORMATION": "系统信息",
+    "LBL_YEAR": "年",
+    "LBL_DAYS": "休假的天数",
+    "LBL_EMPLOYEE": "员工",
+    "LBL_NUMBER": "编号"
   }
 }

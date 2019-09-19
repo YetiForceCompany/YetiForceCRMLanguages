@@ -377,7 +377,7 @@
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",
     "LBL_PICKLIST_VARIABLES": "Vrednosti izbirnega seznama",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
-    "LBL_BUSINESS_HOURS": "Business hours",
+    "LBL_BUSINESS_HOURS": "Delovni čas",
     "LBL_SEARCH_PLACEHOLDER": "Search...",
     "LBL_VULNERABILITIES": "Vulnerabilities",
     "LBL_VULNERABILITIES_DESCRIPTION": "List of libraries vulnerabilities"

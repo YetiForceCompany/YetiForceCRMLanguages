@@ -1,9 +1,9 @@
 {
   "php": {
-    "Webservices": "网络服务",
-    "LBL_CHANGE_PASSWORD_FAILURE": "更改密码失败",
-    "LBL_DATABASE_QUERY_ERROR": "执行请求的操作时出现数据库错误",
-    "LBL_INVALID_OLD_PASSWORD": "为旧密码指定的值无效。",
-    "LBL_NEW_PASSWORD_MISMATCH": "新密码和确认密码不匹配"
+    "Webservices": "Web服务",
+    "LBL_CHANGE_PASSWORD_FAILURE": "密码变更失败",
+    "LBL_DATABASE_QUERY_ERROR": "执行请求的操作时，数据库发生错误",
+    "LBL_INVALID_OLD_PASSWORD": "旧密码值无效.",
+    "LBL_NEW_PASSWORD_MISMATCH": "新密码和确认密码不一样"
   }
 }

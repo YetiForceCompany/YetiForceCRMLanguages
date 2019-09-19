@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_TRANSLATE": "Vertaling",
-    "LBL_COMPANY_VARIABLES": "Bedrijfsgegevens",
+    "LBL_COMPANY_VARIABLES": "Organisatiegegevens",
     "LBL_CUSTOM_VARIABLES": "Aangepaste variabelen",
     "LBL_EMPLOYEE_NAME": "Naam werknemer",
     "LBL_CURRENT_DATE": "Huidige datum",

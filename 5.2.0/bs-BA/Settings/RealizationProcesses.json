@@ -5,7 +5,7 @@
     "LBL_TYPE": "Status",
     "LBL_PROJECT": "Projekat",
     "LBL_PROJECT_STATUS_INFO": "Statusi koji određuju da je projekat zatvoren",
-    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statusi koji određuju da je glavni korak zatvorena",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statusi koji određuju da je glavni korak zatvoren",
     "LBL_PROJECTTASK_STATUS_INFO": "Statusi koji određuju da je zadatak zatvoren",
     "LBL_SAVE_CONFIG_OK": "Promjene su uspješno spremljene.",
     "LBL_SAVE_CONFIG_ERROR": "Spremanje izmjena nije uspjelo.",

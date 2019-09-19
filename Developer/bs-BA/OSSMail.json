@@ -21,7 +21,7 @@
     "LBL_RC_default_host": "Naziv IMAP servera",
     "LBL_RC_debug_level": "Nivo otklanjanja grešaka (1 = dnevnik; 4 = pokazati, 8 = trag)",
     "LBL_RC_skin_logo": "Logo",
-    "LBL_RC_ip_check": "Provjerite IP adresu klijenta dok dajete autorizaciju",
+    "LBL_RC_ip_check": "Provjerite IP adresu Klijenta dok dajete autorizaciju",
     "LBL_RC_enable_spellcheck": "Modul provjere pravopisa",
     "LBL_RC_identities_level": "Razina pristupa identitetu",
     "LBL_RC_auto_create_user": "Razina pristupa identitetu",

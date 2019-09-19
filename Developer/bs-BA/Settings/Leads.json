@@ -1,6 +1,6 @@
 {
   "php": {
-    "Leads": "Leadovi",
+    "Leads": "Tragovi",
     "LBL_OPPURTUNITIES": "Prilike",
     "checkBox": "Kvačica",
     "currency": "Valuta",
@@ -9,7 +9,7 @@
     "email": "Email",
     "LBL_ADD_MAPPING": "Dodaj Mapiranje",
     "LBL_CONTACTS": "Kontakti",
-    "LBL_CONVERT_LEAD_FIELD_MAPPING": "Lead mapiranje za pretvorbu",
+    "LBL_CONVERT_LEAD_FIELD_MAPPING": "Mapiranje za konverziju Traga",
     "LBL_DELETED_SUCCESSFULLY": "Uspješno izbrisano",
     "LBL_FIELD_LABEL": "Naziv etikete",
     "LBL_FIELD_TYPE": "Vrsta polja",

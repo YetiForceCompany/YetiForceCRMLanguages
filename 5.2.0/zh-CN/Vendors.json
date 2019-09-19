@@ -1,33 +1,33 @@
 {
   "php": {
-    "LBL_TO_LC": "to",
-    "LBL_EXPORT_TO_PDF": "Export to PDF",
-    "LBL_VENDOR_ADDRESS_INFORMATION": "Address information",
+    "LBL_TO_LC": "到",
+    "LBL_EXPORT_TO_PDF": "导出为PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "地址信息",
     "LBL_VENDORS_ADD_TASK": "添加任务",
     "LBL_VENDORS_ADD_EVENT": "添加事件",
-    "300-Sales-Software": "300-Sales-Software",
-    "301-Sales-Hardware": "301-Sales-Hardware",
-    "302-Rental-Income": "302-Rental-Income",
-    "303-Interest-Income": "303-Interest-Income",
-    "304-Sales-Software-Support": "304-Sales-Software-Support",
-    "305-Sales Other": "305-Sales other",
-    "306-Internet Sales": "306-Internet sales",
-    "307-Service-Hardware Labor": "307-Service-Hardware Labor",
-    "308-Sales-Books": "308-Sales-Books",
-    "Email": "主要电子邮件",
-    "GL Account": "GL account",
+    "300-Sales-Software": "300-软件销售",
+    "301-Sales-Hardware": "301-硬件销售",
+    "302-Rental-Income": "302-出租收入",
+    "303-Interest-Income": "303-利息收入",
+    "304-Sales-Software-Support": "304-软件支持服务",
+    "305-Sales Other": "305-其它收入",
+    "306-Internet Sales": "306-网络销售",
+    "307-Service-Hardware Labor": "307-硬件维护服务",
+    "308-Sales-Books": "308-书籍销售",
+    "Email": "主要Email",
+    "GL Account": "会计科目",
     "LBL_VENDOR_INFORMATION": "供应商详细信息",
-    "Phone": "Primary phone",
+    "Phone": "主要电话",
     "SINGLE_Vendors": "供应商",
     "Vendor Name": "供应商名称",
-    "Vendor No": "Vendor number",
+    "Vendor No": "供应商编号",
     "Vendors": "供应商",
     "Website": "网站",
-    "LBL_BUILDING_NUMBER": "Building number",
-    "LBL_LOCAL_NUMBER": "办公室电话号码"
+    "LBL_BUILDING_NUMBER": "门牌号",
+    "LBL_LOCAL_NUMBER": "办公电话"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "删除此供应商将删除其相关的采购订单。确实要删除此供应商吗？",
-    "LBL_MASS_DELETE_CONFIRMATION": "Deleting this vendor(s) will remove its related Purchase Orders. Are you sure you want to delete the selected Records?"
+    "LBL_DELETE_CONFIRMATION": "删除供应商将会删除与之关联的采购订单。您确定您要删除选定的供应商吗？?",
+    "LBL_MASS_DELETE_CONFIRMATION": "删除供应商将会删除与之关联的采购订单。您确定您要删除选定的记录吗？?"
   }
 }

@@ -1,19 +1,19 @@
 {
   "php": {
-    "OpenStreetMap": "OpenStreetMap",
-    "LBL_GROUP_BY": "Group",
-    "LBL_GROUP_NEIGHBOURS": "Group neighboring elements",
-    "LBL_NOT_FOUND_PLACE": "Place not found",
-    "LBL_SEARCH_VALUE_DESCRIPTION": "City, street, building number...",
-    "LBL_IN_RADIUS": "Within radius [km]",
-    "LBL_CALCULATE_TRACK": "Set route",
-    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Set route",
-    "LBL_DISTANCE": "Distance [km]",
-    "LBL_TRAVEL_TIME": "Time [min]",
-    "LBL_INSTRUCTION": "Manual",
-    "LBL_SEARCH_IN_RADIUS": "Search in radius",
-    "LBL_CLIPBOARD": "Clipboard",
-    "LBL_INDIRECT_POINT": "Indirect point",
-    "ERR_ADDRESS_NOT_FOUND": "Address not found"
+    "OpenStreetMap": "公开地图",
+    "LBL_GROUP_BY": "用户组",
+    "LBL_GROUP_NEIGHBOURS": "相邻元素分组",
+    "LBL_NOT_FOUND_PLACE": "没有找到地址",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "城市，街道，门牌号...",
+    "LBL_IN_RADIUS": "半径 [公里]",
+    "LBL_CALCULATE_TRACK": "设置路由",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "设置路由",
+    "LBL_DISTANCE": "距离[公里]",
+    "LBL_TRAVEL_TIME": "时间[分]",
+    "LBL_INSTRUCTION": "手动",
+    "LBL_SEARCH_IN_RADIUS": "搜索半径",
+    "LBL_CLIPBOARD": "剪贴板",
+    "LBL_INDIRECT_POINT": "间接点",
+    "ERR_ADDRESS_NOT_FOUND": "找不到地址"
   }
 }

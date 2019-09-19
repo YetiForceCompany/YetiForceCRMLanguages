@@ -1,13 +1,13 @@
 {
   "php": {
-    "LBL_TOTP_AUTHY_MODE": "认证模式",
-    "LBL_TOTP_OFF": "两步认证 - 关闭",
-    "LBL_TOTP_OPTIONAL": "两步认证 - 可选，由用户定义",
-    "LBL_TOTP_OBLIGATORY": "两步认证 - 强制，每个用户必须配置此选项",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "失败尝试次数",
-    "LBL_2FA_CONF": "多因素认证",
+    "LBL_TOTP_AUTHY_MODE": "验证模式",
+    "LBL_TOTP_OFF": "基于时间戳算法的一次性密码 - 关",
+    "LBL_TOTP_OPTIONAL": "TOTP-可选的, 用户定义的",
+    "LBL_TOTP_OBLIGATORY": "TOTP-必须的, 每个用户必须配置此选项",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "尝试失败的次数",
+    "LBL_2FA_CONF": "多重认证",
     "LBL_TOTP": "基于时间的一次性密码算法",
-    "LBL_TOTP_AUTHY_MODE_DESC": "选择认证模式",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "验证码输入失败的最多次数"
+    "LBL_TOTP_AUTHY_MODE_DESC": "选择验证模式",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "输入验证码失败的最大次数"
   }
 }

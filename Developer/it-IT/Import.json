@@ -77,6 +77,7 @@
     "skipped": "Record saltati",
     "failed": "Record falliti",
     "LBL_SELECT_FILE": "Seleziona il file da importare",
-    "LBL_MERGE_TYPE_INFO": "Preserva: in caso di duplicazione, i record esistenti vengono preservati.\n\nSovrascrivi: in caso di duplicazione, il record esistente viene completamente sovrascritto. Se un campo è obbligatorio è valorizzato con il valore nel file importato, altrimenti, se non presente nel file, con il valore predefinito del campo stesso.\n\nValorizza se c'è un valore importato: in caso di duplicazione, il record esistente viene aggiornato solo per quei campi con un valore presente nel file importato.\n\nValorizza se esistente è vuoto: in caso di duplicazione, il record esistente viene aggiornato solo nei campi vuoti con il valore presente nel file importato."
+    "LBL_MERGE_TYPE_INFO": "Preserva: in caso di duplicazione, i record esistenti vengono preservati.\n\nSovrascrivi: in caso di duplicazione, il record esistente viene completamente sovrascritto. Se un campo è obbligatorio è valorizzato con il valore nel file importato, altrimenti, se non presente nel file, con il valore predefinito del campo stesso.\n\nValorizza se c'è un valore importato: in caso di duplicazione, il record esistente viene aggiornato solo per quei campi con un valore presente nel file importato.\n\nValorizza se esistente è vuoto: in caso di duplicazione, il record esistente viene aggiornato solo nei campi vuoti con il valore presente nel file importato.",
+    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Il file importato è in una codifica diversa da quella selezionata (%s)"
   }
 }

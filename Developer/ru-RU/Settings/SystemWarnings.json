@@ -51,6 +51,7 @@
     "LBL_CRON_TASKS_LIST": "Cron task list",
     "LBL_REGISTRATION": "Регистрация",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Адрес электронной почты не был добавлен описание компании. Если вы хотите получать рассылку, заполните необходимые данные.",
-    "LBL_COMPANY_DATA": "Перейти к информации о компании"
+    "LBL_COMPANY_DATA": "Перейти к информации о компании",
+    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

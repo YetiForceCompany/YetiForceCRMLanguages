@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_LOGS": "Security incidents",
-    "LBL_LOGS_DESC": "Panel for viewing security incidents",
-    "LBL_ACCESS_FOR_ADMIN": "Access for admin",
-    "LBL_ACCESS_FOR_API": "Access for API",
-    "LBL_ACCESS_FOR_USER": "Access for user",
-    "LBL_ACCESS_TO_RECORD": "Access to record",
+    "LBL_LOGS": "安全事件",
+    "LBL_LOGS_DESC": "查看安全事件的面板",
+    "LBL_ACCESS_FOR_ADMIN": "管理员访问",
+    "LBL_ACCESS_FOR_API": "API 的访问",
+    "LBL_ACCESS_FOR_USER": "用户访问",
+    "LBL_ACCESS_TO_RECORD": "访问记录",
     "LBL_CSRF": "CSRF",
-    "LBL_USERNAME": "Username",
-    "LBL_DATE": "Date",
+    "LBL_USERNAME": "用户名",
+    "LBL_DATE": "日期",
     "LBL_IP": "IP",
-    "LBL_RECORD": "Record ID",
-    "LBL_MODULE": "Module",
-    "LBL_URL": "URL",
-    "LBL_AGENT": "Agent",
-    "LBL_REQUEST": "Request",
-    "LBL_REFERER": "Referer"
+    "LBL_RECORD": "记录编号",
+    "LBL_MODULE": "模块",
+    "LBL_URL": "链接",
+    "LBL_AGENT": "代理",
+    "LBL_REQUEST": "请求",
+    "LBL_REFERER": "反馈"
   }
 }

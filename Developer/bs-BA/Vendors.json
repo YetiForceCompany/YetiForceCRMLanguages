@@ -18,7 +18,7 @@
     "GL Account": "Glavna knjiga",
     "LBL_VENDOR_INFORMATION": "Podaci o dobavljaču",
     "Phone": "Primarni telefon",
-    "SINGLE_Vendors": "Prodavac",
+    "SINGLE_Vendors": "Dobavljač",
     "Vendor Name": "Naziv dobavljača",
     "Vendor No": "Broj dobavljača",
     "Vendors": "Dobavljač",
@@ -27,7 +27,7 @@
     "LBL_LOCAL_NUMBER": "Broj kancelarije"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Brisanjem ovog dobavljača uklonit će se s njim povezani PurchaseOrders. Jeste li sigurni da želite izbrisati ovog dobavljača?",
+    "LBL_DELETE_CONFIRMATION": "Brisanjem ovog dobavljača uklonit će se s njim povezani Narudžbenice. Jeste li sigurni da želite izbrisati ovog dobavljača?",
     "LBL_MASS_DELETE_CONFIRMATION": "Brisanjem ovog dobavljača bit će uklonjeni povezani narudžbenici. Jeste li sigurni da želite izbrisati odabrane zapise?"
   }
 }

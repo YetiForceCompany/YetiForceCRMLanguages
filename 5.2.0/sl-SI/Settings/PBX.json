@@ -2,7 +2,7 @@
   "php": {
     "LBL_NAME": "Name",
     "LBL_TYPE": "Type",
-    "LBL_DEFAULT": "Default",
+    "LBL_DEFAULT": "Privzeto",
     "LBL_ADD_RECORD": "Add record",
     "LBL_CREATE_RECORD": "Add telephone exchange",
     "LBL_EDIT_RECORD": "Edit telephone exchange",

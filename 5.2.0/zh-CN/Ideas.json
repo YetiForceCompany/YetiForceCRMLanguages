@@ -1,15 +1,15 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
-    "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Ideas": "创意/点子/灵感",
+    "SINGLE_Ideas": "创意/点子/灵感",
+    "LBL_IDEAS_INFORMATION": "基本信息",
+    "LBL_SUBJECT": "标题",
+    "LBL_STATUS": "状态",
+    "Description": "基本信息",
+    "LBL_EXTENT_DESCRIPTION": "详细描述",
+    "Attention": "评论",
+    "LBL_NO": "编号",
+    "Draft": "草稿",
+    "Proposition": "方案"
   }
 }

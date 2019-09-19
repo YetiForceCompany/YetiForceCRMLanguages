@@ -51,6 +51,7 @@
     "LBL_CRON_TASKS_LIST": "Cron task list",
     "LBL_REGISTRATION": "Registracija",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "E-poštni naslov ni bil dodan podjetju. Če želite prejemati e-novice vpišite vaš naslov.",
-    "LBL_COMPANY_DATA": "Podatki o podjetju"
+    "LBL_COMPANY_DATA": "Podatki o podjetju",
+    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

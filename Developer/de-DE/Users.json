@@ -363,6 +363,7 @@
     "PLL_PASSWORD_2FA": "Passwort + 2FA",
     "BTN_MASS_OFF_2FA": "Masseninaktivierung 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "Im Demo Modus, 2FA ist nur für den Anzeige Modus.",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.\nBelow are some links to the most popular applications",
     "FL_DEFAULT_SEARCH_MODULE": "Standard-Modul",
     "FL_OVERRIDE_SEARCH_MODULE": "Standardauswahl erzwingen",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Globale Sucheinstellungen",
