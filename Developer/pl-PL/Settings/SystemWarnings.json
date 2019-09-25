@@ -5,7 +5,6 @@
     "LBL_LIBRARY_PHPEXCEL": "Biblioteka PHPExcel",
     "LBL_CONFIG_REPORT": "Konfiguracja serwera",
     "LBL_CONFIG_REPORT_LINK": "Pokaż brakującą konfigurację",
-    "LBL_CONFIG_REPORT_DESC": "Konfiguracja serwera nie została poprawnie ustawiona. Mogą wystąpić problemy z działaniem systemu, lub wprowadzane dane mogą zostać uszkodzone, lub usunięte. Więcej informacji znajduje się w artykule <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/pl\/baza-wiedzy\/dokumentacja\/dokumentacja-wdrozeniowa\/item\/wymagania-dla-serwera-www\"><u>Wymagania dla serwera WWW na stronie yetiforce.com<\/u><\/a>",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Wyślij informacje statystyczne",
     "LBL_STATS_DESC": "Pomóż nam ulepszać YetiForce i oferowane przez nas usługi poprzez przesyłanie nam anonimowych informacji dotyczących używanej przez Ciebie wersji systemu.\r\nZbierane przez nas dane obejmują poniższe informacje:\r\n- unikalny klucz twojej instancji generowany tylko na potrzeby newslettera \r\n- wersja systemu\r\n- język\r\n- strefa czasowa\r\nKwestie bezpieczeństwa traktujemy niezwykle poważnie i zapewniamy, że dane zbierane są wyłącznie w celach statystycznych.\r\nPrzyłącz się do budowania społeczności YetiForce.",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Mechanizm szyfrowania",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Brak szyfrowania powoduje że dane wrażliwe takie jak hasła do poczty, klucze dostępowe są przechowywanie w formie jawnej w bazie danych.",
     "LBL_RECOMMENDED_VALUE": "Zalecane",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/pl\/baza-wiedzy\/dokumentacja\/dokumentacja-wdrozeniowa\/item\/wymagania-dla-serwera-www",
     "LBL_CONFIG_DOC_URL_LABEL": "Wymagania dla serwera WWW na stronie yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Konfiguracja serwera nie została poprawnie ustawiona. Mogą wystąpić problemy z działaniem systemu, lub wprowadzane dane mogą zostać uszkodzone, lub usunięte. Więcej informacji znajduje się w artykule %s. Wykryte problemy:",
     "LBL_PERFORMANCE": "Wydajność",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Rejestracja",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Nie wprowadzono adresu e-mail do danych firmy. Jeśli chcesz otrzymywać newsletter uzupełnij dane.",
     "LBL_COMPANY_DATA": "Przejdź do danych firmy",
+    "LBL_UPDATER": "Aktualizator systemu",
     "LBL_UPDATER_DESC": "Dostępne są aktualizacje dla Twojej wersji systemu. Zalecamy aktualizację."
   }
 }

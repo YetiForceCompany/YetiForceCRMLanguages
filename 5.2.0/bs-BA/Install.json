@@ -71,7 +71,7 @@
     "LBL_ZLIB_SUPPORT": "Zlib podrška",
     "MSG_DB_PARAMETERS_INVALID": "Navedeni korisnik baze podataka, lozinka, ime računala, vrsta baze podataka ili port nisu valjani",
     "MSG_DB_ROOT_USER_NOT_AUTHORIZED": "Poruka: Navedeni Root korisnik baze podataka nema dozvolu za kreiranje baze podataka ili ime baze podataka ima posebne znakove. Pokušajte promijeniti postavke baze podataka",
-    "MSG_DB_USER_NOT_AUTHORIZED": "Navedeni korisnik baze podataka nema pristup za povezivanje s poslužiteljem baze podataka s hosta",
+    "MSG_DB_USER_NOT_AUTHORIZED": "Navedeni korisnik baze podataka nema pristup za povezivanje s serverom baze podataka s hosta",
     "MSG_LIST_REASONS": "To može biti iz sljedećih razloga",
     "LBL_PDO_SUPPORT": "PDO podrška",
     "LBL_OPEN_SSL": "openssl podrška",

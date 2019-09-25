@@ -11,6 +11,11 @@
     "LBL_UPDATES": "Обновление",
     "LBL_UPDATES_DESCRIPTION": "История обновлений",
     "LBL_IMPORT_UPDATE": "Загрузить обновление",
-    "LBL_NAME_PACKAGES": "Название"
+    "LBL_INSTALL_PACKAGE": "Install package",
+    "LBL_DOWNLOAD_PACKAGE": "Download package",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
+    "LBL_INSTALLED_PACKAGES": "Installed packages",
+    "LBL_PACKAGE_VERSION": "Package version",
+    "LBL_NAME_PACKAGES": "Package name"
   }
 }

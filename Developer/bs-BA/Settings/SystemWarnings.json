@@ -5,7 +5,6 @@
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel biblioteka",
     "LBL_CONFIG_REPORT": "Konfiguracija servera",
     "LBL_CONFIG_REPORT_LINK": "Prikaži biblioteku koja nedostaje",
-    "LBL_CONFIG_REPORT_DESC": "Poslužitelj nije pravilno konfiguriran. Sustav može neispravno raditi ili se uneseni podaci mogu oštetiti ili ukloniti. Više informacija u članku <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\"> < u> o zahtjevima poslužitelja na yetiforce.com <\/u> <\/a>",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Pošaljite statističke podatke",
     "LBL_STATS_DESC": "Pomozite nam da poboljšamo YetiForce i naše usluge slanjem anonimnih podataka o vašoj trenutnoj CRM verziji.\n Podaci koje prikupljamo uključuju:\n- jedinstveni ključ vašeg primjerka generiran samo u svrhu biltena\n- sistemska verzija\n- jezik\n- vremenska zona\n Pitanja sigurnosti tretiramo izuzetno ozbiljno i osiguravamo da se prikupljeni podaci koriste samo u statističke svrhe.\n Pridružite nam se i izgradite zajednicu YetiForce-a s nama.",
@@ -30,11 +29,10 @@
     "LBL_MECHANISM_ENCRYPTION": "Mehanizam šifriranja",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Nijedno šifriranje ne uzrokuje da se osjetljivi podaci, poput lozinki do poštanskih sandučića i pristupnih ključeva, pohranjuju u javnom obliku u bazi podataka.",
     "LBL_RECOMMENDED_VALUE": "Preporučeno",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Web server zahtjevi na yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Konfiguracija servera nije ispravno postavljena. Može doći do problema sa sistemom ili se uneseni podaci mogu oštetiti ili izbrisati. Više informacija možete pronaći u članku %s. Otkriveni problemi:",
     "LBL_PERFORMANCE": "Performanse",
-    "LBL_PHPEXT": "PHP proširenja\/ekstenzije",
+    "LBL_PHPEXT": "PHP proširenja/ekstenzije",
     "LBL_DATABASE": "Baza podataka",
     "LBL_STABILITY": "Stabilnost",
     "LBL_CONFIG_SERVER": "Konfiguracija servera",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Registracija",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Podaci o kompaniji nisu dodani nijednu adresu e-pošte. Popunite potrebne podatke ako želite primati bilten.",
     "LBL_COMPANY_DATA": "Idi na podatke o kompaniji",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_UPDATER": "Ažuriranje sistema",
+    "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje."
   }
 }

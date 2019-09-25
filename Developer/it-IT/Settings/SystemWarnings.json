@@ -5,7 +5,6 @@
     "LBL_LIBRARY_PHPEXCEL": "Libreria PHPExcel",
     "LBL_CONFIG_REPORT": "Configurazione server",
     "LBL_CONFIG_REPORT_LINK": "Mostra ulteriori informazioni",
-    "LBL_CONFIG_REPORT_DESC": "Il server non è stato configurato correttamente. Il sistema potrebbe non funzionare correttamente o i dati inseriti potrebbero essere corrotti o rimossi. Ulteriori informazioni nell'articolo <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\"><u>sui requisiti del server su yetiforce.com<\/u><\/a>",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Invia informazioni statistiche",
     "LBL_STATS_DESC": "Aiutaci a migliorare YetiForce e i nostri servizi inviandoci informazioni anonime sulla tua versione attuale di CRM.\n\nDati che raccogliamo includono:\n- la chiave unica della tua istanza generata solo per la newsletter\n- versione di sistema\n- lingua\n- fuso orario\n\n Trattiamo le questioni di sicurezza con estrema serietà e assicuriamo che i dati raccolti saranno utilizzati solo per scopi statistici. \n Unisciti a noi e costruisci la comunità di YetiForce con noi.",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Sistema di crittografia",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "L'assenza di crittografia fa sì che i dati sensibili, come le password e le chiavi di accesso, vengano memorizzate in chiaro nel database.",
     "LBL_RECOMMENDED_VALUE": "Consigliato",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/it\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Requisiti del server web su yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Il server non è stato impostato correttamente. Ci potrebbero essere problemi con il sistema oppure i dati inseriti potrebbero essere danneggiati o cancellati. Ulteriori informazioni possono essere trovate nell'articolo %s. Problemi rilevati:",
     "LBL_PERFORMANCE": "Prestazioni",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Registrazione",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Nessun indirizzo email è stato aggiunto ai dettagli della società. Inserisci i dati richiesti se vuoi ricevere una newsletter.",
     "LBL_COMPANY_DATA": "Vai alle informazioni società",
+    "LBL_UPDATER": "System updater",
     "LBL_UPDATER_DESC": "Sono disponibili aggiornamenti per la versione di sistema. Ti consigliamo di aggiornare."
   }
 }

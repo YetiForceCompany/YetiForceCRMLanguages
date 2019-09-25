@@ -11,6 +11,11 @@
     "LBL_UPDATES": "Ažuriranja",
     "LBL_UPDATES_DESCRIPTION": "Povijest ažuriranja",
     "LBL_IMPORT_UPDATE": "Prijenos ažuriranja",
-    "LBL_NAME_PACKAGES": "Naziv"
+    "LBL_INSTALL_PACKAGE": "Instaliraj pakete",
+    "LBL_DOWNLOAD_PACKAGE": "Preuzmite paket",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Dostupni paketi za nadogradnju",
+    "LBL_INSTALLED_PACKAGES": "Instalirani paketi",
+    "LBL_PACKAGE_VERSION": "Verzija paketa",
+    "LBL_NAME_PACKAGES": "Naziv paketa"
   }
 }

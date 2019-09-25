@@ -5,10 +5,9 @@
     "LBL_LIBRARY_PHPEXCEL": "Bibliothèque PHPExcel",
     "LBL_CONFIG_REPORT": "Configuration du serveur",
     "LBL_CONFIG_REPORT_LINK": "Afficher la bibliothèque manquante",
-    "LBL_CONFIG_REPORT_DESC": "Le serveur n'a pas été correctement configuré. Le système peut ne pas fonctionner correctement ou les données saisies peuvent être endommagées ou supprimées. Plus d'informations dans l'article <a href=\\\"https:\/\/www.yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\\\"><u>Exigences du serveur pour yetiforce<\/u><\/a>",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Envoyer des informations statistiques",
-    "LBL_STATS_DESC": "Aidez-nous à améliorer YetiForce et nos services en nous envoyant des informations anonymes sur votre version CRM actuelle.\r\nLes données que nous collectons incluent: <ul><li>la clé unique de votre instance générée uniquement à des fins de newsletter<\/li><li>version système<\/li><li>langue<\/li><li>Fuseau horaire<\/li><\/ul>Nous traitons les questions de sécurité extrêmement sérieusement et nous nous assurons que les données recueillies ne sont utilisées qu'à des fins statistiques. Joignez-vous à nous et construisez la communauté de YetiForce avec nous.",
+    "LBL_STATS_DESC": "Aidez-nous à améliorer YetiForce et nos services en nous envoyant des informations anonymes sur votre version CRM actuelle.\r\nLes données que nous collectons incluent: <ul><li>la clé unique de votre instance générée uniquement à des fins de newsletter</li><li>version système</li><li>langue</li><li>Fuseau horaire</li></ul>Nous traitons les questions de sécurité extrêmement sérieusement et nous nous assurons que les données recueillies ne sont utilisées qu'à des fins statistiques. Joignez-vous à nous et construisez la communauté de YetiForce avec nous.",
     "LBL_SAVE_TO_NEWSLETTER": "S'inscrire aux Newsletters",
     "LBL_REMIND_LATER": "Rappelez-moi plus tard",
     "LBL_DATA_SAVE_OK": "Données enregistrées correctement",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Encryption mechanism",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "No encryption causes that sensitive data such as passwords to mailboxes and access keys are stored in a public form in the database.",
     "LBL_RECOMMENDED_VALUE": "Recommended",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Web server requirements at yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Server configuration was not set properly. There may be problems with the system, or the data entered may be damaged or deleted. More information can be found in the article %s. Detected problems:",
     "LBL_PERFORMANCE": "Performance",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Registration",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
     "LBL_COMPANY_DATA": "Go to company details",
+    "LBL_UPDATER": "Système de mise à jour",
     "LBL_UPDATER_DESC": "Des mises à jour sont disponibles pour la version de votre système. Nous vous recommandons de faire les mises à jour."
   }
 }

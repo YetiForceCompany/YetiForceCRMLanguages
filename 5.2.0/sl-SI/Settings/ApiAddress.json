@@ -7,7 +7,7 @@
     "LBL_ENTER_KEY_APPLICATION": "Vnesi ključ aplikacije",
     "LBL_MIN_LOOKUP_LENGTH": "Najmanjše število znakov, ki jih mora vnesti uporabnik, preden se izvede iskanje",
     "LBL_SAVE_NOTIFY_OK": "Shranjene spremembe.",
-    "LBL_COUNTRY_CODES": "Country codes",
+    "LBL_COUNTRY_CODES": "Šifra države",
     "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. en, fr",
     "LBL_KEY": "Key",
     "LBL_KEY_PLACEHOLDER": "Enter key application",

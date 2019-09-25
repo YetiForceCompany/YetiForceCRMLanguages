@@ -5,7 +5,6 @@
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel βιβλιοθήκη",
     "LBL_CONFIG_REPORT": "Ρύθμιση παραμέτρων του διακομιστή",
     "LBL_CONFIG_REPORT_LINK": "Εμφάνιση βιβλιοθήκης που λείπει",
-    "LBL_CONFIG_REPORT_DESC": "Ο διακομιστής δεν έχει ρυθμιστεί σωστά. Ενδέχεται να προκληθεί δυσλειτουργία του συστήματος, τα δεδομένα που εισάγονται μπορεί να καταστραφουν ή να αφαιρεθούν. Περισσότερες πληροφορίες στο <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\"><u>on server requirements at yetiforce.com<\/u><\/a>",
     "LBL_NEWSLETTER": "Ενημερωτικό δελτίο",
     "LBL_STATS": "Αποστολή στατιστικών στοιχείων",
     "LBL_STATS_DESC": "Συμβάλετε στη βελτίωση του YetiForce και των υπηρεσιών μας, στέλνοντάς μας ανώνυμες πληροφορίες σχετικά με την τρέχουσα έκδοση του CRM. \n Τα δεδομένα που συλλέγουμε περιλαμβάνουν: \n- το μοναδικό κλειδί που δημιουργείται μόνο για τους σκοπούς του ενημερωτικού δελτίου\n- έκδοση του συστήματος \n- γλώσσα \n- ζώνη ώρας \n Παίρνουμε τα ζητήματα ασφαλείας εξαιρετικά σοβαρά και διασφαλίζουμε ότι τα δεδομένα που συλλέγονται χρησιμοποιούνται μόνο για στατιστικούς σκοπούς. \n Ελάτε μαζί μας και οικοδομήστε την κοινότητα του YetiForce\\ μαζί μας.",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Μηχανισμός κρυπτογράφησης",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Χωρίς κρυπτογράφηση τα ευαίσθητα δεδομένα όπως κωδικοί πρόσβασης email και κλειδιά πρόσβασης αποθηκεύονται δημόσια στη βάση δεδομένων.",
     "LBL_RECOMMENDED_VALUE": "Συνιστάται",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Απαιτήσεις διακομιστή Web στο yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Η ρύθμιση παραμέτρων του διακομιστή δεν είναι σωστή. Μπορεί να υπάρχουν προβλήματα με το σύστημα ή τα δεδομένα που εισάγονται μπορεί να καταστραφούν ή να διαγραφούν. Περισσότερες πληροφορίες μπορούν να βρεθούν στο άρθρο %s. Εντοπίστηκαν προβλήματα:",
     "LBL_PERFORMANCE": "Απόδοση",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Εγγραφή",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Δεν προστέθηκε διεύθυνση email στα στοιχεία της εταιρείας. Αν θέλετε να λαμβάνετε ενημερωτικά δελτία συμπληρώστε τα απαραίτητα στοιχεία.",
     "LBL_COMPANY_DATA": "Μεταβείτε στην καταχώρηση της εταιρείας",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_UPDATER": "Ενημερώσεις συστήματος",
+    "LBL_UPDATER_DESC": "Υπάρχουν διαθέσιμες ενημερώσεις για το σύστημά σας. Σας συνιστούμε να κάνετε ενημέρωση."
   }
 }

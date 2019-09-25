@@ -11,6 +11,11 @@
     "LBL_UPDATES": "Actualizaciones",
     "LBL_UPDATES_DESCRIPTION": "Historial de actualizaciones",
     "LBL_IMPORT_UPDATE": "Subir actualización",
-    "LBL_NAME_PACKAGES": "Nombre"
+    "LBL_INSTALL_PACKAGE": "Instalar paquete",
+    "LBL_DOWNLOAD_PACKAGE": "Descargar paquete",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Paquetes de actualización disponibles",
+    "LBL_INSTALLED_PACKAGES": "Paquetes instalados",
+    "LBL_PACKAGE_VERSION": "Versión de Paquete",
+    "LBL_NAME_PACKAGES": "Nombre del paquete"
   }
 }

@@ -5,10 +5,9 @@
     "LBL_LIBRARY_PHPEXCEL": "Библиотека PHPExcel",
     "LBL_CONFIG_REPORT": "Конфигурация сервера",
     "LBL_CONFIG_REPORT_LINK": "Показать недостающие библиотеки",
-    "LBL_CONFIG_REPORT_DESC": "Сервер не был настрон должным образом. Система может работать со сбоями, а сохранённая информация может пропасть или быть испорченной. Больше информации можно получить в статье <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/www.yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\"><u>про требования к серверу на yetiforce.com<\/u><\/a>",
     "LBL_NEWSLETTER": "Новостная рассылка",
     "LBL_STATS": "Отсылать статистическую информацию",
-    "LBL_STATS_DESC": "Помогите нам улучшить YetiForce и наши услуги, отсылаю анонимную информацию о текущей версии своей CRM.\r\nМы собираем следующие данные: <ul><li>уникальный ключ, генерируемый только для рассылки<\/li><li>версия системы<\/li><li>язык<\/li><li>временная зона<\/li><\/ul>Мы очень серьёзно подходим к вопросу безопасности и гарантируем, что собранные данные будут использованы только в статистических целях.\r\nПрисоединяйтесь и стройте сообщество YetiForce вместе с нами.",
+    "LBL_STATS_DESC": "Помогите нам улучшить YetiForce и наши услуги, отсылаю анонимную информацию о текущей версии своей CRM.\r\nМы собираем следующие данные: <ul><li>уникальный ключ, генерируемый только для рассылки</li><li>версия системы</li><li>язык</li><li>временная зона</li></ul>Мы очень серьёзно подходим к вопросу безопасности и гарантируем, что собранные данные будут использованы только в статистических целях.\r\nПрисоединяйтесь и стройте сообщество YetiForce вместе с нами.",
     "LBL_SAVE_TO_NEWSLETTER": "Подписаться на рассылку",
     "LBL_REMIND_LATER": "Напомнить позже",
     "LBL_DATA_SAVE_OK": "Информация успешно сохранена",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Encryption mechanism",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "No encryption causes that sensitive data such as passwords to mailboxes and access keys are stored in a public form in the database.",
     "LBL_RECOMMENDED_VALUE": "Recommended",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Web server requirements at yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Server configuration was not set properly. There may be problems with the system, or the data entered may be damaged or deleted. More information can be found in the article %s. Detected problems:",
     "LBL_PERFORMANCE": "Performance",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Регистрация",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Адрес электронной почты не был добавлен описание компании. Если вы хотите получать рассылку, заполните необходимые данные.",
     "LBL_COMPANY_DATA": "Перейти к информации о компании",
+    "LBL_UPDATER": "System updater",
     "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

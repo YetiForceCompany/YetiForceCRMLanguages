@@ -5,10 +5,9 @@
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel Library",
     "LBL_CONFIG_REPORT": "Server Konfiguration",
     "LBL_CONFIG_REPORT_LINK": "Fehlende Library zeigen",
-    "LBL_CONFIG_REPORT_DESC": "Der Server wurde nicht korrekt konfiguriert. Das System kann dadurch instabil sein und eingegeben Daten eventuell fehlerhaft. Mehr Informationen finden Sie in folgenden Artikel <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\"><u>on server requirements at yetiforce.com<\/u><\/a>",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Statistische Informationen senden",
-    "LBL_STATS_DESC": "Helfen Sie uns YetiForce und unsere Services zu verbessern indem Sie Anonyme Daten über Ihr CRM System zukommen lassen. Die von uns gesammelten Daten enthalten folgendes: <ul><li>Die eindeutige CRM Instanznummer für den Newsletter<\/li><li>System Version<\/li><li>Sprache<\/li><li>Zeitzone<\/li><\/ul>Wir behandeln die Daten unter hohen Sicherheitsaspekten und versichern das diese ausschließlich für statistische Zwecke verwendet werden.\r\nHilfen Sie uns und unserer Community.",
+    "LBL_STATS_DESC": "Helfen Sie uns YetiForce und unsere Services zu verbessern indem Sie Anonyme Daten über Ihr CRM System zukommen lassen. Die von uns gesammelten Daten enthalten folgendes: <ul><li>Die eindeutige CRM Instanznummer für den Newsletter</li><li>System Version</li><li>Sprache</li><li>Zeitzone</li></ul>Wir behandeln die Daten unter hohen Sicherheitsaspekten und versichern das diese ausschließlich für statistische Zwecke verwendet werden.\r\nHilfen Sie uns und unserer Community.",
     "LBL_SAVE_TO_NEWSLETTER": "Für Newsletter anmelden",
     "LBL_REMIND_LATER": "Später erinnern",
     "LBL_DATA_SAVE_OK": "Daten korrekt gesichert",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Verschlüsselungs Mechanismus",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Keine Verschlüsselung bedeutet, dass sensible Daten wie Passwörter oder Zugangsschlüssel, lesbar in der Datenbank gesichert werden.",
     "LBL_RECOMMENDED_VALUE": "Erforderlich",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/de\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Webserver Anforderungen unter yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Die Server Konfiguration wurde nicht richtig eingestellt. Es kann Probleme mit dem System geben, oder die eingegebenen Daten können beschädigt oder gelöscht werden. Weitere Informationen finden Sie im Artikel %s. Erkannte Probleme:",
     "LBL_PERFORMANCE": "Leistung",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Registrierung",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Es wurde keine E-Mail-Adresse zu den Firmendaten hinzugefügt. Füllen Sie die erforderlichen Daten aus, wenn Sie einen Newsletter erhalten möchten.",
     "LBL_COMPANY_DATA": "Unternehmensangaben bearbeiten",
+    "LBL_UPDATER": "System updater",
     "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
   }
 }

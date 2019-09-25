@@ -5,10 +5,9 @@
     "LBL_LIBRARY_PHPEXCEL": "Librería PHPExcel",
     "LBL_CONFIG_REPORT": "Configuración del servidor",
     "LBL_CONFIG_REPORT_LINK": "Mostrar librería que falta",
-    "LBL_CONFIG_REPORT_DESC": "El servidor no se ha configurado correctamente. El sistema puede funcionar incorrectamente, o los datos introducidos pueden estar dañados o eliminados. Más información en el artículo <a target=\"_blank\" rel=\"noreferrer\" href=\"https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements\">Requisitos del servidor en yetiforce.com<\/a>",
     "LBL_NEWSLETTER": "Boletín",
     "LBL_STATS": "Enviar información estadística",
-    "LBL_STATS_DESC": "Ayúdenos a mejorar YetiForce y nuestros servicios enviándonos información anónima sobre su versión CRM actual. Los datos que recopilamos incluyen: <ul><li>la clave única de su instancia generada sólo con el propósito de boletín<\/li><li>versión del sistema<\/li><li>idioma<\/li>Zona horaria<\/li><\/ul>Tratamos asuntos de seguridad muy seriamente y nos aseguramos de que los datos recopilados se usen sólo para fines estadísticos. Únase a nosotros y construya la comunidad de YetiForce con nosotros.",
+    "LBL_STATS_DESC": "Ayúdenos a mejorar YetiForce y nuestros servicios enviándonos información anónima sobre su versión CRM actual. Los datos que recopilamos incluyen: <ul><li>la clave única de su instancia generada sólo con el propósito de boletín</li><li>versión del sistema</li><li>idioma</li>Zona horaria</li></ul>Tratamos asuntos de seguridad muy seriamente y nos aseguramos de que los datos recopilados se usen sólo para fines estadísticos. Únase a nosotros y construya la comunidad de YetiForce con nosotros.",
     "LBL_SAVE_TO_NEWSLETTER": "Suscríbete al boletín",
     "LBL_REMIND_LATER": "Recordármelo más tarde",
     "LBL_DATA_SAVE_OK": "Datos guardados correctamente",
@@ -30,7 +29,6 @@
     "LBL_MECHANISM_ENCRYPTION": "Mecanismo de cifrado",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Carecer de cifrado hace que datos sensibles como contraseñas de los buzones de correo y claves de acceso se almacenen en una forma pública en la base de datos.",
     "LBL_RECOMMENDED_VALUE": "Recomendado",
-    "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/es\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
     "LBL_CONFIG_DOC_URL_LABEL": "Requisitos de servidor web en yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "Configuración del servidor no se ha establecido correctamente. Puede haber problemas con el sistema o los datos introducidos pueden ser dañados o eliminados. Puede encontrar más información en el artículo %s. Problemas detectados:",
     "LBL_PERFORMANCE": "Rendimiento",
@@ -52,6 +50,7 @@
     "LBL_REGISTRATION": "Registro",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No se ha añadido ninguna dirección de correo electrónico a los detalles de la empresa. Complete los datos necesarios si desea recibir un boletín de noticias.",
     "LBL_COMPANY_DATA": "Ir a datos de la empresa",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_UPDATER": "Actualizador del sistema",
+    "LBL_UPDATER_DESC": "Hay actualizaciones disponibles para la versión de su sistema. Le recomendamos actualizarlo."
   }
 }
