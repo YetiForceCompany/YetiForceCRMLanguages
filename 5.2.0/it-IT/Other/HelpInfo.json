@@ -10,8 +10,8 @@
     "FL_CLOSING_RANGE_TIME": "Il numero di minuti trascorsi tra la creazione e l'ultima chiusura di un record, è calcolato in base allo SLA e ai giorni/ore lavorativi",
     "FL_RESPONSE_DATE_TIME": "Data e ora di inizio della reazione.",
     "FL_SOLUTION_DATE_TIME": "Risolvi data e ora di fine.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
+    "FL_IDLE_DATE_TIME": "Data e ora di fine inattività.",
     "FL_RESPONSE_EXPECTED": "Data pianificata/attesa fino a quando la reazione sul record è eseguita, è calcolata in base allo SLA e ai giorni lavorativi.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "FL_IDLE_DATE_EXPECTED": "Data pianificata/attesa fino a quando è consentita l'inattività, è calcolata in base allo SLA e ai giorni lavorativi."
   }
 }

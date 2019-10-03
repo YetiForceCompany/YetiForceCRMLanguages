@@ -39,6 +39,7 @@
     "LBL_ADDITIONAL_HEADERS": "Dodatkowe nagłówki",
     "LBL_SAVE_SENT_MESSAGE": "Zapisz wysłaną wiadomość",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Wiadomości email będą wysyłane oddzielnie do każdego z odbiorców",
-    "LBL_OPTIONS_INFO": "Przykładowe parametry dodatkowe(Json):\r\n {\r\n  &quot;ssl&quot;: {\r\n    &quot;verify_peer&quot;:false,\r\n    &quot;verify_peer_name&quot;:false,\r\n    &quot;allow_self_signed&quot;:true\r\n  }\r\n}"
+    "LBL_UNSUBSCRIBE_INFO": "Nagłówek „List-Unsubscribe” jest opcjonalnym nagłówkiem e-maila, który możesz dodać do swoich wiadomości. Pozwala subskrybentom zobaczyć przycisk rezygnacji z subskrypcji, który mogą kliknąć, jeśli chcieliby automatycznie przestać otrzymywać Twoje e-maile. Lista parametrów jakie mają zostać umieszczone w nagłówku w nawiasach ostrych, np. <...>\nprzykład: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
+    "LBL_OPTIONS_INFO": "Przykładowe dodatkowe parametry (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

@@ -20,7 +20,7 @@
     "FL_MARGIN": "利润总额",
     "FL_SUM_GROSS": "毛总额",
     "FL_SUM_DISCOUNT": "折扣金额",
-    "FL_POS": "POS",
+    "FL_POS": "收银终端",
     "FL_METHOD_PAYMENTS": "付款方式",
     "PLL_REDSYS": "Redsys支付",
     "PLL_DOTPAY": "Dotpay支付",

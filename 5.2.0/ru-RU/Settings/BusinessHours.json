@@ -1,23 +1,23 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings"
+    "LBL_BUSINESS_HOURS": "Рабочие часы",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Рабочие часы - это модуль, в котором можно установить рабочее время вашей команды.",
+    "LBL_WORKING_HOURS_FROM": "От",
+    "LBL_WORKING_HOURS_TO": "До",
+    "LBL_WORKING_DAYS": "Рабочие дни",
+    "LBL_WORKING_HOURS": "Рабочие часы",
+    "LBL_DEFAULT": "По умолчанию",
+    "LBL_NAME": "Имя",
+    "LBL_HOLIDAYS": "Праздники",
+    "LBL_EDIT_BUSINESS_HOURS": "Изменить рабочее часы",
+    "LBL_ADD_BUSINESS_HOURS": "Добавить запись рабочих часов",
+    "LBL_DEFAULT_TIMES": "Время по умолчанию",
+    "LBL_DEFAULT_REACTION_TIME": "Время реакции по умолчанию",
+    "LBL_DEFAULT_IDLE_TIME": "Время простоя по умолчанию",
+    "LBL_DEFAULT_RESOLVE_TIME": "Время решения по умолчанию",
+    "LBL_HOLIDAYS_LINK": "Перейти к настройкам праздников"
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Вы уверены, что хотите удалить эту запись?"
   }
 }

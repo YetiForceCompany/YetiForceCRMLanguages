@@ -18,7 +18,7 @@
         "crowdinCode": "bs",
         "name": "Bosnian",
         "progress": 100,
-        "time": "2019-09-25 07:42:38"
+        "time": "2019-10-03 07:38:54"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -46,7 +46,7 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 99,
-        "time": "2019-09-25 07:46:53"
+        "time": "2019-10-03 07:44:23"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -74,21 +74,21 @@
         "crowdinCode": "hr",
         "name": "Croatian",
         "progress": 100,
-        "time": "2019-09-25 07:43:57"
+        "time": "2019-10-03 07:40:58"
     },
     "id-ID": {
         "prefix": "id-ID",
         "crowdinCode": "id",
         "name": "Indonesian",
         "progress": 13,
-        "time": "2019-09-25 07:47:17"
+        "time": "2019-10-03 07:44:52"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 99,
-        "time": "2019-09-25 07:47:41"
+        "time": "2019-10-03 07:45:20"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -102,7 +102,7 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 17,
-        "time": "2019-09-25 07:45:39"
+        "time": "2019-10-03 07:42:56"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -123,7 +123,7 @@
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 79,
-        "time": "2019-09-25 07:49:47"
+        "time": "2019-10-03 07:47:49"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -143,8 +143,8 @@
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 87,
-        "time": "2019-09-25 07:50:36"
+        "progress": 93,
+        "time": "2019-10-03 07:48:49"
     },
     "sk-SK": {
         "prefix": "sk-SK",
@@ -157,8 +157,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 81,
-        "time": "2019-09-25 07:51:25"
+        "progress": 82,
+        "time": "2019-10-03 07:49:48"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -179,6 +179,13 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 98,
-        "time": "2019-09-25 07:43:31"
+        "time": "2019-10-03 07:39:58"
+    },
+    "zh-TW": {
+        "prefix": "zh-TW",
+        "crowdinCode": "zh-TW",
+        "name": "Chinese Traditional",
+        "progress": 5,
+        "time": "2019-10-03 07:40:28"
     }
 }

@@ -54,7 +54,7 @@
     "LBL_CONDITION_INFO": "Select condition for showing records",
     "LBL_SHOW_ALL_RECORDS": "Show all records",
     "LBL_SHOW_ALL_RECORDS_INFO": "Ne - Dovoljenja se upoštevajo\n  Da - Iskanje zapisov brez dovoljenj",
-    "LBL_SHITCH_HEADER": "Switch in header",
+    "LBL_SHITCH_HEADER": "Preklopi v glavi",
     "LBL_SHITCH_HEADER_INFO": "Switch can be found in the widget's header.",
     "HistoryRelation": "Časovnica",
     "CountRecords": "Število zapisov",

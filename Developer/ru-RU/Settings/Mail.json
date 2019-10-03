@@ -27,7 +27,7 @@
     "LBL_WAITING_TO_BE_SENT": "Ожидает отправки",
     "LBL_ERROR_DURING_SENDING": "Ошибка при отправке",
     "LBL_EMAIL_DETAIL": "Сведения о сообщении",
-    "LBL_ACCEPTANCE_RECORD": "Acceptance record",
+    "LBL_ACCEPTANCE_RECORD": "Запись приемки",
     "LBL_ATTACHMENTS": "Вложения",
     "LBL_FROM": "Отправитель",
     "LBL_SEND_EMAIL_MANUALLY": "Отправить почту вручную",
@@ -40,6 +40,6 @@
     "LBL_TO": "Для",
     "LBL_EMAILS_TO_SEND_DESCRIPTION": "Список писем на отсылку. За отправку сообщений отвечает CRON.",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "Письма на отправку",
-    "LBL_EMAIL_WAS_SENT": "Письмо отправлено, предварительный просмотр недоступен"
+    "LBL_EMAIL_WAS_SENT": "Письмо отправлено, предварительный просмотр недоступен."
   }
 }

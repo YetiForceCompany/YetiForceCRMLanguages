@@ -1,0 +1,43 @@
+{
+  "php": {
+    "PublicHoliday": "Državni praznici",
+    "LBL_PUBLIC_HOLIDAY": "Kalendar - Praznici",
+    "LBL_PUBLIC_HOLIDAY_DESCRIPTION": " ",
+    "LBL_ADD_HOLIDAY": "Dodaj praznik",
+    "LBL_HOLIDAY_LIST": "Lista državnih praznika",
+    "LBL_YEAR_FROM": "Od",
+    "LBL_YEAR_TO": "Do",
+    "LBL_EDIT": "Uredi",
+    "LBL_DELETE": "Obriši",
+    "JS_HOLIDAY_DELETE_OK": "Državni praznik je uspješno izbrisan",
+    "JS_HOLIDAY_DELETE_ERROR": "Brisanje državnog praznika nije uspjelo",
+    "LBL_ADD_NEW_HOLIDAY": "Dodaj novi praznik",
+    "LBL_DATE": "Datum",
+    "LBL_DAY_NAME": "Naziv praznika",
+    "LBL_DAY_NAME_DESC": "Unesite naziv državnog praznika",
+    "LBL_NEW_DATE_OK": "Novi državni praznik je uspješno izbrisan",
+    "LBL_NEW_DATE_ERROR": "Nije moguće dodati novi državni praznik",
+    "LBL_EDIT_DATE_OK": "Državni praznik je uspješno izmijenjen",
+    "LBL_EDIT_DATE_ERROR": "Izmjena državnog praznika nije uspjela",
+    "LBL_FILL_FORM_ERROR": "Sva polja morate ispuniti u obrascu",
+    "Monday": "Ponedjeljak",
+    "Tuesday": "Utorak",
+    "Wednesday": "Srijeda",
+    "Thursday": "Četvrtak",
+    "Friday": "Petak",
+    "Saturday": "Subota",
+    "Sunday": "Nedjelja",
+    "LBL_HOLIDAY_TYPE": "Vrsta praznika",
+    "LBL_NATIONAL": "državni",
+    "LBL_ECCLESIASTICAL": "vjerski",
+    "ecclesiastical": "vjerski",
+    "national": "državni",
+    "LBL_VIEW_CONFIGURATION": "Državni praznici",
+    "LBL_DATE_RANGE": "Opseg"
+  },
+  "js": {
+    "JS_ADD_NEW_HOLIDAY": "Dodaj novi praznik",
+    "JS_EDIT_HOLIDAY": "Uredi praznik",
+    "JS_FILL_FORM_ERROR": "Sva polja morate ispuniti u obrascu"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_APP_NAME": "Naziv",
+    "LBL_ADDRESS_URL": "URL",
+    "LBL_TYPE_SERVER": "Tip",
+    "LBL_API_KEY": "Ključ",
+    "LBL_ADD_APPLICATION": "Dodaj ključ",
+    "LBL_WEBSERVICE_APPS": "Internet usluge - Aplikacije",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Kreirajte i upravljajte aplikacijskim ključevima koji se integrišu putem API-ja.",
+    "LBL_PASS": "Lozinka",
+    "LBL_TITLE_ADDED": "Dodaj",
+    "LBL_TITLE_EDIT": "Uredi",
+    "Portal": "Portal",
+    "Payments": "Plaćanja"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ključ?"
+  }
+}

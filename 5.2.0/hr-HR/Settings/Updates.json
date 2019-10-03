@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Updates": "Ažuriranja",
+    "LBL_YES": "Da",
+    "LBL_NO": "Ne",
+    "LBL_TIME": "Datum",
+    "LBL_USER": "Korisničko ime",
+    "LBL_FROM_VERSION": "Od verzije",
+    "LBL_TO_VERSION": "Do verzije",
+    "LBL_RESULT": "Status",
+    "LBL_UPDATES": "Ažuriranja",
+    "LBL_UPDATES_DESCRIPTION": "Povijest ažuriranja",
+    "LBL_IMPORT_UPDATE": "Prijenos ažuriranja",
+    "LBL_NAME_PACKAGES": "Naziv"
+  }
+}

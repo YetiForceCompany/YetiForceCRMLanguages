@@ -168,7 +168,7 @@
     "GlobalPermission": "全局权限",
     "Search Setup": "标签和搜索",
     "LBL_EXTENDED_MODULES": "扩展模块",
-    "LBL_PBX": "PBX",
+    "LBL_PBX": "电话交换机",
     "LBL_PBX_DESCRIPTION": "与 PBX 集成允许直接从 CRM 系统进行调用",
     "CustomView": "自定义视图",
     "Widgets": "模块摘要部件",

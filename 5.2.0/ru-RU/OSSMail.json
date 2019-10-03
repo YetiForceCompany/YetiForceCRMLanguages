@@ -62,7 +62,7 @@
     "LBL_RELATIONS_EXTEND": "Контакты",
     "LBL_PROCESS": "Процесс",
     "LBL_SUB_PROCESS": "Подпроцесс",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Подпроцесс второго уровня",
     "LBL_REMOVE_RELATION": "Удалить связь",
     "LBL_SELECT_RECORD": "Ссылка на существующую запись",
     "LBL_ADD_CALENDAR": "Добавить событие",
@@ -75,17 +75,17 @@
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Количество выбранных записей",
     "LBL_MINIMIZE_BAR": "Скрыть",
     "LBL_CREATEMAIL": "Написать Письмо",
-    "LBL_ADD_RELATION": "Add relation",
-    "LBL_ADD_DOCUMENTS": "Add documents",
-    "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
-    "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available"
+    "LBL_ADD_RELATION": "Добавить связь",
+    "LBL_ADD_DOCUMENTS": "Добавить документы",
+    "LBL_ADD_TO_MY_CALENDAR": "Добавить в мой календарь",
+    "LBL_ERROR_OCCURRED_DURING_IMPORT": "Произошла ошибка при импорте",
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Файл был импортирован %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в панели недоступны"
   },
   "js": {
     "NoFindEmailInRecord": "Запись не имеет адреса электронной почты",
     "AddFindEmailInRecord": "Скачать письмо",
     "StartedDownloadingEmail": "Загрузка электронной почты",
-    "JS_DOCUMENTS_ADDED": "Documents have been added"
+    "JS_DOCUMENTS_ADDED": "Документы добавлены"
   }
 }

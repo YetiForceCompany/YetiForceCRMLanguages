@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA politika",
+    "LBL_NAME": "Naziv politike",
+    "LBL_EDIT": "Uređivanje SLA politike",
+    "LBL_CREATE": "Kreirajte novu SLA politiku",
+    "LBL_SOURCE_MODULE": "Modul"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Odaberite radno vrijeme",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Naziv",
+    "JS_BUSINESS_HOURS_DAYS": "Radni dani",
+    "JS_HOLIDAYS": "Praznici"
+  }
+}

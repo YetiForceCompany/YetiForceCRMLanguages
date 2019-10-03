@@ -87,11 +87,11 @@
     "PLL_UFCIITS": "Организация Коллективного Инвестирования",
     "LBL_DEACTIVATED_BY": "Акаунт выключен ",
     "SINGLE_Vendors": "Поставщик",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook",
-    "FL_SUM_ORDERS": "Sum of open sales orders",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_CHECK_STOCK_LEVELS": "Проверить уровень запасов",
+    "FL_PRICEBOOK": "Ценовая книга",
+    "FL_SUM_ORDERS": "Сумма открытых заказов на продажу",
+    "FL_TAXES": "Налоги",
+    "FL_AVAILABLE_TAXES": "Доступные налоги"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Такой клиент уже существует. Создать дубликат?",

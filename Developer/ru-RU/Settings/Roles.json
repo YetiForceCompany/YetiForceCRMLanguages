@@ -45,10 +45,10 @@
     "LBL_BLOCK_CUT": "Вырезать блок",
     "LBL_BLOCK_PASTE": "Вставить блок",
     "LBL_AUTO_ASSIGN_RECORDS": "Автоматическое присвоение записей",
-    "LBL_UPLOAD_LOGO": "Upload logo",
-    "LBL_UPLOAD_ERROR": "Error during upload",
-    "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
-    "LBL_MULTI_COMPANY": "Organizational structure"
+    "LBL_UPLOAD_LOGO": "Загрузить логотип",
+    "LBL_UPLOAD_ERROR": "Ошибка при загрузке",
+    "LBL_UPLOAD_SUCCESS": "Успешно загружено",
+    "LBL_MULTI_COMPANY": "Организационная структура"
   },
   "js": {
     "JS_NO_PERMISSIONS_TO_MOVE": "Перемещение запрещено",
