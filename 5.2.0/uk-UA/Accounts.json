@@ -87,11 +87,11 @@
     "PLL_UFCIITS": "Організація коллективного інвестування у цінні папери",
     "LBL_DEACTIVATED_BY": "Контрагент деактивований;",
     "SINGLE_Vendors": "Постачальник",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook",
-    "FL_SUM_ORDERS": "Sum of open sales orders",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_CHECK_STOCK_LEVELS": "Перевірити рівень запасів",
+    "FL_PRICEBOOK": "Каталог цін",
+    "FL_SUM_ORDERS": "Сума відкритих замовлень",
+    "FL_TAXES": "Податки",
+    "FL_AVAILABLE_TAXES": "Доступні податки"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Державна установа вже існує. Створити дублікат?",

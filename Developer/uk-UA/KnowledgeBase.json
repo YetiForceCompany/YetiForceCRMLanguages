@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "База знань",
     "SINGLE_KnowledgeBase": "База знань",
-    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
+    "BTN_KNOWLEDGE_BASE": "База знань",
     "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
     "FL_SUBJECT": "Тема",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Основна інформація",
@@ -11,7 +11,7 @@
     "FL_VIEWS": "Перегляд",
     "PLL_PAGE": "Сторінка",
     "PLL_PRESENTATION": "Презентація",
-    "LBL_VIEW_KNOWLEDGE_BASE": "Knowledge base",
+    "LBL_VIEW_KNOWLEDGE_BASE": "База знань",
     "LBL_PREVIOUS": "Попередній",
     "LBL_NEXT": "Наступний",
     "LBL_LIST_RECORDS": "Список записів",
@@ -28,9 +28,9 @@
     "LBL_DESCRIPTION_BLOCK": "Опис",
     "LBL_ATTENTION_BLOCK": "Коментарі",
     "LBL_SIZE": "Розмір",
-    "FL_FEATURED": "Featured",
-    "LBL_RELATED_KNOWLEDGE_BASES": "Related entries",
-    "FL_INTRODUCTION": "Introduction",
+    "FL_FEATURED": "Рекомендоване",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Пов'язані записи",
+    "FL_INTRODUCTION": "Вступ",
     "ERR_NOT_ALLOWED": "Файл не має дозволеного типу розширення"
   }
 }

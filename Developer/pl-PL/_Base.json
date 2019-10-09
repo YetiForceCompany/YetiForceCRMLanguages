@@ -1795,6 +1795,8 @@
     "JS_CHAT_PARTICIPANT_EXISTS": "Ten użytkownik jest już uczestnikiem czatu",
     "JS_CHAT_PARTICIPANT_INVITED": "Ten użytkownik został już zaproszony do pokoju",
     "JS_CHAT_PARTICIPANT_NAME_EMPTY": "Nazwa użytkownika nie może być pusta",
+    "JS_CHAT_PARTICIPANT_UNPIN": "Odepnij uczestnika z pokoju",
+    "JS_CHAT_PARTICIPANT_ADMIN": "Administrator",
     "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Wyszukaj rekordy wybranego modułu",
     "JS_CHAT_HIDE_ADD_PANEL": "Ukryj dodawanie panelu",
     "JS_CHAT_ROOM_ARCHIVE_MESSAGE": "Wiadomości ze zarchiwizowanych pokoi są widoczne tylko w historii czatów użytkownika. Czy na pewno chcesz zarchiwizować czat „${roomToArchive}”?",

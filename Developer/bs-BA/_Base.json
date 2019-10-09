@@ -1795,6 +1795,8 @@
     "JS_CHAT_PARTICIPANT_EXISTS": "Ovaj korisnik već sudjeluje u chat sobi",
     "JS_CHAT_PARTICIPANT_INVITED": "Ovaj je korisnik već pozvan u sobu za chat",
     "JS_CHAT_PARTICIPANT_NAME_EMPTY": "Korisničko ime ne može biti prazno",
+    "JS_CHAT_PARTICIPANT_UNPIN": "Unpin the participant from the room",
+    "JS_CHAT_PARTICIPANT_ADMIN": "Admin user",
     "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Pretražite zapise odabranog modula",
     "JS_CHAT_HIDE_ADD_PANEL": "Sakrij ploču za dodavanje",
     "JS_CHAT_ROOM_ARCHIVE_MESSAGE": "Poruke iz arhiviranih soba vidljive su samo u povijesti korisničkih chatova. Jeste li sigurni da želite arhivirati sobu za chat \"${roomToArchive}\"?",

@@ -1795,6 +1795,8 @@
     "JS_CHAT_PARTICIPANT_EXISTS": "Cet utilisateur participe déjà à ce salon de discussion",
     "JS_CHAT_PARTICIPANT_INVITED": "Cet utilisateur a déjà été invité sur le salon de discussion",
     "JS_CHAT_PARTICIPANT_NAME_EMPTY": "Le nom de l'utilisateur doit être renseigné",
+    "JS_CHAT_PARTICIPANT_UNPIN": "Unpin the participant from the room",
+    "JS_CHAT_PARTICIPANT_ADMIN": "Admin user",
     "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Search records of the selected module",
     "JS_CHAT_HIDE_ADD_PANEL": "Masquer le panneau d'ajout",
     "JS_CHAT_ROOM_ARCHIVE_MESSAGE": "Les messages des salles archivées ne sont visibles que dans l'historique des chats utilisateurs. Êtes-vous sûr de vouloir archiver le salon de discussion \"${roomToArchive}\" ?",

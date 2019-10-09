@@ -1795,6 +1795,8 @@
     "JS_CHAT_PARTICIPANT_EXISTS": "此用户已经在这个聊天室",
     "JS_CHAT_PARTICIPANT_INVITED": "此用户已被邀请到聊天室",
     "JS_CHAT_PARTICIPANT_NAME_EMPTY": "用户名不能为空",
+    "JS_CHAT_PARTICIPANT_UNPIN": "从聊天室取消参与者",
+    "JS_CHAT_PARTICIPANT_ADMIN": "管理员",
     "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "搜索所选模块的记录",
     "JS_CHAT_HIDE_ADD_PANEL": "隐藏面板",
     "JS_CHAT_ROOM_ARCHIVE_MESSAGE": "存档后的聊天记录仅在用户聊天历史记录中可见。是否确实要将\"${roomtoArchive}\"存档？",

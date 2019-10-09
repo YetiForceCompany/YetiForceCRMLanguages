@@ -51,6 +51,6 @@
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "没有将电子邮件地址添加到公司详细信息中。如果您想要接收新闻稿, 请填写所需的数据。",
     "LBL_COMPANY_DATA": "转到公司详细信息",
     "LBL_UPDATER": "系统更新",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_UPDATER_DESC": "您的系统版本可以更新。我们建议更新。"
   }
 }

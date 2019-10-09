@@ -1795,6 +1795,8 @@
     "JS_CHAT_PARTICIPANT_EXISTS": "Этот пользователь уже участвует в чате",
     "JS_CHAT_PARTICIPANT_INVITED": "Этот пользователь уже был приглашен в чат-комнату",
     "JS_CHAT_PARTICIPANT_NAME_EMPTY": "Имя пользователя не может быть пустым",
+    "JS_CHAT_PARTICIPANT_UNPIN": "Unpin the participant from the room",
+    "JS_CHAT_PARTICIPANT_ADMIN": "Admin user",
     "JS_CHAT_SEARCH_RECORDS_OF_THE_SELECTED_MODULE": "Search records of the selected module",
     "JS_CHAT_HIDE_ADD_PANEL": "Скрыть панель добавления",
     "JS_CHAT_ROOM_ARCHIVE_MESSAGE": "Сообщения из архивных комнат видны только в истории чата пользователя. Вы уверены, что хотите архивировать \"${roomToArchive}\" чат комнату?",
