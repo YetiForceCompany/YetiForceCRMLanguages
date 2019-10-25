@@ -187,7 +187,7 @@
     "LBL_VIEW_CALENDAREXTENDED": "图形日历",
     "LBL_REMAIND_HOURS": "在选定的小时数后提醒",
     "LBL_REMAIND_MINS": "在选定的分钟数之后提醒",
-    "LBL_WORK_DAYS": "工作天数",
+    "LBL_WORK_DAYS": "工作日",
     "LBL_EDIT_FROM_CALENDAR": "从日历编辑",
     "FL_SUBPROCESS_SECOND_LEVEL": "二级子流程",
     "LBL_GROUP_NAME": "用户组名称"

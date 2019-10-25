@@ -17,13 +17,13 @@
     "PLL_TRANSFER": "Transfer",
     "PLL_ENTRUSTMENT_ACCEPTANCE": "Entrustment acceptance",
     "PLL_INTERNAL": "Internal",
-    "FL_START_DATE": "Start date",
-    "FL_END_DATE": "End date",
+    "FL_START_DATE": "Startdatum",
+    "FL_END_DATE": "Einddatum",
     "LBL_DATES": "Activity dates",
-    "LBL_DESCRIPTION": "Description",
+    "LBL_DESCRIPTION": "Beschrijving",
     "FL_DESCRIPTION": "Description",
     "FL_COMMENTS": "Comments",
-    "LBL_COMMENTS": "Comments",
+    "LBL_COMMENTS": "Opmerkingen",
     "FL_ACTIVITY_TYPE": "Activity type"
   }
 }

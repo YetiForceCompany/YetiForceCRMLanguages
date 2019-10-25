@@ -16,7 +16,7 @@
     "LBL_START_TIME": "呼叫已开始",
     "LBL_END_TIME": "呼叫结束",
     "LBL_COUNTRY_CODE": "国家/地区代码",
-    "LBL_IMEI": "IMEI",
+    "LBL_IMEI": "国际移动设备识别码(IMEI)",
     "LBL_IPADDRESS": "编号地址",
     "LBL_SIMSERIAL": "SIM卡号码",
     "LBL_SUBSCRIBERID": "订阅数",

@@ -1,9 +1,9 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA政策",
-    "LBL_NAME": "政策名称",
-    "LBL_EDIT": "编辑SLA 政策",
-    "LBL_CREATE": "新建 SLA 政策",
+    "LBL_SLA_POLICY": "SLA安全策略",
+    "LBL_NAME": "安全策略名称",
+    "LBL_EDIT": "编辑SLA 安全策略",
+    "LBL_CREATE": "新建 SLA 安全策略",
     "LBL_SOURCE_MODULE": "模块"
   },
   "js": {

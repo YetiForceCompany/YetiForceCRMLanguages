@@ -87,11 +87,11 @@
     "PLL_UFCIITS": "Beleggingsfonds",
     "LBL_DEACTIVATED_BY": "Organisatie gedeactiveerd door ",
     "SINGLE_Vendors": "Leverancier",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
+    "FL_CHECK_STOCK_LEVELS": "Controleer voorraad niveaus",
     "FL_PRICEBOOK": "Pricebook",
-    "FL_SUM_ORDERS": "Sum of open sales orders",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_SUM_ORDERS": "Waarde openstaande verkoop orders",
+    "FL_TAXES": "Btw",
+    "FL_AVAILABLE_TAXES": "Beschikbare Btw"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Organisatienaam bestaat al. Wilt u een dubbele record aanmaken?",

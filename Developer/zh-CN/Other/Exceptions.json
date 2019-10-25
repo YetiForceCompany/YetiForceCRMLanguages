@@ -42,6 +42,8 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "分析服务器响应时出错",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "连接到远程服务器时出错",
     "ERR_NO_INTERNET_CONNECTION": "无互联网连接",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "该对象必须具有接口 %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "该对象必须具有接口 %s",
+    "ERR_CLASS_NOT_FOUND": "Class %s not found",
+    "ERR_CLASS_MUST_BE": "Class must be %s"
   }
 }

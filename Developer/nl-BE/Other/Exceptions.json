@@ -3,8 +3,8 @@
     "ERR_ILLEGAL_VALUE": "Ongeldige waarde",
     "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
-    "ERR_ILLEGAL_FIELD_VALUE": "Illegal value has been entered for this field type. Field name: %s, Module: %s, Value: %s",
-    "ERR_VALUE_IS_TOO_LONG": "Character limit exceeded. Field name: %s, Module: %s, Value: %s",
+    "ERR_ILLEGAL_FIELD_VALUE": "Illegale waarde is opgegeven voor dit veld type. Naam veld: %s, Module: %s, Waarde: %s",
+    "ERR_VALUE_IS_TOO_LONG": "Limiet overschreden. Naam veld: %s, Module: %s, Waarde: %s",
     "ERR_TO_MANY_FILES": "Too many files transferred - limit was exceeded. Field name: %s, Module: %s, Value: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "The field value must be greater than zero. Field name: %s, Module: %s, Value: %s",
     "ERR_NOT_ALLOWED_VALUE": "Onjuiste waarde aangetroffen, neem contact op met uw beheerder",
@@ -42,6 +42,8 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Fout bij het parseren van de serverrereacties",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Fout tijdens het verbinden met externe server",
     "ERR_NO_INTERNET_CONNECTION": "Geen internetverbinding",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s",
+    "ERR_CLASS_NOT_FOUND": "Class %s not found",
+    "ERR_CLASS_MUST_BE": "Class must be %s"
   }
 }

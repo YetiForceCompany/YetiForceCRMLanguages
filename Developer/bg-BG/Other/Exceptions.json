@@ -42,6 +42,8 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Грешка при анализа на отговорите на сървъра",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Грешка при свързване към отдалечен сървър",
     "ERR_NO_INTERNET_CONNECTION": "Няма интернет връзка",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "Обектът трябва да има интерфейс %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "Обектът трябва да има интерфейс %s",
+    "ERR_CLASS_NOT_FOUND": "Class %s not found",
+    "ERR_CLASS_MUST_BE": "Class must be %s"
   }
 }
