@@ -23,7 +23,9 @@
     "PLL_INACTIVE": "Ανενεργή",
     "LBL_CREATE_RECORD": "Δημιουργία",
     "Mail": "Mail",
-    "FL_STORAGE": "Αποθηκευτικός χώρος"
+    "FL_STORAGE": "Αποθηκευτικός χώρος",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Manage consents"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;",

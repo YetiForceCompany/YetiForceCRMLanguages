@@ -1,11 +1,11 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
+    "LBL_BUSINESS_HOURS": "Heures d'ouverture",
     "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
+    "LBL_WORKING_HOURS_FROM": "De",
+    "LBL_WORKING_HOURS_TO": "A",
+    "LBL_WORKING_DAYS": "Jours ouvrables",
+    "LBL_WORKING_HOURS": "Horaire de travail",
     "LBL_DEFAULT": "Default",
     "LBL_NAME": "Name",
     "LBL_HOLIDAYS": "Holidays",

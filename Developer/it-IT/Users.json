@@ -363,11 +363,17 @@
     "PLL_PASSWORD_2FA": "Password + 2FA",
     "BTN_MASS_OFF_2FA": "Disabilitazione massiva 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In modalità demo, 2FA è solo per l'anteprima.",
-    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.\nBelow are some links to the most popular applications",
+    "LBL_2FA_TOTP_DESC": "Per generare codici di uso singolo è necessaria l'applicazione appropriata.\nPuò essere utilizzata su un computer o su un telefono.\nDi seguito sono alcuni link alle applicazioni più popolari",
     "FL_DEFAULT_SEARCH_MODULE": "Modulo predefinito",
     "FL_OVERRIDE_SEARCH_MODULE": "Forza la selezione predefinita",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Impostazioni di ricerca avanzata",
-    "FL_PRIMARY_PHONE": "Telefono principale"
+    "FL_PRIMARY_PHONE": "Telefono principale",
+    "LBL_USER_MAIL": " Email",
+    "LBL_USER_GUI": "Layout",
+    "LBL_USER_INTEGRATION": "Integrazione",
+    "LBL_USER_AUTOMATION": "Automazione",
+    "FL_MAIL_SCANNER_ACTIONS": "Azioni scanner email",
+    "FL_MAIL_SCANNER_FIELDS": "Campi email da analizzare"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separatore decimale e separatore di raggruppamento non possono essere gli stessi.",

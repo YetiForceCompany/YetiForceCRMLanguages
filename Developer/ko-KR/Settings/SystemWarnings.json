@@ -50,7 +50,8 @@
     "LBL_REGISTRATION": "Registration",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
     "LBL_COMPANY_DATA": "Go to company details",
-    "LBL_UPDATER": "System updater",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_SYSTEM_UPDATER": "시스템 업데이트한 사람",
+    "LBL_LANGUAGES_UPDATER": "언어 업데이트한 사람",
+    "LBL_UPDATER_DESC": "업데이트가 있습니다. 업데이트할 것을 권장합니다."
   }
 }

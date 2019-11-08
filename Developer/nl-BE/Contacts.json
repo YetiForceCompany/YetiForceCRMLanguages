@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Verjaardagen van contacten",
     "LBL_SWITCH_ON_DECISION_MAKER": "Beleidsmaker",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Alle",
-    "LBL_SHOW_HIERARCHY": "Contact hiërarchie"
+    "LBL_SHOW_HIERARCHY": "Contact hiërarchie",
+    "FL_APPROVALS": "Goedkeuringen"
   },
   "js": {}
 }

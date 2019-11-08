@@ -367,7 +367,13 @@
     "FL_DEFAULT_SEARCH_MODULE": "默认模块",
     "FL_OVERRIDE_SEARCH_MODULE": "强制默认选择",
     "LBL_GLOBAL_SEARCH_SETTINGS": "全局搜索设置",
-    "FL_PRIMARY_PHONE": "主电话"
+    "FL_PRIMARY_PHONE": "主电话",
+    "LBL_USER_MAIL": " 邮件",
+    "LBL_USER_GUI": "布局",
+    "LBL_USER_INTEGRATION": "集成",
+    "LBL_USER_AUTOMATION": "自动操作",
+    "FL_MAIL_SCANNER_ACTIONS": "邮件扫描操作",
+    "FL_MAIL_SCANNER_FIELDS": "邮件扫描字段"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "小数点和分组分隔符不能相同.",

@@ -367,7 +367,13 @@
     "FL_DEFAULT_SEARCH_MODULE": "Privzeti modul",
     "FL_OVERRIDE_SEARCH_MODULE": "Obvezen vnos standarda",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Globalne nastavitve iskanja",
-    "FL_PRIMARY_PHONE": "Telefonska št"
+    "FL_PRIMARY_PHONE": "Telefonska št",
+    "LBL_USER_MAIL": " Mail",
+    "LBL_USER_GUI": "Layout",
+    "LBL_USER_INTEGRATION": "Integration",
+    "LBL_USER_AUTOMATION": "Automation",
+    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
+    "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalno ločilo in ločilo za združevanje ne smeta biti enaki.",

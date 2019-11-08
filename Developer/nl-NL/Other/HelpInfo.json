@@ -1,17 +1,17 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
-    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
-    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "Announcements|FL_INTERVAL": "Frequentie van herinneringen in dagen, als een gebruiker de wijzigingen niet heeft beoordeeld. Als het veld leeg blijft, wordt de herinnering niet meer getoond.",
+    "Accounts|Account Name": "Dit veld is bedoeld voor de naam van het bedrijf",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Het standaard land gebruikt bij het synchroniseren van het CardDAV telefoonveld. Als de telefoon geen nationaal nummer heeft, zal dit veld gebruikt worden",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Stel altijd geselecteerde element in als standaard module in de globale zoekmachine.",
+    "FL_RESPONSE_RANGE_TIME": "Het aantal minuten dat vóór de reactie is verstreken, berekend op basis van de SLA en werkdagen/uren",
+    "FL_SOLUTION_RANGE_TIME": "Het aantal minuten dat is verstreken om een bepaald record op te lossen, berekend op verschillende statussen afhankelijk van de configuratie en gebaseerd op de SLA en werkdagen/uren",
+    "FL_IDLE_RANGE_TIME": "Het aantal minuten dat een record inactief is, bv. bij het wachten op extra informatie, wordt deze berekend op basis van de SLA en werkdagen/uren",
+    "FL_CLOSING_RANGE_TIME": "Het aantal minuten dat is verstreken tussen het maken van een record en het laatste sluiten van een record, wordt berekend gebaseerd op de SLA en werkdagen/uren",
+    "FL_RESPONSE_DATE_TIME": "Reactie start datum en tijd.",
+    "FL_SOLUTION_DATE_TIME": "Einddatum en tijd oplossen.",
+    "FL_IDLE_DATE_TIME": "Idle einddatum en tijd.",
+    "FL_RESPONSE_EXPECTED": "Gepland / verwachte datum totdat de reactie in de notulen wordt uitgevoerd, deze berekend is op basis van de SLA en werkdagen/uur.",
+    "FL_IDLE_DATE_EXPECTED": "Datum ingepland / verwacht totdat inactieve tijd is toegestaan, deze berekend wordt op basis van de SLA en werkdagen/uren."
   }
 }

@@ -23,7 +23,9 @@
     "PLL_INACTIVE": "Inactiv",
     "LBL_CREATE_RECORD": "Creaza",
     "Mail": "Mail",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Storage",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Manage consents"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sigur doriti sa stergeti aceasta cheie?",

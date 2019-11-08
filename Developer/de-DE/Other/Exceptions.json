@@ -43,7 +43,7 @@
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Fehler bei der Verbindung zum Remote-Server",
     "ERR_NO_INTERNET_CONNECTION": "Keine Internetverbindung",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Das Objekt muss eine Schnittstelle %s haben",
-    "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s"
+    "ERR_CLASS_NOT_FOUND": "Klasse %s nicht gefunden",
+    "ERR_CLASS_MUST_BE": "Klasse muss %s sein"
   }
 }

@@ -23,7 +23,9 @@
     "PLL_INACTIVE": "Inattivo",
     "LBL_CREATE_RECORD": "Aggiungi record",
     "Mail": "Mail",
-    "FL_STORAGE": "Magazzino"
+    "FL_STORAGE": "Magazzino",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Gestire i consensi"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare le credenziali?",

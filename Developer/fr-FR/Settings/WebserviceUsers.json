@@ -23,7 +23,9 @@
     "PLL_INACTIVE": "Inactif",
     "LBL_CREATE_RECORD": "Créer",
     "Mail": "Mail",
-    "FL_STORAGE": "Stockage"
+    "FL_STORAGE": "Stockage",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Manage consents"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Voulez-vous vraiment supprimer la clé ?",

@@ -43,7 +43,7 @@
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Pogreška prilikom povezivanja s udaljenim serverom",
     "ERR_NO_INTERNET_CONNECTION": "Nema internetske veze",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Objekt mora imati sučelje %s",
-    "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s"
+    "ERR_CLASS_NOT_FOUND": "Klasa %s nije pronađena",
+    "ERR_CLASS_MUST_BE": "Klasa mora biti %s"
   }
 }

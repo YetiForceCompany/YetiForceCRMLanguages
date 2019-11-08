@@ -22,8 +22,10 @@
     "PLL_ACTIVE": "启用",
     "PLL_INACTIVE": "禁用",
     "LBL_CREATE_RECORD": "创建",
-    "Mail": "Mail",
-    "FL_STORAGE": "仓库"
+    "Mail": "邮件",
+    "FL_STORAGE": "仓库",
+    "FL_TOKEN": "令牌",
+    "ManageConsents": "管理同意"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "您确定要删除密钥？?",

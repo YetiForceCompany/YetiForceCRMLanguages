@@ -380,7 +380,10 @@
     "LBL_BUSINESS_HOURS": "Godziny pracy",
     "LBL_SEARCH_PLACEHOLDER": "Wyszukaj...",
     "LBL_VULNERABILITIES": "Podatności",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Lista podatności bibliotek"
+    "LBL_VULNERABILITIES_DESCRIPTION": "Lista podatności bibliotek",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Konfiguracja sekwencji listy wyboru",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Konfiguracja sekwencji listy wyboru",
+    "LBL_PREFIX": "Prefiks"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

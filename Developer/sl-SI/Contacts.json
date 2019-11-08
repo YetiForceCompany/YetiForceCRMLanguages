@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Rojstni dnevi kontaktov",
     "LBL_SWITCH_ON_DECISION_MAKER": "Odloča",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Vsi",
-    "LBL_SHOW_HIERARCHY": "Struktura kontaktov"
+    "LBL_SHOW_HIERARCHY": "Struktura kontaktov",
+    "FL_APPROVALS": "Approvals"
   },
   "js": {}
 }

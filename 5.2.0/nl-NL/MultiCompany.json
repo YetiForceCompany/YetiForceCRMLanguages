@@ -21,9 +21,9 @@
     "FL_COMPANY_ID2": "NCR",
     "FL_INTERNAL_NOTES": "Internal notes",
     "FL_PUBLIC_NOTES": "Public notes",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "PLL_ACTIVE": "Aktief",
+    "PLL_INACTIVE": "Inactief",
+    "LBL_SHOW_HIERARCHY": "Hiërarchie",
     "FL_WEBSITE": "Website",
     "FL_LOGO": "Logo"
   }

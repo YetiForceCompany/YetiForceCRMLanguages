@@ -11,7 +11,7 @@
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Ce mot de passe a déjà été utilisé. Le système ne permet pas d'utiliser le même mot de passe pour des raisons de sécurité.",
     "ERR_USER_EXISTS": "L'utilisateur avec le même nom d'utilisateur et le même rôle existe déjà (%s)",
     "ERR_NOT_ACCESSIBLE": "Accés refusé",
-    "ERR_DUPLICATE_LOGIN": "The specified login already exists.",
+    "ERR_DUPLICATE_LOGIN": "Le même nom d'utilisateur existe déjà.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Vous n’avez pas les autorisations requises pour afficher/modifier cet enregistrement. Contactez l’administrateur si vous voulez la permission de l’afficher.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Le contenu de la variable (%s) ne peut pas être déclenché comme fonction",
     "ERR_DUPLICATES_VALUES_FOUND": "Valeurs dupliquées %s trouvés",
@@ -28,8 +28,8 @@
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Aucune permission pour créer des répertoires",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Le répertoire ne peut pas être supprimé",
     "ERR_AUTO_LOGOUT": "Déconnecté automatiquement en raison d'inactivité",
-    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
-    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
+    "ERR_FIELD_NOT_FOUND": "Le champ n'a pas été trouvé (%s)",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Plusieurs arguments ne sont pas admis (%d %s dans %s)",
     "ERR_NO_VALUE": "Aucune valeur",
     "ERR_BODY_IS_EMPTY": "Le corps est vide",
     "ERR_API": "Erreur dans l'API",
@@ -42,6 +42,6 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Erreur lors de l'analyse des réponses du serveur",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Erreur lors de la connexion au serveur distant",
     "ERR_NO_INTERNET_CONNECTION": "Pas de connexion Internet",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "L'objet doit avoir une interface %s"
   }
 }

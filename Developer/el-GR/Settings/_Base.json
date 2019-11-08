@@ -380,7 +380,10 @@
     "LBL_BUSINESS_HOURS": "Εργάσιμες ώρες",
     "LBL_SEARCH_PLACEHOLDER": "Αναζήτηση...",
     "LBL_VULNERABILITIES": "Τρωτά σημεία",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Λίστα τρωτών σημείων"
+    "LBL_VULNERABILITIES_DESCRIPTION": "Λίστα τρωτών σημείων",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
+    "LBL_PREFIX": "Prefix"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

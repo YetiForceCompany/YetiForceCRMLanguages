@@ -2,14 +2,14 @@
   "php": {
     "Ideas": "Ideas",
     "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
+    "LBL_IDEAS_INFORMATION": "Basisinformatie",
+    "LBL_SUBJECT": "Onderwerp",
     "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Description": "Basisbeschrijving",
+    "LBL_EXTENT_DESCRIPTION": "Gedetailleerde beschrijving",
+    "Attention": "Opmerkingen",
+    "LBL_NO": "Nummer",
+    "Draft": "Concept",
+    "Proposition": "Voorstel"
   }
 }

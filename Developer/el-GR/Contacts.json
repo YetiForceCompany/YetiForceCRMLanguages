@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Γενέθλια επαφών",
     "LBL_SWITCH_ON_DECISION_MAKER": "Υπεύθυνος λήψης αποφάσεων",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Όλες",
-    "LBL_SHOW_HIERARCHY": "Ιεραρχία"
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία",
+    "FL_APPROVALS": "Approvals"
   },
   "js": {}
 }

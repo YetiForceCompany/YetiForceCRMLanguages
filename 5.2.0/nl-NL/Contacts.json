@@ -14,7 +14,7 @@
     "Office Phone": "Telefoon kantoor",
     "Portal User": "Portaal gebruiker",
     "Reference": "Referentie",
-    "Reports To": "Parent Contact",
+    "Reports To": "Bovenliggend contact",
     "Secondary Email": "Tweede Email",
     "SINGLE_Contacts": "Contact",
     "Support End Date": "Support eind datum",
@@ -37,14 +37,14 @@
     "Approval for email": "Toestemming om emails te sturen",
     "Do Not Call": "Niet bellen",
     "LBL_LANGUAGE_NOTIFICATIONS": "Taal voor berichten",
-    "SINGLE_Leads": "Lead",
+    "SINGLE_Leads": "Potentiële klant",
     "SINGLE_Vendors": "Verkoper",
     "Decision maker": "Beleidsmaker",
     "End of support for contact": "Einde van het support contract",
     "Birthdays of contacts": "Verjaardag van de contacten",
-    "LBL_SWITCH_ON_DECISION_MAKER": "Decision maker",
-    "LBL_SWITCH_OFF_DECISION_MAKER": "All",
-    "LBL_SHOW_HIERARCHY": "Contact hierarchy"
+    "LBL_SWITCH_ON_DECISION_MAKER": "Beslisser",
+    "LBL_SWITCH_OFF_DECISION_MAKER": "Alles",
+    "LBL_SHOW_HIERARCHY": "Contact Hiërarchie"
   },
   "js": {}
 }

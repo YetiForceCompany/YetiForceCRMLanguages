@@ -380,7 +380,10 @@
     "LBL_BUSINESS_HOURS": "Работно време",
     "LBL_SEARCH_PLACEHOLDER": "Търси...",
     "LBL_VULNERABILITIES": "Уязвимости",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Списък на уязвимостите на библиотеките"
+    "LBL_VULNERABILITIES_DESCRIPTION": "Списък на уязвимостите на библиотеките",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
+    "LBL_PREFIX": "Prefix"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Authorization successful",

@@ -44,7 +44,8 @@
     "Birthdays of contacts": "День рождения",
     "LBL_SWITCH_ON_DECISION_MAKER": "Включить принятие решений",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Отключить принятие решений",
-    "LBL_SHOW_HIERARCHY": "Иерархия контактов"
+    "LBL_SHOW_HIERARCHY": "Иерархия контактов",
+    "FL_APPROVALS": "Approvals"
   },
   "js": {}
 }

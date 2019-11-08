@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Urodziny kontaktów",
     "LBL_SWITCH_ON_DECISION_MAKER": "Decyzyjna",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Wszystkie",
-    "LBL_SHOW_HIERARCHY": "Hierarchia kontaktu"
+    "LBL_SHOW_HIERARCHY": "Hierarchia kontaktu",
+    "FL_APPROVALS": "Zgody"
   },
   "js": {}
 }

@@ -3,8 +3,8 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 5,
-        "time": "2019-09-25 07:42:12"
+        "progress": 31,
+        "time": "2019-11-08 09:01:09"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -38,8 +38,8 @@
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 99,
-        "time": "2019-09-25 07:46:28"
+        "progress": 100,
+        "time": "2019-11-08 09:06:29"
     },
     "el-GR": {
         "prefix": "el-GR",
@@ -66,15 +66,22 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 82,
-        "time": "2019-09-25 07:46:03"
+        "progress": 83,
+        "time": "2019-11-08 09:05:57"
     },
     "hr-HR": {
         "prefix": "hr-HR",
         "crowdinCode": "hr",
         "name": "Croatian",
         "progress": 100,
-        "time": "2019-10-03 07:40:58"
+        "time": "2019-11-08 09:03:34"
+    },
+    "hu-HU": {
+        "prefix": "hu-HU",
+        "crowdinCode": "hu",
+        "name": "Hungarian",
+        "progress": 6,
+        "time": "2019-11-08 09:07:30"
     },
     "id-ID": {
         "prefix": "id-ID",
@@ -87,8 +94,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 99,
-        "time": "2019-10-03 07:45:20"
+        "progress": 100,
+        "time": "2019-11-08 09:08:30"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -102,14 +109,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 17,
-        "time": "2019-10-25 08:13:24"
+        "time": "2019-11-08 09:05:27"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
-        "progress": 22,
-        "time": "2019-10-25 08:12:54"
+        "progress": 41,
+        "time": "2019-11-08 09:05:00"
     },
     "pl-PL": {
         "prefix": "pl-PL",
@@ -179,7 +186,7 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 98,
-        "time": "2019-10-25 08:10:29"
+        "time": "2019-11-08 09:02:36"
     },
     "zh-TW": {
         "prefix": "zh-TW",

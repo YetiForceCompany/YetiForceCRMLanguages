@@ -1,17 +1,17 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
-    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
-    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "Announcements|FL_INTERVAL": "تردد تذكير في أيام إذا كان المستخدم لم استعراض التغييرات. إذا كان الحقل لا تزال فارغة تذكير لن يتم عرضها مرة أخرى.",
+    "Accounts|Account Name": "هذا المجال هو المقصود من اسم الشركة",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "الافتراضي البلد استخدامها عند مزامنة CardDAV مجال الهاتف. إذا كان الهاتف بدون الرقم الوطني هذا الحقل سيتم استخدامها",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "دائما مجموعة مختارة عنصر وحدة الافتراضي في محركات البحث العالمية.",
+    "FL_RESPONSE_RANGE_TIME": "عدد الدقائق التي انقضت قبل رد الفعل ، وتحسب على أساس السودان أيام عمل/ساعة",
+    "FL_SOLUTION_RANGE_TIME": "عدد الدقائق التي مضت لحل معين سجل محسوبة على حالات مختلفة اعتمادا على تكوين وبناء على السودان أيام عمل/ساعة",
+    "FL_IDLE_RANGE_TIME": "عدد الدقائق التي تعطى سجل ظلت خاملة ، مثلا عند الانتظار للحصول على معلومات إضافية ، يتم احتسابها على أساس السودان أيام عمل/ساعة",
+    "FL_CLOSING_RANGE_TIME": "عدد الدقائق التي انقضت قبل رد الفعل ، وتحسب على أساس السودان أيام عمل/ساعة",
+    "FL_RESPONSE_DATE_TIME": "حدد تاريخ البدء والوقت",
+    "FL_SOLUTION_DATE_TIME": "حدد تاريخ الانتهاء والوقت",
+    "FL_IDLE_DATE_TIME": "حدد تاريخ الانتهاء والوقت",
+    "FL_RESPONSE_EXPECTED": "المقرر/التاريخ المتوقع حتى عندما يكون رد الفعل على السجل التي يتم حسابها على أساس السودان أيام عمل/ساعة.",
+    "FL_IDLE_DATE_EXPECTED": "المقرر/التاريخ المتوقع حتى عندما يكون رد الفعل على السجل التي يتم حسابها على أساس السودان أيام عمل/ساعة."
   }
 }

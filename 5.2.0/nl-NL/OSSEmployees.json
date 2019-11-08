@@ -1,11 +1,11 @@
 {
   "php": {
-    "OSSEmployees": "Employees",
-    "SINGLE_OSSEmployees": "Employee",
-    "LBL_INFORMATION": "Employee details",
-    "LBL_CONTACTS": "Contact details",
-    "LBL_PERMANENT_ADDRESS": "Address of permanent residence",
-    "LBL_CORRESPONDANCE_ADDRESS": "Forwarding address",
+    "OSSEmployees": "Werknemers",
+    "SINGLE_OSSEmployees": "Werknemer",
+    "LBL_INFORMATION": "Medewerker details",
+    "LBL_CONTACTS": "Contactgegevens",
+    "LBL_PERMANENT_ADDRESS": "Woon adres",
+    "LBL_CORRESPONDANCE_ADDRESS": "Doorstuur adres",
     "No.": "Number",
     "Assigned To": "Assigned To",
     "LBL_EMPLOYEESTATUS": "Status",

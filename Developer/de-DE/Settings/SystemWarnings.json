@@ -50,7 +50,8 @@
     "LBL_REGISTRATION": "Registrierung",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Es wurde keine E-Mail-Adresse zu den Firmendaten hinzugefügt. Füllen Sie die erforderlichen Daten aus, wenn Sie einen Newsletter erhalten möchten.",
     "LBL_COMPANY_DATA": "Unternehmensangaben bearbeiten",
-    "LBL_UPDATER": "System updater",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_SYSTEM_UPDATER": "Systemupdates",
+    "LBL_LANGUAGES_UPDATER": "Sprach-Updates",
+    "LBL_UPDATER_DESC": "Updates für Ihre Systemversion sind verfügbar. Wir empfehlen eine Aktualisierung."
   }
 }

@@ -1,17 +1,17 @@
 {
   "php": {
-    "CMileageLogbook": "Mileage log book",
-    "SINGLE_CMileageLogbook": "Mileage log book",
-    "LBL_ADDITIONAL_INFORMATION": "Additional information",
-    "LBL_BASIC_INFORMATION": "Basic information",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Notes",
-    "FL_SUBJECT": "Subject",
-    "FL_STATUS": "Status",
-    "FL_NUMBER_KILOMETERS": "Number of kilometers",
-    "PLL_DRAFT": "Draft",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_ACCEPTED": "Accepted",
-    "PLL_CANCELLED": "Cancelled"
+    "CMileageLogbook": "سجل الأميال الكتاب",
+    "SINGLE_CMileageLogbook": "سجل الأميال الكتاب",
+    "LBL_ADDITIONAL_INFORMATION": "معلومات إضافية",
+    "LBL_BASIC_INFORMATION": "معلومات أساسية",
+    "LBL_DESCRIPTION_BLOCK": "الوصف",
+    "LBL_ATTENTION_BLOCK": "الملاحظات",
+    "FL_SUBJECT": "الموضوع",
+    "FL_STATUS": "الحالة",
+    "FL_NUMBER_KILOMETERS": "عدد الكيلومترات",
+    "PLL_DRAFT": "مسودة",
+    "PLL_FOR_APPROVAL": "للموافقة عليها",
+    "PLL_ACCEPTED": "مقبول",
+    "PLL_CANCELLED": "ملغى"
   }
 }

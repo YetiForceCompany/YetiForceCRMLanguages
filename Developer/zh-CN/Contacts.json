@@ -44,7 +44,8 @@
     "Birthdays of contacts": "联系人的生日",
     "LBL_SWITCH_ON_DECISION_MAKER": "是否为决策者",
     "LBL_SWITCH_OFF_DECISION_MAKER": "全部",
-    "LBL_SHOW_HIERARCHY": "联系人层次结构"
+    "LBL_SHOW_HIERARCHY": "联系人层次结构",
+    "FL_APPROVALS": "核准"
   },
   "js": {}
 }

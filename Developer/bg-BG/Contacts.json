@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Рождени Дни на контакти",
     "LBL_SWITCH_ON_DECISION_MAKER": "Отговорният за взимането на решения",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Всички",
-    "LBL_SHOW_HIERARCHY": "Йерархия на контактите"
+    "LBL_SHOW_HIERARCHY": "Йерархия на контактите",
+    "FL_APPROVALS": "Approvals"
   },
   "js": {}
 }

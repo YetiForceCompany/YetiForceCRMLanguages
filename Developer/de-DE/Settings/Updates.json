@@ -11,11 +11,11 @@
     "LBL_UPDATES": "Aktualisierungen",
     "LBL_UPDATES_DESCRIPTION": "Updates Historie",
     "LBL_IMPORT_UPDATE": "Update hochladen",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_INSTALL_PACKAGE": "Paket Installieren",
+    "LBL_DOWNLOAD_PACKAGE": "Pakete herunterladen",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Verfügbare Upgrade-Pakete",
+    "LBL_INSTALLED_PACKAGES": "Installierte Pakete",
+    "LBL_PACKAGE_VERSION": "Paketversion",
+    "LBL_NAME_PACKAGES": "Paketname"
   }
 }

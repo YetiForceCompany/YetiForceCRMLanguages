@@ -22,8 +22,10 @@
     "PLL_ACTIVE": "Aktiv",
     "PLL_INACTIVE": "Inaktiv",
     "LBL_CREATE_RECORD": "Erzeugen",
-    "Mail": "Mail",
-    "FL_STORAGE": "Speicher"
+    "Mail": "E-Mail",
+    "FL_STORAGE": "Speicher",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Manage consents"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sind Sie sicher diesen Schlüssel zu löschen?",

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ApprovalsRegister": "Rejestr zgód",
+    "SINGLE_ApprovalsRegister": "Rejestr zgód",
+    "LBL_CUSTOM_INFORMATION": "Uwagi",
+    "LBL_BASIC_INFORMATION": "Opis",
+    "LBL_DESCRIPTION_INFORMATION": "Szczegóły",
+    "FL_SUBJECT": "Tytuł",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Opis",
+    "FL_CONTACT": "Kontakt",
+    "FL_APPROVAL": "Zgoda",
+    "FL_TYPE": "Rodzaj",
+    "FL_STATUS": "Status",
+    "FL_REGISTRATION_DATE": "Data rejestracji",
+    "PLL_FOR_VERIFICATION": "Do weryfikacji",
+    "PLL_ACCEPTED": "Zaakceptowano",
+    "PLL_REJECTED": "Odrzucono",
+    "PLL_ACCEPTANCE": "Akceptacja",
+    "PLL_RESIGNATION": "Rezygnacja"
+  }
+}

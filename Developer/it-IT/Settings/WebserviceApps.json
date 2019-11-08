@@ -12,7 +12,8 @@
     "LBL_TITLE_ADDED": "Aggiungi",
     "LBL_TITLE_EDIT": "Modifica",
     "Portal": "Amministrazione Portale",
-    "Payments": "Pagamenti"
+    "Payments": "Pagamenti",
+    "ManageConsents": "Gestire i consensi"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la chiave di accesso?"

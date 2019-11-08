@@ -380,7 +380,10 @@
     "LBL_BUSINESS_HOURS": "Geschäftszeiten",
     "LBL_SEARCH_PLACEHOLDER": "Suchen...",
     "LBL_VULNERABILITIES": "Schwachstellen",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Liste der Bibliotheken Sicherheitslücken"
+    "LBL_VULNERABILITIES_DESCRIPTION": "Liste der Bibliotheken Sicherheitslücken",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklisten-Sequenz-Einstellungen",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Picklisten-Sequenz-Einstellungen",
+    "LBL_PREFIX": "Präfix"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Zugriff erfolgreich",

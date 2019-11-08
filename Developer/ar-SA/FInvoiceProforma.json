@@ -1,20 +1,20 @@
 {
   "php": {
-    "FInvoiceProforma": "Proforma invoices",
-    "SINGLE_FInvoiceProforma": "Proforma invoice",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
-    "FL_SUBJECT": "Subject",
-    "FL_PAYMENT_DATE": "Due date",
-    "FL_SALE_DATE": "Sale date",
-    "FL_ACCOUNT": "Account",
-    "FL_FORM_PAYMENT": "Payment method",
-    "FL_STATUS": "Status",
-    "FL_NUMBER": "Invoice number",
-    "FL_TOTAL": "Net",
-    "FL_GROSS": "Gross",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "FInvoiceProforma": "الفواتير المبدءيه",
+    "SINGLE_FInvoiceProforma": "الفواتير المبدءيه",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "عنوان التوصيل",
+    "FL_SUBJECT": "الموضوع",
+    "FL_PAYMENT_DATE": "تاريخ الاستحقاق",
+    "FL_SALE_DATE": "تاريخ الابتداء",
+    "FL_ACCOUNT": "حساب",
+    "FL_FORM_PAYMENT": "طريقة الدفع",
+    "FL_STATUS": "الحالة",
+    "FL_NUMBER": "رقم الفاتورة:",
+    "FL_TOTAL": "صافى",
+    "FL_GROSS": "الإجمالي",
+    "PLL_CASH": "نقدا",
+    "PLL_TRANSFER": "التحويل المصرفي",
+    "PLL_WIRE_TRANSFER": "التحويل الالكتروني"
   }
 }

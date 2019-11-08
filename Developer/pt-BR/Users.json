@@ -367,7 +367,13 @@
     "FL_DEFAULT_SEARCH_MODULE": "Default module",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings",
-    "FL_PRIMARY_PHONE": "Telefone principal"
+    "FL_PRIMARY_PHONE": "Telefone principal",
+    "LBL_USER_MAIL": " Mail",
+    "LBL_USER_GUI": "Layout",
+    "LBL_USER_INTEGRATION": "Integration",
+    "LBL_USER_AUTOMATION": "Automation",
+    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
+    "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "O separador de casas decimais e separador de milhar não podem ser os mesmos",

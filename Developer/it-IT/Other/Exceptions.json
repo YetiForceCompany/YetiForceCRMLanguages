@@ -43,7 +43,7 @@
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Errore durante la connessione al server remoto",
     "ERR_NO_INTERNET_CONNECTION": "Nessuna connessione Internet",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "L'oggetto deve avere un'interfaccia %s",
-    "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s"
+    "ERR_CLASS_NOT_FOUND": "Classe %s non trovata",
+    "ERR_CLASS_MUST_BE": "La classe deve essere %s"
   }
 }

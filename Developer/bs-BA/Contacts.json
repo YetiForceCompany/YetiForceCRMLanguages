@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Rođendani kontakata",
     "LBL_SWITCH_ON_DECISION_MAKER": "Donositelj odluke",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Sve",
-    "LBL_SHOW_HIERARCHY": "Kontakt hijerarhija"
+    "LBL_SHOW_HIERARCHY": "Kontakt hijerarhija",
+    "FL_APPROVALS": "Approvals"
   },
   "js": {}
 }

@@ -50,7 +50,8 @@
     "LBL_REGISTRATION": "Registrazione",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Nessun indirizzo email è stato aggiunto ai dettagli della società. Inserisci i dati richiesti se vuoi ricevere una newsletter.",
     "LBL_COMPANY_DATA": "Vai alle informazioni società",
-    "LBL_UPDATER": "Aggiornamento sistema",
+    "LBL_SYSTEM_UPDATER": "Aggiornamento sistema",
+    "LBL_LANGUAGES_UPDATER": "Aggiornamenti lingue",
     "LBL_UPDATER_DESC": "Sono disponibili aggiornamenti per la versione di sistema. Ti consigliamo di aggiornare."
   }
 }

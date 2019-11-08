@@ -380,7 +380,10 @@
     "LBL_BUSINESS_HOURS": "Radno vrijeme",
     "LBL_SEARCH_PLACEHOLDER": "Traži ...",
     "LBL_VULNERABILITIES": "Ranjivosti",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Lista biblioteka ranjivosti"
+    "LBL_VULNERABILITIES_DESCRIPTION": "Lista biblioteka ranjivosti",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
+    "LBL_PREFIX": "Prefix"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",

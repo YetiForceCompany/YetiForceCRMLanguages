@@ -44,7 +44,8 @@
     "Birthdays of contacts": "Compleanno contatto",
     "LBL_SWITCH_ON_DECISION_MAKER": "Responsabile area",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Tutti",
-    "LBL_SHOW_HIERARCHY": "Gerarchia"
+    "LBL_SHOW_HIERARCHY": "Gerarchia",
+    "FL_APPROVALS": "Approvazioni"
   },
   "js": {}
 }

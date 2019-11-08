@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Updates",
+    "LBL_YES": "Yes",
+    "LBL_NO": "No",
+    "LBL_TIME": "Date",
+    "LBL_USER": "Username",
+    "LBL_FROM_VERSION": "From version",
+    "LBL_TO_VERSION": "To version",
+    "LBL_RESULT": "Status",
+    "LBL_UPDATES": "Updates",
+    "LBL_UPDATES_DESCRIPTION": "Updates history",
+    "LBL_IMPORT_UPDATE": "Upload update",
+    "LBL_INSTALL_PACKAGE": "Csomag telepítése",
+    "LBL_DOWNLOAD_PACKAGE": "Csomag letöltése...",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Rendelkezésre álló frissítési csomagok",
+    "LBL_INSTALLED_PACKAGES": "Telepített csomagok",
+    "LBL_PACKAGE_VERSION": "Csomag verziója",
+    "LBL_NAME_PACKAGES": "Csomag neve"
+  }
+}

@@ -7,12 +7,13 @@
     "LBL_ADD_APPLICATION": "添加秘钥",
     "LBL_WEBSERVICE_APPS": "网络服务-应用程序",
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "创建和管理通过 API 集成的应用程序密钥。",
-    "Mail": "Mail",
+    "Mail": "邮件",
     "LBL_PASS": "密码",
     "LBL_TITLE_ADDED": "添加",
     "LBL_TITLE_EDIT": "编辑",
     "Portal": "门户",
-    "Payments": "付款"
+    "Payments": "付款",
+    "ManageConsents": "管理同意"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "您确定您要删除秘钥吗？?"

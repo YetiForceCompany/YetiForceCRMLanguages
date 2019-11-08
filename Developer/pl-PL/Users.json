@@ -367,7 +367,13 @@
     "FL_DEFAULT_SEARCH_MODULE": "Moduł domyślny",
     "FL_OVERRIDE_SEARCH_MODULE": "Wymuś wybór domyślny",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Ustawienia wyszukiwania globalnego",
-    "FL_PRIMARY_PHONE": "Telefon podstawowy"
+    "FL_PRIMARY_PHONE": "Telefon podstawowy",
+    "LBL_USER_MAIL": "Mail",
+    "LBL_USER_GUI": "Układ graficzny",
+    "LBL_USER_INTEGRATION": "Integracja",
+    "LBL_USER_AUTOMATION": "Automatyzacja",
+    "FL_MAIL_SCANNER_ACTIONS": "Akcja skanera poczty",
+    "FL_MAIL_SCANNER_FIELDS": "Pola skanera poczty"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separator dziesiętny i grupowania nie mogą być takie same",

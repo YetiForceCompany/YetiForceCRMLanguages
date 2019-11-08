@@ -23,7 +23,9 @@
     "PLL_INACTIVE": "Неактивно",
     "LBL_CREATE_RECORD": "Создать",
     "Mail": "Mail",
-    "FL_STORAGE": "Storage"
+    "FL_STORAGE": "Storage",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Manage consents"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Вы уверены, что хотите удалить ключ?",

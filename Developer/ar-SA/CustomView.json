@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "مرشحات - التكوين",
+    "LBL_FEATURED": "إضافة إلى المفضلة",
+    "LBL_COLOR_VIEW": "عرض اللون",
+    "LBL_ADD_FIELD": "أضف حقل"
   }
 }
