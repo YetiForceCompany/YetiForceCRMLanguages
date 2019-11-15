@@ -1375,7 +1375,9 @@
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "付费功能被激活了，但在商店中未购买正确的产品。您违反了软件许可证的条款。",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "购买的产品之一已过期或需要更改版本。产品已暂时取消。",
     "LBL_YETIFORCE_SHOP": "Yetiforce 商店",
-    "LBL_USER_CURRENTLY_NOT_LOGGED": "用户当前未记录"
+    "LBL_USER_CURRENTLY_NOT_LOGGED": "用户当前未记录",
+    "LBL_CREATEDMAIL": "创建电子邮件",
+    "LBL_LINKBYFIELDS": "正在创建邮件链接"
   },
   "js": {
     "JS_APPROVE": "同意",

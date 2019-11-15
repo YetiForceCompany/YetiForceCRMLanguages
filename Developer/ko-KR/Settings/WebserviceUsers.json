@@ -22,10 +22,10 @@
     "PLL_ACTIVE": "Active",
     "PLL_INACTIVE": "Inactive",
     "LBL_CREATE_RECORD": "Create",
-    "Mail": "이메일",
+    "Mail": "메일",
     "FL_STORAGE": "Storage",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "FL_TOKEN": "토큰",
+    "ManageConsents": "요청 승락 관리"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",

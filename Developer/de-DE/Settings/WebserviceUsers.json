@@ -25,7 +25,7 @@
     "Mail": "E-Mail",
     "FL_STORAGE": "Speicher",
     "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "ManageConsents": "Einwilligungen verwalten"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sind Sie sicher diesen Schlüssel zu löschen?",

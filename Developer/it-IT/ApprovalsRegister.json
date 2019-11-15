@@ -12,11 +12,11 @@
     "FL_APPROVAL": "Approvazione",
     "FL_TYPE": "Tipo",
     "FL_STATUS": "Stato",
-    "FL_REGISTRATION_DATE": "Registration date",
+    "FL_REGISTRATION_DATE": "Data Registrazione",
     "PLL_FOR_VERIFICATION": "Da verificare",
     "PLL_ACCEPTED": "Accettato",
     "PLL_REJECTED": "Rifiutato",
     "PLL_ACCEPTANCE": "Accettazione",
-    "PLL_RESIGNATION": "Resignation"
+    "PLL_RESIGNATION": "Dimissioni"
   }
 }

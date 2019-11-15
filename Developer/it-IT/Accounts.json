@@ -95,7 +95,7 @@
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Il nome azienda esiste già. Vuoi creare un duplicato?",
-    "LBL_DELETE_CONFIRMATION": "L'eliminazione di questa azienda rimuoverà i relativi preventivi e opportunità. Sei sicuro di voler eliminare l'azienda?",
+    "LBL_DELETE_CONFIRMATION": "L'eliminazione di questa azienda rimuoverà i relativi Preventivi e Opportunità. Sei sicuro di voler eliminare l'azienda?",
     "LBL_MASS_DELETE_CONFIRMATION": "L'eliminazione massiva delle aziende rimuoverà i relativi preventivi e opportunità. Sei sicuro di voler eliminare i record selezionati?"
   }
 }

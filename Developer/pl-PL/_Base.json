@@ -1375,7 +1375,9 @@
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Została aktywowana płatna funkcjonalność bez wykupienia odpowiedniego produktu w sklepie. Naruszasz warunki licencji oprogramowania.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Jeden z wykupionych produktów stracił ważnośc lub wymaga zmiany pakietu. Produkt został tymczasowo anulowany.",
     "LBL_YETIFORCE_SHOP": "Sklep YetiForce",
-    "LBL_USER_CURRENTLY_NOT_LOGGED": "Użytkownik aktualnie niezalogowany"
+    "LBL_USER_CURRENTLY_NOT_LOGGED": "Użytkownik aktualnie niezalogowany",
+    "LBL_CREATEDMAIL": "Stwórz e-maila",
+    "LBL_LINKBYFIELDS": "Tworzenie linków do e-maila"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

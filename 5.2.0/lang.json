@@ -3,8 +3,8 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 31,
-        "time": "2019-11-08 09:01:09"
+        "progress": 52,
+        "time": "2019-11-15 15:00:56"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 83,
-        "time": "2019-11-08 09:05:57"
+        "progress": 84,
+        "time": "2019-11-15 15:05:48"
     },
     "hr-HR": {
         "prefix": "hr-HR",
@@ -95,7 +95,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2019-11-08 09:08:30"
+        "time": "2019-11-15 15:08:28"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -109,14 +109,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 17,
-        "time": "2019-11-08 09:05:27"
+        "time": "2019-11-15 15:05:15"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 41,
-        "time": "2019-11-08 09:05:00"
+        "time": "2019-11-15 15:04:45"
     },
     "pl-PL": {
         "prefix": "pl-PL",

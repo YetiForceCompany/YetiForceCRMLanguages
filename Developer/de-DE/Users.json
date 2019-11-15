@@ -368,12 +368,12 @@
     "FL_OVERRIDE_SEARCH_MODULE": "Standardauswahl erzwingen",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Globale Sucheinstellungen",
     "FL_PRIMARY_PHONE": "Primäre Telefonummer",
-    "LBL_USER_MAIL": " Mail",
+    "LBL_USER_MAIL": " E-Mail",
     "LBL_USER_GUI": "Layout",
     "LBL_USER_INTEGRATION": "Integration",
-    "LBL_USER_AUTOMATION": "Automation",
-    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
-    "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
+    "LBL_USER_AUTOMATION": "Automatisierung",
+    "FL_MAIL_SCANNER_ACTIONS": "E-Mail-Scanner-Aktionen",
+    "FL_MAIL_SCANNER_FIELDS": "Mail-Scanner-Felder"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dezimaltrennzeichen und Zifferngruppierungs-Trennzeichen darf nicht gleich sein",

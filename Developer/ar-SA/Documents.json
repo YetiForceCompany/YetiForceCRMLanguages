@@ -52,10 +52,10 @@
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "هل انت متاكد انك تريد نقل المستند\\المستندات الى ",
     "JS_FOLDER": "مجلد",
     "JS_FOLDER_IS_NOT_EMPTY": "المجلد فارغ",
-    "JS_MOVE_DOCUMENTS": "Move documents",
-    "JS_NEW_FOLDER": "New folder",
-    "JS_NOT_ALLOWED": "are not allowed",
-    "JS_OPERATION_DENIED": "Operation denied",
-    "JS_SPECIAL_CHARACTERS": "Special characters like"
+    "JS_MOVE_DOCUMENTS": "نقل المستندات",
+    "JS_NEW_FOLDER": "مجلد جديد",
+    "JS_NOT_ALLOWED": "لا يسمح",
+    "JS_OPERATION_DENIED": "العملية مرفوضة",
+    "JS_SPECIAL_CHARACTERS": "أحرف خاصة مثل"
   }
 }

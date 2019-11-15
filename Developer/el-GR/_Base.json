@@ -1375,7 +1375,9 @@
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Η λειτουργία επί πληρωμή έχει ενεργοποιηθεί χωρίς να έχετε αγοράσει το κατάλληλο προϊόν στο κατάστημα. Παραβιάζετε τους όρους της άδειας χρήσης λογισμικού.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Ένα από τα προϊόντα που αγοράσατε έχει λήξει ή απαιτείται αλλαγή πακέτου. Το προϊόν έχει ακυρωθεί προσωρινά.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
-    "LBL_USER_CURRENTLY_NOT_LOGGED": "χρήστης δεν είναι συνδεδεμένος αυτήν τη στιγμή"
+    "LBL_USER_CURRENTLY_NOT_LOGGED": "χρήστης δεν είναι συνδεδεμένος αυτήν τη στιγμή",
+    "LBL_CREATEDMAIL": "Create email message",
+    "LBL_LINKBYFIELDS": "Creating links to email message"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",

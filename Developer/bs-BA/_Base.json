@@ -1375,7 +1375,9 @@
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Plaćena funkcionalnost je aktivirana bez kupovine pravog proizvoda u trgovini. Kršite uvjete softverske licence.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Jedan od kupljenih proizvoda je istekao ili zahtijeva promjenu paketa. Proizvod je privremeno otkazan.",
     "LBL_YETIFORCE_SHOP": "Yetiforce prodavnica",
-    "LBL_USER_CURRENTLY_NOT_LOGGED": "korisnik trenutno nije prijavljen"
+    "LBL_USER_CURRENTLY_NOT_LOGGED": "korisnik trenutno nije prijavljen",
+    "LBL_CREATEDMAIL": "Create email message",
+    "LBL_LINKBYFIELDS": "Creating links to email message"
   },
   "js": {
     "JS_APPROVE": "Odobriti",
