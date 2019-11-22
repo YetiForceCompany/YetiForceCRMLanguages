@@ -212,7 +212,7 @@
     "LBL_DUE": "πριν από",
     "LBL_DUPLICATE": "Δημιουργία διπλοτύπου / αντιγράφου",
     "LBL_EDIT": "Επεξεργασία",
-    "BTN_RECORD_EDIT": "Μεταβείτε στην προβολή πλήρους επεξεργασίας",
+    "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "Επεξεργασία",
     "LBL_EDIT_FIELDS": "Επεξεργασία πεδίων",
     "LBL_ARRANGE_RELATED_TABS": "Τακτοποιήσετε τις σχετικές καρτέλες",

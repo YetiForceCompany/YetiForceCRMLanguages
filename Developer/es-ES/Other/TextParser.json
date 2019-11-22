@@ -58,6 +58,7 @@
     "LBL_CURRENT_PAGE": "Página actual",
     "LBL_INVENTORY_TABLE": "Tabla de inventario con columnas predefinidas personalizadas",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabla de inventario con columnas dinámicas",
-    "LBL_INVENTORY_VARIABLES": "Variables adicionales de inventario"
+    "LBL_INVENTORY_VARIABLES": "Variables adicionales de inventario",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
   }
 }

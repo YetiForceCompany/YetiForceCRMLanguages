@@ -58,6 +58,7 @@
     "LBL_CURRENT_PAGE": "Aktuálna stránka",
     "LBL_INVENTORY_TABLE": "Tabuľka zásob s vlastnými preddefinovanými stĺpcami",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabuľka zásob s dynamickými stĺpcami",
-    "LBL_INVENTORY_VARIABLES": "Ďalšie premenné zásob"
+    "LBL_INVENTORY_VARIABLES": "Ďalšie premenné zásob",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
   }
 }

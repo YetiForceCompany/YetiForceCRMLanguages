@@ -58,6 +58,7 @@
     "LBL_CURRENT_PAGE": "Current page",
     "LBL_INVENTORY_TABLE": "Tabulka inventáře s vlastními předdefinovanými sloupci",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabulka zásob s dynamickými sloupci",
-    "LBL_INVENTORY_VARIABLES": "Další proměnné inventáře"
+    "LBL_INVENTORY_VARIABLES": "Další proměnné inventáře",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
   }
 }

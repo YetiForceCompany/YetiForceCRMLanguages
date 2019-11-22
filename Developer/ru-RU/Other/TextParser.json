@@ -58,6 +58,7 @@
     "LBL_CURRENT_PAGE": "Текущая страница",
     "LBL_INVENTORY_TABLE": "Таблица инвентаря с пользовательскими предопределенными столбцами",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Таблица инвентаря с динамическими столбцами",
-    "LBL_INVENTORY_VARIABLES": "Дополнительные переменные инвентаря"
+    "LBL_INVENTORY_VARIABLES": "Дополнительные переменные инвентаря",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
   }
 }
