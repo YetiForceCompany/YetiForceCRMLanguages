@@ -1,6 +1,6 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
+    "Announcements|FL_INTERVAL": "Frequentie van herinneringen in dagen, als een gebruiker de wijzigingen niet heeft beoordeeld. Als het veld leeg blijft, wordt de herinnering niet meer getoond.",
     "Accounts|Account Name": "Dit veld is bedoeld voor de naam van het bedrijf",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Het standaard land gebruikt bij het synchroniseren van het CardDAV telefoonveld. Als de telefoon geen nationaal nummer heeft, zal dit veld gebruikt worden",
     "Users|FL_OVERRIDE_SEARCH_MODULE": "Stel altijd geselecteerde element in als standaard module in de globale zoekmachine.",

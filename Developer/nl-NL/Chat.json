@@ -22,9 +22,9 @@
     "LBL_ENTER": "It enables\/disables sending messages after pressing ENTER",
     "LBL_DETAIL_VIEW": "Detailweergave",
     "LBL_ROOM_DESCRIPTION_CRM": "Chat rooms list with records marked as favorites",
-    "LBL_ROOM_DESCRIPTION_GROUP": "Chat rooms list with user groups",
-    "LBL_ROOM_DESCRIPTION_GLOBAL": "Chat rooms list visible for all users",
-    "LBL_CHAT_USER_SWITCHED": "Chat is inactive if you switched to another user.",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Chatruimten lijst met gebruikersgroepen",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Chat kamers lijst zichtbaar voor alle gebruikers",
+    "LBL_CHAT_USER_SWITCHED": "Chatten is niet actief als u overgestapt naar een andere gebruiker.",
     "LBL_CHAT_NEW_MESSAGE": "Nieuw bericht"
   }
 }

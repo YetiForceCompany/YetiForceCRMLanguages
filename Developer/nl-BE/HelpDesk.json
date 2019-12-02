@@ -85,13 +85,13 @@
     "Services": "Diensten",
     "Support": "Ondersteuning",
     "Administrative": "administratieve",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_MASS_STATUS_CHANGE": "Mass status change",
-    "LBL_RECORDS": "Records to change",
-    "LBL_CHILD_RECORDS": "Child records to current one",
-    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
-    "LBL_UPDATE": "Update",
-    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets"
+    "LBL_SHOW_HIERARCHY": "Hiërarchie",
+    "LBL_MASS_STATUS_CHANGE": "Massa-statuswijziging",
+    "LBL_RECORDS": "Records om te wijzigen",
+    "LBL_CHILD_RECORDS": "Kind records naar de huidige",
+    "LBL_MASS_STATUS_UPDATED": "Status bijgewerkt in geselecteerde records",
+    "LBL_UPDATE": "Bijwerken",
+    "LBL_ADD_TIME_CONTROL": "Arbeidstijd toevoegen voordat u het ticket sluit",
+    "LBL_CLOSE_RELATED_TICKETS": "Voordat u dit ticket sluit, sluit u gerelateerde tickets"
   }
 }

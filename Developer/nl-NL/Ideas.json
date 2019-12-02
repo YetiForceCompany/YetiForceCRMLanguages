@@ -1,7 +1,7 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
+    "Ideas": "Ideeën",
+    "SINGLE_Ideas": "Idee",
     "LBL_IDEAS_INFORMATION": "Basisinformatie",
     "LBL_SUBJECT": "Onderwerp",
     "LBL_STATUS": "Status",
