@@ -1,9 +1,9 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "Política SLA",
-    "LBL_NAME": "Nombre de la política",
-    "LBL_EDIT": "Editar política SLA",
-    "LBL_CREATE": "Crear nueva política SLA",
+    "LBL_SLA_POLICY": "Reglamento SLA",
+    "LBL_NAME": "Nombre de la regla",
+    "LBL_EDIT": "Editar regla SLA",
+    "LBL_CREATE": "Crear nueva regla SLA",
     "LBL_SOURCE_MODULE": "Módulo"
   },
   "js": {

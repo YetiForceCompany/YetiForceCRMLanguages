@@ -9,7 +9,7 @@
     "LBL_FAILED": "失败",
     "LBL_FINISH": "完成",
     "LBL_IMPORTED_MODULE": "模块已成功导入.",
-    "LBL_IMPORTED_UPDATE": "系统已成功更新.",
+    "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
     "LBL_IMPORTED_EXTENSION": "已成功安装扩展.",
     "LBL_IMPORTED_LANGUAGE": "语言已经成功安装.",
     "LBL_IMPORTED_FONT": "已成功安装字体。",
@@ -78,6 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "无效的语言前缀",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "模块名称不得包含“设置”一词",
     "LBL_SAMPLE_FIELD_NAME": "示例名称",
+    "LBL_DELETE_MODULE": "Delete module",
+    "LBL_EXPORT_MODULE": "Export module",
+    "LBL_PREMIUM_MODULE": "Premium module",
+    "LBL_SETTINGS": "Settings",
     "LBL_SAMPLE_LABEL": "示例名称"
   },
   "js": {

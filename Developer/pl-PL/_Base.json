@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "Użytkownik aktualnie niezalogowany",
     "LBL_CREATEDMAIL": "Stwórz e-maila",
     "LBL_LINKBYFIELDS": "Tworzenie linków do e-maila",
-    "LBL_SORTING_SETTINGS": "Ustawienia sortowania"
+    "LBL_SORTING_SETTINGS": "Ustawienia sortowania",
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "Minuty",
     "JS_SECONDS_FULL": "Sekundy",
     "JS_DELETE_RECORD_CONFIRMATION": "Czy na pewno chcesz usunąć ten rekord?",
+    "JS_CHAT_SUM_UNREAD": "Suma nieprzeczytanych wiadomości",
     "JS_CHAT_ROOM_CRM": "Pokoje rekordów",
     "JS_CHAT_ROOM_GROUP": "Pokoje grupowe",
     "JS_CHAT_ROOM_GLOBAL": "Pokoje globalne",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Przypnij pokój globalny ",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Przypnij pokój prywatny",
     "JS_CHAT_ADD_ROOM_USER": "Przypnij pokój użytkownika",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Dodaj pokój prywatny",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Dodaj użytkowników do nowego pokoju",
     "JS_CHAT_ROOM_NOT_ALLOWED": "Ten pokój czatu nie jest dozwolony. Zostałeś przekierowany do domyślnego pokoju.",
     "JS_CHAT_MESSAGE": "Tu wpisz wiadomość. Aby dodać nową linię, naciśnij SHIFT + ENTER.",
     "JS_CHAT_PARTICIPANTS": "Uczestnicy",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "Wyszukaj wiadomości...",
     "JS_CHAT_FILTER_PARTICIPANTS": "Filtruj uczestników...",
     "JS_CHAT_FILTER_ROOMS": "Filtruj pokoje...",
+    "JS_CHAT_FILTER_USERS": "Filtruj użytkowników...",
     "JS_CHAT_CREATE_CHAT_ROOM": "Utwórz pokój chatu",
     "JS_CHAT_EARLIER": "Wcześniejsze",
     "JS_CHAT": "Chat",

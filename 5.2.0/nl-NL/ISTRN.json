@@ -10,12 +10,12 @@
     "FL_NUMBER": "Nummer",
     "FL_STORAGE": "Opslagruimte",
     "FL_STATUS": "Status",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "PLL_DRAFT": "Concept",
+    "PLL_IN_REALIZATION": "In realisatie",
+    "PLL_OBJECTIONS": "Doelstellingen",
+    "PLL_FOR_APPROVAL": "Ter goedkeuring",
+    "PLL_CANCELLED": "Geannuleerd",
+    "PLL_ACCEPTED": "Geaccepteerd",
+    "LBL_CHANGE_STATUS": "Status wijzigen"
   }
 }

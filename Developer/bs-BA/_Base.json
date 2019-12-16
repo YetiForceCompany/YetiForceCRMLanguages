@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "korisnik trenutno nije prijavljen",
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
-    "LBL_SORTING_SETTINGS": "Sorting settings"
+    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
   },
   "js": {
     "JS_APPROVE": "Odobriti",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "Minuta",
     "JS_SECONDS_FULL": "Sekundi",
     "JS_DELETE_RECORD_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovaj zapis?",
+    "JS_CHAT_SUM_UNREAD": "Sum of unread messages",
     "JS_CHAT_ROOM_CRM": "Sobe za snimanje",
     "JS_CHAT_ROOM_GROUP": "Grupne sobe",
     "JS_CHAT_ROOM_GLOBAL": "Globalne sobe",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Pin global room",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Pin private room",
     "JS_CHAT_ADD_ROOM_USER": "Pin user room",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Add private room",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Add users to new room",
     "JS_CHAT_ROOM_NOT_ALLOWED": "Soba za chat nije dopuštena. Bili ste preusmjereni na zadanu sobu.",
     "JS_CHAT_MESSAGE": "Ovdje unesite svoju poruku. Pritisnite SHIFT + ENTER da biste dodali novi red.",
     "JS_CHAT_PARTICIPANTS": "Učesnici",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "Pretražite poruke ...",
     "JS_CHAT_FILTER_PARTICIPANTS": "Filtriranje učesnika ...",
     "JS_CHAT_FILTER_ROOMS": "Filter sobe ...",
+    "JS_CHAT_FILTER_USERS": "Filter users...",
     "JS_CHAT_CREATE_CHAT_ROOM": "Stvorite chat sobu",
     "JS_CHAT_EARLIER": "Ranije",
     "JS_CHAT": "Chat",

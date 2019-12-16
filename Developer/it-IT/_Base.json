@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "utente attualmente non loggato",
     "LBL_CREATEDMAIL": "Crea messaggio email",
     "LBL_LINKBYFIELDS": "Creazione di link al messaggio email",
-    "LBL_SORTING_SETTINGS": "Impostazioni ordinamento"
+    "LBL_SORTING_SETTINGS": "Impostazioni ordinamento",
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "Minuti",
     "JS_SECONDS_FULL": "Secondi",
     "JS_DELETE_RECORD_CONFIRMATION": "Sei sicuro di voler eliminare questo record?",
+    "JS_CHAT_SUM_UNREAD": "Somma dei messaggi non letti",
     "JS_CHAT_ROOM_CRM": "Registra stanze",
     "JS_CHAT_ROOM_GROUP": "Chatroom di gruppo",
     "JS_CHAT_ROOM_GLOBAL": "Chatroom generica",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Pin chat globale",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Aggiungi stanza privata",
     "JS_CHAT_ADD_ROOM_USER": "Aggiungi chat utente",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Add private room",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Add users to new room",
     "JS_CHAT_ROOM_NOT_ALLOWED": "La chat room non è permessa. Sei stato reindirizzato alla stanza di default.",
     "JS_CHAT_MESSAGE": "Inserisci il tuo messaggio qui. Premere MAIUSC + INVIO per aggiungere una nuova riga.",
     "JS_CHAT_PARTICIPANTS": "Partecipanti",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "Cerca messaggi...",
     "JS_CHAT_FILTER_PARTICIPANTS": "Filtra partecipanti...",
     "JS_CHAT_FILTER_ROOMS": "Filtra stanze...",
+    "JS_CHAT_FILTER_USERS": "Filter users...",
     "JS_CHAT_CREATE_CHAT_ROOM": "Crea chatroom",
     "JS_CHAT_EARLIER": "Più recente",
     "JS_CHAT": "Chat",

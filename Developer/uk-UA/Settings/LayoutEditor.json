@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "Ви впевнені, що хочете змінити тип модуля?",
     "JS_SAVE_CHANGES": "Зміни успішно збережено.",
     "JS_NOTIFY_COPY_TEXT": "Скопіювати до буферу",
-    "JS_NOTIFY_COPY_TITLE": "Текст"
+    "JS_NOTIFY_COPY_TITLE": "Текст",
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
   }
 }

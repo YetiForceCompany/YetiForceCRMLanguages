@@ -1,6 +1,6 @@
 {
   "php": {
-    "Verification data": "Verification data",
+    "Verification data": "Verificatiegegevens",
     "Attempted to Contact": "Geprobeerd te contacteren",
     "CANNOT_CONVERT": "Kan niet converteren",
     "Cold": "Koud",
@@ -13,10 +13,10 @@
     "Hot": "Warm",
     "Industry": "Industrie",
     "Sub industry": "Sub-tak",
-    "Junk Lead": "Junk Lead",
+    "Junk Lead": "Ongewenste Lead",
     "Building number": "Gebouwnummer",
     "Local number": "Kantoornummer",
-    "LBL_CONVERT_LEAD": "Convert Lead",
+    "LBL_CONVERT_LEAD": "Converteer Lead",
     "LBL_CONVERT_LEAD_ERROR_TITLE": "Modules uitgeschakeld",
     "LBL_CONVERT_LEAD_ERROR": "U moet Account of Contactpersoon inschakelen om de Lead om te zetten",
     "LBL_CUSTOM_FIELD_MAPPING": "Veld toewijzen bewerken",

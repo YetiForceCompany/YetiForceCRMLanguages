@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "Είστε βέβαιοι ότι θέλετε να αλλάξετε τον τύπο του module;",
     "JS_SAVE_CHANGES": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία.",
     "JS_NOTIFY_COPY_TEXT": "Έγινε αντιγραφή στο πρόχειρο",
-    "JS_NOTIFY_COPY_TITLE": "Κείμενο"
+    "JS_NOTIFY_COPY_TITLE": "Κείμενο",
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
   }
 }

@@ -9,7 +9,7 @@
     "LBL_FAILED": "Niepowodzenie",
     "LBL_FINISH": "Zakończ",
     "LBL_IMPORTED_MODULE": "Moduł %s został zaimportowany poprawnie.",
-    "LBL_IMPORTED_UPDATE": "System został zaktualizowany.",
+    "LBL_IMPORTED_UPDATE": "%s System został pomyślnie zaktualizowany.",
     "LBL_IMPORTED_EXTENSION": "Rozszerzenie zostało zainstalowane poprawnie.",
     "LBL_IMPORTED_LANGUAGE": "Język został zainstalowany poprawnie.",
     "LBL_IMPORTED_FONT": "Pomyślnie zainstalowano czcionkę.",
@@ -78,6 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Nieprawidłowy prefix języka",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Nazwa modułu nie może zawierać słowa Settings",
     "LBL_SAMPLE_FIELD_NAME": "przykladowa_nazwa",
+    "LBL_DELETE_MODULE": "Delete module",
+    "LBL_EXPORT_MODULE": "Export module",
+    "LBL_PREMIUM_MODULE": "Premium module",
+    "LBL_SETTINGS": "Settings",
     "LBL_SAMPLE_LABEL": "Przykładowa nazwa"
   },
   "js": {

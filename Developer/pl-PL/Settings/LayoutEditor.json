@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "Czy na pewno chcesz zmienić typ modułu?",
     "JS_SAVE_CHANGES": "Pomyślnie zapisano zmiany.",
     "JS_NOTIFY_COPY_TEXT": "Skopiowano do schowka",
-    "JS_NOTIFY_COPY_TITLE": "Tekst"
+    "JS_NOTIFY_COPY_TITLE": "Tekst",
+    "JS_EXIST_PICKLIST_NAME": "Ta nazwa jest już używana przez pole słownikowe. Czy chcesz je zapisać jako słownik współdzielony?"
   }
 }

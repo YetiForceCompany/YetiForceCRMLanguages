@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "Sigur doriti sa schimbati tipul de modul?",
     "JS_SAVE_CHANGES": "Modificarile au fost salvate cu succes.",
     "JS_NOTIFY_COPY_TEXT": "Copiat in clipboard",
-    "JS_NOTIFY_COPY_TITLE": "Text"
+    "JS_NOTIFY_COPY_TITLE": "Text",
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
   }
 }

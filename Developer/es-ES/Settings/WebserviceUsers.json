@@ -22,10 +22,10 @@
     "PLL_ACTIVE": "Activo",
     "PLL_INACTIVE": "Inactivo",
     "LBL_CREATE_RECORD": "Crear un nuevo usuario",
-    "Mail": "Mail",
+    "Mail": "Correo electrónico",
     "FL_STORAGE": "Almacenamiento",
     "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "ManageConsents": "Administrar consentimientos"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "¿Seguro que desea eliminar el Usuario de la API?",

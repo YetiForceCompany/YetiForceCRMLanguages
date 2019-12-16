@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_ROOM_CRM": "Favourites",
-    "LBL_ROOM_GROUP": "Group room",
+    "LBL_ROOM_GROUP": "Ruang grup",
     "LBL_ROOM_GLOBAL": "Global room",
     "LBL_MESSAGE": "Enter your message here. Press SHIFT + ENTER to add a new line.",
     "LBL_PARTICIPANTS": "Participants",

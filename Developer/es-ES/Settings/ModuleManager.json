@@ -9,7 +9,7 @@
     "LBL_FAILED": "Ha fallado",
     "LBL_FINISH": "Terminar",
     "LBL_IMPORTED_MODULE": "El módulo %s se ha importado correctamente.",
-    "LBL_IMPORTED_UPDATE": "El sistema se ha actualizado correctamente.",
+    "LBL_IMPORTED_UPDATE": "el sistema %s ha sido actualizado exitosamente.",
     "LBL_IMPORTED_EXTENSION": "La extensión se ha instalado correctamente.",
     "LBL_IMPORTED_LANGUAGE": "El idioma se ha instalado correctamente.",
     "LBL_IMPORTED_FONT": "La fuente se ha instalado correctamente.",
@@ -78,6 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Prefijo de idioma no válido",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "El nombre del módulo no debe contener la palabra configuración",
     "LBL_SAMPLE_FIELD_NAME": "ejemplo_nombre",
+    "LBL_DELETE_MODULE": "Delete module",
+    "LBL_EXPORT_MODULE": "Export module",
+    "LBL_PREMIUM_MODULE": "Premium module",
+    "LBL_SETTINGS": "Settings",
     "LBL_SAMPLE_LABEL": "Nombre de ejemplo"
   },
   "js": {

@@ -7,9 +7,9 @@
     "LBL_DESCRIPTION_INFORMATION": "Description details",
     "LBL_SUBJECT": "Name",
     "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
+    "LBL_CLOSED_TIME": "Waktu tutup",
     "LBL_VAT_ID": "Tax ID",
     "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "LBL_PARENT_ID": "Induk pesaing"
   }
 }

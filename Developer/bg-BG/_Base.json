@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "в този момент потребителят не сте влязал в системата",
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
-    "LBL_SORTING_SETTINGS": "Sorting settings"
+    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "Минути",
     "JS_SECONDS_FULL": "Секунди",
     "JS_DELETE_RECORD_CONFIRMATION": "Наистина ли искате да изтриете записа?",
+    "JS_CHAT_SUM_UNREAD": "Sum of unread messages",
     "JS_CHAT_ROOM_CRM": "Record rooms",
     "JS_CHAT_ROOM_GROUP": "Group rooms",
     "JS_CHAT_ROOM_GLOBAL": "Global rooms",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Pin global room",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Pin private room",
     "JS_CHAT_ADD_ROOM_USER": "Pin user room",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Add private room",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Add users to new room",
     "JS_CHAT_ROOM_NOT_ALLOWED": "Chat room is not allowed. You were redirected to the default room.",
     "JS_CHAT_MESSAGE": "Въведете своето съобщение тук. Натиснете клавишите Shift + Enter, за да добавите нов ред.",
     "JS_CHAT_PARTICIPANTS": "Участници",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "Търсене на съобщения...",
     "JS_CHAT_FILTER_PARTICIPANTS": "Филтрирайте участниците...",
     "JS_CHAT_FILTER_ROOMS": "Филтриране на стаи...",
+    "JS_CHAT_FILTER_USERS": "Filter users...",
     "JS_CHAT_CREATE_CHAT_ROOM": "Създаване на чат-рум",
     "JS_CHAT_EARLIER": "По-рано",
     "JS_CHAT": "Chat",

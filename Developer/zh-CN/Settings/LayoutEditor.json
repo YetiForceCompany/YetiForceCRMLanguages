@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "你确定你想要更改的模块类型？?",
     "JS_SAVE_CHANGES": "更改已保存.",
     "JS_NOTIFY_COPY_TEXT": "已复制到剪贴板",
-    "JS_NOTIFY_COPY_TITLE": "文本"
+    "JS_NOTIFY_COPY_TITLE": "文本",
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
   }
 }

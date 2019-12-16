@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "user currently not logged",
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
-    "LBL_SORTING_SETTINGS": "Sorting settings"
+    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
   },
   "js": {
     "JS_APPROVE": "Odobri",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "Minut",
     "JS_SECONDS_FULL": "Seconds",
     "JS_DELETE_RECORD_CONFIRMATION": "Are you sure you want to delete this record?",
+    "JS_CHAT_SUM_UNREAD": "Sum of unread messages",
     "JS_CHAT_ROOM_CRM": "Record rooms",
     "JS_CHAT_ROOM_GROUP": "Group rooms",
     "JS_CHAT_ROOM_GLOBAL": "Global rooms",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Pin global room",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Pin private room",
     "JS_CHAT_ADD_ROOM_USER": "Pin user room",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Add private room",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Add users to new room",
     "JS_CHAT_ROOM_NOT_ALLOWED": "Chat room is not allowed. You were redirected to the default room.",
     "JS_CHAT_MESSAGE": "Vnesite vaše sporočilo tukaj. Pritisnite SHIFT + ENTER, če želite dodati novo vrstico.",
     "JS_CHAT_PARTICIPANTS": "Udeleženci",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "Išči sporočila...",
     "JS_CHAT_FILTER_PARTICIPANTS": "Filter participants...",
     "JS_CHAT_FILTER_ROOMS": "Filtriraj sobe...",
+    "JS_CHAT_FILTER_USERS": "Filter users...",
     "JS_CHAT_CREATE_CHAT_ROOM": "Ustvarjanje novo sobo klepetalnice",
     "JS_CHAT_EARLIER": "Prej",
     "JS_CHAT": "Klepetalnica",

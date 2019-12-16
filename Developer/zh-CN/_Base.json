@@ -1378,7 +1378,8 @@
     "LBL_USER_CURRENTLY_NOT_LOGGED": "用户当前未记录",
     "LBL_CREATEDMAIL": "创建电子邮件",
     "LBL_LINKBYFIELDS": "正在创建邮件链接",
-    "LBL_SORTING_SETTINGS": "Sorting settings"
+    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_CHANGE_RELATION_DATA": "更改附加数据"
   },
   "js": {
     "JS_APPROVE": "同意",
@@ -1747,6 +1748,7 @@
     "JS_MINUTES_FULL": "分钟",
     "JS_SECONDS_FULL": "秒",
     "JS_DELETE_RECORD_CONFIRMATION": "是否确实要删除此记录？",
+    "JS_CHAT_SUM_UNREAD": "Sum of unread messages",
     "JS_CHAT_ROOM_CRM": "热点聊天室",
     "JS_CHAT_ROOM_GROUP": "部门聊天室",
     "JS_CHAT_ROOM_GLOBAL": "公共聊天室",
@@ -1762,6 +1764,8 @@
     "JS_CHAT_ADD_ROOM_GLOBAL": "Pin global room",
     "JS_CHAT_ADD_ROOM_PRIVATE": "Pin private room",
     "JS_CHAT_ADD_ROOM_USER": "Pin user room",
+    "JS_CHAT_ADD_PRIVATE_ROOM": "Add private room",
+    "JS_CHAT_ADD_USERS_TO_NEW_ROOM": "Add users to new room",
     "JS_CHAT_ROOM_NOT_ALLOWED": "拒绝进入聊天室. 您将回到默认的聊天室.",
     "JS_CHAT_MESSAGE": "在此处输入您的留言。按 SHIFT + ENTER 键添加新行。",
     "JS_CHAT_PARTICIPANTS": "参与者",
@@ -1770,6 +1774,7 @@
     "JS_CHAT_SEARCH_MESSAGES": "搜索消息...",
     "JS_CHAT_FILTER_PARTICIPANTS": "筛选参与者...",
     "JS_CHAT_FILTER_ROOMS": "过滤聊天室...",
+    "JS_CHAT_FILTER_USERS": "Filter users...",
     "JS_CHAT_CREATE_CHAT_ROOM": "创建聊天室",
     "JS_CHAT_EARLIER": "早些 时候",
     "JS_CHAT": "聊天",

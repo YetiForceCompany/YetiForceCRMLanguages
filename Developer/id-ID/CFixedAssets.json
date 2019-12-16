@@ -50,7 +50,7 @@
     "PLL_MACHINE": "Mesin",
     "PLL_VEHICLE": "Kendaraan",
     "PLL_PROPERTY": "Properti",
-    "PLL_INVENTORY": "Inventory",
+    "PLL_INVENTORY": "Persediaan",
     "PLL_DIESEL": "Diesel"
   }
 }

@@ -9,7 +9,7 @@
     "LBL_FAILED": "Απέτυχε",
     "LBL_FINISH": "Ολοκληρώθηκε",
     "LBL_IMPORTED_MODULE": "%s module έχει εισαχθεί με επιτυχία.",
-    "LBL_IMPORTED_UPDATE": "Το σύστημα έχει ενημερωθεί με επιτυχία.",
+    "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
     "LBL_IMPORTED_EXTENSION": "Επέκταση έχει εγκατασταθεί με επιτυχία.",
     "LBL_IMPORTED_LANGUAGE": "Γλώσσα έχει εγκατασταθεί με επιτυχία.",
     "LBL_IMPORTED_FONT": "Γραμματοσειρά έχει εγκατασταθεί με επιτυχία.",
@@ -78,6 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Μη έγκυρο πρόθεμα γλώσσας",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Το όνομα του module δεν πρέπει να περιέχει τη λέξη Settings",
     "LBL_SAMPLE_FIELD_NAME": "sample_name",
+    "LBL_DELETE_MODULE": "Delete module",
+    "LBL_EXPORT_MODULE": "Export module",
+    "LBL_PREMIUM_MODULE": "Premium module",
+    "LBL_SETTINGS": "Settings",
     "LBL_SAMPLE_LABEL": "Sample name"
   },
   "js": {

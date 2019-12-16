@@ -225,6 +225,7 @@
     "JS_EXTENDED_MODULE": "¿Está seguro de que desea cambiar el tipo de módulo?",
     "JS_SAVE_CHANGES": "Cambios guardados correctamente.",
     "JS_NOTIFY_COPY_TEXT": "Copiado al portapapeles",
-    "JS_NOTIFY_COPY_TITLE": "Texto"
+    "JS_NOTIFY_COPY_TITLE": "Texto",
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
   }
 }
