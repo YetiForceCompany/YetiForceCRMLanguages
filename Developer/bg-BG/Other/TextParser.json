@@ -59,6 +59,7 @@
     "LBL_INVENTORY_TABLE": "Таблица на складова наличност с предварително нестандартни определени колони",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Таблица на складова наличност с динамични колони",
     "LBL_INVENTORY_VARIABLES": "Допълнителни променливи на складова наличност",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
   }
 }

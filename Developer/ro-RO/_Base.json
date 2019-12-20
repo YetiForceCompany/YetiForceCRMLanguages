@@ -212,6 +212,7 @@
     "LBL_DUE": "datorate in",
     "LBL_DUPLICATE": "Duplicat",
     "LBL_EDIT": "Editati",
+    "LBL_QUICK_EDIT": "Quick edit",
     "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "Editati",
     "LBL_EDIT_FIELDS": "Editati campuri",
@@ -1263,6 +1264,7 @@
     "DW_ACTUAL_SALES_OF_TEAM": "Vanzarile actuale ale echipei",
     "LBL_SEND_MESSAGE": "Trimite mesaj",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Numarul de adresa email gasite",
+    "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Numarul de inregistrari selectate",
     "LBL_EMAIL_ADRESS": "Adresa email",
     "LBL_EMAIL_TEMPLATE": "Sablon email",
@@ -1379,7 +1381,11 @@
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data",
+    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EDIT_COLOR": "Edit color",
+    "LBL_SELECT_COLOR": "Select color:",
+    "LBL_PREVIOUS_COLOR": "Previous color:"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1601,6 +1607,7 @@
     "JS_WEEK_SHORT": "WK",
     "JS_ADD_EVENT_TASK": "Adauga Eveniment/De Facut",
     "JS_MORE": "Mai mult",
+    "JS_FULL_TEXT": "Full text",
     "JS_TO_REALIZE": "Pentru procesare",
     "JS_HISTORY": "Istoric",
     "JS_WORK_DAYS": "Zile lucratoare",

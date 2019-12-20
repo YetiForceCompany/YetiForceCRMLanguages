@@ -78,10 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Nieprawidłowy prefix języka",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Nazwa modułu nie może zawierać słowa Settings",
     "LBL_SAMPLE_FIELD_NAME": "przykladowa_nazwa",
-    "LBL_DELETE_MODULE": "Delete module",
-    "LBL_EXPORT_MODULE": "Export module",
-    "LBL_PREMIUM_MODULE": "Premium module",
-    "LBL_SETTINGS": "Settings",
+    "LBL_DELETE_MODULE": "Usuń moduł",
+    "LBL_EXPORT_MODULE": "Eksportuj moduł",
+    "LBL_PREMIUM_MODULE": "Moduł Premium",
+    "LBL_SETTINGS": "Ustawienia",
     "LBL_SAMPLE_LABEL": "Przykładowa nazwa"
   },
   "js": {

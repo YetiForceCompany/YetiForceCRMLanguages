@@ -212,6 +212,7 @@
     "LBL_DUE": "zapadlo",
     "LBL_DUPLICATE": "Podvoji",
     "LBL_EDIT": "Uredi",
+    "LBL_QUICK_EDIT": "Quick edit",
     "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "Uredi",
     "LBL_EDIT_FIELDS": "Uredi polja",
@@ -1263,6 +1264,7 @@
     "DW_ACTUAL_SALES_OF_TEAM": "Dejanski promet skupine",
     "LBL_SEND_MESSAGE": "Pošlji sporočilo",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Število najdenih naslovov e-pošte",
+    "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Število izbranih zapisov",
     "LBL_EMAIL_ADRESS": "E-poštni naslov",
     "LBL_EMAIL_TEMPLATE": "E-poštna predloga",
@@ -1379,7 +1381,11 @@
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data",
+    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EDIT_COLOR": "Edit color",
+    "LBL_SELECT_COLOR": "Select color:",
+    "LBL_PREVIOUS_COLOR": "Previous color:"
   },
   "js": {
     "JS_APPROVE": "Odobri",
@@ -1601,6 +1607,7 @@
     "JS_WEEK_SHORT": "T",
     "JS_ADD_EVENT_TASK": "Dodaj dogodek/opravilo",
     "JS_MORE": "Več",
+    "JS_FULL_TEXT": "Full text",
     "JS_TO_REALIZE": "Za obdelat",
     "JS_HISTORY": "Zgodovina",
     "JS_WORK_DAYS": "Delovni dnevi",

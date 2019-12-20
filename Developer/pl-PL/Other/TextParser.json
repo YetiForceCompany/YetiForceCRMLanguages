@@ -59,6 +59,7 @@
     "LBL_INVENTORY_TABLE": "Tabela modułu zaawansowanego z niestandardowymi predefiniowanymi kolumnami",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabela modułu zaawansowanego z dynamicznymi kolumnami",
     "LBL_INVENTORY_VARIABLES": "Dodatkowe zmienne modułu zaawansowanego ",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Lista rekordów"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "Lista rekordów",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Zmienna użytkownika"
   }
 }

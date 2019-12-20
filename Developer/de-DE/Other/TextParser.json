@@ -59,6 +59,7 @@
     "LBL_INVENTORY_TABLE": "Inventar-Tabelle mit benutzerdefinierten vordefinierten Spalten",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Inventar-Tabelle mit dynamischen Spalten",
     "LBL_INVENTORY_VARIABLES": "Zusätzliche Inventarvariablen",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
   }
 }

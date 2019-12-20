@@ -78,10 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Prefisso lingua non valido",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Il nome del modulo non deve contenere parola \"Settings\"",
     "LBL_SAMPLE_FIELD_NAME": "oggetto_del_record",
-    "LBL_DELETE_MODULE": "Delete module",
-    "LBL_EXPORT_MODULE": "Export module",
-    "LBL_PREMIUM_MODULE": "Premium module",
-    "LBL_SETTINGS": "Settings",
+    "LBL_DELETE_MODULE": "Elimina modulo",
+    "LBL_EXPORT_MODULE": "Esporta modulo",
+    "LBL_PREMIUM_MODULE": "Modulo Premium",
+    "LBL_SETTINGS": "Impostazioni",
     "LBL_SAMPLE_LABEL": "Oggetto"
   },
   "js": {

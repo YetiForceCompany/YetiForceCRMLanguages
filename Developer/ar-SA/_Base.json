@@ -212,6 +212,7 @@
     "LBL_DUE": "يرجع الى",
     "LBL_DUPLICATE": "تكرار",
     "LBL_EDIT": "تعديل",
+    "LBL_QUICK_EDIT": "Quick edit",
     "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "تعديل",
     "LBL_EDIT_FIELDS": "تحرير حقل",
@@ -1263,6 +1264,7 @@
     "DW_ACTUAL_SALES_OF_TEAM": "المبيعات الفعلية من الفريق",
     "LBL_SEND_MESSAGE": "أرسل رسالة",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "قائمة عناوين البريد الإلكتروني التي وجدت؟",
+    "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "عدد من عناصر مختارة",
     "LBL_EMAIL_ADRESS": "البريد الأكتروني",
     "LBL_EMAIL_TEMPLATE": "قالب البريد الألكتروني",
@@ -1379,7 +1381,11 @@
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data",
+    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EDIT_COLOR": "Edit color",
+    "LBL_SELECT_COLOR": "Select color:",
+    "LBL_PREVIOUS_COLOR": "Previous color:"
   },
   "js": {
     "JS_APPROVE": "إعتماد",
@@ -1601,6 +1607,7 @@
     "JS_WEEK_SHORT": "أسبوع",
     "JS_ADD_EVENT_TASK": "إضافة حدث / القيام",
     "JS_MORE": "المزيد",
+    "JS_FULL_TEXT": "Full text",
     "JS_TO_REALIZE": "لتجهيز",
     "JS_HISTORY": "المحفوظات",
     "JS_WORK_DAYS": "أيام العمل",

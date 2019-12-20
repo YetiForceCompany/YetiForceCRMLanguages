@@ -59,6 +59,7 @@
     "LBL_INVENTORY_TABLE": "Tabella inventario con colonne predefinite personalizzate",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabella inventario con colonne dinamiche",
     "LBL_INVENTORY_VARIABLES": "Variabili di inventario aggiuntive",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Elenco di record"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "Elenco di record",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
   }
 }

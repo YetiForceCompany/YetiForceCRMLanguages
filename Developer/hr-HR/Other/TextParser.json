@@ -59,6 +59,7 @@
     "LBL_INVENTORY_TABLE": "Tabela inventara s unaprijed definiranim kolonama",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabela inventara sa dinamičnim kolonama",
     "LBL_INVENTORY_VARIABLES": "Dodatne varijable inventara",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
   }
 }

@@ -212,6 +212,7 @@
     "LBL_DUE": "dûe dans",
     "LBL_DUPLICATE": "Doublon",
     "LBL_EDIT": "Editer",
+    "LBL_QUICK_EDIT": "Quick edit",
     "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "Edition",
     "LBL_EDIT_FIELDS": "Editer Champs",
@@ -1263,6 +1264,7 @@
     "DW_ACTUAL_SALES_OF_TEAM": "Les ventes de l'équipe",
     "LBL_SEND_MESSAGE": "Envoyer message",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Nombre d'adresses e-mail trouvées",
+    "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Nombre d'enregistrements sélectionnés",
     "LBL_EMAIL_ADRESS": "Adresse e-mail",
     "LBL_EMAIL_TEMPLATE": "Modèle d'e-mail",
@@ -1379,7 +1381,11 @@
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data",
+    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EDIT_COLOR": "Edit color",
+    "LBL_SELECT_COLOR": "Select color:",
+    "LBL_PREVIOUS_COLOR": "Previous color:"
   },
   "js": {
     "JS_APPROVE": "Approuver",
@@ -1601,6 +1607,7 @@
     "JS_WEEK_SHORT": "Sem",
     "JS_ADD_EVENT_TASK": "Ajouter un événement/tâche",
     "JS_MORE": "Plus",
+    "JS_FULL_TEXT": "Full text",
     "JS_TO_REALIZE": "A faire",
     "JS_HISTORY": "Historique",
     "JS_WORK_DAYS": "Jours travaillés",

@@ -212,6 +212,7 @@
     "LBL_DUE": "Завершення",
     "LBL_DUPLICATE": "Копіювати",
     "LBL_EDIT": "Редагувати",
+    "LBL_QUICK_EDIT": "Quick edit",
     "BTN_RECORD_EDIT": "Edit view",
     "LBL_EDITING": "Редагувати",
     "LBL_EDIT_FIELDS": "Редактор полів",
@@ -1263,6 +1264,7 @@
     "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
     "LBL_SEND_MESSAGE": "Надіслати повідомлення",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Number of found e-mail addresses",
+    "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Number of selected records",
     "LBL_EMAIL_ADRESS": "E-mail address",
     "LBL_EMAIL_TEMPLATE": "E-mail template",
@@ -1379,7 +1381,11 @@
     "LBL_CREATEDMAIL": "Create email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_CHANGE_RELATION_DATA": "Change addidtional data"
+    "LBL_CHANGE_RELATION_DATA": "Change addidtional data",
+    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EDIT_COLOR": "Edit color",
+    "LBL_SELECT_COLOR": "Select color:",
+    "LBL_PREVIOUS_COLOR": "Previous color:"
   },
   "js": {
     "JS_APPROVE": "Схвалити",
@@ -1601,6 +1607,7 @@
     "JS_WEEK_SHORT": "тижд.",
     "JS_ADD_EVENT_TASK": "Додати запис",
     "JS_MORE": "More",
+    "JS_FULL_TEXT": "Full text",
     "JS_TO_REALIZE": "For processing",
     "JS_HISTORY": "Історія",
     "JS_WORK_DAYS": "Робочі дні",
