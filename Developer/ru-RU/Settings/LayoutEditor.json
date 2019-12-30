@@ -190,7 +190,8 @@
     "LBL_HEADER_TYPE_PROGRESS": "Панель прогресса",
     "LBL_EDIT_MANDATORY_INFO": "Применяется ко всей записи. Если выбрано «Нет», запись может быть сохранена без каких-либо элементов инвентаря.",
     "MultiDomain": "Домен мульти выбора",
-    "LBL_CHANGED_MODULE_TYPE_INFO": "Операция изменения типа модуля была добавлена в очередь задач cron."
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Операция изменения типа модуля была добавлена в очередь задач cron.",
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Блок с таким именем уже существует",

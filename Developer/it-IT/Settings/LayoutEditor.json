@@ -190,7 +190,8 @@
     "LBL_HEADER_TYPE_PROGRESS": "Barra di avanzamento",
     "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi",
     "MultiDomain": "Selezione dominio multiplo",
-    "LBL_CHANGED_MODULE_TYPE_INFO": "L'operazione di cambiamento tipo di modulo è stata aggiunta alla coda attività cron."
+    "LBL_CHANGED_MODULE_TYPE_INFO": "L'operazione di cambiamento tipo di modulo è stata aggiunta alla coda attività cron.",
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

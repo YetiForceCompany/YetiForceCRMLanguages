@@ -69,6 +69,13 @@
         "progress": 84,
         "time": "2019-11-22 08:14:33"
     },
+    "he-IL": {
+        "prefix": "he-IL",
+        "crowdinCode": "he",
+        "name": "Hebrew",
+        "progress": 5,
+        "time": "2019-12-30 11:07:20"
+    },
     "hr-HR": {
         "prefix": "hr-HR",
         "crowdinCode": "hr",
@@ -122,8 +129,8 @@
         "prefix": "no-NO",
         "crowdinCode": "no",
         "name": "Norwegian",
-        "progress": 13,
-        "time": "2019-12-19 11:06:07"
+        "progress": 17,
+        "time": "2019-12-30 11:09:31"
     },
     "pl-PL": {
         "prefix": "pl-PL",
@@ -172,7 +179,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 82,
-        "time": "2019-10-03 07:49:48"
+        "time": "2019-12-30 11:13:13"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -185,15 +192,15 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 44,
-        "time": "2019-10-09 10:53:04"
+        "progress": 45,
+        "time": "2019-12-30 11:14:48"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 98,
-        "time": "2019-11-08 09:02:36"
+        "time": "2019-12-30 11:02:39"
     },
     "zh-TW": {
         "prefix": "zh-TW",

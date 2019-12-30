@@ -28,10 +28,12 @@
     "Private": "Privat",
     "Public: Read Only": "Public: Doar citire",
     "Public: Read, Create\/Edit, Delete": "Public: Citeste, Creaza\/Modifica, Sterge",
-    "Public: Read, Create\/Edit": "Public: Citeste, Creaza\/Modifica"
+    "Public: Read, Create\/Edit": "Public: Citeste, Creaza\/Modifica",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regulamentul de partajare personalizat a fost salvat cu succes",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
   },
   "js": {
-    "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regulamentul de partajare personalizat a fost salvat cu succes",
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Oportunitati, Bilete, Cotatii si accesul la factura trebuie sa fie setate la privat cand accesul la cont este setat la confidential",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Regulile de partajare noi au fost aplicate pe succes",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Selectati orice utilizator care acceseaza"

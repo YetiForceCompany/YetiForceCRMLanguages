@@ -28,10 +28,12 @@
     "Private": "Privat",
     "Public: Read Only": "Öffentlich: Nur Lesen",
     "Public: Read, Create\/Edit, Delete": "Öffentlich: Lesen, Erstellen \/ Bearbeiten, Löschen",
-    "Public: Read, Create\/Edit": "Öffentlich: Lesen, Erstellen \/ Bearbeiten"
+    "Public: Read, Create\/Edit": "Öffentlich: Lesen, Erstellen \/ Bearbeiten",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Individuelle Freigaberegel erfolgreich gespeichert",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
   },
   "js": {
-    "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Individuelle Freigaberegel erfolgreich gespeichert",
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Verkaufspotentiale-, Tickets-, Angebote-, Auftrags- und Rechnungszugriff muss Privat sein, wenn der Organisationszugriff Privat ist",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Neue Freigaberegeln erfolgreich angewendet",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Einen anderen zugriffsberechtigten Benutzer wählen"

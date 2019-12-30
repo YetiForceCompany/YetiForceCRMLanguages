@@ -1385,7 +1385,8 @@
     "LBL_EMPTY_DASHBOARD": "선택한 대쉬보드는 비어있습니다.",
     "LBL_EDIT_COLOR": "색상 편집",
     "LBL_SELECT_COLOR": "색상 선택:",
-    "LBL_PREVIOUS_COLOR": "이전 색상:"
+    "LBL_PREVIOUS_COLOR": "이전 색상:",
+    "LBL_SHOW_ORIGINAL_CONTENT": "Show original content"
   },
   "js": {
     "JS_APPROVE": "Approve",

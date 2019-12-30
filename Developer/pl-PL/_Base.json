@@ -1385,7 +1385,8 @@
     "LBL_EMPTY_DASHBOARD": "Wybrany panel jest pusty.",
     "LBL_EDIT_COLOR": "Edycja koloru",
     "LBL_SELECT_COLOR": "Wybierz kolor:",
-    "LBL_PREVIOUS_COLOR": "Poprzedni kolor:"
+    "LBL_PREVIOUS_COLOR": "Poprzedni kolor:",
+    "LBL_SHOW_ORIGINAL_CONTENT": "Pokaż oryginalną zawartość"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

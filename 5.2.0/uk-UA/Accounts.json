@@ -1,8 +1,8 @@
 {
   "php": {
-    "Account Name": "Назва державної установи",
-    "Account No": "Державна установа №",
-    "Accounts": "Державні установи",
+    "Account Name": "Назва контрагента",
+    "Account No": "Контрагент №",
+    "Accounts": "Контрагенти",
     "Analyst": "Аналітик",
     "Competitor": "Конкурент",
     "Customer": "Клієнт",
@@ -20,9 +20,9 @@
     "FL_STATUS": "Статус",
     "LBL_COPY_BILLING_ADDRESS": "Копіювати юридичну адресу до фактичної",
     "LBL_COPY_SHIPPING_ADDRESS": "Копіювати фактичну адресу до юридичної",
-    "LBL_DUPLICATES_EXIST": "Державна установа з такою назвою вже існує",
+    "LBL_DUPLICATES_EXIST": "Контрагент з такою назвою вже існує",
     "LBL_END_DATE": "Дата закінчення ",
-    "LBL_SHOW_ACCOUNT_HIERARCHY": "Ієрархія державної установи",
+    "LBL_SHOW_ACCOUNT_HIERARCHY": "Ієрархія контрагентів",
     "LBL_START_DATE": "Дата початку",
     "Member Of": "Входить до (групи)",
     "Other Email": "Додатковий email",
@@ -33,7 +33,7 @@
     "Prospect": "Перспективний",
     "Reseller": "Посередник",
     "SIC Code": "SIC код",
-    "SINGLE_Accounts": "Державна установа",
+    "SINGLE_Accounts": "Контрагент",
     "Ticker Symbol": "Скорочена назва",
     "Payment balance": "Платіжний баланс",
     "LBL_CREATING_NEW": "Створити",
@@ -94,7 +94,7 @@
     "FL_AVAILABLE_TAXES": "Доступні податки"
   },
   "js": {
-    "JS_DUPLICTAE_CREATION_CONFIRMATION": "Державна установа вже існує. Створити дублікат?",
+    "JS_DUPLICTAE_CREATION_CONFIRMATION": "Контрагент вже існує. Створити дублікат?",
     "LBL_DELETE_CONFIRMATION": "Видалення запису спричинить видалення пов'язаних записів модулів Угоди та Пропозиції. Впевнені, що хочете видалити запис?",
     "LBL_MASS_DELETE_CONFIRMATION": "Видалення записів спричинить видалення пов'язаних записів модулів Угоди та Пропозиції. Впевнені, що хочете видалити запис?"
   }

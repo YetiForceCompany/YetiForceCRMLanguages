@@ -28,10 +28,12 @@
     "Private": "Privato",
     "Public: Read Only": "Pubblico: sola lettura",
     "Public: Read, Create\/Edit, Delete": "Pubblico: lettura, creazione \/ modifica, eliminazione",
-    "Public: Read, Create\/Edit": "Pubblico: lettura, creazione \/ modifica"
+    "Public: Read, Create\/Edit": "Pubblico: lettura, creazione \/ modifica",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regola di condivisione salvata con successo",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
   },
   "js": {
-    "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regola di condivisione salvata con successo",
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "L'accesso a opportunità, ticket, preventivi e fatture deve essere impostato a privato se l'accesso all'azienda relazionata è impostato a privato",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Nuove regole di condivisione applicate con successo",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Seleziona qualsiasi altro utente per l'accesso"

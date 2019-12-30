@@ -28,10 +28,12 @@
     "Private": "Particular",
     "Public: Read Only": "Público: Somente Leitura",
     "Public: Read, Create\/Edit, Delete": "Público: Leitura, Criar\/Editar, Apagar",
-    "Public: Read, Create\/Edit": "Público: Ler, Criar\/Editar"
+    "Public: Read, Create\/Edit": "Público: Ler, Criar\/Editar",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regra de Compartilhamento Customizada Salva com Sucesso",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
   },
   "js": {
-    "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regra de Compartilhamento Customizada Salva com Sucesso",
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "O acesso a Oportunidades, Chamados, Cotações, Pedido de Venda & Fatura devem ser configurados como Particular, quando o acesso à Organização estiver configurado como Particular",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Nova Regra de Compartilhamento Aplicada com Sucesso",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Selecionar qualquer outro usuário"

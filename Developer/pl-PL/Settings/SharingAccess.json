@@ -28,10 +28,12 @@
     "Private": "Prywatny",
     "Public: Read Only": "Publiczny: Podgląd",
     "Public: Read, Create\/Edit, Delete": "Publiczny: Podgląd, Tworzenie\/Edycja, Usuwanie",
-    "Public: Read, Create\/Edit": "Publiczny: Podgląd, Tworzenie\/Edycja"
+    "Public: Read, Create\/Edit": "Publiczny: Podgląd, Tworzenie\/Edycja",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Nowe zasady dostępu zostały zapisane",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Wystąpił błąd podczas zapisu zasad dostępu",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Wystąpił błąd podczas usuwania zasad dostępu"
   },
   "js": {
-    "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Nowe zasady dostępu zostały zapisane",
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Szanse sprzedaży, Zgłoszenia, Oferty, Zamówienia od klientów oraz Faktury muszą zostać zdefiniowane jako prywatne, jeżeli ustawiłeś Kontrahentów jako prywatnych.",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Nowe zasady udostępnianie zapisano poprawnie",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Wybierz przynajmniej jednego użytkownika"

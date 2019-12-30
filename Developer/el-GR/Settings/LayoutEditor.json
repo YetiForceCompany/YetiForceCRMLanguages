@@ -190,7 +190,8 @@
     "LBL_HEADER_TYPE_PROGRESS": "Μπάρα προόδου",
     "LBL_EDIT_MANDATORY_INFO": "Ισχύει για ολόκληρη την εγγραφή. Εάν 'Όχι' είναι επιλεγμένο, η εγγραφή μπορεί να σωθεί χωρίς γραμμές αποθέματος.",
     "MultiDomain": "Πολλαπλή επιλογή Domain",
-    "LBL_CHANGED_MODULE_TYPE_INFO": "Η λειτουργία αλλαγής του τύπου module έχει προστεθεί στην ουρά εργασιών του cron."
+    "LBL_CHANGED_MODULE_TYPE_INFO": "Η λειτουργία αλλαγής του τύπου module έχει προστεθεί στην ουρά εργασιών του cron.",
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

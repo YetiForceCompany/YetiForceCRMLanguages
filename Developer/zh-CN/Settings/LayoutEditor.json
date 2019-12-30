@@ -190,7 +190,8 @@
     "LBL_HEADER_TYPE_PROGRESS": "进度条",
     "LBL_EDIT_MANDATORY_INFO": "适用于整个记录。如果选择 \"否\", 则可以在没有任何库存行的情况下保存记录。",
     "MultiDomain": "域多选",
-    "LBL_CHANGED_MODULE_TYPE_INFO": "模块类型更改操作已添加到敌定时任务队列中。"
+    "LBL_CHANGED_MODULE_TYPE_INFO": "模块类型更改操作已添加到敌定时任务队列中。",
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",
@@ -226,6 +227,6 @@
     "JS_SAVE_CHANGES": "更改已保存.",
     "JS_NOTIFY_COPY_TEXT": "已复制到剪贴板",
     "JS_NOTIFY_COPY_TITLE": "文本",
-    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
+    "JS_EXIST_PICKLIST_NAME": "该名称已经被使用. 您希望作为共享的名称使用吗?"
   }
 }

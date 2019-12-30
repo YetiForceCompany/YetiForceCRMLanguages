@@ -1385,7 +1385,8 @@
     "LBL_EMPTY_DASHBOARD": "Il cruscotto selezionato è vuoto.",
     "LBL_EDIT_COLOR": "Modifica colore",
     "LBL_SELECT_COLOR": "Seleziona colore:",
-    "LBL_PREVIOUS_COLOR": "Colore precedente:"
+    "LBL_PREVIOUS_COLOR": "Colore precedente:",
+    "LBL_SHOW_ORIGINAL_CONTENT": "Show original content"
   },
   "js": {
     "JS_APPROVE": "Approva",

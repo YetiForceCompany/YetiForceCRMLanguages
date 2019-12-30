@@ -1,19 +1,19 @@
 {
   "php": {
-    "EmailTemplates": "Email templates",
-    "SINGLE_EmailTemplates": "Email template",
-    "LBL_CONTENT_MAIL": "Email content",
-    "LBL_BASIC_DETAILS": "Basic information",
-    "FL_NAME": "Name",
+    "EmailTemplates": "E-post maler",
+    "SINGLE_EmailTemplates": "E-post mal",
+    "LBL_CONTENT_MAIL": "E-post innhold",
+    "LBL_BASIC_DETAILS": "Grunninformasjon",
+    "FL_NAME": "Navn",
     "FL_TYPE": "Type",
-    "FL_MODULE": "Module",
-    "FL_SUBJECT": "Subject",
-    "FL_CONTENT": "Content",
-    "FL_SMTP_PRIORITY": "SMTP priority",
-    "PLL_MODULE": "Module",
-    "PLL_RECORD": "Record",
-    "PLL_MAIL": "Message",
-    "PLL_LIST": "List",
-    "PLL_DEFAULT": "Default company"
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Emne",
+    "FL_CONTENT": "Innhold",
+    "FL_SMTP_PRIORITY": "SMTP-prioritet",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Post",
+    "PLL_MAIL": "Melding",
+    "PLL_LIST": "Liste",
+    "PLL_DEFAULT": "Standard selskap"
   }
 }

@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "具有自定义预定义列的库存表",
     "LBL_DYNAMIC_INVENTORY_TABLE": "具有动态列的库存表",
     "LBL_INVENTORY_VARIABLES": "其他库存变量",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "记录列表",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "用户变量"
   }
 }

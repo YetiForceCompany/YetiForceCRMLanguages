@@ -31,7 +31,7 @@
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "没有加密会导致敏感数据（如邮箱密码和访问密钥）以明文形式存储在数据库中。",
     "LBL_RECOMMENDED_VALUE": "推荐",
     "LBL_CONFIG_DOC_URL": "https:\/\/yetiforce.com\/en\/knowledge-base\/documentation\/implementer-documentation\/item\/web-server-requirements",
-    "LBL_CONFIG_DOC_URL_LABEL": "yetiforce.com官网的Web服务器要求",
+    "LBL_CONFIG_DOC_URL_LABEL": "Web服务器配置需求在网站yetiforce.com",
     "LBL_CONFIG_SERVER_DESC": "服务器配置设置不正确。系统可能有问题, 或者输入的数据可能已损坏或删除。更多信息可在文章%s 中找到:",
     "LBL_PERFORMANCE": "性能",
     "LBL_PHPEXT": "PHP 扩展",
