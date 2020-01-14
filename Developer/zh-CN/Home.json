@@ -32,7 +32,7 @@
     "LBL_VALUE_FIELD": "值字段",
     "LBL_NUMBER_OF_RECORDS": "记录数量",
     "LBL_SUM": "总和",
-    "LBL_AVG": "一般",
+    "LBL_AVG": "平均",
     "LBL_GROUP_FIELD": "按字段分组",
     "LBL_GROUP_VALUES": "拆分分组值",
     "LBL_FILTER_BY_OWNER": "按所有者筛选",

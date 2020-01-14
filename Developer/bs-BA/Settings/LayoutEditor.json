@@ -191,7 +191,7 @@
     "LBL_EDIT_MANDATORY_INFO": "Primjenjuje se na cijeli zapis. Ako je odabrano 'Ne', zapis se može spremiti bez ikakvih redaka inventara.",
     "MultiDomain": "Dodela više domena",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Operacija promjene tipa modula dodana je u red čekanja zadataka.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Neprilagođena polja ne mogu se izbrisati"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Naziv bloka već postoji",
@@ -227,6 +227,6 @@
     "JS_SAVE_CHANGES": "Promjene su uspješno spremljene.",
     "JS_NOTIFY_COPY_TEXT": "Kopirano u međuspremnik",
     "JS_NOTIFY_COPY_TITLE": "Tekst",
-    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
+    "JS_EXIST_PICKLIST_NAME": "To se ime već koristi. Želite li ga spremiti kao zajednički popis?"
   }
 }

@@ -12,7 +12,7 @@
     "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
     "LBL_IMPORTED_EXTENSION": "Extension installée avec succès.",
     "LBL_IMPORTED_LANGUAGE": "Langue installée avec succès.",
-    "LBL_IMPORTED_FONT": "Font has been installed successfully.",
+    "LBL_IMPORTED_FONT": "La police a été installée avec succès.",
     "LBL_IMPORTING_MODULE": "Import module en cours",
     "LBL_IMPORT_ZIP": "Installer depuis le fichier",
     "LBL_INSTALLATION": "Installation",
@@ -41,10 +41,10 @@
     "LBL_VERSION_NOT_SUPPORTED": "La version du module version n'est pas compatible avec la version YetiForce",
     "LBL_VERSION": "Version",
     "LBL_IMPORT_MODULE_FROM_FILE": "Importer lot depuis fichier",
-    "LBL_DELETE_EXIST_DIRECTORY": "Module directory already exists. In order to continue the import, delete the directory with a module name.",
+    "LBL_DELETE_EXIST_DIRECTORY": "Le répertoire des modules existe déjà. Pour continuer l'importation, supprimez le répertoire avec le nom du module.",
     "LBL_ERROR_VERSION": "Mauvaise version du module, module version __MODULEVERSION__ mais la version devrait être supérieure à __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "Module ne contient pas la langue par défaut (__DEFAULTLANGUAGE__).",
-    "LBL_ERROR_MISSING_FILES": "No files found in the package",
+    "LBL_ERROR_MISSING_FILES": "Aucun fichier trouvé dans le paquet",
     "LBL_ERROR_NO_LAYOUT_FILE": "Pas de fichier Smart",
     "LBL_IMPORT": "Importer",
     "LBL_TOO_SMALL_UPLOAD_LIMIT": "La limite import(upload) est trop petite",
@@ -76,13 +76,13 @@
     "LBL_LIBRARY_NEEDS_UPDATING": "Mise à jour requise",
     "LBL_NO_PERMISSION_TO_DIR": "Pas d'autorisation pour les répertoires",
     "LBL_ERROR_NO_VALID_PREFIX": "Préfixe de langue incorrect",
-    "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Module name must not contain the word Settings",
+    "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Le nom du module ne doit pas contenir les paramètres du mot",
     "LBL_SAMPLE_FIELD_NAME": "sample_name",
     "LBL_DELETE_MODULE": "Delete module",
     "LBL_EXPORT_MODULE": "Export module",
     "LBL_PREMIUM_MODULE": "Premium module",
     "LBL_SETTINGS": "Settings",
-    "LBL_SAMPLE_LABEL": "Sample name"
+    "LBL_SAMPLE_LABEL": "Nom de l'échantillon"
   },
   "js": {
     "JS_UPDATED_MODULE": "Mise à jour réussie",
@@ -91,7 +91,7 @@
     "JS_IMPORT_SUCCESSFULL": "Installation réussie",
     "JS_FOR_INSTALLATION": "pour l'installation",
     "JS_CLICK_HERE": "Cliquer ici",
-    "JS_ON": "On",
+    "JS_ON": "Activé",
     "JS_REMOVED_MODULE": "Module supprimé",
     "JS_SPECIAL_CHARACTERS_NOT_ALLOWED": "Les caractères spéciaux comme & <> '"
   }

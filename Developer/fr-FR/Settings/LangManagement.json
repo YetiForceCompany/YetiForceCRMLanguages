@@ -15,7 +15,7 @@
     "LBL_Lang_ac_admin": "Administrateur",
     "LBL_Lang_ac_user": "Utilisateurs",
     "LBL_Lang_action": "Actions",
-    "LBL_LAST_UPDATE": "Update date",
+    "LBL_LAST_UPDATE": "Date de mise à jour",
     "LBL_SaveDataOK": "Modifications sauvegardées",
     "LBL_DeleteDataOK": "Langue supprimée",
     "LBL_AddDataOK": "Nouvelle langue ajoutée",
@@ -52,9 +52,9 @@
     "LBL_SHOW": "Afficher",
     "LBL_STATS_INFO": "Les valeurs statistiques affichées représentent le nombre de labels non traduits sur l'ensemble des labels qui existent dans la langue de base exprimées en pourcentage.",
     "LBL_UNTRANSLATED_LABELS": "Étiquettes non traduites",
-    "LBL_IMPORT_LANG": "Import language",
-    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
-    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
+    "LBL_IMPORT_LANG": "Importer une langue",
+    "LBL_IETF_LANGUAGE_TAG": "Balise de langue IETF",
+    "LBL_NOT_CORRECT_LANGUAGE_TAG": "La balise de langue n'est pas conforme à la norme IETF."
   },
   "js": {
     "Translations": "Traductions",

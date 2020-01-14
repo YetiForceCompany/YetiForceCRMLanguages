@@ -369,11 +369,11 @@
     "LBL_GLOBAL_SEARCH_SETTINGS": "Postavke globalnog pretraživanja",
     "FL_PRIMARY_PHONE": "Primarni telefon",
     "LBL_USER_MAIL": " Mail",
-    "LBL_USER_GUI": "Layout",
-    "LBL_USER_INTEGRATION": "Integration",
-    "LBL_USER_AUTOMATION": "Automation",
-    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
-    "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
+    "LBL_USER_GUI": "Izgled",
+    "LBL_USER_INTEGRATION": "Integracija",
+    "LBL_USER_AUTOMATION": "Automatizacija",
+    "FL_MAIL_SCANNER_ACTIONS": "Mail Scanner akcije",
+    "FL_MAIL_SCANNER_FIELDS": "Mail Scanner polja"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalni separator i separator grupiranja ne mogu biti isti.",

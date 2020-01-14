@@ -28,7 +28,7 @@
     "Paid": "Payé",
     "Free": "Gratuit",
     "LBL_CALENDAR_VIEW": "Calendrier",
-    "LBL_TIMECONTROL_TYPE": "Type",
+    "LBL_TIMECONTROL_TYPE": "Type ",
     "SETTINGS": "Paramètres",
     "LBL_HELP_SETTINGS": "Aide",
     "DELETE": "Effacer",
@@ -36,9 +36,9 @@
     "Inc_Date": "Etendre la date de fin à :",
     "Round time to": "Arrondir les heures à : ",
     "No Rounding": "Ne pas arrondir",
-    "5 minutes": "5 minutes",
-    "15 minutes": "15 minutes",
-    "30 minutes": "30 minutes",
+    "5 minutes": "5 minutes",
+    "15 minutes": "15 minutes",
+    "30 minutes": "30 minutes",
     "1 hour": "1 heure",
     "MSG_EDIT_OK": "Changements de configuration faits avec succès.",
     "MSG_EDIT_ERROR": "Echec de la sauvegarde des changements.",
@@ -93,7 +93,7 @@
     "LBL_TIME_CONTROL_LIST": "Time Control List",
     "LBL_TIME_CONTROL_DETAILED_LIST": "Time Control Detailed List",
     "LBL_TIME_CONTROL_USER_GROUP": "Time Control List with additional information about users",
-    "LBL_TYPE": "Activity type",
+    "LBL_TYPE": "Type d'activité",
     "FL_SUBPROCESS_SECOND_LEVEL": "Deuxième niveau sous-processus"
   },
   "js": {
@@ -104,7 +104,7 @@
     "JS_END_DATE": "Date de fin",
     "JS_TOTAL_TIME": "Temps total",
     "JS_ASSIGNED_TO": "Assigné à",
-    "JS_TYPE": "Type",
+    "JS_TYPE": "Type ",
     "JS_NUMBER": "Nombre"
   }
 }

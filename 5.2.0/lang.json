@@ -46,7 +46,7 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 99,
-        "time": "2019-10-03 07:44:23"
+        "time": "2020-01-14 08:23:35"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 84,
-        "time": "2019-11-22 08:14:33"
+        "progress": 90,
+        "time": "2020-01-14 08:22:46"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -109,7 +109,7 @@
         "crowdinCode": "ko",
         "name": "Korean",
         "progress": 19,
-        "time": "2019-12-19 11:05:40"
+        "time": "2020-01-14 08:25:43"
     },
     "nl-BE": {
         "prefix": "nl-BE",
@@ -200,7 +200,7 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 98,
-        "time": "2019-12-30 11:02:39"
+        "time": "2020-01-14 08:19:52"
     },
     "zh-TW": {
         "prefix": "zh-TW",

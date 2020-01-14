@@ -23,7 +23,7 @@
     "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Sans droits d'accès au module, l'utilisateur n'a pas accès au module",
     "SEC_MODULE_PERMISSIONS_NO": "Sans droits d'accès au module, l'utilisateur n'a pas accès au module",
     "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Aucune permission pour effectuer des actions dans le module",
-    "SEC_RECORD_BY_SHARING_NO": "No permissions based on access rules (Module access)",
+    "SEC_RECORD_BY_SHARING_NO": "Aucune autorisation basée sur les règles d'accès (accès au module)",
     "SEC_MODULE_NO_ACTION_TOOL": "Pas d'autorisation d'action - Action non trouvée"
   }
 }

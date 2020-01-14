@@ -372,6 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Missing license file",
     "LBL_SUGAR_DESCRIPTION": "Vtiger was based on Sugar CRM. Currently, only several Sugar files remain in YetiForce.",
     "LBL_VTIGER_DESCRIPTION": "Остават около 30% от първоначалния код на Vtiger. Оставащият код е пренаписан и разширен.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
     "LBL_YETIFORCE_SHOP": "Store",
     "LBL_YETIFORCE_ISSUES": "Free support",
     "LBL_YETIFORCE_ASSISTANCE": "Paid support",

@@ -1,23 +1,23 @@
 {
   "php": {
     "LBL_BUSINESS_HOURS": "Heures d'ouverture",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Le module d'heures d'ouverture est un module où vous pouvez définir les heures de travail de votre équipe.",
     "LBL_WORKING_HOURS_FROM": "De",
     "LBL_WORKING_HOURS_TO": "A",
     "LBL_WORKING_DAYS": "Jours ouvrables",
     "LBL_WORKING_HOURS": "Horaire de travail",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings"
+    "LBL_DEFAULT": "Défaut",
+    "LBL_NAME": "Nom",
+    "LBL_HOLIDAYS": "Vacances",
+    "LBL_EDIT_BUSINESS_HOURS": "Modifier les heures d'ouverture",
+    "LBL_ADD_BUSINESS_HOURS": "Ajouter des heures d'entrée",
+    "LBL_DEFAULT_TIMES": "Heure par défaut",
+    "LBL_DEFAULT_REACTION_TIME": "Temps de réaction par défaut",
+    "LBL_DEFAULT_IDLE_TIME": "Temps d'inactivité par défaut",
+    "LBL_DEFAULT_RESOLVE_TIME": "Temps de résolution par défaut",
+    "LBL_HOLIDAYS_LINK": "Accéder aux paramètres des vacances"
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Êtes-vous sûr de vouloir supprimer cette entrée ?"
   }
 }

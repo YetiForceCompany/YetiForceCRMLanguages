@@ -58,8 +58,8 @@
     "Citi": "Citi Handlowy",
     "idea": "Idea Bank S.A.",
     "FL_TRANSACTION": "Transaction",
-    "FL_ORDER": "Order",
-    "FL_INVOICE": "Invoice",
-    "FL_PAYMENT_SYSTEM": "Payment system"
+    "FL_ORDER": "Commande",
+    "FL_INVOICE": "Facture",
+    "FL_PAYMENT_SYSTEM": "Système de paiement"
   }
 }

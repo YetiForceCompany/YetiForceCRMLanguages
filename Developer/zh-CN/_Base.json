@@ -1386,7 +1386,7 @@
     "LBL_EDIT_COLOR": "编辑颜色",
     "LBL_SELECT_COLOR": "选择颜色",
     "LBL_PREVIOUS_COLOR": "前一个颜色:",
-    "LBL_SHOW_ORIGINAL_CONTENT": "Show original content"
+    "LBL_SHOW_ORIGINAL_CONTENT": "显示原文"
   },
   "js": {
     "JS_APPROVE": "同意",

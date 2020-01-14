@@ -14,7 +14,7 @@
     "Office Phone": "Téléphone bureau",
     "Portal User": "Utilisateur portail",
     "Reference": "Référence",
-    "Reports To": "Parent Contact",
+    "Reports To": "Contact parent",
     "Secondary Email": "Email secondaire",
     "SINGLE_Contacts": "Contact",
     "Support End Date": "Date de fin de support",
@@ -44,7 +44,7 @@
     "Birthdays of contacts": "Anniversaires des contacts",
     "LBL_SWITCH_ON_DECISION_MAKER": "Décideur",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Tout",
-    "LBL_SHOW_HIERARCHY": "Contact hierarchy",
+    "LBL_SHOW_HIERARCHY": "Hiérarchie des contacts",
     "FL_APPROVALS": "Approvals"
   },
   "js": {}

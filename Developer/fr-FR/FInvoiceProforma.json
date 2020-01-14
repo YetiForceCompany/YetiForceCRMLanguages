@@ -13,7 +13,7 @@
     "FL_NUMBER": "N° de facture",
     "FL_TOTAL": "HT",
     "FL_GROSS": "TTC",
-    "PLL_CASH": "Cash",
+    "PLL_CASH": "Espèces",
     "PLL_TRANSFER": "Virement",
     "PLL_WIRE_TRANSFER": "Transfert électronique"
   }

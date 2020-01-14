@@ -372,6 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Nedostaje datoteka sa licencom",
     "LBL_SUGAR_DESCRIPTION": "Vtiger je zasnovan na Sugar CRM. Trenutno je u YetiForceu ostalo samo nekoliko Sugar datoteka.",
     "LBL_VTIGER_DESCRIPTION": "Ostaje oko 30% Vtigerovog originalnog koda. Preostali kod je prepravljen i proširen.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat zvuk",
     "LBL_YETIFORCE_SHOP": "Prodavnica",
     "LBL_YETIFORCE_ISSUES": "Besplatna podrška",
     "LBL_YETIFORCE_ASSISTANCE": "Plaćena podrška",
@@ -381,9 +382,9 @@
     "LBL_SEARCH_PLACEHOLDER": "Traži ...",
     "LBL_VULNERABILITIES": "Ranjivosti",
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista biblioteka ranjivosti",
-    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
-    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
-    "LBL_PREFIX": "Prefix"
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Postavke sekvence popisa",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Postavke sekvence popisa",
+    "LBL_PREFIX": "Prefiks"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",

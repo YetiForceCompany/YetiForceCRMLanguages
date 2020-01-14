@@ -372,6 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Fehlende Lizenzdatei",
     "LBL_SUGAR_DESCRIPTION": "Vtiger basierte auf Sugar CRM. Aktuell sind nur noch vereinzelt Dateien aus Sugar in Yetiforce.",
     "LBL_VTIGER_DESCRIPTION": "Etwa 30% des Orginalcodes von Vtiger sind übrig. Der verbleibende Code wurde neu geschrieben und erweitert.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
     "LBL_YETIFORCE_SHOP": "Shop",
     "LBL_YETIFORCE_ISSUES": "Kostenloser Support",
     "LBL_YETIFORCE_ASSISTANCE": "Bezahlter Support",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "FInvoice": "Sales invoices",
-    "SINGLE_FInvoice": "Sales invoice",
+    "FInvoice": "Les factures de ventes",
+    "SINGLE_FInvoice": "Facture de vente",
     "LBL_CUSTOM_INFORMATION": "Information système",
     "LBL_INVOICE_ADDRESS": "Adresse de facturation",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresse de livraison",
@@ -38,12 +38,12 @@
     "PLL_CANCELLED": "Annulé",
     "PLL_ACCEPTED": "Accepté",
     "LBL_YEAR": "Années",
-    "FL_ISSUE_TIME": "Invoice date",
+    "FL_ISSUE_TIME": "Date de facture",
     "FL_OPPORTUNITY": "Opportunité",
     "FL_PROJECT": "Projet",
     "PLL_NOT_PAID": "Non payé",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_PAID": "Payé",
+    "PLL_OVERPAID": "Surpayé",
+    "PLL_UNDERPAID": "Sous-payé"
   }
 }

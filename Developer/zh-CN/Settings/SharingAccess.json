@@ -30,8 +30,8 @@
     "Public: Read, Create\/Edit, Delete": "公开︰ 读取、创建\/编辑、删除",
     "Public: Read, Create\/Edit": "公开︰ 读取、创建\/编辑、删除",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "自定义共享规则已保存",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "保存共享访问规则失败",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "删除共享访问规则失败"
   },
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "当客户访问权限设置为私有时，销售机会、服务单、报价单、销售订单和付款通知单付款通知单也必须设置为私有",

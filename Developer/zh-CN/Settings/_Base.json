@@ -372,6 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "缺少许可证文件",
     "LBL_SUGAR_DESCRIPTION": "Vtiger 是基于 Sugar CRM 的。目前, 只有几个糖文件留在 YetiForce。",
     "LBL_VTIGER_DESCRIPTION": "保留了大约 30% 的 Vtiger 源代码。其余代码已被重写和扩展。",
+    "LBL_CHAT_SOUND_DESCRIPTION": "聊天声音",
     "LBL_YETIFORCE_SHOP": "商店",
     "LBL_YETIFORCE_ISSUES": "免费支持",
     "LBL_YETIFORCE_ASSISTANCE": "付费支持",

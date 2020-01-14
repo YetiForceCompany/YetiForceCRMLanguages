@@ -40,10 +40,10 @@
     "PLL_MANUAL": "Manuel",
     "PLL_SHOP": "Boutique",
     "FL_STORAGE": "Rangement",
-    "FL_PAYMENT_STATUS": "Payment status",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_PAYMENT_STATUS": "Statut du paiement",
+    "PLL_NOT_PAID": "Non payé",
+    "PLL_PAID": "Payé",
+    "PLL_OVERPAID": "Surpayé",
+    "PLL_UNDERPAID": "Sous-payé"
   }
 }

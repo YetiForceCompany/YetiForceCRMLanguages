@@ -9,7 +9,6 @@
     "LBL_GROUPS_INFO": "Grupe bez dodeljenog",
     "LBL_LEAD_STATUS": "Statusi koji ukazuju na završetak rada s Tragovima",
     "LBL_LEAD_CONVERT_STATUS": "Statusi koji omogućavaju pretvaranje Traga u Klijenta",
-    "LBL_CURRENTUSER_STATUS": "Promjena Dodijeljen korisniku koji uređuje zapis",
     "LBL_CONVERT_LEAD_MERGE": "Povežite zapis koji ispunjava određene zahtjeve Prilikom konverzije s Klijenta u Trag",
     "LBL_CONVERT_LEAD_MERGE_ALERT": "Ova opcija omogućuje sustavu da automatski poveže pretvoreni zapis s već postojećim - novi Klijent neće biti stvoren, umjesto toga, svi postojeći podaci zapisa biće preneseni s Traga",
     "LBL_CONDITION": "Dodaj uslov",

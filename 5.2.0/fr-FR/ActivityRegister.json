@@ -19,11 +19,11 @@
     "PLL_INTERNAL": "Interne",
     "FL_START_DATE": "Date de début",
     "FL_END_DATE": "Date de fin",
-    "LBL_DATES": "Activity dates",
+    "LBL_DATES": "Dates d'activité",
     "LBL_DESCRIPTION": "Description",
     "FL_DESCRIPTION": "Description",
     "FL_COMMENTS": "Commentaires",
     "LBL_COMMENTS": "Commentaires",
-    "FL_ACTIVITY_TYPE": "Activity type"
+    "FL_ACTIVITY_TYPE": "Type d'activité"
   }
 }

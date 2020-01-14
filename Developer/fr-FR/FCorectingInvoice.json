@@ -15,7 +15,7 @@
     "FL_TOTAL": "HT",
     "FL_GROSS": "TTC",
     "FL_STATUS": "Statut",
-    "PLL_CASH": "Cash",
+    "PLL_CASH": "Espèces",
     "PLL_TRANSFER": "Virement",
     "PLL_WIRE_TRANSFER": "Transfert électronique",
     "LBL_YEAR": "Année",
@@ -32,6 +32,6 @@
     "LBL_AFTER_INVOICE_INFO_EDIT": "Zones de facture à corriger. Copiez toutes les zones de la facture initiale et modifiez les valeurs au besoin."
   },
   "js": {
-    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Select invoice to be corrected"
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Sélectionnez la facture à corriger"
   }
 }

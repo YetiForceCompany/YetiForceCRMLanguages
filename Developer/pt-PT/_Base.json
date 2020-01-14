@@ -1386,7 +1386,7 @@
     "LBL_EDIT_COLOR": "Editar cor",
     "LBL_SELECT_COLOR": "Selecionar cor:",
     "LBL_PREVIOUS_COLOR": "Cor anterior:",
-    "LBL_SHOW_ORIGINAL_CONTENT": "Show original content"
+    "LBL_SHOW_ORIGINAL_CONTENT": "Mostrar conteúdo original"
   },
   "js": {
     "JS_APPROVE": "Aprovar",
