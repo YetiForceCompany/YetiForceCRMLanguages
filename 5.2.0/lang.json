@@ -195,6 +195,13 @@
         "progress": 45,
         "time": "2019-12-30 11:14:48"
     },
+    "vi-VN": {
+        "prefix": "vi-VN",
+        "crowdinCode": "vi",
+        "name": "Vietnamese",
+        "progress": 6,
+        "time": "2020-01-15 08:01:14"
+    },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
