@@ -242,7 +242,13 @@
     "LBL_ATTACH_DOCS_FROM": "Załącz dokumenty z",
     "LBL_WATCHDOG_INFO": "To zadanie poprawnie działa poprawnie tylko z hierarchią modułów.",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Pokaż zadania",
-    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Włącz zadania dezaktywacji"
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Włącz zadania dezaktywacji",
+    "LBL_EMAIL_REPORT": "Raport e-mail",
+    "LBL_SELECT_USERS": "Wybierz użytkowników, grupy, role",
+    "LBL_SELECT_USERS_INFO": "Wybierz użytkowników, grupy, role do których powinien być wysłany raport",
+    "LBL_WORKINGDAY_DAY": "Każdy dzień roboczy",
+    "LBL_WORKINGDAY_WEEK": "Pierwszy roboczy dzień tygodnia",
+    "LBL_WORKINGDAY_MONTH": "Pierwszy roboczy dzień miesiąca"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

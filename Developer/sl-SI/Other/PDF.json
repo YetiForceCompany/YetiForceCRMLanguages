@@ -24,7 +24,7 @@
     "LBL_LAST_NAME": "Priimek",
     "LBL_PHONE": "Telefon",
     "LBL_EMAIL": "Elektronski naslov",
-    "LBL_VATID": "ID za DDV",
+    "LBL_VATID": "ID DDV",
     "LBL_SALE_DATE": "Datum prodaje",
     "LBL_PAYMENT_METHOD": "Način plačila",
     "LBL_PLACE_DATE": "Kraj, datum"

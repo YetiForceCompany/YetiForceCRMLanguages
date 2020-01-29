@@ -8,6 +8,7 @@
     "LBL_2FA_CONF": "Autenticazione 2FA",
     "LBL_TOTP": "Algoritmo password monouso temporanea",
     "LBL_TOTP_AUTHY_MODE_DESC": "Seleziona modalità di autenticazione",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Numero massimo di tentativi falliti nell'inserimento codice di verifica"
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Numero massimo di tentativi falliti nell'inserimento codice di verifica",
+    "LBL_TOTP_WHITE_LIST": "IP white list"
   }
 }

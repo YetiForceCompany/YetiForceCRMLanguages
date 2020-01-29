@@ -44,6 +44,8 @@
     "LBL_TRANSFER_LINK": "el registro fue cambiado en el proceso de transferencia",
     "LBL_INV_ADDED": "Añadido",
     "LBL_INV_UPDATED": "Actualizado",
-    "LBL_INV_DELETED": "Borrado"
+    "LBL_INV_DELETED": "Borrado",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
+    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
   }
 }

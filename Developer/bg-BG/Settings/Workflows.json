@@ -242,7 +242,13 @@
     "LBL_ATTACH_DOCS_FROM": "Прикачи документ от",
     "LBL_WATCHDOG_INFO": "Тази задача работи пражилно само при йерархия на модули.",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Покажи всички задачи",
-    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Активирайте задачите за дезактивиране"
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Активирайте задачите за дезактивиране",
+    "LBL_EMAIL_REPORT": "Email report",
+    "LBL_SELECT_USERS": "Select users, groups, roles",
+    "LBL_SELECT_USERS_INFO": "Select users, groups, roles to whom the report should be sent",
+    "LBL_WORKINGDAY_DAY": "Every working day",
+    "LBL_WORKINGDAY_WEEK": "First working day of the week",
+    "LBL_WORKINGDAY_MONTH": "First working day of the month"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

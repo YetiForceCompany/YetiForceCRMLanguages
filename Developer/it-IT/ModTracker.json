@@ -44,6 +44,8 @@
     "LBL_TRANSFER_LINK": "La relazione è stata aggiunta dal processo di trasferimento",
     "LBL_INV_ADDED": "Aggiunto P/S",
     "LBL_INV_UPDATED": "Modificato P/S",
-    "LBL_INV_DELETED": "Eliminato P/S"
+    "LBL_INV_DELETED": "Eliminato P/S",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Aggiornamenti configurazione widget",
+    "LBL_PERSON_MAKING_CHANGES": "Persona che apporta modifiche"
   }
 }

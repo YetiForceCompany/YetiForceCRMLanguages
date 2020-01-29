@@ -9,7 +9,7 @@
     "LBL_FAILED": "Fehlgeschlagen",
     "LBL_FINISH": "Beenden",
     "LBL_IMPORTED_MODULE": "%s Modul wurde erfolgreich importiert.",
-    "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
+    "LBL_IMPORTED_UPDATE": "%s System wurde erfolgreich aktualisiert.",
     "LBL_IMPORTED_EXTENSION": "Erweiterung wurde erfolgreich installiert.",
     "LBL_IMPORTED_LANGUAGE": "Sprache wurde erfolgreich installiert.",
     "LBL_IMPORTED_FONT": "Schrift wurde erfolgreich installiert.",
@@ -78,10 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Umgültiges Sprachpräfix",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Modulname darf nicht das Wort Settings beinhalten",
     "LBL_SAMPLE_FIELD_NAME": "beispiel_name",
-    "LBL_DELETE_MODULE": "Delete module",
-    "LBL_EXPORT_MODULE": "Export module",
-    "LBL_PREMIUM_MODULE": "Premium module",
-    "LBL_SETTINGS": "Settings",
+    "LBL_DELETE_MODULE": "Modul löschen",
+    "LBL_EXPORT_MODULE": "Modul exportieren",
+    "LBL_PREMIUM_MODULE": "Premium-Modul",
+    "LBL_SETTINGS": "Einstellungen",
     "LBL_SAMPLE_LABEL": "Beispielname"
   },
   "js": {

@@ -8,6 +8,7 @@
     "LBL_2FA_CONF": "Многофакторная аутентификация",
     "LBL_TOTP": "Основанный на времени алгоритм одноразового пароля",
     "LBL_TOTP_AUTHY_MODE_DESC": "Выберите режимы аутентификации",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Максимальное количество неудачных попыток ввести проверочный код"
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Максимальное количество неудачных попыток ввести проверочный код",
+    "LBL_TOTP_WHITE_LIST": "IP white list"
   }
 }

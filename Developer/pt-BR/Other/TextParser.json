@@ -60,6 +60,10 @@
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabela de inventário com colunas dinâmicas",
     "LBL_INVENTORY_VARIABLES": "Variáveis adicionais de inventário",
     "LBL_TEXT_PARSER_RECORDS_LIST": "Lista de registos",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "Variável de utilizador"
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Variável de utilizador",
+    "LBL_REPORT_NEW_RECORDS": "New records in given module",
+    "LBL_REPORT_SSALESPROCESSES": "Opportunity records",
+    "LBL_REPORT_CALENDAR": "Calendar records",
+    "LBL_REPORT_OVERDUE": "Overdue records"
   }
 }

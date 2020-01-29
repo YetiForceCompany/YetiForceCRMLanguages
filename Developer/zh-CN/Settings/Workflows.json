@@ -242,7 +242,13 @@
     "LBL_ATTACH_DOCS_FROM": "附件文件来源",
     "LBL_WATCHDOG_INFO": "此任务仅适用于层次结构模块。",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "显示任务",
-    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "启用停用任务"
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "启用停用任务",
+    "LBL_EMAIL_REPORT": "Email report",
+    "LBL_SELECT_USERS": "Select users, groups, roles",
+    "LBL_SELECT_USERS_INFO": "Select users, groups, roles to whom the report should be sent",
+    "LBL_WORKINGDAY_DAY": "Every working day",
+    "LBL_WORKINGDAY_WEEK": "First working day of the week",
+    "LBL_WORKINGDAY_MONTH": "First working day of the month"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "重复选择了同一字段",

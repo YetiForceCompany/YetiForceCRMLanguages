@@ -44,6 +44,8 @@
     "LBL_TRANSFER_LINK": "dodano powiązanie w procesie transferu",
     "LBL_INV_ADDED": "Dodano",
     "LBL_INV_UPDATED": "Zmieniono",
-    "LBL_INV_DELETED": "Usunięto"
+    "LBL_INV_DELETED": "Usunięto",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Aktualizacja konfiguracji widgetów",
+    "LBL_PERSON_MAKING_CHANGES": "Osoba dokonująca zmian"
   }
 }

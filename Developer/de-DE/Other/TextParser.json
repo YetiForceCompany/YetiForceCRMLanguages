@@ -59,7 +59,11 @@
     "LBL_INVENTORY_TABLE": "Inventar-Tabelle mit benutzerdefinierten vordefinierten Spalten",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Inventar-Tabelle mit dynamischen Spalten",
     "LBL_INVENTORY_VARIABLES": "Zusätzliche Inventarvariablen",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "Liste der Datensätze",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Benutzervariable",
+    "LBL_REPORT_NEW_RECORDS": "Neue Datensätze im angegebenen Modul",
+    "LBL_REPORT_SSALESPROCESSES": "Verkaufschance Datensätze",
+    "LBL_REPORT_CALENDAR": "Kalendereinträge",
+    "LBL_REPORT_OVERDUE": "Überfällige Datensätze"
   }
 }

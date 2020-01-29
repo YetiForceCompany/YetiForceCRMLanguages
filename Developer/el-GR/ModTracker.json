@@ -44,6 +44,8 @@
     "LBL_TRANSFER_LINK": "σχέση προστέθηκε στη διαδικασία μεταφοράς",
     "LBL_INV_ADDED": "Προστέθηκε",
     "LBL_INV_UPDATED": "Ενημερώθηκε",
-    "LBL_INV_DELETED": "Διαγράφηκε"
+    "LBL_INV_DELETED": "Διαγράφηκε",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
+    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
   }
 }

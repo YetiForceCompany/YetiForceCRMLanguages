@@ -191,7 +191,7 @@
     "LBL_EDIT_MANDATORY_INFO": "Anwendung auf den gesamten Datensatz. Wenn 'Nein' ausgewählt ist, kann der Datensatz ohne Inventar-Zeilen gespeichert werden.",
     "MultiDomain": "Domain Multi-Auswahl",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Der Modul-Typ-Änderung-Vorgang wurde zur Cron-Task-Warteschlange hinzugefügt.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nicht benutzerdefiniertes Feld kann nicht gelöscht werden"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name existiert bereits",
@@ -227,6 +227,6 @@
     "JS_SAVE_CHANGES": "Änderungen wurden erfolgreich gesichert.",
     "JS_NOTIFY_COPY_TEXT": "In die Zwischenablage kopieren",
     "JS_NOTIFY_COPY_TITLE": "Text",
-    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
+    "JS_EXIST_PICKLIST_NAME": "Dieser Name wird bereits verwendet. Möchten Sie ihn als gemeinsame Auswahlliste speichern?"
   }
 }

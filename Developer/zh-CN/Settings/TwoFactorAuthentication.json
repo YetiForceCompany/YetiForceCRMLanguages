@@ -8,6 +8,7 @@
     "LBL_2FA_CONF": "多重认证",
     "LBL_TOTP": "基于时间的一次性密码算法",
     "LBL_TOTP_AUTHY_MODE_DESC": "选择验证模式",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "输入验证码失败的最大次数"
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "输入验证码失败的最大次数",
+    "LBL_TOTP_WHITE_LIST": "IP white list"
   }
 }

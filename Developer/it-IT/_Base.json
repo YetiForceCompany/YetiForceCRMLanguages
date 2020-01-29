@@ -352,6 +352,8 @@
     "LBL_NEXT_FY": "prossimo anno fiscale",
     "LBL_NEXT_MONTH": "prossimo mese",
     "LBL_NEXT_WEEK": "prossima settimana",
+    "LBL_NEXT_WORKING_DAY": "Prossimo giorno lavorativo",
+    "LBL_PREVIOUS_WORKING_DAY": "Giorno lavorativo precedente",
     "LBL_GREATER_THAN_NOW": "data maggiore dell'attuale",
     "LBL_SMALLER_THAN_NOW": "data minore dell'attuale",
     "LBL_NO": "No",
@@ -1386,7 +1388,7 @@
     "LBL_EDIT_COLOR": "Modifica colore",
     "LBL_SELECT_COLOR": "Seleziona colore:",
     "LBL_PREVIOUS_COLOR": "Colore precedente:",
-    "LBL_SHOW_ORIGINAL_CONTENT": "Show original content"
+    "LBL_SHOW_ORIGINAL_CONTENT": "Mostra contenuto originale"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1608,7 +1610,7 @@
     "JS_WEEK_SHORT": "sett",
     "JS_ADD_EVENT_TASK": "Aggiungi attività / evento",
     "JS_MORE": "Di più",
-    "JS_FULL_TEXT": "Full text",
+    "JS_FULL_TEXT": "Testo completo",
     "JS_TO_REALIZE": "Da processare",
     "JS_HISTORY": "Storico",
     "JS_WORK_DAYS": "Giorni feriali",

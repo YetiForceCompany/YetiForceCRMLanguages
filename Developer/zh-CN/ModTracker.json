@@ -44,6 +44,8 @@
     "LBL_TRANSFER_LINK": "转换过程中添加了关系",
     "LBL_INV_ADDED": "已添加",
     "LBL_INV_UPDATED": "已更新",
-    "LBL_INV_DELETED": "已删除"
+    "LBL_INV_DELETED": "已删除",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
+    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
   }
 }

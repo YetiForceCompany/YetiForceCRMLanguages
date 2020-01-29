@@ -60,6 +60,10 @@
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabela inventara sa dinamičnim kolonama",
     "LBL_INVENTORY_VARIABLES": "Dodatne varijable inventara",
     "LBL_TEXT_PARSER_RECORDS_LIST": "Lista zapisa",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "Korisnička varijabla"
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Korisnička varijabla",
+    "LBL_REPORT_NEW_RECORDS": "New records in given module",
+    "LBL_REPORT_SSALESPROCESSES": "Opportunity records",
+    "LBL_REPORT_CALENDAR": "Calendar records",
+    "LBL_REPORT_OVERDUE": "Overdue records"
   }
 }

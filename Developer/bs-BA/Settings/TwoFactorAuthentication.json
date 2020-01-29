@@ -8,6 +8,7 @@
     "LBL_2FA_CONF": "Multi-faktor autentifikacija",
     "LBL_TOTP": "Vremenski utemeljen algoritam jednokratne lozinke",
     "LBL_TOTP_AUTHY_MODE_DESC": "Odaberite načine provjere autentičnosti",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Maksimalni broj neuspjelih pokušaja unošenja verifikacijskog koda"
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Maksimalni broj neuspjelih pokušaja unošenja verifikacijskog koda",
+    "LBL_TOTP_WHITE_LIST": "IP white list"
   }
 }

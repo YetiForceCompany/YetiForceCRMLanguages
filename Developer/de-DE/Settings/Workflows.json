@@ -242,7 +242,13 @@
     "LBL_ATTACH_DOCS_FROM": "Dokumente anhängen von",
     "LBL_WATCHDOG_INFO": "Diese Aufgabe funktioniert nur mit Hierarchie-Modulen korrekt.",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Aufgaben anzeigen",
-    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Deaktivierungsaufgaben aktivieren"
+    "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Deaktivierungsaufgaben aktivieren",
+    "LBL_EMAIL_REPORT": "E-Mail-Bericht",
+    "LBL_SELECT_USERS": "Benutzer, Gruppen, Rollen auswählen",
+    "LBL_SELECT_USERS_INFO": "Benutzer, Gruppen, Rollen, an die der Bericht gesendet werden soll",
+    "LBL_WORKINGDAY_DAY": "Jeden Arbeitstag",
+    "LBL_WORKINGDAY_WEEK": "Erster Arbeitstag der Woche",
+    "LBL_WORKINGDAY_MONTH": "Erster Arbeitstag des Monats"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Dieselben Felder mehr als einmal ausgewählt",
