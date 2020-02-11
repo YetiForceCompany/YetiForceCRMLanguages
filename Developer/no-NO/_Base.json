@@ -1388,6 +1388,7 @@
     "LBL_EDIT_COLOR": "Rediger farge",
     "LBL_SELECT_COLOR": "Velg farge:",
     "LBL_PREVIOUS_COLOR": "Forrige farge:",
+    "ERR_OCCURRED_CHECK_LOGS": "Error occurred, check the logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Vis opprinnelig innhold"
   },
   "js": {

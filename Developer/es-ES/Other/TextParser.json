@@ -64,6 +64,7 @@
     "LBL_REPORT_NEW_RECORDS": "Nuevos registros en el módulo",
     "LBL_REPORT_SSALESPROCESSES": "Registros de oportunidad",
     "LBL_REPORT_CALENDAR": "Registros del calendario",
-    "LBL_REPORT_OVERDUE": "Registros atrasados"
+    "LBL_REPORT_OVERDUE": "Registros atrasados",
+    "LBL_REPORT_USER_RECORDS_LIST": "User records list"
   }
 }

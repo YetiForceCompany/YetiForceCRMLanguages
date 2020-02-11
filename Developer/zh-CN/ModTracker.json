@@ -45,7 +45,7 @@
     "LBL_INV_ADDED": "已添加",
     "LBL_INV_UPDATED": "已更新",
     "LBL_INV_DELETED": "已删除",
-    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "更新组件的配置",
+    "LBL_PERSON_MAKING_CHANGES": "个人变更"
   }
 }

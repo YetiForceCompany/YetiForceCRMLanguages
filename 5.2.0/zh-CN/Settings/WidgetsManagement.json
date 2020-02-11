@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CHOISE_AUTHORIZED": "选择职位角色",
+    "LBL_CHOISE_AUTHORIZED": "选择角色",
     "LBL_ADD_DASHBOARD_BLOCK": "为模块添加摘要区块",
     "LBL_WIDTH": "宽度",
     "LBL_HEIGHT": "高度",

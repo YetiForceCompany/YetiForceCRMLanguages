@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Librarie Roundcube",
     "LBL_LIBRARY_PHPEXCEL": "Librarie PHPExcel",
     "LBL_CONFIG_REPORT": "Configuratie server",
-    "LBL_CONFIG_REPORT_LINK": "Afisati libraria negasita",
+    "LBL_CONFIG_REPORT_LINK": "Check the configuration",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Send statistical information",
     "LBL_STATS_DESC": "Help us improve YetiForce and our services by sending us anonymous information about your current CRM version. \r\nData that we collect includes: <ul><li>your instance’s unique key generated only for the purpose of newsletter</li><li>system version</li><li>language</li><li>time zone</li></ul>We treat security matters extremely seriously and we ensure that collected data is only used for statistical purposes.\r\nJoin us and build YetiForce\\’s community with us.",

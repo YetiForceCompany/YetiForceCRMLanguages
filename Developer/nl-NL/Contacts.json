@@ -45,7 +45,9 @@
     "LBL_SWITCH_ON_DECISION_MAKER": "Beslisser",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Alles",
     "LBL_SHOW_HIERARCHY": "Contact Hiërarchie",
-    "FL_APPROVALS": "Goedkeuringen"
+    "FL_APPROVALS": "Goedkeuringen",
+    "LBL_PARTICIPANTS": "Participants",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Duplicate email address"
   },
   "js": {}
 }

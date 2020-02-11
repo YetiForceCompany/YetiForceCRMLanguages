@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
+    "LBL_ADD_TO": "افزودن به",
+    "LBL_EDIT_LIST_PRICE": "ویرایش لیست قیمت",
     "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
+    "LBL_UNIT_PRICE": "قیمت واحد",
     "Price Book Name": "Price Book name",
     "PriceBook No": "Price Book number",
     "PriceBooks": "Price Books",
     "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
+    "yes": "بله",
+    "no": "خیر",
+    "Unit Price": "قیمت واحد",
+    "LBL_SPECIFY_THE_MARGIN": "مشخص کردن حاشیه سود",
     "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
   }
 }

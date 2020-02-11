@@ -64,6 +64,7 @@
     "LBL_REPORT_NEW_RECORDS": "Nowe rekordy w danym module",
     "LBL_REPORT_SSALESPROCESSES": "Rekordy Szans Sprzedaży",
     "LBL_REPORT_CALENDAR": "Rekordy kalendarza",
-    "LBL_REPORT_OVERDUE": "Zaległe rekordy"
+    "LBL_REPORT_OVERDUE": "Zaległe rekordy",
+    "LBL_REPORT_USER_RECORDS_LIST": "Lista rekordów użytkownika"
   }
 }

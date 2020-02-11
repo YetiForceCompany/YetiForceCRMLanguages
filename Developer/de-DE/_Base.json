@@ -1388,6 +1388,7 @@
     "LBL_EDIT_COLOR": "Farbe bearbeiten",
     "LBL_SELECT_COLOR": "Farbe auswählen:",
     "LBL_PREVIOUS_COLOR": "Vorherige Farbe:",
+    "ERR_OCCURRED_CHECK_LOGS": "Error occurred, check the logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Originalinhalt anzeigen"
   },
   "js": {

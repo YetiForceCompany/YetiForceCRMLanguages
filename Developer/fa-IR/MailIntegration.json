@@ -1,14 +1,14 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
+    "MailIntegration": "پنل همگام سازی ایمیل",
     "SINGLE_MailIntegration": "Mail integration panel",
     "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
+    "LBL_IMPORT_MAIL_MANUALLY": "وارد کردن",
     "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
     "LBL_SEARCH_EMAIL": "Search e-mail address",
     "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
+    "LBL_ADD_CALENDAR": "افزودن رویداد",
+    "LBL_ADD_MODCOMMENTS": "افزودن نظر",
     "LBL_SELECT_RECORD": "Select related record",
     "LBL_ADD_RECORD": "Add related record",
     "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file"

@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Roundcube库",
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel库",
     "LBL_CONFIG_REPORT": "服务器参数设置",
-    "LBL_CONFIG_REPORT_LINK": "显示缺少的库",
+    "LBL_CONFIG_REPORT_LINK": "Check the configuration",
     "LBL_NEWSLETTER": "新闻稿",
     "LBL_STATS": "发送统计信息",
     "LBL_STATS_DESC": "通过向我们发送有关您当前 CRM 版本的匿名信息, 帮助我们改进 YetiForce 和我们的服务。 \r\n 我们收集的数据包括: \r\n-您的实例 A2€?s 唯一的密钥生成仅用于新闻稿的目的 \r\n-系统版本 \r\n-语言 \r\n-时区 \r\n 我们极其严肃地对待安全问题, 并确保收集到的数据仅用于统计目的。 \r\n 加入我们, 和我们一起建设 YetiForce \\ A2€?s 社区。",

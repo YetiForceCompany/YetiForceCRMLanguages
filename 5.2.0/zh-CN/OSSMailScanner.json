@@ -56,7 +56,7 @@
     "Search email configuration": "搜索电子邮件设置",
     "LBL_EMPTY_PARAMETER": "配置中的参数为空",
     "LBL_TICKET_REOPEN": "创建/新开服务单",
-    "LBL_OPEN_TICKET": "打开工单和设置状态",
+    "LBL_OPEN_TICKET": "打开服务单和设置状态",
     "LBL_CREATE_TICKET": "创建新服务单",
     "LBL_NO_ACTION": "关联到现有服务单 (如果增加了关联操作)",
     "LBL_CONFTAB_CHANGE_TICKET_STATUS": "当我们收到关于一封服务单已关闭的邮件时，扫描程序该怎么办？?",

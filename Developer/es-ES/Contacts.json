@@ -45,7 +45,9 @@
     "LBL_SWITCH_ON_DECISION_MAKER": "Tomador de decisiones",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Todos",
     "LBL_SHOW_HIERARCHY": "Jerarquía de contacto",
-    "FL_APPROVALS": "Aprobaciones"
+    "FL_APPROVALS": "Aprobaciones",
+    "LBL_PARTICIPANTS": "Participants",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Duplicate email address"
   },
   "js": {}
 }

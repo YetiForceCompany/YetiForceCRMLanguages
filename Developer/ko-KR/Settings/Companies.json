@@ -2,13 +2,12 @@
   "php": {
     "LBL_COMPANIES": "회사 상세정보",
     "Companies": "회사 상세정보",
-    "LBL_COMPANIES_DESCRIPTION": "회사 상세정보 관리",
     "LBL_ID": "아이디",
     "LBL_NAME": "The name of your company",
     "LBL_EMAIL": "이메일",
     "LBL_CITY": "City/Village",
     "LBL_COUNTRY": "국가",
-    "LBL_CONDITIONS_OF_REGISTRATION": "All data below must be true, it is an obligatory condition of registering the product that results from the license terms.  %s \nIn the registration, there should be all companies involved in the implementation of the CRM system, e.g. \"Target user\" should always be filled in with the data of a company that uses this system. \nThe \"Supplier\" entry type must exist when a company implementing CRM is different from the one that uses it. \nThe \"Integrator\" entry type must exist when integration with a CRM system was performed and the data of the company that integrated the system needs to be submitted.\nIn order for the system to correctly verify the registration key, Cron must be active and function properly. \nRegistrations are verified manually therefore it might take some time before your registration status changes. Thank you for your patience.\n %s",
+    "LBL_CONDITIONS_OF_REGISTRATION": "All data below must be true, it is an obligatory condition of registering the product that results from the license terms.  %s \nIn the registration, there should be all companies involved in the implementation of the CRM system, e.g. \"Target user\" should always be filled in with the data of a company that uses this system. \nThe \"Supplier\" entry type must exist when a company implementing CRM is different from the one that uses it. \nThe \"Integrator\" entry type must exist when integration with a CRM system was performed and the data of the company that integrated the system needs to be submitted.\nIn order for the system to correctly verify the registration key, Cron must be active and function properly. \nThe validity of data submitted during registration is verified manually within 72h. Providing any false data will cause the entire registration to be declined. Thank you for your patience.\n %s",
     "LBL_TYPE": "유형",
     "LBL_TYPE_TARGET_USER": "최종 사용자",
     "LBL_TYPE_INTEGRATOR": "통합업체",
@@ -28,7 +27,8 @@
     "LBL_LINKEDIN": "LinkedIn",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_NEWSLETTER_ALERT": "Entering fake data will cause the registration to be denied.",
-    "LBL_VAT_ID_INFO": "Enter 'none' if you are an individual or a company that does not have an EU VAT number.",
+    "LBL_NAME_INFO": "In case of private individuals please enter 'Private use'.",
+    "LBL_VAT_ID_INFO": "In case of private individuals please enter 'Private use'. Enter 'none' if your company does not have a VAT number.",
     "LBL_WEBSITE_INFO": "Enter your company website NOT your CRM's URL.",
     "LBL_EMAIL_NEWSLETTER_INFO": "예티포스 무료 뉴스레터에 가입하십시오. 시스템의 모든 최신 기능을 추적하여 CRM 섹터에 대해 자세히 알아보십시오. 우리는 당신에게 새로운 버전, 업데이트, 이벤트, 시스템에 대한 새로운 추가사항 등에 대한 정보를 보낼 것이다.\n커뮤니티에 참여하여 최신 정보를 제공하십시오.\n가입하려면 인터넷 연결이 필요합니다.",
     "LBL_COMPANY_NAMES_EXIST": "이 회사명은 이미 존재합니다.",
@@ -48,6 +48,7 @@
     "LBL_ACCEPTED": "수락됨",
     "LBL_REGISTRATION_DATA": "Registration data",
     "LBL_BRAND_DATA": "Brand data",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer.",
     "LBL_BILLING_DATA": "Billing data"
   },
   "js": {

@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Libreria Roundcube",
     "LBL_LIBRARY_PHPEXCEL": "Libreria PHPExcel",
     "LBL_CONFIG_REPORT": "Configurazione server",
-    "LBL_CONFIG_REPORT_LINK": "Mostra ulteriori informazioni",
+    "LBL_CONFIG_REPORT_LINK": "Controllare la configurazione",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Invia informazioni statistiche",
     "LBL_STATS_DESC": "Aiutaci a migliorare YetiForce e i nostri servizi inviandoci informazioni anonime sulla tua versione attuale di CRM.\n\nDati che raccogliamo includono:\n- la chiave unica della tua istanza generata solo per la newsletter\n- versione di sistema\n- lingua\n- fuso orario\n\n Trattiamo le questioni di sicurezza con estrema serietà e assicuriamo che i dati raccolti saranno utilizzati solo per scopi statistici. \n Unisciti a noi e costruisci la comunità di YetiForce con noi.",

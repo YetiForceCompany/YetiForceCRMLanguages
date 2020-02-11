@@ -2,13 +2,12 @@
   "php": {
     "LBL_COMPANIES": "Company details",
     "Companies": "Company details",
-    "LBL_COMPANIES_DESCRIPTION": "Manage company details",
     "LBL_ID": "Id",
     "LBL_NAME": "Název vaší společnosti",
     "LBL_EMAIL": "E-mail",
     "LBL_CITY": "Město/Vesnice",
     "LBL_COUNTRY": "Country",
-    "LBL_CONDITIONS_OF_REGISTRATION": "Všechna níže uvedená data musí být pravdivá, je to povinná podmínka registrace produktu, která vyplývá z licenčních podmínek. % s\nPři registraci, by měly být všechny společnosti podílející se na implementaci CRM systému, např. „Cílový uživatel“ musí být vždy vyplněn s daty společnosti, která používá tento systém.\nDále jen „Dodavatel“ typ záznamu musí existovat, když společnost implementaci CRM je odlišná od té, která jej používá.\nTyp vstupu „Integrátor“ musí existovat, když byla provedena integrace s CRM systémem a je třeba předložit data společnosti, která integrovala systém.\nAby systém správně ověřit registrační klíč, Cron musí být aktivní a správně fungovat.\nRegistrace jsou ověřovány ručně, proto může trvat nějakou dobu, než se změní váš stav registrace. Děkuji za trpělivost.\n  % s",
+    "LBL_CONDITIONS_OF_REGISTRATION": "All data below must be true, it is an obligatory condition of registering the product that results from the license terms.  %s \nIn the registration, there should be all companies involved in the implementation of the CRM system, e.g. \"Target user\" should always be filled in with the data of a company that uses this system. \nThe \"Supplier\" entry type must exist when a company implementing CRM is different from the one that uses it. \nThe \"Integrator\" entry type must exist when integration with a CRM system was performed and the data of the company that integrated the system needs to be submitted.\nIn order for the system to correctly verify the registration key, Cron must be active and function properly. \nThe validity of data submitted during registration is verified manually within 72h. Providing any false data will cause the entire registration to be declined. Thank you for your patience.\n %s",
     "LBL_TYPE": "Type",
     "LBL_TYPE_TARGET_USER": "End user",
     "LBL_TYPE_INTEGRATOR": "Integrator",
@@ -28,7 +27,8 @@
     "LBL_LINKEDIN": "LinkedIn",
     "LBL_NEWSLETTER": "Odběr novinek",
     "LBL_NEWSLETTER_ALERT": "Entering fake data will cause the registration to be denied.",
-    "LBL_VAT_ID_INFO": "Enter 'none' if you are an individual or a company that does not have an EU VAT number.",
+    "LBL_NAME_INFO": "In case of private individuals please enter 'Private use'.",
+    "LBL_VAT_ID_INFO": "In case of private individuals please enter 'Private use'. Enter 'none' if your company does not have a VAT number.",
     "LBL_WEBSITE_INFO": "Enter your company website NOT your CRM's URL.",
     "LBL_EMAIL_NEWSLETTER_INFO": "Sign up for YetiForce’s free newsletter. Keep up with all latest features in the system, and find out more about the CRM sector. We will send you information about new versions, updates, events, new additions to the system, and much more.\nJoin our community and stay up to date.\nInternet connection is required to sign up.",
     "LBL_COMPANY_NAMES_EXIST": "The company name already exists",
@@ -48,6 +48,7 @@
     "LBL_ACCEPTED": "Accepted",
     "LBL_REGISTRATION_DATA": "Registrační údaje",
     "LBL_BRAND_DATA": "Údaje o značce",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer.",
     "LBL_BILLING_DATA": "Fakturační údaje"
   },
   "js": {

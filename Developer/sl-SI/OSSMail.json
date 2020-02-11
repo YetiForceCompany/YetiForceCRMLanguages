@@ -80,7 +80,7 @@
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj v moj koledar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Napaka pri uvozu",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Datoteka je bila uvožena %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available"
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Stranski bar ni na voljo"
   },
   "js": {
     "NoFindEmailInRecord": "Zapis nima e-poštnega naslova",

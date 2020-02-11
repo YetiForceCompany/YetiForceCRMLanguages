@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Roundcube library",
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel library",
     "LBL_CONFIG_REPORT": "Server configuration",
-    "LBL_CONFIG_REPORT_LINK": "Show missing library",
+    "LBL_CONFIG_REPORT_LINK": "بررسی پیکربندی",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Send statistical information",
     "LBL_STATS_DESC": "Help us improve YetiForce and our services by sending us anonymous information about your current CRM version. \r\n Data that we collect includes: \r\n- your instance’s unique key generated only for the purpose of newsletter \r\n- system version \r\n- language \r\n- time zone \r\n We treat security matters extremely seriously and we ensure that collected data is only used for statistical purposes. \r\n Join us and build YetiForce\\’s community with us.",
@@ -50,8 +50,8 @@
     "LBL_REGISTRATION": "Registration",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
     "LBL_COMPANY_DATA": "Go to company details",
-    "LBL_SYSTEM_UPDATER": "System updater",
-    "LBL_LANGUAGES_UPDATER": "Languages updater",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_SYSTEM_UPDATER": "به روزرسان سامانه",
+    "LBL_LANGUAGES_UPDATER": "به روزرسان زبان",
+    "LBL_UPDATER_DESC": "به روز رسانی برای سامانه در دسترس است. ما توصیه می کنیم نسخه خود را به روز رسانی نمایید."
   }
 }

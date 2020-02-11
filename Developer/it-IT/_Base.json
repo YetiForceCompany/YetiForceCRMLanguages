@@ -689,7 +689,7 @@
     "FL_LONB": "Longitudine indirizzo",
     "FL_LATC": "Latitudine magazzino",
     "FL_LONC": "Longitudine magazzino",
-    "Building number": "Numero civico",
+    "Building number": "Edificio",
     "Local number": "Ufficio",
     "Verification data": "Dati da convalidare",
     "Address details": "Indirizzo principale",
@@ -1388,6 +1388,7 @@
     "LBL_EDIT_COLOR": "Modifica colore",
     "LBL_SELECT_COLOR": "Seleziona colore:",
     "LBL_PREVIOUS_COLOR": "Colore precedente:",
+    "ERR_OCCURRED_CHECK_LOGS": "Si è verificato un errore, controlla i log",
     "LBL_SHOW_ORIGINAL_CONTENT": "Mostra contenuto originale"
   },
   "js": {

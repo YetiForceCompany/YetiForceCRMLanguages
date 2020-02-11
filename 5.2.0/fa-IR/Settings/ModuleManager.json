@@ -1,10 +1,10 @@
 {
   "php": {
-    "LBL_ERROR_MOVE_UPLOADED_FILE": "Uploading files failed",
-    "ModuleManager": "Module Manager",
-    "Module Manager": "Module Manager",
-    "LBL_ACCEPT_AND_INSTALL": "Accept and install",
-    "LBL_DECLINE": "Decline",
+    "LBL_ERROR_MOVE_UPLOADED_FILE": "عدم موفقیت در بارگذاری فایل",
+    "ModuleManager": "مدیریت ماژول",
+    "Module Manager": "مدیریت ماژول",
+    "LBL_ACCEPT_AND_INSTALL": "تایید و نصب",
+    "LBL_DECLINE": "رد کردن",
     "LBL_EXISTS": "Exists",
     "LBL_FAILED": "Failed",
     "LBL_FINISH": "Finish",

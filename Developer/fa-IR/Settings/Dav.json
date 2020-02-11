@@ -2,14 +2,14 @@
   "php": {
     "LBL_DAV_KEYS": "DAV Applications",
     "LBL_DAV_KEYS_DESCRIPTION": "Create and manage DAV keys",
-    "LBL_KEY": "Key",
-    "LBL_TOOLS": "Tools",
-    "LBL_DELETE_KEY": "Delete key",
-    "LBL_ADD_KEY": "Add key",
-    "LBL_DISPLAY_NAME": "User",
-    "LBL_EMAIL": "E-mail",
-    "LBL_LOGIN": "Login",
-    "LBL_SELECT_USER": "Select user:",
+    "LBL_KEY": "کلید",
+    "LBL_TOOLS": "ابزارها",
+    "LBL_DELETE_KEY": "حذف کلید",
+    "LBL_ADD_KEY": "افزودن کلید",
+    "LBL_DISPLAY_NAME": "کاربر",
+    "LBL_EMAIL": "ایمیل",
+    "LBL_LOGIN": "ورود",
+    "LBL_SELECT_USER": "انتخاب کاربر:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "DAV application has not been activated yet, enable it in config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "New key has been added successfully",
@@ -27,6 +27,6 @@
     "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
   },
   "js": {
-    "Adding a Key": "Add key"
+    "Adding a Key": "افزودن کلید"
   }
 }

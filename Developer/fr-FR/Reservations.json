@@ -24,7 +24,12 @@
     "LBL_EQUIPMENT": "Equipement",
     "LBL_CARS": "Voiture",
     "PLL_DRAFT": "Brouillon",
-    "PLL_CANCELLED": "Annulé"
+    "PLL_CANCELLED": "Annulé",
+    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
+    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "Work days"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caractères autorisés : [0-9]",

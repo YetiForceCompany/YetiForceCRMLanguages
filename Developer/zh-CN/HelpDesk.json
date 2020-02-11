@@ -26,7 +26,7 @@
     "LBL_GIVE_MAILID": "请提供您的Email地址",
     "LBL_LOGIN_REVOKED": "您的登录已被撤销。请联系您的管理员.",
     "LBL_MAIL_COULDNOT_SENT": "邮件无法发送",
-    "LBL_PASSWORD": "密码:",
+    "LBL_PASSWORD": "鉴权密码:",
     "LBL_REGARDS": "顺祝商祺",
     "LBL_RELATED_TO": "关联到",
     "LBL_RESPOND": "请尽快回复以上服务单.",

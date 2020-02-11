@@ -64,6 +64,7 @@
     "LBL_REPORT_NEW_RECORDS": "Nuovi record nel modulo dato",
     "LBL_REPORT_SSALESPROCESSES": "Records opportunità",
     "LBL_REPORT_CALENDAR": "Records del calendario",
-    "LBL_REPORT_OVERDUE": "Record scaduti"
+    "LBL_REPORT_OVERDUE": "Record scaduti",
+    "LBL_REPORT_USER_RECORDS_LIST": "Elenco record utente"
   }
 }

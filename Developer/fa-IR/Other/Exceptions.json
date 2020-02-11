@@ -31,7 +31,7 @@
     "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
     "ERR_NO_VALUE": "بدون مقدار",
-    "ERR_BODY_IS_EMPTY": "Body is empty",
+    "ERR_BODY_IS_EMPTY": "Body خالی است",
     "ERR_API": "خطا در API",
     "ERR_MODULE_DOES_NOT_EXIST": "ماژول %s وجود ندارد",
     "ERR_RECORD_NOT_FOUND": "هیچ گزارشی با ID: %s وجود ندارد",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "清除所有垃圾",
-    "RecycleBin": "垃圾桶"
+    "LBL_RECYCLE_DELETE_ALL": "清空回收站",
+    "RecycleBin": "回收站"
   },
   "js": {
     "JS_MASS_DELETE": "批量删除",

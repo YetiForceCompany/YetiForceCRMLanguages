@@ -24,7 +24,12 @@
     "LBL_EQUIPMENT": "Urządzenia",
     "LBL_CARS": "Samochody",
     "PLL_DRAFT": "Wersja robocza",
-    "PLL_CANCELLED": "Anulowano"
+    "PLL_CANCELLED": "Anulowano",
+    "LBL_SELECT_USER_CALENDAR": "Wybierz kalendarz użytkownika",
+    "LBL_SELECT_GROUP_CALENDAR": "Wybierz kalendarz grupy",
+    "LBL_USER_NAME": "Nazwa użytkownika",
+    "LBL_GROUP_NAME": "Nazwa grupy",
+    "LBL_WORK_DAYS": "Dni robocze"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dopuszczalne znaki: [0-9]",

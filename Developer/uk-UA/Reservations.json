@@ -24,7 +24,12 @@
     "LBL_EQUIPMENT": "Обладнання",
     "LBL_CARS": "Автомобілі",
     "PLL_DRAFT": "Чернетка",
-    "PLL_CANCELLED": "Скасовано"
+    "PLL_CANCELLED": "Скасовано",
+    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
+    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "Work days"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Дозволені символи: [0-9]",

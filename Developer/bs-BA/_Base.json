@@ -1388,6 +1388,7 @@
     "LBL_EDIT_COLOR": "Uredi boju",
     "LBL_SELECT_COLOR": "Odaberi boju:",
     "LBL_PREVIOUS_COLOR": "Prethodna boja:",
+    "ERR_OCCURRED_CHECK_LOGS": "Error occurred, check the logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Prikaži izvorni sadržaj"
   },
   "js": {

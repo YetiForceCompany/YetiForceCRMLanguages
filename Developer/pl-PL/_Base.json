@@ -1388,6 +1388,7 @@
     "LBL_EDIT_COLOR": "Edycja koloru",
     "LBL_SELECT_COLOR": "Wybierz kolor:",
     "LBL_PREVIOUS_COLOR": "Poprzedni kolor:",
+    "ERR_OCCURRED_CHECK_LOGS": "Wystąpił błąd, sprawdź logi.",
     "LBL_SHOW_ORIGINAL_CONTENT": "Pokaż oryginalną zawartość"
   },
   "js": {

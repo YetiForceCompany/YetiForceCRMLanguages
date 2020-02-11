@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "Lijst met  nieuwste  verkoopkansen",
+    "LBL_FOR_VALUE": "Geen waarde",
+    "LBL_UNTIL_DAY": "tot dag",
+    "LBL_ACTUAL_STATUS": "met de actuele status",
+    "LBL_CALENDAR_OVERDUE": "Activiteiten overtijd",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Lijst met  nieuwste  verkoopkansen",
+    "LBL_NEW_ACCOUNTS": "Nieuwe account",
+    "LBL_NEW_CONTACTS": "Nieuw contact",
+    "LBL_CALENDAR_TODAY": "Agenda-afspraken",
+    "LBL_CALENDAR_THIS_WEEK": "Agenda deze week",
+    "LBL_HELLO": "Hallo",
+    "LBL_REPORT_DAY_CONTENT": "Hieronder is een dagelijks overzicht van de activiteiten in YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Hieronder is een wekelijks overzicht van de activiteiten in YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Hieronder is een maandelijkse overzicht van activiteiten in YetiForce "
   }
 }

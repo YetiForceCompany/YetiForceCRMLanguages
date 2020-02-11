@@ -1,10 +1,10 @@
 {
   "php": {
-    "FL_RENEWABLE": "Renewable",
-    "Unit Code": "Unit code",
+    "FL_RENEWABLE": "قابل تمدید",
+    "Unit Code": "کد واحد",
     "Mf. Country Code": "Mf. country code",
     "Manuf. Country": "Manuf. country",
-    "Customs ID": "Customs ID",
+    "Customs ID": "شناسه گمرک",
     "300-Sales-Software": "300-Sales-Software",
     "301-Sales-Hardware": "301-Sales-Hardware",
     "302-Rental-Income": "302-Rental-Income",

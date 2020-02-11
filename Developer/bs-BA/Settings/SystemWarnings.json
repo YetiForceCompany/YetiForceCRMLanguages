@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Roundcube biblioteka",
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel biblioteka",
     "LBL_CONFIG_REPORT": "Konfiguracija servera",
-    "LBL_CONFIG_REPORT_LINK": "Prikaži biblioteku koja nedostaje",
+    "LBL_CONFIG_REPORT_LINK": "Check the configuration",
     "LBL_NEWSLETTER": "Newsletter",
     "LBL_STATS": "Pošaljite statističke podatke",
     "LBL_STATS_DESC": "Pomozite nam da poboljšamo YetiForce i naše usluge slanjem anonimnih podataka o vašoj trenutnoj CRM verziji.\n Podaci koje prikupljamo uključuju:\n- jedinstveni ključ vašeg primjerka generiran samo u svrhu biltena\n- sistemska verzija\n- jezik\n- vremenska zona\n Pitanja sigurnosti tretiramo izuzetno ozbiljno i osiguravamo da se prikupljeni podaci koriste samo u statističke svrhe.\n Pridružite nam se i izgradite zajednicu YetiForce-a s nama.",
