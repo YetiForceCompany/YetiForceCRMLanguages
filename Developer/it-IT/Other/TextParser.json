@@ -61,10 +61,11 @@
     "LBL_INVENTORY_VARIABLES": "Variabili di inventario aggiuntive",
     "LBL_TEXT_PARSER_RECORDS_LIST": "Elenco di record",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Variabile utente",
-    "LBL_REPORT_NEW_RECORDS": "Nuovi record nel modulo dato",
+    "LBL_REPORT_NEW_RECORDS": "Nuovi record nel modulo",
     "LBL_REPORT_SSALESPROCESSES": "Records opportunità",
-    "LBL_REPORT_CALENDAR": "Records del calendario",
+    "LBL_REPORT_CALENDAR": "Record del calendario",
     "LBL_REPORT_OVERDUE": "Record scaduti",
-    "LBL_REPORT_USER_RECORDS_LIST": "Elenco record utente"
+    "LBL_USER_RECORD_DUPLICATE_LIST": "Elenco record duplicati dall'utente",
+    "LBL_USER_RECORD_FILTERED_LIST": "Elenco record filtrati dagli utenti"
   }
 }

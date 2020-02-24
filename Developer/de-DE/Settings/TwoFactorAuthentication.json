@@ -9,6 +9,6 @@
     "LBL_TOTP": "Einmaliger zeitabhängiger Passwort Algorithmus",
     "LBL_TOTP_AUTHY_MODE_DESC": "Authentifizierungs Modus wählen",
     "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Maximale Anzahl von fehlerhaften Anmeldeversuche bis zum eingeben des Verifizierungscode",
-    "LBL_TOTP_WHITE_LIST": "IP white list"
+    "LBL_TOTP_WHITE_LIST": "IP White-Listed"
   }
 }

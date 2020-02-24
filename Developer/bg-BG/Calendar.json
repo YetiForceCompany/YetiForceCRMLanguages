@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Неправилен ICS файл",
     "LBL_IMPORT_ICS_SUCCESS": "Добавен запис в календара",
     "LBL_SHITF_TASK_SHOW": "Показване или скриване на дейност: задача",
-    "LBL_SHITF_MEETING_SHOW": "Показване или скриване на дейност: metting",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Показване или скриване на дейност: потребител",
     "LBL_SHIFT_USER_SHOW": "Покажи или скрий потребител",
     "Activity Type_BLOCK_SHIFT": "Показване или скриване на блок тип дейности",

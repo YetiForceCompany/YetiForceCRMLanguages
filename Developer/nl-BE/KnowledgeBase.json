@@ -1,8 +1,8 @@
 {
   "php": {
     "KnowledgeBase": "Kennisbank",
-    "SINGLE_KnowledgeBase": "Knowledge Base",
-    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
+    "SINGLE_KnowledgeBase": "Kennisbank",
+    "BTN_KNOWLEDGE_BASE": "Kennisbank",
     "LBL_CUSTOM_INFORMATION": "Custom information",
     "FL_SUBJECT": "Subject",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Basic information",

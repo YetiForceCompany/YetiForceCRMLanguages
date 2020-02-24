@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "File ICS errato",
     "LBL_IMPORT_ICS_SUCCESS": "Aggiunta voce al calendario",
     "LBL_SHITF_TASK_SHOW": "Mostra / nascondi compiti",
-    "LBL_SHITF_MEETING_SHOW": "Mostra / nascondi riunioni",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Mostra / nascondi chiamate",
     "LBL_SHIFT_USER_SHOW": "Mostra / nascondi utente",
     "Activity Type_BLOCK_SHIFT": "Mostra / nascondi blocco attività / eventi",

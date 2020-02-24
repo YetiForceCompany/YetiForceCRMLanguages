@@ -1,7 +1,7 @@
 {
   "php": {
     "SINGLE_Project": "Project",
-    "LBL_RECORDS_LIST": "Projects List",
+    "LBL_RECORDS_LIST": "Lijstweergave",
     "LBL_PROJECT_INFORMATION": "Project Details",
     "Project Name": "Project Name",
     "Start Date": "Start Date",
@@ -32,7 +32,7 @@
     "LBL_STATUS_IS": "Status is",
     "LBL_STATUS": "Status",
     "LBL_TICKET_PRIORITY": "Priority",
-    "LBL_MORE": "more",
+    "LBL_MORE": "meer",
     "PLL_INTERNAL": "Internal",
     "PLL_EXTERNAL": "External",
     "PLL_COMMON": "Shared",

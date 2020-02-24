@@ -186,7 +186,7 @@
     "LBL_EXPORT_RECORD": "Export record",
     "LBL_IMPORT_VIEW": "Trigger import",
     "LBL_TRIGGER_XML": "XML File",
-    "LBL_UPLOAD_TRIGGER": "Import",
+    "LBL_UPLOAD_TRIGGER": "Importeren",
     "LBL_UPLOAD_ERROR": "Import of trigger record from XML file was unsuccessful!",
     "LBL_UPLOAD_OK": "Trigger XML file imported successfully.",
     "LBL_RETURN": "Return",

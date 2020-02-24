@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "فلیترها - پیکربندی",
+    "LBL_FEATURED": "افزودن به علاقه‌مندی‌ها",
+    "LBL_COLOR_VIEW": "رنگ نما",
+    "LBL_ADD_FIELD": "افزودن فیلد"
   }
 }

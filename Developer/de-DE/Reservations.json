@@ -25,11 +25,11 @@
     "LBL_CARS": "Fahrzeug",
     "PLL_DRAFT": "Entwurf",
     "PLL_CANCELLED": "Abgebrochen",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "Work days"
+    "LBL_SELECT_USER_CALENDAR": "Benutzerkalender auswählen",
+    "LBL_SELECT_GROUP_CALENDAR": "Gruppenkalender auswählen",
+    "LBL_USER_NAME": "Benutzername",
+    "LBL_GROUP_NAME": "Gruppenname",
+    "LBL_WORK_DAYS": "Werktage"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Fehlerschlüssel: [0-9]",

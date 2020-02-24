@@ -1,12 +1,12 @@
 {
   "php": {
-    "SINGLE_ModComments": "Reactie",
+    "SINGLE_ModComments": "Opmerking",
     "LBL_RECORDS_LIST": "Comments List",
-    "LBL_MODCOMMENTS_INFORMATION": "Reacties",
+    "LBL_MODCOMMENTS_INFORMATION": "Opmerkingen",
     "LBL_OTHER_INFORMATION": "Other Information",
-    "LBL_ADDING_COMMENT": "Add Comment",
+    "LBL_ADDING_COMMENT": "Opmerking toevoegen",
     "LBL_WRITE_YOUR_COMMENT_HERE": "Reacties hier invoeren",
-    "Comment": "Commentaar",
+    "Comment": "Opmerking",
     "Creator": "Maker",
     "Related To Comments": "Related To",
     "ReasonToEdit": "Reason To Edit",

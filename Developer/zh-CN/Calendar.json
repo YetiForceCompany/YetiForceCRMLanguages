@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "错误的ICS文件",
     "LBL_IMPORT_ICS_SUCCESS": "已添加到日历条目",
     "LBL_SHITF_TASK_SHOW": "显示或隐藏活动类型︰任务",
-    "LBL_SHITF_MEETING_SHOW": "显示或隐藏活动类型︰会议",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "显示或隐藏活动类型︰用户",
     "LBL_SHIFT_USER_SHOW": "显示或隐藏用户",
     "Activity Type_BLOCK_SHIFT": "显示或隐藏活动块类型",

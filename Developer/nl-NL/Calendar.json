@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Verkeerd ICS-bestand",
     "LBL_IMPORT_ICS_SUCCESS": "Item toegevoegd aan de Agenda",
     "LBL_SHITF_TASK_SHOW": "Toon of verberg activiteitstype: taak",
-    "LBL_SHITF_MEETING_SHOW": "Toon of verberg activiteitstype: vergadering",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Toon of verberg activiteitstype: gebruiker",
     "LBL_SHIFT_USER_SHOW": "Toon of verberg gebruiker",
     "Activity Type_BLOCK_SHIFT": "Toon of verberg activiteit bloktype",

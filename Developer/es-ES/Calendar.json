@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Fichero ICS erróneo",
     "LBL_IMPORT_ICS_SUCCESS": "Entrada añadida al Calendario",
     "LBL_SHITF_TASK_SHOW": "Mostrar u ocultar tipo de Actividad: Tarea",
-    "LBL_SHITF_MEETING_SHOW": "Mostrar u ocultar tipo de Actividad: Reunión",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Mostrar u ocultar tipo de Actividad: Usuario",
     "LBL_SHIFT_USER_SHOW": "Mostrar u ocultar Usuario",
     "Activity Type_BLOCK_SHIFT": "Mostrar u ocultar tipo de bloque Actividad",

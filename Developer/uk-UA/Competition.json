@@ -8,7 +8,7 @@
     "LBL_SUBJECT": "Тема",
     "LBL_NUMBER": "Номер",
     "LBL_CLOSED_TIME": "Час закриття",
-    "LBL_VAT_ID": "Tax ID",
+    "LBL_VAT_ID": "ІПН",
     "LBL_SHOW_HIERARCHY": "Ієрархія",
     "LBL_PARENT_ID": " батько конкурента"
   }

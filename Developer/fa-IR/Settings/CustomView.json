@@ -1,7 +1,7 @@
 {
   "php": {
-    "CustomView": "پیکربندی - سالنامه",
-    "LBL_CUSTOMVIEW_DESCRIPTION": "This tool allows setting custom views for modules. These modules must contain records and use standard filters in YetiForce CRM.",
+    "CustomView": "تنظیمات - فیلترها",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "این ابزار اجازه تنظیم نماهای دلخواه برای ماژول‌ها را می‌دهد. این ماژول باید شامل رکوردها و استفاده از فیلترهای استاندارد در YetiForce CRM باشد.",
     "ViewName": "نام نما",
     "SetDefault": "پیش فرض",
     "Privileges": "Privileges",
@@ -13,23 +13,23 @@
     "LBL_FEATURED_LABELS": "In favorites",
     "LBL_CREATED_BY": "ایجاد شده توسط",
     "LBL_ADD_FILTER": "افزودن فیلتر",
-    "LBL_MANAGE_PERMISSIONS": "Manage permissions",
+    "LBL_MANAGE_PERMISSIONS": "مدیریت مجوزها",
     "LBL_ALL_GROUP_LIST": "گزینه‌های در دسترس",
     "LBL_GROUP_MEMBERS": "Included in action",
-    "LBL_ADD_PERMISSIONS": "Add permissions",
-    "LBL_RECEIVE_PERMISSION": "Receive permissions",
+    "LBL_ADD_PERMISSIONS": "افزودن سطوح دسترسی",
+    "LBL_RECEIVE_PERMISSION": "دریافت مجوزها",
     "LBL_SAVE_SEQUENCES": "Sequences saved successfully",
     "LBL_EXISTS_PERMISSION_IN_CONFIG": "Conflict with %s \r\n Selected permission cannot be used in more than one filter.",
     "LBL_SORTING": "مرتب سازی",
     "LBL_SORTING_SETTINGS": "پیکربندی مرتب‌سازی",
-    "LBL_SORTING_SETTINGS_WORNING": "Record sorting might significantly increase the page loading time.",
-    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Select a field to sort records",
-    "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",
-    "LBL_SORT_DESCENDING_ORDER": "Sort in descending order",
+    "LBL_SORTING_SETTINGS_WORNING": "مرتب‌سازی رکوردها می‌تواند باعث افزایش زمان بارگذاری صفحه گردد.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "انتخاب یک فیلد برای مرتب‌سازی رکوردها",
+    "LBL_SORT_ASCENDING_ORDER": "مرتب‌سازی به ترتیب صعودی",
+    "LBL_SORT_DESCENDING_ORDER": "مرتب سازی به ترتیب نزولی",
     "LBL_ATTENTION": "هشدار!"
   },
   "js": {
-    "Saving changes": "Saving changes...",
+    "Saving changes": "ذخیره‌ی تغییرات...",
     "Update labels": "به روز رسانی"
   }
 }

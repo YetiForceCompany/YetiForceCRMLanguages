@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Λάθος αρχείο ICS",
     "LBL_IMPORT_ICS_SUCCESS": "Προσθήκη καταχώρησης στο ημερολόγιο",
     "LBL_SHITF_TASK_SHOW": "Εμφάνιση ή απόκρυψη τύπου δραστηριότητας: Εργασία",
-    "LBL_SHITF_MEETING_SHOW": "Εμφάνιση ή απόκρυψη τύπου δραστηριότητας: Συνάντηση",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Εμφάνιση ή απόκρυψη τύπου δραστηριότητας: Κλήση",
     "LBL_SHIFT_USER_SHOW": "Εμφάνιση ή απόκρυψη χρηστών",
     "Activity Type_BLOCK_SHIFT": "Εμφάνιση ή απόκρυψη μπλοκ δραστηριοτήτων",

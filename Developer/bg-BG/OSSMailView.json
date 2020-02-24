@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Корпоративни имейли",
-    "SINGLE_OSSMailView": "Корпоративен имейл",
+    "OSSMailView": "Email history",
+    "SINGLE_OSSMailView": "Email history",
     "LBL_RECORDS_LIST": "Списък с имейли",
     "LBL_INFORMATION": "Обща информация",
     "LBL_ORIGN_MESSAGE": "Оригинално съобщение",
@@ -66,7 +66,7 @@
     "Configuration": "Конфигурация",
     "LBL_MAIL_REPLY_INTRO": "На %s, %s пише:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Оригинално съобщение --------",
-    "Graf": "Корпоративни електронни писма от вида на",
+    "Graf": "Emails by Type",
     "Today": "Днес",
     "Yesterday": "Вчера",
     "Current week": "Текуща седмица",

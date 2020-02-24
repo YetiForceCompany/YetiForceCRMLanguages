@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "خطأ ملف ICS",
     "LBL_IMPORT_ICS_SUCCESS": "وأضاف الدخول إلى التقويم",
     "LBL_SHITF_TASK_SHOW": "إظهار أو إخفاء نوع النشاط: المهمة",
-    "LBL_SHITF_MEETING_SHOW": "إظهار أو إخفاء نوع النشاط: المهمة",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "إظهار أو إخفاء نوع النشاط: المهمة",
     "LBL_SHIFT_USER_SHOW": "إظهار أو إخفاء القائمة.",
     "Activity Type_BLOCK_SHIFT": "إظهار أو إخفاء نوع النشاط: المهمة",

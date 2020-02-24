@@ -815,7 +815,7 @@
     "Sum invoices": "Summe Rechnungen",
     "Sum calculations": "Summe Kalkulationen",
     "Calculations": "Kalkulationen",
-    "OSSMailView": "E-Mails",
+    "OSSMailView": "E-Mail-Verlauf",
     "OSSEmployees": "Mitarbeiter",
     "HolidaysEntitlement": "Urlaubsanspruch",
     "Faq": "FAQ",
@@ -1388,7 +1388,7 @@
     "LBL_EDIT_COLOR": "Farbe bearbeiten",
     "LBL_SELECT_COLOR": "Farbe auswählen:",
     "LBL_PREVIOUS_COLOR": "Vorherige Farbe:",
-    "ERR_OCCURRED_CHECK_LOGS": "Error occurred, check the logs",
+    "ERR_OCCURRED_CHECK_LOGS": "Fehler aufgetreten, überprüfen Sie die Logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Originalinhalt anzeigen"
   },
   "js": {
@@ -1586,6 +1586,7 @@
     "JS_MARCH": "März",
     "JS_MAR": "Mär",
     "JS_MAY": "Mai",
+    "JS_MAY_SHORT": "Mai",
     "JS_MONDAY": "Montag",
     "JS_MON": "Mo",
     "JS_MONTH": "Monat",

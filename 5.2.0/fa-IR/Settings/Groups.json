@@ -1,8 +1,8 @@
 {
   "php": {
     "LBL_ADD_RECORD": "افزودن رکورد",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
+    "LBL_ADD_USERS_ROLES": "افزودن کاربران، نقش ها...",
+    "LBL_DUPLICATES_EXIST": "نام گروه از قبل موجود است",
     "LBL_GROUP_MEMBERS": "اعضای گروه",
     "LBL_GROUP_NAME": "نام گروه",
     "LBL_ROLEANDSUBORDINATE": "نقش و زیردستان",

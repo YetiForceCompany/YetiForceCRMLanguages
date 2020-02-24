@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Maile firmowe",
-    "SINGLE_OSSMailView": "Mail firmowy",
+    "OSSMailView": "Historia maili",
+    "SINGLE_OSSMailView": "Historia maili",
     "LBL_RECORDS_LIST": "Lista maili",
     "LBL_INFORMATION": "Informacje ogólne",
     "LBL_ORIGN_MESSAGE": "Oryginalna wiadomość",
@@ -66,7 +66,7 @@
     "Configuration": "Konfiguracja",
     "LBL_MAIL_REPLY_INTRO": "W dniu %s, %s napisał(a):",
     "LBL_MAIL_FORWARD_INTRO": "-------- Wiadomość oryginalna --------",
-    "Graf": "Maile Firmowe wg typu",
+    "Graf": "Emaile według typu",
     "Today": "Dziś",
     "Yesterday": "Wczoraj",
     "Current week": "Aktualny tydzień",

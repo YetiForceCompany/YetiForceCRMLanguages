@@ -1,20 +1,20 @@
 {
   "php": {
-    "FInvoiceProforma": "Proforma invoices",
-    "SINGLE_FInvoiceProforma": "Proforma invoice",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
-    "FL_SUBJECT": "Subject",
-    "FL_PAYMENT_DATE": "Due date",
-    "FL_SALE_DATE": "Sale date",
-    "FL_ACCOUNT": "Account",
-    "FL_FORM_PAYMENT": "Payment method",
-    "FL_STATUS": "Status",
-    "FL_NUMBER": "Invoice number",
-    "FL_TOTAL": "Net",
-    "FL_GROSS": "Gross",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "FInvoiceProforma": "پیش فاکتورها",
+    "SINGLE_FInvoiceProforma": "پیش فاکتور",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "نشانی تحویل",
+    "FL_SUBJECT": "موضوع",
+    "FL_PAYMENT_DATE": "تاریخ سررسید",
+    "FL_SALE_DATE": "تاریخ فروش",
+    "FL_ACCOUNT": "حساب",
+    "FL_FORM_PAYMENT": "روش پرداخت",
+    "FL_STATUS": "وضعیت",
+    "FL_NUMBER": "شماره فاکتور",
+    "FL_TOTAL": "خالص",
+    "FL_GROSS": "ناخالص",
+    "PLL_CASH": "نقدی",
+    "PLL_TRANSFER": "انتقال بانکی",
+    "PLL_WIRE_TRANSFER": "انتقال الکترونیکی"
   }
 }

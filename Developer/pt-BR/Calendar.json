@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Arquivo ICS incorreto",
     "LBL_IMPORT_ICS_SUCCESS": "Dados adicionados na Agenda",
     "LBL_SHITF_TASK_SHOW": "Exibir ou ocultar tipo de atividade: tarefa",
-    "LBL_SHITF_MEETING_SHOW": "Exibir ou ocultar tipo de atividade: reunião",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Exibir ou ocultar tipo de atividade: usuário",
     "LBL_SHIFT_USER_SHOW": "Exibir ou ocultar Usuário",
     "Activity Type_BLOCK_SHIFT": "Exibir ou ocultar tipo bloco atividade",

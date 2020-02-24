@@ -1,14 +1,14 @@
 {
   "php": {
-    "Access to record": "Access to records",
-    "GlobalPermission": "Special access",
+    "Access to record": "دسترسی به رکوردها",
+    "GlobalPermission": "دسترسی ویژه",
     "LBL_Module_desc": "Here you can define which profiles have access to all records regardless of roles.",
     "LBL_PROFILE_NAME": "نام پروفایل",
     "LBL_DESCRIPTION": "شرح پروفایل",
     "LBL_VIEW_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Browsing",
-    "LBL_VIEW_ALL": "Enable preview of all records",
+    "LBL_VIEW_ALL": "فعال کردن پیش نمایش از تمام رکوردها",
     "LBL_EDIT_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Create\/Edit.",
-    "LBL_EDIT_ALL": "Enable editing of all records",
+    "LBL_EDIT_ALL": "فعال کردن ویرایش تمام رکوردها",
     "LBL_SAVE_OK": "ذخیره‌ی تغییرات"
   }
 }

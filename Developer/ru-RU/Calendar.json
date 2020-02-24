@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Неправильный файл ICS",
     "LBL_IMPORT_ICS_SUCCESS": "Добавлена запись в Календарь",
     "LBL_SHITF_TASK_SHOW": "Показать/Скрыть действие типа: Задача",
-    "LBL_SHITF_MEETING_SHOW": "Показать/Скрыть действие типа: Встреча",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Показать/Скрыть действие типа: Звонок",
     "LBL_SHIFT_USER_SHOW": "Показать/Скрыть пользователя",
     "Activity Type_BLOCK_SHIFT": "Показать/Скрыть Блок Типы действия",

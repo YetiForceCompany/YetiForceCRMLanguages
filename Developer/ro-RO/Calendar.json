@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Fisier ICS gresit",
     "LBL_IMPORT_ICS_SUCCESS": "Intrare adaugata in Calendar",
     "LBL_SHITF_TASK_SHOW": "Afiseaza sau ascunde tipul activitatii: sarcina",
-    "LBL_SHITF_MEETING_SHOW": "Afiseaza sau ascunde tipul activitatii: intalnire",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Afiseaza sau ascunde tipul activitatii: utilizator",
     "LBL_SHIFT_USER_SHOW": "Afiseaza sau ascunde utilizator",
     "Activity Type_BLOCK_SHIFT": "Show or hide activity block type",

@@ -1,19 +1,19 @@
 {
   "php": {
     "OpenStreetMap": "OpenStreetMap",
-    "LBL_GROUP_BY": "Group",
-    "LBL_GROUP_NEIGHBOURS": "Group neighboring elements",
-    "LBL_NOT_FOUND_PLACE": "Place not found",
-    "LBL_SEARCH_VALUE_DESCRIPTION": "City, street, building number...",
-    "LBL_IN_RADIUS": "Within radius [km]",
-    "LBL_CALCULATE_TRACK": "Set route",
-    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Set route",
-    "LBL_DISTANCE": "Distance [km]",
-    "LBL_TRAVEL_TIME": "Time [min]",
-    "LBL_INSTRUCTION": "Manual",
-    "LBL_SEARCH_IN_RADIUS": "Search in radius",
-    "LBL_CLIPBOARD": "Clipboard",
+    "LBL_GROUP_BY": "گروه",
+    "LBL_GROUP_NEIGHBOURS": "عناصر همسایگی گروه‌ها",
+    "LBL_NOT_FOUND_PLACE": "محل یافت نشد",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "شهرستان, خیابان, ساختمان, شماره...",
+    "LBL_IN_RADIUS": "در شعاع [km]",
+    "LBL_CALCULATE_TRACK": "تنظیم مسیر",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "تنظیم مسیر",
+    "LBL_DISTANCE": "فاصله [km]",
+    "LBL_TRAVEL_TIME": "زمان [دقیقه]",
+    "LBL_INSTRUCTION": "دستی",
+    "LBL_SEARCH_IN_RADIUS": "جستجو در شعاع",
+    "LBL_CLIPBOARD": "کلیپ‌بورد",
     "LBL_INDIRECT_POINT": "Indirect point",
-    "ERR_ADDRESS_NOT_FOUND": "Address not found"
+    "ERR_ADDRESS_NOT_FOUND": "نشانی یافت نشد"
   }
 }

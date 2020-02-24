@@ -8,7 +8,7 @@
     "Table": "Table",
     "LabelFields": "Main colums for a module (including a label for uitype 10)",
     "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
+    "Tools": "Acties",
     "Update labels": "Update labels",
     "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
     "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",

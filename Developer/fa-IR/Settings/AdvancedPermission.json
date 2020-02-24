@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_ADVANCED_PERMISSION": "دسترسی‌های پیشرفته",
-    "AdvancedPermission": "دسترسی‌های پیشرفته",
+    "LBL_ADVANCED_PERMISSION": "مجوزهای پیشرفته",
+    "AdvancedPermission": "مجوزهای پیشرفته",
     "LBL_ADVANCED_PERMISSION_DESCRIPTION": "پیکربندی مجوز اعطا یا مجوز برداشت به سوابق.",
     "LBL_NAME": "نام مجوز",
     "LBL_MODULE": "ماژول",

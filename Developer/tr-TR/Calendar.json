@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Yanlış ICS dosyası",
     "LBL_IMPORT_ICS_SUCCESS": "Takvime giriş eklendi",
     "LBL_SHITF_TASK_SHOW": "Etkinlik türünü göster veya gizle: görev",
-    "LBL_SHITF_MEETING_SHOW": "Etkinlik türünü göster veya gizle: metting",
+    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
     "LBL_SHITF_CALL_SHOW": "Etkinlik türünü göster veya gizle: kullanıcı",
     "LBL_SHIFT_USER_SHOW": "Kullanıcıyı göster veya gizle",
     "Activity Type_BLOCK_SHIFT": "Etkinlik engelleme türünü göster veya gizle",

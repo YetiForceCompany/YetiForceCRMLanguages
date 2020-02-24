@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Kurumsal e-postalar",
-    "SINGLE_OSSMailView": "Kurumsal e-posta",
+    "OSSMailView": "Email history",
+    "SINGLE_OSSMailView": "Email history",
     "LBL_RECORDS_LIST": "E-postaların listesi",
     "LBL_INFORMATION": "Genel bilgi",
     "LBL_ORIGN_MESSAGE": "Orijinal mesaj",
@@ -66,7 +66,7 @@
     "Configuration": "Yapılandırma",
     "LBL_MAIL_REPLY_INTRO": "%s üzerinde, %s yazdı:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Orijinal mesaj --------",
-    "Graf": "Türlere göre kurumsal e-postalar",
+    "Graf": "Emails by Type",
     "Today": "Bugün",
     "Yesterday": "Dün",
     "Current week": "Bu hafta",

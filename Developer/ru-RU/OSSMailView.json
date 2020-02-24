@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Просмотр Почты",
-    "SINGLE_OSSMailView": "Просмотр Почты",
+    "OSSMailView": "Email history",
+    "SINGLE_OSSMailView": "Email history",
     "LBL_RECORDS_LIST": "Список Писем",
     "LBL_INFORMATION": "Информация",
     "LBL_ORIGN_MESSAGE": "Оригинал сообщения",
@@ -66,7 +66,7 @@
     "Configuration": "Настройка просмотра почты",
     "LBL_MAIL_REPLY_INTRO": "На %s, %s пишет:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Оригинал сообщения --------",
-    "Graf": "Письма по статусу",
+    "Graf": "Emails by Type",
     "Today": "Сегодня",
     "Yesterday": "Вчера",
     "Current week": "На этой неделе",

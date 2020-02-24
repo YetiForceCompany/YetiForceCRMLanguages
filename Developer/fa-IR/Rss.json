@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
-    "LBL_ADD_FEED_SOURCE": "Add Feed Source",
+    "LBL_RSS_FEED_SOURCES": "منابع فید Rss",
+    "LBL_ADD_FEED_SOURCE": "اضافه کردن منبع جدید",
     "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
-    "LBL_SENDER": "Sender",
-    "LBL_FEED_SOURCE": "Feed Source",
+    "LBL_SET_AS_DEFAULT": "تنظیم به‌عنوان پیش‌فرض",
+    "LBL_SENDER": "فرستنده",
+    "LBL_FEED_SOURCE": "منبع فید",
     "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
     "SINGLE_Rss": "Rss Feed",
-    "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
+    "LBL_CHANGE_RSS_CHANNEL": "تغییر کانال RSS"
   },
   "js": {
     "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
