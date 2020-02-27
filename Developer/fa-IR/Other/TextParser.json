@@ -50,7 +50,6 @@
     "LBL_TABLE_CURRENCY_SUMMARY": "Currency summary for advanced block",
     "LBL_TABLE_DISCOUNT_S_TWO_LANG": "Discount summary for advanced block - bilingual version",
     "LBL_TABLE_TAX_S_TWO_LANG": "Tax summary table - bilingual version",
-    "LBL_GROSS_AMOUNT_IN_WORDS": "مقدار ناخالصی به حروف",
     "LBL_TABLE_DISCOUNT_SUMMARY": "خلاصه تخفیف برای بلاک‌های پیشرفته",
     "LBL_OVERDUE_DEADLINES": "رویداد‌های گذشته",
     "LBL_TABLE_TAX_SUMMARY": "خلاصه مالیات برای بلوک‌های پیشرفته",
@@ -61,10 +60,10 @@
     "LBL_INVENTORY_VARIABLES": "Additional inventory variables",
     "LBL_TEXT_PARSER_RECORDS_LIST": "فهرست رکوردها",
     "LBL_TEXT_PARSER_USER_VARIABLE": "متغییر‌های کاربر",
-    "LBL_REPORT_NEW_RECORDS": "New records in given module",
+    "LBL_REPORT_NEW_RECORDS": "رکورد جدید در ماژول",
     "LBL_REPORT_SSALESPROCESSES": "رکورد فرصت",
-    "LBL_REPORT_CALENDAR": "Calendar records",
-    "LBL_REPORT_OVERDUE": "Overdue records",
+    "LBL_REPORT_CALENDAR": "رکوردهای تقویم",
+    "LBL_REPORT_OVERDUE": "رکوردهای از سررسید گذشته",
     "LBL_USER_RECORD_DUPLICATE_LIST": "User duplicated records list",
     "LBL_USER_RECORD_FILTERED_LIST": "User filtered records list"
   }

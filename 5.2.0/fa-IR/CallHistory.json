@@ -17,16 +17,16 @@
     "LBL_END_TIME": "تماس پایان یافته",
     "LBL_COUNTRY_CODE": "کد کشور",
     "LBL_IMEI": "IMEI",
-    "LBL_IPADDRESS": "ID address",
+    "LBL_IPADDRESS": "نشانی ‌‌ID",
     "LBL_SIMSERIAL": "شماره SIM",
     "LBL_SUBSCRIBERID": "شماره مشترک",
-    "LBL_DESTINATION": "Where called",
+    "LBL_DESTINATION": "محل تماس گرفته شده",
     "LBL_SOURCE": "منبع تماس",
     "Record Id": "شناسه رکورد",
-    "Outgoing missed": "Outgoing missed",
-    "Outgoing received": "Outgoing received",
-    "Incoming": "Incoming received",
-    "Missed": "Incoming missed",
+    "Outgoing missed": "تماس از دست رفته خروجی",
+    "Outgoing received": "تماس خروجی پذیرفته شده",
+    "Incoming": "تماس ورودی پذیرفته شده",
+    "Missed": "تماس ورودی از دست رفته",
     "Voicemail": "صندوق صوتی دریافتی"
   }
 }

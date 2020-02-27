@@ -65,6 +65,7 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Pulisci cartella file temporanei",
     "LBL_SESSION_CLEANER": "Elimina sessioni inattive",
     "LBL_ARCHIVE_OLD_RECORDS": "Archivia i vecchi record",
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "Il CRON non è stato abilitato, è richiesto per il corretto funzionamento del sistema.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Scarica i messaggi dai social media"
   },
   "js": {

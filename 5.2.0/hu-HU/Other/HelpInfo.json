@@ -1,8 +1,8 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
+    "Announcements|FL_INTERVAL": "Napon belüli emlékeztetők gyakorisága, ha a felhasználó nem figyeli a változásokat. Ha a mező üres marad az emlékeztető nem jelenik meg többé.",
+    "Accounts|Account Name": "Ez a mező szolgál a cég neve",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Az alapértelmezett országban használható, ha a szinkronizálás a CardDAV telefon mezőt. Ha a telefon csatlakozik, anélkül, hogy egy nemzeti száma, ez a mező használható",
     "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
     "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
     "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",

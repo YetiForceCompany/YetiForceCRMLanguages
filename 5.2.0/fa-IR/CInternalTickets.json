@@ -1,7 +1,7 @@
 {
   "php": {
-    "CInternalTickets": "Internal tickets",
-    "SINGLE_CInternalTickets": "Internal ticket",
+    "CInternalTickets": "تیکت‌های داخلی",
+    "SINGLE_CInternalTickets": "تیکت داخلی",
     "LBL_ADDITIONAL_INFORMATION": "اطلاعات بیشتر",
     "LBL_BASIC_INFORMATION": "اطلاعات اولیه",
     "LBL_TICKET_RESOLUTION": "راه حل",

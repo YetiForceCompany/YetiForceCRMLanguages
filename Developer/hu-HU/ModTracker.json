@@ -36,16 +36,16 @@
     "LBL_REMOVED": "removed",
     "LBL_CONVERTED_FROM_LEAD": "Converted from lead",
     "LBL_DELETED": "Deleted record",
-    "LBL_ACTIVE": "Restored record",
-    "LBL_ARCHIVED": "Archived record",
-    "LBL_TRANSFER_EDIT": "record was changed in the transfer process",
-    "LBL_TRANSFER_DELETE": "record was deleted in the transfer process",
-    "LBL_TRANSFER_UNLINK": "relation was deleted in the transfer process",
-    "LBL_TRANSFER_LINK": "relation was added in the transfer process",
-    "LBL_INV_ADDED": "Added",
-    "LBL_INV_UPDATED": "Updated",
-    "LBL_INV_DELETED": "Deleted",
-    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
+    "LBL_ACTIVE": "Rekordok visszaállítása",
+    "LBL_ARCHIVED": "Archivált rekord",
+    "LBL_TRANSFER_EDIT": "rekord változott az átviteli folyamatban",
+    "LBL_TRANSFER_DELETE": "bejegyzés törölve lett az átvitel során",
+    "LBL_TRANSFER_UNLINK": "kapcsolatban törölték az átviteli folyamatban",
+    "LBL_TRANSFER_LINK": "kapcsolatban hozzáadásra került az átvitel során",
+    "LBL_INV_ADDED": "Hozzáadva",
+    "LBL_INV_UPDATED": "Módosítva",
+    "LBL_INV_DELETED": "Törölve",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Frissítések widget config",
+    "LBL_PERSON_MAKING_CHANGES": "Személy változtatások"
   }
 }

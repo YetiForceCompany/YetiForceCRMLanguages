@@ -33,7 +33,7 @@
     "LBL_CONFIG_SERVER_DESC": "服务器配置设置不正确。系统可能有问题, 或者输入的数据可能已损坏或删除。更多信息可在文章%s 中找到:",
     "LBL_PERFORMANCE": "性能",
     "LBL_PHPEXT": "PHP 扩展",
-    "LBL_DATABASE": "数据库",
+    "LBL_DATABASE": "Database",
     "LBL_STABILITY": "稳定性",
     "LBL_CONFIG_SERVER": "服务器参数设置",
     "LBL_SECURITY": "安全设置",

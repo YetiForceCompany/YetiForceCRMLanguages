@@ -243,12 +243,12 @@
     "LBL_WATCHDOG_INFO": "This task works correctly only with hierarchy modules.",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Show tasks",
     "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Enable deactivation tasks",
-    "LBL_EMAIL_REPORT": "Email report",
-    "LBL_SELECT_USERS": "Select users, groups, roles",
-    "LBL_SELECT_USERS_INFO": "Select users, groups, roles to whom the report should be sent",
-    "LBL_WORKINGDAY_DAY": "Every working day",
-    "LBL_WORKINGDAY_WEEK": "First working day of the week",
-    "LBL_WORKINGDAY_MONTH": "First working day of the month"
+    "LBL_EMAIL_REPORT": "E-mail jelentés",
+    "LBL_SELECT_USERS": "Válassza ki a felhasználók, csoportok, szerepek",
+    "LBL_SELECT_USERS_INFO": "Válassza ki a felhasználók, csoportok, szerepek, kinek a jelentést küldeni kell",
+    "LBL_WORKINGDAY_DAY": "Minden munkanap",
+    "LBL_WORKINGDAY_WEEK": "Első munkanap a héten",
+    "LBL_WORKINGDAY_MONTH": "Első munkanapján a hónapban"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

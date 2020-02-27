@@ -1,12 +1,12 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "مقدار غیرمجاز",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
-    "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
-    "ERR_ILLEGAL_FIELD_VALUE": "Illegal value has been entered for this field type. Field name: %s, Module: %s, Value: %s",
-    "ERR_VALUE_IS_TOO_LONG": "Character limit exceeded. Field name: %s, Module: %s, Value: %s",
-    "ERR_TO_MANY_FILES": "Too many files transferred - limit was exceeded. Field name: %s, Module: %s, Value: %s",
-    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "The field value must be greater than zero. Field name: %s, Module: %s, Value: %s",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "اسکریپ وجود دارد ولی شامل نام تابع وارد شده نمی‌باشد.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "ذخیره روش گردش کار بروی فایل اسکریپت با شکست مواجه شد.",
+    "ERR_ILLEGAL_FIELD_VALUE": "مقادیر غیر مجاز برای این نوع فایل وارد شده. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
+    "ERR_VALUE_IS_TOO_LONG": "سقف تعداد کاراکتر رد شد. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
+    "ERR_TO_MANY_FILES": "بیش از حد مجاز فایل جابجا شد و از سقف مجاز گذشت. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
+    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "مقدار فیلد با بیشتر از صفر باشد. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
     "ERR_NOT_ALLOWED_VALUE": "مقدار نادرستی تشخیص داده شد, لطفا با مدیریت تماس بگیرید",
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "این رمز عبور استفاده شده است. سیستم به استفاده از یک رمز عبور به دلایل امنیتی اجازه نمی دهد.",
     "ERR_USER_EXISTS": "کاربر با همان نام کاربری و نقش در حال حاضر وجود دارد (%s)",
@@ -26,10 +26,10 @@
     "ERR_FILE_PHP_CODE_INJECTION": "فایل حاوی کد PHP خطرناک و رد شد",
     "ERR_FILE_XPACKET_CODE_INJECTION": "فایل حاوی کد XPACKET خطرناک و رد شد",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "هیچ مجوزی برای ایجاد دایرکتوری نیست",
-    "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "امکان ایجاد پوشه نیست",
     "ERR_AUTO_LOGOUT": "به طور خودکار به دلیل بی فعالیتی خارج شدید",
-    "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
-    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
+    "ERR_FIELD_NOT_FOUND": "فایل یافت نشد (%s)",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "تعداد آرگومان‌ها مجاز نمی باشد ( %d%s در %s)",
     "ERR_NO_VALUE": "بدون مقدار",
     "ERR_BODY_IS_EMPTY": "Body خالی است",
     "ERR_API": "خطا در API",
@@ -42,6 +42,6 @@
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "خطا هنگام تجزیه پاسخ سرور",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "خطا هنگام اتصال به سرور از راه دور",
     "ERR_NO_INTERNET_CONNECTION": "اینترنت قطع است",
-    "ERR_OBJECT_MUST_HAVE_INTERFACE": "The object must have an interface %s"
+    "ERR_OBJECT_MUST_HAVE_INTERFACE": "شی باید دارای یک رابط باشد %s"
   }
 }

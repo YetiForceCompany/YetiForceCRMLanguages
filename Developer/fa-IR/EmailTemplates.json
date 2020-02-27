@@ -12,8 +12,8 @@
     "FL_SMTP_PRIORITY": "اولویت SMTP",
     "PLL_MODULE": "ماژول",
     "PLL_RECORD": "ضبط",
-    "PLL_MAIL": "Message",
-    "PLL_LIST": "List",
-    "PLL_DEFAULT": "Default company"
+    "PLL_MAIL": "پیام",
+    "PLL_LIST": "لیست",
+    "PLL_DEFAULT": "شرکت پیش‌فرض"
   }
 }

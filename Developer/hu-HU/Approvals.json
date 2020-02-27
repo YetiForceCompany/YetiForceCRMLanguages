@@ -1,16 +1,16 @@
 {
   "php": {
-    "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
+    "Approvals": "Jóváhagyások",
+    "SINGLE_Approvals": "Jováhagyás",
+    "LBL_CUSTOM_INFORMATION": "Egyedi adatok",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "FL_NAME": "Név",
+    "FL_APPROVALS_STATUS": "Állapot",
+    "FL_DESCRIPTION": "Leírás",
+    "FL_NUMBER": "Szám",
+    "PLL_DRAFT": "Piszkozat",
+    "PLL_ACTIVE": "Aktív",
     "PLL_INACTIVE": "Inactive"
   }
 }

@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
+    "LBL_SLA_POLICY": "توافقنامه SLA",
+    "LBL_NAME": "نام توافقنامه خدمات",
+    "LBL_EDIT": "ویرایش موافقت نامه سطح خدمات SLA",
     "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SOURCE_MODULE": "ماژول"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "انتخاب ساعات کاری",
+    "JS_BUSINESS_HOURS_FROM": "از",
+    "JS_BUSINESS_HOURS_TO": "به",
+    "JS_BUSINESS_HOURS_NAME": "نام",
+    "JS_BUSINESS_HOURS_DAYS": "ﺭﻭﺯﻫﺎﯼ ﮐﺎﺭﯼ",
+    "JS_HOLIDAYS": "تعطیلات"
   }
 }

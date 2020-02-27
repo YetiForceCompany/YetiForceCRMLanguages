@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SLA_POLICY": "SLA Politika",
+    "LBL_NAME": "Házirend neve",
+    "LBL_EDIT": "Szerkesztés SLA politika",
+    "LBL_CREATE": "Hozzon létre új SLA politika",
+    "LBL_SOURCE_MODULE": "Modul"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Válassza ki munkaidő",
+    "JS_BUSINESS_HOURS_FROM": "Feladó",
+    "JS_BUSINESS_HOURS_TO": "Címzett",
+    "JS_BUSINESS_HOURS_NAME": "Név",
+    "JS_BUSINESS_HOURS_DAYS": "Munkanapok",
+    "JS_HOLIDAYS": "Szabadnapok"
   }
 }

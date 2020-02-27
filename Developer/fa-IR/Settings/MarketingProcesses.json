@@ -2,19 +2,19 @@
   "php": {
     "LBL_CONVERSION": "گفتگو",
     "LBL_CONVERSION_TO_ACCOUNT": "تغییر شخص اختصاص یافته",
-    "LBL_CONVERSION_TO_ACCOUNT_INFO": "When this option is ticked, a user who converts a Lead to an Account becomes its Assigned To",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "وقتی این گزینه تیک خورده باشد،حساب به کاربری که یک سرنخ را به حساب تبدیل می‌کند اختصاص می‌یابد",
     "LBL_LEADS": "سرنخ های فروش",
     "LBL_INFO": "اطلاعات",
     "LBL_VALUES": "مقدارها",
-    "LBL_GROUPS_INFO": "Groups with no Assigned To",
-    "LBL_LEAD_STATUS": "Statuses indicating end of work with Leads",
-    "LBL_LEAD_CONVERT_STATUS": "Statuses that allow for converting Lead to Account",
+    "LBL_GROUPS_INFO": "گروه‌هایی که که اختصاص یافته‌ای ندارند",
+    "LBL_LEAD_STATUS": "وضعیت بیانگر پایان کار با سرنخ",
+    "LBL_LEAD_CONVERT_STATUS": "وضعیتی که اجازه تبدیل سرنخ به حساب را می‌دهد",
     "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
     "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
     "LBL_CONDITION": "افزودن شرط",
     "MarketingProcesses": "فرآیندهای بازاریابی"
   },
   "js": {
-    "JS_NO_CONDITIONS": "At least one condition is required"
+    "JS_NO_CONDITIONS": "حداقل یک مرحله الزامی است"
   }
 }

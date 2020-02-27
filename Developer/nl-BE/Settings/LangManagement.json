@@ -41,7 +41,7 @@
     "Language": "Language",
     "LBL_TranslationType": "Translation Type",
     "LBL_KeyExists": "This language variable already exists",
-    "Export": "Export",
+    "Export": "Exporteren",
     "LBL_SHOW_MISSING_TRANSLATIONS": "Show missing translations",
     "LBL_DEFAULT": "Default",
     "LBL_DO_NOT_POSSIBLE_TO_MAKE_CHANGES": "Cannot make changes",
@@ -68,6 +68,6 @@
     "Search": "Search:",
     "No data available in table": "No translations",
     "JS_NOTRANSLATION": "--No Translation--",
-    "JS_EXPORT": "Export"
+    "JS_EXPORT": "Exporteren"
   }
 }

@@ -8,9 +8,9 @@
     "Start Date": "تاریخ شروع",
     "End Date": "تاریخ پایان",
     "Tracking Unit": "Tracking unit",
-    "Total Units": "Total units",
-    "Used Units": "Used units",
-    "Progress": "Progress",
+    "Total Units": "مجموع واحدها",
+    "Used Units": "واحدهای صرف شده",
+    "Progress": "پیشرفت",
     "Planned Duration": "Planned duration (in days)",
     "Actual Duration": "Actual duration (in days)",
     "Low": "کم",
@@ -55,6 +55,6 @@
     "JS_REACTION_TIME": "Reaction time",
     "JS_IDLE_TIME": "Idle time",
     "JS_RESOLVE_TIME": "Resolve time",
-    "JS_BUSINESS_HOURS": "Business hours"
+    "JS_BUSINESS_HOURS": "ساعت های کاری"
   }
 }

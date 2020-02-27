@@ -1,8 +1,8 @@
 {
   "php": {
-    "CInternalTickets": "Internal tickets",
-    "SINGLE_CInternalTickets": "Internal ticket",
-    "LBL_ADDITIONAL_INFORMATION": "Additional information",
+    "CInternalTickets": "Belső Jegyek",
+    "SINGLE_CInternalTickets": "Belső Jegy",
+    "LBL_ADDITIONAL_INFORMATION": "Kiegészítő információ",
     "LBL_BASIC_INFORMATION": "Basic information",
     "LBL_TICKET_RESOLUTION": "Solution",
     "LBL_ATTENTION_BLOCK": "Notes",

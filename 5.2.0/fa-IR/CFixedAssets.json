@@ -28,8 +28,8 @@
     "FL_MAX_FUEL_CONSUPTION": "حداکثر مصرف سوخت",
     "FL_TYPE_OIL": "نوع روغن",
     "FL_CURRENT_ODOMETER_READING_PORTERS": "خوانش کیلومترشمار در زمان پذیرش",
-    "FL_PERIOD_CAR_REVIEW": "MOT test period",
-    "FL_DATE_CAR_REVIEW": "MOT test data",
+    "FL_PERIOD_CAR_REVIEW": "دوره آزمون MOT",
+    "FL_DATE_CAR_REVIEW": "داده‌های آزمون MOT",
     "FL_NUMBER_FUEL_CARD": "شماره کارت سوخت",
     "FL_DATE_INSURANCE": "تاریخ بیمه نامه",
     "FL_COST_INSURANCE_OC": "هزینه بیمه مسئولیت",
@@ -44,13 +44,13 @@
     "PLL_UNDER_REPAIR": "تحت تعمیر",
     "PLL_PENDING_FOR_REPROCESSING": "در انتظار برای پردازش مجدد",
     "PLL_PENDING_FOR_SALE": "در انتظار برای فروش",
-    "PLL_REPROCESSED": "Reprocessed",
+    "PLL_REPROCESSED": "ادامه مجدد",
     "PLL_SOLD": "فروش رفته",
     "PLL_DEVICE": "دستگاه",
     "PLL_MACHINE": "ماشین",
     "PLL_VEHICLE": "وسیله نقلیه",
-    "PLL_PROPERTY": "Property",
-    "PLL_INVENTORY": "Inventory",
+    "PLL_PROPERTY": "ویژگی",
+    "PLL_INVENTORY": "انبار",
     "PLL_DIESEL": "دیزل"
   }
 }

@@ -1,17 +1,17 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
-    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
-    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "Announcements|FL_INTERVAL": "Gyakorisága emlékeztetők a nap, ha a felhasználó nem a változások áttekintése. Ha a mező üres marad az emlékeztető nem jelenik meg többé.",
+    "Accounts|Account Name": "Ez a mező szolgál a cég neve",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Az alapértelmezett országban használható, ha a szinkronizálás a CardDAV telefon mezőt. Ha a telefon csatlakozik, anélkül, hogy egy nemzeti száma, ez a mező használható",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Mindig állítsa be a kiválasztott elem alapértelmezett modul a globális kereső.",
+    "FL_RESPONSE_RANGE_TIME": "Az, hogy hány perc telt el, mielőtt a reakció alapján kell kiszámítani, hogy az SLA-t, illetve az üzleti nap/óra",
+    "FL_SOLUTION_RANGE_TIME": "Az, hogy hány perc telt el, hogy megoldja egy adott rekord számított a különböző állapotok attól függően, hogy a konfiguráció alapján az SLA-t, illetve az üzleti nap/óra",
+    "FL_IDLE_RANGE_TIME": "A percek számát, hogy egy adott rekord inaktív volt, például amikor a vár további rendelkezésre, az alapján kell kiszámítani, hogy az SLA-t, illetve az üzleti nap/óra",
+    "FL_CLOSING_RANGE_TIME": "Az, hogy hány perc telt el közötti létrehozása, a legutóbbi záró rekord, ez alapján számítják ki a SLA üzleti nap/óra",
+    "FL_RESPONSE_DATE_TIME": "Reakció start időpont.",
+    "FL_SOLUTION_DATE_TIME": "Befejezési dátum és idő használata.",
+    "FL_IDLE_DATE_TIME": "Tétlen vége időpont.",
+    "FL_RESPONSE_EXPECTED": "Tervezett/várható időpontja addig, amíg a reakció rekord kerül sor, ez alapján számítják ki a SLA üzleti nap/óra.",
+    "FL_IDLE_DATE_EXPECTED": "Tervezett/várható időpontja, míg ha tétlen időt engedélyezett, ez alapján számítják ki a SLA üzleti nap/óra."
   }
 }

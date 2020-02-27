@@ -363,17 +363,17 @@
     "PLL_PASSWORD_2FA": "Password + 2FA",
     "BTN_MASS_OFF_2FA": "Mass disable 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In demo mode, 2FA is for preview only.",
-    "LBL_2FA_TOTP_DESC": "Az egyszer használható felhasználói kód létrehozásához a megfelelő alkalmazásra van szükség, ami\nhasználható a számítógépen, vagy a telefonon.\nA legnépszerűbb alkalmazások listája:",
+    "LBL_2FA_TOTP_DESC": "Az egyszer használható felhasználói kód létrehozásához a megfelelő alkalmazásra van szükség, ami\nhasználható a számítógépen, vagy a telefonon.\nA legnépszerűbb alkalmazások listája",
     "FL_DEFAULT_SEARCH_MODULE": "Default module",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default selection",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Global search settings",
     "FL_PRIMARY_PHONE": "Primary phone",
     "LBL_USER_MAIL": " Mail",
-    "LBL_USER_GUI": "Layout",
-    "LBL_USER_INTEGRATION": "Integration",
-    "LBL_USER_AUTOMATION": "Automation",
-    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
-    "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
+    "LBL_USER_GUI": "Elrendezés",
+    "LBL_USER_INTEGRATION": "Integráció",
+    "LBL_USER_AUTOMATION": "Automatizálás",
+    "FL_MAIL_SCANNER_ACTIONS": "Mail scanner akciók",
+    "FL_MAIL_SCANNER_FIELDS": "Mail scanner mezők"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimal separator and grouping separator can't be the same.",

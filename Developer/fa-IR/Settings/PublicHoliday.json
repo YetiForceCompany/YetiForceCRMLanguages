@@ -1,15 +1,15 @@
 {
   "php": {
     "PublicHoliday": "تعطیلات عمومی",
-    "LBL_PUBLIC_HOLIDAY": "Calendar - Holidays",
+    "LBL_PUBLIC_HOLIDAY": "تقویم - تعطیلات",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": " ",
     "LBL_ADD_HOLIDAY": "اضافه کردن تعطیلات",
-    "LBL_HOLIDAY_LIST": "List of public holidays",
+    "LBL_HOLIDAY_LIST": "لیست تعطیلات عمومی",
     "LBL_YEAR_FROM": "از",
     "LBL_YEAR_TO": "به",
     "LBL_EDIT": "ویرایش",
     "LBL_DELETE": "حذف",
-    "JS_HOLIDAY_DELETE_OK": "Successfully deleted public holiday",
+    "JS_HOLIDAY_DELETE_OK": "تعطیلات عمومی با موفقیت حذف شد",
     "JS_HOLIDAY_DELETE_ERROR": "Failed to delete public holiday",
     "LBL_ADD_NEW_HOLIDAY": "اضافه کردن تعطیلات جدید",
     "LBL_DATE": "تاریخ",

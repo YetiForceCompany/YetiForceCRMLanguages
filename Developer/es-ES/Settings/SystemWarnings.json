@@ -33,7 +33,7 @@
     "LBL_CONFIG_SERVER_DESC": "Configuración del servidor no se ha establecido correctamente. Puede haber problemas con el sistema o los datos introducidos pueden ser dañados o eliminados. Puede encontrar más información en el artículo %s. Problemas detectados:",
     "LBL_PERFORMANCE": "Rendimiento",
     "LBL_PHPEXT": "Extensiones de PHP",
-    "LBL_DATABASE": "Bases de datos",
+    "LBL_DATABASE": "Database",
     "LBL_STABILITY": "Estabilidad",
     "LBL_CONFIG_SERVER": "Configuración del servidor",
     "LBL_SECURITY": "Seguridad",

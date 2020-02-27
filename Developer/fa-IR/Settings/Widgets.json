@@ -42,7 +42,7 @@
     "Filter": "فیلتر",
     "Filter info": "فعال‌کردن فیلتر کردن داده‌ها بر اساس انتخاب لیست",
     "None": "هیچ کدام",
-    "ProductsServices": "Products & services",
+    "ProductsServices": "محصولات و خدمات",
     "LBL_SELECTING_FIELDS": "انتخاب فیلد‌ها",
     "LBL_SELECTING_FIELDS_INFO": "Field names from a selected module to be displayed in the view.",
     "LBL_VIEW_TYPE": "مشاهده",
@@ -56,14 +56,14 @@
     "LBL_SHOW_ALL_RECORDS_INFO": "No - Permissions are taken into account \r\n Yes - Searching for records excluding permissions",
     "LBL_SHITCH_HEADER": "Switch in header",
     "LBL_SHITCH_HEADER_INFO": "Switch can be found in the widget's header.",
-    "HistoryRelation": "Timeline",
+    "HistoryRelation": "نوارزمان",
     "CountRecords": "Number of records",
     "LBL_LIST_WITH_SUMMARY": "List with summary"
   },
   "js": {
-    "Loading data": "Loading...",
-    "Saving changes": "Saving changes...",
-    "None": "None",
-    "JS_EDIT_WIDGET": "Edit widget"
+    "Loading data": "درحال بارگذاری...",
+    "Saving changes": "ذخیره‌ی تغییرات...",
+    "None": "هیچ کدام",
+    "JS_EDIT_WIDGET": "ویرایش ویجت"
   }
 }

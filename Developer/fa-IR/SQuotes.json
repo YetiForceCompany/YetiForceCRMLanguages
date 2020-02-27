@@ -1,7 +1,7 @@
 {
   "php": {
-    "SQuotes": "Quotes",
-    "SINGLE_SQuotes": "Quote",
+    "SQuotes": "استعلام‌ها",
+    "SINGLE_SQuotes": "استعلام",
     "LBL_SQUOTES_INFORMATION": "اطلاعات اولیه",
     "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
     "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",

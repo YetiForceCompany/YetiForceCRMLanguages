@@ -18,11 +18,11 @@
     "LBL_SHOW_HIERARCHY": "سلسه مراتب",
     "LBL_PARENT_IS_CHILD": "The selected parent storage cannot be secondary to current storage",
     "LBL_PRODUCTS_CONTROL_TABLE": "جدول کنترل کالاها",
-    "LBL_PRODUCTS_TABLE": "Table with products",
-    "LBL_PRODUCTS_TABLE_HIERARCHY": "Table with products hierarchy",
-    "LBL_PRODUCTS_VALUE_TABLE": "Table with products value",
+    "LBL_PRODUCTS_TABLE": "جدول 3 ستونی",
+    "LBL_PRODUCTS_TABLE_HIERARCHY": "جدول با محصولات سلسله مراتبی",
+    "LBL_PRODUCTS_VALUE_TABLE": "جدول شامل ارزش محصولات",
     "LBL_TABLE_HIERARCHY": "Hierarchy table",
-    "LBL_SECONDARY_STORAGES": "Secondary storages",
+    "LBL_SECONDARY_STORAGES": "انبار ثانویه",
     "LBL_ROW_NUM": "شماره.",
     "LBL_STORAGE_OWNER": "مالک"
   }

@@ -26,11 +26,11 @@
     "PLL_ARCHIVES": "Archive",
     "LBL_ARTICLE": "Article",
     "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
-    "LBL_SIZE": "Size",
-    "FL_FEATURED": "Featured",
-    "LBL_RELATED_KNOWLEDGE_BASES": "Related entries",
-    "FL_INTRODUCTION": "Introduction",
-    "ERR_NOT_ALLOWED": "The file has not the allowed extension type"
+    "LBL_ATTENTION_BLOCK": "Hozzászólások",
+    "LBL_SIZE": "Méret",
+    "FL_FEATURED": "Jellemzők",
+    "LBL_RELATED_KNOWLEDGE_BASES": "Kapcsolódó bejegyzések",
+    "FL_INTRODUCTION": "Bevezetés",
+    "ERR_NOT_ALLOWED": "A fájl nem engedélyezett fájltípusú"
   }
 }

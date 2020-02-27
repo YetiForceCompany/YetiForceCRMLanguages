@@ -25,11 +25,11 @@
     "LBL_CARS": "خودروها",
     "PLL_DRAFT": "پیش‌نویس",
     "PLL_CANCELLED": "لغو شده",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "Work days"
+    "LBL_SELECT_USER_CALENDAR": "انتخاب تقویم کاربر",
+    "LBL_SELECT_GROUP_CALENDAR": "انتخاب تقویم گروه",
+    "LBL_USER_NAME": "نام کاربری",
+    "LBL_GROUP_NAME": "نام گروه",
+    "LBL_WORK_DAYS": "روزهای کاری"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Allowed characters: [0-9]",

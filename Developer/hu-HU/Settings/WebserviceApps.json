@@ -13,7 +13,7 @@
     "LBL_TITLE_EDIT": "Edit",
     "Portal": "Portal",
     "Payments": "Payments",
-    "ManageConsents": "Manage consents"
+    "ManageConsents": "Kezeléséhez hozzájárul,"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"

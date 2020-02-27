@@ -1,11 +1,11 @@
 {
   "php": {
-    "SINGLE_ModComments": "Comment",
-    "LBL_RECORDS_LIST": "Comments list",
-    "LBL_MODCOMMENTS_INFORMATION": "Comments",
-    "LBL_OTHER_INFORMATION": "Other information",
-    "LBL_ADDING_COMMENT": "Add comment",
-    "LBL_WRITE_YOUR_COMMENT_HERE": "Enter comments here",
+    "SINGLE_ModComments": "Megjegyzés",
+    "LBL_RECORDS_LIST": "Feljegyzések listája",
+    "LBL_MODCOMMENTS_INFORMATION": "Megjegyzések",
+    "LBL_OTHER_INFORMATION": "Egyéb adatok",
+    "LBL_ADDING_COMMENT": "Új megjegyzés",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Írja be ide a megjegyzését",
     "Comment": "Comment",
     "Creator": "Creator",
     "Related To Comments": "Related to",

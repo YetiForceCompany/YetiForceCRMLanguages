@@ -33,7 +33,7 @@
     "LBL_CONFIG_SERVER_DESC": "Konfiguracija servera nije ispravno postavljena. Može doći do problema sa sistemom ili se uneseni podaci mogu oštetiti ili izbrisati. Više informacija možete pronaći u članku %s. Otkriveni problemi:",
     "LBL_PERFORMANCE": "Performanse",
     "LBL_PHPEXT": "PHP proširenja/ekstenzije",
-    "LBL_DATABASE": "Baza podataka",
+    "LBL_DATABASE": "Database",
     "LBL_STABILITY": "Stabilnost",
     "LBL_CONFIG_SERVER": "Konfiguracija servera",
     "LBL_SECURITY": "Sigurnost",
