@@ -1,7 +1,7 @@
 {
   "php": {
-    "PaymentsOut": "Payments out",
-    "SINGLE_PaymentsOut": "Payment out",
+    "PaymentsOut": "پرداخت خروجی",
+    "SINGLE_PaymentsOut": "پرداخت خروجی",
     "LBL_MAIN_INFORMATION": "اطلاعات اولیه",
     "LBL_PAYMENT_INFORMATION": "اطلاعات پرداخت",
     "LBL_PAYMENTSVALUE": "مقدار",
@@ -15,7 +15,7 @@
     "LBL_PAYMENTSNAME": "نام پرداخت",
     "LBL_ADD_RECORD": "افزودن رکورد",
     "LBL_RECORDS_LIST": "لیست رکوردها",
-    "LBL_PARENTID": "Parent payment out",
+    "LBL_PARENTID": "پرداخت خروجی واد",
     "Denied": "رد شده",
     "Created": "ایجاد شده",
     "Paid": "پرداخت شده",

@@ -41,13 +41,13 @@
     "NEXT": "Далі",
     "ing": "Ing Bank Śląski",
     "mbank": "mBank",
-    "Millennium": "Millenium",
+    "Millennium": "Millennium",
     "WBK": "Bank Zachodni WBK SA",
     "BGK": "Bank Gospodarstwa Krajowego",
     "PKOBP": "PKO BP",
     "Alior": "Alior Bank",
     "Pekao": "Pekao SA",
-    "BOS": "The Bank Of Environmental Protection",
+    "BOS": "Bank Ochrony Środowiska",
     "Kontrahent address": "Адреса Контрагента",
     "Pocztowy": "Postbank SA",
     "Deutsche": "Deutsche Bank",
@@ -57,9 +57,9 @@
     "SGB": "Spółdzielcza Grupa Bankowa",
     "Citi": "Citi Handlowy",
     "idea": "Idea Bank S.A.",
-    "FL_TRANSACTION": "Transaction",
-    "FL_ORDER": "Order",
+    "FL_TRANSACTION": "Транзакція",
+    "FL_ORDER": "Замовлення",
     "FL_INVOICE": "Рахунок",
-    "FL_PAYMENT_SYSTEM": "Payment system"
+    "FL_PAYMENT_SYSTEM": "Платіжна система"
   }
 }

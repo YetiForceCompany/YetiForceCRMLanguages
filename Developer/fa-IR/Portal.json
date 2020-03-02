@@ -5,21 +5,21 @@
     "LBL_ADD_NEW_BOOKMARK": "افزودن نشانک جدید",
     "LBL_BOOKMARK": "نشانک",
     "LBL_BOOKMARK_NAME": "نام نشانک",
-    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "Bookmark saved successfully",
+    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "سایت با موفقیت در علاقه‌مندی‌ها ذخیره گردید",
     "LBL_BOOKMARKS": "نشانک ها",
     "LBL_BOOKMARKS_DELETED_SUCCESSFULLY": "Bookmarks deleted successfully",
-    "LBL_BOOKMARKS_LIST": "Bookmarks list",
-    "LBL_BOOKMARK_URL": "Bookmark URL",
+    "LBL_BOOKMARKS_LIST": "فهرست انتخاب شده ها",
+    "LBL_BOOKMARK_URL": "علامتگذاری نشانی",
     "LBL_CREATED_ON": "ایجاد شده در",
     "LBL_EDIT_BOOKMARK": "ویرایش نشانک",
     "LBL_ENTER_BOOKMARK_NAME": "نام نشانک را وارد کنید",
-    "LBL_ENTER_URL": "Enter URL (www.example.com)",
-    "LBL_OUR_SITES_LIST": "Our sites list",
-    "LBL_RECORD_DELETED_SUCCESSFULLY": "Record deleted successfully",
+    "LBL_ENTER_URL": "نشانی سایت را وارد کنید (www.example.com)",
+    "LBL_OUR_SITES_LIST": "لیست سایت‌های ما",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "رکورد با موفقیت حذف گردید",
     "Portal": "سایت های ما",
     "SINGLE_Portal": "سایت ما"
   },
   "js": {
-    "JS_ENTER_MANDATORY_FIELD": "Please enter all mandatory fields"
+    "JS_ENTER_MANDATORY_FIELD": "لطفا همه فیلدهای اجباری را تکمیل نمایید"
   }
 }

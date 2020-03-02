@@ -1,6 +1,6 @@
 {
   "php": {
-    "Export": "صدور",
-    "LBL_INFO_USER_EXPORT_RECORDS": "فقط صدور کاربران فعال ممکن می‌باشد"
+    "Export": "خروجی گرفتن",
+    "LBL_INFO_USER_EXPORT_RECORDS": "گرفتن خروجی فقط کاربرهای فعال ممکن می‌باشد"
   }
 }

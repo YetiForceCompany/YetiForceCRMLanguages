@@ -2,12 +2,12 @@
   "php": {
     "Verification data": "اطلاعات تایید",
     "Attempted to Contact": "تلاش برای تماس",
-    "CANNOT_CONVERT": "Cannot convert",
+    "CANNOT_CONVERT": "نمی‌تواند تبدیل کند",
     "Cold": "بی تمایل",
     "Company": "نام مشتری بالقوه",
     "Contacted": "تماس گرفته شده",
     "Contact in Future": "تماس در آينده",
-    "Designation": "Designation",
+    "Designation": "تعیین",
     "Dr.": "دکتر.",
     "Email": "ایمیل اصلی",
     "Hot": "داغ",
@@ -23,9 +23,9 @@
     "LBL_FOLLOWING_ARE_POSSIBLE_REASONS": "دلایل احتمالی عبارتند از:",
     "LBL_LEAD_INFORMATION": "جزییات سرنخ فروش",
     "LBL_LEADS_FIELD_MAPPING_INCOMPLETE": "Leads field mapping is incomplete(Settings > Module Manager > Leads > Leads Field Mapping)",
-    "LBL_LEADS_FIELD_MAPPING": "Leads field mapping",
+    "LBL_LEADS_FIELD_MAPPING": "نگاشت فیلد سرنخ‌ها",
     "LBL_MANDATORY_FIELDS_ARE_EMPTY": "فیلدهای اجباری خالی هستند",
-    "LBL_LEAD_ALREADY_CONVERTED": "Lead is already converted",
+    "LBL_LEAD_ALREADY_CONVERTED": "سرنخ هم‌اکنون تبدیل شده است",
     "LBL_TRANSFER_RELATED_RECORD": "Transfer related record to",
     "Lead No": "شماره سرنخ",
     "Leads": "سرنخ‌ها",
@@ -91,6 +91,6 @@
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "At least two Accounts meet the requirements for linking, go to : (Administration > Processes > Marketing processes > Conversion) %s"
   },
   "js": {
-    "JS_SELECT_ORGANIZATION": "Select Account to proceed"
+    "JS_SELECT_ORGANIZATION": "انتخاب حساب برای ادامه"
   }
 }

@@ -21,11 +21,11 @@
     "FL_SUM_GROSS": " Сума Всього",
     "FL_SUM_DISCOUNT": "Сума знижки",
     "FL_POS": "Позиція",
-    "FL_METHOD_PAYMENTS": "Payment method",
+    "FL_METHOD_PAYMENTS": "Спосіб оплати",
     "PLL_REDSYS": "Redsys",
     "PLL_DOTPAY": "Dotpay",
-    "PLL_TRANSFER": "Transfer",
-    "PLL_CASH_ON_DELIVERY": "Cash on delivery",
+    "PLL_TRANSFER": "Переказ",
+    "PLL_CASH_ON_DELIVERY": "Накладений платіж",
     "FL_NUMBER_TABLE": " Номер стелажа",
     "FL_NUMBER_SEAT": "Номер місця",
     "PLL_DRAFT": "Чернетка",
@@ -40,10 +40,10 @@
     "PLL_MANUAL": "В ручну",
     "PLL_SHOP": "Магазин",
     "FL_STORAGE": "Склад",
-    "FL_PAYMENT_STATUS": "Payment status",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_PAYMENT_STATUS": "Статус платежу",
+    "PLL_NOT_PAID": "Не оплачено",
+    "PLL_PAID": "Сплачено",
+    "PLL_OVERPAID": "Переплачено",
+    "PLL_UNDERPAID": "Недоплачено"
   }
 }

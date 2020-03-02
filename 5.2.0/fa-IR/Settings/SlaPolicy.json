@@ -3,7 +3,7 @@
     "LBL_SLA_POLICY": "توافقنامه SLA",
     "LBL_NAME": "نام توافقنامه خدمات",
     "LBL_EDIT": "ویرایش موافقت نامه سطح خدمات SLA",
-    "LBL_CREATE": "Create new SLA policy",
+    "LBL_CREATE": "ایجاد موافقت نامه سطح خدمات SLA جدید",
     "LBL_SOURCE_MODULE": "ماژول"
   },
   "js": {

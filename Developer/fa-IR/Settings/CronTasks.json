@@ -42,7 +42,7 @@
     "LBL_CRMACTIVITY_DAYS": "Update calendar activity fields in related modules",
     "LBL_ACTIVITY_STATE": "وضعیت‌های تقویم",
     "LBL_ASSETS_RENEWAL": "نوسازی دارایی‌ها",
-    "LBL_SOLD_SERVICES_RENEWAL": "SoldServices Renewal",
+    "LBL_SOLD_SERVICES_RENEWAL": "تمدید خدمات فروخته",
     "LBL_SEND_NOTIFICATIONS": "ارسال اطلاعیه",
     "LBL_MARK_RECORDS_AS_REVIEWED": "علامت‌گذاری رکورد به عنوان بازبینی شده",
     "LBL_ADDRESS_BOOK": "به روزرسانی دفترچه نشانی",
@@ -65,7 +65,7 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "پاک کردن پوشه فایل های موقت",
     "LBL_SESSION_CLEANER": "پاک کردن Session های غیر فعال",
     "LBL_ARCHIVE_OLD_RECORDS": "بایگانی پرونده های قدیمی",
-    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "مکانیرم Cron فعال نشده است. برای کارکرد صحیح سامانه به آن نیاز است.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "دانلود پیام‌ها از رسانه های اجتماعی"
   },
   "js": {

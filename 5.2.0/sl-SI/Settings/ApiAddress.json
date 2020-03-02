@@ -18,7 +18,7 @@
     "LBL_PROVIDER_DEFAULT": "Default provider",
     "LBL_PROVIDER_ACTIVE": "Is provider active",
     "LBL_PROVIDER_ACTIONS": "Actions",
-    "LBL_PROVIDER_CONFIG": "Configure provider",
+    "LBL_PROVIDER_CONFIG": "Konfiguriraj ponudnika",
     "LBL_PROVIDER_UNSET": "Before activating provider you have to configure it by clicking settings button",
     "LBL_PROVIDER_GOOGLEGEOCODE": "Geokodiranje Google",
     "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Google Geocoding site",

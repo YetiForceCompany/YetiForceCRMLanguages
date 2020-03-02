@@ -14,13 +14,8 @@
     "306-Internet Sales": "306-Продажі-Інтернет",
     "307-Service-Hardware Labor": "307-Сервіс-Обслуговування обладнання",
     "308-Sales-Books": "308-Продажі-Книги",
-    "Box": "Ящик",
-    "Carton": "Картонна коробка",
-    "Caton": "Катушка",
     "Commission Rate": "Розмір комісії",
     "CRM Applications": "CRM додатки",
-    "Dozen": "Дюжина",
-    "Each": "Кожен",
     "GL Account": "Рахунок у головній книзі",
     "Handler": "Відповідальний",
     "Share with users": "Поділитися з",
@@ -28,7 +23,6 @@
     "Hours": "Години",
     "Impressions": "Враження",
     "LBL_ADD_TO_PRICEBOOKS": "Додати до Цінових пропозицій",
-    "Lb": "Фунт",
     "LBL_IMAGE_INFORMATION": "Зображення продукту",
     "LBL_MORE_CURRENCIES": "Більше валют",
     "LBL_PRICE": "Ціна",
@@ -77,7 +71,7 @@
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Список записів обмежується продуктами та послугами, пов'язаними з можливістю продажу",
     "FL_EAN_13": "EAN-13 (штрихкод)",
     "FL_QTY_IN_STOCK": "Кількість товарів на складі",
-    "FL_PURCHASE": "Purchase",
-    "FL_WEIGHT": "Weight"
+    "FL_PURCHASE": "Купівля",
+    "FL_WEIGHT": "Вага"
   }
 }

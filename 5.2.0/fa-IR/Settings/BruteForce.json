@@ -2,24 +2,24 @@
   "php": {
     "BruteForce": "Brute Force",
     "LBL_NUMBER_OF_ATTEMPTS": "تعداد تلاش‌ها",
-    "LBL_TIME_LOCK": "Time lock (minutes)",
+    "LBL_TIME_LOCK": "قفل زمان (دقیقه)",
     "LBL_SETTINGS": "تنظیمات",
     "LBL_BLOCKED_IP": "نشانی IP های مسدود شده",
     "LBL_SAVE_SUCCESS": "تغییرات ذخیره گردید",
     "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
-    "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
+    "LBL_UNBLOCK_SUCCESS": "نشانی IP رفع محدودیت شده",
     "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts and time limit for IP blocking.",
     "LBL_IP": "آدرس IP",
     "LBL_DATE": "تاریخ",
     "LBL_USERS": "کاربران",
     "LBL_BROWSERS": "مرورگر",
-    "LBL_UNBLOCK": "Unblock",
-    "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",
+    "LBL_UNBLOCK": "خارج کردن از مسدود بودن",
+    "LBL_USERS_FOR_NOTIFICATIONS": "کاربران برای اطلاعیه ها",
     "LBL_BRUTEFORCE_ACTIVE": "فعال",
     "LBL_VIEW_SHOW": "Brute Force",
     "LBL_SENT_NOTIFICATIONS": "ارسال اطلاعیه"
   },
   "js": {
-    "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."
+    "JS_COULD_NOT_FINNISH_REACTION": "خطا. ذخیره شکست خور."
   }
 }

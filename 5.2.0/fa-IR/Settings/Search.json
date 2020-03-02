@@ -1,7 +1,7 @@
 {
   "php": {
     "Search Configuration": "تنظیمات جستجو",
-    "Search Setup": "Labels and searching",
+    "Search Setup": "برچسب‌ها و جستجو",
     "Search": "تنظیمات جستجو",
     "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
     "Module": "ماژول",
@@ -9,18 +9,18 @@
     "LabelFields": "Main columns for a module (including a label for uitype 10)",
     "SearchFields": "Columns for search mechanisms",
     "Tools": "عملیات",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
+    "Update labels": "بروزرسانی برچسب‌ها",
+    "LBL_SAVE_CHANGES_SEARCHING": "تغییرات ذخیره شد.",
     "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
     "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
+    "LBL_SAVE_MODULE_SEQUENCE": "ذخیره سلسله ترتیب ماژول",
     "LBL_TURN_ON": "روشن کردن",
     "LBL_TURN_OFF": "خاموش کردن"
   },
   "js": {
-    "Saving changes": "Update in progress…",
+    "Saving changes": "در حال به روز رسانی…",
     "Update labels": "به روز رسانی",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
+    "JS_MODULES_SEQUENCE_UPDATED": "سلسله ترتیب ماژول‌ها به روزرسانی گردید",
     "JS_TURN_ON": "روشن کردن",
     "JS_TURN_OFF": "خاموش کردن"
   }

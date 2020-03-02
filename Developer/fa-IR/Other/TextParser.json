@@ -57,14 +57,15 @@
     "LBL_CURRENT_PAGE": "صفحه جاری",
     "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
-    "LBL_INVENTORY_VARIABLES": "Additional inventory variables",
+    "LBL_INVENTORY_VARIABLES": "متغییرهای اضافی موجودی انبار",
     "LBL_TEXT_PARSER_RECORDS_LIST": "فهرست رکوردها",
     "LBL_TEXT_PARSER_USER_VARIABLE": "متغییر‌های کاربر",
     "LBL_REPORT_NEW_RECORDS": "رکورد جدید در ماژول",
     "LBL_REPORT_SSALESPROCESSES": "رکورد فرصت",
     "LBL_REPORT_CALENDAR": "رکوردهای تقویم",
     "LBL_REPORT_OVERDUE": "رکوردهای از سررسید گذشته",
-    "LBL_USER_RECORD_DUPLICATE_LIST": "User duplicated records list",
-    "LBL_USER_RECORD_FILTERED_LIST": "User filtered records list"
+    "LBL_USER_RECORD_DUPLICATE_LIST": "لیست تکراری‌های کاربر",
+    "LBL_USER_RECORD_FILTERED_LIST": "لیست فیلتر شده رکوردها",
+    "LBL_SUMMARY_FIELDS": "لیست فیلدهای نمایان در چکیده"
   }
 }

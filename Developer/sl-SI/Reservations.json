@@ -25,11 +25,11 @@
     "LBL_CARS": "Vozilo",
     "PLL_DRAFT": "Osnutek",
     "PLL_CANCELLED": "Prekinjeno",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "Work days"
+    "LBL_SELECT_USER_CALENDAR": "Izberi koledar uporabnika",
+    "LBL_SELECT_GROUP_CALENDAR": "Izberi koledar skupine",
+    "LBL_USER_NAME": "Uporabniško ime",
+    "LBL_GROUP_NAME": "Ime skupine",
+    "LBL_WORK_DAYS": "Delovni dnevi"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dovoljeni znaki: [0-9]",

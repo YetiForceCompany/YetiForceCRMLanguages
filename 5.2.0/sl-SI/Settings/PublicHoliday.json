@@ -7,8 +7,8 @@
     "LBL_HOLIDAY_LIST": "Pregled praznikov",
     "LBL_YEAR_FROM": "Od",
     "LBL_YEAR_TO": "Za",
-    "LBL_EDIT": "Edit",
-    "LBL_DELETE": "Delete",
+    "LBL_EDIT": "Uredi",
+    "LBL_DELETE": "Briši",
     "JS_HOLIDAY_DELETE_OK": "Uspešno izbrisan praznik",
     "JS_HOLIDAY_DELETE_ERROR": "Praznik ni bil izbrisan",
     "LBL_ADD_NEW_HOLIDAY": "Dodaj nov praznik",
@@ -19,7 +19,7 @@
     "LBL_NEW_DATE_ERROR": "Ni bilo mogoče dodati novega praznika",
     "LBL_EDIT_DATE_OK": "Uspešno spremenjen praznik",
     "LBL_EDIT_DATE_ERROR": "Sprememba praznika ni uspela",
-    "LBL_FILL_FORM_ERROR": "You must fill all fields in the form",
+    "LBL_FILL_FORM_ERROR": "Izpolniti morate vsa polja v obrazcu",
     "Monday": "Ponedeljek",
     "Tuesday": "Torek",
     "Wednesday": "Sreda",
@@ -29,7 +29,7 @@
     "Sunday": "Nedelja",
     "LBL_HOLIDAY_TYPE": "Vrsta praznika",
     "LBL_NATIONAL": "državni",
-    "LBL_ECCLESIASTICAL": "ecclesiastical",
+    "LBL_ECCLESIASTICAL": "cerkveni",
     "ecclesiastical": "cerkveni",
     "national": "državni",
     "LBL_VIEW_CONFIGURATION": "Prazniki",
@@ -38,6 +38,6 @@
   "js": {
     "JS_ADD_NEW_HOLIDAY": "Dodaj nov praznik",
     "JS_EDIT_HOLIDAY": "Urejanje praznika",
-    "JS_FILL_FORM_ERROR": "You must fill all fields in the form"
+    "JS_FILL_FORM_ERROR": "Izpolniti morate vsa polja v obrazcu"
   }
 }

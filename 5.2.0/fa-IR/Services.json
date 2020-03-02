@@ -15,8 +15,8 @@
     "Service No": "شماره خدمت",
     "Owner": "اختصاص داده شده به",
     "Share with users": "اشتراک با",
-    "No of Units": "Number of units",
-    "Commission Rate": "Commission rate",
+    "No of Units": "تعداد واحد‌ها",
+    "Commission Rate": "نرخ پورسانت",
     "Price": "قیمت",
     "Usage Unit": "واحد استفاده",
     "Tax Class": "رده مالیاتی",
@@ -34,10 +34,10 @@
     "Service": "خدمت",
     "Support": "پشتیبانی",
     "Installation": "نصب",
-    "Migration": "Migration",
+    "Migration": "مهاجرت اطلاعات",
     "Customization": "شخصی سازی",
     "Training": "آموزش",
-    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "List of records is limited to the products and services associated with the sales opportunity",
+    "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "لیست رکورد‌ها به تعداد محصولات و خدمات در ارتباط با فرصت فروش محدود می‌باشد",
     "FL_COST": "هزینه"
   }
 }

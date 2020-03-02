@@ -23,7 +23,7 @@
     "LBL_TAXCONFIGURATION_DESCRIPTION": " ",
     "LBL_CANNOT_BE_COMBINED": "نمی‌تواند ترکیب شود",
     "LBL_IN_TOTAL": "در مجموع",
-    "LBL_CASCADE": "Cascade",
+    "LBL_CASCADE": "آبشاری",
     "LBL_GLOBAL": "Tax from the list of available taxes",
     "LBL_GROUP": "Tax from products\/services list",
     "LBL_INDIVIDUAL": "Custom tax",
@@ -45,7 +45,7 @@
     "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Summation type:\nIn total:\n- Total value of all discounts calculated on the basis of product\/services value.\n[Example]\nThere are two discounts selected: the first one is 20%%, the second one is 10%%. The system sums the value of both discounts from the original net amount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 30%%) = 70,00 zł\n\nCascade:\n- Discount amount is calculated each time from the product\/service value.\n[Example]\nTwo discounts are selected: the first one is 20%%, the second one is 10%%. The system calculates the value for the first discount and then this amount is reduced by the value of the second discount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 20%%) - 10%% = 72 zł\n\nDiscount settings description:\nDiscount from the list of available discounts:\n- Specified in settings for Advanced Modules.\nDiscount from products\/services list:\n- Specified individually for products in the Products module.\nCustom discount:\n- Specified once for a selected record.\nAccount's discount:\n- Specified individually for a selected Account."
   },
   "js": {
-    "JS_SAVE_CHANGES": "Changes saved successfully.",
+    "JS_SAVE_CHANGES": "تغییرات با موفقیت ذخیره گردید.",
     "JS_DELETE_INVENTORY_CONFIRMATION": "آیا از حذف این مقدار اطمینان دارید؟",
     "JS_EDIT": "ویرایش",
     "JS_DELETE": "حذف",

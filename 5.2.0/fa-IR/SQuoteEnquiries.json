@@ -1,7 +1,7 @@
 {
   "php": {
-    "SQuoteEnquiries": "Sales enquiries",
-    "SINGLE_SQuoteEnquiries": "Sales enquiry",
+    "SQuoteEnquiries": "درخواست‌‌های فروش",
+    "SINGLE_SQuoteEnquiries": "درخواست فروش",
     "LBL_QUOTESENQUIRES_INFORMATION": "اطلاعات اولیه",
     "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
     "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",

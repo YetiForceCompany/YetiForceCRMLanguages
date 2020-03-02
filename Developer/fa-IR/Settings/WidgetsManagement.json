@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_CHOISE_AUTHORIZED": "انتخاب نقش",
-    "LBL_ADD_DASHBOARD_BLOCK": "Add summary block for module",
+    "LBL_ADD_DASHBOARD_BLOCK": "افزودن بلوک خلاصه برای ماژول",
     "LBL_WIDTH": "عرض",
     "LBL_HEIGHT": "ارتفاع",
     "LBL_ADD_WIDGET": "ویجت",
@@ -24,10 +24,10 @@
     "LBL_DEFAULT_LIST_FILTER": "فهرست فیلترهای پیش‌فرض",
     "LBL_FILTERS_AVAILABLE": "فیلترهای موجود",
     "LBL_PLEASE_SELECT_ATLEAST_ONE_OPTION": "لطفا حداقل یک گزینه را انتخاب کنید",
-    "LBL_VIEW_CONFIGURATION": "Configuration view",
+    "LBL_VIEW_CONFIGURATION": "نمای پیکربندی",
     "LBL_WIDGET_ADDED": "ویجت با موفقیت اضافه شد",
     "LBL_CACHE_WIDGET": "حافظه نهان",
-    "LBL_TICK_SIZE": "Tick size (y)",
+    "LBL_TICK_SIZE": "اندازه تیک (y)",
     "LBL_MAXIMUM_VALUE": "حداکثر مقدار (y)",
     "LBL_SHOW_USERS": "نمایش نام کاربری",
     "LBL_TITLE_WIDGET": "عنوان ویجت",

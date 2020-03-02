@@ -4,10 +4,10 @@
     "SharingAccess": "قوانین به اشتراک گذاری",
     "Accounts": "حساب‌ها و مخاطبین",
     "LBL_ADD_CUSTOM_RULE": "افزودن قانون دلخواه",
-    "LBL_ADD_CUSTOM_RULE_TO": "Add custom rule to",
-    "LBL_ADVANCED_SHARING_RULES": "Advanced sharing rules",
-    "LBL_APPLY_NEW_SHARING_RULES": "Apply new sharing rules",
-    "LBL_CAN_ACCESSED_BY": "Can be accessed by",
+    "LBL_ADD_CUSTOM_RULE_TO": "افزودن قانون دلخواه",
+    "LBL_ADVANCED_SHARING_RULES": "قوانین اشتراک گذاری پیشرفته",
+    "LBL_APPLY_NEW_SHARING_RULES": "اعمال قوانین جدید به اشتراک‌گذاری",
+    "LBL_CAN_ACCESSED_BY": "قابل دسترسی به واسطه",
     "LBL_CUSTOM_ACCESS_MESG": "No custom access rules defined",
     "LBL_MODULE": "ماژول",
     "LBL_PRIVILEGES": "قوانین دسترسی",
@@ -28,7 +28,7 @@
     "Private": "خصوصی",
     "Public: Read Only": "Public: Read only",
     "Public: Read, Create\/Edit, Delete": "Public: Read, Create\/Edit, Delete",
-    "Public: Read, Create\/Edit": "Public: Read, Create\/Edit"
+    "Public: Read, Create\/Edit": "عمومی: خواندن،ایجاد\/ویرایش"
   },
   "js": {
     "JS_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Custom sharing rule saved successfully",

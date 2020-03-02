@@ -4,9 +4,9 @@
     "LBL_QUICK_CREATE_EDITOR": "فیلد - ایجاد سریع",
     "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
     "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "LBL_SAVE_FIELD_SEQUENCE": "ذخیره سلسله ترتیب فیلد"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "ترتیب فیلدها به‌روزرسانی شد"
   }
 }

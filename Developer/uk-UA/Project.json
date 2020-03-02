@@ -20,7 +20,7 @@
     "description": "Опис",
     "Related to": "Пов'язаний з",
     "FL_MEMBER_OF": "Первинний проект",
-    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
+    "LBL_ESTIMATED_WORK_TIME": "Розрахунковий час роботи",
     "LBL_TASKS_OPEN": "Відкриті задачі",
     "LBL_TASKS_DUE": "Прострочені задачі",
     "LBL_TASKS_COMPLETED": "Завершені задачі",
@@ -53,7 +53,7 @@
     "LBL_GANTT_TASKLIST_VISIBLE": "Показати список",
     "LBL_GANTT_TITLE": "Діаграма Ганта",
     "LBL_GANTT_TITLE_ALL_PROJECTS": "Діаграма Ганта - всі проекти",
-    "LBL_SHOW_HIERARCHY": "Project hierarchy"
+    "LBL_SHOW_HIERARCHY": "Ієрархія контакту"
   },
   "js": {
     "JS_NO.": "№",

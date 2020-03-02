@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "Napačna ICS datoteka",
     "LBL_IMPORT_ICS_SUCCESS": "V koledarju nov vnos",
     "LBL_SHITF_TASK_SHOW": "Prikaži ali skrij vrsta dejavnosti: naloga",
-    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
+    "LBL_SHITF_MEETING_SHOW": "Prikaži ali skrij vrsto dejavnosti: sestanek",
     "LBL_SHITF_CALL_SHOW": "Prikaži ali skrij vrsta dejavnosti: uporabnik",
     "LBL_SHIFT_USER_SHOW": "Prikaži ali skrij uporabnika",
     "Activity Type_BLOCK_SHIFT": "Prikaži ali skrij blok aktivnosti",

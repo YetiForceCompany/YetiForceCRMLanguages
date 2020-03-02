@@ -65,6 +65,7 @@
     "LBL_REPORT_CALENDAR": "Record del calendario",
     "LBL_REPORT_OVERDUE": "Record scaduti",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Elenco record duplicati dall'utente",
-    "LBL_USER_RECORD_FILTERED_LIST": "Elenco record filtrati dagli utenti"
+    "LBL_USER_RECORD_FILTERED_LIST": "Elenco record filtrati dagli utenti",
+    "LBL_SUMMARY_FIELDS": "Elenco dei campi visibili nel riepilogo"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "SVendorEnquiries": "Vendor enquiries",
-    "SINGLE_SVendorEnquiries": "Vendor enquiry",
+    "SVendorEnquiries": "درخواست‌های فروشنده‌",
+    "SINGLE_SVendorEnquiries": "درخواست‌ فروشنده‌ها",
     "LBL_SCALCULATIONS_INFORMATION": "اطلاعات اولیه",
     "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
     "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",

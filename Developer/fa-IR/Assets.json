@@ -29,12 +29,12 @@
     "PLL_NOT_APPLICABLE": "قابل اجرا نیست",
     "PLL_RENEWED_VERIFICATION": "تمدید شده( تائید)",
     "PLL_NOT_RENEWED_VERIFICATION": "تمدید نشده( تائید)",
-    "PLL_NOT_APPLICABLE_VERIFICATION": "Not applicable (verification)",
+    "PLL_NOT_APPLICABLE_VERIFICATION": "قابل اجرا نیست (تأیید)",
     "description": "شرح",
     "attentions": "نظرات",
     "BLOCK_INFORMATION_TIME": "اطلاعات زمان",
     "LBL_ORDER_TIME": "زمان سفارش",
-    "LBL_EXPIRING_SOLD_PRODUCTS": "Expiring sold products",
+    "LBL_EXPIRING_SOLD_PRODUCTS": "محصولات در حال انقضای فروخته شده",
     "LBL_CHANGE_STATUS": "تغییر وضعیت"
   }
 }

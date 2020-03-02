@@ -41,7 +41,7 @@
     "Language": "زبان",
     "LBL_TranslationType": "نوع ترجمه",
     "LBL_KeyExists": "این متغییر زبانی در حال حاضر موجود است",
-    "Export": "صدور",
+    "Export": "خروجی گرفتن",
     "LBL_SHOW_MISSING_TRANSLATIONS": "نمایش ترجمه‌های ناموجود",
     "LBL_DEFAULT": "پیش‌فرض",
     "LBL_DO_NOT_POSSIBLE_TO_MAKE_CHANGES": "تغییرات نمی‌تواند انجام شود",
@@ -68,6 +68,6 @@
     "Search": "جستجو:",
     "No data available in table": "بدون ترجمه",
     "JS_NOTRANSLATION": "-بدون ترجمه-",
-    "JS_EXPORT": "صدور"
+    "JS_EXPORT": "خروجی گرفتن"
   }
 }

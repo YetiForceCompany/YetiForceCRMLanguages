@@ -78,6 +78,6 @@
     "failed": "Napačni zapisi",
     "LBL_SELECT_FILE": "Izberi datoteko ",
     "LBL_MERGE_TYPE_INFO": "Preskoči: obstoječi zapisi so preskočeni in niso posodobljeni.\n\nPrepiši: obstoječi zapis se prepiše s podatki iz datoteke ali pa se izpolnijo privzete vrednosti, če so zahtevane vrednosti v zapisu in datoteki prazne. Če ni označeno kot zahtevano, se vrednosti zapišejo v zapis s praznimi vrednostmi iz datoteke.\n\nSpoji: vrednosti zapisov se prepišejo z vrednostmi iz datoteke, če vrednosti iz datoteke niso prazne (če pa so prazne, se ohranijo vrednosti iz zapisa).\n\nIzpolnite: posodobljena so le prazna polja v zapisu. Vrednosti iz polja se ne prepišejo, če že obstaja zapis v zapisu.",
-    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "The imported file is in a different encoding than it was selected (%s)"
+    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Uvožena datoteka je v drugem kodiranju, kot je bilo izbrano (% s)"
   }
 }

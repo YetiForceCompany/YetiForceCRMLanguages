@@ -36,10 +36,10 @@
     "LBL_CONFIRM_READING_TO": "Confirmation of reading the message",
     "LBL_ORGANIZATION": "سازمان",
     "LBL_UNSUBSCIBE": "لغو اشتراک",
-    "LBL_ADDITIONAL_HEADERS": "Additional headers",
+    "LBL_ADDITIONAL_HEADERS": "سربرگ‌های اضافی",
     "LBL_SAVE_SENT_MESSAGE": "ذخیره پیام ارسال شده",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emails will be sent individually for each recipient",
-    "LBL_UNSUBSCRIBE_INFO": "The List-Unsubscribe header is an optional email header you can add to your messages. It allows subscribers to see an unsubscribe button they can click if they would like to automatically stop receiving your email. The list of parameters that will be placed in the header in angle brackets, e.g. < ... >\nexample: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\r\n {\r\n\"ssl\": {\r\n\"verify_peer\":false,\r\n\"verify_peer_name\";:false,\r\n\";allow_self_signed\";:true\r\n   }\r\n}"
+    "LBL_UNSUBSCRIBE_INFO": "سربرگ فهرست لغو اشتراک یک سربرگ دلخواه برای افزوده شدن به ایمیل شما می‌باشد. این هدر به کاربر امکان این را می‌دهد که در صورت تمایل با فشردن یک کلید اقدام به لغو اشتراک نمایند. پارمترهای لیست در هدر میان علامت بزرگتر و کوچکتر نمایش داده می‌شوند، برای مثال < ... >\nمثال: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
+    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

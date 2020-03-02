@@ -6,7 +6,7 @@
     "LBL_MODULE": "ماژول",
     "LBL_ACTIVE": "رهگیری تغییرات",
     "LBL_TOOLS": "ابزارها",
-    "LBL_TRACK_CHANGES_ENABLED": "Track changes enabled",
-    "LBL_TRACK_CHANGES_DISABLE": "Track changes disabled"
+    "LBL_TRACK_CHANGES_ENABLED": "پیگیری تغییرات فعال شده",
+    "LBL_TRACK_CHANGES_DISABLE": "پیگیری تغییرات غیر فعال شده"
   }
 }

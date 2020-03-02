@@ -1,7 +1,7 @@
 {
   "php": {
-    "SRecurringOrders": "Recurring Sales Orders",
-    "SINGLE_SRecurringOrders": "Recurring Sales Order",
+    "SRecurringOrders": "سفارش‌های فروش تکرارشونده",
+    "SINGLE_SRecurringOrders": "سفارش فروش تکرار شونده",
     "LBL_SRECURRINGORDERS_INFORMATION": "اطلاعات اولیه",
     "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
     "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
@@ -12,8 +12,8 @@
     "LBL_NUMBER": "شماره",
     "LBL_CLOSED_TIME": "زمان بسته شدن",
     "LBL_STATUS": "وضعیت",
-    "LBL_REALIZATION_START_DATE": "Realization start date",
-    "LBL_REALIZATION_COMPLETION_DATE": "Realization completion date",
+    "LBL_REALIZATION_START_DATE": "تاریخ شروع تحقق",
+    "LBL_REALIZATION_COMPLETION_DATE": "تاریخ تکمیل مرحله تحقق",
     "LBL_COMPANY_NAME": "نام شرکت",
     "SINGLE_SSalesProcesses": "فرصت",
     "LBL_END_PERIOD": "پایان دوره",
@@ -21,7 +21,7 @@
     "LBL_START_PERIOD": "شروع دوره",
     "LBL_TARGET_MODULE": "ماژول هدف",
     "PLL_DRAFT": "پیش‌نویس",
-    "PLL_REQUIRES_TO_BE_COMPLEMENTED": "Requires to be complemented",
+    "PLL_REQUIRES_TO_BE_COMPLEMENTED": "نیاز به اتمام دارد",
     "PLL_REQUIRES_CONSULTATION": "نیاز به مشاوره",
     "PLL_WAITING_FOR_SHIPPING": "در انتظار برای حمل و نقل",
     "PLL_WAITING_FOR_SIGNATURE": "در انتظار برای امضا",
@@ -45,9 +45,9 @@
     "monday next week": "شروع هفته آینده",
     "friday next week": "پایان هفته آینده",
     "first day of next month": "اولین‌روز از ماه‌بعد",
-    "last day of next month": "Last day of next month",
-    "first day of +3 months": "First day of next quarter",
-    "last day of +3 months": "Last day of next quarter",
+    "last day of next month": "آخرین روز ماه بعد",
+    "first day of +3 months": "اولین روز فصل بعدی",
+    "last day of +3 months": "آخرین روز فصل آینده",
     "LBL_CHANGE_STATUS": "تغییر وضعیت"
   }
 }

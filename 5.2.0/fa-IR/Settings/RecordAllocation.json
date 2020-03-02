@@ -2,7 +2,7 @@
   "php": {
     "LBL_OWNER_ALLOCATION": "اختصاص مالک",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "اختصاص کاربران به اشتراک گذاشته شده",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
     "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
     "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",

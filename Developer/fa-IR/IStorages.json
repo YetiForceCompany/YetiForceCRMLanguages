@@ -1,10 +1,10 @@
 {
   "php": {
-    "IStorages": "Storages",
-    "SINGLE_IStorages": "Storage",
+    "IStorages": "محل‌های انبار و نگهداری",
+    "SINGLE_IStorages": "محل انبار و نگهداری",
     "LBL_DESCRIPTION_BLOCK": "شرح",
     "LBL_ATTENTION_BLOCK": "نظرات",
-    "FL_PARENT_STORAGE": "Parent storage",
+    "FL_PARENT_STORAGE": "انبار والد",
     "FL_SUBJECT": "موضوع",
     "FL_STATUS": "وضعیت",
     "FL_TYPE": "نوع",
@@ -21,7 +21,7 @@
     "LBL_PRODUCTS_TABLE": "جدول 3 ستونی",
     "LBL_PRODUCTS_TABLE_HIERARCHY": "جدول با محصولات سلسله مراتبی",
     "LBL_PRODUCTS_VALUE_TABLE": "جدول شامل ارزش محصولات",
-    "LBL_TABLE_HIERARCHY": "Hierarchy table",
+    "LBL_TABLE_HIERARCHY": "سلسله مراتب جدول",
     "LBL_SECONDARY_STORAGES": "انبار ثانویه",
     "LBL_ROW_NUM": "شماره.",
     "LBL_STORAGE_OWNER": "مالک"

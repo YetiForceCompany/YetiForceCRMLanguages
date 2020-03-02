@@ -10,11 +10,11 @@
     "LBL_NAME": "نام",
     "LBL_HOLIDAYS": "تعطیلات",
     "LBL_EDIT_BUSINESS_HOURS": "ویرایش ساعات کاری",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
+    "LBL_ADD_BUSINESS_HOURS": "اضافه کردن مقدار ساعات اداری",
     "LBL_DEFAULT_TIMES": "زمان پیش فرض",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
+    "LBL_DEFAULT_REACTION_TIME": "زمان واکنش پیش‌فرض",
+    "LBL_DEFAULT_IDLE_TIME": "زمان بیکاری پیش‌فرض",
+    "LBL_DEFAULT_RESOLVE_TIME": "زمان حل و فصل پیش‌فرض",
     "LBL_HOLIDAYS_LINK": "تنظیمات تعطیلات رسمی"
   },
   "js": {

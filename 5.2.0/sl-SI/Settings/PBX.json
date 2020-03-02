@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NAME": "Name",
-    "LBL_TYPE": "Type",
+    "LBL_NAME": "Ime",
+    "LBL_TYPE": "Vrsta",
     "LBL_DEFAULT": "Privzeto",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CREATE_RECORD": "Add telephone exchange",
-    "LBL_EDIT_RECORD": "Edit telephone exchange",
-    "LBL_URL": "Server address",
-    "LBL_USERNAME": "Login",
-    "LBL_PASSWORD": "Password",
-    "LBL_SECRET_KEY": "Secret Key",
-    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CREATE_RECORD": "Dodaj telefonsko centralo",
+    "LBL_EDIT_RECORD": "Uredite telefonsko centralo",
+    "LBL_URL": "Naslov strežnika",
+    "LBL_USERNAME": "Prijava",
+    "LBL_PASSWORD": "Geslo",
+    "LBL_SECRET_KEY": "Skrivni Ključ",
+    "LBL_OUTBOUND_CONTEXT": "Izhodnii kontekst"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "Spremembe so uspešno shranjene"
   }
 }

@@ -22,7 +22,7 @@
     "LBL_ENTER": "It enables\/disables sending messages after pressing ENTER",
     "LBL_DETAIL_VIEW": "نمایش جزئیات",
     "LBL_ROOM_DESCRIPTION_CRM": "Chat rooms list with records marked as favorites",
-    "LBL_ROOM_DESCRIPTION_GROUP": "Chat rooms list with user groups",
+    "LBL_ROOM_DESCRIPTION_GROUP": "اتاق‌های چت با گروه‌های کاربران",
     "LBL_ROOM_DESCRIPTION_GLOBAL": "Chat rooms list visible for all users",
     "LBL_CHAT_USER_SWITCHED": "Chat is inactive if you switched to another user.",
     "LBL_CHAT_NEW_MESSAGE": "پیام جدید"

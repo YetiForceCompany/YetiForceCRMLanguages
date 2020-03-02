@@ -21,7 +21,7 @@
     "LBL_PROVIDER_CONFIG": "پیکربندی سرویس دهنده",
     "LBL_PROVIDER_UNSET": "قبل از فعال‌سازی یک سرویس‌دهنده شما باید با فشردن کلید تنظیمات به پیکربندی آن بپردازید",
     "LBL_PROVIDER_GOOGLEGEOCODE": "گوگل Geocoding",
-    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Google Geocoding site",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "سایت تعیین مختصات جغرافیایی گوگل",
     "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage Geocoder site",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",

@@ -18,7 +18,7 @@
     "Related": "حساب \/ فرصت",
     "Contact": "ﺗﻤﺎﺱ",
     "FL_INCOMING_CORRESPONDENCE": "مکاتبات ورودی",
-    "PLL_LOCAL_PICKUP": "Collection in person",
+    "PLL_LOCAL_PICKUP": "جمع‌آوری حضوری",
     "PLL_POST_OFFICE_PL": "اداره پست لهستان",
     "PLL_POST_OFFICE": "اداره پست",
     "PLL_COURIER": "پیک",
@@ -48,7 +48,7 @@
     "PLL_CORRECTION": "فاکتور اصلاحیه",
     "PLL_INVOICE": "فاکتور",
     "PLL_NEW": "جدید",
-    "PLL_SETTLED": "Settled",
+    "PLL_SETTLED": "واریز شده",
     "PLL_A": "A",
     "PLL_B": "B"
   }
