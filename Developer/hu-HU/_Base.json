@@ -1389,7 +1389,10 @@
     "LBL_SELECT_COLOR": "Szín választás:",
     "LBL_PREVIOUS_COLOR": "Előző szín:",
     "ERR_OCCURRED_CHECK_LOGS": "Hiba történt, ellenőrizze a naplók",
-    "LBL_SHOW_ORIGINAL_CONTENT": "Eredeti tartalom mutatása"
+    "LBL_SHOW_ORIGINAL_CONTENT": "Eredeti tartalom mutatása",
+    "LBL_COMPANY_NAME": "Cég neve",
+    "LBL_SHOW_PASSWORD": "Show hidden password",
+    "LBL_NO_DATA_FOUND": "Nem található adat"
   },
   "js": {
     "JS_APPROVE": "Approve",

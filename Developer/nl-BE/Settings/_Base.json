@@ -393,7 +393,7 @@
     "JS_ANNOUNCEMENT_SAVED": "Announcement Saved",
     "JS_CONFIGURATION_DETAILS_SAVED": "Configuration Details Saved",
     "JS_CONFIRM_DEFAULT_SETTINGS": "Are you sure that you want to change the server details to the default server values",
-    "JS_EDIT": "Edit",
+    "JS_EDIT": "Bewerken",
     "JS_GROUP_DELETED_SUCCESSFULLY": "Group deleted successfully",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO5": "Please enter value in the range 1-5",
@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Error while adding field",
     "JS_NOTIFY_COPY_TEXT": "Copied variable to clipboard",
     "JS_RS_ADD_YEAR_VARIABLE": "Copy year variable to prefix or postfix",
-    "JS_RS_ADD_MONTH_VARIABLE": "Copy monyh variable to prefix or postfix",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "Copy day variable to prefix or postfix",
     "JS_PICKLIST_TOO_MANY": "Numbering can only contain one picklist variable"
   }

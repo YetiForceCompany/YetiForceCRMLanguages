@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Pogreška Prilikom dodavanja polja",
     "JS_NOTIFY_COPY_TEXT": "Kopirana varijabla u međuspremnik",
     "JS_RS_ADD_YEAR_VARIABLE": "Kopirajte varijablu godine u prefiks ili postfiks",
-    "JS_RS_ADD_MONTH_VARIABLE": "Kopirajte varijablu mjeseca u prefiks ili postfiks",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "Kopirajte varijablu dana u prefiks ili postfiks",
     "JS_PICKLIST_TOO_MANY": "Numeriranje može sadržavati samo jednu varijablu popisa za izbor"
   }

@@ -9,7 +9,7 @@
     "LBL_GROUPS_INFO": "گروه‌هایی که که اختصاص یافته‌ای ندارند",
     "LBL_LEAD_STATUS": "وضعیت بیانگر پایان کار با سرنخ",
     "LBL_LEAD_CONVERT_STATUS": "وضعیتی که اجازه تبدیل سرنخ به حساب را می‌دهد",
-    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
+    "LBL_CONVERT_LEAD_MERGE": "لینک کردن ضمن تبدیل از سرنخ به حساب ، نیازمندیهای مشخص شده را به جلسه رکورد پیوند دهید",
     "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
     "LBL_CONDITION": "افزودن شرط",
     "MarketingProcesses": "فرآیندهای بازاریابی"

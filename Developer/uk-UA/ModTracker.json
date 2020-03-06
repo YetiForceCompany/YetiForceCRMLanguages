@@ -2,10 +2,10 @@
   "php": {
     "ModTracker": "Changes history",
     "SINGLE_ModTracker": "Tracking tool",
-    "LBL_AT_UPDATE": "Modify",
-    "LBL_AT_DELETE": "Delete",
-    "LBL_AT_TRASH": "Move to Recycle Bin",
-    "LBL_AT_CREATE": "Create",
+    "LBL_AT_UPDATE": "Брак вмісту",
+    "LBL_AT_DELETE": "Видалити",
+    "LBL_AT_TRASH": "Перемістити до кошика",
+    "LBL_AT_CREATE": "Створити",
     "LBL_AT_ACTIVE": "Activate record",
     "LBL_AT_ARCHIVED": "Archive",
     "LBL_AT_LINK": "Link",
@@ -42,9 +42,9 @@
     "LBL_TRANSFER_DELETE": "record was deleted in the transfer process",
     "LBL_TRANSFER_UNLINK": "relation was deleted in the transfer process",
     "LBL_TRANSFER_LINK": "relation was added in the transfer process",
-    "LBL_INV_ADDED": "Added",
-    "LBL_INV_UPDATED": "Updated",
-    "LBL_INV_DELETED": "Deleted",
+    "LBL_INV_ADDED": "Додано",
+    "LBL_INV_UPDATED": "Оновлено",
+    "LBL_INV_DELETED": "Видалено",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes"
   }

@@ -1,7 +1,7 @@
 {
   "php": {
     "Locations": "Locations",
-    "SINGLE_Locations": "Location",
+    "SINGLE_Locations": "المكان",
     "LBL_LOCATIONS_INFORMATION": "Basic information",
     "LBL_CUSTOM_INFORMATION": "System information",
     "LBL_DESCRIPTION_INFORMATION": "Description details",
@@ -9,6 +9,6 @@
     "LBL_NUMBER": "Number",
     "LBL_CLOSED_TIME": "Closed time",
     "FL_PHONE": "Phone",
-    "FL_CAPACITY": "Capacity"
+    "FL_CAPACITY": "السعة"
   }
 }

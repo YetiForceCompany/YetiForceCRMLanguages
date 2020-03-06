@@ -9,14 +9,14 @@
     "FL_APPROVALS_STATUS": "Status",
     "FL_DESCRIPTION": "Description",
     "FL_CONTACT": "Contact",
-    "FL_APPROVAL": "Approval",
+    "FL_APPROVAL": "موافقة",
     "FL_TYPE": "Type",
     "FL_STATUS": "Status",
     "FL_REGISTRATION_DATE": "Registration date",
     "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_ACCEPTED": "Accepted",
-    "PLL_REJECTED": "Rejected",
-    "PLL_ACCEPTANCE": "Acceptance",
+    "PLL_ACCEPTED": "تم قبوله",
+    "PLL_REJECTED": "تم رفضه",
+    "PLL_ACCEPTANCE": "القبول",
     "PLL_RESIGNATION": "Resignation"
   }
 }

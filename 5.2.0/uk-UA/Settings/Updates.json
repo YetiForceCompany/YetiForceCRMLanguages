@@ -1,16 +1,16 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
-    "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_NAME_PACKAGES": "Name"
+    "Updates": "Оновлення",
+    "LBL_YES": "Так",
+    "LBL_NO": "Невиконано",
+    "LBL_TIME": "Дата",
+    "LBL_USER": "Користувач",
+    "LBL_FROM_VERSION": "З версії",
+    "LBL_TO_VERSION": "До версії",
+    "LBL_RESULT": "Статус",
+    "LBL_UPDATES": "Оновлення",
+    "LBL_UPDATES_DESCRIPTION": "Історія оновлень",
+    "LBL_IMPORT_UPDATE": "Завантажити оновлення",
+    "LBL_NAME_PACKAGES": "Назва"
   }
 }

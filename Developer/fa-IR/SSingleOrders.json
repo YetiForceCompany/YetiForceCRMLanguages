@@ -27,7 +27,7 @@
     "PLL_TRANSFER": "انتقال",
     "PLL_CASH_ON_DELIVERY": "پرداخت در محل",
     "FL_NUMBER_TABLE": "شماره جدول",
-    "FL_NUMBER_SEAT": "Seat number",
+    "FL_NUMBER_SEAT": "شماره جایگاه",
     "PLL_DRAFT": "پیش‌نویس",
     "PLL_IN_REALIZATION": "در مرحله تحقق",
     "PLL_FOR_VERIFICATION": "برای تایید",
@@ -44,6 +44,6 @@
     "PLL_NOT_PAID": "پرداخت نشده",
     "PLL_PAID": "پرداخت شده",
     "PLL_OVERPAID": "پرداخت بیشتر شده",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_UNDERPAID": "کم پرداخت شده"
   }
 }

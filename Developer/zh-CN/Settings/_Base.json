@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "添加字段时出错",
     "JS_NOTIFY_COPY_TEXT": "已复制到剪贴板",
     "JS_RS_ADD_YEAR_VARIABLE": "将年份变量复制到前缀或后缀",
-    "JS_RS_ADD_MONTH_VARIABLE": "将月份变量复制到前缀或后缀",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "将日期变量复制到前缀或后缀",
     "JS_PICKLIST_TOO_MANY": "编号只能包含一个选取列表变量"
   }

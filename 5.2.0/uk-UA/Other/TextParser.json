@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_TRANSLATE": "Translation",
-    "LBL_COMPANY_VARIABLES": "Company details",
+    "LBL_TRANSLATE": "Переклад",
+    "LBL_COMPANY_VARIABLES": "Інформація про компанію",
     "LBL_CUSTOM_VARIABLES": "Custom variables",
     "LBL_EMPLOYEE_NAME": "Employee name",
     "LBL_CURRENT_DATE": "Current date",

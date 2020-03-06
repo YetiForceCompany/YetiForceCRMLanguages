@@ -30,14 +30,14 @@
     "LBL_EDITING_MF": "ویرایش",
     "LBL_CREATING_MF": "ایجاد",
     "LBL_AUTOFILL": "تکمیل خودکار",
-    "LBL_AUTOFILL_INFO": "All fields with same system names will be automatically filled.",
+    "LBL_AUTOFILL_INFO": "همه قسمتهای دارای نام سیستم مشابه به طور خودکار پر می شوند.",
     "LBL_IMPORT_VIEW": "وارد کردن",
     "LBL_TEMPLATE_XML": "فایل XML",
     "LBL_UPLOAD_TEMPLATE": "وارد کردن",
     "LBL_NO_PERMISSION_TO_IMPORT": "Error or conflict occurred. Import not finished.",
-    "LBL_IMPORT_OK": "Template imported successfully.",
-    "LBL_MODULE_NOT_EXIST": "Module in the template you are trying to import does not exist.",
-    "multipicklist": "Picklist field (multi select)",
+    "LBL_IMPORT_OK": "قالب با موفقیت وارد شد.",
+    "LBL_MODULE_NOT_EXIST": "ماژول در قالب شما در حال تلاش برای واردات وجود ندارد.",
+    "multipicklist": "فیلد فهرست انتخاب (چند انتخابی)",
     "percent": "فیلد درصد",
     "phone": "فیلد تلفن",
     "picklist": "فیلد لیست انتخاب",
@@ -71,8 +71,8 @@
     "MappedFields": "نگاشت ارتباط"
   },
   "js": {
-    "JS_IS_ALREADY_BEEN_MAPPED": "This field has already been mapped.",
-    "JS_YOU_CAN_NOT_SELECT_THE_SAME_MODULES": "You can't select the same modules",
-    "JS_MF_SAVED_SUCCESSFULLY": "Changes saved successfully"
+    "JS_IS_ALREADY_BEEN_MAPPED": "این فیلد قبلا نگاشت شده است.",
+    "JS_YOU_CAN_NOT_SELECT_THE_SAME_MODULES": "شما نمی‌توانید همان ماژول رو انتخاب نمایید",
+    "JS_MF_SAVED_SUCCESSFULLY": "تغییرات با موفقیت ذخیره شد"
   }
 }

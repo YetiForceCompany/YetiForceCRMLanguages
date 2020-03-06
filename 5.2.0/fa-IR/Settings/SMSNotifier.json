@@ -15,8 +15,8 @@
     "BTN_CLOSE": "لغو"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Are you sure you want to delete this configuration?",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuration removed successfully",
+    "LBL_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید این پیکربندی را حذف کنید؟",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "پیکربندی با موفقیت حذف شد",
     "JS_SAVE_SUCCESS": "ذخیره شده"
   }
 }

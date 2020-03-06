@@ -370,6 +370,7 @@
     "FL_PRIMARY_PHONE": "Telefono principale",
     "LBL_USER_MAIL": " Email",
     "LBL_USER_GUI": "Layout",
+    "LBL_VALIDATE_PASSWORD": "Verify if the password complies with the criteria set by the admin.",
     "LBL_USER_INTEGRATION": "Integrazione",
     "LBL_USER_AUTOMATION": "Automazione",
     "FL_MAIL_SCANNER_ACTIONS": "Azioni scanner email",

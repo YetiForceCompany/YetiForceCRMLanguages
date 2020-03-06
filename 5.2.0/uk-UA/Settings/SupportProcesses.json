@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_SUPPORT_PROCESSES": "Support",
-    "LBL_GENERAL_CONFIGURATION": "General configuration",
-    "LBL_OTHER": "Other",
-    "LBL_INFO": "Info",
-    "LBL_TYPE": "Type",
+    "LBL_SUPPORT_PROCESSES": "Підтримка",
+    "LBL_GENERAL_CONFIGURATION": "Загальні налаштування",
+    "LBL_OTHER": "Інші",
+    "LBL_INFO": "Інформація",
+    "LBL_TYPE": "Тип",
     "LBL_TICKET_STATUS_INFO": "Statuses determining that ticket is closed",
-    "LBL_SAVE_CONFIG_OK": "Changes have been saved",
-    "LBL_SAVE_CONFIG_ERROR": "Changes have been saved.",
-    "SupportProcesses": "Support processes"
+    "LBL_SAVE_CONFIG_OK": "Зміни були збережені",
+    "LBL_SAVE_CONFIG_ERROR": "Помилка збереження змін.",
+    "SupportProcesses": "Процеси підтримки"
   },
   "js": {}
 }

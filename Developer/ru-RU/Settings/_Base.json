@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Ошибка добавления поля",
     "JS_NOTIFY_COPY_TEXT": "Переменная скопирована в буфер обмена",
     "JS_RS_ADD_YEAR_VARIABLE": "Копировать переменную года в префикс или постфикс",
-    "JS_RS_ADD_MONTH_VARIABLE": "Копия переменной месяца в префикс или постфикс",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "Копировать переменную дня в префикс или постфикс",
     "JS_PICKLIST_TOO_MANY": "Изчесление может содержать только одну переменную"
   }

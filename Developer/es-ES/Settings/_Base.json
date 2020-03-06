@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Error al agregar el campo",
     "JS_NOTIFY_COPY_TEXT": "Variable copiada al portapapeles",
     "JS_RS_ADD_YEAR_VARIABLE": "Copiar variable de año a prefijo o sufijo",
-    "JS_RS_ADD_MONTH_VARIABLE": "Copiar variable mes prefijo o sufijo",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "Copiar variable día al prefijo o sufijo",
     "JS_PICKLIST_TOO_MANY": "La numeración puede contener únicamente una variable de la lista de selección"
   }

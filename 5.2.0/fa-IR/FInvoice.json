@@ -28,7 +28,7 @@
     "PLL_FULLY_PAID": "پرداخت کامل",
     "PLL_DOMESTIC_INVOICE": "فاکتور درون مرزی",
     "PLL_FOREIGN_INVOICE": "فاکتور برون مرزی",
-    "PLL_IC_INVOICE": "Intra-Community supply of goods invoice",
+    "PLL_IC_INVOICE": "فاکتور تهیه کالا در داخل جامعه",
     "PLL_UNASSIGNED": "اختصاص نیافته",
     "PLL_AWAITING_REALIZATION": "در انتظار تحقق",
     "PLL_FOR_PROCESSING": "برای پردازش",
@@ -44,6 +44,6 @@
     "PLL_NOT_PAID": "پرداخت نشده",
     "PLL_PAID": "پرداخت شده",
     "PLL_OVERPAID": "پرداخت بیشتر شده",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_UNDERPAID": "کم پرداخت شده"
   }
 }

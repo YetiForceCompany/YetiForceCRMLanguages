@@ -5,8 +5,8 @@
     "LBL_TYPE_SERVER": "نوع",
     "LBL_API_KEY": "کلید",
     "LBL_ADD_APPLICATION": "افزودن کلید",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
+    "LBL_WEBSERVICE_APPS": "وب سرویس - اپلیکیشن‌ها",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "کلیدهای برنامه را که از طریق API ادغام می شوند ایجاد و مدیریت کنید.",
     "Mail": "ايميل",
     "LBL_PASS": "گذرواژه",
     "LBL_TITLE_ADDED": "افزودن",
@@ -16,6 +16,6 @@
     "ManageConsents": "مدیریت رضایت نامه"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟"
   }
 }

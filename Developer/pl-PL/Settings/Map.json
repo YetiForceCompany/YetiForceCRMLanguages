@@ -1,0 +1,19 @@
+{
+  "php": {
+    "Map": "Mapa",
+    "LBL_MAP": "Mapa",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Warstwa kafelka",
+    "LBL_TILE_LAYER_INFO_1": "Wybierz serwer, z którego mają być pobierane warstwy kafelków dla map w systemie. Każdy serwer oferuje inny wygląd mapy, możesz także dodać własny lub publiczny serwer, ale uważaj na limity i ograniczenia licencyjne.",
+    "LBL_TILE_LAYER_INFO_2": "Aby dodać dodatkowe serwery, edytuj zmienną $tileLayerServers w pliku %s. Publicznie dostępne serwery kafelków są dostępne na:",
+    "LBL_PROVIDER_NAME": "Nazwa dostawcy",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Szablon URL warstwy kafelka",
+    "LBL_API_URL": "Adres URL interfejsu API dostawcy",
+    "LBL_DRIVER": "Sterownik",
+    "LBL_COORDINATES": "Współrzędne",
+    "LBL_COORDINATES_INFO_1": "Wybierz serwer, który ma być używany do pobierania współrzędnych geograficznych, Cron będzie aktualizował współrzędne dla pól adresowych. \nUważaj na limity dostawców, system będzie regularnie wysyłał żądania do serwerów. Pamiętaj, że darmowe serwery mają spore limity a także udostępniasz im swoje dane, zawsze wybieraj zaufane serwery.",
+    "LBL_COORDINATES_INFO_2": "Aby dodać dodatkowe serwery, edytuj zmienną $coordinatesServers w pliku %s. Publicznie dostępne serwery kafelków są dostępne na:",
+    "LBL_COORDINATES_DRIVERS": "Sterowniki dostępne w systemie",
+    "LBL_PROVIDER_ACTIVE": "Aktywny"
+  }
+}

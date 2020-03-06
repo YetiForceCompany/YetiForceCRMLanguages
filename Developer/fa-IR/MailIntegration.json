@@ -14,10 +14,10 @@
     "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "دانلود فایل نصب افزونه outlook"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "پیام YetiForce: خطای افزودنی ، لطفاً با مدیر سامانه تماس بگیرید.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "پیام YetiForce: رابطه با موفقیت حذف شد.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "پیام YetiForce: رابطه با موفقیت اضافه شد.",
+    "JS_IMPORT": "پیام YetiForce: ایمیل با موفقیت وارد شد.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

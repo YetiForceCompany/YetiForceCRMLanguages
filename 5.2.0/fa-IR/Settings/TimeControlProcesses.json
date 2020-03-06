@@ -3,11 +3,11 @@
     "LBL_TIMECONTROL_PROCESSES": "گردش‌کار",
     "TimeControlProcesses": "فرآیند کنترل زمان",
     "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
-    "LBL_ONEDAY_VALID": "Work time limited to 24 hours",
+    "LBL_ONEDAY_VALID": "زمان کار محدود به 24 ساعت است",
     "LBL_TIMEOVERLAP_VALID": "اجازه تداخل زمانی",
     "LBL_GENERAL_SETTINGS": "تنظیمات کلی",
     "LBL_TIME_CONTROL_WIDGET": "ویجت کنترل زمان",
-    "LBL_TCW_INFO": "The options to hide\/display icons in the time control widget can be found here.",
+    "LBL_TCW_INFO": "گزینه های مخفی کردن \/ نمایش نمادها در ویجت کنترل زمان را می توان در اینجا یافت.",
     "LBL_HOLIDAYS": "آیکون تعطیلات",
     "LBL_WORKING_DAYS": "آیکون روزهای کاری",
     "LBL_WORKING_TIME": "آیکون ساعت‌های کاری"

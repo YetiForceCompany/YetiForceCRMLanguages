@@ -1,17 +1,17 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
+    "Announcements|FL_INTERVAL": "اگر کاربر تغییرات را بررسی نکرد ، تناوب یادآوری در روزها را نشان می دهد. اگر این قسمت خالی باشد ، یادآوری دوباره نمایش داده نمی شود.",
     "Accounts|Account Name": "این فیلد برای نام شرکت در نظر گرفته شده است",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "هنگام همگام سازی فیلد تلفنCardDAV کشور پیش فرض استفاده شده. اگر تلفن بدون پیش شماره جهانی باشد ، از این قسمت استفاده می شود",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "همیشه عنصر انتخاب شده را به عنوان ماژول پیش فرض در موتور جستجوی سراسری تنظیم کنید.",
+    "FL_RESPONSE_RANGE_TIME": "تعداد دقایقی که قبل از واکنش باقی مانده است ،که براساس SLA و روز / ساعت کار محاسبه می شود",
+    "FL_SOLUTION_RANGE_TIME": "تعداد دقایق سپری شده که برای حل و فصل یک رکورد داده می شود، محاسبه شده در وضعیت های مختلف بسته به پیکربندی و بر اساس SLA و کسب و کار روز / ساعت",
+    "FL_IDLE_RANGE_TIME": "تعداد دقایق که یک رکورد داده ها فعال نبوده اند، به عنوان مثال، هنگام انتظار برای اطلاعات اضافی ، بر اساس SLA و روزها و ساعت کاری محاسبه می شود",
+    "FL_CLOSING_RANGE_TIME": "تعداد دقایقی که بین ایجاد و آخرین بسته شدن یک رکورد باقی مانده است ، براساس SLA و روزها و ساعتهای کاری محاسبه می شود",
     "FL_RESPONSE_DATE_TIME": "تاریخ و زمان شروع واکنش.",
     "FL_SOLUTION_DATE_TIME": "تاریخ و زمان حل و فصل.",
     "FL_IDLE_DATE_TIME": "تاریخ و زمان پایان بیکاری.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "FL_RESPONSE_EXPECTED": "تاریخ برنامه ریزی شده / پیش بینی شده تا زمان واکنش نسبت به رکورد ،که براساس SLA و روزها و ساعت‌های کاری محاسبه می شود.",
+    "FL_IDLE_DATE_EXPECTED": "تاریخ برنامه ریزی شده / پیش بینی شده تا زمان مجاز بودن زمان بیکار بودن ، براساس SLA و روزها و ساعتهای کاری محاسبه می شود."
   }
 }

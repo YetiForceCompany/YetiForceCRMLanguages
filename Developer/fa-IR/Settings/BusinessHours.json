@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_BUSINESS_HOURS": "ساعت های کاری",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "ساعات کسب و کار ماژولی است که می توانید ساعت کاری تیم خود را تنظیم کنید.",
     "LBL_WORKING_HOURS_FROM": "از",
     "LBL_WORKING_HOURS_TO": "تا",
     "LBL_WORKING_DAYS": "ﺭﻭﺯﻫﺎﯼ ﮐﺎﺭﯼ",

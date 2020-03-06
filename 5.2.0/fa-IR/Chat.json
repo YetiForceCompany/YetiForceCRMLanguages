@@ -3,7 +3,7 @@
     "LBL_ROOM_CRM": "علاقه‌مندی‌ها",
     "LBL_ROOM_GROUP": "اتاق گروه",
     "LBL_ROOM_GLOBAL": "اتاق عمومی",
-    "LBL_MESSAGE": "Enter your message here. Press SHIFT + ENTER to add a new line.",
+    "LBL_MESSAGE": "پیام خود را اینجا وارد کنید برای افزودن خط جدید SHIFT + ENTER را فشار دهید.",
     "LBL_PARTICIPANTS": "شرکت کنندگان",
     "LBL_SEARCH_PARTICIPANTS": "جستجوی شرکت کنندگان",
     "LBL_SEARCH_MESSAGE": "جستجوی پیام ها",
@@ -19,12 +19,12 @@
     "LBL_HIDE": "پنهان",
     "LBL_NO_MESSAGES": "پیامی وجود ندارد",
     "LBL_UNREAD": "خوانده نشده",
-    "LBL_ENTER": "It enables\/disables sending messages after pressing ENTER",
+    "LBL_ENTER": "ارسال پیام را بعد از فشار دادن ENTER فعال یا غیرفعال می کند",
     "LBL_DETAIL_VIEW": "نمایش جزئیات",
-    "LBL_ROOM_DESCRIPTION_CRM": "Chat rooms list with records marked as favorites",
+    "LBL_ROOM_DESCRIPTION_CRM": "لیست اتاق های چت با سوابق مشخص شده به عنوان موارد علاقمندی",
     "LBL_ROOM_DESCRIPTION_GROUP": "اتاق‌های چت با گروه‌های کاربران",
-    "LBL_ROOM_DESCRIPTION_GLOBAL": "Chat rooms list visible for all users",
-    "LBL_CHAT_USER_SWITCHED": "Chat is inactive if you switched to another user.",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "لیست اتاق های چت برای همه کاربران قابل مشاهده است",
+    "LBL_CHAT_USER_SWITCHED": "اگر به کاربر دیگری تغییر دهید چت غیرفعال است.",
     "LBL_CHAT_NEW_MESSAGE": "پیام جدید"
   }
 }

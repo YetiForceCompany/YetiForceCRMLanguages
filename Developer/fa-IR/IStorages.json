@@ -14,7 +14,7 @@
     "PLL_INACTIVE": "غیرفعال",
     "PLL_INTERNAL": "داخلی",
     "PLL_EXTERNAL": "خارجی",
-    "LBL_NOT_PARENT_STORAGE": "You have to fill in the Parent Storage name",
+    "LBL_NOT_PARENT_STORAGE": "شما باید نام محل ذخیره والد را پر کنید",
     "LBL_SHOW_HIERARCHY": "سلسه مراتب",
     "LBL_PARENT_IS_CHILD": "The selected parent storage cannot be secondary to current storage",
     "LBL_PRODUCTS_CONTROL_TABLE": "جدول کنترل کالاها",

@@ -64,17 +64,17 @@
     "JS_MILESTONE_STATUSES": "وضعیت‌های نقطه عطف",
     "JS_TASK_STATUSES": "وضعیت وظیف",
     "JS_ASSIGNED": "اختصاص داده شده به",
-    "JS_GANTT_ERROR_LOADING_DATA_TASK_REMOVED": "Error when loading data - the item has been removed",
+    "JS_GANTT_ERROR_LOADING_DATA_TASK_REMOVED": "خطا هنگام بارگیری داده ها - مورد حذف شده است",
     "JS_INVALID_DATE_FORMAT": "فرمت تاریخ نامعتبر",
     "JS_YES": "بله",
     "JS_NO": "خیر",
     "JS_INVALID_DATA": "داده نامعتبر برای فیلد",
     "JS_ERROR_ON_FIELD": "مقدار نا معتبر در فیلد",
-    "JS_OUT_OF_BOUDARIES": "Value out of range for field:",
+    "JS_OUT_OF_BOUDARIES": "مقدار خارج از محدوده مجاز است برای فیلد:",
     "JS_WEEK_SHORT": "هفته",
     "JS_PROCEED": "می خواهید ادامه دهید؟",
     "JS_PREV": "قبلی",
     "JS_NEXT": "بعدی",
-    "JS_HINT_SKIP": "I understand, close this notification"
+    "JS_HINT_SKIP": "متوجه شدم ، این اطلاعیه را ببندید"
   }
 }

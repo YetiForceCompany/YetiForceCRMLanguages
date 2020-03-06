@@ -4,7 +4,7 @@
     "TreesManager": "مدیریت درختواره",
     "LBL_TREES_MANAGER": "فیلد - پوشه‌ها",
     "LBL_TREES_MANAGER_DESCRIPTION": "مدیریت قالب درختواره",
-    "LBL_NO_RECORDS_FOUND": "No tree templates",
+    "LBL_NO_RECORDS_FOUND": "قالب درختواره‌ای موجود نمی‌باشد",
     "LBL_EDIT_TEMPLATE_TREES": "ویرایش قالب درختواره",
     "LBL_CREATING_TEMPLATE_TREES": "ایجاد قالب درختواره",
     "LBL_NAME": "نام قالب",
@@ -19,7 +19,7 @@
     "LBL_SHARE_WITH": "اشتراک با"
   },
   "js": {
-    "JS_TREE_DELETED_SUCCESSFULLY": "Tree template deleted successfully",
+    "JS_TREE_DELETED_SUCCESSFULLY": "قالب درختواره با موفقیت حذف شد",
     "JS_JSTREE_CREATE": "افزودن",
     "JS_JSTREE_RENAME": "تغییر نام",
     "JS_JSTREE_REMOVE": "حذف",
@@ -31,8 +31,8 @@
     "JS_FIELD_CAN_NOT_BE_EMPTY": "فیلد نمی تواند خالی باشد",
     "JS_NO_ITEM_SELECTED": "هیچ آیتمی انتخاب نشده",
     "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "شما نمی توانید همه موارد را حذف نمایید",
-    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "You cannot delete parent item",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "شما نمی‌توانید آیتم والد را حذف نمایید",
     "JS_NEW_ITEM": "نود جديد",
-    "JS_ONLY_ONE_ITEM_SELECTED": "Only one item can be selected."
+    "JS_ONLY_ONE_ITEM_SELECTED": "فقط یک مورد می تواند انتخاب شود."
   }
 }

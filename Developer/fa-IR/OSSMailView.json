@@ -32,7 +32,7 @@
     "Widget list limit": "تعداد پیام های در خلاصه",
     "_self": "در همین پنجره",
     "_blank": "پنجره جدید",
-    "List open email": "When you click on button open the",
+    "List open email": "هنگام کلیک کردن دکمه باز کند",
     "emailPreviewHeader": "پیش نمایش ایمیل شما",
     "LBL_CREATEMAIL": "ارسال ایمیل",
     "LBL_OUTCOMING": "خروجی",
@@ -42,7 +42,7 @@
     "LBL_PRINT": "چاپ",
     "LBL_FORWARD": "فرستادن به دیگران",
     "Date of receipt": "تاریخ دریافت",
-    "RC user": "RC user",
+    "RC user": "کابر ‌RC",
     "FromID": "شناسه فرستنده",
     "ToID": "شناسه دریافت‌کننده",
     "LBL_SHOW_PREVIEW_EMAIL": "نمایش پیش‌نمایش ایمیل",
@@ -56,12 +56,12 @@
     "LBL_COLLAPSE_ALL": "بستن و جمع کردن همه",
     "LBL_COUNT_ALL_MAILS": "تعداد همه ایمیل‌ها",
     "LBL_VERIFY": "وابسته به تایید",
-    "LBL_BindMailsOK": "Marked emails to bind, the next activation cron messages will be related to record",
+    "LBL_BindMailsOK": "برای اتصال به ایمیل های علامت گذاری شده ، پیام های cron فعال سازی بعدی مربوط به رکورد خواهد بود",
     "LBL_BindMails": "اختصاص ایمیل‌ها",
     "LBL_ChangeType": "تغییر نوع ایمیل",
     "LBL_SELECT_TYPE": "انتخاب یک نوع",
-    "ChangeType": "Changing type selected messages",
-    "Alert_ChangeType_desc": "All types of selected e-mail will be changed, without the possibility to undo the changes.",
+    "ChangeType": "تغییر نوع پیام های انتخاب شده",
+    "Alert_ChangeType_desc": "همه نوع نامه های انتخاب شده ایمیل تغییر خواهد کرد ، بدون اینکه امکان خنثی سازی تغییرات وجود داشته باشد.",
     "LBL_ChangeTypeOK": "تغییر نوع پیام",
     "Configuration": "پیکربندی",
     "LBL_MAIL_REPLY_INTRO": "در %s،نوشت %s:",
@@ -75,7 +75,7 @@
     "Previous month": "ماه قبل",
     "LBL_ORGINAL_MAIL_CONTENT": "محتوای ایمیل اصلی",
     "BTN_RESET_RELATED_MAILS": "بازنشانی ایمیل مرتبط",
-    "LBL_SET_RELOAD_RELATIONS": "Marked for relation reload"
+    "LBL_SET_RELOAD_RELATIONS": "مشخص شده اند برای بارگذاری مجدد رابطه"
   },
   "js": {
     "From": "از",
@@ -85,6 +85,6 @@
     "Date": "تاریخ",
     "Subject": "موضوع",
     "Content": "محتوا",
-    "JS_BIND_CONFIRM": "Are you sure you want to bind the selected messages?"
+    "JS_BIND_CONFIRM": "آیا مطمئن هستید که می خواهید پیام های انتخاب شده را پیوند دهید؟"
   }
 }

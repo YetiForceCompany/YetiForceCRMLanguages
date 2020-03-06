@@ -3,7 +3,7 @@
     "LBL_CREDITLIMITS": "محدودیت‌های بازرگان",
     "LBL_CREDITLIMITS_DESCRIPTION": " ",
     "LBL_CREDITLIMITS_SINGLE": "محدودیت بازرگان",
-    "LBL_CREDITLIMITS_INFO": "In the YetiForce system we got the ability to manage merchant limits for Accounts. This functionality is used to limit the Account's excessive debt in permanent cooperation. Merchant limits are mainly granted to these Accounts who cooperate with us for a longer period of time and we want to extend their payment deadline, which means that the Account won't be able to place a new order unless his previous balance has been regulated [current balance and issued document exceed granted limit].",
+    "LBL_CREDITLIMITS_INFO": "در سیستم YetiForce ما توانسته ایم محدودیت های تجاری را برای حساب ها مدیریت کنیم. این عملکرد برای محدود کردن بدهی بیش از حد حساب در همکاری دائمی استفاده می شود. محدودیت های بازرگان عمدتا به این حساب ها اعطا می شود که برای مدت زمان طولانی با ما همکاری می کنند و ما می خواهیم مهلت پرداخت آنها را تمدید کنیم ، به این معنی که حساب نمی تواند سفارش جدیدی را تنظیم کند مگر اینکه مانده قبلی وی تنظیم نشده باشد [ موجودی فعلی و سند صادر شده بیش از حد مجاز است].",
     "LBL_ENTER_NAME": "نام را وارد نمایید",
     "LBL_ENTER_VALUE": "مقدار را وارد نمایید",
     "LBL_NAME": "نام",
@@ -24,8 +24,8 @@
     "LBL_CANNOT_BE_COMBINED": "نمی‌تواند ترکیب شود",
     "LBL_IN_TOTAL": "در مجموع",
     "LBL_CASCADE": "آبشاری",
-    "LBL_GLOBAL": "Tax from the list of available taxes",
-    "LBL_GROUP": "Tax from products\/services list",
+    "LBL_GLOBAL": "مالیات از لیست مالیات‌های موجود",
+    "LBL_GROUP": "لیست مالیات از محصولات\/خدمات",
     "LBL_INDIVIDUAL": "Custom tax",
     "LBL_REGIONAL": "مالیات حساب‌ها",
     "LBL_SUMMATION_TYPE": "نوع جمع‌بندی",
@@ -40,9 +40,9 @@
     "LBL_VIEW_DISCOUNTCONFIGURATION": "پیکربندی تخفیف",
     "LBL_VIEW_DISCOUNTS": "پایه تخفیف",
     "LBL_ALERT_TAX_CONFIG_TITLE": "شرح تنظیمات مالیات:",
-    "LBL_ALERT_TAX_CONFIG_DESC": "Summation type:\r\nIn total:\r\n- Total value of all taxes calculated on the value of product\/services.\r\n[Example]\r\nThere are two taxes selected: the first one 23%%, the second one 8%%. The system sums the value of both taxes from the oryginal net amount. \r\nIn the above example for the net value 100zł, the gross amount will be (100zł * 1,31) = 131,00 zł\r\n\r\nCascade:\r\n- Tax amount is calculated each time from the product\/service value.\r\n[Example]\r\nTwo taxes are selected: the first one 23%%, the second one 8%%. The system calculates the value for the first tax and then the value of second tax is added. \r\nIn the above example for the net value of 100zł, the gross amount will be (100zł * 1,23) * 1,08 = 132,84 zł\r\n\r\nTax settings description:\r\nTax from the list of available taxes:\r\n- Specified in settings for Advanced Modules.\r\nTax from products\/services list:\r\n- Specified individaully for products in the Products module.\r\nCustom tax:\r\n- Specified once for a selected record.\r\nAccount's tax:\r\n- Specified individually for a selected customer.",
-    "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "Discount settings description:",
-    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Summation type:\nIn total:\n- Total value of all discounts calculated on the basis of product\/services value.\n[Example]\nThere are two discounts selected: the first one is 20%%, the second one is 10%%. The system sums the value of both discounts from the original net amount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 30%%) = 70,00 zł\n\nCascade:\n- Discount amount is calculated each time from the product\/service value.\n[Example]\nTwo discounts are selected: the first one is 20%%, the second one is 10%%. The system calculates the value for the first discount and then this amount is reduced by the value of the second discount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 20%%) - 10%% = 72 zł\n\nDiscount settings description:\nDiscount from the list of available discounts:\n- Specified in settings for Advanced Modules.\nDiscount from products\/services list:\n- Specified individually for products in the Products module.\nCustom discount:\n- Specified once for a selected record.\nAccount's discount:\n- Specified individually for a selected Account."
+    "LBL_ALERT_TAX_CONFIG_DESC": "نوع خلاصه:\nدر مجموع:\n- ارزش کل کلیه مالیاتهای محاسبه شده بر ارزش محصول \/ خدمات.\n[Example]\nدو مالیات انتخاب شده است: اولی 23 %% ، دیگری دوم 8%% این سیستم ارزش هر دو مالیات را از مبلغ خالص اصلی جمع می کند.\nدر مثال بالا برای ارزش خالص 100zł ، مقدار ناخالص خواهد بود (100zł * 1،31) = 131،00 zł\n\nآبشار:\n- مقدار مالیات هر بار از ارزش محصول \/ خدمات محاسبه می شود.\n[Example]\nدو مالیات انتخاب شده است: اولی 23%% ، دومی 8%% سیستم ارزش مالیات اول را محاسبه می کند و سپس به ارزش مالیات دوم اضافه می شود.\nدر مثال بالا برای ارزش خالص 100zł ، مقدار ناخالص خواهد بود (100zł * 1،23) * 1،08 = 132،84 zł\n\nتوضیحات تنظیمات مالیاتی:\nمالیات از لیست مالیات های موجود:\n- مشخص شده در تنظیمات برای ماژول های پیشرفته.\nمالیات از لیست محصولات \/ خدمات:\n- به صورت جداگانه برای محصولات موجود در ماژول محصولات.\nمالیات سفارشی:\n- یکبار برای یک رکورد انتخاب شده مشخص شود.\nمالیات حساب:\n- به صورت جداگانه برای یک مشتری انتخاب شده مشخص شده است.",
+    "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "شرح تنظیمات تخفیف:",
+    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "نوع خلاصه:\nدر مجموع:\n- ارزش كل تخفيفات محاسبه شده براساس ارزش محصول \/ خدمات.\n[Example]\nدو تخفیف انتخاب شده است: اولی 20%% ، دومی 10%% این سیستم ارزش هر دو تخفیف را از مبلغ خالص اصلی جمع می کند.\nدر مثال بالا مبلغ 100zł مبلغ پس از تخفیف = = (100 zł - 30%%) = 70,00 zł\n\nآبشار:\n- مقدار تخفیف هر بار از ارزش محصول \/ خدمات محاسبه می شود.\n[Example]\nدو تخفیف انتخاب می شود: اولی 20%% دومین 10%% سیستم مقدار تخفیف اول را محاسبه کرده و سپس این مقدار با ارزش تخفیف دوم کاهش می یابد.\nدر مثال بالا مبلغ 100zł مبلغ پس از تخفیف = = (100 zł - 20%%) - 10%% = 72 zł\nخواهد بود\n\nتوضیحات تنظیمات تخفیف:\nتخفیف از لیست تخفیف های موجود:\n- مشخص شده در تنظیمات برای ماژول های پیشرفته.\nتخفیف از لیست محصولات \/ خدمات:\n- به صورت جداگانه برای محصولات موجود در ماژول محصولات.\nتخفیف سفارشی:\n- یکبار برای یک رکورد انتخاب شده مشخص شود.\nتخفیف حساب:\n- به صورت جداگانه برای یک حساب انتخاب شده مشخص شده است."
   },
   "js": {
     "JS_SAVE_CHANGES": "تغییرات با موفقیت ذخیره گردید.",

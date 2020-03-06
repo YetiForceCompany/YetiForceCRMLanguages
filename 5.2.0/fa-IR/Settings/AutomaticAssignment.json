@@ -21,14 +21,14 @@
     "LBL_INCLUDE_USERS_RECORD_LIMIT": "شامل محدودیت ثبت کاربر",
     "LBL_SET_DEFAULT_USER": "تنظیم کاربر پیش فرض",
     "LBL_DEACTIVATE_SYSTEM_MODE": "غیر فعال کردن حالت سیستم",
-    "LBL_SYSTEM": "سیستم",
+    "LBL_SYSTEM": "سامانه",
     "LBL_NOTE": "یادداشت!",
-    "LBL_VALUE_INFO": "The following field sets the value for the selected module field.",
-    "LBL_ROLES_INFO": "The list of pre-assigned users is created from the below roles.",
-    "LBL_SMOWNERS_INFO": "The list of pre-assigned users is created from the below users, groups. This user list is created only if there are no users selected from roles.",
-    "LBL_ASSIGN_INFO": "Set default Assigned To. The value set here will be assigned to the record when the user, who was assigned, can not be found.",
-    "LBL_CONDITIONS_INFO": "Set record search conditions. In order to select one user from the available user list, the system counts the number of records assigned to the user in the module. The user with the lowest number of records is assigned to the record.",
-    "LBL_ROLEID_INFO": "Set one of the following modes: SYSTEM - user by such mechanisms as workflows tasks and handlers; NON-SYSTEM –  allows to assign a record manually by the user."
+    "LBL_VALUE_INFO": "قسمت زیر مقدار مربوط به قسمت ماژول انتخاب شده را تعیین می کند.",
+    "LBL_ROLES_INFO": "لیست کاربران از پیش اختصاص یافته از نقش های زیر ایجاد می شود.",
+    "LBL_SMOWNERS_INFO": "لیست کاربران از پیش تعیین شده از گروه‌ها‌ی کاربران زیر ایجاد می شود. این لیست کاربر فقط در صورتی ایجاد می شود که هیچ کاربری از نقش ها انتخاب نشده باشد.",
+    "LBL_ASSIGN_INFO": "تنظیم پیش فرض اختصاص داده شده به. مقدار تعیین شده در اینجا وقتی کاربر ، که به او اختصاص داده شده است ، پیدا نشود به رکورد اختصاص داده می شود.",
+    "LBL_CONDITIONS_INFO": "شرایط جستجوی رکورد را تنظیم کنید. به منظور انتخاب یک کاربر از لیست کاربر موجود ، سیستم تعداد سوابق اختصاص داده شده به کاربر در ماژول را شمارش می کند. کاربر با کمترین تعداد رکورد به رکورد اختصاص می یابد.",
+    "LBL_ROLEID_INFO": "159/5000\nیکی از حالت های زیر را تنظیم کنید: SYSTEM - کاربر توسط مکانیزم هایی مانند کارهای گردش کار و کنترل کننده ها؛ NON-SYSTEM - اجازه می دهد تا یک رکورد را به صورت دستی توسط کاربر اختصاص دهید."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "آیا مطمئنید که میخواهید نوع رکورد را تغییر دهید ؟",

@@ -16,16 +16,16 @@
     "BTN_SAVE": "ذخیره",
     "BTN_CLOSE": "لغو",
     "PLL_USER_PERMISSIONS": "مجوز بر اساس کاربر",
-    "PLL_ACCOUNTS_RELATED_RECORDS": "All records of account assigned directly to contact",
-    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts lower in hierarchy",
-    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts from hierarchy",
+    "PLL_ACCOUNTS_RELATED_RECORDS": "تمام سوابق حساب که مستقیماً برای تماس اختصاص داده شده اند",
+    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "کلیه سوابق مربوط به حساب که مستقیماً به سلسله مراتب به مخاطبین و حسابهای پست اختصاص داده شده است",
+    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "کلیه سوابق مربوط به حساب که مستقیماً به مخاطبین و حساب‌های مربوط سلسله مراتب اختصاص داده شده اند",
     "PLL_ACTIVE": "فعال",
     "PLL_INACTIVE": "غیرفعال",
     "LBL_CREATE_RECORD": "ایجاد",
     "FL_STORAGE": "محل انبار و نگهداری"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",
+    "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟",
     "JS_SAVE_SUCCESS": "تغییرات ذخیره شد"
   }
 }

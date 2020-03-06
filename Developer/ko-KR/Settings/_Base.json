@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "필드항목 추가하는 동안 오류",
     "JS_NOTIFY_COPY_TEXT": "클립보드에 복사된 변수",
     "JS_RS_ADD_YEAR_VARIABLE": "연도 변수를 접두사 또는 접미사로 복사",
-    "JS_RS_ADD_MONTH_VARIABLE": "月 변수를 접두사 또는 사후 고정으로 복사",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "日 변수를 접두사 또는 사후 고정으로 복사",
     "JS_PICKLIST_TOO_MANY": "번호 지정은 하나의 선정목록 변수만 포함할 수 있음"
   }

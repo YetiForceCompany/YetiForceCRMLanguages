@@ -26,7 +26,7 @@
     "Create records": "وارد کردن",
     "LBL_ERROR_FILE": "فایل باید اضافه شود.",
     "LBL_ERROR_TYPE": "فرمت فایل اشتباه.",
-    "MSG_SAVE_OK": "Records have been created.",
+    "MSG_SAVE_OK": "رکوردها ایجاد گردیدند.",
     "MSG_SAVE_ERROR": "خطا در ذخیره سازی.",
     "Back": "بازگشت",
     "Summary": "چکیده(نمونه)",
@@ -60,6 +60,6 @@
     "FL_TRANSACTION": "تراکنش‌ها",
     "FL_ORDER": "سفارش",
     "FL_INVOICE": "فاکتور",
-    "FL_PAYMENT_SYSTEM": "سیستم پرداخت"
+    "FL_PAYMENT_SYSTEM": "سامانه پرداخت"
   }
 }

@@ -1389,7 +1389,10 @@
     "LBL_SELECT_COLOR": "Wybierz kolor:",
     "LBL_PREVIOUS_COLOR": "Poprzedni kolor:",
     "ERR_OCCURRED_CHECK_LOGS": "Wystąpił błąd, sprawdź logi.",
-    "LBL_SHOW_ORIGINAL_CONTENT": "Pokaż oryginalną zawartość"
+    "LBL_SHOW_ORIGINAL_CONTENT": "Pokaż oryginalną zawartość",
+    "LBL_COMPANY_NAME": "Nazwa firmy",
+    "LBL_SHOW_PASSWORD": "Pokaż ukryte hasło",
+    "LBL_NO_DATA_FOUND": "Nie znaleziono danych"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

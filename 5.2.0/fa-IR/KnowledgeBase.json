@@ -31,6 +31,6 @@
     "FL_FEATURED": "ویژه",
     "LBL_RELATED_KNOWLEDGE_BASES": "مطالب مرتبط",
     "FL_INTRODUCTION": "مقدمه",
-    "ERR_NOT_ALLOWED": "The file has not the allowed extension type"
+    "ERR_NOT_ALLOWED": "این فایل دارای پسوند مجاز نمی‌باشد"
   }
 }

@@ -21,12 +21,12 @@
     "JS_mail_error": "آدرس ایمیل وارد شده صحیح نمی‌باشد",
     "JS_time_error": "فرمت تاریخ وارد شده صحیح نمی‌باشد",
     "JS_StopCron": "به صورت دستی Cron را متوقف کن",
-    "stop_user": "User that stopped scanning",
+    "stop_user": "کاربری که اسکن را متوقف کرده است",
     "Manually stopped": "به صورت دستی متوقف شد",
     "OK": "تایید",
     "In progress": "در حال انجام",
     "whether_remove_an_identity": "حذف هویت؟",
     "removed_identity": "هویت حذف گردید",
-    "LBL_LOADING_LIST_OF_FOLDERS": "Loading folders list in progress.\r\nIt make take up to several minutes..."
+    "LBL_LOADING_LIST_OF_FOLDERS": "در حال بارگیری لیست پوشه‌های در حال انجام است.\nچند دقیقه طول می کشد..."
   }
 }

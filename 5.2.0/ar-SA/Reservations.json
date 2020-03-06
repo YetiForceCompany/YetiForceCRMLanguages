@@ -16,7 +16,7 @@
     "LBL_CALENDAR_VIEW": "Calendar",
     "LBL_RESERVATIONS_TYPE": "Reservation type",
     "PLL_ACCEPTED": "For approval",
-    "PLL_TO_APPROVAL": "Accepted",
+    "PLL_TO_APPROVAL": "تم قبوله",
     "LBL_RELATEDA": "Company",
     "LBL_RELATEDB": "Process",
     "LBL_TYPE": "Type",
@@ -40,7 +40,7 @@
     "PLL_CANCELLED": "Cancelled",
     "JS_ASSIGNED_TO": "Assigned to",
     "JS_TYPE": "Type",
-    "JS_YES": "Yes",
+    "JS_YES": "نعم",
     "JS_NO": "No"
   }
 }

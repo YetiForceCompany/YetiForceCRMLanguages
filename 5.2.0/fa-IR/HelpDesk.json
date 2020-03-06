@@ -23,8 +23,8 @@
     "LBL_COULDNOT_CLOSED": "تیکت نمی تواند",
     "LBL_CUSTOMER_COMMENTS": "مشتری اطلاعات تکمیلی زیر را به پاسخ شما ارائه کرده است:",
     "LBL_DETAIL": "جزئيات عبارتند از:",
-    "LBL_GIVE_MAILID": "لطفا شناسه ی ايميل خود را وارد کنید",
-    "LBL_LOGIN_REVOKED": "امکان ورود برای شما وجود ندارد. لطفا با مدير سيستم تماس بگيريد.",
+    "LBL_GIVE_MAILID": "لطفا شناسه‌ی ايميل خود را وارد کنید",
+    "LBL_LOGIN_REVOKED": "امکان ورود برای شما وجود ندارد. لطفا با مدير سامانه تماس بگيريد.",
     "LBL_MAIL_COULDNOT_SENT": "ایمیل ارسال نشد",
     "LBL_PASSWORD": "گذرواژه:",
     "LBL_REGARDS": "با احترام",
@@ -74,7 +74,7 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "درخواست به هیچ حسابی مرتبط نمی‌باشد. لطفا یک رابطه ایجاد نمایید.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "بلیط مربوط به هیچ توافقنامه سطح ارايه‌ی خدماتی نمی‌باشد",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "حساب هیچ موافقتنامه سطح ارایه خدمات SLA فعالی ندارد",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Pressing this button will relate this SLA to ticket.",
+    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "با فشار دادن این دکمه ، این SLA را به تیکت مربوط می کنید.",
     "LBL_NOTICE_WELCOME": "به پلتفرم خوش آمدید",
     "LBL_NOTICE_CREATED": "ایجاد شده توسط:",
     "LBL_NOTICE_CLOSED": "بسته شده توسط:",
@@ -89,9 +89,9 @@
     "LBL_MASS_STATUS_CHANGE": "تغییر وضعیت دسته‌جمعی",
     "LBL_RECORDS": "رکوردها برای تغییر",
     "LBL_CHILD_RECORDS": "زیر رکوردهای برای رکورد فعلی",
-    "LBL_MASS_STATUS_UPDATED": "Status updated in selected records",
+    "LBL_MASS_STATUS_UPDATED": "وضعیت در رکوردهای انتخاب شده به روز شد",
     "LBL_UPDATE": "به روز رسانی",
-    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets"
+    "LBL_ADD_TIME_CONTROL": "افزودن زمان‌ کارکرد قبل از بستن تیکت",
+    "LBL_CLOSE_RELATED_TICKETS": "قبل از بستن این تیکت ، بلیط های تیکت را ببندید"
   }
 }
