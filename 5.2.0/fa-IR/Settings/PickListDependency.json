@@ -6,7 +6,7 @@
     "LBL_CONFIGURE_DEPENDENCY_HELP_1": "تنها فهرست انتخابی نگاشت شده فیلد منبع در قسمت زیر نمایش داده می شود (به جز مرتبه اول)",
     "LBL_CONFIGURE_DEPENDENCY_HELP_2": "If you want to see or change the mapping for the other picklist values of source field, \r\nthen you can select the values by clicking on <b>'Select Source values'<\/b> button on the right side",
     "LBL_CONFIGURE_DEPENDENCY_HELP_3": "مقادیر منتخب از مقادیر فیلد هدف ، برجسته می شوند به عنوان",
-    "LBL_CONFIGURE_DEPENDENCY_INFO": "Click on the respective cell to change the mapping for picklist values of target field",
+    "LBL_CONFIGURE_DEPENDENCY_INFO": "به منظور تغییر نگاشت‌ها برای مقادیر فیلد هدف، می بایست بر روی سلول مورد نظر کلیک کنید",
     "LBL_ERR_CYCLIC_DEPENDENCY": "این تنظیم وابستگی مجاز نیست زیرا در بعضی از وابستگی های چرخشی به پایان می رسد",
     "LBL_PICKLIST_DEPENDENCY": "وابستگی لیست انتخاب",
     "LBL_SELECT_FIELD": "انتخاب فیلد",

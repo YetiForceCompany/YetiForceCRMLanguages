@@ -30,8 +30,8 @@
     "Public: Read, Create\/Edit, Delete": "Público: leer, crear\/editar, eliminar",
     "Public: Read, Create\/Edit": "Público: leer, crear\/editar",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Se ha guardado correctamente la regla de uso compartido personalizado",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Error al guardar la regla de acceso compartido",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Error al eliminar la regla de acceso compartido"
   },
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Oportunidades, Incidencias, Presupuestos y Acceso a la factura se deben establecer en privado cuando el acceso a la cuenta está configurado como privado",

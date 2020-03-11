@@ -29,7 +29,7 @@
     "PLL_COURIER_UPS": "Courier UPS",
     "PLL_COURIER_GLS": "Courier GLS",
     "PLL_TELEX": "Telex",
-    "PLL_EMAIL": "E-mail",
+    "PLL_EMAIL": "Ел. пошта",
     "PLL_POCZTEX": "Pocztex",
     "PLL_TNT": "TNT",
     "PLL_DEMAND_PAYMENT": "Demand for payment",
@@ -49,7 +49,7 @@
     "PLL_INVOICE": "Invoice",
     "PLL_NEW": "New",
     "PLL_SETTLED": "Settled",
-    "PLL_A": "A",
-    "PLL_B": "B"
+    "PLL_A": "А",
+    "PLL_B": "Б"
   }
 }

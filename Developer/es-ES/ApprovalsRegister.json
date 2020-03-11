@@ -2,21 +2,21 @@
   "php": {
     "ApprovalsRegister": "Registro de aprobaciones",
     "SINGLE_ApprovalsRegister": "Registro de Aprobación",
-    "LBL_CUSTOM_INFORMATION": "Información del cliente",
-    "LBL_BASIC_INFORMATION": "Información básica",
+    "LBL_CUSTOM_INFORMATION": "Información Personalizada",
+    "LBL_BASIC_INFORMATION": "Información Básica",
     "LBL_DESCRIPTION_INFORMATION": "Detalles de la descripción",
     "FL_SUBJECT": "Asunto",
-    "FL_APPROVALS_STATUS": "Estado de las aprobaciones",
+    "FL_APPROVALS_STATUS": "Estado",
     "FL_DESCRIPTION": "Descripción",
     "FL_CONTACT": "Contacto",
     "FL_APPROVAL": "Aprobación",
     "FL_TYPE": "Tipo",
     "FL_STATUS": "Estado",
     "FL_REGISTRATION_DATE": "Fecha de registro",
-    "PLL_FOR_VERIFICATION": "Para verificación",
+    "PLL_FOR_VERIFICATION": "Para verificar",
     "PLL_ACCEPTED": "Aceptado",
     "PLL_REJECTED": "Rechazado",
     "PLL_ACCEPTANCE": "Aceptación",
-    "PLL_RESIGNATION": "Abandonado"
+    "PLL_RESIGNATION": "Resignación"
   }
 }

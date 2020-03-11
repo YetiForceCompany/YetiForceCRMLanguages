@@ -2,7 +2,7 @@
   "php": {
     "No data available in table": "No data available in table",
     "Translations": "Переклади",
-    "Language editor": "Language editor",
+    "Language editor": "Редактор мов",
     "LangManagement": "Локалізація",
     "LBL_Module_desc": "This tool helps to modify and manage language translations within the system.",
     "LBL_TAB_LIST": "Доступні мови",
@@ -15,7 +15,7 @@
     "LBL_Lang_ac_admin": "Адміністратора",
     "LBL_Lang_ac_user": "Користувача",
     "LBL_Lang_action": "Дії",
-    "LBL_LAST_UPDATE": "Update date",
+    "LBL_LAST_UPDATE": "Дата оновлення",
     "LBL_SaveDataOK": "Зміни збережено",
     "LBL_DeleteDataOK": "Переклад видалено",
     "LBL_AddDataOK": "Нову мову додано",
@@ -39,8 +39,8 @@
     "Modules": "Модулі",
     "Module": "Модуль",
     "Language": "Мова",
-    "LBL_TranslationType": "Translation type",
-    "LBL_KeyExists": "This language variable already exists",
+    "LBL_TranslationType": "Тип перекладу",
+    "LBL_KeyExists": "Ця змінна мови вже існує",
     "Export": "Експорт",
     "LBL_SHOW_MISSING_TRANSLATIONS": "Show missing translations",
     "LBL_DEFAULT": "За замовчанням",
@@ -53,8 +53,8 @@
     "LBL_STATS_INFO": "The presented statistical values determine the ratio of untranslated labels to all labels that exist in the base language file(s) in percentage.",
     "LBL_UNTRANSLATED_LABELS": "Untranslated labels",
     "LBL_IMPORT_LANG": "Імпортувати мову",
-    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
-    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
+    "LBL_IETF_LANGUAGE_TAG": "IETF мітка мови",
+    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Код мови не відповідає вимогам стандарту IETF."
   },
   "js": {
     "Translations": "Переклади",
@@ -66,8 +66,8 @@
     "LBL_Loader": "Завантаження",
     "No matching records found": "Не знайдено жодного запису",
     "Search": "Пошук:",
-    "No data available in table": "No translations",
-    "JS_NOTRANSLATION": "--No Translation--",
+    "No data available in table": "Немає перекладу",
+    "JS_NOTRANSLATION": "--Немає перекладу--",
     "JS_EXPORT": "Експорт"
   }
 }

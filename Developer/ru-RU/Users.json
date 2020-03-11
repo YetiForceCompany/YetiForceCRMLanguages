@@ -338,6 +338,7 @@
     "LBL_YOUR_PASSWORD_WILL_EXPIRE": "Срок действия вашего пароля истечён через %s дней, и система заблокирует вход в аккаунт. Мы рекомендуем сменить пароль как можно быстрее.",
     "LBL_CHANGING_PASSWORD_OF_ANOTHER_USER": "Изменяя пароль другому пользователю, вы принуждаете его сменить пароль при первом входе в систему.",
     "LBL_FORCE_PASSWORD_CHANGE_ALERT": "Ваш пароль должен быть изменен. Для того чтобы продолжить использование системы, пожалуйста, введите новый пароль.",
+    "LBL_PWNED_PASSWORD_CHANGE_ALERT": "Your password was found in the stolen passwords database. We recommend changing the password.",
     "LBL_NEW_PASSWORD_CRITERIA": "Пароль должен отвечать следующим критериям:",
     "LBL_USERS_NEED_CHANGE_PASSWORD": "Пользователи, которым необходимо сменить пароль.",
     "LBL_NOT_CHANGE_PASS_AUTH_EXTERNAL_SYSTEM": "Вы не можете изменить пароль. Данный пользователь авторизуется через внешнюю систему.",
@@ -373,6 +374,7 @@
     "LBL_VALIDATE_PASSWORD": "Verify if the password complies with the criteria set by the admin.",
     "LBL_USER_INTEGRATION": "Integration",
     "LBL_USER_AUTOMATION": "Automation",
+    "LBL_USER_PASSWORD_IS_OK": "Your password complies with the system requirements.",
     "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
     "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
   },

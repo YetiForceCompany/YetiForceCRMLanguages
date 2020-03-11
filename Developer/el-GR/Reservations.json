@@ -25,11 +25,11 @@
     "LBL_CARS": "Αυτοκίνητα",
     "PLL_DRAFT": "Πρόχειρο",
     "PLL_CANCELLED": "Ακυρώθηκε",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "Work days"
+    "LBL_SELECT_USER_CALENDAR": "Επιλέξτε ημερολόγιο χρήστη",
+    "LBL_SELECT_GROUP_CALENDAR": "Επιλέξτε ημερολόγιο ομάδας",
+    "LBL_USER_NAME": "Όνομα χρήστη",
+    "LBL_GROUP_NAME": "Όνομα ομάδας",
+    "LBL_WORK_DAYS": "Εργάσιμες ημέρες"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Επιτρεπτοί χαρακτήρες: [0-9]",

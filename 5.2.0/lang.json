@@ -4,7 +4,7 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 54,
-        "time": "2020-03-06 12:24:20"
+        "time": "2020-03-10 14:25:41"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -53,14 +53,14 @@
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 97,
-        "time": "2019-12-16 11:19:25"
+        "time": "2020-03-10 14:40:40"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
-        "progress": 98,
-        "time": "2020-03-06 12:34:01"
+        "progress": 99,
+        "time": "2020-03-10 14:36:06"
     },
     "fr-FR": {
         "prefix": "fr-FR",
@@ -192,8 +192,8 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 61,
-        "time": "2020-03-06 12:39:08"
+        "progress": 73,
+        "time": "2020-03-10 14:41:47"
     },
     "vi-VN": {
         "prefix": "vi-VN",

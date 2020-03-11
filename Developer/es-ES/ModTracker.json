@@ -45,7 +45,7 @@
     "LBL_INV_ADDED": "Añadido",
     "LBL_INV_UPDATED": "Actualizado",
     "LBL_INV_DELETED": "Borrado",
-    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Configuración de actualizaciones widget",
+    "LBL_PERSON_MAKING_CHANGES": "Persona haciendo cambios"
   }
 }

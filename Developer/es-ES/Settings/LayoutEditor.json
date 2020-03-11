@@ -191,7 +191,7 @@
     "LBL_EDIT_MANDATORY_INFO": "Aplica a todo el registro. Si se selecciona \"No\", el registro se puede guardar sin líneas de inventario.",
     "MultiDomain": "Selección múltiple de dominio",
     "LBL_CHANGED_MODULE_TYPE_INFO": "La operación de cambio de tipo de módulo se ha añadido a la cola de tareas Cron.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "No se puede eliminar el campo no-personalizado"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "El nombre del bloque ya existe",
@@ -227,6 +227,6 @@
     "JS_SAVE_CHANGES": "Cambios guardados correctamente.",
     "JS_NOTIFY_COPY_TEXT": "Copiado al portapapeles",
     "JS_NOTIFY_COPY_TITLE": "Texto",
-    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
+    "JS_EXIST_PICKLIST_NAME": "Este nombre ya está en uso. ¿Deseas guardarlo como lista de selección compartida?"
   }
 }

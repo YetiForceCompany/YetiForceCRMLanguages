@@ -13,7 +13,7 @@
     "LBL_INSTRUCTION": "دستی",
     "LBL_SEARCH_IN_RADIUS": "جستجو در شعاع",
     "LBL_CLIPBOARD": "کلیپ‌بورد",
-    "LBL_INDIRECT_POINT": "Indirect point",
+    "LBL_INDIRECT_POINT": "نقطه غیرمستقیم",
     "ERR_ADDRESS_NOT_FOUND": "نشانی یافت نشد"
   }
 }

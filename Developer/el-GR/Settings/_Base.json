@@ -372,7 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Λείπει το αρχείο άδειας χρήσης",
     "LBL_SUGAR_DESCRIPTION": "Το Vtiger βασίστηκε στο Sugarcrm. Επί του παρόντος, μόνο μερικά αρχεία απομένουν από το Sugar CRM στο YetiForce.",
     "LBL_VTIGER_DESCRIPTION": "Περίπου το 30% του αρχικού κώδικα του Vtiger έχει απομείνει. Ο υπόλοιπος κώδικας έχει ξαναγραφτεί και επεκταθεί.",
-    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Ήχος chat",
     "LBL_YETIFORCE_SHOP": "Κατάστημα",
     "LBL_YETIFORCE_ISSUES": "Δωρεάν υποστήριξη",
     "LBL_YETIFORCE_ASSISTANCE": "Υποστήριξη με χρέωση",
@@ -382,9 +382,9 @@
     "LBL_SEARCH_PLACEHOLDER": "Αναζήτηση...",
     "LBL_VULNERABILITIES": "Τρωτά σημεία",
     "LBL_VULNERABILITIES_DESCRIPTION": "Λίστα τρωτών σημείων",
-    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
-    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
-    "LBL_PREFIX": "Prefix"
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Λίστα επιλογών ρυθμίσεων",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Λίστα επιλογών ρυθμίσεων",
+    "LBL_PREFIX": "Πρόθεμα"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",
@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Παρουσιάστηκε σφάλμα κατά την προσθήκη πεδίου",
     "JS_NOTIFY_COPY_TEXT": "Αντιγραφή μεταβλητή στο Πρόχειρο",
     "JS_RS_ADD_YEAR_VARIABLE": "Αντιγράψτε τη μεταβλητή για το έτος στο πρόθεμα ή στο επίθεμα",
-    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
+    "JS_RS_ADD_MONTH_VARIABLE": "Αντιγράψτε τη μηνιαία τιμή σε πρόθεμα ή επίθεμα",
     "JS_RS_ADD_DAY_VARIABLE": "Αντιγράψτε τη μεταβλητή για την ημέρα στο πρόθεμα ή στο επίθεμα",
     "JS_PICKLIST_TOO_MANY": "Η αρίθμηση μπορεί να περιέχει μόνο μία μεταβλητή λίστας επιλογών"
   }

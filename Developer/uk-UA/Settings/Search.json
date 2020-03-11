@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
+    "Search Configuration": "Налаштування пошуку",
+    "Search Setup": "Мітки та пошук",
+    "Search": "Налаштування пошуку",
     "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
+    "Module": "Модуль",
+    "Table": "Таблиця",
     "LabelFields": "Main columns for a module (including a label for uitype 10)",
     "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Tools": "Дія",
+    "Update labels": "Оновити Мітки",
+    "LBL_SAVE_CHANGES_SEARCHING": "Зміни збережено.",
+    "LBL_SAVE_CHANGES_LABLE": "Зміни в конфігурації були збережені, ви повинні оновити цей модуль, щоб побачити зміни в системі.",
+    "Update has been completed": "Вибраний модуль успішно оновлено. Зміни будуть реалізовані через CRON. Час оновлення міток залежить від кількості даних.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Зберегти послідовність модулів",
+    "LBL_TURN_ON": "Увімкнути",
+    "LBL_TURN_OFF": "Вимкнути"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "Виконується оновлення…",
+    "Update labels": "Оновити",
+    "JS_MODULES_SEQUENCE_UPDATED": "Оновлено послідовність модулів",
+    "JS_TURN_ON": "Увімкнути",
+    "JS_TURN_OFF": "Вимкнути"
   }
 }

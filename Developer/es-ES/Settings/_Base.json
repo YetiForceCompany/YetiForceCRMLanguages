@@ -372,7 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Falta el archivo de licencia",
     "LBL_SUGAR_DESCRIPTION": "Vtiger estaba basado en Sugar CRM. Actualmente, solo quedan varios archivos Sugar en YetiForce.",
     "LBL_VTIGER_DESCRIPTION": "Aproximadamente el 30% del código es el original de Vtiger. El código restante ha sido reescrito y ampliado.",
-    "LBL_CHAT_SOUND_DESCRIPTION": "Configuración de sonidos",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Sonido de chat",
     "LBL_YETIFORCE_SHOP": "Tienda",
     "LBL_YETIFORCE_ISSUES": "Soporte gratuito",
     "LBL_YETIFORCE_ASSISTANCE": "Soporte pagado",
@@ -382,7 +382,7 @@
     "LBL_SEARCH_PLACEHOLDER": "Buscar...",
     "LBL_VULNERABILITIES": "Vulnerabilidades",
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista de bibliotecas de vulnerabilidades",
-    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Ajustes de secuencia avanzados",
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Ajustes de secuencia de lista de selección",
     "LBL_ADVANCED_RECORD_NUMBERING": "Registro de numeración avanzada",
     "LBL_PREFIX": "Prefijo"
   },
@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Error al agregar el campo",
     "JS_NOTIFY_COPY_TEXT": "Variable copiada al portapapeles",
     "JS_RS_ADD_YEAR_VARIABLE": "Copiar variable de año a prefijo o sufijo",
-    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
+    "JS_RS_ADD_MONTH_VARIABLE": "Copiar variable de mes en prefijo o sufijo",
     "JS_RS_ADD_DAY_VARIABLE": "Copiar variable día al prefijo o sufijo",
     "JS_PICKLIST_TOO_MANY": "La numeración puede contener únicamente una variable de la lista de selección"
   }

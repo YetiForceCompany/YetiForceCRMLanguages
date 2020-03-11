@@ -29,6 +29,6 @@
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "تم حفظ التغييرات"
   }
 }

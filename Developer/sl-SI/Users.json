@@ -338,6 +338,7 @@
     "LBL_YOUR_PASSWORD_WILL_EXPIRE": "Vaše geslo bo poteklo v %s dneh in sistem bo blokirati dostop do vašega računa. Priporočamo, da čim prej spremenite geslo.",
     "LBL_CHANGING_PASSWORD_OF_ANOTHER_USER": "S spremembo gesla drugega uporabnika ga prisilite, da ob prvem vpisu spremeni geslo.",
     "LBL_FORCE_PASSWORD_CHANGE_ALERT": "Vaše geslo je potrebno spremeniti. Če želite še naprej uporabljati sistem, vnesite novo geslo.",
+    "LBL_PWNED_PASSWORD_CHANGE_ALERT": "Your password was found in the stolen passwords database. We recommend changing the password.",
     "LBL_NEW_PASSWORD_CRITERIA": "Novo geslo mora ustrezati naslednjim merilom:",
     "LBL_USERS_NEED_CHANGE_PASSWORD": "Uporabniki, ki morajo spremeniti svoje geslo",
     "LBL_NOT_CHANGE_PASS_AUTH_EXTERNAL_SYSTEM": "Vi ne morete spremeniti gesla, ker uporabnik uporablja pooblastilo na drugem zunanjem sistemu",
@@ -373,6 +374,7 @@
     "LBL_VALIDATE_PASSWORD": "Verify if the password complies with the criteria set by the admin.",
     "LBL_USER_INTEGRATION": "Integracija",
     "LBL_USER_AUTOMATION": "Avtomatizacija",
+    "LBL_USER_PASSWORD_IS_OK": "Your password complies with the system requirements.",
     "FL_MAIL_SCANNER_ACTIONS": "Ukrepi za skeniranje e-pošte",
     "FL_MAIL_SCANNER_FIELDS": "Polja za skeniranje e-pošte"
   },

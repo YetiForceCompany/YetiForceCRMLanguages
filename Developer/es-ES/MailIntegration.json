@@ -1,23 +1,23 @@
 {
   "php": {
-    "MailIntegration": "Panel de integración de correo electrónico",
-    "SINGLE_MailIntegration": "Panel de integración de correo electrónico",
+    "MailIntegration": "Panel de integración de correo",
+    "SINGLE_MailIntegration": "Panel de integración de correo",
     "LBL_MAIL_NOT_FOUND_IN_DB": "Correo no encontrado en la base de datos.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Importar correo manualmente",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importar correo electrónico manualmente a su CRM, esto le permitirá administrar mejor sus contactos",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importar",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importa un correo electrónico al CRM, te permitirá administrar mejor las relaciones",
     "LBL_SEARCH_EMAIL": "Buscar correo electrónico",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Buscar y copiar correo electrónico",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Buscar y seleccionar destinatario del mensaje",
     "LBL_ADD_CALENDAR": "Añadir evento",
     "LBL_ADD_MODCOMMENTS": "Añadir comentario",
     "LBL_SELECT_RECORD": "Seleccionar registro relacionado",
-    "LBL_ADD_RECORD": "Añadir registro",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Descargar el archivo de instalación del connector de Outlook"
+    "LBL_ADD_RECORD": "Añadir registro relacionado",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Descarga el archivo de instalación del complemento de Outlook"
   },
   "js": {
-    "JS_ERROR": "Mensaje YetiForce: error al instalar el complemento, por favor contacte al administrador del sistema.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "Mensaje YetiForce: Se ha eliminado la relación con éxito.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "Mensaje YetiForce: Se agregó la relación con éxito.",
-    "JS_IMPORT": "Mensaje YetiForce: correo electrónico importado correctamente.",
+    "JS_ERROR": "Mensaje de YetiForce: error de complemento, comuníquese con el administrador del sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Mensaje de YetiForce: Relación eliminada con éxito.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Mensaje de YetiForce: Relación agregada con éxito.",
+    "JS_IMPORT": "Mensaje de YetiForce: correo electrónico importado con éxito.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

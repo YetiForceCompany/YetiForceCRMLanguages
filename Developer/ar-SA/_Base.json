@@ -1373,7 +1373,7 @@
     "FL_SUM_TIME_SUBORDINATE": "Total time [h] in hierarchy",
     "BTN_COPY_TO_CLIPBOARD": "انسخ إلى الحافظة",
     "LBL_HAS_CHANGED": "تغيير",
-    "LBL_HAS_CHANGED_TO": "changed to",
+    "LBL_HAS_CHANGED_TO": "غُيرت إلى",
     "LBL_IS_RECORD_OPEN": "سجل الخمول",
     "LBL_IS_RECORD_CLOSED": "المتجر مغلق حالياً",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "دفعت وظيفة تم تفعيلها دون شراء المنتج المناسب في المتجر. كنت تنتهك شروط ترخيص البرنامج.",

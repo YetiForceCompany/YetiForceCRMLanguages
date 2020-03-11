@@ -43,7 +43,7 @@
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Σφάλμα κατά τη σύνδεση με τον απομακρυσμένο Server",
     "ERR_NO_INTERNET_CONNECTION": "Χωρίς σύνδεση στο διαδίκτυο",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Το αντικείμενο πρέπει να έχει μια διεπαφή %s",
-    "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s"
+    "ERR_CLASS_NOT_FOUND": "Η κλάση %s δεν βρέθηκε",
+    "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s"
   }
 }

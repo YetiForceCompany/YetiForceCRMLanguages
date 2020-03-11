@@ -338,6 +338,7 @@
     "LBL_YOUR_PASSWORD_WILL_EXPIRE": "Użytkowniku, Twoje hasło straci ważność za %s dni, po tym czasie system zablokuje dostęp do Twojego konta. Zalecamy szybką zmianę hasła.",
     "LBL_CHANGING_PASSWORD_OF_ANOTHER_USER": "Zmieniając hasło innego użytkownika wymuszasz na nim zmianę hasła podczas pierwszego zalogowania.",
     "LBL_FORCE_PASSWORD_CHANGE_ALERT": "Użytkowniku twoje hasło musi zostać zmienione. Aby kontynuować pracę w systemie musisz wprowadzić nowe hasło.",
+    "LBL_PWNED_PASSWORD_CHANGE_ALERT": "Twoje hasło zostało odnalezione w bazie danych wykradzionych haseł. Zalecamy zmianę hasła.",
     "LBL_NEW_PASSWORD_CRITERIA": "Nowe hasło musi spełniać następujące kryteria:",
     "LBL_USERS_NEED_CHANGE_PASSWORD": "Użytkownicy którzy muszą zmienić hasło",
     "LBL_NOT_CHANGE_PASS_AUTH_EXTERNAL_SYSTEM": "Nie mozna zmienić hasła, użytkownik używa autoryzacji w systemie zewnętrznym.",
@@ -373,6 +374,7 @@
     "LBL_VALIDATE_PASSWORD": "Sprawdź, czy hasło jest zgodne z kryteriami ustawionymi przez administratora.",
     "LBL_USER_INTEGRATION": "Integracja",
     "LBL_USER_AUTOMATION": "Automatyzacja",
+    "LBL_USER_PASSWORD_IS_OK": "Twoje hasło jest zgodne z wymaganiami systemu.",
     "FL_MAIL_SCANNER_ACTIONS": "Akcja skanera poczty",
     "FL_MAIL_SCANNER_FIELDS": "Pola skanera poczty"
   },

@@ -39,7 +39,7 @@
     "LBL_ADDITIONAL_HEADERS": "Additional headers",
     "LBL_SAVE_SENT_MESSAGE": "Save the sent message",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Los correos electrónicos se enviarán individualmente para cada destinatario",
-    "LBL_UNSUBSCRIBE_INFO": "List-Unsubscribe es un encabezamiento que Usted puede agregar opcionalmente en sus correos electrónicos. Este permite a sus suscriptores ver un botón que pueden dar click si desean no recibir más sus correos electrónicos automáticamente. La lista de direcciones se colocan en el encabezamiento entre paréntesis angulares <...>\nEjemplo: mailto:newsletter@yetiforce.com = <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Ejemplos de parámetros adicionales (Json):\n{\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n }\n}"
+    "LBL_UNSUBSCRIBE_INFO": "El encabezado List-Unsubscribe es un encabezado de correo electrónico opcional que puede agregar a sus mensajes. Permite a los suscriptores ver un botón para darse de baja en el que pueden hacer clic si desean dejar de recibir automáticamente su correo electrónico. La lista de parámetros que se colocarán en el encabezado entre paréntesis angulares, p. <...>\nejemplo: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
+    "LBL_OPTIONS_INFO": "Parámetros adicionales de ejemplo (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

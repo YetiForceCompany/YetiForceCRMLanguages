@@ -4,7 +4,7 @@
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
     "LBL_MULTIOWNER_ALLOCATION": "اختصاص کاربران به اشتراک گذاشته شده",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
+    "LBL_SORTING_SETTINGS_WORNING": "هشدار!\n پیکربندی فقط هنگامی فعال می شود که در پنل نقش‌ها آن فعال کنید",
     "LBL_ADD_PANEL_TO_MODULE": "اضافه کردن تخصیص به ماژول",
     "LBL_SELECT_MODULE": "انتخاب ماژول",
     "LBL_GO_TO_PANEL": "برو به پنل",

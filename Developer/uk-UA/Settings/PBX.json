@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NAME": "Name",
-    "LBL_TYPE": "Type",
-    "LBL_DEFAULT": "Default",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CREATE_RECORD": "Add telephone exchange",
-    "LBL_EDIT_RECORD": "Edit telephone exchange",
-    "LBL_URL": "Server address",
-    "LBL_USERNAME": "Login",
-    "LBL_PASSWORD": "Password",
-    "LBL_SECRET_KEY": "Secret Key",
-    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+    "LBL_NAME": "Назва",
+    "LBL_TYPE": "Тип",
+    "LBL_DEFAULT": "За замовчуванням",
+    "LBL_ADD_RECORD": "Додати запис",
+    "LBL_CREATE_RECORD": "Додати телефонну станцію",
+    "LBL_EDIT_RECORD": "Редагувати телефонну станцію",
+    "LBL_URL": "Адреса сервера",
+    "LBL_USERNAME": "Логін",
+    "LBL_PASSWORD": "Пароль",
+    "LBL_SECRET_KEY": "Секретний ключ",
+    "LBL_OUTBOUND_CONTEXT": "Вихідний контекст"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "Зміни збережено"
   }
 }

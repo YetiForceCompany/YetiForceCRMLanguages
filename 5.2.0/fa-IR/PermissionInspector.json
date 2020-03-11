@@ -24,6 +24,6 @@
     "SEC_MODULE_PERMISSIONS_NO": "بدون مجوز برای ماژول ، کاربر هیچ دسترسی به ماژول ندارد",
     "SEC_MODULE_NO_RIGHTS_TO_ACTION": "مجوزی برای انجام اقدامات در ماژول وجود ندارد",
     "SEC_RECORD_BY_SHARING_NO": "هیچ مجوزی بر اساس قوانین دسترسی (دسترسی ماژول)",
-    "SEC_MODULE_NO_ACTION_TOOL": "No permissions for action - Action not found"
+    "SEC_MODULE_NO_ACTION_TOOL": "بدون مجوز برای عملیات - عملیاتی یافت نشد"
   }
 }

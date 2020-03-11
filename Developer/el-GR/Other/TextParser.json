@@ -58,14 +58,14 @@
     "LBL_INVENTORY_TABLE": "Πίνακας προϊοντων/υπηρεσιών με προσαρμοσμένες προκαθορισμένες στήλες",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Πίνακας προϊόντων/υπηρεσιών με δυναμικές στήλες",
     "LBL_INVENTORY_VARIABLES": "Πρόσθετες μεταβλητές προϊόντων/υπηρεσιών",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable",
-    "LBL_REPORT_NEW_RECORDS": "New records in given module",
-    "LBL_REPORT_SSALESPROCESSES": "Opportunity records",
-    "LBL_REPORT_CALENDAR": "Calendar records",
-    "LBL_REPORT_OVERDUE": "Overdue records",
-    "LBL_USER_RECORD_DUPLICATE_LIST": "User duplicated records list",
-    "LBL_USER_RECORD_FILTERED_LIST": "User filtered records list",
-    "LBL_SUMMARY_FIELDS": "List of fields visible in the summary"
+    "LBL_TEXT_PARSER_RECORDS_LIST": "Λίστα εγγραφών",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Μεταβλητές χρήστη",
+    "LBL_REPORT_NEW_RECORDS": "Νέες εγγραφές σε αυτό το module",
+    "LBL_REPORT_SSALESPROCESSES": "Εγγραφές ευκαιριών",
+    "LBL_REPORT_CALENDAR": "Εγγραφές ημερολογίου",
+    "LBL_REPORT_OVERDUE": "Εκπρόθεσμες εγγραφές",
+    "LBL_USER_RECORD_DUPLICATE_LIST": "Λίστα διπλότυπων εγγράφων από το χρήστη",
+    "LBL_USER_RECORD_FILTERED_LIST": "Λίστα φίλτρων από τον χρήστη",
+    "LBL_SUMMARY_FIELDS": "Λίστα πεδίων που φαίνονται στην περίληψη"
   }
 }

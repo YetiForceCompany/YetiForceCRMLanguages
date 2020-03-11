@@ -78,6 +78,6 @@
     "failed": "Registros fallidos",
     "LBL_SELECT_FILE": "Seleccionar fichero para importar",
     "LBL_MERGE_TYPE_INFO": "Saltar: Los registros existentes se omiten y no actualizados.\n\nSobrescribir: los registros existentes se sobrescribirán con los datos de archivo o valores predeterminados se llenan si los valores requeridos en el registro y el archivo están vacíos. Si no como sea necesario, los valores se sobrescriben en el registro con valores vacíos desde el archivo. \n\nFusionar: valores de registros se sobrescriben con los valores del archivo si valores del archivo no están vacíos (sin embargo, si están vacías, los valores del registro se guardan). \n\nRellenar: sólo campos vacíos del registro se actualizan. No se sobrescriben los valores del campo si ya existe un valor existente en el registro.",
-    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "El archivo importado tiene una codificación distinta de la que fue seleccionada (%s)"
+    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "El archivo importado tiene una codificación diferente a la seleccionada (%s)"
   }
 }

@@ -13,7 +13,10 @@
     "LBL_COORDINATES": "Coordinate",
     "LBL_COORDINATES_INFO_1": "Seleziona il server da utilizzare per scaricare le coordinate geografiche, CRON aggiornerà le coordinate per i campi di indirizzo. Presta attenzione ai limiti del fornitore, il sistema invierà frequentemente richieste ai server. Sii consapevole del fatto che i server gratuiti hanno grandi limiti e tu condividi i tuoi dati con essi, scegli sempre server attendibili.",
     "LBL_COORDINATES_INFO_2": "Per aggiungere altri server, modificare la variabile $coordinatesServers nel file %s. I nomi dei server disponibili pubblicamente sono disponibili su:",
-    "LBL_COORDINATES_DRIVERS": "Driver disponibili nel sistema",
-    "LBL_PROVIDER_ACTIVE": "Attivo"
+    "LBL_AVAILABLE_DRIVERS": "Driver disponibili nel sistema",
+    "LBL_PROVIDER_ACTIVE": "Attivo",
+    "LBL_ROUTING": "Inoltro (Routing)",
+    "LBL_ROUTING_INFO_1": "Selezionare il server che deve essere utilizzato per mappare i percorsi per i veicoli, il sistema fornirà le coordinate dei punti per i quali si desidera mappare il percorso.",
+    "LBL_ROUTING_INFO_2": "Per aggiungere altri server, modificare la variabile $routingServers nel file %s. I nomi dei server disponibili pubblicamente sono disponibili su:"
   }
 }

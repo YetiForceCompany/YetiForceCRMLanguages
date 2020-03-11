@@ -338,6 +338,7 @@
     "LBL_YOUR_PASSWORD_WILL_EXPIRE": "Password anda akan berakhir dalam %s hari dan sistem akan memblokir akses ke akun anda. Disarankan untuk mengubah password segera mungkin.",
     "LBL_CHANGING_PASSWORD_OF_ANOTHER_USER": "Dengan mengubah kata sandi pengguna lain, anda memaksa dia untuk mengubah kata sandi setelah login pertama.",
     "LBL_FORCE_PASSWORD_CHANGE_ALERT": "Kata sandi harus diubah. Untuk terus menggunakan sistem silahkan masukkan kata sandi baru.",
+    "LBL_PWNED_PASSWORD_CHANGE_ALERT": "Your password was found in the stolen passwords database. We recommend changing the password.",
     "LBL_NEW_PASSWORD_CRITERIA": "Password baru harus memenuhi kriteria sebagai berikut:",
     "LBL_USERS_NEED_CHANGE_PASSWORD": "Para pengguna yang harus mengubah kata sandi mereka",
     "LBL_NOT_CHANGE_PASS_AUTH_EXTERNAL_SYSTEM": "Anda tidak bisa mengubah kata sandi, pengguna menggunakan otorisasi pada sistem eksternal",
@@ -373,6 +374,7 @@
     "LBL_VALIDATE_PASSWORD": "Verify if the password complies with the criteria set by the admin.",
     "LBL_USER_INTEGRATION": "Integration",
     "LBL_USER_AUTOMATION": "Automation",
+    "LBL_USER_PASSWORD_IS_OK": "Your password complies with the system requirements.",
     "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
     "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
   },

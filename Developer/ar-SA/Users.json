@@ -338,6 +338,7 @@
     "LBL_YOUR_PASSWORD_WILL_EXPIRE": "كلمة المرور الخاصة بك سوف تنتهي في %s أيام نظام منع الوصول إلى الحساب الخاص بك. فمن المستحسن أن تغيير كلمة المرور في أقرب وقت ممكن.",
     "LBL_CHANGING_PASSWORD_OF_ANOTHER_USER": "عن طريق تغيير المستخدم كلمة المرور التي تجبره على تغيير كلمة المرور عند تسجيل الدخول الأول.",
     "LBL_FORCE_PASSWORD_CHANGE_ALERT": "كلمة السر الخاصة بك يجب أن تتغير. الاستمرار في استخدام النظام يرجى إدخال كلمة مرور جديدة.",
+    "LBL_PWNED_PASSWORD_CHANGE_ALERT": "Your password was found in the stolen passwords database. We recommend changing the password.",
     "LBL_NEW_PASSWORD_CRITERIA": "كلمة المرور الجديدة يجب أن تستوفي المعايير التالية:",
     "LBL_USERS_NEED_CHANGE_PASSWORD": "المستخدمين الذين يجب تغيير كلمات المرور الخاصة بهم",
     "LBL_NOT_CHANGE_PASS_AUTH_EXTERNAL_SYSTEM": "لا يمكنك تغيير كلمة المرور, المستخدم يستخدم إذن على نظام خارجي",
@@ -373,6 +374,7 @@
     "LBL_VALIDATE_PASSWORD": "Verify if the password complies with the criteria set by the admin.",
     "LBL_USER_INTEGRATION": "Integration",
     "LBL_USER_AUTOMATION": "Automation",
+    "LBL_USER_PASSWORD_IS_OK": "Your password complies with the system requirements.",
     "FL_MAIL_SCANNER_ACTIONS": "Mail scanner actions",
     "FL_MAIL_SCANNER_FIELDS": "Mail scanner fields"
   },

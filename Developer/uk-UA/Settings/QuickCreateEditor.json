@@ -1,12 +1,12 @@
 {
   "php": {
-    "QuickCreateEditor": "Quick Create Editor",
-    "LBL_QUICK_CREATE_EDITOR": "Fields – Quick Create",
-    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
-    "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "QuickCreateEditor": "Редактор швидкого створення",
+    "LBL_QUICK_CREATE_EDITOR": "Поля - Швидке створення",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Модуль, який дозволяє змінювати макет полів у вікні швидкого створення",
+    "LBL_SEQUENCE": "Послідовність полів",
+    "LBL_SAVE_FIELD_SEQUENCE": "Зберегти послідовність полів"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "Оновлено послідовність полів"
   }
 }

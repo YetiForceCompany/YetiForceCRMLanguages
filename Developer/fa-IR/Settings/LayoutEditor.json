@@ -79,7 +79,7 @@
     "Tree": "زمینه از درختواره",
     "CategoryMultipicklist": "فیلد درختواره (چند گزینه ای)",
     "LBL_FIELD_MASK": "ماسک فیلد",
-    "LBL_FIELD_MASK_INFO": "Default masking definitions \r\n9: numeric\r\na: alphabetically\r\n*: Alphanumeric\r\n\r\nExample:\r\n(99) 9999-9999\r\n+48 999-999-999\r\naaa_999_aaa\r\ndd/mm/yyyy",
+    "LBL_FIELD_MASK_INFO": "تعاریف نقص پیش فرض\n9: numeric\na: alphabetically\n*: Alphanumeric\n\nمثال:\n(99) 9999-9999\n+48 999-999-999\naaa_999_aaa\ndd/mm/yyyy",
     "MultiReferenceValue": "مقادیری از ماژول مرتبط",
     "LBL_MULTI_REFERENCE_VALUE_MODULES": "مازول مرتبط",
     "LBL_MULTI_REFERENCE_VALUE_FIELDS": "فیلد مرتبط",

@@ -9,6 +9,6 @@
     "LBL_TOTP": "Time-based One-time Password algorithm",
     "LBL_TOTP_AUTHY_MODE_DESC": "Επιλέξτε λειτουργίες ελέγχου ταυτότητας",
     "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Μέγιστος αριθμός αποτυχημένων προσπαθειών εισαγωγής τον κωδικού επαλήθευσης",
-    "LBL_TOTP_WHITE_LIST": "IP white list"
+    "LBL_TOTP_WHITE_LIST": "Εγκεκριμένες IP"
   }
 }

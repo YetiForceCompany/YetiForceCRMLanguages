@@ -25,11 +25,11 @@
     "LBL_CARS": "Coches",
     "PLL_DRAFT": "Borrador",
     "PLL_CANCELLED": "Cancelado",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "Work days"
+    "LBL_SELECT_USER_CALENDAR": "Seleccionar Calendario de Usuario",
+    "LBL_SELECT_GROUP_CALENDAR": "Seleccionar calendario de grupo",
+    "LBL_USER_NAME": "Nombre de usuario",
+    "LBL_GROUP_NAME": "Nombre del grupo",
+    "LBL_WORK_DAYS": "Días laborales"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caracteres permitidos: [0-9]",

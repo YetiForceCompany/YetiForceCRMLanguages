@@ -95,10 +95,10 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Λίστα ελέγχου χρόνου με πρόσθετες πληροφορίες σχετικά με τους χρήστες",
     "LBL_TYPE": "Τύπος δραστηριότητας",
     "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
+    "LBL_SELECT_USER_CALENDAR": "Επιλέξτε ημερολόγιο χρήστη",
+    "LBL_SELECT_GROUP_CALENDAR": "Επιλέξτε ημερολόγιο ομάδας",
+    "LBL_USER_NAME": "Όνομα χρήστη",
+    "LBL_GROUP_NAME": "Όνομα ομάδας",
     "LBL_WORK_DAYS": "Εργάσιμες μέρες"
   },
   "js": {
