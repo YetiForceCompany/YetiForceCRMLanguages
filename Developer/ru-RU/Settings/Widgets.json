@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "Переключатель может быть найден в заголовке виджета.",
     "HistoryRelation": "График",
     "CountRecords": "Количество записей",
-    "LBL_LIST_WITH_SUMMARY": "Список с итогом"
+    "LBL_LIST_WITH_SUMMARY": "Список с итогом",
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
   },
   "js": {
     "Loading data": "Загрузка...",

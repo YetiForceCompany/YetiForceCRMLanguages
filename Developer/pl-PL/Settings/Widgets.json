@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "Przełącznik (switch) umieszczony w nagłówku widgetu.",
     "HistoryRelation": "Oś czasu",
     "CountRecords": "Ilość rekordów",
-    "LBL_LIST_WITH_SUMMARY": "Lista z podsumowaniem"
+    "LBL_LIST_WITH_SUMMARY": "Lista z podsumowaniem",
+    "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

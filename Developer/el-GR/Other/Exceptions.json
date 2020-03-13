@@ -44,6 +44,7 @@
     "ERR_NO_INTERNET_CONNECTION": "Χωρίς σύνδεση στο διαδίκτυο",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Το αντικείμενο πρέπει να έχει μια διεπαφή %s",
     "ERR_CLASS_NOT_FOUND": "Η κλάση %s δεν βρέθηκε",
-    "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s"
+    "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s",
+    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
   }
 }

@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "Перемикач може бути знайдено в заголовку віджета.",
     "HistoryRelation": "Графік",
     "CountRecords": "Кількість записів",
-    "LBL_LIST_WITH_SUMMARY": "Список із зведенням"
+    "LBL_LIST_WITH_SUMMARY": "Список із зведенням",
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
   },
   "js": {
     "Loading data": "Завантаження...",

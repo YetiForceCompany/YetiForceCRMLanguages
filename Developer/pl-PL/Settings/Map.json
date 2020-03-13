@@ -15,7 +15,7 @@
     "LBL_COORDINATES_INFO_2": "Aby dodać dodatkowe serwery, edytuj zmienną $coordinatesServers w pliku %s. Publicznie dostępne serwery współrzędnych są dostępne na:",
     "LBL_AVAILABLE_DRIVERS": "Sterowniki dostępne w systemie",
     "LBL_PROVIDER_ACTIVE": "Aktywny",
-    "LBL_ROUTING": "Routing",
+    "LBL_ROUTING": "Wyznaczanie tras",
     "LBL_ROUTING_INFO_1": "Wybierz serwer, który ma być używany do wyznaczania tras dla pojazdów, system przekaże współrzędne punktów, dla których chcesz wyznaczyć trasę.",
     "LBL_ROUTING_INFO_2": "Aby dodać dodatkowe serwery, edytuj zmienną $routingServers w pliku %s. Publicznie dostępne serwery routingu są dostępne na:"
   }

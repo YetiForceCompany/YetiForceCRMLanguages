@@ -44,6 +44,7 @@
     "ERR_NO_INTERNET_CONNECTION": "Nincs internetkapcsolat",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "A tárgy kell, hogy legyen egy felület %s",
     "ERR_CLASS_NOT_FOUND": "Osztály nem található",
-    "ERR_CLASS_MUST_BE": "Az osztályba %s"
+    "ERR_CLASS_MUST_BE": "Az osztályba %s",
+    "ERR_PAID_FUNCTIONALITY": "%s fizetett funkció, meg kell vásárolni"
   }
 }

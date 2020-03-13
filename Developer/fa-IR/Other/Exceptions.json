@@ -44,6 +44,7 @@
     "ERR_NO_INTERNET_CONNECTION": "اینترنت قطع است",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "شی باید دارای یک رابط باشد %s",
     "ERR_CLASS_NOT_FOUND": "کلاس %s یافت نشد",
-    "ERR_CLASS_MUST_BE": "کلاس باید %s باشد"
+    "ERR_CLASS_MUST_BE": "کلاس باید %s باشد",
+    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
   }
 }

@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "Abilita un bottone bi-valore per ulteriore filtraggio (es. Sì/No, Aperto/Chiuso, ...)",
     "HistoryRelation": "Cronologia",
     "CountRecords": "Numero di record",
-    "LBL_LIST_WITH_SUMMARY": "Elenco con sommario"
+    "LBL_LIST_WITH_SUMMARY": "Elenco con sommario",
+    "LBL_CURRENT_HISTORY_SWITCH": "Corrente/Cronologia"
   },
   "js": {
     "Loading data": "Caricamento ...",

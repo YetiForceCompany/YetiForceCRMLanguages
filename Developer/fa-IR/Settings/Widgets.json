@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "سوئیچ را می توان در هدر ویجت یافت.",
     "HistoryRelation": "نوارزمان",
     "CountRecords": "تعداد رکوردها",
-    "LBL_LIST_WITH_SUMMARY": "لیست همراه با چکیده"
+    "LBL_LIST_WITH_SUMMARY": "لیست همراه با چکیده",
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
   },
   "js": {
     "Loading data": "درحال بارگذاری...",

@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "开关在布局组件的顶端.",
     "HistoryRelation": "时间轴",
     "CountRecords": "记录数量",
-    "LBL_LIST_WITH_SUMMARY": "带有摘要的列表"
+    "LBL_LIST_WITH_SUMMARY": "带有摘要的列表",
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
   },
   "js": {
     "Loading data": "正在加载...",

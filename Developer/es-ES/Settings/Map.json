@@ -12,11 +12,11 @@
     "LBL_DRIVER": "Driver",
     "LBL_COORDINATES": "Coordenadas",
     "LBL_COORDINATES_INFO_1": "Seleccione el servidor que se utilizará para descargar coordenadas geográficas, el Cron actualizará las coordenadas para los campos de dirección. Preste atención a los límites del proveedor, el sistema enviará frecuentemente solicitudes a los servidores. Tenga en cuenta el hecho de que los servidores gratuitos tienen grandes límites y comparte sus datos con ellos, siempre elija servidores de confianza.",
-    "LBL_COORDINATES_INFO_2": "To add additional servers, edit the $coordinatesServers variable in the %s file. Publicly available coordinates servers are available at:",
-    "LBL_AVAILABLE_DRIVERS": "Drivers available in the system",
+    "LBL_COORDINATES_INFO_2": "Para agregar servidores adicionales, edita la variable $coordinatesServers en el archivo %s. Los servidores de coordenadas disponibles públicamente están disponibles en:",
+    "LBL_AVAILABLE_DRIVERS": "Drivers disponibles en el sistema",
     "LBL_PROVIDER_ACTIVE": "Activo",
-    "LBL_ROUTING": "Routing",
-    "LBL_ROUTING_INFO_1": "Select the server to be used to map routes for vehicles, the system will provide coordinates of points for which you want to map the route.",
-    "LBL_ROUTING_INFO_2": "To add additional servers, edit the $routingServers variable in the %s file. Publicly available routing servers are available at:"
+    "LBL_ROUTING": "Enrutamiento",
+    "LBL_ROUTING_INFO_1": "Seleccione el servidor que se utilizará para mapear rutas para vehículos, el sistema proporcionará coordenadas de puntos para los cuales desea mapear la ruta.",
+    "LBL_ROUTING_INFO_2": "Para agregar servidores adicionales, edita la variable $routingServers en el archivo %s. Los servidores de enrutamiento disponibles públicamente están disponibles en:"
   }
 }

@@ -12,11 +12,11 @@
     "LBL_DRIVER": "Illesztõprogram",
     "LBL_COORDINATES": "Koordináták",
     "LBL_COORDINATES_INFO_1": "Válassza ki a földrajzi koordináták letöltéséhez használandó szervert. A Cron frissíti a címmezők koordinátáit. Vigyázzon a szolgáltató korlátozására, a rendszer gyakran kéréseket küld a kiszolgálóknak. Légy tudatában annak a ténynek, hogy az ingyenes kiszolgálóknak nagy korlátai vannak, és megosztja velük az adatait. Mindig válasszon megbízható kiszolgálókat.",
-    "LBL_COORDINATES_INFO_2": "To add additional servers, edit the $coordinatesServers variable in the %s file. Publicly available coordinates servers are available at:",
-    "LBL_AVAILABLE_DRIVERS": "Drivers available in the system",
+    "LBL_COORDINATES_INFO_2": "További kiszolgálók hozzáadásához módosítsa a $coordinatesServers a %s fájlban. A nyilvánosan elérhető térkép-kiszolgálók a következő címen érhetők el:",
+    "LBL_AVAILABLE_DRIVERS": "Illesztőprogramok érhetők el a rendszerben",
     "LBL_PROVIDER_ACTIVE": "Aktív",
-    "LBL_ROUTING": "Routing",
-    "LBL_ROUTING_INFO_1": "Select the server to be used to map routes for vehicles, the system will provide coordinates of points for which you want to map the route.",
-    "LBL_ROUTING_INFO_2": "To add additional servers, edit the $routingServers variable in the %s file. Publicly available routing servers are available at:"
+    "LBL_ROUTING": "Útvonal",
+    "LBL_ROUTING_INFO_1": "Válassza ki azt a szervert, amelyet a járművek útvonalainak tervezéséhez használ. A rendszer megadja azon pontok koordinátáit, amelyekhez az útvonalat le szeretné illeszteni.",
+    "LBL_ROUTING_INFO_2": "További kiszolgálók hozzáadásához módosítsa a $routingServers a %s fájlban. A nyilvánosan elérhető térkép-kiszolgálók a következő címen érhetők el:"
   }
 }

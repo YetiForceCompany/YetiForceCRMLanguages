@@ -58,7 +58,8 @@
     "LBL_SHITCH_HEADER_INFO": "Schalter befindet sich im Widget's Header.",
     "HistoryRelation": "Zeitlinie",
     "CountRecords": "Anzahl Datensätze",
-    "LBL_LIST_WITH_SUMMARY": "Liste mit der Zusammenfassung"
+    "LBL_LIST_WITH_SUMMARY": "Liste mit der Zusammenfassung",
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
   },
   "js": {
     "Loading data": "Laden...",

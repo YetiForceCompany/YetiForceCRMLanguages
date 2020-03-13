@@ -36,7 +36,7 @@
     "LBL_NUMBER_SEARCH_RESULTS": "Number of search results"
   },
   "js": {
-    "Invalid API key": "Invalid API key",
+    "Invalid API key": "Невірний ключ API",
     "JS_ERROR": "Помилка",
     "JS_LOADING_PLEASE_WAIT": "Завантаження. Зачекайте, будь ласка.",
     "JS_WRONG_NUMBER": "Characters allowed: digits greater than 1."

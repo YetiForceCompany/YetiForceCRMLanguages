@@ -44,6 +44,7 @@
     "ERR_NO_INTERNET_CONNECTION": "Brak połączenia z internetem",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Obiekt musi mieć interfejs %s",
     "ERR_CLASS_NOT_FOUND": "Nie odnaleziono klasy %s",
-    "ERR_CLASS_MUST_BE": "Klasa musi być %s"
+    "ERR_CLASS_MUST_BE": "Klasa musi być %s",
+    "ERR_PAID_FUNCTIONALITY": "Funkcjonalność płatna %s, wymaga dokonania płatności."
   }
 }

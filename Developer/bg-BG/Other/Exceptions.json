@@ -44,6 +44,7 @@
     "ERR_NO_INTERNET_CONNECTION": "Няма интернет връзка",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Обектът трябва да има интерфейс %s",
     "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s"
+    "ERR_CLASS_MUST_BE": "Class must be %s",
+    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
   }
 }
