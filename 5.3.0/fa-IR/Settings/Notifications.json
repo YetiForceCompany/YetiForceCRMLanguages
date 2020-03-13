@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "استثناها",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "پیکربندی - اطلاعیه‌ها",
+    "LBL_ADD_MEMBERS": "افزودن کاربران به اطلاعیه‌ها",
+    "LBL_SELECT_MEMBERS": "انتخاب کاربران برای اطلاعیه‌ها",
+    "LBL_MEMBERS": "کاربران",
+    "LBL_LOCK": "قفل",
+    "LBL_NOTICE_CONFIG_WARNING": "ماژول نگهبان در پیکربندی فعال شده است. برای مدیریت اطلاعیه‌ها آن را غیر فعال نمایید."
+  },
+  "js": {}
+}

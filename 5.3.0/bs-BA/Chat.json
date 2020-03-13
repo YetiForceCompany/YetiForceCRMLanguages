@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Favoriti",
+    "LBL_ROOM_GROUP": "Grupna soba",
+    "LBL_ROOM_GLOBAL": "Globalna soba",
+    "LBL_MESSAGE": "Ovdje unesite svoju poruku. Pritisnite SHIFT + ENTER da biste dodali novi red.",
+    "LBL_PARTICIPANTS": "Učesnici",
+    "LBL_SEARCH_PARTICIPANTS": "Pretražite učesnike",
+    "LBL_SEARCH_MESSAGE": "Pretražite poruke ...",
+    "LBL_CREATE_CHAT_ROOM": "Stvorite chat sobu",
+    "LBL_REMOVE_FROM_FAVORITES": "Ukloni iz favorita",
+    "LBL_ADD_FROM_FAVORITES": "Dodaj u favorite",
+    "LBL_EARLIER": "Ranije",
+    "LBL_NOTIFICATION": "Chat obavijesti",
+    "LBL_SOUND_OFF": "Zvuk isključen",
+    "LBL_SOUND_ON": "Zvuk uključen",
+    "LBL_HISTORY_CHAT": "Chat istorija",
+    "LBL_MORE": "više",
+    "LBL_HIDE": "sakrij",
+    "LBL_NO_MESSAGES": "Nema poruka",
+    "LBL_UNREAD": "Nepročitano",
+    "LBL_ENTER": "Omogućuje \/ onemogućuje slanje poruka nakon pritiska na ENTER",
+    "LBL_DETAIL_VIEW": "Detaljan prikaz",
+    "LBL_ROOM_DESCRIPTION_CRM": "Popis soba sa zapisima koji su označeni kao favoriti",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Popis soba za chat s grupama korisnika",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Popis chat soba vidljiv svim korisnicima",
+    "LBL_CHAT_USER_SWITCHED": "Chat je neaktivan ako ste prešli na drugog korisnika.",
+    "LBL_CHAT_NEW_MESSAGE": "Nova poruka"
+  }
+}

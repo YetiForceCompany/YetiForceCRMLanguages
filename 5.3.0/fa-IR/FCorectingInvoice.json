@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "اصلاح فاکتورها",
+    "SINGLE_FCorectingInvoice": "فاکتور اصلاحیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_INVOICE_ADDRESS": "نشانی فاکتور",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "نشانی تحویل",
+    "FL_SUBJECT": "موضوع",
+    "FL_PAYMENT_DATE": "تاریخ سررسید",
+    "FL_SALE_DATE": "تاریخ فروش",
+    "FL_FORM_PAYMENT": "روش پرداخت",
+    "FL_BANK_ACCOUNT": "شماره حساب بانکی",
+    "FL_NUMBER": "شماره فاکتور",
+    "FL_ACCOUNT": "حساب",
+    "FL_TOTAL": "خالص",
+    "FL_GROSS": "ناخالص",
+    "FL_STATUS": "وضعیت",
+    "PLL_CASH": "نقدی",
+    "PLL_TRANSFER": "انتقال بانکی",
+    "PLL_WIRE_TRANSFER": "انتقال الکترونیکی",
+    "LBL_YEAR": "سال",
+    "FL_INVOICE": "فاکتور",
+    "LBL_COMMENTS": "توضیحات",
+    "FL_EXTERNAL_COMMENT": "توضیحات خارجی",
+    "FL_INTERNAL_COMMENT": "توضیحات داخلی",
+    "LBL_BEFORE_CORRECTION": "پیش از اصلاح",
+    "LBL_AFTER_CORRECTION": "پس از اصلاح",
+    "LBL_CHOOSE_INVOICE": "انتخاب فاکتور‌برای اصلاح",
+    "LBL_COPY_FROM_INVOICE": "نسخه‌برداری از فاکتور اولیه",
+    "LBL_INVOICE_INFO": "فیلدهای فاکتور اولیه - قبل از اصلاح.",
+    "LBL_AFTER_INVOICE_INFO": "چگونگی نحوه به نمایش در آمدن فاکتور نهایی بعد از اصلاحیه.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "فیلدهای فاکتور برای اصلاح. همه قسمت ها را از فاکتور اولیه کپی کرده و در صورت لزوم مقادیر را تغییر دهید."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "انتخاب فاکتور‌برای اصلاح"
+  }
+}

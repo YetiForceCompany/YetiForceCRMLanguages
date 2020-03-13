@@ -1,0 +1,17 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Frequentie van herinneringen in dagen, als een gebruiker de wijzigingen niet heeft beoordeeld. Als het veld leeg blijft, wordt de herinnering niet meer getoond.",
+    "Accounts|Account Name": "Dit veld is bedoeld voor de naam van het bedrijf",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Het standaard land gebruikt bij het synchroniseren van het CardDAV telefoonveld. Als de telefoon geen nationaal nummer heeft, zal dit veld gebruikt worden",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Stel altijd geselecteerde element in als standaard module in de globale zoekmachine.",
+    "FL_RESPONSE_RANGE_TIME": "Het aantal minuten dat vóór de reactie is verstreken, berekend op basis van de SLA en werkdagen/uren",
+    "FL_SOLUTION_RANGE_TIME": "Het aantal minuten dat is verstreken om een bepaald record op te lossen, berekend op verschillende statussen afhankelijk van de configuratie en gebaseerd op de SLA en werkdagen/uren",
+    "FL_IDLE_RANGE_TIME": "Het aantal minuten dat een record inactief is, bv. bij het wachten op extra informatie, wordt deze berekend op basis van de SLA en werkdagen/uren",
+    "FL_CLOSING_RANGE_TIME": "Het aantal minuten dat is verstreken tussen het maken van een record en het laatste sluiten van een record, wordt berekend gebaseerd op de SLA en werkdagen/uren",
+    "FL_RESPONSE_DATE_TIME": "Reactie start datum en tijd.",
+    "FL_SOLUTION_DATE_TIME": "Einddatum en tijd oplossen.",
+    "FL_IDLE_DATE_TIME": "Idle einddatum en tijd.",
+    "FL_RESPONSE_EXPECTED": "Gepland / verwachte datum totdat de reactie in de notulen wordt uitgevoerd, deze berekend is op basis van de SLA en werkdagen/uur.",
+    "FL_IDLE_DATE_EXPECTED": "Datum ingepland / verwacht totdat inactieve tijd is toegestaan, deze berekend wordt op basis van de SLA en werkdagen/uren."
+  }
+}

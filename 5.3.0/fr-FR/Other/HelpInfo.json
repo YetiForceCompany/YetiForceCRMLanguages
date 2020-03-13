@@ -1,0 +1,17 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Fréquence des rappels en jours, si un utilisateur n'a pas examiné les modifications. Si le champ reste vide, le rappel ne sera plus affiché.",
+    "Accounts|Account Name": "Ce champ est destiné au nom de l'entreprise",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Le pays par défaut utilisé lors de la synchronisation du champ de téléphone CardDAV. Si le téléphone n'est pas un numéro national, ce champ sera utilisé",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Toujours définir l'élément sélectionné comme module par défaut dans le moteur de recherche global.",
+    "FL_RESPONSE_RANGE_TIME": "Le nombre de minutes qui se sont écoulées avant la réaction, calculé en fonction de la SLA et des jours/heures ouvrables",
+    "FL_SOLUTION_RANGE_TIME": "Le nombre de minutes qui se sont écoulées pour résoudre un dossier donné, calculé sur différents statuts en fonction de la configuration et basé sur la SLA et les jours/heures ouvrables",
+    "FL_IDLE_RANGE_TIME": "Le nombre de minutes qu'un enregistrement donné a été inactif. Par ex. en attente d'informations supplémentaires, il est calculé en fonction du SLA et des jours/heures ouvrables",
+    "FL_CLOSING_RANGE_TIME": "Le nombre de minutes qui se sont écoulées entre la création et la dernière fermeture d'un enregistrement, il est calculé en fonction du SLA et des jours/heures ouvrables",
+    "FL_RESPONSE_DATE_TIME": "Date et heure de début de la réaction.",
+    "FL_SOLUTION_DATE_TIME": "Régler date et heure de clôture.",
+    "FL_IDLE_DATE_TIME": "Date et heure de fermeture.",
+    "FL_RESPONSE_EXPECTED": "Date prévue/prévue jusqu'à ce que la réaction sur dossier soit effectuée, elle est calculée en fonction du SLA et des jours/heures ouvrables.",
+    "FL_IDLE_DATE_EXPECTED": "Date prévue/prévue jusqu'à ce que l'heure d'inactivité soit autorisée, elle est calculée en fonction de la SLA et des jours/heures ouvrables."
+  }
+}

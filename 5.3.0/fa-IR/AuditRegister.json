@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "ثبت بازرسی",
+    "SINGLE_AuditRegister": "ثبت بازرسی",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_NAME": "نام",
+    "FL_LOCATION_REGISTER": "ثبت مکان",
+    "FL_DATASETREGISTER": "ثبت مجموعه داده",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_WAITING_FOR_ACCEPTANCE": "در انتظار برای پذیرش",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_COMPLETED": "کامل شده",
+    "PLL_CANCELLED": "لغو شده",
+    "FL_STATUS": "وضعیت",
+    "FL_TYPE": "نوع",
+    "PLL_INTERNAL": "داخلی",
+    "PLL_EXTERNAL": "خارجی",
+    "LBL_DESCRIPTION": "شرح",
+    "FL_DESCRIPTION": "شرح",
+    "FL_COMMENTS": "نظرات",
+    "LBL_COMMENTS": "نظرات"
+  }
+}

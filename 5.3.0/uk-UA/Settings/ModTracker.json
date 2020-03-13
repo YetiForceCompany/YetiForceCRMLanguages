@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Журнал змін",
+    "LBL_MODTRACKER_SETTINGS": "Модулі – Відстеження Змін",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Управління історією змін в модулях",
+    "LBL_MODULE": "Модуль",
+    "LBL_ACTIVE": "Відновлений запис",
+    "LBL_TOOLS": "Інструменти",
+    "LBL_TRACK_CHANGES_ENABLED": "Відстеження змін включено",
+    "LBL_TRACK_CHANGES_DISABLE": "Відстеження змін вимкнено"
+  }
+}

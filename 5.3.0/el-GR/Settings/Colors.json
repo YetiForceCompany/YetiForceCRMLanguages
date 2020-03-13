@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_COLORS": "Χρώματα",
+    "LBL_COLOR": "Χρώμα",
+    "LBL_PICKLISTS": "Λίστα επιλογών",
+    "LBL_SELECT_PICKLIST": "Επιλέξτε λίστα επιλογών",
+    "LBL_REMOVE_COLOR": "Αφαίρεση χρώματος",
+    "LBL_GENERATE_COLOR": "Δημιουργία χρώματος",
+    "LBL_UPDATE_COLOR": "Αλλαγή χρώματος",
+    "LBL_REMOVED_COLOR": "Χρώμα έχει αφαιρεθεί",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Επεξεργασία χρώματος",
+    "LBL_CALENDAR_COLORS": "Χρώματα ημερολογίου",
+    "LBL_CALENDAR_TYPE": "Τύπος δραστηριότητας",
+    "LBL_SAVE_COLOR": "Χρώμα αποθηκεύτηκε",
+    "Call": "Κλήση",
+    "Task": "Εργασία",
+    "Meeting": "Συνάντηση",
+    "LBL_GROUPS_COLORS": "Χρωμάτα Ομάδων",
+    "LBL_USERS_COLORS": "Χρώματα χρηστών",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Η λειτουργία χρώματος δεν έχει ενεργοποιηθεί για αυτήν την λίστα επιλογών",
+    "LBL_UPDATE_COLOR_COLUMN": "Ενεργοποίηση",
+    "LBL_WARNING": "Προειδοποίηση",
+    "LBL_ITEM": "Τιμή",
+    "LBL_MODULE": "Module",
+    "LBL_GROUP_NAME": "Ομάδα"
+  }
+}

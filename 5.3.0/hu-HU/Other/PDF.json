@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_INVOICE": "Számla",
+    "LBL_INVOICE_NUMBER": "Számla sorszáma",
+    "LBL_TO_FINVOICE_NUMBER": "Áfás számla sorszámhoz",
+    "LBL_INVOICE_PROFORMA": "Proforma számla",
+    "LBL_RECIPIENT": "Címzett",
+    "LBL_ORDER": "Megrendelés",
+    "LBL_SUBMIT_ORDER": "Rendelés leadásra jogosult",
+    "LBL_TO_PAY": "Összesen",
+    "LBL_TO_PAY_WORD": "Összesen (szöveggel)",
+    "LBL_DEALER": "Eladó",
+    "LBL_BUYER": "Vevő",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Átvételre jogosult",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Megrendelés kibocsájtásra jogosult",
+    "LBL_SALES_QUOTE_FOR": "Ajánlat",
+    "LBL_DATE_EXECUTION": "Létrehozásá dátuma",
+    "LBL_STAGE": "Kiállította",
+    "LBL_VALID_UNTIL": "Érvényesség vége",
+    "LBL_QUOTE_NUMBER": "Árajánlat száma",
+    "LBL_DETAILS": "Részletek",
+    "LBL_COMMENTS": "Megjegyzések",
+    "LBL_FIRST_NAME": "Keresztnév",
+    "LBL_LAST_NAME": "Vezetéknév",
+    "LBL_PHONE": "Telefon",
+    "LBL_EMAIL": "E-mail",
+    "LBL_VATID": "Adószám",
+    "LBL_SALE_DATE": "Értékesítés dátuma",
+    "LBL_PAYMENT_METHOD": "Fizetési mód",
+    "LBL_PLACE_DATE": "Hely, dátum"
+  }
+}

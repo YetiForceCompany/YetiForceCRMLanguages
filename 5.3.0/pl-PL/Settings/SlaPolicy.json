@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Polityka SLA",
+    "LBL_NAME": "Nazwa",
+    "LBL_EDIT": "Edytuj politykę SLA",
+    "LBL_CREATE": "Utwórz nową politykę SLA",
+    "LBL_SOURCE_MODULE": "Moduł"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Wybierz godziny pracy",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Nazwa",
+    "JS_BUSINESS_HOURS_DAYS": "Dni robocze",
+    "JS_HOLIDAYS": "Święta"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ApprovalsRegister": "ثبت مصوبات",
+    "SINGLE_ApprovalsRegister": "ثبت مصوبه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات دلخواه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "FL_SUBJECT": "موضوع",
+    "FL_APPROVALS_STATUS": "وضعیت",
+    "FL_DESCRIPTION": "شرح",
+    "FL_CONTACT": "مخاطب",
+    "FL_APPROVAL": "مصوبه",
+    "FL_TYPE": "نوع",
+    "FL_STATUS": "وضعیت",
+    "FL_REGISTRATION_DATE": "تاریخ عضویت",
+    "PLL_FOR_VERIFICATION": "برای تایید",
+    "PLL_ACCEPTED": "پذیرفته شد",
+    "PLL_REJECTED": "رد شد",
+    "PLL_ACCEPTANCE": "پذیرش",
+    "PLL_RESIGNATION": "برکناری"
+  }
+}

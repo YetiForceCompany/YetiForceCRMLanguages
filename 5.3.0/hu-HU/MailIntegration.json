@@ -1,0 +1,24 @@
+{
+  "php": {
+    "MailIntegration": "Mail integráció panel",
+    "SINGLE_MailIntegration": "Mail integráció panel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail nem található az adatbázisban.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importálás",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importálj egy e-mailt a CRM-be, akkor sikerül kapcsolatok jobban menedzselni",
+    "LBL_SEARCH_EMAIL": "Email címek keresése",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Keresés, majd válassza ki az üzenet címzettjét",
+    "LBL_ADD_CALENDAR": "Esemény hozzáadása",
+    "LBL_ADD_MODCOMMENTS": "Új megjegyzés",
+    "LBL_SELECT_RECORD": "Válassza ki a kapcsolódó bejegyzés",
+    "LBL_ADD_RECORD": "Kapcsolat hozzáadása",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Töltse le az outlook bővítmény telepítése fájl"
+  },
+  "js": {
+    "JS_ERROR": "YetiForce üzenet: add-in hiba, kérjük lépjen kapcsolatba a rendszergazdával.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce üzenet: Távolítani kapcsolatban sikeresen.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce üzenet: Hozzáadta. a kapcsolatos sikeresen.",
+    "JS_IMPORT": "YetiForce üzenet: e-mail importálás sikeres.",
+    "JS_CC": "CC",
+    "JS_BCC": "Titkos másolat"
+  }
+}

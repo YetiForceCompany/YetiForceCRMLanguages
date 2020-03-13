@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Оновлення",
+    "LBL_YES": "Так",
+    "LBL_NO": "Невиконано",
+    "LBL_TIME": "Дата",
+    "LBL_USER": "Користувач",
+    "LBL_FROM_VERSION": "З версії",
+    "LBL_TO_VERSION": "До версії",
+    "LBL_RESULT": "Статус",
+    "LBL_UPDATES": "Оновлення",
+    "LBL_UPDATES_DESCRIPTION": "Історія оновлень",
+    "LBL_IMPORT_UPDATE": "Завантажити оновлення",
+    "LBL_INSTALL_PACKAGE": "Install package",
+    "LBL_DOWNLOAD_PACKAGE": "Download package",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
+    "LBL_INSTALLED_PACKAGES": "Installed packages",
+    "LBL_PACKAGE_VERSION": "Package version",
+    "LBL_NAME_PACKAGES": "Package name"
+  }
+}

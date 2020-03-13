@@ -1,0 +1,24 @@
+{
+  "php": {
+    "MailIntegration": "Mail integracijski panel",
+    "SINGLE_MailIntegration": "Mail integracijski panel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Pošta nije pronađena u bazi podataka.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Uvezi",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Uvozite email u CRM, to će vam omogućiti da bolje upravljate odnosima",
+    "LBL_SEARCH_EMAIL": "Pretraga email adrese",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Pretražite i odaberite primatelja poruke",
+    "LBL_ADD_CALENDAR": "Dodaj događaj",
+    "LBL_ADD_MODCOMMENTS": "Dodajte komentar",
+    "LBL_SELECT_RECORD": "Odaberi povezani zapis",
+    "LBL_ADD_RECORD": "Dodaj povezani zapis",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Preuzmite instalacijsku datoteku dodatka za Outlook"
+  },
+  "js": {
+    "JS_ERROR": "Poruka YetiForce: pogreška u dodavanju, molimo kontaktirajte administratora sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Poruka YetiForce: veza je uspješno uklonjena.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Poruka YetiForce: veza je dodana uspješno.",
+    "JS_IMPORT": "Poruka YetiForce: email je uspješno uvezen.",
+    "JS_CC": "CC",
+    "JS_BCC": "BCC"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Frekvence připomenutí ve dnech, pokud uživatel neskontroloval změny. Pokud pole zůstane prázdné, připomenutí se znovu nezobrazí.",
+    "Accounts|Account Name": "Toto pole je určeno pro název společnosti",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Výchozí země použitá při synchronizaci telefonního pole CardDAV. Pokud telefon nemá národní číslo, bude toto pole použito",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Vždy vyberte vybraný prvek jako výchozí modul v globálním vyhledávači.",
+    "FL_RESPONSE_RANGE_TIME": "Počet minut, které uplynuly před reakcí, počítáno na základě SLA a pracovních dnů / hodin",
+    "FL_SOLUTION_RANGE_TIME": "Počet minut, které uplynuly k vyřešení daného záznamu, vypočtené na různých stavech v závislosti na konfiguraci a na základě SLA a pracovních dnů / hodin",
+    "FL_IDLE_RANGE_TIME": "Počet minut, po kterých byl zaznamenán záznam neaktivní, např. při očekávání na další informace se zaměřením na základě SLA a pracovních dnů / hodin",
+    "FL_CLOSING_RANGE_TIME": "Počet minut, které uplynuly mezi vytvořením a posledním uzavřením záznamu, se počítá na základě SLA a pracovních dnů / hodin",
+    "FL_RESPONSE_DATE_TIME": "Datum a čas zahájení reakce.",
+    "FL_SOLUTION_DATE_TIME": "Vyřešte datum a čas ukončení.",
+    "FL_IDLE_DATE_TIME": "Datum a čas nečinnosti.",
+    "FL_RESPONSE_EXPECTED": "Plánované / očekávané datum, do kterého se reakce zaznamenává, se počítá na základě SLA a pracovních dnů / hodin.",
+    "FL_IDLE_DATE_EXPECTED": "Plánované / očekávané datum do doby, kdy je povolen klidový čas, se počítá na základě SLA a pracovních dnů / hodin."
+  }
+}

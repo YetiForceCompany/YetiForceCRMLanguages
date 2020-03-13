@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Politika SLA",
+    "LBL_NAME": "Názov politiky",
+    "LBL_EDIT": "Upraviť politiku SLA",
+    "LBL_CREATE": "Vytvoriť novú politiku SLA",
+    "LBL_SOURCE_MODULE": "Modul"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Vyberte otváracie hodiny",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Názov",
+    "JS_BUSINESS_HOURS_DAYS": "Pracovné dni",
+    "JS_HOLIDAYS": "Sviatky"
+  }
+}

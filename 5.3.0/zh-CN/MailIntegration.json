@@ -1,0 +1,24 @@
+{
+  "php": {
+    "MailIntegration": "邮件集成面板",
+    "SINGLE_MailIntegration": "邮件集成面板",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "在数据库中找不到邮件。",
+    "LBL_IMPORT_MAIL_MANUALLY": "导入",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "导入电子邮件到 CRM ，这将使您能够更好地管理关系",
+    "LBL_SEARCH_EMAIL": "搜索邮箱地址",
+    "LBL_SEARCH_AND_COPY_EMAIL": "搜索并选择信息的接收者",
+    "LBL_ADD_CALENDAR": "添加事件",
+    "LBL_ADD_MODCOMMENTS": "添加注释",
+    "LBL_SELECT_RECORD": "选择相关记录",
+    "LBL_ADD_RECORD": "添加相关记录",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "下载的Outlook插件的安装文件"
+  },
+  "js": {
+    "JS_ERROR": "YetiForce 消息：附加组件错误，请联系系统管理员。",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce 消息：成功删除关系。",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce 消息：添加关系成功。",
+    "JS_IMPORT": "YetiForce 消息：成功导入电子邮件。",
+    "JS_CC": "抄送",
+    "JS_BCC": "密件抄送"
+  }
+}

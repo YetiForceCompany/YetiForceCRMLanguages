@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Közlemények",
+    "SINGLE_Announcements": "Közlemény",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Alap Információk",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_NUMBER": "Szám",
+    "FL_STATUS": "Státusz",
+    "FL_INTERVAL": "Emlékeztető időpontja",
+    "FL_IS_MANDATORY": "Kötelező elfogadni",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_FOR_ACCEPTANCE": "A jóváhagyás",
+    "PLL_PUBLISHED": "Publikálva",
+    "PLL_ARCHIVES": "Archiválva",
+    "LBL_REMIND_ME_LATER": "Emlékeztetés később",
+    "LBL_MARK_AS_READ": "Olvasottnak jelölve",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Elfogadták?",
+    "LBL_DATE": "Read on"
+  }
+}

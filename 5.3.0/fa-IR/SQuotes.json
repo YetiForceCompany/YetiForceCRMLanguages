@@ -1,0 +1,30 @@
+{
+  "php": {
+    "SQuotes": "استعلام‌ها",
+    "SINGLE_SQuotes": "استعلام",
+    "LBL_SQUOTES_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "LBL_STATISTICS": "آمارها",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_STATUS": "وضعیت",
+    "LBL_COMPANY_NAME": "نام شرکت",
+    "SINGLE_SSalesProcesses": "فرصت",
+    "FL_TOTAL_PRICE": "جمع خالص",
+    "FL_MARGINP": "مجموع درصد حاشیه سود",
+    "FL_MARGIN": "حاشیه سود کل",
+    "FL_SUM_GROSS": "مبلغ ناخالص",
+    "FL_SUM_DISCOUNT": "مقدار تخفیف",
+    "FL_VALID_UNTIL": "معتبر تا",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_FOR_VERIFICATION": "برای تایید",
+    "PLL_AWAITING_DECISION": "در انتظار تصمیم",
+    "PLL_NEGOTIATIONS": "مذاکرات",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_ACCEPTED": "پذیرفته شده",
+    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+  }
+}

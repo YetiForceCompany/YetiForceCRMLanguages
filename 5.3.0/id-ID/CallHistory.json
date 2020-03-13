@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Call history",
+    "SINGLE_CallHistory": "Call history",
+    "LBL_CALLHISTORY_INFORMATION": "Informasi riwayat panggilan",
+    "LBL_CUSTOM_INFORMATION": "Additional information",
+    "LBL_PHONE_INFORMATION": "Informasi telepon",
+    "LBL_RELATED_INFORMATION": "Informasi terkait",
+    "LBL_TYPE": "Type",
+    "LBL_FROM_NUMBER": "Dari nomor",
+    "LBL_TO_NUMBER": "Untuk nomor",
+    "LBL_LOCATION": "Location",
+    "LBL_PHONE_CALL_ID": "Panggilan ID pada telepon",
+    "LBL_DURATION": "Call duration time",
+    "LBL_STATUS": "Status",
+    "LBL_START_TIME": "Call started",
+    "LBL_END_TIME": "Call ended",
+    "LBL_COUNTRY_CODE": "Country code",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "ID address",
+    "LBL_SIMSERIAL": "SIM number",
+    "LBL_SUBSCRIBERID": "Subscriber number",
+    "LBL_DESTINATION": "Where called",
+    "LBL_SOURCE": "Call source",
+    "Record Id": "Record Id",
+    "Outgoing missed": "Outgoing missed",
+    "Outgoing received": "Outgoing received",
+    "Incoming": "Incoming received",
+    "Missed": "Incoming missed",
+    "Voicemail": "Incoming voicemail"
+  }
+}

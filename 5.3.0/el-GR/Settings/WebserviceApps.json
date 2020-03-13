@@ -1,0 +1,21 @@
+{
+  "php": {
+    "LBL_APP_NAME": "Όνομα",
+    "LBL_ADDRESS_URL": "URL",
+    "LBL_TYPE_SERVER": "Τύπος",
+    "LBL_API_KEY": "Κλειδί",
+    "LBL_ADD_APPLICATION": "Προσθήκη κλειδιού",
+    "LBL_WEBSERVICE_APPS": "Υπηρεσία Web - Εφαρμογές",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Δημιουργία και διαχείριση κλειδιών εφαρμογών που ενσωματώνονται μέσω του API.",
+    "Mail": "Mail",
+    "LBL_PASS": "Κωδικόs πρόσβασης",
+    "LBL_TITLE_ADDED": "Προσθήκη",
+    "LBL_TITLE_EDIT": "Επεξεργασία",
+    "Portal": "Πύλη",
+    "Payments": "Πληρωμές",
+    "ManageConsents": "Manage consents"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Inšpektor za pravice",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Inšpektor za pravice",
+    "LBL_FULL_USER_NAME": "Uporabnik",
+    "LBL_VIEW_PRVILIGE": "Pregled",
+    "LBL_CREATE_PRIVILIGE": "Nov",
+    "LBL_EDIT_PRIVILIGE": "Urejanje",
+    "LBL_DELETE_PRIVILIGE": "Brisanje",
+    "LBL_PROFILES": "Profil:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Modul \/ dejanje je izključen iz preverjanja dovoljenj",
+    "SEC_USER_IS_ADMIN": "Uporabnik je administrator",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Dovoljenja za modul, uporabnik ima dostop do podatkov tega modula",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Globalno dovoljenje za ogled podatkov",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Globalno dovoljenje za urejanje podatkov",
+    "SEC_RECORID_IS_NULL": "Splošni dostop do dejanj v modulu",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Dostop temelji na dovoljenjih za izvajanje dejanj modula",
+    "SEC_RECORD_BY_SHARING_YES": "Dostop na podlagi pravil dostopa (dovoljenja za modul)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Dostop temelji na lastniku %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Dostop temelji na skupini %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Dostop, ki temelji na hierarhiji podjetja (funcijah),  uporabnik je v hierarhiji višji od lastnika zapisa",
+    "SEC_RECORD_HIERARCHY_USER": "Dostop temelji na hierarhiji v podjetju",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Ni dovoljenj za modul, uporabnik nima dostopa do modula",
+    "SEC_MODULE_PERMISSIONS_NO": "Nimate dovoljenj za modul, uporabnik nima dostopa do modula",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "V modulu ni dovoljeno izvajati dejanj",
+    "SEC_RECORD_BY_SHARING_NO": "Ni dovoljenj na podlagi pravil dostopa (dovoljenja za modul)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Ni dovoljenj za dejanja - Dejanje ni bilo mogoče najti"
+  }
+}

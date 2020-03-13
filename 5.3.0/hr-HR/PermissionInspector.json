@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Inspektor dozvola",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Inspektor dozvola",
+    "LBL_FULL_USER_NAME": "Korisnik",
+    "LBL_VIEW_PRVILIGE": "Pregled",
+    "LBL_CREATE_PRIVILIGE": "Kreiraj",
+    "LBL_EDIT_PRIVILIGE": "Uredi",
+    "LBL_DELETE_PRIVILIGE": "Obriši",
+    "LBL_PROFILES": "Profii:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Modul \/ radnja isključena iz provjere dozvola",
+    "SEC_USER_IS_ADMIN": "Korisnik je Administrator",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Dozvole za modul, korisnik ima pristup podacima ovog modula",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Globalna dopuštenja za pregled podataka",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Globalna dopuštenja za uređivanje podataka",
+    "SEC_RECORID_IS_NULL": "Općeniti pristup akcijama u modulu",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Pristup zasnovan na dozvolama za izvođenje akcija u modulu",
+    "SEC_RECORD_BY_SHARING_YES": "Pristup zasnovan na pravilima pristupa (pristup modulu)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Pristup na osnovu vlasnika %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Pristup na osnovu grupe %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Pristup zasnovan na hijerarhiji kompanije (uloge), korisnik je u hijerarhiji viši od vlasnika zapisa",
+    "SEC_RECORD_HIERARCHY_USER": "Pristup zasnovan na hijerarhiji dozvole",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Nema dozvola za modul, korisnik nema pristup modulu",
+    "SEC_MODULE_PERMISSIONS_NO": "Nema dozvola za modul, korisnik nema pristup modulu",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Nema dozvola za izvođenje akcija u modulu",
+    "SEC_RECORD_BY_SHARING_NO": "Nema dozvola temeljenih na pravilima pristupa (pristup modulu)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Nema dozvola za akciju - Akcija nije pronađena"
+  }
+}

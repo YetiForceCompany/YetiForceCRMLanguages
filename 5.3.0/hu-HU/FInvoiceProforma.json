@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FInvoiceProforma": "Proforma számlák",
+    "SINGLE_FInvoiceProforma": "Proforma számla",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Postázási cím",
+    "FL_SUBJECT": "Tárgy",
+    "FL_PAYMENT_DATE": "Határidő",
+    "FL_SALE_DATE": "Értékesítés dátuma",
+    "FL_ACCOUNT": "Fiók",
+    "FL_FORM_PAYMENT": "Fizetési mód",
+    "FL_STATUS": "Állapot",
+    "FL_NUMBER": "Számla sorszáma",
+    "FL_TOTAL": "Netto",
+    "FL_GROSS": "Bruttó",
+    "PLL_CASH": "Készpénz",
+    "PLL_TRANSFER": "Banki átutalás",
+    "PLL_WIRE_TRANSFER": "Elektronikus átutalás"
+  }
+}

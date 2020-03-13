@@ -1,0 +1,25 @@
+{
+  "php": {
+    "providertype": "Πάροχος",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS max 160 χαρακτήρες επιτρέπονται",
+    "username": "Όνομα χρήστη",
+    "password": "Κωδικόs πρόσβασης",
+    "isactive": "Ενεργό",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Αποστολή SMS προς τους επιλεγμένους αριθμούς",
+    "LBL_STEP_1": "Βήμα 1",
+    "LBL_STEP_2": "Βήμα 2",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Επιλέξτε τα πεδία αριθμών τηλεφώνου για την αποστολή",
+    "LBL_TYPE_THE_MESSAGE": "Πληκτρολογήση μηνύματος",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "γράψτε το μήνυμα σας εδώ",
+    "LBL_ADD_MORE_FIELDS": "Προσθήκη περισσότερων πεδίων",
+    "LBL_SERVER_CONFIG": "Ρύθμιση παραμέτρων του διακομιστή",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_UNDEFINED": "Απροσδιόριστη",
+    "PLL_DELIVERED": "Παραδόθηκε",
+    "PLL_FAILED": "Απέτυχε",
+    "LBL_MASS_SEND_SMS_INFO": "Όλα τα μηνύματα κειμένου απεστάλησαν στο cron",
+    "LBL_CHECK_STATUS": "Έλεγχος κατάστασης",
+    "message": "Μήνυμα",
+    "LBL_SMSNOTIFIER_INFORMATION": "Πληροφορίες SMS"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "php": {
+    "FCorectingInvoice": "Корректировка счетов",
+    "SINGLE_FCorectingInvoice": "Корректировка счета",
+    "LBL_CUSTOM_INFORMATION": "Системная информация",
+    "LBL_INVOICE_ADDRESS": "Адрес выставления счета",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адрес доставки",
+    "FL_SUBJECT": "Предмет",
+    "FL_PAYMENT_DATE": "Срок",
+    "FL_SALE_DATE": "Срок продажи",
+    "FL_FORM_PAYMENT": "Метод оплаты",
+    "FL_BANK_ACCOUNT": "Номер банковского счета",
+    "FL_NUMBER": "Счет №",
+    "FL_ACCOUNT": "Контрагент",
+    "FL_TOTAL": "Чистый",
+    "FL_GROSS": "Валовый",
+    "FL_STATUS": "Статус",
+    "PLL_CASH": "Наличные",
+    "PLL_TRANSFER": "Банковский перевод",
+    "PLL_WIRE_TRANSFER": "Электронный перевод",
+    "LBL_YEAR": "Год",
+    "FL_INVOICE": "Счет",
+    "LBL_COMMENTS": "Комментарии",
+    "FL_EXTERNAL_COMMENT": "Внешний комментарий",
+    "FL_INTERNAL_COMMENT": "Внутренний комментарий",
+    "LBL_BEFORE_CORRECTION": "Перед исправлением",
+    "LBL_AFTER_CORRECTION": "После исправления",
+    "LBL_CHOOSE_INVOICE": "Выберите счёт для исправления",
+    "LBL_COPY_FROM_INVOICE": "Копировать из первоначального счета",
+    "LBL_INVOICE_INFO": "Первоначальные поля счета - перед исправлениями.",
+    "LBL_AFTER_INVOICE_INFO": "Как должен выглядеть конечный после коррекции.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Поля счета для исправления. Скопируйте все поля из первоначального счета и, если это необходимо, измените их значения."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Выберите счёт для исправления"
+  }
+}

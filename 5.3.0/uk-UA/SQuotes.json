@@ -1,0 +1,30 @@
+{
+  "php": {
+    "SQuotes": "Пропозиції",
+    "SINGLE_SQuotes": "Пропозиція",
+    "LBL_SQUOTES_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "LBL_DESCRIPTION_INFORMATION": "Опис подробиць",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Час закриття",
+    "LBL_STATUS": "Статус",
+    "LBL_COMPANY_NAME": "Назва компанії",
+    "SINGLE_SSalesProcesses": "Угода",
+    "FL_TOTAL_PRICE": "Загальна вартість",
+    "FL_MARGINP": "Загальна маржа у відсотках",
+    "FL_MARGIN": "Загальна маржа",
+    "FL_SUM_GROSS": "Валовий підсумок",
+    "FL_SUM_DISCOUNT": "Сума знижки",
+    "FL_VALID_UNTIL": "Дійсний до",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "В реалізації",
+    "PLL_FOR_VERIFICATION": "Для перевірки",
+    "PLL_AWAITING_DECISION": "Очікує рішення",
+    "PLL_NEGOTIATIONS": "Перемовини",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_ACCEPTED": "Погоджено",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}

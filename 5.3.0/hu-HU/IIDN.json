@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IIDN": "Belső Szállítólevél",
+    "SINGLE_IIDN": "Belső Szállítólevél",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "LBL_ATTENTION_BLOCK": "Megjegyzések",
+    "FL_ACCEPTANCE_DATE": "Elfogadás dátuma",
+    "FL_SUBJECT": "Tárgy",
+    "FL_NUMBER": "Szám",
+    "FL_STORAGE": "Tárolás",
+    "FL_STATUS": "Állapot",
+    "PLL_DRAFT": "Piszkozat",
+    "PLL_IN_REALIZATION": "Megvalósulás",
+    "PLL_OBJECTIONS": "Célok",
+    "PLL_FOR_APPROVAL": "A jóváhagyás",
+    "PLL_CANCELLED": "Megszakítva",
+    "PLL_ACCEPTED": "Elfogadott",
+    "LBL_CHANGE_STATUS": "Állapot Módosítása"
+  }
+}

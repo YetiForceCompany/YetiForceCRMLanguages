@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Backup Manager",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Kezelése biztonsági mentés fájlok",
+    "LBL_DOWNLOAD": "Letöltés",
+    "LBL_FILE_NAME": "Fájlnév",
+    "LBL_FILE_SIZE": "Fájl mérete",
+    "LBL_FILE_DATE": "Módosítás dátuma",
+    "LBL_BACKUP_LIST": "Backup lista",
+    "ERR_CONFIG_ALERT_TITLE": "Backup Manager le van tiltva",
+    "ERR_CONFIG_ALERT_DESC": "Állítsa be a megfelelő elérési utat BACKUP_PATH változó a konfigurációs fájl [config\/Components\/Backup.php], hogy lehetővé teszi."
+  },
+  "js": {}
+}

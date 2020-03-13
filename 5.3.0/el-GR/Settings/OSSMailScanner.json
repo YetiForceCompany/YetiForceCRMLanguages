@@ -1,0 +1,32 @@
+{
+  "php": {
+    "OSSMailScanner_manual": "Mail Scanner",
+    "OSSMailScanner": "Mail Scanner",
+    "Mail Scanner": "Mail – Scanner",
+    "LBL_VIEW_LOGS": "Mail protocol",
+    "LBL_PAGE_NUMBER": "Πηγαίνετε σε αριθμό σελίδας",
+    "CRM Archive": "Αρχείο CRM",
+    "CRM Archive Sent": "Αποστολή στο αρχείο CRM",
+    "Drafts": "Πρόχειρα",
+    "INBOX": "ΕΙΣΕΡΧΟΜΕΝΑ",
+    "Junk": "ΑΝΕΠΙΘYΜΗΤΗ ΑΛΛΗΛΟΓΡΑΦIΑ",
+    "Sent": "ΑΠΕΣΤΑΛΜΕΝΑ",
+    "ERR_INCORRECT_ACCESS_DATA": "Εσφαλμένη πρόσβαση δεδομένων",
+    "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "Οι παρακάτω φακέλοι θα καταργηθούν μετά την αποθήκευση"
+  },
+  "js": {
+    "start_cron": "Cron ξεκίνησε",
+    "end_cron_ok": "Εργασίες Cron ολοκληρώθηκαν με επιτυχία",
+    "end_cron_error": "Ενώ έτρεχε το Cron εμφανίστηκε ένα σφάλμα",
+    "JS_mail_error": "Διεύθυνση email δεν είναι σωστή",
+    "JS_time_error": "Η καθορισμένη μορφή ημερομηνίας είναι εσφαλμένη",
+    "JS_StopCron": "Χειροκίνητου τερματισμός του Cron",
+    "stop_user": "Χρήστης που σταματήσε τη σάρωση",
+    "Manually stopped": "Σταμάτησε χειροκίνητα",
+    "OK": "ok",
+    "In progress": "Σε εξέλιξη",
+    "whether_remove_an_identity": "Κατάργηση μια ταυτότητας;",
+    "removed_identity": "Ταυτότητα διαγράφηκε",
+    "LBL_LOADING_LIST_OF_FOLDERS": "Η φόρτωση λίστας φακέλων βρίσκεται σε εξέλιξη.\nΜπορεί να χρειαστούν μερικά λεπτά..."
+  }
+}

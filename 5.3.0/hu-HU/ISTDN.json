@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Tároló Átviteli Feladott Megjegyzések",
+    "SINGLE_ISTDN": "Tároló Átviteli Feladott Megjegyzés",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "LBL_ATTENTION_BLOCK": "Hozzászólások",
+    "FL_ACCEPTANCE_DATE": "Elfogadás dátuma",
+    "FL_ACCOUNT": "Fiók",
+    "FL_SUBJECT": "Tárgy",
+    "FL_NUMBER": "Szám",
+    "FL_STORAGE": "Tárolás",
+    "FL_STATUS": "Állapot",
+    "PLL_DRAFT": "Piszkozat",
+    "PLL_IN_REALIZATION": "Megvalósulás",
+    "PLL_OBJECTIONS": "Célok",
+    "PLL_FOR_APPROVAL": "A jóváhagyás",
+    "PLL_CANCELLED": "Megszakitva",
+    "PLL_ACCEPTED": "Elfogadva",
+    "LBL_CHANGE_STATUS": "Állapot Módosítása"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ApprovalsRegister": "Zulassungsregister",
+    "SINGLE_ApprovalsRegister": "Zulassungsregister",
+    "LBL_CUSTOM_INFORMATION": "Eigene Informationen",
+    "LBL_BASIC_INFORMATION": "Grundlegende Informationen",
+    "LBL_DESCRIPTION_INFORMATION": "Beschreibungsdetails",
+    "FL_SUBJECT": "Thema",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Beschreibung",
+    "FL_CONTACT": "Kontakt",
+    "FL_APPROVAL": "Genehmigung",
+    "FL_TYPE": "Typ",
+    "FL_STATUS": "Status",
+    "FL_REGISTRATION_DATE": "Registrierungsdatum",
+    "PLL_FOR_VERIFICATION": "Zur Verifizierung",
+    "PLL_ACCEPTED": "Akzeptiert",
+    "PLL_REJECTED": "Abgelehnt",
+    "PLL_ACCEPTANCE": "Zustimmung",
+    "PLL_RESIGNATION": "Rücktritt"
+  }
+}

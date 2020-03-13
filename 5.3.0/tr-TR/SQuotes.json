@@ -1,0 +1,30 @@
+{
+  "php": {
+    "SQuotes": "Alıntılar",
+    "SINGLE_SQuotes": "Alıntı",
+    "LBL_SQUOTES_INFORMATION": "Temel bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "LBL_STATISTICS": "İstatistik",
+    "LBL_SUBJECT": "Konu",
+    "LBL_NUMBER": "Numara",
+    "LBL_CLOSED_TIME": "Kapanış saati",
+    "LBL_STATUS": "Durumu",
+    "LBL_COMPANY_NAME": "Şirket Adı",
+    "SINGLE_SSalesProcesses": "Fırsat",
+    "FL_TOTAL_PRICE": "Net toplam",
+    "FL_MARGINP": "Toplam marj yüzdesi",
+    "FL_MARGIN": "Toplam marj",
+    "FL_SUM_GROSS": "Brüt miktar",
+    "FL_SUM_DISCOUNT": "İndirim tutarı",
+    "FL_VALID_UNTIL": "Kadar geçerli",
+    "PLL_DRAFT": "Taslak",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_FOR_VERIFICATION": "Doğrulama için",
+    "PLL_AWAITING_DECISION": "Kararı bekliyor",
+    "PLL_NEGOTIATIONS": "Müzakereler",
+    "PLL_CANCELLED": "İptal edildi",
+    "PLL_ACCEPTED": "Kabul edildi",
+    "LBL_CHANGE_STATUS": "Durumu değiştir"
+  }
+}

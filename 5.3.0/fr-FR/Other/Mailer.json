@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "L'importation planifiée est terminée",
+    "LBL_CRON_COMPLETED_IMPORT": "Enregistrer le résumé d'importation pour le module :"
+  }
+}

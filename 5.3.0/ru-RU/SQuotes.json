@@ -1,0 +1,30 @@
+{
+  "php": {
+    "SQuotes": "Предложения",
+    "SINGLE_SQuotes": "Предложение",
+    "LBL_SQUOTES_INFORMATION": "Основная информация",
+    "LBL_CUSTOM_INFORMATION": "Системная информация",
+    "LBL_DESCRIPTION_INFORMATION": "Детальная информация",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Время закрытия",
+    "LBL_STATUS": "Статус",
+    "LBL_COMPANY_NAME": "Название компании",
+    "SINGLE_SSalesProcesses": "Сделка",
+    "FL_TOTAL_PRICE": "Итог",
+    "FL_MARGINP": "Всего маржа в процентах",
+    "FL_MARGIN": "Всего маржа",
+    "FL_SUM_GROSS": "Всего",
+    "FL_SUM_DISCOUNT": "Скидка",
+    "FL_VALID_UNTIL": "Годен до",
+    "PLL_DRAFT": "Черновик",
+    "PLL_IN_REALIZATION": "Обработка",
+    "PLL_FOR_VERIFICATION": "Проверка",
+    "PLL_AWAITING_DECISION": "Решение",
+    "PLL_NEGOTIATIONS": "Переговоры",
+    "PLL_CANCELLED": "Отменено",
+    "PLL_ACCEPTED": "Согласовано",
+    "LBL_CHANGE_STATUS": "Изменить статус"
+  }
+}

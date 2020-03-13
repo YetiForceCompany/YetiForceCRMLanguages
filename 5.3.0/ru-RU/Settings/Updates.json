@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Обновление",
+    "LBL_YES": "Выполнено",
+    "LBL_NO": "Не выполнено",
+    "LBL_TIME": "Дата",
+    "LBL_USER": "Пользователь",
+    "LBL_FROM_VERSION": "Версия до обновления",
+    "LBL_TO_VERSION": "Версия после обновления",
+    "LBL_RESULT": "Состояние",
+    "LBL_UPDATES": "Обновление",
+    "LBL_UPDATES_DESCRIPTION": "История обновлений",
+    "LBL_IMPORT_UPDATE": "Загрузить обновление",
+    "LBL_INSTALL_PACKAGE": "Установить пакет",
+    "LBL_DOWNLOAD_PACKAGE": "Скачать пакет",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Доступные пакеты обновления",
+    "LBL_INSTALLED_PACKAGES": "Установленные пакеты",
+    "LBL_PACKAGE_VERSION": "Версия пакета",
+    "LBL_NAME_PACKAGES": "Имя пакета"
+  }
+}

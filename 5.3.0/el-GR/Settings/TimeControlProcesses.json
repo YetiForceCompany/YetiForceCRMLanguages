@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "Ροή εργασίας",
+    "TimeControlProcesses": "Διαδικασίες ελέγχου χρόνου",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_ONEDAY_VALID": "Ο χρόνος εργασίας περιορίζεται σε 24 ώρες",
+    "LBL_TIMEOVERLAP_VALID": "Επιτρέπεται επικάλυψη χρόνου",
+    "LBL_GENERAL_SETTINGS": "Γενικές ρυθμίσεις",
+    "LBL_TIME_CONTROL_WIDGET": "Widget ελέγχου χρόνου",
+    "LBL_TCW_INFO": "Οι επιλογές για την απόκρυψη\/εμφάνιση εικονιδίων στο widget διαχείρισης χρόνου μπορούν να βρεθούν εδώ.",
+    "LBL_HOLIDAYS": "Εικονίδια αργιών",
+    "LBL_WORKING_DAYS": "Εικονίδια εργάσιμων ημέρων",
+    "LBL_WORKING_TIME": "Εικονίδια χρόνου εργασίας"
+  },
+  "js": {}
+}

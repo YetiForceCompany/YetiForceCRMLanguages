@@ -1,0 +1,24 @@
+{
+  "php": {
+    "MailIntegration": "Plošča za integracijo pošte",
+    "SINGLE_MailIntegration": "Plošča za integracijo pošte",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Pošte ni bilo mogoče najti v zbirki podatkov.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Uvoz",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Uvozite e-poštno sporočilo v CRM, saj bo omogočilo boljše upravljanje odnosov",
+    "LBL_SEARCH_EMAIL": "Iskanje e-poštni naslov",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Poiščite in izberite prejemnika sporočila",
+    "LBL_ADD_CALENDAR": "Dodaj dogodek",
+    "LBL_ADD_MODCOMMENTS": "Dodaj komentar",
+    "LBL_SELECT_RECORD": "Izberite sorodni zapis",
+    "LBL_ADD_RECORD": "Dodajte sorodni zapis",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Prenesite namestitveno datoteko dodatka Outlook"
+  },
+  "js": {
+    "JS_ERROR": "Sporočilo YetiForce: napaka v dodatku, prosimo, kontaktirajte skrbnika sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Sporočilo YetiForce: Povezava je uspešno odstranjena.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Sporočilo YetiForce: Odnos je uspešno dodan.",
+    "JS_IMPORT": "Sporočilo YetiForce: E-poročilo je uspešno uvoženo.",
+    "JS_CC": "KP",
+    "JS_BCC": "SKP"
+  }
+}

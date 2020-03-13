@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "تاریخچه تماس",
+    "SINGLE_CallHistory": "تاریخچه تماس",
+    "LBL_CALLHISTORY_INFORMATION": "اطلاعات تاریخچه تماس",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات اضافی",
+    "LBL_PHONE_INFORMATION": "اطلاعات تماس",
+    "LBL_RELATED_INFORMATION": "اطلاعات مرتبط",
+    "LBL_TYPE": "نوع",
+    "LBL_FROM_NUMBER": "از شماره",
+    "LBL_TO_NUMBER": "به شماره",
+    "LBL_LOCATION": "مکان",
+    "LBL_PHONE_CALL_ID": "شناسه تماس در تلفن",
+    "LBL_DURATION": "مدت زمان تماس",
+    "LBL_STATUS": "وضعیت",
+    "LBL_START_TIME": "تماس شروع شده",
+    "LBL_END_TIME": "تماس پایان یافته",
+    "LBL_COUNTRY_CODE": "کد کشور",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "نشانی ‌‌ID",
+    "LBL_SIMSERIAL": "شماره SIM",
+    "LBL_SUBSCRIBERID": "شماره مشترک",
+    "LBL_DESTINATION": "محل تماس گرفته شده",
+    "LBL_SOURCE": "منبع تماس",
+    "Record Id": "شناسه رکورد",
+    "Outgoing missed": "تماس از دست رفته خروجی",
+    "Outgoing received": "تماس خروجی پذیرفته شده",
+    "Incoming": "تماس ورودی پذیرفته شده",
+    "Missed": "تماس ورودی از دست رفته",
+    "Voicemail": "صندوق صوتی دریافتی"
+  }
+}

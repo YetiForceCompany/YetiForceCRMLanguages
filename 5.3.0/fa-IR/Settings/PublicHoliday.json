@@ -1,0 +1,43 @@
+{
+  "php": {
+    "PublicHoliday": "تعطیلات عمومی",
+    "LBL_PUBLIC_HOLIDAY": "تقویم - تعطیلات",
+    "LBL_PUBLIC_HOLIDAY_DESCRIPTION": " ",
+    "LBL_ADD_HOLIDAY": "اضافه کردن تعطیلات",
+    "LBL_HOLIDAY_LIST": "لیست تعطیلات عمومی",
+    "LBL_YEAR_FROM": "از",
+    "LBL_YEAR_TO": "به",
+    "LBL_EDIT": "ویرایش",
+    "LBL_DELETE": "حذف",
+    "JS_HOLIDAY_DELETE_OK": "تعطیلات عمومی با موفقیت حذف شد",
+    "JS_HOLIDAY_DELETE_ERROR": "عدم موفقیت در حذف تعطیلات رسم",
+    "LBL_ADD_NEW_HOLIDAY": "اضافه کردن تعطیلات جدید",
+    "LBL_DATE": "تاریخ",
+    "LBL_DAY_NAME": "نام تعطیلات",
+    "LBL_DAY_NAME_DESC": "وارد نمودن نام تعطیلات رسمی",
+    "LBL_NEW_DATE_OK": "تعطیلات رسمی جدید با موفقیت اضافه شد",
+    "LBL_NEW_DATE_ERROR": "خطا در افزودن تعطیلات رسمی",
+    "LBL_EDIT_DATE_OK": "تعطیلات رسمی را با موفقیت تغییر یافت",
+    "LBL_EDIT_DATE_ERROR": "عدم موفقیت در به روزرسانی تعطیلات رسم",
+    "LBL_FILL_FORM_ERROR": "You must fill all fields in the form",
+    "Monday": "دوشنبه",
+    "Tuesday": "سه‌شنبه",
+    "Wednesday": "چهارشنبه",
+    "Thursday": "پنج‌شنبه",
+    "Friday": "جمعه",
+    "Saturday": "شنبه",
+    "Sunday": "یکشنبه",
+    "LBL_HOLIDAY_TYPE": "نوع تعطیلات",
+    "LBL_NATIONAL": "ملی",
+    "LBL_ECCLESIASTICAL": "مذهبی",
+    "ecclesiastical": "مذهبی",
+    "national": "ملی",
+    "LBL_VIEW_CONFIGURATION": "تعطیلات عمومی",
+    "LBL_DATE_RANGE": "محدوده"
+  },
+  "js": {
+    "JS_ADD_NEW_HOLIDAY": "اضافه کردن تعطیلات جدید",
+    "JS_EDIT_HOLIDAY": "ویرایش تعطیلات",
+    "JS_FILL_FORM_ERROR": "You must fill all fields in the form"
+  }
+}

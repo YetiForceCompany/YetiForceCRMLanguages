@@ -1,0 +1,17 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "如果用户没有查看变更，则每天提醒。如果没有变更,提醒则不会再次显示.",
+    "Accounts|Account Name": "此字段用于公司名称",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "同步 CardDAV 电话字段时使用的默认国家/地区。如果手机没有国家号码, 将使用此字段",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "始终将所选元素设置为全局搜索引擎中的默认模块。",
+    "FL_RESPONSE_RANGE_TIME": "反应前经过的分钟数，根据SLA和工作日/小时计算得出。",
+    "FL_SOLUTION_RANGE_TIME": "解析给定记录所经过的分钟数，根据配置和SLA以及工作日/小时计算的不同状态",
+    "FL_IDLE_RANGE_TIME": "给定记录处于非活动状态的分钟数，例如 在等待其他信息时，它是根据SLA和工作日/小时计算的",
+    "FL_CLOSING_RANGE_TIME": "创建和最近关闭记录之间经过的分钟数，它是根据SLA和工作日/小时计算的",
+    "FL_RESPONSE_DATE_TIME": "响应开始日期和时间。",
+    "FL_SOLUTION_DATE_TIME": "解决结束日期和时间。",
+    "FL_IDLE_DATE_TIME": "空闲结束日期和时间。",
+    "FL_RESPONSE_EXPECTED": "计划/预计日期，直到记录的反应进行，它是根据SLA和工作日/小时计算的。",
+    "FL_IDLE_DATE_EXPECTED": "计划/预期日期直到允许空闲时间为止，它是根据SLA和工作日/小时计算的。"
+  }
+}

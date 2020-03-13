@@ -1,0 +1,35 @@
+{
+  "php": {
+    "CustomView": "Filteri - Konfiguracija",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Ovaj alat omogućava postavljanje prilagođenih prikaza za module. Ovi moduli moraju sadržavati zapise i koristiti standardne filtere u YetiForce CRM.",
+    "ViewName": "Prikaži ime",
+    "SetDefault": "Zadano",
+    "Privileges": "Privilegije",
+    "Delete": "Obriši",
+    "Delete CustomView": "Prilagođeni prikaz je izbrisan",
+    "Saving CustomView": "Pogled je sačuvan",
+    "Actions": "Akcije",
+    "Edit": "Uredi",
+    "LBL_FEATURED_LABELS": "U favorite",
+    "LBL_CREATED_BY": "Kreirao je",
+    "LBL_ADD_FILTER": "Dodaj filter",
+    "LBL_MANAGE_PERMISSIONS": "Upravljajte dozvolama",
+    "LBL_ALL_GROUP_LIST": "Dostupne opcije",
+    "LBL_GROUP_MEMBERS": "Uključeno u akciju",
+    "LBL_ADD_PERMISSIONS": "Dodaj ovlaštenja",
+    "LBL_RECEIVE_PERMISSION": "Ukloni ovlaštenja",
+    "LBL_SAVE_SEQUENCES": "Sekvence su uspješno spremljene",
+    "LBL_EXISTS_PERMISSION_IN_CONFIG": "Sukob sa %s \nOdabrana dozvola ne može se koristiti u više filtera.",
+    "LBL_SORTING": "Sortiranje",
+    "LBL_SORTING_SETTINGS": "Podešavanja sortiranja",
+    "LBL_SORTING_SETTINGS_WORNING": "Razvrstavanje zapisa može značajno povećati vrijeme učitavanja stranice.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Odaberite polje za sortiranje zapisa",
+    "LBL_SORT_ASCENDING_ORDER": "Poredajte uzlaznim redoslijedom",
+    "LBL_SORT_DESCENDING_ORDER": "Poredaj po silaznom redoslijedu",
+    "LBL_ATTENTION": "Upozoranje!"
+  },
+  "js": {
+    "Saving changes": "Spremanje promjena...",
+    "Update labels": "Ažuriraj"
+  }
+}

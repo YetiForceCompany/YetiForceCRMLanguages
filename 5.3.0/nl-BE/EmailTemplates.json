@@ -1,0 +1,19 @@
+{
+  "php": {
+    "EmailTemplates": "E-mailsjablonen",
+    "SINGLE_EmailTemplates": "E-mailsjabloon",
+    "LBL_CONTENT_MAIL": "E-mail inhoud",
+    "LBL_BASIC_DETAILS": "Basisinformatie",
+    "FL_NAME": "Naam",
+    "FL_TYPE": "Type",
+    "FL_MODULE": "Module",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_CONTENT": "Inhoud",
+    "FL_SMTP_PRIORITY": "SMTP-prioriteit",
+    "PLL_MODULE": "Module",
+    "PLL_RECORD": "Record",
+    "PLL_MAIL": "Bericht",
+    "PLL_LIST": "Lijst",
+    "PLL_DEFAULT": "Standaard organisatie"
+  }
+}

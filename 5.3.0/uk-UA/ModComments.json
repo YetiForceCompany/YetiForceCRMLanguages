@@ -1,0 +1,23 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Коментар",
+    "LBL_RECORDS_LIST": "Список коментарів",
+    "LBL_MODCOMMENTS_INFORMATION": "Коментарі",
+    "LBL_OTHER_INFORMATION": "Інша інформація",
+    "LBL_ADDING_COMMENT": "Додано коментар",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Ввести коментарі тут",
+    "Comment": "Коментарі",
+    "Creator": "Автор",
+    "Related To Comments": "Пов’язані з коментарями",
+    "ReasonToEdit": "Причина редагування",
+    "UserId": "Ідентифікатор користувача",
+    "Customer": "Клієнт",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Додати коментар до тікету",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Коментар був доданий до тікету",
+    "LBL_NOTICE_WELCOME": "Вітаємо в системі",
+    "LBL_NOTICE_CREATED": "Був створений",
+    "LBL_COMMENTS_0": "Поточний запис",
+    "LBL_COMMENTS_SEARCH": "Пошук",
+    "LBL_ALL_RECORDS": "Пов'язані записи"
+  }
+}

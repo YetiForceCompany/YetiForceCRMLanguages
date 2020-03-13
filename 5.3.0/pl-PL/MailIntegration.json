@@ -1,0 +1,24 @@
+{
+  "php": {
+    "MailIntegration": "Panel integracji poczty",
+    "SINGLE_MailIntegration": "Panel integracji poczty",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Nie znaleziono maila w bazie.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importuj",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importuj e-mail do systemu CRM, pozwoli Ci to lepiej zarządzać relacjami",
+    "LBL_SEARCH_EMAIL": "Szukaj adresu e-mail",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Wyszukaj i wybierz odbiorcę wiadomości",
+    "LBL_ADD_CALENDAR": "Dodaj wydarzenie",
+    "LBL_ADD_MODCOMMENTS": "Dodaj komentarz",
+    "LBL_SELECT_RECORD": "Wybierz powiązany rekord",
+    "LBL_ADD_RECORD": "Dodaj powiązany rekord",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Pobierz plik instalacyjny dodatku Outlook"
+  },
+  "js": {
+    "JS_ERROR": "Komunikat YetiForce: błąd dodatku, skontaktuj się z administratorem systemu.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Komunikat YetiForce: Relacja została pomyślnie usunięta.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Komunikat YetiForce: Relacja została dodana.",
+    "JS_IMPORT": "Komunikat YetiForce: e-mail został pomyślnie zaimportowany.",
+    "JS_CC": "DW",
+    "JS_BCC": "UDW"
+  }
+}

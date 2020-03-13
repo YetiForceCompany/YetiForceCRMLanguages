@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Λίστα με τις νεότερες ευκαιρίες",
+    "LBL_FOR_VALUE": "για τιμή",
+    "LBL_UNTIL_DAY": "μέχρι σήμερα",
+    "LBL_ACTUAL_STATUS": "με την πραγματική κατάσταση",
+    "LBL_CALENDAR_OVERDUE": "Ληξιπρόθεσμες δραστηριότητες",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Λίστα ευκαιριών με την υψηλότερη αξία",
+    "LBL_NEW_ACCOUNTS": "Νέοι Πελάτες",
+    "LBL_NEW_CONTACTS": "Νέες επαφές",
+    "LBL_CALENDAR_TODAY": "Σημερινά συμβάντα ημερολογίου",
+    "LBL_CALENDAR_THIS_WEEK": "Συμβάντα ημερολογίου αυτή την εβδομάδα",
+    "LBL_HELLO": "Γεια σας",
+    "LBL_REPORT_DAY_CONTENT": "Παρακάτω είναι μια ημερήσια περίληψη των δραστηριοτήτων σας στη YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Παρακάτω είναι μια εβδομαδιαία περίληψη των δραστηριοτήτων σας στη YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Παρακάτω είναι μια μηνιαία περίληψη των δραστηριοτήτων σας στη YetiForce "
+  }
+}

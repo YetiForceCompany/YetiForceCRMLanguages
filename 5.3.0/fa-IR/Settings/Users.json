@@ -1,0 +1,34 @@
+{
+  "php": {
+    "Users": "کاربران",
+    "USER_MAIL_EXIST": "کاربر با آدرس الکترونیکی مشابه قبلا ثبت شده است",
+    "LBL_PRIORITY": "اولويت",
+    "LBL_LDAP_RECOMMENDED_INFO": "ما انتخاب کاربران با مجوزهای مدیریتی برای مجوز LDAP را توصیه نمی کنیم. در صورت بروز مشکلات در مجوز ، باید یک کاربر وجود داشته باشد که بتواند بدون ادغام LDAP وارد سیستم شود.",
+    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION_DESCRIPTION": " ",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "مجوز با LDAP",
+    "LBL_LDAP_SERVER": "نشانی سرور",
+    "LBL_LDAP_PORT": "پورت",
+    "LBL_SAVE_CONFIG": "پیکربندی ذخیره شده است",
+    "LBL_LDAP_DOMAIN": "دامنه (به صورت خودکار برای ورود به سیستم اضافه می شود)",
+    "LBL_VIEW_AUTH": "مجوز",
+    "LBL_SWITCH_USERS": "تعویض به کاربر",
+    "LBL_SWITCH_USERS_DESCRIPTION": "ابزاری که امکان تعویض کاربران در سیستم را فراهم می کند.",
+    "LBL_SU_BASE_ACCESS": "کاربر",
+    "LBL_SU_AVAILABLE_ACCESS": "مجاز به ورود است",
+    "LBL_LOCKS": "قفل‌ها",
+    "LBL_LOCKS_DESCRIPTION": "ابزاری برای مسدود کردن اقدامات مرورگر (کپی ، برش و غیره)",
+    "LBL_LOCK_COPY": "منع کپی کردن",
+    "LBL_LOCK_CUT": "منع برش",
+    "LBL_LOCK_PASTE": "منع چسباندن",
+    "LBL_LOCK_RIGHT_MENU": "قفل کردن کلیک راست موس",
+    "LBL_LOCK_SELECT_TEXT": "انتخاب قفل",
+    "LBL_LOCK_DRAG": "قفل کردن کشیدن (Drag)"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "لطفا یک ماژول انتخاب نمایید",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "جداکننده اعشاری و جدا کننده گروه بندی نمی تواند یکسان باشد",
+    "Changed password successfully": "گذرواژه با موفقیت تغییر یافت"
+  }
+}

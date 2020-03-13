@@ -1,0 +1,23 @@
+{
+  "php": {
+    "SINGLE_ModComments": "نظر",
+    "LBL_RECORDS_LIST": "لیست نظرات",
+    "LBL_MODCOMMENTS_INFORMATION": "نظرات",
+    "LBL_OTHER_INFORMATION": "سایر اطلاعات",
+    "LBL_ADDING_COMMENT": "افزودن نظر",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "نظر را اینجا وارد کنید",
+    "Comment": "نظر",
+    "Creator": "ایجاد کننده",
+    "Related To Comments": "مربوط به",
+    "ReasonToEdit": "دلیل ویرایش",
+    "UserId": "شناسه کاربر",
+    "Customer": "مشتری",
+    "LBL_ADDED_COMMENT_TO_TICKET": "افزودن یک نظر به تیکت",
+    "LBL_NEW_COMMENT_FOR_TICKET": "یک نظر به تیکت اضافه گردید",
+    "LBL_NOTICE_WELCOME": "به پلتفرم خوش آمدید",
+    "LBL_NOTICE_CREATED": "ایجاد شده توسط",
+    "LBL_COMMENTS_0": "رکورد فعلی",
+    "LBL_COMMENTS_SEARCH": "جستجو",
+    "LBL_ALL_RECORDS": "رکوردهای مشابه"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FInvoiceProforma": "پیش فاکتورها",
+    "SINGLE_FInvoiceProforma": "پیش فاکتور",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "نشانی تحویل",
+    "FL_SUBJECT": "موضوع",
+    "FL_PAYMENT_DATE": "تاریخ سررسید",
+    "FL_SALE_DATE": "تاریخ فروش",
+    "FL_ACCOUNT": "حساب",
+    "FL_FORM_PAYMENT": "روش پرداخت",
+    "FL_STATUS": "وضعیت",
+    "FL_NUMBER": "شماره فاکتور",
+    "FL_TOTAL": "خالص",
+    "FL_GROSS": "ناخالص",
+    "PLL_CASH": "نقدی",
+    "PLL_TRANSFER": "انتقال بانکی",
+    "PLL_WIRE_TRANSFER": "انتقال الکترونیکی"
+  }
+}

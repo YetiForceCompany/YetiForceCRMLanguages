@@ -1,0 +1,29 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "وظیفه پروژه",
+    "Project Task": "وظایف پروژه",
+    "Start Date": "تاریخ شروع",
+    "Target End Date": "تاریخ پایان تعیین شده",
+    "End Date": "تاریخ پایان",
+    "Related to": "مربوط به",
+    "Parent ID": "وظیفه مرتبظ",
+    "Project Task Number": "شماره وظیفه پروژه",
+    "description": " شرح",
+    "FL_TOTAL_TIME_H": "کل زمان کاری",
+    "Project Task No": "شماره وظیفه پروژه",
+    "Project Task Name": "نام وظیفه پروژه",
+    "LBL_ESTIMATED_WORK_TIME": "زمان کاری تخمینی",
+    "Add Project Task": "اضافه‌کردن وظیفه پروژه",
+    "LBL_PROJECT_TASK_INFORMATION": "جزییات وظیفه پروژه",
+    "LBL_PROJECTS_LIST": "لیست پروژه‌ها",
+    "LBL_TASKS_LIST": "لیست وظایف",
+    "LBL_MILESTONES_LIST": "لیست نقاط‌عطف",
+    "low": "پایین",
+    "normal": "معمولی",
+    "high": "بالا",
+    "administrative": "داخلی",
+    "operative": "خارجی",
+    "other": "به اشتراک‌گذاری شده",
+    "LBL_PROJECT": "پروژه"
+  }
+}

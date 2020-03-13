@@ -1,0 +1,34 @@
+{
+  "php": {
+    "Users": "المستخدمين",
+    "USER_MAIL_EXIST": "يوجد بالفعل مستخدم بعنوان تسجيل الدخول هذا.",
+    "LBL_PRIORITY": "الأولوية",
+    "LBL_LDAP_RECOMMENDED_INFO": "نحن لا نوصي اختيار المستخدمين مع أذونات مسؤول LDAP إذن. في حالة تفويض مشاكل هناك يجب أن يكون المستخدم قادرا على تسجيل الدخول دون LDAP التكامل.",
+    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION_DESCRIPTION": " ",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "إذن مع LDAP",
+    "LBL_LDAP_SERVER": "عنوان الخادم",
+    "LBL_LDAP_PORT": "المنفذ",
+    "LBL_SAVE_CONFIG": "تم حفظ التكوين",
+    "LBL_LDAP_DOMAIN": "المجال (تلقائيا إضافة إلى تسجيل الدخول)",
+    "LBL_VIEW_AUTH": "التوكيل",
+    "LBL_SWITCH_USERS": "Switch user",
+    "LBL_SWITCH_USERS_DESCRIPTION": "أداة تتيح التبديل بين المستخدمين في النظام.",
+    "LBL_SU_BASE_ACCESS": "المستخدم",
+    "LBL_SU_AVAILABLE_ACCESS": "فشل في تسجيل الدخول",
+    "LBL_LOCKS": "قفل",
+    "LBL_LOCKS_DESCRIPTION": "أداة لمنع المتصفح الإجراءات (نسخ, قص, الخ)",
+    "LBL_LOCK_COPY": "منع النسخ",
+    "LBL_LOCK_CUT": "قطع كتلة",
+    "LBL_LOCK_PASTE": "قطع كتلة",
+    "LBL_LOCK_RIGHT_MENU": "زر الماوس الأيمن",
+    "LBL_LOCK_SELECT_TEXT": "قفل اختيار",
+    "LBL_LOCK_DRAG": "قفل سحب"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "الرجاء اختيار وحدة",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "فاصل العلامة العشرية و تجمع فاصل لا يمكن أن يكون نفسه",
+    "Changed password successfully": "تغيير كلمة المرور بنجاح"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Storage Transfer Dispatched Notes",
+    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentarji",
+    "FL_ACCEPTANCE_DATE": "Datum potrditve",
+    "FL_ACCOUNT": "Podjetje",
+    "FL_SUBJECT": "Zadeva",
+    "FL_NUMBER": "Številka",
+    "FL_STORAGE": "Skaldišče",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_OBJECTIONS": "Pritožbe",
+    "PLL_FOR_APPROVAL": "V potrjevanju",
+    "PLL_CANCELLED": "Odpovedan",
+    "PLL_ACCEPTED": "Sprejeto",
+    "LBL_CHANGE_STATUS": "Spremeni status"
+  }
+}

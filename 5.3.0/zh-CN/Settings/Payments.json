@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "付款",
+    "LBL_RIGHT_CLICK_COPY": "右键单击和复制"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "删除成功",
+    "JS_SAVED_SUCCESSFULLY": "保存成功"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Automatische Datensatzzuordnung",
+    "AutomaticAssignment": "Automatische Datensatzzuordnung",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Feldname",
+    "FL_MODULE": "Modul",
+    "FL_VALUE": "Wert",
+    "FL_ROLES": "Rolle",
+    "FL_SMOWNERS": "Zuständiger",
+    "FL_ASSIGN": "Standard Einstellungen",
+    "FL_CONDITIONS": "Konditionen zur Datensuche",
+    "FL_MODE": "Modus",
+    "LBL_CREATE_RECORD": "Neu",
+    "BTN_NEXT": "Nächster",
+    "BTN_CLOSE": "Schließen",
+    "BTN_ADD": "Hinzufügen",
+    "LBL_CHANGE_ROLE_TYPE": "Rollentyp ändern",
+    "LBL_CHANGE_RECORD_STATE": "Status Datensatz ändern",
+    "BTN_SAVE": "Sichern",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Inklusive Datensatzliste des Benutzers",
+    "LBL_SET_DEFAULT_USER": "Standardbenutzer setzen",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "System Modus deaktivieren",
+    "LBL_SYSTEM": "System",
+    "LBL_NOTE": "Notiz!",
+    "LBL_VALUE_INFO": "Das folgende Feld setzt den Wert für das ausgewählte Modul-Feld.",
+    "LBL_ROLES_INFO": "Die Liste der zugeordneten Benutzer entsteht aus den unten aufgeführten Rollen.",
+    "LBL_SMOWNERS_INFO": "Die Liste der zugeordnete Benutzer entsteht aus den unten aufgeführten Benutzern, Gruppen. Diese Benutzerliste entsteht nur, wenn keine Benutzer aus den Rollen ausgewählt sind.",
+    "LBL_ASSIGN_INFO": "Setze ein Standardwert für Zugewiesen an. Der hier eingestellte Wert wird dem Datensatz zugewiesen, wenn der zugewiesene Benutzer, nicht gefunden werden kann.",
+    "LBL_CONDITIONS_INFO": "Festlegen der Suchbedingungen. Um einen Benutzer aus der verfügbaren Benutzerliste auszuwählen, zählt das System die Anzahl der Datensätze, die dem Benutzer in dem Modul zugewiesen sind. Der Benutzer mit der niedrigsten Anzahl von Datensätzen wird dem Datensatz zugewiesen.",
+    "LBL_ROLEID_INFO": "Legen Sie einen der folgenden Modi fest: SYSTEM - Benutzer durch Mechanismen wie Workflow-Aufgaben und Handler; NON-SYSTEM – ermöglicht einen Datensatz manuell durch den Benutzer zuzuweisen."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Sind Sie sicher, dass Sie den Datensatz Status ändern wollen?",
+    "JS_SAVE_SUCCESS": "Änderungen erfolgreich durchgeführt"
+  }
+}

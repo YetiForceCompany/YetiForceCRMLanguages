@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Horário de funcionamento",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "O horário comercial é um módulo onde você pode definir o horário de trabalho de sua equipe.",
+    "LBL_WORKING_HOURS_FROM": "De",
+    "LBL_WORKING_HOURS_TO": "Para",
+    "LBL_WORKING_DAYS": "Dias úteis",
+    "LBL_WORKING_HOURS": "Horário de funcionamento",
+    "LBL_DEFAULT": "Padrão",
+    "LBL_NAME": "Nome",
+    "LBL_HOLIDAYS": "Feriados",
+    "LBL_EDIT_BUSINESS_HOURS": "Editar horário de funcionamento",
+    "LBL_ADD_BUSINESS_HOURS": "Adicionar entrada de horário comercial",
+    "LBL_DEFAULT_TIMES": "Tempo padrão",
+    "LBL_DEFAULT_REACTION_TIME": "Tempo de reação padrão",
+    "LBL_DEFAULT_IDLE_TIME": "Tempo de inatividade padrão",
+    "LBL_DEFAULT_RESOLVE_TIME": "Tempo de solução padrão",
+    "LBL_HOLIDAYS_LINK": "Ir para configurações de feriados"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Tem certeza que deseja excluir esta entrada?"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Аутсорсинг Услуг",
+    "SINGLE_OSSOutsourcedServices": "Аутсорсинг Услуг",
+    "LBL_INFORMATION": "Основная информация",
+    "Assigned To": "Ответственный",
+    "LBL_osservicesstatus": "Статус",
+    "Individual Agreement": "Индивидуальное соглашение",
+    "In service": "Поддерживается",
+    "Finished support": "Поддержка прекращена",
+    "Product Name": "Название Услуги",
+    "Sub Category": "Подкатегория",
+    "Category": "Категория",
+    "Date Sold": "Дата начала продаж",
+    "Date in Service": "Дата окончания поддержки",
+    "Description": "Описание",
+    "LBL_DESCRIPTION_INFORMATION": "Дополнительная информация",
+    "LBL_CUSTOM_INFORMATION": "Системная информация",
+    "Where bought": "Где купил",
+    "Number": "№",
+    "Save": "Сохранить",
+    "LBL_GENERATE_EXTENSION": "Создать Предложение",
+    "Selling proposition": "Сделка",
+    "Active": "Активный",
+    "Inactive": "Неактивный"
+  }
+}

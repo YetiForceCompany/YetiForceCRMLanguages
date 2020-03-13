@@ -1,0 +1,32 @@
+{
+  "php": {
+    "Selected Values": "Επιλεγμένες τιμές",
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "PickListDependency": "Λίστα επιλογών - εξάρτηση",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_1": "Μόνο οι αντιστιχισμενες τιμές της λίστας προέλευσης εμφανίζονται παρακάτω (εξαίρειται η πρώτη φορά)",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_2": "Αν θέλετε να δείτε ή να αλλάξετε την αντιστοίχιση για τις άλλες τιμές της λίστας προέλευσης,, τότε μπορείτε να επιλέξετε τις τιμές κάνοντας κλικ στο κουμπί <b>«Επιλέξτε πηγή»<\/b>",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_3": "Οι επιλεγμένες τιμές των τιμών της λίστας στόχου επισημαίνονται",
+    "LBL_CONFIGURE_DEPENDENCY_INFO": "Κάντε κλικ στο αντίστοιχο κελί για να αλλάξετε την εκχώρηση των τιμών της λίστας στόχου",
+    "LBL_ERR_CYCLIC_DEPENDENCY": "Αυτή η ρύθμιση δεν επιτρέπεται επειδή καταλήγει σε κυκλικές εξαρτήσεις",
+    "LBL_PICKLIST_DEPENDENCY": "Λίστα επιλογών - εξάρτηση",
+    "LBL_SELECT_FIELD": "Επιλέξτε πεδίο",
+    "LBL_SELECT_MODULE": "Module",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Επιλέξτε τιμές προέλευσης",
+    "LBL_SELECT_SOURCE_VALUES": "Επιλέξτε τιμές προέλευσης",
+    "LBL_SOURCE_FIELD": "Πεδίο προέλευσης",
+    "LBL_TARGET_FIELD": "Πεδίο στόχος",
+    "LBL_UNMARK_ALL": "Απεπιλογή όλων",
+    "Module": "Module",
+    "Source Field": "Πεδίο προέλευσης",
+    "Target Field": "Πεδίο στόχος"
+  },
+  "js": {
+    "JS_DEPENDENCY_ATLEAST_ONE_VALUE": "Θα πρέπει να επιλέξετε τουλάχιστον μία τιμή για",
+    "JS_DEPENDENCY_DELETED_SUEESSFULLY": "Εξάρτηση διαγράφηκε επιτυχώς",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτή την εξάρτηση της λίστα επιλογών;",
+    "JS_PICKLIST_DEPENDENCY_SAVED": "Αποθηκεύτηκε",
+    "JS_SELECT_SOME_VALUE": "Επιλέξτε κάποιες τιμές",
+    "JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME": "Πεδίο προέλευσης και το πεδίο Στόχος δεν πρέπει να είναι ίδια",
+    "JS_PICKLIST_DEPENDENCY_NO_SAVED": "Δεν εισήχθησαν εξαρτήσεις. Αλλαγές δεν αποθηκεύτηκαν."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Híváslista",
+    "SINGLE_CallHistory": "Híváslista",
+    "LBL_CALLHISTORY_INFORMATION": "Híváslista információ",
+    "LBL_CUSTOM_INFORMATION": "Kiegészítő információ",
+    "LBL_PHONE_INFORMATION": "Telefon információ",
+    "LBL_RELATED_INFORMATION": "Kapcsolódó információk",
+    "LBL_TYPE": "Típus",
+    "LBL_FROM_NUMBER": "A hívó száma",
+    "LBL_TO_NUMBER": "A hívott szám",
+    "LBL_LOCATION": "Tartózkodási hely",
+    "LBL_PHONE_CALL_ID": "A hívás ID telefonon",
+    "LBL_DURATION": "Hívás időtartama",
+    "LBL_STATUS": "Állapot",
+    "LBL_START_TIME": "A hívás kezdődött",
+    "LBL_END_TIME": "Hívás vége",
+    "LBL_COUNTRY_CODE": "Országkód",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "ID címe",
+    "LBL_SIMSERIAL": "SIM-szám",
+    "LBL_SUBSCRIBERID": "Előfizetői száma",
+    "LBL_DESTINATION": "Where called",
+    "LBL_SOURCE": "Call source",
+    "Record Id": "Record Id",
+    "Outgoing missed": "Kimenő, nem fogadott",
+    "Outgoing received": "Fogadott hívás",
+    "Incoming": "Bejövő hívás",
+    "Missed": "Elutasított hívás",
+    "Voicemail": "Bejövő hangposta"
+  }
+}

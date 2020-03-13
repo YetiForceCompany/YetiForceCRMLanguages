@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Розширені налаштування доступу",
+    "AdvancedPermission": "Розширені налаштування доступу",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Користувацькі налаштування доступу, надати або зняти доступ до записів.",
+    "LBL_NAME": "Назва правила",
+    "LBL_MODULE": "Модуль",
+    "LBL_ACTION": "Дія",
+    "LBL_STATUS": "Статус",
+    "LBL_ROLE": "Роль",
+    "LBL_MEMBERS": "Учасники",
+    "LBL_PRIORITY": "Пріоритет",
+    "FL_ACTIVE": "Активно",
+    "FL_INACTIVE": "Неактивно",
+    "FL_UNLOCK_RECORD": "Надати доступ",
+    "FL_LOCK_RECORD": "Закрити доступ",
+    "LBL_SAVE_AND_CONDITIONS": "Далі",
+    "ERR_INACTIVE_ALERT_TITLE": "Розширені налаштування доступу вимкнено",
+    "ERR_INACTIVE_ALERT_DESC": "Змініть параметр PERMITTED_BY_ADVANCED_PERMISSION в файлі config\/security.php щоб увімкнути.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Перерахунок прав",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Перерахувати дозволи",
+    "LBL_RECALCULATE_CRON_INFO": "Перерахунок дозволів потребує включення CRON, будь ласка, перевірте чи активне завдання.",
+    "LBL_MODULES_LIST": "Список модулів",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Спеціальні дозволи було вимкнено, оскільки вони вимагають включення кешування записів дозволів. Щоб дозволи почали працювати необхідно включити CRON, і встановити змінній CACHING_PERMISSION_TO_RECORD [config\/security.php]  значення true."
+  }
+}

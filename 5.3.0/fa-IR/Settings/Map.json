@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Map": "نقشه",
+    "LBL_MAP": "نقشه",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "لایه کاشیبندی",
+    "LBL_TILE_LAYER_INFO_1": "سرور برای دانلود لایه های کاشیبندی نقشه های سامانه را انتخاب کنید. هر سرور ظاهری متفاوت از نقشه ارائه می دهد ، همچنین می توانید سرور شخصی یا عمومی خود را اضافه کنید اما به محدودیتها و محدودیت های مجوز توجه کنید.",
+    "LBL_TILE_LAYER_INFO_2": "برای افزودن سرورهای اضافی ، متغیر $tileLayerServers را در فایل %s ویرایش کنید. سرورهای لایه کاشیبندی عمومی که در دسترس در:",
+    "LBL_PROVIDER_NAME": "نام سرویس‌دهنده",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "قالب url لایه کاشیبندی",
+    "LBL_API_URL": "URL API ارائه دهنده",
+    "LBL_DRIVER": "درایور",
+    "LBL_COORDINATES": "مختصات",
+    "LBL_COORDINATES_INFO_1": "سرور مورد استفاده برای بارگیری مختصات جغرافیایی را انتخاب کنید ، Cron مختصات مربوط به قسمتهای آدرس را به روز می کند. به محدوده ارائه دهنده توجه کنید ، سامانه اغلب درخواست ها را به سرورها ارسال می کند. از این واقعیت آگاه باشید که سرورهای رایگان محدودیت های زیادی دارند و شما داده های خود را با آنها به اشتراک می گذارید ، همیشه سرورهای مورد اعتماد را انتخاب کنید.",
+    "LBL_COORDINATES_INFO_2": "To add additional servers, edit the $coordinatesServers variable in the %s file. Publicly available coordinates servers are available at:",
+    "LBL_AVAILABLE_DRIVERS": "Drivers available in the system",
+    "LBL_PROVIDER_ACTIVE": "فعال",
+    "LBL_ROUTING": "Routing",
+    "LBL_ROUTING_INFO_1": "Select the server to be used to map routes for vehicles, the system will provide coordinates of points for which you want to map the route.",
+    "LBL_ROUTING_INFO_2": "To add additional servers, edit the $routingServers variable in the %s file. Publicly available routing servers are available at:"
+  }
+}

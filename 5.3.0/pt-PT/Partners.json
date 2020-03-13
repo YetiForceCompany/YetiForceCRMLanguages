@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Parceiros",
+    "SINGLE_Partners": "Parceiro",
+    "LBL_PARTNERS_INFORMATION": "Informações Básicas",
+    "LBL_CUSTOM_INFORMATION": "Informações do Sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Detalhes",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_NUMBER": "Número",
+    "LBL_CLOSED_TIME": "Fechado??",
+    "LBL_VAT_ID": "ID do Imposto",
+    "FL_CATEGORY": "Categoria"
+  }
+}

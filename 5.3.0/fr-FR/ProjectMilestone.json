@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Jalon Projet ",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Détails du jalon projet",
+    "Project Milestone Name": "Nom du jalon",
+    "Milestone Date": "Date du jalon",
+    "Project Milestone No": "Jalon N°",
+    "description": "Description",
+    "Related to": "Projet",
+    "FL_PARENT_PROJECT_MILESTONE": "Jalon du projet parent",
+    "FL_STATUS": "Statut",
+    "LBL_ESTIMATED_WORK_TIME": "Temps de travail estimé",
+    "LBL_MILESTONES_LIST": "Liste des jalons",
+    "LBL_TASKS_LIST": "Liste des tâches",
+    "LBL_PROJECTS_LIST": "Liste des projets",
+    "LBL_PRIORITY": "Priorité",
+    "LBL_PROGRESS": "Progression",
+    "PLL_INTERNAL": "Interne",
+    "PLL_EXTERNAL": "Externe",
+    "PLL_SHARED": "Partagé",
+    "PLL_LOW": "Basse",
+    "PLL_NORMAL": "Normal",
+    "PLL_HIGH": "Haute"
+  }
+}

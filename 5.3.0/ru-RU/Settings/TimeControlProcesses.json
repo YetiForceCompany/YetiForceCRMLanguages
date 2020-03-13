@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "Учет времени",
+    "TimeControlProcesses": "Учет времени",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_ONEDAY_VALID": "Время работы ограничено до 24 часов",
+    "LBL_TIMEOVERLAP_VALID": "Укажите время повторения",
+    "LBL_GENERAL_SETTINGS": "Настройки",
+    "LBL_TIME_CONTROL_WIDGET": "Учет времени",
+    "LBL_TCW_INFO": "Показать\/Скрыть иконки в Виджете Учет времени",
+    "LBL_HOLIDAYS": "Иконка Выходной день",
+    "LBL_WORKING_DAYS": "Иконка Рабочий день",
+    "LBL_WORKING_TIME": "Иконка Рабочее время"
+  },
+  "js": {}
+}

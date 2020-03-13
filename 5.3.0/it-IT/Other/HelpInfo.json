@@ -1,0 +1,17 @@
+{
+  "php": {
+    "Announcements|FL_INTERVAL": "Frequenza dei promemoria in giorni, se un utente non ha riesaminato i cambiamenti. Se il campo rimane vuoto il promemoria non sarà più visualizzato.",
+    "Accounts|Account Name": "Questo campo è destinato al nome della società",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "Il paese di riferimento, durante la sincronizzazione dei numeri telefonici CardDAV, qualora non sia specificato il prefisso telefonico internazionale",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "Imposta sempre l'elemento selezionato come modulo predefinito nella ricerca globale.",
+    "FL_RESPONSE_RANGE_TIME": "Il numero di minuti trascorsi prima della reazione, calcolati sulla base dello SLA e dei giorni/ore lavorativi",
+    "FL_SOLUTION_RANGE_TIME": "Il numero di minuti che sono trascorsi per elaborare un dato record, calcolato su diversi stati a seconda della configurazione e basato sullo SLA e sui giorni/ore lavorativi",
+    "FL_IDLE_RANGE_TIME": "Il numero di minuti in cui un dato record è rimasto inattivo, ad esempio in attesa di ulteriori informazioni, viene calcolato in base allo SLA e ai giorni lavorativi",
+    "FL_CLOSING_RANGE_TIME": "Il numero di minuti trascorsi tra la creazione e l'ultima chiusura di un record, è calcolato in base allo SLA e ai giorni/ore lavorativi",
+    "FL_RESPONSE_DATE_TIME": "Data e ora di inizio del responso.",
+    "FL_SOLUTION_DATE_TIME": "Data e ora del responso.",
+    "FL_IDLE_DATE_TIME": "Data e ora di fine inattività.",
+    "FL_RESPONSE_EXPECTED": "Data pianificata/attesa fino a quando il responso sul record viene emesso, è calcolata in base allo SLA e ai giorni lavorativi.",
+    "FL_IDLE_DATE_EXPECTED": "Data pianificata/attesa fino a quando è consentita l'inattività, è calcolata in base allo SLA e ai giorni lavorativi."
+  }
+}

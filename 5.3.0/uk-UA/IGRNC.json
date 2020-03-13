@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGRNC": " Коригування імпорту товарів",
+    "SINGLE_IGRNC": " Коригування імпорту товарів",
+    "LBL_DESCRIPTION_BLOCK": "Опим",
+    "LBL_ATTENTION_BLOCK": "Коментарі",
+    "FL_ACCEPTANCE_DATE": "Запланована дата",
+    "FL_VENDOR": " Постачальник",
+    "FL_SUBJECT": " Найменування",
+    "FL_NUMBER": "Номер",
+    "FL_STORAGE": "Склад",
+    "FL_STATUS": "Статус",
+    "FL_IGRN": " Пов'язаний з",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "Обробка",
+    "PLL_OBJECTIONS": "Не погоджено",
+    "PLL_FOR_APPROVAL": "На узгодженні",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_ACCEPTED": "Узгоджено",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}

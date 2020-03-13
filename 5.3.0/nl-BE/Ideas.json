@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Ideeën",
+    "SINGLE_Ideas": "Idee",
+    "LBL_IDEAS_INFORMATION": "Basisinformatie",
+    "LBL_SUBJECT": "Onderwerp",
+    "LBL_STATUS": "Status",
+    "Description": "Basic beschrijving",
+    "LBL_EXTENT_DESCRIPTION": "Gedetailleerde beschrijving",
+    "Attention": "Opmerkingen",
+    "LBL_NO": "Nummer",
+    "Draft": "Ontwerp",
+    "Proposition": "Voorstel"
+  }
+}

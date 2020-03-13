@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_COLORS": "Кольори",
+    "LBL_COLOR": "Колір",
+    "LBL_PICKLISTS": "Випадаючий список",
+    "LBL_SELECT_PICKLIST": "Вибрати список",
+    "LBL_REMOVE_COLOR": "Видалити колір",
+    "LBL_GENERATE_COLOR": "Створити колір",
+    "LBL_UPDATE_COLOR": "Змінити колір",
+    "LBL_REMOVED_COLOR": "Колір видалено",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Редагувати колір",
+    "LBL_CALENDAR_COLORS": "Колір календаря",
+    "LBL_CALENDAR_TYPE": "Тип активності",
+    "LBL_SAVE_COLOR": "Колір збережено",
+    "Call": "Дзвінок",
+    "Task": "Задача",
+    "Meeting": "Зустріч",
+    "LBL_GROUPS_COLORS": "Колір груп",
+    "LBL_USERS_COLORS": "Кольора користувачів",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Функціонал кольорів для цього випадаючого списку не активовано",
+    "LBL_UPDATE_COLOR_COLUMN": "Активувати",
+    "LBL_WARNING": "Попередження",
+    "LBL_ITEM": "Значення",
+    "LBL_MODULE": "Модуль",
+    "LBL_GROUP_NAME": "Група"
+  }
+}

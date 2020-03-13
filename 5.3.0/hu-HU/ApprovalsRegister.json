@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ApprovalsRegister": "Jóváhagyások nyilvántartás",
+    "SINGLE_ApprovalsRegister": "Jóváhagyási Nyilvántartás",
+    "LBL_CUSTOM_INFORMATION": "Egyedi adatok",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "FL_SUBJECT": "Tárgy",
+    "FL_APPROVALS_STATUS": "Státusz",
+    "FL_DESCRIPTION": "Leírás",
+    "FL_CONTACT": "Névjegy",
+    "FL_APPROVAL": "Jováhagyás",
+    "FL_TYPE": "Típus",
+    "FL_STATUS": "Állapot",
+    "FL_REGISTRATION_DATE": "Regisztráció ideje",
+    "PLL_FOR_VERIFICATION": "Ellenőrzés",
+    "PLL_ACCEPTED": "Elfogadva",
+    "PLL_REJECTED": "Elutasítva",
+    "PLL_ACCEPTANCE": "Elfogadás",
+    "PLL_RESIGNATION": "- feladás"
+  }
+}

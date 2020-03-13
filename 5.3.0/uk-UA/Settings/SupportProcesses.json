@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Підтримка",
+    "LBL_GENERAL_CONFIGURATION": "Загальні налаштування",
+    "LBL_OTHER": "Інші",
+    "LBL_INFO": "Інформація",
+    "LBL_TYPE": "Тип",
+    "LBL_TICKET_STATUS_INFO": "Statuses determining that ticket is closed",
+    "LBL_SAVE_CONFIG_OK": "Зміни були збережені",
+    "LBL_SAVE_CONFIG_ERROR": "Помилка збереження змін.",
+    "SupportProcesses": "Процеси підтримки"
+  },
+  "js": {}
+}

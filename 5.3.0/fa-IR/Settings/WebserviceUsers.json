@@ -1,0 +1,34 @@
+{
+  "php": {
+    "WebserviceUsers": "وب سرویس - کاربران",
+    "LBL_WEBSERVICE_USERS": "وب سرویس - کاربران",
+    "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
+    "FL_SERVER": "سرویس دهنده",
+    "FL_STATUS": "وضعیت",
+    "FL_LOGIN": "ورود",
+    "FL_PASSWORD": "گذرواژه",
+    "FL_TYPE": "نوع",
+    "FL_LOGIN_TIME": "زمان ورود",
+    "FL_LOGOUT_TIME": "زمان خروج",
+    "FL_LANGUAGE": "زبان",
+    "FL_RECORD_NAME": "رکورد",
+    "FL_USER": "کاربر",
+    "BTN_SAVE": "ذخیره",
+    "BTN_CLOSE": "لغو",
+    "PLL_USER_PERMISSIONS": "مجوز بر اساس کاربر",
+    "PLL_ACCOUNTS_RELATED_RECORDS": "تمام سوابق حساب که مستقیماً برای تماس اختصاص داده شده اند",
+    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "کلیه سوابق مربوط به حساب که مستقیماً به سلسله مراتب به مخاطبین و حسابهای پست اختصاص داده شده است",
+    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "کلیه سوابق مربوط به حساب که مستقیماً به مخاطبین و حساب‌های مربوط سلسله مراتب اختصاص داده شده اند",
+    "PLL_ACTIVE": "فعال",
+    "PLL_INACTIVE": "غیرفعال",
+    "LBL_CREATE_RECORD": "ایجاد",
+    "Mail": "ايميل",
+    "FL_STORAGE": "محل انبار و نگهداری",
+    "FL_TOKEN": "توکن",
+    "ManageConsents": "مدیریت رضایت نامه"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟",
+    "JS_SAVE_SUCCESS": "تغییرات ذخیره شد"
+  }
+}

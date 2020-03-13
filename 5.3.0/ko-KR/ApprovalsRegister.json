@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ApprovalsRegister": "승인목록 등록",
+    "SINGLE_ApprovalsRegister": "승인 등록",
+    "LBL_CUSTOM_INFORMATION": "맞춤 정보",
+    "LBL_BASIC_INFORMATION": "기본 정보",
+    "LBL_DESCRIPTION_INFORMATION": "구체적인 설명",
+    "FL_SUBJECT": "제목",
+    "FL_APPROVALS_STATUS": "상태",
+    "FL_DESCRIPTION": "설명",
+    "FL_CONTACT": "연락처",
+    "FL_APPROVAL": "승인",
+    "FL_TYPE": "유형",
+    "FL_STATUS": "상태",
+    "FL_REGISTRATION_DATE": "등록 일자",
+    "PLL_FOR_VERIFICATION": "검증",
+    "PLL_ACCEPTED": "승인됨",
+    "PLL_REJECTED": "거부됨",
+    "PLL_ACCEPTANCE": "승인",
+    "PLL_RESIGNATION": "사임"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Verseny",
+    "SINGLE_Competition": "Versenytárs",
+    "LBL_COMPETITION_INFORMATION": "Alap információk",
+    "LBL_CUSTOM_INFORMATION": "Rendszer információ",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "LBL_SUBJECT": "Név",
+    "LBL_NUMBER": "Szám",
+    "LBL_CLOSED_TIME": "Zárva tartás",
+    "LBL_VAT_ID": "Adó azonosító (ID)",
+    "LBL_SHOW_HIERARCHY": "Hierarchia",
+    "LBL_PARENT_ID": "Versenytárs szülő"
+  }
+}

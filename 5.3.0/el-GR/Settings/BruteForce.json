@@ -1,0 +1,25 @@
+{
+  "php": {
+    "BruteForce": "Brute-force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Αριθμός προσπαθειών",
+    "LBL_TIME_LOCK": "Χρόνος κλειδώματος (λεπτά)",
+    "LBL_SETTINGS": "Ρυθμίσεις",
+    "LBL_BLOCKED_IP": "Αποκλεισμένη διεύθυνση IP",
+    "LBL_SAVE_SUCCESS": "Οι αλλαγές αποθηκεύτηκαν",
+    "LBL_UNBLOCK_FAIL": "Διεύθυνση IP δεν έχει αποδεσμευτεί",
+    "LBL_UNBLOCK_SUCCESS": "Διεύθυνση IP έχει αποδεσμευτεί",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Ορίστε το μέγιστο αριθμό αποτυχημένων προσπαθειών εισόδου και χρονική προθεσμία για μπλοκάρισμα IP.",
+    "LBL_IP": "Διεύθυνση IP",
+    "LBL_DATE": "Ημερομηνία",
+    "LBL_USERS": "Χρήστες",
+    "LBL_BROWSERS": "Προγράμματα περιήγησης",
+    "LBL_UNBLOCK": "Κατάργηση αποκλεισμού",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Χρήστες για ειδοποιήσεις",
+    "LBL_BRUTEFORCE_ACTIVE": "Ενεργό",
+    "LBL_VIEW_SHOW": "Brute-force",
+    "LBL_SENT_NOTIFICATIONS": "Αποστολή ειδοποιήσεων"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Σφάλμα. Απέτυχε η αποθήκευση."
+  }
+}
