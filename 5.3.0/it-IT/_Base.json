@@ -1391,7 +1391,7 @@
     "ERR_OCCURRED_CHECK_LOGS": "Si è verificato un errore, controlla i log",
     "LBL_SHOW_ORIGINAL_CONTENT": "Mostra contenuto originale",
     "LBL_COMPANY_NAME": "Nome dell'azienda",
-    "LBL_SHOW_PASSWORD": "Show hidden password",
+    "LBL_SHOW_PASSWORD": "Mostra password nascosta",
     "LBL_NO_DATA_FOUND": "Nessun dato trovato"
   },
   "js": {

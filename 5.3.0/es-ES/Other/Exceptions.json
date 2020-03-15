@@ -45,6 +45,6 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "El objeto debe tener una interfaz %s",
     "ERR_CLASS_NOT_FOUND": "Clase %s no encontrada",
     "ERR_CLASS_MUST_BE": "La clase debe ser %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s funcionalidad pagada, debes comprarla"
   }
 }
