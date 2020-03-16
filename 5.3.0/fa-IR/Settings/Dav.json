@@ -10,7 +10,7 @@
     "LBL_EMAIL": "ایمیل",
     "LBL_LOGIN": "ورود",
     "LBL_SELECT_USER": "انتخاب کاربر:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "نرم افزار DAV فعال نیست",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "برنامه DAV هنوز فعال نشده است، از طریق config/api.php آنرا فعال نمایید",
     "LBL_SUCCESS_SAVE_KEY": "کلید جدید با موفقیت وارد گردید",
     "LBL_ERROR_SAVE_KEY": "بروز خطا در ذخیره کلید",

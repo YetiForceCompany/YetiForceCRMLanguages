@@ -10,7 +10,7 @@
     "LBL_EMAIL": "电子邮件",
     "LBL_LOGIN": "登录",
     "LBL_SELECT_USER": "选择用户:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV程序未启用",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active.",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "尚未启用DAV应用程序，如果想启用他，请到config/api.php设置",
     "LBL_SUCCESS_SAVE_KEY": "已成功添加新的密钥",
     "LBL_ERROR_SAVE_KEY": "保存密钥时出错",

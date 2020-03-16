@@ -10,7 +10,7 @@
     "LBL_EMAIL": "Email",
     "LBL_LOGIN": "Identifiant",
     "LBL_SELECT_USER": "Sélectionner un utilisateur :",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Application DAV est inactive",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Application DAV n'est pas encore activé, activez là dans config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Nouvelle clé ajoutée avec succès",
     "LBL_ERROR_SAVE_KEY": "Erreur en sauvegardant la clé",

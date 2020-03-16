@@ -10,7 +10,7 @@
     "LBL_EMAIL": "Почта",
     "LBL_LOGIN": "Логин",
     "LBL_SELECT_USER": "Выберите имя пользователя:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Приложение Синхронизация не активно",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Для активации приложения Синхронизация, расскомметируйте строку DAV в файле config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Добавлен новый ключ",
     "LBL_ERROR_SAVE_KEY": "Ошибка при добавлении ключа",

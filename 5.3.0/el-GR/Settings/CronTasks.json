@@ -13,7 +13,7 @@
     "Frequency(H:M)": "Συχνότητα(Ω:Λ)",
     "LBL_DURATION": "Διάρκεια",
     "Id": "Αναγνωριστικό",
-    "Last End": "Τελευταία σάρωση έληξε",
+    "Last End": "Τελευταία σάρωση τελείωσε",
     "Last Start": "Τελευταία σάρωση ξεκίνησε",
     "LBL_ACTIVE": "Ενεργή",
     "LBL_COMPLETED": "Ολοκληρώθηκε",
@@ -42,7 +42,7 @@
     "LBL_CRMACTIVITY_DAYS": "Ενημέρωση πεδίων δραστηριότητας ημερολογίου στα συσχετιζόμενα modules",
     "LBL_ACTIVITY_STATE": "Κατάσταση δραστηριότητας",
     "LBL_ASSETS_RENEWAL": "Ανανέωση στοιχείων ενεργητικού",
-    "LBL_SOLD_SERVICES_RENEWAL": "Ανανέωση των πωληθεισών υπηρεσιών",
+    "LBL_SOLD_SERVICES_RENEWAL": "Ανανέωση των πουλημένων υπηρεσιών",
     "LBL_SEND_NOTIFICATIONS": "Αποστολή ειδοποιήσεων",
     "LBL_MARK_RECORDS_AS_REVIEWED": "Σήμανση εγγραφών ως αναθεωρημένες",
     "LBL_ADDRESS_BOOK": "Ενημέρωση βιβλίου διευθύνσεων",
@@ -65,7 +65,7 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Εκκαθάριση καταλόγου προσωρινών αρχείων",
     "LBL_SESSION_CLEANER": "Εκκαθάριση ανενεργών συνεδριών",
     "LBL_ARCHIVE_OLD_RECORDS": "Αρχειοθέτηση παλιών εγρραφών",
-    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "Ο μηχανισμός CRON δεν έχει ενεργοποιηθεί, είναι απαραίτητο για τη σωστή λειτουργία του συστήματος.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Λήψη μηνυμάτων από τα μέσα κοινωνικής δικτύωσης"
   },
   "js": {

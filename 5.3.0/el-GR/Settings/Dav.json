@@ -10,7 +10,7 @@
     "LBL_EMAIL": "E-mail",
     "LBL_LOGIN": "Είσοδος",
     "LBL_SELECT_USER": "Επιλέξτε χρήστη:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Εφαρμογή DAV δεν είναι ενεργή",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Eφαρμογή DAV δεν έχει ενεργοποιηθεί ακόμα, ενεργοποιήστε την στο αρχείο config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Νέο κλειδί έχει προστεθεί με επιτυχία",
     "LBL_ERROR_SAVE_KEY": "Σφάλμα κατά την Αποθήκευση κλειδιού",

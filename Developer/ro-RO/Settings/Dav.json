@@ -10,7 +10,7 @@
     "LBL_EMAIL": "Email",
     "LBL_LOGIN": "Logare",
     "LBL_SELECT_USER": "Selectati utilizator:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Aplicatia DAV nu este activa",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active.",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Aplicatia DAV nu a fost activata inca, activati-o in config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Noua cheie a fost adaugata cu succes",
     "LBL_ERROR_SAVE_KEY": "Eroare salvare cheie",
