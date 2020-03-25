@@ -59,7 +59,7 @@
     "HistoryRelation": "نوارزمان",
     "CountRecords": "تعداد رکوردها",
     "LBL_LIST_WITH_SUMMARY": "لیست همراه با چکیده",
-    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
+    "LBL_CURRENT_HISTORY_SWITCH": "جاری/تاریخچه"
   },
   "js": {
     "Loading data": "درحال بارگذاری...",

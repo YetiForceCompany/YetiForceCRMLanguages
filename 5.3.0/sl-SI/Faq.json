@@ -1,7 +1,7 @@
 {
   "php": {
-    "Faq": "FAQ",
-    "SINGLE_Faq": "Pogosta vprašanja",
+    "Faq": "Pogosto zastavljena vprašanja",
+    "SINGLE_Faq": "Pogosto zastavljena vprašanja",
     "Draft": "Osnutek",
     "FL_SUBJECT": "Zadeva",
     "FL_CONTENT": "Vsebina",
@@ -18,7 +18,7 @@
     "FL_FEATURED": "Prestavljeni",
     "LBL_RELATED_FAQ": "Sorodni vnosi",
     "FL_INTRODUCTION": "Uvod",
-    "Faq No": "FAQ št.",
+    "Faq No": "Št. pogosto zastavljenih vprašanj",
     "General": "Splošno",
     "LBL_FAQ_INFORMATION": "Pogosta vprašanja podatki",
     "LBL_RECORDS_LIST": "Pregled pogostih vprašanj",
