@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "Кампанія",
     "FL_MEMBER_OF": "Батьківська угода",
     "FL_START_DATE": "Дата початку",
+    "FL_ESTIMATED_MARGIN": "Передбачувана маржинальність",
+    "FL_EXPECTED_MARGIN": "Expected margin",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "Сайт",
     "PLL_PHONE": "Телефон",
     "PLL_MAIL_CAMPAIGN": "Пошта",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "Продаж скасована",
     "LBL_SWITCHHEADER_ON_0": "Відкрито",
     "LBL_SWITCHHEADER_OFF_0": "Закрито",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Відкрити\/Закрити",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Відкрити/Закрити",
     "LBL_SHOW_HIERARCHY": "Ієрархія"
   }
 }

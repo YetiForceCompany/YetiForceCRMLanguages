@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista podatności bibliotek",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Konfiguracja sekwencji listy wyboru",
     "LBL_ADVANCED_RECORD_NUMBERING": "Konfiguracja sekwencji listy wyboru",
-    "LBL_PREFIX": "Prefiks"
+    "LBL_PREFIX": "Prefiks",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Funkcjonalność %s nie została jeszcze aktywowana, w celu aktywacji należy kliknąć przycisk \"Aktywuj\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktywuj"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

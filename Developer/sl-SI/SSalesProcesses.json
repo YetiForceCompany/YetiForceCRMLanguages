@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "Marketinška akcija",
     "FL_MEMBER_OF": "Nadrejena prodajna priložnost",
     "FL_START_DATE": "Datum pričetka",
+    "FL_ESTIMATED_MARGIN": "Estimated margin",
+    "FL_EXPECTED_MARGIN": "Expected margin",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "Spletna stran",
     "PLL_PHONE": "Telefon",
     "PLL_MAIL_CAMPAIGN": "Poštna akcija",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "Prodaja prekinjena",
     "LBL_SWITCHHEADER_ON_0": "Odprto",
     "LBL_SWITCHHEADER_OFF_0": "Zaključene",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Odprte \/ Zaključene",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Odprte / Zaključene",
     "LBL_SHOW_HIERARCHY": "Hierarhija"
   }
 }

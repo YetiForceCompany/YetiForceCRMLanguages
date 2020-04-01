@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Только первые 100 результатов всех модулей показаны ниже. Для поиска результатов в конкретном модуле, пожалуйста выберите соответствующий модуль и нажмите поиск",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Только первые 100 результатов показаны ниже. Пожалуйста, используйте расширенный поиск если вас не удовлетворяют данные результаты",
     "LBL_GO_BACK": "Назад",
-    "LBL_MAIN_PAGE": "Главная",
+    "LBL_MAIN_PAGE": "Виджеты",
     "Illegal request": "Защита CSRF: Обнаружена попытка взлома",
     "LBL_ERROR": "Ошибка!!!",
     "LBL_GO_TO_FULL_FORM": "Детальная форма",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "изменено на",
     "LBL_IS_RECORD_OPEN": "Record is open",
     "LBL_IS_RECORD_CLOSED": "Record is closed",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Paid functionality has been activated without purchasing the right product in the store. You violate the terms of the software license.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "One of the purchased products has expired or requires changing a package. The product has been temporarily canceled.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Show original content",
     "LBL_COMPANY_NAME": "Company name",
     "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_NO_DATA_FOUND": "No data found",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "Approve",

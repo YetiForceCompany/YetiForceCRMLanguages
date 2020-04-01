@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Автоматично излизане поради липса на активност",
     "ERR_FIELD_NOT_FOUND": "Полето не е намерено (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Брой на не позволени аргументи (%d %s in %s)",
-    "ERR_NO_VALUE": "Няма стойност",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "Съдържанието е празно",
     "ERR_API": "Грешка в API",
     "ERR_MODULE_DOES_NOT_EXIST": "Модул %s не съществува",

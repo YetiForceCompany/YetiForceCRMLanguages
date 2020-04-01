@@ -1,0 +1,10 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicar correos",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Bloquea la adición/edición de registros cuando ya exista una de las direcciones de correo electrónico ingresadas",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicar ID de IVA",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Bloquea la adición/edición de registros cuando dicho ID de IVA ya existe",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicar ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Bloquea la adición/edición de registros cuando dicho ID de IVA ya existe"
+  }
+}

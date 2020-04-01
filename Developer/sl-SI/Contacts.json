@@ -46,8 +46,7 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Vsi",
     "LBL_SHOW_HIERARCHY": "Struktura kontaktov",
     "FL_APPROVALS": "Dovoljenja",
-    "LBL_PARTICIPANTS": "Udeleženci",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Kopiraj e-poštni naslov"
+    "LBL_PARTICIPANTS": "Udeleženci"
   },
   "js": {}
 }

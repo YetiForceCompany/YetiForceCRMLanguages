@@ -1,16 +1,16 @@
 {
   "php": {
-    "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "Approvals": "Εγκρίσεις",
+    "SINGLE_Approvals": "Έγκριση",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες Περιγραφής",
+    "FL_NAME": "Όνομα",
+    "FL_APPROVALS_STATUS": "Κατάσταση",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_NUMBER": "Αριθμός",
+    "PLL_DRAFT": "Σχέδιο",
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_INACTIVE": "Ανενεργό"
   }
 }

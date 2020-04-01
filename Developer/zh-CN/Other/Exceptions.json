@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "由于没有活动而自动退出",
     "ERR_FIELD_NOT_FOUND": "未找到字段",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "不允许的参数数量(%d %s in %s)",
-    "ERR_NO_VALUE": "输入为空",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "内容为空",
     "ERR_API": "API中的错误",
     "ERR_MODULE_DOES_NOT_EXIST": "模块%s 不存在",

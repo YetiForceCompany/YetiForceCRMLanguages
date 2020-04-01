@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Нижче наведено лише перші 100 результатів всіх модулів. Для більш точних результатів виберіть відповідний модуль і виконайте пошук.",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Нижче наведено лише перші 100 результатів. Будь ласка, зробіть Розширений пошук, якщо Ви не задоволені результатом.",
     "LBL_GO_BACK": "Повернутися назад",
-    "LBL_MAIN_PAGE": "Головна",
+    "LBL_MAIN_PAGE": "Головна панель",
     "Illegal request": "Захист CSRF: Виявлено спробу злому",
     "LBL_ERROR": "Помилка!!!",
     "LBL_GO_TO_FULL_FORM": "Повна форма",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "змінено на",
     "LBL_IS_RECORD_OPEN": "Запис відкритий",
     "LBL_IS_RECORD_CLOSED": "Запис закритий",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Платна функція була активована без придбання продукту в магазині. Ви порушуєте умови ліцензії.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Один з куплених продуктів закінчився або вимагає зміни пакета. Продукт був тимчасово відмінений.",
     "LBL_YETIFORCE_SHOP": "Магазин Yetiforce",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Show original content",
     "LBL_COMPANY_NAME": "Назва компанії",
     "LBL_SHOW_PASSWORD": "Показати прихований пароль",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_NO_DATA_FOUND": "No data found",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "Такий ідентифікатор ПДВ вже існує в цьому модулі.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "Схвалити",

@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "仅显示在所有模块中查询的前 100 条记录。如果要查看特定模块的结果，请选择相应模块并搜索",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "仅显示前 100 条记录。如果未找到满意的记录，请使用高级搜索",
     "LBL_GO_BACK": "返回",
-    "LBL_MAIN_PAGE": "主页",
+    "LBL_MAIN_PAGE": "主要概览信息面板",
     "Illegal request": "CSRF保护︰检测到黑客入侵",
     "LBL_ERROR": "错误！！！!!!",
     "LBL_GO_TO_FULL_FORM": "切换到完整编辑",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "改变为",
     "LBL_IS_RECORD_OPEN": "记录已打开",
     "LBL_IS_RECORD_CLOSED": "记录已关闭",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "付费功能被激活了，但在商店中未购买正确的产品。您违反了软件许可证的条款。",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "购买的产品之一已过期或需要更改版本。产品已暂时取消。",
     "LBL_YETIFORCE_SHOP": "Yetiforce 商店",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "显示原文",
     "LBL_COMPANY_NAME": "Company name",
     "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_NO_DATA_FOUND": "No data found",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "同意",

@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Elenco delle vulnerabilità delle librerie",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Impostazioni sequenza elenco discesa",
     "LBL_ADVANCED_RECORD_NUMBERING": "Impostazioni sequenza elenco discesa",
-    "LBL_PREFIX": "Prefisso"
+    "LBL_PREFIX": "Prefisso",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La funzionalità %s non è stata ancora attivata. Clicca sul pulsante \"Attiva\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Attivazione"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizzazione riuscita",

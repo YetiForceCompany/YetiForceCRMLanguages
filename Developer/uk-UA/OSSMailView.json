@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Email history",
-    "SINGLE_OSSMailView": "Email history",
+    "OSSMailView": "Історія електронної пошти",
+    "SINGLE_OSSMailView": "Історія електронної пошти",
     "LBL_RECORDS_LIST": "Список листів",
     "LBL_INFORMATION": "Загальна інформація",
     "LBL_ORIGN_MESSAGE": "Оригінал повідомлення",

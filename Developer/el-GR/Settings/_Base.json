@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Λίστα τρωτών σημείων",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Λίστα επιλογών ρυθμίσεων",
     "LBL_ADVANCED_RECORD_NUMBERING": "Λίστα επιλογών ρυθμίσεων",
-    "LBL_PREFIX": "Πρόθεμα"
+    "LBL_PREFIX": "Πρόθεμα",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s λειτουργία δεν έχει ενεργοποιηθεί ακόμη. Κάντε κλικ στο κουμπί \"Ενεργοποίηση\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

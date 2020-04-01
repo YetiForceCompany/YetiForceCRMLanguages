@@ -1390,9 +1390,9 @@
     "LBL_PREVIOUS_COLOR": "Vorherige Farbe:",
     "ERR_OCCURRED_CHECK_LOGS": "Fehler aufgetreten, überprüfen Sie die Logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Originalinhalt anzeigen",
-    "LBL_COMPANY_NAME": "Company name",
-    "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_COMPANY_NAME": "Firmenname",
+    "LBL_SHOW_PASSWORD": "Zeige verstecktes Passwort",
+    "LBL_NO_DATA_FOUND": "Keine Daten gefunden"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

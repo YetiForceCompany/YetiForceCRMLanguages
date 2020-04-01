@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Odjavljuje se automatski zbog neaktivnosti",
     "ERR_FIELD_NOT_FOUND": "Nepronađena polja (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Broj argumenata nije dozvoljen (%d %s u %s)",
-    "ERR_NO_VALUE": "Bez vrijednosti",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "Tijelo je prazno",
     "ERR_API": "Greška u API",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s ne postoji",

@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Automaticky sa odhlási z dôvodu nečinnosti",
     "ERR_FIELD_NOT_FOUND": "Súbor nebol nájdený: [%s]",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Počet argumentov nie je povolený (% d % s v % s)",
-    "ERR_NO_VALUE": "Žiadna hodnota",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "Telo je prázdne",
     "ERR_API": "Chyba v API",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s neexistuje",

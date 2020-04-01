@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Nastąpiło automatyczne wylogowanie ze względu na brak aktywności",
     "ERR_FIELD_NOT_FOUND": "Nie znaleziono pola (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Niedozwolona ilość parametrów (%d %s %s)",
-    "ERR_NO_VALUE": "Brak wartości",
+    "ERR_NO_VALUE": "Brak wartości w %s",
     "ERR_BODY_IS_EMPTY": "Brak treści",
     "ERR_API": "Błąd w API",
     "ERR_MODULE_DOES_NOT_EXIST": "Moduł o nazwie %s nie istnieje",

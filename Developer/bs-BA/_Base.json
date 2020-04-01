@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Za specifične rezultate modula, odaberite odgovarajući modul i pretražite",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "U nastavku su prikazani samo prvih 100 rezultata. Molimo vas da napravite Naprednu pretragu ako niste zadovoljni rezultatom",
     "LBL_GO_BACK": "Vrati se",
-    "LBL_MAIN_PAGE": "Početna stranica",
+    "LBL_MAIN_PAGE": "Kontrolna ploča",
     "Illegal request": "CSRF zaštita: Otkriven pokušaj hakiranja",
     "LBL_ERROR": "Greška!!!",
     "LBL_GO_TO_FULL_FORM": "Idi na punu formu",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "izmijenjen u",
     "LBL_IS_RECORD_OPEN": "Zapis je otvoren",
     "LBL_IS_RECORD_CLOSED": "Zapis je zatvoren",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Plaćena funkcionalnost je aktivirana bez kupovine pravog proizvoda u trgovini. Kršite uvjete softverske licence.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Jedan od kupljenih proizvoda je istekao ili zahtijeva promjenu paketa. Proizvod je privremeno otkazan.",
     "LBL_YETIFORCE_SHOP": "Yetiforce prodavnica",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Prikaži izvorni sadržaj",
     "LBL_COMPANY_NAME": "Company name",
     "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_NO_DATA_FOUND": "No data found",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "Odobriti",

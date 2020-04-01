@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Déconnecté automatiquement en raison d'inactivité",
     "ERR_FIELD_NOT_FOUND": "Le champ n'a pas été trouvé (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Plusieurs arguments ne sont pas admis (%d %s dans %s)",
-    "ERR_NO_VALUE": "Aucune valeur",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "Le corps est vide",
     "ERR_API": "Erreur dans l'API",
     "ERR_MODULE_DOES_NOT_EXIST": "Le module %s n'existe pas",

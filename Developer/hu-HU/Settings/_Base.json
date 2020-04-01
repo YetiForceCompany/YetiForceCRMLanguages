@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista könyvtárak biztonsági rések",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "A választási lista sorrend beállítása",
     "LBL_ADVANCED_RECORD_NUMBERING": "A választási lista sorrend beállítása",
-    "LBL_PREFIX": "Előtag"
+    "LBL_PREFIX": "Előtag",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s funkció még nem aktiválták. Kattintson az \"Aktiválás\" gombra.",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiválás"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Engedélyezés sikeres",

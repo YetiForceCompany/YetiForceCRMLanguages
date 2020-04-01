@@ -1,0 +1,10 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Ismétlődő e-mail cím",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor az egyik a megadott e-mail cím már létezik",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Ismétlődő ÁFA AZONOSÍTÓ",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor ilyen adószámát már létezik",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Ismétlődő ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor ilyen EAN kód már létezik"
+  }
+}

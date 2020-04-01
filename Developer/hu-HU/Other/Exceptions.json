@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Automatikus kijelentkezés aktivitás hiánya miatt",
     "ERR_FIELD_NOT_FOUND": "Mező nem található %s",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Argumentumok száma nem engedélyezett (%d %s a %s)",
-    "ERR_NO_VALUE": "Nincs érték",
+    "ERR_NO_VALUE": "Nincs értéke a %s",
     "ERR_BODY_IS_EMPTY": "A levéltest üres",
     "ERR_API": "Hiba az API-ban",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s nem létezik",

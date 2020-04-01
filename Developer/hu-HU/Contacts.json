@@ -46,8 +46,7 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "All",
     "LBL_SHOW_HIERARCHY": "Contact hierarchy",
     "FL_APPROVALS": "Jóváhagyások",
-    "LBL_PARTICIPANTS": "Résztvevők",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Duplikált e-mail cím"
+    "LBL_PARTICIPANTS": "Résztvevők"
   },
   "js": {}
 }

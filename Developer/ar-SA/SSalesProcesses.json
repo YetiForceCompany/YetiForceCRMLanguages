@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "حملات التسويق",
     "FL_MEMBER_OF": "الأم فرصة المبيعات",
     "FL_START_DATE": "تاريخ الابتداء",
+    "FL_ESTIMATED_MARGIN": "Estimated margin",
+    "FL_EXPECTED_MARGIN": "Expected margin",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "موقع على شبكة الإنترنت",
     "PLL_PHONE": "الهاتف",
     "PLL_MAIL_CAMPAIGN": "حملة البريد",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "للبيع إلغاء",
     "LBL_SWITCHHEADER_ON_0": "مفتوحة",
     "LBL_SWITCHHEADER_OFF_0": "مغلق",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "فتح\/إغلاق",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "فتح/إغلاق",
     "LBL_SHOW_HIERARCHY": "تدرّج"
   }
 }

@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Only the first 100 results of all modules are shown below. For module specific results, please select respective module and search",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Only the first 100 results are shown below. Please do Advanced Search if you are not satisfied with the result",
     "LBL_GO_BACK": "Go back",
-    "LBL_MAIN_PAGE": "Home page",
+    "LBL_MAIN_PAGE": "Dashboard",
     "Illegal request": "CSRF protection: Hacking attempt detected",
     "LBL_ERROR": "Error!!!",
     "LBL_GO_TO_FULL_FORM": "Go to full form",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "változtatva erre",
     "LBL_IS_RECORD_OPEN": "Record is open",
     "LBL_IS_RECORD_CLOSED": "Record is closed",
+    "LBL_PAID_FUNCTIONALITY": "Ez egy kiegészítő, és fizetési funkció. Folytassa a Piacon, hogy létrehozzon egy fizetési módot, majd aktiválja azt.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Paid functionality has been activated without purchasing the right product in the store. You violate the terms of the software license.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "One of the purchased products has expired or requires changing a package. The product has been temporarily canceled.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Eredeti tartalom mutatása",
     "LBL_COMPANY_NAME": "Cég neve",
     "LBL_SHOW_PASSWORD": "Rejtett jelszó megjelenítése",
-    "LBL_NO_DATA_FOUND": "Nem található adat"
+    "LBL_NO_DATA_FOUND": "Nem található adat",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Ez az e-mail cím már létezik ebben a modulban.",
+    "LBL_DUPLICATE_VAT_ID": "Ez a adó-azonosító már létezik ebben a modulban.",
+    "LBL_DUPLICATE_EAN": "Ez az Ean kód már létezik ebben a modulban.",
+    "FL_MAGENTO_SERVER": "Magento szerver"
   },
   "js": {
     "JS_APPROVE": "Approve",

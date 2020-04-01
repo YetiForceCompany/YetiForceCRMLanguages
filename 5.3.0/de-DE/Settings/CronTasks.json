@@ -65,7 +65,7 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Lösche temporäre Dateien",
     "LBL_SESSION_CLEANER": "Lösche inaktive Sitzungen",
     "LBL_ARCHIVE_OLD_RECORDS": "Datensatz archivieren",
-    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "Der CRON-Mechanismus wurde nicht aktiviert, er ist für den korrekten Betrieb des Systems erforderlich.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Nachrichten von Social Media laden"
   },
   "js": {

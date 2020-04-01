@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Samodejno odjavljeni zaradi nedejavnosti",
     "ERR_FIELD_NOT_FOUND": "Polje ni bilo najdeno (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
-    "ERR_NO_VALUE": "Ni vrednosti",
+    "ERR_NO_VALUE": "Nobene vrednosti v %s",
     "ERR_BODY_IS_EMPTY": "Telo je prazno",
     "ERR_API": "Napaka v API",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s ne obstaja",

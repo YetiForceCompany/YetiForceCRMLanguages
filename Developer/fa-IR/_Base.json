@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "فقط ۱۰۰ نتیجه اول همه ماژول ها در زیر نشان داده شده است. برای نتایج خاص ماژول ، لطفا ماژول مربوطه را جستجو کنید و جستجو کنید",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "فقط ۱۰۰ نتیجه اول در زیر نشان داده شده است. لطفاً اگر از نتیجه راضی نیستید ، جستجوی پیشرفته را انجام دهید",
     "LBL_GO_BACK": "بازگشت",
-    "LBL_MAIN_PAGE": "صفحه اصلی",
+    "LBL_MAIN_PAGE": "داشبورد",
     "Illegal request": "حفاظت CSRF: تلاش هک شناسایی شد",
     "LBL_ERROR": "خطا!!!",
     "LBL_GO_TO_FULL_FORM": "برو به فرم کامل",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "تغییر کرده به",
     "LBL_IS_RECORD_OPEN": "رکورد باز است",
     "LBL_IS_RECORD_CLOSED": "رکورد بسته است",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "قابلیت‌هایی که نیاز پرداخت دارند بدون خرید محصول مناسب در فروشگاه فعال شده است. شما شرایط مجوز نرم افزار را نقض می کنید.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "یکی از محصولات خریداری شده منقضی شده یا نیاز به تغییر بسته دارد. محصول به طور موقت لغو شده است.",
     "LBL_YETIFORCE_SHOP": "فروشگاه Yetiforce",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "نمایش محتوای اصلی",
     "LBL_COMPANY_NAME": "نام شرکت",
     "LBL_SHOW_PASSWORD": "نمایش گذرواژه‌های پنهان",
-    "LBL_NO_DATA_FOUND": "اطلاعات یافت نشد"
+    "LBL_NO_DATA_FOUND": "اطلاعات یافت نشد",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "تایید",

@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista de bibliotecas de vulnerabilidades",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Ajustes de secuencia de lista de selección",
     "LBL_ADVANCED_RECORD_NUMBERING": "Registro de numeración avanzada",
-    "LBL_PREFIX": "Prefijo"
+    "LBL_PREFIX": "Prefijo",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La funcionalidad %s aún no se ha activado. Haz clic en el botón \"Activar\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Activar"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorización satisfactoria",

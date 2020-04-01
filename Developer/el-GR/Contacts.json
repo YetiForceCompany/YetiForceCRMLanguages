@@ -45,9 +45,8 @@
     "LBL_SWITCH_ON_DECISION_MAKER": "Υπεύθυνος λήψης αποφάσεων",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Όλες",
     "LBL_SHOW_HIERARCHY": "Ιεραρχία",
-    "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Διπλότυπη διεύθυνση email"
+    "FL_APPROVALS": "Εγκρίσεις",
+    "LBL_PARTICIPANTS": "Συμμετέχοντες"
   },
   "js": {}
 }

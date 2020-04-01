@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "کمپین بازاریابی",
     "FL_MEMBER_OF": "فرصت فروش والد",
     "FL_START_DATE": "تاریخ شروع",
+    "FL_ESTIMATED_MARGIN": "حاشیه سود مورد انتظار",
+    "FL_EXPECTED_MARGIN": "حاشیه سود مورد انتظار",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "وب‌سایت",
     "PLL_PHONE": "تلفن",
     "PLL_MAIL_CAMPAIGN": "کمپین ایمیلی",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "فروش لغو شده",
     "LBL_SWITCHHEADER_ON_0": "باز",
     "LBL_SWITCHHEADER_OFF_0": "بسته شده",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "باز\/بسته",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "باز/بسته",
     "LBL_SHOW_HIERARCHY": "سلسه مراتب"
   }
 }

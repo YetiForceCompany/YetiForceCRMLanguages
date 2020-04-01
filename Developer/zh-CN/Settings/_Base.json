@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "库漏洞列表",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "选取列表序列设置",
     "LBL_ADVANCED_RECORD_NUMBERING": "选取列表序列设置",
-    "LBL_PREFIX": "前缀"
+    "LBL_PREFIX": "前缀",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "认证成功",

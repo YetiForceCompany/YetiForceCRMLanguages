@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "به طور خودکار به دلیل بی فعالیتی خارج شدید",
     "ERR_FIELD_NOT_FOUND": "فایل یافت نشد (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "تعداد آرگومان‌ها مجاز نمی باشد ( %d%s در %s)",
-    "ERR_NO_VALUE": "بدون مقدار",
+    "ERR_NO_VALUE": "No value in %s",
     "ERR_BODY_IS_EMPTY": "Body خالی است",
     "ERR_API": "خطا در API",
     "ERR_MODULE_DOES_NOT_EXIST": "ماژول %s وجود ندارد",

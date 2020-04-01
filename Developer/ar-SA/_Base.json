@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "فقط اول ١٠٠ نتيجة من جميع الموديلات سوف تظهر بالاسفل‫.‬ لنتائج محددة للموديل الرجاء حدد الموديل المعني وقم بالبحث",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "فقط اول ١٠٠ نتيجة ستظهر بالاسفل‫.‬ الرجاءعمل بحث متقدم اذا اردت نتائج محددة",
     "LBL_GO_BACK": "الرجوع للخلف",
-    "LBL_MAIN_PAGE": "الصفحة الرئيسية",
+    "LBL_MAIN_PAGE": "لوحة المعلومات",
     "Illegal request": "CSRF الحماية: القرصنة محاولة الكشف عن",
     "LBL_ERROR": "خطأ!!!",
     "LBL_GO_TO_FULL_FORM": "الذهاب الى القالب الكامل",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "غُيرت إلى",
     "LBL_IS_RECORD_OPEN": "سجل الخمول",
     "LBL_IS_RECORD_CLOSED": "المتجر مغلق حالياً",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "دفعت وظيفة تم تفعيلها دون شراء المنتج المناسب في المتجر. كنت تنتهك شروط ترخيص البرنامج.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "واحدة من المنتجات التي تم شراؤها قد انتهت أو يتطلب تغيير الحزمة. المنتج قد تم إلغاء مؤقتا.",
     "LBL_YETIFORCE_SHOP": "Yetiforce المحل",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Show original content",
     "LBL_COMPANY_NAME": "Company name",
     "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_NO_DATA_FOUND": "No data found",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "إعتماد",

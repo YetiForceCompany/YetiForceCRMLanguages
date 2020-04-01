@@ -21,10 +21,13 @@
     "FL_CAMPAIGN": "市场市场活动",
     "FL_MEMBER_OF": "父级销售机会",
     "FL_START_DATE": "开始日期",
+    "FL_ESTIMATED_MARGIN": "Estimated margin",
+    "FL_EXPECTED_MARGIN": "Expected margin",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "网站",
     "PLL_PHONE": "电话",
     "PLL_MAIL_CAMPAIGN": "邮件营销",
-    "PLL_CONFERENCE": "论坛\/会议",
+    "PLL_CONFERENCE": "论坛/会议",
     "PLL_RECOMMENDATION": "他人推荐",
     "PLL_MEETING": "会议",
     "PLL_ADVERTISING": "广告宣传",
@@ -40,7 +43,7 @@
     "PLL_REQUIREMENTS_CARD": "确认需求阶段",
     "PLL_CALCULATION": "价格计算",
     "PLL_QUOTE": "报价单",
-    "PLL_NEGOTIATIONS": "谈判\/议价",
+    "PLL_NEGOTIATIONS": "谈判/议价",
     "PLL_AWAITING_DECISION": "等待审批",
     "PLL_AWAITING_SIGNATURES": "等待签字阶段",
     "PLL_ORDER": "排序",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "销售已取消",
     "LBL_SWITCHHEADER_ON_0": "打开",
     "LBL_SWITCHHEADER_OFF_0": "关闭",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "打开\/关闭",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "打开/关闭",
     "LBL_SHOW_HIERARCHY": "组织结构"
   }
 }

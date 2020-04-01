@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "modificato in",
     "LBL_IS_RECORD_OPEN": "Il record è aperto",
     "LBL_IS_RECORD_CLOSED": "Il record è chiuso",
+    "LBL_PAID_FUNCTIONALITY": "Questa è una funzionalità aggiuntiva e a pagamento. Procedi al Marketplace per effettuare un pagamento e attivarla.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "La funzionalità a pagamento è stata attivata senza acquistare il prodotto corretto nel negozio. Stai violando i termini della licenza software.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Uno dei prodotti acquistati è scaduto o richiede la modifica di un pacchetto. Il prodotto è stato temporaneamente annullato.",
     "LBL_YETIFORCE_SHOP": "Negozio di Yetiforce",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Mostra contenuto originale",
     "LBL_COMPANY_NAME": "Nome dell'azienda",
     "LBL_SHOW_PASSWORD": "Mostra password nascosta",
-    "LBL_NO_DATA_FOUND": "Nessun dato trovato"
+    "LBL_NO_DATA_FOUND": "Nessun dato trovato",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Questo indirizzo email esiste già in questo modulo.",
+    "LBL_DUPLICATE_VAT_ID": "Questo id vat esiste già in questo modulo.",
+    "LBL_DUPLICATE_EAN": "Questo ean esiste già in questo modulo.",
+    "FL_MAGENTO_SERVER": "Server Magento"
   },
   "js": {
     "JS_APPROVE": "Approva",

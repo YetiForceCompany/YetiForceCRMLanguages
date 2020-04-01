@@ -44,7 +44,7 @@
     "LBL_DELETE_EXIST_DIRECTORY": "Imenik modulov že obstaja. Če želite nadaljevati uvoz, izbrišite imenik z imenom modula.",
     "LBL_ERROR_VERSION": "Wrong version of module, module version __MODULEVERSION__ but it should be greater than __CRMVERSION__",
     "LBL_ERROR_NO_DEFAULT_LANGUAGE": "Module does not contain default language (__DEFAULTLANGUAGE__).",
-    "LBL_ERROR_MISSING_FILES": "No files found in the package",
+    "LBL_ERROR_MISSING_FILES": "Ni najdenih datotek za to posodobitev",
     "LBL_ERROR_NO_LAYOUT_FILE": "No Smart files",
     "LBL_IMPORT": "Import",
     "LBL_TOO_SMALL_UPLOAD_LIMIT": "Upload limit is too small",

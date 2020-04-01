@@ -384,7 +384,9 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista de vulnerabilidades de bibliotecas",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
     "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
-    "LBL_PREFIX": "Prefixo"
+    "LBL_PREFIX": "Prefixo",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizado com sucesso",

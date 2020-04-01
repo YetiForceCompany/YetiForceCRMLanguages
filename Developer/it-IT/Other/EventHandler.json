@@ -1,0 +1,10 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Email duplicate",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blocca registrazione/modifica quando uno degli indirizzi email inseriti esiste già",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Partita IVA dupliacata",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blocca aggiungi/modifica record quando questa partita IVA esiste già",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "EAN duplicato",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blocca aggiungi/modifica record quando questo codice EAN esiste già"
+  }
+}

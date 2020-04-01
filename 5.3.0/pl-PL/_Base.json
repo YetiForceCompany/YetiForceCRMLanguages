@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Przedstawiono 100 wyników z wszystkich modułów. Jeśli chcesz bardziej szczegółowych wyników dla konkretnego modułu, wskaż go i wyszukaj.",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Przedstawiono 100 pierwszych wyników. Jeśli wynik nie jest satysfakcjonujący, skorzystaj z wyszukiwania zaawansowanego",
     "LBL_GO_BACK": "Cofnij się",
-    "LBL_MAIN_PAGE": "Strona główna",
+    "LBL_MAIN_PAGE": "Pulpit",
     "Illegal request": "Zabezpieczenie CSRF: Wykryto próbę włamania",
     "LBL_ERROR": "Błąd!!!",
     "LBL_GO_TO_FULL_FORM": "Pełny formularz",

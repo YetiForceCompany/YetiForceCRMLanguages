@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Nur die ersten 100 Ergebnisse aller Module werden unten gezeigt. Für modulspezifische Ergebnisse, wählen Sie bitte das entsprechende Modul und Suche.",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Nur die ersten 100 Ergebnisse werden unten gezeigt. Bittenutzen Sie die Erweiterte Suche, wenn Sie mit dem Ergebnis nicht zufrieden sind,",
     "LBL_GO_BACK": "Gehe zurück",
-    "LBL_MAIN_PAGE": "Startseite",
+    "LBL_MAIN_PAGE": "Dashboard",
     "Illegal request": "CSRF-Schutz: Hacking Versuch erkannt",
     "LBL_ERROR": "Fehler!!!",
     "LBL_GO_TO_FULL_FORM": "Zum normalen Formular",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "geändert zu",
     "LBL_IS_RECORD_OPEN": "Datensatz ist geöffnet",
     "LBL_IS_RECORD_CLOSED": "Datensatz ist geschlossen",
+    "LBL_PAID_FUNCTIONALITY": "This is an additional and paid functionality. Proceed to Marketplace to make a payment and activate it.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Die Bezahlfunktionen wurden ohne den Kauf des richtigen Produkts im Shop aktiviert. Sie verletzen die Bedingungen der Software-Lizenz.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Eine der gekauften Produkte ist abgelaufen oder erfordert eine Änderung eines Pakets. Das Produkt wurde vorübergehend deaktiviert.",
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
@@ -1390,9 +1391,13 @@
     "LBL_PREVIOUS_COLOR": "Vorherige Farbe:",
     "ERR_OCCURRED_CHECK_LOGS": "Fehler aufgetreten, überprüfen Sie die Logs",
     "LBL_SHOW_ORIGINAL_CONTENT": "Originalinhalt anzeigen",
-    "LBL_COMPANY_NAME": "Company name",
-    "LBL_SHOW_PASSWORD": "Show hidden password",
-    "LBL_NO_DATA_FOUND": "No data found"
+    "LBL_COMPANY_NAME": "Firmenname",
+    "LBL_SHOW_PASSWORD": "Zeige verstecktes Passwort",
+    "LBL_NO_DATA_FOUND": "Keine Daten gefunden",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Diese E-Mail-Adresse existiert bereits in diesem Modul.",
+    "LBL_DUPLICATE_VAT_ID": "Diese Umsatzsteuer-id existiert bereits in diesem Modul.",
+    "LBL_DUPLICATE_EAN": "Diese ean bereits vorhanden ist, die in diesem Modul.",
+    "FL_MAGENTO_SERVER": "Magento server"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

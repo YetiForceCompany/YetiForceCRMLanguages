@@ -1,0 +1,10 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikuj e-maile",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu kiedy już istnieje jeden z wprowadzonych adresów email",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikuj NIP",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki NIP",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikuj EAN",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki kod EAN"
+  }
+}

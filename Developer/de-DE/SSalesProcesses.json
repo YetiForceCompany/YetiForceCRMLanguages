@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "Kampagne",
     "FL_MEMBER_OF": "Übergeordnete Verkaufschance",
     "FL_START_DATE": "Startdatum",
+    "FL_ESTIMATED_MARGIN": "Geschätzte Marge",
+    "FL_EXPECTED_MARGIN": "Erwartete Marge",
+    "FL_EXPECTED_SALE": "Erwarteter Verkauf",
     "PLL_WEBSITE": "Webseite",
     "PLL_PHONE": "Telefon",
     "PLL_MAIL_CAMPAIGN": "Mailkampagne",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "Verkauf abgebrochen",
     "LBL_SWITCHHEADER_ON_0": "offene",
     "LBL_SWITCHHEADER_OFF_0": "geschlossene",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "offene\/geschlossene",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "offene/geschlossene",
     "LBL_SHOW_HIERARCHY": "Hierarchie"
   }
 }

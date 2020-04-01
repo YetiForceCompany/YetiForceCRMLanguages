@@ -255,7 +255,7 @@
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE": "Przedstawiono 100 wyników z wszystkich modułów. Jeśli chcesz bardziej szczegółowych wyników dla konkretnego modułu, wskaż go i wyszukaj.",
     "LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE": "Przedstawiono 100 pierwszych wyników. Jeśli wynik nie jest satysfakcjonujący, skorzystaj z wyszukiwania zaawansowanego",
     "LBL_GO_BACK": "Cofnij się",
-    "LBL_MAIN_PAGE": "Strona główna",
+    "LBL_MAIN_PAGE": "Podsumowanie modułu",
     "Illegal request": "Zabezpieczenie CSRF: Wykryto próbę włamania",
     "LBL_ERROR": "Błąd!!!",
     "LBL_GO_TO_FULL_FORM": "Pełny formularz",
@@ -1376,6 +1376,7 @@
     "LBL_HAS_CHANGED_TO": "zmieniono na",
     "LBL_IS_RECORD_OPEN": "Rekord jest otwarty",
     "LBL_IS_RECORD_CLOSED": "Rekord jest zamknięty",
+    "LBL_PAID_FUNCTIONALITY": "Jest to dodatkowa i płatna funkcjonalność. Przejdź do Marketplace, aby dokonać płatności i ją aktywować.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Została aktywowana płatna funkcjonalność bez wykupienia odpowiedniego produktu w sklepie. Naruszasz warunki licencji oprogramowania.",
     "LBL_YETIFORCE_SHOP_PRODUCT_CANCELED": "Jeden z wykupionych produktów stracił ważnośc lub wymaga zmiany pakietu. Produkt został tymczasowo anulowany.",
     "LBL_YETIFORCE_SHOP": "Sklep YetiForce",
@@ -1392,7 +1393,11 @@
     "LBL_SHOW_ORIGINAL_CONTENT": "Pokaż oryginalną zawartość",
     "LBL_COMPANY_NAME": "Nazwa firmy",
     "LBL_SHOW_PASSWORD": "Pokaż ukryte hasło",
-    "LBL_NO_DATA_FOUND": "Nie znaleziono danych"
+    "LBL_NO_DATA_FOUND": "Nie znaleziono danych",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Podany adres e-mail już istnieje w tym module.",
+    "LBL_DUPLICATE_VAT_ID": "Podany numer NIP już istnieje w tym module.",
+    "LBL_DUPLICATE_EAN": "Podany kod EAN już istnieje w tym module.",
+    "FL_MAGENTO_SERVER": "Serwer Magento"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

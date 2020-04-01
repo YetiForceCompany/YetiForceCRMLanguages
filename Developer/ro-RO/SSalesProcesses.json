@@ -21,6 +21,9 @@
     "FL_CAMPAIGN": "Campanie Marketing",
     "FL_MEMBER_OF": "Oportunitate de vanzare principala",
     "FL_START_DATE": "Data inceput",
+    "FL_ESTIMATED_MARGIN": "Estimated margin",
+    "FL_EXPECTED_MARGIN": "Expected margin",
+    "FL_EXPECTED_SALE": "Expected sale",
     "PLL_WEBSITE": "Website",
     "PLL_PHONE": "Telefon",
     "PLL_MAIL_CAMPAIGN": "Campanie Email",
@@ -52,7 +55,7 @@
     "PLL_SALE_CANCELLED": "Vanzare anulata",
     "LBL_SWITCHHEADER_ON_0": "Deschis",
     "LBL_SWITCHHEADER_OFF_0": "Inchis",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Deschis\/Inchis",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Deschis/Inchis",
     "LBL_SHOW_HIERARCHY": "Ierarhie"
   }
 }
