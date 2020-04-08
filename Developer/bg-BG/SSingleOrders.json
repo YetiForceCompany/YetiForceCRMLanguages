@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Начална дата",
     "LBL_REALIZATION_COMPLETION_DATE": "Крайна дата",
     "LBL_ACTUAL_COMPLETION_DATE": "Действителната дата на завършване",
-    "LBL_COMPANY_NAME": "Име на фирмата",
     "SINGLE_SSalesProcesses": "Възможност",
     "FL_TOTAL_PRICE": "Общо нето",
     "FL_MARGINP": "Процент на общия марж",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Синхронизирай POS",
     "FL_SOURCE": "Източник",
     "PLL_MANUAL": "Ръчно",
+    "PLL_PORTAL": "Портал",
+    "PLL_POS": "Каса",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Магазин",
     "FL_STORAGE": "Склад",
     "FL_PAYMENT_STATUS": "Статус на плащането",
     "PLL_NOT_PAID": "Неплатено",
     "PLL_PAID": "Платено",
     "PLL_OVERPAID": "Надплатено",
-    "PLL_UNDERPAID": "Частично платено"
+    "PLL_UNDERPAID": "Частично платено",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

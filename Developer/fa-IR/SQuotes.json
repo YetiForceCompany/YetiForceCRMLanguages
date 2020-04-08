@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "مذاکرات",
     "PLL_CANCELLED": "لغو شده",
     "PLL_ACCEPTED": "پذیرفته شده",
-    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+    "LBL_CHANGE_STATUS": "تغییر وضعیت",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

@@ -69,7 +69,7 @@
     "pack": "paket",
     "LBL_TAXES": "Porezi",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista zapisa ograničena je na proizvode i usluge povezane sa prodajnom prilikom",
-    "FL_EAN_13": "EAN-13",
+    "FL_EAN_SKU": "EAN/SKU",
     "FL_QTY_IN_STOCK": "Količina proizvoda na zalihama",
     "FL_PURCHASE": "Kupovina",
     "FL_WEIGHT": "Težina"

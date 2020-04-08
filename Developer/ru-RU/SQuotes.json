@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Переговоры",
     "PLL_CANCELLED": "Отменено",
     "PLL_ACCEPTED": "Согласовано",
-    "LBL_CHANGE_STATUS": "Изменить статус"
+    "LBL_CHANGE_STATUS": "Изменить статус",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

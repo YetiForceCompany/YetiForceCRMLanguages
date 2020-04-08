@@ -69,7 +69,7 @@
     "pack": "pachete",
     "LBL_TAXES": "Taxe",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista de inregistrari se limiteaza la produsele si serviciile asociate oportunitatii de vanzare",
-    "FL_EAN_13": "EAN-13",
+    "FL_EAN_SKU": "EAN/SKU",
     "FL_QTY_IN_STOCK": "Cantitate produs in stoc",
     "FL_PURCHASE": "Purchase",
     "FL_WEIGHT": "Weight"

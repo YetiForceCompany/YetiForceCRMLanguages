@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "برای تایید",
     "PLL_CANCELLED": "لغو شده",
     "PLL_COMPLETED": "کامل شده",
-    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+    "LBL_CHANGE_STATUS": "تغییر وضعیت",
+    "FL_PARENT_SCALCULATIONS": "Parent calculation"
   }
 }

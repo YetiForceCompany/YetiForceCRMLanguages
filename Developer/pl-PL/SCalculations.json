@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "Do weryfikacji",
     "PLL_CANCELLED": "Anulowane",
     "PLL_COMPLETED": "Wykonane",
-    "LBL_CHANGE_STATUS": "Zmień status"
+    "LBL_CHANGE_STATUS": "Zmień status",
+    "FL_PARENT_SCALCULATIONS": "Nadrzędna kalkulacja"
   }
 }

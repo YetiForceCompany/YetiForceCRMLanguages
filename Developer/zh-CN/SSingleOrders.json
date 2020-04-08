@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "开始日期",
     "LBL_REALIZATION_COMPLETION_DATE": "完成日期",
     "LBL_ACTUAL_COMPLETION_DATE": "实际完成日期",
-    "LBL_COMPANY_NAME": "公司名称",
     "SINGLE_SSalesProcesses": "销售机会（商机）",
     "FL_TOTAL_PRICE": "净总额",
     "FL_MARGINP": "利润总额百分比",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "同步POS",
     "FL_SOURCE": "商机来源",
     "PLL_MANUAL": "手动",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "商店",
     "FL_STORAGE": "仓库",
     "FL_PAYMENT_STATUS": "付款状态",
     "PLL_NOT_PAID": "未支付",
     "PLL_PAID": "已支付",
     "PLL_OVERPAID": "超额支付",
-    "PLL_UNDERPAID": "未足额支付"
+    "PLL_UNDERPAID": "未足额支付",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

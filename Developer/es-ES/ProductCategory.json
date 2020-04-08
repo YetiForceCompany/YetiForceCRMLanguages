@@ -1,0 +1,11 @@
+{
+  "php": {
+    "ProductCategory": "Categoría del producto",
+    "SINGLE_ProductCategory": "Categoría del producto",
+    "LBL_CUSTOM_INFORMATION": "Información Personalizada",
+    "LBL_BASIC_INFORMATION": "Información Básica",
+    "FL_PARENT_CATEGORY": "Categoría padre",
+    "LBL_CHILD_PRODUCTCATEGORY": "Subcategorías",
+    "FL_CATEGORY_NAME": "Nombre de la categoría"
+  }
+}

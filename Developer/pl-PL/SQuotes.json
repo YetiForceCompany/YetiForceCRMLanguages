@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Negocjacje",
     "PLL_CANCELLED": "Anulowana",
     "PLL_ACCEPTED": "Zaakceptowana",
-    "LBL_CHANGE_STATUS": "Zmień status"
+    "LBL_CHANGE_STATUS": "Zmień status",
+    "FL_PARENT_SQUOTES": "Nadrzędna oferta"
   }
 }

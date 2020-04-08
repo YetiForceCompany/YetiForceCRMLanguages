@@ -1,10 +1,10 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
+    "MailIntegration": "Panneau d'intégration de courriel",
+    "SINGLE_MailIntegration": "Panneau d'intégration de courriel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Courriel introuvable dans la base de données.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importation",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importez un courriel dans le CRM, ça vous permettra de mieux gérer vos relations",
     "LBL_SEARCH_EMAIL": "Search e-mail address",
     "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
     "LBL_ADD_CALENDAR": "Add event",

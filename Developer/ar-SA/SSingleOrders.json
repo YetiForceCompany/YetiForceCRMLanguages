@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "تاريخ الابتداء",
     "LBL_REALIZATION_COMPLETION_DATE": "تاريخ الانتهاء",
     "LBL_ACTUAL_COMPLETION_DATE": "الفعلية تاريخ الانتهاء",
-    "LBL_COMPANY_NAME": "اسم الشركة",
     "SINGLE_SSalesProcesses": "الفرصة",
     "FL_TOTAL_PRICE": "المجموع الصافي",
     "FL_MARGINP": "إجمالي نسبة الهامش",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "مزامنة",
     "FL_SOURCE": "Source",
     "PLL_MANUAL": "يدوي",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "المتجر",
     "FL_STORAGE": "التخزين",
     "FL_PAYMENT_STATUS": "حالة الدفع",
     "PLL_NOT_PAID": "لم يتم الدفع",
     "PLL_PAID": "مدفوع",
     "PLL_OVERPAID": "دفعت أكثر",
-    "PLL_UNDERPAID": "يتقاضون أجورا"
+    "PLL_UNDERPAID": "يتقاضون أجورا",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

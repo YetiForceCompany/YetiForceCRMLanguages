@@ -17,8 +17,8 @@
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 98,
-        "time": "2020-03-16 11:17:44"
+        "progress": 100,
+        "time": "2020-04-08 07:24:28"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 88,
-        "time": "2020-03-16 11:22:35"
+        "progress": 89,
+        "time": "2020-04-08 07:32:37"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -116,14 +116,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 20,
-        "time": "2020-03-16 11:22:02"
+        "time": "2020-04-08 07:31:41"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
-        "progress": 44,
-        "time": "2020-03-16 11:21:31"
+        "progress": 45,
+        "time": "2020-04-08 07:30:47"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -137,7 +137,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2020-04-01 12:52:41"
+        "time": "2020-04-08 07:41:47"
     },
     "pt-BR": {
         "prefix": "pt-BR",

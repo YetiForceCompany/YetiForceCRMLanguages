@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Data rozpoczęcia",
     "LBL_REALIZATION_COMPLETION_DATE": "Data zakończenia",
     "LBL_ACTUAL_COMPLETION_DATE": "Rzeczywista data zakończenia",
-    "LBL_COMPANY_NAME": "Nazwa firmy",
     "SINGLE_SSalesProcesses": "Szansa sprzedaży",
     "FL_TOTAL_PRICE": "Razem Netto",
     "FL_MARGINP": "Suma marży (%)",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Synchronizacja POS",
     "FL_SOURCE": "Źródło",
     "PLL_MANUAL": "Manualnie",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Punkt sprzedaży (POS)",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Sklep",
     "FL_STORAGE": "Magazyn",
     "FL_PAYMENT_STATUS": "Status płatności",
     "PLL_NOT_PAID": "Nie zapłacono",
     "PLL_PAID": "Zapłacona",
     "PLL_OVERPAID": "Nadpłata",
-    "PLL_UNDERPAID": "Niedopłata"
+    "PLL_UNDERPAID": "Niedopłata",
+    "FL_PARENT_SSINGLEORDERS": "Nadrzędne zamówienie"
   }
 }

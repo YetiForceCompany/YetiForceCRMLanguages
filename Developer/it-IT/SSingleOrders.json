@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Data inizio",
     "LBL_REALIZATION_COMPLETION_DATE": "Data consegna",
     "LBL_ACTUAL_COMPLETION_DATE": "Data consegna effettiva",
-    "LBL_COMPANY_NAME": "Azienda",
     "SINGLE_SSalesProcesses": "Opportunità",
     "FL_TOTAL_PRICE": "Totale netto",
     "FL_MARGINP": "Totale margine percentuale",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Sincronizza POS",
     "FL_SOURCE": "Sorgente",
     "PLL_MANUAL": "Manuale",
+    "PLL_PORTAL": "Portale",
+    "PLL_POS": "Punto vendita",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Negozio",
     "FL_STORAGE": "Magazzino",
     "FL_PAYMENT_STATUS": "Stato pagamento",
     "PLL_NOT_PAID": "Non pagato",
     "PLL_PAID": "Pagato",
     "PLL_OVERPAID": "Pagato in eccesso",
-    "PLL_UNDERPAID": "Sottopagato"
+    "PLL_UNDERPAID": "Sottopagato",
+    "FL_PARENT_SSINGLEORDERS": "Ordine di vendita padre"
   }
 }

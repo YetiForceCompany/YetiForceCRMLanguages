@@ -69,7 +69,7 @@
     "pack": "Пакунків",
     "LBL_TAXES": "Податки",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Список записів обмежується продуктами та послугами, пов'язаними з можливістю продажу",
-    "FL_EAN_13": "EAN-13 (штрихкод)",
+    "FL_EAN_SKU": "EAN/SKU",
     "FL_QTY_IN_STOCK": "Кількість товарів на складі",
     "FL_PURCHASE": "Купівля",
     "FL_WEIGHT": "Вага"

@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
+    "LBL_NEWEST_SSALESPROCESSES": "Lista najnovijih prilika",
+    "LBL_FOR_VALUE": "za vrijednost",
     "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_ACTUAL_STATUS": "sa aktuelnim statusom",
+    "LBL_CALENDAR_OVERDUE": "Zakašnjele aktivnosti",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Lista mogućnosti najviše vrijednosti",
+    "LBL_NEW_ACCOUNTS": "Novi Klijenti",
+    "LBL_NEW_CONTACTS": "Novi Kontakti",
+    "LBL_CALENDAR_TODAY": "Kalendar događanja danas",
+    "LBL_CALENDAR_THIS_WEEK": "Kalendar događanja ove sedmice",
+    "LBL_HELLO": "Zdravo",
+    "LBL_REPORT_DAY_CONTENT": "Ispod je dnevni sažetak aktivnosti u YetiForceu",
+    "LBL_REPORT_WEEK_CONTENT": "Ispod je sedmični sažetak aktivnosti u YetiForceu",
+    "LBL_REPORT_MONTH_CONTENT": "Ispod je mjesečni sažetak aktivnosti u YetiForceu"
   }
 }

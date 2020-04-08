@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Διαπραγματεύσεις",
     "PLL_CANCELLED": "Ακυρώθηκε",
     "PLL_ACCEPTED": "Αποδεκτή",
-    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης"
+    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

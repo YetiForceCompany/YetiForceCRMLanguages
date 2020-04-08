@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Verhandlungen",
     "PLL_CANCELLED": "Abgelehnt",
     "PLL_ACCEPTED": "Angenommen",
-    "LBL_CHANGE_STATUS": "Status ändern"
+    "LBL_CHANGE_STATUS": "Status ändern",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "等待验证",
     "PLL_CANCELLED": "已取消",
     "PLL_COMPLETED": "已完成",
-    "LBL_CHANGE_STATUS": "更改状态"
+    "LBL_CHANGE_STATUS": "更改状态",
+    "FL_PARENT_SCALCULATIONS": "Parent calculation"
   }
 }

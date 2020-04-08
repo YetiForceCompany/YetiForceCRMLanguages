@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Data inceput",
     "LBL_REALIZATION_COMPLETION_DATE": "Data completare",
     "LBL_ACTUAL_COMPLETION_DATE": "Data completare actuala",
-    "LBL_COMPANY_NAME": "Denumire companie",
     "SINGLE_SSalesProcesses": "Oportunitate",
     "FL_TOTAL_PRICE": "Total net",
     "FL_MARGINP": "Total marja procent",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Sincronizeaza POS",
     "FL_SOURCE": "Sursa",
     "PLL_MANUAL": "Manual",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Magazin",
     "FL_STORAGE": "Depozit",
     "FL_PAYMENT_STATUS": "Payment status",
     "PLL_NOT_PAID": "Not paid",
     "PLL_PAID": "Paid",
     "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_UNDERPAID": "Underpaid",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

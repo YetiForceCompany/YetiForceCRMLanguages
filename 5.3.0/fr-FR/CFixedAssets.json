@@ -7,7 +7,7 @@
     "LBL_DESCRIPTION_BLOCK": "Description",
     "LBL_ATTENTION_BLOCK": "Notes",
     "FL_SUBJECT": "Nom du véhicule",
-    "FL_TYPE": "Type",
+    "FL_TYPE": "Type ",
     "FL_STATUS": "Statut",
     "FL_PRODUCENT_DESIGNATION": "N° de série",
     "FL_ADDITIONAL_DESIGNATION": "Immatriculation",

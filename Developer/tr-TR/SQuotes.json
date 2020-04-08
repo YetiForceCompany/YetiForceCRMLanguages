@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Müzakereler",
     "PLL_CANCELLED": "İptal edildi",
     "PLL_ACCEPTED": "Kabul edildi",
-    "LBL_CHANGE_STATUS": "Durumu değiştir"
+    "LBL_CHANGE_STATUS": "Durumu değiştir",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

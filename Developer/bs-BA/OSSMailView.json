@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSMailView": "Email history",
-    "SINGLE_OSSMailView": "Email history",
+    "OSSMailView": "Istorija e-pošte",
+    "SINGLE_OSSMailView": "Istorija e-pošte",
     "LBL_RECORDS_LIST": "Lista emailova",
     "LBL_INFORMATION": "Opšte informacije",
     "LBL_ORIGN_MESSAGE": "Originalna vporuka",
@@ -66,7 +66,7 @@
     "Configuration": "Konfiguracija",
     "LBL_MAIL_REPLY_INTRO": "Na %s, %s je napisao:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Originalna vporuka --------",
-    "Graf": "Emails by Type",
+    "Graf": "E-pošta po vrsti",
     "Today": "Danas",
     "Yesterday": "Jučer",
     "Current week": "Tekuća sedmica",

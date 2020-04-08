@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "Zur Validierung",
     "PLL_CANCELLED": "Abgebrochen",
     "PLL_COMPLETED": "Vollständig",
-    "LBL_CHANGE_STATUS": "Änderungsstatus"
+    "LBL_CHANGE_STATUS": "Änderungsstatus",
+    "FL_PARENT_SCALCULATIONS": "Parent calculation"
   }
 }

@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "المفاوضات",
     "PLL_CANCELLED": "ملغى",
     "PLL_ACCEPTED": "مقبول",
-    "LBL_CHANGE_STATUS": "تغيير الحالة"
+    "LBL_CHANGE_STATUS": "تغيير الحالة",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

@@ -65,7 +65,7 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Očistite direktorij privremenih datoteka",
     "LBL_SESSION_CLEANER": "Očistite neaktivne sesije",
     "LBL_ARCHIVE_OLD_RECORDS": "Arhivirajte stare zapise",
-    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "CRON mehanizam nije omogućen, potreban je za ispravan rad sustava.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Preuzmite poruke s društvenih medija"
   },
   "js": {

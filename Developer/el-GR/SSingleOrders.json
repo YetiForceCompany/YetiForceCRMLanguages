@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Ημερομηνία έναρξης",
     "LBL_REALIZATION_COMPLETION_DATE": "Ημερομηνία ολοκλήρωσης",
     "LBL_ACTUAL_COMPLETION_DATE": "Ημερομηνία πραγματικής ολοκλήρωσης",
-    "LBL_COMPANY_NAME": "Επωνυμία εταιρείας",
     "SINGLE_SSalesProcesses": "Ευκαιρία",
     "FL_TOTAL_PRICE": "Καθαρό σύνολο",
     "FL_MARGINP": "Συνολικό περιθώριο (%)",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Συγχρονισμός POS",
     "FL_SOURCE": "Πηγή",
     "PLL_MANUAL": "Χειροκίνητα",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Κατάστημα",
     "FL_STORAGE": "Αποθ. χώρος",
     "FL_PAYMENT_STATUS": "Κατάσταση πληρωμής",
     "PLL_NOT_PAID": "Δεν πληρώθηκε",
     "PLL_PAID": "Πληρώθηκε",
     "PLL_OVERPAID": "Πληρώθηκε μεγαλύτερο ποσό",
-    "PLL_UNDERPAID": "Πληρώθηκε μικρότερο ποσό"
+    "PLL_UNDERPAID": "Πληρώθηκε μικρότερο ποσό",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

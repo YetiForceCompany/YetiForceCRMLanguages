@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "谈判/议价",
     "PLL_CANCELLED": "已取消",
     "PLL_ACCEPTED": "已接受",
-    "LBL_CHANGE_STATUS": "更改状态"
+    "LBL_CHANGE_STATUS": "更改状态",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

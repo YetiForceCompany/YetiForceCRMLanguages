@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "تاریخ شروع",
     "LBL_REALIZATION_COMPLETION_DATE": "تاریخ تکمیل",
     "LBL_ACTUAL_COMPLETION_DATE": "تاریخ واقعی تکمیل",
-    "LBL_COMPANY_NAME": "نام شرکت",
     "SINGLE_SSalesProcesses": "فرصت",
     "FL_TOTAL_PRICE": "جمع خالص",
     "FL_MARGINP": "مجموع درصد حاشیه سود",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "همگام سازی POS",
     "FL_SOURCE": "منبع",
     "PLL_MANUAL": "دستی",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "فروشگاه",
     "FL_STORAGE": "محل انبار و نگهداری",
     "FL_PAYMENT_STATUS": "وضعیت پرداخت",
     "PLL_NOT_PAID": "پرداخت نشده",
     "PLL_PAID": "پرداخت شده",
     "PLL_OVERPAID": "پرداخت بیشتر شده",
-    "PLL_UNDERPAID": "کم پرداخت شده"
+    "PLL_UNDERPAID": "کم پرداخت شده",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

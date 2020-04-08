@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "Za verifikaciju",
     "PLL_CANCELLED": "Otkazano",
     "PLL_COMPLETED": "Završeno",
-    "LBL_CHANGE_STATUS": "Promijeni status"
+    "LBL_CHANGE_STATUS": "Promijeni status",
+    "FL_PARENT_SCALCULATIONS": "Parent calculation"
   }
 }

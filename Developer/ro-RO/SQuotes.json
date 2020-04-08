@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Negocieri",
     "PLL_CANCELLED": "Anulat",
     "PLL_ACCEPTED": "Acceptat",
-    "LBL_CHANGE_STATUS": "Schimba status"
+    "LBL_CHANGE_STATUS": "Schimba status",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Дата начала",
     "LBL_REALIZATION_COMPLETION_DATE": "Дата завершения",
     "LBL_ACTUAL_COMPLETION_DATE": "Фактическая дата окончания продаж",
-    "LBL_COMPANY_NAME": "Название компании",
     "SINGLE_SSalesProcesses": "Сделка",
     "FL_TOTAL_PRICE": "Итого",
     "FL_MARGINP": "Общая маржа в процентах",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Синхронизировать позиции",
     "FL_SOURCE": "Источник",
     "PLL_MANUAL": "В ручную",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Магазин",
     "FL_STORAGE": "Склад",
     "FL_PAYMENT_STATUS": "Payment status",
     "PLL_NOT_PAID": "Not paid",
     "PLL_PAID": "Paid",
     "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "PLL_UNDERPAID": "Underpaid",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

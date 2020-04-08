@@ -19,6 +19,7 @@
     "PLL_FOR_VERIFICATION": "На проверке",
     "PLL_CANCELLED": "Отмененный",
     "PLL_COMPLETED": "Завершенный",
-    "LBL_CHANGE_STATUS": "Изменить статус"
+    "LBL_CHANGE_STATUS": "Изменить статус",
+    "FL_PARENT_SCALCULATIONS": "Parent calculation"
   }
 }

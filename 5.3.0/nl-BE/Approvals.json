@@ -1,16 +1,16 @@
 {
   "php": {
-    "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
+    "Approvals": "Goedkeuringen",
+    "SINGLE_Approvals": "Goedkeuring",
+    "LBL_CUSTOM_INFORMATION": "Aangepaste Information",
+    "LBL_BASIC_INFORMATION": "Algemene gegevens",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving Details",
+    "FL_NAME": "Naam",
     "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "FL_DESCRIPTION": "Omschrijving",
+    "FL_NUMBER": "Nummer",
+    "PLL_DRAFT": "Concept",
+    "PLL_ACTIVE": "Aktief",
+    "PLL_INACTIVE": "Inactief"
   }
 }

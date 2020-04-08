@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": "Datum početka",
     "LBL_REALIZATION_COMPLETION_DATE": "Datum završetka",
     "LBL_ACTUAL_COMPLETION_DATE": "Stvarni datum završetka",
-    "LBL_COMPANY_NAME": "Naziv kompanije",
     "SINGLE_SSalesProcesses": "Prilika",
     "FL_TOTAL_PRICE": "Neto ukupno",
     "FL_MARGINP": "Ukupni procenat marže",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": "Sinhroniziraj POS",
     "FL_SOURCE": "Izvor",
     "PLL_MANUAL": "Uputstvo",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Trgovina",
     "FL_STORAGE": "Skladište",
     "FL_PAYMENT_STATUS": "Status plaćanja",
     "PLL_NOT_PAID": "Nije plaćeno",
     "PLL_PAID": "Plaćeno",
     "PLL_OVERPAID": "Preplaćeno",
-    "PLL_UNDERPAID": "Nedovoljno plaćeno"
+    "PLL_UNDERPAID": "Nedovoljno plaćeno",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

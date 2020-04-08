@@ -25,6 +25,7 @@
     "PLL_NEGOTIATIONS": "Pogajanje",
     "PLL_CANCELLED": "Prekinjeno",
     "PLL_ACCEPTED": "Sprejeto",
-    "LBL_CHANGE_STATUS": "Spremeni status"
+    "LBL_CHANGE_STATUS": "Spremeni status",
+    "FL_PARENT_SQUOTES": "Parent quote"
   }
 }

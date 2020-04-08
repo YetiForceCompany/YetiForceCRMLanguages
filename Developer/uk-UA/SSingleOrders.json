@@ -13,7 +13,6 @@
     "LBL_REALIZATION_START_DATE": " Дата початку",
     "LBL_REALIZATION_COMPLETION_DATE": "Дата завершения",
     "LBL_ACTUAL_COMPLETION_DATE": "Фактична дата закінчення продаж",
-    "LBL_COMPANY_NAME": "Назва компанії",
     "SINGLE_SSalesProcesses": "Угода",
     "FL_TOTAL_PRICE": " Разом",
     "FL_MARGINP": "Загальна маржа в процентах",
@@ -38,12 +37,16 @@
     "LBL_SYNCHRONIZE_POS": " Синхронізувати позиції",
     "FL_SOURCE": "Джерела",
     "PLL_MANUAL": "В ручну",
+    "PLL_PORTAL": "Portal",
+    "PLL_POS": "Point of sale",
+    "PLL_MAGENTO": "Magento",
     "PLL_SHOP": "Магазин",
     "FL_STORAGE": "Склад",
     "FL_PAYMENT_STATUS": "Статус платежу",
     "PLL_NOT_PAID": "Не оплачено",
     "PLL_PAID": "Сплачено",
     "PLL_OVERPAID": "Переплачено",
-    "PLL_UNDERPAID": "Недоплачено"
+    "PLL_UNDERPAID": "Недоплачено",
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
   }
 }

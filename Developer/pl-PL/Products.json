@@ -69,7 +69,7 @@
     "pack": "opak",
     "LBL_TAXES": "Podatki",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista rekordów jest ograniczona do produktów i usług powiązanych z szansą sprzedaży",
-    "FL_EAN_13": "Kod EAN-13",
+    "FL_EAN_SKU": "EAN/SKU",
     "FL_QTY_IN_STOCK": "Ilość produktu na magazynie",
     "FL_PURCHASE": "Zakup",
     "FL_WEIGHT": "Waga"

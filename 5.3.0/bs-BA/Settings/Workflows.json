@@ -243,12 +243,12 @@
     "LBL_WATCHDOG_INFO": "Ovaj zadatak pravilno funkcionira samo s hijerarhijskim modulima.",
     "LBL_WORKFLOW_TRIGGER_SHOW_TASKS": "Pokaži zadatke",
     "LBL_WORKFLOW_TRIGGER_ENABLE_DEACTIVATION_TASKS": "Omogućite zadatke deaktivacije",
-    "LBL_EMAIL_REPORT": "Email report",
-    "LBL_SELECT_USERS": "Select users, groups, roles",
-    "LBL_SELECT_USERS_INFO": "Select users, groups, roles to whom the report should be sent",
-    "LBL_WORKINGDAY_DAY": "Every working day",
+    "LBL_EMAIL_REPORT": "Email izvještaj",
+    "LBL_SELECT_USERS": "Odaberite korisnike, grupe, uloge",
+    "LBL_SELECT_USERS_INFO": "Odaberite korisnike, grupe, uloge kojima izvještaj treba poslati",
+    "LBL_WORKINGDAY_DAY": "Svaki radni dan",
     "LBL_WORKINGDAY_WEEK": "First working day of the week",
-    "LBL_WORKINGDAY_MONTH": "First working day of the month"
+    "LBL_WORKINGDAY_MONTH": "Prvi radni dan u mjesecu"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ista polja odabrana su više od jednom",
