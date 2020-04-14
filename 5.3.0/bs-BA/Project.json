@@ -71,7 +71,7 @@
     "JS_INVALID_DATA": "Nevažeći podaci za polje",
     "JS_ERROR_ON_FIELD": "Neispravna vrijednost u polju",
     "JS_OUT_OF_BOUDARIES": "Vrijednost izvan raspona za polje:",
-    "JS_WEEK_SHORT": "wk",
+    "JS_WEEK_SHORT": "sd",
     "JS_PROCEED": "Da li želiite nastaviti?",
     "JS_PREV": "Prethodni",
     "JS_NEXT": "Sljedeći",

@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "毛总额",
     "FL_SUM_DISCOUNT": "折扣金额",
     "FL_POS": "收银终端",
-    "FL_METHOD_PAYMENTS": "付款方式",
-    "PLL_REDSYS": "Redsys支付",
-    "PLL_DOTPAY": "Dotpay支付",
     "PLL_TRANSFER": "转移",
-    "PLL_CASH_ON_DELIVERY": "货到付款",
     "FL_NUMBER_TABLE": "表数",
     "FL_NUMBER_SEAT": "套数",
     "PLL_DRAFT": "草稿",
@@ -47,6 +43,18 @@
     "PLL_PAID": "已支付",
     "PLL_OVERPAID": "超额支付",
     "PLL_UNDERPAID": "未足额支付",
-    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order",
+    "FL_MAGENTO_STATUS": "Magento status",
+    "PLL_PENDING": "Pending",
+    "PLL_PENDING_PAYMENT": "Pending payment",
+    "PLL_PENDING_PAYPAL": "Pending PayPal",
+    "PLL_PROCESSING": "Processing",
+    "PLL_HOLDED": "On hold",
+    "PLL_FRAUD": "Suspected fraud",
+    "PLL_PAYMENT_REVIEW": "Payment review",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal canceled reversal",
+    "PLL_PAYPAL_REVERSED": "PayPal reversed",
+    "PLL_CLOSED": "Closed",
+    "PLL_COMPLETE": "Complete"
   }
 }

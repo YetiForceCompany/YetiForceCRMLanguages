@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Odjavljuje se automatski zbog neaktivnosti",
     "ERR_FIELD_NOT_FOUND": "Nepronađena polja (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Broj argumenata nije dozvoljen (%d %s u %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Nema vrijednost u %s",
     "ERR_BODY_IS_EMPTY": "Tijelo je prazno",
     "ERR_API": "Greška u API",
     "ERR_MODULE_DOES_NOT_EXIST": "Modul %s ne postoji",
@@ -45,6 +45,6 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Objekt mora imati sučelje %s",
     "ERR_CLASS_NOT_FOUND": "Klasa %s nije pronađena",
     "ERR_CLASS_MUST_BE": "Klasa mora biti %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s plaćena funkcionalnost, morate je kupiti"
   }
 }

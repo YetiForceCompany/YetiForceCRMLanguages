@@ -90,7 +90,7 @@
     "LBL_PIN": "Anheften",
     "LBL_PRODUCT_SERVICE_TAXES": "Produkt- und Dienstleistungssteuersätze",
     "LBL_PROFILE_DESCRIPTION": "Definieren Sie Profile als Basis für die Rechtevergabe an Nutzern über verschiedene Rollen",
-    "LBL_SHOP_YETIFORCE_DESCRIPTION": "Damit der Shop ordnungsgemäß funktioniert und auch gekaufte Produkte / Pakete, muss die CRON-Mechanismus aktiv sein. Informationen über die Zahlungen und das hinzufügen von Funktionalität erfolgt durch CRON, daher ist es wichtig, dass dieser richtig funktioniert. <br> Preise im Shop sind abhängig von der Größe Ihres Unternehmens, somit wird abhängig von der Anzahl der Nutzer und von der Größe des Unternehmens der Preis für das Produkt ermittelt.",
+    "LBL_MARKETPLACE_YETIFORCE_DESCRIPTION": "Damit der Shop ordnungsgemäß funktioniert und auch gekaufte Produkte / Pakete, muss die CRON-Mechanismus aktiv sein. Informationen über die Zahlungen und das hinzufügen von Funktionalität erfolgt durch CRON, daher ist es wichtig, dass dieser richtig funktioniert. <br> Preise im Shop sind abhängig von der Größe Ihres Unternehmens, somit wird abhängig von der Anzahl der Nutzer und von der Größe des Unternehmens der Preis für das Produkt ermittelt.",
     "LBL_PROFILES": "Profile",
     "LBL_RESET_TO_DEFAULT": "Auf Standard zurücksetzen",
     "LBL_ROLE_DESCRIPTION": "Definieren Sie die Hierarchie von Rollen und weisen Sie diesen Profilen zu",
@@ -237,7 +237,7 @@
     "LBL_LOGS": "Protokollierungen",
     "LBL_AUTOMATION": "Automatisierung",
     "LBL_TIMECONTROL_PROCESSES": "Zeiterfassungsprozesse",
-    "LBL_MENU_SUMMARRY": "Übersicht",
+    "LBL_MENU_DASHBOARD": "Dashboard",
     "Board of Management": "Vorstand",
     "Sales Department": "Verkaufsabteilung",
     "Logistics Department": "Logistikabteilung",
@@ -385,8 +385,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklisten-Sequenz-Einstellungen",
     "LBL_ADVANCED_RECORD_NUMBERING": "Picklisten-Sequenz-Einstellungen",
     "LBL_PREFIX": "Präfix",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s-Funktionalität wurde noch nicht aktiviert. Klicken Sie auf \"Aktivieren\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktivieren"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Zugriff erfolgreich",

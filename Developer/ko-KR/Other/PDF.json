@@ -26,7 +26,6 @@
     "LBL_EMAIL": "이메일",
     "LBL_VATID": "Vat ID",
     "LBL_SALE_DATE": "판매 날짜",
-    "LBL_PAYMENT_METHOD": "지불 방법",
     "LBL_PLACE_DATE": "장소, 날짜"
   }
 }

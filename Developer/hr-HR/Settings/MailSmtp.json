@@ -39,7 +39,7 @@
     "LBL_ADDITIONAL_HEADERS": "Dodatna zaglavlja",
     "LBL_SAVE_SENT_MESSAGE": "Spremite poslanu poruku",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emailovi će se slati pojedinačno za svakog primaoca",
-    "LBL_UNSUBSCRIBE_INFO": "The List-Unsubscribe header is an optional email header you can add to your messages. It allows subscribers to see an unsubscribe button they can click if they would like to automatically stop receiving your email. The list of parameters that will be placed in the header in angle brackets, e.g. < ... >\nexample: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\r\n {\r\n\"ssl\": {\r\n\"verify_peer\":false,\r\n\"verify_peer_name\";:false,\r\n\";allow_self_signed\";:true\r\n   }\r\n}"
+    "LBL_UNSUBSCRIBE_INFO": "Zaglavlje liste odjava pretplata je opcionalno zaglavlje e-pošte koje možete dodati u svoje poruke. Omogućava pretplatnicima da vide dugme za odjavu na koju mogu kliknuti ako žele automatski prestati primati vašu e-poštu. Popis parametara koji će biti smješteni u zaglavlju u kutnim zagradama, npr. <...> primjer: mailto: newsletter@yetiforce.com >>> <mailto: newsletter@yetiforce.com>",
+    "LBL_OPTIONS_INFO": "Primjeri dodatnih parametara (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

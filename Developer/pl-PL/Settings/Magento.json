@@ -40,6 +40,8 @@
     "LBL_CUSTOMER_MAP_CLASS": "Nazwa klasy mapy klienta",
     "LBL_CUSTOMER_MAP_CLASS_TOOLTIP": "Jeśli chcesz użyć niestandardowej mapy pola musisz utworzyć nową klasę w Maps/Custom. Następnie musisz zmienić tę wartość 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Customer'",
     "LBL_PARAM_NOT_ALLOWED": "Niedozwolony parametr",
-    "LBL_VALUE_NOT_ALLOWED": "Wartość jest niedozwolona"
+    "LBL_VALUE_NOT_ALLOWED": "Wartość jest niedozwolona",
+    "LBL_RELOAD_MESSAGE": "Dane zostaną ponownie pobrane przy kolejnym wywołaniu crona",
+    "LBL_RELOAD_MAGENTO": "Uruchom ponownie synchronizację"
   }
 }

@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Határidő",
     "FL_SALE_DATE": "Értékesítés dátuma",
     "FL_ACCOUNT": "Fiók",
-    "FL_FORM_PAYMENT": "Fizetési mód",
     "FL_STATUS": "Állapot",
     "FL_NUMBER": "Számla sorszáma",
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Bruttó",
-    "PLL_CASH": "Készpénz",
-    "PLL_TRANSFER": "Banki átutalás",
     "PLL_WIRE_TRANSFER": "Elektronikus átutalás"
   }
 }

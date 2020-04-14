@@ -32,14 +32,16 @@
     "LBL_PRODUCT_IMAGES_PATH": "Percorso delle immagini dei prodotti Magento",
     "LBL_PRODUCT_IMAGES_PATH_TOOLTIP": "Percorso della cartella delle immagini di Magento, ad esempio 'media/catalog/prodotto/'",
     "LBL_PRODUCT_MAP_CLASS": "Nome classe di mappa del prodotto",
-    "LBL_PRODUCT_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Product'",
+    "LBL_PRODUCT_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Product'",
     "LBL_INVOICE_MAP_CLASS": "Nome di classe mappa fattura",
-    "LBL_INVOICE_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Invoice'",
+    "LBL_INVOICE_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Invoice'",
     "LBL_ORDER_MAP_CLASS": "Nome della classe mappa dell'ordine",
-    "LBL_ORDER_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Order'",
+    "LBL_ORDER_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Order'",
     "LBL_CUSTOMER_MAP_CLASS": "Nome della mappa del cliente",
-    "LBL_CUSTOMER_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Customer'",
+    "LBL_CUSTOMER_MAP_CLASS_TOOLTIP": "Se si desidera utilizzare la mappa dei campi personalizzati è necessario creare una nuova classe in Mappe/Personalizzato. Dopo di che è necessario modificare questo valore, ad esempio 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Custom\\Customer'",
     "LBL_PARAM_NOT_ALLOWED": "Parametro non consentito",
-    "LBL_VALUE_NOT_ALLOWED": "Valore non consentito"
+    "LBL_VALUE_NOT_ALLOWED": "Valore non consentito",
+    "LBL_RELOAD_MESSAGE": "I dati verranno scaricati di nuovo quando cron verrà attivato",
+    "LBL_RELOAD_MAGENTO": "Riavvia sincronizzazione"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "php": {
+    "OSSMail": "Moj poštanski sandučić",
+    "ERR_NO_MODULE_IS_INACTIVE": "Modul „Moj poštanski sandučić“ je neaktivan, treba ga omogućiti prije konfiguracije."
+  },
+  "js": {}
+}

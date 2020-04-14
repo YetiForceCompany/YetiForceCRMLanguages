@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Vervaldatum",
     "FL_SALE_DATE": "Verkoopdatum",
     "FL_ACCOUNT": "Rekening",
-    "FL_FORM_PAYMENT": "Betaalmethode",
     "FL_STATUS": "Status",
     "FL_NUMBER": "Factuurnummer",
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Bruto",
-    "PLL_CASH": "Contant",
-    "PLL_TRANSFER": "Bankoverschrijving",
     "PLL_WIRE_TRANSFER": "Elektronische overdracht"
   }
 }

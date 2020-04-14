@@ -26,7 +26,6 @@
     "LBL_EMAIL": "电子邮件",
     "LBL_VATID": "纳税人识别号",
     "LBL_SALE_DATE": "销售日期",
-    "LBL_PAYMENT_METHOD": "付款方式",
     "LBL_PLACE_DATE": "地点、日期"
   }
 }

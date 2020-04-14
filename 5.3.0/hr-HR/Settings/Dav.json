@@ -10,7 +10,7 @@
     "LBL_EMAIL": "Email",
     "LBL_LOGIN": "Prijava",
     "LBL_SELECT_USER": "Odaberite korisnika:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV aplikacija nije aktivna",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "DAV aplikacija još nije aktivirana, omogućite je u config / api.php",
     "LBL_SUCCESS_SAVE_KEY": "Novi ključ je uspešno dodan",
     "LBL_ERROR_SAVE_KEY": "Pogreška Prilikom spremanja ključa",

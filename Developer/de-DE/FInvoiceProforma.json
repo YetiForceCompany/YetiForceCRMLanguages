@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Ausführungsdatum",
     "FL_SALE_DATE": "Verkausdatum",
     "FL_ACCOUNT": "Organisation",
-    "FL_FORM_PAYMENT": "Zahlungsmethode",
     "FL_STATUS": "Status",
     "FL_NUMBER": "Rechnungsnummer",
     "FL_TOTAL": "Gesamt",
     "FL_GROSS": "Brutto",
-    "PLL_CASH": "Bar",
-    "PLL_TRANSFER": "Banktransfer",
     "PLL_WIRE_TRANSFER": "Elektronischer Transfer"
   }
 }

@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Срок",
     "FL_SALE_DATE": "Срок продажи",
     "FL_ACCOUNT": "Контрагент",
-    "FL_FORM_PAYMENT": "Метод оплаты",
     "FL_STATUS": "Статус",
     "FL_NUMBER": "Счет №",
     "FL_TOTAL": "Чистый",
     "FL_GROSS": "Валовый",
-    "PLL_CASH": "Наличные",
-    "PLL_TRANSFER": "Банковский перевод",
     "PLL_WIRE_TRANSFER": "Электронный перевод"
   }
 }

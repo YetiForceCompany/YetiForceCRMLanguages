@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "Suma brutto",
     "FL_SUM_DISCOUNT": "Suma rabatu",
     "FL_POS": "POS",
-    "FL_METHOD_PAYMENTS": "Forma płatności",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "Przelew",
-    "PLL_CASH_ON_DELIVERY": "Płatność przy odbiorze",
     "FL_NUMBER_TABLE": "Numer stolika",
     "FL_NUMBER_SEAT": "Numer siedzenia",
     "PLL_DRAFT": "Wersja robocza",
@@ -47,6 +43,18 @@
     "PLL_PAID": "Zapłacona",
     "PLL_OVERPAID": "Nadpłata",
     "PLL_UNDERPAID": "Niedopłata",
-    "FL_PARENT_SSINGLEORDERS": "Nadrzędne zamówienie"
+    "FL_PARENT_SSINGLEORDERS": "Nadrzędne zamówienie",
+    "FL_MAGENTO_STATUS": "Status Magento",
+    "PLL_PENDING": "Oczekujące",
+    "PLL_PENDING_PAYMENT": "Oczekuje na płatność",
+    "PLL_PENDING_PAYPAL": "Oczekuje na płatność PayPal",
+    "PLL_PROCESSING": "Przetwarzane",
+    "PLL_HOLDED": "Wstrzymane",
+    "PLL_FRAUD": "Podejrzenie oszustwa",
+    "PLL_PAYMENT_REVIEW": "Przegląd płatności",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "Cofnięcie anulowania opłaty PayPal",
+    "PLL_PAYPAL_REVERSED": "Cofnięcie płatności PayPal",
+    "PLL_CLOSED": "Zakończone",
+    "PLL_COMPLETE": "Ukończona"
   }
 }

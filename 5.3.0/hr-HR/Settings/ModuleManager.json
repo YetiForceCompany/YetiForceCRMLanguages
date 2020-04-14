@@ -9,7 +9,7 @@
     "LBL_FAILED": "Neuspješno",
     "LBL_FINISH": "Završi",
     "LBL_IMPORTED_MODULE": "%s modul je uspješno uvezen.",
-    "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
+    "LBL_IMPORTED_UPDATE": "%s sistem je uspješno ažuriran.",
     "LBL_IMPORTED_EXTENSION": "Proširenje je uspješno instalirano.",
     "LBL_IMPORTED_LANGUAGE": "Jezik je uspješno instaliran.",
     "LBL_IMPORTED_FONT": "Font je uspješno instaliran.",
@@ -78,10 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Nevažeći prefiks jezika",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Naziv modula ne smije sadržavati riječ Postavke",
     "LBL_SAMPLE_FIELD_NAME": "sample_name",
-    "LBL_DELETE_MODULE": "Delete module",
-    "LBL_EXPORT_MODULE": "Export module",
-    "LBL_PREMIUM_MODULE": "Premium module",
-    "LBL_SETTINGS": "Settings",
+    "LBL_DELETE_MODULE": "Obriši modul",
+    "LBL_EXPORT_MODULE": "Izvezi modul",
+    "LBL_PREMIUM_MODULE": "Premium modul",
+    "LBL_SETTINGS": "Podešavanja",
     "LBL_SAMPLE_LABEL": "Ime uzorka"
   },
   "js": {

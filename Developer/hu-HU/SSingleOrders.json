@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "Gross amount",
     "FL_SUM_DISCOUNT": "Discount amount",
     "FL_POS": "POS",
-    "FL_METHOD_PAYMENTS": "Payment method",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "Transfer",
-    "PLL_CASH_ON_DELIVERY": "Cash on delivery",
     "FL_NUMBER_TABLE": "Table number",
     "FL_NUMBER_SEAT": "Seat number",
     "PLL_DRAFT": "Draft",
@@ -47,6 +43,18 @@
     "PLL_PAID": "Paid",
     "PLL_OVERPAID": "Over paid",
     "PLL_UNDERPAID": "Underpaid",
-    "FL_PARENT_SSINGLEORDERS": "\"Szülő\" értékesítési rendelés"
+    "FL_PARENT_SSINGLEORDERS": "\"Szülő\" értékesítési rendelés",
+    "FL_MAGENTO_STATUS": "Magento állapota",
+    "PLL_PENDING": "Függőben",
+    "PLL_PENDING_PAYMENT": "Kifizetésre váró",
+    "PLL_PENDING_PAYPAL": "Folyamatban Lévő PayPal",
+    "PLL_PROCESSING": "Feldolgozás alatt",
+    "PLL_HOLDED": "Tartás alatt",
+    "PLL_FRAUD": "Csalás gyanús",
+    "PLL_PAYMENT_REVIEW": "Fizetések áttekintése",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal fizetést törölték,",
+    "PLL_PAYPAL_REVERSED": "PayPal visszafordított",
+    "PLL_CLOSED": "Lezárt",
+    "PLL_COMPLETE": "Teljesítve"
   }
 }

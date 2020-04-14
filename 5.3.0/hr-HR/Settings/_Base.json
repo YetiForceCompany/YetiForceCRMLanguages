@@ -372,7 +372,7 @@
     "LBL_MISSING_LICENSE_FILE": "Nedostaje datoteka sa licencom",
     "LBL_SUGAR_DESCRIPTION": "Vtiger je zasnovan na Sugar CRM. Trenutno je u YetiForceu ostalo samo nekoliko Sugar datoteka.",
     "LBL_VTIGER_DESCRIPTION": "Ostaje oko 30% Vtigerovog originalnog koda. Preostali kod je prepravljen i proširen.",
-    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat zvuk",
     "LBL_YETIFORCE_SHOP": "Prodavnica",
     "LBL_YETIFORCE_ISSUES": "Besplatna podrška",
     "LBL_YETIFORCE_ASSISTANCE": "Plaćena podrška",
@@ -382,9 +382,9 @@
     "LBL_SEARCH_PLACEHOLDER": "Traži ...",
     "LBL_VULNERABILITIES": "Ranjivosti",
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista biblioteka ranjivosti",
-    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
-    "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
-    "LBL_PREFIX": "Prefix"
+    "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Postavke sekvence popisa",
+    "LBL_ADVANCED_RECORD_NUMBERING": "Postavke sekvence popisa",
+    "LBL_PREFIX": "Prefiks"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",
@@ -412,7 +412,7 @@
     "JS_COLUMN_EXIST": "Pogreška Prilikom dodavanja polja",
     "JS_NOTIFY_COPY_TEXT": "Kopirana varijabla u međuspremnik",
     "JS_RS_ADD_YEAR_VARIABLE": "Kopirajte varijablu godine u prefiks ili postfiks",
-    "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
+    "JS_RS_ADD_MONTH_VARIABLE": "Kopirajte varijablu mjeseca u prefiks ili postfiks",
     "JS_RS_ADD_DAY_VARIABLE": "Kopirajte varijablu dana u prefiks ili postfiks",
     "JS_PICKLIST_TOO_MANY": "Numeriranje može sadržavati samo jednu varijablu popisa za izbor"
   }

@@ -32,14 +32,16 @@
     "LBL_PRODUCT_IMAGES_PATH": "Magento termék képek elérési út",
     "LBL_PRODUCT_IMAGES_PATH_TOOLTIP": "Útja a Magento képek mappának pl. a 'media/catalog/product/'",
     "LBL_PRODUCT_MAP_CLASS": "Termék térkép osztály neve",
-    "LBL_PRODUCT_MAP_CLASS_TOOLTIP": "Ha szeretnél használni egyéni mezőtérképet, létre kell hozni egy új osztályt, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl.\n'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Product'",
+    "LBL_PRODUCT_MAP_CLASS_TOOLTIP": "Ha szeretnél használni egyéni mezőtérképet, létre kell hozni egy új osztályt, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl.\n'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Product'",
     "LBL_INVOICE_MAP_CLASS": "Számla térkép osztály neve",
-    "LBL_INVOICE_MAP_CLASS_TOOLTIP": "Ha szeretnél használni egyéni mezőtérképet, létre kell hozni egy új osztályt, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl.\n'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Invoice'",
+    "LBL_INVOICE_MAP_CLASS_TOOLTIP": "Ha szeretné használni egyéni mező térkép létre kell hozni egy új osztály, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl. 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Invoice'",
     "LBL_ORDER_MAP_CLASS": "Rendelés térkép osztály neve",
-    "LBL_ORDER_MAP_CLASS_TOOLTIP": "Ha szeretnél használni egyéni mezőtérképet, létre kell hozni egy új osztályt, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl.\n 'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Order'",
+    "LBL_ORDER_MAP_CLASS_TOOLTIP": "Ha szeretné használni egyéni mező térkép létre kell hozni egy új osztály, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl. 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Order'",
     "LBL_CUSTOMER_MAP_CLASS": "Ügyfél térkép osztály neve",
-    "LBL_CUSTOMER_MAP_CLASS_TOOLTIP": "Ha szeretnél használni egyéni mezőtérképet, létre kell hozni egy új osztályt, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl.\n'App\\Integrations\\Magento\\Synchronizator\\Maps\\Custom\\Customer'",
+    "LBL_CUSTOMER_MAP_CLASS_TOOLTIP": "Ha szeretné használni egyéni mező térkép létre kell hozni egy új osztály, a Térképek/Egyéni. Ezt követően meg kell változtatni ezt az értéket, pl. 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Customer'",
     "LBL_PARAM_NOT_ALLOWED": "A paraméter nem engedélyezett",
-    "LBL_VALUE_NOT_ALLOWED": "Érték nem megengedett"
+    "LBL_VALUE_NOT_ALLOWED": "Érték nem megengedett",
+    "LBL_RELOAD_MESSAGE": "Az adatok letöltődtek, ismét a legközelebbi cron aktiválódásakor,",
+    "LBL_RELOAD_MAGENTO": "Indítsa újra a szinkronizálást"
   }
 }

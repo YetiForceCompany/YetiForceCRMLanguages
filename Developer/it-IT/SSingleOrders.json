@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "Totale",
     "FL_SUM_DISCOUNT": "Ammontare sconto",
     "FL_POS": "POS",
-    "FL_METHOD_PAYMENTS": "Metodo pagamento",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "Trasferimento",
-    "PLL_CASH_ON_DELIVERY": "Contanti alla consegna",
     "FL_NUMBER_TABLE": "Numero tabella",
     "FL_NUMBER_SEAT": "Numero di posto",
     "PLL_DRAFT": "Bozza",
@@ -47,6 +43,18 @@
     "PLL_PAID": "Pagato",
     "PLL_OVERPAID": "Pagato in eccesso",
     "PLL_UNDERPAID": "Sottopagato",
-    "FL_PARENT_SSINGLEORDERS": "Ordine di vendita padre"
+    "FL_PARENT_SSINGLEORDERS": "Ordine di vendita padre",
+    "FL_MAGENTO_STATUS": "Stato di Magento",
+    "PLL_PENDING": "In sospeso",
+    "PLL_PENDING_PAYMENT": "In attesa di pagamento",
+    "PLL_PENDING_PAYPAL": "PayPal In attesa",
+    "PLL_PROCESSING": "In elaborazione",
+    "PLL_HOLDED": "In attesa",
+    "PLL_FRAUD": "Sospetto di frode",
+    "PLL_PAYMENT_REVIEW": "Revisione del pagamento",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal ha annullato lo storno",
+    "PLL_PAYPAL_REVERSED": "PayPal annullato",
+    "PLL_CLOSED": "Chiuso",
+    "PLL_COMPLETE": "Completato"
   }
 }

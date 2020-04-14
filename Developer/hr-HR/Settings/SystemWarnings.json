@@ -4,7 +4,7 @@
     "LBL_LIBRARY_ROUNDCUBE": "Roundcube biblioteka",
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel biblioteka",
     "LBL_CONFIG_REPORT": "Konfiguracija poslužitelja",
-    "LBL_CONFIG_REPORT_LINK": "Check the configuration",
+    "LBL_CONFIG_REPORT_LINK": "Provjerite podešavanja",
     "LBL_NEWSLETTER": "Bilten",
     "LBL_STATS": "Pošaljite statističke podatke",
     "LBL_STATS_DESC": "Pomozite nam da poboljšamo YetiForce i naše usluge slanjem anonimnih podataka o vašoj trenutnoj CRM verziji.\n Podaci koje prikupljamo uključuju:\n- jedinstveni ključ vašeg primjerka generiran samo u svrhu biltena\n- sistemska verzija\n- jezik\n- vremenska zona\n Pitanja sigurnosti tretiramo izuzetno ozbiljno i osiguravamo da se prikupljeni podaci koriste samo u statističke svrhe.\n Pridružite nam se i izgradite zajednicu YetiForce-a s nama.",
@@ -33,7 +33,7 @@
     "LBL_CONFIG_SERVER_DESC": "Konfiguracija poslužitelja nije ispravno postavljena. Može doći do problema sa sistemom ili se uneseni podaci mogu oštetiti ili izbrisati. Više informacija možete pronaći u članku %s. Otkriveni problemi:",
     "LBL_PERFORMANCE": "Performanse",
     "LBL_PHPEXT": "PHP proširenja/ekstenzije",
-    "LBL_DATABASE": "Database",
+    "LBL_DATABASE": "Baza podataka",
     "LBL_STABILITY": "Stabilnost",
     "LBL_CONFIG_SERVER": "Konfiguracija poslužitelja",
     "LBL_SECURITY": "Sigurnost",
@@ -50,8 +50,8 @@
     "LBL_REGISTRATION": "Registracija",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Podaci o kompaniji nisu dodani nijednu adresu e-pošte. Popunite potrebne podatke ako želite primati bilten.",
     "LBL_COMPANY_DATA": "Idi na podatke o kompaniji",
-    "LBL_SYSTEM_UPDATER": "System updater",
-    "LBL_LANGUAGES_UPDATER": "Languages updater",
+    "LBL_SYSTEM_UPDATER": "Ažuriranja sustava",
+    "LBL_LANGUAGES_UPDATER": "Ažuriranje jezika",
     "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje."
   }
 }

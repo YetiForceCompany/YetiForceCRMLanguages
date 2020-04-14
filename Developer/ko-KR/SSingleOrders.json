@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "Gross amount",
     "FL_SUM_DISCOUNT": "Discount amount",
     "FL_POS": "POS",
-    "FL_METHOD_PAYMENTS": "결제 방법",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "송금",
-    "PLL_CASH_ON_DELIVERY": "상품인도시 결재",
     "FL_NUMBER_TABLE": "Table number",
     "FL_NUMBER_SEAT": "Seat number",
     "PLL_DRAFT": "Draft",
@@ -47,6 +43,18 @@
     "PLL_PAID": "결제 완료",
     "PLL_OVERPAID": "오버페이",
     "PLL_UNDERPAID": "언더페이",
-    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order",
+    "FL_MAGENTO_STATUS": "Magento status",
+    "PLL_PENDING": "Pending",
+    "PLL_PENDING_PAYMENT": "Pending payment",
+    "PLL_PENDING_PAYPAL": "Pending PayPal",
+    "PLL_PROCESSING": "Processing",
+    "PLL_HOLDED": "On hold",
+    "PLL_FRAUD": "Suspected fraud",
+    "PLL_PAYMENT_REVIEW": "Payment review",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal canceled reversal",
+    "PLL_PAYPAL_REVERSED": "PayPal reversed",
+    "PLL_CLOSED": "Closed",
+    "PLL_COMPLETE": "Complete"
   }
 }

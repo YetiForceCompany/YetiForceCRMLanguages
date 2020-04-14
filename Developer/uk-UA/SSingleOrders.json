@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": " Сума Всього",
     "FL_SUM_DISCOUNT": "Сума знижки",
     "FL_POS": "Позиція",
-    "FL_METHOD_PAYMENTS": "Спосіб оплати",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "Переказ",
-    "PLL_CASH_ON_DELIVERY": "Накладений платіж",
     "FL_NUMBER_TABLE": " Номер стелажа",
     "FL_NUMBER_SEAT": "Номер місця",
     "PLL_DRAFT": "Чернетка",
@@ -47,6 +43,18 @@
     "PLL_PAID": "Сплачено",
     "PLL_OVERPAID": "Переплачено",
     "PLL_UNDERPAID": "Недоплачено",
-    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order",
+    "FL_MAGENTO_STATUS": "Magento status",
+    "PLL_PENDING": "Pending",
+    "PLL_PENDING_PAYMENT": "Pending payment",
+    "PLL_PENDING_PAYPAL": "Pending PayPal",
+    "PLL_PROCESSING": "Processing",
+    "PLL_HOLDED": "On hold",
+    "PLL_FRAUD": "Suspected fraud",
+    "PLL_PAYMENT_REVIEW": "Payment review",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal canceled reversal",
+    "PLL_PAYPAL_REVERSED": "PayPal reversed",
+    "PLL_CLOSED": "Closed",
+    "PLL_COMPLETE": "Complete"
   }
 }

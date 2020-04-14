@@ -18,7 +18,7 @@
         "crowdinCode": "bs",
         "name": "Bosnian",
         "progress": 100,
-        "time": "2020-04-08 07:24:28"
+        "time": "2020-04-14 09:37:36"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -80,8 +80,8 @@
         "prefix": "hr-HR",
         "crowdinCode": "hr",
         "name": "Croatian",
-        "progress": 96,
-        "time": "2020-03-16 11:19:55"
+        "progress": 100,
+        "time": "2020-04-14 09:39:42"
     },
     "hu-HU": {
         "prefix": "hu-HU",
@@ -167,6 +167,13 @@
         "progress": 90,
         "time": "2020-03-16 11:29:48"
     },
+    "sh-HR": {
+        "prefix": "sh-HR",
+        "crowdinCode": "sh",
+        "name": "Serbo-Croatian",
+        "progress": 97,
+        "time": "2020-04-14 09:50:52"
+    },
     "sk-SK": {
         "prefix": "sk-SK",
         "crowdinCode": "sk",
@@ -180,6 +187,13 @@
         "name": "Slovenian",
         "progress": 83,
         "time": "2020-04-01 12:56:00"
+    },
+    "sr-CS": {
+        "prefix": "sr-CS",
+        "crowdinCode": "sr-CS",
+        "name": "Serbian (Latin)",
+        "progress": 94,
+        "time": "2020-04-14 09:50:22"
     },
     "tr-TR": {
         "prefix": "tr-TR",

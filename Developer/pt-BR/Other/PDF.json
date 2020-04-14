@@ -26,7 +26,6 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "Contribuinte",
     "LBL_SALE_DATE": "Data de venda",
-    "LBL_PAYMENT_METHOD": "Método de pagamento",
     "LBL_PLACE_DATE": "Local, data"
   }
 }

@@ -1311,7 +1311,7 @@
     "LBL_ADVANCED_SEARCH": "Ricerca avanzata",
     "LBL_MERGING": "Unione",
     "_Base": "Sistema",
-    "LBL_SHOP_YETIFORCE": "Negozio YetiForce",
+    "LBL_MARKETPLACE_YETIFORCE": "Negozio",
     "LBL_PRINT": "Stampa",
     "LBL_IMAGE_DOWNLOAD": "Scarica immagine",
     "LBL_NUMBER_OF_MERGED_RECORDS_HAS_BEEN_REDUCED_TO": "Il numero di record uniti è stato ridotto a %d.",
@@ -1403,7 +1403,17 @@
     "LBL_DUPLICATE_EAN": "Questo ean esiste già in questo modulo.",
     "FL_MAGENTO_SERVER": "Server Magento",
     "FL_MAGENTO_ID": "Identificativo Magento",
-    "FL_CONTACT": "Contatto"
+    "FL_CONTACT": "Contatto",
+    "FL_PAYMENTS_METHOD": "Metodo di pagamento",
+    "PLL_TRANSFER": "Trasferimento bancario",
+    "PLL_CASH": "Contanti",
+    "PLL_CASH_ON_DELIVERY": "Contanti alla consegna",
+    "PLL_WIRE_TRANSFER": "Bonifico bancario",
+    "PLL_REDSYS": "Redsys",
+    "PLL_DOTPAY": "Dotpay",
+    "PLL_PAYPAL": "PayPal",
+    "PLL_PAYPAL_EXPRESS": "PayPal Express",
+    "PLL_CHECK": "Assegno"
   },
   "js": {
     "JS_APPROVE": "Approva",

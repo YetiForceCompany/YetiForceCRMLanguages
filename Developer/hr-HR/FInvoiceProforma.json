@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Datum dospijeća",
     "FL_SALE_DATE": "Datum prodaje",
     "FL_ACCOUNT": "Klijent",
-    "FL_FORM_PAYMENT": "Način Plaćanja",
     "FL_STATUS": "Status",
     "FL_NUMBER": "Broj fakture",
     "FL_TOTAL": "Neto",
     "FL_GROSS": "Bruto",
-    "PLL_CASH": "Gotovina",
-    "PLL_TRANSFER": "Bankovni prijenos",
     "PLL_WIRE_TRANSFER": "Elektronski prijenos"
   }
 }

@@ -22,10 +22,10 @@
     "PLL_ACTIVE": "Aktivan",
     "PLL_INACTIVE": "Neaktivan",
     "LBL_CREATE_RECORD": "Kreiraj",
-    "Mail": "Mail",
+    "Mail": "Pošta",
     "FL_STORAGE": "Skladište",
     "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "ManageConsents": "Upravljanje saglasnostima"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite ukloniti ključ?",

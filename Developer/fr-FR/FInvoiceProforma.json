@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Date dûe",
     "FL_SALE_DATE": "Date de vente",
     "FL_ACCOUNT": "Organisation",
-    "FL_FORM_PAYMENT": "Méthode de paiement",
     "FL_STATUS": "Statut",
     "FL_NUMBER": "N° de facture",
     "FL_TOTAL": "HT",
     "FL_GROSS": "TTC",
-    "PLL_CASH": "Espèces",
-    "PLL_TRANSFER": "Virement",
     "PLL_WIRE_TRANSFER": "Transfert électronique"
   }
 }

@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Data de Vencimento",
     "FL_SALE_DATE": "Data da Venda",
     "FL_ACCOUNT": "Conta",
-    "FL_FORM_PAYMENT": "Forma de pagamento",
     "FL_STATUS": "Situação",
     "FL_NUMBER": "Número da Fatura",
     "FL_TOTAL": "Líquido",
     "FL_GROSS": "Bruto",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
     "PLL_WIRE_TRANSFER": "Electronic transfer"
   }
 }

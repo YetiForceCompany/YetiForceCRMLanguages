@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "Datum dobave",
     "FL_SALE_DATE": "Datum prodaja",
     "FL_ACCOUNT": "Podjetje",
-    "FL_FORM_PAYMENT": "Način plačila",
     "FL_STATUS": "Status",
     "FL_NUMBER": "Številka računa",
     "FL_TOTAL": "Neto",
     "FL_GROSS": "Bruto",
-    "PLL_CASH": "Gotovina",
-    "PLL_TRANSFER": "Nakazilo",
     "PLL_WIRE_TRANSFER": "Elektronski prenos"
   }
 }

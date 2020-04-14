@@ -20,11 +20,7 @@
     "FL_SUM_GROSS": "Bruto znesek",
     "FL_SUM_DISCOUNT": "Znesek popusta",
     "FL_POS": "POS",
-    "FL_METHOD_PAYMENTS": "Način plačila",
-    "PLL_REDSYS": "Redsys",
-    "PLL_DOTPAY": "Dotpay",
     "PLL_TRANSFER": "Prenos",
-    "PLL_CASH_ON_DELIVERY": "Plačilo po povzetju",
     "FL_NUMBER_TABLE": "Št. regala",
     "FL_NUMBER_SEAT": "Številka pozicije",
     "PLL_DRAFT": "Osnutek",
@@ -47,6 +43,18 @@
     "PLL_PAID": "Plačano",
     "PLL_OVERPAID": "Preplačano",
     "PLL_UNDERPAID": "Premalo plačano",
-    "FL_PARENT_SSINGLEORDERS": "Parent sales order"
+    "FL_PARENT_SSINGLEORDERS": "Parent sales order",
+    "FL_MAGENTO_STATUS": "Magento status",
+    "PLL_PENDING": "Pending",
+    "PLL_PENDING_PAYMENT": "Pending payment",
+    "PLL_PENDING_PAYPAL": "Pending PayPal",
+    "PLL_PROCESSING": "Processing",
+    "PLL_HOLDED": "On hold",
+    "PLL_FRAUD": "Suspected fraud",
+    "PLL_PAYMENT_REVIEW": "Payment review",
+    "PLL_PAYPAL_CANCELED_REVERSAL": "PayPal canceled reversal",
+    "PLL_PAYPAL_REVERSED": "PayPal reversed",
+    "PLL_CLOSED": "Closed",
+    "PLL_COMPLETE": "Complete"
   }
 }

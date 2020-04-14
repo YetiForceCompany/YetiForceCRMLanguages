@@ -30,8 +30,8 @@
     "Public: Read, Create\/Edit, Delete": "Javno: Pročitajte, Kreiranje \/ Uređivanje, Brisanje",
     "Public: Read, Create\/Edit": "Javno: Čitanje, Kreiranje \/ Uređivanje",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Prilagođeno pravilo dijeljenja uspješno je spremljeno",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Spremanje pravila pristupa dijeljenju nije uspjelo",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Brisanje pravila pristupa dijeljenju nije uspjelo"
   },
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Prilike, tiketi, ponude i računi moraju biti privatni kada je pristup računu postavljen na privatni",

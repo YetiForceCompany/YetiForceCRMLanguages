@@ -1,0 +1,10 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikatne poruke e-pošte",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodavanje / uređivanje zapisa kada jedna od unesenih adresa e-pošte već postoji",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodavanja / uređivanja zapisa kada takav PDV ID već postoji",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikatni EAN",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodavanja/uređivanja zapisa kada takav EAN kod već postoji"
+  }
+}

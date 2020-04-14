@@ -8,13 +8,10 @@
     "FL_PAYMENT_DATE": "截止日期",
     "FL_SALE_DATE": "销售日期",
     "FL_ACCOUNT": "客户",
-    "FL_FORM_PAYMENT": "付款方式",
     "FL_STATUS": "状态",
     "FL_NUMBER": "付款通知单号码",
     "FL_TOTAL": "净总额",
     "FL_GROSS": "毛总额",
-    "PLL_CASH": "现金",
-    "PLL_TRANSFER": "转账",
     "PLL_WIRE_TRANSFER": "电子转账"
   }
 }
