@@ -2,7 +2,7 @@
   "php": {
     "LBL_NEWEST_SSALESPROCESSES": "Lista najnovijih prilika",
     "LBL_FOR_VALUE": "za vrijednost",
-    "LBL_UNTIL_DAY": "until day",
+    "LBL_UNTIL_DAY": "do dana",
     "LBL_ACTUAL_STATUS": "sa aktuelnim statusom",
     "LBL_CALENDAR_OVERDUE": "Zakašnjele aktivnosti",
     "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Lista mogućnosti najviše vrijednosti",

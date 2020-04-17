@@ -190,7 +190,8 @@
     "LBL_WORK_DAYS": "Radni dani",
     "LBL_EDIT_FROM_CALENDAR": "Uredi iz kalendara",
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugog nivoa",
-    "LBL_GROUP_NAME": "Naziv grupe"
+    "LBL_GROUP_NAME": "Naziv grupe",
+    "FL_MEETING_UTL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Prikaz kalendara uspješno dodan",

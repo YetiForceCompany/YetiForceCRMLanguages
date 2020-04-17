@@ -31,7 +31,7 @@
     "Inactive": "禁用",
     "Other Po Box": "附加地址：邮政信箱",
     "Mailing Po Box": "主要地址：邮政信箱",
-    "LBL_ADDRESS_INFORMATION": "常住地址",
+    "LBL_ADDRESS_INFORMATION": "Primary address",
     "LBL_CONTACT_INFO": "联系信息",
     "Approval for phone calls": "不允许电话呼叫",
     "Approval for email": "不允许发送Email",

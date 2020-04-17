@@ -69,7 +69,7 @@
     "pack": "Упаковок",
     "LBL_TAXES": "Налоги",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Ограниченный список продуктов и услуг, связанных с возможностью продажи",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Количество на складе",
     "FL_PURCHASE": "Purchase",
     "FL_WEIGHT": "Weight"

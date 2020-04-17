@@ -69,7 +69,7 @@
     "pack": "confezione",
     "LBL_TAXES": "Tassazione",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista dei record è limitata ai prodotti e ai servizi associati all'opportunità di vendita",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Quantità di prodotto in magazzino",
     "FL_PURCHASE": "Acquisto",
     "FL_WEIGHT": "Peso"

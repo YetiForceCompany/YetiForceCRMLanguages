@@ -190,7 +190,8 @@
     "LBL_WORK_DAYS": "Работни дни",
     "LBL_EDIT_FROM_CALENDAR": "Редактирай от календара",
     "FL_SUBPROCESS_SECOND_LEVEL": "Второ ниво подпроцес",
-    "LBL_GROUP_NAME": "Име на групата"
+    "LBL_GROUP_NAME": "Име на групата",
+    "FL_MEETING_UTL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Календарният изглед е добавен успешно",

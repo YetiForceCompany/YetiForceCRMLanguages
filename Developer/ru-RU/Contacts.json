@@ -31,7 +31,7 @@
     "Inactive": "Отключен",
     "Other Po Box": "А/я  (другое)",
     "Mailing Po Box": "А/я (почта)",
-    "LBL_ADDRESS_INFORMATION": "Адрес по прописке",
+    "LBL_ADDRESS_INFORMATION": "Primary address",
     "LBL_CONTACT_INFO": "Информация о контакте",
     "Approval for phone calls": "Можно звонить",
     "Approval for email": "Можно писать",

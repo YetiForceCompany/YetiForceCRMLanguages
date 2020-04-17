@@ -69,7 +69,7 @@
     "pack": "Packung",
     "LBL_TAXES": "Steuern",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Liste von Datensätzen beschränkt sich auf die Produkte und Dienstleistungen, die mit der Verkaufschance verknüpft sind",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Anzahl Produkte auf Lager",
     "FL_PURCHASE": "Kauf",
     "FL_WEIGHT": "Gewicht"

@@ -31,7 +31,7 @@
     "Inactive": "غير نشط",
     "Other Po Box": "إضافية العنوان: PO box",
     "Mailing Po Box": "الابتدائية العنوان: PO box",
-    "LBL_ADDRESS_INFORMATION": "عنوان الإقامة الدائمة",
+    "LBL_ADDRESS_INFORMATION": "Primary address",
     "LBL_CONTACT_INFO": "معلومات الاتصال",
     "Approval for phone calls": "من يستطيع الارسال؟",
     "Approval for email": "إذن لإرسال رسائل البريد الإلكتروني",

@@ -69,7 +69,7 @@
     "pack": "包装",
     "LBL_TAXES": "税",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "记录列表仅限于与产品和服务相关的销售机会",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "产品库存数量",
     "FL_PURCHASE": "进货单价",
     "FL_WEIGHT": "重量"

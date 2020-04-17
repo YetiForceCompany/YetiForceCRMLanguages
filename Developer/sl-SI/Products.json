@@ -69,7 +69,7 @@
     "pack": "Pakirano",
     "LBL_TAXES": "Davek",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Seznam evidenc je omejen na izdelke in storitve, povezane s prodajno priložnostjo",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Zaloga",
     "FL_PURCHASE": "Nakup",
     "FL_WEIGHT": "Teža"

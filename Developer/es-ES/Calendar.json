@@ -190,7 +190,8 @@
     "LBL_WORK_DAYS": "Días laborables",
     "LBL_EDIT_FROM_CALENDAR": "Editar desde el calendario",
     "FL_SUBPROCESS_SECOND_LEVEL": "Subproceso de segundo nivel",
-    "LBL_GROUP_NAME": "Nombre del grupo"
+    "LBL_GROUP_NAME": "Nombre del grupo",
+    "FL_MEETING_UTL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vista de Calendario añadida correctamente",

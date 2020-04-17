@@ -69,7 +69,7 @@
     "pack": "pacotes",
     "LBL_TAXES": "Impostos",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "A lista de registros está limitada aos Produtos e Serviços associados com a Oportunidade de venda",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Quantidade de produtos em estoque",
     "FL_PURCHASE": "Compra",
     "FL_WEIGHT": "Weight"

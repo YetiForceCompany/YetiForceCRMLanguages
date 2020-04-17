@@ -69,7 +69,7 @@
     "pack": "paquete",
     "LBL_TAXES": "Impuestos",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista de registros se limita a los productos y servicios asociados en la pestaña de “Productos & Servicios” del Módulo relacionado",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Cantidad de productos en Stock",
     "FL_PURCHASE": "Compra",
     "FL_WEIGHT": "Peso"

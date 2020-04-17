@@ -69,7 +69,7 @@
     "pack": "بسته",
     "LBL_TAXES": "مالیات‌ها",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "لیست رکوردها محدود به محصولات و خدمات مرتبط با فرصت فروش است",
-    "FL_EAN_SKU": "EAN/SKU",
+    "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "تعداد موجودی محصول",
     "FL_PURCHASE": "خرید",
     "FL_WEIGHT": "وزن"

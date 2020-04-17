@@ -190,7 +190,8 @@
     "LBL_WORK_DAYS": "أيام العمل",
     "LBL_EDIT_FROM_CALENDAR": "تحرير التقويم",
     "FL_SUBPROCESS_SECOND_LEVEL": "المستوى الثاني subprocess",
-    "LBL_GROUP_NAME": "اسم المجموعة"
+    "LBL_GROUP_NAME": "اسم المجموعة",
+    "FL_MEETING_UTL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "تقويم عرض أضاف بنجاح",

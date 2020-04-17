@@ -247,7 +247,7 @@
     "LBL_SELECT_USERS": "Odaberite korisnike, grupe, uloge",
     "LBL_SELECT_USERS_INFO": "Odaberite korisnike, grupe, uloge kojima izvještaj treba poslati",
     "LBL_WORKINGDAY_DAY": "Svaki radni dan",
-    "LBL_WORKINGDAY_WEEK": "First working day of the week",
+    "LBL_WORKINGDAY_WEEK": "Prvi radni dan u tjednu",
     "LBL_WORKINGDAY_MONTH": "Prvi radni dan u mjesecu"
   },
   "js": {

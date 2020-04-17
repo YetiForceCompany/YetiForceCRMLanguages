@@ -211,7 +211,7 @@
     "LBL_GET_FROM_PANEL_MAPPING": "Pobierz mapowanie z panelu",
     "LBL_SELECT_TEMPLATE_FOR_MODULE": "Wybierz szablon dla modułu",
     "LBL_OVERWRITTEN_FIELDS": "Nadpisywane pola",
-    "Birthdate": "Data urodzin",
+    "Birthdate": "Data urodzenia",
     "Notify Owner On Ticket Change": "Powiadom właściciela o zmianie zgłoszenia",
     "Notify Account On Ticket Change": "Powiadom kontrahenta o zmianie zgłoszenia",
     "Notify Contact On Ticket Closed": "Powiadom kontakt o zamknięciu zgłoszenia",

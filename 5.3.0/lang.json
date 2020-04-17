@@ -18,7 +18,7 @@
         "crowdinCode": "bs",
         "name": "Bosnian",
         "progress": 100,
-        "time": "2020-04-14 09:37:36"
+        "time": "2020-04-17 07:43:15"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -137,7 +137,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2020-04-08 07:41:47"
+        "time": "2020-04-17 07:52:26"
     },
     "pt-BR": {
         "prefix": "pt-BR",
@@ -171,8 +171,8 @@
         "prefix": "sh-HR",
         "crowdinCode": "sh",
         "name": "Serbo-Croatian",
-        "progress": 97,
-        "time": "2020-04-14 09:50:52"
+        "progress": 98,
+        "time": "2020-04-17 07:55:22"
     },
     "sk-SK": {
         "prefix": "sk-SK",

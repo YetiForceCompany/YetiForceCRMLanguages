@@ -1,7 +1,7 @@
 {
   "php": {
     "Member Of": "Firma",
-    "Birthdate": "Data urodzin",
+    "Birthdate": "Data urodzenia",
     "Contact Id": "Numer",
     "Contact Image": "Zdjęcie kontaktu",
     "Contacts": "Kontakty",
@@ -31,7 +31,7 @@
     "Inactive": "Nieaktywny",
     "Other Po Box": "Adres dodatkowy: skrytka pocztowa",
     "Mailing Po Box": "Adres główny: skrytka pocztowa",
-    "LBL_ADDRESS_INFORMATION": "Adres zameldowania",
+    "LBL_ADDRESS_INFORMATION": "Adres podstawowy",
     "LBL_CONTACT_INFO": "Informacje kontaktowe",
     "Approval for phone calls": "Zgoda na kontakt telefoniczny",
     "Approval for email": "Zgoda na kontakt mailowy",

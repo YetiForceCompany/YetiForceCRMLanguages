@@ -31,7 +31,7 @@
     "Inactive": "غیرفعال",
     "Other Po Box": "نشانی اضافی: صندوق پستی",
     "Mailing Po Box": "نشانی اولیه: صندوق پستی",
-    "LBL_ADDRESS_INFORMATION": "نشانی محل اقامت دائمی",
+    "LBL_ADDRESS_INFORMATION": "Primary address",
     "LBL_CONTACT_INFO": "اطلاعات تماس",
     "Approval for phone calls": "مجوز برای برقراری تماس",
     "Approval for email": "مجوز برای ارسال ایمیل",

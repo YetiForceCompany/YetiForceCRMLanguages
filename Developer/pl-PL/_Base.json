@@ -96,7 +96,7 @@
     "LBL_ACTIVITIES": "Kalendarz",
     "LBL_ADD": "Dodaj",
     "LBL_ADDRESS_INFORMATION": "Adres główny",
-    "LBL_ADDRESS_MAILING_INFORMATION": "Adres korespondencji",
+    "LBL_ADDRESS_MAILING_INFORMATION": "Adres do doręczeń",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adres magazynu",
     "LBL_ADDRESS_SHIPPING": "Adres dostawy",
     "LBL_ADDRESS_BILLING": "Adres główny: ulica",
@@ -585,7 +585,7 @@
     "Sales End Date": "Data zakończenia sprzedaży",
     "Sales Order": "Zamówienia od klienta",
     "Sales Start Date": "Data rozpoczęcia sprzedaży",
-    "Salutation": "Przywitanie",
+    "Salutation": "Forma grzecznościowa",
     "Secondary Email": "Mail dodatkowy",
     "Self Generated": "Inicjatywa własna",
     "Services": "Usługi",
@@ -1413,7 +1413,10 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "PayPal",
     "PLL_PAYPAL_EXPRESS": "PayPal Express",
-    "PLL_CHECK": "Czek"
+    "PLL_CHECK": "Czek",
+    "FL_GENDER": "Płeć",
+    "PPL_WOMAN": "Kobieta",
+    "PPL_MAN": "Mężczyzna"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
