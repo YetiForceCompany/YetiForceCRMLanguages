@@ -31,7 +31,7 @@
     "Inactive": "Inactief",
     "Other Po Box": "Extra adres: Huisnummer",
     "Mailing Po Box": "Huisnummer",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Hoofdadres",
     "LBL_CONTACT_INFO": "Contactgegevens",
     "Approval for phone calls": "Toestemming om te bellen",
     "Approval for email": "Toestemming om e-mails te sturen",
@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Alle",
     "LBL_SHOW_HIERARCHY": "Contact hiërarchie",
     "FL_APPROVALS": "Goedkeuringen",
-    "LBL_PARTICIPANTS": "Deelnemers"
+    "LBL_PARTICIPANTS": "Deelnemers",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

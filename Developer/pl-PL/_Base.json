@@ -1413,10 +1413,7 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "PayPal",
     "PLL_PAYPAL_EXPRESS": "PayPal Express",
-    "PLL_CHECK": "Czek",
-    "FL_GENDER": "Płeć",
-    "PPL_WOMAN": "Kobieta",
-    "PPL_MAN": "Mężczyzna"
+    "PLL_CHECK": "Czek"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

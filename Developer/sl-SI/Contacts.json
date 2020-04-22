@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Vsi",
     "LBL_SHOW_HIERARCHY": "Struktura kontaktov",
     "FL_APPROVALS": "Dovoljenja",
-    "LBL_PARTICIPANTS": "Udeleženci"
+    "LBL_PARTICIPANTS": "Udeleženci",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

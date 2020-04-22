@@ -31,7 +31,7 @@
     "Inactive": "Inattivo",
     "Other Po Box": "Casella postale secondaria",
     "Mailing Po Box": "Casella postale principale",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Indirizzo Principale",
     "LBL_CONTACT_INFO": "Informazioni contatto",
     "Approval for phone calls": "Permesso di chiamata",
     "Approval for email": "Permesso invio email",
@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Tutti",
     "LBL_SHOW_HIERARCHY": "Gerarchia",
     "FL_APPROVALS": "Approvazioni",
-    "LBL_PARTICIPANTS": "Partecipanti"
+    "LBL_PARTICIPANTS": "Partecipanti",
+    "FL_GENDER": "Sesso",
+    "PLL_WOMAN": "Donna",
+    "PLL_MAN": "Uomo"
   },
   "js": {}
 }

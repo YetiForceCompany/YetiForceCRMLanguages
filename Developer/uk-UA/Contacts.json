@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Відключити прийняття рішень",
     "LBL_SHOW_HIERARCHY": "Ієрархія контакту",
     "FL_APPROVALS": "Схвалено",
-    "LBL_PARTICIPANTS": "Учасники"
+    "LBL_PARTICIPANTS": "Учасники",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

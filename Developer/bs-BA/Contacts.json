@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Sve",
     "LBL_SHOW_HIERARCHY": "Kontakt hijerarhija",
     "FL_APPROVALS": "Odobrenja",
-    "LBL_PARTICIPANTS": "Učesnici"
+    "LBL_PARTICIPANTS": "Učesnici",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

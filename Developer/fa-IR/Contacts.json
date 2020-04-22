@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "همه",
     "LBL_SHOW_HIERARCHY": "سلسله مراتب مخاطب",
     "FL_APPROVALS": "مصوبات",
-    "LBL_PARTICIPANTS": "شرکت کنندگان"
+    "LBL_PARTICIPANTS": "شرکت کنندگان",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

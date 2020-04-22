@@ -46,7 +46,10 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Όλες",
     "LBL_SHOW_HIERARCHY": "Ιεραρχία",
     "FL_APPROVALS": "Εγκρίσεις",
-    "LBL_PARTICIPANTS": "Συμμετέχοντες"
+    "LBL_PARTICIPANTS": "Συμμετέχοντες",
+    "FL_GENDER": "Gender",
+    "PLL_WOMAN": "Woman",
+    "PLL_MAN": "Man"
   },
   "js": {}
 }

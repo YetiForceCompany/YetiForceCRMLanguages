@@ -26,6 +26,6 @@
     "PLL_CANCELLED": "Cancelled",
     "PLL_ACCEPTED": "Accepted",
     "LBL_CHANGE_STATUS": "Change Status",
-    "FL_PARENT_SQUOTES": "Parent quote"
+    "FL_PARENT_SQUOTES": "Bovenliggende offerte"
   }
 }

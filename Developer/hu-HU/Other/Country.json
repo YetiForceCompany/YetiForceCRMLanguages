@@ -236,15 +236,15 @@
         "Yemen": "Jemen",
         "Zambia": "Zambia",
         "Zimbabwe": "Zimbabwe",
-        "Curaçao": "Curaçao",
-        "South Sudan": "Dél-Szudán",
-        "Guernesey": "Guernsey",
         "Bonaire, Sint Eustatius and Saba": "Holland Karib-térség",
-        "Jersey": "Jersey",
-        "Timor-Leste": "Kelet-Timor",
+        "Curaçao": "Curaçao",
+        "Guernesey": "Guernsey",
         "Isle of Man": "Man-sziget",
-        "Saint Martin (French part)": "Saint Martin",
+        "Jersey": "Jersey",
+        "Sint Maarten (Dutch part)": "Sint Maarten",
+        "South Sudan": "Dél-Szudán",
         "Saint Barthélemy": "Saint-Barthélemy",
-        "Sint Maarten (Dutch part)": "Sint Maarten"
+        "Saint Martin (French part)": "Saint Martin",
+        "Timor-Leste": "Kelet-Timor"
     }
 }
