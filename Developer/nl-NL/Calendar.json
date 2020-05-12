@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Bewerk vanuit de agenda",
     "FL_SUBPROCESS_SECOND_LEVEL": "Tweede niveau subproces",
     "LBL_GROUP_NAME": "Groepsnaam",
-    "FL_MEETING_UTL": "URL vergadering"
+    "FL_MEETING_URL": "URL vergadering"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Kalenderweergave met succes toegevoegd",

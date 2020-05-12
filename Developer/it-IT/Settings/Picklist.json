@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Aperto",
     "LBL_RECORD_STATE_CLOSED": "Chiuso",
     "LBL_RECORD_STATE_INFO": "Questo valore potrebbe essere preso in considerazione in alcuni meccanismi di stato del record",
-    "LBL_EDIT_PROCESS_STATUS": "Modifica stato del processo",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Modifica lo stato di blocco ed elaborazione",
     "LBL_TIME_COUNTING": "Conteggio tempo",
     "LBL_TIME_COUNTING_INFO": "Puoi raggruppare diversi stati in categorie in cui il sistema riassume i tempi di questi stati. Il sistema può poi eseguire qualche azione quando il tempo viene superato.",
     "LBL_TIME_COUNTING_REACTION": "Tempo di reazione",

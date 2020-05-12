@@ -9,7 +9,10 @@
     "LBL_ROW_TO_TOP": "Sposta la riga in alto",
     "LBL_ROW_TO_BOTTOM": "Sposta la riga in basso",
     "LBL_COUNTRY_SETTINGS": "Configurazione paesi",
-    "LBL_COUNTRY_DESCRIPTION": "Configura i paesi disponibili"
+    "LBL_COUNTRY_DESCRIPTION": "Configura i paesi disponibili",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Pannello",
+    "LBL_DEFAULT_PHONE_FROM_USER": "Utente",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Seleziona come recuperare il paese predefinito:"
   },
   "js": {
     "JS_COUNTRY_SETTING": "Impostazioni paese"

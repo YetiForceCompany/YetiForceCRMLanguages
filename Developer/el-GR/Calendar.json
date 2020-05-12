@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Επεξεργασία από το ημερολόγιο",
     "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας",
     "LBL_GROUP_NAME": "Όνομα Ομάδας",
-    "FL_MEETING_UTL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Προβολή ημερολογίου προστέθηκε με επιτυχία",

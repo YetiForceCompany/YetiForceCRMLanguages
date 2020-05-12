@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Schimba in antet",
     "LBL_SHITCH_HEADER_INFO": "Comutatorul poate fi gasit in antetul widget-ului",
     "HistoryRelation": "Cronologie",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Numarul de inregistrari",
     "LBL_LIST_WITH_SUMMARY": "Lista cu sumar",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History"

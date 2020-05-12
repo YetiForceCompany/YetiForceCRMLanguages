@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
     "FL_SUBPROCESS_SECOND_LEVEL": "하위레벨 과정",
     "LBL_GROUP_NAME": "그룹명",
-    "FL_MEETING_UTL": "Meeting URL"
+    "FL_MEETING_URL": "회의 URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

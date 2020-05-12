@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Nieprawidłowa wartość relacji",
     "Image": "Plik graficzny",
     "MultiImage": "Pliki graficzne (wiele)",
-    "DateTime": "Pole daty i czasu",
+    "DateTime": "Data i godzina",
     "RangeTime": "Zakres czasu",
     "LBL_HEADER_TYPE_VALUE": "Wartość",
     "LBL_HEADER_TYPE_PROGRESS": "Linia postępu",

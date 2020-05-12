@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Редагувати з календаря",
     "FL_SUBPROCESS_SECOND_LEVEL": "Наступний рівень підпроцесу",
     "LBL_GROUP_NAME": "Назва групи",
-    "FL_MEETING_UTL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Подання календаря додано успішно",

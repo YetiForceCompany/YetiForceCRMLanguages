@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "باز",
     "LBL_RECORD_STATE_CLOSED": "بسته شده",
     "LBL_RECORD_STATE_INFO": "This value might be taken into account in some record state mechanisms",
-    "LBL_EDIT_PROCESS_STATUS": "ویرایش وضعیت فرآیند",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
     "LBL_TIME_COUNTING": "شمارش زمان",
     "LBL_TIME_COUNTING_INFO": "شما می توانید چندین وضعیت را به دسته هایی دسته بندی کنید که سامانه زمان این وضعیت ها را خلاصه می کند. سیستم پس از گذشت زمان می تواند برخی از اقدامات را انجام دهد.",
     "LBL_TIME_COUNTING_REACTION": "زمان واکنش",

@@ -248,7 +248,8 @@
     "LBL_SELECT_USERS_INFO": "Válassza ki a felhasználók, csoportok, szerepek, kinek a jelentést küldeni kell",
     "LBL_WORKINGDAY_DAY": "Minden munkanap",
     "LBL_WORKINGDAY_WEEK": "Első munkanap a héten",
-    "LBL_WORKINGDAY_MONTH": "Első munkanapján a hónapban"
+    "LBL_WORKINGDAY_MONTH": "Első munkanapján a hónapban",
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Egyéni kapcsolatok"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

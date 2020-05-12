@@ -90,7 +90,10 @@
     "Emails": "Wysyłka maili [SMTP]",
     "ModTracker": "Historia zmian",
     "AssignToYourself": "Przypisz do mnie",
-    "AutoAssignRecord": "Przekazywanie automatyczne rekordów"
+    "AutoAssignRecord": "Przekazywanie automatyczne rekordów",
+    "RecordConventer": "Konwerter rekordów",
+    "RecordCollector": "Kolektor rekordów",
+    "MeetingUrl": "Adres URL spotkania"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil zapisano poprawnie"

@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Basculer dans l'en-tête",
     "LBL_SHITCH_HEADER_INFO": "Basculer peut être trouvé dans l'en-tête du widget.",
     "HistoryRelation": "Chronologie",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Nombre d'enregistrements",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History"

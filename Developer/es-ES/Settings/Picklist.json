@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Abierto",
     "LBL_RECORD_STATE_CLOSED": "Cerrado",
     "LBL_RECORD_STATE_INFO": "Este valor puede ser tenido en cuenta en algunos mecanismos de estado de registro",
-    "LBL_EDIT_PROCESS_STATUS": "Editar estado del proceso",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
     "LBL_TIME_COUNTING": "Contabilizando tiempo",
     "LBL_TIME_COUNTING_INFO": "Puede agrupar varios estados en categorías en las que el sistema totaliza los tiempos de estos estados. El sistema puede realizar una acción cuando se exceda el tiempo.",
     "LBL_TIME_COUNTING_REACTION": "Tiempo de reacción",

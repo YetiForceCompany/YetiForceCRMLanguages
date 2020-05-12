@@ -45,6 +45,6 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Het object moet een interface %s hebben",
     "ERR_CLASS_NOT_FOUND": "Klasse %s niet gevonden",
     "ERR_CLASS_MUST_BE": "Klasse moet %s zijn",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s betaalde functionaliteit, je moet deze aanschaffen"
   }
 }

@@ -1,9 +1,9 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_SLA_POLICY": "Dogovor o ravni storitve",
     "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
+    "LBL_EDIT": "Uredi dogovor o ravni storitve",
+    "LBL_CREATE": "Dodaj dogovor o ravni storitve",
     "LBL_SOURCE_MODULE": "Module"
   },
   "js": {

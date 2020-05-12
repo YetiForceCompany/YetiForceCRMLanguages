@@ -1,10 +1,10 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicate emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
-    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
-    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
-    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicate ean",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Block record adding/editing when such EAN code already exists"
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Podvojena e-pošta",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodajanje / urejanje zapisa, če že obstaja eden od e-poštnih naslovov že vnesen",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Podvojen ID za DDV",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšen ID za DDV že obstaja",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Podvojena koda Ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšna koda EAN že obstaja"
   }
 }

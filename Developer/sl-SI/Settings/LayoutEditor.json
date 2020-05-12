@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Neveljavna vrednost razmerja",
     "Image": "Image file",
     "MultiImage": "Multi image files",
-    "DateTime": "Date and time file",
+    "DateTime": "Date and time",
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Vrednost",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",

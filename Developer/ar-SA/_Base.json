@@ -393,6 +393,7 @@
     "LBL_PAGE": "الصفحة",
     "LBL_PARENT_OWNER": "سجل الوالد المالك",
     "LBL_PERMISSION_DENIED": "الإذن مرفوض",
+    "LBL_PERMISSION_DENIED_CERTAIN_FIELDS": "You're trying to edit fields/values that you don't have permissions for",
     "LBL_PLEASE_SELECT_MODULE": "الرجاء اختيار الموديل",
     "LBL_POST": "نشر",
     "LBL_PICKLIST": "قائمة الخيارات",
@@ -1400,8 +1401,12 @@
     "LBL_NO_DATA_FOUND": "No data found",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
     "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_FIELD_VALUE": "This '%s' already exists in this module.",
     "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
     "FL_MAGENTO_SERVER": "Magento server",
+    "LBL_COMPLETE_FIELDS": "Complete fields",
+    "LBL_DATA_FROM_RECORD": "Data from record",
+    "LBL_DATA_FROM_SOURCE": "Data from source",
     "FL_MAGENTO_ID": "Magento Id",
     "FL_CONTACT": "جهة الاتصال",
     "FL_PAYMENTS_METHOD": "Payment method",
@@ -1413,7 +1418,20 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "Paypal",
     "PLL_PAYPAL_EXPRESS": "Paypal express",
-    "PLL_CHECK": "Check"
+    "PLL_CHECK": "Check",
+    "BTN_CANCEL": "إلغاء",
+    "LBL_MEETING_COPY_URL": "Company access",
+    "LBL_MEETING_COPY_GUEST_URL": "Public access",
+    "LBL_MEETING_SEND_INVITATION": "Send an invitation",
+    "LBL_MEETING_JOIN": "Join",
+    "LBL_MEETING_GUEST_DESCRIPTION": "Invite other participants to your virtual room and chat with them live.",
+    "LBL_MEETING_URL_DESCRIPTION": "Access only for users. The link contains basic information, such as: username, e-mail.",
+    "LBL_MEETING_SEND_INVITATION_DESCRIPTION": "Send an invitation to your participants.",
+    "LBL_COPY": "Copy",
+    "LBL_MEETING_AUTOGENERATE": "Auto-generate meeting URL.",
+    "LBL_MEETING_AUTOGENERATE_INFO": "URL may change when \"%s\" field is modified.",
+    "LBL_VIDEO_CONFERENCE": "Video conference",
+    "LBL_DURATION_SUMMARY": "Duration summary"
   },
   "js": {
     "JS_APPROVE": "إعتماد",
@@ -1868,6 +1886,7 @@
     "JS_EMOJI_FLAGS": "الأعلام",
     "JS_EMOJI_CUSTOM": "مُخصّص",
     "JS_EMOJI_SEARCH": "بحث...",
-    "JS_CANT_CLOSE_NEW_RECROD": "لا يمكنك إنشاء فضاء جديد."
+    "JS_CANT_CLOSE_NEW_RECROD": "لا يمكنك إنشاء فضاء جديد.",
+    "JS_MEETING_URL_CHANGED": "Meeting URL has changed"
   }
 }

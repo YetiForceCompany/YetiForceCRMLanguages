@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Edit from Calendar",
     "FL_SUBPROCESS_SECOND_LEVEL": "Segundo nível subprocesso",
     "LBL_GROUP_NAME": "Nome do grupo",
-    "FL_MEETING_UTL": "URL de reunião"
+    "FL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

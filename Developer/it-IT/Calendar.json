@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Modifica dal calendario",
     "FL_SUBPROCESS_SECOND_LEVEL": "Attività di progetto",
     "LBL_GROUP_NAME": "Nome gruppo",
-    "FL_MEETING_UTL": "URL Riunione"
+    "FL_MEETING_URL": "URL della riunione"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vista calendario aggiunta con successo",

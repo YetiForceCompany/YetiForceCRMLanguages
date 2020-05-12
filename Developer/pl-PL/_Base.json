@@ -393,6 +393,7 @@
     "LBL_PAGE": "Stron",
     "LBL_PARENT_OWNER": "Nadrzędny właściciela rekordu",
     "LBL_PERMISSION_DENIED": "Brak uprawnień",
+    "LBL_PERMISSION_DENIED_CERTAIN_FIELDS": "Próbujesz edytować pola/wartości, do których nie masz wystarczających uprawnień",
     "LBL_PLEASE_SELECT_MODULE": "Proszę wybrać moduł",
     "LBL_POST": "Dodaj",
     "LBL_PICKLIST": "Lista wyboru",
@@ -1400,8 +1401,12 @@
     "LBL_NO_DATA_FOUND": "Nie znaleziono danych",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Podany adres e-mail już istnieje w tym module.",
     "LBL_DUPLICATE_VAT_ID": "Podany numer NIP już istnieje w tym module.",
+    "LBL_DUPLICATE_FIELD_VALUE": "'%s' już istnieje w tym module.",
     "LBL_DUPLICATE_EAN": "Podany kod EAN już istnieje w tym module.",
     "FL_MAGENTO_SERVER": "Serwer magento",
+    "LBL_COMPLETE_FIELDS": "Uzupełnij pola",
+    "LBL_DATA_FROM_RECORD": "Dane z rekordu",
+    "LBL_DATA_FROM_SOURCE": "Dane ze źródła",
     "FL_MAGENTO_ID": "ID w Magento",
     "FL_CONTACT": "Kontakt",
     "FL_PAYMENTS_METHOD": "Forma płatności",
@@ -1413,7 +1418,20 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "PayPal",
     "PLL_PAYPAL_EXPRESS": "PayPal Express",
-    "PLL_CHECK": "Czek"
+    "PLL_CHECK": "Czek",
+    "BTN_CANCEL": "Anuluj",
+    "LBL_MEETING_COPY_URL": "Dostęp firmy",
+    "LBL_MEETING_COPY_GUEST_URL": "Dostęp publiczny",
+    "LBL_MEETING_SEND_INVITATION": "Wyślij zaproszenie",
+    "LBL_MEETING_JOIN": "Dołącz",
+    "LBL_MEETING_GUEST_DESCRIPTION": "Zaproś innych uczestników do wirtualnego pokoju i rozmawiaj z nimi na żywo.",
+    "LBL_MEETING_URL_DESCRIPTION": "Dostęp tylko dla użytkowników. Link zawiera podstawowe informacje, takie jak: nazwa użytkownika, e-mail.",
+    "LBL_MEETING_SEND_INVITATION_DESCRIPTION": "Wyślij zaproszenie do swoich uczestników.",
+    "LBL_COPY": "Kopiuj",
+    "LBL_MEETING_AUTOGENERATE": "Automatycznie generuj adres URL spotkania.",
+    "LBL_MEETING_AUTOGENERATE_INFO": "Adres URL może się zmienić, gdy pole \"%s\" zostanie zmodyfikowane.",
+    "LBL_VIDEO_CONFERENCE": "Wideokonferencja",
+    "LBL_DURATION_SUMMARY": "Podsumowanie czasu trwania"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1868,6 +1886,7 @@
     "JS_EMOJI_FLAGS": "flagi",
     "JS_EMOJI_CUSTOM": "niestandardowe",
     "JS_EMOJI_SEARCH": "Wyszukaj…",
-    "JS_CANT_CLOSE_NEW_RECROD": "Nie można zamknąć nowego zgłoszenia"
+    "JS_CANT_CLOSE_NEW_RECROD": "Nie można zamknąć nowego zgłoszenia",
+    "JS_MEETING_URL_CHANGED": "Adres spotkania został zmieniony"
   }
 }

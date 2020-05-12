@@ -393,6 +393,7 @@
     "LBL_PAGE": "Seite",
     "LBL_PARENT_OWNER": "Besitzer übergeordneter Datensatz",
     "LBL_PERMISSION_DENIED": "Zugriff verweigert",
+    "LBL_PERMISSION_DENIED_CERTAIN_FIELDS": "You're trying to edit fields/values that you don't have permissions for",
     "LBL_PLEASE_SELECT_MODULE": "Bitte Modul zur Suche auswählen",
     "LBL_POST": "Versenden",
     "LBL_PICKLIST": "Auswahlliste",
@@ -1400,8 +1401,12 @@
     "LBL_NO_DATA_FOUND": "Keine Daten gefunden",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Diese E-Mail-Adresse existiert bereits in diesem Modul.",
     "LBL_DUPLICATE_VAT_ID": "Diese Umsatzsteuer-id existiert bereits in diesem Modul.",
+    "LBL_DUPLICATE_FIELD_VALUE": "This '%s' already exists in this module.",
     "LBL_DUPLICATE_EAN": "Diese ean bereits vorhanden ist, die in diesem Modul.",
     "FL_MAGENTO_SERVER": "Magento server",
+    "LBL_COMPLETE_FIELDS": "Complete fields",
+    "LBL_DATA_FROM_RECORD": "Data from record",
+    "LBL_DATA_FROM_SOURCE": "Data from source",
     "FL_MAGENTO_ID": "Magento Id",
     "FL_CONTACT": "Kontakt",
     "FL_PAYMENTS_METHOD": "Payment method",
@@ -1413,7 +1418,20 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "Paypal",
     "PLL_PAYPAL_EXPRESS": "Paypal express",
-    "PLL_CHECK": "Check"
+    "PLL_CHECK": "Check",
+    "BTN_CANCEL": "Abbrechen",
+    "LBL_MEETING_COPY_URL": "Company access",
+    "LBL_MEETING_COPY_GUEST_URL": "Public access",
+    "LBL_MEETING_SEND_INVITATION": "Send an invitation",
+    "LBL_MEETING_JOIN": "Join",
+    "LBL_MEETING_GUEST_DESCRIPTION": "Invite other participants to your virtual room and chat with them live.",
+    "LBL_MEETING_URL_DESCRIPTION": "Access only for users. The link contains basic information, such as: username, e-mail.",
+    "LBL_MEETING_SEND_INVITATION_DESCRIPTION": "Send an invitation to your participants.",
+    "LBL_COPY": "Copy",
+    "LBL_MEETING_AUTOGENERATE": "Auto-generate meeting URL.",
+    "LBL_MEETING_AUTOGENERATE_INFO": "URL may change when \"%s\" field is modified.",
+    "LBL_VIDEO_CONFERENCE": "Video conference",
+    "LBL_DURATION_SUMMARY": "Duration summary"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",
@@ -1868,6 +1886,7 @@
     "JS_EMOJI_FLAGS": "Markierungen",
     "JS_EMOJI_CUSTOM": "Benutzerdefiniert",
     "JS_EMOJI_SEARCH": "Suche…",
-    "JS_CANT_CLOSE_NEW_RECROD": "Sie können kein neues Ticket schließen"
+    "JS_CANT_CLOSE_NEW_RECROD": "Sie können kein neues Ticket schließen",
+    "JS_MEETING_URL_CHANGED": "Meeting URL has changed"
   }
 }

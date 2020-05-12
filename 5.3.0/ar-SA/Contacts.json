@@ -22,7 +22,7 @@
     "Title": "العنوان",
     "User List": "قائمة المستخدم",
     "Job title": "المسمى الوظيفي",
-    "Dr.": "دكتور",
+    "Dr.": "د.",
     "Mr.": "السيد.",
     "Mrs.": "السيدة",
     "Ms.": "انسة",
@@ -45,9 +45,9 @@
     "LBL_SWITCH_ON_DECISION_MAKER": "صانع القرار",
     "LBL_SWITCH_OFF_DECISION_MAKER": "جميع",
     "LBL_SHOW_HIERARCHY": "الاتصال الهرمي",
-    "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Duplicate email address"
+    "FL_APPROVALS": "الموافقات",
+    "LBL_PARTICIPANTS": "المشاركون",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "تكرار عنوان البريد الإلكتروني"
   },
   "js": {}
 }

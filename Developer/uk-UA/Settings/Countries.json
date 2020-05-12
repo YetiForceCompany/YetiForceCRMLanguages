@@ -9,7 +9,10 @@
     "LBL_ROW_TO_TOP": "Перемістити рядок вверх",
     "LBL_ROW_TO_BOTTOM": "Перемістити рядок вниз",
     "LBL_COUNTRY_SETTINGS": "Налаштування країни",
-    "LBL_COUNTRY_DESCRIPTION": "Налаштування доступності країн в системі"
+    "LBL_COUNTRY_DESCRIPTION": "Налаштування доступності країн в системі",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
+    "LBL_DEFAULT_PHONE_FROM_USER": "User",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
   },
   "js": {
     "JS_COUNTRY_SETTING": "Налаштування країни"

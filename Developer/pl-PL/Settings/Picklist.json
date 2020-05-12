@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Otwarty",
     "LBL_RECORD_STATE_CLOSED": "Zakończone",
     "LBL_RECORD_STATE_INFO": "Ta wartość może mieć wpływ na niektóre mechanizmy automatyzacyjne",
-    "LBL_EDIT_PROCESS_STATUS": "Edytuj status procesu",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edytuj status blokady i procesu",
     "LBL_TIME_COUNTING": "Zliczanie czasu",
     "LBL_TIME_COUNTING_INFO": "Możesz pogrupować kilka statusów w kategorie na bazie których system podsumuje czasy dla tych kategorii. System może również podjąć jakieś akcje w momencie gdy czas zostanie przekroczony.",
     "LBL_TIME_COUNTING_REACTION": "Czas reakcji",

@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Переключатель в заголовке",
     "LBL_SHITCH_HEADER_INFO": "Переключатель может быть найден в заголовке виджета.",
     "HistoryRelation": "График",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Количество записей",
     "LBL_LIST_WITH_SUMMARY": "Список с итогом",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History"

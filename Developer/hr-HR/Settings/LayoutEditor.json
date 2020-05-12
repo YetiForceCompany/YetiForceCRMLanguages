@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Nevažeća povezana vrijednost",
     "Image": "Datoteka slike",
     "MultiImage": "Multi slike datoteka",
-    "DateTime": "Datum i vrijeme datoteke",
+    "DateTime": "Date and time",
     "RangeTime": "Raspon vremena",
     "LBL_HEADER_TYPE_VALUE": "Vrijednost",
     "LBL_HEADER_TYPE_PROGRESS": "Traka napredka",

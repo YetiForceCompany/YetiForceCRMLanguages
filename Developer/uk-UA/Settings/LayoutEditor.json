@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Невірне значення зв'язку",
     "Image": "Зображення",
     "MultiImage": "Зображення з мульти-вибором",
-    "DateTime": "Дата і час",
+    "DateTime": "Date and time",
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Значення",
     "LBL_HEADER_TYPE_PROGRESS": "Прогрес",

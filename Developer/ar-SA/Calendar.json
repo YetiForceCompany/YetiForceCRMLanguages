@@ -110,7 +110,7 @@
     "LBL_IMPORT_ICS_ERROR_NO_RECORD": "خطأ ملف ICS",
     "LBL_IMPORT_ICS_SUCCESS": "وأضاف الدخول إلى التقويم",
     "LBL_SHITF_TASK_SHOW": "إظهار أو إخفاء نوع النشاط: المهمة",
-    "LBL_SHITF_MEETING_SHOW": "Show or hide activity type: meeting",
+    "LBL_SHITF_MEETING_SHOW": "إظهار أو إخفاء نوع النشاط: الاجتماع",
     "LBL_SHITF_CALL_SHOW": "إظهار أو إخفاء نوع النشاط: المهمة",
     "LBL_SHIFT_USER_SHOW": "إظهار أو إخفاء القائمة.",
     "Activity Type_BLOCK_SHIFT": "إظهار أو إخفاء نوع النشاط: المهمة",
@@ -159,8 +159,8 @@
     "LBL_SM_FRI": "الجمعة",
     "LBL_SM_MON": "الإثنين",
     "LBL_SM_SAT": "السبت",
-    "LBL_SM_SUN": "أحد",
-    "LBL_SM_THU": "Thu",
+    "LBL_SM_SUN": "الأحد",
+    "LBL_SM_THU": "الخميس",
     "LBL_SM_TUE": "الثلاثاء",
     "LBL_SM_WED": "الأربعاء",
     "LBL_UNTIL": "حتى",
@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "تحرير التقويم",
     "FL_SUBPROCESS_SECOND_LEVEL": "المستوى الثاني subprocess",
     "LBL_GROUP_NAME": "اسم المجموعة",
-    "FL_MEETING_UTL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "تقويم عرض أضاف بنجاح",

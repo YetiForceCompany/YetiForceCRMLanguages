@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Open",
     "LBL_RECORD_STATE_CLOSED": "Closed",
     "LBL_RECORD_STATE_INFO": "Тази стойност може да бъде взето под внимание в някои механизми",
-    "LBL_EDIT_PROCESS_STATUS": "Редактиране на състоянието на процеса",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
     "LBL_TIME_COUNTING": "Отброяване",
     "LBL_TIME_COUNTING_INFO": "Можете да групирате няколко състояния в категории, в които системата обобщава времената на тези състояния. След това системата може да извърши някакво действие, когато времето е превишено.",
     "LBL_TIME_COUNTING_REACTION": "Време за реакция",

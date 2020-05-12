@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "头部的开关",
     "LBL_SHITCH_HEADER_INFO": "开关在布局组件的顶端.",
     "HistoryRelation": "时间轴",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "记录数量",
     "LBL_LIST_WITH_SUMMARY": "带有摘要的列表",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History"

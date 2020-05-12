@@ -393,6 +393,7 @@
     "LBL_PAGE": "Pagina",
     "LBL_PARENT_OWNER": "Proprietario del record padre",
     "LBL_PERMISSION_DENIED": "Permesso negato",
+    "LBL_PERMISSION_DENIED_CERTAIN_FIELDS": "Stai cercando di modificare campi/valori per i quali non hai i permessi per",
     "LBL_PLEASE_SELECT_MODULE": "Seleziona un modulo in cui cercare",
     "LBL_POST": "Invia",
     "LBL_PICKLIST": "Menù a tendina",
@@ -1400,8 +1401,12 @@
     "LBL_NO_DATA_FOUND": "Nessun dato trovato",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Questo indirizzo email esiste già in questo modulo.",
     "LBL_DUPLICATE_VAT_ID": "Questo id vat esiste già in questo modulo.",
+    "LBL_DUPLICATE_FIELD_VALUE": "'%s' già esistente in questo modulo.",
     "LBL_DUPLICATE_EAN": "Questo ean esiste già in questo modulo.",
     "FL_MAGENTO_SERVER": "Server Magento",
+    "LBL_COMPLETE_FIELDS": "Completa i campi",
+    "LBL_DATA_FROM_RECORD": "Dati da record",
+    "LBL_DATA_FROM_SOURCE": "Dati da fonte",
     "FL_MAGENTO_ID": "Identificativo Magento",
     "FL_CONTACT": "Contatto",
     "FL_PAYMENTS_METHOD": "Metodo di pagamento",
@@ -1413,7 +1418,20 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "PayPal",
     "PLL_PAYPAL_EXPRESS": "PayPal Express",
-    "PLL_CHECK": "Assegno"
+    "PLL_CHECK": "Assegno",
+    "BTN_CANCEL": "Annulla",
+    "LBL_MEETING_COPY_URL": "Accesso aziendale",
+    "LBL_MEETING_COPY_GUEST_URL": "Accesso pubblico",
+    "LBL_MEETING_SEND_INVITATION": "Manda un invito",
+    "LBL_MEETING_JOIN": "Partecipa",
+    "LBL_MEETING_GUEST_DESCRIPTION": "Invita altri partecipanti nella tua stanza virtuale e chiacchiera con loro per in diretta.",
+    "LBL_MEETING_URL_DESCRIPTION": "Accesso solo per gli utenti. Il link contiene informazioni di base, come: nome utente, e-mail.",
+    "LBL_MEETING_SEND_INVITATION_DESCRIPTION": "Invia un invito ai tuoi partecipanti.",
+    "LBL_COPY": "Copia",
+    "LBL_MEETING_AUTOGENERATE": "Genera automaticamente URL della riunione.",
+    "LBL_MEETING_AUTOGENERATE_INFO": "L'URL può cambiare quando il campo \"%s\" viene modificato.",
+    "LBL_VIDEO_CONFERENCE": "Conferenza video",
+    "LBL_DURATION_SUMMARY": "Riepilogo di durata"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1868,6 +1886,7 @@
     "JS_EMOJI_FLAGS": "bandiere",
     "JS_EMOJI_CUSTOM": "personalizzato",
     "JS_EMOJI_SEARCH": "Ricerca…",
-    "JS_CANT_CLOSE_NEW_RECROD": "Non puoi chiudere un nuovo ticket"
+    "JS_CANT_CLOSE_NEW_RECROD": "Non puoi chiudere un nuovo ticket",
+    "JS_MEETING_URL_CHANGED": "L'URL della riunione è cambiato"
   }
 }

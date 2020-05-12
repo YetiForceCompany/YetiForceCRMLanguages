@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Cambiar en la cabecera",
     "LBL_SHITCH_HEADER_INFO": "El interruptor se puede encontrar en la cabecera del widget.",
     "HistoryRelation": "Cronograma",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Número de registros",
     "LBL_LIST_WITH_SUMMARY": "Lista con resumen",
     "LBL_CURRENT_HISTORY_SWITCH": "Actual/Historial"

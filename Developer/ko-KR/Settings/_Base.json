@@ -237,7 +237,7 @@
     "LBL_LOGS": "로그",
     "LBL_AUTOMATION": "자동화",
     "LBL_TIMECONTROL_PROCESSES": "시간 제어 프로세스",
-    "LBL_MENU_DASHBOARD": "Dashboard",
+    "LBL_MENU_DASHBOARD": "대쉬보드",
     "Board of Management": "경영 위원회",
     "Sales Department": "판매부",
     "Logistics Department": "물류부",
@@ -385,8 +385,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "선택목록 순서 설정",
     "LBL_ADVANCED_RECORD_NUMBERING": "선택목록 순서 설정",
     "LBL_PREFIX": "프리픽스",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s 기능은 아직 활성화되지 않았습니다. 활성화(Activate) 버튼을 눌러주세요.",
+    "LBL_ACTIVATE_FUNCTIONALITY": "활성화"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "인증 성공",

@@ -90,7 +90,10 @@
     "Emails": "Στείλτε email [SMTP]",
     "ModTracker": "Ιστορικό αλλαγών",
     "AssignToYourself": "Ανάθεση σε μένα",
-    "AutoAssignRecord": "Αυτόματη μεταφορά των εγγραφών"
+    "AutoAssignRecord": "Αυτόματη μεταφορά των εγγραφών",
+    "RecordConventer": "Record converter",
+    "RecordCollector": "Record collector",
+    "MeetingUrl": "Meeting URL"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Εγγραφή διαγράφηκε με επιτυχία"

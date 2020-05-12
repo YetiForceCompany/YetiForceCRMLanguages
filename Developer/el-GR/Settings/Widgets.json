@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Μετάβαση σε κεφαλίδα",
     "LBL_SHITCH_HEADER_INFO": "Ο διακόπτης μπορεί να βρεθεί στην κεφαλίδα του widget.",
     "HistoryRelation": "Χρονολόγιο",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Πλήθος εγγραφών",
     "LBL_LIST_WITH_SUMMARY": "Λιστα με σύνοψη",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History"

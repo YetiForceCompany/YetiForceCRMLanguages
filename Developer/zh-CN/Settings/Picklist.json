@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "打开",
     "LBL_RECORD_STATE_CLOSED": "关闭",
     "LBL_RECORD_STATE_INFO": "在某些记录状态机制中，可能会考虑此值",
-    "LBL_EDIT_PROCESS_STATUS": "编辑流程状态",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
     "LBL_TIME_COUNTING": "时间计数",
     "LBL_TIME_COUNTING_INFO": "您可以将多个状态分组到多个类别，其中系统汇总这些状态的时间。然后，系统可以在超过时间时执行某些操作。",
     "LBL_TIME_COUNTING_REACTION": "反应时间",

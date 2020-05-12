@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "ویرایش از تقویم",
     "FL_SUBPROCESS_SECOND_LEVEL": "زیر روند سطح دو",
     "LBL_GROUP_NAME": "نام گروه",
-    "FL_MEETING_UTL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "نمای تقویم با موفقیت اضافه شد",

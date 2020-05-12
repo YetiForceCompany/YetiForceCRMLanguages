@@ -1,7 +1,7 @@
 {
   "php": {
-    "PLL_TEXT": "Text",
-    "PLL_IMAGE": "Image",
+    "PLL_TEXT": "النص",
+    "PLL_IMAGE": "صورة",
     "LBL_PDF": "PDF",
     "LBL_PDF_DESCRIPTION": "Test version of the PDF template configuration",
     "LBL_CREATING_PDF": "Create PDF template",

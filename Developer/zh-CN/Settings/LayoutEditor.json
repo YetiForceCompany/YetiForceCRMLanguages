@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "无效的关系值",
     "Image": "图像文件",
     "MultiImage": "复合图像文件",
-    "DateTime": "日期和时间文件",
+    "DateTime": "Date and time",
     "RangeTime": "范围时间",
     "LBL_HEADER_TYPE_VALUE": "值",
     "LBL_HEADER_TYPE_PROGRESS": "进度条",

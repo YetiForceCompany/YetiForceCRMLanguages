@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Ungültiger verknüpfter Wert",
     "Image": "Bild Datei",
     "MultiImage": "Bild Dateien",
-    "DateTime": "Datum und Uhrzeit Datei",
+    "DateTime": "Date and time",
     "RangeTime": "Zeitabschnitt",
     "LBL_HEADER_TYPE_VALUE": "Wert",
     "LBL_HEADER_TYPE_PROGRESS": "Fortschrittsbalken",

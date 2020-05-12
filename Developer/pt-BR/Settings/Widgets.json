@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Interruptor no cabeçalho",
     "LBL_SHITCH_HEADER_INFO": "Interruptor pode ser achado no cabeçalho do widget.",
     "HistoryRelation": "Linha do Tempo",
+    "UpdatesList": "Field history and duration summary",
     "CountRecords": "Número de Registros",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
     "LBL_CURRENT_HISTORY_SWITCH": "Atual/Histórico"

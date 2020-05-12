@@ -383,7 +383,13 @@
     "LBL_USER_PASSWORD_IS_OK": "Twoje hasło jest zgodne z wymaganiami systemu.",
     "FL_MAIL_SCANNER_ACTIONS": "Dostępne akcje skanera poczty e-mail (Outlook)",
     "FL_MAIL_SCANNER_FIELDS": "Pola relacji rekordów (Outlook)",
-    "LBL_ACCOUNT_SETTINGS": "Ustawienia konta"
+    "LBL_ACCOUNT_SETTINGS": "Ustawienia konta",
+    "LBL_USER_NAME": "Nazwa użytkownika",
+    "LBL_LOGIN_TIME": "Sign-in time",
+    "LBL_LOGGED_OUT_TIME": "Sign-out time",
+    "LBL_USER_IP_ADDRESS": "User IP address",
+    "LBL_STATUS": "Status",
+    "LBL_MEETING_URL": "Adres URL spotkania"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separator dziesiętny i grupowania nie mogą być takie same",

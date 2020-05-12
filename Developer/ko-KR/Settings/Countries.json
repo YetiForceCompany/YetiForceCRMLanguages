@@ -9,7 +9,10 @@
     "LBL_ROW_TO_TOP": "상단에서 행 이동",
     "LBL_ROW_TO_BOTTOM": "하단에서 행 이동",
     "LBL_COUNTRY_SETTINGS": "국가 설정",
-    "LBL_COUNTRY_DESCRIPTION": "시스템에서 허용가능한 국가 구성"
+    "LBL_COUNTRY_DESCRIPTION": "시스템에서 허용가능한 국가 구성",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
+    "LBL_DEFAULT_PHONE_FROM_USER": "User",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
   },
   "js": {
     "JS_COUNTRY_SETTING": "국가 설정"

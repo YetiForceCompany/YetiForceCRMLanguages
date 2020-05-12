@@ -90,7 +90,10 @@
     "Emails": "ارسال ایمیل [SMTP]",
     "ModTracker": "تغییر تاریخچه",
     "AssignToYourself": "به من اختصاص بده",
-    "AutoAssignRecord": "انتقال خودکار رکوردها"
+    "AutoAssignRecord": "انتقال خودکار رکوردها",
+    "RecordConventer": "Record converter",
+    "RecordCollector": "Record collector",
+    "MeetingUrl": "Meeting URL"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "پروفایل با موفقیت حذف شد"

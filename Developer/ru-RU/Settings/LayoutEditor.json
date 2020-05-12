@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Неверное значение отношения",
     "Image": "Файл изображения",
     "MultiImage": "Файл мульти изображений",
-    "DateTime": "Файл даты и времени",
+    "DateTime": "Date and time",
     "RangeTime": "Диапозон времени",
     "LBL_HEADER_TYPE_VALUE": "Значение",
     "LBL_HEADER_TYPE_PROGRESS": "Панель прогресса",

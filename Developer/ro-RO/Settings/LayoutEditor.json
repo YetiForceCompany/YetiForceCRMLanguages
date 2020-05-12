@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Invalid relation value",
     "Image": "Fisier imagine",
     "MultiImage": "Fisiere multi imagine",
-    "DateTime": "Fisier data si ora",
+    "DateTime": "Date and time",
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Value",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",

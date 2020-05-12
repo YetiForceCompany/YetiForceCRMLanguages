@@ -3,8 +3,8 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 52,
-        "time": "2020-03-16 11:17:08"
+        "progress": 53,
+        "time": "2020-05-12 10:40:37"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -116,14 +116,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 20,
-        "time": "2020-04-08 07:31:41"
+        "time": "2020-05-12 10:45:45"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 45,
-        "time": "2020-04-08 07:30:47"
+        "time": "2020-05-12 10:45:04"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -186,7 +186,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 83,
-        "time": "2020-04-01 12:56:00"
+        "time": "2020-05-12 10:57:27"
     },
     "sr-CS": {
         "prefix": "sr-CS",

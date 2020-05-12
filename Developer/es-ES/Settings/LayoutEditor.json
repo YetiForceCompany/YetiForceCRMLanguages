@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Valor de relación inválido",
     "Image": "\"img_\" - Imagen",
     "MultiImage": "\"mimg_\" - MultiImage",
-    "DateTime": "\"datetime_\" - fecha y hora",
+    "DateTime": "Date and time",
     "RangeTime": "Rango de Tiempo",
     "LBL_HEADER_TYPE_VALUE": "Valor",
     "LBL_HEADER_TYPE_PROGRESS": "Barra de progreso",

@@ -90,7 +90,10 @@
     "Emails": "Invio email [SMTP]",
     "ModTracker": "Aggiornamenti",
     "AssignToYourself": "Assegna a me",
-    "AutoAssignRecord": "Auto assegnazione"
+    "AutoAssignRecord": "Auto assegnazione",
+    "RecordConventer": "Convertitore di record",
+    "RecordCollector": "Record collector",
+    "MeetingUrl": "URL Riunione"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profilo eliminato con successo"

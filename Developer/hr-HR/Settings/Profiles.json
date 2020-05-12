@@ -90,7 +90,10 @@
     "Emails": "Slanje emailova [SMTP]",
     "ModTracker": "Praćenje istorije",
     "AssignToYourself": "Dodijeliti meni",
-    "AutoAssignRecord": "Automatski prijenos zapisa"
+    "AutoAssignRecord": "Automatski prijenos zapisa",
+    "RecordConventer": "Record converter",
+    "RecordCollector": "Record collector",
+    "MeetingUrl": "Meeting URL"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

@@ -47,8 +47,8 @@
     "LBL_SHOW_HIERARCHY": "Contact Hiërarchie",
     "FL_APPROVALS": "Goedkeuringen",
     "LBL_PARTICIPANTS": "Deelnemers",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
+    "FL_GENDER": "Geslacht",
+    "PLL_WOMAN": "Vrouw",
     "PLL_MAN": "Man"
   },
   "js": {}

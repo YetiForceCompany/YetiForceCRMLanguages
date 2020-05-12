@@ -37,7 +37,7 @@
     "LBL_OPERATIONAL_HOURS": "Delovni časi",
     "LBL_CALENDAR_HOURS": "Koledar",
     "LBL_BUSINESS_HOURS": "Dejavnost",
-    "LBL_SLA_POLICY": "SLA smernice",
+    "LBL_SLA_POLICY": "Dogovor o ravni storitve",
     "LBL_POLICY_TYPE": "SLA nastavitve",
     "LBL_POLICY_TYPE_GLOBAL": "Globalno (med delovnim časom)",
     "LBL_POLICY_TYPE_TEMPLATE": "Predloge",

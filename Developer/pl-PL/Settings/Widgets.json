@@ -57,6 +57,7 @@
     "LBL_SHITCH_HEADER": "Przełącznik w nagłówku",
     "LBL_SHITCH_HEADER_INFO": "Przełącznik (switch) umieszczony w nagłówku widgetu.",
     "HistoryRelation": "Oś czasu",
+    "UpdatesList": "Historia pola i podsumowanie czasu trwania",
     "CountRecords": "Ilość rekordów",
     "LBL_LIST_WITH_SUMMARY": "Lista z podsumowaniem",
     "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia"

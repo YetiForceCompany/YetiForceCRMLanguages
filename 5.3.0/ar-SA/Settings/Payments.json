@@ -1,10 +1,10 @@
 {
   "php": {
-    "Payments": "Payments",
-    "LBL_RIGHT_CLICK_COPY": "Right click and copy"
+    "Payments": "الدفعات",
+    "LBL_RIGHT_CLICK_COPY": "انقر بالزر الأيمن ونسخ"
   },
   "js": {
-    "JS_DELETED_SUCCESSFULLY": "Deleted successfully",
-    "JS_SAVED_SUCCESSFULLY": "Saved successfully"
+    "JS_DELETED_SUCCESSFULLY": "تم الحذف بنجاح",
+    "JS_SAVED_SUCCESSFULLY": "تم الحفظ بنجاح"
   }
 }

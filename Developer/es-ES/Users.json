@@ -383,7 +383,13 @@
     "LBL_USER_PASSWORD_IS_OK": "Tu contraseña cumple con los requisitos del sistema.",
     "FL_MAIL_SCANNER_ACTIONS": "Available email scanner actions (Outlook)",
     "FL_MAIL_SCANNER_FIELDS": "Records’ relation fields (Outlook)",
-    "LBL_ACCOUNT_SETTINGS": "Account settings"
+    "LBL_ACCOUNT_SETTINGS": "Account settings",
+    "LBL_USER_NAME": "Nombre de usuario",
+    "LBL_LOGIN_TIME": "Sign-in time",
+    "LBL_LOGGED_OUT_TIME": "Sign-out time",
+    "LBL_USER_IP_ADDRESS": "User IP address",
+    "LBL_STATUS": "Status",
+    "LBL_MEETING_URL": "Meeting URL"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separador decimal y separador de agrupación no pueden ser iguales.",

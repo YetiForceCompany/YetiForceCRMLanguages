@@ -90,7 +90,10 @@
     "Emails": "发送邮件[SMTP]",
     "ModTracker": "变更记录",
     "AssignToYourself": "分配给我",
-    "AutoAssignRecord": "记录的自动转移"
+    "AutoAssignRecord": "记录的自动转移",
+    "RecordConventer": "Record converter",
+    "RecordCollector": "Record collector",
+    "MeetingUrl": "Meeting URL"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "权限配置已被删除"

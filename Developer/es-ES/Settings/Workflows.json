@@ -248,7 +248,8 @@
     "LBL_SELECT_USERS_INFO": "Selecciona los usuarios, grupos, roles a los que se debe enviar el informe",
     "LBL_WORKINGDAY_DAY": "Todos los dias hábiles",
     "LBL_WORKINGDAY_WEEK": "Primer día hábil de la semana",
-    "LBL_WORKINGDAY_MONTH": "Primer día hábil del mes"
+    "LBL_WORKINGDAY_MONTH": "Primer día hábil del mes",
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mismos campos seleccionados más de una vez",

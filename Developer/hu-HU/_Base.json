@@ -393,6 +393,7 @@
     "LBL_PAGE": "Page",
     "LBL_PARENT_OWNER": "Parent record owner",
     "LBL_PERMISSION_DENIED": "Permission denied",
+    "LBL_PERMISSION_DENIED_CERTAIN_FIELDS": "Próbálja szerkeszteni a mezőt/értéket amihez nincs jogosultsága",
     "LBL_PLEASE_SELECT_MODULE": "Please select any module to search",
     "LBL_POST": "Post",
     "LBL_PICKLIST": "Picklist",
@@ -1400,8 +1401,12 @@
     "LBL_NO_DATA_FOUND": "Nem található adat",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Ez az e-mail cím már létezik ebben a modulban.",
     "LBL_DUPLICATE_VAT_ID": "Ez a adó-azonosító már létezik ebben a modulban.",
+    "LBL_DUPLICATE_FIELD_VALUE": "Ez a '%s' kód már létezik ebben a modulban.",
     "LBL_DUPLICATE_EAN": "Ez az Ean kód már létezik ebben a modulban.",
     "FL_MAGENTO_SERVER": "Magento szerver",
+    "LBL_COMPLETE_FIELDS": "Töltse ki a mezőket",
+    "LBL_DATA_FROM_RECORD": "Adatok a rekordból",
+    "LBL_DATA_FROM_SOURCE": "Adatok forrásból",
     "FL_MAGENTO_ID": "Magento Id",
     "FL_CONTACT": "Contact",
     "FL_PAYMENTS_METHOD": "Fizetési mód",
@@ -1413,7 +1418,20 @@
     "PLL_DOTPAY": "Dotpay",
     "PLL_PAYPAL": "PayPal",
     "PLL_PAYPAL_EXPRESS": "PayPal Express",
-    "PLL_CHECK": "Csekk"
+    "PLL_CHECK": "Csekk",
+    "BTN_CANCEL": "Cancel",
+    "LBL_MEETING_COPY_URL": "Company access",
+    "LBL_MEETING_COPY_GUEST_URL": "Public access",
+    "LBL_MEETING_SEND_INVITATION": "Meghívó küldése",
+    "LBL_MEETING_JOIN": "Csatlakozás",
+    "LBL_MEETING_GUEST_DESCRIPTION": "Hívjon meg résztvevőket a saját csatszobájába és beszélgessen velük.",
+    "LBL_MEETING_URL_DESCRIPTION": "Access only for users. The link contains basic information, such as: username, e-mail.",
+    "LBL_MEETING_SEND_INVITATION_DESCRIPTION": "Meghívót küld a résztvevőinek.",
+    "LBL_COPY": "Másolás",
+    "LBL_MEETING_AUTOGENERATE": "Automatikusan generál meenting URL-t.",
+    "LBL_MEETING_AUTOGENERATE_INFO": "URL-cím megváltozhat, ha \"%s\" mező módosul.",
+    "LBL_VIDEO_CONFERENCE": "Videó konferencia",
+    "LBL_DURATION_SUMMARY": "Időtartama összefoglaló"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1868,6 +1886,7 @@
     "JS_EMOJI_FLAGS": "flags",
     "JS_EMOJI_CUSTOM": "custom",
     "JS_EMOJI_SEARCH": "Search…",
-    "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket"
+    "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket",
+    "JS_MEETING_URL_CHANGED": "Találkozó URL megváltozott"
   }
 }

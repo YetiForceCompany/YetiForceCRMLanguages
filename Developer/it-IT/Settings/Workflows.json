@@ -248,7 +248,8 @@
     "LBL_SELECT_USERS_INFO": "Seleziona utenti, gruppi, ruoli a cui inviare il report",
     "LBL_WORKINGDAY_DAY": "Ogni giorno lavorativo",
     "LBL_WORKINGDAY_WEEK": "Primo giorno di lavoro della settimana",
-    "LBL_WORKINGDAY_MONTH": "Primo giorno lavorativo del mese"
+    "LBL_WORKINGDAY_MONTH": "Primo giorno lavorativo del mese",
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relazioni personalizzate"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",
