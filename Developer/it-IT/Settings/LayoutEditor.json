@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi",
     "MultiDomain": "Selezione dominio multiplo",
     "LBL_CHANGED_MODULE_TYPE_INFO": "L'operazione di cambiamento tipo di modulo è stata aggiunta alla coda attività cron.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossibile eliminare campo non personalizzato"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossibile eliminare campo non personalizzato",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "La modifica del campo può influenzare la stabilità del sistema.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Solo le persone con competenze tecniche pertinenti dovrebbero creare e modificare i campi del sistema. La modifica del campo può influenzare la stabilità del sistema, quindi si consiglia di eseguirlo prima in un ambiente di prova."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

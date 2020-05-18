@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "适用于整个记录。如果选择 \"否\", 则可以在没有任何库存行的情况下保存记录。",
     "MultiDomain": "域多选",
     "LBL_CHANGED_MODULE_TYPE_INFO": "模块类型更改操作已添加到敌定时任务队列中。",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "无法删除非自定义字段"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "无法删除非自定义字段",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",

@@ -64,6 +64,7 @@
     "LBL_REPORT_SSALESPROCESSES": "Lehetőség bejegyzések",
     "LBL_REPORT_CALENDAR": "Naptári bejegyzések",
     "LBL_REPORT_OVERDUE": "Lejárt bejegyzések",
+    "LBL_REPORT_LOGIN_HISTORY": "Belépés előzmények",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Felhasználói duplikált bejegyzések listája",
     "LBL_USER_RECORD_FILTERED_LIST": "Felhasználói szűrt rekordok listája",
     "LBL_SUMMARY_FIELDS": "Mezők listája látható az összefoglalóban"

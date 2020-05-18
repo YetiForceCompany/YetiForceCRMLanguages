@@ -23,6 +23,7 @@
     "LBL_WARNING": "Предупреждение",
     "LBL_ITEM": "Стойност",
     "LBL_MODULE": "Модул",
-    "LBL_GROUP_NAME": "Група"
+    "LBL_GROUP_NAME": "Група",
+    "LBL_FIELDS_COLORS": "Field colors"
   }
 }

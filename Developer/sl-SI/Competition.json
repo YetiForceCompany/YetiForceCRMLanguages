@@ -8,7 +8,7 @@
     "LBL_SUBJECT": "Ime",
     "LBL_NUMBER": "Številka",
     "LBL_CLOSED_TIME": "Zakljenjeno",
-    "LBL_VAT_ID": "ID DDV",
+    "LBL_VAT_ID": "DDV",
     "LBL_SHOW_HIERARCHY": "Hierarhija",
     "LBL_PARENT_ID": "Nadrejena konkurenca"
   }

@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Anwendung auf den gesamten Datensatz. Wenn 'Nein' ausgewählt ist, kann der Datensatz ohne Inventar-Zeilen gespeichert werden.",
     "MultiDomain": "Domain Multi-Auswahl",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Der Modul-Typ-Änderung-Vorgang wurde zur Cron-Task-Warteschlange hinzugefügt.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nicht benutzerdefiniertes Feld kann nicht gelöscht werden"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nicht benutzerdefiniertes Feld kann nicht gelöscht werden",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name existiert bereits",

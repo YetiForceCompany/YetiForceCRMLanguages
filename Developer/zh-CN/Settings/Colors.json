@@ -23,6 +23,7 @@
     "LBL_WARNING": "警告",
     "LBL_ITEM": "值",
     "LBL_MODULE": "模块",
-    "LBL_GROUP_NAME": "用户组"
+    "LBL_GROUP_NAME": "用户组",
+    "LBL_FIELDS_COLORS": "Field colors"
   }
 }

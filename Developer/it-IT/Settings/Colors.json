@@ -23,6 +23,7 @@
     "LBL_WARNING": "Avviso",
     "LBL_ITEM": "Valore",
     "LBL_MODULE": "Modulo",
-    "LBL_GROUP_NAME": "Gruppo"
+    "LBL_GROUP_NAME": "Gruppo",
+    "LBL_FIELDS_COLORS": "Colori campo"
   }
 }

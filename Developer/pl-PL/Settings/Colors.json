@@ -23,6 +23,7 @@
     "LBL_WARNING": "Uwaga",
     "LBL_ITEM": "Wartość",
     "LBL_MODULE": "Moduł",
-    "LBL_GROUP_NAME": "Grupa"
+    "LBL_GROUP_NAME": "Grupa",
+    "LBL_FIELDS_COLORS": "Kolory pól"
   }
 }

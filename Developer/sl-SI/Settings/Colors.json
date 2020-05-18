@@ -23,6 +23,7 @@
     "LBL_WARNING": "Opozorilo",
     "LBL_ITEM": "Vrednost",
     "LBL_MODULE": "Moduli",
-    "LBL_GROUP_NAME": "Skupina"
+    "LBL_GROUP_NAME": "Skupina",
+    "LBL_FIELDS_COLORS": "Field colors"
   }
 }

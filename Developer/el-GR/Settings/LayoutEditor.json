@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Ισχύει για ολόκληρη την εγγραφή. Εάν 'Όχι' είναι επιλεγμένο, η εγγραφή μπορεί να σωθεί χωρίς γραμμές αποθέματος.",
     "MultiDomain": "Πολλαπλή επιλογή Domain",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Η λειτουργία αλλαγής του τύπου module έχει προστεθεί στην ουρά εργασιών του cron.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Δεν είναι δυνατό να διαγράψετε μη-προσαρμοσμένο πεδίο "
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Δεν είναι δυνατό να διαγράψετε μη-προσαρμοσμένο πεδίο ",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

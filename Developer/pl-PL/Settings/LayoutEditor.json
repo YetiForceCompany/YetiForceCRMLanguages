@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Ma zastosowanie dla całego rekordu. Jeśli wybrano \"Nie\", rekord można zapisać bez żadnych stanów magazynowych.",
     "MultiDomain": "Wybór wielu domen",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Operacja zmiany typu modułu została dodana do kolejki zadania crona.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nie można usunąć pola niestandardowego"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nie można usunąć pola niestandardowego",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Modyfikacja pola może mieć wpływ na stabilność systemu.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Jedynie osoby posiadające odpowiednią wiedzę techniczną powinny tworzyć i zmieniać pola w systemie. Modyfikacja pól może mieć wpływ na stabilność systemu, dlatego zalecamy przeprowadzenie jej w środowisku testowym."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

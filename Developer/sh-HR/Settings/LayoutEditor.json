@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Primjenjuje se na cijeli zapis. Ako je odabrano 'Ne', zapis se može spremiti bez ikakvih redaka inventara.",
     "MultiDomain": "Dodela više domena",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Operacija promjene tipa modula dodana je u red čekanja zadataka.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Neprilagođena polja ne mogu se izbrisati"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Neprilagođena polja ne mogu se izbrisati",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Naziv bloka već postoji",

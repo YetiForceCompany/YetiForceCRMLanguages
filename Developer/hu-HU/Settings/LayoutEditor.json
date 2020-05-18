@@ -191,7 +191,9 @@
     "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",
     "MultiDomain": "Domain multi select",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue.",
-    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nem törölheti a nem egyéni mező"
+    "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nem törölheti a nem egyéni mező",
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "A mező módosítása hatással lehet a rendszer stabilitására.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Csak a megfelelő műszaki ismeretekkel rendelkező személyek hozhatják létre és változtathatják meg a mezőket a rendszerben. A mező módosítása hatással lehet a rendszer stabilitására, ezért azt javasoljuk, hogy először tesztkörnyezetben hajtsa végre."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",
