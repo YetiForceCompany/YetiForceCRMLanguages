@@ -32,7 +32,7 @@
     "PLL_IN_REALIZATION": " W realizacji",
     "PLL_FOR_VERIFICATION": "Do weryfikacji",
     "PLL_AWAITING_SIGNATURES": "Oczekiwanie na podpisy",
-    "PLL_CANCELLED": "Anulowana",
+    "PLL_CANCELLED": "Anulowane",
     "PLL_ACCEPTED": "Zaakceptowana",
     "LBL_CHANGE_STATUS": "Zmień status",
     "LBL_SYNCHRONIZE_POS": "Synchronizacja POS",
