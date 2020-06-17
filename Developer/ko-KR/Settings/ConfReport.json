@@ -238,7 +238,7 @@
 		"LBL_FILE_PERMISSIONS": "권한",
 		"LBL_LABEL_SCRIPT_USER": "스크립트 사용자",
 		"LBL_ERROR_DURING_VERIFICATION": "검증 중 오류 발생",
-		"LBL_LABEL_CRM_PROVIDER": "Provider"
+		"LBL_LABEL_CRM_PROVIDER": "공급자"
 	},
 	"js": {
 		"JS_SPEED_TEST_START": "Checking speed..."

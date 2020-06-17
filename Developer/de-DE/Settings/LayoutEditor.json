@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Ungültiger verknüpfter Wert",
     "Image": "Bild Datei",
     "MultiImage": "Bild Dateien",
-    "DateTime": "Date and time",
+    "DateTime": "Datum und Zeit",
     "RangeTime": "Zeitabschnitt",
     "LBL_HEADER_TYPE_VALUE": "Wert",
     "LBL_HEADER_TYPE_PROGRESS": "Fortschrittsbalken",
@@ -192,8 +192,8 @@
     "MultiDomain": "Domain Multi-Auswahl",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Der Modul-Typ-Änderung-Vorgang wurde zur Cron-Task-Warteschlange hinzugefügt.",
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nicht benutzerdefiniertes Feld kann nicht gelöscht werden",
-    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
-    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Die Änderung des Feldes kann die Systemstabilität beeinflussen.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Nur Personen mit einschlägiger technischer Expertise sollten Felder im System erstellen und ändern. Feldänderungen können die Systemstabilität beeinträchtigen, daher empfehlen wir diese zuerst in einer Testumgebung durchzuführen."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name existiert bereits",

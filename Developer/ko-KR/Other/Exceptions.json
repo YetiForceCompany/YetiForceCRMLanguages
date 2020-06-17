@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "활동이 없어서 자동적으로 로그아웃되었습니다",
     "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "%s에 값이 없습니다.",
     "ERR_BODY_IS_EMPTY": "Body is empty",
     "ERR_API": "API 오류",
     "ERR_MODULE_DOES_NOT_EXIST": "모듈 %s 가 존재하지 않습니다",

@@ -51,6 +51,7 @@
 		"PLL_PROCESSING": "Obrada",
 		"PLL_COMPLETE": "Završen",
 		"PLL_CLOSED": "Zatvoreno",
-		"PLL_CANCELLED": "Otkazano"
+		"PLL_CANCELLED": "Otkazano",
+		"PLL_SEND": "Sent"
 	}
 }

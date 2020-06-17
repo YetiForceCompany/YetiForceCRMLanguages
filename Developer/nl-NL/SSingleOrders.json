@@ -51,6 +51,7 @@
 		"PLL_PROCESSING": "Processing",
 		"PLL_COMPLETE": "Voltooid",
 		"PLL_CLOSED": "Gesloten",
-		"PLL_CANCELLED": "Cancelled"
+		"PLL_CANCELLED": "Cancelled",
+		"PLL_SEND": "Sent"
 	}
 }

@@ -47,7 +47,7 @@
     "Product Sheet": "Інформація про товар",
     "Products": "Товари",
     "Qty In Demand": "Кількість що вимагається",
-    "Qty In Stock": "Available product quantity",
+    "Qty In Stock": "Доступна кількість товару",
     "Qty/Unit": "Кільк/Од",
     "Reams": "Пачки",
     "Reorder Level": "Рівень повторного замовлення",
@@ -69,7 +69,7 @@
     "pack": "Пакунків",
     "LBL_TAXES": "Податки",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Список записів обмежується продуктами та послугами, пов'язаними з можливістю продажу",
-    "FL_EAN_SKU": "SKU",
+    "FL_EAN_SKU": "Артикул (SKU)",
     "FL_QTY_IN_STOCK": "Кількість товарів на складі",
     "FL_PURCHASE": "Купівля",
     "FL_WEIGHT": "Вага"

@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Ενημερώθηκε",
     "LBL_INV_DELETED": "Διαγράφηκε",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ενημέρωση διαμόρφωσης widget",
-    "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές"
+    "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές",
+    "LBL_MODULES": "Modules"
   }
 }

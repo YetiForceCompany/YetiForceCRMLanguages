@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Öffnen",
     "LBL_RECORD_STATE_CLOSED": "Geschlossen",
     "LBL_RECORD_STATE_INFO": "Dieser Wert könnte in einigen Datensatz Status Mechanismen berücksichtigt werden",
-    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Sperr- und Prozessstatus bearbeiten",
     "LBL_TIME_COUNTING": "Zeit zählen",
     "LBL_TIME_COUNTING_INFO": "Sie können mehrere Status in Kategorien zusammenfassen, in denen das System die Zeiten dieser Status zusammenfasst. Das System kann dann etwas tun, wenn die Zeit überschritten wird.",
     "LBL_TIME_COUNTING_REACTION": "Reaktionszeit",

@@ -5,7 +5,7 @@
 		"LBL_MEETING_SERVICES_DESCRIPTION": " ",
 		"FL_URL": "URL",
 		"FL_STATUS": "Status",
-		"BTN_COPY_API_KEY": "Copy the application key to clipboard",
-		"FL_PASSWORD": "Password"
+		"BTN_COPY_API_KEY": "Den Anwendungsschlüssel in die Zwischenablage kopieren",
+		"FL_PASSWORD": "Passwort"
 	}
 }

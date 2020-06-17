@@ -51,6 +51,7 @@
 		"PLL_PROCESSING": "Processing",
 		"PLL_COMPLETE": "Complete",
 		"PLL_CLOSED": "Closed",
-		"PLL_CANCELLED": "已取消"
+		"PLL_CANCELLED": "已取消",
+		"PLL_SEND": "Sent"
 	}
 }

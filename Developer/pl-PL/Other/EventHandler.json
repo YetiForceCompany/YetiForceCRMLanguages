@@ -5,6 +5,10 @@
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikuj NIP",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki NIP",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikuj EAN",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki kod EAN"
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki kod EAN",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplikuj Korektę Wydania Zewnętrznego",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta wydania zewnętrznego",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplikuj Korektę Przyjęcia z Zewnątrz",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta przyjęć z zewnątrz."
   }
 }

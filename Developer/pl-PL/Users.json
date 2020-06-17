@@ -390,7 +390,13 @@
     "LBL_USER_IP_ADDRESS": "Adres IP użytkownika",
     "LBL_STATUS": "Status",
     "LBL_MEETING_URL": "Adres URL spotkania",
-    "FL_SECONDARY_EMAIL": "Email dodatkowy"
+    "FL_SECONDARY_EMAIL": "Email dodatkowy",
+    "FL_DEFAULT_SEARCH_OPERATOR": "Domyślna wyszukiwarka",
+    "PLL_FULLTEXT_BEGIN": "Słowo zaczyna się od",
+    "PLL_FULLTEXT_WORD": "Słowo",
+    "PLL_CONTAINS": "Zawiera",
+    "PLL_STARTS_WITH": "Rozpoczyna się od",
+    "PLL_ENDS_WITH": "Kończy się na"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separator dziesiętny i grupowania nie mogą być takie same",

@@ -249,7 +249,8 @@
     "LBL_WORKINGDAY_DAY": "هر روز کاری",
     "LBL_WORKINGDAY_WEEK": "اولین روز کاری هفته",
     "LBL_WORKINGDAY_MONTH": "اولین روز کاری ماه",
-    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations"
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations",
+    "LBL_VERIFY_IF_EXISTS": "Do not create new record, if related record exists"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "فیلدهای مشابه بیش از یک بار انتخاب شدند",

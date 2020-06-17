@@ -91,9 +91,9 @@
     "ModTracker": "Historie ändern",
     "AssignToYourself": "Mir Zuordnen",
     "AutoAssignRecord": "Automatische Übertragung von Datensätzen",
-    "RecordConventer": "Record converter",
-    "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "RecordConventer": "Datensatzkonverter",
+    "RecordCollector": "Datensatzkonverter",
+    "MeetingUrl": "Meeting-URL"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil erfolgreich gelöscht"

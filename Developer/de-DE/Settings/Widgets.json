@@ -57,7 +57,7 @@
     "LBL_SHITCH_HEADER": "Schalter im Header",
     "LBL_SHITCH_HEADER_INFO": "Schalter befindet sich im Widget's Header.",
     "HistoryRelation": "Zeitlinie",
-    "UpdatesList": "Field history and duration summary",
+    "UpdatesList": "Feldverlauf und -dauer Zusammenfassung",
     "CountRecords": "Anzahl Datensätze",
     "LBL_LIST_WITH_SUMMARY": "Liste mit der Zusammenfassung",
     "LBL_CURRENT_HISTORY_SWITCH": "Aktuell/Verlauf"

@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Actualizat",
     "LBL_INV_DELETED": "Șters",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes"
+    "LBL_PERSON_MAKING_CHANGES": "Person making changes",
+    "LBL_MODULES": "Modules"
   }
 }

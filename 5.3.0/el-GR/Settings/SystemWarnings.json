@@ -51,7 +51,7 @@
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "Δεν προστέθηκε διεύθυνση email στα στοιχεία της εταιρείας. Αν θέλετε να λαμβάνετε ενημερωτικά δελτία συμπληρώστε τα απαραίτητα στοιχεία.",
     "LBL_COMPANY_DATA": "Μεταβείτε στην καταχώρηση της εταιρείας",
     "LBL_SYSTEM_UPDATER": "System updater",
-    "LBL_LANGUAGES_UPDATER": "Languages updater",
+    "LBL_LANGUAGES_UPDATER": "Ενημέρωση γλωσσών",
     "LBL_UPDATER_DESC": "Υπάρχουν διαθέσιμες ενημερώσεις για το σύστημά σας. Σας συνιστούμε να κάνετε ενημέρωση."
   }
 }

@@ -1,9 +1,9 @@
 {
   "php": {
-    "Webservices": "웹서비스",
+    "Webservices": "웹 서비스",
     "LBL_CHANGE_PASSWORD_FAILURE": "비밀번호 변경에 실패했습니다.",
-    "LBL_DATABASE_QUERY_ERROR": "요청된 사항 수행중 데이터베이스 에러가 발생하였습니다.",
-    "LBL_INVALID_OLD_PASSWORD": "이전암호의 값이 정확하지 않습니다.",
+    "LBL_DATABASE_QUERY_ERROR": "요청된 사항 수행 중 데이터베이스 에러가 발생하였습니다.",
+    "LBL_INVALID_OLD_PASSWORD": "이전 암호의 값이 정확하지 않습니다.",
     "LBL_NEW_PASSWORD_MISMATCH": "새 비밀번호와 새 비밀번호 확인 값이 일치하지 않습니다."
   }
 }

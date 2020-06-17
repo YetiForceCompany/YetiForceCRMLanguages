@@ -1,11 +1,11 @@
 {
   "php": {
-    "Occurrences": "Occurrences",
+    "Occurrences": "Περιστατικό",
     "SINGLE_Occurrences": "Occurrence",
     "LBL_VIEW_CALENDAREXTENDED": "Graphical calendar",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_TOPIC": "Topic",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "FL_TOPIC": "Θέμα",
     "FL_STATUS": "Κατάσταση",
     "FL_TYPE": "Τύπος",
     "FL_DATE_START": "Ημερομηνία έναρξης",
@@ -30,7 +30,7 @@
     "PLL_PRESENT": "Present",
     "PLL_ABSENT": "Απών",
     "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_USER_NAME": "User name",
+    "LBL_USER_NAME": "Ονομα χρήστη",
     "LBL_WORK_DAYS": "Work days",
     "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
     "LBL_GROUP_NAME": "Group name",

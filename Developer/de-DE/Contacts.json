@@ -31,7 +31,7 @@
     "Inactive": "Inaktiv",
     "Other Po Box": "Weitere Postfachadresse",
     "Mailing Po Box": "Primäre Postfachadresse",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Primäre Adresse",
     "LBL_CONTACT_INFO": "Kontaktdaten",
     "Approval for phone calls": "Erlaubnis für Telefonkontakt",
     "Approval for email": "Erlaubnis für Mailkontakt",
@@ -47,10 +47,10 @@
     "LBL_SHOW_HIERARCHY": "Kontakt-Hierarchie",
     "FL_APPROVALS": "Genehmigungen",
     "LBL_PARTICIPANTS": "Teilnehmer",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "FL_GENDER": "Geschlecht",
+    "PLL_WOMAN": "Frau",
+    "PLL_MAN": "Mann",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Ein Kontakt mit dieser E-Mail-Adresse existiert bereits im System."
   },
   "js": {}
 }

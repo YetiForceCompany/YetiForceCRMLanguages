@@ -5,6 +5,10 @@
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Partita IVA dupliacata",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blocca aggiungi/modifica record quando questa partita IVA esiste già",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "EAN duplicato",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blocca aggiungi/modifica record quando questo codice EAN esiste già"
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blocca aggiungi/modifica record quando questo codice EAN esiste già",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplica la Correzione della Nota dei Beni Spediti",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Aggiungi/modifica il registro del blocco quando la stessa Correzione della Nota dei Beni Spediti esiste già",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplica la Correzione della Nota dei Beni Spediti",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Aggiungi/modifica il registro del blocco quando la stessa Correzione della Nota dei Beni Spediti esiste già."
   }
 }

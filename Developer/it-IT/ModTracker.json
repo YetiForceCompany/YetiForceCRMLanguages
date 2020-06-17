@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Modificato P/S",
     "LBL_INV_DELETED": "Eliminato P/S",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Aggiornamenti configurazione widget",
-    "LBL_PERSON_MAKING_CHANGES": "Persona che apporta modifiche"
+    "LBL_PERSON_MAKING_CHANGES": "Persona che apporta modifiche",
+    "LBL_MODULES": "Moduli"
   }
 }

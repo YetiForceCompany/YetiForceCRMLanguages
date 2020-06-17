@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "已更新",
     "LBL_INV_DELETED": "已删除",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "更新组件的配置",
-    "LBL_PERSON_MAKING_CHANGES": "个人变更"
+    "LBL_PERSON_MAKING_CHANGES": "个人变更",
+    "LBL_MODULES": "Modules"
   }
 }

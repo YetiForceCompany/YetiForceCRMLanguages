@@ -51,6 +51,7 @@
 		"PLL_PROCESSING": "W przygotowaniu",
 		"PLL_COMPLETE": "Wysłane",
 		"PLL_CLOSED": "Zakończone",
-		"PLL_CANCELLED": "Anulowane"
+		"PLL_CANCELLED": "Anulowane",
+		"PLL_SEND": "Wysłane"
 	}
 }

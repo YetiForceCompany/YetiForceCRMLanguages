@@ -45,12 +45,13 @@
 		"PLL_FRAUD": "Sospetto di frode",
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal ha annullato lo storno",
 		"PLL_PAYPAL_REVERSED": "PayPal annullato",
-		"PLL_NEW": "New",
-		"PLL_PAYMENT_REVIEW": "Paymant review",
-		"PLL_ON_HOLD": "On hold",
+		"PLL_NEW": "Nuovo",
+		"PLL_PAYMENT_REVIEW": "Revisione del pagamento",
+		"PLL_ON_HOLD": "In attesa",
 		"PLL_PROCESSING": "In elaborazione",
 		"PLL_COMPLETE": "Completato",
 		"PLL_CLOSED": "Chiuso",
-		"PLL_CANCELLED": "Annullato"
+		"PLL_CANCELLED": "Annullato",
+		"PLL_SEND": "Inviato"
 	}
 }

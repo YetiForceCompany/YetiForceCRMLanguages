@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Posodobljen",
     "LBL_INV_DELETED": "Izbrisano",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Posodobitev konfiguracije pripomočka (widget )",
-    "LBL_PERSON_MAKING_CHANGES": "Osebne spremembe izvedi"
+    "LBL_PERSON_MAKING_CHANGES": "Osebne spremembe izvedi",
+    "LBL_MODULES": "Modules"
   }
 }

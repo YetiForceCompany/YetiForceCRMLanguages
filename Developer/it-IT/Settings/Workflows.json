@@ -249,7 +249,8 @@
     "LBL_WORKINGDAY_DAY": "Ogni giorno lavorativo",
     "LBL_WORKINGDAY_WEEK": "Primo giorno di lavoro della settimana",
     "LBL_WORKINGDAY_MONTH": "Primo giorno lavorativo del mese",
-    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relazioni personalizzate"
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relazioni personalizzate",
+    "LBL_VERIFY_IF_EXISTS": "Se il record correlato esiste, non creare nuovi record"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",

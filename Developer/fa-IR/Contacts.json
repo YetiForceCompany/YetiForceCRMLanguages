@@ -47,8 +47,8 @@
     "LBL_SHOW_HIERARCHY": "سلسله مراتب مخاطب",
     "FL_APPROVALS": "مصوبات",
     "LBL_PARTICIPANTS": "شرکت کنندگان",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
+    "FL_GENDER": "جنسیت",
+    "PLL_WOMAN": "زن",
     "PLL_MAN": "Man",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
   },

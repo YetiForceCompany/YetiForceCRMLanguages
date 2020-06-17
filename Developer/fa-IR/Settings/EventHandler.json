@@ -7,7 +7,7 @@
     "LBL_EVENT_DESC": "Event description",
     "LBL_INCLUDE_MODULES": "Include modules",
     "LBL_EXCLUDE_MODULES": "Exclude modules",
-    "LBL_EVENT_IS_ACTIVE": "Is active",
+    "LBL_EVENT_IS_ACTIVE": "فعال است",
     "LBL_EDIT_VIEW_PRESAVE": "Validation before saving the record"
   }
 }

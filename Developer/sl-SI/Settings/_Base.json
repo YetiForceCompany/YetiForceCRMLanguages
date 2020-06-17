@@ -237,7 +237,7 @@
     "LBL_LOGS": "Dnevniki (logs)",
     "LBL_AUTOMATION": "Avtomatizacija",
     "LBL_TIMECONTROL_PROCESSES": "Časovni nadzor procesov",
-    "LBL_MENU_DASHBOARD": "Dashboard",
+    "LBL_MENU_DASHBOARD": "Nadzorna plošča",
     "Board of Management": "Uprava",
     "Sales Department": "Prodaja",
     "Logistics Department": "Logistika",
@@ -300,7 +300,6 @@
     "LBL_RS_MONTH": "Ponastavi z novim mesecem",
     "LBL_RS_DAY": "Ponastavitev z novim dnem",
     "LBL_DONATE_US": "Donate to YetiForce",
-    "LBL_GITHUB": "GitHub",
     "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
     "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
     "LBL_SELECT_ICON": "Select icon",
@@ -385,8 +384,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
     "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
     "LBL_PREFIX": "Prefix",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s funkcionalnost še ni bila aktivirana. Kliknite na gumb \"Aktiviraj\" .",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Authorization successful",

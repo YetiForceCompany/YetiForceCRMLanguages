@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Aktualisiert",
     "LBL_INV_DELETED": "gelöscht",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Update Widget-Konfiguration",
-    "LBL_PERSON_MAKING_CHANGES": "Persönliche Änderungen vornehmen"
+    "LBL_PERSON_MAKING_CHANGES": "Persönliche Änderungen vornehmen",
+    "LBL_MODULES": "Modules"
   }
 }

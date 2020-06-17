@@ -39,18 +39,19 @@
 		"PLL_UNDERPAID": "Πληρώθηκε μικρότερο ποσό",
 		"FL_PARENT_SSINGLEORDERS": "Parent sales order",
 		"FL_MAGENTO_STATUS": "Magento status",
-		"PLL_PENDING": "Pending",
-		"PLL_PENDING_PAYMENT": "Pending payment",
+		"PLL_PENDING": "Σε εκκρεμότητα",
+		"PLL_PENDING_PAYMENT": "Εν αναμονή πληρωμής",
 		"PLL_PENDING_PAYPAL": "Pending PayPal",
 		"PLL_FRAUD": "Suspected fraud",
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal canceled reversal",
 		"PLL_PAYPAL_REVERSED": "PayPal reversed",
-		"PLL_NEW": "New",
+		"PLL_NEW": "Νέο",
 		"PLL_PAYMENT_REVIEW": "Paymant review",
 		"PLL_ON_HOLD": "On hold",
 		"PLL_PROCESSING": "Processing",
 		"PLL_COMPLETE": "Complete",
 		"PLL_CLOSED": "Closed",
-		"PLL_CANCELLED": "Ακυρώθηκε"
+		"PLL_CANCELLED": "Ακυρώθηκε",
+		"PLL_SEND": "Sent"
 	}
 }

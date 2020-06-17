@@ -249,7 +249,8 @@
     "LBL_WORKINGDAY_DAY": "Minden munkanap",
     "LBL_WORKINGDAY_WEEK": "Első munkanap a héten",
     "LBL_WORKINGDAY_MONTH": "Első munkanapján a hónapban",
-    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Egyéni kapcsolatok"
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Egyéni kapcsolatok",
+    "LBL_VERIFY_IF_EXISTS": "Ne hozzon létre új rekordot, ha létezik kapcsolódó rekord"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

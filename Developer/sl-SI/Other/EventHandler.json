@@ -5,6 +5,10 @@
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Podvojen ID za DDV",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšen ID za DDV že obstaja",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Podvojena koda Ean",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšna koda EAN že obstaja"
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšna koda EAN že obstaja",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplicate Goods Dispatched Note Correction",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists."
   }
 }

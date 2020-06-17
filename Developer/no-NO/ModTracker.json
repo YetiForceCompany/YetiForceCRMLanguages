@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Updated",
     "LBL_INV_DELETED": "Deleted",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Oppdaterer dings dings oppsett",
-    "LBL_PERSON_MAKING_CHANGES": "Hvem redigerer"
+    "LBL_PERSON_MAKING_CHANGES": "Hvem redigerer",
+    "LBL_MODULES": "Modules"
   }
 }

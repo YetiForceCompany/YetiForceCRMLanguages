@@ -5,6 +5,10 @@
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Doppelte Umsatzsteuer-ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn eine solche USt-ID bereits existiert",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Doppelte ean",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn dieser EAN-Code bereits existiert"
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn dieser EAN-Code bereits existiert",
+    "IGDNC_IGDNEXIST_HANDLER": "Doppelte Ware erhaltene Notiz Korrektur",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten blockieren, wenn die gleiche Ware bereits versendete Notizkorrektur existiert",
+    "IGRNC_IGRNEXIST_HANDLER": "Doppelte Ware erhaltene Notiz Korrektur",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn die selbe erhaltene Notizkorrektur bereits existiert."
   }
 }

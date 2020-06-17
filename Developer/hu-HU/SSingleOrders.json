@@ -45,12 +45,13 @@
 		"PLL_FRAUD": "Csalás gyanús",
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal fizetést törölték,",
 		"PLL_PAYPAL_REVERSED": "PayPal visszafordított",
-		"PLL_NEW": "New",
-		"PLL_PAYMENT_REVIEW": "Paymant review",
-		"PLL_ON_HOLD": "On hold",
+		"PLL_NEW": "Új",
+		"PLL_PAYMENT_REVIEW": "Fizetések áttekintése",
+		"PLL_ON_HOLD": "Függő",
 		"PLL_PROCESSING": "Feldolgozás alatt",
 		"PLL_COMPLETE": "Teljesítve",
 		"PLL_CLOSED": "Lezárt",
-		"PLL_CANCELLED": "Cancelled"
+		"PLL_CANCELLED": "Cancelled",
+		"PLL_SEND": "Elküldve"
 	}
 }

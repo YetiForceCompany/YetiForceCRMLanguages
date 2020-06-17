@@ -390,7 +390,13 @@
     "LBL_USER_IP_ADDRESS": "Felhasználó IP-címe",
     "LBL_STATUS": "Állapot",
     "LBL_MEETING_URL": "Meeting URL (Automatic Copy)",
-    "FL_SECONDARY_EMAIL": "Másodlagos e-mail"
+    "FL_SECONDARY_EMAIL": "Másodlagos e-mail",
+    "FL_DEFAULT_SEARCH_OPERATOR": "Alapértelmezett keresési szolgáltató",
+    "PLL_FULLTEXT_BEGIN": "A szó kezdődik",
+    "PLL_FULLTEXT_WORD": "Szó",
+    "PLL_CONTAINS": "Tartalmazza",
+    "PLL_STARTS_WITH": "Így kezdődik",
+    "PLL_ENDS_WITH": "Ezzel ér véget"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimal separator and grouping separator can't be the same.",

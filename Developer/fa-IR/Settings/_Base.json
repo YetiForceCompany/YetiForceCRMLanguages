@@ -237,7 +237,7 @@
     "LBL_LOGS": "لاگ ها",
     "LBL_AUTOMATION": "خودکارسازی",
     "LBL_TIMECONTROL_PROCESSES": "فرآیند کنترل زمان",
-    "LBL_MENU_DASHBOARD": "Dashboard",
+    "LBL_MENU_DASHBOARD": "داشبورد",
     "Board of Management": "هیت مدیره",
     "Sales Department": "دپارتمان فروش",
     "Logistics Department": "دپارتمان ترابری و تدارکات",
@@ -300,7 +300,6 @@
     "LBL_RS_MONTH": "بازنشانی با ماه جدید",
     "LBL_RS_DAY": "بازنشانی با روز جدید",
     "LBL_DONATE_US": "کمک به YetiForce",
-    "LBL_GITHUB": "گیت هاب",
     "LBL_SHOW_LANG_IN_LOGIN_PAGE": "انتخاب زبان در صفحه ورود به سامانه",
     "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "انتخاب چیدمان را در صفحه ورود نشان دهید",
     "LBL_SELECT_ICON": "انتخاب آیکون",
@@ -386,7 +385,7 @@
     "LBL_ADVANCED_RECORD_NUMBERING": "تنظیم سلسله فهرست انتخاب",
     "LBL_PREFIX": "پیشوند",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
+    "LBL_ACTIVATE_FUNCTIONALITY": "فعال کردن"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "اعطای مجوز دسترسی موفقیت آمیز بود",

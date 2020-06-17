@@ -46,6 +46,7 @@
     "LBL_INV_UPDATED": "Ažurirano",
     "LBL_INV_DELETED": "Obrisano",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ažuriranja config widgeta",
-    "LBL_PERSON_MAKING_CHANGES": "Osoba koja vrši promjene"
+    "LBL_PERSON_MAKING_CHANGES": "Osoba koja vrši promjene",
+    "LBL_MODULES": "Modules"
   }
 }

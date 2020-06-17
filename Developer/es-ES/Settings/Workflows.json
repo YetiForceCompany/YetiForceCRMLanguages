@@ -249,7 +249,8 @@
     "LBL_WORKINGDAY_DAY": "Todos los dias hábiles",
     "LBL_WORKINGDAY_WEEK": "Primer día hábil de la semana",
     "LBL_WORKINGDAY_MONTH": "Primer día hábil del mes",
-    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations"
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations",
+    "LBL_VERIFY_IF_EXISTS": "Do not create new record, if related record exists"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mismos campos seleccionados más de una vez",
