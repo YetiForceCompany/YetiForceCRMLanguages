@@ -1,16 +1,16 @@
 {
   "php": {
-    "HideBlocks": "Hide blocks",
-    "LBL_HIDEBLOCKS": "Fields – Hide Blocks",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Manage which blocks with fields to hide",
-    "LBL_BLOCK_LABEL": "Block",
-    "LBL_MODULE": "Module",
-    "LBL_ENABLED": "Active",
-    "LBL_EDIT_BLOCK": "Edit",
-    "LBL_NEW_BLOCK": "Create",
-    "LBL_BLOCK": "Block",
-    "LBL_NEXT": "Next",
-    "LBL_VIEW": "View",
-    "LBL_MANDATORY_FIELDS_EXIST": "This block cannot be hidden because it contains mandatory fields."
+    "HideBlocks": "ブロックを隠す",
+    "LBL_HIDEBLOCKS": "フィールド – ブロックを隠す",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "フィールドを非表示にするブロックを管理します",
+    "LBL_BLOCK_LABEL": "ブロック",
+    "LBL_MODULE": "モジュール",
+    "LBL_ENABLED": "有効",
+    "LBL_EDIT_BLOCK": "編集",
+    "LBL_NEW_BLOCK": "作成",
+    "LBL_BLOCK": "ブロック",
+    "LBL_NEXT": "次",
+    "LBL_VIEW": "表示",
+    "LBL_MANDATORY_FIELDS_EXIST": "必須項目が含まれているため、このブロックは非表示にできません。"
   }
 }

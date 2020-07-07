@@ -1,23 +1,23 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
+    "LBL_BUSINESS_HOURS": "営業時間",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "営業時間はチームの勤務時間を設定できるモジュールです。",
     "LBL_WORKING_HOURS_FROM": "From",
     "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings"
+    "LBL_WORKING_DAYS": "就業日",
+    "LBL_WORKING_HOURS": "就業時間",
+    "LBL_DEFAULT": "既定",
+    "LBL_NAME": "名前",
+    "LBL_HOLIDAYS": "休日",
+    "LBL_EDIT_BUSINESS_HOURS": "営業時間を編集",
+    "LBL_ADD_BUSINESS_HOURS": "営業時間のエントリを追加",
+    "LBL_DEFAULT_TIMES": "既定の時間",
+    "LBL_DEFAULT_REACTION_TIME": "既定の反応時間",
+    "LBL_DEFAULT_IDLE_TIME": "既定のアイドル時間",
+    "LBL_DEFAULT_RESOLVE_TIME": "既定の解決時間",
+    "LBL_HOLIDAYS_LINK": "休日の設定に移動"
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "このエントリを削除してもよろしいですか？"
   }
 }

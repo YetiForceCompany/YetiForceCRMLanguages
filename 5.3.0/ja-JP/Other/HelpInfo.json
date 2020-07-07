@@ -1,17 +1,17 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
-    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "The default country used when synchronizing the CardDAV phone field. If the phone is without a national number, this field will be used",
-    "Users|FL_OVERRIDE_SEARCH_MODULE": "Always set selected element as default module in global search engine.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
-    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
-    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "Announcements|FL_INTERVAL": "ユーザーが変更を確認しなかった場合のリマインダーの頻度。項目が空のままの場合、リマインダーは再び表示されません。",
+    "Accounts|Account Name": "このフィールドは会社名を対象としています",
+    "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "CardDAV 電話フィールドを同期するときに使用されるデフォルトの国です。電話番号がない場合は、このフィールドが使用されます",
+    "Users|FL_OVERRIDE_SEARCH_MODULE": "常にグローバル検索エンジンで選択された要素をデフォルトモジュールとして設定します。",
+    "FL_RESPONSE_RANGE_TIME": "SLAと営業日/時間に基づいて計算された反応までに経過した時間（分）",
+    "FL_SOLUTION_RANGE_TIME": "特定のレコードを解決するために経過した時間（分）。構成に応じて、SLAと営業日/時間に基づいてさまざまなステータスで計算されます",
+    "FL_IDLE_RANGE_TIME": "特定のレコードが非アクティブであった時間（分）。 追加情報を待つ場合、SLAと営業日/営業時間に基づいて計算されます",
+    "FL_CLOSING_RANGE_TIME": "レコードの作成と最新の終了までに経過した時間（分）は、SLAと営業日/時間に基づいて計算されます。",
+    "FL_RESPONSE_DATE_TIME": "反応開始日時。",
+    "FL_SOLUTION_DATE_TIME": "解決終了日時。",
+    "FL_IDLE_DATE_TIME": "アイドル終了日時。",
+    "FL_RESPONSE_EXPECTED": "レコードの反応が実行されるまでの予定/予定日はSLAと営業日/時間に基づいて計算されます。",
+    "FL_IDLE_DATE_EXPECTED": "アイドル時間が許可されるまでの予定/予定日はSLAと営業日/時間に基づいて計算されます。"
   }
 }

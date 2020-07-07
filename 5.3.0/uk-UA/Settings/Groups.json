@@ -1,13 +1,13 @@
 {
   "php": {
     "LBL_ADD_RECORD": "Добавити Групу",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
+    "LBL_ADD_USERS_ROLES": "Додайте Користувачів, Ролі...",
     "LBL_DUPLICATES_EXIST": "Таке ім'я групи вже існує",
     "LBL_GROUP_MEMBERS": "Учасники групи",
     "LBL_GROUP_NAME": "Назва групи",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
+    "LBL_ROLEANDSUBORDINATE": "Ролі та підлеглі",
+    "LBL_TO_OTHER_GROUP": "До іншої групи ",
+    "LBL_TRANSFORM_OWNERSHIP": "Передача права власності",
     "SINGLE_Groups": "Група",
     "Users": "Користувачі",
     "Name": "Назва групи",

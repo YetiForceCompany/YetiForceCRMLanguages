@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
+    "LBL_NEWEST_SSALESPROCESSES": "最新の案件一覧",
+    "LBL_FOR_VALUE": "価値のために",
+    "LBL_UNTIL_DAY": "日まで",
+    "LBL_ACTUAL_STATUS": "実際の状態で",
+    "LBL_CALENDAR_OVERDUE": "期限切れのアクティビティ",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "最高額の商談一覧",
+    "LBL_NEW_ACCOUNTS": "新しい顧客企業",
+    "LBL_NEW_CONTACTS": "新しい顧客担当者",
+    "LBL_CALENDAR_TODAY": "今日のカレンダーイベント",
+    "LBL_CALENDAR_THIS_WEEK": "今週のカレンダーイベント",
     "LBL_LOGIN_HISTORY": "ログイン履歴",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_HELLO": "ようこそ",
+    "LBL_REPORT_DAY_CONTENT": "以下は、YetiForceでの毎日の活動の概要です。",
+    "LBL_REPORT_WEEK_CONTENT": "以下は、YetiForceの毎週の活動の概要です。",
+    "LBL_REPORT_MONTH_CONTENT": "以下は、YetiForceの毎月の活動の概要です。"
   }
 }

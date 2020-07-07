@@ -2,7 +2,7 @@
   "php": {
     "FL_PROVIDER": "Провайдер",
     "FL_STATUS": "Статус",
-    "FL_SMSAPI_FROM": "Sender name",
+    "FL_SMSAPI_FROM": "Ім'я відправника",
     "FL_API_KEY": "Ключ API",
     "PLL_INACTIVE": "Неактивно",
     "PLL_ACTIVE": "Активно",

@@ -16,19 +16,19 @@
     "LBL_RULE_NO": "Rule number",
     "LBL_SHARING_RULE": "Sharing rules",
     "LBL_WITH_PERMISSIONS": "With permissions",
-    "Read Only": "Read only",
-    "Read Write": "Read\/Write",
-    "SINGLE_Groups": "Group",
-    "Groups": "Groups",
+    "Read Only": "Тільки для читання",
+    "Read Write": "Читання \/ Запис",
+    "SINGLE_Groups": "Група",
+    "Groups": "Групи",
     "SINGLE_RoleAndSubordinates": "Role and subordinate",
     "RoleAndSubordinates": "Roles and subordinates",
-    "SINGLE_Roles": "Role",
-    "SINGLE_Users": "User",
-    "Roles": "Roles",
-    "Private": "Private",
-    "Public: Read Only": "Public: Read only",
-    "Public: Read, Create\/Edit, Delete": "Public: Read, Create\/Edit, Delete",
-    "Public: Read, Create\/Edit": "Public: Read, Create\/Edit",
+    "SINGLE_Roles": "Роль",
+    "SINGLE_Users": "Користувач",
+    "Roles": "Ролі",
+    "Private": "Приватний",
+    "Public: Read Only": "Публічний: Лише читання",
+    "Public: Read, Create\/Edit, Delete": "Публічний: Читання, Створення\/Редагування, Видалення",
+    "Public: Read, Create\/Edit": "Публічний: Читання, Створення\/Редагування",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Custom sharing rule saved successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
@@ -36,6 +36,6 @@
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Opportunities, Tickets, Quotes & Invoice access must be set to private when the Account access is set to private",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "New sharing rules applied successfully",
-    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Select any other accessing user"
+    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Вибрати будь-якого іншого користувача"
   }
 }

@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion rate",
-    "Currency": "Currency",
-    "Symbol": "Symbol",
-    "Currency Code": "Currency code",
-    "Currency Name": "Currency name",
-    "LBL_ADD_NEW_CURRENCY": "Add new currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency code",
-    "LBL_CURRENCY_NAME": "Currency name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency active",
-    "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current currency",
-    "LBL_EDIT_CURRENCY": "Edit currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "Conversion Rate": "換算レート",
+    "Currency": "通貨",
+    "Symbol": "記号",
+    "Currency Code": "通貨コード",
+    "Currency Name": "通貨名",
+    "LBL_ADD_NEW_CURRENCY": "新しい通貨を追加",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "LBL_CURRENCY_CODE": "通貨コード",
+    "LBL_CURRENCY_NAME": "通貨名",
+    "LBL_CURRENCY_STATUS_DESC": "通貨を有効にするにはチェックボックスを有効にしてください",
+    "LBL_CURRENCY_SYMBOL": "記号",
+    "LBL_CURRENT_CURRENCY": "現在の通貨",
+    "LBL_EDIT_CURRENCY": "通貨を編集",
+    "LBL_ENTER_CONVERSION_RATE": "換算レートを入力",
+    "LBL_TRANSFER_CURRENCY": "送金通貨",
+    "Active": "有効",
+    "Inactive": "無効",
+    "LBL_SET_AS_DEFAULT": "デフォルトとして設定"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency deleted successfully.",
-    "JS_CURRENCY_DETAILS_SAVED": "Currency details saved.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "通貨を削除しました。",
+    "JS_CURRENCY_DETAILS_SAVED": "通貨の詳細を保存しました。",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "警告！ この操作により、システムの多くの場所で通貨が変更されます。 この変更前に発行された財務書類では、通貨換算が必要になる場合があります。 これらのドキュメントが製品版で発行されている場合は、手動で通貨換算を実行してください。 残りの通貨の為替レートを計算する必要があります。"
   }
 }

@@ -32,7 +32,7 @@
     "LBL_LangJS": "JS Translation",
     "LBL_NoTranslation": "--No Translation--",
     "LBL_SaveTranslationError": "Error in saving",
-    "LBL_UpdateTranslationOK": "Translation updated",
+    "LBL_UpdateTranslationOK": "Переклад оновлено",
     "LBL_AddTranslationOK": "New translation added",
     "LBL_DeleteTranslationOK": "Translation deleted",
     "LBL_DELETE_TRANSLATION_FAILED": "Removing translation unsuccessful",

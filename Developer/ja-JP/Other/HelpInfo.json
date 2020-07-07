@@ -1,7 +1,7 @@
 {
   "php": {
-    "Announcements|FL_INTERVAL": "Frequency of reminders in days, if a user did not review changes. If the field remains empty the reminder will not be displayed again.",
-    "Accounts|Account Name": "This field is intended for company name",
+    "Announcements|FL_INTERVAL": "ユーザーが変更を確認しなかった場合のリマインダーの頻度。項目が空のままの場合、リマインダーは再び表示されません。",
+    "Accounts|Account Name": "このフィールドは会社名を対象としています",
     "Users|LBL_CARDDAV_DEFAULT_COUNTRY": "電話番号のプレフィックスを設定するには、CardDAV 同期のデフォルトの国を指定します。",
     "Users|FL_OVERRIDE_SEARCH_MODULE": "オプションがチェックされている場合、システムはデフォルトでモジュールを強制的に選択します。",
     "Users|User Name": "システムへのログイン時にログインとして使用される一意のフィールド。 LDAP サービスと統合する場合は、両方のシステムのログインは同じである必要があります。",
@@ -48,14 +48,14 @@
     "Users|FL_AVAILABLE": "Specifies if the user is available (in the future this field will respect other indirect mechanisms, such as holiday, working time, etc).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "If the option is enabled and the auto assign records mechanism is active, the user will be used for assigning records according to the rules and algorithms in the system.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Specifies the amount of records (open) that can be assigned to a user in one module.",
-    "FL_RESPONSE_RANGE_TIME": "The number of minutes that have elapsed before the reaction, calculated based on the SLA and business days/hours",
-    "FL_SOLUTION_RANGE_TIME": "The number of minutes that have elapsed to resolve a given record, calculated on different statuses depending on the configuration and based on the SLA and business days/hours",
-    "FL_IDLE_RANGE_TIME": "The number of minutes that a given record have been inactive, e.g. when waiting for additional information, it is calculated based on the SLA and business days/hours",
-    "FL_CLOSING_RANGE_TIME": "The number of minutes that have elapsed between creating and latest closing of a record, it is calculated based on the SLA and business days/hours",
-    "FL_RESPONSE_DATE_TIME": "Reaction start date and time.",
-    "FL_SOLUTION_DATE_TIME": "Resolve end date and time.",
-    "FL_IDLE_DATE_TIME": "Idle end date and time.",
-    "FL_RESPONSE_EXPECTED": "Scheduled/expected date until when the reaction on record is undertaken, it is calculated based on the SLA and business days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Scheduled/expected date until when idle time is allowed, it is calculated based on the SLA and business days/hours."
+    "FL_RESPONSE_RANGE_TIME": "SLAと営業日/時間に基づいて計算された反応までに経過した時間（分）",
+    "FL_SOLUTION_RANGE_TIME": "特定のレコードを解決するために経過した時間（分）。構成に応じて、SLAと営業日/時間に基づいてさまざまなステータスで計算されます",
+    "FL_IDLE_RANGE_TIME": "特定のレコードが非アクティブであった時間（分）。 追加情報を待つ場合、SLAと営業日/営業時間に基づいて計算されます",
+    "FL_CLOSING_RANGE_TIME": "レコードの作成と最新の終了までに経過した時間（分）は、SLAと営業日/時間に基づいて計算されます。",
+    "FL_RESPONSE_DATE_TIME": "反応開始日時。",
+    "FL_SOLUTION_DATE_TIME": "解決終了日時。",
+    "FL_IDLE_DATE_TIME": "アイドル終了日時。",
+    "FL_RESPONSE_EXPECTED": "レコードの反応が実行されるまでの予定/予定日はSLAと営業日/時間に基づいて計算されます。",
+    "FL_IDLE_DATE_EXPECTED": "アイドル時間が許可されるまでの予定/予定日はSLAと営業日/時間に基づいて計算されます。"
   }
 }

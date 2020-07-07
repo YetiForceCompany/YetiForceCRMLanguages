@@ -4,14 +4,14 @@
     "LBL_NAME": "Policy name",
     "LBL_EDIT": "Edit SLA policy",
     "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SOURCE_MODULE": "Модуль"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Оберіть робочий час",
+    "JS_BUSINESS_HOURS_FROM": "Від",
+    "JS_BUSINESS_HOURS_TO": "До",
+    "JS_BUSINESS_HOURS_NAME": "Ім'я",
+    "JS_BUSINESS_HOURS_DAYS": "Робочі дні",
+    "JS_HOLIDAYS": "Свята"
   }
 }

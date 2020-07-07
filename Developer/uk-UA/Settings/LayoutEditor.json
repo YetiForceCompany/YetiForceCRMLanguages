@@ -185,7 +185,7 @@
     "Image": "Зображення",
     "MultiImage": "Зображення з мульти-вибором",
     "DateTime": "Date and time",
-    "RangeTime": "Range time",
+    "RangeTime": "Діапазон часу",
     "LBL_HEADER_TYPE_VALUE": "Значення",
     "LBL_HEADER_TYPE_PROGRESS": "Прогрес",
     "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",

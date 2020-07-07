@@ -108,8 +108,8 @@
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 6,
-        "time": "2020-06-17 08:14:06"
+        "progress": 14,
+        "time": "2020-07-07 13:50:41"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -193,7 +193,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 83,
-        "time": "2020-06-17 08:20:55"
+        "time": "2020-07-07 13:58:34"
     },
     "sr-CS": {
         "prefix": "sr-CS",
@@ -213,8 +213,8 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 73,
-        "time": "2020-06-17 08:22:32"
+        "progress": 83,
+        "time": "2020-07-07 14:00:29"
     },
     "vi-VN": {
         "prefix": "vi-VN",

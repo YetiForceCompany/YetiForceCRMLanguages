@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_SALES_PROCESSES": "Sales",
+    "LBL_SALES_PROCESSES": "Продажі",
     "LBL_SALES_PROCESSES_DESCRIPTION": " ",
     "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limit the choice of products\/services only to the ones related to currently selected Opportunity. Applies to modules: Quote Enquiries, Sales requirements, Calculations, Quotes, Purchase Orders, Recurring Sales Orders.",
     "LBL_PRODUCTS_AND_SERVICES_POPUP": "Products and Services selection list",
@@ -14,9 +14,9 @@
     "SalesProcesses": "Sales processes",
     "LBL_SQUOTEENQUIRIES": "Sales enquiries",
     "LBL_SREQUIREMENTSCARD": "Sales Requirements",
-    "LBL_SCALCULATIONS": "Calculations",
-    "LBL_SQUOTES": "Quotes",
-    "LBL_SSALESORDER": "Sales Order",
+    "LBL_SCALCULATIONS": "Розрахунки",
+    "LBL_SQUOTES": "Пропозиції",
+    "LBL_SSALESORDER": "Замовлення",
     "LBL_STATUSES_CLOSED_SSALESORDER": "Statuses that define closing a sales order",
     "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Statuses that define closing a quote enquiry",
     "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Statuses that define closing a sales requirements",

@@ -139,7 +139,7 @@
     "LBL_USE_PREFIX_INFO": "A prefix is a value added before the actual record number.\nEvery module has a different prefix, so it is easier to recognize where the record is located in the system.\nPrefixes can be changed as needed but cannot be duplicated.\nFor example, invoices can have the following prefixes: INV, INVN or INVO.\nTime-related variables can be also added to prefixes, e.g. a day, month, year. \nFor example, 'INV {{YYYY}}/' will be displayed as 'INV 2018/84' where 84 is the record number.\nVariables for prefix/postfix can be found at the bottom of this form. Copy a variable and paste it in the prefix or postfix field and the value will appear also in the record number.",
     "LBL_USER_DESCRIPTION": "Manage users who can access YetiForce CRM",
     "LBL_USER_IP_ADDRESS": "IP-адреса користувача",
-    "LBL_USER_MANAGEMENT": "Permissions",
+    "LBL_USER_MANAGEMENT": "Дозволи",
     "LBL_USER_NAME": "Ім’я користувача",
     "LBL_USE_RTE": "Використовувати RTE",
     "LBL_WORKFLOW_LIST": "Workflow list",
@@ -152,7 +152,7 @@
     "VTLIB_LBL_MODULE_MANAGER": "Модулі – Установка",
     "LBL_LOGS_MANAGEMENT": "Журнали",
     "LBL_SECURITY_MANAGEMENT": "Безпека",
-    "LBL_MAIL_TOOLS": "Mail tools",
+    "LBL_MAIL_TOOLS": "Інструменти електронної пошти",
     "LBL_PASSWORD_CONF": "Паролі - Налаштування",
     "LBL_2FA_CONF": "Багатофакторна автентифікація",
     "LBL_SOCIAL_MEDIA": "Соціальні мережі",
@@ -173,7 +173,7 @@
     "CustomView": "Custom views",
     "Widgets": "Module summary widgets",
     "LBL_ADDING_ERROR": "Помилка при додаванні поля",
-    "LBL_ADDED_COMPANY_FIELD": "Added field",
+    "LBL_ADDED_COMPANY_FIELD": "Додано поле",
     "LBL_FIELD_NOT_VALID": "Поле має містити лише літери",
     "LBL_QUICK_CREATE_EDITOR": "Редактор швидкого створення",
     "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within quickcreate window",
@@ -197,7 +197,7 @@
     "LBL_MAIL_LOGS_DESCRIPTION": " ",
     "LBL_WIDGETS_MANAGEMENT": "Керування віджетами",
     "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": " ",
-    "LBL_MDULES_COLOR_EDITOR": "Module colors",
+    "LBL_MDULES_COLOR_EDITOR": "Кольори модулів",
     "LBL_MDULES_COLOR_EDITOR_DESCRIPTION": "Manage module colors",
     "LBL_TREES_MANAGER": "Manage templates of trees",
     "LBL_TREES_MANAGER_DESCRIPTION": "Manage lists of trees",
@@ -371,7 +371,7 @@
     "LBL_MISSING_LICENSE_FILE": "Відсутній файл ліцензії",
     "LBL_SUGAR_DESCRIPTION": "Vtiger заснований на Sugar CRM. В даний час лише декілька файлів Sugar залишаються в YetiForce.",
     "LBL_VTIGER_DESCRIPTION": "Залишилось приблизно 30% оригінального кода Vtiger. Решта коду було переписано та розширено.",
-    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Звук чату",
     "LBL_YETIFORCE_SHOP": "Магазин",
     "LBL_YETIFORCE_ISSUES": "Безкоштовна підтримка",
     "LBL_YETIFORCE_ASSISTANCE": "Платна підтримка",
@@ -383,7 +383,7 @@
     "LBL_VULNERABILITIES_DESCRIPTION": "List of libraries vulnerabilities",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
     "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
-    "LBL_PREFIX": "Prefix",
+    "LBL_PREFIX": "Префікс",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },
@@ -415,6 +415,6 @@
     "JS_RS_ADD_YEAR_VARIABLE": "Скопіювати змінну рік в префікс чи постфікс",
     "JS_RS_ADD_MONTH_VARIABLE": "Copy month variable to prefix or postfix",
     "JS_RS_ADD_DAY_VARIABLE": "Скопіювати змінну день в префікс чи постфікс",
-    "JS_PICKLIST_TOO_MANY": "Numbering can only contain one picklist variable"
+    "JS_PICKLIST_TOO_MANY": "Нумерація може містити лише одну змінну списку вибору"
   }
 }
