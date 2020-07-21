@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Fechas posteriores a la actual (>)",
     "LBL_SMALLER_THAN_NOW": "Fechas anteriores a la actual (<)",
     "LBL_NO": "No",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Ninguno",
     "LBL_NOTE": "Nota",
     "LBL_NOTEPAD": "Bloc",

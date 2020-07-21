@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Date greater than now",
     "LBL_SMALLER_THAN_NOW": "Date smaller than now",
     "LBL_NO": "No",
+    "LBL_NO_FIELD_ACCESS": "U kunt de waarden in de velden niet wijzigen:",
     "LBL_NONE": "Geen",
     "LBL_NOTE": "Note",
     "LBL_NOTEPAD": "Notepad",

@@ -12,9 +12,9 @@
     "LBL_EDIT_BUSINESS_HOURS": "Редагувати робочі години",
     "LBL_ADD_BUSINESS_HOURS": "Додати запис робочих годин",
     "LBL_DEFAULT_TIMES": "Час за замовчуванням",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
+    "LBL_DEFAULT_REACTION_TIME": "Час відповіді за замовчуванням",
     "LBL_DEFAULT_IDLE_TIME": "Час простою за замовчуванням",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
+    "LBL_DEFAULT_RESOLVE_TIME": "Час рішення за замовчуванням",
     "LBL_HOLIDAYS_LINK": "Зайдіть в налаштування свят"
   },
   "js": {

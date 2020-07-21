@@ -48,10 +48,10 @@
 		"PLL_NEW": "New",
 		"PLL_PAYMENT_REVIEW": "Paymant review",
 		"PLL_ON_HOLD": "متوقف شده",
-		"PLL_PROCESSING": "Processing",
+		"PLL_PROCESSING": "در حال پردازش",
 		"PLL_COMPLETE": "تکمیل",
 		"PLL_CLOSED": "بسته شده",
 		"PLL_CANCELLED": "لغو شده",
-		"PLL_SEND": "Sent"
+		"PLL_SEND": "ارسال شده"
 	}
 }

@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "大于现在的日期",
     "LBL_SMALLER_THAN_NOW": "比现在小的日期",
     "LBL_NO": "否",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "无",
     "LBL_NOTE": "备注",
     "LBL_NOTEPAD": "记事本",

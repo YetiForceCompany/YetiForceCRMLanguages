@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Date plus grande que maintenant",
     "LBL_SMALLER_THAN_NOW": "Date plus petit que maintenant",
     "LBL_NO": "Non",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Aucun",
     "LBL_NOTE": "Note",
     "LBL_NOTEPAD": "Bloc-note",

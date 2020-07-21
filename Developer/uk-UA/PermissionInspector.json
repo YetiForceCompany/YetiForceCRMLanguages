@@ -15,15 +15,15 @@
     "SEC_MODULE_EDIT_ALL_PERMISSION": "Глобальні дозволи на редагування даних",
     "SEC_RECORID_IS_NULL": "Загальний доступ до дій в модулі",
     "SEC_MODULE_RIGHTS_TO_ACTION": "Доступ на основі прав на дії в цьому модулі",
-    "SEC_RECORD_BY_SHARING_YES": "Access based on access rules (Module access)",
+    "SEC_RECORD_BY_SHARING_YES": "Доступ заснований на правилах доступу (доступ до модуля)",
     "SEC_RECORD_OWNER_CURRENT_USER": "Заснований доступ на основі власника %s",
     "SEC_RECORD_OWNER_CURRENT_GROUP": "Доступу на основі групи %s",
-    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Access based on company's hierarchy (roles), user is higher in hierarchy than record owner",
-    "SEC_RECORD_HIERARCHY_USER": "Access based on permission's hierarchy",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Доступ на основі ієрархії компанії (ролі) користувача вище в ієрархії, ніж власник запису",
+    "SEC_RECORD_HIERARCHY_USER": "Доступ на основі ієрархії дозволів",
     "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Немає прав на модуль, користувач не має доступу до даного модуля",
     "SEC_MODULE_PERMISSIONS_NO": "Немає прав на модуль, користувач не має доступу до даного модуля",
     "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Немає прав на виконання дій у даному модулі",
-    "SEC_RECORD_BY_SHARING_NO": "No permissions based on access rules (Module access)",
+    "SEC_RECORD_BY_SHARING_NO": "Немає дозволів, заснованих на правилах доступу (доступ до модуля)",
     "SEC_MODULE_NO_ACTION_TOOL": "Немає дозволів на дію - дія не знайдена"
   }
 }

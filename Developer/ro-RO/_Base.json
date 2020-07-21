@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Data este mai mare decat acum",
     "LBL_SMALLER_THAN_NOW": "Data este mai mica decat acum",
     "LBL_NO": "Nu",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Nimic",
     "LBL_NOTE": "Nota",
     "LBL_NOTEPAD": "Notepad",

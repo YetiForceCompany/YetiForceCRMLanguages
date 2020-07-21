@@ -26,7 +26,7 @@
     "ERR_FILE_PHP_CODE_INJECTION": "Файл містить небезпечний PHP код і був відхилений",
     "ERR_FILE_XPACKET_CODE_INJECTION": "File contains dangerous XPACKET code and was rejected",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "No permissions to create directories",
-    "ERR_DIRECTORY_CANNOT_BE_CREATED": "The directory cannot be created",
+    "ERR_DIRECTORY_CANNOT_BE_CREATED": "Не вдалося створити каталог",
     "ERR_AUTO_LOGOUT": "Logged out automatically due to no activity",
     "ERR_FIELD_NOT_FOUND": "Поле не знайдено (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",

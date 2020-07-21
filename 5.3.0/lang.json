@@ -4,7 +4,7 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 53,
-        "time": "2020-05-12 10:40:37"
+        "time": "2020-07-21 08:51:24"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -108,8 +108,8 @@
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 14,
-        "time": "2020-07-07 13:50:41"
+        "progress": 19,
+        "time": "2020-07-21 09:00:46"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -144,7 +144,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2020-06-01 13:59:04"
+        "time": "2020-07-21 09:02:58"
     },
     "pt-BR": {
         "prefix": "pt-BR",
@@ -213,8 +213,8 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 83,
-        "time": "2020-07-07 14:00:29"
+        "progress": 87,
+        "time": "2020-07-21 09:08:42"
     },
     "vi-VN": {
         "prefix": "vi-VN",

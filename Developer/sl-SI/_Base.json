@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Datum je večji kot zdaj",
     "LBL_SMALLER_THAN_NOW": "Datum, ki je manjši od zdaj",
     "LBL_NO": "Ne",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Nič",
     "LBL_NOTE": "Zapis",
     "LBL_NOTEPAD": "Beležka",

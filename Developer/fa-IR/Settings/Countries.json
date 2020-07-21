@@ -11,7 +11,7 @@
     "LBL_COUNTRY_SETTINGS": "تنظیمات کشور",
     "LBL_COUNTRY_DESCRIPTION": "پیکربندی دسترسی کشورها در سیستم",
     "LBL_DEFAULT_PHONE_FROM_PANEL": "پنل",
-    "LBL_DEFAULT_PHONE_FROM_USER": "User",
+    "LBL_DEFAULT_PHONE_FROM_USER": "کاربر",
     "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
   },
   "js": {

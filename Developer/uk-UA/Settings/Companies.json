@@ -25,7 +25,7 @@
     "LBL_TWITTER": "Твіттер",
     "LBL_FACEBOOK": "Facebook",
     "LBL_LINKEDIN": "LinkedIn",
-    "LBL_NEWSLETTER": "Newsletter",
+    "LBL_NEWSLETTER": "Розсилка новин",
     "LBL_NEWSLETTER_ALERT": "Entering fake data will cause the registration to be denied.",
     "LBL_NAME_INFO": "In case of private individuals please enter 'Private use'.",
     "LBL_VAT_ID_INFO": "In case of private individuals please enter 'Private use'. Enter 'none' if your company does not have a VAT number.",

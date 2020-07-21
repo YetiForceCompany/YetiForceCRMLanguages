@@ -16,14 +16,14 @@
     "PLL_SHARING": "Sharing",
     "PLL_TRANSFER": "Transfer",
     "PLL_ENTRUSTMENT_ACCEPTANCE": "Entrustment acceptance",
-    "PLL_INTERNAL": "Internal",
-    "FL_START_DATE": "Start date",
-    "FL_END_DATE": "End date",
-    "LBL_DATES": "Activity dates",
-    "LBL_DESCRIPTION": "Description",
-    "FL_DESCRIPTION": "Description",
-    "FL_COMMENTS": "Comments",
-    "LBL_COMMENTS": "Comments",
-    "FL_ACTIVITY_TYPE": "Activity type"
+    "PLL_INTERNAL": "内部",
+    "FL_START_DATE": "開始日",
+    "FL_END_DATE": "終了日",
+    "LBL_DATES": "アクティビティの日付",
+    "LBL_DESCRIPTION": "説明",
+    "FL_DESCRIPTION": "説明",
+    "FL_COMMENTS": "コメント",
+    "LBL_COMMENTS": "コメント",
+    "FL_ACTIVITY_TYPE": "アクティブタイプ"
   }
 }

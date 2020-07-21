@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Ημερομηνία μεγαλύτερη από τώρα",
     "LBL_SMALLER_THAN_NOW": "Ημερομηνία μικρότερε από τώρα",
     "LBL_NO": "Όχι",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Κανένα",
     "LBL_NOTE": "Σημείωση",
     "LBL_NOTEPAD": "Σημειωματάριο",

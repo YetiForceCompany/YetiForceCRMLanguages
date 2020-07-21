@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Dato større enn nå",
     "LBL_SMALLER_THAN_NOW": "Dato mindre enn nå",
     "LBL_NO": "Nei",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "Ingen",
     "LBL_NOTE": "Notat",
     "LBL_NOTEPAD": "Notisblokk",

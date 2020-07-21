@@ -1,9 +1,9 @@
 {
   "php": {
     "Picklist": "Редактор списків",
-    "Calendar": "To Do",
+    "Calendar": "Календар",
     "LBL_EDIT": "Редагувати",
-    "LBL_ADD_ITEM_TO": "Add item to",
+    "LBL_ADD_ITEM_TO": "Додати значення до",
     "LBL_ADD_VALUE": "Додати значення",
     "LBL_ALL_ROLES": "Всі ролі",
     "LBL_ALL_VALUES": "Всі значення",
@@ -60,7 +60,7 @@
     "JS_LIST_UPDATED_SUCCESSFULLY": "List updated successfully",
     "JS_MORE_THAN_ONE_ITEM_SELECTED": "More than one item selected",
     "JS_NO_ITEM_SELECTED": "Нічого не вибрано",
-    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_NOT_ALLOWED": "не допускаються",
     "JS_PLEASE_SELECT_MODULE": "Будь ласка, виберіть модуль",
     "JS_SEQUENCE_UPDATED_SUCCESSFULLY": "Послідовність успішно оновлено",
     "JS_SPECIAL_CHARACTERS": "Спеціальні символи, такі як",

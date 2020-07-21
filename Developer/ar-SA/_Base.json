@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "تاريخ أكبر من الآن",
     "LBL_SMALLER_THAN_NOW": "تاريخ أكبر من الآن",
     "LBL_NO": "لا",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "لا شيء",
     "LBL_NOTE": "وصف",
     "LBL_NOTEPAD": "المحرر",

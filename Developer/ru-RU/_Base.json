@@ -366,6 +366,7 @@
     "LBL_GREATER_THAN_NOW": "Дата больше, чем сейчас",
     "LBL_SMALLER_THAN_NOW": "Дата меньше, чем сейчас",
     "LBL_NO": "Нет",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields:",
     "LBL_NONE": "--нет--",
     "LBL_NOTE": "Примечание",
     "LBL_NOTEPAD": "Блокнот",
