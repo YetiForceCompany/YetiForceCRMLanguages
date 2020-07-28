@@ -1,20 +1,20 @@
 {
   "php": {
-    "Announcements": "Announcements",
-    "SINGLE_Announcements": "Announcement",
-    "LBL_ANNOUNCEMENTS_INFORMATION": "Basic information",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "FL_STATUS": "Status",
-    "FL_INTERVAL": "Reminder time",
-    "FL_IS_MANDATORY": "Obligatory to accept",
-    "PLL_DRAFT": "Draft",
-    "PLL_FOR_ACCEPTANCE": "For approval",
-    "PLL_PUBLISHED": "Published",
-    "PLL_ARCHIVES": "Archived",
-    "LBL_REMIND_ME_LATER": "Remind me later",
-    "LBL_MARK_AS_READ": "Mark as read",
-    "LBL_ACCEPT_ANNOUNCEMENT": "Was accepted?",
-    "LBL_DATE": "Read on"
+    "Announcements": "Anúncios",
+    "SINGLE_Announcements": "Anúncio",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Informações Básicas",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_NUMBER": "Número",
+    "FL_STATUS": "Estado",
+    "FL_INTERVAL": "Hora do lembrete",
+    "FL_IS_MANDATORY": "Obrigatório para aceitar",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_FOR_ACCEPTANCE": "Para aprovação",
+    "PLL_PUBLISHED": "Publicado",
+    "PLL_ARCHIVES": "Arquivado",
+    "LBL_REMIND_ME_LATER": "Lembrar-me mais tarde",
+    "LBL_MARK_AS_READ": "Marcar como lida",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Foi aceite?",
+    "LBL_DATE": "Ler em"
   }
 }

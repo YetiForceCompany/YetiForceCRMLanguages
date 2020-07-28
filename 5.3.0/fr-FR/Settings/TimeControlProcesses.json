@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_TIMECONTROL_PROCESSES": "Workflow",
+    "LBL_TIMECONTROL_PROCESSES": "Flux de travail",
     "TimeControlProcesses": "Processus des contrôles de temps",
     "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
     "LBL_ONEDAY_VALID": "Temps de travail limité à 24 heures",

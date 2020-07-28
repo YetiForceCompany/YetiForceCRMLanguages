@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 89,
-        "time": "2020-04-08 07:32:37"
+        "progress": 100,
+        "time": "2020-07-28 13:19:19"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -108,8 +108,8 @@
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 19,
-        "time": "2020-07-21 09:00:46"
+        "progress": 24,
+        "time": "2020-07-28 13:23:47"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -144,7 +144,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2020-07-21 09:02:58"
+        "time": "2020-07-28 13:26:21"
     },
     "pt-BR": {
         "prefix": "pt-BR",
@@ -157,8 +157,8 @@
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
-        "progress": 29,
-        "time": "2020-03-16 11:28:18"
+        "progress": 31,
+        "time": "2020-07-28 13:26:58"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -192,8 +192,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 83,
-        "time": "2020-07-07 13:58:34"
+        "progress": 84,
+        "time": "2020-07-28 13:31:27"
     },
     "sr-CS": {
         "prefix": "sr-CS",
@@ -213,15 +213,15 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 87,
-        "time": "2020-07-21 09:08:42"
+        "progress": 88,
+        "time": "2020-07-28 13:33:42"
     },
     "vi-VN": {
         "prefix": "vi-VN",
         "crowdinCode": "vi",
         "name": "Vietnamese",
-        "progress": 6,
-        "time": "2020-06-17 08:23:04"
+        "progress": 53,
+        "time": "2020-07-28 13:34:23"
     },
     "zh-CN": {
         "prefix": "zh-CN",

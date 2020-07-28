@@ -22,6 +22,6 @@
   "js": {
     "JS_CURRENCY_DELETED_SUCCESSFULLY": "Devise supprimée avec succès.",
     "JS_CURRENCY_DETAILS_SAVED": "Détails de la devise sauvegardés.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Avertissement! Cette opération changera la devise à de nombreux endroits du système. Les documents financiers émis avant ce changement peuvent nécessiter une conversion monétaire. Veuillez effectuer une conversion manuelle des devises si ces documents ont été émis dans leurs versions de production. Le calcul des taux de change pour les autres devises sera nécessaire."
   }
 }

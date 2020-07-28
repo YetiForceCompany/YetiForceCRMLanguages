@@ -5,7 +5,7 @@
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "FL_SERVER": "Serveur",
     "FL_STATUS": "Statut",
-    "FL_LOGIN": "Login",
+    "FL_LOGIN": "Identifiant",
     "FL_PASSWORD": "Mot de passe",
     "FL_TYPE": "Type",
     "FL_LOGIN_TIME": "Heure de connexion",
@@ -22,10 +22,10 @@
     "PLL_ACTIVE": "Actif",
     "PLL_INACTIVE": "Inactif",
     "LBL_CREATE_RECORD": "Créer",
-    "Mail": "Mail",
+    "Mail": "Email",
     "FL_STORAGE": "Stockage",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "FL_TOKEN": "Jeton",
+    "ManageConsents": "Gérer les consentements"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Voulez-vous vraiment supprimer la clé ?",

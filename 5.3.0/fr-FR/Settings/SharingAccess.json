@@ -30,8 +30,8 @@
     "Public: Read, Create\/Edit, Delete": "Public: Lecture, Création\/Edition, Suppression",
     "Public: Read, Create\/Edit": "Public: Lecture, Création\/Edition",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Règle de partage personnalisée enregistrée avec succès",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "L'enregistrement de la règle de partage a échoué",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "La suppression de la règle de partage a échoué"
   },
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Les opportunités, les tickets, les devis et l'accès aux factures doivent être définis sur privé lorsque l'accès au compte est défini sur privé",

@@ -15,7 +15,7 @@
     "Merge": "Fusionner",
     "Overwrite": "Réécrire",
     "Skip": "Passer",
-    "LBL_FILL_EMPTY": "Fill in (update only empty fields in the record, do not change existing values)",
+    "LBL_FILL_EMPTY": "Remplissez (ne mettez à jour que les champs vides de l'enregistrement, ne modifiez pas les valeurs existantes)",
     "LBL_IMPORT_STEP_1": "Etape 1",
     "LBL_IMPORT_STEP_1_DESCRIPTION": "Choisir le fichier",
     "LBL_IMPORT_SUPPORTED_FILE_TYPES": "Format supportés",
@@ -72,12 +72,12 @@
     "LBL_IMPORT_FILE_COPY_FAILED": "Import a échoué",
     "LBL_INVALID_FILE": "Fichier invalide",
     "LBL_NO_ROWS_FOUND": "Aucune ligne trouvée",
-    "LBL_SCHEDULED_IMPORT_DETAILS": "Votre import est programmé pour tourner dans 15 minutes. Vous recevrez un email après la completion de l'import.  \r\n \r\n\t\t\t\t\t\t\t\t\t\tVeuillez vous assurer que la configuratin de votre serveur SMTP est correcte ainsi que votre adresse email.",
+    "LBL_SCHEDULED_IMPORT_DETAILS": "Votre import est programmé pour tourner dans 15 minutes. Vous recevrez un email après la completion de l'import.   \t\t\t\t\t\t\t\t\t\tVeuillez vous assurer que la configuratin de votre serveur SMTP est correcte ainsi que votre adresse email.",
     "LBL_DETAILS": "Détails",
     "skipped": "Enregistrements non pris en compte",
     "failed": "Enregistrements échoués",
     "LBL_SELECT_FILE": "Choississez le fichier à importer",
-    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing recorda are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
-    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "The imported file is in a different encoding than it was selected (%s)"
+    "LBL_MERGE_TYPE_INFO": "Ignorer: les enregistrements existants sont ignorés et non mis à jour. Écraser: les enregistrements existants sont remplacés par les données du fichier ou les valeurs par défaut sont remplies si les valeurs requises dans l'enregistrement et le fichier sont vides. S'ils ne sont pas marqués comme requis, les valeurs sont remplacées dans l'enregistrement par des valeurs vides du fichier. Fusionner: les valeurs d'enregistrement sont remplacées par les valeurs du fichier si les valeurs du fichier ne sont pas vides (cependant, si elles sont vides, les valeurs de l'enregistrement sont conservées). Remplissez: seuls les champs vides de l'enregistrement sont mis à jour. Les valeurs du champ ne sont pas écrasées s'il existe déjà une valeur existante dans l'enregistrement.",
+    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Le fichier importé a un encodage différent de celui sélectionné (%s)"
   }
 }

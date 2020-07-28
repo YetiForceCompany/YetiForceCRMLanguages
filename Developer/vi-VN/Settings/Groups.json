@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group name",
-    "Description": "Description"
+    "LBL_ADD_RECORD": "Thêm bản ghi",
+    "LBL_ADD_USERS_ROLES": "Thêm người dùng, Vai trò...",
+    "LBL_DUPLICATES_EXIST": "Tên nhóm đã tồn tại",
+    "LBL_GROUP_MEMBERS": "Thành viên của nhóm",
+    "LBL_GROUP_NAME": "Tên nhóm",
+    "LBL_ROLEANDSUBORDINATE": "Vai trò và phân cấp",
+    "LBL_TO_OTHER_GROUP": "Đến nhóm khác ",
+    "LBL_TRANSFORM_OWNERSHIP": "Chuyển đổi quyền sở hữu",
+    "SINGLE_Groups": "Nhóm",
+    "Users": "Người dùng",
+    "Name": "Tên nhóm",
+    "Description": "Mô tả"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Chọn ít nhất 1 thành viên cho 1 nhóm",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Nhóm đã xoá thành công"
   }
 }

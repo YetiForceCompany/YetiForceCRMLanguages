@@ -88,9 +88,9 @@
     "ActivityComplete": "Fermer les enregistrements",
     "ActivityPostponed": "Report des enregistrements",
     "Emails": "Envoyer des emails [SMTP]",
-    "ModTracker": "Change history",
-    "AssignToYourself": "Assign to me",
-    "AutoAssignRecord": "Automatic transfer of records",
+    "ModTracker": "Historique des modifications",
+    "AssignToYourself": "Assigner à moi même",
+    "AutoAssignRecord": "Transfert automatique de documents",
     "RecordConventer": "Record converter",
     "RecordCollector": "Record collector",
     "MeetingUrl": "Meeting URL"

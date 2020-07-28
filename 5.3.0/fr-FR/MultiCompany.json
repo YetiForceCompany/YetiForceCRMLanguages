@@ -10,7 +10,7 @@
     "LBL_ADDITIONAL_INFORMATION": "Info complémentaire",
     "FL_COMPANY_NAME": "Nom de la société",
     "FL_PARENT": "Département parent",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Statut",
     "FL_EMAIL_1": "Email principal",
     "FL_EMAIL_2": "Email secondaire",
     "FL_PHONE": "Téléphone principal",
@@ -21,10 +21,10 @@
     "FL_COMPANY_ID2": "NAF",
     "FL_INTERNAL_NOTES": "Notes interne",
     "FL_PUBLIC_NOTES": "Notes Public",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive",
+    "PLL_ACTIVE": "Actif",
+    "PLL_INACTIVE": "Inactif",
     "LBL_SHOW_HIERARCHY": "Hiérarchie",
-    "FL_WEBSITE": "Website",
+    "FL_WEBSITE": "Site internet",
     "FL_LOGO": "Logo"
   }
 }

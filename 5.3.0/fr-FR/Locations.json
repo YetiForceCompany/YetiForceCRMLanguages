@@ -1,10 +1,10 @@
 {
   "php": {
-    "Locations": "Locations",
-    "SINGLE_Locations": "Location",
+    "Locations": "Emplacements",
+    "SINGLE_Locations": "Emplacement",
     "LBL_LOCATIONS_INFORMATION": "Informations de base",
     "LBL_CUSTOM_INFORMATION": "Informations système",
-    "LBL_DESCRIPTION_INFORMATION": "Détails de la description",
+    "LBL_DESCRIPTION_INFORMATION": "Description des détails",
     "LBL_SUBJECT": "Sujet",
     "LBL_NUMBER": "Nombre",
     "LBL_CLOSED_TIME": "Heure de fermeture",

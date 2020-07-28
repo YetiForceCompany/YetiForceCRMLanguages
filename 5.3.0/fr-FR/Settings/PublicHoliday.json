@@ -28,10 +28,10 @@
     "Saturday": "Samedi",
     "Sunday": "Dimanche",
     "LBL_HOLIDAY_TYPE": "Type de congé",
-    "LBL_NATIONAL": "national",
+    "LBL_NATIONAL": "nationale",
     "LBL_ECCLESIASTICAL": "religieux",
     "ecclesiastical": "religieux",
-    "national": "national",
+    "national": "nationale",
     "LBL_VIEW_CONFIGURATION": "Congés légaux",
     "LBL_DATE_RANGE": "Intervalle"
   },

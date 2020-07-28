@@ -46,7 +46,7 @@
     "htmleditor_0": "Jamais",
     "htmleditor_1": "Toujours",
     "htmleditor_2": "en réponse à un message HTML",
-    "htmleditor_3": "in transferring or replying to HTML message",
+    "htmleditor_3": "lors du transfert ou de la réponse à un message HTML",
     "mdn_requests_0": "Demander aux utilisateurs",
     "mdn_requests_1": "Envoyer automatiquement",
     "mdn_requests_2": "Ignorez",
@@ -75,12 +75,12 @@
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Nombre d'enregistrements sélectionnés",
     "LBL_MINIMIZE_BAR": "Réduire la barre",
     "LBL_CREATEMAIL": "Envoyer email",
-    "LBL_ADD_RELATION": "Add relation",
+    "LBL_ADD_RELATION": "Ajouter relation",
     "LBL_ADD_DOCUMENTS": "Ajouter des documents",
-    "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
-    "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available"
+    "LBL_ADD_TO_MY_CALENDAR": "Ajouter à mon calendrier",
+    "LBL_ERROR_OCCURRED_DURING_IMPORT": "Une erreur s'est produite lors de l'import",
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Le fichier %s a été importé",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Ces actions ne sont pas disponibles"
   },
   "js": {
     "NoFindEmailInRecord": "L'enregistrement ne contient pas d'adresse email",

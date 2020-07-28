@@ -30,16 +30,16 @@
     "LBL_CREATE_SMTP": "Créer SMTP",
     "LBL_SMTP_DETAIL": "Détails SMTP",
     "LBL_NORMAL": "Normal",
-    "LBL_NO_URGENT": "Pas urgent",
+    "LBL_NO_URGENT": "Non urgent",
     "LBL_URGENT": "Urgent",
-    "LBL_MAIL_PRIORITY": "Priorité de l'e-mail",
+    "LBL_MAIL_PRIORITY": "Priorité Email",
     "LBL_CONFIRM_READING_TO": "Confirmation de lecture du message",
     "LBL_ORGANIZATION": "Organisation",
-    "LBL_UNSUBSCIBE": "Désinscription",
-    "LBL_ADDITIONAL_HEADERS": "Entêtes supplémentaires",
-    "LBL_SAVE_SENT_MESSAGE": "Enregistrer le message envoyé",
+    "LBL_UNSUBSCIBE": "Se désabonner",
+    "LBL_ADDITIONAL_HEADERS": "En-têtes supplémentaires",
+    "LBL_SAVE_SENT_MESSAGE": "Enregistrez le message envoyé",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Les emails seront envoyés individuellement pour chaque destinataire",
-    "LBL_UNSUBSCRIBE_INFO": "The List-Unsubscribe header is an optional email header you can add to your messages. It allows subscribers to see an unsubscribe button they can click if they would like to automatically stop receiving your email. The list of parameters that will be placed in the header in angle brackets, e.g. < ... >\nexample: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\r\n {\r\n\"ssl\": {\r\n\"verify_peer\":false,\r\n\"verify_peer_name\";:false,\r\n\";allow_self_signed\";:true\r\n   }\r\n}"
+    "LBL_UNSUBSCRIBE_INFO": "L'en-tête List-Unsubscribe est un en-tête d'e-mail facultatif que vous pouvez ajouter à vos messages. Il permet aux abonnés de voir un bouton de désabonnement sur lequel ils peuvent cliquer s'ils souhaitent arrêter automatiquement de recevoir votre e-mail. La liste des paramètres qui seront placés dans l'en-tête entre crochets, par ex. <...> exemple: mailto: newsletter@yetiforce.com >>> <mailto: newsletter@yetiforce.com>",
+    "LBL_OPTIONS_INFO": "Exemple de paramètres supplémentaires: 'ssl' => ['verify_peer'  => true,'verify_depth' => 3,'allow_self_signed' => true,'peer_name' => 'smtp.example.com','cafile' => '/etc/ssl/ca_cert.pem',]"
   }
 }

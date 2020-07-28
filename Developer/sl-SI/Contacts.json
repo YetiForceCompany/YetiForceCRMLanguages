@@ -31,7 +31,7 @@
     "Inactive": "Neaktiven",
     "Other Po Box": "Drugi poštni predal",
     "Mailing Po Box": "Primarni poštni predal",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Glavni naslov",
     "LBL_CONTACT_INFO": "Kontaktni podatki",
     "Approval for phone calls": "Dovoljenje za  klic",
     "Approval for email": "Se mu lahko pošlje e-pošta",
@@ -47,10 +47,10 @@
     "LBL_SHOW_HIERARCHY": "Struktura kontaktov",
     "FL_APPROVALS": "Dovoljenja",
     "LBL_PARTICIPANTS": "Udeleženci",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "FL_GENDER": "Spol",
+    "PLL_WOMAN": "Ženska",
+    "PLL_MAN": "Moški",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Stik s tem e-poštnim naslov že obstaja v sistemu."
   },
   "js": {}
 }

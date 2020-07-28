@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Neveljavna vrednost razmerja",
     "Image": "Image file",
     "MultiImage": "Multi image files",
-    "DateTime": "Date and time",
+    "DateTime": "Datum in ura",
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Vrednost",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
@@ -192,8 +192,8 @@
     "MultiDomain": "Domain multi select",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Module type change operation has been added to cron task queue.",
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field",
-    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
-    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "Spremembe polja lahko vplivajo na stabilnost sistema.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Samo ljudje z ustreznim tehničnim znanjem bi morali ustvarjati in spreminjati polja v sistemu. Spreminjanje polja lahko vpliva na stabilnost sistema, zato priporočamo, da ga najprej izvedete v testnem okolju."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

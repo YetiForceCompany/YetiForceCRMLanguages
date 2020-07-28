@@ -33,7 +33,7 @@
     "LBL_EMAIL_NEWSLETTER_INFO": "Sign up for YetiForce’s free newsletter. Keep up with all latest features in the system, and find out more about the CRM sector. We will send you information about new versions, updates, events, new additions to the system, and much more.\nJoin our community and stay up to date.\nInternet connection is required to sign up.",
     "LBL_COMPANY_NAMES_EXIST": "Назва компанії вже існує",
     "LBL_LAST_SCAN_DATE": "Дата останнього сканування статусу реєстрації",
-    "LBL_LAST_SCAN_ERROR": "The registration status hasn’t been verified:\n- Your CRM does not have Internet access,\n- Cron does not work or there are errors in its operation,\n- Errors in server configuration",
+    "LBL_LAST_SCAN_ERROR": "Статус реєстрації не підтверджено:\n- Ваш CRM не має доступу до інтернету,\n- Cron не працює або містить помилки в своїх операціях,\n- Помилки в конфігурації сервера",
     "LBL_REGISTER_CRM_ONLINE": "Реєстрація - Онлайн",
     "LBL_ERROR_MESSAGE": "Помилка: %s",
     "LBL_REGISTER_CRM_SERIAL": "Реєстраційний ключ",

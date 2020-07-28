@@ -20,9 +20,9 @@
     "LBL_INACTIVE": "Inactif",
     "LBL_RUNNING": "En cours",
     "LBL_IS_RUNNING": "En cours",
-    "LBL_HAD_TIMEOUT": "Incomplet",
+    "LBL_HAD_TIMEOUT": "Non terminé",
     "LBL_TOTAL_LAST_DURATION": "Temps total",
-    "LBL_LAST_START": "Dernier début",
+    "LBL_LAST_START": "Dernier lancement",
     "LBL_CRON_TASK_LAST_START": "Last time when cron task was triggered",
     "Sequence": "Séquence",
     "Status": "Statut",
@@ -67,8 +67,8 @@
     "LBL_CLEAR_FILE_UPLOAD_TEMP": "Effacer le répertoire des fichiers temporaires",
     "LBL_SESSION_CLEANER": "Effacer les sessions inactives",
     "LBL_ARCHIVE_OLD_RECORDS": "Archiver les anciens enregistrements",
-    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Télécharger les messages depuis les réseaux sociaux"
+    "LBL_CRON_HAS_NOT_BEEN_ENABLED": "Le mécanisme CRON n'est pas activé, il est nécessaire au bon fonctionnement du système.",
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Télécharger des messages depuis les réseaux sociaux"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "La fréquence recommandée pour les imports programmés est de 15 mins",

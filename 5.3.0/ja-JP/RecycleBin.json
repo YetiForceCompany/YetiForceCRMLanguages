@@ -1,14 +1,14 @@
 {
   "php": {
     "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
-    "RecycleBin": "Trash bin"
+    "RecycleBin": "ごみ箱"
   },
   "js": {
-    "JS_MASS_DELETE": "Mass delete",
-    "JS_MASS_ACTIVATE": "Mass activate",
-    "JS_DELETE_ALL_RECYCLE_RECORD": "Delete all records from Recycle Bin",
-    "JS_ACTIVATE_RECORD_DESC": "Activating a record only changes the record's state without changing the rest of information. Are you sure you want to activate the record?",
-    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Deleting a record is permanent and irreversible for all record's information. Are you sure you want to delete the record?",
-    "JS_ADDED_TO_QUEUE": "Added to the queue. All elements will be deleted"
+    "JS_MASS_DELETE": "一括削除",
+    "JS_MASS_ACTIVATE": "一括有効化",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "ごみ箱からすべてのレコードを削除",
+    "JS_ACTIVATE_RECORD_DESC": "レコードをアクティブにしても、残りの情報は変更されず、レコードの状態のみが変更されます。 レコードをアクティブ化してもよろしいですか？",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "レコードの削除は永続的であり、すべてのレコードの情報を元に戻すことはできません。 レコードを削除してもよろしいですか？",
+    "JS_ADDED_TO_QUEUE": "キューに追加されました。すべての要素が削除されます"
   }
 }

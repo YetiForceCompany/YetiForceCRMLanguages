@@ -2,21 +2,21 @@
   "php": {
     "SQuoteEnquiries": "Sales enquiries",
     "SINGLE_SQuoteEnquiries": "Sales enquiry",
-    "LBL_QUOTESENQUIRES_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
+    "LBL_QUOTESENQUIRES_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
     "LBL_STATISTICS": "Statistics",
-    "LBL_SUBJECT": "Subject",
+    "LBL_SUBJECT": "件名",
     "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_STATUS": "Status",
+    "LBL_CLOSED_TIME": "終了日時",
+    "LBL_STATUS": "ステータス",
     "SINGLE_SSalesProcesses": "Opportunity",
-    "PLL_DRAFT": "Draft",
+    "PLL_DRAFT": "下書き",
     "PLL_IN_REALIZATION": "In realization",
     "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_COMPLETED": "Completed",
-    "LBL_CHANGE_STATUS": "Change status",
-    "FL_CAMPAIGN_ID": "Campaign"
+    "PLL_CANCELLED": "キャンセル済",
+    "PLL_COMPLETED": "完了",
+    "LBL_CHANGE_STATUS": "ステータスの変更",
+    "FL_CAMPAIGN_ID": "キャンペーン"
   }
 }

@@ -1,23 +1,23 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
-    "LBL_SEARCH_EMAIL": "Search e-mail address",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
-    "LBL_SELECT_RECORD": "Select related record",
-    "LBL_ADD_RECORD": "Add related record",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file"
+    "MailIntegration": "Cột tích hợp email",
+    "SINGLE_MailIntegration": "Cột tích hợp email",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Email không tồn tại trong cơ sở dữ liệu.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Nhập dữ liệu",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Nhập dữ liệu 1 email vào CRM, việc này sẽ giúp bạn quản lý cơ hội tốt hơn",
+    "LBL_SEARCH_EMAIL": "Tìm kiếm địa chỉ email",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Tìm kiếm và chọn người nhận tin nhắn",
+    "LBL_ADD_CALENDAR": "Thêm sự kiện",
+    "LBL_ADD_MODCOMMENTS": "Thêm bình luận",
+    "LBL_SELECT_RECORD": "Chọn hồ sơ liên quan",
+    "LBL_ADD_RECORD": "Thêm hồ sơ liên quan",
+    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Tải về file cài đặt add-in của Outlook"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "Thông điệp: lỗi add-in, hãy liên hệ với người quản trị.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Thông điệp: Đã xoá các quan hệ thành công.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Thông điệp: Đã thêm các quan hệ thành công.",
+    "JS_IMPORT": "Thông điệp: đã nhập liệu email thành công.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

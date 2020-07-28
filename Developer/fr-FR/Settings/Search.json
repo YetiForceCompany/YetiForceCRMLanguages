@@ -1,11 +1,11 @@
 {
   "php": {
     "Search Configuration": "Configuration recherche",
-    "Search Setup": "Labels and searching",
+    "Search Setup": "Étiquettes et recherche",
     "Search": "Configuration recherche",
     "LBL_Module_desc": "Ce panel permet de paramétrer les labels pour les champs de type uitype 10 et les mécanismes de recherche. Ces mécanismes sont indépendants, vous pouvez voir plusieurs colonnes lors de la recherche mais lors de la sélection d'un enregistrement un nom pour le label sera affiché.",
     "Module": "Module",
-    "Table": "Table",
+    "Table": "Tableau",
     "LabelFields": "Colonnes principales pour un module (y compris le label pour uitype 10)",
     "SearchFields": "Colonnes pour les mécanismes de recherches",
     "Tools": "Actions",

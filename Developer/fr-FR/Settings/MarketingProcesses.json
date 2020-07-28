@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CONVERSION": "Conversion",
+    "LBL_CONVERSION": "Transformation",
     "LBL_CONVERSION_TO_ACCOUNT": "Modifié assigné à",
     "LBL_CONVERSION_TO_ACCOUNT_INFO": "Quant cette option est sélectionnée, un utilisateur qui convertit un prospect en une organisation celle-ci lui est assignée",
     "LBL_LEADS": "Prospects",

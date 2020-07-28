@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "Cơ hội mới nhất",
+    "LBL_FOR_VALUE": "cho giá trị",
+    "LBL_UNTIL_DAY": "cho tới ngày",
+    "LBL_ACTUAL_STATUS": "với thực trạng",
+    "LBL_CALENDAR_OVERDUE": "Hoạt động quá hạn",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Cơ hội giá trị cao nhất",
+    "LBL_NEW_ACCOUNTS": "Khách hàng mới",
+    "LBL_NEW_CONTACTS": "Liên lạc mới",
+    "LBL_CALENDAR_TODAY": "Sự kiện hôm nay",
+    "LBL_CALENDAR_THIS_WEEK": "Sự kiện tuần này",
+    "LBL_HELLO": "Xin chào",
+    "LBL_REPORT_DAY_CONTENT": "Dưới đây là bảng tóm tắt hoạt động trong YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Dưới đây là bản tóm tắt hành động hàng tuần trong YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Dưới dây là bảng tóm tắt hoạt động hàng tháng trên YetiForce "
   }
 }

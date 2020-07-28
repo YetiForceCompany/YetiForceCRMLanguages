@@ -1,14 +1,14 @@
 {
   "php": {
-    "Locations": "Locations",
-    "SINGLE_Locations": "Location",
-    "LBL_LOCATIONS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "FL_PHONE": "Phone",
+    "Locations": "場所",
+    "SINGLE_Locations": "場所",
+    "LBL_LOCATIONS_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "番号",
+    "LBL_CLOSED_TIME": "終了日時",
+    "FL_PHONE": "電話",
     "FL_CAPACITY": "Capacity"
   }
 }

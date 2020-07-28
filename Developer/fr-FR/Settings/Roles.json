@@ -45,10 +45,10 @@
     "LBL_BLOCK_CUT": "Couper les blocs",
     "LBL_BLOCK_PASTE": "Coller les blocs",
     "LBL_AUTO_ASSIGN_RECORDS": "Affectation automatique des enregistrements",
-    "LBL_UPLOAD_LOGO": "Upload logo",
-    "LBL_UPLOAD_ERROR": "Error during upload",
-    "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
-    "LBL_MULTI_COMPANY": "Organizational structure"
+    "LBL_UPLOAD_LOGO": "Télécharger le logo",
+    "LBL_UPLOAD_ERROR": "Erreur pendant le transfert",
+    "LBL_UPLOAD_SUCCESS": "Envoyé avec succès",
+    "LBL_MULTI_COMPANY": "Structure organisationnelle"
   },
   "js": {
     "JS_NO_PERMISSIONS_TO_MOVE": "Aucun droit de déplacer",

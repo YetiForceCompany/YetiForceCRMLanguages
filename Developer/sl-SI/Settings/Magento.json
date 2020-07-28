@@ -2,7 +2,7 @@
   "php": {
     "LBL_MAGENTO": "Magento",
     "LBL_MAGENTO_DESCRIPTION": "",
-    "LBL_MAGENTO_SETTINGS": "Magento settings",
+    "LBL_MAGENTO_SETTINGS": "Magento nastavitve",
     "LBL_MAGENTO_ALERT": "Preden začnete sinhronizacijo je priporočljivo, da izvedete vse spremembe konfiguracije. Spremembe, ki se izvajajo med sinhronizacijo, lahko povzročijo napake. ",
     "LBL_URL": "Magento stran URL",
     "LBL_CONNECTOR": "Priključek za dostop Magento",

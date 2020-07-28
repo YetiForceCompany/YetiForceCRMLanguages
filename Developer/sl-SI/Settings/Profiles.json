@@ -91,9 +91,9 @@
     "ModTracker": "Zgodovina sprememb",
     "AssignToYourself": "Dodeli meni",
     "AutoAssignRecord": "Avtomatski prenos zapisov",
-    "RecordConventer": "Record converter",
-    "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "RecordConventer": "Pretvornik zapisov",
+    "RecordCollector": "Zbiralec zapisov",
+    "MeetingUrl": "URL srečanja"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspešno izbrisana"

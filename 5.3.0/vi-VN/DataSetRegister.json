@@ -1,11 +1,11 @@
 {
   "php": {
-    "DataSetRegister": "Data Set Register",
-    "SINGLE_DataSetRegister": "Data Set Register",
-    "LBL_DATA_SET_REGISTER": "Data Set Register",
-    "FL_SUBJECT": "Subject",
-    "FL_STATUS": "Status",
-    "FL_SCOPE_DATA": "Scope of data in set",
+    "DataSetRegister": "Đăng ký thiết lập dữ liệu",
+    "SINGLE_DataSetRegister": "Đăng ký thiết lập dữ liệu",
+    "LBL_DATA_SET_REGISTER": "Đăng ký thiết lập dữ liệu",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_STATUS": "Trạng thái",
+    "FL_SCOPE_DATA": "Phạm vi của dữ liệu trong bộ",
     "FL_DATA_SUBMITTED": "Data set submitted to General Inspector for Personal Data Protection",
     "FL_DATA_SET_SHARED": "Data set shared",
     "FL_LEGAL_BASIS": " Legal basis",
@@ -38,10 +38,10 @@
     "PLL_EMAIL": "Email",
     "PLL_EMPLOYMENT_PLACE": "Place of employment",
     "PLL_PROFESSION": "Profession",
-    "PLL_DRAFT": "Draft",
-    "PLL_WAITING_FOR_ACCEPTANCE": "Waiting for acceptance",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_COMPLETED": "Completed",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Chờ chấp nhận",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_COMPLETED": "Hoàn thành",
+    "PLL_CANCELLED": "Đã hủy"
   }
 }

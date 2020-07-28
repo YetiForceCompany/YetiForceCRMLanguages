@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
-    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
+    "LBL_ADD_TO": "Thêm vào",
+    "LBL_EDIT_LIST_PRICE": "Sửa báo giá",
+    "LBL_PRICEBOOK_INFORMATION": "Chi tiết Bảng giá",
+    "LBL_UNIT_PRICE": "Đơn giá",
+    "Price Book Name": "Tên Bảng giá",
+    "PriceBook No": "Số Bảng giá",
+    "PriceBooks": "Bảng giá",
+    "SINGLE_PriceBooks": "Bảng giá",
+    "yes": "Có",
+    "no": "Không",
+    "Unit Price": "Đơn giá",
+    "LBL_SPECIFY_THE_MARGIN": "Xác định lợi nhuận biên",
+    "LBL_SPECIFY_THE_MARGINP": "Xác định lợi nhuận biên (%)"
   }
 }

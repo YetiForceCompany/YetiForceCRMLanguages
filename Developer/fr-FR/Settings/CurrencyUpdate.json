@@ -5,7 +5,7 @@
     "LBL_CURRENCY_UPDATE_DESCRIPTION": "Options pour paramétrer lees taux de conversions des devises dans le système.",
     "LBL_SELECT_BANK": "Sélectionner la banque",
     "MSG_ONE_CURRENCY": "Il n'y a qu'une seule devise paramétrée. Pour avoir les taux de changes des autres devises merci de les paramétrer dans le CRM.",
-    "MSG_NO_NET_CONN": "No Internet connection, currency information was not downloaded.",
+    "MSG_NO_NET_CONN": "Pas de connexion Internet, les informations sur les devises n'ont pas été téléchargées.",
     "LBL_HISTORY": "Hitorique des taux de change",
     "LBL_BANK": "Sélectionner la banque depuis laquelle vous voulez telécharger les taux de change",
     "LBL_CAL_DATE": "Date du cours",

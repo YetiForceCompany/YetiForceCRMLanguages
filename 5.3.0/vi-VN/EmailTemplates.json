@@ -1,19 +1,19 @@
 {
   "php": {
-    "EmailTemplates": "Email templates",
-    "SINGLE_EmailTemplates": "Email template",
-    "LBL_CONTENT_MAIL": "Email content",
-    "LBL_BASIC_DETAILS": "Basic information",
-    "FL_NAME": "Name",
-    "FL_TYPE": "Type",
-    "FL_MODULE": "Module",
-    "FL_SUBJECT": "Subject",
-    "FL_CONTENT": "Content",
+    "EmailTemplates": "Mẫu e-mail",
+    "SINGLE_EmailTemplates": "Mẫu e-mail",
+    "LBL_CONTENT_MAIL": "Nội Dung Email",
+    "LBL_BASIC_DETAILS": "Thông tin cơ bản",
+    "FL_NAME": "Tên",
+    "FL_TYPE": "Loại",
+    "FL_MODULE": "Mô-đun",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_CONTENT": "Nội dung",
     "FL_SMTP_PRIORITY": "SMTP priority",
-    "PLL_MODULE": "Module",
-    "PLL_RECORD": "Record",
-    "PLL_MAIL": "Message",
-    "PLL_LIST": "List",
-    "PLL_DEFAULT": "Default company"
+    "PLL_MODULE": "Mô-đun",
+    "PLL_RECORD": "Hồ sơ",
+    "PLL_MAIL": "Tin nhắn",
+    "PLL_LIST": "Danh sách",
+    "PLL_DEFAULT": "Công ty mặc định"
   }
 }

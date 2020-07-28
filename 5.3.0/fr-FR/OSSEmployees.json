@@ -13,7 +13,7 @@
     "LBL_LASTNAME": "Nom",
     "LBL_PESEL": "Numéro d'identification personnel",
     "LBL_IDCARD": "Carte d'identité",
-    "LBL_EDUCATION": "Education",
+    "LBL_EDUCATION": "Formation",
     "LBL_BIRTHDATE": "Date de naissance",
     "LBL_BUSINESSPHONE": "Téléphone professionnel",
     "LBL_PRIVATEPHONE": "Téléphone privé",
@@ -42,6 +42,6 @@
     "FL_POSITION": "Position",
     "FL_SECONDARY_PHONE": "Téléphone supplémentaire",
     "FL_RBH": "DRH",
-    "FL_ORGANIZATION_STRUCTURE": "Organization structure"
+    "FL_ORGANIZATION_STRUCTURE": "Structure organisationnelle"
   }
 }

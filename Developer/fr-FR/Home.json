@@ -25,7 +25,7 @@
     "LBL_NOTIFICATION_BY_SENDER": "Nombre de notifications par radiodiffuseurs",
     "LBL_NOTIFICATION_BY_RECIPIENT": "Nombre de notifications par consommateurs",
     "LBL_MINI_LIST": "Mini Liste",
-    "LBL_ADDITIONAL_FILTERS": "Filtres additionnels",
+    "LBL_ADDITIONAL_FILTERS": "Filtres supplémentaires",
     "LBL_WIDGET_NAME": "Nombre del Widget",
     "LBL_SELECT_CHART": "Sélectionner Graphique",
     "LBL_VALUE_TYPE": "Type de valeur",
@@ -37,12 +37,12 @@
     "LBL_GROUP_VALUES": "Fractionner valeurs de regroupement",
     "LBL_FILTER_BY_OWNER": "Filtrer par propriétaire",
     "LBL_ALL_OWNERS": "Tous",
-    "LBL_DIVIDING_FIELD": "Value dividing field",
-    "LBL_COLORS_FROM_DIVIDING_FIELD": "Colors from value dividing field",
+    "LBL_DIVIDING_FIELD": "Champ de division de la valeur",
+    "LBL_COLORS_FROM_DIVIDING_FIELD": "Couleurs du champ de division des valeurs",
     "LBL_EMPTY": "vide",
-    "LBL_CHART_STACKED": "Combiner les éléments du graphique",
+    "LBL_CHART_STACKED": "Combiner des éléments graphiques",
     "LBL_CHART_COLORS_FROM_FILTER": "Couleurs du filtre",
-    "LBL_WIDGET_DOWNLOAD": "Télécharger le graphique",
-    "LBL_WIDGET_PRINT": "Imprimer le graphique"
+    "LBL_WIDGET_DOWNLOAD": "Télécharger graphique",
+    "LBL_WIDGET_PRINT": "Imprimer graphique"
   }
 }

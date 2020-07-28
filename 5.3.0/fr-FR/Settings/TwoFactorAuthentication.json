@@ -9,6 +9,6 @@
     "LBL_TOTP": "Algorithme de mot de passe unique basé sur le temps",
     "LBL_TOTP_AUTHY_MODE_DESC": "Sélectionner les modes d'authentification",
     "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Nombre maximum de tentatives de vérification échouées",
-    "LBL_TOTP_WHITE_LIST": "IP white list"
+    "LBL_TOTP_WHITE_LIST": "Liste blanche IP"
   }
 }
