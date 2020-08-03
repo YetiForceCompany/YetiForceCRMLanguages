@@ -91,9 +91,9 @@
     "ModTracker": "Change history",
     "AssignToYourself": "Assign to me",
     "AutoAssignRecord": "Automatic transfer of records",
-    "RecordConventer": "Record converter",
-    "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "RecordConventer": "Bộ chuyển đổi biểu ghi",
+    "RecordCollector": "Bộ sưu tập biểu ghi",
+    "MeetingUrl": "URL cuộc họp"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

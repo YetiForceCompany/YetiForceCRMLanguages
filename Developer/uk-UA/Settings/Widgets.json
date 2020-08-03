@@ -50,7 +50,7 @@
     "LBL_LIST": "Список",
     "LBL_SUMMARY": "Підсумок",
     "LBL_SELECT_BUTTON_INFO": "Enable visible select button",
-    "LBL_CONDITION": "Condition",
+    "LBL_CONDITION": "Стан",
     "LBL_CONDITION_INFO": "Select condition for showing records",
     "LBL_SHOW_ALL_RECORDS": "Показати всі записи",
     "LBL_SHOW_ALL_RECORDS_INFO": "No - Permissions are taken into account \r\n Yes - Searching for records excluding permissions",

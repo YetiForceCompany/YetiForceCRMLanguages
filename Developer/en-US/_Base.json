@@ -1447,7 +1447,22 @@
     "LBL_VIDEO_CONFERENCE": "Video conference",
     "LBL_DURATION_SUMMARY": "Duration summary",
     "LBL_CONTAINS_HIERARCHY": "contains also in hierarchy",
-    "LBL_DOES_NOT_CONTAIN_HIERARCHY": "does not contain also in hierarchy"
+    "LBL_DOES_NOT_CONTAIN_HIERARCHY": "does not contain also in hierarchy",
+    "LBL_INTERESTS_CONFLICT_UNLOCK": "Request to unblock access",
+    "LBL_INTERESTS_CONFLICT_CONFIRMATION": "Confirm conflict of interests",
+    "LBL_INTERESTS_CONFLICT_CONFIRMATION_DESC": "Is there a conflict of interests with",
+    "LBL_INTERESTS_CONFLICT_USERS": "A list of users who confirmed a conflict of interests",
+    "LBL_CONFLICT_OF_INTEREST": "Conflict of interests",
+    "LBL_INTERESTS_CONFLICT_CONFIRMATIONS_FOR": "Confirmations for",
+    "LBL_INTERESTS_CONFLICT_TOOLTIP_NO": "No conflict of interests",
+    "LBL_INTERESTS_CONFLICT_TOOLTIP_CANCELED": "Conflict of interests confirmation cancelled",
+    "LBL_INTERESTS_CONFLICT_TOOLTIP_YES": "Conflict of interests found",
+    "BTN_INTERESTS_CONFLICT_SET_CANCELED": "Cancel user's confirmation. It will allow them to confirm again and access the record ",
+    "LBL_INTERESTS_CONFLICT_UNLOCK_DESC": "Justify the request",
+    "LBL_INTERESTS_CONFLICT_UNLOCK_RESP": "Confirmation canceled",
+    "LBL_ACCESS_REQUEST_TO": "Access request to",
+    "LBL_SENT": "Sent",
+    "LBL_RELATION_NOT_FOUND": "Relation not found"
   },
   "js": {
     "JS_APPROVE": "Approve",

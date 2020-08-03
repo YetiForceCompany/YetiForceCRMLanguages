@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "Bộ Lọc - Cấu Hình",
+    "LBL_FEATURED": "Thêm vào yêu thích",
+    "LBL_COLOR_VIEW": "Xem màu",
+    "LBL_ADD_FIELD": "Thêm trường"
   }
 }

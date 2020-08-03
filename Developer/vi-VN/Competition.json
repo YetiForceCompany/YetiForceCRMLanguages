@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Competition",
-    "SINGLE_Competition": "Competitor",
-    "LBL_COMPETITION_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Name",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "Competition": "Đối thủ",
+    "SINGLE_Competition": "Đối thủ cạnh tranh",
+    "LBL_COMPETITION_INFORMATION": "Thông tin cơ bản",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "LBL_SUBJECT": "Tên",
+    "LBL_NUMBER": "Số",
+    "LBL_CLOSED_TIME": "Thời gian đóng",
+    "LBL_VAT_ID": "Mã Số Thuế",
+    "LBL_SHOW_HIERARCHY": "Cấp bậc",
+    "LBL_PARENT_ID": "Đối thủ cạnh tranh cấp cha"
   }
 }

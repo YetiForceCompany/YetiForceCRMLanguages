@@ -3,8 +3,8 @@
         "prefix": "ar-SA",
         "crowdinCode": "ar",
         "name": "Arabic",
-        "progress": 53,
-        "time": "2020-07-21 08:51:24"
+        "progress": 54,
+        "time": "2020-08-02 23:19:05"
     },
     "bg-BG": {
         "prefix": "bg-BG",
@@ -118,6 +118,13 @@
         "progress": 22,
         "time": "2020-06-17 08:14:38"
     },
+    "my-MM": {
+        "prefix": "my-MM",
+        "crowdinCode": "my",
+        "name": "Burmese",
+        "progress": 5,
+        "time": "2020-08-02 23:20:48"
+    },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
@@ -214,14 +221,14 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 88,
-        "time": "2020-07-28 13:33:42"
+        "time": "2020-08-02 23:37:37"
     },
     "vi-VN": {
         "prefix": "vi-VN",
         "crowdinCode": "vi",
         "name": "Vietnamese",
-        "progress": 53,
-        "time": "2020-07-28 13:34:23"
+        "progress": 72,
+        "time": "2020-08-02 23:38:09"
     },
     "zh-CN": {
         "prefix": "zh-CN",

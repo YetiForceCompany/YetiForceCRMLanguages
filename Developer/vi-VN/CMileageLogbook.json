@@ -2,16 +2,16 @@
   "php": {
     "CMileageLogbook": "Mileage log book",
     "SINGLE_CMileageLogbook": "Mileage log book",
-    "LBL_ADDITIONAL_INFORMATION": "Additional information",
-    "LBL_BASIC_INFORMATION": "Basic information",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Notes",
-    "FL_SUBJECT": "Subject",
-    "FL_STATUS": "Status",
-    "FL_NUMBER_KILOMETERS": "Number of kilometers",
-    "PLL_DRAFT": "Draft",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_ACCEPTED": "Accepted",
-    "PLL_CANCELLED": "Cancelled"
+    "LBL_ADDITIONAL_INFORMATION": "Thông tin bổ sung",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "LBL_DESCRIPTION_BLOCK": "Mô tả",
+    "LBL_ATTENTION_BLOCK": "Ghi chú",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_STATUS": "Trạng thái",
+    "FL_NUMBER_KILOMETERS": "Số km",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_FOR_APPROVAL": "Chấp thuận",
+    "PLL_ACCEPTED": "Đã chấp nhận",
+    "PLL_CANCELLED": "Đã huỷ"
   }
 }

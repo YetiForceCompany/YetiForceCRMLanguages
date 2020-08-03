@@ -1,17 +1,17 @@
 {
   "php": {
-    "FInvoiceProforma": "Proforma invoices",
-    "SINGLE_FInvoiceProforma": "Proforma invoice",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_ADDRESS_DELIVERY_INFORMATION": "Delivery address",
-    "FL_SUBJECT": "Subject",
-    "FL_PAYMENT_DATE": "Due date",
-    "FL_SALE_DATE": "Sale date",
-    "FL_ACCOUNT": "Account",
-    "FL_STATUS": "Status",
-    "FL_NUMBER": "Invoice number",
+    "FInvoiceProforma": "Hoá đơn Pro-forma",
+    "SINGLE_FInvoiceProforma": "Hoá đơn Pro-forma",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Địa chỉ giao hàng",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_PAYMENT_DATE": "Ngày hết hạn",
+    "FL_SALE_DATE": "Ngày bán hàng",
+    "FL_ACCOUNT": "Khách hàng",
+    "FL_STATUS": "Trạng thái",
+    "FL_NUMBER": "Số hóa đơn",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Gross",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_WIRE_TRANSFER": "Chuyển tiền điện tử"
   }
 }

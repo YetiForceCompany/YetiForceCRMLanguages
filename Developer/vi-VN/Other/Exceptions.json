@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Đăng xuất tự động vì không sử dụng hệ thống",
     "ERR_FIELD_NOT_FOUND": "Không tìm thấy tệp tin (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Số đối số không được phép (%d %s trong %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Không có giá trị trong %s",
     "ERR_BODY_IS_EMPTY": "Nội dung trống",
     "ERR_API": "Lỗi trong API",
     "ERR_MODULE_DOES_NOT_EXIST": "Mô-đun %s không tồn tại",

@@ -63,7 +63,7 @@
     "JS_PROJECT_STATUSES": "Trạng thái dự án",
     "JS_MILESTONE_STATUSES": "Trạng thái điểm mốc",
     "JS_TASK_STATUSES": "Trạng thái công việc",
-    "JS_ASSIGNED": "Phân công cho",
+    "JS_ASSIGNED": "Phụ trách",
     "JS_GANTT_ERROR_LOADING_DATA_TASK_REMOVED": "Lỗi khi tải dữ liệu - mục đã bị xoá",
     "JS_INVALID_DATE_FORMAT": "Định dạng ngày không hợp lệ",
     "JS_YES": "Có",
