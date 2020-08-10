@@ -6,7 +6,7 @@
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Lieferadresse",
     "FL_SUBJECT": "Betreff",
     "FL_PAYMENT_DATE": "Ausführungsdatum",
-    "FL_SALE_DATE": "Verkausdatum",
+    "FL_SALE_DATE": "Verkaufsdatum",
     "FL_ACCOUNT": "Organisation",
     "FL_FORM_PAYMENT": "Zahlungsmethode",
     "FL_STATUS": "Status",

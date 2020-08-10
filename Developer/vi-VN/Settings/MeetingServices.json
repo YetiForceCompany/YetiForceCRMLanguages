@@ -1,11 +1,11 @@
 {
 	"php": {
-		"MeetingServices": "Meeting Services",
-		"LBL_MEETING_SERVICES": "Meeting Services",
+		"MeetingServices": "Dịch vụ Cuộc họp",
+		"LBL_MEETING_SERVICES": "Dịch vụ Cuộc họp",
 		"LBL_MEETING_SERVICES_DESCRIPTION": " ",
 		"FL_URL": "URL",
-		"FL_STATUS": "Status",
-		"BTN_COPY_API_KEY": "Copy the application key to clipboard",
-		"FL_PASSWORD": "Password"
+		"FL_STATUS": "Trạng thái",
+		"BTN_COPY_API_KEY": "Sao chép khoá ứng dụng vào clipboard",
+		"FL_PASSWORD": "Mật khẩu"
 	}
 }

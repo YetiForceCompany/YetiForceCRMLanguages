@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_OWNER_ALLOCATION": "Assign owner",
+    "LBL_OWNER_ALLOCATION": "Призначення власника запису",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "Призначення користувачів загального доступу",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
-    "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",
+    "LBL_SORTING_SETTINGS_WORNING": "Увага!\n Конфігурація буде працювати тільки при ввімкненні її в налаштуваннях Ролі",
+    "LBL_ADD_PANEL_TO_MODULE": "Додати розподіл до модуля",
     "LBL_SELECT_MODULE": "Виберіть модуль",
     "LBL_GO_TO_PANEL": "перейти на панель",
     "LBL_USERS_AND_GROUPS": "Користувачі та групи"
   },
   "js": {
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Ви впевнені, що хочете видалити всі розподіли для цього модуля?"
   }
 }

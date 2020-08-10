@@ -1,21 +1,21 @@
 {
   "php": {
-    "LBL_APP_NAME": "Name",
+    "LBL_APP_NAME": "Tên",
     "LBL_ADDRESS_URL": "URL",
-    "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
+    "LBL_TYPE_SERVER": "Loại",
+    "LBL_API_KEY": "Mã",
+    "LBL_ADD_APPLICATION": "Thêm mã",
+    "LBL_WEBSERVICE_APPS": "Web service - Ứng dụng",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Tạo và quản lý mã ứng dụng cho phép tích hợp qua API.",
     "Mail": "Mail",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit",
-    "Portal": "Portal",
-    "Payments": "Payments",
-    "ManageConsents": "Manage consents"
+    "LBL_PASS": "Mật khẩu",
+    "LBL_TITLE_ADDED": "Thêm",
+    "LBL_TITLE_EDIT": "Sửa",
+    "Portal": "Cổng thông tin",
+    "Payments": "Thanh toán",
+    "ManageConsents": "Quản lý thoả thuận"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Bạn có chắc chắn muốn xoá mã này?"
   }
 }

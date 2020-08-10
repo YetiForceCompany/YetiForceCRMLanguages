@@ -1,8 +1,8 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Giá trị bất hợp lệ",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script vật lý tồn tại nhưng không chưa tên chức năng được nhập.",
-    "ERR_FAILED_TO_SAVE_SCRIPT": "Thất bị khi lưu file script phương thức quy trình.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script tồn tại về mặt vật lý nhưng không có tên chức năng được nhập.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Lỗi khi lưu file script phương pháp luồng công việc.",
     "ERR_ILLEGAL_FIELD_VALUE": "Giá trị không hợp lệ đã được nhập vào loại trường này. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_VALUE_IS_TOO_LONG": "Ký tự đã vượt ngưỡng. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_TO_MANY_FILES": "Quá nhiều tập tin được chuyển - đã vượt quá giới hạn. Tên trường: %s, Mô-đun: %s, Giá trị: %s",

@@ -1,8 +1,8 @@
 {
   "php": {
-    "KnowledgeBase": "Nền tảng kiến thức",
-    "SINGLE_KnowledgeBase": "Nền tảng kiến thức",
-    "BTN_KNOWLEDGE_BASE": "Nền tảng kiến thức",
+    "KnowledgeBase": "Kiến thức cơ bản",
+    "SINGLE_KnowledgeBase": "Kiến thức cơ bản",
+    "BTN_KNOWLEDGE_BASE": "Kiến thức cơ bản",
     "LBL_CUSTOM_INFORMATION": "Tuỳ chỉnh thông tin",
     "FL_SUBJECT": "Tiêu đề",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Thông tin cơ bản",

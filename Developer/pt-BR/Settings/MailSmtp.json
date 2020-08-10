@@ -30,7 +30,7 @@
     "LBL_CREATE_SMTP": "Criar SMTP",
     "LBL_SMTP_DETAIL": "Detalhes do SMTP",
     "LBL_NORMAL": "Normal",
-    "LBL_NO_URGENT": "Não urgente",
+    "LBL_NO_URGENT": "Not urgent",
     "LBL_URGENT": "Urgent",
     "LBL_MAIL_PRIORITY": "E-mail priority",
     "LBL_CONFIRM_READING_TO": "Confirmation of reading the message",

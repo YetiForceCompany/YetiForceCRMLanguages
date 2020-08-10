@@ -33,7 +33,7 @@
 		"LBL_CONFIG_SERVER_DESC": "Server configuration was not set properly. There may be problems with the system, or the data entered may be damaged or deleted. More information can be found in the article %s. Detected problems:",
 		"LBL_PERFORMANCE": "Performance",
 		"LBL_PHPEXT": "PHP extensions",
-		"LBL_DATABASE": "Base de dados",
+		"LBL_DATABASE": "Database",
 		"LBL_STABILITY": "Stability",
 		"LBL_CONFIG_SERVER": "Server configuration",
 		"LBL_SECURITY": "Security",
@@ -50,8 +50,8 @@
 		"LBL_REGISTRATION": "Registration",
 		"LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
 		"LBL_COMPANY_DATA": "Go to company details",
-		"LBL_SYSTEM_UPDATER": "Actualizações do sistema",
-		"LBL_LANGUAGES_UPDATER": "Atualizador de idiomas",
+		"LBL_SYSTEM_UPDATER": "System updater",
+		"LBL_LANGUAGES_UPDATER": "Languages updater",
 		"LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
 		"LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
 	}

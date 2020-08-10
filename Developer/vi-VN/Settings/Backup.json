@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it."
+    "LBL_BACKUP_MANAGER": "Quản lý sao lưu",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Quản lý file sao lưu",
+    "LBL_DOWNLOAD": "Tải về",
+    "LBL_FILE_NAME": "Tên tập tin",
+    "LBL_FILE_SIZE": "Dung lượng",
+    "LBL_FILE_DATE": "Ngày sửa đổi",
+    "LBL_BACKUP_LIST": "Danh sách sao lưu",
+    "ERR_CONFIG_ALERT_TITLE": "Trình quản lý sao lưu đã bị tắt",
+    "ERR_CONFIG_ALERT_DESC": "Thiết lập đường dẫn thích hợp trong biến BACKUP_PATH của tập tin cấu hình [config\/Components\/Backup.php] để kích hoạt nó."
   },
   "js": {}
 }

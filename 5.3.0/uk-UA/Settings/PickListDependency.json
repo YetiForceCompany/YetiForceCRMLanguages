@@ -1,7 +1,7 @@
 {
   "php": {
     "Selected Values": "Selected values",
-    "LBL_ADD_RECORD": "Add record",
+    "LBL_ADD_RECORD": "Додати запис",
     "PickListDependency": "PickList Dependency",
     "LBL_CONFIGURE_DEPENDENCY_HELP_1": "Only mapped picklist values of the source field will be shown below (except for first time)",
     "LBL_CONFIGURE_DEPENDENCY_HELP_2": "If you want to see or change the mapping for the other picklist values of source field, \r\nthen you can select the values by clicking on <b>'Select Source values'<\/b> button on the right side",
@@ -13,11 +13,11 @@
     "LBL_SELECT_MODULE": "Модуль",
     "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",
     "LBL_SELECT_SOURCE_VALUES": "Select source values",
-    "LBL_SOURCE_FIELD": "Source field",
-    "LBL_TARGET_FIELD": "Target field",
+    "LBL_SOURCE_FIELD": "Базове поле",
+    "LBL_TARGET_FIELD": "Цільове поле",
     "LBL_UNMARK_ALL": "Unmark all",
     "Module": "Модуль",
-    "Source Field": "Source field",
+    "Source Field": "Базове поле",
     "Target Field": "Target field"
   },
   "js": {

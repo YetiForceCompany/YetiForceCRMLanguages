@@ -7,7 +7,7 @@
     "LBL_NO_RECORDS_FOUND": "No tree templates",
     "LBL_EDIT_TEMPLATE_TREES": "Edit tree template",
     "LBL_CREATING_TEMPLATE_TREES": "Create tree template",
-    "LBL_NAME": "Template name",
+    "LBL_NAME": "Назва шаблону",
     "LBL_MODULE": "Модуль",
     "LBL_ADD_ITEM_TREE": "Додати елемент",
     "LBL_ADD_TO_TREES": "Додати",
@@ -16,7 +16,7 @@
     "Category": "Категорія",
     "LBL_MULTICATEGORY": "Список категорій",
     "Reservations": "Бронювання",
-    "LBL_SHARE_WITH": "Share with"
+    "LBL_SHARE_WITH": "Поділитися з"
   },
   "js": {
     "JS_TREE_DELETED_SUCCESSFULLY": "Tree template deleted successfully",
@@ -28,7 +28,7 @@
     "JS_JSTREE_COPY": "Копіювати",
     "JS_JSTREE_PASTE": "Вставити",
     "JS_JSTREE_CHANGE_ICON": "Змінити значок",
-    "JS_FIELD_CAN_NOT_BE_EMPTY": "Field cannot be empty",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Поле не може бути порожнім",
     "JS_NO_ITEM_SELECTED": "No item has been selected",
     "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "You cannot delete all items",
     "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "You cannot delete parent item",

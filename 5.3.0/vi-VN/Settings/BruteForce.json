@@ -1,25 +1,25 @@
 {
   "php": {
-    "BruteForce": "Brute Force",
-    "LBL_NUMBER_OF_ATTEMPTS": "Number of attemps",
-    "LBL_TIME_LOCK": "Time lock (minutes)",
-    "LBL_SETTINGS": "Settings",
-    "LBL_BLOCKED_IP": "Blocked IP address",
-    "LBL_SAVE_SUCCESS": "Changes have been saved",
-    "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
-    "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
-    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts and time limit for IP blocking.",
-    "LBL_IP": "IP address",
-    "LBL_DATE": "Date",
-    "LBL_USERS": "Users",
-    "LBL_BROWSERS": "Browsers",
-    "LBL_UNBLOCK": "Unblock",
-    "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",
-    "LBL_BRUTEFORCE_ACTIVE": "Active",
-    "LBL_VIEW_SHOW": "Brute Force",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications"
+    "BruteForce": "Tấn công từ điển",
+    "LBL_NUMBER_OF_ATTEMPTS": "Số sự kiện",
+    "LBL_TIME_LOCK": "Thời gian khoá (phút)",
+    "LBL_SETTINGS": "Thiết lập",
+    "LBL_BLOCKED_IP": "Địa chỉ IP bị chặn",
+    "LBL_SAVE_SUCCESS": "Thay đổi đã được lưu lại",
+    "LBL_UNBLOCK_FAIL": "Địa chỉ IP đã không được bỏ chặn",
+    "LBL_UNBLOCK_SUCCESS": "Địa chỉ IP đã được bỏ chặn",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Thiết lập tối đa số đăng nhập thất bại và đặt giới hạn thời gian khi chặn IP.",
+    "LBL_IP": "Địa chỉ IP",
+    "LBL_DATE": "Ngày",
+    "LBL_USERS": "Người dùng",
+    "LBL_BROWSERS": "Trình duyệt",
+    "LBL_UNBLOCK": "Hủy chặn",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Người dùng được thông báo",
+    "LBL_BRUTEFORCE_ACTIVE": "Bật",
+    "LBL_VIEW_SHOW": "Tấn công từ điển",
+    "LBL_SENT_NOTIFICATIONS": "Gửi thông báo"
   },
   "js": {
-    "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."
+    "JS_COULD_NOT_FINNISH_REACTION": "Lỗi. Không lưu được."
   }
 }

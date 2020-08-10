@@ -19,7 +19,7 @@
     "SINGLE_Contacts": "Liên lạc",
     "Support End Date": "Ngày hết hạn hỗ trợ",
     "Support Start Date": "Ngày bắt đầu hỗ trợ",
-    "Title": "Tiêu đề",
+    "Title": "Danh xưng",
     "User List": "Danh sách người dùng",
     "Job title": "Chức vụ",
     "Dr.": "TS.",
@@ -42,12 +42,12 @@
     "Decision maker": "Người ra quyết định",
     "End of support for contact": "Kết thúc hỗ trợ cho liên hệ",
     "Birthdays of contacts": "Sinh nhật",
-    "LBL_SWITCH_ON_DECISION_MAKER": "Người ra quyết định",
+    "LBL_SWITCH_ON_DECISION_MAKER": "Người quyết định",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Tất cả",
     "LBL_SHOW_HIERARCHY": "Cấp bậc liên hệ",
     "FL_APPROVALS": "Chấp thuận",
     "LBL_PARTICIPANTS": "Người tham gia",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Nhân bản địa chỉ email"
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Địa chỉ email bị trùng lặp"
   },
   "js": {}
 }

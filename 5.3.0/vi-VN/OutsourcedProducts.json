@@ -1,8 +1,8 @@
 {
   "php": {
-    "OutsourcedProducts": "Sản phẩm thuê ngoài",
-    "SINGLE_OutsourcedProducts": "Sản phẩm thuê ngoài",
-    "LBL_INFORMATION": "Sản phẩm thuê ngoài",
+    "OutsourcedProducts": "Sản phẩm mua ngoài",
+    "SINGLE_OutsourcedProducts": "Sản phẩm mua ngoài",
+    "LBL_INFORMATION": "Sản phẩm mua ngoài",
     "Assigned To": "Giao cho",
     "LBL_RODZAJUMOWY": "Loại thỏa thuận",
     "LBL_osservicesstatus": "Trạng thái",
@@ -13,7 +13,7 @@
     "Sub Category": "Tiểu mục",
     "Category": "Nhóm",
     "Date Sold": "Ngày bán",
-    "Date in Service": "Ngày hỗ trợ bị chấm dứt",
+    "Date in Service": "Ngày dừng hỗ trợ",
     "Description": "Mô tả",
     "LBL_DESCRIPTION_INFORMATION": "Thông tin mô tả",
     "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",

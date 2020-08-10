@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module"
+    "LBL_SLA_POLICY": "Chính sách SLA",
+    "LBL_NAME": "Tên chính sách",
+    "LBL_EDIT": "Sửa chính sách SLA",
+    "LBL_CREATE": "Tạo mới chính sách SLA",
+    "LBL_SOURCE_MODULE": "Mô-đun"
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Chọn giờ làm việc",
+    "JS_BUSINESS_HOURS_FROM": "Từ",
+    "JS_BUSINESS_HOURS_TO": "Đến",
+    "JS_BUSINESS_HOURS_NAME": "Tên",
+    "JS_BUSINESS_HOURS_DAYS": "Giờ làm việc",
+    "JS_HOLIDAYS": "Nghỉ lễ"
   }
 }

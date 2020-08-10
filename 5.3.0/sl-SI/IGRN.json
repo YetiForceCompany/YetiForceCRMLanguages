@@ -11,11 +11,11 @@
     "FL_STORAGE": "Skladišče",
     "FL_STATUS": "Status",
     "PLL_DRAFT": "Osnutek",
-    "PLL_IN_REALIZATION": "V izvajanju",
+    "PLL_IN_REALIZATION": "V obdelavi",
     "PLL_OBJECTIONS": "Reklamacija",
     "PLL_FOR_APPROVAL": "V potrjevanju",
     "PLL_CANCELLED": "Prekinjeno",
-    "PLL_ACCEPTED": "Sprejeto",
+    "PLL_ACCEPTED": "Zaključeno",
     "LBL_CHANGE_STATUS": "Spremeni status"
   }
 }

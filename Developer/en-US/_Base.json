@@ -1457,12 +1457,17 @@
     "LBL_INTERESTS_CONFLICT_TOOLTIP_NO": "No conflict of interests",
     "LBL_INTERESTS_CONFLICT_TOOLTIP_CANCELED": "Conflict of interests confirmation cancelled",
     "LBL_INTERESTS_CONFLICT_TOOLTIP_YES": "Conflict of interests found",
-    "BTN_INTERESTS_CONFLICT_SET_CANCELED": "Cancel user's confirmation. It will allow them to confirm again and access the record ",
+    "BTN_INTERESTS_CONFLICT_SET_CANCELED": "Cancel user's confirmation. It will allow them to confirm again and access the record",
     "LBL_INTERESTS_CONFLICT_UNLOCK_DESC": "Justify the request",
     "LBL_INTERESTS_CONFLICT_UNLOCK_RESP": "Confirmation canceled",
+    "LBL_INTERESTS_CONFLICT_UNLOCK_STATUS_NEW": "Awaiting consideration",
+    "LBL_INTERESTS_CONFLICT_UNLOCK_STATUS_ACCEPTED": "Accepted",
+    "LBL_INTERESTS_CONFLICT_UNLOCK_STATUS_REJECTED": "Rejected",
     "LBL_ACCESS_REQUEST_TO": "Access request to",
     "LBL_SENT": "Sent",
-    "LBL_RELATION_NOT_FOUND": "Relation not found"
+    "LBL_RELATION_NOT_FOUND": "Relation not found",
+    "LBL_RELATED_RECORD": "Related record",
+    "LBL_SOURCE_RECORD": "Source record"
   },
   "js": {
     "JS_APPROVE": "Approve",
