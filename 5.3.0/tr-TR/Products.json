@@ -56,7 +56,7 @@
     "SINGLE_Products": "Ürün",
     "Software": "Yazılım",
     "Spiral Binder": "Spiral bağlayıcı",
-    "Sq Ft": "Sq Ft",
+    "Sq Ft": "M2",
     "Tax Class": "Vergi sınıfı",
     "Unit Price": "Birim fiyatı",
     "List Price": "Liste fiyatı",
@@ -71,7 +71,7 @@
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Kayıt listesi, satış fırsatı ile ilişkili ürünler ve hizmetler ile sınırlıdır",
     "FL_EAN_13": "EAN 13",
     "FL_QTY_IN_STOCK": "Stokta bulunan ürünün miktarı",
-    "FL_PURCHASE": "Purchase",
-    "FL_WEIGHT": "Weight"
+    "FL_PURCHASE": "Satın al",
+    "FL_WEIGHT": "Ağırlık"
   }
 }

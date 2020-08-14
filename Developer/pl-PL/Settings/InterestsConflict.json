@@ -1,0 +1,18 @@
+{
+  "php": {
+    "InterestsConflict": "Konflikt interesów",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Konflikt interesów",
+    "LBL_MAIN_CONFIG": "Konfiguracja ogólna",
+    "LBL_MODULES": "Moduły",
+    "LBL_UNLOCK_REQUESTS": "Zgłoszenia odblokowania",
+    "LBL_CONFIRMATIONS": "Potwierdzenia",
+    "LBL_IS_ACTIVE": "Aktywacja konfliktu interesów",
+    "LBL_NOTIFICATIONS_EMAILS": "Adresy e-mail do powiadomień",
+    "LBL_INTERVAL_TIME": "Przedział czasowy",
+    "LBL_INTERVAL_TIME_DESC": "Przedział czasu, który określa, jak często system powinien wymuszać potwierdzenie braku konfliktu interesów.",
+    "LBL_INDEFINITELY": "bezterminowo",
+    "LBL_USERS_CONFIRMATIONS": "Dostęp do panelu potwierdzeń",
+    "LBL_USERS_UNLOCK": "Dostep do panelu zgłoszeń odblokowania",
+    "LBL_RELATIONSHIP": "Relacja"
+  }
+}

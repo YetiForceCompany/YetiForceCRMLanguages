@@ -47,7 +47,7 @@
     "Product Sheet": "Ürün sayfası",
     "Products": "Ürünler",
     "Qty In Demand": "Talep Edilen Mkt.",
-    "Qty In Stock": "Available product quantity",
+    "Qty In Stock": "Mevcut ürün miktarı",
     "Qty/Unit": "Miktar/Birim",
     "Reams": "Kağıt pakerler",
     "Reorder Level": "Yeniden sipariş seviyesi",
@@ -56,7 +56,7 @@
     "SINGLE_Products": "Ürün",
     "Software": "Yazılım",
     "Spiral Binder": "Spiral bağlayıcı",
-    "Sq Ft": "Sq Ft",
+    "Sq Ft": "M2",
     "Tax Class": "Vergi sınıfı",
     "Unit Price": "Birim fiyatı",
     "List Price": "Liste fiyatı",
@@ -69,9 +69,9 @@
     "pack": "Paketi",
     "LBL_TAXES": "Vergiler",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Kayıt listesi, satış fırsatı ile ilişkili ürünler ve hizmetler ile sınırlıdır",
-    "FL_EAN_SKU": "SKU",
+    "FL_EAN_SKU": "Stok Kodu",
     "FL_QTY_IN_STOCK": "Stokta bulunan ürünün miktarı",
-    "FL_PURCHASE": "Purchase",
-    "FL_WEIGHT": "Weight"
+    "FL_PURCHASE": "Satın al",
+    "FL_WEIGHT": "Ağırlık"
   }
 }
