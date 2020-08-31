@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "使用/享有：:",
     "LBL_DAYS": "天",
     "Brak danych": "没有数据",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "工作时间",
     "LBL_ALLDAYS_INFO": "全天",
     "LBL_WEEKENDDAYS_INFO": "周末",

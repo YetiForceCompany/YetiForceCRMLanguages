@@ -1,16 +1,16 @@
 {
   "php": {
-    "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "Approvals": "Утверждения",
+    "SINGLE_Approvals": "Утверждение",
+    "LBL_CUSTOM_INFORMATION": "Основная информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "LBL_DESCRIPTION_INFORMATION": "Детальная информация",
+    "FL_NAME": "Название",
+    "FL_APPROVALS_STATUS": "Статус",
+    "FL_DESCRIPTION": "Описание",
+    "FL_NUMBER": "Номер",
+    "PLL_DRAFT": "Драфт",
+    "PLL_ACTIVE": "Активно",
+    "PLL_INACTIVE": "Неактивно"
   }
 }

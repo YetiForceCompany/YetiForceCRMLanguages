@@ -1,7 +1,7 @@
 {
   "php": {
-    "PaymentsOut": "Thanh toán ra",
-    "SINGLE_PaymentsOut": "Thanh toán ra",
+    "PaymentsOut": "Khoản chi",
+    "SINGLE_PaymentsOut": "Khoản chi",
     "LBL_MAIN_INFORMATION": "Thông tin cơ bản",
     "LBL_PAYMENT_INFORMATION": "Thông tin thanh toán",
     "LBL_PAYMENTSVALUE": "Giá trị",
@@ -15,7 +15,7 @@
     "LBL_PAYMENTSNAME": "Tên thanh toán",
     "LBL_ADD_RECORD": "Thêm mới",
     "LBL_RECORDS_LIST": "Danh sách Hồ sơ",
-    "LBL_PARENTID": "Thanh toán cha ra",
+    "LBL_PARENTID": "Khoản chi cha",
     "Denied": "Đã từ chối",
     "Created": "Ngày tạo",
     "Paid": "Đã thanh toán",

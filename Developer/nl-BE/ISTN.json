@@ -1,7 +1,7 @@
 {
   "php": {
-    "ISTN": "Storage Turnover Notes",
-    "SINGLE_ISTN": "Storage Turnover Notes",
+    "ISTN": "Opslag Omzet Notities",
+    "SINGLE_ISTN": "Opslag Omzet Notities",
     "LBL_DESCRIPTION_BLOCK": "Beschrijving",
     "LBL_ATTENTION_BLOCK": "Opmerkingen",
     "FL_ESTIMATED_DATE": "Geschatte datum",

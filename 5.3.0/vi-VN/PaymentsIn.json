@@ -1,7 +1,7 @@
 {
   "php": {
-    "PaymentsIn": "Thanh toán trong",
-    "SINGLE_PaymentsIn": "Thanh toán trong",
+    "PaymentsIn": "Khoản thu",
+    "SINGLE_PaymentsIn": "Khoản thu",
     "LBL_MAIN_INFORMATION": "Thông tin cơ bản",
     "LBL_PAYMENT_INFORMATION": "Thông tin thanh toán",
     "LBL_PAYMENTSVALUE": "Giá trị",
@@ -15,7 +15,7 @@
     "LBL_PAYMENTSNAME": "Tên thanh toán",
     "LBL_ADD_RECORD": "Thêm bản ghi",
     "LBL_RECORDS_LIST": "Danh sách Hồ sơ",
-    "LBL_PARENTID": "Thanh toán cha trong",
+    "LBL_PARENTID": "Khoản thu cha",
     "PLL_DENIED": "Đã từ chối",
     "PLL_CREATED": "Ngày tạo",
     "PLL_PAID": "Đã thanh toán",

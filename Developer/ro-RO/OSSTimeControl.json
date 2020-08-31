@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Utilizat/Intitulat:",
     "LBL_DAYS": "zile",
     "Brak danych": "Fara date",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "Timp de lucru",
     "LBL_ALLDAYS_INFO": "Toate zilele",
     "LBL_WEEKENDDAYS_INFO": "Zile weekend",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "ISTRN": "Storage Transfer Received Notes",
-    "SINGLE_ISTRN": "Storage Transfer Received Notes",
+    "ISTRN": "Opslag Overdracht Ontvangen Notities",
+    "SINGLE_ISTRN": "Opslag Overdracht Ontvangen Notities",
     "LBL_DESCRIPTION_BLOCK": "Beschrijving",
     "LBL_ATTENTION_BLOCK": "Opmerkingen",
     "FL_ACCEPTANCE_DATE": "Datum van aanvaarding",

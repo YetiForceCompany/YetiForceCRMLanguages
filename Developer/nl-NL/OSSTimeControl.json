@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Used / Entitled:",
     "LBL_DAYS": "days",
     "Brak danych": "No data",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "De gebruikstijd mag niet langer zijn dan 24 uur",
     "LBL_DAYWORKSUM": "Working time",
     "LBL_ALLDAYS_INFO": "All days",
     "LBL_WEEKENDDAYS_INFO": "Weekend days",

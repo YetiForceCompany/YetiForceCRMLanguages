@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Used/Entitled:",
     "LBL_DAYS": "ngày",
     "Brak danych": "Không dữ liệu",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "Thời gian làm việc",
     "LBL_ALLDAYS_INFO": "Tất cả các ngày",
     "LBL_WEEKENDDAYS_INFO": "Những ngày cuối tuần",

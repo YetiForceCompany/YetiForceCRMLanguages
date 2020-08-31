@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "استفاده شده/ استحقاقی:",
     "LBL_DAYS": "روز",
     "Brak danych": "داده‌ای وجود ندارد",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "زمان کاری",
     "LBL_ALLDAYS_INFO": "همه روزها",
     "LBL_WEEKENDDAYS_INFO": "روزهای پایان هفته",

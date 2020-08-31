@@ -9,6 +9,8 @@
     "IGDNC_IGDNEXIST_HANDLER": "Duplikuj Korektę Wydania Zewnętrznego",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta wydania zewnętrznego",
     "IGRNC_IGRNEXIST_HANDLER": "Duplikuj Korektę Przyjęcia z Zewnątrz",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta przyjęć z zewnątrz."
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta przyjęć z zewnątrz.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
   }
 }

@@ -9,6 +9,8 @@
     "IGDNC_IGDNEXIST_HANDLER": "중복된 출고 노트 수정",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "동일한 출고 노트 수정(Goods Dispatched Note Correction)이 이미 존재하는 경우, 추가/편집을 차단합니다.",
     "IGRNC_IGRNEXIST_HANDLER": "중복된 입고 노트 수정",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "동일한 입고 노트 수정(Goods Dispatched Note Correction)이 이미 존재하는 경우, 추가/편집을 차단합니다."
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "동일한 입고 노트 수정(Goods Dispatched Note Correction)이 이미 존재하는 경우, 추가/편집을 차단합니다.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
   }
 }

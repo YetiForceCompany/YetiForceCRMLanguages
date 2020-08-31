@@ -13,6 +13,10 @@
     "LBL_INDEFINITELY": "bezterminowo",
     "LBL_USERS_CONFIRMATIONS": "Dostęp do panelu potwierdzeń",
     "LBL_USERS_UNLOCK": "Dostep do panelu zgłoszeń odblokowania",
-    "LBL_RELATIONSHIP": "Relacja"
+    "LBL_RELATIONSHIP": "Relacja",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Wyślij wiadomość mailową podczas prośby żądania dostępu do rekordu",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail wysyłany do powyższych osób (Adresy e-mail do powiadomień)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Wyślij wiadomość mailową z wynikiem rozpatrzenia prośby żądania dostępu do rekordu",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail wysyłany do osoby zgłaszającej prośbę dostępu"
   }
 }

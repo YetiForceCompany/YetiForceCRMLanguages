@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Используется / Под названием:",
     "LBL_DAYS": "дней",
     "Brak danych": "Нет данных",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "Время работы",
     "LBL_ALLDAYS_INFO": "Все дни",
     "LBL_WEEKENDDAYS_INFO": "Выходные дни",

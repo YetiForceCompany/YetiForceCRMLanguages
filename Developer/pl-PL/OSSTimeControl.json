@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Wykorzystano/Przysługuje:",
     "LBL_DAYS": "dni",
     "Brak danych": "Brak danych",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Czas pracy nie powinien przekraczać 24 godzin",
     "LBL_DAYWORKSUM": "Czas pracy",
     "LBL_ALLDAYS_INFO": "Wszystkie dni",
     "LBL_WEEKENDDAYS_INFO": "Dni weekendowe",

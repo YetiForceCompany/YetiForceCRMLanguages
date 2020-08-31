@@ -9,6 +9,8 @@
     "IGDNC_IGDNEXIST_HANDLER": "Kétszeresen feladott áruk megjegyzés javítása",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz az a feladott áru megjegyzés-javítás már létezik",
     "IGRNC_IGRNEXIST_HANDLER": "Kétszeresen fogadott áruk megjegyzés javítása",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz a fogadott áru megjegyzés-javítás már létezik."
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz a fogadott áru megjegyzés-javítás már létezik.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
   }
 }

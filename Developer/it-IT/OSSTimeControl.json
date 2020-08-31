@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Usato / concesso",
     "LBL_DAYS": "giorni",
     "Brak danych": "Nessun dato",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "L'orario di lavoro non deve essere superiore a 24 ore",
     "LBL_DAYWORKSUM": "Orario di lavoro",
     "LBL_ALLDAYS_INFO": "Tutti i giorni",
     "LBL_WEEKENDDAYS_INFO": "Giorni del fine settimana",

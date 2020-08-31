@@ -9,6 +9,8 @@
     "IGDNC_IGDNEXIST_HANDLER": "Duplica la Correzione della Nota dei Beni Spediti",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Aggiungi/modifica il registro del blocco quando la stessa Correzione della Nota dei Beni Spediti esiste già",
     "IGRNC_IGRNEXIST_HANDLER": "Duplica la Correzione della Nota dei Beni Spediti",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "Aggiungi/modifica il registro del blocco quando la stessa Correzione della Nota dei Beni Spediti esiste già."
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Aggiungi/modifica il registro del blocco quando la stessa Correzione della Nota dei Beni Spediti esiste già.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Convalida della durata dell'orario di lavoro",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Orario di lavoro limitato a 24 ore"
   }
 }

@@ -1751,7 +1751,6 @@
     "JS_CANNOT_REMOVE_RELATION": "Nije moguće ukloniti vezu",
     "JS_RECORD_INFO": "Podaci o zapisu",
     "JS_NOTIFY_COPY_TEXT": "Kopirano u međuspremnik",
-    "JS_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Radno vreme ne bi trebalo da pređe 24 sata",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE_FILTER": "Jeste li sigurni da želite ukloniti filter? Svi widgeti koji se odnose na ovaj filtar u sažetku modula i početnoj stranici također će biti uklonjeni.",
     "JS_SEARCHING": "Pretraga ...",
     "JS_INPUT_TOO_SHORT": "Unesite _LENGTH_ ili više znakova",

@@ -1,16 +1,16 @@
 {
   "php": {
-    "Approvals": "Approvals",
+    "Approvals": "الموافقات",
     "SINGLE_Approvals": "موافقة",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
+    "LBL_CUSTOM_INFORMATION": "المعلومات المخصصة",
+    "LBL_BASIC_INFORMATION": "معلومات أساسية",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "FL_NAME": "الإسم",
+    "FL_APPROVALS_STATUS": "الحالة",
+    "FL_DESCRIPTION": "الوصف",
+    "FL_NUMBER": "رقم",
+    "PLL_DRAFT": "مسودة",
+    "PLL_ACTIVE": "مفعل",
     "PLL_INACTIVE": "غير نشط"
   }
 }

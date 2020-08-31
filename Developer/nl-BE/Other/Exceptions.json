@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Automatisch afgemeld door gebrek aan activiteit",
     "ERR_FIELD_NOT_FOUND": "Veld niet gevonden (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Aantal argumenten niet toegestaan (%d %s in %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Geen waarde in %s",
     "ERR_BODY_IS_EMPTY": "Body is leeg",
     "ERR_API": "Fout in API",
     "ERR_MODULE_DOES_NOT_EXIST": "Module %s bestaat niet",

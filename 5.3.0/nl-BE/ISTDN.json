@@ -1,7 +1,7 @@
 {
   "php": {
     "ISTDN": "Opslag Transfer verzonden notities",
-    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "SINGLE_ISTDN": "Opslag Overdracht Verzonden Notitie",
     "LBL_DESCRIPTION_BLOCK": "Beschrijving",
     "LBL_ATTENTION_BLOCK": "Opmerkingen",
     "FL_ACCEPTANCE_DATE": "Datum van aanvaarding",

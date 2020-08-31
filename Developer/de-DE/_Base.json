@@ -1751,7 +1751,6 @@
     "JS_CANNOT_REMOVE_RELATION": "Beziehung kann nicht gelöscht werden",
     "JS_RECORD_INFO": "Datensatzinfo",
     "JS_NOTIFY_COPY_TEXT": "In die Zwischenablage kopiert",
-    "JS_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Arbeitszeit sollte die 24 Stunden nicht überschreiten",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE_FILTER": "Wollen Sie wirklich diesen Filter löschen? Alle abhängigen Widgets werden dann ebenfalls gelöscht!",
     "JS_SEARCHING": "Suchen...",
     "JS_INPUT_TOO_SHORT": "_LENGTH_ oder mehr Zeichen eingeben",

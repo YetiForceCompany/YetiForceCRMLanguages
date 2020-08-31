@@ -40,13 +40,13 @@
     "LBL_ARCHIVED": "Gearchiveerde record",
     "LBL_TRANSFER_EDIT": "record is gewijzigd in het overdrachtsproces",
     "LBL_TRANSFER_DELETE": "record is verwijderd in het overdrachtsproces",
-    "LBL_TRANSFER_UNLINK": "relation was deleted in the transfer process",
-    "LBL_TRANSFER_LINK": "relation was added in the transfer process",
-    "LBL_INV_ADDED": "Added",
-    "LBL_INV_UPDATED": "Updated",
-    "LBL_INV_DELETED": "Deleted",
-    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes",
+    "LBL_TRANSFER_UNLINK": "relatie was verwijderd in het overdrachtsproces",
+    "LBL_TRANSFER_LINK": "relatie was toegevoegd in het overdrachtsproces",
+    "LBL_INV_ADDED": "Toegevoegd",
+    "LBL_INV_UPDATED": "Bijgewerkt",
+    "LBL_INV_DELETED": "Verwijderd",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Werkt widget configuratie bij",
+    "LBL_PERSON_MAKING_CHANGES": "Persoon die wijzigingen maakt",
     "LBL_MODULES": "Modules"
   }
 }

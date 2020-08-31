@@ -78,6 +78,7 @@
     "LBL_Used_Entitled": "Kullanılan/Başlıklı:",
     "LBL_DAYS": "Günler",
     "Brak danych": "Veri yok",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
     "LBL_DAYWORKSUM": "Çalışma zamanı",
     "LBL_ALLDAYS_INFO": "Tüm günler",
     "LBL_WEEKENDDAYS_INFO": "Hafta Sonu Günleri",
