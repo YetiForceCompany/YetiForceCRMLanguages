@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Добавить документы",
     "LBL_ADD_TO_MY_CALENDAR": "Добавить в мой календарь",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Произошла ошибка при импорте",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Файл был импортирован %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в панели недоступны"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в панели недоступны",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Запись не имеет адреса электронной почты",

@@ -38,20 +38,20 @@
     "LBL_CONFIG_SERVER": "Конфігурація сервера",
     "LBL_SECURITY": "Безпека",
     "LBL_NO_FILE_WRITE_RIGHTS": "No file write rights",
-    "LBL_SECURITY_CONF": "Security configuration",
+    "LBL_SECURITY_CONF": "Налаштування безпеки",
     "LBL_SECURITY_CONF_DESC": "Detected errors in the configuration of parameters related to system security. There may be problems with the system, or the entered data may be damaged or deleted. More information can be found in the article %s. Adjust the following parameters:",
-    "LBL_LIB_REQUIRED": "Required",
-    "LBL_LIB_OPTIONAL": "Optional",
+    "LBL_LIB_REQUIRED": "Обов'язково",
+    "LBL_LIB_OPTIONAL": "За бажанням",
     "LBL_CRON_STATE": "Cron mechanism status",
     "LBL_CRON_DISABLED_DESC": "The schedule mechanism of cron tasks has not been activated thus not all system functionalities are available",
     "LBL_CRON_TASK_FAILED_DESC": "Not all cron tasks were completed successfully.",
-    "LBL_HOW_TO_ENABLE_CRON": "How to enable cron",
+    "LBL_HOW_TO_ENABLE_CRON": "Як включити крон",
     "LBL_CRON_TASKS_LIST": "Список завдань Cron",
     "LBL_REGISTRATION": "Реєстрація",
     "LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
-    "LBL_COMPANY_DATA": "Go to company details",
+    "LBL_COMPANY_DATA": "Перейти до інформації про компанію",
     "LBL_SYSTEM_UPDATER": "Оновлення системи",
     "LBL_LANGUAGES_UPDATER": "Оновлення мов",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating."
+    "LBL_UPDATER_DESC": "Доступні оновлення для вашої системної версії. Ми рекомендуємо оновити."
   }
 }

@@ -1006,7 +1006,7 @@
     "LBL_TAX_IN_TOTAL": "جمع مالیات",
     "LBL_PRICE_AFTER_TAX": "قیمت با احتساب مالیات",
     "LBL_GLOBAL_TAXS": "مالیات از لیست مالیات‌های موجود",
-    "LBL_INDIVIDUAL_TAX": "Custom tax",
+    "LBL_INDIVIDUAL_TAX": "مالیات دلخواه",
     "LBL_GROUP_TAXS": "لیست مالیات از محصولات/خدمات",
     "LBL_TAX_FOR_MODULE": "مالیات تعیین شده در ماژول",
     "LBL_REGIONAL_TAX": "مالیات منطقه‌ای",

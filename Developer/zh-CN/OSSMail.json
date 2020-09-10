@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "添加文档",
     "LBL_ADD_TO_MY_CALENDAR": "添加到我的日历",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "导入过程中出错",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "该文件已被导入%s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "条形图操作不可用"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "条形图操作不可用",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "记录没有电子邮件地址",

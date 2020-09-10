@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Dodaj dokument",
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj v moj koledar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Napaka pri uvozu",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Datoteka je bila uvožena %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Stranski bar ni na voljo"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Stranski bar ni na voljo",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Zapis nima e-poštnega naslova",

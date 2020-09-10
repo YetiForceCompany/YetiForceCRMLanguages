@@ -396,7 +396,8 @@
     "PLL_FULLTEXT_WORD": "Wort",
     "PLL_CONTAINS": "Enthält",
     "PLL_STARTS_WITH": "Beginnt mit",
-    "PLL_ENDS_WITH": "Endet mit"
+    "PLL_ENDS_WITH": "Endet mit",
+    "FL_SUPER_USER": "Super user"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dezimaltrennzeichen und Zifferngruppierungs-Trennzeichen darf nicht gleich sein",

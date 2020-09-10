@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Ajouter des documents",
     "LBL_ADD_TO_MY_CALENDAR": "Ajouter à mon calendrier",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Une erreur s'est produite lors de l'import",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Le fichier %s a été importé",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Ces actions ne sont pas disponibles"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Ces actions ne sont pas disponibles",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "L'enregistrement ne contient pas d'adresse email",

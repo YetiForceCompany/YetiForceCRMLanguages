@@ -320,9 +320,9 @@
     "LBL_USER_NAME_HAS_ALREADY_BEEN_USED": "Này tên đã được sử dụng hệ thống không cho phép sử dụng nó một lần nữa.",
     "LBL_FORBIDDEN_USERNAMES": "Này tên là bị cấm, bởi vì nó là không an toàn.",
     "BTN_RESET_PASSWORD": "Đặt lại mật khẩu",
-    "BTN_MASS_RESET_PASSWORD": "Đổi mật khẩu hàng loạt",
+    "BTN_MASS_RESET_PASSWORD": "Đổi mật khẩu nhiều người dùng",
     "LBL_RESET_PASSWORD_HEAD": "Đặt lại mật khẩu người dùng",
-    "LBL_MASS_RESET_PASSWORD_HEAD": "Đổi mật khẩu hàng loạt",
+    "LBL_MASS_RESET_PASSWORD_HEAD": "Đổi mật khẩu nhiều người dùng",
     "LBL_RESET_PASSWORD_DESC": "Hệ thống sẽ tạo ra 1 mật khẩu mới và gửi về email của người dùng.",
     "LBL_RESET_PASSWORD_ERROR": "Hệ thống không thể tạo mật khẩu bởi vì không có tài khoản SMTP nào được gắn với thông báo hệ thống.",
     "LBL_PASSWORD_WAS_RESET_AND_SENT_TO_USER": "Mật khẩu đã được thiết lập lại và gửi đến địa chỉ email người dùng.",
@@ -364,7 +364,7 @@
     "PLL_PASSWORD": "Mật khẩu",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Password + 2FA",
-    "BTN_MASS_OFF_2FA": "Tắt 2FA hàng loạt",
+    "BTN_MASS_OFF_2FA": "Tắt 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "Trong trạng thái demo, 2FA là chỉ cho xem trước.",
     "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.\nBelow are some links to the most popular applications",
     "FL_DEFAULT_SEARCH_MODULE": "Mô-đun mặc định",
@@ -396,7 +396,8 @@
     "PLL_FULLTEXT_WORD": "Từ",
     "PLL_CONTAINS": "Chứa",
     "PLL_STARTS_WITH": "Bắt đầu với",
-    "PLL_ENDS_WITH": "Kết thúc với"
+    "PLL_ENDS_WITH": "Kết thúc với",
+    "FL_SUPER_USER": "Super user"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dấu phân tách thập phân và tách nhóm không thể trùng nhau.",

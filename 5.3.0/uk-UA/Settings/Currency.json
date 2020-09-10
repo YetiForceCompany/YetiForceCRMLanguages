@@ -22,6 +22,6 @@
   "js": {
     "JS_CURRENCY_DELETED_SUCCESSFULLY": "Валюту успішно видалено.",
     "JS_CURRENCY_DETAILS_SAVED": "Деталі валюти збережено.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Попередження! Ця операція змінить валюту в багатьох місцях системи. Фінансові документи, видані до цієї зміни, можуть вимагати конвертації валют. Будь ласка, виконайте ручне перетворення валюти, якщо ці документи були випущені у їх виробничих версіях. Необхідний розрахунок курсів валют для решти валют."
   }
 }

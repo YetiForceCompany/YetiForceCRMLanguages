@@ -70,7 +70,7 @@
     "LBL_ADD_HELPDESK": "Thêm vé hỗ trợ",
     "LBL_ADD_PRODUCTS": "Thêm sản phẩm",
     "LBL_ADD_SERVICES": "Thêm dịch vụ",
-    "LBL_SEND_MASS_EMAIL": "Gửi email hàng loạt",
+    "LBL_SEND_MASS_EMAIL": "Gửi email",
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Số lượng được tìm thấy địa chỉ email",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Số hồ sơ được lựa chọn",
     "LBL_MINIMIZE_BAR": "Thu nhỏ thanh",
@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Thêm tài liệu",
     "LBL_ADD_TO_MY_CALENDAR": "Thêm vào lịch của tôi",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Đã xảy ra lỗi trong khi nhập liệu",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Tệp đã được nạp vào %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Thanh hành động không khả dụng"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Tệp tin đã được nhập vào. Số hồ sơ được nhập: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Thanh hành động không khả dụng",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Hồ sơ không có địa chỉ email",

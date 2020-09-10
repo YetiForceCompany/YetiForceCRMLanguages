@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Dodaj dokumenty",
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj do mojego kalendarza",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Wystąpił błąd podczas importowania",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Plik został zaimportowany %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Akcje paska nie są dostępne"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "Plik został zaimportowany. Liczba zaimportowanych rekordów: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Akcje paska nie są dostępne",
+    "LBL_TEMPLATES": "Szablony z CRM",
+    "LBL_MAIL_TEMPLATES": "Szablony wiadomości e-mail z CRM",
+    "LBL_FILE_FROM_CRM": "Wybierz plik z CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

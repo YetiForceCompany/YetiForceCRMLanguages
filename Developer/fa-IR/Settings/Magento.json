@@ -29,7 +29,7 @@
     "LBL_SYNC_INVOICES_TOOLTIP": "Sales invoices are synchronized only one way (from Magento to YetiForce).",
     "LBL_STORAGE_QUANTITY_LOCATION": "Storage quantity location",
     "LBL_STORAGE_QUANTITY_LOCATION_TOOLTIP": "Storage quantity location used to synchronize product quantities.\nThe option works only if storage is selected (the field above)",
-    "LBL_PRODUCT_IMAGES_PATH": "Magento product images path",
+    "LBL_PRODUCT_IMAGES_PATH": "مسیر تصاویر مجنتو",
     "LBL_PRODUCT_IMAGES_PATH_TOOLTIP": "Path to Magento images folder e.g. 'media/catalog/product/'",
     "LBL_PRODUCT_MAP_CLASS": "Product map class name",
     "LBL_PRODUCT_MAP_CLASS_TOOLTIP": "If you want to use custom field map you need to create new class in Maps/Custom. After that you need to change this value e.g. 'App\\Integrations\\Magento\\Synchronizer\\Maps\\Custom\\Product'",
@@ -47,6 +47,6 @@
     "LBL_PARAM_NOT_ALLOWED": "پارامتر مجاز نمی‌باشد",
     "LBL_VALUE_NOT_ALLOWED": "مقدار مجاز نمی‌باشد",
     "LBL_RELOAD_MESSAGE": "The data will be downloaded once again the next time cron is triggered",
-    "LBL_RELOAD_MAGENTO": "Restart synchronization"
+    "LBL_RELOAD_MAGENTO": "اجرای مجدد همگام‌سازی"
   }
 }

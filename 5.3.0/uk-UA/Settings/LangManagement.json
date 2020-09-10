@@ -31,7 +31,7 @@
     "LBL_LangPHP": "PHP Translation",
     "LBL_LangJS": "JS Translation",
     "LBL_NoTranslation": "--No Translation--",
-    "LBL_SaveTranslationError": "Error in saving",
+    "LBL_SaveTranslationError": "Помилка збереження",
     "LBL_UpdateTranslationOK": "Переклад оновлено",
     "LBL_AddTranslationOK": "New translation added",
     "LBL_DeleteTranslationOK": "Translation deleted",

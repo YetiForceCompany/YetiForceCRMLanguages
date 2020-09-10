@@ -1,0 +1,16 @@
+{
+  "php": {
+    "AdminAccess": "Accesso amministratore",
+    "LBL_ADMIN_ACCESS": "Accesso amministratore",
+    "LBL_PERMISSIONS": "Permessi",
+    "BTN_MASS_EDIT_ACCESS": "Modifica massiva",
+    "FL_MODULE_NAME": "Nome modulo",
+    "FL_ADMIN": "Amministratore",
+    "LBL_ACTIVE": "Attivo",
+    "LBL_EDIT_ADMIN_ACCESS": "Modifica degli accessi di amministrazione",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " "
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

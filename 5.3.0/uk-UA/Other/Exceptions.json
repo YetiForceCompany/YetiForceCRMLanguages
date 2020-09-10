@@ -12,9 +12,9 @@
     "ERR_USER_EXISTS": "Користувач з таким іменем і роллю вже існує (%s)",
     "ERR_NOT_ACCESSIBLE": "Доступ заборонено",
     "ERR_DUPLICATE_LOGIN": "Вказаний логін вже існує.",
-    "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "You don't have the permissions required to view/edit this record. Contact the administrator if you should have the permission to view it.",
+    "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "У Вас немає дозволів, необхідних для перегляду та редагування цього запису. Якщо у вас має бути дозвіл, зв’яжіться з адміністратором.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Variable (%s) content cannot be triggered as function",
-    "ERR_DUPLICATES_VALUES_FOUND": "Duplicated %s values found",
+    "ERR_DUPLICATES_VALUES_FOUND": "Знайдено дубльовані значення %s",
     "ERR_EXCEEDED_NUMBER_CHARACTERS": "Перевищено кількість символів",
     "ERR_SPECIAL_CHARACTERS_NOT_ALLOWED": "Спеціальні символи, такі як %s не допускаються",
     "ERR_CREATE_FILE_FAILURE": "Не вдалося створити файл",
@@ -35,7 +35,7 @@
     "ERR_API": "Помилка в API",
     "ERR_MODULE_DOES_NOT_EXIST": "Модуль %s не існує",
     "ERR_RECORD_NOT_FOUND": "Немає записів з ID: %s",
-    "ERR_NO_PERMISSIONS_TO_FIELD": "No permissions to the field",
+    "ERR_NO_PERMISSIONS_TO_FIELD": "Немає дозволу на поле",
     "ERR_NO_PERMITTED_TO_VIEW": "Немає прав для перегляду",
     "ERR_CURRENCY_TABLE_DOWNLOAD": "Помилка при завантаженні таблиці обмінних курсів.",
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Перевищення кількості ітерацій.",
@@ -45,6 +45,6 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Об'єкт повинен мати інтерфейс %s",
     "ERR_CLASS_NOT_FOUND": "Клас %s не знайдено",
     "ERR_CLASS_MUST_BE": "Клас має бути %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s платна функція, вам потрібно придбати її"
   }
 }

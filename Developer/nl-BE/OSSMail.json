@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Documenten toevoegen",
     "LBL_ADD_TO_MY_CALENDAR": "Aan mijn kalender toevoegen",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Er is een fout opgetreden tijdens het importeren",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Het bestand is geïmporteerd %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Balk acties zijn niet beschikbaar"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Balk acties zijn niet beschikbaar",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Record heeft geen e-mailadres",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "FInvoiceProforma": "Hoá đơn Pro-forma",
-    "SINGLE_FInvoiceProforma": "Hoá đơn Pro-forma",
+    "FInvoiceProforma": "Hóa đơn chiếu lệ",
+    "SINGLE_FInvoiceProforma": "Hóa đơn chiếu lệ",
     "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Địa chỉ giao hàng",
     "FL_SUBJECT": "Chủ đề",

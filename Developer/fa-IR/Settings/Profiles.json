@@ -91,9 +91,9 @@
     "ModTracker": "تغییر تاریخچه",
     "AssignToYourself": "به من اختصاص بده",
     "AutoAssignRecord": "انتقال خودکار رکوردها",
-    "RecordConventer": "Record converter",
+    "RecordConventer": "مبدل رکورد",
     "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "MeetingUrl": "URL جلسه"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "پروفایل با موفقیت حذف شد"

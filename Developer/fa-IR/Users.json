@@ -226,7 +226,7 @@
     "Default Event Status": "وضعیت رویداد پیش فرض",
     "Default Activity Type": "نوع فعالیت پیش فرض",
     "LBL_MENU_EXPANDED_BY_DEFAULT": "منوی به طور پیش فرض گسترده باشد",
-    "Row Height": "Row Height",
+    "Row Height": "ارتفاع ردیف",
     "Default Record View": "نمایش پیش‌فرض نما",
     "CRM Phone Extension": "داخلی تلفن CRM",
     "medium": "متوسط",
@@ -396,7 +396,8 @@
     "PLL_FULLTEXT_WORD": "واژه",
     "PLL_CONTAINS": "شامل",
     "PLL_STARTS_WITH": "شروع می شود با",
-    "PLL_ENDS_WITH": "به پایان می رسد با"
+    "PLL_ENDS_WITH": "به پایان می رسد با",
+    "FL_SUPER_USER": "Super user"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "جداکننده اعشاری و جدا کننده گروه بندی نمی تواند یکسان باشد.",

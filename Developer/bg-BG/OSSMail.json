@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Добави документ",
     "LBL_ADD_TO_MY_CALENDAR": "Добавяне в календара ми",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Възникна грешка при импортирането",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "Файлът е импортиран %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в лентата не са налични"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Действия в лентата не са налични",
+    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_MAIL_TEMPLATES": "Email templates from CRM",
+    "LBL_FILE_FROM_CRM": "Select a file from CRM"
   },
   "js": {
     "NoFindEmailInRecord": "Записът няма имейл адрес",

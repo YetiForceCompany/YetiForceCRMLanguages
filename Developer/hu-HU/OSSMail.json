@@ -79,8 +79,11 @@
     "LBL_ADD_DOCUMENTS": "Add documents",
     "LBL_ADD_TO_MY_CALENDAR": "Add to my calendar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "An error occurred during import",
-    "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported %s",
-    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available"
+    "LBL_FILE_HAS_BEEN_IMPORTED": "A fájlt importáltuk, az importált rekordok száma: %s",
+    "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Bar actions are not available",
+    "LBL_TEMPLATES": "Sablon a CRM-ből",
+    "LBL_MAIL_TEMPLATES": "E-mail sablon a CRM-ből",
+    "LBL_FILE_FROM_CRM": "Válassz fájlt a CRM-ből"
   },
   "js": {
     "NoFindEmailInRecord": "Record does not have email address",

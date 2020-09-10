@@ -3,10 +3,10 @@
     "ProductCategory": "Product category",
     "SINGLE_ProductCategory": "Product category",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "LBL_BASIC_INFORMATION": "Основна інформція",
     "FL_PARENT_CATEGORY": "Parent category",
-    "LBL_CHILD_PRODUCTCATEGORY": "Subcategories",
-    "FL_ACTIVE": "Active",
-    "FL_CATEGORY_NAME": "Category name"
+    "LBL_CHILD_PRODUCTCATEGORY": "Підкатегорії",
+    "FL_ACTIVE": "Активно",
+    "FL_CATEGORY_NAME": "Назва категорії"
   }
 }
