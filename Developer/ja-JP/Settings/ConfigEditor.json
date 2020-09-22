@@ -1,0 +1,25 @@
+{
+  "php": {
+    "ConfigEditor": "設定エディタ",
+    "LBL_DEFAULT_MODULE": "デフォルトモジュール",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "一覧表示での最大文字数",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "一覧表示でのページ毎の最大エントリ数",
+    "LBL_DEFAULT_LAYOUT": "レイアウト",
+    "LBL_SHOWING_BREADCRUMBS": "パンくずリストメニューを表示",
+    "LBL_TITLE_MAX_LENGTH": "タイトルの最大文字数 ",
+    "LBL_MINIMUM_CRON_FREQUENCY": "最小cron頻度 [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "一括編集の最大レコード数",
+    "LBL_BG_CLOSING_MODAL": "背景をクリックしてモーダルウィンドウを閉じることを有効にする",
+    "LBL_HREF_MAX_LEGTH": "Href タグの最大長さ",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "ログインページに言語の選択を表示する",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "ログインページにレイアウトの選択を表示",
+    "LBL_CONFIG_EDITOR": "システム – 設定",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "アプリケーションの設定ファイルを更新",
+    "LBL_MAX_UPLOAD_SIZE": "最大アップロードサイズ",
+    "LBL_MB": "MB"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "設定の詳細が保存されました",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "値を1から100の間で入力してください"
+  }
+}

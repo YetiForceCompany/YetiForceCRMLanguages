@@ -1,0 +1,39 @@
+{
+  "php": {
+    "MailRbl": "Serwery poczty RBL",
+    "LBL_MAIL_RBL": "Serwery poczty RBL",
+    "LBL_MAIL_RBL_DESCRIPTION": "Skonfiguruj serwery e-mail RBL, aby wykryć spam i zdefiniować zaufanych nadawców.",
+    "BTN_SEND_SPAM_REQUEST": "Wyślij raport spamu",
+    "LBL_REQUEST_LIST": "Lista raportów",
+    "LBL_BLACK_LIST": "Czarna lista",
+    "LBL_WHITE_LIST": "Biała lista",
+    "LBL_PUBLIC_RBL": "Publiczne RBL",
+    "LBL_FOR_VERIFICATION": "Do weryfikacji",
+    "LBL_ACCEPTED": "Zaakceptowane",
+    "LBL_REJECTED": "Odrzucony",
+    "LBL_ACTIVE": "Aktywny",
+    "LBL_CANCELED": "Anulowane",
+    "LBL_SENDER": "Nadawca",
+    "LBL_RECIPIENT": "Odbiorca",
+    "LBL_LIST_TYPE": "Rodzaj listy",
+    "LBL_IP": "Adres IP",
+    "FL_BASE_USER": "Użytkownik podstawowy",
+    "LBL_MAIL_MESSAGE_DETAILS": "Szczegóły wiadomości mail",
+    "LBL_MAIL_HEADERS": "Nagłówki e-mail",
+    "LBL_MAIL_CONTENT": "Treść e-maila",
+    "LBL_SERVER_NAME_FROM": "Nazwa serwera, którą nadał sobie komputer wysyłający (często nazwa oprogramowania wysyłającego)",
+    "LBL_SERVER_NAME_BY": "Nazwa serwera, którą nadał sobie komputer odbiorcy (często nazwa oprogramowania wysyłającego, w przypadku braku nadawcy, wiadomość jest przekazywana wewnętrznie)",
+    "LBL_SERVER_HOST_NAME_FROM": "Serwer hosta nadawcy",
+    "LBL_SERVER_HOST_NAME_BY": "Nazwa hosta odbiorcy",
+    "LBL_SERVER_IP_FROM": "Adres IP nadawcy",
+    "LBL_SERVER_IP_BY": "Adres IP odbiorcy",
+    "LBL_SERVER_COMMENTS": "Komentarz",
+    "LBL_PROTOCOL": "Protokół"
+  },
+  "js": {
+    "BTN_SHOW_DETAILS": "Pokaż szczegóły",
+    "BTN_STATUS_ACTION_ACCEPT": "Akceptuj",
+    "BTN_STATUS_ACTION_REJECT": "Odrzuć",
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Wyślij raport spamu"
+  }
+}

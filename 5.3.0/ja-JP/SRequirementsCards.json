@@ -1,7 +1,7 @@
 {
   "php": {
-    "SRequirementsCards": "Sales requirements",
-    "SINGLE_SRequirementsCards": "Sales requirement",
+    "SRequirementsCards": "販売条件",
+    "SINGLE_SRequirementsCards": "販売条件",
     "LBL_SREQUIREMENTSCARDS_INFORMATION": "Basic information",
     "LBL_CUSTOM_INFORMATION": "System information",
     "LBL_DESCRIPTION_INFORMATION": "Description details",

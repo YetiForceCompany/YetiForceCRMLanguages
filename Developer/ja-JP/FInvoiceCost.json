@@ -19,7 +19,7 @@
     "FL_PAYMENT_STATUS": "支払ステータス",
     "FL_INVOICE_TYPE": "請求書タイプ",
     "FL_CATEGORY": "カテゴリー",
-    "PLL_AWAITING_PAYMENT": "Awaiting payment",
+    "PLL_AWAITING_PAYMENT": "お支払い待ち",
     "PLL_PARTIALLY_PAID": "Partially paid",
     "PLL_FULLY_PAID": "Fully paid",
     "PLL_DOMESTIC_INVOICE": "Domestic invoice",

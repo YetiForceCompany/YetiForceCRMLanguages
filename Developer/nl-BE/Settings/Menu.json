@@ -50,7 +50,7 @@
     "LBL_COPY_MENU": "Copy menu"
   },
   "js": {
-    "JS_EDIT": "Edit",
+    "JS_EDIT": "Bewerken",
     "JS_REMOVE": "Remove",
     "JS_NO_DATA": "No menu",
     "JS_TEST_HOTKEY_OK": "Hot key works properly."

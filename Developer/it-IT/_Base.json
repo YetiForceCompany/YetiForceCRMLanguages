@@ -1469,7 +1469,8 @@
     "LBL_SENT": "Inviato",
     "LBL_RELATION_NOT_FOUND": "Relazione non trovata",
     "LBL_RELATED_RECORD": "Registro correlato",
-    "LBL_SOURCE_RECORD": "Registro sorgente"
+    "LBL_SOURCE_RECORD": "Registro sorgente",
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Vai alla documentazione di YetiForce"
   },
   "js": {
     "JS_APPROVE": "Approva",

@@ -1,7 +1,7 @@
 {
 	"php": {
-		"SSingleOrders": "Sales Orders",
-		"SINGLE_SSingleOrders": "Sales Order",
+		"SSingleOrders": "受注書",
+		"SINGLE_SSingleOrders": "受注書",
 		"LBL_SSINGLEORDERS_INFORMATION": "Basic information",
 		"LBL_CUSTOM_INFORMATION": "System information",
 		"LBL_DESCRIPTION_INFORMATION": "Description details",
@@ -37,7 +37,7 @@
 		"PLL_PAID": "Paid",
 		"PLL_OVERPAID": "Over paid",
 		"PLL_UNDERPAID": "Underpaid",
-		"FL_PARENT_SSINGLEORDERS": "Parent sales order",
+		"FL_PARENT_SSINGLEORDERS": "親の販売注文",
 		"FL_MAGENTO_STATUS": "Magento status",
 		"PLL_PENDING": "Pending",
 		"PLL_PENDING_PAYMENT": "Pending payment",

@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Competition",
-    "SINGLE_Competition": "Competitor",
-    "LBL_COMPETITION_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Name",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "Competition": "競合他社",
+    "SINGLE_Competition": "競合他社",
+    "LBL_COMPETITION_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_SUBJECT": "名前",
+    "LBL_NUMBER": "番号",
+    "LBL_CLOSED_TIME": "終了日時",
+    "LBL_VAT_ID": "税 ID",
+    "LBL_SHOW_HIERARCHY": "階層",
+    "LBL_PARENT_ID": "競合他社の親"
   }
 }

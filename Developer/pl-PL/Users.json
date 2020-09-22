@@ -397,7 +397,8 @@
     "PLL_CONTAINS": "Zawiera",
     "PLL_STARTS_WITH": "Rozpoczyna się od",
     "PLL_ENDS_WITH": "Kończy się na",
-    "FL_SUPER_USER": "Super użytkownik"
+    "FL_SUPER_USER": "Super użytkownik",
+    "LBL_VISIT_PURPOSE_INFO": "Podaj cel wizyty"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separator dziesiętny i grupowania nie mogą być takie same",

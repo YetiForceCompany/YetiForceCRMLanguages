@@ -397,7 +397,8 @@
     "PLL_CONTAINS": "Tartalmazza",
     "PLL_STARTS_WITH": "Így kezdődik",
     "PLL_ENDS_WITH": "Ezzel ér véget",
-    "FL_SUPER_USER": "Super user"
+    "FL_SUPER_USER": "Super user",
+    "LBL_VISIT_PURPOSE_INFO": "Enter visit purpose"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimal separator and grouping separator can't be the same.",

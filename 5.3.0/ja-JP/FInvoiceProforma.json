@@ -13,8 +13,8 @@
     "FL_NUMBER": "Invoice number",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Gross",
-    "PLL_CASH": "Cash",
-    "PLL_TRANSFER": "Bank transfer",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_CASH": "現金",
+    "PLL_TRANSFER": "銀行振込",
+    "PLL_WIRE_TRANSFER": "電子送金"
   }
 }

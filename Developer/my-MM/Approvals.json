@@ -5,12 +5,12 @@
     "LBL_CUSTOM_INFORMATION": "Custom Information",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
+    "FL_NAME": "အမည်",
+    "FL_APPROVALS_STATUS": "အခြေအနေ",
+    "FL_DESCRIPTION": "ဖော်ပြချက်",
+    "FL_NUMBER": "နံပါတ်",
     "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_ACTIVE": "လက်ရှိ အသက်ဝင်နေသည်",
+    "PLL_INACTIVE": "လက်ရှိ အသက်ဝင် မနေပါ"
   }
 }

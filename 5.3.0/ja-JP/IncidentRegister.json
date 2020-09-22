@@ -24,10 +24,10 @@
     "LBL_BREACH_CIRCUMSTANCES": "Breach circumstances",
     "FL_BREACH_CIRCUMSTANCES": "Breach circumstances",
     "LBL_NATURE_OF_BREACH": "Nature of breach",
-    "FL_NATURE_OF_BREACH": "Nature of breach",
-    "LBL_POSSIBLE_CONSEQUENCES": "Possible consequences",
-    "FL_POSSIBLE_CONSEQUENCES": "Possible consequences",
-    "LBL_SECURITY_MEASURES": "Applied security measures",
-    "FL_SECURITY_MEASURES": "Applied security measures"
+    "FL_NATURE_OF_BREACH": "違反の性質",
+    "LBL_POSSIBLE_CONSEQUENCES": "考えられる結果",
+    "FL_POSSIBLE_CONSEQUENCES": "考えられる結果",
+    "LBL_SECURITY_MEASURES": "適用されたセキュリティ対策",
+    "FL_SECURITY_MEASURES": "適用されたセキュリティ対策"
   }
 }

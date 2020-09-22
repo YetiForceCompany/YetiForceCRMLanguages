@@ -2,7 +2,7 @@
   "php": {
     "SSalesProcesses": "Sales processes",
     "SINGLE_SSalesProcesses": "Sales process",
-    "LBL_SSALESPROCESSES_INFORMATION": "Basic information",
+    "LBL_SSALESPROCESSES_INFORMATION": "Algemeen",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
     "LBL_ATTENTION": "Opmerkingen",

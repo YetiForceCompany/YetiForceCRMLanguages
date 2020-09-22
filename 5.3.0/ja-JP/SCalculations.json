@@ -1,7 +1,7 @@
 {
   "php": {
-    "SCalculations": "Calculations",
-    "SINGLE_SCalculations": "Calculation",
+    "SCalculations": "計算",
+    "SINGLE_SCalculations": "計算",
     "LBL_SCALCULATIONS_INFORMATION": "基本情報",
     "LBL_CUSTOM_INFORMATION": "システム情報",
     "LBL_DESCRIPTION_INFORMATION": "説明の詳細",

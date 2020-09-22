@@ -2,7 +2,7 @@
   "php": {
     "SSingleOrders": "Single orders",
     "SINGLE_SSingleOrders": "Single order",
-    "LBL_SSINGLEORDERS_INFORMATION": "Basic information",
+    "LBL_SSINGLEORDERS_INFORMATION": "Algemeen",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
     "LBL_STATISTICS": "Statistics",

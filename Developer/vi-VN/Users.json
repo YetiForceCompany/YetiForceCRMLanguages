@@ -397,7 +397,8 @@
     "PLL_CONTAINS": "Chứa",
     "PLL_STARTS_WITH": "Bắt đầu với",
     "PLL_ENDS_WITH": "Kết thúc với",
-    "FL_SUPER_USER": "Super user"
+    "FL_SUPER_USER": "Super user",
+    "LBL_VISIT_PURPOSE_INFO": "Enter visit purpose"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dấu phân tách thập phân và tách nhóm không thể trùng nhau.",

@@ -1,6 +1,6 @@
 {
   "php": {
-    "SSalesProcesses": "Opportunities",
+    "SSalesProcesses": "案件",
     "SINGLE_SSalesProcesses": "Opportunity",
     "LBL_SSALESPROCESSES_INFORMATION": "Basic information",
     "LBL_CUSTOM_INFORMATION": "System information",
@@ -36,7 +36,7 @@
     "PLL_NEW_SALES": "New sales",
     "PLL_RENEWAL": "Renewal",
     "PLL_AFTERSALES": "Aftersales",
-    "PLL_TENDER": "Tender",
+    "PLL_TENDER": "入札",
     "PLL_DRAFT": "Draft",
     "PLL_FOR_REALIZATION": "For realization",
     "PLL_QUOTE_ENQUIRY": "Quote enquiry",

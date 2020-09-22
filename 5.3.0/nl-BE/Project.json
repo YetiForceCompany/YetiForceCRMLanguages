@@ -1,7 +1,7 @@
 {
   "php": {
     "SINGLE_Project": "Project",
-    "LBL_RECORDS_LIST": "Lijstweergave",
+    "LBL_RECORDS_LIST": "Projects List",
     "LBL_PROJECT_INFORMATION": "Project Details",
     "Project Name": "Project Name",
     "Start Date": "Start Date",

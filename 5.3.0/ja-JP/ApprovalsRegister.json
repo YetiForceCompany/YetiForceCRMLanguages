@@ -1,22 +1,22 @@
 {
   "php": {
-    "ApprovalsRegister": "Approvals register",
-    "SINGLE_ApprovalsRegister": "Approval Register",
+    "ApprovalsRegister": "承認登録",
+    "SINGLE_ApprovalsRegister": "承認登録",
     "LBL_CUSTOM_INFORMATION": "カスタム情報",
     "LBL_BASIC_INFORMATION": "基本情報",
     "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
-    "FL_SUBJECT": "Subject",
+    "FL_SUBJECT": "件名",
     "FL_APPROVALS_STATUS": "ステータス",
     "FL_DESCRIPTION": "説明",
-    "FL_CONTACT": "Contact",
+    "FL_CONTACT": "お問い合わせ",
     "FL_APPROVAL": "承認",
     "FL_TYPE": "タイプ",
     "FL_STATUS": "ステータス",
     "FL_REGISTRATION_DATE": "登録日",
-    "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_ACCEPTED": "Accepted",
-    "PLL_REJECTED": "Rejected",
-    "PLL_ACCEPTANCE": "Acceptance",
-    "PLL_RESIGNATION": "Resignation"
+    "PLL_FOR_VERIFICATION": "検証用",
+    "PLL_ACCEPTED": "承認済み",
+    "PLL_REJECTED": "拒否",
+    "PLL_ACCEPTANCE": "承諾",
+    "PLL_RESIGNATION": "辞任"
   }
 }

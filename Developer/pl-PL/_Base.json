@@ -1469,7 +1469,8 @@
     "LBL_SENT": "Wysłano",
     "LBL_RELATION_NOT_FOUND": "Nie znaleziono relacji",
     "LBL_RELATED_RECORD": "Powiązany rekord",
-    "LBL_SOURCE_RECORD": "Rekord źródłowy"
+    "LBL_SOURCE_RECORD": "Rekord źródłowy",
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Przejdź do dokumentacji YetiForce"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

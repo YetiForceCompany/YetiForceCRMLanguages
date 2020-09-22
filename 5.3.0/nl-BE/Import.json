@@ -18,7 +18,7 @@
     "LBL_FILL_EMPTY": "Vul in (werk alleen lege velden in het record bij, wijzig bestaande waarden niet)",
     "LBL_IMPORT_STEP_1": "Stap 1",
     "LBL_IMPORT_STEP_1_DESCRIPTION": "Selecteer bestand",
-    "LBL_IMPORT_SUPPORTED_FILE_TYPES": "\tOndersteund bestandstype(s)",
+    "LBL_IMPORT_SUPPORTED_FILE_TYPES": "\tOndersteunde bestandstype(s)",
     "LBL_IMPORT_STEP_2": "Stap 2",
     "LBL_IMPORT_STEP_2_DESCRIPTION": "Specifier formaat",
     "LBL_FILE_TYPE": "Bestandstype",

@@ -2,7 +2,7 @@
   "php": {
     "SRequirementsCards": "Requirements Cards",
     "SINGLE_SRequirementsCards": "Requirements Card",
-    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Basic information",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Algemeen",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
     "LBL_STATISTICS": "Statistics",

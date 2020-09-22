@@ -31,7 +31,7 @@
     "Inactive": "Inactive",
     "Other Po Box": "Additional address: PO box",
     "Mailing Po Box": "Primary address: PO box",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "ပင်မလိပ်စာ",
     "LBL_CONTACT_INFO": "Contact information",
     "Approval for phone calls": "Permission to call",
     "Approval for email": "Permission to send emails",
@@ -47,10 +47,10 @@
     "LBL_SHOW_HIERARCHY": "Contact hierarchy",
     "FL_APPROVALS": "Approvals",
     "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "FL_GENDER": "လိင်အမျိုးအစား",
+    "PLL_WOMAN": "အမျိုးသမီး",
+    "PLL_MAN": "အမျိုးသား",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "ယခု အီးမေးလိပ်စာနှင့် အဆက်အသွယ် တစ်ယောက် စနစ်ထဲတွင် ရှိပြီး ဖြစ်နေသည်။"
   },
   "js": {}
 }

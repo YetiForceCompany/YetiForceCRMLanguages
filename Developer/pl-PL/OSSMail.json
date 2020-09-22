@@ -83,7 +83,12 @@
     "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Akcje paska nie są dostępne",
     "LBL_TEMPLATES": "Szablony z CRM",
     "LBL_MAIL_TEMPLATES": "Szablony wiadomości e-mail z CRM",
-    "LBL_FILE_FROM_CRM": "Wybierz plik z CRM"
+    "LBL_FILE_FROM_CRM": "Wybierz plik z CRM",
+    "LBL_BLACK_LIST": "Czarna lista",
+    "LBL_BLACK_LIST_DESC": "Dodaj adresata do czarnej listy, e-mail zostanie oznaczony jako spam i przeniesiony do folderu spam.",
+    "LBL_WHITE_LIST": "Biała lista",
+    "LBL_WHITE_LIST_DESC": "Dodaj adresata do białej listy, e-mail zostanie oznaczony jako zaufany.",
+    "LBL_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została wysłana"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

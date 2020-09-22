@@ -2,7 +2,7 @@
   "php": {
     "ActivityRegister": "Activiteitenregistratie",
     "SINGLE_ActivityRegister": "Activiteitenregistratie",
-    "LBL_BASIC_INFORMATION": "Basis informatie",
+    "LBL_BASIC_INFORMATION": "Algemeen",
     "FL_SUBJECT": "Onderwerp",
     "FL_PARENT_ACTIVITY": "Bovenliggende activiteit",
     "FL_STATUS": "Status",

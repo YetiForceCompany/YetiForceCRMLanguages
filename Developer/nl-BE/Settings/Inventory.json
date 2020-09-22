@@ -9,7 +9,7 @@
     "LBL_NAME": "Name",
     "LBL_STATUS_DESC": "Select to activate",
     "LBL_NAME_EXIST": "This name already exists.",
-    "LBL_EDITING": "Edit",
+    "LBL_EDITING": "Bewerken",
     "LBL_TAXES": "Taxes – Rates",
     "LBL_TAXES_DESCRIPTION": " ",
     "LBL_TAXES_SINGLE": "Tax",
@@ -47,7 +47,7 @@
   "js": {
     "JS_SAVE_CHANGES": "Wijzigingen met succes opgeslagen.",
     "JS_DELETE_INVENTORY_CONFIRMATION": "Weet u zeker dat u deze waarde wilt verwijderen?",
-    "JS_EDIT": "Wijzigen",
+    "JS_EDIT": "Bewerken",
     "JS_DELETE": "Verwijder",
     "JS_YES": "Ja",
     "JS_NO": "Nee"

@@ -397,7 +397,8 @@
     "PLL_CONTAINS": "Enthält",
     "PLL_STARTS_WITH": "Beginnt mit",
     "PLL_ENDS_WITH": "Endet mit",
-    "FL_SUPER_USER": "Super user"
+    "FL_SUPER_USER": "Superuser",
+    "LBL_VISIT_PURPOSE_INFO": "Besuchszweck eingeben"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dezimaltrennzeichen und Zifferngruppierungs-Trennzeichen darf nicht gleich sein",

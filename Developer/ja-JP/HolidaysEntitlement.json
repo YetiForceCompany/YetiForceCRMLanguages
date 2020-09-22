@@ -1,12 +1,12 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
+    "HolidaysEntitlement": "年末年始資格取得日",
+    "SINGLE_HolidaysEntitlement": "年末年始資格取得日",
     "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "カスタム情報",
     "LBL_CUSTOM_INFORMATION": "システム情報",
-    "LBL_YEAR": "Year",
-    "LBL_DAYS": "Number of holidays",
+    "LBL_YEAR": "年",
+    "LBL_DAYS": "休暇の数",
     "LBL_EMPLOYEE": "従業員",
-    "LBL_NUMBER": "Number"
+    "LBL_NUMBER": "番号"
   }
 }

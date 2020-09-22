@@ -108,8 +108,8 @@
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 24,
-        "time": "2020-07-28 13:23:47"
+        "progress": 42,
+        "time": "2020-09-22 09:03:21"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -123,14 +123,14 @@
         "crowdinCode": "my",
         "name": "Burmese",
         "progress": 5,
-        "time": "2020-08-10 10:36:19"
+        "time": "2020-09-22 08:54:56"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
-        "progress": 20,
-        "time": "2020-08-31 08:08:30"
+        "progress": 22,
+        "time": "2020-09-22 08:58:55"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -158,7 +158,7 @@
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 76,
-        "time": "2020-08-10 10:49:29"
+        "time": "2020-09-22 09:06:46"
     },
     "pt-PT": {
         "prefix": "pt-PT",

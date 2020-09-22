@@ -2,7 +2,7 @@
   "php": {
     "LocationRegister": "Locatie register",
     "SINGLE_LocationRegister": "Locatie register",
-    "LBL_BASIC_INFORMATION": "Basisinformatie",
+    "LBL_BASIC_INFORMATION": "Algemeen",
     "FL_NAME": "Naam",
     "FL_PARENT_LOCATION": "Bovenliggende locatie",
     "PLL_DRAFT": "Concept",

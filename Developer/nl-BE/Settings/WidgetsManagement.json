@@ -15,7 +15,7 @@
     "LBL_ADD_CONDITION": "Add role",
     "LBL_INVALID_DATA": "Invalid data",
     "WidgetsManagement": "Widget management",
-    "LBL_WIDGETS_MANAGEMENT": "Dashboard - Widgets",
+    "LBL_WIDGETS_MANAGEMENT": "Overzicht - Widgets",
     "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": "Description",
     "LBL_MANDATORY_WIDGET": "Mandatory widget",
     "LBL_WIDGET": "Widgets",
@@ -42,8 +42,8 @@
     "PLL_CURRENT_WEEK": "Current week",
     "PLL_CURRENT_MONTH": "Current month",
     "PLL_CURRENT_YEAR": "Current year",
-    "LBL_SAVE_DASHBOARD": "Save dashboard",
-    "LBL_NAME_DASHBOARD": "Dashboard name"
+    "LBL_SAVE_DASHBOARD": "Overzicht opslaan",
+    "LBL_NAME_DASHBOARD": "Naam Overzicht"
   },
   "js": {
     "JS_BLOCK_ADDED": "Block has been added successfully",

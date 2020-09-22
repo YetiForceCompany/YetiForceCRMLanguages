@@ -2,24 +2,24 @@
   "php": {
     "LBL_SALES_PROCESSES": "Sales",
     "LBL_SALES_PROCESSES_DESCRIPTION": " ",
-    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limit the choice of products\/services only to the ones related to currently selected Opportunity. Applies to modules: Quote Enquiries, Sales requirements, Calculations, Quotes, Purchase Orders, Recurring Sales Orders.",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "現在選択されている商談に関連するものにのみ製品\/サービスの選択を制限します。 次のモジュールに適用されます。見積書のお問い合わせ、販売条件、計算、見積書、注文書、定期的な販売注文。",
     "LBL_PRODUCTS_AND_SERVICES_POPUP": "Products and Services selection list",
     "LBL_UPDATE_SHARED_PERMISSIONS": "Updates sharing permissions from product\/service in opportunity when relation between opportunity and product\/service is created.",
     "LBL_STATUSES_CLOSED_CALCULATION": "Statuses determining that calculation is closed",
-    "LBL_POTENTIALS": "Opportunities",
+    "LBL_POTENTIALS": "案件",
     "LBL_STATUSES_CLOSED_POTENTIAL": "Statuses determining that opportunity is closed",
     "LBL_ASSETS": "Sold products",
     "LBL_STATUSES_CLOSED_ASSETS": "Statuses determining that sold product is closed",
-    "LBL_CREATE_POTENTIALS": "Blocked the creation of Opportunities for Accounts in which Assigned To is not a user",
+    "LBL_CREATE_POTENTIALS": "割り当て先がユーザーではないアカウントの商談の作成をブロックしました",
     "SalesProcesses": "Sales processes",
-    "LBL_SQUOTEENQUIRIES": "Sales enquiries",
-    "LBL_SREQUIREMENTSCARD": "Sales Requirements",
-    "LBL_SCALCULATIONS": "Calculations",
-    "LBL_SQUOTES": "Quotes",
+    "LBL_SQUOTEENQUIRIES": "販売に関するお問い合わせ",
+    "LBL_SREQUIREMENTSCARD": "販売条件",
+    "LBL_SCALCULATIONS": "計算",
+    "LBL_SQUOTES": "見積書",
     "LBL_SSALESORDER": "Sales Order",
     "LBL_STATUSES_CLOSED_SSALESORDER": "Statuses that define closing a sales order",
     "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Statuses that define closing a quote enquiry",
-    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Statuses that define closing a sales requirements",
-    "LBL_STATUSES_CLOSED_SQUOTES": "Statuses that define closing a quote"
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "販売条件の終了を定義するステータス",
+    "LBL_STATUSES_CLOSED_SQUOTES": "見積もりを閉じることを定義するステータス"
   }
 }

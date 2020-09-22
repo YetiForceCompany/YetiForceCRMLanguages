@@ -1,0 +1,39 @@
+{
+  "php": {
+    "MailRbl": "RBL mail servers",
+    "LBL_MAIL_RBL": "RBL mail servers",
+    "LBL_MAIL_RBL_DESCRIPTION": "Configure RBL email servers to detect spam and define trusted senders.",
+    "BTN_SEND_SPAM_REQUEST": "Send a spam report",
+    "LBL_REQUEST_LIST": "Reports list",
+    "LBL_BLACK_LIST": "Black list",
+    "LBL_WHITE_LIST": "White list",
+    "LBL_PUBLIC_RBL": "Public RBLs",
+    "LBL_FOR_VERIFICATION": "For verification",
+    "LBL_ACCEPTED": "Accepted",
+    "LBL_REJECTED": "Rejected",
+    "LBL_ACTIVE": "Active",
+    "LBL_CANCELED": "Canceled",
+    "LBL_SENDER": "Sender",
+    "LBL_RECIPIENT": "Recipient",
+    "LBL_LIST_TYPE": "List type",
+    "LBL_IP": "IP address",
+    "FL_BASE_USER": "Base user",
+    "LBL_MAIL_MESSAGE_DETAILS": "Mail message details",
+    "LBL_MAIL_HEADERS": "Mail headers",
+    "LBL_MAIL_CONTENT": "Mail content",
+    "LBL_SERVER_NAME_FROM": "Il nome del server che il computer di invio ha dato per sé (spesso il nome del software di invio)",
+    "LBL_SERVER_NAME_BY": "Il nome del server che il computer destinatario ha dato per sé (spesso il nome del software di invio, se non c'è mittente, il messaggio viene passato internamente)",
+    "LBL_SERVER_HOST_NAME_FROM": "Server host mittente",
+    "LBL_SERVER_HOST_NAME_BY": "Nome host destinatario",
+    "LBL_SERVER_IP_FROM": "IP Mittente",
+    "LBL_SERVER_IP_BY": "IP Destinatario",
+    "LBL_SERVER_COMMENTS": "Commento",
+    "LBL_PROTOCOL": "Protocollo"
+  },
+  "js": {
+    "BTN_SHOW_DETAILS": "Show details",
+    "BTN_STATUS_ACTION_ACCEPT": "Accept",
+    "BTN_STATUS_ACTION_REJECT": "Reject",
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Send a spam report"
+  }
+}

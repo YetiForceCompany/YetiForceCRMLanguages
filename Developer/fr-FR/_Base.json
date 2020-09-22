@@ -1469,7 +1469,8 @@
     "LBL_SENT": "Envoyé",
     "LBL_RELATION_NOT_FOUND": "Relation introuvable",
     "LBL_RELATED_RECORD": "Enregistrement associé",
-    "LBL_SOURCE_RECORD": "Enregistrement source"
+    "LBL_SOURCE_RECORD": "Enregistrement source",
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation"
   },
   "js": {
     "JS_APPROVE": "Approuver",

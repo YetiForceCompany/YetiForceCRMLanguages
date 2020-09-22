@@ -1,7 +1,7 @@
 {
   "php": {
-    "SQuoteEnquiries": "Sales enquiries",
-    "SINGLE_SQuoteEnquiries": "Sales enquiry",
+    "SQuoteEnquiries": "販売に関するお問い合わせ",
+    "SINGLE_SQuoteEnquiries": "販売に関するお問い合わせ",
     "LBL_QUOTESENQUIRES_INFORMATION": "基本情報",
     "LBL_CUSTOM_INFORMATION": "システム情報",
     "LBL_DESCRIPTION_INFORMATION": "説明の詳細",

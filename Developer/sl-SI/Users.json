@@ -397,7 +397,8 @@
     "PLL_CONTAINS": "Vsebuje",
     "PLL_STARTS_WITH": "Se začne z",
     "PLL_ENDS_WITH": "Konča z",
-    "FL_SUPER_USER": "Super user"
+    "FL_SUPER_USER": "Super user",
+    "LBL_VISIT_PURPOSE_INFO": "Enter visit purpose"
   },
   "js": {
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimalno ločilo in ločilo za združevanje ne smeta biti enaki.",

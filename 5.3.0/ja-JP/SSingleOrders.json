@@ -1,7 +1,7 @@
 {
   "php": {
-    "SSingleOrders": "Sales Orders",
-    "SINGLE_SSingleOrders": "Sales Order",
+    "SSingleOrders": "受注書",
+    "SINGLE_SSingleOrders": "受注書",
     "LBL_SSINGLEORDERS_INFORMATION": "Basic information",
     "LBL_CUSTOM_INFORMATION": "System information",
     "LBL_DESCRIPTION_INFORMATION": "Description details",

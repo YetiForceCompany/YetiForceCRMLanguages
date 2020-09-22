@@ -12,6 +12,6 @@
     "FL_NUMBER": "Invoice number",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Gross",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_WIRE_TRANSFER": "電子送金"
   }
 }

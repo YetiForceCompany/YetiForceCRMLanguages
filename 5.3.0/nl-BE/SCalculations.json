@@ -2,7 +2,7 @@
   "php": {
     "SCalculations": "Calculations",
     "SINGLE_SCalculations": "Calculation",
-    "LBL_SCALCULATIONS_INFORMATION": "Basic information",
+    "LBL_SCALCULATIONS_INFORMATION": "Algemeen",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
     "LBL_STATISTICS": "Statistics",

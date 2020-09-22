@@ -17,13 +17,13 @@
     "FL_MOBILE": "電話（副）",
     "FL_FAX": "FAX",
     "FL_VATID": "税金番号",
-    "FL_COMPANY_ID1": "Business Registration Number",
+    "FL_COMPANY_ID1": "ビジネス登録番号",
     "FL_COMPANY_ID2": "NCR",
-    "FL_INTERNAL_NOTES": "Internal notes",
-    "FL_PUBLIC_NOTES": "Public notes",
+    "FL_INTERNAL_NOTES": "内部メモ",
+    "FL_PUBLIC_NOTES": "公開ノート",
     "PLL_ACTIVE": "有効",
     "PLL_INACTIVE": "無効",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_SHOW_HIERARCHY": "階層",
     "FL_WEBSITE": "Webサイト",
     "FL_LOGO": "ロゴ"
   }

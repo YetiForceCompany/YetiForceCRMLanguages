@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Logged out automatically due to no activity",
     "ERR_FIELD_NOT_FOUND": "Field not found (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Número de argumentos não permitidos (%d %s em %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Nenhum valor em %s",
     "ERR_BODY_IS_EMPTY": "Corpo está vazio",
     "ERR_API": "Error in API",
     "ERR_MODULE_DOES_NOT_EXIST": "Module %s does not exist",

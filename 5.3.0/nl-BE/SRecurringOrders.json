@@ -2,7 +2,7 @@
   "php": {
     "SRecurringOrders": "Periodically recurring orders",
     "SINGLE_SRecurringOrders": "Periodically recurring order",
-    "LBL_SRECURRINGORDERS_INFORMATION": "Basic information",
+    "LBL_SRECURRINGORDERS_INFORMATION": "Algemeen",
     "LBL_CUSTOM_INFORMATION": "System Information",
     "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
     "LBL_STATISTICS": "Statistics",
