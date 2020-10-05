@@ -60,7 +60,8 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "Кількість записів",
     "LBL_LIST_WITH_SUMMARY": "Список із зведенням",
-    "LBL_CURRENT_HISTORY_SWITCH": "Поточний/Історія"
+    "LBL_CURRENT_HISTORY_SWITCH": "Поточний/Історія",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Завантаження...",

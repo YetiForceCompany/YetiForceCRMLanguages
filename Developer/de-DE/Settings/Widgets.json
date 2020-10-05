@@ -60,7 +60,8 @@
     "UpdatesList": "Feldverlauf und -dauer Zusammenfassung",
     "CountRecords": "Anzahl Datensätze",
     "LBL_LIST_WITH_SUMMARY": "Liste mit der Zusammenfassung",
-    "LBL_CURRENT_HISTORY_SWITCH": "Aktuell/Verlauf"
+    "LBL_CURRENT_HISTORY_SWITCH": "Aktuell/Verlauf",
+    "RelatedModuleChart": "Ähnliches Modul - Diagramm"
   },
   "js": {
     "Loading data": "Laden...",

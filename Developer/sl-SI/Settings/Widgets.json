@@ -60,7 +60,8 @@
     "UpdatesList": "Zgodovina polja in povzetek trajanja",
     "CountRecords": "Število zapisov",
     "LBL_LIST_WITH_SUMMARY": "Seznam z povzetkom",
-    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Loading...",

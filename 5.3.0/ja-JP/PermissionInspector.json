@@ -2,7 +2,7 @@
   "php": {
     "PermissionInspector": "Permission Inspector",
     "LBL_INSPECTION_PERMISSION_HEADER": "Permission Inspector",
-    "LBL_FULL_USER_NAME": "User",
+    "LBL_FULL_USER_NAME": "ユーザー",
     "LBL_VIEW_PRVILIGE": "View",
     "LBL_CREATE_PRIVILIGE": "Create",
     "LBL_EDIT_PRIVILIGE": "Edit",

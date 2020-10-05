@@ -60,7 +60,8 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "记录数量",
     "LBL_LIST_WITH_SUMMARY": "带有摘要的列表",
-    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "正在加载...",

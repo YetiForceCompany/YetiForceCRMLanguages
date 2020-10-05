@@ -1,12 +1,12 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Nedovoljena vrednost",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script physically exists but doesn't contain imported function name.",
-    "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
-    "ERR_ILLEGAL_FIELD_VALUE": "Illegal value has been entered for this field type. Field name: %s, Module: %s, Value: %s",
-    "ERR_VALUE_IS_TOO_LONG": "Character limit exceeded. Field name: %s, Module: %s, Value: %s",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skript fizično obstaja, vendar ne vsebuje uvoženega imena funkcije.",
+    "ERR_FAILED_TO_SAVE_SCRIPT": "Datoteke skripta za metode poteka dela (workflow) ni bilo mogoče shraniti.",
+    "ERR_ILLEGAL_FIELD_VALUE": "Za to vrsto polja je bila vnesena napačna vrednost. Ime polja:%s, modul:%s, vrednost:%s",
+    "ERR_VALUE_IS_TOO_LONG": "Število znakov je presežena. Ime polja:%s, modul:%s, vrednost:%s",
     "ERR_TO_MANY_FILES": "Preveč prenesenih datotek - meja je bila presežena. Ime polja: %s, Modul: %s, Vrednost: %s",
-    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "The field value must be greater than zero. Field name: %s, Module: %s, Value: %s",
+    "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Vrednost polja mora biti večja od nič. Ime polja:%s, modul:%s, vrednost:%s",
     "ERR_NOT_ALLOWED_VALUE": "Zaznana je napačna vrednost, prosimo da se obrnite na skrbnika",
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "To geslo je že uporabljeno. Sistem ne dovoljuje uporabe istega gesla iz varnostnih razlogov.",
     "ERR_USER_EXISTS": "Uporabnik z istim uporabniškim imenom in funkcijo že obstaja (%s)",
@@ -29,7 +29,7 @@
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Imenika ni mogoče ustvariti",
     "ERR_AUTO_LOGOUT": "Samodejno odjavljeni zaradi nedejavnosti",
     "ERR_FIELD_NOT_FOUND": "Polje ni bilo najdeno (%s)",
-    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Number of arguments not allowed (%d %s in %s)",
+    "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Število nedovoljenih argumentov  (%d %s v %s)",
     "ERR_NO_VALUE": "Ni vrednosti",
     "ERR_BODY_IS_EMPTY": "Telo je prazno",
     "ERR_API": "Napaka v API",
@@ -43,8 +43,8 @@
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Napaka pri povezavi z oddaljenim strežnikom",
     "ERR_NO_INTERNET_CONNECTION": "Ni internetne povezave",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Objekt mora imeti vmesnik %s",
-    "ERR_CLASS_NOT_FOUND": "Class %s not found",
-    "ERR_CLASS_MUST_BE": "Class must be %s",
+    "ERR_CLASS_NOT_FOUND": "Klasa %s ni najdena",
+    "ERR_CLASS_MUST_BE": "Klasa mora biti %s ",
     "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
   }
 }

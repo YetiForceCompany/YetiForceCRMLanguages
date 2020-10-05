@@ -60,7 +60,8 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "Количество записей",
     "LBL_LIST_WITH_SUMMARY": "Список с итогом",
-    "LBL_CURRENT_HISTORY_SWITCH": "Current/History"
+    "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Загрузка...",

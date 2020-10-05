@@ -60,7 +60,8 @@
     "UpdatesList": "Tóm tắt lịch sử và thời gian trường",
     "CountRecords": "Số bản ghi",
     "LBL_LIST_WITH_SUMMARY": "Danh sách với các tóm lược",
-    "LBL_CURRENT_HISTORY_SWITCH": "Hiện Tại/Lịch Sử"
+    "LBL_CURRENT_HISTORY_SWITCH": "Hiện Tại/Lịch Sử",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Đang tải...",

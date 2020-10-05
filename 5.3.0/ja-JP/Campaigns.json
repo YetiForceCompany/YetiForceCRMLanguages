@@ -43,7 +43,7 @@
     "TargetSize": "対象の大きさ",
     "Telemarketing": "テレマーケティング",
     "Webinar": "オンライン セミナー",
-    "Message sent": "Message sent",
+    "Message sent": "メッセージを送信",
     "LBL_LOAD_RECORDS": "フィルターから読み込む",
     "LBL_LOAD_RECORDS_INFO": "ボタンは、フィルターで指定された条件を満たすすべてのレコードをロードするために使用されます。",
     "LBL_COUNT_RECORDS_WIDGET": "関連モジュールレコードの数"

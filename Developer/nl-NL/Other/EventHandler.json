@@ -4,7 +4,7 @@
     "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als een van de ingevulde email adressen al bestaat",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Kopieer BTW-nummer",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als de BTW-nummer al bestaat",
-    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicate ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Dubbele EAN",
     "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als een van de EAN codes al bestaat",
     "IGDNC_IGDNEXIST_HANDLER": "Kopieer Goederen Verzonden Notitie Correctie",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als de Goederen Verzonden Notitie Correctie al bestaat",

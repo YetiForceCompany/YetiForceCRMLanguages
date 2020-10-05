@@ -60,7 +60,8 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "تعداد رکوردها",
     "LBL_LIST_WITH_SUMMARY": "لیست همراه با چکیده",
-    "LBL_CURRENT_HISTORY_SWITCH": "جاری/تاریخچه"
+    "LBL_CURRENT_HISTORY_SWITCH": "جاری/تاریخچه",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "درحال بارگذاری...",

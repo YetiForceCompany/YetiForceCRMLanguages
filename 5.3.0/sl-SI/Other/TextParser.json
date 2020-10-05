@@ -55,17 +55,17 @@
     "LBL_TABLE_TAX_SUMMARY": "Znesek davka za napredni blok",
     "LBL_ALL_PAGES": "Vse strani",
     "LBL_CURRENT_PAGE": "Trenutna stran",
-    "LBL_INVENTORY_TABLE": "Inventory table with custom predefined columns",
-    "LBL_DYNAMIC_INVENTORY_TABLE": "Inventory table with dynamic columns",
-    "LBL_INVENTORY_VARIABLES": "Additional inventory variables",
+    "LBL_INVENTORY_TABLE": "Preglednica z vnaprej določenimi stolpci po meri",
+    "LBL_DYNAMIC_INVENTORY_TABLE": "Preglednica z dinamičnimi stolpci",
+    "LBL_INVENTORY_VARIABLES": "Dodatne spremenljivke zalog",
     "LBL_TEXT_PARSER_RECORDS_LIST": "Seznam zapisov",
-    "LBL_TEXT_PARSER_USER_VARIABLE": "User variable",
-    "LBL_REPORT_NEW_RECORDS": "New records in given module",
-    "LBL_REPORT_SSALESPROCESSES": "Opportunity records",
+    "LBL_TEXT_PARSER_USER_VARIABLE": "Uporabniška spremenljivka",
+    "LBL_REPORT_NEW_RECORDS": "Novi zapisi v danem modulu",
+    "LBL_REPORT_SSALESPROCESSES": "Evidence priložnosti",
     "LBL_REPORT_CALENDAR": "Zapisi v koledarju",
     "LBL_REPORT_OVERDUE": "Zapadli zapisi",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Seznam uporabnikovih podvojenih zapisov",
-    "LBL_USER_RECORD_FILTERED_LIST": "User filtered records list",
-    "LBL_SUMMARY_FIELDS": "List of fields visible in the summary"
+    "LBL_USER_RECORD_FILTERED_LIST": "Uporabniški seznam filtriranih zapisov",
+    "LBL_SUMMARY_FIELDS": "Seznam polj, vidnih v povzetku"
   }
 }

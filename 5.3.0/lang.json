@@ -108,8 +108,8 @@
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 42,
-        "time": "2020-09-22 09:03:21"
+        "progress": 95,
+        "time": "2020-10-05 09:52:34"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -130,21 +130,21 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2020-09-22 08:58:55"
+        "time": "2020-10-05 09:48:13"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
-        "progress": 50,
-        "time": "2020-08-31 08:08:00"
+        "progress": 51,
+        "time": "2020-10-05 09:47:39"
     },
     "no-NO": {
         "prefix": "no-NO",
         "crowdinCode": "no",
         "name": "Norwegian",
         "progress": 16,
-        "time": "2020-03-16 11:26:44"
+        "time": "2020-10-05 09:53:38"
     },
     "pl-PL": {
         "prefix": "pl-PL",
@@ -199,8 +199,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 84,
-        "time": "2020-08-10 10:53:09"
+        "progress": 85,
+        "time": "2020-10-05 09:59:08"
     },
     "sr-CS": {
         "prefix": "sr-CS",
@@ -221,7 +221,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 89,
-        "time": "2020-09-10 12:13:15"
+        "time": "2020-10-05 10:00:48"
     },
     "vi-VN": {
         "prefix": "vi-VN",

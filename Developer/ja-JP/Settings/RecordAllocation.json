@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_OWNER_ALLOCATION": "Assign owner",
+    "LBL_OWNER_ALLOCATION": "所有者を割り当てる",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "共有ユーザーを割り当てる",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
-    "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",
-    "LBL_SELECT_MODULE": "Select module",
-    "LBL_GO_TO_PANEL": "go to the panel",
-    "LBL_USERS_AND_GROUPS": "Users and groups"
+    "LBL_SORTING_SETTINGS_WORNING": "警告！\n この設定はロールパネルで有効にした場合にのみ動作します",
+    "LBL_ADD_PANEL_TO_MODULE": "モジュールへの割り当てを追加",
+    "LBL_SELECT_MODULE": "モジュールを選択",
+    "LBL_GO_TO_PANEL": "パネルに行って",
+    "LBL_USERS_AND_GROUPS": "ユーザーとグループ"
   },
   "js": {
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "このモジュール内のすべての割り当てを削除してもよろしいですか？"
   }
 }

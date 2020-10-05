@@ -60,7 +60,8 @@
     "UpdatesList": "Historia pola i podsumowanie czasu trwania",
     "CountRecords": "Ilość rekordów",
     "LBL_LIST_WITH_SUMMARY": "Lista z podsumowaniem",
-    "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia"
+    "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia",
+    "RelatedModuleChart": "Powiązany moduł - wykres"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

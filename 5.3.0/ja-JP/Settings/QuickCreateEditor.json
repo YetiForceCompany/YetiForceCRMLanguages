@@ -1,12 +1,12 @@
 {
   "php": {
-    "QuickCreateEditor": "Quick Create Editor",
-    "LBL_QUICK_CREATE_EDITOR": "Fields – Quick Create",
-    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
-    "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "QuickCreateEditor": "クイック作成エディター",
+    "LBL_QUICK_CREATE_EDITOR": "フィールド – クイック作成",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "クイック作成ウィンドウ内のフィールドのレイアウトを変更できるモジュール",
+    "LBL_SEQUENCE": "フィールドシーケンス",
+    "LBL_SAVE_FIELD_SEQUENCE": "フィールドシーケンスを保存"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "フィールドシーケンスが更新されました"
   }
 }

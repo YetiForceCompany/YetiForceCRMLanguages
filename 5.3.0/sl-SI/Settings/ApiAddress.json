@@ -8,7 +8,7 @@
     "LBL_MIN_LOOKUP_LENGTH": "Najmanjše število znakov, ki jih mora vnesti uporabnik, preden se izvede iskanje",
     "LBL_SAVE_NOTIFY_OK": "Shranjene spremembe.",
     "LBL_COUNTRY_CODES": "Šifra države",
-    "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. gb,fr,pl",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "npr gb,sr,mo",
     "LBL_COUNTRY_CODES_INFO": "Preverite seznam kod držav",
     "LBL_KEY": "Ključ",
     "LBL_KEY_PLACEHOLDER": "Vnesi ključ aplikacije",

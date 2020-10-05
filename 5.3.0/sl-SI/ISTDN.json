@@ -1,7 +1,7 @@
 {
   "php": {
-    "ISTDN": "Storage Transfer Dispatched Notes",
-    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "ISTDN": "Izdajnice iz skladišča",
+    "SINGLE_ISTDN": "Izdajnica iz skladišča",
     "LBL_DESCRIPTION_BLOCK": "Opis",
     "LBL_ATTENTION_BLOCK": "Komentarji",
     "FL_ACCEPTANCE_DATE": "Datum potrditve",

@@ -60,7 +60,8 @@
     "UpdatesList": "Mező történelem időtartama összefoglaló",
     "CountRecords": "Number of records",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
-    "LBL_CURRENT_HISTORY_SWITCH": "Aktuális/Történelem"
+    "LBL_CURRENT_HISTORY_SWITCH": "Aktuális/Történelem",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Loading...",

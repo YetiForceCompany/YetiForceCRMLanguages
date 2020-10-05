@@ -19,7 +19,7 @@
     "LBL_SPACEROOT": "Root Speicher",
     "LBL_SPACESTORAGE": "Speicherplatz",
     "LBL_SPACETEMP": "Temporärer Verzeichnisspeicherplatz",
-    "LBL_SPACEBACKUP": "Backup directory space",
+    "LBL_SPACEBACKUP": "Kapazität des Backup-Verzeichnis",
     "LBL_UPDATES": "System Update Historie",
     "LBL_CRMVERSION": "CRM Version",
     "LBL_DOMAIN": "CRM System URL",

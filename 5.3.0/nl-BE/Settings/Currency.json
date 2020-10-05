@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion Rate",
-    "Currency": "Currency",
-    "Symbol": "Symbol",
-    "Currency Code": "Currency Code",
-    "Currency Name": "Currency Name",
-    "LBL_ADD_NEW_CURRENCY": "Add New Currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency Code",
-    "LBL_CURRENCY_NAME": "Currency Name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency Active",
-    "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current Currency",
-    "LBL_EDIT_CURRENCY": "Edit Currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter Conversion Rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer Currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "Conversion Rate": "Wisselkoers",
+    "Currency": "Munteenheid",
+    "Symbol": "Symbool",
+    "Currency Code": "Valuta code",
+    "Currency Name": "Valutanaam",
+    "LBL_ADD_NEW_CURRENCY": "Nieuwe valuta toevoegen",
+    "LBL_ADD_RECORD": "Voeg record toe",
+    "LBL_CURRENCY_CODE": "Valuta code",
+    "LBL_CURRENCY_NAME": "Valutanaam",
+    "LBL_CURRENCY_STATUS_DESC": "Schakel selectievakje in om valuta actief te maken",
+    "LBL_CURRENCY_SYMBOL": "Symbool",
+    "LBL_CURRENT_CURRENCY": "Huidige valuta",
+    "LBL_EDIT_CURRENCY": "Valuta bewerken",
+    "LBL_ENTER_CONVERSION_RATE": "Wisselkoers ingeven",
+    "LBL_TRANSFER_CURRENCY": "Overdracht valuta",
+    "Active": "Actief",
+    "Inactive": "Inactief",
+    "LBL_SET_AS_DEFAULT": "Instellen als standaard"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency Deleted Successfully",
-    "JS_CURRENCY_DETAILS_SAVED": "Currency Details Saved",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Valuta met succes verwijderd.",
+    "JS_CURRENCY_DETAILS_SAVED": "Valuta details opgeslagen.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Waarschuwing! Deze operatie zal de valuta op verschillende plaatsen in het systeem veranderen. Voor financiële overzichten die vóór deze wijziging verstrekt zijn, kan een valutaconversie nodig zijn. Als deze documenten in een handelsversie gepubliceerd werden, voer de valutaconversie dan handmatig uit. U moet de wisselkoers voor de resterende valuta's berekenen."
   }
 }

@@ -60,7 +60,8 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "Broj zapisa",
     "LBL_LIST_WITH_SUMMARY": "Lista sa rezimeom",
-    "LBL_CURRENT_HISTORY_SWITCH": "Aktuelno/Povijest"
+    "LBL_CURRENT_HISTORY_SWITCH": "Aktuelno/Povijest",
+    "RelatedModuleChart": "Related module - chart"
   },
   "js": {
     "Loading data": "Učitavanje...",

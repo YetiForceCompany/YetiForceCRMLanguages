@@ -1,13 +1,13 @@
 {
   "php": {
-    "ModTracker": "Changes history",
-    "SINGLE_ModTracker": "Tracking tool",
-    "LBL_AT_UPDATE": "Modify",
-    "LBL_AT_DELETE": "Delete",
-    "LBL_AT_TRASH": "Move to Recycle Bin",
-    "LBL_AT_CREATE": "Create",
-    "LBL_AT_ACTIVE": "Activate record",
-    "LBL_AT_ARCHIVED": "Archive",
+    "ModTracker": "変更履歴",
+    "SINGLE_ModTracker": "トラッキングツール",
+    "LBL_AT_UPDATE": "変更",
+    "LBL_AT_DELETE": "削除",
+    "LBL_AT_TRASH": "ごみ箱に移動",
+    "LBL_AT_CREATE": "作成",
+    "LBL_AT_ACTIVE": "レコードを有効にする",
+    "LBL_AT_ARCHIVED": "アーカイブ",
     "LBL_AT_LINK": "リンク",
     "LBL_AT_UNLINK": "リンク解除",
     "LBL_AT_CONVERTTOACCOUNT": "アカウントに変換",
@@ -47,6 +47,6 @@
     "LBL_INV_DELETED": "削除済",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "ウィジェットの設定を更新",
     "LBL_PERSON_MAKING_CHANGES": "変更を加えている人",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "モジュール"
   }
 }

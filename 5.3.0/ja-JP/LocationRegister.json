@@ -1,10 +1,10 @@
 {
   "php": {
-    "LocationRegister": "Location Register",
-    "SINGLE_LocationRegister": "Location Register",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
-    "FL_PARENT_LOCATION": "Parent location",
+    "LocationRegister": "ロケーション登録",
+    "SINGLE_LocationRegister": "ロケーション登録",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "FL_NAME": "名前",
+    "FL_PARENT_LOCATION": "親の場所",
     "PLL_DRAFT": "下書き",
     "PLL_WAITING_FOR_ACCEPTANCE": "承認待ち",
     "PLL_IN_REALIZATION": "実現のために",
