@@ -1,6 +1,7 @@
 {
 	"php": {
 		"SystemRequirements": "Yêu cầu hệ thống",
+		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Checks the server's IP address on a blacklist",
 		"LBL_LIBRARY_ROUNDCUBE": "Thư viện Roundcube",
 		"LBL_LIBRARY_PHPEXCEL": "Thư viện PHPExcel",
 		"LBL_CONFIG_REPORT": "Cấu hình máy chủ",

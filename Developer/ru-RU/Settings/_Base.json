@@ -12,7 +12,7 @@
     "LBL_ADD_OR_DELETE_USERS": "Добавить/Удалить пользователя",
     "LBL_ADD_USER": "Добавить Пользователя",
     "LBL_AVAILABLE_WORKLIST_LIST": "Доступные обработчики",
-    "LBL_COMPANY": "Company",
+    "LBL_COMPANY": "Компания",
     "LBL_COMPANY_DESCRIPTION": "Укажите юридический адрес организации",
     "LBL_COMPANY_DETAILS": "Данные организации",
     "LBL_COMPANY_INFORMATION": "Информация об организации",
@@ -221,7 +221,7 @@
     "LBL_LOGS": "Логи",
     "LBL_AUTOMATION": "Автоматизация",
     "LBL_TIMECONTROL_PROCESSES": "Процесс Учета времени",
-    "LBL_MENU_DASHBOARD": "Dashboard",
+    "LBL_MENU_DASHBOARD": "Инструменты",
     "Board of Management": "Управляющий",
     "Sales Department": "Отдел продаж",
     "Logistics Department": "Отдел снабжения",
@@ -315,8 +315,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Поиск...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
     "LBL_PREFIX": "Prefix",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s functionality hasn't been activated yet. Click the \"Activate\" button.",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s функционал не активирован. Нажмите на \"Активация\".",
+    "LBL_ACTIVATE_FUNCTIONALITY": "Активация"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Успешная авторизация",

@@ -191,7 +191,8 @@
     "LBL_EDIT_FROM_CALENDAR": "从日历编辑",
     "FL_SUBPROCESS_SECOND_LEVEL": "二级子流程",
     "LBL_GROUP_NAME": "用户组名称",
-    "FL_MEETING_URL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL",
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "已成功添加的日历视图",

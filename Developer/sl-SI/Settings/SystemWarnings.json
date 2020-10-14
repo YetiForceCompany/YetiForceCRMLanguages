@@ -1,6 +1,7 @@
 {
 	"php": {
 		"SystemRequirements": "Sistemske zahteve",
+		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Preveri IP-naslov strežnika na črnem seznamu",
 		"LBL_LIBRARY_ROUNDCUBE": "RoundCube knjižnica",
 		"LBL_LIBRARY_PHPEXCEL": "PHPExcel knjižnica",
 		"LBL_CONFIG_REPORT": "Konfiguracija strežnika",

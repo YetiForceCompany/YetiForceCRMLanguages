@@ -1146,6 +1146,7 @@
     "LBL_Y": "έτος",
     "LBL_YRS": "έτη",
     "FL_ACTIVE": "Εγγραφή Ενεργή",
+    "FL_INACTIVE": "Inactive",
     "SwitchUsers": "Εναλλαγή χρηστών",
     "Api Address": "Αναζήτηση διεύθυνσης",
     "Notifications": "Ειδοποιήσεις",
@@ -1470,7 +1471,8 @@
     "LBL_RELATION_NOT_FOUND": "Relation not found",
     "LBL_RELATED_RECORD": "Related record",
     "LBL_SOURCE_RECORD": "Source record",
-    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation"
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",

@@ -191,7 +191,8 @@
     "LBL_EDIT_FROM_CALENDAR": "Edit dari Kalender",
     "FL_SUBPROCESS_SECOND_LEVEL": "Tingkat kedua subproses",
     "LBL_GROUP_NAME": "Nama grup",
-    "FL_MEETING_URL": "Meeting URL"
+    "FL_MEETING_URL": "Meeting URL",
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Tampilan kalender berhasil ditambahkan",

@@ -191,7 +191,8 @@
     "LBL_EDIT_FROM_CALENDAR": "カレンダーを編集",
     "FL_SUBPROCESS_SECOND_LEVEL": "2 番目のレベルのサブプロセス",
     "LBL_GROUP_NAME": "グループ名",
-    "FL_MEETING_URL": "ミーティング URL"
+    "FL_MEETING_URL": "ミーティング URL",
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "カレンダービューを追加しました",

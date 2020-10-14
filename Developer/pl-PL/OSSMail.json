@@ -90,7 +90,8 @@
     "LBL_WHITE_LIST_DESC": "Dodaj adresata do białej listy, e-mail zostanie oznaczony jako zaufany.",
     "LBL_BLACK_LIST_ALERT": "Niebezpieczny adres nadawcy. Adres IP znajduje się na czarnej liście ze względu na spam/spoofing/phishing.",
     "LBL_WHITE_LIST_ALERT": "Zaufany serwer nadawcy. IP znajduje się na białej liście serwerów.",
-    "LBL_ALERT_FAKE_MAIL": "Uważaj na tę wiadomość, nie można zweryfikować, czy wiadomość faktycznie została wysłana z adresu nadawcy. Nie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
+    "LBL_ALERT_FAKE_MAIL": "Uważaj na tę wiadomość, nie można zweryfikować, czy wiadomość faktycznie została wysłana z adresu nadawcy. \nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
+    "LBL_ALERT_FAKE_SENDER": "Uważaj na tę wiadomość, adres e-mail w polu Od został sfałszowany.\nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
     "BTN_ANALYSIS_DETAILS": "Szczegóły analizy",
     "LBL_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została wysłana"
   },

@@ -1,6 +1,7 @@
 {
 	"php": {
 		"SystemRequirements": "Системні вимоги",
+		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Checks the server's IP address on a blacklist",
 		"LBL_LIBRARY_ROUNDCUBE": "Бібліотека Roundcube",
 		"LBL_LIBRARY_PHPEXCEL": "Бібліотека PHPExcel",
 		"LBL_CONFIG_REPORT": "Конфігурація сервера",

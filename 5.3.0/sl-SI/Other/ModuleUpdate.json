@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Detected errors while updating the module",
-    "LBL_SOME_ERRORS_APPEARED_DURING": "Some errors appeared during the update",
-    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "We recommend verifying logs and updating the system once again.",
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Med posodabljanjem modula so bile zaznane napake",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Med posodobitvijo se je pojavilo nekaj napak",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Priporočamo, da preverite dnevnike (Logs) in sistem še enkrat posodobite.",
     "LBL_UPDATE_EMAIL_TEMPLATES": "Posodobite e-poštne predloge",
     "LBL_UPDATE_PDF_TEMPLATES": "Posodobite pdf predloge"
   }

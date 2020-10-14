@@ -191,7 +191,8 @@
     "LBL_EDIT_FROM_CALENDAR": "Chỉnh sửa từ Lịch",
     "FL_SUBPROCESS_SECOND_LEVEL": "Quy trình cấp độ hai",
     "LBL_GROUP_NAME": "Tên nhóm",
-    "FL_MEETING_URL": "URL cuộc họp"
+    "FL_MEETING_URL": "URL cuộc họp",
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Chế độ xem lịch được thêm thành công",

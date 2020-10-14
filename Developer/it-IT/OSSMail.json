@@ -88,10 +88,11 @@
     "LBL_BLACK_LIST_DESC": "Aggiungi il destinatario alla blacklist, un'e-mail sarà contrassegnata come spam e spostata nella cartella spam.",
     "LBL_WHITE_LIST": "Lista bianca",
     "LBL_WHITE_LIST_DESC": "Aggiungi il destinatario alla whitelist, un'e-mail verrà contrassegnata come attendibile.",
-    "LBL_BLACK_LIST_ALERT": "Dangerous sender address. The IP address has been blacklisted due to spam/spoofing/phishing.",
-    "LBL_WHITE_LIST_ALERT": "Trusted sender server. The IP is on the server whitelist.",
-    "LBL_ALERT_FAKE_MAIL": "Watch out for this message, it is not possible to verify if the message was in fact sent from the sender's address. Do not click any links, download attachments, or provide personal information in response.",
-    "BTN_ANALYSIS_DETAILS": "Analysis details",
+    "LBL_BLACK_LIST_ALERT": "Indirizzo mittente pericoloso. L'indirizzo IP è stato inserito nella lista nera a causa di spam/spoofing/phishing.",
+    "LBL_WHITE_LIST_ALERT": "Server mittente affidabile. L'IP è sulla whitelist del server.",
+    "LBL_ALERT_FAKE_MAIL": "Attenzione a questo messaggio, non è possibile verificare se il messaggio è stato effettivamente inviato dall'indirizzo del mittente.\nNon fare clic su alcun collegamento, scaricare allegati o fornire informazioni personali in risposta.",
+    "LBL_ALERT_FAKE_SENDER": "Attenzione a questo messaggio, l'indirizzo email nel campo Da è stato falsificato.\nNon fare clic su alcun collegamento, scaricare allegati o fornire informazioni personali in risposta.",
+    "BTN_ANALYSIS_DETAILS": "Dettagli analisi",
     "LBL_MESSAGE_HAS_BEEN_ADDED": "Il messaggio è stato aggiunto"
   },
   "js": {

@@ -130,7 +130,7 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2020-10-05 09:48:13"
+        "time": "2020-10-14 11:06:51"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -199,8 +199,8 @@
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
-        "progress": 85,
-        "time": "2020-10-05 09:59:08"
+        "progress": 86,
+        "time": "2020-10-14 11:18:13"
     },
     "sr-CS": {
         "prefix": "sr-CS",
@@ -221,27 +221,27 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 89,
-        "time": "2020-10-05 10:00:48"
+        "time": "2020-10-14 11:19:55"
     },
     "vi-VN": {
         "prefix": "vi-VN",
         "crowdinCode": "vi",
         "name": "Vietnamese",
         "progress": 96,
-        "time": "2020-09-10 12:13:52"
+        "time": "2020-10-14 11:20:30"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 97,
-        "time": "2020-03-16 11:18:50"
+        "time": "2020-10-14 11:03:20"
     },
     "zh-TW": {
         "prefix": "zh-TW",
         "crowdinCode": "zh-TW",
         "name": "Chinese Traditional",
         "progress": 5,
-        "time": "2020-03-16 11:19:22"
+        "time": "2020-10-14 11:03:55"
     }
 }

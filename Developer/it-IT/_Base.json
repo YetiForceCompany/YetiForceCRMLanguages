@@ -1146,6 +1146,7 @@
     "LBL_Y": "anno",
     "LBL_YRS": "anni",
     "FL_ACTIVE": "Attivo",
+    "FL_INACTIVE": "Non attivo",
     "SwitchUsers": "Scambia utenti",
     "Api Address": "Cerca indirizzo",
     "Notifications": "Notifiche",
@@ -1470,7 +1471,8 @@
     "LBL_RELATION_NOT_FOUND": "Relazione non trovata",
     "LBL_RELATED_RECORD": "Registro correlato",
     "LBL_SOURCE_RECORD": "Registro sorgente",
-    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Vai alla documentazione di YetiForce"
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Vai alla documentazione di YetiForce",
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Tutti i campi obbligatori non sono stati riempiti"
   },
   "js": {
     "JS_APPROVE": "Approva",

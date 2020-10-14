@@ -191,7 +191,8 @@
     "LBL_EDIT_FROM_CALENDAR": "Edytuj z kalendarza",
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu",
     "LBL_GROUP_NAME": "Nazwa grupy",
-    "FL_MEETING_URL": "URL spotkania"
+    "FL_MEETING_URL": "URL spotkania",
+    "LBL_SEND_CALENDAR": "Wyślij powiadomienie e-mail o wydarzeniu"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Dodano kalendarz",

@@ -1146,6 +1146,7 @@
     "LBL_Y": "r",
     "LBL_YRS": "l",
     "FL_ACTIVE": "Aktywny",
+    "FL_INACTIVE": "Nieaktywny",
     "SwitchUsers": "Przełączanie użytkowników",
     "Api Address": "Wyszukiwarka adresów",
     "Notifications": "Powiadomienia",
@@ -1470,7 +1471,8 @@
     "LBL_RELATION_NOT_FOUND": "Nie znaleziono relacji",
     "LBL_RELATED_RECORD": "Powiązany rekord",
     "LBL_SOURCE_RECORD": "Rekord źródłowy",
-    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Przejdź do dokumentacji YetiForce"
+    "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Przejdź do dokumentacji YetiForce",
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Nie wszystkie wymagane pola zostały wypełnione"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

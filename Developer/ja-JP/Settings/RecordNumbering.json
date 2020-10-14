@@ -31,7 +31,9 @@
     "LBL_USE_POSTFIX_INFO": "Postfixは、適切な番号の後に順番に現れます。 プレフィックスと同様に、ここではフィールドから選択した変数をフォームの一番下に配置することもできます。 任意のコンテンツをここに入力することができ、与えられたモジュール内のシーケンス番号の後に表示されます。 Postfixはシーケンス番号に直接添付されます。 \n\n例\n\npostfiks '/{{YYYY}}'\nF-I0001/2018, F-I0035/2019\n\npostfiks ' /wew'\nF-I045 /wew, F-I1534 /wew",
     "LBL_USE_CUSTOM_VARIABLES": "プレフィックスを構築するシステム変数",
     "LBL_UPDATE_MISSING_RECORD_SEQUENCE": "不足しているレコードシーケンスを更新",
-    "LBL_USE_PREFIX_INFO": "プレフィックスとは、実際のレコード番号の前に付加される値です。\nモジュールごとに異なる接頭辞を持つため、システム内のどこにレコードがあるのかを認識しやすくなります。\nプレフィックスは必要に応じて変更することができますが、複製することはできません。\n例えば、請求書は以下の接頭辞を持つことができます。INV、INVN、またはINVOです。\n時間に関連した変数をプレフィックスに追加することもできます。\n例えば、'INV {{YYYY}}/'は'INV 2018/84'と表示され、84はレコード番号です。\n前置詞/後置詞の変数は、このフォームの下部にあります。変数をコピーしてprefixまたはpostfixフィールドに貼り付けると、値はレコード番号にも表示されます。"
+    "LBL_USE_PREFIX_INFO": "プレフィックスとは、実際のレコード番号の前に付加される値です。\nモジュールごとに異なる接頭辞を持つため、システム内のどこにレコードがあるのかを認識しやすくなります。\nプレフィックスは必要に応じて変更することができますが、複製することはできません。\n例えば、請求書は以下の接頭辞を持つことができます。INV、INVN、またはINVOです。\n時間に関連した変数をプレフィックスに追加することもできます。\n例えば、'INV {{YYYY}}/'は'INV 2018/84'と表示され、84はレコード番号です。\n前置詞/後置詞の変数は、このフォームの下部にあります。変数をコピーしてprefixまたはpostfixフィールドに貼り付けると、値はレコード番号にも表示されます。",
+    "LBL_REFERENCE_VARIABLES": "Variables from related records",
+    "LBL_REFERENCE_VARIABLES_INFO": "The function allows for retrieving data from a related record.\nUsing elements in this section is discouraged."
   },
   "js": {
     "LBL_PREFIX_IN_USE": "使用中のプレフィックス",
