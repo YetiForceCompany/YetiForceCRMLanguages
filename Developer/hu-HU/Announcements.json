@@ -9,12 +9,12 @@
     "FL_INTERVAL": "Emlékeztető időpontja",
     "FL_IS_MANDATORY": "Kötelező elfogadni",
     "PLL_DRAFT": "Vázlat",
-    "PLL_FOR_ACCEPTANCE": "A jóváhagyás",
+    "PLL_FOR_ACCEPTANCE": "Jóváhagyásra",
     "PLL_PUBLISHED": "Publikálva",
     "PLL_ARCHIVES": "Archiválva",
     "LBL_REMIND_ME_LATER": "Emlékeztetés később",
     "LBL_MARK_AS_READ": "Olvasottnak jelölve",
     "LBL_ACCEPT_ANNOUNCEMENT": "Elfogadták?",
-    "LBL_DATE": "Read on"
+    "LBL_DATE": "Olvass tovább"
   }
 }

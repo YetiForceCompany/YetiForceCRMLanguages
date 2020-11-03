@@ -36,6 +36,7 @@
     "LBL_REMOVED": "verwijderd",
     "LBL_CONVERTED_FROM_LEAD": "Geconverteerd van lead",
     "LBL_DELETED": "Verwijderde record",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Herstelde record",
     "LBL_ARCHIVED": "Gearchiveerde record",
     "LBL_TRANSFER_EDIT": "record is gewijzigd in het overdrachtsproces",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Verwijderd",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Werkt widget configuratie bij",
     "LBL_PERSON_MAKING_CHANGES": "Persoon die wijzigingen maakt",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "Modules",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

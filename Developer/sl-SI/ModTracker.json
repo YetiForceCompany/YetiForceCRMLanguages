@@ -36,6 +36,7 @@
     "LBL_REMOVED": "odstranjeno",
     "LBL_CONVERTED_FROM_LEAD": "Pretvorjen iz interesenta",
     "LBL_DELETED": "Izbrisani zapis",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Obnovljeni zapis",
     "LBL_ARCHIVED": "Arhiviran zapis",
     "LBL_TRANSFER_EDIT": "zapis je bil spremenjen v postopku prenosa",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Izbrisano",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Posodobitev konfiguracije pripomočka (widget )",
     "LBL_PERSON_MAKING_CHANGES": "Osebne spremembe izvedi",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "Modules",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

@@ -192,7 +192,7 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Zweiter Unterprozess",
     "LBL_GROUP_NAME": "Gruppenname",
     "FL_MEETING_URL": "Meeting-URL",
-    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
+    "LBL_SEND_CALENDAR": "E-Mail Benachrichtigung über Ereignis senden"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Kalendersicht hinzugefügt",

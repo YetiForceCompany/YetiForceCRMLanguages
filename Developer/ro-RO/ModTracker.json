@@ -36,6 +36,7 @@
     "LBL_REMOVED": "eliminata",
     "LBL_CONVERTED_FROM_LEAD": "Convertit din lead",
     "LBL_DELETED": "Inregistrare stearsa",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Inregistrare restaurata",
     "LBL_ARCHIVED": "Inregistrare arhivata",
     "LBL_TRANSFER_EDIT": "record was changed in the transfer process",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Șters",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "Modules",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

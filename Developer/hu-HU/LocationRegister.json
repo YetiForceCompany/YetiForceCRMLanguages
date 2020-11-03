@@ -5,7 +5,7 @@
     "LBL_BASIC_INFORMATION": "Alapinformációk",
     "FL_NAME": "Név",
     "FL_PARENT_LOCATION": "Szülő helye",
-    "PLL_DRAFT": "Piszkozat",
+    "PLL_DRAFT": "Vázlat",
     "PLL_WAITING_FOR_ACCEPTANCE": "Elfogadásra vár",
     "PLL_IN_REALIZATION": "Megvalósulás",
     "PLL_COMPLETED": "Teljesítve",
@@ -25,10 +25,10 @@
     "FL_CITY": "Város",
     "FL_COUNTY": "Megye",
     "FL_COUNTRY": "Ország",
-    "FL_TOWNSHIP": "Township",
+    "FL_TOWNSHIP": "Község",
     "LBL_DESCRIPTION": "Leírás",
     "FL_DESCRIPTION": "Leírás",
-    "FL_COMMENTS": "Megjegyzések",
-    "LBL_COMMENTS": "Megjegyzések"
+    "FL_COMMENTS": "Hozzászólások",
+    "LBL_COMMENTS": "Hozzászólások"
   }
 }

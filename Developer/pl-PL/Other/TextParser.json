@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Pierwszy dzień miesiąca",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Ostatni dzień miesiąca",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Pierwszy dzień następnego miesiąca",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Pola zależne",
     "LBL_PRODUCTS_TABLE": "Tabelka z blokiem zaawansowanym",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabelka z blokiem zaawansowanym i opisem",
     "LBL_PRODUCTS_TABLE_NEW": "Ulepszona tabelka z blokiem zaawansowanym",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Historia logowania",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Lista rekordów zduplikowanych przez użytkownika",
     "LBL_USER_RECORD_FILTERED_LIST": "Lista rekordów filtrowanych przez użytkownika",
-    "LBL_SUMMARY_FIELDS": "Lista pól widocznych w podsumowaniu"
+    "LBL_SUMMARY_FIELDS": "Lista pól widocznych w podsumowaniu",
+    "LBL_RELATED_ATTACHMENTS": "Powiązane załączniki"
   }
 }

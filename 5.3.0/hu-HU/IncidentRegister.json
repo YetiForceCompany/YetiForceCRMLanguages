@@ -1,12 +1,12 @@
 {
   "php": {
-    "IncidentRegister": "Incident Register",
+    "IncidentRegister": "Esemény Nyilvántartás",
     "SINGLE_IncidentRegister": "Esemény Nyilvántartás",
     "LBL_BASIC_INFORMATION": "Alapinformációk",
     "FL_NAME": "Név",
     "FL_LOCATION_REGISTER": "Elhelyezkedés nyilvántartás",
     "FL_DATASETREGISTER": "Az adatok meghatározott nyilvántartás",
-    "PLL_DRAFT": "Piszkozat",
+    "PLL_DRAFT": "Vázlat",
     "PLL_WAITING_FOR_ACCEPTANCE": "Elfogadásra vár",
     "PLL_IN_REALIZATION": "Megvalósulás",
     "PLL_COMPLETED": "Teljesítve",

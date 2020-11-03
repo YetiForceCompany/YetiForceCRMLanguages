@@ -68,7 +68,8 @@
     "LBL_SESSION_CLEANER": "Borrar sesiones inactivas",
     "LBL_ARCHIVE_OLD_RECORDS": "Archivar registros antiguos",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "El mecanismo CRON no se ha habilitado, es necesario para el funcionamiento correcto del sistema.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Descargar mensajes de redes sociales"
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Descargar mensajes de redes sociales",
+    "LBL_MAIL_RBL": "RBL servers update"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "La frecuencia recomendada para la importación programada es de 15 minutos",

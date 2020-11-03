@@ -36,6 +36,7 @@
     "LBL_REMOVED": "αφαίρεσε",
     "LBL_CONVERTED_FROM_LEAD": "Μετατράπηκε από Δυνητικό Πελάτη",
     "LBL_DELETED": "Διαγραμμένη εγγραφή",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Επαναφορά της εγγραφής",
     "LBL_ARCHIVED": "Αρχειοθέτηση εγρραφης",
     "LBL_TRANSFER_EDIT": "εγγραφή άλλαξε κατά τη διαδικασία μεταφοράς",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Διαγράφηκε",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ενημέρωση διαμόρφωσης widget",
     "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "Modules",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

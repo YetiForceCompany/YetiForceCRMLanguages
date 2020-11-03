@@ -1,7 +1,7 @@
 {
   "php": {
-    "ISTDN": "Tároló Átviteli Feladott Megjegyzések",
-    "SINGLE_ISTDN": "Tároló Átviteli Feladott Megjegyzés",
+    "ISTDN": "Raktárközi kiadás",
+    "SINGLE_ISTDN": "Raktárközi kiadás",
     "LBL_DESCRIPTION_BLOCK": "Leírás",
     "LBL_ATTENTION_BLOCK": "Hozzászólások",
     "FL_ACCEPTANCE_DATE": "Elfogadás dátuma",
@@ -10,12 +10,12 @@
     "FL_NUMBER": "Szám",
     "FL_STORAGE": "Tárolás",
     "FL_STATUS": "Állapot",
-    "PLL_DRAFT": "Piszkozat",
+    "PLL_DRAFT": "Vázlat",
     "PLL_IN_REALIZATION": "Megvalósulás",
     "PLL_OBJECTIONS": "Célok",
-    "PLL_FOR_APPROVAL": "A jóváhagyás",
+    "PLL_FOR_APPROVAL": "Jóváhagyásra",
     "PLL_CANCELLED": "Megszakitva",
-    "PLL_ACCEPTED": "Elfogadva",
+    "PLL_ACCEPTED": "Elfogadott",
     "LBL_CHANGE_STATUS": "Állapot Módosítása"
   }
 }

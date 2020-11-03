@@ -1,7 +1,7 @@
 {
   "php": {
-    "WebserviceUsers": "وب سرویس - کاربران",
-    "LBL_WEBSERVICE_USERS": "وب سرویس - کاربران",
+    "WebserviceUsers": "Web service - Users",
+    "LBL_WEBSERVICE_USERS": "Web service - Users",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "FL_SERVER": "سرویس دهنده",
     "FL_STATUS": "وضعیت",

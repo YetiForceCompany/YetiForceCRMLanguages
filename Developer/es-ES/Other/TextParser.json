@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Primer día de este mes",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Último día de este mes",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Primer día del siguiente mes",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
     "LBL_PRODUCTS_TABLE": "Tabla con bloque avanzado",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabla con bloque avanzado y descripción",
     "LBL_PRODUCTS_TABLE_NEW": "Tabla mejorada con bloque avanzado",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Login history",
     "LBL_USER_RECORD_DUPLICATE_LIST": "El usuario duplicó la lista de registros",
     "LBL_USER_RECORD_FILTERED_LIST": "El usuario filtró la lista de registros",
-    "LBL_SUMMARY_FIELDS": "Lista de campos visibles en el resumen"
+    "LBL_SUMMARY_FIELDS": "Lista de campos visibles en el resumen",
+    "LBL_RELATED_ATTACHMENTS": "Related attachments"
   }
 }

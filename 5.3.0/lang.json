@@ -87,8 +87,8 @@
         "prefix": "hu-HU",
         "crowdinCode": "hu",
         "name": "Hungarian",
-        "progress": 26,
-        "time": "2020-04-01 12:49:22"
+        "progress": 62,
+        "time": "2020-11-02 13:20:59"
     },
     "id-ID": {
         "prefix": "id-ID",
@@ -102,7 +102,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 100,
-        "time": "2020-04-01 12:50:26"
+        "time": "2020-11-02 13:22:07"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -200,7 +200,7 @@
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 86,
-        "time": "2020-10-14 11:18:13"
+        "time": "2020-11-02 13:29:45"
     },
     "sr-CS": {
         "prefix": "sr-CS",
@@ -220,8 +220,8 @@
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
-        "progress": 89,
-        "time": "2020-10-14 11:19:55"
+        "progress": 90,
+        "time": "2020-11-02 13:31:28"
     },
     "vi-VN": {
         "prefix": "vi-VN",

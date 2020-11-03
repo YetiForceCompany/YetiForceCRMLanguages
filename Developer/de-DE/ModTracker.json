@@ -36,6 +36,7 @@
     "LBL_REMOVED": "Entfernt",
     "LBL_CONVERTED_FROM_LEAD": "Aus Lead konvertiert",
     "LBL_DELETED": "gelöschter Datensatz",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "wiederhergestellter Datensatz",
     "LBL_ARCHIVED": "archivierter Datensatz",
     "LBL_TRANSFER_EDIT": "Datensatz wurde beim Übertragungsprozess geändert",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "gelöscht",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Update Widget-Konfiguration",
     "LBL_PERSON_MAKING_CHANGES": "Persönliche Änderungen vornehmen",
-    "LBL_MODULES": "Module"
+    "LBL_MODULES": "Module",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

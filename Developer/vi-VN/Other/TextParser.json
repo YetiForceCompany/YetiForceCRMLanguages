@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Ngày đầu tiên của tháng",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Ngày cuối cùng của tháng",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Ngày đầu tiên của tháng sau",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
     "LBL_PRODUCTS_TABLE": "Bảng với khối nâng cao",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Bảng với khối và mô tả nâng cao",
     "LBL_PRODUCTS_TABLE_NEW": "Bảng cải tiến với khối nâng cao",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Lịch sử đăng nhập",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Danh sách biểu ghi trùng",
     "LBL_USER_RECORD_FILTERED_LIST": "Danh sách người dùng đã lọc",
-    "LBL_SUMMARY_FIELDS": "Danh sách trường hiển thị trong tóm tắt"
+    "LBL_SUMMARY_FIELDS": "Danh sách trường hiển thị trong tóm tắt",
+    "LBL_RELATED_ATTACHMENTS": "Related attachments"
   }
 }

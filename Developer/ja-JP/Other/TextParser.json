@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "今月の最初の日",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "今月の最終日",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "来月初日",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
     "LBL_PRODUCTS_TABLE": "アドバンスブロックを持つテーブル",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "アドバンスブロックと説明を含むテーブル",
     "LBL_PRODUCTS_TABLE_NEW": "アドバンスブロックを含む改善されたテーブル",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "ログイン履歴",
     "LBL_USER_RECORD_DUPLICATE_LIST": "ユーザーが重複したレコードリスト",
     "LBL_USER_RECORD_FILTERED_LIST": "ユーザーがフィルタされたレコードリスト",
-    "LBL_SUMMARY_FIELDS": "概要に表示されるフィールドのリスト"
+    "LBL_SUMMARY_FIELDS": "概要に表示されるフィールドのリスト",
+    "LBL_RELATED_ATTACHMENTS": "Related attachments"
   }
 }

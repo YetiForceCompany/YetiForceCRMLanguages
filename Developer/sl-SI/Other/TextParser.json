@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Prvi dan tega meseca",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Zadnji dan v mesecu",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Prvi dan naslednjega meseca",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
     "LBL_PRODUCTS_TABLE": "Tabela z naprednimi bloki",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabela z naprednimi bloki in opis",
     "LBL_PRODUCTS_TABLE_NEW": "Izboljšana tabelo z naprednimi bloki",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Login history",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Seznam uporabnikovih podvojenih zapisov",
     "LBL_USER_RECORD_FILTERED_LIST": "Uporabniški seznam filtriranih zapisov",
-    "LBL_SUMMARY_FIELDS": "Seznam polj, vidnih v povzetku"
+    "LBL_SUMMARY_FIELDS": "Seznam polj, vidnih v povzetku",
+    "LBL_RELATED_ATTACHMENTS": "Related attachments"
   }
 }

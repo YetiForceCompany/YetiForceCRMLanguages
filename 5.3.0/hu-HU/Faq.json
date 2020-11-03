@@ -21,9 +21,9 @@
     "Faq No": "GYIK száma",
     "General": "Általános",
     "LBL_FAQ_INFORMATION": "GYIK információk",
-    "LBL_RECORDS_LIST": "FAQs list",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question"
+    "LBL_RECORDS_LIST": "GYIKok listája",
+    "Obsolete": "Elavult",
+    "Published": "Közzétett",
+    "Question": "Kérdés"
   }
 }

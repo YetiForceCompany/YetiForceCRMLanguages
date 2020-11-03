@@ -1,7 +1,7 @@
 {
   "php": {
-    "WebserviceUsers": "Servicii web - utilizatori",
-    "LBL_WEBSERVICE_USERS": "Servicii web - utilizatori",
+    "WebserviceUsers": "Web service - Users",
+    "LBL_WEBSERVICE_USERS": "Web service - Users",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "FL_SERVER": "Server",
     "FL_STATUS": "Status",

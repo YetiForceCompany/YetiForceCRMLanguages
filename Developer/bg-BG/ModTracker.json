@@ -36,6 +36,7 @@
     "LBL_REMOVED": "премахвано",
     "LBL_CONVERTED_FROM_LEAD": "Конвертирано от lead",
     "LBL_DELETED": "Изтрит запис",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Възстановen запис",
     "LBL_ARCHIVED": "Активан запис",
     "LBL_TRANSFER_EDIT": "записът е променен в процеса на предаване на",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Изтрито",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
-    "LBL_MODULES": "Modules"
+    "LBL_MODULES": "Modules",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

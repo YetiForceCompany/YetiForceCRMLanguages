@@ -1,5 +1,6 @@
 {
   "php": {
+    "FieldsDependency": "Campi Dipendenti",
     "LBL_FIELDS_DEPENDENCY": "Campi dipendenti",
     "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configurazione di campi e blocchi dinamici a seconda di criteri specifici",
     "LBL_NAME": "Nome dipendente",
@@ -7,9 +8,12 @@
     "LBL_CREATE": "Crea un nuovo dipendente",
     "LBL_SOURCE_MODULE": "Nome modulo",
     "LBL_VIEWS": "Viste",
+    "LBL_VIEWS_INFO": "Elenco di viste dove i campi devono essere nascosti/mostrati, se una vista non è selezionata, i campi saranno sempre visibili",
+    "LBL_FIELDS_INFO": "Elenco di campi che saranno visibili solo se le condizioni sotto sono soddisfatte",
     "LBL_GUI": "Campi dinamici",
-    "LBL_GUI_INFO": "Abilitato si ottiene una visualizzazione dinamica dei campi nella form quando si cambiano i valori nei campi (prima del salvataggio). Se disabilitato, le modifiche avranno effetto solo dopo aver salvato i dati.",
+    "LBL_GUI_INFO": "Abilitarlo risulterà in una visualizzazione dinamica di campi nel modulo alla modifica dei valori nei campi. Se disabilitato, le modifiche avranno effetto solo dopo il salvataggio dei dati.",
     "LBL_MANDATORY": "Campi Obbligatori",
+    "LBL_MANDATORY_INFO": "Dopo l'abilitazione di tutti i campi elencati sotto sarà obbligatorio",
     "LBL_CONDITIONS": "Condizioni"
   }
 }

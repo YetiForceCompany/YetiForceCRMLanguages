@@ -30,7 +30,7 @@
     "LBL_TICK_SIZE": "Tick size (y)",
     "LBL_MAXIMUM_VALUE": "Maximum value (y)",
     "LBL_SHOW_USERS": "Display username",
-    "LBL_TITLE_WIDGET": "Widget title",
+    "LBL_TITLE_WIDGET": "Widget címe",
     "LBL_ADDRESS_RSS": "RSS address ",
     "LBL_ADD_CHANNEL": "Add channel",
     "LBL_ADD_RSS": "RSS",
@@ -40,7 +40,7 @@
     "LBL_DEFAULT_DATE": "Default date",
     "PLL_CURRENT_DAY": "Current day",
     "PLL_CURRENT_WEEK": "Current week",
-    "PLL_CURRENT_MONTH": "Current month",
+    "PLL_CURRENT_MONTH": "Aktuális hónap",
     "PLL_CURRENT_YEAR": "Current year",
     "LBL_SAVE_DASHBOARD": "Save dashboard",
     "LBL_NAME_DASHBOARD": "Dashboard name"

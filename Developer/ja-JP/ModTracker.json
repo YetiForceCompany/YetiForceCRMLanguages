@@ -36,6 +36,7 @@
     "LBL_REMOVED": "削除済み",
     "LBL_CONVERTED_FROM_LEAD": "リードから変換しました",
     "LBL_DELETED": "削除したレコード",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "復元されたレコード",
     "LBL_ARCHIVED": "アーカイブ済みレコード",
     "LBL_TRANSFER_EDIT": "転送プロセスでレコードが変更されました",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "削除済",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "ウィジェットの設定を更新",
     "LBL_PERSON_MAKING_CHANGES": "変更を加えている人",
-    "LBL_MODULES": "モジュール"
+    "LBL_MODULES": "モジュール",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

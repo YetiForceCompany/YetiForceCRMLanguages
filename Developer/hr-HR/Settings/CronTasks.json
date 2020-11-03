@@ -68,7 +68,8 @@
     "LBL_SESSION_CLEANER": "Očistite neaktivne sesije",
     "LBL_ARCHIVE_OLD_RECORDS": "Arhivirajte stare zapise",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "CRON mehanizam nije omogućen, potreban je za ispravan rad sustava.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Preuzmite poruke s društvenih medija"
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Preuzmite poruke s društvenih medija",
+    "LBL_MAIL_RBL": "RBL servers update"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Preporučena učestalost za Scheduled Import je 15 min",

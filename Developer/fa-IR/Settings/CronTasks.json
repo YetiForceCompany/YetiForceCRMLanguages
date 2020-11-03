@@ -68,7 +68,8 @@
     "LBL_SESSION_CLEANER": "پاک کردن Session های غیر فعال",
     "LBL_ARCHIVE_OLD_RECORDS": "بایگانی پرونده های قدیمی",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "مکانیرم Cron فعال نشده است. برای کارکرد صحیح سامانه به آن نیاز است.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "دانلود پیام‌ها از رسانه های اجتماعی"
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "دانلود پیام‌ها از رسانه های اجتماعی",
+    "LBL_MAIL_RBL": "RBL servers update"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "تناوب زمانی پیشنهادی برای ورودی‌های زمانبندی شده ۱۵ دقیقه می‌باشد",

@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Primo giorno di questo mese",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Ultimo giorno di questo mese",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Primo giorno del mese prossimo",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Campi dipendenti",
     "LBL_PRODUCTS_TABLE": "Tabella con blocco esteso",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabella con blocco esteso e descrizione",
     "LBL_PRODUCTS_TABLE_NEW": "Tabella migliorata con blocco esteso",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Storico Login",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Elenco record duplicati dall'utente",
     "LBL_USER_RECORD_FILTERED_LIST": "Elenco record filtrati dagli utenti",
-    "LBL_SUMMARY_FIELDS": "Elenco dei campi visibili nel riepilogo"
+    "LBL_SUMMARY_FIELDS": "Elenco dei campi visibili nel riepilogo",
+    "LBL_RELATED_ATTACHMENTS": "Allegati correlati"
   }
 }

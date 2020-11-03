@@ -1,7 +1,7 @@
 {
 	"php": {
-		"SystemRequirements": "System requirements",
-		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Checks the server's IP address on a blacklist",
+		"SystemRequirements": "Rendszerkövetelmények",
+		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Ellenőrizze a feketelistán a szerver IP-címét",
 		"LBL_LIBRARY_ROUNDCUBE": "Roundcube library",
 		"LBL_LIBRARY_PHPEXCEL": "PHPExcel library",
 		"LBL_CONFIG_REPORT": "Server configuration",
@@ -22,7 +22,7 @@
 		"LBL_MISSING_HTTPS": "Your connection to the server is not encrypted. If the connection is not established through the HTTPS protocol the communication may be intercepted or altered by third parties. The recommended configuration can be found in the \"Web server requirements\" article in the documentation.",
 		"LBL_DISK_USAGE": "Disk space available",
 		"LBL_DISK_FULL": "There is not enough free space on your disk (%s of %s), so the system may stop working. Directory path: %s",
-		"SystemWarnings": "System warnings",
+		"SystemWarnings": "Rendszer figyelmeztetések",
 		"BTN_CONFIGURE_ENCRYPTION": "Activate encryption",
 		"Security": "Security",
 		"LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities in libraries",

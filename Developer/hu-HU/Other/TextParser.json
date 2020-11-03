@@ -17,7 +17,7 @@
     "LBL_RECORD_LABEL": "Rekord cimke",
     "LBL_LIST_OF_CHANGES_IN_RECORD": "Változások listája rekord",
     "LBL_LIST_OF_NEW_VALUES_IN_RECORD": "A lista új értékek rekord",
-    "LBL_RECORD_COMMENT": "Megjegyzések)",
+    "LBL_RECORD_COMMENT": "Hozzászólás (ok)",
     "LBL_RELATED_RECORD_LABEL": "Kapcsolódó rekord cimke",
     "LBL_OWNER_EMAIL": "E-mail tulajdonos",
     "LBL_MODULE_FIELDS": "Mezők a modulból",
@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "A hónap kezdőnapja",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Utolsó nap ebben a hónapban",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Első nap a következő hónapban",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Függő mezők",
     "LBL_PRODUCTS_TABLE": "Táblázat a speciális blokk",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Táblázat a speciális blokk és leírás",
     "LBL_PRODUCTS_TABLE_NEW": "Tökéletesített táblázat és speciális blokk",
@@ -67,6 +68,7 @@
     "LBL_REPORT_LOGIN_HISTORY": "Belépés előzmények",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Felhasználói duplikált bejegyzések listája",
     "LBL_USER_RECORD_FILTERED_LIST": "Felhasználói szűrt rekordok listája",
-    "LBL_SUMMARY_FIELDS": "Mezők listája látható az összefoglalóban"
+    "LBL_SUMMARY_FIELDS": "Mezők listája látható az összefoglalóban",
+    "LBL_RELATED_ATTACHMENTS": "Related attachments"
   }
 }

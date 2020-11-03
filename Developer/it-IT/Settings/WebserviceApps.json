@@ -1,12 +1,14 @@
 {
   "php": {
     "LBL_APP_NAME": "Nome",
-    "LBL_ADDRESS_URL": "URL",
+    "LBL_ADDRESS_URL": "IP consentiti",
+    "LBL_ADDRESS_URL_INFO": "Valore vuoto - accesso da tutti i server.\nSe gli indirizzi IP sono inseriti (dopo il punto decimale), l'accesso alle API sarà consentito solo da questi indirizzi IP.\nEsempio:",
     "LBL_TYPE_SERVER": "Tipo",
     "LBL_API_KEY": "Chiave di accesso",
     "LBL_ADD_APPLICATION": "Aggiungi chiave di accesso",
     "LBL_WEBSERVICE_APPS": "Web service - Applicazioni",
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Definisce le chiavi di accesso delle aziende al portale cliente",
+    "LBL_MODAL_ALERT": "I dati di accesso devono essere inseriti nell'intestazione di ogni richiesta API.",
     "Mail": "Mail",
     "LBL_PASS": "Chiave di accesso",
     "LBL_TITLE_ADDED": "Aggiungi",

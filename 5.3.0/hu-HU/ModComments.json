@@ -1,12 +1,12 @@
 {
   "php": {
-    "SINGLE_ModComments": "Megjegyzés",
-    "LBL_RECORDS_LIST": "Feljegyzések listája",
-    "LBL_MODCOMMENTS_INFORMATION": "Megjegyzések",
+    "SINGLE_ModComments": "Hozzászólás",
+    "LBL_RECORDS_LIST": "Hozzászólások listája",
+    "LBL_MODCOMMENTS_INFORMATION": "Hozzászólások",
     "LBL_OTHER_INFORMATION": "Egyéb adatok",
     "LBL_ADDING_COMMENT": "Új megjegyzés",
     "LBL_WRITE_YOUR_COMMENT_HERE": "Írja be ide a megjegyzését",
-    "Comment": "Comment",
+    "Comment": "Hozzászólás",
     "Creator": "Creator",
     "Related To Comments": "Related to",
     "ReasonToEdit": "Reason to edit",
@@ -17,7 +17,7 @@
     "LBL_NOTICE_WELCOME": "Welcome to platform",
     "LBL_NOTICE_CREATED": "It was created by",
     "LBL_COMMENTS_0": "Current record",
-    "LBL_COMMENTS_SEARCH": "Search",
+    "LBL_COMMENTS_SEARCH": "Keresés",
     "LBL_ALL_RECORDS": "Related records"
   }
 }

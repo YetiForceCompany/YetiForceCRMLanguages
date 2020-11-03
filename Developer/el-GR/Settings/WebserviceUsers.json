@@ -1,7 +1,7 @@
 {
   "php": {
-    "WebserviceUsers": "Υπηρεσία Web - χρήστες",
-    "LBL_WEBSERVICE_USERS": "Υπηρεσία Web - χρήστες",
+    "WebserviceUsers": "Web service - Users",
+    "LBL_WEBSERVICE_USERS": "Web service - Users",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "FL_SERVER": "Διακομιστής",
     "FL_STATUS": "Κατάσταση",

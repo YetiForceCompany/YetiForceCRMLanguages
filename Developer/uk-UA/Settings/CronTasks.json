@@ -68,7 +68,8 @@
     "LBL_SESSION_CLEANER": "Очистити неактивні сеанси",
     "LBL_ARCHIVE_OLD_RECORDS": "Архівувати старі записи",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "CRON механізм не був активований, це необхідно для правильної роботи системи.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Завантаження повідомлень з соц. мереж"
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Завантаження повідомлень з соц. мереж",
+    "LBL_MAIL_RBL": "RBL servers update"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Recommended frequency for Scheduled Import is 15 mins",

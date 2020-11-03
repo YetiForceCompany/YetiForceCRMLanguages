@@ -1,12 +1,14 @@
 {
   "php": {
     "LBL_APP_NAME": "Название",
-    "LBL_ADDRESS_URL": "Ссылка",
+    "LBL_ADDRESS_URL": "Allowed IPs",
+    "LBL_ADDRESS_URL_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
     "LBL_TYPE_SERVER": "Тип",
     "LBL_API_KEY": "Ключ",
     "LBL_ADD_APPLICATION": "Добавить ключ",
     "LBL_WEBSERVICE_APPS": "Веб сервис - Приложение",
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Обратите внимание, что модуль будет полностью функциональным в системе версии 3.1",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
     "Mail": "Mail",
     "LBL_PASS": "Пароль",
     "LBL_TITLE_ADDED": "Добавить",

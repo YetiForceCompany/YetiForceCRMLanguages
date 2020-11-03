@@ -36,6 +36,7 @@
     "LBL_REMOVED": "đã xoá",
     "LBL_CONVERTED_FROM_LEAD": "Đã chuyển đổi từ cơ hội",
     "LBL_DELETED": "Hồ sơ đã xoá",
+    "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Hồ sơ đã khôi phục",
     "LBL_ARCHIVED": "Hồ sơ đã lưu trữ",
     "LBL_TRANSFER_EDIT": "hồ sơ đã thay đổi trong tiến trình chuyển giao",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Đã xoá",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Cấu hình cập nhật tiện ích",
     "LBL_PERSON_MAKING_CHANGES": "Cá nhân đã làm thay đổi",
-    "LBL_MODULES": "Các Mô-Đun"
+    "LBL_MODULES": "Các Mô-Đun",
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

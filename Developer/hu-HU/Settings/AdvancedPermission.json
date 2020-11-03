@@ -21,6 +21,6 @@
     "LBL_RECALCULATE_PERMISSION_BTN": "Újratervezés engedélyek",
     "LBL_RECALCULATE_CRON_INFO": "Engedélyt recalculations igényel engedélyezve van, CRON, kérjük, ellenőrizze, hogy a feladat az aktív.",
     "LBL_MODULES_LIST": "Modullista",
-    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Különleges engedélyek le van tiltva, mert szükségük, amely lehetővé teszi rekord engedélyt a cache-t. Az engedélyek dolgozni engedélyeznie kell a cron, majd állítsa be CACHING_PERMISSION_TO_RECORD [config\/security.php] változó, hogy igaz."
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "A speciális engedélyeket letiltottuk, mert engedélyezniük kell a rekordengedélyek gyorsítótárazását. Ahhoz, hogy az engedélyek működni tudjanak, engedélyeznie kell a cront, és a CACHING_PERMISSION_TO_RECORD [config \/ security.php] változót igazra kell állítani."
   }
 }

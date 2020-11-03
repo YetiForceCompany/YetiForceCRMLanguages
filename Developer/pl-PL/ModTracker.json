@@ -36,6 +36,7 @@
     "LBL_REMOVED": "usunięto powiązanie",
     "LBL_CONVERTED_FROM_LEAD": "skonwertowany z leada",
     "LBL_DELETED": "usunięto rekord",
+    "LBL_DELETED_VALUE": "Usunięta wartość",
     "LBL_ACTIVE": "przywrócono rekord",
     "LBL_ARCHIVED": "zarchiwizowano rekord",
     "LBL_TRANSFER_EDIT": "zmieniono rekord w procesie transferu",
@@ -47,6 +48,7 @@
     "LBL_INV_DELETED": "Usunięto",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Aktualizacja konfiguracji widgetów",
     "LBL_PERSON_MAKING_CHANGES": "Osoba dokonująca zmian",
-    "LBL_MODULES": "Moduły"
+    "LBL_MODULES": "Moduły",
+    "LBL_SHOW_HIDDEN_DATA": "Pokazał ukryte dane"
   }
 }

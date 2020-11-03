@@ -68,7 +68,8 @@
     "LBL_SESSION_CLEANER": "清除非活动会话",
     "LBL_ARCHIVE_OLD_RECORDS": "存档旧记录",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
-    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "从社交媒体下载消息"
+    "LBL_GET_SOCIAL_MEDIA_MESSAGES": "从社交媒体下载消息",
+    "LBL_MAIL_RBL": "RBL servers update"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "计划导入的推荐频率为15分钟",
