@@ -315,7 +315,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Search...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "선택목록 순서 설정",
     "LBL_PREFIX": "프리픽스",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s 기능은 아직 활성화되지 않았습니다. 활성화(Activate) 버튼을 눌러주세요.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "활성화"
   },
   "js": {

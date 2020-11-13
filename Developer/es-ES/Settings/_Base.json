@@ -315,7 +315,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Buscar...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Ajustes de secuencia de lista de selección",
     "LBL_PREFIX": "Prefijo",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La funcionalidad %s aún no se ha activado. Haz clic en el botón \"Activar\".",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activar"
   },
   "js": {

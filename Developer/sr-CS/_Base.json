@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "IP Address",
     "LBL_BROWSER": "Browser",
     "ERR_OCCURRED_CHECK_LOGS": "Došlo je do pogreške, provjerite zapisnike",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "Naziv kompanije",
     "LBL_SHOW_PASSWORD": "Pokaži skrivenu lozinku",
     "LBL_NO_DATA_FOUND": "Nema podataka",

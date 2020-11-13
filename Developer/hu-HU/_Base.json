@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "IP Cím",
     "LBL_BROWSER": "Böngésző",
     "ERR_OCCURRED_CHECK_LOGS": "Hiba történt, ellenőrizze a naplók",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "Cég neve",
     "LBL_SHOW_PASSWORD": "Rejtett jelszó megjelenítése",
     "LBL_NO_DATA_FOUND": "Nem található adat",

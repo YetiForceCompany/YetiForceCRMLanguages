@@ -315,7 +315,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Αναζήτηση...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Λίστα επιλογών ρυθμίσεων",
     "LBL_PREFIX": "Πρόθεμα",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "%s λειτουργία δεν έχει ενεργοποιηθεί ακόμη. Κάντε κλικ στο κουμπί \"Ενεργοποίηση\".",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση"
   },
   "js": {

@@ -32,8 +32,8 @@
     "LBL_USE_CUSTOM_VARIABLES": "Systemvariablen zum Erstellen von Präfixen",
     "LBL_UPDATE_MISSING_RECORD_SEQUENCE": "Fehlende Datensatzfolge aktualisieren",
     "LBL_USE_PREFIX_INFO": "Ein Präfix ist ein Wert, der vor der eigentlichen Datensatznummer hinzugefügt wird.\nJedes Modul hat ein anderes Präfix, daher ist es einfacher zu erkennen, wo sich der Datensatz im System befindet.\nPräfixe können bei Bedarf geändert werden, können aber nicht dupliziert werden.\nZum Beispiel können Rechnungen folgende Präfixe haben: INV, INVN oder INVO.\nZeitbezogene Variablen können auch zu Präfixen hinzugefügt werden, z.B. einen Tag, einen Monat, ein Jahr. \nZum Beispiel wird 'INV {{YYYY}}/' als 'INV 2018/84' angezeigt, wobei 84 die Datensatznummer ist.\nVariablen für Präfix/Postfix finden Sie am unteren Rand dieses Formulars. Kopieren Sie eine Variable und fügen Sie sie in das Präfix oder Postfix Feld ein und der Wert wird auch in der Datensatznummer angezeigt.",
-    "LBL_REFERENCE_VARIABLES": "Variables from related records",
-    "LBL_REFERENCE_VARIABLES_INFO": "The function allows for retrieving data from a related record.\nUsing elements in this section is discouraged."
+    "LBL_REFERENCE_VARIABLES": "Variablen aus verknüpften Datensätzen",
+    "LBL_REFERENCE_VARIABLES_INFO": "Die Funktion erlaubt das Abrufen von Daten aus einem zugehörigen Datensatz.\nDie Verwendung von Elementen in diesem Abschnitt wird nicht empfohlen."
   },
   "js": {
     "LBL_PREFIX_IN_USE": "Präfix in Verwendung",

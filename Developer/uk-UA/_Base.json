@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "IP Address",
     "LBL_BROWSER": "Browser",
     "ERR_OCCURRED_CHECK_LOGS": "Сталася помилка, перевірте логи",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "Назва компанії",
     "LBL_SHOW_PASSWORD": "Показати прихований пароль",
     "LBL_NO_DATA_FOUND": "Даних не знайдено",

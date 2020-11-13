@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "IP アドレス",
     "LBL_BROWSER": "ブラウザー",
     "ERR_OCCURRED_CHECK_LOGS": "エラーが発生しました。ログを確認してください",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "会社名",
     "LBL_SHOW_PASSWORD": "非表示のパスワードを表示",
     "LBL_NO_DATA_FOUND": "データが見つかりません",

@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "IP Address",
     "LBL_BROWSER": "Browser",
     "ERR_OCCURRED_CHECK_LOGS": "Error occurred, check the logs",
+    "ERR_OCCURRED_ERROR": "Er is een fout, informeer svp de beheerder",
     "FL_COMPANY_NAME": "Company name",
     "LBL_SHOW_PASSWORD": "Show hidden password",
     "LBL_NO_DATA_FOUND": "No data found",
@@ -1472,7 +1473,7 @@
     "LBL_RELATED_RECORD": "Related record",
     "LBL_SOURCE_RECORD": "Source record",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
-    "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in"
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Sommige vereiste velden zijn niet ingevuld"
   },
   "js": {
     "JS_APPROVE": "Approve",

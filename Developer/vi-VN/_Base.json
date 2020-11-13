@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "Địa chỉ IP",
     "LBL_BROWSER": "Trình duyệt",
     "ERR_OCCURRED_CHECK_LOGS": "Lỗi đã xảy ra, kiểm tra nhật ký",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "Tên công ty",
     "LBL_SHOW_PASSWORD": "Hiện/ẩn mật khẩu",
     "LBL_NO_DATA_FOUND": "Không có dữ liệu",

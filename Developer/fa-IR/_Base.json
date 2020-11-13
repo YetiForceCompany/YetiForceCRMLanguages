@@ -1409,6 +1409,7 @@
     "LBL_IP_ADDRESS": "آدرس IP",
     "LBL_BROWSER": "مرورگر",
     "ERR_OCCURRED_CHECK_LOGS": "خطا رخ داده است بررسی لاگ‌های مرتبط",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "FL_COMPANY_NAME": "نام شرکت",
     "LBL_SHOW_PASSWORD": "نمایش گذرواژه‌های پنهان",
     "LBL_NO_DATA_FOUND": "اطلاعات یافت نشد",
