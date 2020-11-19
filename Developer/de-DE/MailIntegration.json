@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Termin hinzufügen",
     "LBL_ADD_MODCOMMENTS": "Kommentar hinzufügen",
     "LBL_SELECT_RECORD": "Verknüpften Datensatz auswählen",
-    "LBL_ADD_RECORD": "Verknüpften Datensatz hinzufügen",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Laden Sie die Outlook Add-in-Installationsdatei herunter"
+    "LBL_ADD_RECORD": "Verknüpften Datensatz hinzufügen"
   },
   "js": {
     "JS_ERROR": "YetiForce Meldung: Add-In Fehler, bitte wenden Sie sich an Systemadministrator.",

@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Afspraak toevoegen",
     "LBL_ADD_MODCOMMENTS": "Opmerking plaatsen",
     "LBL_SELECT_RECORD": "Selecteer gerelateerd record",
-    "LBL_ADD_RECORD": "Voeg gerelateerd record toe",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download de outlook add-in installatiebestand"
+    "LBL_ADD_RECORD": "Voeg gerelateerd record toe"
   },
   "js": {
     "JS_ERROR": "YetiForce bericht: add-in fout, neem alstublieft contact op met de systeembeheerder.",

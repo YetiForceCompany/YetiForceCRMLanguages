@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Esemény hozzáadása",
     "LBL_ADD_MODCOMMENTS": "Új megjegyzés",
     "LBL_SELECT_RECORD": "Válassza ki a kapcsolódó bejegyzés",
-    "LBL_ADD_RECORD": "Kapcsolat hozzáadása",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Töltse le az outlook bővítmény telepítése fájl"
+    "LBL_ADD_RECORD": "Kapcsolat hozzáadása"
   },
   "js": {
     "JS_ERROR": "YetiForce üzenet: add-in hiba, kérjük lépjen kapcsolatba a rendszergazdával.",

@@ -149,7 +149,6 @@
     "LangManagement": "语言编辑器",
     "Mail Scanner": "邮件扫描程序",
     "Mail View": "电子邮件",
-    "Mail": "邮件-设置",
     "GlobalPermission": "全局权限",
     "Search Setup": "标签和搜索",
     "LBL_EXTENDED_MODULES": "扩展模块",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "搜索...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "选取列表序列设置",
     "LBL_PREFIX": "前缀",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },

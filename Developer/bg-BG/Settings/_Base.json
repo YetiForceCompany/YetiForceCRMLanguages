@@ -149,7 +149,6 @@
     "LangManagement": "Редактор на езици",
     "Mail Scanner": "Mail скенер",
     "Mail View": "Имейли",
-    "Mail": "Mail – RoundCube",
     "GlobalPermission": "Глобално разрешение",
     "Search Setup": "Бележки и търсене",
     "LBL_EXTENDED_MODULES": "Разширени модули",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "Търси...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklist sequence settings",
     "LBL_PREFIX": "Prefix",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },

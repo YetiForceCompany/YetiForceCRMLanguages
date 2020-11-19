@@ -149,7 +149,6 @@
     "LangManagement": "ویرایشگر زبان",
     "Mail Scanner": "ایمیل اسکنر",
     "Mail View": "ایمیل‌ها",
-    "Mail": "ایمیل - RoundCube",
     "GlobalPermission": "مجوزهای کلی",
     "Search Setup": "برچسب‌ها و جستجو",
     "LBL_EXTENDED_MODULES": "ماژول های افزوده",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "جستجو...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "تنظیم سلسله فهرست انتخاب",
     "LBL_PREFIX": "پیشوند",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "فعال کردن"
   },

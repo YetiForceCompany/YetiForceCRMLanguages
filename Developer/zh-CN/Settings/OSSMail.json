@@ -1,6 +1,7 @@
 {
   "php": {
     "OSSMail": "我的邮箱",
+    "LBL_OSSMAIL": "Mail – RoundCube",
     "ERR_NO_MODULE_IS_INACTIVE": "\"我的邮箱\" 模块没有启用, 应首先到设置中启用."
   },
   "js": {}

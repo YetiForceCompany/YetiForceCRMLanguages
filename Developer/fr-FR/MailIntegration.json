@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Ajouter un évènement",
     "LBL_ADD_MODCOMMENTS": "Ajouter un commentaire",
     "LBL_SELECT_RECORD": "Sélectionner l'enregistrement associé",
-    "LBL_ADD_RECORD": "Ajouter un enregistrement associé",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Téléchargez le fichier d'installation du complément Outlook"
+    "LBL_ADD_RECORD": "Ajouter un enregistrement associé"
   },
   "js": {
     "JS_ERROR": "Message YetiForce : erreur de complément, veuillez contacter l'administrateur système.",

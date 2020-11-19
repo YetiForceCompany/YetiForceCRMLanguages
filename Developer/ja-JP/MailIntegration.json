@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "イベントを追加",
     "LBL_ADD_MODCOMMENTS": "コメントを追加",
     "LBL_SELECT_RECORD": "関連するレコードを選択",
-    "LBL_ADD_RECORD": "関連レコードを追加",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Outlookアドインインストールファイルをダウンロード"
+    "LBL_ADD_RECORD": "関連レコードを追加"
   },
   "js": {
     "JS_ERROR": "YetiForce メッセージ: アドインエラー。システム管理者に問い合わせてください。",

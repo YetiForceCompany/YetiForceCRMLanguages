@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Dodaj dogodek",
     "LBL_ADD_MODCOMMENTS": "Dodaj komentar",
     "LBL_SELECT_RECORD": "Izberite sorodni zapis",
-    "LBL_ADD_RECORD": "Dodajte sorodni zapis",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Prenesite namestitveno datoteko dodatka Outlook"
+    "LBL_ADD_RECORD": "Dodajte sorodni zapis"
   },
   "js": {
     "JS_ERROR": "Sporočilo YetiForce: napaka v dodatku, prosimo, kontaktirajte skrbnika sistema.",

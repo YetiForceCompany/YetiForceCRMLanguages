@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Dodaj wydarzenie",
     "LBL_ADD_MODCOMMENTS": "Dodaj komentarz",
     "LBL_SELECT_RECORD": "Wybierz powiązany rekord",
-    "LBL_ADD_RECORD": "Dodaj powiązany rekord",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Pobierz plik instalacyjny dodatku Outlook"
+    "LBL_ADD_RECORD": "Dodaj powiązany rekord"
   },
   "js": {
     "JS_ERROR": "Komunikat YetiForce: błąd dodatku, skontaktuj się z administratorem systemu.",

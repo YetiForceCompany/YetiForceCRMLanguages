@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "添加事件",
     "LBL_ADD_MODCOMMENTS": "添加注释",
     "LBL_SELECT_RECORD": "选择相关记录",
-    "LBL_ADD_RECORD": "添加相关记录",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "下载的Outlook插件的安装文件"
+    "LBL_ADD_RECORD": "添加相关记录"
   },
   "js": {
     "JS_ERROR": "YetiForce 消息：附加组件错误，请联系系统管理员。",

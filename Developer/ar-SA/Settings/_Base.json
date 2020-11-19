@@ -149,7 +149,6 @@
     "LangManagement": "تحرير اللغات",
     "Mail Scanner": "ماسح الوسائط",
     "Mail View": "البريد الإلكتروني",
-    "Mail": "البريد RoundCube",
     "GlobalPermission": "الأذونات الشاملة",
     "Search Setup": "التسميات البحث",
     "LBL_EXTENDED_MODULES": "تمديد وحدات",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "بحث...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "وقائمة الاختيار تسلسل الإعدادات",
     "LBL_PREFIX": "بادئة",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activate"
   },

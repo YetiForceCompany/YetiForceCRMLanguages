@@ -1,0 +1,17 @@
+{
+  "php": {
+    "MailIntegration": "Pannello di integrazione email",
+    "LBL_MAIL_INTEGRATION": "Pannello di integrazione email",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM come pannello di integrazione in un client di posta esterno",
+    "LBL_OUTLOOK": "Componenti aggiuntivi di Outlook",
+    "LBL_OUTLOOK_ALERT": "Le istruzioni per l'installazione dei componenti aggiuntivi possono essere trovate su %s",
+    "LBL_OUTLOOK_ADDRESSES": "URL server di posta di Outlook",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Elenco di indirizzi in cui il sistema sarà disponibile come pannello di integrazione, obbligatorio per Outlook Web App ad es. %s",
+    "LBL_OUTLOOK_SCRIPT": "Server CDN consentiti per JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "Elenco di indirizzi server CDN consentiti da cui possono essere caricati i file JavaScript, ad esempio %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Activation modifies the 'config / Security.php' file and reduces the security level, changes:\n- it allows loading CRM in an inframe\n- it allows loading of external scripts (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- it disables HttpOnly in cookie \n- it changes cookie SameSite to None",
+    "LBL_QUICK_CREATE_MODULES": "Elenco dei moduli di creazione rapida",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Elenco dei moduli in cui i dati possono essere creati dal pannello di integrazione. \n Se non è selezionato alcun valore, il sistema selezionerà la lista di creazione rapida predefinita",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Scarica il file di installazione del componente aggiuntivo di outlook"
+  }
+}

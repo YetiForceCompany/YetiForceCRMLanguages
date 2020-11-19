@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "افزودن رویداد",
     "LBL_ADD_MODCOMMENTS": "افزودن نظر",
     "LBL_SELECT_RECORD": "انتخاب رکورد مرتبط",
-    "LBL_ADD_RECORD": "افزودن رکورد مرتبط",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "دانلود فایل نصب افزونه outlook"
+    "LBL_ADD_RECORD": "افزودن رکورد مرتبط"
   },
   "js": {
     "JS_ERROR": "پیام YetiForce: خطای افزودنی ، لطفاً با مدیر سامانه تماس بگیرید.",

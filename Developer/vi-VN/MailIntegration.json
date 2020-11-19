@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Thêm sự kiện",
     "LBL_ADD_MODCOMMENTS": "Thêm bình luận",
     "LBL_SELECT_RECORD": "Chọn hồ sơ liên quan",
-    "LBL_ADD_RECORD": "Thêm biểu ghi liên quan",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Tải về file cài đặt add-in của Outlook"
+    "LBL_ADD_RECORD": "Thêm biểu ghi liên quan"
   },
   "js": {
     "JS_ERROR": "Thông điệp: lỗi add-in, hãy liên hệ với người quản trị.",

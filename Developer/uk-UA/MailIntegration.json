@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Додати подію",
     "LBL_ADD_MODCOMMENTS": "Додати коментар",
     "LBL_SELECT_RECORD": "Виберіть пов’язаний запис",
-    "LBL_ADD_RECORD": "Додати пов’язаний запис",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file"
+    "LBL_ADD_RECORD": "Додати пов’язаний запис"
   },
   "js": {
     "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",

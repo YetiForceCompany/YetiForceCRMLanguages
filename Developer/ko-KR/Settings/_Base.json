@@ -149,7 +149,6 @@
     "LangManagement": "언어 편집기",
     "Mail Scanner": "메일 스캐너",
     "Mail View": "이메일",
-    "Mail": "이메일 – RoundCube",
     "GlobalPermission": "전역 권한",
     "Search Setup": "Labels and searching",
     "LBL_EXTENDED_MODULES": "확장된 모듈",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "Search...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "선택목록 순서 설정",
     "LBL_PREFIX": "프리픽스",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "활성화"
   },

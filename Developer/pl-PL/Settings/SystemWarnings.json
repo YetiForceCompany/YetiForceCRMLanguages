@@ -2,6 +2,10 @@
 	"php": {
 		"SystemRequirements": "Wymagania systemowe",
 		"LBL_CHECK_SERVER_BLACK_LIST_IP": "Sprawdza adres IP serwera na czarnej liście",
+		"LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Poczta RBL - zgłoszenia do weryfikacji",
+		"LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Liczba potencjalnych zgłoszeń o spamie oczekujących na weryfikację: %s",
+		"LBL_CHECK_BLACKLIST_REPORTS": "Poczta RBL - zgłoszenia na czarnej liście",
+		"LBL_CHECK_BLACKLIST_REPORTS_DESC": "Liczba zaakceptowanych zgłoszeń o spamie na czarnej liście: %s",
 		"LBL_LIBRARY_ROUNDCUBE": "Biblioteka Roundcube",
 		"LBL_LIBRARY_PHPEXCEL": "Biblioteka PHPExcel",
 		"LBL_CONFIG_REPORT": "Konfiguracja serwera",
@@ -54,6 +58,7 @@
 		"LBL_SYSTEM_UPDATER": "Aktualizator systemu",
 		"LBL_LANGUAGES_UPDATER": "Aktualizator języków",
 		"LBL_LANGUAGES_UPDATER_DESC": "Dostępna jest aktualizacja języków zainstalowanych w Twoim systemie CRM. Przejdź do Zarządzani Językami i kliknij na przycisk aktualizuj.",
-		"LBL_UPDATER_DESC": "Dostępne są aktualizacje dla Twojej wersji systemu. Zalecamy aktualizację."
+		"LBL_UPDATER_DESC": "Dostępne są aktualizacje dla Twojej wersji systemu. Zalecamy aktualizację.",
+		"Mail": "Poczta"
 	}
 }

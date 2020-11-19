@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Añadir evento",
     "LBL_ADD_MODCOMMENTS": "Añadir comentario",
     "LBL_SELECT_RECORD": "Seleccionar registro relacionado",
-    "LBL_ADD_RECORD": "Añadir registro relacionado",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Descarga el archivo de instalación del complemento de Outlook"
+    "LBL_ADD_RECORD": "Añadir registro relacionado"
   },
   "js": {
     "JS_ERROR": "Mensaje de YetiForce: error de complemento, comuníquese con el administrador del sistema.",

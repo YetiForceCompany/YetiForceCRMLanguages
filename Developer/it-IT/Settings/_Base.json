@@ -149,7 +149,6 @@
     "LangManagement": "Editor di lingua",
     "Mail Scanner": "Scanner email",
     "Mail View": "Email",
-    "Mail": "Email - RoundCube",
     "GlobalPermission": "Permessi globali",
     "Search Setup": "Etichette e ricerca",
     "LBL_EXTENDED_MODULES": "Moduli estesi",
@@ -315,8 +314,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Cerca...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Impostazioni sequenza elenco discesa",
     "LBL_PREFIX": "Prefisso",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
-    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La funzionalità %s non è stata ancora attivata o le modifiche nella configurazione sono state eseguite e la funzionalità non funziona correttamente.\nLa funzionalità deve essere riattivata per funzionare correttamente.",
+    "LBL_REQUIRES_INTERVENTION": "Richiede intervento",
     "LBL_ACTIVATE_FUNCTIONALITY": "Attivazione"
   },
   "js": {

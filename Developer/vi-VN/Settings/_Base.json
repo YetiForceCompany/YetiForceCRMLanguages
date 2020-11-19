@@ -149,7 +149,6 @@
     "LangManagement": "Trình soạn thảo ngôn ngữ",
     "Mail Scanner": "Máy quét mail",
     "Mail View": "Email",
-    "Mail": "Mail – RoundCube",
     "GlobalPermission": "Quyền chung",
     "Search Setup": "Nhãn và tìm kiếm",
     "LBL_EXTENDED_MODULES": "Mô đun mở rộng",
@@ -315,7 +314,7 @@
     "LBL_SEARCH_PLACEHOLDER": "Tìm kiếm...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Thiết lập trình tự danh sách chọn",
     "LBL_PREFIX": "Tiền tố",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly. The functionality must be reactivated in order to work properly.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Kích hoạt"
   },

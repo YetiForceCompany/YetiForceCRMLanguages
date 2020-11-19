@@ -10,8 +10,7 @@
     "LBL_ADD_CALENDAR": "Aggiungi evento",
     "LBL_ADD_MODCOMMENTS": "Aggiungi commento",
     "LBL_SELECT_RECORD": "Seleziona il record relazionato",
-    "LBL_ADD_RECORD": "Aggiungi record relazionato",
-    "LBL_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Scarica il file di installazione del componente aggiuntivo di outlook"
+    "LBL_ADD_RECORD": "Aggiungi record relazionato"
   },
   "js": {
     "JS_ERROR": "Messaggio YetiForce: errore sull'addin contatta l'amministratore del sistema.",
