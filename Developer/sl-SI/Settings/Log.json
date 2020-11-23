@@ -15,6 +15,13 @@
     "LBL_URL": "URL",
     "LBL_AGENT": "Zastopnik",
     "LBL_REQUEST": "Zahtevek",
-    "LBL_REFERER": "Referer"
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Osnovni uporabnik",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "Uporabniški agent",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }

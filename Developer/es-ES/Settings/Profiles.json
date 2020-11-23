@@ -85,7 +85,7 @@
     "RemoveRelation": "Eliminar relación",
     "ReceivingMailNotifications": "Recibir notificaciones por correo electrónico",
     "ActivityCancel": "Cancelar registros",
-    "ActivityComplete": "Cerrar registros",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Aplazar registros",
     "Emails": "Enviar correos [SMTP]",
     "ModTracker": "Historial de cambios",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "Transferencia automática de registros",
     "RecordConventer": "Record converter",
     "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "MeetingUrl": "Meeting URL",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Perfil eliminado correctamente"

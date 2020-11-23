@@ -85,7 +85,7 @@
     "RemoveRelation": "حذف رابطه",
     "ReceivingMailNotifications": "دریافت اطلاعیه ایمیل",
     "ActivityCancel": "انصراف از رکوردها",
-    "ActivityComplete": "بستن رکورد",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "به تعویق انداختن رکورد",
     "Emails": "ارسال ایمیل [SMTP]",
     "ModTracker": "تغییر تاریخچه",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "انتقال خودکار رکوردها",
     "RecordConventer": "مبدل رکورد",
     "RecordCollector": "Record collector",
-    "MeetingUrl": "URL جلسه"
+    "MeetingUrl": "URL جلسه",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "پروفایل با موفقیت حذف شد"

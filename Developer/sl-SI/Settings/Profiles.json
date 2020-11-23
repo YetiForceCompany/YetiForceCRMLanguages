@@ -85,7 +85,7 @@
     "RemoveRelation": "Odstranite razmerje",
     "ReceivingMailNotifications": "Prejemanje obvestil pošte",
     "ActivityCancel": "Prekliči zapise",
-    "ActivityComplete": "Zapri zapise",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Prestavite zapise",
     "Emails": "Pošlji e-pošto [SMTP]",
     "ModTracker": "Zgodovina sprememb",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "Avtomatski prenos zapisov",
     "RecordConventer": "Pretvornik zapisov",
     "RecordCollector": "Zbiralec zapisov",
-    "MeetingUrl": "URL srečanja"
+    "MeetingUrl": "URL srečanja",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspešno izbrisana"

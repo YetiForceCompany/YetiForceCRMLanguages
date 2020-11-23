@@ -85,7 +85,7 @@
     "RemoveRelation": "Remove relation",
     "ReceivingMailNotifications": "Receiving mail notifications",
     "ActivityCancel": "Rekordok elvetése",
-    "ActivityComplete": "Rekordok zárása",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Postpone records",
     "Emails": "email-ek küldése [SMTP]",
     "ModTracker": "Change history",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "Automatic transfer of records",
     "RecordConventer": "Rekord átalakító",
     "RecordCollector": "Rekord kapcsoló",
-    "MeetingUrl": "Meeting URL"
+    "MeetingUrl": "Meeting URL",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

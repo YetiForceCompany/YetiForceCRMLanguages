@@ -85,7 +85,7 @@
     "RemoveRelation": "リレーションを削除",
     "ReceivingMailNotifications": "メール通知の受信",
     "ActivityCancel": "キャンセル記録",
-    "ActivityComplete": "レコードを閉じる",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "レコードを延期する",
     "Emails": "メールを送信 [SMTP]",
     "ModTracker": "変更履歴",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "レコードの自動転送",
     "RecordConventer": "レコードコンバータ",
     "RecordCollector": "レコードコレクター",
-    "MeetingUrl": "ミーティング URL"
+    "MeetingUrl": "ミーティング URL",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "プロファイルが正常に削除されました"

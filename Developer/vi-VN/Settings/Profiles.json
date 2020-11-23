@@ -85,7 +85,7 @@
     "RemoveRelation": "Bỏ mối quan hệ",
     "ReceivingMailNotifications": "Thông báo nhận email",
     "ActivityCancel": "Hủy hồ sơ",
-    "ActivityComplete": "Đóng hồ sơ",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Hoãn hồ sơ",
     "Emails": "Gửi email [SMTP]",
     "ModTracker": "Lịch sử thay đổi",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "Chuyển tự động các hồ sơ",
     "RecordConventer": "Bộ chuyển đổi biểu ghi",
     "RecordCollector": "Bộ sưu tập biểu ghi",
-    "MeetingUrl": "URL cuộc họp"
+    "MeetingUrl": "URL cuộc họp",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Đã xoá hồ sơ cá nhân thành công"

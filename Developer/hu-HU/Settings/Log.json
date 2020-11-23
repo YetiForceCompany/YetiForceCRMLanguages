@@ -15,6 +15,13 @@
     "LBL_URL": "URL",
     "LBL_AGENT": "Ügynök",
     "LBL_REQUEST": "Kérelem",
-    "LBL_REFERER": "Hivatkozó"
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }

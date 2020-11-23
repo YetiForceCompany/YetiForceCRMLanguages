@@ -85,7 +85,7 @@
     "RemoveRelation": "Zuordnung entfernen",
     "ReceivingMailNotifications": "E-Mail Benachrichtigung empfangen",
     "ActivityCancel": "Datensätze abbrechen",
-    "ActivityComplete": "Datensätze schließen",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Datensätze verschieben",
     "Emails": "E-Mails senden [SMTP]",
     "ModTracker": "Historie ändern",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "Automatische Übertragung von Datensätzen",
     "RecordConventer": "Datensatzkonverter",
     "RecordCollector": "Datensatzkonverter",
-    "MeetingUrl": "Meeting-URL"
+    "MeetingUrl": "Meeting-URL",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil erfolgreich gelöscht"

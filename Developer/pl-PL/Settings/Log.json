@@ -15,6 +15,13 @@
     "LBL_URL": "Adres",
     "LBL_AGENT": "Przegladarka",
     "LBL_REQUEST": "Żądanie",
-    "LBL_REFERER": "Referer"
+    "LBL_TIME": "Czas",
+    "LBL_CATEGORY": "Kategoria",
+    "LBL_CODE": "Kod",
+    "LBL_BASE_USER": "Użytkownik podstawowy",
+    "LBL_DEST_USER": "Użytkownik docelowy",
+    "LBL_USER_AGENT": "Przeglądarka",
+    "LBL_LOGS_VIEWER": "Podgląd logów",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }

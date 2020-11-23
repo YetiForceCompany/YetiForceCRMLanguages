@@ -85,7 +85,7 @@
     "RemoveRelation": "删除关联",
     "ReceivingMailNotifications": "接收邮件通知",
     "ActivityCancel": "取消记录",
-    "ActivityComplete": "关闭记录",
+    "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "延迟记录",
     "Emails": "发送邮件[SMTP]",
     "ModTracker": "变更记录",
@@ -93,7 +93,8 @@
     "AutoAssignRecord": "记录的自动转移",
     "RecordConventer": "Record converter",
     "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL"
+    "MeetingUrl": "Meeting URL",
+    "InterestsConflictUsers": "Conflict of interests"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "权限配置已被删除"

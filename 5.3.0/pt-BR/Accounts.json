@@ -87,11 +87,11 @@
     "PLL_UFCIITS": "Clube de investimento Coletivo em Valores Mobiliários",
     "LBL_DEACTIVATED_BY": "Conta desativada por",
     "SINGLE_Vendors": "Fornecedor",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook",
-    "FL_SUM_ORDERS": "Sum of open sales orders",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_CHECK_STOCK_LEVELS": "Verifique os níveis de estoque",
+    "FL_PRICEBOOK": "Caderno de preços",
+    "FL_SUM_ORDERS": "Soma de pedidos de vendas em aberto",
+    "FL_TAXES": "Impostos",
+    "FL_AVAILABLE_TAXES": "Impostos disponíveis"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "O nome da Conta já existe. Deseja criar um registro duplicado?",

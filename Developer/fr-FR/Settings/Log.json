@@ -15,6 +15,13 @@
     "LBL_URL": "URL",
     "LBL_AGENT": "Agent",
     "LBL_REQUEST": "Requête",
-    "LBL_REFERER": "Referer"
+    "LBL_TIME": "Heure",
+    "LBL_CATEGORY": "Catégorie",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Utilisateur de base",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LOGS_VIEWER": "Visionneuse de journaux",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }
