@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_OWNER_ALLOCATION": "Dodijeli vlasnika",
+    "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_MULTIOWNER_ALLOCATION": "Dodijelite korisnicima dijeljenja",
+    "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_SORTING_SETTINGS_WORNING": "Upozorenje!\n Konfiguracija će raditi samo kad je omogućite na panelu Uloge",
+    "LBL_ADD_PANEL_TO_MODULE": "Dodajte alokaciju modulu",
+    "LBL_SELECT_MODULE": "Odaberite modul",
+    "LBL_GO_TO_PANEL": "idi na panel",
+    "LBL_USERS_AND_GROUPS": "Korisnici i grupe"
+  },
+  "js": {
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Jeste li sigurni da želite ukloniti sve alokacije u ovom modulu?"
+  }
+}

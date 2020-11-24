@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "Приховування Блоків",
+    "LBL_HIDEBLOCKS": "Поля - Приховувати блоки",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Управління приховуванням блоків з полями",
+    "LBL_BLOCK_LABEL": "Блок",
+    "LBL_MODULE": "Модуль",
+    "LBL_ENABLED": "Активний",
+    "LBL_EDIT_BLOCK": "Редагувати",
+    "LBL_NEW_BLOCK": "Створити",
+    "LBL_BLOCK": "Блок",
+    "LBL_NEXT": "Далі",
+    "LBL_VIEW": "Показувати",
+    "LBL_MANDATORY_FIELDS_EXIST": "Цей блок не можна приховати, оскільки він містить обов'язкові поля."
+  }
+}

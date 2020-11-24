@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "ブロックを隠す",
+    "LBL_HIDEBLOCKS": "フィールド – ブロックを隠す",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "フィールドを非表示にするブロックを管理します",
+    "LBL_BLOCK_LABEL": "ブロック",
+    "LBL_MODULE": "モジュール",
+    "LBL_ENABLED": "有効",
+    "LBL_EDIT_BLOCK": "編集",
+    "LBL_NEW_BLOCK": "作成",
+    "LBL_BLOCK": "ブロック",
+    "LBL_NEXT": "次",
+    "LBL_VIEW": "表示",
+    "LBL_MANDATORY_FIELDS_EXIST": "必須項目が含まれているため、このブロックは非表示にできません。"
+  }
+}

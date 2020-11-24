@@ -1,0 +1,27 @@
+{
+  "php": {
+    "LBL_LOGS": "Sự cố bảo mật",
+    "LBL_LOGS_DESC": "Bảng điều khiển cho xem các sự cố an ninh",
+    "LBL_ACCESS_FOR_ADMIN": "Truy cập cho quản trị",
+    "LBL_ACCESS_FOR_API": "Truy cập cho API",
+    "LBL_ACCESS_FOR_USER": "Truy cập cho người dùng",
+    "LBL_ACCESS_TO_RECORD": "Truy cập vào hồ sơ",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Tên đăng nhập",
+    "LBL_DATE": "Ngày",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "ID hồ sơ",
+    "LBL_MODULE": "Mô-đun",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Yêu cầu",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikasi Email",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikasi pajak pertambahan nilai",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikasi ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Catatan blok menambahkan/mengedit ketika kode EAN sudah ada",
+    "IGDNC_IGDNEXIST_HANDLER": "Koreksi Pengiriman Barang Duplikat",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Waktu kerja dibatasi hingga 24 jam"
+  }
+}

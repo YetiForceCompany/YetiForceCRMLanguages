@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "Απόκρυψη μπλοκ",
+    "LBL_HIDEBLOCKS": "Πεδία – Απόκρυψη μπλοκ",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Διαχείριση της απόκρυψης μπλοκ με πεδία",
+    "LBL_BLOCK_LABEL": "Μπλοκ",
+    "LBL_MODULE": "Module",
+    "LBL_ENABLED": "Ενεργό",
+    "LBL_EDIT_BLOCK": "Επεξεργασία",
+    "LBL_NEW_BLOCK": "Δημιουργία",
+    "LBL_BLOCK": "Μπλοκ",
+    "LBL_NEXT": "Επόμενο",
+    "LBL_VIEW": "Προβολή",
+    "LBL_MANDATORY_FIELDS_EXIST": "Αυτό το μπλοκ δεν μπορεί να κρυφτεί, επειδή περιέχει υποχρεωτικά πεδία."
+  }
+}

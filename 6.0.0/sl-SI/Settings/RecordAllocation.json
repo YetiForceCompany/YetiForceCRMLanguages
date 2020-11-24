@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_OWNER_ALLOCATION": "Določi upravitelja",
+    "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_MULTIOWNER_ALLOCATION": "Dodeli uporabnike skupne rabe",
+    "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_SORTING_SETTINGS_WORNING": "Opozorilo!\n  Konfiguracija bo delovala samo, če jo omogočite na plošči Vloge",
+    "LBL_ADD_PANEL_TO_MODULE": "Dodaj dodelitev modulu",
+    "LBL_SELECT_MODULE": "Izberi modul",
+    "LBL_GO_TO_PANEL": "pojdi na ploščo",
+    "LBL_USERS_AND_GROUPS": "Uporabniki in skupine"
+  },
+  "js": {
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Ali ste prepričani, da želite odstraniti vse dodelitve modulu?"
+  }
+}

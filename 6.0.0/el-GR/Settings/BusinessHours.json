@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Ώρες εργασίας",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "\"'Ώρες εργασίας\" είναι ένα module στo οποίo μπορείτε να ορίσετε τις ώρες εργασίας της επιχείρησής σας και της ομάδας σας.",
+    "LBL_WORKING_HOURS_FROM": "Από",
+    "LBL_WORKING_HOURS_TO": "Έως",
+    "LBL_WORKING_DAYS": "Εργάσιμες ημέρες",
+    "LBL_WORKING_HOURS": "Ώρες εργασίας",
+    "LBL_DEFAULT": "Προεπιλογή",
+    "LBL_NAME": "Όνομα",
+    "LBL_HOLIDAYS": "Αργίες",
+    "LBL_EDIT_BUSINESS_HOURS": "Επεξεργαστείτε τις ώρες εργασίας",
+    "LBL_ADD_BUSINESS_HOURS": "Προσθέστε καταχωρήσεις με τις ώρες εργασίας",
+    "LBL_DEFAULT_TIMES": "Προεπιλεγμένοι χρόνοι",
+    "LBL_DEFAULT_REACTION_TIME": "Προεπιλεγμένος χρόνος απόκρισης",
+    "LBL_DEFAULT_IDLE_TIME": "Προεπιλεγμένος χρόνος αδράνειας",
+    "LBL_DEFAULT_RESOLVE_TIME": "Προεπιλεγμένος χρόνος επίλυσης",
+    "LBL_HOLIDAYS_LINK": "Μετάβαση στον πίνακα ρυθμίσεων αργιών"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Είστε βέβαιος ότι θέλετε να διαγράψετε αυτή την καταχώρηση;"
+  }
+}

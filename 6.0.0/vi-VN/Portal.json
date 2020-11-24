@@ -1,0 +1,25 @@
+{
+  "php": {
+    "HTTP_ERROR": "Các trang web mà bạn đang cố gắng mở là không an toàn và có thể không mở. Nếu bạn vẫn muốn xem trang web sau đó bạn có thể nhấp vào trình chặn nội dung trong thanh địa chỉ và kích hoạt nó.",
+    "LBL_ADD_BOOKMARK": "Thêm Bookmark",
+    "LBL_ADD_NEW_BOOKMARK": "Thêm Bookmark",
+    "LBL_BOOKMARK": "Bookmark",
+    "LBL_BOOKMARK_NAME": "Tên bookmark",
+    "LBL_BOOKMARK_SAVED_SUCCESSFULLY": "Bookmark đã được lưu thành công",
+    "LBL_BOOKMARKS": "Bookmarks",
+    "LBL_BOOKMARKS_DELETED_SUCCESSFULLY": "Bookmark đã được xoá thành công",
+    "LBL_BOOKMARKS_LIST": "Danh sách dấu trang",
+    "LBL_BOOKMARK_URL": "Bookmark URL",
+    "LBL_CREATED_ON": "Ngày tạo",
+    "LBL_EDIT_BOOKMARK": "Chỉnh sửa dấu trang",
+    "LBL_ENTER_BOOKMARK_NAME": "Nhập tên",
+    "LBL_ENTER_URL": "Nhập Url (www.example.com)",
+    "LBL_OUR_SITES_LIST": "Danh sách trang web của chúng ta",
+    "LBL_RECORD_DELETED_SUCCESSFULLY": "Hồ sơ đã xóa thành công",
+    "Portal": "Trang web của chúng tôi",
+    "SINGLE_Portal": "Trang web của chúng tôi"
+  },
+  "js": {
+    "JS_ENTER_MANDATORY_FIELD": "Xin vui lòng điền vào tất cả bắt buộc"
+  }
+}

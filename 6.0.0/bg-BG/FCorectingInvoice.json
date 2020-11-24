@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Поправяне на фактури",
+    "SINGLE_FCorectingInvoice": "Поправяне на фактура",
+    "LBL_CUSTOM_INFORMATION": "Информация за системата",
+    "LBL_INVOICE_ADDRESS": "Адрес за фактуриране",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адрес за доставка",
+    "FL_SUBJECT": "Тема",
+    "FL_PAYMENT_DATE": "Срок",
+    "FL_SALE_DATE": "Дата на продажба",
+    "FL_BANK_ACCOUNT": "Номер на банкова сметка",
+    "FL_NUMBER": "Номер на фактура",
+    "FL_ACCOUNT": "Профил",
+    "FL_TOTAL": "Нето",
+    "FL_GROSS": "Бруто",
+    "FL_STATUS": "Статус",
+    "PLL_WIRE_TRANSFER": "Електронен превод",
+    "LBL_YEAR": "Година",
+    "FL_INVOICE": "Фактура",
+    "LBL_COMMENTS": "Коментари",
+    "FL_EXTERNAL_COMMENT": "Външен коментар",
+    "FL_INTERNAL_COMMENT": "Вътрешен коментар",
+    "LBL_BEFORE_CORRECTION": "Преди корекция",
+    "LBL_AFTER_CORRECTION": "След корекция",
+    "LBL_CHOOSE_INVOICE": "Изберете фактура за корекция",
+    "LBL_COPY_FROM_INVOICE": "Копирай от първоначалната фактура",
+    "LBL_INVOICE_INFO": "Първоначалните полета на фактурата - преди корекций.",
+    "LBL_AFTER_INVOICE_INFO": "Как трябва да изглезда крайната фактура след корекцийте.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Полета на фактурата който са за корекция. Копиране на всички полета от първоначалната фактура и промени стойностите както е необходимо."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Изберете фактура за корекция"
+  }
+}

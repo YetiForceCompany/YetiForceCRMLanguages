@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Политика SLA",
+    "LBL_NAME": "Название полиса",
+    "LBL_EDIT": "Изменить полис SLA",
+    "LBL_CREATE": "Создать полис SLA",
+    "LBL_SOURCE_MODULE": "Модуль"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Выберите часы работы",
+    "JS_BUSINESS_HOURS_FROM": "От",
+    "JS_BUSINESS_HOURS_TO": "К",
+    "JS_BUSINESS_HOURS_NAME": "Имя",
+    "JS_BUSINESS_HOURS_DAYS": "Рабочие дни",
+    "JS_HOLIDAYS": "Праздники"
+  }
+}

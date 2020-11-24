@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Backup manager",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Управляване на резервните копия",
+    "LBL_DOWNLOAD": "Сваляне",
+    "LBL_FILE_NAME": "Име на файла",
+    "LBL_FILE_SIZE": "Размер на файла",
+    "LBL_FILE_DATE": "Дата на модифициране",
+    "LBL_BACKUP_LIST": "Backup списък",
+    "ERR_CONFIG_ALERT_TITLE": "Backup Manager е изключен",
+    "ERR_CONFIG_ALERT_DESC": "Изберете съответния начин в променливата стойност на BACKUP_PATH в конфигурационния файл [config\/Components\/Backup.php], за да го включите."
+  },
+  "js": {}
+}

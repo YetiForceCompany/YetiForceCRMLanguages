@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Επεξεργαστής Γρήγορης Δημιουργίας",
+    "LBL_QUICK_CREATE_EDITOR": "Πεδία – Γρήγορη δημιουργία",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module που επιτρέπει να αλλάξετε τη διάταξη των πεδίων στο παράθυρο Γρήγορη Δημιουργία",
+    "LBL_SEQUENCE": "Σειρά των πεδίων",
+    "LBL_SAVE_FIELD_SEQUENCE": "Αποθήκευση σειράς των πεδίων"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Σειρά των πεδίων ενημερώθηκε"
+  }
+}

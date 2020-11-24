@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "شرکا",
+    "SINGLE_Partners": "شریک",
+    "LBL_PARTNERS_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_VAT_ID": "شناسه مالیاتی",
+    "FL_CATEGORY": "دسته بندی"
+  }
+}

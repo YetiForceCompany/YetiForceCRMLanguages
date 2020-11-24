@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Favoritos",
+    "LBL_ROOM_GROUP": "Sala de grupo",
+    "LBL_ROOM_GLOBAL": "Sala global",
+    "LBL_MESSAGE": "Message",
+    "LBL_PARTICIPANTS": "Participantes",
+    "LBL_SEARCH_PARTICIPANTS": "Pesquisar participantes",
+    "LBL_SEARCH_MESSAGE": "Pesquisar mensagens",
+    "LBL_CREATE_CHAT_ROOM": "Criar sala de bate-papo",
+    "LBL_REMOVE_FROM_FAVORITES": "Remover dos favoritos",
+    "LBL_ADD_FROM_FAVORITES": "Adicionar aos favoritos",
+    "LBL_EARLIER": "Mais cedo",
+    "LBL_NOTIFICATION": "Notificações do chat",
+    "LBL_SOUND_OFF": "Som desligado",
+    "LBL_SOUND_ON": "Som ligado",
+    "LBL_HISTORY_CHAT": "Histórico de conversas",
+    "LBL_MORE": "mais",
+    "LBL_HIDE": "ocultar",
+    "LBL_NO_MESSAGES": "Sem mensagens",
+    "LBL_UNREAD": "Não lida",
+    "LBL_ENTER": "Isso habilita\/desabilita o envio de mensagens após pressionar o ENTER",
+    "LBL_DETAIL_VIEW": "Visão detalhada",
+    "LBL_ROOM_DESCRIPTION_CRM": "Listas de salas de bate-papo com registros marcados como favoritos",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Lista de salas de bate-papo com grupos de usuários",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Lista de salas de bate-papo visível para todos os usuários",
+    "LBL_CHAT_USER_SWITCHED": "O chat está inativo se você mudou para outro usuário.",
+    "LBL_CHAT_NEW_MESSAGE": "Nova Mensagem"
+  }
+}

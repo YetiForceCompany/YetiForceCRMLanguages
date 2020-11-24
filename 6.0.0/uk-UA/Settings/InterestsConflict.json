@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Конфлікт інтересів",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Конфлікт інтересів",
+    "LBL_MAIN_CONFIG": "Загальна конфігурація",
+    "LBL_MODULES": "Модулі",
+    "LBL_UNLOCK_REQUESTS": "Розблокування запитів",
+    "LBL_CONFIRMATIONS": "Підтвердження",
+    "LBL_IS_ACTIVE": "Активація конфлікту інтересів",
+    "LBL_NOTIFICATIONS_EMAILS": "Адреси електронної пошти для сповіщеннь",
+    "LBL_INTERVAL_TIME": "Проміжок часу",
+    "LBL_INTERVAL_TIME_DESC": "Інтервал часу, який визначає, як часто система повинна вимагати підтвердження щодо відсутності конфлікту інтересів.",
+    "LBL_INDEFINITELY": "безстроково",
+    "LBL_USERS_CONFIRMATIONS": "Доступ до панелі підтвердження",
+    "LBL_USERS_UNLOCK": "Доступ до панелі розблокування запитів",
+    "LBL_RELATIONSHIP": "Зв’язок",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Надіслати електронне повідомлення, під час запиту доступ до запису",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail відправлений на вищезгадані особі (Адреса електронної пошти для сповіщень)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Відправити електронний лист із результатами запиту для доступу до запису",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "Електронне повідомлення, надіслане особі, яка робить запит на доступ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_TWITTER": "推特（Twitter）",
+    "LBL_TWITTER_DESC": "Twitter集成",
+    "LBL_ARCHIVING_RECORDS_NUMBER_OF_DAYS": "存档记录-天数",
+    "LBL_SOCIAL_MEDIA_CRON_WARNING": "未启用社交定时任务, 这对于正确存档是必需的。",
+    "LBL_SOCIAL_MEDIA_CRON2_WARNING": "必须启用定时任务才能从社交媒体检索消息",
+    "LBL_TWITTER_API_KEY": "Twitter API 密钥",
+    "LBL_TWITTER_API_SECRET": "Twitter API 秘密",
+    "LBL_TWITTER_INSTRUCTION": "配置 Twitter API 需要 Twitter 上的开发人员帐户。添加新应用程序, 转到应用程序的详细信息, 并找到 API 密钥所在的 \"密钥和令牌\" 选项卡。请在下面提供。",
+    "LBL_TYPE_OF_LOG": "日志类型",
+    "LBL_SOCIAL_MEDIA_TYPE": "类型",
+    "LBL_MESSAGE": "信息"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Socios",
+    "SINGLE_Partners": "Socio",
+    "LBL_PARTNERS_INFORMATION": "Información sobre el Socio",
+    "LBL_CUSTOM_INFORMATION": "Información adicional",
+    "LBL_DESCRIPTION_INFORMATION": "Descripción",
+    "LBL_SUBJECT": "Asunto",
+    "LBL_NUMBER": "ID",
+    "LBL_CLOSED_TIME": "Fecha cierre",
+    "LBL_VAT_ID": "NIF",
+    "FL_CATEGORY": "Categoría"
+  }
+}

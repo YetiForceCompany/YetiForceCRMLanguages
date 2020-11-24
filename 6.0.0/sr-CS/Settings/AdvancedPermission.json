@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Napredne dozvole",
+    "AdvancedPermission": "Napredne dozvole",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Konfiguracija prilagođene dozvole, dodjeljivanje ili povlačenje dozvola za zapise.",
+    "LBL_NAME": "Naziv pravila",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTION": "Akcija",
+    "LBL_STATUS": "Status",
+    "LBL_ROLE": "Uloga",
+    "LBL_MEMBERS": "Članovi",
+    "LBL_PRIORITY": "Prioritet",
+    "FL_ACTIVE": "Aktivan",
+    "FL_INACTIVE": "Neaktivan",
+    "FL_UNLOCK_RECORD": "Odobri pristup",
+    "FL_LOCK_RECORD": "Povucite pristup",
+    "LBL_SAVE_AND_CONDITIONS": "Sljedeći",
+    "ERR_INACTIVE_ALERT_TITLE": "Napredne dozvole su onemogućene",
+    "ERR_INACTIVE_ALERT_DESC": "Promijenite parametar PERMITTED_BY_ADVANCED_PERMISSION u datoteci config \/ security.php da biste je omogućili.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Izračun dozvola",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Preračunaj dozvole",
+    "LBL_RECALCULATE_CRON_INFO": "Za ponovno izračunavanje dozvole potreban je omogućen CRON, provjerite je li zadatak aktivan.",
+    "LBL_MODULES_LIST": "Lista modula",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Posebna su dopuštenja onemogućena jer zahtijevaju omogućavanje keširanja dopuštenja za snimanje. Da bi dozvole počele raditi trebali biste omogućiti cron i postaviti varijablu CACHING_PERMISSION_TO_RECORD [config \/ security.php] na true."
+  }
+}

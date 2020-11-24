@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Godziny pracy",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Godziny pracy jest to moduł, w którym można ustawić godziny pracy twojej firmy i zespołu.",
+    "LBL_WORKING_HOURS_FROM": "Od",
+    "LBL_WORKING_HOURS_TO": "Do",
+    "LBL_WORKING_DAYS": "Dni robocze",
+    "LBL_WORKING_HOURS": "Godziny pracy",
+    "LBL_DEFAULT": "Domyślny",
+    "LBL_NAME": "Nazwa",
+    "LBL_HOLIDAYS": "Święta",
+    "LBL_EDIT_BUSINESS_HOURS": "Edytuj godziny pracy",
+    "LBL_ADD_BUSINESS_HOURS": "Dodaj wpisy z godzinami pracy",
+    "LBL_DEFAULT_TIMES": "Domyślne czasy",
+    "LBL_DEFAULT_REACTION_TIME": "Domyślny czas reakcji",
+    "LBL_DEFAULT_IDLE_TIME": "Domyślny czas bezczynności",
+    "LBL_DEFAULT_RESOLVE_TIME": "Domyślny czas rozwiązania",
+    "LBL_HOLIDAYS_LINK": "Przejdź do panelu konfiguracji świąt"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?"
+  }
+}

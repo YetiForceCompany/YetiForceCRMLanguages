@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "توافقنامه سطح ارايه خدمات SLA",
+    "LBL_NAME": "نام توافقنامه خدمات",
+    "LBL_EDIT": "ویرایش موافقت نامه سطح خدمات SLA",
+    "LBL_CREATE": "ایجاد موافقت نامه سطح خدمات SLA",
+    "LBL_SOURCE_MODULE": "ماژول"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "انتخاب ساعات کاری",
+    "JS_BUSINESS_HOURS_FROM": "از",
+    "JS_BUSINESS_HOURS_TO": "به",
+    "JS_BUSINESS_HOURS_NAME": "نام",
+    "JS_BUSINESS_HOURS_DAYS": "ﺭﻭﺯﻫﺎﯼ ﮐﺎﺭﯼ",
+    "JS_HOLIDAYS": "تعطیلات"
+  }
+}

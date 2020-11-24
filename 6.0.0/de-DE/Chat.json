@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Favoriten",
+    "LBL_ROOM_GROUP": "Gruppen - Raum",
+    "LBL_ROOM_GLOBAL": "Globaler - Raum",
+    "LBL_MESSAGE": "Message",
+    "LBL_PARTICIPANTS": "Teilnehmer",
+    "LBL_SEARCH_PARTICIPANTS": "Teilnehmersuche",
+    "LBL_SEARCH_MESSAGE": "Nachrichtensuche",
+    "LBL_CREATE_CHAT_ROOM": "Chatraum erstellen",
+    "LBL_REMOVE_FROM_FAVORITES": "Aus Favoriten entfernen",
+    "LBL_ADD_FROM_FAVORITES": "Zu Favoriten hinzufügen",
+    "LBL_EARLIER": "Früher",
+    "LBL_NOTIFICATION": "Chat-Benachrichtigungen",
+    "LBL_SOUND_OFF": "Ton aus",
+    "LBL_SOUND_ON": "Ton an",
+    "LBL_HISTORY_CHAT": "Chatverlauf",
+    "LBL_MORE": "weiter",
+    "LBL_HIDE": "ausblenden",
+    "LBL_NO_MESSAGES": "Keine Nachrichten",
+    "LBL_UNREAD": "Ungelesen",
+    "LBL_ENTER": "Senden von Nachrichten nach Betätigen der Eingabetaste erlauben\/verhindern",
+    "LBL_DETAIL_VIEW": "Detailsicht",
+    "LBL_ROOM_DESCRIPTION_CRM": "Liste der Chat-Räume mit als Favoriten markierten Beiträgen",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Chatraumliste mit Benutzergruppen",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Chatraumliste für alle Benutzer sichtbar",
+    "LBL_CHAT_USER_SWITCHED": "Chat ist inaktiv, wenn Sie zu einem anderen Benutzer wechseln.",
+    "LBL_CHAT_NEW_MESSAGE": "Neue Nachricht"
+  }
+}

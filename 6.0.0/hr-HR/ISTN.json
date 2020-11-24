@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Bilješke o prometu skladišta",
+    "SINGLE_ISTN": "Bilješke o prometu skladišta",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentari",
+    "FL_ESTIMATED_DATE": "Procenjeni datum",
+    "FL_SUBJECT": "Predmet",
+    "FL_NUMBER": "Broj",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Skica",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_OBJECTIONS": "Primjedbe",
+    "PLL_FOR_APPROVAL": "Za odobrenje",
+    "PLL_CANCELLED": "Otkazano",
+    "PLL_ACCEPTED": "Prihvaćeno",
+    "PLL_RECEIVED": "Primljeno",
+    "PLL_TRANSFER": "Prijenos",
+    "PLL_DISPATCHED": "Otpremljeno",
+    "FL_TYPE": "Tip"
+  }
+}

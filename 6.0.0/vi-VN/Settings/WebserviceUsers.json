@@ -1,0 +1,34 @@
+{
+  "php": {
+    "WebserviceUsers": "Web service - Users",
+    "LBL_WEBSERVICE_USERS": "Web service - Users",
+    "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
+    "FL_SERVER": "Máy chủ",
+    "FL_STATUS": "Trạng thái",
+    "FL_LOGIN": "Đăng nhập",
+    "FL_PASSWORD": "Mật khẩu",
+    "FL_TYPE": "Loại",
+    "FL_LOGIN_TIME": "Thời gian đăng nhập",
+    "FL_LOGOUT_TIME": "Thời gian đăng xuất",
+    "FL_LANGUAGE": "Ngôn ngữ",
+    "FL_RECORD_NAME": "Hồ sơ",
+    "FL_USER": "Người dùng",
+    "BTN_SAVE": "Lưu",
+    "BTN_CLOSE": "Huỷ",
+    "PLL_USER_PERMISSIONS": "Quyền theo người dùng",
+    "PLL_ACCOUNTS_RELATED_RECORDS": "Mọi hồ sơ của tài khoản đã được phân công trực tiếp tới liên hệ",
+    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Mọi hồ sơ liên quan của tài khoản đã được phân công trực tiếp đến tài khoản và khách hàng mức dưới trong hệ thống cấp bậc",
+    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Mọi hồ sơ liên quan của tài khoản được phân công trực tiếp đến tài khoản và khách hàng trong hệ thống cấp bậc",
+    "PLL_ACTIVE": "Bật",
+    "PLL_INACTIVE": "Tắt",
+    "LBL_CREATE_RECORD": "Tạo",
+    "Mail": "Mail",
+    "FL_STORAGE": "Kho lưu trữ",
+    "FL_TOKEN": "Token",
+    "ManageConsents": "Quản lý thoả thuận"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Bạn có chắc bạn muốn xoá bỏ mã này?",
+    "JS_SAVE_SUCCESS": "Đã lưu thay đổi"
+  }
+}

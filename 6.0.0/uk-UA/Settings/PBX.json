@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "Назва",
+    "LBL_TYPE": "Тип",
+    "LBL_DEFAULT": "За замовчуванням",
+    "LBL_ADD_RECORD": "Додати запис",
+    "LBL_CREATE_RECORD": "Додати телефонну станцію",
+    "LBL_EDIT_RECORD": "Редагувати телефонну станцію",
+    "LBL_URL": "Адреса сервера",
+    "LBL_USERNAME": "Логін",
+    "LBL_PASSWORD": "Пароль",
+    "LBL_SECRET_KEY": "Секретний ключ",
+    "LBL_OUTBOUND_CONTEXT": "Вихідний контекст"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Зміни збережено"
+  }
+}

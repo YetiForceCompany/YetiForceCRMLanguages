@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Search Configuration": "Configurazione ricerca",
+    "Search Setup": "Etichette e ricerca",
+    "Search": "Configurazione ricerca",
+    "LBL_Module_desc": "Imposta, per ogni modulo, i campi su cui viene effettuata la ricerca. Inoltre definisce quali colonne visualizzare nei risultati.",
+    "Module": "Modulo",
+    "Table": "Tabella",
+    "LabelFields": "Colonne risultato (incluso proprietario)",
+    "SearchFields": "Campi su cui viene effettuata la ricerca",
+    "Tools": "Azioni",
+    "Update labels": "Aggiorna colonne e campi",
+    "LBL_SAVE_CHANGES_SEARCHING": "Modifiche salvate",
+    "LBL_SAVE_CHANGES_LABLE": "Le modifiche sono state salvate, ma devi fare clic su \"Aggiorna colonne e campi\" per vedere le modifiche operative a sistema.",
+    "Update has been completed": "Richiesta di aggiornamento inviata: le modifiche saranno applicate via CRON. I tempi di esecuzione dipendono anche dalla quantità di dati da elaborare.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Salva ordine di ricerca",
+    "LBL_TURN_ON": "Abilita",
+    "LBL_TURN_OFF": "Disabilita"
+  },
+  "js": {
+    "Saving changes": "Aggiornamento in corso ...",
+    "Update labels": "Aggiorna",
+    "JS_MODULES_SEQUENCE_UPDATED": "Ordine di ricerca salvato",
+    "JS_TURN_ON": "Abilita",
+    "JS_TURN_OFF": "Disabilita"
+  }
+}

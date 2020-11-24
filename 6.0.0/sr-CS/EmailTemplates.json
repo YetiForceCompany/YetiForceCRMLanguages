@@ -1,0 +1,19 @@
+{
+  "php": {
+    "EmailTemplates": "Predlošci emaila",
+    "SINGLE_EmailTemplates": "Predložak emaila",
+    "LBL_CONTENT_MAIL": "Sadržaj emaila",
+    "LBL_BASIC_DETAILS": "Osnovne informacije",
+    "FL_NAME": "Naziv",
+    "FL_TYPE": "Tip",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Predmet",
+    "FL_CONTENT": "Sadržaj",
+    "FL_SMTP_PRIORITY": "SMTP prioritet",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Zapis",
+    "PLL_MAIL": "Poruka",
+    "PLL_LIST": "Lista",
+    "PLL_DEFAULT": "Zadana kompanija"
+  }
+}

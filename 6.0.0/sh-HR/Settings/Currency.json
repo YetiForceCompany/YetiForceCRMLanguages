@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Stopa konverzije",
+    "Currency": "Valuta",
+    "Symbol": "Simbol",
+    "Currency Code": "Kod valute",
+    "Currency Name": "Naziv valute",
+    "LBL_ADD_NEW_CURRENCY": "Dodaj novu valutu",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CURRENCY_CODE": "Kod valute",
+    "LBL_CURRENCY_NAME": "Naziv valute",
+    "LBL_CURRENCY_STATUS_DESC": "Omogućite potvrdni okvir da biste aktivirali valutu",
+    "LBL_CURRENCY_SYMBOL": "Simbol",
+    "LBL_CURRENT_CURRENCY": "Trenutna valutu",
+    "LBL_EDIT_CURRENCY": "Uredi valutu",
+    "LBL_ENTER_CONVERSION_RATE": "Unesite stopu konverzije",
+    "LBL_TRANSFER_CURRENCY": "Transfer valute",
+    "Active": "Aktivno",
+    "Inactive": "Neaktivno",
+    "LBL_SET_AS_DEFAULT": "Postavi kao zadano"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Valuta uspješno izbrisana.",
+    "JS_CURRENCY_DETAILS_SAVED": "Podaci o valuti su sačuvani.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Upozorenje! Ova operacija će promijeniti valutu na mnogim mjestima u sistemu. Finansijski dokumenti izdati prije ove promjene mogu zahtijevati konverziju valuta. Molimo izvršite ručnu konverziju valuta ako su ti dokumenti izdani u njihovim proizvodnim verzijama. Bit će potreban izračunavanje tečaja za preostale valute."
+  }
+}

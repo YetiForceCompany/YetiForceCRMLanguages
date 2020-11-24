@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "Ime",
+    "LBL_TYPE": "Vrsta",
+    "LBL_DEFAULT": "Privzeto",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CREATE_RECORD": "Dodaj telefonsko centralo",
+    "LBL_EDIT_RECORD": "Uredite telefonsko centralo",
+    "LBL_URL": "Naslov strežnika",
+    "LBL_USERNAME": "Prijava",
+    "LBL_PASSWORD": "Geslo",
+    "LBL_SECRET_KEY": "Skrivni Ključ",
+    "LBL_OUTBOUND_CONTEXT": "Izhodnii kontekst"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Spremembe so uspešno shranjene"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Podvojena e-pošta",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodajanje / urejanje zapisa, če že obstaja eden od e-poštnih naslovov že vnesen",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Podvojen ID za DDV",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšen ID za DDV že obstaja",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Podvojena koda Ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšna koda EAN že obstaja",
+    "IGDNC_IGDNEXIST_HANDLER": "Popravek opomb podvojeno prejetega blaga",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
+    "IGRNC_IGRNEXIST_HANDLER": "Podvojeno blago vsebujejo zapis o popravku",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokiraj dodajanje / urejanje zapisov, ko že obstaja isti popravek opombe o prejetem blagu.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Potrditev dolžine delovnega časa",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Delovni čas je omejen na 24 ur"
+  }
+}

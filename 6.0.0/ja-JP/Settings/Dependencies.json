@@ -1,0 +1,31 @@
+{
+  "php": {
+    "Dependencies": "依存関係",
+    "LBL_VULNERABILITIES": "脆弱性",
+    "LBL_VULNERABILITIES_DESCRIPTION": "ライブラリの脆弱性の一覧",
+    "LBL_VULNERABILITIES_OK": "ライブラリに脆弱性が見つかりませんでした",
+    "LBL_VULNERABILITIES_OK_DESC": "定期的にライブラリの脆弱性を確認することを忘れないでください。",
+    "LBL_VULNERABILITIES_WARNING": "ライブラリ内の脆弱性を検出しました",
+    "LBL_VULNERABILITIES_WARNING_DESC": "ライブラリの脆弱性が検出されました。速やかに更新することをお勧めします。",
+    "LBL_SECURITY_ADVISORIES_CHECKER": "使用済みライブラリのセキュリティ脆弱性",
+    "LBL_LIB_NAME": "ライブラリ名",
+    "LBL_VULNERABILITY_NAME": "脆弱性名",
+    "LBL_VULNERABILITY_URL": "脆弱性アドレス",
+    "LBL_LIBRARY_HOMEPAGE": "ライブラリのウェブサイトを開く",
+    "LBL_LICENSE_ERROR": "ライセンスエラー",
+    "LBL_SHOW_MORE": "詳細を表示",
+    "LBL_MISSING_PACKAGE_FILE": "ライブラリファイルがありません",
+    "LBL_MORE_LIBRARY_INFO": "ライブラリの詳細",
+    "LBL_MISSING_FILE": "ファイルがありません",
+    "LBL_LIBRARY_NAME": "名前",
+    "LBL_VERSION": "バージョン",
+    "LBL_LICENSE": "ライセンス",
+    "LBL_MISSING_LICENSE_FILE": "ライセンスファイルがありません",
+    "LBL_SUGAR_DESCRIPTION": "VtigerはSugar CRMに基づいていました。現在、YetiForceにはいくつかのSugarファイルしか残っていません。",
+    "LBL_VTIGER_DESCRIPTION": "Vtigerのorginalコードの約30%が残されています。残りのコードは書き換えられ、拡張されました。",
+    "LBL_CHAT_SOUND_DESCRIPTION": "チャットの音",
+    "License": "ライセンス",
+    "LBL_LICENSE_DESCRIPTION": " "
+  },
+  "js": {}
+}

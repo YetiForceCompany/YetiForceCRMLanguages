@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Ismétlődő e-mail cím",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor az egyik a megadott e-mail cím már létezik",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Ismétlődő ÁFA AZONOSÍTÓ",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor ilyen adószámát már létezik",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Ismétlődő ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor ilyen EAN kód már létezik",
+    "IGDNC_IGDNEXIST_HANDLER": "Kétszeresen feladott áruk megjegyzés javítása",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz az a feladott áru megjegyzés-javítás már létezik",
+    "IGRNC_IGRNEXIST_HANDLER": "Kétszeresen fogadott áruk megjegyzés javítása",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz a fogadott áru megjegyzés-javítás már létezik.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Nyitvatartási idő ellenőrzése",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "A nyitvatartási idő maximum 24 óra lehet"
+  }
+}

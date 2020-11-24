@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "Skrij sklop",
+    "LBL_HIDEBLOCKS": "Polja – Skrij sklop",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Upravljajte, katere sklope s polji želite skriti",
+    "LBL_BLOCK_LABEL": "Sklop",
+    "LBL_MODULE": "Modul",
+    "LBL_ENABLED": "Aktiven",
+    "LBL_EDIT_BLOCK": "Uredi",
+    "LBL_NEW_BLOCK": "Ustvari",
+    "LBL_BLOCK": "Sklop",
+    "LBL_NEXT": "Naslednji",
+    "LBL_VIEW": "Pregled",
+    "LBL_MANDATORY_FIELDS_EXIST": "Ta sklop ni mogoče skriti, ker vsebuje obvezna polja."
+  }
+}

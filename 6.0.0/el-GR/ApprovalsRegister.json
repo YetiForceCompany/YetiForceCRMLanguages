@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Εγκρίσεις μητρώου",
+    "SINGLE_ApprovalsRegister": "Έγκριση Μητρώου",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες Περιγραφής",
+    "FL_SUBJECT": "Θέμα",
+    "FL_APPROVALS_STATUS": "Κατάσταση",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_APPROVAL": "Έγκριση",
+    "FL_TYPE": "Τύπος",
+    "FL_STATUS": "Κατάσταση",
+    "FL_REGISTRATION_DATE": "Ημερομηνία εγγραφής",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_ACCEPTED": "Αποδεκτή",
+    "PLL_REJECTED": "Απορρίφθηκε",
+    "PLL_ACCEPTANCE": "Αποδοχή",
+    "PLL_RESIGNATION": "Resignation"
+  }
+}

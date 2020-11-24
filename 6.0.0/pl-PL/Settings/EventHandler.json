@@ -1,0 +1,13 @@
+{
+  "php": {
+    "EventHandler": "Obsługa zdarzeń",
+    "LBL_EVENT_HANDLER": "Obsługa zdarzeń",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Nazwa wydarzenia",
+    "LBL_EVENT_DESC": "Opis wydarzenia",
+    "LBL_INCLUDE_MODULES": "Uwzględnij moduły",
+    "LBL_EXCLUDE_MODULES": "Wyklucz moduły",
+    "LBL_EVENT_IS_ACTIVE": "Jest aktywny",
+    "LBL_EDIT_VIEW_PRESAVE": "Walidacja przed zapisaniem rekordu"
+  }
+}

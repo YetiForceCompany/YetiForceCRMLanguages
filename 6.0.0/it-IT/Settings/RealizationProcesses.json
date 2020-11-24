@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Configurazione progettazione",
+    "LBL_INFO": "Opzione",
+    "LBL_TYPE": "Impostazione",
+    "LBL_PROJECT": "Progetto",
+    "LBL_PROJECT_STATUS_INFO": "Stati che definiscono il progetto come chiuso",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Stati che definiscono la tappa di progetto come chiusa",
+    "LBL_PROJECTTASK_STATUS_INFO": "Stati che definiscono l'attività di progetto come chiusa",
+    "LBL_SAVE_CONFIG_OK": "Modifiche salvate",
+    "LBL_SAVE_CONFIG_ERROR": "Impossibile salvare",
+    "RealizationProcesses": "Processi di progettazione"
+  },
+  "js": {}
+}

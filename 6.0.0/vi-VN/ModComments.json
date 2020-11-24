@@ -1,0 +1,23 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Nhận xét",
+    "LBL_RECORDS_LIST": "Danh sách nhận xét",
+    "LBL_MODCOMMENTS_INFORMATION": "Nhận xét",
+    "LBL_OTHER_INFORMATION": "Thông tin khác",
+    "LBL_ADDING_COMMENT": "Thêm bình luận",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Nhập nhận xét tại đây",
+    "Comment": "Nhận xét",
+    "Creator": "Tác giả",
+    "Related To Comments": "Liên quan tới",
+    "ReasonToEdit": "Lý do sửa",
+    "UserId": "UserId",
+    "Customer": "Khách hàng",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Thêm một nhận xét vào tác vụ",
+    "LBL_NEW_COMMENT_FOR_TICKET": "1 bình luận đã được thêm vào vé hỗ trợ",
+    "LBL_NOTICE_WELCOME": "Chào mừng tới nền tảng",
+    "LBL_NOTICE_CREATED": "Được tạo bởi",
+    "LBL_COMMENTS_0": "Hồ sơ hiện tại",
+    "LBL_COMMENTS_SEARCH": "Tìm kiếm",
+    "LBL_ALL_RECORDS": "Hồ sơ liên quan"
+  }
+}

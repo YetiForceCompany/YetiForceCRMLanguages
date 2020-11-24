@@ -384,7 +384,7 @@
     "FL_MAIL_SCANNER_ACTIONS": "Available email scanner actions (Outlook)",
     "FL_MAIL_SCANNER_FIELDS": "Records’ relation fields (Outlook)",
     "LBL_ACCOUNT_SETTINGS": "Account settings",
-    "LBL_USER_NAME": "Korisničko ime",
+    "LBL_USER_NAME": "User name",
     "LBL_LOGIN_TIME": "Sign-in time",
     "LBL_LOGGED_OUT_TIME": "Sign-out time",
     "LBL_USER_IP_ADDRESS": "User IP address",

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "国名",
+    "LBL_COUNTRY_SHORTNAME": "国コード",
+    "LBL_COUNTRY_TOGGLE_STATUS": "システムで国は世界中で利用できますか？",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "すべての国を有効または無効にする",
+    "LBL_VISIBLE_IN_PHONE": "電話タイプフィールドに表示される国はありますか？",
+    "LBL_VISIBLE_IN_COUNTRY": "「Country」アドレスフィールドに表示される国はありますか？",
+    "LBL_ROW_TO_TOP": "行を上に移動",
+    "LBL_ROW_TO_BOTTOM": "行を下に移動",
+    "LBL_COUNTRY_SETTINGS": "国の設定",
+    "LBL_COUNTRY_DESCRIPTION": "システムで国の可用性を設定します",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "パネル",
+    "LBL_DEFAULT_PHONE_FROM_USER": "ユーザー",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "デフォルトの国を取得する方法を選択してください:"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "国の設定"
+  }
+}

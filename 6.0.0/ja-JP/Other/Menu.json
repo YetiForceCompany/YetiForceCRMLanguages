@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "クイック作成",
+    "LBL_SEPARATOR": "セパレータ",
+    "LBL_OTHER": "その他",
+    "MEN_VIRTUAL_DESK": "仮想デスク",
+    "MEN_COMPANIES_CONTACTS": "企業と担当者",
+    "MEN_SALES": "セールス",
+    "MEN_PROJECTS": "プロジェクト管理",
+    "MEN_MARKETING": "マーケティング",
+    "MEN_SUPPORT": "サポート",
+    "MEN_ACCOUNTING": "会計",
+    "MEN_COMPANY": "会社",
+    "MEN_ORGANIZATION": "組織",
+    "MEN_DATABESES": "データベース",
+    "MEN_TEAMWORK": "チーム業務",
+    "MEN_PRODUCTBASE": "製品データベース",
+    "MEN_LISTS": "リスト",
+    "MEN_SERVICESBASE": "サービスデータベース",
+    "MEN_SALE_PROCESSES": "セールスプロセス",
+    "Menu": "メニュー",
+    "MEN_LOGISTICS": "物流",
+    "LBL_CHANGE_LOGIN_PASSWORD": "ログインパスワードの変更",
+    "LBL_CHANGE": "変更",
+    "LBL_USER_PROFILE": "ユーザープロファイル",
+    "MEN_GDPR": "GDPR"
+  }
+}

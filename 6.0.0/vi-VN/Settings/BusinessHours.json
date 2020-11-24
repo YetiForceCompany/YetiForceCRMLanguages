@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Giờ làm việc",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Giờ làm việc là mô-đun nơi bạn có thể đặt thời gian làm việc của nhân viên.",
+    "LBL_WORKING_HOURS_FROM": "Từ",
+    "LBL_WORKING_HOURS_TO": "Đến",
+    "LBL_WORKING_DAYS": "Ngày làm việc",
+    "LBL_WORKING_HOURS": "Giờ làm việc",
+    "LBL_DEFAULT": "Mặc định",
+    "LBL_NAME": "Tên",
+    "LBL_HOLIDAYS": "Ngày lễ",
+    "LBL_EDIT_BUSINESS_HOURS": "Sửa giờ làm việc",
+    "LBL_ADD_BUSINESS_HOURS": "Thêm mục giờ làm việc",
+    "LBL_DEFAULT_TIMES": "Giờ mặc định",
+    "LBL_DEFAULT_REACTION_TIME": "Thời gian phản ứng mặc định",
+    "LBL_DEFAULT_IDLE_TIME": "Thời gian rỗi mặc định",
+    "LBL_DEFAULT_RESOLVE_TIME": "Thời gian giải quyết mặc định",
+    "LBL_HOLIDAYS_LINK": "Chuyển tới thiết lập ngày nghỉ lễ"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Bạn có chắc chắn là muốn xóa mục hồ sơ này?"
+  }
+}

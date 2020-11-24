@@ -1,0 +1,22 @@
+{
+  "php": {
+    "FL_PROVIDER": "プロバイダー",
+    "FL_STATUS": "ステータス",
+    "FL_SMSAPI_FROM": "送信者名",
+    "FL_API_KEY": "API キー",
+    "PLL_INACTIVE": "非アクティブ",
+    "PLL_ACTIVE": "アクティブ",
+    "LBL_ADD_RECORD": "新しい構成",
+    "LBL_SMSNOTIFIER": "SMSプロバイダの設定",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "新しい構成",
+    "LBL_EDIT_CONFIGURATION": "設定を編集",
+    "BTN_SAVE": "保存",
+    "BTN_CLOSE": "キャンセル"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "この設定を削除してもよろしいですか？",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "設定を削除しました",
+    "JS_SAVE_SUCCESS": "保存しました"
+  }
+}

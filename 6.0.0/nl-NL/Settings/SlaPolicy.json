@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA beleid",
+    "LBL_NAME": "Beleidsnaam",
+    "LBL_EDIT": "SLA-beleid bewerken",
+    "LBL_CREATE": "Maak een nieuw SLA beleid",
+    "LBL_SOURCE_MODULE": "Module"
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Selecteer kantooruren",
+    "JS_BUSINESS_HOURS_FROM": "Van",
+    "JS_BUSINESS_HOURS_TO": "Aan",
+    "JS_BUSINESS_HOURS_NAME": "Naam",
+    "JS_BUSINESS_HOURS_DAYS": "Werkdagen",
+    "JS_HOLIDAYS": "Vakantiedagen"
+  }
+}

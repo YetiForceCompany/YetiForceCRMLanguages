@@ -1,0 +1,27 @@
+{
+  "php": {
+    "LBL_LOGS": "Incidentes de seguridad",
+    "LBL_LOGS_DESC": "Panel para ver incidentes de seguridad",
+    "LBL_ACCESS_FOR_ADMIN": "Acceso del administrador",
+    "LBL_ACCESS_FOR_API": "Acceso para API",
+    "LBL_ACCESS_FOR_USER": "Acceso para usuario",
+    "LBL_ACCESS_TO_RECORD": "Acceso al registro",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Nombre de usuario",
+    "LBL_DATE": "Fecha",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "ID de registro",
+    "LBL_MODULE": "Módulo",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agente",
+    "LBL_REQUEST": "Solicitud",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

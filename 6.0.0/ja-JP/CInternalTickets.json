@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "社内チケット",
+    "SINGLE_CInternalTickets": "社内チケット",
+    "LBL_ADDITIONAL_INFORMATION": "追加情報",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "LBL_TICKET_RESOLUTION": "解決策",
+    "LBL_ATTENTION_BLOCK": "メモ",
+    "LBL_DESCRIPTION_BLOCK": "説明",
+    "FL_SUBJECT": "件名",
+    "FL_STATUS": "状態",
+    "FL_RESOLUTION": "解決策",
+    "PLL_UNASSIGNED": "未割り当て",
+    "PLL_AWAITING_REALIZATION": "実現待ち",
+    "PLL_FOR_PROCESSING": "実現のために",
+    "PLL_IN_PROGRESSING": "進行中",
+    "PLL_SUBMITTED_COMMENTS": "コメントが送信されました",
+    "PLL_FOR_APPROVAL": "承認する",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_ACCEPTED": "承認済み"
+  }
+}

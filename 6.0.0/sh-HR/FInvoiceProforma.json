@@ -1,0 +1,17 @@
+{
+  "php": {
+    "FInvoiceProforma": "Proforma fakture",
+    "SINGLE_FInvoiceProforma": "Proforma faktura",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresa za dostavu",
+    "FL_SUBJECT": "Predmet",
+    "FL_PAYMENT_DATE": "Datum dospijeća",
+    "FL_SALE_DATE": "Datum prodaje",
+    "FL_ACCOUNT": "Klijent",
+    "FL_STATUS": "Status",
+    "FL_NUMBER": "Broj fakture",
+    "FL_TOTAL": "Neto",
+    "FL_GROSS": "Bruto",
+    "PLL_WIRE_TRANSFER": "Elektronski prijenos"
+  }
+}

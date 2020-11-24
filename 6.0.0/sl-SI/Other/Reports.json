@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Spisek najnovejših prodajnih priložnosti",
+    "LBL_FOR_VALUE": "za vrednost",
+    "LBL_UNTIL_DAY": "do dne",
+    "LBL_ACTUAL_STATUS": "z aktualnim statusom",
+    "LBL_CALENDAR_OVERDUE": "Zapadle dejavnosti",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Spisek najvrednejših prodajnih priložnosti",
+    "LBL_NEW_ACCOUNTS": "Nove stranke",
+    "LBL_NEW_CONTACTS": "Nov kontakt",
+    "LBL_CALENDAR_TODAY": "Koledar dogodkov danes",
+    "LBL_CALENDAR_THIS_WEEK": "Koledar dogodkov ta teden",
+    "LBL_LOGIN_HISTORY": "Login history",
+    "LBL_HELLO": "Pozdravljeni",
+    "LBL_REPORT_DAY_CONTENT": "Spodaj je dnevni povzetek dejavnosti v YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Spodaj je tedenski povzetek dejavnosti v YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Spodaj je mesečni povzetek dejavnosti v YetiForce "
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Предпочитани",
+    "LBL_ROOM_GROUP": "Чат-рум на група",
+    "LBL_ROOM_GLOBAL": "Глобално място за комуникация",
+    "LBL_MESSAGE": "Въведете своето съобщение тук. Натиснете клавишите Shift + Enter, за да добавите нов ред.",
+    "LBL_PARTICIPANTS": "Участници",
+    "LBL_SEARCH_PARTICIPANTS": "Търси участници",
+    "LBL_SEARCH_MESSAGE": "Търсене на съобщения",
+    "LBL_CREATE_CHAT_ROOM": "Създаване на чат-рум",
+    "LBL_REMOVE_FROM_FAVORITES": "Премахни от любими",
+    "LBL_ADD_FROM_FAVORITES": "Добави към любимите",
+    "LBL_EARLIER": "По-рано",
+    "LBL_NOTIFICATION": "Нотификаций на чата",
+    "LBL_SOUND_OFF": "Изключи звука",
+    "LBL_SOUND_ON": "Включи звука",
+    "LBL_HISTORY_CHAT": "История на чата",
+    "LBL_MORE": "още",
+    "LBL_HIDE": "скриване",
+    "LBL_NO_MESSAGES": "Няма съобщения",
+    "LBL_UNREAD": "Непрочетено",
+    "LBL_ENTER": "То включва\/изключва изпращането на съобщения, след натискане на ENTER",
+    "LBL_DETAIL_VIEW": "Детайлен изглед",
+    "LBL_ROOM_DESCRIPTION_CRM": "Списък с записи, маркирани като любими в чат-рум",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Списък на чат-рум с групи на потребители",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Списъкът на чат-рум е видим за всички потребители",
+    "LBL_CHAT_USER_SWITCHED": "Чатът не е активен, ако сте преминали към друг потребител.",
+    "LBL_CHAT_NEW_MESSAGE": "Ново съобщение"
+  }
+}

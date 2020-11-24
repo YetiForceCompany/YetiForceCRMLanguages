@@ -1,0 +1,13 @@
+{
+  "php": {
+    "EventHandler": "Controladores de eventos",
+    "LBL_EVENT_HANDLER": "Controladores de eventos",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Nombre del evento",
+    "LBL_EVENT_DESC": "Descripción de evento",
+    "LBL_INCLUDE_MODULES": "Incluir módulos",
+    "LBL_EXCLUDE_MODULES": "Excluir módulos",
+    "LBL_EVENT_IS_ACTIVE": "Está activo",
+    "LBL_EDIT_VIEW_PRESAVE": "Validación antes de guardar el registro"
+  }
+}

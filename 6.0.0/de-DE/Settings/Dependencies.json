@@ -1,0 +1,31 @@
+{
+  "php": {
+    "Dependencies": "Abhängigkeiten",
+    "LBL_VULNERABILITIES": "Schwachstellen",
+    "LBL_VULNERABILITIES_DESCRIPTION": "Liste der Sicherheitslücken von Bibliotheken",
+    "LBL_VULNERABILITIES_OK": "Keine Sicherheitslücken in Bibliotheken gefunden",
+    "LBL_VULNERABILITIES_OK_DESC": "Vergessen Sie nicht, auf Sicherheitslücken in Ihren Bibliotheken regelmäßig zu überprüfen.",
+    "LBL_VULNERABILITIES_WARNING": "Erkannte Sicherheitslücken in Bibliotheken",
+    "LBL_VULNERABILITIES_WARNING_DESC": "Es wurden Sicherheitslücken in Bibliotheken entdeckt, es wird empfohlen, diese schnell zu aktualisieren.",
+    "LBL_SECURITY_ADVISORIES_CHECKER": "Sicherheitslücken in verwendeten Bibliotheken",
+    "LBL_LIB_NAME": "Name der Bibliothek",
+    "LBL_VULNERABILITY_NAME": "Name der Sicherheitslücke",
+    "LBL_VULNERABILITY_URL": "Sicherheitslücken Adresse",
+    "LBL_LIBRARY_HOMEPAGE": "Webseite der Bibliothek öffnen",
+    "LBL_LICENSE_ERROR": "Lizenzfehler",
+    "LBL_SHOW_MORE": "Zeige mehr",
+    "LBL_MISSING_PACKAGE_FILE": "Fehlende Bibliotheksdateien",
+    "LBL_MORE_LIBRARY_INFO": "Bibliotheksdetails",
+    "LBL_MISSING_FILE": "Fehlende Datei",
+    "LBL_LIBRARY_NAME": "Name",
+    "LBL_VERSION": "Version",
+    "LBL_LICENSE": "Lizenz",
+    "LBL_MISSING_LICENSE_FILE": "Fehlende Lizenzdatei",
+    "LBL_SUGAR_DESCRIPTION": "Vtiger basierte auf Sugar CRM. Aktuell sind nur noch vereinzelt Dateien aus Sugar in Yetiforce.",
+    "LBL_VTIGER_DESCRIPTION": "Etwa 30% des Orginalcodes von Vtiger sind übrig. Der verbleibende Code wurde neu geschrieben und erweitert.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat-Ton",
+    "License": "Lizenzen",
+    "LBL_LICENSE_DESCRIPTION": " "
+  },
+  "js": {}
+}

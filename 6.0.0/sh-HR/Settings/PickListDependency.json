@@ -1,0 +1,32 @@
+{
+  "php": {
+    "Selected Values": "Odaberi vrijednost",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "PickListDependency": "Zavisnost liste za odabir",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_1": "U nastavku će biti prikazane samo preslikane popisne vrijednosti izvornog polja (osim prvi put)",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_2": "Ako želite vidjeti ili promijeniti mapiranje za ostale popisne vrijednosti izvornog polja, tada možete odabrati vrijednosti klikom na gumb <b> 'Odaberi izvorne vrijednosti' <\/b> s desne strane",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_3": "Odabrane vrijednosti vrijednosti ciljnog polja su označene kao",
+    "LBL_CONFIGURE_DEPENDENCY_INFO": "Kliknite odgovarajuću ćeliju da biste promijenili mapiranje vrijednosti popisa za ciljno polje",
+    "LBL_ERR_CYCLIC_DEPENDENCY": "Ovo postavljanje ovisnosti nije dopušteno jer se završava u nekim cikličkim ovisnostima",
+    "LBL_PICKLIST_DEPENDENCY": "Zavisnost od popisa",
+    "LBL_SELECT_FIELD": "Odaberite polje",
+    "LBL_SELECT_MODULE": "Modul",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Odaberite vrijednosti izvorne liste za odabir",
+    "LBL_SELECT_SOURCE_VALUES": "Odaberite izvorne vrijednosti",
+    "LBL_SOURCE_FIELD": "Izvorno polje",
+    "LBL_TARGET_FIELD": "Ciljno polje",
+    "LBL_UNMARK_ALL": "Odznači sve",
+    "Module": "Modul",
+    "Source Field": "Izvorno polje",
+    "Target Field": "Ciljno polje"
+  },
+  "js": {
+    "JS_DEPENDENCY_ATLEAST_ONE_VALUE": "Trebate odabrati barem jednu vrijednost za",
+    "JS_DEPENDENCY_DELETED_SUEESSFULLY": "Zavisnost uspješno izbrisana",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Jeste li sigurni da želite izbrisati ovu zavisnost na listi za odabir?",
+    "JS_PICKLIST_DEPENDENCY_SAVED": "Zavisnost liste za odabir spremljena",
+    "JS_SELECT_SOME_VALUE": "Odaberite neku vrijednost",
+    "JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME": "Izvorno polje i ciljno polje ne bi smjeli biti isti",
+    "JS_PICKLIST_DEPENDENCY_NO_SAVED": "Nisu upisane zavisnosti. Promjene nisu spremljene."
+  }
+}

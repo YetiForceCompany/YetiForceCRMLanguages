@@ -1,0 +1,32 @@
+{
+  "php": {
+    "OSSMailScanner_manual": "Scanner email",
+    "OSSMailScanner": "Scanner email",
+    "Mail Scanner": "Email - Scanner",
+    "LBL_VIEW_LOGS": "Protocollo email",
+    "LBL_PAGE_NUMBER": "Vai al numero di pagina",
+    "CRM Archive": "Archivio CRM",
+    "CRM Archive Sent": "Archivio CRM inviato",
+    "Drafts": "Bozze",
+    "INBOX": "Posta in arrivo",
+    "Junk": "Posta indesiderata / spam",
+    "Sent": "Posta inviata",
+    "ERR_INCORRECT_ACCESS_DATA": "Dati di accesso non corretti",
+    "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "Le cartelle qui sotto verranno rimosse dopo il salvataggio"
+  },
+  "js": {
+    "start_cron": "CRON avviato",
+    "end_cron_ok": "Attività CRON completate con successo",
+    "end_cron_error": "Si è verificato un errore durante l'esecuzione CRON",
+    "JS_mail_error": "Indirizzo email non corretto",
+    "JS_time_error": "Formato data non corretto",
+    "JS_StopCron": "Ferma manualmente il CRON",
+    "stop_user": "Utente che ha fermato la scansione",
+    "Manually stopped": "Fermato manualmente",
+    "OK": "Ok",
+    "In progress": "In corso",
+    "whether_remove_an_identity": "Rimuovere un'identità?",
+    "removed_identity": "Identità eliminata",
+    "LBL_LOADING_LIST_OF_FOLDERS": "Caricamento lista cartelle in corso.\nPotrebbero volerci alcuni minuti ..."
+  }
+}

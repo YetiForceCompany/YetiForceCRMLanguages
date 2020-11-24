@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "アウトソーシング製品",
+    "SINGLE_OutsourcedProducts": "アウトソーシング製品",
+    "LBL_INFORMATION": "アウトソーシング製品",
+    "Assigned To": "割り当て先",
+    "LBL_RODZAJUMOWY": "合意の種類",
+    "LBL_osservicesstatus": "状態",
+    "Individual Agreement": "個別契約",
+    "In service": "サポート済み",
+    "Finished support": "サポートが終了しました",
+    "Product Name": "製品名",
+    "Sub Category": "サブカテゴリー",
+    "Category": "カテゴリー",
+    "Date Sold": "販売日",
+    "Date in Service": "サポート終了日",
+    "Description": "説明",
+    "LBL_DESCRIPTION_INFORMATION": "説明的な情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "Where bought": "購入場所",
+    "Number": "数値",
+    "Save": "保存",
+    "Selling proposition": "可能性",
+    "LBL_GENERATE_EXTENSION": "拡張機能を生成する",
+    "Active": "アクティブ",
+    "Inactive": "非アクティブ"
+  }
+}

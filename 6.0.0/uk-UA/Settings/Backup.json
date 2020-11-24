@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Менеджер резервного копіювання",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Керування резервними копіями",
+    "LBL_DOWNLOAD": "Звантажити",
+    "LBL_FILE_NAME": "Назва файла",
+    "LBL_FILE_SIZE": "Розмір файлу",
+    "LBL_FILE_DATE": "Дата змінення",
+    "LBL_BACKUP_LIST": "Список резервних копій",
+    "ERR_CONFIG_ALERT_TITLE": "Менеджер резервного копіювання вимкнено",
+    "ERR_CONFIG_ALERT_DESC": "Встановіть відповідний шлях в змінній BACKUP_PATH у файлі конфігурації [config\/Components\/backup.php], щоб увімкнути його."
+  },
+  "js": {}
+}

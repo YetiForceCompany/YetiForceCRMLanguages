@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Pola zależne",
+    "LBL_FIELDS_DEPENDENCY": "Pola zależne",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Konfiguracja pól dynamicznych i bloków w zależności od określonych kryteriów",
+    "LBL_NAME": "Nazwa zależności",
+    "LBL_EDIT": "Edytuj zależność",
+    "LBL_CREATE": "Utwórz nową zależność",
+    "LBL_SOURCE_MODULE": "Nazwa modułu",
+    "LBL_VIEWS": "Widoki",
+    "LBL_VIEWS_INFO": "Lista widoków w których pola mają być ukrywane/pokazywane, jeśli jakiś widok nie zostanie wybrany pola zawsze będą widoczne",
+    "LBL_FIELDS_INFO": "Lista pól, które będą widoczne tylko wtedy, gdy poniższe warunki będą spełnione",
+    "LBL_GUI": "Pola dynamiczne",
+    "LBL_GUI_INFO": "Włączenie tego skutkuje dynamicznym pokazywaniem pól w formularzu podczas zmiany wartości w polach.\nW przypadku wyłączenia zmiany będą aktywne dopiero po zapisaniu danych.",
+    "LBL_MANDATORY": "Pola wymagane",
+    "LBL_MANDATORY_INFO": "Po włączeniu wszystkie pola które określono poniżej będą obowiązkowe do wypełnienia",
+    "LBL_CONDITIONS": "Warunki"
+  }
+}

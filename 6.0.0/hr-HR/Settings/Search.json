@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Search Configuration": "Konfiguracija pretrage",
+    "Search Setup": "Etikete i pretraživanje",
+    "Search": "Konfiguracija pretrage",
+    "LBL_Module_desc": "Ova ploča omogućava postavljanje naljepnica za uitype 10 polja i mehanizme za pretraživanje. Ovi mehanizmi funkcioniraju nezavisno - tijekom pretraživanja možete vidjeti mnoge stupce u polju, ali kad odaberete zapis, učitava se ime s naljepnice.",
+    "Module": "Modul",
+    "Table": "Tabela",
+    "LabelFields": "Glavne kolone modula (uključujući oznaku za uitype 10)",
+    "SearchFields": "Kolone za mehanizme pretraživanja",
+    "Tools": "Akcije",
+    "Update labels": "Ažurirajte etikete",
+    "LBL_SAVE_CHANGES_SEARCHING": "Spremljene promjene.",
+    "LBL_SAVE_CHANGES_LABLE": "Promjene u konfiguraciji su spremljene, morate ažurirati ovaj modul da biste vidjeli promjene unutar sustava.",
+    "Update has been completed": "Izabrani modul je uspješno ažuriran. Promjene će se ostvariti putem CRON-a. Vrijeme ažuriranja naljepnica ovisi o količini podataka.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Spremite redoslijed modula",
+    "LBL_TURN_ON": "Uključi",
+    "LBL_TURN_OFF": "Ugasiti"
+  },
+  "js": {
+    "Saving changes": "Ažuriranje u toku…",
+    "Update labels": "Ažuriraj",
+    "JS_MODULES_SEQUENCE_UPDATED": "Ažuriran je redoslijed modula",
+    "JS_TURN_ON": "Uključi",
+    "JS_TURN_OFF": "Ugasiti"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "php": {
+    "LBL_LOGS": "セキュリティインシデント",
+    "LBL_LOGS_DESC": "セキュリティインシデントを表示するためのパネル",
+    "LBL_ACCESS_FOR_ADMIN": "管理者権限へのアクセス",
+    "LBL_ACCESS_FOR_API": "API へのアクセス",
+    "LBL_ACCESS_FOR_USER": "ユーザーへのアクセス",
+    "LBL_ACCESS_TO_RECORD": "レコードへのアクセス",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "ユーザー名",
+    "LBL_DATE": "日付",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "レコードID",
+    "LBL_MODULE": "モジュール",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "エージェント",
+    "LBL_REQUEST": "リクエスト",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

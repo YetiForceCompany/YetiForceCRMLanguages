@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Erreurs détectées lors de la mise à jour du module",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Des erreurs sont apparues lors de la mise à jour",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Nous vous recommandons de vérifier les journaux et de mettre à jour le système à nouveau.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Mettre à jour les modèles d'e-mail",
+    "LBL_UPDATE_PDF_TEMPLATES": "Mettre à jour les modèles PDF"
+  }
+}
