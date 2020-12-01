@@ -61,7 +61,9 @@
     "CountRecords": "Number of records",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
     "LBL_CURRENT_HISTORY_SWITCH": "Aktuális/Történelem",
-    "RelatedModuleChart": "Kapcsolódó modul - diagram"
+    "RelatedModuleChart": "Kapcsolódó modul - diagram",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Loading...",

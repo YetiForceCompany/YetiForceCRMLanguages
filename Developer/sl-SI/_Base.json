@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Izberete lahko le",
     "LBL_DELETE_CONFIRMATION": "Ali ste prepričani, da želite izbrisati?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Ali želite nastaviti to vrednost?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the relation with this module? Only the relation will be removed, to remove the record you have to go to the record and press delete",
     "LBL_DELETE_USER_CONFIRMATION": "Ko je uporabnik izbrisan, bo uporabnik označen kot \"neaktiven\" in uporabniku ni mogoče dodeliti novih zapisov, uporabnik pa se ne bo mogel več prijaviti. Za uporabnika se prekine obračunavanje. Ali ste prepričani, da ga želite izbrisati?",
     "LBL_MASS_DELETE_CONFIRMATION": "Ali ste prepričani, da želite izbrisati izbrane zapise?",

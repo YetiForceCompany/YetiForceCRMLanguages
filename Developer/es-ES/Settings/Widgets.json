@@ -61,7 +61,9 @@
     "CountRecords": "Número de registros",
     "LBL_LIST_WITH_SUMMARY": "Lista con resumen",
     "LBL_CURRENT_HISTORY_SWITCH": "Actual/Historial",
-    "RelatedModuleChart": "Módulo relacionado - gráfico"
+    "RelatedModuleChart": "Módulo relacionado - gráfico",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Cargando...",

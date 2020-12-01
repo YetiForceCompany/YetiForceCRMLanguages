@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Možete odabrati samo",
     "LBL_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Želite li postaviti ovu vrijednost?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati vezu s ovim modulom? Ukloniće se samo odnos, da biste uklonili zapis koji morate otići u zapis i pritisnite delete",
     "LBL_DELETE_USER_CONFIRMATION": "Kada se korisnik izbriše, korisnik će biti označen kao \"Neaktivan\" i korisniku se ne mogu dodijeliti novi zapisi i korisnik se neće moći prijaviti. Naplata će se zaustaviti za ovog korisnika. Jeste li sigurni da želite izbrisati?",
     "LBL_MASS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati odabrane zapise?",

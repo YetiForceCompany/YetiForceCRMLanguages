@@ -61,7 +61,9 @@
     "CountRecords": "レコード数",
     "LBL_LIST_WITH_SUMMARY": "要約付きリスト",
     "LBL_CURRENT_HISTORY_SWITCH": "現在/履歴",
-    "RelatedModuleChart": "Related module - chart"
+    "RelatedModuleChart": "Related module - chart",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "読み込み中...",

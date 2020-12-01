@@ -88,6 +88,7 @@
     "LBL_BLACK_LIST_DESC": "Aggiungi il destinatario alla blacklist, un'e-mail sarà contrassegnata come spam e spostata nella cartella spam.",
     "LBL_WHITE_LIST": "Lista bianca",
     "LBL_WHITE_LIST_DESC": "Aggiungi il destinatario alla whitelist, un'e-mail verrà contrassegnata come attendibile.",
+    "LBL_ALERT_NEUTRAL_LIST": "Mittente e-mail sconosciuto, se il mittente è fidato, aggiungilo alla whitelist e, se è SPAM, aggiungi alla blacklist.",
     "LBL_BLACK_LIST_ALERT": "Indirizzo mittente pericoloso. L'indirizzo IP è stato inserito nella lista nera a causa di spam/spoofing/phishing.",
     "LBL_WHITE_LIST_ALERT": "Server mittente affidabile. L'IP è sulla whitelist del server.",
     "LBL_ALERT_FAKE_MAIL": "Attenzione a questo messaggio, non è possibile verificare se il messaggio è stato effettivamente inviato dall'indirizzo del mittente.\nNon fare clic su alcun collegamento, scaricare allegati o fornire informazioni personali in risposta.",

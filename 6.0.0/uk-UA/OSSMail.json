@@ -81,7 +81,7 @@
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Сталася помилка під час імпорту",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
     "LBL_BAR_ACTIONS_NOT_AVAILABLE": "Дії в панелі не доступні",
-    "LBL_TEMPLATES": "Templates from CRM",
+    "LBL_TEMPLATES": "Шаблони з CRM",
     "LBL_MAIL_TEMPLATES": "Email templates from CRM",
     "LBL_FILE_FROM_CRM": "Select a file from CRM",
     "LBL_BLACK_LIST": "Black list",

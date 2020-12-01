@@ -61,7 +61,9 @@
     "CountRecords": "Ilość rekordów",
     "LBL_LIST_WITH_SUMMARY": "Lista z podsumowaniem",
     "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia",
-    "RelatedModuleChart": "Powiązany moduł - wykres"
+    "RelatedModuleChart": "Powiązany moduł - wykres",
+    "Documents": "Dokumenty",
+    "LBL_SHOW_DOC_RELATIONS": "Lista z powiązanych relacji"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

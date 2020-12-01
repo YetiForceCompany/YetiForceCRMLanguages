@@ -21,6 +21,11 @@
     "LBL_BASE_USER": "Użytkownik podstawowy",
     "LBL_DEST_USER": "Użytkownik docelowy",
     "LBL_USER_AGENT": "Przeglądarka",
+    "LBL_MAILS_NOT_SENT": "E-maile nie wysłane",
+    "LBL_BATCH_NAME": "Nazwa metody",
+    "LBL_PARAMS": "Parametry",
+    "LBL_PROFILING": "Profilowanie",
+    "LBL_DURATION": "Czas trwania",
     "LBL_LOGS_VIEWER": "Podgląd logów",
     "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }

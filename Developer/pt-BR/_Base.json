@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Você pode selecionar somente",
     "LBL_DELETE_CONFIRMATION": "Tem certeza que deseja Apagar?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Do you want to set this value?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "Você tem certeza que deseja apagar a relação para este registro? Somente a relação deverá ser apagada. Para apagar o registro, navegue até o mesmo e clique em apagar.",
     "LBL_DELETE_USER_CONFIRMATION": "Quando um Usuário é apagado, o mesmo será marcado como \"Inativo\", nenhum novo registro poderá ser designado para ele e não poderá acessar o Sistema. O faturamento será interrompido para este Usuário. Você tem certeza que deseja apagar?",
     "LBL_MASS_DELETE_CONFIRMATION": "Tem certeza que deseja apagar os Registros selecionados?",

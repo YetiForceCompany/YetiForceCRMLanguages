@@ -61,7 +61,9 @@
     "CountRecords": "Število zapisov",
     "LBL_LIST_WITH_SUMMARY": "Seznam z povzetkom",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
-    "RelatedModuleChart": "Povezani modul - grafikon"
+    "RelatedModuleChart": "Povezani modul - grafikon",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Loading...",

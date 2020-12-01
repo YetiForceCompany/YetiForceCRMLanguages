@@ -61,7 +61,9 @@
     "CountRecords": "Số bản ghi",
     "LBL_LIST_WITH_SUMMARY": "Danh sách với các tóm lược",
     "LBL_CURRENT_HISTORY_SWITCH": "Hiện Tại/Lịch Sử",
-    "RelatedModuleChart": "Related module - chart"
+    "RelatedModuleChart": "Related module - chart",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Đang tải...",

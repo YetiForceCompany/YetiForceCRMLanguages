@@ -61,7 +61,9 @@
     "CountRecords": "Anzahl Datensätze",
     "LBL_LIST_WITH_SUMMARY": "Liste mit der Zusammenfassung",
     "LBL_CURRENT_HISTORY_SWITCH": "Aktuell/Verlauf",
-    "RelatedModuleChart": "Ähnliches Modul - Diagramm"
+    "RelatedModuleChart": "Ähnliches Modul - Diagramm",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Laden...",

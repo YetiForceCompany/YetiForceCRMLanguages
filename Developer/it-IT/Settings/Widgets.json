@@ -61,7 +61,9 @@
     "CountRecords": "Numero di record",
     "LBL_LIST_WITH_SUMMARY": "Elenco con sommario",
     "LBL_CURRENT_HISTORY_SWITCH": "Corrente/Cronologia",
-    "RelatedModuleChart": "Modulo correlato - grafico"
+    "RelatedModuleChart": "Modulo correlato - grafico",
+    "Documents": "Documenti",
+    "LBL_SHOW_DOC_RELATIONS": "Elenco delle relazioni correlate"
   },
   "js": {
     "Loading data": "Caricamento ...",

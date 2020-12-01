@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Można wybrać tylko",
     "LBL_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć rekord?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Czy chcesz ustawić tę wartość?",
+    "JS_CHANGE_CONFIRMATION": "Czy na pewno chcesz wprowadzić zmiany?",
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć powiązanie z tym rekordem? Usunięte zostanie tylko powiązanie, aby usunąć rekord musisz przejść do rekordu i kliknąć usuń.",
     "LBL_DELETE_USER_CONFIRMATION": "Gdy użytkownik zostanie usunięty, użytkownik zostanie oznaczony jako \"nieaktywny\" i żadne nowe zapisy mogą być przypisane do użytkownika, i użytkownik nie będzie mógł się zalogować. Fakturowanie zatrzyma dla tego użytkownika. Czy na pewno chcesz usunąć?",
     "LBL_MASS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć zaznaczone rekordy?",

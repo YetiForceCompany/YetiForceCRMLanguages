@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Bạn chỉ có thể chọn",
     "LBL_DELETE_CONFIRMATION": "Bạn có chắc chắn muốn xóa không?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Bạn có muốn đặt giá trị này không?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "Bạn có chắc chắn muốn xóa các mối quan hệ với mô-đun này? Chỉ có các mối quan hệ sẽ được xoá bỏ, để xoá bỏ các biểu ghi bạn phải tới biểu ghi đó và bấm nút Xoá",
     "LBL_DELETE_USER_CONFIRMATION": "Khi một người dùng bị xoá, người dùng sẽ được đánh dấu là \"không hoạt động\" và biểu ghi mới có thể được gán cho người dùng. người dùng sẽ không thể đăng nhập. Thanh toán sẽ dừng lại cho người dùng này. Bạn có chắc chắn muốn xoá?",
     "LBL_MASS_DELETE_CONFIRMATION": "Bạn có chắc bạn muốn xóa biểu ghi được chọn?",

@@ -88,6 +88,7 @@
     "LBL_BLACK_LIST_DESC": "Fügen Sie den Addressaten zur Blacklist hinzu, eine E-Mail wird als Spam markiert und in den Spam-Ordner verschoben.",
     "LBL_WHITE_LIST": "Whitelist",
     "LBL_WHITE_LIST_DESC": "Fügen Sie den Adressaten zur Whitelist hinzu, eine E-Mail wird als vertrauenswürdig markiert.",
+    "LBL_ALERT_NEUTRAL_LIST": "Unknown e-mail sender, if the sender is trusted, add it the whitelist and if it is SPAM, add to the blacklist.",
     "LBL_BLACK_LIST_ALERT": "Gefährliche Absenderadresse. Die IP-Adresse wurde aufgrund von Spam/Spoofing/Phishing gesperrt.",
     "LBL_WHITE_LIST_ALERT": "Vertrauenswürdiger Absender-Server. Die IP ist auf der Whitelist des Servers.",
     "LBL_ALERT_FAKE_MAIL": "Vorsicht bei dieser Nachricht, es lässt sich nicht prüfen, ob die Nachricht tatsächlich von der Adresse des Absenders gesendet wurde.\nKlicken Sie daher keine Links, laden Sie keine Anhänge herunter und geben Sie keine persönliche Informationen als Antwort an.",

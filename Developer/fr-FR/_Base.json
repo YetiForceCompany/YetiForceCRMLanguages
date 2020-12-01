@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Vous pouvez sélectionner suelement",
     "LBL_DELETE_CONFIRMATION": "Etes-vous sur de vouloir effacer?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Voulez-vous définir cette valeur ?",
+    "JS_CHANGE_CONFIRMATION": "Etes-vous sûr de vouloir enregistrer ces modifications ?",
     "JS_DELETE_CONFIRMATION": "Etes vous sur de vouloir effacer la relationavec ce module? Seule la relation va être supprimée, pour supprimer les enregistrements vous devez sélectionner les enregistrements et cliquer sur effacer",
     "LBL_DELETE_USER_CONFIRMATION": "Lorsqu'un utilisateur est effacé, l'utilisateur sera marqué comme ",
     "LBL_MASS_DELETE_CONFIRMATION": "Etes-vous sur de vouloir effacer ces enregistrements?",

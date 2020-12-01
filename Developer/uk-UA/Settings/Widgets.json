@@ -61,7 +61,9 @@
     "CountRecords": "Кількість записів",
     "LBL_LIST_WITH_SUMMARY": "Список із зведенням",
     "LBL_CURRENT_HISTORY_SWITCH": "Поточний/Історія",
-    "RelatedModuleChart": "Related module - chart"
+    "RelatedModuleChart": "Related module - chart",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Завантаження...",

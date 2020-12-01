@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "選択できるのは",
     "LBL_DELETE_CONFIRMATION": "本当に削除しますか？",
     "JS_CHANGE_VALUE_CONFIRMATION": "この値を設定しますか？",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "このモジュールとの関係を削除してもよろしいですか？レコードに移動して削除する必要があるレコードを削除するには、リレーションのみが削除されます",
     "LBL_DELETE_USER_CONFIRMATION": "ユーザーが削除されると、ユーザーは「無効」としてマークされ、新しいレコードはユーザーに割り当てることはできません。 ログインできなくなります。 請求はこのユーザーのために停止します。削除してもよろしいですか？",
     "LBL_MASS_DELETE_CONFIRMATION": "選択したレコードを削除してもよろしいですか？",

@@ -61,7 +61,9 @@
     "CountRecords": "Nombre d'enregistrements",
     "LBL_LIST_WITH_SUMMARY": "Liste avec résumé",
     "LBL_CURRENT_HISTORY_SWITCH": "Actuel / Historique",
-    "RelatedModuleChart": "Related module - chart"
+    "RelatedModuleChart": "Related module - chart",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "Liste des relations connexes"
   },
   "js": {
     "Loading data": "Chargement...",

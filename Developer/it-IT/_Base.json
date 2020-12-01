@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Puoi selezionare solo",
     "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Sei sicuro di volere impostare questo valore?",
+    "JS_CHANGE_CONFIRMATION": "Sei sicuro di voler applicare queste modifiche?",
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la relazione con questo modulo? In questo modo, sarà eliminata solo la relazione; per eliminare il record devi selezionare il record ed eseguire la specifica azione di eliminazione.",
     "LBL_DELETE_USER_CONFIRMATION": "Quando un utente viene eliminato, sarà segnato come \"Inattivo\"; inoltre, non si potrà più assegnargli record e, lo stesso, non sarà più in grado di effettuare il login. La fatturazione sarà sospesa per l'utente eliminato. Sei sicuro di volere eliminare?",
     "LBL_MASS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare i record selezionati?",

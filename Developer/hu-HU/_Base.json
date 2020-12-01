@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "You can select only",
     "LBL_DELETE_CONFIRMATION": "Are you sure you want to delete?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Szeretné beállítani ezt az értéket?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the relation with this module? Only the relation will be removed, to remove the record you have to go to the record and press delete",
     "LBL_DELETE_USER_CONFIRMATION": "Amikor egy felhasználót törölnek, a felhasználót \\\"Inaktív\\\" jelöléssel látják el, és új rekordokat nem lehet hozzárendelni a felhasználóhoz, és a felhasználó nem lesz képes bejelentkezni. A számlázás leáll a felhasználó számára. Biztos, hogy törölni akarod?",
     "LBL_MASS_DELETE_CONFIRMATION": "Biztos vagy abban, hogy törölni akarod a kiválasztott rekordokat?",

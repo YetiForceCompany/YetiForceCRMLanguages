@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "您只可以选择",
     "LBL_DELETE_CONFIRMATION": "您确定您要删除吗？?",
     "JS_CHANGE_VALUE_CONFIRMATION": "是否要设置此值？",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "您确定要删除模块间的关联吗？只是关联被删除了，如果您要删除记录，需要找到该记录，并单击删除按钮",
     "LBL_DELETE_USER_CONFIRMATION": "如果某用户被删除，该用户将被标记为“未启用”，新的记录不会再分配给用户，用户将无法登录。这个用户的付款通知单将会停止。你确定你要删除吗？?",
     "LBL_MASS_DELETE_CONFIRMATION": "你确定要删除选定的记录吗？?",

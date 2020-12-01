@@ -1611,6 +1611,7 @@
     "JS_YOU_CAN_SELECT_ONLY": "Sólo puede seleccionar",
     "LBL_DELETE_CONFIRMATION": "¿Está seguro de que desea eliminarlo?",
     "JS_CHANGE_VALUE_CONFIRMATION": "¿Quieres establecer este valor?",
+    "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "¿Está seguro de que desea eliminar la relación con este módulo? Sólo se eliminará la relación, para eliminar el registro tiene que ir al registro y hacer clic en eliminar",
     "LBL_DELETE_USER_CONFIRMATION": "Cuando se elimina un Usuario, éste se marcará como \"Inactivo\" y no se podrán asignar nuevos registros al Usuario, y el usuario no podrá iniciar sesión. La facturación se detendrá para este usuario. ¿Está seguro de que desea eliminarlo?",
     "LBL_MASS_DELETE_CONFIRMATION": "¿Seguro que desea eliminar los registros seleccionados?",

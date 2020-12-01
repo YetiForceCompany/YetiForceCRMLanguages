@@ -61,7 +61,9 @@
     "CountRecords": "Numarul de inregistrari",
     "LBL_LIST_WITH_SUMMARY": "Lista cu sumar",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
-    "RelatedModuleChart": "Related module - chart"
+    "RelatedModuleChart": "Related module - chart",
+    "Documents": "Documents",
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {
     "Loading data": "Se incarca...",

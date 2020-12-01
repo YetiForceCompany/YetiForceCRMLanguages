@@ -88,6 +88,7 @@
     "LBL_BLACK_LIST_DESC": "Voeg het adres toe aan de zwarte lijst, een e-mail wordt gemarkeerd als spam en wordt verplaatst naar de spam-map.",
     "LBL_WHITE_LIST": "Witte lijst",
     "LBL_WHITE_LIST_DESC": "Voeg het adres toe aan de whitelist, een e-mail zal worden gemarkeerd als vertrouwd.",
+    "LBL_ALERT_NEUTRAL_LIST": "Unknown e-mail sender, if the sender is trusted, add it the whitelist and if it is SPAM, add to the blacklist.",
     "LBL_BLACK_LIST_ALERT": "Onbetrouwbaar afzenderadres. Het IP-adres is op de zwarte lijst gezet als gevolg van spam/spoofing/phishing.",
     "LBL_WHITE_LIST_ALERT": "Vertrouwd afzender server. Het IP staat op de server whitelist.",
     "LBL_ALERT_FAKE_MAIL": "Let op dit bericht, het is niet mogelijk om te controleren of het bericht is verzonden vanaf het adres van de afzender.\nKlik niet op links, download geen bijlagen en geef geen persoonlijke informatie in het antwoord.",
