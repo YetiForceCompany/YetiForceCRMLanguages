@@ -20,7 +20,7 @@
     "LBL_SYNC_CURRENCY_TOOLTIP": "The synchronization will automatically add the currencies available in Magento to the system.\nDisabling this option will result in skipping items downloaded from Magento when the currency does not exist in CRM",
     "LBL_SYNC_CATEGORIES": "Category synchronization",
     "LBL_SYNC_CATEGORIES_TOOLTIP": "Categories only sync one way.",
-    "LBL_SYNC_PRODUCTS": "Products synchronization",
+    "LBL_SYNC_PRODUCTS": "Sinhronizacija izdelkov",
     "LBL_SYNC_CUSTOMERS": "Customers synchronization",
     "LBL_SYNC_CUSTOMERS_TOOLTIP": "The synchronization will automatically add Contacts and Accounts to the system and works only one way (from Magento to YetiForce).\nBefore creating a record, the system verifies whether this Contact/Account already exists, Contacts are verified by email address and Accounts by VAT ID.\nIf the record already exists in the system, it is not updated.",
     "LBL_SYNC_ORDERS": "Orders synchronization",

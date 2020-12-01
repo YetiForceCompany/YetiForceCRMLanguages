@@ -399,6 +399,7 @@
     "LBL_PREDEFINED_WIDGETS": "Widgets predefinidos",
     "LBL_PREVIOUS_FQ": "FiscalQuarter(FQ) Anterior",
     "LBL_PREVIOUS_FY": "FiscalYear(FY) Anterior",
+    "LBL_DATE_CONDITION_MORE_THAN_DAYS_AGO": "More than days ago",
     "LBL_PRE_TAX_TOTAL": "Total antes de impuesto",
     "LBL_PRICING_INFORMATION": "Información de precio",
     "LBL_PRIVACY_POLICY": "Política de privacidad",
