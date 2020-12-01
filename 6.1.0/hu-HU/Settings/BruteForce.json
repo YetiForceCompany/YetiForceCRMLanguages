@@ -1,0 +1,25 @@
+{
+  "php": {
+    "BruteForce": "Nyers Erő / Brute force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Csatlakozási próbálkozások száma",
+    "LBL_TIME_LOCK": "Idő zár (perc)",
+    "LBL_SETTINGS": "Beálíítások",
+    "LBL_BLOCKED_IP": "A blokkolt IP-címek",
+    "LBL_SAVE_SUCCESS": "Változtatások mentve",
+    "LBL_UNBLOCK_FAIL": "IP-cím nem volt feloldva",
+    "LBL_UNBLOCK_SUCCESS": "IP-cím már leszedni",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Állítsa be a maximális számú sikertelen bejelentkezési kísérletek pedig határideje IP blokkoló.",
+    "LBL_IP": "IP-cím",
+    "LBL_DATE": "Dátum",
+    "LBL_USERS": "Felhasználók",
+    "LBL_BROWSERS": "Böngészők",
+    "LBL_UNBLOCK": "A tiltás feloldása",
+    "LBL_USERS_FOR_NOTIFICATIONS": "A felhasználók az értesítések",
+    "LBL_BRUTEFORCE_ACTIVE": "Aktív",
+    "LBL_VIEW_SHOW": "Nyers Erő / Brute force",
+    "LBL_SENT_NOTIFICATIONS": "Értesítést küldünk"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Hiba. Mentés nem sikerült."
+  }
+}

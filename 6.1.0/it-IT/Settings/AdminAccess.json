@@ -1,0 +1,20 @@
+{
+  "php": {
+    "AdminAccess": "Accesso amministratore",
+    "LBL_ADMIN_ACCESS": "Accesso amministratore",
+    "LBL_PERMISSIONS": "Permessi",
+    "BTN_MASS_EDIT_ACCESS": "Modifica massiva",
+    "FL_MODULE_NAME": "Nome modulo",
+    "LBL_ACTIVE": "Attivo",
+    "LBL_EDIT_ADMIN_ACCESS": "Modifica degli accessi di amministrazione",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " ",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Scopo Visite",
+    "FL_DATE_TIME": "Data",
+    "FL_PURPOSE": "Scopo",
+    "FL_USER": "Utente",
+    "FL_BASE_USER": "Utente base"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

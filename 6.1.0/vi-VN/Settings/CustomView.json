@@ -1,0 +1,35 @@
+{
+  "php": {
+    "CustomView": "Bộ lọc - Cấu hình",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Công cụ này cho phép thiết lập kiểu xem tuỳ biến với mô-đun. Mô-đun này phải chứa hồ sơ và sử dụng bộ lọc tiêu chuẩn trong CRM YetiForce.",
+    "ViewName": "Tên kiểu xem",
+    "SetDefault": "Mặc định",
+    "Privileges": "Quyền",
+    "Delete": "Xóa",
+    "Delete CustomView": "Kiểu xem tuỳ chỉnh đã bị xoá",
+    "Saving CustomView": "Kiểu xem đã được lưu",
+    "Actions": "Hành động",
+    "Edit": "Sửa",
+    "LBL_FEATURED_LABELS": "Trong Favorite",
+    "LBL_CREATED_BY": "Tạo bởi",
+    "LBL_ADD_FILTER": "Thêm bộ lọc",
+    "LBL_MANAGE_PERMISSIONS": "Quản lý quyền",
+    "LBL_ALL_GROUP_LIST": "Tuỳ chọn mở rộng",
+    "LBL_GROUP_MEMBERS": "Đã bao gồm trong hành động",
+    "LBL_ADD_PERMISSIONS": "Thêm quyền hạn",
+    "LBL_RECEIVE_PERMISSION": "Quyền nhận",
+    "LBL_SAVE_SEQUENCES": "Trình tự đã được lưu thành công",
+    "LBL_EXISTS_PERMISSION_IN_CONFIG": "Xung đột với %s \n Chọn quyền hạn không được sử dụng trong nhiều hơn một bộ lọc.",
+    "LBL_SORTING": "Sắp xếp",
+    "LBL_SORTING_SETTINGS": "Thiết lập sắp xếp",
+    "LBL_SORTING_SETTINGS_WORNING": "Sắp xếp hồ sơ có thể tăng đáng kể thời gian tải trang.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Chọn 1 trường để sắp xếp hồ sơ",
+    "LBL_SORT_ASCENDING_ORDER": "Sắp xếp theo tăng dần",
+    "LBL_SORT_DESCENDING_ORDER": "Sắp xếp theo giảm dần",
+    "LBL_ATTENTION": "Cảnh báo!"
+  },
+  "js": {
+    "Saving changes": "Lưu thay đổi...",
+    "Update labels": "Cập nhật"
+  }
+}

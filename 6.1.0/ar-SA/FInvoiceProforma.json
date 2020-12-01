@@ -1,0 +1,17 @@
+{
+  "php": {
+    "FInvoiceProforma": "الفواتير المبدءيه",
+    "SINGLE_FInvoiceProforma": "الفواتير المبدءيه",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "عنوان التوصيل",
+    "FL_SUBJECT": "الموضوع",
+    "FL_PAYMENT_DATE": "تاريخ الاستحقاق",
+    "FL_SALE_DATE": "تاريخ الابتداء",
+    "FL_ACCOUNT": "حساب",
+    "FL_STATUS": "الحالة",
+    "FL_NUMBER": "رقم الفاتورة:",
+    "FL_TOTAL": "صافى",
+    "FL_GROSS": "الإجمالي",
+    "PLL_WIRE_TRANSFER": "التحويل الالكتروني"
+  }
+}

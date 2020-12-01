@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Επιθεωρητής αδειών",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Επιθεωρητής αδειών",
+    "LBL_FULL_USER_NAME": "Χρήστης",
+    "LBL_VIEW_PRVILIGE": "Προβολή",
+    "LBL_CREATE_PRIVILIGE": "Δημιουργία",
+    "LBL_EDIT_PRIVILIGE": "Επεξεργασία",
+    "LBL_DELETE_PRIVILIGE": "Διαγραφή",
+    "LBL_PROFILES": "Προφίλ:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Το module\/ενέργεια εξαιρέθηκε από την επαλήθευση δικαιωμάτων",
+    "SEC_USER_IS_ADMIN": "Ο χρήστης είναι διαχειριστής",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Δικαιώματα στο module, ο χρήστης έχει πρόσβαση στα δεδομένα αυτού του module",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Καθολικά δικαιώματα προβολή δεδομένων",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Καθολικά δικαιώματα επεξεργασία δεδομένων",
+    "SEC_RECORID_IS_NULL": "Γενική πρόσβαση στις ενέργειες του module",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Πρόσβαση με βάση δικαιώματα για να εκτελέσετε ενέργειες στο module",
+    "SEC_RECORD_BY_SHARING_YES": "Πρόσβαση βάσει κανόνων πρόσβασης (module \"Δικαιώματα - Πρόσβαση\")",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Πρόσβαση βάσει ιδιοκτήτη %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Πρόσβασης βάσει ομάδας %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Πρόσβαση βάσει ιεραρχίας της εταιρείας (ρόλων), ο χρήστης είναι υψηλότερα στην ιεραρχία από τον κάτοχο της εγγραφής",
+    "SEC_RECORD_HIERARCHY_USER": "Πρόσβαση με βάση την ιεραρχία δικαιωμάτων",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Χωρίς δικαιώματα στο module, ο χρήστης δεν έχει πρόσβαση στα δεδομένα αυτού του module",
+    "SEC_MODULE_PERMISSIONS_NO": "Χωρίς δικαιώματα στο module, ο χρήστης δεν έχει πρόσβαση στα δεδομένα αυτού του module",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Χωρίς δικαιώματα εκτέλεσης ενεργειών στο module",
+    "SEC_RECORD_BY_SHARING_NO": "Δεν υπάρχουν δικαιώματα βάσει κανόνων πρόσβασης (module \"Δικαιώματα - Πρόσβαση\")",
+    "SEC_MODULE_NO_ACTION_TOOL": "Δεν υπάρχουν δικαιώματα για ενέργειες - Ενέργεια δεν βρέθηκε"
+  }
+}

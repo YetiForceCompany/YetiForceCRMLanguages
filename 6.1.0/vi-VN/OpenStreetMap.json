@@ -1,0 +1,19 @@
+{
+  "php": {
+    "OpenStreetMap": "OpenStreetMap",
+    "LBL_GROUP_BY": "Nhóm",
+    "LBL_GROUP_NEIGHBOURS": "Phần tử lân cận của nhóm",
+    "LBL_NOT_FOUND_PLACE": "Không tìm thấy địa điểm",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "Thành phố, đường phố, số nhà...",
+    "LBL_IN_RADIUS": "Trong vòng bán kính [km]",
+    "LBL_CALCULATE_TRACK": "Thiết lập tuyến đường",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Thiết lập tuyến đường",
+    "LBL_DISTANCE": "Khoảng cách [km]",
+    "LBL_TRAVEL_TIME": "Thời gian [phút]",
+    "LBL_INSTRUCTION": "Bằng tay",
+    "LBL_SEARCH_IN_RADIUS": "Tìm kiếm trong bán kính",
+    "LBL_CLIPBOARD": "Clipboard",
+    "LBL_INDIRECT_POINT": "Gián tiếp điểm",
+    "ERR_ADDRESS_NOT_FOUND": "Không tìm thấy địa chỉ"
+  }
+}

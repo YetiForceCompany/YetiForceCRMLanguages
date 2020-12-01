@@ -1,0 +1,32 @@
+{
+  "php": {
+    "OSSMailScanner_manual": "Mail Skener",
+    "OSSMailScanner": "Mail Skener",
+    "Mail Scanner": "Mail – Skener",
+    "LBL_VIEW_LOGS": "Mail protokol",
+    "LBL_PAGE_NUMBER": "Idi u broj stranice",
+    "CRM Archive": "CRM arhiva",
+    "CRM Archive Sent": "CRM arhiva poslata",
+    "Drafts": "Skice",
+    "INBOX": "INBOX",
+    "Junk": "ĐUBRE",
+    "Sent": "POSLALI",
+    "ERR_INCORRECT_ACCESS_DATA": "Netačni pristupni podaci",
+    "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "Folderi u nastavku biće uklonjeni nakon spremanja"
+  },
+  "js": {
+    "start_cron": "Cron započet",
+    "end_cron_ok": "Zadaci Cron uspješno su završeni",
+    "end_cron_error": "Dok je cron bio pokrenut pojavila se greška",
+    "JS_mail_error": "Navedena adresa e-pošte nije tačna",
+    "JS_time_error": "Format datuma je netačan",
+    "JS_StopCron": "Ručno zaustavite cron",
+    "stop_user": "Korisnik koji je prestao sa skeniranjem",
+    "Manually stopped": "Zaustavljeno ručno",
+    "OK": "OK",
+    "In progress": "U toku",
+    "whether_remove_an_identity": "Ukloni identitet?",
+    "removed_identity": "Identitet izbrisan",
+    "LBL_LOADING_LIST_OF_FOLDERS": "U tijeku je učitavanje liste mapa.\nTo traje do nekoliko minuta ..."
+  }
+}

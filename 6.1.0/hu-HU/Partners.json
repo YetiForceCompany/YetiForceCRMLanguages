@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Partnerek",
+    "SINGLE_Partners": "Partner",
+    "LBL_PARTNERS_INFORMATION": "Alap információk",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_NUMBER": "Sorszám",
+    "LBL_CLOSED_TIME": "Zárás ideje",
+    "LBL_VAT_ID": "Adóazonosító",
+    "FL_CATEGORY": "Kategória"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Đăng ký hoạt động",
+    "SINGLE_ActivityRegister": "Đăng ký hoạt động",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_PARENT_ACTIVITY": "Hoạt động cấp trên",
+    "FL_STATUS": "Trạng thái",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Đợi chấp nhận",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_COMPLETED": "Hoàn thành",
+    "PLL_CANCELLED": "Đã huỷ",
+    "FL_DATA_SET": "Bộ dữ liệu",
+    "PLL_ENTRUSTMENT": "Ủy thác",
+    "PLL_SHARING": "Chia sẻ",
+    "PLL_TRANSFER": "Chuyển khoản",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Chấp nhận ủy thác",
+    "PLL_INTERNAL": "Nội bộ",
+    "FL_START_DATE": "Ngày bắt đầu",
+    "FL_END_DATE": "Ngày kết thúc",
+    "LBL_DATES": "Loại hoạt động",
+    "LBL_DESCRIPTION": "Mô tả",
+    "FL_DESCRIPTION": "Mô tả",
+    "FL_COMMENTS": "Nhận xét",
+    "LBL_COMMENTS": "Nhận xét",
+    "FL_ACTIVITY_TYPE": "Loại hoạt động"
+  }
+}

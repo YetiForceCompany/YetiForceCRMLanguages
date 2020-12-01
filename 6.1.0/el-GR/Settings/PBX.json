@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "Όνομα",
+    "LBL_TYPE": "Τύπος",
+    "LBL_DEFAULT": "Προεπιλογή",
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "LBL_CREATE_RECORD": "Δημιουργία εγγραφής",
+    "LBL_EDIT_RECORD": "Επεξεργασία εγγραφής",
+    "LBL_URL": "Διεύθυνση διακομιστή",
+    "LBL_USERNAME": "Είσοδος",
+    "LBL_PASSWORD": "Κωδικόs πρόσβασης",
+    "LBL_SECRET_KEY": "Μυστικό Κλειδί",
+    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Οι αλλαγές αποθηκεύτηκαν"
+  }
+}

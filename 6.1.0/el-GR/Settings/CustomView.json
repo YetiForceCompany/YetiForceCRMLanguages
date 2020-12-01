@@ -1,0 +1,35 @@
+{
+  "php": {
+    "CustomView": "Φίλτρα - Διαμόρφωση",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Το εργαλείο σας επιτρέπει να δημιουργείτε και διαχειρίζεστε προσρμοσμενες λίστες για modules. Αυτά τα modules πρέπει να έχουν εγγραφές και να υποστηρίζουν το τυπικό φιλτράρισμα YetiForce.",
+    "ViewName": "Όνομα",
+    "SetDefault": "Προεπιλογή",
+    "Privileges": "Δικαιώματα",
+    "Delete": "Διαγραφή",
+    "Delete CustomView": "Διαγράφτηκε",
+    "Saving CustomView": "Αποθηκεύτηκε",
+    "Actions": "Ενέργειες",
+    "Edit": "Επεξεργασία",
+    "LBL_FEATURED_LABELS": "Στα αγαπημένα",
+    "LBL_CREATED_BY": "Δημιουργήθηκε από",
+    "LBL_ADD_FILTER": "Νέo φίλτρο",
+    "LBL_MANAGE_PERMISSIONS": "Διαχείριση δικαιωμάτων",
+    "LBL_ALL_GROUP_LIST": "Διαθέσιμες επιλογές",
+    "LBL_GROUP_MEMBERS": "Περιλαμβάνεται στην ενέργεια",
+    "LBL_ADD_PERMISSIONS": "Προσθέστε δικαιώματα",
+    "LBL_RECEIVE_PERMISSION": "Ανάκληση δικαιωμάτων",
+    "LBL_SAVE_SEQUENCES": "Επιτυχής αποθήκευση",
+    "LBL_EXISTS_PERMISSION_IN_CONFIG": "Σύγκρουση με %s \nΤο επιλεγμένο δικαίωμα δεν μπορεί να χρησιμοποιηθεί σε περισσότερα από ένα φίλτρα.",
+    "LBL_SORTING": "Ταξινόμηση",
+    "LBL_SORTING_SETTINGS": "Ρυθμίσεις ταξινόμησης",
+    "LBL_SORTING_SETTINGS_WORNING": "Η ταξινόμηση εγγραφών μπορεί να αυξήσει σημαντικά το χρόνο φόρτωσης της σελίδας.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Επιλέξτε πεδίο για να ταξινομήσετε εγγραφές",
+    "LBL_SORT_ASCENDING_ORDER": "Ταξινόμηση κατά αύξουσα σειρά",
+    "LBL_SORT_DESCENDING_ORDER": "Ταξινόμηση κατά φθίνουσα σειρά",
+    "LBL_ATTENTION": "Προειδοποίηση!"
+  },
+  "js": {
+    "Saving changes": "Αποθήκευση των αλλαγών...",
+    "Update labels": "Ενημέρωση"
+  }
+}

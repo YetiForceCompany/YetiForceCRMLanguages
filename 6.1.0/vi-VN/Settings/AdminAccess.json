@@ -1,0 +1,20 @@
+{
+  "php": {
+    "AdminAccess": "Truy cập quản trị",
+    "LBL_ADMIN_ACCESS": "Truy cập quản trị",
+    "LBL_PERMISSIONS": "Quyền",
+    "BTN_MASS_EDIT_ACCESS": "Chỉnh sửa hàng loạt",
+    "FL_MODULE_NAME": "Tên mô-đun",
+    "LBL_ACTIVE": "Bật",
+    "LBL_EDIT_ADMIN_ACCESS": "Chỉnh sửa của quyền quản trị",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " ",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Visits Purpose",
+    "FL_DATE_TIME": "Date",
+    "FL_PURPOSE": "Purpose",
+    "FL_USER": "User",
+    "FL_BASE_USER": "Base user"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
+  }
+}

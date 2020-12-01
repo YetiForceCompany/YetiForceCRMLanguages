@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "FAQ",
+    "SINGLE_Faq": "FAQ",
+    "Draft": "下書き",
+    "FL_SUBJECT": "件名",
+    "FL_CONTENT": "内容",
+    "FL_CATEGORY": "カテゴリー",
+    "FL_ACCOUNT": "アカウント",
+    "FL_VIEWS": "表示",
+    "PLL_PAGE": "ページ",
+    "PLL_PRESENTATION": "プレゼンテーション",
+    "LBL_VIEW_KNOWLEDGE_BASE": "ナレッジベース",
+    "LBL_PREVIOUS": "前",
+    "LBL_NEXT": "次",
+    "FL_STATUS": "ステータス",
+    "LBL_ARTICLE": "記事",
+    "FL_FEATURED": "特徴",
+    "LBL_RELATED_FAQ": "関連するエントリー",
+    "FL_INTRODUCTION": "はじめに",
+    "Faq No": "FAQ番号",
+    "General": "一般",
+    "LBL_FAQ_INFORMATION": "FAQ情報",
+    "LBL_RECORDS_LIST": "FAQリスト",
+    "Obsolete": "廃止済み",
+    "Published": "公開済み",
+    "Question": "質問"
+  }
+}

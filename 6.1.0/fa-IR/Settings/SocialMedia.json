@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_TWITTER": "توییتر",
+    "LBL_TWITTER_DESC": "همگام‌سازی Twitter",
+    "LBL_ARCHIVING_RECORDS_NUMBER_OF_DAYS": "سوابق بایگانی - تعداد روز",
+    "LBL_SOCIAL_MEDIA_CRON_WARNING": "Social Cron فعال نیست ، برای بایگانی مناسب لازم است.",
+    "LBL_SOCIAL_MEDIA_CRON2_WARNING": "Cron برای بازیابی پیام از رسانه های اجتماعی باید فعال باشد",
+    "LBL_TWITTER_API_KEY": "کلید API توییتر",
+    "LBL_TWITTER_API_SECRET": "Twitter API secret",
+    "LBL_TWITTER_INSTRUCTION": "برای پیکربندی API توییتر ، حساب برنامه نویس در Twitter لازم است. یک برنامه جدید اضافه کنید ، به جزئیات برنامه بروید و برگه \"Keys and tokens\" را پیدا کنید که کلیدهای API در آن قرار دارند. آنها را در زیر ارائه دهید.",
+    "LBL_TYPE_OF_LOG": "نوع لاگ",
+    "LBL_SOCIAL_MEDIA_TYPE": "نوع",
+    "LBL_MESSAGE": "پیام"
+  }
+}

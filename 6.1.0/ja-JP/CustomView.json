@@ -1,0 +1,8 @@
+{
+  "php": {
+    "CustomView": "フィルタの設定",
+    "LBL_FEATURED": "お気に入りに追加する",
+    "LBL_COLOR_VIEW": "表示色",
+    "LBL_ADD_FIELD": "フィールドを追加"
+  }
+}

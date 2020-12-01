@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Ötletek",
+    "SINGLE_Ideas": "Ötlet",
+    "LBL_IDEAS_INFORMATION": "Alapinformációk",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_STATUS": "Állapot",
+    "Description": "Általános leírás",
+    "LBL_EXTENT_DESCRIPTION": "Részetes leírás",
+    "Attention": "Hozzászólások",
+    "LBL_NO": "Szám",
+    "Draft": "Vázlat",
+    "Proposition": "Javaslat"
+  }
+}

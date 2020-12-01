@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_APP_NAME": "Name",
+    "LBL_ADDRESS_URL": "Toegestane IP-adressen",
+    "LBL_ADDRESS_URL_INFO": "Lege waarde - toegang van alle servers.\nAls IP-adressen worden ingevoerd (na de komma), dan wordt de toegang tot de API alleen toegestaan vanaf deze IP-adressen.\nVoorbeeld:",
+    "LBL_TYPE_SERVER": "Type",
+    "LBL_API_KEY": "Key",
+    "LBL_ADD_APPLICATION": "Add key",
+    "LBL_WEBSERVICE_APPS": "Web service - Applications",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "Mail": "E-mail",
+    "LBL_PASS": "Password",
+    "LBL_TITLE_ADDED": "Add",
+    "LBL_TITLE_EDIT": "Edit",
+    "Portal": "Portal",
+    "Payments": "Payments",
+    "ManageConsents": "Manage consents"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+  }
+}

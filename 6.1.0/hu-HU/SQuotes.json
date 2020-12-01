@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SQuotes": "Árajánlatok",
+    "SINGLE_SQuotes": "Árajánlat",
+    "LBL_SQUOTES_INFORMATION": "Alap Információk",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "LBL_STATISTICS": "Statisztikák",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_NUMBER": "Sorszám",
+    "LBL_CLOSED_TIME": "Zárás ideje",
+    "LBL_STATUS": "Státusz",
+    "LBL_COMPANY_NAME": "Vállalat neve",
+    "SINGLE_SSalesProcesses": "Lehetőség",
+    "FL_TOTAL_PRICE": "Nettó összesen",
+    "FL_MARGINP": "Teljes haszon %",
+    "FL_MARGIN": "Teljes haszon",
+    "FL_SUM_GROSS": "Bruttó összeg",
+    "FL_SUM_DISCOUNT": "Kedvezmény összege",
+    "FL_VALID_UNTIL": "Érvényesség vége",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_IN_REALIZATION": "Megvalósulás alatt",
+    "PLL_FOR_VERIFICATION": "Ellenőrzésre",
+    "PLL_AWAITING_DECISION": "Döntésre vár",
+    "PLL_NEGOTIATIONS": "Egyeztetések",
+    "PLL_CANCELLED": "Megszakítva",
+    "PLL_ACCEPTED": "Elfogadott",
+    "LBL_CHANGE_STATUS": "Állapot módosítása",
+    "FL_PARENT_SQUOTES": "\"Szülő\" kvóta"
+  }
+}

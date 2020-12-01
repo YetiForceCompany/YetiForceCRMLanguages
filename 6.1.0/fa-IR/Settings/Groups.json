@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "افزودن رکورد",
+    "LBL_ADD_USERS_ROLES": "افزودن کاربران، نقش ها...",
+    "LBL_DUPLICATES_EXIST": "نام گروه از قبل موجود است",
+    "LBL_GROUP_MEMBERS": "اعضای گروه",
+    "LBL_GROUP_NAME": "نام گروه",
+    "LBL_ROLEANDSUBORDINATE": "نقش و زیردستان",
+    "LBL_TO_OTHER_GROUP": "به گروه دیگر ",
+    "LBL_TRANSFORM_OWNERSHIP": "انتقال مالکیت",
+    "SINGLE_Groups": "گروه",
+    "Users": "کاربران",
+    "Name": "نام گروه",
+    "Description": "شرح"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "لطفا حداقل یک عضو گروه را انتخاب کنید",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "گروه با موفقیت حذف شد"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SCalculations": "計算",
+    "SINGLE_SCalculations": "計算",
+    "LBL_SCALCULATIONS_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_STATISTICS": "統計情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "数値",
+    "LBL_CLOSED_TIME": "終了日時",
+    "LBL_STATUS": "ステータス",
+    "SINGLE_SSalesProcesses": "案件",
+    "FL_TOTAL_PRICE": "正味合計",
+    "FL_MARGINP": "合計証拠金の割合",
+    "FL_MARGIN": "マージンの合計",
+    "PLL_DRAFT": "下書き",
+    "PLL_IN_REALIZATION": "実現のために",
+    "PLL_FOR_VERIFICATION": "検証用",
+    "PLL_CANCELLED": "キャンセル済",
+    "PLL_COMPLETED": "完了",
+    "LBL_CHANGE_STATUS": "ステータスの変更",
+    "FL_PARENT_SCALCULATIONS": "親の計算"
+  }
+}

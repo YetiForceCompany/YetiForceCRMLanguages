@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_LOGS": "Інциденти в області безпеки",
+    "LBL_LOGS_DESC": "Панель для перегляду інцидентів безпеки",
+    "LBL_ACCESS_FOR_ADMIN": "Доступ для адміністратора",
+    "LBL_ACCESS_FOR_API": "Доступ для API",
+    "LBL_ACCESS_FOR_USER": "Доступ для користувача",
+    "LBL_ACCESS_TO_RECORD": "Доступ до запису",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Ім'я користувача",
+    "LBL_DATE": "Дата",
+    "LBL_IP": "Адреса IP",
+    "LBL_RECORD": "ID запису",
+    "LBL_MODULE": "Модуль",
+    "LBL_URL": "URL-адреса",
+    "LBL_AGENT": "Агент",
+    "LBL_REQUEST": "Запит",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_MAILS_NOT_SENT": "E-mails not sent",
+    "LBL_BATCH_NAME": "Method name",
+    "LBL_PARAMS": "Params",
+    "LBL_PROFILING": "Profiling",
+    "LBL_DURATION": "Duration",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

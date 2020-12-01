@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Редактор швидкого створення",
+    "LBL_QUICK_CREATE_EDITOR": "Поля - Швидке створення",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Модуль, який дозволяє змінювати макет полів у вікні швидкого створення",
+    "LBL_SEQUENCE": "Послідовність полів",
+    "LBL_SAVE_FIELD_SEQUENCE": "Зберегти послідовність полів"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Оновлено послідовність полів"
+  }
+}

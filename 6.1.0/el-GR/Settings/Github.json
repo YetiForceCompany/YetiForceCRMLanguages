@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_TOKEN": "Token",
+    "LBL_NOT_AUTHORIZED": "Απαιτείται εξουσιοδότηση για τη χρήση όλων των δυνατοτήτων του module.",
+    "LBL_TITLE": "Τίτλος",
+    "LBL_AUTHOR": "Συγγραφέας",
+    "LBL_ADD_ISSUES": "Προσθήκη",
+    "LBL_TITLE_ADD_ISSUE": "Προσθήκη",
+    "LBL_CLOSED": "Κλειστό",
+    "LBL_OPEN": "Ανοιχτό",
+    "closed": "Κλειστό",
+    "open": "Ανοιχτό",
+    "LBL_ME": "Μόνο εγώ",
+    "LBL_ERROR_CONNECTED": "Παρουσιάστηκε σφάλμα κατά τη σύνδεση στο www.api.github.com, ελέγξτε τις ρυθμίσεις τείχους προστασίας και τη σύνδεση στο Internet",
+    "LBL_CONFIRM_REGULATIONS": "Έχω διαβάσει τους κανόνες για προσθήκη νέου θέματατος: %s",
+    "LBL_DEFAULT_DESCRIPTION": "Δημιουργήθηκε από YetiforceCRM ver. ",
+    "LBL_CHANGE_AUTHORIZATION": "Αλλαγή εξουσιοδότησης",
+    "LBL_USERNAME_DESCRIPTION": "Το όνομα χρήστη σας www.github.com",
+    "LBL_TOKEN_DESCRIPTION": "40 χαρακτήρες μοναδικός κωδικός πρόσβασης λογαριασμού. Οι οδηγίες για τη δημιουργία ενός token είναι διαθέσιμες στη διεύθυνση: %s",
+    "LBL_NO_ISSUES": "Δεν αναφέρονται προβλήματα",
+    "LBL_PHP_VERSION": "PHP"
+  }
+}

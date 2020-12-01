@@ -1,0 +1,16 @@
+{
+  "php": {
+    "HideBlocks": "Ẩn blocks",
+    "LBL_HIDEBLOCKS": "Trường - Ẩn Blocks",
+    "LBL_HIDEBLOCKS_DESCRIPTION": "Quản lý block với trường bị ẩn",
+    "LBL_BLOCK_LABEL": "Khối",
+    "LBL_MODULE": "Mô-đun",
+    "LBL_ENABLED": "Bật",
+    "LBL_EDIT_BLOCK": "Sửa",
+    "LBL_NEW_BLOCK": "Tạo",
+    "LBL_BLOCK": "Khối",
+    "LBL_NEXT": "Tiếp",
+    "LBL_VIEW": "Xem",
+    "LBL_MANDATORY_FIELDS_EXIST": "Khối này không thể được che giấu bởi vì nó chứa trường bắt buộc."
+  }
+}

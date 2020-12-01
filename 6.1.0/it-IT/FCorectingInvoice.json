@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Fatture di accredito",
+    "SINGLE_FCorectingInvoice": "Fattura di accredito",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_INVOICE_ADDRESS": "Indirizzo fattura",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Indirizzo di recapito",
+    "FL_SUBJECT": "Oggetto",
+    "FL_PAYMENT_DATE": "Data scadenza",
+    "FL_SALE_DATE": "Data venfita",
+    "FL_BANK_ACCOUNT": "IBAN",
+    "FL_NUMBER": "Progressivo",
+    "FL_ACCOUNT": "Azienda",
+    "FL_TOTAL": "Netto",
+    "FL_GROSS": "Totale",
+    "FL_STATUS": "Stato",
+    "PLL_WIRE_TRANSFER": "Elettronico",
+    "LBL_YEAR": "Anno",
+    "FL_INVOICE": "Fattura",
+    "LBL_COMMENTS": "Commenti",
+    "FL_EXTERNAL_COMMENT": "Commento esterno",
+    "FL_INTERNAL_COMMENT": "Commento interno",
+    "LBL_BEFORE_CORRECTION": "Prima della correzione",
+    "LBL_AFTER_CORRECTION": "Dopo la correzione",
+    "LBL_CHOOSE_INVOICE": "Seleziona fattura da correggere",
+    "LBL_COPY_FROM_INVOICE": "Copia elementi dalla fattura da correggere",
+    "LBL_INVOICE_INFO": "Elementi delle fattura da modificare - prima della correzione",
+    "LBL_AFTER_INVOICE_INFO": "Come dovrebbe apparire la fattura finale dopo la correzione",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Copia gli elementi dalla fattura da correggere - poi effettuare le modifiche"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Seleziona fattura da correggere"
+  }
+}

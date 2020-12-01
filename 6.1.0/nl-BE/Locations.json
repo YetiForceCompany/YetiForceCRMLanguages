@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Locations": "Locaties",
+    "SINGLE_Locations": "Locatie",
+    "LBL_LOCATIONS_INFORMATION": "Algemeen",
+    "LBL_CUSTOM_INFORMATION": "Systeeminformatie",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving Details",
+    "LBL_SUBJECT": "Onderwerp",
+    "LBL_NUMBER": "Nummer",
+    "LBL_CLOSED_TIME": "Sluitingstijd",
+    "FL_PHONE": "Telefoon",
+    "FL_CAPACITY": "Capaciteit"
+  }
+}

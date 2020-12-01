@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Parceiros",
+    "SINGLE_Partners": "Parceiro",
+    "LBL_PARTNERS_INFORMATION": "Informações Básicas",
+    "LBL_CUSTOM_INFORMATION": "Informação do Sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrição",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_NUMBER": "Número",
+    "LBL_CLOSED_TIME": "Hora Fechamento",
+    "LBL_VAT_ID": "CNPJ",
+    "FL_CATEGORY": "Categoria"
+  }
+}

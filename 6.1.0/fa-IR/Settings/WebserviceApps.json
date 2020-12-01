@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_APP_NAME": "نام",
+    "LBL_ADDRESS_URL": "Allowed IPs",
+    "LBL_ADDRESS_URL_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
+    "LBL_TYPE_SERVER": "نوع",
+    "LBL_API_KEY": "کلید",
+    "LBL_ADD_APPLICATION": "افزودن کلید",
+    "LBL_WEBSERVICE_APPS": "وب سرویس - اپلیکیشن‌ها",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "کلیدهای برنامه را که از طریق API ادغام می شوند ایجاد و مدیریت کنید.",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "Mail": "ايميل",
+    "LBL_PASS": "گذرواژه",
+    "LBL_TITLE_ADDED": "افزودن",
+    "LBL_TITLE_EDIT": "ویرایش",
+    "Portal": "پرتال",
+    "Payments": "پرداخت‌ها",
+    "ManageConsents": "مدیریت رضایت نامه"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟"
+  }
+}

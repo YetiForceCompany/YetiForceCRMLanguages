@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Árfolyam",
+    "Currency": "Pénznem",
+    "Symbol": "Szimbólum",
+    "Currency Code": "Pénznem kód",
+    "Currency Name": "Pénznem név",
+    "LBL_ADD_NEW_CURRENCY": "Új pénznem hozzáadása",
+    "LBL_ADD_RECORD": "Rekord hozzáadása",
+    "LBL_CURRENCY_CODE": "Pénznem kód",
+    "LBL_CURRENCY_NAME": "Pénznem név",
+    "LBL_CURRENCY_STATUS_DESC": "Engedélyezze a jelölőnégyzetet a pénznem aktívvá tételéhez",
+    "LBL_CURRENCY_SYMBOL": "Szimbólum",
+    "LBL_CURRENT_CURRENCY": "Jelenlegi pénznem",
+    "LBL_EDIT_CURRENCY": "Pénznem szerkesztése",
+    "LBL_ENTER_CONVERSION_RATE": "Árfolyam bevitele",
+    "LBL_TRANSFER_CURRENCY": "Transzfer pénznem",
+    "Active": "Aktív",
+    "Inactive": "Inaktív",
+    "LBL_SET_AS_DEFAULT": "Beállítás alapértelmezettként"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Pénznem sikeresen törölve.",
+    "JS_CURRENCY_DETAILS_SAVED": "Pénznem részletek mentve.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Figyelem! Ez a művelet sok helyen megváltoztatja a pénznemet a rendszerben. Előfordulhat, hogy a változás előtt kiadott pénzügyi dokumentumok valuták átváltását szükségesek. Kérjük, hajtsa végre a manuális pénznem átváltást, ha ezeket a dokumentumokat kiadták a gyártási változatban. A fennmaradó valuták árfolyamának kiszámításához szükség lesz."
+  }
+}

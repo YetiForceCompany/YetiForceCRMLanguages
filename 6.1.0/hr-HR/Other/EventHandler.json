@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikatne poruke e-pošte",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodavanje / uređivanje zapisa kada jedna od unesenih adresa e-pošte već postoji",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikatan PDV ID",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodavanja / uređivanja zapisa kada takav PDV ID već postoji",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikatni EAN",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokiranje dodavanja/uređivanja zapisa kada takav EAN kod već postoji",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplicate Goods Dispatched Note Correction",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
+  }
+}

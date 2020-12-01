@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "請求書の修正",
+    "SINGLE_FCorectingInvoice": "請求書の修正",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_INVOICE_ADDRESS": "請求先住所",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "配送先住所",
+    "FL_SUBJECT": "件名",
+    "FL_PAYMENT_DATE": "期限",
+    "FL_SALE_DATE": "販売日",
+    "FL_BANK_ACCOUNT": "銀行口座番号",
+    "FL_NUMBER": "請求書番号",
+    "FL_ACCOUNT": "アカウント",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "グロス",
+    "FL_STATUS": "状況",
+    "PLL_WIRE_TRANSFER": "電子送金",
+    "LBL_YEAR": "年",
+    "FL_INVOICE": "請求書",
+    "LBL_COMMENTS": "コメント",
+    "FL_EXTERNAL_COMMENT": "外部コメント",
+    "FL_INTERNAL_COMMENT": "内部のコメント",
+    "LBL_BEFORE_CORRECTION": "修正前",
+    "LBL_AFTER_CORRECTION": "修正後",
+    "LBL_CHOOSE_INVOICE": "修正する請求書を選択してください",
+    "LBL_COPY_FROM_INVOICE": "初期請求書からコピー",
+    "LBL_INVOICE_INFO": "初期請求書フィールド - 訂正前。",
+    "LBL_AFTER_INVOICE_INFO": "修正後の最終請求書はどのようになりますか?",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "修正する請求項目。最初の請求書からすべての項目をコピーし、必要に応じて値を変更します。"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "修正する請求書を選択してください"
+  }
+}

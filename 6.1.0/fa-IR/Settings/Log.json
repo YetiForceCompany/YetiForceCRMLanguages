@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_LOGS": "حوادث امنیتی",
+    "LBL_LOGS_DESC": "پنل برای مشاهده حوادث امنیتی",
+    "LBL_ACCESS_FOR_ADMIN": "دسترسی به مدیریت",
+    "LBL_ACCESS_FOR_API": "دسترسی به API",
+    "LBL_ACCESS_FOR_USER": "دسترسی به کاربر",
+    "LBL_ACCESS_TO_RECORD": "دسترسی به رکورد",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "نام کاربری",
+    "LBL_DATE": "تاریخ",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "شماره ثبت",
+    "LBL_MODULE": "ماژول",
+    "LBL_URL": "آدرس اینترنتی",
+    "LBL_AGENT": "عامل",
+    "LBL_REQUEST": "درخواست",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_MAILS_NOT_SENT": "E-mails not sent",
+    "LBL_BATCH_NAME": "Method name",
+    "LBL_PARAMS": "Params",
+    "LBL_PROFILING": "Profiling",
+    "LBL_DURATION": "Duration",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

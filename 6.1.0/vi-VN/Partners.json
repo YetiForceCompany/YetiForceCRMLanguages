@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Partners": "Đối tác",
+    "SINGLE_Partners": "Đối tác",
+    "LBL_PARTNERS_INFORMATION": "Thông tin cơ bản",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_NUMBER": "Số",
+    "LBL_CLOSED_TIME": "Thời Gian Đóng",
+    "LBL_VAT_ID": "Mã số thuế",
+    "FL_CATEGORY": "Nhóm"
+  }
+}

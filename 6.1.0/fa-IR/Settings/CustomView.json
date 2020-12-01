@@ -1,0 +1,35 @@
+{
+  "php": {
+    "CustomView": "تنظیمات - فیلترها",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "این ابزار اجازه تنظیم نماهای دلخواه برای ماژول‌ها را می‌دهد. این ماژول باید شامل رکوردها و استفاده از فیلترهای استاندارد در YetiForce CRM باشد.",
+    "ViewName": "نام نما",
+    "SetDefault": "پیش فرض",
+    "Privileges": "قوانین دسترسی",
+    "Delete": "حذف",
+    "Delete CustomView": "نمای سفارشی حذف شد",
+    "Saving CustomView": "نما ذخیره گردید",
+    "Actions": "عملیات",
+    "Edit": "ویرایش",
+    "LBL_FEATURED_LABELS": "در علاقه مندی ها",
+    "LBL_CREATED_BY": "ایجاد شده توسط",
+    "LBL_ADD_FILTER": "افزودن فیلتر",
+    "LBL_MANAGE_PERMISSIONS": "مدیریت مجوزها",
+    "LBL_ALL_GROUP_LIST": "گزینه‌های در دسترس",
+    "LBL_GROUP_MEMBERS": "گنجانده شده در عمل",
+    "LBL_ADD_PERMISSIONS": "افزودن سطوح دسترسی",
+    "LBL_RECEIVE_PERMISSION": "دریافت مجوزها",
+    "LBL_SAVE_SEQUENCES": "سلسله ترتیب با موفقیت ذخیره گردید",
+    "LBL_EXISTS_PERMISSION_IN_CONFIG": "Conflict with %s \r\n Selected permission cannot be used in more than one filter.",
+    "LBL_SORTING": "مرتب سازی",
+    "LBL_SORTING_SETTINGS": "پیکربندی مرتب‌سازی",
+    "LBL_SORTING_SETTINGS_WORNING": "مرتب‌سازی رکوردها می‌تواند باعث افزایش زمان بارگذاری صفحه گردد.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "انتخاب یک فیلد برای مرتب‌سازی رکوردها",
+    "LBL_SORT_ASCENDING_ORDER": "مرتب‌سازی به ترتیب صعودی",
+    "LBL_SORT_DESCENDING_ORDER": "مرتب سازی به ترتیب نزولی",
+    "LBL_ATTENTION": "هشدار!"
+  },
+  "js": {
+    "Saving changes": "ذخیره‌ی تغییرات...",
+    "Update labels": "به روز رسانی"
+  }
+}

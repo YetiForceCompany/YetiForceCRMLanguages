@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "مسابقة",
+    "SINGLE_Competition": "منافس",
+    "LBL_COMPETITION_INFORMATION": "معلومات أساسية",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "LBL_SUBJECT": "الاسم",
+    "LBL_NUMBER": "عدد",
+    "LBL_CLOSED_TIME": "وقت المغلق",
+    "LBL_VAT_ID": "معرّف الضريبة",
+    "LBL_SHOW_HIERARCHY": "تدرّج",
+    "LBL_PARENT_ID": "منافس الوالدين"
+  }
+}

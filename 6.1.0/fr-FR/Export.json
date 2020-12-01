@@ -1,0 +1,6 @@
+{
+  "php": {
+    "Export": "Exporter",
+    "LBL_INFO_USER_EXPORT_RECORDS": "Seul les utilisateurs actifs peuvent être exportés"
+  }
+}

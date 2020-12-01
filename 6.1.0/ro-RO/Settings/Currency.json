@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Rata conversie",
+    "Currency": "Moneda",
+    "Symbol": "Simbol",
+    "Currency Code": "Cod moneda",
+    "Currency Name": "Denumire moneda",
+    "LBL_ADD_NEW_CURRENCY": "Adauga moneda noua",
+    "LBL_ADD_RECORD": "Adauga inregistrare",
+    "LBL_CURRENCY_CODE": "Cod moneda",
+    "LBL_CURRENCY_NAME": "Denumire moneda",
+    "LBL_CURRENCY_STATUS_DESC": "Activeaza casuta pentru a activa moneda.",
+    "LBL_CURRENCY_SYMBOL": "Simbol",
+    "LBL_CURRENT_CURRENCY": "Moneda curenta",
+    "LBL_EDIT_CURRENCY": "Modifica moneda",
+    "LBL_ENTER_CONVERSION_RATE": "Introdu rata de conversie",
+    "LBL_TRANSFER_CURRENCY": "Transfera moneda",
+    "Active": "Activa",
+    "Inactive": "Inactiva",
+    "LBL_SET_AS_DEFAULT": "Set as default"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Moneda stearsa cu succes.",
+    "JS_CURRENCY_DETAILS_SAVED": "Detalii moneda salvate.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+  }
+}

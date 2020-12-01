@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Διαχείριση αντιγράφων ασφαλείας",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Διαχείριση αρχείων αντιγράφων ασφαλείας",
+    "LBL_DOWNLOAD": "Λήψη",
+    "LBL_FILE_NAME": "Όνομα αρχείου",
+    "LBL_FILE_SIZE": "Μέγεθος αρχείου",
+    "LBL_FILE_DATE": "Ημερομηνία τροποποίησης",
+    "LBL_BACKUP_LIST": "Λίστα αντιγράφων ασφαλείας",
+    "ERR_CONFIG_ALERT_TITLE": "Η διαχείριση των αντιγράφων ασφαλείας είναι απενεργοποιημένη",
+    "ERR_CONFIG_ALERT_DESC": "Ορίστε την κατάλληλη διαδρομή στη μεταβλητή BACKUP_PATH στο αρχείο παραμέτρων [config\/Components\/Backup.php] για να το ενεργοποιήσετε."
+  },
+  "js": {}
+}

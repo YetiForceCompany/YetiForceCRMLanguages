@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Oproepgeschiedenis",
+    "SINGLE_CallHistory": "Oproepgeschiedenis",
+    "LBL_CALLHISTORY_INFORMATION": "Oproepgeschiedenis informatie",
+    "LBL_CUSTOM_INFORMATION": "Custom Information",
+    "LBL_PHONE_INFORMATION": "Telefooninformatie",
+    "LBL_RELATED_INFORMATION": "Gerelateerde informatie",
+    "LBL_TYPE": "Type",
+    "LBL_FROM_NUMBER": "Van Nummer",
+    "LBL_TO_NUMBER": "Tot nummer",
+    "LBL_LOCATION": "Locatie",
+    "LBL_PHONE_CALL_ID": "Oproepnummer op telefoon",
+    "LBL_DURATION": "Gespreksduur:",
+    "LBL_STATUS": "Status",
+    "LBL_START_TIME": "Oproep gestart",
+    "LBL_END_TIME": "Oproep beëindigd",
+    "LBL_COUNTRY_CODE": "Landcode",
+    "LBL_IMEI": "IMEI-nummer",
+    "LBL_IPADDRESS": "ID adres",
+    "LBL_SIMSERIAL": "Sim-nummer",
+    "LBL_SUBSCRIBERID": "Abonneenummer",
+    "LBL_DESTINATION": "Waar belde",
+    "LBL_SOURCE": "Oproepbron",
+    "Record Id": "Record Id",
+    "Outgoing missed": "Uitgaande gemist",
+    "Outgoing received": "Uitgaande ontvangen",
+    "Incoming": "Inkomende ontvangen",
+    "Missed": "Inkomende gemist",
+    "Voicemail": "Inkomende voicemail"
+  }
+}

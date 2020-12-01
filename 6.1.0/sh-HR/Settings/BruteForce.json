@@ -1,0 +1,25 @@
+{
+  "php": {
+    "BruteForce": "Brute Force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Broj pokušaja",
+    "LBL_TIME_LOCK": "Vremensko zaključavanje (u minutama)",
+    "LBL_SETTINGS": "Podešavanja",
+    "LBL_BLOCKED_IP": "Blokirana IP adresa",
+    "LBL_SAVE_SUCCESS": "Promjene su spremljene",
+    "LBL_UNBLOCK_FAIL": "IP adresa nije deblokirana",
+    "LBL_UNBLOCK_SUCCESS": "IP adresa je deblokirana",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Postavite maksimalni broj neuspjelih pokušaja prijave i vremensko ograničenje za blokiranje IP-a.",
+    "LBL_IP": "IP Adresa",
+    "LBL_DATE": "Datum",
+    "LBL_USERS": "Korisnici",
+    "LBL_BROWSERS": "Preglednici",
+    "LBL_UNBLOCK": "Odblokiraj",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Korisnici za obavijesti",
+    "LBL_BRUTEFORCE_ACTIVE": "Aktivan",
+    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_SENT_NOTIFICATIONS": "Pošaljite obavijesti"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Greška. Spremanje nije uspjelo."
+  }
+}

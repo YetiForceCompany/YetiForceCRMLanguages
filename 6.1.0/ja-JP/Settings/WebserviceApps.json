@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_APP_NAME": "名前",
+    "LBL_ADDRESS_URL": "Allowed IPs",
+    "LBL_ADDRESS_URL_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
+    "LBL_TYPE_SERVER": "タイプ",
+    "LBL_API_KEY": "キー",
+    "LBL_ADD_APPLICATION": "キーを追加",
+    "LBL_WEBSERVICE_APPS": "Web サービス - アプリケーション",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "API経由で統合されたアプリケーション・キーの作成と管理。",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "Mail": "メール",
+    "LBL_PASS": "パスワード",
+    "LBL_TITLE_ADDED": "追加",
+    "LBL_TITLE_EDIT": "編集",
+    "Portal": "ポータル",
+    "Payments": "支払い",
+    "ManageConsents": "同意の管理"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "キーを削除してもよろしいですか？"
+  }
+}

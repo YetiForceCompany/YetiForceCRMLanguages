@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "المفضلة",
+    "LBL_ROOM_GROUP": "غرفة المجموعة",
+    "LBL_ROOM_GLOBAL": "اللون العام",
+    "LBL_MESSAGE": "أدخل رسالتك هنا. اضغط SHIFT + ENTER لإضافة خط جديد.",
+    "LBL_PARTICIPANTS": "المشاركون",
+    "LBL_SEARCH_PARTICIPANTS": "البحث عن مشارِكين",
+    "LBL_SEARCH_MESSAGE": "بحث الرسائل",
+    "LBL_CREATE_CHAT_ROOM": "بعث غرفة دردشة",
+    "LBL_REMOVE_FROM_FAVORITES": "إزالة إلى المفضلة",
+    "LBL_ADD_FROM_FAVORITES": "اضافة الى الملف  ",
+    "LBL_EARLIER": "في وقت سابق",
+    "LBL_NOTIFICATION": "دردشة الإخطارات",
+    "LBL_SOUND_OFF": "الصوت متوقف",
+    "LBL_SOUND_ON": "تشغيل الصوت ",
+    "LBL_HISTORY_CHAT": "سجل الدردشةش",
+    "LBL_MORE": "المزيد",
+    "LBL_HIDE": "إخفاء",
+    "LBL_NO_MESSAGES": "لا توجد رسائل",
+    "LBL_UNREAD": "غير مقروءة",
+    "LBL_ENTER": "تمكن\/تعطيل إرسال الرسائل بعد الضغط على ENTER",
+    "LBL_DETAIL_VIEW": "عرض التفاصيل",
+    "LBL_ROOM_DESCRIPTION_CRM": "قائمة غرف الدردشة مع سجلات علامة المفضلة",
+    "LBL_ROOM_DESCRIPTION_GROUP": "قائمة غرف الدردشة مع مجموعات المستخدمين",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "قائمة غرف الدردشة مرئية لكافة المستخدمين",
+    "LBL_CHAT_USER_SWITCHED": "دردشة غير نشط إذا قمت بالتبديل إلى مستخدم آخر.",
+    "LBL_CHAT_NEW_MESSAGE": "رسالة جديدة"
+  }
+}

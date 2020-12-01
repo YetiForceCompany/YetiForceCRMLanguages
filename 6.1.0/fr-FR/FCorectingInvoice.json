@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Factures de correction",
+    "SINGLE_FCorectingInvoice": "Facture de correction",
+    "LBL_CUSTOM_INFORMATION": "Information système",
+    "LBL_INVOICE_ADDRESS": "Adresse de facturation",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresse de livraison",
+    "FL_SUBJECT": "Sujet",
+    "FL_PAYMENT_DATE": "Date dûe",
+    "FL_SALE_DATE": "Date de vente",
+    "FL_BANK_ACCOUNT": "N° de compte",
+    "FL_NUMBER": "N° de facture",
+    "FL_ACCOUNT": "Organisation",
+    "FL_TOTAL": "HT",
+    "FL_GROSS": "TTC",
+    "FL_STATUS": "Statut",
+    "PLL_WIRE_TRANSFER": "Transfert électronique",
+    "LBL_YEAR": "Année",
+    "FL_INVOICE": "Facture",
+    "LBL_COMMENTS": "Commentaires",
+    "FL_EXTERNAL_COMMENT": "Commentaire externe",
+    "FL_INTERNAL_COMMENT": "Commentaire interne",
+    "LBL_BEFORE_CORRECTION": "Avant correction",
+    "LBL_AFTER_CORRECTION": "Après correction",
+    "LBL_CHOOSE_INVOICE": "Sélectionnez la facture à corriger",
+    "LBL_COPY_FROM_INVOICE": "Copie de facture initiale",
+    "LBL_INVOICE_INFO": "Champs de la facture initiale - avant corrections.",
+    "LBL_AFTER_INVOICE_INFO": "À quoi devrait ressembler la facture finale après correction.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Zones de facture à corriger. Copiez toutes les zones de la facture initiale et modifiez les valeurs au besoin."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Sélectionnez la facture à corriger"
+  }
+}

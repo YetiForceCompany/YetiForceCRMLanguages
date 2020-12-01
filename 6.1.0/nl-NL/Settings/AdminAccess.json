@@ -1,0 +1,20 @@
+{
+  "php": {
+    "AdminAccess": "Admin Toegang",
+    "LBL_ADMIN_ACCESS": "Admin Toegang",
+    "LBL_PERMISSIONS": "Rechten",
+    "BTN_MASS_EDIT_ACCESS": "Bulkbewerking",
+    "FL_MODULE_NAME": "Modulenaam",
+    "LBL_ACTIVE": "Actief",
+    "LBL_EDIT_ADMIN_ACCESS": "Bewerken van admin toegang",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " ",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Doel van Bezoek",
+    "FL_DATE_TIME": "Datum",
+    "FL_PURPOSE": "Doel",
+    "FL_USER": "Gebruiker",
+    "FL_BASE_USER": "Basis gebruiker"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Veranderingen opgeslagen"
+  }
+}

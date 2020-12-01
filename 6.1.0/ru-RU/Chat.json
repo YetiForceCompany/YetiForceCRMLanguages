@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "Избранное",
+    "LBL_ROOM_GROUP": "Чат группы",
+    "LBL_ROOM_GLOBAL": "Глобальный чат",
+    "LBL_MESSAGE": "Message",
+    "LBL_PARTICIPANTS": "Участники",
+    "LBL_SEARCH_PARTICIPANTS": "Поиск участников",
+    "LBL_SEARCH_MESSAGE": "Поиск сообщений",
+    "LBL_CREATE_CHAT_ROOM": "Создать чат",
+    "LBL_REMOVE_FROM_FAVORITES": "Удалить из избранного",
+    "LBL_ADD_FROM_FAVORITES": "Добавить в избранное",
+    "LBL_EARLIER": "Ранее",
+    "LBL_NOTIFICATION": "Уведомления чата",
+    "LBL_SOUND_OFF": "Звук выкл.",
+    "LBL_SOUND_ON": "Звук вкл.",
+    "LBL_HISTORY_CHAT": "История чата",
+    "LBL_MORE": "больше",
+    "LBL_HIDE": "скрыть",
+    "LBL_NO_MESSAGES": "Нет сообщений",
+    "LBL_UNREAD": "Непрочитанные",
+    "LBL_ENTER": "Включает\/отключает отправку сообщений после нажатия ENTER",
+    "LBL_DETAIL_VIEW": "Подробный вид",
+    "LBL_ROOM_DESCRIPTION_CRM": "Список чатов с записями отмеченными как избранное",
+    "LBL_ROOM_DESCRIPTION_GROUP": "Список чатов с группами пользователей",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "Список чатов видимых для всех пользователей",
+    "LBL_CHAT_USER_SWITCHED": "Чат неактивн, если вы переключились на другого пользователя.",
+    "LBL_CHAT_NEW_MESSAGE": "Новое сообщение"
+  }
+}

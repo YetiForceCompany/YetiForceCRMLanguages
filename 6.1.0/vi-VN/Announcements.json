@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Công bố",
+    "SINGLE_Announcements": "Công bố",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Thông tin cơ bản",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_NUMBER": "Số",
+    "FL_STATUS": "Trạng thái",
+    "FL_INTERVAL": "Thời gian nhắc",
+    "FL_IS_MANDATORY": "Bắt buộc phải chấp nhận",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_FOR_ACCEPTANCE": "Chấp thuận",
+    "PLL_PUBLISHED": "Đã công khai",
+    "PLL_ARCHIVES": "Đã lưu trữ",
+    "LBL_REMIND_ME_LATER": "Nhắc nhở tôi sau",
+    "LBL_MARK_AS_READ": "Đánh dấu là đã đọc",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Đã được chấp nhận?",
+    "LBL_DATE": "Đọc vào"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "すべてのゴミ箱を削除",
+    "RecycleBin": "ごみ箱"
+  },
+  "js": {
+    "JS_MASS_DELETE": "一括削除",
+    "JS_MASS_ACTIVATE": "一括有効化",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "ごみ箱からすべてのレコードを削除",
+    "JS_ACTIVATE_RECORD_DESC": "レコードをアクティブにしても、残りの情報は変更されず、レコードの状態のみが変更されます。 レコードをアクティブ化してもよろしいですか？",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "レコードの削除は永続的であり、すべてのレコードの情報を元に戻すことはできません。 レコードを削除してもよろしいですか？",
+    "JS_ADDED_TO_QUEUE": "キューに追加されました。すべての要素が削除されます"
+  }
+}

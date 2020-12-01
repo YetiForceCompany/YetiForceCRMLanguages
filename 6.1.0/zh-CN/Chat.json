@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_ROOM_CRM": "收藏",
+    "LBL_ROOM_GROUP": "群组房间",
+    "LBL_ROOM_GLOBAL": "全体房间",
+    "LBL_MESSAGE": "在此处输入您的留言。按 SHIFT + ENTER 键添加新行。",
+    "LBL_PARTICIPANTS": "参与者",
+    "LBL_SEARCH_PARTICIPANTS": "搜索参与者",
+    "LBL_SEARCH_MESSAGE": "搜索邮件",
+    "LBL_CREATE_CHAT_ROOM": "创建聊天室",
+    "LBL_REMOVE_FROM_FAVORITES": "从收藏夹中删除",
+    "LBL_ADD_FROM_FAVORITES": "添加到收藏夹",
+    "LBL_EARLIER": "早些 时候",
+    "LBL_NOTIFICATION": "聊天通知",
+    "LBL_SOUND_OFF": "关闭声音",
+    "LBL_SOUND_ON": "声音打开",
+    "LBL_HISTORY_CHAT": "聊天历史记录",
+    "LBL_MORE": "更多",
+    "LBL_HIDE": "隐藏",
+    "LBL_NO_MESSAGES": "无消息",
+    "LBL_UNREAD": "未读",
+    "LBL_ENTER": "它启用\/禁用在按 ENTER 后发送消息",
+    "LBL_DETAIL_VIEW": "详细视图",
+    "LBL_ROOM_DESCRIPTION_CRM": "聊天室列表中的记录标记为收藏夹",
+    "LBL_ROOM_DESCRIPTION_GROUP": "与用户组的聊天室列表",
+    "LBL_ROOM_DESCRIPTION_GLOBAL": "所有用户都可以看到聊天室列表",
+    "LBL_CHAT_USER_SWITCHED": "如果切换到其他用户, 聊天将处于非活动状态。",
+    "LBL_CHAT_NEW_MESSAGE": "新消息"
+  }
+}

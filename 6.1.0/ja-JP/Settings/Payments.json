@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "支払い",
+    "LBL_RIGHT_CLICK_COPY": "右クリックしてコピー"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "削除に成功しました",
+    "JS_SAVED_SUCCESSFULLY": "正常に保存しました"
+  }
+}

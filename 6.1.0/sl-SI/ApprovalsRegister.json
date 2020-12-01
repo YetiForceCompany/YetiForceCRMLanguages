@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Register dovoljenj",
+    "SINGLE_ApprovalsRegister": "Register dovoljenja",
+    "LBL_CUSTOM_INFORMATION": "Informacije po meri",
+    "LBL_BASIC_INFORMATION": "Osnovni podatki",
+    "LBL_DESCRIPTION_INFORMATION": "Podroben opis",
+    "FL_SUBJECT": "Zadeva",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Opis",
+    "FL_APPROVAL": "Dovoljenje",
+    "FL_TYPE": "Vrsta",
+    "FL_STATUS": "Status",
+    "FL_REGISTRATION_DATE": "Datum registracije",
+    "PLL_FOR_VERIFICATION": "V potrditvi",
+    "PLL_ACCEPTED": "Sprejeto",
+    "PLL_REJECTED": "Zavrnjeno",
+    "PLL_ACCEPTANCE": "Sprejemljivo",
+    "PLL_RESIGNATION": "Odstop"
+  }
+}

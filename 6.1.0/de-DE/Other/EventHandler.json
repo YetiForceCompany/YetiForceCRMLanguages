@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Doppelte E-Mail",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Hinzufügen/Bearbeiten blockieren, wenn eine der eingegebenen E-Mail-Adressen bereits vorhanden ist",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Doppelte Umsatzsteuer-ID",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn eine solche USt-ID bereits existiert",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Doppelte ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn dieser EAN-Code bereits existiert",
+    "IGDNC_IGDNEXIST_HANDLER": "Doppelte Ware erhaltene Notiz Korrektur",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten blockieren, wenn die gleiche Ware bereits versendete Notizkorrektur existiert",
+    "IGRNC_IGRNEXIST_HANDLER": "Doppelte Ware erhaltene Notiz Korrektur",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn die selbe erhaltene Notizkorrektur bereits existiert.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Gültigkeitsdauer der Arbeitszeit",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Arbeitszeit begrenzt auf 24 Stunden"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "已经完成日程导入",
+    "LBL_CRON_COMPLETED_IMPORT": "记录模型的导入摘要:"
+  }
+}

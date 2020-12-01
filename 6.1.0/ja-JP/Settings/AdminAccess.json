@@ -1,0 +1,20 @@
+{
+  "php": {
+    "AdminAccess": "管理者アクセス",
+    "LBL_ADMIN_ACCESS": "管理者アクセス",
+    "LBL_PERMISSIONS": "アクセス許可",
+    "BTN_MASS_EDIT_ACCESS": "一括編集",
+    "FL_MODULE_NAME": "モジュール名",
+    "LBL_ACTIVE": "アクティブ",
+    "LBL_EDIT_ADMIN_ACCESS": "管理者アクセスの編集",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " ",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "訪問の目的",
+    "FL_DATE_TIME": "日付",
+    "FL_PURPOSE": "目的",
+    "FL_USER": "ユーザー",
+    "FL_BASE_USER": "ベースユーザー"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "変更を保存しました"
+  }
+}
