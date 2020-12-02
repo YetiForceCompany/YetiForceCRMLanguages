@@ -19,6 +19,7 @@
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_WORDS": "[Other] Die Nachricht enthält unpassende Wörter",
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_MATERIALS": "[Other] Die Nachricht enthält ungeeignete Materialien",
     "LBL_OTHER_MALICIOUS_MESSAGE": "[Other] Bösartige Nachricht",
+    "LBL_TRUSTED_SENDER": "[Whitelist] Trusted sender",
     "LBL_REPORT_IP": "IP",
     "LBL_REPORT_TYPE": "Art",
     "LBL_REPORT_DESC": "Berichtdetails",

@@ -19,6 +19,7 @@
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_WORDS": "[Inne] Wiadomość zawiera nieodpowiednie słowa",
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_MATERIALS": "[Inne] Wiadomość zawiera nieodpowiednie materiały",
     "LBL_OTHER_MALICIOUS_MESSAGE": "[Inne] Wiadomość szkodliwa",
+    "LBL_TRUSTED_SENDER": "Zaufany nadawca",
     "LBL_REPORT_IP": "IP",
     "LBL_REPORT_TYPE": "Rodzaj",
     "LBL_REPORT_DESC": "Szczegóły zgłoszenia",

@@ -19,6 +19,7 @@
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_WORDS": "[Other] Il messaggio contiene parole inappropriate",
     "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_MATERIALS": "[Other] Il messaggio contiene materiali inappropriati",
     "LBL_OTHER_MALICIOUS_MESSAGE": "[Other] Messaggio malevolo",
+    "LBL_TRUSTED_SENDER": "[Whitelist] Mittente affidabile",
     "LBL_REPORT_IP": "Ip",
     "LBL_REPORT_TYPE": "Tipo",
     "LBL_REPORT_DESC": "Dettagli rapporto",
