@@ -1923,7 +1923,7 @@
     "JS_EMOJI_FLAGS": "flags",
     "JS_EMOJI_CUSTOM": "custom",
     "JS_EMOJI_SEARCH": "Search…",
-    "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket",
+    "JS_CANT_CLOSE_NEW_RECROD": "Não pode fechar um novo ticket",
     "JS_MEETING_URL_CHANGED": "Meeting URL has changed",
     "JS_ENTER_A_REASON": "Enter a reason"
   }

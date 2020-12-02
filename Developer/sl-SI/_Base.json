@@ -1418,7 +1418,7 @@
     "LBL_DATA_FROM_SOURCE": "Data from source",
     "FL_MAGENTO_ID": "Magento Id",
     "FL_CONTACT": "Contact",
-    "FL_PAYMENTS_METHOD": "Payment method",
+    "FL_PAYMENTS_METHOD": "Način plačila",
     "PLL_TRANSFER": "Bank transfer",
     "PLL_CASH": "Cash",
     "PLL_CASH_ON_DELIVERY": "Cash on delivery",
