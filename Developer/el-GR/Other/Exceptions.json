@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Αυτόματη αποσύνδεση λόγω αδράνειας",
     "ERR_FIELD_NOT_FOUND": "Το πεδίο δεν βρέθηκε (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Αριθμός ορισμάτων που δεν επιτρέπονται (%d %s σε %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Χωρίς τιμή στο %s",
     "ERR_BODY_IS_EMPTY": "Το σώμα είναι άδειο",
     "ERR_API": "Σφάλμα στο API",
     "ERR_MODULE_DOES_NOT_EXIST": "Το Module %s δεν υπάρχει",
@@ -45,6 +45,6 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Το αντικείμενο πρέπει να έχει μια διεπαφή %s",
     "ERR_CLASS_NOT_FOUND": "Η κλάση %s δεν βρέθηκε",
     "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s πληρωμένη λειτουργικότητα, θα πρέπει να το αγοράσετε"
   }
 }

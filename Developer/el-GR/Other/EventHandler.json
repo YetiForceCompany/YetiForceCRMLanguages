@@ -1,16 +1,16 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicate emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
-    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
-    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
-    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicate ean",
-    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Block record adding/editing when such EAN code already exists",
-    "IGDNC_IGDNEXIST_HANDLER": "Duplicate Goods Dispatched Note Correction",
-    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
-    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Διπλότυπα μηνύματα ηλεκτρονικού ταχυδρομείου",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν υπάρχει ήδη μία από τις καταχωρημένες διευθύνσεις ηλεκτρονικού ταχυδρομείου",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Διπλότυπο ΑΦΜ",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκης / επεξεργασίας όταν υπάρχει ήδη τέτοιο αναγνωριστικό ΦΠΑ",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Διπλότυπος ραβδοκώδικας (EAN)",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκης / επεξεργασίας όταν υπάρχει ήδη τέτοιος κώδικας ραβδοκώδικας EAN",
+    "IGDNC_IGDNEXIST_HANDLER": "Διπλότυπο διορθωτικό Δελτίο Αποστολής",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτία Αποστολής υπάρχει ήδη",
+    "IGRNC_IGRNEXIST_HANDLER": "Διπλότυπο διορθωτικό Δελτίο παραλαβής",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτίο Παραλαβής υπάρχει ήδη.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Ο χρόνος εργασίας περιορίζεται στις 24 ώρες"
   }
 }

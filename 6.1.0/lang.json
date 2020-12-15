@@ -46,7 +46,7 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 92,
-        "time": "2020-12-02 09:00:16"
+        "time": "2020-12-15 07:42:39"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 94,
-        "time": "2020-12-02 08:59:03"
+        "progress": 97,
+        "time": "2020-12-15 07:41:29"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -87,8 +87,8 @@
         "prefix": "hu-HU",
         "crowdinCode": "hu",
         "name": "Hungarian",
-        "progress": 61,
-        "time": "2020-12-02 09:01:36"
+        "progress": 62,
+        "time": "2020-12-15 07:43:47"
     },
     "id-ID": {
         "prefix": "id-ID",
@@ -165,7 +165,7 @@
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 30,
-        "time": "2020-12-02 09:07:52"
+        "time": "2020-12-15 07:48:23"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -221,7 +221,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 84,
-        "time": "2020-12-02 09:14:18"
+        "time": "2020-12-15 07:54:40"
     },
     "vi-VN": {
         "prefix": "vi-VN",

@@ -184,7 +184,7 @@
     "LBL_WRONG_RELATION": "Valeur de relation non valide",
     "Image": "Fichier image",
     "MultiImage": "Fichiers multi-images",
-    "DateTime": "Date and time",
+    "DateTime": "Date et heure",
     "RangeTime": "Plage de temps",
     "LBL_HEADER_TYPE_VALUE": "Valeur",
     "LBL_HEADER_TYPE_PROGRESS": "Barre de progression",
@@ -192,8 +192,8 @@
     "MultiDomain": "Sélection de domaine multiple",
     "LBL_CHANGED_MODULE_TYPE_INFO": "L'opération de changement de type de module a été ajoutée à la file d'attente des tâches périodiques.",
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossible de supprimer un champ non personnalisé",
-    "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
-    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
+    "LBL_EDIT_MAY_AFFECT_STABILITY": "La modification du champ peut affecter la stabilité du système.",
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Seules les personnes possédant une expertise technique devraient créer et modifier des champs dans le système. La modification du champ peut affecter la stabilité du système. Nous vous recommandons de le faire dans un environnement de test."
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nom du bloc existe déjà",

@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
     "IGRNC_IGRNEXIST_HANDLER": "Podvojeno blago vsebujejo zapis o popravku",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokiraj dodajanje / urejanje zapisov, ko že obstaja isti popravek opombe o prejetem blagu.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Potrditev dolžine delovnega časa",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Delovni čas je omejen na 24 ur"
   }
 }

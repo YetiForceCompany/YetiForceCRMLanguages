@@ -65,10 +65,10 @@
     "LBL_REPORT_SSALESPROCESSES": "Enregistrements d'opportunité",
     "LBL_REPORT_CALENDAR": "Enregistrements de calendrier",
     "LBL_REPORT_OVERDUE": "Dossiers en retard",
-    "LBL_REPORT_LOGIN_HISTORY": "Login history",
+    "LBL_REPORT_LOGIN_HISTORY": "Historique de la connexion",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Liste d'enregistrements dupliqués par l'utilisateur",
     "LBL_USER_RECORD_FILTERED_LIST": "Liste des enregistrements filtrés par l'utilisateur",
     "LBL_SUMMARY_FIELDS": "Liste des champs visibles dans le résumé",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Pièces jointes connexes"
   }
 }

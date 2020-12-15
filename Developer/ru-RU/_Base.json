@@ -89,6 +89,7 @@
     "LBL_ACTIONS": "Действия",
     "LBL_ACTIVITIES": "События",
     "LBL_ADD": "Добавить",
+    "LBL_MASS_ADD_ENTIRIES": "Mass add entries",
     "LBL_ADDRESS_INFORMATION": "Юридический адрес",
     "LBL_ADDRESS_MAILING_INFORMATION": "Почтовый адрес",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Фактический адрес",

@@ -191,7 +191,7 @@
     "LBL_EDIT_FROM_CALENDAR": "Editer du calendrier",
     "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau",
     "LBL_GROUP_NAME": "Nom du Groupe",
-    "FL_MEETING_URL": "Meeting URL",
+    "FL_MEETING_URL": "URL de la réunion",
     "LBL_SEND_CALENDAR": "Envoyer une notification par e-mail à propos de l'événement"
   },
   "js": {

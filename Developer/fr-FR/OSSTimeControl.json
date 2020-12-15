@@ -77,7 +77,7 @@
     "LBL_Used_Entitled": "Utilisé/Accordé:",
     "LBL_DAYS": "jours",
     "Brak danych": "Aucune données",
-    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Le temps de travail ne peut pas excéder 24 heures",
     "LBL_DAYWORKSUM": "Heure de bureau",
     "LBL_ALLDAYS_INFO": "Tous les jours",
     "LBL_WEEKENDDAYS_INFO": "Jours de Weekend",

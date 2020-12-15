@@ -12,7 +12,7 @@
     "LBL_ADD_OR_DELETE_USERS": "Προσθήκη/Διαγραφή χρηστών",
     "LBL_ADD_USER": "Προσθήκη χρήστη",
     "LBL_AVAILABLE_WORKLIST_LIST": "Διαθέσιμες ροές εργασίας",
-    "LBL_COMPANY": "Company",
+    "LBL_COMPANY": "Εταιρεία",
     "LBL_COMPANY_DESCRIPTION": "Καθορίστε την διεύθυνση της εταιρείας",
     "LBL_COMPANY_DETAILS": "Λεπτομερή στοιχεία εταιρείας",
     "LBL_COMPANY_INFORMATION": "Στοιχεία εταιρείας",
@@ -314,8 +314,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Αναζήτηση...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Λίστα επιλογών ρυθμίσεων",
     "LBL_PREFIX": "Πρόθεμα",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
-    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Η λειτουργικότητα %s δεν έχει ενεργοποιηθεί ακόμα ή έχουν πραγματοποιηθεί αλλαγές στη διαμόρφωση και η λειτουργικότητα δεν λειτουργεί σωστά.\nΗ λειτουργικότητα πρέπει να ξαναενεργοποιηθεί για να λειτουργήσει σωστά.",
+    "LBL_REQUIRES_INTERVENTION": "Απαιτεί παρέμβαση",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση"
   },
   "js": {

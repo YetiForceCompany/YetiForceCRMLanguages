@@ -36,7 +36,7 @@
     "LBL_REMOVED": "retiré",
     "LBL_CONVERTED_FROM_LEAD": "Converti depuis un prospect",
     "LBL_DELETED": "Enregistrement supprimé",
-    "LBL_DELETED_VALUE": "Deleted value",
+    "LBL_DELETED_VALUE": "Valeur supprimée",
     "LBL_ACTIVE": "Enregistrement restauré",
     "LBL_ARCHIVED": "Enregistrement archivé",
     "LBL_TRANSFER_EDIT": "l'enregistrement a été modifié dans le processus de transfert",
@@ -49,6 +49,6 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Mises à jour de la configuration du widget",
     "LBL_PERSON_MAKING_CHANGES": "Personne apportant des changements",
     "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Données masquées affichées"
   }
 }

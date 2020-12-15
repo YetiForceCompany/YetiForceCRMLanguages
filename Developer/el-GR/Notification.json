@@ -2,6 +2,7 @@
   "php": {
     "Notification": "Ειδοποίηση",
     "SINGLE_Notification": "Ειδοποίηση",
+    "LBL_CHANGE_SAVE": "Every change must be saved",
     "LBL_NOTIFICATION_CONTENTS": "Περιεχόμενο ειδοποίησης",
     "FL_TITLE": "τίτλος",
     "LBL_NOTIFICATION_INFORMATION": "Βασικές πληροφορίες",

@@ -2,6 +2,7 @@
   "php": {
     "Notification": "Értesítés",
     "SINGLE_Notification": "Értesítés",
+    "LBL_CHANGE_SAVE": "Every change must be saved",
     "LBL_NOTIFICATION_CONTENTS": "Értesítés tartalma",
     "FL_TITLE": "cím",
     "LBL_NOTIFICATION_INFORMATION": "Alap Információk",

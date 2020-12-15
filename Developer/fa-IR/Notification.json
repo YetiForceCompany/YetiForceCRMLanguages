@@ -2,6 +2,7 @@
   "php": {
     "Notification": "اطلاعیه",
     "SINGLE_Notification": "اطلاعیه",
+    "LBL_CHANGE_SAVE": "Every change must be saved",
     "LBL_NOTIFICATION_CONTENTS": "محتوای اطلاعیه",
     "FL_TITLE": "عنوان",
     "LBL_NOTIFICATION_INFORMATION": "اطلاعات اولیه",

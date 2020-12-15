@@ -89,6 +89,7 @@
     "LBL_ACTIONS": "操作",
     "LBL_ACTIVITIES": "活动",
     "LBL_ADD": "添加",
+    "LBL_MASS_ADD_ENTIRIES": "Mass add entries",
     "LBL_ADDRESS_INFORMATION": "主要地址",
     "LBL_ADDRESS_MAILING_INFORMATION": "转发地址",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "收信人地址",

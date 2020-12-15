@@ -30,7 +30,7 @@
     "ERR_AUTO_LOGOUT": "Déconnecté automatiquement en raison d'inactivité",
     "ERR_FIELD_NOT_FOUND": "Champ introuvable (%s)",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Nombre d'arguments non autorisés (%d %s dans %s)",
-    "ERR_NO_VALUE": "No value in %s",
+    "ERR_NO_VALUE": "Aucune valeur en% s",
     "ERR_BODY_IS_EMPTY": "Le corps est vide",
     "ERR_API": "Erreur dans l'API",
     "ERR_MODULE_DOES_NOT_EXIST": "Le module %s n'existe pas",

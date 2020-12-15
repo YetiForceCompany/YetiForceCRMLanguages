@@ -2,6 +2,7 @@
   "php": {
     "Notification": "Benachrichtigungen",
     "SINGLE_Notification": "Benachrichtigung",
+    "LBL_CHANGE_SAVE": "Every change must be saved",
     "LBL_NOTIFICATION_CONTENTS": "Inhalt",
     "FL_TITLE": "Titel",
     "LBL_NOTIFICATION_INFORMATION": "Beschreibung",
