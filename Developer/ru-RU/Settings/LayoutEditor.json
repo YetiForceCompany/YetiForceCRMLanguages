@@ -188,6 +188,7 @@
     "RangeTime": "Диапозон времени",
     "LBL_HEADER_TYPE_VALUE": "Значение",
     "LBL_HEADER_TYPE_PROGRESS": "Панель прогресса",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "Применяется ко всей записи. Если выбрано «Нет», запись может быть сохранена без каких-либо элементов инвентаря.",
     "MultiDomain": "Домен мульти выбора",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Операция изменения типа модуля была добавлена в очередь задач cron.",

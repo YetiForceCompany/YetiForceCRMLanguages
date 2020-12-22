@@ -2,7 +2,7 @@
   "php": {
     "Notification": "Obvestila",
     "SINGLE_Notification": "Obvestilo",
-    "LBL_CHANGE_SAVE": "Every change must be saved",
+    "LBL_CHANGE_SAVE": "Vsaka sprememba mora biti shranjena",
     "LBL_NOTIFICATION_CONTENTS": "Vsebina",
     "FL_TITLE": "Naziv",
     "LBL_NOTIFICATION_INFORMATION": "Osnovni podatki",

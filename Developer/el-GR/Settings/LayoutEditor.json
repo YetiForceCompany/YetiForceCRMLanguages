@@ -188,6 +188,7 @@
     "RangeTime": "Εύρος χρόνου",
     "LBL_HEADER_TYPE_VALUE": "Τιμή",
     "LBL_HEADER_TYPE_PROGRESS": "Μπάρα προόδου",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Κυριότερα σημεία",
     "LBL_EDIT_MANDATORY_INFO": "Ισχύει για ολόκληρη την εγγραφή. Εάν 'Όχι' είναι επιλεγμένο, η εγγραφή μπορεί να σωθεί χωρίς γραμμές αποθέματος.",
     "MultiDomain": "Πολλαπλή επιλογή Domain",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Η λειτουργία αλλαγής του τύπου module έχει προστεθεί στην ουρά εργασιών του cron.",

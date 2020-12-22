@@ -1469,7 +1469,8 @@
     "LBL_RELATED_RECORD": "verknüpfter Datensatz",
     "LBL_SOURCE_RECORD": "Quelldatensatz",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Gehe zur YetiForce Dokumentation",
-    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Alle notwendigen Felder wurden nicht ausgefüllt"
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Alle notwendigen Felder wurden nicht ausgefüllt",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "offene/geschlossene"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

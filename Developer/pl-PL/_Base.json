@@ -1469,7 +1469,8 @@
     "LBL_RELATED_RECORD": "Powiązany rekord",
     "LBL_SOURCE_RECORD": "Rekord źródłowy",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Przejdź do dokumentacji YetiForce",
-    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Nie wszystkie wymagane pola zostały wypełnione"
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Nie wszystkie wymagane pola zostały wypełnione",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Otwarte/Zamknięte"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

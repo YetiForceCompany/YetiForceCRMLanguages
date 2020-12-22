@@ -188,6 +188,7 @@
     "RangeTime": "Khoảng thời gian",
     "LBL_HEADER_TYPE_VALUE": "Giá trị",
     "LBL_HEADER_TYPE_PROGRESS": "Thanh tiến trình",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "Áp dụng cho toàn bộ hồ sơ. Nếu 'Không' được chọn, hồ sơ có thể được lưu mà không có bất kỳ đường biên tồn kho nào.",
     "MultiDomain": "Chọn nhiều tên miền",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Hành động thay đổi loại mô-đun đã được thêm vào hàng đợi tác vụ cron.",

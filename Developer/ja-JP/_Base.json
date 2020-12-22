@@ -1469,7 +1469,8 @@
     "LBL_RELATED_RECORD": "関連レコード",
     "LBL_SOURCE_RECORD": "ソースレコード",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "YetiForce ドキュメントに移動",
-    "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in"
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed"
   },
   "js": {
     "JS_APPROVE": "承認",

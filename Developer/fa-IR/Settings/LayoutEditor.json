@@ -188,6 +188,7 @@
     "RangeTime": "محدوده زمان",
     "LBL_HEADER_TYPE_VALUE": "مقدار",
     "LBL_HEADER_TYPE_PROGRESS": "نوار پیشرفت",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "به کل پرونده اعمال می شود اگر \"نه\" انتخاب شود ، رکورد می تواند بدون خط موجودی انبار ذخیره شود.",
     "MultiDomain": "دامنه چند انتخابی",
     "LBL_CHANGED_MODULE_TYPE_INFO": "عملیات تغییر نوع ماژول به صف وظیفه cron اضافه شده است.",

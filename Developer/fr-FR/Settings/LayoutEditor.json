@@ -188,6 +188,7 @@
     "RangeTime": "Plage de temps",
     "LBL_HEADER_TYPE_VALUE": "Valeur",
     "LBL_HEADER_TYPE_PROGRESS": "Barre de progression",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Points importants",
     "LBL_EDIT_MANDATORY_INFO": "S'applique à l'ensemble de l'enregistrement. Si \"Non\" est sélectionné, l'enregistrement peut être sauvegardé sans aucune ligne d'inventaire.",
     "MultiDomain": "Sélection de domaine multiple",
     "LBL_CHANGED_MODULE_TYPE_INFO": "L'opération de changement de type de module a été ajoutée à la file d'attente des tâches périodiques.",

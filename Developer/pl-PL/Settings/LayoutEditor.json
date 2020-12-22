@@ -188,6 +188,7 @@
     "RangeTime": "Zakres czasu",
     "LBL_HEADER_TYPE_VALUE": "Wartość",
     "LBL_HEADER_TYPE_PROGRESS": "Linia postępu",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Wyróżnione",
     "LBL_EDIT_MANDATORY_INFO": "Ma zastosowanie dla całego rekordu. Jeśli wybrano \"Nie\", rekord można zapisać bez żadnych stanów magazynowych.",
     "MultiDomain": "Wybór wielu domen",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Operacja zmiany typu modułu została dodana do kolejki zadania crona.",

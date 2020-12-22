@@ -188,6 +188,7 @@
     "RangeTime": "レンジ時間",
     "LBL_HEADER_TYPE_VALUE": "値",
     "LBL_HEADER_TYPE_PROGRESS": "進捗バー",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "レコード全体に適用されます。「いいえ」を選択すると、レコードはインベントリ行なしで保存できます。",
     "MultiDomain": "ドメインのマルチ選択",
     "LBL_CHANGED_MODULE_TYPE_INFO": "モジュール型変更操作がcronタスクキューに追加されました。",

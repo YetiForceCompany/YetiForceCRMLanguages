@@ -188,6 +188,7 @@
     "RangeTime": "Rango de Tiempo",
     "LBL_HEADER_TYPE_VALUE": "Valor",
     "LBL_HEADER_TYPE_PROGRESS": "Barra de progreso",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "Aplica a todo el registro. Si se selecciona \"No\", el registro se puede guardar sin líneas de inventario.",
     "MultiDomain": "Selección múltiple de dominio",
     "LBL_CHANGED_MODULE_TYPE_INFO": "La operación de cambio de tipo de módulo se ha añadido a la cola de tareas Cron.",

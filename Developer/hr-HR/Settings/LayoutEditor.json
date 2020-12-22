@@ -188,6 +188,7 @@
     "RangeTime": "Raspon vremena",
     "LBL_HEADER_TYPE_VALUE": "Vrijednost",
     "LBL_HEADER_TYPE_PROGRESS": "Traka napredka",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "Primjenjuje se na cijeli zapis. Ako je odabrano 'Ne', zapis se može spremiti bez ikakvih redaka inventara.",
     "MultiDomain": "Dodela više domena",
     "LBL_CHANGED_MODULE_TYPE_INFO": "Operacija promjene tipa modula dodana je u red čekanja zadataka.",

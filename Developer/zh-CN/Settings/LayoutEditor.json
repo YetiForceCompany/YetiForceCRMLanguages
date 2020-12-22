@@ -188,6 +188,7 @@
     "RangeTime": "范围时间",
     "LBL_HEADER_TYPE_VALUE": "值",
     "LBL_HEADER_TYPE_PROGRESS": "进度条",
+    "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "适用于整个记录。如果选择 \"否\", 则可以在没有任何库存行的情况下保存记录。",
     "MultiDomain": "域多选",
     "LBL_CHANGED_MODULE_TYPE_INFO": "模块类型更改操作已添加到敌定时任务队列中。",

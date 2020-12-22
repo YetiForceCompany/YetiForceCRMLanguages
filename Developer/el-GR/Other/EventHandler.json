@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτία Αποστολής υπάρχει ήδη",
     "IGRNC_IGRNEXIST_HANDLER": "Διπλότυπο διορθωτικό Δελτίο παραλαβής",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτίο Παραλαβής υπάρχει ήδη.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Ο χρόνος εργασίας σας δεν μπορεί να υπερβαίνει τις 24 ώρες",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Ο χρόνος εργασίας περιορίζεται στις 24 ώρες"
   }
 }

@@ -1469,7 +1469,8 @@
     "LBL_RELATED_RECORD": "Enregistrement associé",
     "LBL_SOURCE_RECORD": "Enregistrement source",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
-    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Tous les champs obligatoires n'ont pas été remplis"
+    "LBL_NOT_FILLED_MANDATORY_FIELDS": "Tous les champs obligatoires n'ont pas été remplis",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Ouvrir/Fermé"
   },
   "js": {
     "JS_APPROVE": "Approuver",
