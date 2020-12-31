@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Valor ilegal",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script existe fisicamente, mas não contém o nome da função importada.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Falha ao gravar o arquivo de script de métodos de workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Foi registado um valor ilegal para este tipo de campo. Nome do campo: %s, módulo: %s, valor: %s",
     "ERR_VALUE_IS_TOO_LONG": "Limite de caracteres excedido. Nome do campo: %s, módulo: %s, valor: %s",

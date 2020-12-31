@@ -31,7 +31,7 @@
     "Inactive": "Inativo",
     "Other Po Box": "Endereço Adicional: Cx. Postal",
     "Mailing Po Box": "Endereço Principal: Cx. Postal",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Endereço principal",
     "LBL_CONTACT_INFO": "Informação do Contato",
     "Approval for phone calls": "Permissão Chamadas",
     "Approval for email": "Permissão para envio e-mails",
@@ -47,10 +47,10 @@
     "LBL_SHOW_HIERARCHY": "Hierarquia de contactos",
     "FL_APPROVALS": "Approvals",
     "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
+    "FL_GENDER": "Gênero",
     "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "PLL_MAN": "Homem",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Um contato com este endereço de e-mail já existe no sistema."
   },
   "js": {}
 }

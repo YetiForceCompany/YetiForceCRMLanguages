@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Numero massimo di risultati per pagina in lista record",
     "LBL_DEFAULT_LAYOUT": "Layout",
     "LBL_SHOWING_BREADCRUMBS": "Mostra menù breadcrumb",
-    "LBL_TITLE_MAX_LENGTH": "Lunghezza massima dei caratteri per il titolo ",
+    "LBL_TITLE_MAX_LENGTH": "Numero massimo di caratteri per il titolo",
     "LBL_MINIMUM_CRON_FREQUENCY": "Frequenza minima Cron [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Numero massimo di record nelle azioni massive",
     "LBL_BG_CLOSING_MODAL": "Abilita la chiusura della finestra modale con un clic sullo sfondo",

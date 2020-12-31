@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Entrées maximum par page en vue liste",
     "LBL_DEFAULT_LAYOUT": "Disposition",
     "LBL_SHOWING_BREADCRUMBS": "Afficher le menu du fil d'Ariane",
-    "LBL_TITLE_MAX_LENGTH": "Longueur maximale des caractères pour le titre ",
+    "LBL_TITLE_MAX_LENGTH": "Nombre de caractères maximum pour le titre",
     "LBL_MINIMUM_CRON_FREQUENCY": "Fréquence minimale de cron [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Nombre maximum d'enregistrements en édition de masse",
     "LBL_BG_CLOSING_MODAL": "Activer la fermeture de la fenêtre modale en cliquant dans le fond",

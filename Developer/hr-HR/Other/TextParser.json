@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "Dupliciran popis zapisa od korisnika",
     "LBL_USER_RECORD_FILTERED_LIST": "Popis zapisa filtriranih od korisnika",
     "LBL_SUMMARY_FIELDS": "Lista polja vidljiva u sažetku",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Related attachments",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

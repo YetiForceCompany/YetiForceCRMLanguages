@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "非法值",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "脚本在物理上存在, 但不包含导入的函数名称。",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "未能保存工作流方法脚本文件。",
     "ERR_ILLEGAL_FIELD_VALUE": "此字段类型输入的值非法。字段名称:%s, 模块:%s, 值:%s",
     "ERR_VALUE_IS_TOO_LONG": "超出了字符限制。字段名称:%s, 模块:%s, 值:%s",

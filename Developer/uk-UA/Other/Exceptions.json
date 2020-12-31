@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Некоректне значення",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Скрипт фізично існує, але не містить назви імпортованої функції.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
     "ERR_ILLEGAL_FIELD_VALUE": "Неприпустиме значення для цього типу поля. Назва поля: %s, Модуль: %s, Значення: %s",
     "ERR_VALUE_IS_TOO_LONG": "Перевищено ліміт символів. Назва поля: %s, Модуль: %s, Значення: %s",

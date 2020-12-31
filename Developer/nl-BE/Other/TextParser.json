@@ -37,7 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Eerste dag van deze maand",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Laatste dag van deze maand",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Eerste dag van volgende maand",
-    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Afhankelijke velden",
     "LBL_PRODUCTS_TABLE": "Tabel met geavanceerd blok",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabel met geavanceerde blok en beschrijving",
     "LBL_PRODUCTS_TABLE_NEW": "Verbeterde tabel met geavanceerd blok",
@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "Gebruiker gedupliceerde records lijst",
     "LBL_USER_RECORD_FILTERED_LIST": "Door gebruiker gefilterde records lijst",
     "LBL_SUMMARY_FIELDS": "Lijst met zichtbare velden in het overzicht",
-    "LBL_RELATED_ATTACHMENTS": "Gerelateerde onderwerpen"
+    "LBL_RELATED_ATTACHMENTS": "Gerelateerde onderwerpen",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

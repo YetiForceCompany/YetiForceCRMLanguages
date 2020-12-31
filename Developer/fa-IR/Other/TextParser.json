@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "لیست تکراری‌های کاربر",
     "LBL_USER_RECORD_FILTERED_LIST": "لیست فیلتر شده رکوردها",
     "LBL_SUMMARY_FIELDS": "لیست فیلدهای نمایان در چکیده",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Related attachments",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

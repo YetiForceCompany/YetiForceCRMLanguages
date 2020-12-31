@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "قيمة غير مقبوله",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "النص البرمجي موجود ولكن لا يحتوي على اسم اي اوامر.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
     "ERR_ILLEGAL_FIELD_VALUE": "تم إدخال قيمة غير صحيحه لهذا الحقل. اسم الحقل: %s، الوحدة النمطية: %s، قيمة: %s",
     "ERR_VALUE_IS_TOO_LONG": "تجاوز حد عدد الأحرف. اسم الحقل: %s، الوحدة: %s، القيمة: %s",

@@ -2,7 +2,7 @@
   "php": {
     "LBL_SAVE": "Salvar",
     "ApiAddress": "Pesquisar endereço",
-    "LBL_API_ADDRESS": "Address Search",
+    "LBL_API_ADDRESS": "Pesquisar Endereço",
     "LBL_API_ADDRESS_DESCRIPTION": "O módulo permite pesquisar/autocompletar o endereço durante a criação/edição dos dados no Sistema.",
     "LBL_ENTER_KEY_APPLICATION": "Digita a chave da aplicação",
     "LBL_MIN_LOOKUP_LENGTH": "The minimum number of characters a user must type before a search is performed",

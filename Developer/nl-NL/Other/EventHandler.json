@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als de Goederen Verzonden Notitie Correctie al bestaat",
     "IGRNC_IGRNEXIST_HANDLER": "Kopieer Goederen Ontvangen Notitie Correctie",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als dezelfde Goederen Ontvangen Notitie Correctie al bestaat.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Werktijd validatie, kan niet langer zijn dan 24 uur",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Werktijd is beperkt tot 24 uur"
   }
 }

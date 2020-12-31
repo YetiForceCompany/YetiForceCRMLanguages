@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maksymalna ilość wyświetlanych rekordów na stronę w widoku listy",
     "LBL_DEFAULT_LAYOUT": "Układ",
     "LBL_SHOWING_BREADCRUMBS": "Pokaż menu okruszkowe",
-    "LBL_TITLE_MAX_LENGTH": "Maksymalna długość tytułu ",
+    "LBL_TITLE_MAX_LENGTH": "Maksymalna długość znaków dla tytułu",
     "LBL_MINIMUM_CRON_FREQUENCY": "Minimalna częstotliwość crona [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maksymalna liczba rekordów w masowej edycji",
     "LBL_BG_CLOSING_MODAL": "Włącz zamykanie okna modalnego klikając w tło",

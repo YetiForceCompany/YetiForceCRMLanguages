@@ -1264,6 +1264,7 @@
     "FL_IS_PRIVATE": "Prywatny",
     "LBL_AUTOMATIC_ASSIGNMENT": "Przydział rekordów",
     "LBL_ROLE": "Rola",
+    "LBL_NO_FIELD_ACCESS": "Nie możesz zmienić wartości w polach",
     "LBL_NUMBER_OF_ASSIGNED_RECORDS": "Ilość rekordów",
     "LBL_ASSIGN": "Przypisz",
     "LBL_SET_DEFAULT_RECORD_OWNER": "Ustaw domyślnego właściciela rekordu",
@@ -1470,7 +1471,8 @@
     "LBL_SOURCE_RECORD": "Rekord źródłowy",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Przejdź do dokumentacji YetiForce",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Nie wszystkie wymagane pola zostały wypełnione",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Otwarte/Zamknięte"
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Otwarte/Zamknięte",
+    "LBL_VISIT_PURPOSE_ALERT": "Uwaga, okno widoczne tylko dla administratora. Nie zalecamy pracować na koncie administratora, to konto powinno służyć tylko do zarządzania CRM. Okno można wyłączyć w pliku konfiguracyjnym."
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

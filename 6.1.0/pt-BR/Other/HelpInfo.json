@@ -12,7 +12,7 @@
     "Users|Status": "Specifies whether the user is active or inactive.",
     "Users|Password": "Specifies the user's password. The password must comply with the password policy.",
     "Users|Confirm Password": "Enter the password again. It is necessary to avoid any typing mistakes in the password.",
-    "Users|Email": "Primary email address (mandatory field) used in special situations (i.e. password reset).",
+    "Users|Email": "Endereço de e-mail principal (campo obrigatório) usado em situações especiais (ou seja, redefinição de senha).",
     "Users|Secondary email": "Additional email address.",
     "Users|FL_PRIMARY_PHONE": "Primary phone number.",
     "Users|CRM phone extension": "Additional phone number.",

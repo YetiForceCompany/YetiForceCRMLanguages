@@ -1264,6 +1264,7 @@
     "FL_IS_PRIVATE": "Privat",
     "LBL_AUTOMATIC_ASSIGNMENT": "Automatische Zuordnung",
     "LBL_ROLE": "Rolle",
+    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields",
     "LBL_NUMBER_OF_ASSIGNED_RECORDS": "Anzahl zugeordneter Datensätze",
     "LBL_ASSIGN": "Zuordnen",
     "LBL_SET_DEFAULT_RECORD_OWNER": "Setze Standard Zuordnung auf",
@@ -1470,7 +1471,8 @@
     "LBL_SOURCE_RECORD": "Quelldatensatz",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Gehe zur YetiForce Dokumentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Alle notwendigen Felder wurden nicht ausgefüllt",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "offene/geschlossene"
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "offene/geschlossene",
+    "LBL_VISIT_PURPOSE_ALERT": "Warning, window visible only to the administrator. We do not recommend working on the admin account, this should only be used to manage CRM. The window can be disabled in the configuration file."
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

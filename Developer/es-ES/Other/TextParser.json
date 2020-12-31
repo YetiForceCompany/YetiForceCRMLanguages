@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "El usuario duplicó la lista de registros",
     "LBL_USER_RECORD_FILTERED_LIST": "El usuario filtró la lista de registros",
     "LBL_SUMMARY_FIELDS": "Lista de campos visibles en el resumen",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Related attachments",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

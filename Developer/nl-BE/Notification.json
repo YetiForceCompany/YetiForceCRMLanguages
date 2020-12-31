@@ -2,7 +2,7 @@
   "php": {
     "Notification": "Notificatie",
     "SINGLE_Notification": "Notificatie",
-    "LBL_CHANGE_SAVE": "Every change must be saved",
+    "LBL_CHANGE_SAVE": "Elke wijziging moet worden opgeslagen",
     "LBL_NOTIFICATION_CONTENTS": "Notificatie Inhoud",
     "FL_TITLE": "titel",
     "LBL_NOTIFICATION_INFORMATION": "Algemeen",

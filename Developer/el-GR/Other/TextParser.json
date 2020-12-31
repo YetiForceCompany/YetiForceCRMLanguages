@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "Λίστα διπλότυπων εγγράφων από το χρήστη",
     "LBL_USER_RECORD_FILTERED_LIST": "Λίστα φίλτρων από τον χρήστη",
     "LBL_SUMMARY_FIELDS": "Λίστα πεδίων που φαίνονται στην περίληψη",
-    "LBL_RELATED_ATTACHMENTS": "Σχετικά συνημμένα"
+    "LBL_RELATED_ATTACHMENTS": "Σχετικά συνημμένα",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

@@ -94,7 +94,7 @@
     "LBL_ALERT_FAKE_MAIL": "Uważaj na tę wiadomość, nie można zweryfikować, czy wiadomość faktycznie została wysłana z adresu nadawcy. \nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
     "LBL_ALERT_FAKE_SENDER": "Uważaj na tę wiadomość, adres e-mail w polu Od został sfałszowany.\nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
     "BTN_ANALYSIS_DETAILS": "Szczegóły analizy",
-    "LBL_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została wysłana"
+    "LBL_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została dodana"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

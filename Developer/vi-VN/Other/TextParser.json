@@ -69,6 +69,7 @@
     "LBL_USER_RECORD_DUPLICATE_LIST": "Danh sách biểu ghi trùng",
     "LBL_USER_RECORD_FILTERED_LIST": "Danh sách người dùng đã lọc",
     "LBL_SUMMARY_FIELDS": "Danh sách trường hiển thị trong tóm tắt",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Related attachments",
+    "LBL_DISPLAY_BARCODE": "Barcode"
   }
 }

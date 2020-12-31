@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum aantal items per pagina in de lijstweergave",
     "LBL_DEFAULT_LAYOUT": "Lay-out",
     "LBL_SHOWING_BREADCRUMBS": "Toon breadcrumbs menu",
-    "LBL_TITLE_MAX_LENGTH": "Maximum lengte van karakters voor de titel ",
+    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
     "LBL_MINIMUM_CRON_FREQUENCY": "Minimale Cron-frequentie [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum aantal records in bulkbewerking",
     "LBL_BG_CLOSING_MODAL": "Schakel het sluiten van het modale venster in door op de achtergrond te klikken",

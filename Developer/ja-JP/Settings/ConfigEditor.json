@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "一覧表示でのページ毎の最大エントリ数",
     "LBL_DEFAULT_LAYOUT": "レイアウト",
     "LBL_SHOWING_BREADCRUMBS": "パンくずリストメニューを表示",
-    "LBL_TITLE_MAX_LENGTH": "タイトルの最大文字数 ",
+    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
     "LBL_MINIMUM_CRON_FREQUENCY": "最小cron頻度 [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "一括編集の最大レコード数",
     "LBL_BG_CLOSING_MODAL": "背景をクリックしてモーダルウィンドウを閉じることを有効にする",

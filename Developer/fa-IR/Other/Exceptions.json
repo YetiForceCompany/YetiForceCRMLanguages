@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "مقدار غیرمجاز",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "اسکریپ وجود دارد ولی شامل نام تابع وارد شده نمی‌باشد.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "ذخیره روش گردش کار بروی فایل اسکریپت با شکست مواجه شد.",
     "ERR_ILLEGAL_FIELD_VALUE": "مقادیر غیر مجاز برای این نوع فایل وارد شده. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
     "ERR_VALUE_IS_TOO_LONG": "سقف تعداد کاراکتر رد شد. نام فیلد: %s ، ماژول:%s ، مقدار: %s",

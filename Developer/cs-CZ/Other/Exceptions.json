@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Illegal value",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skript fyzicky existuje, ale neobsahuje importovaný název funkce.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Soubor skriptu metod pracovního postupu se nepodařilo uložit.",
     "ERR_ILLEGAL_FIELD_VALUE": "Pro tento typ pole byla zadána neplatná hodnota. Název pole: % s, modul: % s, hodnota: % s",
     "ERR_VALUE_IS_TOO_LONG": "Byl překročen limit počtu znaků. Název pole: % s, modul: % s, hodnota: % s",

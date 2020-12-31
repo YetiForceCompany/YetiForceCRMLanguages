@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "不正値",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "スクリプトは物理的に存在しますが、インポートされた関数名が含まれていません。",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "ワークフローメソッドのスクリプトファイルの保存に失敗しました。",
     "ERR_ILLEGAL_FIELD_VALUE": "このフィールドタイプに不正な値が入力されました。 フィールド名：%s、モジュール：%s、値：%s",
     "ERR_VALUE_IS_TOO_LONG": "文字制限を超えました。フィールド名: %s, モジュール: %s, 値: %s",

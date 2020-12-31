@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Neplatná hodnota",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skript fyzicky existuje, ale neobsahuje importovaný názov funkcie.\nContextrequest.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Súbor skriptu metód pracovných postupov sa nepodarilo uložiť.",
     "ERR_ILLEGAL_FIELD_VALUE": "Nepodarilo sa uložiť súbor skriptu metód pracovného toku. Pre tento typ poľa bola zadaná nelegálna hodnota. Názov poľa:% s, modul:% s, hodnota:% s",
     "ERR_VALUE_IS_TOO_LONG": "Bol prekročený limit počtu znakov. Názov poľa:% s, modul:% s, hodnota:% s",

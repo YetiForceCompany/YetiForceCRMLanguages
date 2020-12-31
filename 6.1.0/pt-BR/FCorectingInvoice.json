@@ -22,7 +22,7 @@
     "FL_INTERNAL_COMMENT": "Internal comment",
     "LBL_BEFORE_CORRECTION": "Before correction",
     "LBL_AFTER_CORRECTION": "After correction",
-    "LBL_CHOOSE_INVOICE": "Select invoice to be corrected",
+    "LBL_CHOOSE_INVOICE": "Selecione a fatura a ser corrigida",
     "LBL_COPY_FROM_INVOICE": "Copy from initial invoice",
     "LBL_INVOICE_INFO": "Initial invoice fields - before corrections.",
     "LBL_AFTER_INVOICE_INFO": "How should final invoice look like after correction.",

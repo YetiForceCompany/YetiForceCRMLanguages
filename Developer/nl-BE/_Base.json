@@ -1264,6 +1264,7 @@
     "FL_IS_PRIVATE": "Private",
     "LBL_AUTOMATIC_ASSIGNMENT": "Automatic assignment",
     "LBL_ROLE": "Role",
+    "LBL_NO_FIELD_ACCESS": "U kunt de waarden in de velden niet wijzigen",
     "LBL_NUMBER_OF_ASSIGNED_RECORDS": "Number of assigned records",
     "LBL_ASSIGN": "Assign",
     "LBL_SET_DEFAULT_RECORD_OWNER": "Set default Assigned To",
@@ -1470,7 +1471,8 @@
     "LBL_SOURCE_RECORD": "Source record",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Sommige vereiste velden zijn niet ingevuld",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed"
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Sluit",
+    "LBL_VISIT_PURPOSE_ALERT": "Waarschuwing, venster alleen zichtbaar voor de beheerder. Het is raadzaam niet te werken aan het admin account, dit mag alleen worden gebruikt om CRM te beheren. Het venster kan worden uitgeschakeld in het configuratiebestand."
   },
   "js": {
     "JS_APPROVE": "Approve",
