@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Некорректное значение",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "File script exists but doesn't contain imported function name.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Не удалось сохранить файл скрипта методов рабочего процесса.",
     "ERR_ILLEGAL_FIELD_VALUE": "Недопустимое значение для этого типа поля. Название поля: %s, Модуль: %s, Значение: %s",
     "ERR_VALUE_IS_TOO_LONG": "Превышен лимит символов. Название поля: %s, Модуль: %s, Значение: %s",

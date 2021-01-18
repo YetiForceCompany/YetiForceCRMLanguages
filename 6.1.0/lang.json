@@ -11,7 +11,7 @@
         "crowdinCode": "bg",
         "name": "Bulgarian",
         "progress": 45,
-        "time": "2020-12-02 08:53:36"
+        "time": "2021-01-14 11:22:39"
     },
     "bs-BA": {
         "prefix": "bs-BA",
@@ -45,8 +45,8 @@
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 92,
-        "time": "2020-12-31 07:32:22"
+        "progress": 93,
+        "time": "2021-01-14 11:29:20"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -130,14 +130,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2020-12-31 07:30:47"
+        "time": "2021-01-14 11:27:32"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 52,
-        "time": "2020-12-31 07:30:16"
+        "time": "2021-01-14 11:26:57"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -151,7 +151,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2020-12-31 07:37:14"
+        "time": "2021-01-14 11:34:34"
     },
     "pt-BR": {
         "prefix": "pt-BR",

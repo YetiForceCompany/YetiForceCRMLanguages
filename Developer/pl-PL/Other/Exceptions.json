@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Niedozwolona wartość",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skrypt pliku istnieje, ale nie zawiera zaimportowanej nazwy funkcji.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skrypt istnieje, ale nie zawiera importowanej funkcji.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Nie można zapisać pliku skryptu metod workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Wprowadzono niedozwoloną wartość dla tego typu pola. Nazwa pola: %s, Moduł: %s, Wartość: %s",
     "ERR_VALUE_IS_TOO_LONG": "Przekroczono limit znaków. Nazwa pola: %s, moduł: %s, wartość: %s",

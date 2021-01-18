@@ -1,6 +1,9 @@
 {
   "php": {
     "MailRbl": "Serwery poczty RBL",
+    "LBL_BY_NAME": "Do",
+    "LBL_BY_HOST_NAME": "Nazwa hosta wychodzącego",
+    "LBL_BY_IP": "Wychodzący adres IP",
     "LBL_MAIL_RBL": "Serwery poczty RBL",
     "LBL_MAIL_RBL_DESCRIPTION": "Skonfiguruj serwery e-mail RBL, aby wykryć spam i zdefiniować zaufanych nadawców.",
     "BTN_SEND_REPORT": "Wyślij raport",
@@ -10,6 +13,11 @@
     "LBL_FRAUD_MONEY_SCAM": "[Oszustwo] Próba wyłudzenia pieniędzy",
     "LBL_FRAUD_PHISHING": "[Oszustwo] Próba wyłudzenia informacji",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Oszustwo] Próba nakłonienia do zakupu produktu lub usługi",
+    "LBL_FROM_NAME": "Od",
+    "LBL_FROM_HOST_NAME": "Nazwa hosta przychodzącego",
+    "LBL_FROM_IP": "Przychodzący adres IP",
+    "LBL_EXTRA_WITH": "Informacje dodatkowe",
+    "LBL_EXTRA_COMMENTS": "Protokół",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Bezpieczeństwo] Próba podszycia się pod inną osobę",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Bezpieczeństwo] Próba nakłonienia na otwarcie zasobu spoza organizacji",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_INSIDE_ORGANIZATION": "[Bezpieczeństwo] Próba nakłonienia na otwarcie zasobu wewnątrz organizacji",
@@ -96,6 +104,7 @@
     "BTN_STATUS_ACTION_ACCEPT": "Akceptuj",
     "BTN_STATUS_ACTION_REJECT": "Odrzuć",
     "BTN_DELETE": "Usuń",
-    "BTN_STATUS_ACTION_SEND_REQUEST": "Wyślij zgłoszenie"
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Wyślij raport (okno modalne)",
+    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Wyślij raport (bez potwierdzenia)"
   }
 }

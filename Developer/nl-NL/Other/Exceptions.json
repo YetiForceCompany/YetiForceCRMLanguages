@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Ongeldige waarde",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script bestaat fysiek maar bevat geen geïmporteerde functienaam.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Kan het script-bestand van workflow niet opslaan.",
     "ERR_ILLEGAL_FIELD_VALUE": "Illegale waarde is opgegeven voor dit veld type. Naam veld: %s, Module: %s, Waarde: %s",
     "ERR_VALUE_IS_TOO_LONG": "Limiet overschreden. Naam veld: %s, Module: %s, Waarde: %s",

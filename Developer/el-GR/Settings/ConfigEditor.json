@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Μέγιστος αριθμός εγγραφών ανά σελίδα στην προβολή λίστας",
     "LBL_DEFAULT_LAYOUT": "Διάταξη",
     "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
-    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
+    "LBL_TITLE_MAX_LENGTH": "Μέγιστο μήκος χαρακτήρων για τον τίτλο",
     "LBL_MINIMUM_CRON_FREQUENCY": "Ελάχιστη συχνότητα του cron [min] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Μέγιστος αριθμός εγγραφών για μαζική επεξεργασία",
     "LBL_BG_CLOSING_MODAL": "Ενεργοποιήστε το κλείσιμο του παραθύρου κάνοντας κλικ στο φόντο",

@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Μη έγκυρη τιμή",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Το αρχείο script υπάρχει αλλά δεν περιέχει εισαγόμενο όνομα λειτουργίας.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Αποτυχία αποθήκευσης αρχείου δέσμης ενεργειών (script) των μεθόδων ροής εργασίας.",
     "ERR_ILLEGAL_FIELD_VALUE": "Εχει εισαχθεί μη έγκυρη τιμή για αυτό τον τύπο πεδίου. Όνομα πεδίου: %s, Module: %s, Τιμή: %s",
     "ERR_VALUE_IS_TOO_LONG": "Υπέρβαση του ορίου χαρακτήρων. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",

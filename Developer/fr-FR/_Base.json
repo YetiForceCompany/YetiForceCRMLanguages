@@ -1472,7 +1472,9 @@
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Tous les champs obligatoires n'ont pas été remplis",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Ouvrir/Fermé",
-    "LBL_VISIT_PURPOSE_ALERT": "Attention, fenêtre visible uniquement par l'administrateur. Nous ne recommandons pas de travailler avec le compte administrateur, il ne devrait être utilisé que pour gérer le CRM. La fenêtre peut être désactivée dans le fichier de configuration."
+    "LBL_VISIT_PURPOSE_ALERT": "Attention, fenêtre visible uniquement par l'administrateur. Nous ne recommandons pas de travailler avec le compte administrateur, il ne devrait être utilisé que pour gérer le CRM. La fenêtre peut être désactivée dans le fichier de configuration.",
+    "LBL_MASS_MAIL_NOTES": "Information additionnelle",
+    "LBL_MASS_MAIL_NOTES_INFO": "Information from this field can be added to the email contents by using the following variable  in the template: $(params : massMailNotes)$"
   },
   "js": {
     "JS_APPROVE": "Approuver",

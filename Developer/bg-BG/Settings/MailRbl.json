@@ -1,6 +1,9 @@
 {
   "php": {
     "MailRbl": "RBL mail servers",
+    "LBL_BY_NAME": "To",
+    "LBL_BY_HOST_NAME": "Outgoing host name",
+    "LBL_BY_IP": "Outgoing IP",
     "LBL_MAIL_RBL": "RBL mail servers",
     "LBL_MAIL_RBL_DESCRIPTION": "Configure RBL email servers to detect spam and define trusted senders.",
     "BTN_SEND_REPORT": "Send a report",
@@ -10,6 +13,11 @@
     "LBL_FRAUD_MONEY_SCAM": "[Fraud] Money scam",
     "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] An attempt to persuade people to buy a product or service",
+    "LBL_FROM_NAME": "From",
+    "LBL_FROM_HOST_NAME": "Incoming host name",
+    "LBL_FROM_IP": "Incoming IP",
+    "LBL_EXTRA_WITH": "Additional information",
+    "LBL_EXTRA_COMMENTS": "Protocol",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] An attempt to impersonate another person",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Security] An attempt to persuade the recipient to open a resource from outside the organization",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_INSIDE_ORGANIZATION": "[Security] An attempt to persuade the recipient to open a resource inside the organization",
@@ -29,12 +37,12 @@
     "LBL_REPORT_BLACK": "Report IP to be added to blacklist",
     "LBL_REPORT_MODAL_DESC_WHITE": "Thank you for sending us your IP whitelist request. Only reputable IPs (belonging to trusted and well-known companies) can be added to our database. Please justify your request in the \"request details\" field and include all important information in the description, eg a link to your website. Submissions are verified manually, so it's a good idea to submit as much information as possible. The current status of the application can be checked at: https://soc.yetiforce.com/.",
     "LBL_REPORT_MODAL_DESC_BLACK": "Thank you for sending us your IP blacklist report. Describe exactly why we should block this IP address in the \"report details\" field, any additional information will be helpful. Submissions are verified manually, so it's a good idea to submit as much information as possible. The current status of the application can be checked at: https://soc.yetiforce.com/.\nFor companies and individuals who consistently break the law, we may take additional legal action to force the illegal activity to stop. In addition to legal actions, we may report violations to other institutions and systems that protect the end user on other layers (e.g. in the browser while browsing websites).",
-    "LBL_REQUEST_LIST": "All reports",
+    "LBL_REQUEST_LIST": "Всички рипорти",
     "LBL_BLACK_LIST": "Black list",
     "LBL_WHITE_LIST": "White list",
     "LBL_PUBLIC_RBL": "Public RBLs",
     "LBL_FOR_VERIFICATION": "For verification",
-    "LBL_TO_SEND": "To send",
+    "LBL_TO_SEND": "За изпращане",
     "LBL_ACCEPTED": "Accepted",
     "LBL_REJECTED": "Rejected",
     "LBL_ACTIVE": "Active",
@@ -96,6 +104,7 @@
     "BTN_STATUS_ACTION_ACCEPT": "Accept",
     "BTN_STATUS_ACTION_REJECT": "Reject",
     "BTN_DELETE": "Delete",
-    "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report"
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report (modal window)",
+    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Send a report (no confirmation)"
   }
 }

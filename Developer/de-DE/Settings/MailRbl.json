@@ -1,6 +1,9 @@
 {
   "php": {
     "MailRbl": "RBL-Mail-Servers",
+    "LBL_BY_NAME": "To",
+    "LBL_BY_HOST_NAME": "Outgoing host name",
+    "LBL_BY_IP": "Outgoing IP",
     "LBL_MAIL_RBL": "RBL-Mail-Servers",
     "LBL_MAIL_RBL_DESCRIPTION": "Konfiguriere RBL-E-Mail-Server damit Spam erkannt wird und definiere vertrauenswürdige Absender.",
     "BTN_SEND_REPORT": "Bericht senden",
@@ -10,6 +13,11 @@
     "LBL_FRAUD_MONEY_SCAM": "[Fraud] Geldbetrug",
     "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] Ein Versuch, Leute zum Kauf eines Produkts oder einer Dienstleistung zu überzeugen",
+    "LBL_FROM_NAME": "From",
+    "LBL_FROM_HOST_NAME": "Incoming host name",
+    "LBL_FROM_IP": "Incoming IP",
+    "LBL_EXTRA_WITH": "Additional information",
+    "LBL_EXTRA_COMMENTS": "Protokoll",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] Ein Versuch, eine andere Person zu identifizieren",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Security] Ein Versuch, den Empfänger davon zu überzeugen, eine Ressource von außerhalb der Organisation zu öffnen",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_INSIDE_ORGANIZATION": "[Security] Ein Versuch, den Empfänger davon zu überzeugen, eine Ressource von außerhalb der Organisation zu öffnen",
@@ -96,6 +104,7 @@
     "BTN_STATUS_ACTION_ACCEPT": "Annehmen",
     "BTN_STATUS_ACTION_REJECT": "Ablehnen",
     "BTN_DELETE": "Löschen",
-    "BTN_STATUS_ACTION_SEND_REQUEST": "Bericht senden"
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report (modal window)",
+    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Send a report (no confirmation)"
   }
 }

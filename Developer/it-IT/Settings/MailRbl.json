@@ -1,6 +1,9 @@
 {
   "php": {
     "MailRbl": "RBL server di posta",
+    "LBL_BY_NAME": "A",
+    "LBL_BY_HOST_NAME": "Nome host in uscita",
+    "LBL_BY_IP": "Outgoing IP",
     "LBL_MAIL_RBL": "RBL server di posta",
     "LBL_MAIL_RBL_DESCRIPTION": "Configurare i server di posta elettronica RBL per rilevare lo spam e definire i mittenti attendibili.",
     "BTN_SEND_REPORT": "Invia un rapporto",
@@ -10,6 +13,11 @@
     "LBL_FRAUD_MONEY_SCAM": "[Fraud] Truffa fiscale",
     "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] Un tentativo di persuadere le persone ad acquistare un prodotto o servizio",
+    "LBL_FROM_NAME": "Da",
+    "LBL_FROM_HOST_NAME": "Nome host in arrivo",
+    "LBL_FROM_IP": "Incoming IP",
+    "LBL_EXTRA_WITH": "Informazioni aggiuntive",
+    "LBL_EXTRA_COMMENTS": "Protocollo",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] Un tentativo di impersonare un'altra persona",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Security] Un tentativo di persuadere il destinatario ad aprire una risorsa dall'esterno dell'organizzazione",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_INSIDE_ORGANIZATION": "[Security] Un tentativo di persuadere il destinatario ad aprire una risorsa all'interno dell'organizzazione",
@@ -96,6 +104,7 @@
     "BTN_STATUS_ACTION_ACCEPT": "Accetta",
     "BTN_STATUS_ACTION_REJECT": "Rifiuta",
     "BTN_DELETE": "Eliminazione",
-    "BTN_STATUS_ACTION_SEND_REQUEST": "Invia un rapporto"
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Invia un rapporto (finestra modale)",
+    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Invia un rapporto (nessuna conferma)"
   }
 }
