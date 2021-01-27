@@ -204,7 +204,7 @@
     "LBL_MESSAGE": "Contenuto notifica",
     "LBL_MESSAGE_INFO": "The text of the message supports variables, the name of the variable can be equal to a system field name or special functions.\r\n\r\nExamples of variables for fields:\r\n$accountname$ - Value from field\r\n%accountname% - Field label\r\n\r\nSpecial functions:",
     "LBL_WATCHING_USERS": "Utenti che leggono",
-    "LBL_WEBHOOK_URL": "URL address",
+    "LBL_WEBHOOK_URL": "Indirizzo URL",
     "LBL_HTTP_AUTH_LOGIN": "Autenticazione HTTP",
     "LBL_HTTP_AUTH_PASSWORD": "Password autenticazione HTTP",
     "LBL_FORMAT": "Formato dati",

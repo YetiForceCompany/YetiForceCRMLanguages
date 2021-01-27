@@ -14,6 +14,7 @@
     "PLL_RECORD": "レコード",
     "PLL_MAIL": "メッセージ",
     "PLL_LIST": "一覧",
-    "PLL_DEFAULT": "既定の企業"
+    "PLL_DEFAULT": "既定の企業",
+    "FL_SYS_NAME": "System name"
   }
 }

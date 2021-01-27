@@ -57,11 +57,11 @@
     "LBL_SHITCH_HEADER": "Basculer dans l'en-tête",
     "LBL_SHITCH_HEADER_INFO": "Basculer peut être trouvé dans l'en-tête du widget.",
     "HistoryRelation": "Chronologie",
-    "UpdatesList": "Field history and duration summary",
+    "UpdatesList": "Résumé de l'historique et de la durée",
     "CountRecords": "Nombre d'enregistrements",
     "LBL_LIST_WITH_SUMMARY": "Liste avec résumé",
     "LBL_CURRENT_HISTORY_SWITCH": "Actuel / Historique",
-    "RelatedModuleChart": "Related module - chart",
+    "RelatedModuleChart": "Module connexe - Graphique",
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "Liste des relations connexes"
   },

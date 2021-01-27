@@ -14,6 +14,7 @@
     "PLL_RECORD": "Zapis",
     "PLL_MAIL": "Sporočilo",
     "PLL_LIST": "Seznam",
-    "PLL_DEFAULT": "Privzeto podjetje"
+    "PLL_DEFAULT": "Privzeto podjetje",
+    "FL_SYS_NAME": "Naziv sistema"
   }
 }

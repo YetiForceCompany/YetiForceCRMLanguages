@@ -14,6 +14,7 @@
     "PLL_RECORD": "Record",
     "PLL_MAIL": "Email bricht",
     "PLL_LIST": "Lijst",
-    "PLL_DEFAULT": "Standaard bedrijf"
+    "PLL_DEFAULT": "Standaard bedrijf",
+    "FL_SYS_NAME": "System name"
   }
 }

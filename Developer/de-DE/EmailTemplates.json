@@ -14,6 +14,7 @@
     "PLL_RECORD": "Datensatz",
     "PLL_MAIL": "Nachricht",
     "PLL_LIST": "Liste",
-    "PLL_DEFAULT": "Firma (Standard)"
+    "PLL_DEFAULT": "Firma (Standard)",
+    "FL_SYS_NAME": "System name"
   }
 }

@@ -14,6 +14,7 @@
     "PLL_RECORD": "Запис",
     "PLL_MAIL": "Съобщение",
     "PLL_LIST": "Списък",
-    "PLL_DEFAULT": "Компания по подразбиране"
+    "PLL_DEFAULT": "Компания по подразбиране",
+    "FL_SYS_NAME": "System name"
   }
 }

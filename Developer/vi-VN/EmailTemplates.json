@@ -14,6 +14,7 @@
     "PLL_RECORD": "Hồ sơ",
     "PLL_MAIL": "Tin nhắn",
     "PLL_LIST": "Danh sách",
-    "PLL_DEFAULT": "Công ty mặc định"
+    "PLL_DEFAULT": "Công ty mặc định",
+    "FL_SYS_NAME": "System name"
   }
 }

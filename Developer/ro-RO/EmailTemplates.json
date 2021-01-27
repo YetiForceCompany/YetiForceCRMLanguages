@@ -14,6 +14,7 @@
     "PLL_RECORD": "Inregistrare",
     "PLL_MAIL": "Mesaj",
     "PLL_LIST": "Lista",
-    "PLL_DEFAULT": "Companie implicita"
+    "PLL_DEFAULT": "Companie implicita",
+    "FL_SYS_NAME": "System name"
   }
 }

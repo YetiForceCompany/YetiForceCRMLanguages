@@ -14,6 +14,7 @@
     "PLL_RECORD": "تسجيل",
     "PLL_MAIL": "رسالة",
     "PLL_LIST": "قائمة",
-    "PLL_DEFAULT": "افتراضي شركة"
+    "PLL_DEFAULT": "افتراضي شركة",
+    "FL_SYS_NAME": "System name"
   }
 }

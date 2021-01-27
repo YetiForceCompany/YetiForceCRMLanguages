@@ -14,6 +14,7 @@
     "PLL_RECORD": "Post",
     "PLL_MAIL": "Melding",
     "PLL_LIST": "Liste",
-    "PLL_DEFAULT": "Standard selskap"
+    "PLL_DEFAULT": "Standard selskap",
+    "FL_SYS_NAME": "System name"
   }
 }

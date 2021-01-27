@@ -14,6 +14,7 @@
     "PLL_RECORD": "Record",
     "PLL_MAIL": "Messaggio",
     "PLL_LIST": "Lista",
-    "PLL_DEFAULT": "Mittente predefinito"
+    "PLL_DEFAULT": "Mittente predefinito",
+    "FL_SYS_NAME": "Nome del sistema"
   }
 }

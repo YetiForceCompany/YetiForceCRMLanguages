@@ -14,6 +14,7 @@
     "PLL_RECORD": "Εγγραφή",
     "PLL_MAIL": "Μήνυμα",
     "PLL_LIST": "Λίστα",
-    "PLL_DEFAULT": "Προεπιλεγμένη εταιρεία"
+    "PLL_DEFAULT": "Προεπιλεγμένη εταιρεία",
+    "FL_SYS_NAME": "System name"
   }
 }

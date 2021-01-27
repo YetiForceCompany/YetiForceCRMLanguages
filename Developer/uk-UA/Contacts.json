@@ -47,9 +47,9 @@
     "LBL_SHOW_HIERARCHY": "Ієрархія контакту",
     "FL_APPROVALS": "Схвалено",
     "LBL_PARTICIPANTS": "Учасники",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
+    "FL_GENDER": "Стать",
+    "PLL_WOMAN": "Жінка",
+    "PLL_MAN": "Чоловік",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
   },
   "js": {}

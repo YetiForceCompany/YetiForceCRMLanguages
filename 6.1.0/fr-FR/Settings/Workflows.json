@@ -249,8 +249,8 @@
     "LBL_WORKINGDAY_DAY": "Chaque jour ouvrable",
     "LBL_WORKINGDAY_WEEK": "Premier jour ouvrable de la semaine",
     "LBL_WORKINGDAY_MONTH": "Premier jour ouvrable du mois",
-    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Custom relations",
-    "LBL_VERIFY_IF_EXISTS": "Do not create new record, if related record exists"
+    "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relations personnalisées",
+    "LBL_VERIFY_IF_EXISTS": "Ne pas créer de nouvel enregistrement, si un enregistrement lié existe"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Mêmes champs sélectionnés plus d'une fois",

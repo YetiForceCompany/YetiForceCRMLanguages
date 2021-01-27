@@ -14,6 +14,7 @@
     "PLL_RECORD": "Enregistrement",
     "PLL_MAIL": "Message",
     "PLL_LIST": "Liste",
-    "PLL_DEFAULT": "Société par défaut"
+    "PLL_DEFAULT": "Société par défaut",
+    "FL_SYS_NAME": "System name"
   }
 }

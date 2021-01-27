@@ -14,6 +14,7 @@
     "PLL_RECORD": "ضبط",
     "PLL_MAIL": "پیام",
     "PLL_LIST": "لیست",
-    "PLL_DEFAULT": "شرکت پیش‌فرض"
+    "PLL_DEFAULT": "شرکت پیش‌فرض",
+    "FL_SYS_NAME": "System name"
   }
 }

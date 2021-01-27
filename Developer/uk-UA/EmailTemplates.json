@@ -14,6 +14,7 @@
     "PLL_RECORD": "Запис",
     "PLL_MAIL": "Повідомлення",
     "PLL_LIST": "Список",
-    "PLL_DEFAULT": "Компанія за замовчуванням"
+    "PLL_DEFAULT": "Компанія за замовчуванням",
+    "FL_SYS_NAME": "System name"
   }
 }

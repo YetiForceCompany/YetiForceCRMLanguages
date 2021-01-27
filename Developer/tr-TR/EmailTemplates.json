@@ -14,6 +14,7 @@
     "PLL_RECORD": "Kayıt",
     "PLL_MAIL": "Mesaj",
     "PLL_LIST": "Liste",
-    "PLL_DEFAULT": "Varsayılan şirket"
+    "PLL_DEFAULT": "Varsayılan şirket",
+    "FL_SYS_NAME": "System name"
   }
 }

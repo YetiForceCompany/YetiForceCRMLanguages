@@ -194,7 +194,8 @@
     "LBL_CHANGED_MODULE_TYPE_INFO": "Hành động thay đổi loại mô-đun đã được thêm vào hàng đợi tác vụ cron.",
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Không thể xóa trường không tuỳ biến",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Sửa đổi trường có thể ảnh hưởng đến sự ổn định hệ thống.",
-    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Chỉ nên để những người có kinh nghiệm công nghệ tạo và thay đổi trường trong hệ thống. Việc sửa đổi trường có thể ảnh hưởng tới tính ổn định trong hệ thống, vì vậy chúng tôi đề xuất bạn thực hiện trên môi trường thử nghiệm trước."
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Chỉ nên để những người có kinh nghiệm công nghệ tạo và thay đổi trường trong hệ thống. Việc sửa đổi trường có thể ảnh hưởng tới tính ổn định trong hệ thống, vì vậy chúng tôi đề xuất bạn thực hiện trên môi trường thử nghiệm trước.",
+    "LBL_ANONYMIZATION_TARGET": "Anonymization"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Tên khối đã tồn tại",

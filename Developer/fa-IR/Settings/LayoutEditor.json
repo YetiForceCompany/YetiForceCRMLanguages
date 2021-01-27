@@ -194,7 +194,8 @@
     "LBL_CHANGED_MODULE_TYPE_INFO": "عملیات تغییر نوع ماژول به صف وظیفه cron اضافه شده است.",
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "فیلدهای غیر دلخواه را نمی‌توان حذف نمود",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Field modification may affect system stability.",
-    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first."
+    "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Only people with relevant technical expertise should create and change fields in the system. Field modification may affect system stability, so we recommend performing it in a test environment first.",
+    "LBL_ANONYMIZATION_TARGET": "Anonymization"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "نام بلوک در حال حاضر موجود است",

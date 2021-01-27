@@ -14,6 +14,7 @@
     "PLL_RECORD": "记录",
     "PLL_MAIL": "信息",
     "PLL_LIST": "列表",
-    "PLL_DEFAULT": "默认公司"
+    "PLL_DEFAULT": "默认公司",
+    "FL_SYS_NAME": "System name"
   }
 }
