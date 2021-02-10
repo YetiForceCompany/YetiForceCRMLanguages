@@ -401,6 +401,9 @@
     "LBL_VISIT_PURPOSE_INFO": "Podaj cel wizyty"
   },
   "js": {
+    "JS_DELETE_USER_CONFIRMATION": "Po usunięciu użytkownika, zostanie on oznaczony jako \"Nieaktywny\" i żadne nowe rekordy nie będą mogły być do niego przypisane, dodatkowo użytkownik nie będzie mógł się zalogować. Czy na pewno chcesz usunąć użytkownika?",
+    "JS_DELETE_USER_PERMANENT_CONFIRMATION": "Czy na pewno chcesz trwale usunąć użytkownika?",
+    "JS_RESTORE_CONFIRMATION": "Czy na pewno chcesz przywrócić użytkownika?",
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separator dziesiętny i grupowania nie mogą być takie same",
     "JS_ENTER_CONFIRMATION_PASSWORD": "Wpisz potwierdzenie nowego hasła.",
     "JS_REENTER_PASSWORDS": "Wprowadź ponownie hasła.  Wartości w polach \"nowe hasło\" i \"potwierdź hasło\" nie są identyczne.",

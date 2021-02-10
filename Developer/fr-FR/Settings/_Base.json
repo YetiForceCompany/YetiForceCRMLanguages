@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Gérer les  listes d'arbres",
     "LBL_MODTRACKER_SETTINGS": "Historique des modifications",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Gérer l'historique des modifications dans les modules",
-    "LBL_HIDEBLOCKS": "Cacher blocs",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Gérer les blocs cachés avec des champs",
     "LBL_PUBLIC_HOLIDAY": "Congés légaux",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Gérer les congés légaux",
     "LBL_CALENDAR_CONFIG": "Configuration du calendrier",

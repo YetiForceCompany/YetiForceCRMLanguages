@@ -97,7 +97,12 @@
     "LBL_LIST_RECORD_DUPLICATES": "Istniejące zduplikowane adresy IP",
     "LBL_LIST_RECORD_ERRORS": "Błędne adresy IP",
     "LBL_PUBLIC_BLACK_LIST": "Czarna lista adresów IP",
-    "LBL_PUBLIC_WHITE_LIST": "Biała lista adresów IP"
+    "LBL_PUBLIC_WHITE_LIST": "Biała lista adresów IP",
+    "LBL_IP_EXISTING_IN_RBL": "Adres IP %s istnieje w %s, anuluj istniejący raport w celu dodania nowego.",
+    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Akceptuj automatycznie",
+    "LBL_BTN_ACCEPT_MANUALLY": "Akceptuj ręcznie",
+    "LBL_BTN_SEND_AUTOMATICALLY": "Wyślij automatycznie",
+    "LBL_BTN_SEND_MANUALLY": "Wyślij ręcznie"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Pokaż szczegóły",

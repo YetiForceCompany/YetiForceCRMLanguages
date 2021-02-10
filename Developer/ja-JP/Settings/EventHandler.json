@@ -8,6 +8,9 @@
     "LBL_INCLUDE_MODULES": "含めるモジュール",
     "LBL_EXCLUDE_MODULES": "除くモジュール",
     "LBL_EVENT_IS_ACTIVE": "有効",
-    "LBL_EDIT_VIEW_PRESAVE": "レコードを保存する前の検証"
+    "LBL_EDIT_VIEW_PRESAVE": "レコードを保存する前の検証",
+    "LBL_ENTITY_CHANGE_STATE": "Change state",
+    "LBL_ENTITY_BEFORE_SAVE": "Before save",
+    "LBL_ENTITY_AFTER_SAVE": "After save"
   }
 }

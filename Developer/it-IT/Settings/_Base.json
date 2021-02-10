@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Gestisci cartelle / categorie",
     "LBL_MODTRACKER_SETTINGS": "Cronologia modifiche",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Gestisce il tracciamento delle modifiche nei moduli",
-    "LBL_HIDEBLOCKS": "Nascondi blocchi",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Gestisce la visibilità dei blocchi di campi del modulo",
     "LBL_PUBLIC_HOLIDAY": "Giorni festivi",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Definisce i giorni festivi comandati",
     "LBL_CALENDAR_CONFIG": "Configurazione calendario",

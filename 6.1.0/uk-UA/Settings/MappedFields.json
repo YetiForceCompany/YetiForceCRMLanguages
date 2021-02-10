@@ -1,8 +1,8 @@
 {
   "php": {
     "LBL_ADD_TEMPLATE": "Add mapping",
-    "LBL_IMPORT_TEMPLATE": "Import template",
-    "LBL_MAPPEDFIELDS": "Mapping",
+    "LBL_IMPORT_TEMPLATE": "Імпортувати шаблон",
+    "LBL_MAPPEDFIELDS": "Зіставлення",
     "LBL_MAPPEDFIELDS_DESCRIPTION": " ",
     "LBL_EXPORT_RECORD": "Експорт",
     "LBL_MODULE": "Модуль",
@@ -13,7 +13,7 @@
     "LBL_SELECT_MODULE": "Виберіть модуль",
     "LBL_SELECT_REL_MODULE": "Виберіть пов'язаний модуль",
     "LBL_MF_SETTINGS": "Модулі",
-    "LBL_MAPPING_LIST": "Mapping",
+    "LBL_MAPPING_LIST": "Зіставлення",
     "LBL_EXCEPTIONS": "Винятки",
     "LBL_PERMISSIONS": "Дозволи",
     "LBL_STEP_N": "Крок %d",

@@ -84,7 +84,7 @@
     "LBL_MAIN_MODULE": "Main module",
     "LBL_WATERMARK_SIZE": "Font size",
     "LBL_WATERMARK_ANGLE": "Кут у градусах",
-    "LBL_IMPORT_TEMPLATE": "Import template",
+    "LBL_IMPORT_TEMPLATE": "Імпортувати шаблон",
     "LBL_UPLOAD_ERROR": "Importing PDF template XML file unsuccessful!",
     "LBL_WATERMARK_UPLOAD_ERROR": "Failed to save watermark file.",
     "LBL_UPLOAD_OK": "Template file imported successfully.",

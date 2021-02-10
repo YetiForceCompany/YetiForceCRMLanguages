@@ -8,6 +8,9 @@
     "LBL_INCLUDE_MODULES": "Uwzględnij moduły",
     "LBL_EXCLUDE_MODULES": "Wyklucz moduły",
     "LBL_EVENT_IS_ACTIVE": "Jest aktywny",
-    "LBL_EDIT_VIEW_PRESAVE": "Walidacja przed zapisaniem rekordu"
+    "LBL_EDIT_VIEW_PRESAVE": "Walidacja przed zapisaniem rekordu",
+    "LBL_ENTITY_CHANGE_STATE": "Zmień stan",
+    "LBL_ENTITY_BEFORE_SAVE": "Przed zapisaniem",
+    "LBL_ENTITY_AFTER_SAVE": "Po zapisaniu"
   }
 }

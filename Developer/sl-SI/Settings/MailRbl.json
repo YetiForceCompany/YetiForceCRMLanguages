@@ -97,7 +97,12 @@
     "LBL_LIST_RECORD_DUPLICATES": "Existing duplicate IP addresses",
     "LBL_LIST_RECORD_ERRORS": "Wrong IP addresses",
     "LBL_PUBLIC_BLACK_LIST": "Black list of IP addresses",
-    "LBL_PUBLIC_WHITE_LIST": "White list of IP addresses"
+    "LBL_PUBLIC_WHITE_LIST": "White list of IP addresses",
+    "LBL_IP_EXISTING_IN_RBL": "IP address %s exists in %s, cancel the existing report in order to add a new one.",
+    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Samodejno potrdi",
+    "LBL_BTN_ACCEPT_MANUALLY": "Potrdi ročno",
+    "LBL_BTN_SEND_AUTOMATICALLY": "Samodejno pošlji",
+    "LBL_BTN_SEND_MANUALLY": "Pošlji ročno"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Show details",

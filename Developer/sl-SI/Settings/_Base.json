@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Upravitelj seznama drevesne strukture",
     "LBL_MODTRACKER_SETTINGS": "Change history",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Manage change history in modules",
-    "LBL_HIDEBLOCKS": "Skrij sklop",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Manage hiding blocks with fields",
     "LBL_PUBLIC_HOLIDAY": "Državni praznik",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Urejanje praznikov",
     "LBL_CALENDAR_CONFIG": "Calendar configuration",

@@ -12,7 +12,9 @@
     "FL_DATE_TIME": "Data",
     "FL_PURPOSE": "Cel",
     "FL_USER": "Użytkownik",
-    "FL_BASE_USER": "Użytkownik podstawowy"
+    "FL_BASE_USER": "Użytkownik podstawowy",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Cel logowania",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Czy chcesz aktywować okno wprowadzenia celu wizyty dla administratorów podczas logowania do systemu?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Zapisano zmiany"

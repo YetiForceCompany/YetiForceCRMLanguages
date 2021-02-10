@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "В Менеджере Каталогов, можно создавать шаблоны Каталогов или редактировать существующие Каталоги",
     "LBL_MODTRACKER_SETTINGS": "История изменений",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Управление модулем История изменений",
-    "LBL_HIDEBLOCKS": "Редактор Блоков",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Редактор блоков, позволяет настраивать видимость Блоков в записях",
     "LBL_PUBLIC_HOLIDAY": "Праздники",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Редактор праздничных дней",
     "LBL_CALENDAR_CONFIG": "Настройки Календаря",

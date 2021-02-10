@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Kontroller liste af skabeloner",
     "LBL_MODTRACKER_SETTINGS": "Ændringshistorik",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Kontrollér ændringshistorik i moduler",
-    "LBL_HIDEBLOCKS": "Gem blokke",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Manage hiding blocks with fields",
     "LBL_PUBLIC_HOLIDAY": "Helligdag",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Kontrollér hellidage",
     "LBL_CALENDAR_CONFIG": "Kalender-konfiguration",

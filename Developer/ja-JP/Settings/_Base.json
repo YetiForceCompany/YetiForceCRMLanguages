@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "ツリーのリストを管理",
     "LBL_MODTRACKER_SETTINGS": "変更履歴",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "モジュールの変更履歴を管理",
-    "LBL_HIDEBLOCKS": "ブロックを隠す",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "フィールドで非表示ブロックを管理",
     "LBL_PUBLIC_HOLIDAY": "祝日",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "祝日管理",
     "LBL_CALENDAR_CONFIG": "カレンダーの設定",

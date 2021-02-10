@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Administrar listas de árboles",
     "LBL_MODTRACKER_SETTINGS": "Historial de cambios",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Administrar el historial de cambios en los módulos",
-    "LBL_HIDEBLOCKS": "Ocultar bloques",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Administrar bloques ocultos con campos",
     "LBL_PUBLIC_HOLIDAY": "Día festivo",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Administrar los días festivos",
     "LBL_CALENDAR_CONFIG": "Configuración del calendario",

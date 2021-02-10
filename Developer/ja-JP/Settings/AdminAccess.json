@@ -12,7 +12,9 @@
     "FL_DATE_TIME": "日付",
     "FL_PURPOSE": "目的",
     "FL_USER": "ユーザー",
-    "FL_BASE_USER": "ベースユーザー"
+    "FL_BASE_USER": "ベースユーザー",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Login visit purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "変更を保存しました"

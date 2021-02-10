@@ -6,7 +6,10 @@
     "Date": "Data",
     "Decimal": "Decimale",
     "Email": "Email",
+    "MultiEmail": "Multi email",
     "Integer": "Intero",
+    "Token": "Token (One-time code generator)",
+    "ServerAccess": "Web service application (Api permissions)",
     "LayoutEditor": "Editor di layout",
     "LBL_ACTIONS": "Azioni",
     "LBL_ACTIVE": "Attivo",
@@ -108,6 +111,7 @@
     "LBL_CREATING_INVENTORY_FIELD": "Aggiungi campo",
     "LBL_NAME_FIELD": "Nome",
     "LBL_COLSPAN": "Larghezza [%]",
+    "LBL_HEIGHT": "Height [px]",
     "LBL_COMMENT": "Commento",
     "LBL_SELECT_TYPE_OF_INVENTORY": "Tipo",
     "LBL_NEXT": "Successivo",
@@ -195,7 +199,7 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossibile eliminare campo non personalizzato",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "La modifica del campo può influenzare la stabilità del sistema.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Solo le persone con competenze tecniche pertinenti dovrebbero creare e modificare i campi del sistema. La modifica del campo può influenzare la stabilità del sistema, quindi si consiglia di eseguirlo prima in un ambiente di prova.",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonimizzazione"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

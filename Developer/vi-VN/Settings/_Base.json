@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Quản lý danh sách cây",
     "LBL_MODTRACKER_SETTINGS": "Thay đổi lịch sử",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Quản lý lịch sử thay đổi trong các mô-đun",
-    "LBL_HIDEBLOCKS": "Ẩn khối",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Quản lý khối ẩn với trường",
     "LBL_PUBLIC_HOLIDAY": "Ngày nghỉ lễ",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Quản lý ngày nghỉ lễ",
     "LBL_CALENDAR_CONFIG": "Cấu hình lịch",

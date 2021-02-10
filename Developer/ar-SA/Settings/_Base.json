@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Manage lists of trees",
     "LBL_MODTRACKER_SETTINGS": "تغيير التاريخ",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "إدارة تغيير التاريخ في وحدات",
-    "LBL_HIDEBLOCKS": "إخفاء كتل",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "إدارة يختبئ كتل مع الحقول",
     "LBL_PUBLIC_HOLIDAY": "عطلة عامة",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "إدارة العطلات الرسمية",
     "LBL_CALENDAR_CONFIG": "اعدادات عامة",

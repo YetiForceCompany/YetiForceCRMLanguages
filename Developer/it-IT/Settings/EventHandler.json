@@ -8,6 +8,9 @@
     "LBL_INCLUDE_MODULES": "Includi moduli",
     "LBL_EXCLUDE_MODULES": "Escludi moduli",
     "LBL_EVENT_IS_ACTIVE": "È attivo",
-    "LBL_EDIT_VIEW_PRESAVE": "Convalida prima di salvare il record"
+    "LBL_EDIT_VIEW_PRESAVE": "Convalida prima di salvare il record",
+    "LBL_ENTITY_CHANGE_STATE": "Cambia stato",
+    "LBL_ENTITY_BEFORE_SAVE": "Prima di salvare",
+    "LBL_ENTITY_AFTER_SAVE": "Dopo il salvataggio"
   }
 }

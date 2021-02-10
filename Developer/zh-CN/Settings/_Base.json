@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "管理分类列表",
     "LBL_MODTRACKER_SETTINGS": "变更记录",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "设置是否追踪模块中的变更记录",
-    "LBL_HIDEBLOCKS": "隐藏区块",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "管理还有字段的隐藏区块",
     "LBL_PUBLIC_HOLIDAY": "公共假期",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "管理公共假期",
     "LBL_CALENDAR_CONFIG": "日程设置",

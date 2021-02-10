@@ -1334,6 +1334,8 @@
     "LBL_YETIFORCE_NEWSLETTER": "Newsletter",
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "inserisci le informazioni richieste",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "Nessun indirizzo e-mail è stato aggiunto ai dettagli della società. Se vuoi ricevere la newsletter %s.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_START": "Inizio",
     "LBL_END": "Fine",
     "LBL_AUTOMATIC": "Automatico",
@@ -1471,10 +1473,10 @@
     "LBL_SOURCE_RECORD": "Registro sorgente",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Vai alla documentazione di YetiForce",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Tutti i campi obbligatori non sono stati riempiti",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed",
-    "LBL_VISIT_PURPOSE_ALERT": "Attenzione, finestra visibile solo all'amministratore. Si consiglia di non lavorare sull'account amministratore, che dovrebbe essere usato solo per gestire CRM. La finestra può essere disabilitata nel file di configurazione.",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Aperto/Chiuso",
+    "LBL_VISIT_PURPOSE_ALERT": "Warning, window visible only to the administrator.\nWe do not recommend working on the admin account, this should only be used to manage CRM.\nThe window can be disabled in the configuration file. ",
     "LBL_MASS_MAIL_NOTES": "Interno",
-    "LBL_MASS_MAIL_NOTES_INFO": "Information from this field can be added to the email contents by using the following variable  in the template: $(params : massMailNotes)$"
+    "LBL_MASS_MAIL_NOTES_INFO": "Le informazioni da questo campo possono essere aggiunte al contenuto dell'email utilizzando la seguente variabile nel modello: $(params : massMailNotes)$"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1620,7 +1622,6 @@
     "JS_CHANGE_VALUE_CONFIRMATION": "Sei sicuro di volere impostare questo valore?",
     "JS_CHANGE_CONFIRMATION": "Sei sicuro di voler applicare queste modifiche?",
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la relazione con questo modulo? In questo modo, sarà eliminata solo la relazione; per eliminare il record devi selezionare il record ed eseguire la specifica azione di eliminazione.",
-    "LBL_DELETE_USER_CONFIRMATION": "Quando un utente viene eliminato, sarà segnato come \"Inattivo\"; inoltre, non si potrà più assegnargli record e, lo stesso, non sarà più in grado di effettuare il login. La fatturazione sarà sospesa per l'utente eliminato. Sei sicuro di volere eliminare?",
     "LBL_MASS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare i record selezionati?",
     "LBL_NO": "No",
     "LBL_YES": "Sì",

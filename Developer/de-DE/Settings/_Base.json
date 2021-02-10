@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "Verwaltung Baumstrukturen",
     "LBL_MODTRACKER_SETTINGS": "Änderungshistorie",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Verwalte Änderungshistorie von Modulen",
-    "LBL_HIDEBLOCKS": "Abschnitt ausblenden",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "Verwalte Abschnitte mit auszublendenden Feldern",
     "LBL_PUBLIC_HOLIDAY": "Feiertage",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "Verwalten der Feiertage",
     "LBL_CALENDAR_CONFIG": "Kalenderkonfiguration",

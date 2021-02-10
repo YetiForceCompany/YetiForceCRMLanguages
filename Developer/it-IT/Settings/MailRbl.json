@@ -3,7 +3,7 @@
     "MailRbl": "RBL server di posta",
     "LBL_BY_NAME": "A",
     "LBL_BY_HOST_NAME": "Nome host in uscita",
-    "LBL_BY_IP": "Outgoing IP",
+    "LBL_BY_IP": "IP In Uscita",
     "LBL_MAIL_RBL": "RBL server di posta",
     "LBL_MAIL_RBL_DESCRIPTION": "Configurare i server di posta elettronica RBL per rilevare lo spam e definire i mittenti attendibili.",
     "BTN_SEND_REPORT": "Invia un rapporto",
@@ -15,7 +15,7 @@
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] Un tentativo di persuadere le persone ad acquistare un prodotto o servizio",
     "LBL_FROM_NAME": "Da",
     "LBL_FROM_HOST_NAME": "Nome host in arrivo",
-    "LBL_FROM_IP": "Incoming IP",
+    "LBL_FROM_IP": "Ip In Entrata",
     "LBL_EXTRA_WITH": "Informazioni aggiuntive",
     "LBL_EXTRA_COMMENTS": "Protocollo",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] Un tentativo di impersonare un'altra persona",
@@ -97,7 +97,12 @@
     "LBL_LIST_RECORD_DUPLICATES": "Indirizzi IP duplicati esistenti",
     "LBL_LIST_RECORD_ERRORS": "Indirizzi IP errati",
     "LBL_PUBLIC_BLACK_LIST": "Lista nera degli indirizzi IP",
-    "LBL_PUBLIC_WHITE_LIST": "Indirizzi IP autorizzati"
+    "LBL_PUBLIC_WHITE_LIST": "Indirizzi IP autorizzati",
+    "LBL_IP_EXISTING_IN_RBL": "L'indirizzo IP %s esiste in %s, annulla il rapporto esistente per aggiungerne uno nuovo.",
+    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Accetta automaticamente",
+    "LBL_BTN_ACCEPT_MANUALLY": "Accetta manualmente",
+    "LBL_BTN_SEND_AUTOMATICALLY": "Invia automaticamente",
+    "LBL_BTN_SEND_MANUALLY": "Invia manualmente"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Visualizza i dettagli",

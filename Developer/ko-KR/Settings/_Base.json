@@ -186,8 +186,6 @@
     "LBL_TREES_MANAGER_DESCRIPTION": "트리 리스트 관리",
     "LBL_MODTRACKER_SETTINGS": "변경 내역",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "모듈에서 변경 내역 관리",
-    "LBL_HIDEBLOCKS": "블록 숨기기",
-    "LBL_HIDEBLOCKS_DESCRIPTION": "숨기기 필드항목 블록 관리",
     "LBL_PUBLIC_HOLIDAY": "공휴일",
     "LBL_PUBLIC_HOLIDAY_DESCRIPTION": "공휴일 관리",
     "LBL_CALENDAR_CONFIG": "달력 설정",
