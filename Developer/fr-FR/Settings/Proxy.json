@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Serveur proxy",
+    "LBL_PROXY_CONFIGRATION": "Configuration du Proxy",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Description du serveur proxy",
+    "LBL_PROXY_CONNECTION": "Connexion serveur proxy",
+    "LBL_PROXY_PROTOCOL": "Protocole serveur proxy",
+    "LBL_PROXY_HOST": "Hôte serveur proxy",
+    "LBL_PROXY_PORT": "Port serveur proxy",
+    "LBL_PROXY_LOGIN": "Login serveur proxy",
+    "LBL_PROXY_PASSWORD": "Mot de passe serveur proxy",
+    "LBL_PROXY_INFORMATION": "Informations sur le serveur proxy"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration sauvegardée"
+  }
+}
