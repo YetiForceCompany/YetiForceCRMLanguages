@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "تعداد نشانی های ایمیل یافت شده",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "تعداد ایمیل‌های تکراری حذف شده",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "تعداد رکوردهای انتخاب شده",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "نشانی‌های ایمیل",
     "LBL_EMAIL_TEMPLATE": "قالب‌های ایمیل",
     "LBL_MASS_SEND_EMAIL_INFO": "همه ایمیلها در صف شده و به Cron ارسال شدند.",

@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Število najdenih naslovov e-pošte",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Število izpuščenih podvojenih e-sporočil",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Število izbranih zapisov",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "E-poštni naslov",
     "LBL_EMAIL_TEMPLATE": "E-poštna predloga",
     "LBL_MASS_SEND_EMAIL_INFO": "Vse e-sporočila so v čakalni vrsti in poslana v CRON.",

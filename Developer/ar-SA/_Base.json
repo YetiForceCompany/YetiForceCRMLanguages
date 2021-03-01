@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "قائمة عناوين البريد الإلكتروني التي وجدت؟",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "عدد من عناصر مختارة",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "البريد الأكتروني",
     "LBL_EMAIL_TEMPLATE": "قالب البريد الألكتروني",
     "LBL_MASS_SEND_EMAIL_INFO": "جميع رسائل البريد الإلكتروني في قائمة الانتظار أرسلت في كرون.",

@@ -1,8 +1,8 @@
 {
   "php": {
     "Dependencies": "Afhankelijkheden",
-    "LBL_VULNERABILITIES": "Kwetsbaarheden",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Lijst van bibliotheken kwetsbaarheden",
+    "LBL_VULNERABILITIES": "Kwetsbaarheid detectie",
+    "LBL_VULNERABILITIES_DESCRIPTION": "Een hulpmiddel om kwetsbaarheden in het systeem te detecteren",
     "LBL_VULNERABILITIES_OK": "Geen kwetsbaarheden gevonden in bibliotheken",
     "LBL_VULNERABILITIES_OK_DESC": "Vergeet niet om de kwetsbaarheden in uw bibliotheken periodiek te controleren.",
     "LBL_VULNERABILITIES_WARNING": "Gevonden kwetsbaarheden in bibliotheken",

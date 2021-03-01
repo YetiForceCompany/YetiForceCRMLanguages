@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Aantal gevonden e-mailadressen",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Number of selected records",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "E-mailadres",
     "LBL_EMAIL_TEMPLATE": "E-mail sjabloon",
     "LBL_MASS_SEND_EMAIL_INFO": "Alle e-mails zijn in de wachtrij gezet en verzonden in CRON.",

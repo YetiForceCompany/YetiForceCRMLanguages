@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Số địa chỉ email được tìm thấy",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Số địa chỉ email trùng bị bỏ qua",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Số biểu ghi được chọn",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Địa chỉ email",
     "LBL_EMAIL_TEMPLATE": "Mẫu email",
     "LBL_MASS_SEND_EMAIL_INFO": "Mọi email đã được đưa vào hàng đợi và gửi tới CRON.",

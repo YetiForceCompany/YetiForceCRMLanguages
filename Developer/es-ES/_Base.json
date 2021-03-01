@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Número de direcciones de correo electrónico encontradas",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Número de correos electrónicos duplicados omitidos",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Número de registros seleccionados",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Dirección de correo electrónico",
     "LBL_EMAIL_TEMPLATE": "Plantilla de correo electrónico",
     "LBL_MASS_SEND_EMAIL_INFO": "Todos los correos electrónicos se colocan en la cola y se envían en CRON.",

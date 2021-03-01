@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "見つかった電子メールアドレスの数",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "重複メールを省略した数",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "選択したレコードの数",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "メールアドレス",
     "LBL_EMAIL_TEMPLATE": "メールテンプレート",
     "LBL_MASS_SEND_EMAIL_INFO": "すべての電子メールはキューに入れられ、CRONで送信されます。",

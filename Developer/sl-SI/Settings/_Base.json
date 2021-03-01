@@ -172,7 +172,7 @@
     "LBL_CUSTOMVIEW_DESCRIPTION": " ",
     "LBL_SEARCH_SETUP_DESCRIPTION": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
     "LBL_GLOBALPERMISSION_DESCRIPTION": " ",
-    "LBL_LANGMANAGEMENT_DESCRIPTION": "This tool helps to modify and manage language translations within the system.",
+    "LBL_LANGMANAGEMENT_DESCRIPTION": "To orodje pomaga pri spreminjanju in upravljanju jezikovnih prevodov znotraj sistema.",
     "LBL_OSSPASSWORD_CONFIGURATION_DESCRIPTION": " ",
     "LBL_PROJECT_TEMPLATES_DESCRIPTION": " ",
     "LBL_DOCUMENT_CONTROL_DESCRIPTION": " ",
@@ -314,7 +314,8 @@
     "LBL_PREFIX": "Prefix",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj"
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj",
+    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Authorization successful",

@@ -314,7 +314,8 @@
     "LBL_PREFIX": "Präfix",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Die %s -Funktionalität wurde noch nicht aktiviert oder es wurden Konfigurationsänderungen durchgeführt aufgund denen die Funktionalität nicht richtig funktioniert. Die Funktionalität muss reaktiviert werden, um korrekt zu funktionieren.",
     "LBL_REQUIRES_INTERVENTION": "Benötigt Intervention",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Aktivieren"
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktivieren",
+    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Zugriff erfolgreich",

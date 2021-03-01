@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Nombre d'adresses e-mail trouvées",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Nombre d'e-mails en double omis",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Nombre d'enregistrements sélectionnés",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Adresse e-mail",
     "LBL_EMAIL_TEMPLATE": "Modèle d'e-mail",
     "LBL_MASS_SEND_EMAIL_INFO": "Tous les e-mails sont mis en file d'attente et envoyés par le CRON.",

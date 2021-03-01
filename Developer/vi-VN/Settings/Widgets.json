@@ -63,7 +63,8 @@
     "LBL_CURRENT_HISTORY_SWITCH": "Hiện Tại/Lịch Sử",
     "RelatedModuleChart": "Related module - chart",
     "Documents": "Documents",
-    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
+    "InventoryBlock": "Chỗ hàng tồn kho"
   },
   "js": {
     "Loading data": "Đang tải...",

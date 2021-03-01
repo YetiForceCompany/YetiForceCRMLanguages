@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Giá trị bất hợp lệ",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script tồn tại nhưng không chứa tên hàm đã nhập vào.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Lỗi khi lưu file script phương pháp luồng công việc.",
     "ERR_ILLEGAL_FIELD_VALUE": "Giá trị không hợp lệ đã được nhập vào loại trường này. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_VALUE_IS_TOO_LONG": "Ký tự đã vượt ngưỡng. Tên trường: %s, Mô-đun: %s, Giá trị: %s",

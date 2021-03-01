@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Numarul de adresa email gasite",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Numarul de inregistrari selectate",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Adresa email",
     "LBL_EMAIL_TEMPLATE": "Sablon email",
     "LBL_MASS_SEND_EMAIL_INFO": "All e-mails are queued and sent in CRON.",

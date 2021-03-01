@@ -1,8 +1,8 @@
 {
   "php": {
     "Dependencies": "Abhängigkeiten",
-    "LBL_VULNERABILITIES": "Schwachstellen",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Liste der Sicherheitslücken von Bibliotheken",
+    "LBL_VULNERABILITIES": "Vulnerability detection",
+    "LBL_VULNERABILITIES_DESCRIPTION": "A tool to detect vulnerabilities in the system",
     "LBL_VULNERABILITIES_OK": "Keine Sicherheitslücken in Bibliotheken gefunden",
     "LBL_VULNERABILITIES_OK_DESC": "Vergessen Sie nicht, auf Sicherheitslücken in Ihren Bibliotheken regelmäßig zu überprüfen.",
     "LBL_VULNERABILITIES_WARNING": "Erkannte Sicherheitslücken in Bibliotheken",

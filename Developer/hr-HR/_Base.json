@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Broj pronađenih email adresa",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Broj izostavljenih duplikata emaila",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Broj izabranih zapisa",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Email adresa",
     "LBL_EMAIL_TEMPLATE": "Email predložak",
     "LBL_MASS_SEND_EMAIL_INFO": "Svi emailovi se stavljaju u red i šalju u CRON-u.",

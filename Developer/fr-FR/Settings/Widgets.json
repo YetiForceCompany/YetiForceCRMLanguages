@@ -63,7 +63,8 @@
     "LBL_CURRENT_HISTORY_SWITCH": "Actuel / Historique",
     "RelatedModuleChart": "Module connexe - Graphique",
     "Documents": "Documents",
-    "LBL_SHOW_DOC_RELATIONS": "Liste des relations connexes"
+    "LBL_SHOW_DOC_RELATIONS": "Liste des relations connexes",
+    "InventoryBlock": "Bloc Inventaire"
   },
   "js": {
     "Loading data": "Chargement...",

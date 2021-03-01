@@ -63,7 +63,8 @@
     "LBL_CURRENT_HISTORY_SWITCH": "Bieżący/Historia",
     "RelatedModuleChart": "Powiązany moduł - wykres",
     "Documents": "Dokumenty",
-    "LBL_SHOW_DOC_RELATIONS": "Lista z powiązanych relacji"
+    "LBL_SHOW_DOC_RELATIONS": "Lista z powiązanych relacji",
+    "InventoryBlock": "Blok inwentarza"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

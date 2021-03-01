@@ -4,7 +4,7 @@
     "SINGLE_BankAccounts": "Bank account",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
     "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
+    "FL_NAME": "Назва",
     "FL_BANK_ACCOUNT_NUMBER": "Account number",
     "FL_CURRENCY": "Currency",
     "FL_SWIFT": "SWIFT",

@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "找到电子邮件地址的数量",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "忽略的重复电子邮件数",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "所选记录的数量",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "电子邮件地址",
     "LBL_EMAIL_TEMPLATE": "电子邮件模板",
     "LBL_MASS_SEND_EMAIL_INFO": "所有的电子邮件将会排队，然后在定时任务中发送.",

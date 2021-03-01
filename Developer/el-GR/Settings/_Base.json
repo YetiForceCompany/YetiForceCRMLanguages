@@ -314,7 +314,8 @@
     "LBL_PREFIX": "Πρόθεμα",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Η λειτουργικότητα %s δεν έχει ενεργοποιηθεί ακόμα ή έχουν πραγματοποιηθεί αλλαγές στη διαμόρφωση και η λειτουργικότητα δεν λειτουργεί σωστά.\nΗ λειτουργικότητα πρέπει να ξαναενεργοποιηθεί για να λειτουργήσει σωστά.",
     "LBL_REQUIRES_INTERVENTION": "Απαιτεί παρέμβαση",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση"
+    "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση",
+    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

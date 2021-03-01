@@ -63,7 +63,8 @@
     "LBL_CURRENT_HISTORY_SWITCH": "現在/履歴",
     "RelatedModuleChart": "Related module - chart",
     "Documents": "Documents",
-    "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
+    "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
+    "InventoryBlock": "Inventory block"
   },
   "js": {
     "Loading data": "読み込み中...",

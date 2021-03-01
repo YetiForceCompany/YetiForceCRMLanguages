@@ -1,8 +1,8 @@
 {
   "php": {
     "MailRbl": "RBL mail servers",
-    "LBL_BY_NAME": "To",
-    "LBL_BY_HOST_NAME": "Outgoing host name",
+    "LBL_BY_NAME": "به",
+    "LBL_BY_HOST_NAME": "نام میزبان خروجی ",
     "LBL_BY_IP": "Outgoing IP",
     "LBL_MAIL_RBL": "RBL mail servers",
     "LBL_MAIL_RBL_DESCRIPTION": "Configure RBL email servers to detect spam and define trusted senders.",

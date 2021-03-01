@@ -314,7 +314,8 @@
     "LBL_PREFIX": "Előtag",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "A(z) % s funkcionalitás még nincs aktiválva, vagy a konfiguráció megváltozott, és a funkcionalitás nem működik megfelelően.\nA megfelelő működés érdekében a funkciót újra kell aktiválni.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
-    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiválás"
+    "LBL_ACTIVATE_FUNCTIONALITY": "Aktiválás",
+    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Engedélyezés sikeres",

@@ -1279,6 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Αριθμό διευθύνσεων email που βρέθηκαν",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Αριθμό επιλεγμένων εγγραφών",
+    "LBL_EMAIL_LIST": "List of e-mail addresses",
     "LBL_EMAIL_ADRESS": "Διεύθυνση E-mail",
     "LBL_EMAIL_TEMPLATE": "Πρότυπο E-mail",
     "LBL_MASS_SEND_EMAIL_INFO": "Όλα τα e-mails μπήκαν στην ουρά και αποστέλλονται στο CRON.",

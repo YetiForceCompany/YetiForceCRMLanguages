@@ -1,7 +1,7 @@
 {
   "php": {
     "Dependencies": "Zależności",
-    "LBL_VULNERABILITIES": "Podatności",
+    "LBL_VULNERABILITIES": "Wykrywanie podatności",
     "LBL_VULNERABILITIES_DESCRIPTION": "Lista podatności bibliotek",
     "LBL_VULNERABILITIES_OK": "Brak podatności w bibliotekach",
     "LBL_VULNERABILITIES_OK_DESC": "Nie zapomnij okresowo sprawdzać podatności w swoich bibliotekach.",
