@@ -4,244 +4,244 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 50,
-        "time": "2021-03-01 07:41:08"
+        "time": "2021-03-08 08:05:12"
     },
     "bg-BG": {
         "prefix": "bg-BG",
         "crowdinCode": "bg",
         "name": "Bulgarian",
         "progress": 45,
-        "time": "2021-03-01 07:42:09"
+        "time": "2021-03-08 08:06:24"
     },
     "bs-BA": {
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 93,
-        "time": "2021-03-01 07:41:38"
+        "progress": 100,
+        "time": "2021-03-08 08:05:49"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
         "crowdinCode": "cs",
         "name": "Czech",
         "progress": 7,
-        "time": "2021-03-01 07:44:41"
+        "time": "2021-03-08 08:09:40"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
         "progress": 12,
-        "time": "2021-03-01 07:45:20"
+        "time": "2021-03-08 08:10:18"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
         "progress": 98,
-        "time": "2021-03-01 07:47:31"
+        "time": "2021-03-08 08:12:41"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 92,
-        "time": "2021-03-01 07:48:02"
+        "time": "2021-03-08 08:13:17"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 91,
-        "time": "2021-03-01 07:57:59"
+        "time": "2021-03-08 08:24:09"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 92,
-        "time": "2021-03-01 07:52:18"
+        "time": "2021-03-08 08:18:14"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
         "progress": 98,
-        "time": "2021-03-01 07:46:59"
+        "time": "2021-03-08 08:12:06"
     },
     "he-IL": {
         "prefix": "he-IL",
         "crowdinCode": "he",
         "name": "Hebrew",
         "progress": 5,
-        "time": "2021-03-01 07:48:32"
+        "time": "2021-03-08 08:13:54"
     },
     "hr-HR": {
         "prefix": "hr-HR",
         "crowdinCode": "hr",
         "name": "Croatian",
-        "progress": 93,
-        "time": "2021-03-01 07:44:11"
+        "progress": 94,
+        "time": "2021-03-08 08:09:04"
     },
     "hu-HU": {
         "prefix": "hu-HU",
         "crowdinCode": "hu",
         "name": "Hungarian",
         "progress": 61,
-        "time": "2021-03-01 07:49:05"
+        "time": "2021-03-08 08:14:30"
     },
     "id-ID": {
         "prefix": "id-ID",
         "crowdinCode": "id",
         "name": "Indonesian",
         "progress": 12,
-        "time": "2021-03-01 07:49:38"
+        "time": "2021-03-08 08:15:07"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 99,
-        "time": "2021-03-01 07:50:09"
+        "time": "2021-03-08 08:15:45"
     },
     "ja-JP": {
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 92,
-        "time": "2021-03-01 07:50:42"
+        "progress": 91,
+        "time": "2021-03-08 08:16:23"
     },
     "ko-KR": {
         "prefix": "ko-KR",
         "crowdinCode": "ko",
         "name": "Korean",
         "progress": 26,
-        "time": "2021-03-01 07:51:15"
+        "time": "2021-03-08 08:17:01"
     },
     "my-MM": {
         "prefix": "my-MM",
         "crowdinCode": "my",
         "name": "Burmese",
         "progress": 5,
-        "time": "2021-03-01 07:42:39"
+        "time": "2021-03-08 08:07:03"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2021-03-01 07:46:27"
+        "time": "2021-03-08 08:11:31"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 52,
-        "time": "2021-03-01 07:45:55"
+        "time": "2021-03-08 08:10:55"
     },
     "no-NO": {
         "prefix": "no-NO",
         "crowdinCode": "no",
         "name": "Norwegian",
         "progress": 16,
-        "time": "2021-03-01 07:51:46"
+        "time": "2021-03-08 08:17:38"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2021-03-01 07:52:52"
+        "time": "2021-03-08 08:18:51"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 71,
-        "time": "2021-03-01 07:53:56"
+        "time": "2021-03-08 08:20:05"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 30,
-        "time": "2021-03-01 07:53:25"
+        "time": "2021-03-08 08:19:28"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 73,
-        "time": "2021-03-01 07:54:29"
+        "time": "2021-03-08 08:20:41"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 84,
-        "time": "2021-03-01 07:55:03"
+        "progress": 83,
+        "time": "2021-03-08 08:21:15"
     },
     "sh-HR": {
         "prefix": "sh-HR",
         "crowdinCode": "sh",
         "name": "Serbo-Croatian",
-        "progress": 92,
-        "time": "2021-03-01 07:56:11"
+        "progress": 91,
+        "time": "2021-03-08 08:22:24"
     },
     "sk-SK": {
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 9,
-        "time": "2021-03-01 07:56:46"
+        "time": "2021-03-08 08:22:58"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 82,
-        "time": "2021-03-01 07:57:22"
+        "time": "2021-03-08 08:23:33"
     },
     "sr-CS": {
         "prefix": "sr-CS",
         "crowdinCode": "sr-CS",
         "name": "Serbian (Latin)",
         "progress": 87,
-        "time": "2021-03-01 07:55:37"
+        "time": "2021-03-08 08:21:50"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 31,
-        "time": "2021-03-01 07:58:31"
+        "time": "2021-03-08 08:24:47"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 85,
-        "time": "2021-03-01 07:59:04"
+        "time": "2021-03-08 08:25:22"
     },
     "vi-VN": {
         "prefix": "vi-VN",
         "crowdinCode": "vi",
         "name": "Vietnamese",
         "progress": 92,
-        "time": "2021-03-01 07:59:39"
+        "time": "2021-03-08 08:26:01"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 89,
-        "time": "2021-03-01 07:43:10"
+        "time": "2021-03-08 08:07:44"
     },
     "zh-TW": {
         "prefix": "zh-TW",
         "crowdinCode": "zh-TW",
         "name": "Chinese Traditional",
         "progress": 5,
-        "time": "2021-03-01 07:43:40"
+        "time": "2021-03-08 08:08:26"
     }
 }

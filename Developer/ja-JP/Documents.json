@@ -46,7 +46,8 @@
     "Default": "既定",
     "LBL_SELECT_Documents": "ドキュメントを選択",
     "LBL_RELATIONS": "関連",
-    "LBL_MASS_ADD": "一括追加"
+    "LBL_MASS_ADD": "一括追加",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "ファイルを移動してもよろしいですか？",

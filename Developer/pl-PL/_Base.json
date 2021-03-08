@@ -1477,7 +1477,8 @@
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Otwarte/Zamknięte",
     "LBL_VISIT_PURPOSE_ALERT": "Uwaga, okno widoczne tylko dla administratora. \nNie zalecamy pracować na koncie administratora, to konto powinno służyć tylko do zarządzania CRM. Okno można wyłączyć w pliku konfiguracyjnym. ",
     "LBL_MASS_MAIL_NOTES": "Informacje dodatkowe",
-    "LBL_MASS_MAIL_NOTES_INFO": "Informacje z tego pola można dodać do zawartości wiadomości e-mail przy użyciu następującej zmiennej w szablonie: $(params : massMailNotes)$"
+    "LBL_MASS_MAIL_NOTES_INFO": "Informacje z tego pola można dodać do zawartości wiadomości e-mail przy użyciu następującej zmiennej w szablonie: $(params : massMailNotes)$",
+    "LBL_RECORDS_FROM_RELATION": "Rekordy relacji"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1933,6 +1934,7 @@
     "JS_EMOJI_SEARCH": "Wyszukaj…",
     "JS_CANT_CLOSE_NEW_RECROD": "Nie można zamknąć nowego zgłoszenia",
     "JS_MEETING_URL_CHANGED": "Adres spotkania został zmieniony",
-    "JS_ENTER_A_REASON": "Podaj powód"
+    "JS_ENTER_A_REASON": "Podaj powód",
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Brak informacji o rekordzie, który ma ulec zmianie"
   }
 }

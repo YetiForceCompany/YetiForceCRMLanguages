@@ -47,7 +47,7 @@
     "Users|LBL_CALDAV_SYNCHRONIZATION_CALENDAR": "Specifies which records from the Calendar module are to be synchronized using the CalDAV protocol.",
     "Users|FL_AVAILABLE": "Specifies if the user is available (in the future this field will respect other indirect mechanisms, such as holiday, working time, etc).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "If the option is enabled and the auto assign records mechanism is active, the user will be used for assigning records according to the rules and algorithms in the system.",
-    "Users|FL_RECORD_LIMIT_IN_MODULE": "Specifies the amount of records (open) that can be assigned to a user in one module.",
+    "Users|FL_RECORD_LIMIT_IN_MODULE": "Određuje količinu zapisa (otvorenih) koji se mogu dodijeliti korisniku u jednom modulu.",
     "FL_RESPONSE_RANGE_TIME": "Broj minuta koji je protekao prije reakcije, izračunato na temelju SLA-a i radnih dana / sati",
     "FL_SOLUTION_RANGE_TIME": "Broj minuta koji je protekao da se riješi dani zapis, izračunato na različitim statusima, ovisno o konfiguraciji i na temelju SLA-a i radnih dana / sati",
     "FL_IDLE_RANGE_TIME": "Broj minuta kada je neki zapis bio neaktivan, npr. kada se čekaju dodatne informacije, ona se izračunava na temelju SLA-a i radnih dana / sati",

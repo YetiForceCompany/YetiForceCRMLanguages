@@ -45,13 +45,13 @@
 		"PLL_FRAUD": "Sumnja se na prevaru",
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal je otkazao preokret",
 		"PLL_PAYPAL_REVERSED": "PayPal obrnut",
-		"PLL_NEW": "New",
-		"PLL_PAYMENT_REVIEW": "Paymant review",
-		"PLL_ON_HOLD": "On hold",
+		"PLL_NEW": "Novi",
+		"PLL_PAYMENT_REVIEW": "Pregled plaćanja",
+		"PLL_ON_HOLD": "Na čekanju",
 		"PLL_PROCESSING": "Obrada",
 		"PLL_COMPLETE": "Završen",
 		"PLL_CLOSED": "Zatvoreno",
 		"PLL_CANCELLED": "Otkazano",
-		"PLL_SEND": "Sent"
+		"PLL_SEND": "Poslano"
 	}
 }

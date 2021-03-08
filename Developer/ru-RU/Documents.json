@@ -46,7 +46,8 @@
     "Default": "По умолчанию",
     "LBL_SELECT_Documents": "Выберите документ",
     "LBL_RELATIONS": "Связан с",
-    "LBL_MASS_ADD": "Массовая загрузка"
+    "LBL_MASS_ADD": "Массовая загрузка",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Вы уверены, что хотите переместить файлы в",

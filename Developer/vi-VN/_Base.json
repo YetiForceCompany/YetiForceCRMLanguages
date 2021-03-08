@@ -89,7 +89,7 @@
     "LBL_ACTIONS": "Hành động",
     "LBL_ACTIVITIES": "Hoạt động",
     "LBL_ADD": "Thêm",
-    "LBL_MASS_ADD_ENTIRIES": "Mass add entries",
+    "LBL_MASS_ADD_ENTIRIES": "Nhập thêm mục hàng loạt",
     "LBL_ADDRESS_INFORMATION": "Địa chỉ chính",
     "LBL_ADDRESS_MAILING_INFORMATION": "Địa chỉ chuyển tiếp",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Địa chỉ giao hàng",
@@ -1264,7 +1264,7 @@
     "FL_IS_PRIVATE": "Bảo mật",
     "LBL_AUTOMATIC_ASSIGNMENT": "Tự động phân công",
     "LBL_ROLE": "Vai trò",
-    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields",
+    "LBL_NO_FIELD_ACCESS": "Bạn không thể thay đổi giá trị của trường",
     "LBL_NUMBER_OF_ASSIGNED_RECORDS": "Số biểu ghi được giao",
     "LBL_ASSIGN": "Chỉ định",
     "LBL_SET_DEFAULT_RECORD_OWNER": "Thiết lập mặc định Chỉ định cho",
@@ -1279,7 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Số địa chỉ email được tìm thấy",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Số địa chỉ email trùng bị bỏ qua",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Số biểu ghi được chọn",
-    "LBL_EMAIL_LIST": "List of e-mail addresses",
+    "LBL_EMAIL_LIST": "Danh sách địa chỉ email",
     "LBL_EMAIL_ADRESS": "Địa chỉ email",
     "LBL_EMAIL_TEMPLATE": "Mẫu email",
     "LBL_MASS_SEND_EMAIL_INFO": "Mọi email đã được đưa vào hàng đợi và gửi tới CRON.",
@@ -1335,8 +1335,8 @@
     "LBL_YETIFORCE_NEWSLETTER": "Bản tin",
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "Điền thông tin yêu cầu",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "Chưa có địa chỉ email được thêm vào thông tin công ty. Nếu bạn muốn nhận bản tin %s.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Chức năng này khả dụng sau khi đăng ký.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Hệ thống chưa được đăng ký. Vui lòng đăng ký hệ thống YetiForce CRM để được truy cập phần hệ thống này.",
     "LBL_START": "Đầu",
     "LBL_END": "Cuối",
     "LBL_AUTOMATIC": "Tự động",
@@ -1474,10 +1474,11 @@
     "LBL_SOURCE_RECORD": "Source record",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed",
-    "LBL_VISIT_PURPOSE_ALERT": "Warning, window visible only to the administrator.\nWe do not recommend working on the admin account, this should only be used to manage CRM.\nThe window can be disabled in the configuration file. ",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Mở/Đóng",
+    "LBL_VISIT_PURPOSE_ALERT": "Cảnh báo, cửa sổ chỉ thấy được với người quản trị.\nChúng tôi không khuyến khích làm việc trên tài khoản admin, nó chỉ nên được dùng để quản lý CRM.\nCửa có thể vô hiệu hóa trong tệp cấu hình. ",
     "LBL_MASS_MAIL_NOTES": "Thông tin bổ sung",
-    "LBL_MASS_MAIL_NOTES_INFO": "Information from this field can be added to the email contents by using the following variable  in the template: $(params : massMailNotes)$"
+    "LBL_MASS_MAIL_NOTES_INFO": "Thông tin từ trường này có thể được thêm vào nội dung email bằng cách sử dụng biến sau trong mẫu: $(params : massMailNotes)$",
+    "LBL_RECORDS_FROM_RELATION": "Records from relation"
   },
   "js": {
     "JS_APPROVE": "Phê duyệt",
@@ -1933,6 +1934,7 @@
     "JS_EMOJI_SEARCH": "Đang tìm…",
     "JS_CANT_CLOSE_NEW_RECROD": "Bạn không thể đóng 1 vé hỗ trợ mới",
     "JS_MEETING_URL_CHANGED": "URL cuộc họp đã bị thay đổi",
-    "JS_ENTER_A_REASON": "Enter a reason"
+    "JS_ENTER_A_REASON": "Enter a reason",
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Hiện không có thông tin về bản ghi đã thay đổi"
   }
 }

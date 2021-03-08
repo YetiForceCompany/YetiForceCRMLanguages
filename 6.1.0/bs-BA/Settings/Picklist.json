@@ -43,7 +43,7 @@
     "LBL_RECORD_STATE_OPEN": "Otvoreno",
     "LBL_RECORD_STATE_CLOSED": "Zatvoreno",
     "LBL_RECORD_STATE_INFO": "Ova vrijednost može se uzeti u obzir u nekim mehanizmima stanja zapisa",
-    "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",
+    "LBL_EDIT_PROCESS_LOCK_STATUS": "Uredite status zaključavanja i procesa",
     "LBL_TIME_COUNTING": "Vreme odbrojavanja",
     "LBL_TIME_COUNTING_INFO": "Možete grupirati nekoliko statusa u kategorije u kojima sustav rezimira vremena tih statusa. Tada sistem može izvršiti neku radnju kada se prekorači vrijeme.",
     "LBL_TIME_COUNTING_REACTION": "Vrijeme za odziv",

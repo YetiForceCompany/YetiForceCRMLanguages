@@ -1,25 +1,25 @@
 {
   "php": {
-    "ConfigEditor": "Config editor",
-    "LBL_DEFAULT_MODULE": "Default module",
-    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximum text length in List View",
-    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum entries per page in List View",
-    "LBL_DEFAULT_LAYOUT": "Layout",
-    "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
-    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
-    "LBL_MINIMUM_CRON_FREQUENCY": "Minimum cron frequency [min] ",
-    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum number of records in mass edition",
-    "LBL_BG_CLOSING_MODAL": "Enable closing of modal window by clicking on the background",
-    "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
-    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
-    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
-    "LBL_CONFIG_EDITOR": "System – Configuration",
-    "LBL_CONFIG_EDITOR_DESCRIPTION": "Update configuration file of the application",
-    "LBL_MAX_UPLOAD_SIZE": "Maximum upload size",
+    "ConfigEditor": "Uređivač konfiguracije",
+    "LBL_DEFAULT_MODULE": "Zadani modul",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maksimalna dužina teksta u prikazu liste",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maksimalni unosi po stranici u prikazu popisa",
+    "LBL_DEFAULT_LAYOUT": "Izgled",
+    "LBL_SHOWING_BREADCRUMBS": "Prikaži meni krušnih mrvica",
+    "LBL_TITLE_MAX_LENGTH": "Maksimalna dužina znakova za naslov",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Minimalna cron frekvencija [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maksimalni broj zapisa u masovnom uređivanju",
+    "LBL_BG_CLOSING_MODAL": "Omogućite zatvaranje modalnog prozora klikom na pozadinu",
+    "LBL_HREF_MAX_LEGTH": "Maksimalna dužina za href oznaku",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Prikaži izbor jezika na stranici za prijavu",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Prikaži izbor izgleda na stranici za prijavu",
+    "LBL_CONFIG_EDITOR": "Sistem - Konfiguracija",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Ažurirajte konfiguracijsku datoteku aplikacije",
+    "LBL_MAX_UPLOAD_SIZE": "Maksimalna veličina učitavanja",
     "LBL_MB": "MB"
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",
-    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Podaci o konfiguraciji su sačuvani",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Unesite vrijednost u rasponu 1-100"
   }
 }

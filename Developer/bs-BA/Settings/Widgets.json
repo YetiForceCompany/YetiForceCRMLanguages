@@ -57,14 +57,14 @@
     "LBL_SHITCH_HEADER": "Prebaci se u zaglavlje",
     "LBL_SHITCH_HEADER_INFO": "Prekidač se može naći u zaglavlju widgeta.",
     "HistoryRelation": "Vremenska linija",
-    "UpdatesList": "Field history and duration summary",
+    "UpdatesList": "Polje istorije i ukupnog trajanja",
     "CountRecords": "Broj zapisa",
     "LBL_LIST_WITH_SUMMARY": "Lista sa rezimeom",
     "LBL_CURRENT_HISTORY_SWITCH": "Aktuelno/Istorija",
-    "RelatedModuleChart": "Related module - chart",
-    "Documents": "Documents",
-    "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
-    "InventoryBlock": "Inventory block"
+    "RelatedModuleChart": "Povezani modul - grafikon",
+    "Documents": "Dokumenti",
+    "LBL_SHOW_DOC_RELATIONS": "Lista povezanih relacija",
+    "InventoryBlock": "Blok inventara"
   },
   "js": {
     "Loading data": "Učitavanje...",

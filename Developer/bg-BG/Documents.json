@@ -46,7 +46,8 @@
     "Default": "По подразбиране",
     "LBL_SELECT_Documents": "Избери документ",
     "LBL_RELATIONS": "Отношения",
-    "LBL_MASS_ADD": "Добавяне на маса"
+    "LBL_MASS_ADD": "Добавяне на маса",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Сигурни ли сте, че искате да преместите файловете в",

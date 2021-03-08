@@ -46,7 +46,8 @@
     "Default": "Alapértelmezett",
     "LBL_SELECT_Documents": "Dokumentum kiválasztása",
     "LBL_RELATIONS": "Kapcsolatok",
-    "LBL_MASS_ADD": "Tömeges hozzáadás"
+    "LBL_MASS_ADD": "Tömeges hozzáadás",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Biztos abban, hogy ez(eke)t a fájl(oka)t át akarja helyezni ide",

@@ -46,7 +46,8 @@
     "Default": "Standard",
     "LBL_SELECT_Documents": "Vælg dokument",
     "LBL_RELATIONS": "Tilknytninger",
-    "LBL_MASS_ADD": "Mass add"
+    "LBL_MASS_ADD": "Mass add",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Are you sure you want to move the file(s) to",

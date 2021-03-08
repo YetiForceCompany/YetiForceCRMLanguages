@@ -46,7 +46,8 @@
     "Default": "Προεπιλογή",
     "LBL_SELECT_Documents": "Επιλέξτε το έγγραφο",
     "LBL_RELATIONS": "Σχέσεις",
-    "LBL_MASS_ADD": "Μαζική προσθήκη"
+    "LBL_MASS_ADD": "Μαζική προσθήκη",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Είστε βέβαιοι ότι θέλετε να μετακινήσετε το αρχείο(α) στο",

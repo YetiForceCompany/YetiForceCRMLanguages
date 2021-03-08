@@ -46,7 +46,8 @@
     "Default": "Padrão",
     "LBL_SELECT_Documents": "Selecionar documento",
     "LBL_RELATIONS": "Relações",
-    "LBL_MASS_ADD": "Adicionar em Massa"
+    "LBL_MASS_ADD": "Adicionar em Massa",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Tem certeza que deseja mover o(s) arquivo(s) para",

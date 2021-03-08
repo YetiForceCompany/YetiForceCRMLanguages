@@ -37,7 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Prvi dan ovog mjeseca",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Posljednji dan ovog mjeseca",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Prvi dan narednog meseca",
-    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Zavisna polja",
     "LBL_PRODUCTS_TABLE": "Tabela sa naprednim blokom",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabela s naprednim blokom i opisom",
     "LBL_PRODUCTS_TABLE_NEW": "Poboljšana tablica s naprednim blokom",
@@ -65,10 +65,10 @@
     "LBL_REPORT_SSALESPROCESSES": "Zapisi o prilikama",
     "LBL_REPORT_CALENDAR": "Kalendarski zapisi",
     "LBL_REPORT_OVERDUE": "Zakašnjeli zapisi",
-    "LBL_REPORT_LOGIN_HISTORY": "Login history",
+    "LBL_REPORT_LOGIN_HISTORY": "Povijest prijave",
     "LBL_USER_RECORD_DUPLICATE_LIST": "Dupliciran popis zapisa od korisnika",
     "LBL_USER_RECORD_FILTERED_LIST": "Popis zapisa filtriranih od korisnika",
     "LBL_SUMMARY_FIELDS": "Lista polja vidljiva u sažetku",
-    "LBL_RELATED_ATTACHMENTS": "Related attachments"
+    "LBL_RELATED_ATTACHMENTS": "Povezani prilozi"
   }
 }

@@ -77,7 +77,7 @@
     "LBL_Used_Entitled": "Korišten/Ima pravo:",
     "LBL_DAYS": "dana",
     "Brak danych": "Nema podataka",
-    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Radno vreme ne bi trebalo da pređe 24 sata",
     "LBL_DAYWORKSUM": "Radno vrijeme",
     "LBL_ALLDAYS_INFO": "Svi dani",
     "LBL_WEEKENDDAYS_INFO": "Dani vikenda",

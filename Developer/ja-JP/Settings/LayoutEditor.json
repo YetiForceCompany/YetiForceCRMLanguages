@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "非カスタムフィールドは削除できません",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "フィールドの変更はシステムの安定性に影響を与える可能性があります。",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "システム内のフィールドを作成および変更する必要があるのは、関連する技術的な専門知識を持つ人だけです。 フィールドの変更はシステムの安定性に影響を与える可能性があるため、最初にテスト環境で実行することをお勧めします。",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_RELATED_CUSTOM_VIEW": "Filters",
+    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
+    "LBL_RCV_ALL": "All filters from the module",
+    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "ブロック名は既に存在します",

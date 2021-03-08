@@ -46,7 +46,8 @@
     "Default": "الطبيعي",
     "LBL_SELECT_Documents": "معاينة الوثيقة",
     "LBL_RELATIONS": "العلاقات",
-    "LBL_MASS_ADD": "إضافة كتلة"
+    "LBL_MASS_ADD": "إضافة كتلة",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "هل انت متاكد انك تريد نقل المستند\\المستندات الى ",

@@ -84,17 +84,17 @@
     "Guest Profile": "Gost",
     "RemoveRelation": "Ukloni relaciju",
     "ReceivingMailNotifications": "Primanje obavijesti putem pošte",
-    "ActivityCancel": "Set activity status to canceled",
-    "ActivityComplete": "Set activity status to completed",
-    "ActivityPostponed": "Set activity status to postponed",
+    "ActivityCancel": "Postavite status aktivnosti na otkazano",
+    "ActivityComplete": "Postavite status aktivnosti na dovršen",
+    "ActivityPostponed": "Postavite status aktivnosti na odgođeno",
     "Emails": "Slanje emailova [SMTP]",
     "ModTracker": "Praćenje istorije",
     "AssignToYourself": "Dodijeliti meni",
     "AutoAssignRecord": "Automatski prijenos zapisa",
-    "RecordConventer": "Record converter",
-    "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL",
-    "InterestsConflictUsers": "Conflict of interests"
+    "RecordConventer": "Pretvarač zapisa",
+    "RecordCollector": "Sakupljač zapisa",
+    "MeetingUrl": "URL sastanka",
+    "InterestsConflictUsers": "Sukobi interesa"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

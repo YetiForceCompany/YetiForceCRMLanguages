@@ -46,7 +46,8 @@
     "Default": "Domyślny",
     "LBL_SELECT_Documents": "Wybierz dokument",
     "LBL_RELATIONS": "Powiązania",
-    "LBL_MASS_ADD": "Masowe dodawanie"
+    "LBL_MASS_ADD": "Masowe dodawanie",
+    "LBL_PREVIEW_FILE": "Podgląd pliku"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Czy jesteś pewien, że chcesz przenieść pliki do",

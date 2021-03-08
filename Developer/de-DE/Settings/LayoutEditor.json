@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nicht benutzerdefiniertes Feld kann nicht gelöscht werden",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Die Änderung des Feldes kann die Systemstabilität beeinflussen.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Nur Personen mit einschlägiger technischer Expertise sollten Felder im System erstellen und ändern. Feldänderungen können die Systemstabilität beeinträchtigen, daher empfehlen wir diese zuerst in einer Testumgebung durchzuführen.",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_RELATED_CUSTOM_VIEW": "Filters",
+    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
+    "LBL_RCV_ALL": "All filters from the module",
+    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name existiert bereits",

@@ -9,8 +9,8 @@
     "LBL_EXCLUDE_MODULES": "Isključuje module",
     "LBL_EVENT_IS_ACTIVE": "Je aktivan",
     "LBL_EDIT_VIEW_PRESAVE": "Provjera prije snimanja zapisa",
-    "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_ENTITY_CHANGE_STATE": "Promjena stanja",
+    "LBL_ENTITY_BEFORE_SAVE": "Prije spremanja",
+    "LBL_ENTITY_AFTER_SAVE": "Nakon spremanja"
   }
 }

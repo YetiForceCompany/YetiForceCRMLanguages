@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Không thể xóa trường không tuỳ biến",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Sửa đổi trường có thể ảnh hưởng đến sự ổn định hệ thống.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Chỉ nên để những người có kinh nghiệm công nghệ tạo và thay đổi trường trong hệ thống. Việc sửa đổi trường có thể ảnh hưởng tới tính ổn định trong hệ thống, vì vậy chúng tôi đề xuất bạn thực hiện trên môi trường thử nghiệm trước.",
-    "LBL_ANONYMIZATION_TARGET": "Ẩn danh"
+    "LBL_RELATED_CUSTOM_VIEW": "Filters",
+    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
+    "LBL_RCV_ALL": "All filters from the module",
+    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Tên khối đã tồn tại",

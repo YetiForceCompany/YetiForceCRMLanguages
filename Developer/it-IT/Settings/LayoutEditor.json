@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossibile eliminare campo non personalizzato",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "La modifica del campo può influenzare la stabilità del sistema.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Solo le persone con competenze tecniche pertinenti dovrebbero creare e modificare i campi del sistema. La modifica del campo può influenzare la stabilità del sistema, quindi si consiglia di eseguirlo prima in un ambiente di prova.",
-    "LBL_ANONYMIZATION_TARGET": "Anonimizzazione"
+    "LBL_RELATED_CUSTOM_VIEW": "Filtri",
+    "LBL_RCV_PRIVATE": "Filtri privati (solo i miei filtri)",
+    "LBL_RCV_ALL": "Tutti i filtri dal modulo",
+    "LBL_FILTERS_FROM_MODULE": "Filtri dal modulo"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

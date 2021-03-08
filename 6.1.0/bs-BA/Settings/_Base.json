@@ -12,7 +12,7 @@
     "LBL_ADD_OR_DELETE_USERS": "Dodavanje / brisanje korisnika",
     "LBL_ADD_USER": "Dodaj korisnika",
     "LBL_AVAILABLE_WORKLIST_LIST": "Dostupni tokovi rada",
-    "LBL_COMPANY": "Company",
+    "LBL_COMPANY": "Kompanija",
     "LBL_COMPANY_DESCRIPTION": "Navedite poslovnu adresu kompanije",
     "LBL_COMPANY_DETAILS": "Podaci o kompaniji",
     "LBL_COMPANY_INFORMATION": "Podaci o kompaniji",
@@ -314,8 +314,8 @@
     "LBL_SEARCH_PLACEHOLDER": "Traži ...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Postavke sekvence popisa",
     "LBL_PREFIX": "Prefiks",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "The %s functionality hasn't been activated yet or changes in the configuration have been performed and the functionality does not work properly.\nThe functionality must be reactivated in order to work properly.",
-    "LBL_REQUIRES_INTERVENTION": "Requires intervention",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Funkcija %s još nije aktivirana ili su izvršene promjene u konfiguraciji i funkcionalnost ne radi ispravno.\nFunkcionalnost mora biti ponovo aktivirana kako bi mogla ispravno raditi.",
+    "LBL_REQUIRES_INTERVENTION": "Zahtijeva intervenciju",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj"
   },
   "js": {

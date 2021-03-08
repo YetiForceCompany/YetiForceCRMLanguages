@@ -46,7 +46,8 @@
     "Default": "Implicit",
     "LBL_SELECT_Documents": "Selecteaza documentul",
     "LBL_RELATIONS": "Relatii",
-    "LBL_MASS_ADD": "Adaugare in masa"
+    "LBL_MASS_ADD": "Adaugare in masa",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Esti sigur ca vrei sa muti fisierul(ele) in",

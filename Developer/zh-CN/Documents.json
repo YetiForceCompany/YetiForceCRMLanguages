@@ -46,7 +46,8 @@
     "Default": "默认",
     "LBL_SELECT_Documents": "选择文档",
     "LBL_RELATIONS": "关联",
-    "LBL_MASS_ADD": "批量添加"
+    "LBL_MASS_ADD": "批量添加",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "您确定要把这个文件移动到",

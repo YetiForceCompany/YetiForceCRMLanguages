@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Cannot delete non-custom field",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Spremembe polja lahko vplivajo na stabilnost sistema.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Samo ljudje z ustreznim tehničnim znanjem bi morali ustvarjati in spreminjati polja v sistemu. Spreminjanje polja lahko vpliva na stabilnost sistema, zato priporočamo, da ga najprej izvedete v testnem okolju.",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_RELATED_CUSTOM_VIEW": "Filters",
+    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
+    "LBL_RCV_ALL": "All filters from the module",
+    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

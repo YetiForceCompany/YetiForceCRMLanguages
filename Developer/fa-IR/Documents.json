@@ -46,7 +46,8 @@
     "Default": "پیش‌فرض",
     "LBL_SELECT_Documents": "انتخاب سند",
     "LBL_RELATIONS": "روابط",
-    "LBL_MASS_ADD": "افزودن دسته‌جمعی"
+    "LBL_MASS_ADD": "افزودن دسته‌جمعی",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "آیا مطمئن هستید که میخواهید فایل (ها) را منتقل کنید به",

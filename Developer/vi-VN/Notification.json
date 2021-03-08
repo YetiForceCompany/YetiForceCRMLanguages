@@ -2,7 +2,7 @@
   "php": {
     "Notification": "Thông báo",
     "SINGLE_Notification": "Thông báo",
-    "LBL_CHANGE_SAVE": "Every change must be saved",
+    "LBL_CHANGE_SAVE": "Mọi thay đổi phải được lưu",
     "LBL_NOTIFICATION_CONTENTS": "Nội dung thông báo",
     "FL_TITLE": "tiêu đề",
     "LBL_NOTIFICATION_INFORMATION": "Thông tin cơ bản",

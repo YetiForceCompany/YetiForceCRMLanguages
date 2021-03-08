@@ -46,7 +46,8 @@
     "Default": "Standard",
     "LBL_SELECT_Documents": "Dokument auswählen",
     "LBL_RELATIONS": "Beziehungen",
-    "LBL_MASS_ADD": "Massenhinzufügen"
+    "LBL_MASS_ADD": "Massenhinzufügen",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Dateien in folgendes Verzeichnis verschieben",

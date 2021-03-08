@@ -46,7 +46,8 @@
     "Default": "Zadano",
     "LBL_SELECT_Documents": "Odaberite dokument",
     "LBL_RELATIONS": "Relacije",
-    "LBL_MASS_ADD": "Masovno dodavanje"
+    "LBL_MASS_ADD": "Masovno dodavanje",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Jeste li sigurni da želite premjestiti datoteku(e) u",

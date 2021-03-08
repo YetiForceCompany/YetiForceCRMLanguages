@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Nelegalna vrijednost",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skripta postoji, ali ne sadrži uvezeno ime funkcije.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Nije uspjelo spremanje datoteke skripte metoda toka rada.",
     "ERR_ILLEGAL_FIELD_VALUE": "Za ovu vrstu polja unesena je ilegalna vrijednost. Naziv polja: %s, Modul: %s, Vrijednost: %s",
     "ERR_VALUE_IS_TOO_LONG": "Prekoračeno je ograničenje broja znakova. Naziv polja: %s, Modul: %s, Vrijednost: %s",

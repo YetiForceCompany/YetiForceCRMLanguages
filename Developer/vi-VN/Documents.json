@@ -46,7 +46,8 @@
     "Default": "Mặc định",
     "LBL_SELECT_Documents": "Chọn tài liệu",
     "LBL_RELATIONS": "Các quan hệ",
-    "LBL_MASS_ADD": "Thêm số lượng lớn"
+    "LBL_MASS_ADD": "Thêm số lượng lớn",
+    "LBL_PREVIEW_FILE": "Xem trước tệp"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Bạn có chắc chắn bạn muốn di chuyển các tập tin tới",

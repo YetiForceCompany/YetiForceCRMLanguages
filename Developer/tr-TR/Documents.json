@@ -46,7 +46,8 @@
     "Default": "Varsayılan",
     "LBL_SELECT_Documents": "Belgeyi seçin",
     "LBL_RELATIONS": "İlişkiler",
-    "LBL_MASS_ADD": "Kütle ekle"
+    "LBL_MASS_ADD": "Kütle ekle",
+    "LBL_PREVIEW_FILE": "File preview"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Dosya (ları) ya taşımak istediğinize emin misiniz? ",

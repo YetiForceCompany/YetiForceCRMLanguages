@@ -2,7 +2,7 @@
   "php": {
     "Notification": "Napomena",
     "SINGLE_Notification": "Napomena",
-    "LBL_CHANGE_SAVE": "Every change must be saved",
+    "LBL_CHANGE_SAVE": "Svaka promjena mora biti spremljena",
     "LBL_NOTIFICATION_CONTENTS": "Sadržaj napomene",
     "FL_TITLE": "naslov",
     "LBL_NOTIFICATION_INFORMATION": "Osnovne informacije",

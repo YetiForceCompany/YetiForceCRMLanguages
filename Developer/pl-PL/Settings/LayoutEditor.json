@@ -199,7 +199,10 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Nie można usunąć pola niestandardowego",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Modyfikacja pola może mieć wpływ na stabilność systemu.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Jedynie osoby posiadające odpowiednią wiedzę techniczną powinny tworzyć i zmieniać pola w systemie. Modyfikacja pól może mieć wpływ na stabilność systemu, dlatego zalecamy przeprowadzenie jej w środowisku testowym.",
-    "LBL_ANONYMIZATION_TARGET": "Anonimizacja"
+    "LBL_RELATED_CUSTOM_VIEW": "Filtry",
+    "LBL_RCV_PRIVATE": "Prywatne filtry (tylko moje filtry)",
+    "LBL_RCV_ALL": "Wszystkie filtry z modułu",
+    "LBL_FILTERS_FROM_MODULE": "Filtry z modułu"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",
