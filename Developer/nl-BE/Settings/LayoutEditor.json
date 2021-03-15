@@ -111,7 +111,7 @@
     "LBL_CREATING_INVENTORY_FIELD": "Add",
     "LBL_NAME_FIELD": "Name",
     "LBL_COLSPAN": "Width",
-    "LBL_HEIGHT": "Height [px]",
+    "LBL_HEIGHT": "Hoogte (px)",
     "LBL_COMMENT": "Opmerking",
     "LBL_SELECT_TYPE_OF_INVENTORY": "Select field type",
     "LBL_NEXT": "Next",
@@ -200,9 +200,9 @@
     "LBL_EDIT_MAY_AFFECT_STABILITY": "Wijziging aan velden kan de stabiliteit van het systeem beïnvloeden.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Alleen professionals met relevante technische expertise moeten velden in het systeem creëren en veranderen. Wijziging van velden kan van invloed zijn op de systeemstabiliteit, we raden het daarom aan om het eerst in een testomgeving uit te voeren.",
     "LBL_RELATED_CUSTOM_VIEW": "Filters",
-    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
-    "LBL_RCV_ALL": "All filters from the module",
-    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
+    "LBL_RCV_PRIVATE": "Privé filters (alleen mijn filters)",
+    "LBL_RCV_ALL": "Alle filters van de module",
+    "LBL_FILTERS_FROM_MODULE": "Filters van de module"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

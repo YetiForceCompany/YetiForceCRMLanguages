@@ -1,11 +1,11 @@
 {
   "php": {
-    "Calendar": "Agenda",
-    "LBL_ACTIVITY_TYPES": "Agendatypes",
+    "Calendar": "Kalender",
+    "LBL_ACTIVITY_TYPES": "Soorten agenda",
     "LBL_ACTIVITY_TYPES_DESCRIPTION": "Beheer van activiteit type.",
     "LBL_ACTIVITY_NAME": "Activiteit type naam",
     "LBL_MODULE": "Module",
-    "LBL_COLOR": "Kleur",
+    "LBL_COLOR": "Kleuren",
     "LBL_TOOLS": "Tools",
     "LBL_ACTIVE": "Actief",
     "LBL_SAVE_ACTIVE_TYPE": "Wijziging opslaan",

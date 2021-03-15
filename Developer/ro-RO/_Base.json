@@ -89,7 +89,7 @@
     "LBL_ACTIONS": "Actiuni",
     "LBL_ACTIVITIES": "Activitati",
     "LBL_ADD": "Adauga",
-    "LBL_MASS_ADD_ENTIRIES": "Mass add entries",
+    "LBL_MASS_ADD_ENTIRIES": "Adăugare intrări în masă",
     "LBL_ADDRESS_INFORMATION": "Adresa principala",
     "LBL_ADDRESS_MAILING_INFORMATION": "Adresa de expediere",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresa de livrare",
@@ -1264,7 +1264,7 @@
     "FL_IS_PRIVATE": "Privat",
     "LBL_AUTOMATIC_ASSIGNMENT": "Repartizare automata",
     "LBL_ROLE": "Rol",
-    "LBL_NO_FIELD_ACCESS": "You cannot change the values in the fields",
+    "LBL_NO_FIELD_ACCESS": "Nu se pot modifica valorile din câmpuri",
     "LBL_NUMBER_OF_ASSIGNED_RECORDS": "Numarul inregistrarilor repartizate",
     "LBL_ASSIGN": "Repartizeaza",
     "LBL_SET_DEFAULT_RECORD_OWNER": "Set default Assigned To",
@@ -1279,7 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Numarul de adresa email gasite",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Numarul de inregistrari selectate",
-    "LBL_EMAIL_LIST": "List of e-mail addresses",
+    "LBL_EMAIL_LIST": "Lista adreselor de e-mail",
     "LBL_EMAIL_ADRESS": "Adresa email",
     "LBL_EMAIL_TEMPLATE": "Sablon email",
     "LBL_MASS_SEND_EMAIL_INFO": "All e-mails are queued and sent in CRON.",
@@ -1335,8 +1335,8 @@
     "LBL_YETIFORCE_NEWSLETTER": "Newsletter",
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "Fill in the required information",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "No e-mail address was added to company details. If you want to receive newsletter %s.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Această funcționalitate este disponibilă după înregistrare.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Sistemul nu a fost inregistrat. Va rugam sa inregistrati YetiForce CRM pentru a avea acces la aceasta parte a sistemului.",
     "LBL_START": "Start",
     "LBL_END": "End",
     "LBL_AUTOMATIC": "Automatic",
@@ -1474,11 +1474,11 @@
     "LBL_SOURCE_RECORD": "Source record",
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "All required fields were not filled in",
-    "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed",
-    "LBL_VISIT_PURPOSE_ALERT": "Warning, window visible only to the administrator.\nWe do not recommend working on the admin account, this should only be used to manage CRM.\nThe window can be disabled in the configuration file. ",
+    "LBL_HEADERSWITCH_OPEN_CLOSED": "Deschis/Închis",
+    "LBL_VISIT_PURPOSE_ALERT": "Atentie, fereastra vizibila doar pentru administrator.\nNu recomandam sa se lucreze din contul de administrator, cu exceptia administrarii CRM.\nAceasta fereastra poate fi dezactivată în fișierul de configurare. ",
     "LBL_MASS_MAIL_NOTES": "Informatii aditionale",
-    "LBL_MASS_MAIL_NOTES_INFO": "Information from this field can be added to the email contents by using the following variable  in the template: $(params : massMailNotes)$",
-    "LBL_RECORDS_FROM_RELATION": "Records from relation"
+    "LBL_MASS_MAIL_NOTES_INFO": "Informațiile din acest câmp pot fi adăugate la conținutul e-mailului folosind următoarea variabilă în șablon: $(param: massMailNotes)$",
+    "LBL_RECORDS_FROM_RELATION": "Înregistrări de la legătură"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1935,6 +1935,6 @@
     "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket",
     "JS_MEETING_URL_CHANGED": "Meeting URL has changed",
     "JS_ENTER_A_REASON": "Enter a reason",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Nu există informaţii despre înregistrarea care urmează să fie schimbată"
   }
 }

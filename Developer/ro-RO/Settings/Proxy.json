@@ -1,17 +1,17 @@
 {
   "php": {
     "LBL_CONFIG_PROXY": "Proxy",
-    "LBL_PROXY_CONFIGRATION": "Proxy configuration",
+    "LBL_PROXY_CONFIGRATION": "Configurare proxy",
     "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy",
-    "LBL_PROXY_CONNECTION": "Connection",
+    "LBL_PROXY_CONNECTION": "Conexiune",
     "LBL_PROXY_PROTOCOL": "Protocol",
-    "LBL_PROXY_HOST": "Host",
+    "LBL_PROXY_HOST": "Gazdă",
     "LBL_PROXY_PORT": "Port",
-    "LBL_PROXY_LOGIN": "Login",
-    "LBL_PROXY_PASSWORD": "Password",
-    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Address Finder - Yetiforce server, \n - Integration with Magento - Magento server, \n - Coordinate search engine - Yetiforce server, OpenStreetMap server, \n - Route search - Yetiforce server, servers indicated by the user in the configuration, \n - Communication with the update server - Github server, \n - Communication with the registration server - Yetiforce server, \n - Integration with OpenStreetMap - Yetiforce server, OpenStreetMap server and servers indicated by the user in the configuration, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB, NBR), \n - Installation and update of libraries - Github server"
+    "LBL_PROXY_LOGIN": "Autentificare",
+    "LBL_PROXY_PASSWORD": "Parolă",
+    "LBL_PROXY_INFORMATION": "Module de sistem care comunică cu servere externe: \n - Motor de căutare parolă securizata - server Yetiforce \n - Instalare limbă - Server Github, \n - Cautator adrese - Server Yetiforce \n - Integrare cu Magento - Magento server, \n - Motor de căutare coordonata - Server Yetiforce Server OpenStreetMap, \n - Căutare pe traseu - Server Yetiforce indicat de utilizator în configurație, \n - Comunicare cu serverul de actualizare - Server Github, \n - Comunicare cu serverul de înregistrare - Yetiforce server, \n - Integrare cu OpenStreetMap - Server Yetiforce Server și servere OpenStreetMap indicate de utilizator în configurație, \n - Actualizare a schimb valutar - Servere bancare (NBP, CBR, ECB, NBR), \n - Instalarea și actualizarea bibliotecilor - Serverul Github"
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Detalii configurație salvate"
   }
 }

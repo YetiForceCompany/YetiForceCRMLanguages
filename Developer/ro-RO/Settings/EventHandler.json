@@ -9,8 +9,8 @@
     "LBL_EXCLUDE_MODULES": "Exclude modules",
     "LBL_EVENT_IS_ACTIVE": "Is active",
     "LBL_EDIT_VIEW_PRESAVE": "Validation before saving the record",
-    "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_ENTITY_CHANGE_STATE": "Schimba Status",
+    "LBL_ENTITY_BEFORE_SAVE": "Înainte de salvare",
+    "LBL_ENTITY_AFTER_SAVE": "După salvare"
   }
 }

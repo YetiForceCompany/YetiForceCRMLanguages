@@ -9,8 +9,8 @@
     "LBL_EXCLUDE_MODULES": "Exclude modules",
     "LBL_EVENT_IS_ACTIVE": "Is active",
     "LBL_EDIT_VIEW_PRESAVE": "Valideer voordat het record wordt opgeslagen",
-    "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_ENTITY_CHANGE_STATE": "Status wijzigen",
+    "LBL_ENTITY_BEFORE_SAVE": "Voor het opslaan",
+    "LBL_ENTITY_AFTER_SAVE": "Na opslaan"
   }
 }

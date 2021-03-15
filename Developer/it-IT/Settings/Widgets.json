@@ -48,6 +48,8 @@
     "LBL_VIEW_TYPE": "Tipo visualizzazione",
     "LBL_VIEW_TYPE_INFO": "Modalità di visualizzazione del widget",
     "LBL_LIST": "Lista",
+    "LBL_CUSTOM_VIEW": "Custom views",
+    "LBL_CUSTOM_VIEW_INFO": "It allows adding additional conditions from module filters, the selection list will appear after choosing more than one.",
     "LBL_SUMMARY": "Sommario",
     "LBL_SELECT_BUTTON_INFO": "Abilita bottone per selezionare un record dal modulo relazionato",
     "LBL_CONDITION": "Condizione",
@@ -64,7 +66,8 @@
     "RelatedModuleChart": "Modulo correlato - grafico",
     "Documents": "Documenti",
     "LBL_SHOW_DOC_RELATIONS": "Elenco delle relazioni correlate",
-    "InventoryBlock": "Inventory block"
+    "InventoryBlock": "Inventory block",
+    "LBL_DEFAULT_ACTIVE": "Active by default"
   },
   "js": {
     "Loading data": "Caricamento ...",

@@ -48,6 +48,8 @@
     "LBL_VIEW_TYPE": "View",
     "LBL_VIEW_TYPE_INFO": "Widget display type.",
     "LBL_LIST": "Lijst",
+    "LBL_CUSTOM_VIEW": "Aangepaste weergaven",
+    "LBL_CUSTOM_VIEW_INFO": "Het maakt het mogelijk om extra voorwaarden toe te voegen aan de module filters, de selectielijst zal verschijnen na het kiezen van meer dan één.",
     "LBL_SUMMARY": "Overzicht",
     "LBL_SELECT_BUTTON_INFO": "Enable visible select button",
     "LBL_CONDITION": "Condition",
@@ -64,7 +66,8 @@
     "RelatedModuleChart": "Gerelateerde module - grafiek",
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
-    "InventoryBlock": "Inventory block"
+    "InventoryBlock": "Inventaris blok",
+    "LBL_DEFAULT_ACTIVE": "Standaard actief"
   },
   "js": {
     "Loading data": "Loading...",

@@ -48,6 +48,8 @@
     "LBL_VIEW_TYPE": "Widok",
     "LBL_VIEW_TYPE_INFO": "Sposób wyświetlenia wigdetu.",
     "LBL_LIST": "Lista",
+    "LBL_CUSTOM_VIEW": "Widoki spersonalizowane",
+    "LBL_CUSTOM_VIEW_INFO": "Pozwala na dodanie dodatkowych warunków z filtrów modułów, lista wyboru pojawi się po wybraniu więcej niż jednego.",
     "LBL_SUMMARY": "Podsumowanie",
     "LBL_SELECT_BUTTON_INFO": "Włącz pokazywanie przycisku wybierz",
     "LBL_CONDITION": "Warunek",
@@ -64,7 +66,8 @@
     "RelatedModuleChart": "Powiązany moduł - wykres",
     "Documents": "Dokumenty",
     "LBL_SHOW_DOC_RELATIONS": "Lista z powiązanych relacji",
-    "InventoryBlock": "Blok inwentarza"
+    "InventoryBlock": "Blok inwentarza",
+    "LBL_DEFAULT_ACTIVE": "Domyślnie aktywny"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

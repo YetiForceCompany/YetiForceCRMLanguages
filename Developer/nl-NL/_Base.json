@@ -1279,7 +1279,7 @@
     "LBL_NUMBER_OF_FOUND_MAIL_ADDRESSES": "Number of found e-mail addresses",
     "LBL_NUMBER_OF_FOUND_DUPLICATE_MAIL": "Number of omitted duplicate e-mails",
     "LBL_NUMBER_OF_SELECTED_RECORDS": "Number of selected records",
-    "LBL_EMAIL_LIST": "List of e-mail addresses",
+    "LBL_EMAIL_LIST": "Lijst met e-mailadressen",
     "LBL_EMAIL_ADRESS": "E-mail address",
     "LBL_EMAIL_TEMPLATE": "E-mail template",
     "LBL_MASS_SEND_EMAIL_INFO": "All e-mails are queued and sent in CRON.",
@@ -1335,8 +1335,8 @@
     "LBL_YETIFORCE_NEWSLETTER": "Newsletter",
     "LBL_YETIFORCE_NEWSLETTER_FILL_DATA": "Fill in the required information",
     "LBL_YETIFORCE_NEWSLETTER_ERROR": "No e-mail address was added to company details. If you want to receive newsletter %s.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Deze functionaliteit is beschikbaar na registratie.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Het systeem is niet geregistreerd. Registreer uw YetiForce CRM om toegang te hebben tot dit deel van het systeem.",
     "LBL_START": "Start",
     "LBL_END": "End",
     "LBL_AUTOMATIC": "Automatic",
@@ -1475,10 +1475,10 @@
     "BTM_GOTO_YETIFORCE_DOCUMENTATION": "Go to YetiForce documentation",
     "LBL_NOT_FILLED_MANDATORY_FIELDS": "Sommige vereiste velden zijn niet ingevuld",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Sluit",
-    "LBL_VISIT_PURPOSE_ALERT": "Warning, window visible only to the administrator.\nWe do not recommend working on the admin account, this should only be used to manage CRM.\nThe window can be disabled in the configuration file. ",
+    "LBL_VISIT_PURPOSE_ALERT": "Waarschuwing, venster alleen zichtbaar voor de beheerder.\nHet is raadzaam niet te werken aan de admin account, dit moet alleen worden gebruikt om CRM te beheren.\nHet venster kan worden uitgeschakeld in het configuratiebestand. ",
     "LBL_MASS_MAIL_NOTES": "Additional information",
-    "LBL_MASS_MAIL_NOTES_INFO": "Information from this field can be added to the email contents by using the following variable  in the template: $(params : massMailNotes)$",
-    "LBL_RECORDS_FROM_RELATION": "Records from relation"
+    "LBL_MASS_MAIL_NOTES_INFO": "Informatie uit dit veld kan worden toegevoegd aan de inhoud van de e-mail door gebruik te maken van de volgende variabele in de template: $(params: massa MailNotes)$",
+    "LBL_RECORDS_FROM_RELATION": "Records met betrekking relatie"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1935,6 +1935,6 @@
     "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket",
     "JS_MEETING_URL_CHANGED": "Vergadering URL is gewijzigd",
     "JS_ENTER_A_REASON": "Enter a reason",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Er is geen informatie over het te wijzigen record"
   }
 }

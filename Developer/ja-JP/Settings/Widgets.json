@@ -48,6 +48,8 @@
     "LBL_VIEW_TYPE": "表示",
     "LBL_VIEW_TYPE_INFO": "ウィジェットの表示タイプ",
     "LBL_LIST": "リスト",
+    "LBL_CUSTOM_VIEW": "Custom views",
+    "LBL_CUSTOM_VIEW_INFO": "It allows adding additional conditions from module filters, the selection list will appear after choosing more than one.",
     "LBL_SUMMARY": "概要",
     "LBL_SELECT_BUTTON_INFO": "表示選択ボタンを有効にする",
     "LBL_CONDITION": "条件",
@@ -64,7 +66,8 @@
     "RelatedModuleChart": "Related module - chart",
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
-    "InventoryBlock": "Inventory block"
+    "InventoryBlock": "Inventory block",
+    "LBL_DEFAULT_ACTIVE": "Active by default"
   },
   "js": {
     "Loading data": "読み込み中...",

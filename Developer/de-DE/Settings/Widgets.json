@@ -48,6 +48,8 @@
     "LBL_VIEW_TYPE": "Sicht",
     "LBL_VIEW_TYPE_INFO": "Widget Anzeigeart.",
     "LBL_LIST": "Liste",
+    "LBL_CUSTOM_VIEW": "Custom views",
+    "LBL_CUSTOM_VIEW_INFO": "It allows adding additional conditions from module filters, the selection list will appear after choosing more than one.",
     "LBL_SUMMARY": "Zusammenfassung",
     "LBL_SELECT_BUTTON_INFO": "Aktivieren Sichtbarkeit Wählen Button",
     "LBL_CONDITION": "Bedingung",
@@ -64,7 +66,8 @@
     "RelatedModuleChart": "Ähnliches Modul - Diagramm",
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
-    "InventoryBlock": "Inventory block"
+    "InventoryBlock": "Inventory block",
+    "LBL_DEFAULT_ACTIVE": "Active by default"
   },
   "js": {
     "Loading data": "Laden...",

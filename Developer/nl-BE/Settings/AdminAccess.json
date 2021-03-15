@@ -13,8 +13,8 @@
     "FL_PURPOSE": "Doel",
     "FL_USER": "Gebruiker",
     "FL_BASE_USER": "Basis gebruiker",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Login visit purpose",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?"
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Login bezoek doel",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Wilt u het bezoekvenster voor beheerders activeren wanneer ze inloggen op het systeem?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Veranderingen opgeslagen"

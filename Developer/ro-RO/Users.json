@@ -401,9 +401,9 @@
     "LBL_VISIT_PURPOSE_INFO": "Enter visit purpose"
   },
   "js": {
-    "JS_DELETE_USER_CONFIRMATION": "When a User is deleted, the user will be marked as \"Inactive\" and no new records can be assigned to the User, and the user will not be able to login. Are you sure you want to delete?",
-    "JS_DELETE_USER_PERMANENT_CONFIRMATION": "Are you sure you want to delete user permanently?",
-    "JS_RESTORE_CONFIRMATION": "Are you sure you want to restore user?",
+    "JS_DELETE_USER_CONFIRMATION": "Când un utilizator este şters, utilizatorul va fi marcat ca \"Inactiv\" şi nici o înregistrare nouă nu poate fi atribuită utilizatorului, iar utilizatorul nu se va putea autentifica. Sunteţi sigur că doriţi să ştergeţi?",
+    "JS_DELETE_USER_PERMANENT_CONFIRMATION": "Sunteţi sigur că doriţi să ştergeţi definitiv utilizatorul?",
+    "JS_RESTORE_CONFIRMATION": "Sunteţi sigur că doriţi să restauraţi utilizatorul?",
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separatorul de zecimale si separatorul de grupuri nu poate fi acelasi.",
     "JS_ENTER_CONFIRMATION_PASSWORD": "Va rugam introduceti confirmarea parolei dvs.",
     "JS_REENTER_PASSWORDS": "Please re-enter passwords.  The \"new password\" and \"confirm password\" values do not match.",

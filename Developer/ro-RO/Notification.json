@@ -2,7 +2,7 @@
   "php": {
     "Notification": "Notificare",
     "SINGLE_Notification": "Notificare",
-    "LBL_CHANGE_SAVE": "Every change must be saved",
+    "LBL_CHANGE_SAVE": "Fiecare modificare trebuie salvată",
     "LBL_NOTIFICATION_CONTENTS": "Continut notificare",
     "FL_TITLE": "titlu",
     "LBL_NOTIFICATION_INFORMATION": "Informatii de baza",

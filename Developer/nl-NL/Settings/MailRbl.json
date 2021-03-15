@@ -1,9 +1,9 @@
 {
   "php": {
     "MailRbl": "RBL mail servers",
-    "LBL_BY_NAME": "To",
-    "LBL_BY_HOST_NAME": "Outgoing host name",
-    "LBL_BY_IP": "Outgoing IP",
+    "LBL_BY_NAME": "Aan",
+    "LBL_BY_HOST_NAME": "Uitgaande hostnaam",
+    "LBL_BY_IP": "Uitgaande IP",
     "LBL_MAIL_RBL": "RBL mail servers",
     "LBL_MAIL_RBL_DESCRIPTION": "Configureer RBL e-mailservers om spam te detecteren en vertrouwde afzenders te definiëren.",
     "BTN_SEND_REPORT": "Send a report",
@@ -13,10 +13,10 @@
     "LBL_FRAUD_MONEY_SCAM": "[Fraud] Money scam",
     "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] An attempt to persuade people to buy a product or service",
-    "LBL_FROM_NAME": "From",
-    "LBL_FROM_HOST_NAME": "Incoming host name",
-    "LBL_FROM_IP": "Incoming IP",
-    "LBL_EXTRA_WITH": "Additional information",
+    "LBL_FROM_NAME": "van",
+    "LBL_FROM_HOST_NAME": "Inkomende hostnaam",
+    "LBL_FROM_IP": "Inkomend IP",
+    "LBL_EXTRA_WITH": "Extra informatie",
     "LBL_EXTRA_COMMENTS": "Protocol",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] An attempt to impersonate another person",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Security] An attempt to persuade the recipient to open a resource from outside the organization",
@@ -98,18 +98,18 @@
     "LBL_LIST_RECORD_ERRORS": "Verkeerd IP-adres",
     "LBL_PUBLIC_BLACK_LIST": "Zwarte lijst van IP-adressen",
     "LBL_PUBLIC_WHITE_LIST": "Witte lijst van IP-adressen",
-    "LBL_IP_EXISTING_IN_RBL": "IP address %s exists in %s, cancel the existing report in order to add a new one.",
-    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Accept automatically",
-    "LBL_BTN_ACCEPT_MANUALLY": "Accept manually",
-    "LBL_BTN_SEND_AUTOMATICALLY": "Send automatically",
-    "LBL_BTN_SEND_MANUALLY": "Send manually"
+    "LBL_IP_EXISTING_IN_RBL": "IP adres %s bestaat in %s, annuleer het bestaande rapport om een nieuwe toe te voegen.",
+    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Automatisch accepteren",
+    "LBL_BTN_ACCEPT_MANUALLY": "Handmatig accepteren",
+    "LBL_BTN_SEND_AUTOMATICALLY": "Automatisch verzenden",
+    "LBL_BTN_SEND_MANUALLY": "Handmatig verzenden"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Show details",
     "BTN_STATUS_ACTION_ACCEPT": "Accept",
     "BTN_STATUS_ACTION_REJECT": "Reject",
     "BTN_DELETE": "Verwijderen",
-    "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report (modal window)",
-    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Send a report (no confirmation)"
+    "BTN_STATUS_ACTION_SEND_REQUEST": "Stuur een rapport (modal window)",
+    "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Stuur een rapport (geen bevestiging)"
   }
 }
