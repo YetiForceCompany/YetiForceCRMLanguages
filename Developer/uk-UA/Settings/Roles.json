@@ -38,7 +38,7 @@
     "LBL_PERMITTED_BY_READ_ACCESS": "Доступ до запису",
     "LBL_PERMITTED_BY_SHARING": "Access permission exceptions",
     "LBL_INACTIVE": "Неактивний",
-    "LBL_ONLY_PARENT": "Parent record",
+    "LBL_ONLY_PARENT": "Основний запис",
     "LBL_ACCORDING_TO_HIERARCHY": "Відповідно до ієрархії",
     "LBL_SHOW_GLOBAL_SEARCH_ADVANCED": "Увімкнути розширений пошук",
     "LBL_BLOCK_COPY": "Блокувати копіювання",

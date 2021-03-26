@@ -41,7 +41,7 @@
     "LBL_USER_EXISTS": "Співробітник вже існує",
     "FL_POSITION": "Посада",
     "FL_SECONDARY_PHONE": "Додатковий телефон",
-    "FL_RBH": "RBH",
+    "FL_RBH": "Вартість людино-години",
     "FL_ORGANIZATION_STRUCTURE": "Організаційна структура"
   }
 }

@@ -44,7 +44,7 @@
 		"LBL_SECURITY": "Безпека",
 		"LBL_NO_FILE_WRITE_RIGHTS": "No file write rights",
 		"LBL_SECURITY_CONF": "Налаштування безпеки",
-		"LBL_SECURITY_CONF_DESC": "Detected errors in the configuration of parameters related to system security. There may be problems with the system, or the entered data may be damaged or deleted. More information can be found in the article %s. Adjust the following parameters:",
+		"LBL_SECURITY_CONF_DESC": "Виявлені помилки у налаштуванні параметрів безпеки системи. У системі можуть виникнути проблеми або введені дані можуть бути пошкоджені чи видалені. Більше інформації можна знайти в статті %s. Виберіть наступні параметри:",
 		"LBL_LIB_REQUIRED": "Обов'язково",
 		"LBL_LIB_OPTIONAL": "За бажанням",
 		"LBL_CRON_STATE": "Cron mechanism status",

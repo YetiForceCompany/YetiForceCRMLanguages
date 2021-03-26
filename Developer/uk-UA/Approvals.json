@@ -1,7 +1,7 @@
 {
   "php": {
-    "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
+    "Approvals": "Погодження",
+    "SINGLE_Approvals": "Погодження",
     "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
     "LBL_BASIC_INFORMATION": "Основна інформція",
     "LBL_DESCRIPTION_INFORMATION": "Детальний опис",

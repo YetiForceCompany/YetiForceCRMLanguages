@@ -315,7 +315,7 @@
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La fonctionnalité %s n'a pas encore été activée ou des modifications de la configuration ont été effectuées et la fonctionnalité ne fonctionne pas correctement. La fonctionnalité doit être réactivée pour fonctionner correctement.",
     "LBL_REQUIRES_INTERVENTION": "Nécessite une intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activer",
-    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
+    "LBL_ONLY_TO_FIRST_LIST": "Seulement au premier de la liste"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorisation accordée",

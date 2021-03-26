@@ -256,7 +256,7 @@
     "LBL_FORMAT": "Format redaka",
     "LBL_ENGINE": "Motor",
     "LBL_COLLATION": "Format redaka",
-    "LBL_LAMP_CONFIG_FILES": "LAMP config files"
+    "LBL_LAMP_CONFIG_FILES": "LAMP konfiguracijske datoteke"
   },
   "js": {
     "JS_SPEED_TEST_START": "Provjeravam brzinu..."

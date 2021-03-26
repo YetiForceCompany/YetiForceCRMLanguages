@@ -4,7 +4,7 @@
     "SINGLE_ActivityRegister": "Завдання",
     "LBL_BASIC_INFORMATION": "Основна інформація",
     "FL_SUBJECT": "Тема",
-    "FL_PARENT_ACTIVITY": "Первинне завдання",
+    "FL_PARENT_ACTIVITY": "Основне завдання",
     "FL_STATUS": "Статус",
     "PLL_DRAFT": "Чeрнетка",
     "PLL_WAITING_FOR_ACCEPTANCE": "Очікує підтвердження",

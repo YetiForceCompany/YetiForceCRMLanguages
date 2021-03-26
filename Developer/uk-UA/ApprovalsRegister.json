@@ -1,7 +1,7 @@
 {
   "php": {
-    "ApprovalsRegister": "Approvals register",
-    "SINGLE_ApprovalsRegister": "Approval Register",
+    "ApprovalsRegister": "Реєстр схвалень",
+    "SINGLE_ApprovalsRegister": "Реєстр схвалення",
     "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
     "LBL_BASIC_INFORMATION": "Основна інформція",
     "LBL_DESCRIPTION_INFORMATION": "Детальний опис",
@@ -15,7 +15,7 @@
     "PLL_FOR_VERIFICATION": "Для перевірки",
     "PLL_ACCEPTED": "Погоджено",
     "PLL_REJECTED": "Відхилено",
-    "PLL_ACCEPTANCE": "Acceptance",
-    "PLL_RESIGNATION": "Resignation"
+    "PLL_ACCEPTANCE": "Визнання",
+    "PLL_RESIGNATION": "Відставка"
   }
 }

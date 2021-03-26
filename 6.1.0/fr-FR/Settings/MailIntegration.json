@@ -1,6 +1,6 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
+    "MailIntegration": "Panneau d'intégration de mail",
     "LBL_MAIL_INTEGRATION": "Mail integration panel",
     "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
     "LBL_OUTLOOK": "Outlook add-ins",

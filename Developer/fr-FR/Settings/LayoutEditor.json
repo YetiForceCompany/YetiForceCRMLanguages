@@ -199,8 +199,8 @@
     "LBL_NON_CUSTOM_FIELD_CANNOT_DELETE": "Impossible de supprimer un champ non personnalisé",
     "LBL_EDIT_MAY_AFFECT_STABILITY": "La modification du champ peut affecter la stabilité du système.",
     "LBL_EDIT_MAY_AFFECT_STABILITY_DESC": "Seules les personnes possédant une expertise technique devraient créer et modifier des champs dans le système. La modification du champ peut affecter la stabilité du système. Nous vous recommandons de le faire dans un environnement de test.",
-    "LBL_RELATED_CUSTOM_VIEW": "Filters",
-    "LBL_RCV_PRIVATE": "Private filters (only my filters)",
+    "LBL_RELATED_CUSTOM_VIEW": "Filtres",
+    "LBL_RCV_PRIVATE": "Filtres privés (uniquement mes filtres)",
     "LBL_RCV_ALL": "All filters from the module",
     "LBL_FILTERS_FROM_MODULE": "Filters from the module"
   },

@@ -19,13 +19,13 @@
     "LBL_CATEGORY": "Kategorie",
     "LBL_CODE": "Code",
     "LBL_BASE_USER": "Basisbenutzer",
-    "LBL_DEST_USER": "Target user",
+    "LBL_DEST_USER": "Zielbenutzer",
     "LBL_USER_AGENT": "User-Agent",
-    "LBL_MAILS_NOT_SENT": "E-mails not sent",
-    "LBL_BATCH_NAME": "Method name",
-    "LBL_PARAMS": "Params",
+    "LBL_MAILS_NOT_SENT": "E-Mails nicht versendet",
+    "LBL_BATCH_NAME": "Methodenname",
+    "LBL_PARAMS": "Einstellungen",
     "LBL_PROFILING": "Profiling",
-    "LBL_DURATION": "Duration",
+    "LBL_DURATION": "Dauer",
     "LBL_LOGS_VIEWER": "Protokoll-Betrachter",
     "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }

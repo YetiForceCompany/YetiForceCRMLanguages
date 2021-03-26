@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsque la même correction de note d'expédition de marchandises existe déjà",
     "IGRNC_IGRNEXIST_HANDLER": "Correction de la note de réception de marchandises en double",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsque la même correction de note de marchandises reçues existe déjà.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation du temps de travail, elle ne peut pas excéder 24 heures",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Temps de travail limité à 24 heures"
   }
 }

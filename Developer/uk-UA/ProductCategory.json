@@ -1,10 +1,10 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
+    "ProductCategory": "Категорія товару",
+    "SINGLE_ProductCategory": "Категорія товару",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
     "LBL_BASIC_INFORMATION": "Основна інформція",
-    "FL_PARENT_CATEGORY": "Parent category",
+    "FL_PARENT_CATEGORY": "Коренева категорія",
     "LBL_CHILD_PRODUCTCATEGORY": "Підкатегорії",
     "FL_ACTIVE": "Активно",
     "FL_CATEGORY_NAME": "Назва категорії"

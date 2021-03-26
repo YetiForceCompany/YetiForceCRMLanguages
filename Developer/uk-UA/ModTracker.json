@@ -36,7 +36,7 @@
     "LBL_REMOVED": "видалено",
     "LBL_CONVERTED_FROM_LEAD": "Перетворено з лідів",
     "LBL_DELETED": "Видалений запис",
-    "LBL_DELETED_VALUE": "Deleted value",
+    "LBL_DELETED_VALUE": "Видалене значення",
     "LBL_ACTIVE": "Відновлений запис",
     "LBL_ARCHIVED": "Заархівований запис",
     "LBL_TRANSFER_EDIT": "запис змінено в процесі передачі",
@@ -49,6 +49,6 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Оновлення налаштувань віджетів",
     "LBL_PERSON_MAKING_CHANGES": "Особа, яка вносить зміни",
     "LBL_MODULES": "Модулі",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Показані приховані дані"
   }
 }

@@ -72,7 +72,7 @@
     "LBL_SYSTEM_TOOLS": "Системні інструменти",
     "LBL_PASSWORD": "Пароль",
     "LBL_PICKLIST_DEPENDENCY_DESCRIPTION": "Setup dependency between Picklist values in each module",
-    "LBL_PICKLIST_DEPENDENCY_SETUP": "Fields – Picklists/Relations",
+    "LBL_PICKLIST_DEPENDENCY_SETUP": "Поля - Залежні списки",
     "LBL_PICKLIST_DESCRIPTION": "Customize Picklist values in each module",
     "LBL_PICKLIST_EDITOR": "Поля - Списки вибору",
     "LBL_PIN": "закріпити",
