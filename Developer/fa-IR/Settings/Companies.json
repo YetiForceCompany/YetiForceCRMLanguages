@@ -49,7 +49,9 @@
     "LBL_REGISTRATION_DATA": "اطلاعات ثبت‌نام",
     "LBL_BRAND_DATA": "اطلاعات برند",
     "LBL_BRAND_DATA_INFO": "بلوک  هنگام خرید YetiForce Branding مورد استفاده قرار می‌گیرد و به شما امکان می دهد داده های سفارشی را که در پایین صفحه قرار دارد قابل مشاهده وارد نمایید.",
-    "LBL_BILLING_DATA": "اطلاعات صورتحساب"
+    "LBL_BILLING_DATA": "اطلاعات صورتحساب",
+    "LBL_SYSTEM_NOT_REGISTERED": "The YetiForce system has not been properly registered or the provided data is incorrect.",
+    "LBL_PAID_FN_NO_SUBSCRIPTION": "Paid functionalities have been enabled in the system %s, please purchase a subscription."
   },
   "js": {
     "JS_ENTER_REGISTRATION_KEY": "کد ثبت‌نام را وارد کنید",

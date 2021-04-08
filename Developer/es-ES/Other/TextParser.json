@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "El usuario filtró la lista de registros",
     "LBL_SUMMARY_FIELDS": "Lista de campos visibles en el resumen",
     "LBL_RELATED_ATTACHMENTS": "Related attachments",
-    "LBL_DISPLAY_BARCODE": "Barcode"
+    "LBL_DISPLAY_BARCODE": "Barcode",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
   }
 }

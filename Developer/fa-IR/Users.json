@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "گذرواژه + 2FA",
     "BTN_MASS_OFF_2FA": "غیرفعال‌سازی انبوه 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "در حالت آزمایشی ، 2FA فقط برای پیش نمایش است.",
-    "LBL_2FA_TOTP_DESC": "برای تولید کدهای یکبار مصرف به برنامه مناسب نیاز دارید.\nمی توان از طریق رایانه یا تلفن استفاده کرد.\nدر زیر برخی از پیوندها به محبوب ترین برنامه ها وجود دارد",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "ماژول پیش فرض",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default module",
     "LBL_GLOBAL_SEARCH_SETTINGS": "تظیمات جستجوی سراسری",

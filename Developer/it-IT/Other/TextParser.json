@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "Elenco record filtrati dagli utenti",
     "LBL_SUMMARY_FIELDS": "Elenco dei campi visibili nel riepilogo",
     "LBL_RELATED_ATTACHMENTS": "Allegati correlati",
-    "LBL_DISPLAY_BARCODE": "Codice a barre"
+    "LBL_DISPLAY_BARCODE": "Codice a barre",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)"
   }
 }

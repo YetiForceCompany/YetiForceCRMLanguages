@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "Пароль + 2FA",
     "BTN_MASS_OFF_2FA": "Масове вимкнення 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "Демо режим 2FA для попереднього перегляду тільки.",
-    "LBL_2FA_TOTP_DESC": "Для того, щоб згенерувати одноразові коди, вам потрібна відповідна програма.\nВіна може використовуватись на комп'ютері або на телефоні.\nНижче наведені посилання на найбільш популярні програми",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "Стандартний модуль",
     "FL_OVERRIDE_SEARCH_MODULE": "Примусово використовувати модуль за замовчуванням",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Глобальні параметри пошуку",

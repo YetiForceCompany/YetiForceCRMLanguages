@@ -313,6 +313,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Λίστα επιλογών ρυθμίσεων",
     "LBL_PREFIX": "Πρόθεμα",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Η λειτουργικότητα %s δεν έχει ενεργοποιηθεί ακόμα ή έχουν πραγματοποιηθεί αλλαγές στη διαμόρφωση και η λειτουργικότητα δεν λειτουργεί σωστά.\nΗ λειτουργικότητα πρέπει να ξαναενεργοποιηθεί για να λειτουργήσει σωστά.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Απαιτεί παρέμβαση",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση",
     "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"

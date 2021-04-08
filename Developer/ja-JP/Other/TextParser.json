@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "ユーザーがフィルタされたレコードリスト",
     "LBL_SUMMARY_FIELDS": "概要に表示されるフィールドのリスト",
     "LBL_RELATED_ATTACHMENTS": "Related attachments",
-    "LBL_DISPLAY_BARCODE": "Barcode"
+    "LBL_DISPLAY_BARCODE": "Barcode",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
   }
 }

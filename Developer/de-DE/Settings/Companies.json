@@ -49,7 +49,9 @@
     "LBL_REGISTRATION_DATA": "Registrierungsdaten",
     "LBL_BRAND_DATA": "Markendaten",
     "LBL_BRAND_DATA_INFO": "Block, der beim Kauf von YetiForce Branding verwendet wird, erlaubt es Ihnen, benutzerdefinierte Daten in der Fußzeile sichtbar zu machen.",
-    "LBL_BILLING_DATA": "Rechnungsdaten"
+    "LBL_BILLING_DATA": "Rechnungsdaten",
+    "LBL_SYSTEM_NOT_REGISTERED": "The YetiForce system has not been properly registered or the provided data is incorrect.",
+    "LBL_PAID_FN_NO_SUBSCRIPTION": "Paid functionalities have been enabled in the system %s, please purchase a subscription."
   },
   "js": {
     "JS_ENTER_REGISTRATION_KEY": "Registrierungsschlüssel eingeben",

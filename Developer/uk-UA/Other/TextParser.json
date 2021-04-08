@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "Список відфільтрованих записів користувача",
     "LBL_SUMMARY_FIELDS": "Список полів, видимих у підсумку",
     "LBL_RELATED_ATTACHMENTS": "Пов'язані вкладення",
-    "LBL_DISPLAY_BARCODE": "Штрих-код"
+    "LBL_DISPLAY_BARCODE": "Штрих-код",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
   }
 }

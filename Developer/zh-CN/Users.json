@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "密码 + 2FA",
     "BTN_MASS_OFF_2FA": "批量禁用2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "在演示模式中, 2FA 只用于预览。",
-    "LBL_2FA_TOTP_DESC": "生成基于时间的一次性密码（ Totp）双重身份验证（2FA）激活码，可以让你在计算机或电话上使用支持它的应用。下面是一些流行的2FA Totp应用链接。",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "默认模块",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default module",
     "LBL_GLOBAL_SEARCH_SETTINGS": "全局搜索设置",

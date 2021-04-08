@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "Liste des enregistrements filtrés par l'utilisateur",
     "LBL_SUMMARY_FIELDS": "Liste des champs visibles dans le résumé",
     "LBL_RELATED_ATTACHMENTS": "Pièces jointes connexes",
-    "LBL_DISPLAY_BARCODE": "Code-barres"
+    "LBL_DISPLAY_BARCODE": "Code-barres",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
   }
 }

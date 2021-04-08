@@ -13,9 +13,9 @@
     "FL_STATUS": "Status",
     "PLL_PLANNED": "Planned",
     "PLL_ON_HOLD": "On hold",
-    "PLL_FOR_VERIFICATION": "For verification",
+    "PLL_FOR_VERIFICATION": "Pour vérification",
     "PLL_IN_APPROVAL": "In approval",
-    "PLL_ACCEPTED": "Accepted",
+    "PLL_ACCEPTED": "Accepté",
     "PLL_COMPLETED": "Completé",
     "PLL_CANCELLED": "Annulée"
   }

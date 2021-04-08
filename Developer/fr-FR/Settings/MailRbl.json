@@ -10,9 +10,9 @@
     "LBL_SPAM_SINGLE_UNWANTED_MESSAGE": "[SPAM] Message unique non désiré",
     "LBL_SPAM_MASS_UNWANTED_MESSAGE": "[SPAM] Mass unwanted message",
     "LBL_SPAM_SENDING_UNSOLICITED_MESSAGE_REPEATEDLY": "[SPAM] Sending an unsolicited message repeatedly",
-    "LBL_FRAUD_MONEY_SCAM": "[Fraud] Money scam",
-    "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
-    "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] An attempt to persuade people to buy a product or service",
+    "LBL_FRAUD_MONEY_SCAM": "[Fraud] Arnaque monétaire",
+    "LBL_FRAUD_PHISHING": "[Fraud] Hameçonnage",
+    "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] Une tentative de persuader les gens d'acheter un produit ou un service",
     "LBL_FROM_NAME": "De",
     "LBL_FROM_HOST_NAME": "Serveur de courrier entrant",
     "LBL_FROM_IP": "IP entrante",
@@ -24,8 +24,8 @@
     "LBL_SECURITY_INFRASTRUCTURE_AND_APPLICATION_SCANNING": "[Security] Infrastructure and application scanning",
     "LBL_SECURITY_ATTACK_INFRASTRUCTURE_OR_APPLICATION": "[Security] Attack on infrastructure or application",
     "LBL_SECURITY_OVERLOADING_INFRASTRUCTURE_OR_APPLICATION": "[Security] Overloading infrastructure or application",
-    "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_WORDS": "[Other] The message contains inappropriate words",
-    "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_MATERIALS": "[Other] The message contains inappropriate materials",
+    "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_WORDS": "[Other] Le message contient des mots inappropriés",
+    "LBL_OTHER_MESSAGE_CONTAINS_INAPPROPRIATE_MATERIALS": "[Other] Le message contient des mots inappropriés",
     "LBL_OTHER_MALICIOUS_MESSAGE": "[Other] Malicious message",
     "LBL_TRUSTED_SENDER": "[Whitelist] Trusted sender",
     "LBL_REPORT_IP": "Ip",
@@ -102,7 +102,8 @@
     "LBL_BTN_ACCEPT_AUTOMATICALLY": "Accepter automatiquement",
     "LBL_BTN_ACCEPT_MANUALLY": "Accepter manuellement",
     "LBL_BTN_SEND_AUTOMATICALLY": "Envoyer automatiquement",
-    "LBL_BTN_SEND_MANUALLY": "Envoyer manuellement"
+    "LBL_BTN_SEND_MANUALLY": "Envoyer manuellement",
+    "LBL_SYNCH_PAID_FEATURE": "Synchronization with the public RBL server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) is a paid feature. In order to activate the synchronization and to be constantly updated with new hazardous mail servers please go to %s"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Voir les détails",

@@ -67,7 +67,7 @@
         "crowdinCode": "fr",
         "name": "French",
         "progress": 98,
-        "time": "2021-03-26 11:33:45"
+        "time": "2021-04-08 13:49:14"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -102,7 +102,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 99,
-        "time": "2020-12-02 09:03:06"
+        "time": "2021-04-08 13:53:05"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -130,14 +130,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2021-03-15 14:56:42"
+        "time": "2021-04-08 13:48:36"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 53,
-        "time": "2021-03-15 14:56:09"
+        "time": "2021-04-08 13:47:59"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -208,6 +208,13 @@
         "name": "Serbian (Latin)",
         "progress": 88,
         "time": "2020-12-02 09:10:19"
+    },
+    "sv-SE": {
+        "prefix": "sv-SE",
+        "crowdinCode": "sv-SE",
+        "name": "Swedish",
+        "progress": 5,
+        "time": "2021-04-08 14:02:55"
     },
     "tr-TR": {
         "prefix": "tr-TR",

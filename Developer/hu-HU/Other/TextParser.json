@@ -70,6 +70,7 @@
     "LBL_USER_RECORD_FILTERED_LIST": "Felhasználói szűrt rekordok listája",
     "LBL_SUMMARY_FIELDS": "Mezők listája látható az összefoglalóban",
     "LBL_RELATED_ATTACHMENTS": "Related attachments",
-    "LBL_DISPLAY_BARCODE": "Barcode"
+    "LBL_DISPLAY_BARCODE": "Barcode",
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
   }
 }

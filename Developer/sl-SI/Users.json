@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "Geslo + 2FA",
     "BTN_MASS_OFF_2FA": "Množično onemogočiti 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "V demo načinu, 2FA je za samo predogled.",
-    "LBL_2FA_TOTP_DESC": "Za ustvarjanje kod za enkratno uporabo potrebujete ustrezno aplikacijo.\nUporablja se lahko v računalniku ali na telefonu.\nSpodaj je nekaj povezav do najbolj priljubljenih aplikacij",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "Privzeti modul",
     "FL_OVERRIDE_SEARCH_MODULE": "Force the default module",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Globalne nastavitve iskanja",

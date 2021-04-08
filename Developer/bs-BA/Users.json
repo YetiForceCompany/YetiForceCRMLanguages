@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "Lozinka + 2FA",
     "BTN_MASS_OFF_2FA": "Masa isključivanje 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "U demo režimu 2FA je samo za pregled.",
-    "LBL_2FA_TOTP_DESC": "Za generiranje kodova za jednu upotrebu potrebna vam je odgovarajuća aplikacija.\nMože se koristiti na računaru ili telefonu.\nIspod su neke veze do najpopularnijih aplikacija",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "Zadani modul",
     "FL_OVERRIDE_SEARCH_MODULE": "Nametnite zadani modul",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Postavke globalnog pretraživanja",

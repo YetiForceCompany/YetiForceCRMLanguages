@@ -204,7 +204,7 @@
     "LBL_MESSAGE": "Message",
     "LBL_MESSAGE_INFO": "Le texte du message prend en charge les variables, le nom de la variable peut être égal à un nom de champ système ou à des fonctions spéciales. Exemples de variables pour les champs: <strong>$accountname$</strong> - Valeur du champ <strong>?countname%</strong> - Étiquette de champ Fonctions spéciales :",
     "LBL_WATCHING_USERS": "Utilisateurs regardant",
-    "LBL_WEBHOOK_URL": "URL address",
+    "LBL_WEBHOOK_URL": "Adresse URL",
     "LBL_HTTP_AUTH_LOGIN": "Login d'authentification http",
     "LBL_HTTP_AUTH_PASSWORD": "Mot de passe d'authentification Http",
     "LBL_FORMAT": "Format des données",

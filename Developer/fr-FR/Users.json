@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "Mot de passe   2FA",
     "BTN_MASS_OFF_2FA": "Désactivation glabal 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "En mode démo, 2FA est uniquement pour test.",
-    "LBL_2FA_TOTP_DESC": "Afin de générer des codes à usage unique, vous avez besoin de l'application appropriée, qui peut être utilisée sur un ordinateur ou sur un téléphone.Voici quelques liens vers les applications les plus populaires",
+    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
     "FL_DEFAULT_SEARCH_MODULE": "Module par défaut",
     "FL_OVERRIDE_SEARCH_MODULE": "Forcer le module par défaut",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Paramètres de recherche globale",

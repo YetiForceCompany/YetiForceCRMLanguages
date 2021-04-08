@@ -313,6 +313,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Picklisten-Sequenz-Einstellungen",
     "LBL_PREFIX": "Präfix",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Die %s -Funktionalität wurde noch nicht aktiviert oder es wurden Konfigurationsänderungen durchgeführt aufgund denen die Funktionalität nicht richtig funktioniert. Die Funktionalität muss reaktiviert werden, um korrekt zu funktionieren.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Benötigt Intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktivieren",
     "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
