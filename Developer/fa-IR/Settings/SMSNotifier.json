@@ -4,8 +4,6 @@
     "FL_STATUS": "وضعیت",
     "FL_SMSAPI_FROM": "نامه فرستنده",
     "FL_API_KEY": "کلید ‌Api",
-    "PLL_INACTIVE": "غیرفعال",
-    "PLL_ACTIVE": "فعال",
     "LBL_ADD_RECORD": "پیکربندی جدید",
     "LBL_SMSNOTIFIER": "پیکربندی سرویس‌ دهنده SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

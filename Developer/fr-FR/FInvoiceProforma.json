@@ -12,6 +12,7 @@
     "FL_NUMBER": "N° de facture",
     "FL_TOTAL": "HT",
     "FL_GROSS": "TTC",
-    "PLL_WIRE_TRANSFER": "Transfert électronique"
+    "PLL_WIRE_TRANSFER": "Transfert électronique",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

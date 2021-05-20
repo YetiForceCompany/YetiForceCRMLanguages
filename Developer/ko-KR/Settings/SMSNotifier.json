@@ -4,8 +4,6 @@
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "보낸 사람 이름",
     "FL_API_KEY": "Api key",
-    "PLL_INACTIVE": "Inactive",
-    "PLL_ACTIVE": "Active",
     "LBL_ADD_RECORD": "New configuration",
     "LBL_SMSNOTIFIER": "SMS provider configuration",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

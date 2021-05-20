@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
+    "LBL_ADD_RECORD": "Kayıt ekle",
     "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
     "LBL_DUPLICATES_EXIST": "Group name already exists",
     "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
+    "LBL_GROUP_NAME": "Grup adı",
     "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
     "LBL_TO_OTHER_GROUP": "To other group ",
     "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
     "SINGLE_Groups": "Group",
     "Users": "Users",
-    "Name": "Group name",
+    "Name": "Grup adı",
     "Description": "Description"
   },
   "js": {

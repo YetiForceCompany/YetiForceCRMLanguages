@@ -2,7 +2,7 @@
   "php": {
     "LBL_ADVANCED_PERMISSION": "Permissões Avançadas",
     "AdvancedPermission": "Permissões Avançadas",
-    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Custom permission configuration, grant or withdraw permissions to records.",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Configuração de permissão personalizada, conceder ou retirar permissões aos registros.",
     "LBL_NAME": "Nome da Regra",
     "LBL_MODULE": "Módulo",
     "LBL_ACTION": "Ação",

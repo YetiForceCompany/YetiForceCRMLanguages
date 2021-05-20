@@ -9,6 +9,7 @@
     "LBL_COUNTRY": "国",
     "LBL_CONDITIONS_OF_REGISTRATION": "以下のすべてのデータは真でなければなりません。それは、ライセンス条項に起因する製品の登録の必須条件です。 %s\n登録には、CRMシステムの実装に関与するすべての会社が必要です。 「対象ユーザー」には、本システムを利用する企業のデータを必ず記入してください。\nCRMを実装している会社がCRMを使用している会社と異なる場合、「サプライヤー」エントリタイプが存在する必要があります。\nCRMシステムとの統合が実行され、システムを統合した会社のデータを送信する必要がある場合は、「Integrator」エントリタイプが存在する必要があります。\nシステムが登録キーを正しく検証するためには、Cronがアクティブで適切に機能している必要があります。\n登録中に送信されたデータの有効性は、72時間以内に手動で検証されます。 虚偽のデータを提供すると、登録全体が拒否されます。 お待ちいただいてありがとうございます。\n  %s",
     "LBL_TYPE": "タイプ",
+    "LBL_TYPE_INFO": "\n- end user - a company that uses the CRM system \n- provider - a company that implements a CRM system for another company that will use it \n- integrator - a company that integrates the CRM system\n\n NOTE: If you are a provider/integrator and you want to register the CRM on behalf of your client, remember that both companies must be registered - your company as a vendor/integrator and your client’s company as an end user.",
     "LBL_TYPE_TARGET_USER": "エンドユーザー",
     "LBL_TYPE_INTEGRATOR": "インテグレーター",
     "LBL_CHANGING_COMPANY_NAME": "会社名を変更するたびに、再登録が必要です。",

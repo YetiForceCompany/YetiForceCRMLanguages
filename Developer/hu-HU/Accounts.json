@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Lezárt ügyfél",
     "PLL_BLACKLISTED_CLIENT": "Feketelistás ügyfél",
     "PLL_NATURAL_PERSON": "Magánszemély",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Egyéni vállalkozás",
     "PLL_GENERAL_PARTNERSHIP": "Betéti társaság",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Professional partnership",

@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Chưa thanh toán",
     "PLL_PAID": "Đã thanh toán",
     "PLL_OVERPAID": "Thanh toán thừa",
-    "PLL_UNDERPAID": "Thanh toán thiếu"
+    "PLL_UNDERPAID": "Thanh toán thiếu",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

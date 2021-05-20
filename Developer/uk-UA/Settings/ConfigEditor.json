@@ -6,7 +6,7 @@
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Максимальна кількість записів на сторінці у вигляді списку",
     "LBL_DEFAULT_LAYOUT": "Вигляд",
     "LBL_SHOWING_BREADCRUMBS": "Показати навігаційну смужку",
-    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
+    "LBL_TITLE_MAX_LENGTH": "Максимальна довжина символів у заголовку",
     "LBL_MINIMUM_CRON_FREQUENCY": "Мінімальна частота спрацювання Cron [хв] ",
     "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Максимальна кількість записів при масовому редагуванні",
     "LBL_BG_CLOSING_MODAL": "Увімкнути закриття модального вікна натисканням на фон",

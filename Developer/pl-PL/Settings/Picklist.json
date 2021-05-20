@@ -49,7 +49,8 @@
     "LBL_TIME_COUNTING_REACTION": "Czas reakcji",
     "LBL_TIME_COUNTING_RESOLVE": "Czas rozwiązania",
     "LBL_TIME_COUNTING_IDLE": "Czas oczekiwania",
-    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Pole nie jest polem statusu procesu."
+    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Pole nie jest polem statusu procesu.",
+    "LBL_IMPORT_VALUE": "Importuj wartości"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Wszystkie role zaznaczone",

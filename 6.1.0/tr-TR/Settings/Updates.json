@@ -1,10 +1,10 @@
 {
   "php": {
     "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
+    "LBL_YES": "Evet",
+    "LBL_NO": "Hayır",
+    "LBL_TIME": "Tarih",
+    "LBL_USER": "Kullanıcı adı",
     "LBL_FROM_VERSION": "From version",
     "LBL_TO_VERSION": "To version",
     "LBL_RESULT": "Status",
@@ -16,6 +16,6 @@
     "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
     "LBL_INSTALLED_PACKAGES": "Installed packages",
     "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_NAME_PACKAGES": "Paket adı"
   }
 }

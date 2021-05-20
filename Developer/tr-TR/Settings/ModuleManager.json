@@ -22,7 +22,7 @@
     "LBL_INVALID_IMPORT_TRY_AGAIN": " provided for module import! Try again.",
     "LBL_LICENSE_ACCEPT_AGREEMENT": "I accept the license agreement.",
     "LBL_LICENSE": "License",
-    "LBL_MODULE_NAME": "Bundle name",
+    "LBL_MODULE_NAME": "Paket ismi",
     "LBL_NO_LICENSE_PROVIDED": "No license provided",
     "LBL_NOT_FOUND": "Sorry, no extensions are currently available for the current version of your CRM",
     "LBL_PROCEED_WITH_IMPORT": "Do you want to proceed with the import?",
@@ -50,11 +50,11 @@
     "LBL_TOO_SMALL_UPLOAD_LIMIT": "Upload limit is too small",
     "LBL_TOO_SMALL_UPLOAD_LIMIT_DESC": "Upload limit is too small (%s) so the file cannot be uploaded to the server. It is recommended to check the system configuration %s",
     "LBL_CHECK_SERVER_CONFIG": "Sprawdź konfigurację serwera",
-    "LBL_CREATE_MODULE": "Create module",
+    "LBL_CREATE_MODULE": "Modül oluştur",
     "LBL_CREATING_MODULE": "Creating new module",
-    "LBL_ENTER_MODULE_NAME": "Module name",
+    "LBL_ENTER_MODULE_NAME": "Modül Adı",
     "LBL_ENTER_MODULE_LABEL": "Module label",
-    "LBL_ENTITY_FIELDNAME": "Entity field name",
+    "LBL_ENTITY_FIELDNAME": "Varlık alanı",
     "LBL_ENTITY_FIELDLABEL": "Entity field label",
     "LBL_MODULE_ALREADY_EXISTS_TRY_ANOTHER": "This module name already exists, try another",
     "LBL_INVALID_MODULE_NAME": "Invalid module name",
@@ -64,7 +64,7 @@
     "LBL_EXTENSION_MODULE": "Extensions module",
     "LBL_LANGUAGE_MODULE": "Language pack",
     "LBL_VIEW_MODULEIMPORT": "Import",
-    "LBL_LIBRARY_NAME": "Name",
+    "LBL_LIBRARY_NAME": "İsim",
     "LBL_LIBRARY_STATUS": "Status",
     "LBL_LIBRARY_URL": "Library repository address",
     "LBL_LIBRARY_DIR": "Library directory",
@@ -82,7 +82,7 @@
     "LBL_EXPORT_MODULE": "Export module",
     "LBL_PREMIUM_MODULE": "Premium module",
     "LBL_SETTINGS": "Settings",
-    "LBL_SAMPLE_LABEL": "Sample name"
+    "LBL_SAMPLE_LABEL": "Örnek adı"
   },
   "js": {
     "JS_UPDATED_MODULE": "Update Successful",
@@ -91,7 +91,7 @@
     "JS_IMPORT_SUCCESSFULL": "Installation Successful",
     "JS_FOR_INSTALLATION": "for installation",
     "JS_CLICK_HERE": "Click here",
-    "JS_ON": "On",
+    "JS_ON": "Açık",
     "JS_REMOVED_MODULE": "Removed module",
     "JS_SPECIAL_CHARACTERS_NOT_ALLOWED": "Special characters like & < > ' \" : , are not allowed"
   }

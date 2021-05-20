@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Klien ditutup",
     "PLL_BLACKLISTED_CLIENT": "Klien daftar hitam",
     "PLL_NATURAL_PERSON": "Individu pribadi",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Kepemilikan tunggal",
     "PLL_GENERAL_PARTNERSHIP": "Kemitraan terdaftar",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Kemitraan profesional",

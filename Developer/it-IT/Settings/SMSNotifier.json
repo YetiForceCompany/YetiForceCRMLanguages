@@ -4,8 +4,6 @@
     "FL_STATUS": "Stato",
     "FL_SMSAPI_FROM": "Nome mittente",
     "FL_API_KEY": "Chiave API",
-    "PLL_INACTIVE": "Inattivo",
-    "PLL_ACTIVE": "Attivo",
     "LBL_ADD_RECORD": "Aggiungi provider SMS",
     "LBL_SMSNOTIFIER": "SMS provider - Configurazione",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

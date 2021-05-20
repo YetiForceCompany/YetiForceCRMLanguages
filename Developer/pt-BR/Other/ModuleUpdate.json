@@ -1,9 +1,9 @@
 {
   "php": {
-    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Detected errors while updating the module",
-    "LBL_SOME_ERRORS_APPEARED_DURING": "Some errors appeared during the update",
-    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "We recommend verifying logs and updating the system once again.",
-    "LBL_UPDATE_EMAIL_TEMPLATES": "Update email templates",
-    "LBL_UPDATE_PDF_TEMPLATES": "Update pdf templates"
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Erros detectados durante a atualização do módulo",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Alguns erros apareceram durante a atualização",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Recomendamos verificar os logs e atualizar o sistema mais uma vez.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Atualizar modelos de e-mail",
+    "LBL_UPDATE_PDF_TEMPLATES": "Atualizar modelos de pdf"
   }
 }

@@ -366,7 +366,7 @@
     "PLL_PASSWORD_2FA": "Wachtwoord + 2FA",
     "BTN_MASS_OFF_2FA": "Bulk 2FA uitschakelen",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In demomodus is 2FA enkel bedoeld als voorbeeld.",
-    "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
+    "LBL_2FA_TOTP_DESC": "Om eenmalige gebruikscodes te genereren heeft u de juiste applicatie nodig.\nDeze kan gebruikt worden op een computer of op een telefoon.",
     "FL_DEFAULT_SEARCH_MODULE": "Standaard Module",
     "FL_OVERRIDE_SEARCH_MODULE": "Forceer de standaardmodule",
     "LBL_GLOBAL_SEARCH_SETTINGS": "Algemene zoekinstellingen",

@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "مشتری بسته شده",
     "PLL_BLACKLISTED_CLIENT": "مشتری در لیست سیاه",
     "PLL_NATURAL_PERSON": "شخصی خصوصی",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "مالکیت انفرادی",
     "PLL_GENERAL_PARTNERSHIP": "مشارکت ثبت شده",
     "PLL_PROFESSIONAL_PARTNERSHIP": "مشارکت حرفه ای",

@@ -16,6 +16,9 @@
     "LBL_ADD_AFTER": "Dodaj nakon",
     "LBL_ADD_CUSTOM_BLOCK": "Dodajte prilagođeni blok",
     "LBL_ADD_CUSTOM_FIELD": "Dodaj prilagođeno polje",
+    "BTN_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Uvijek prikaži",
     "LBL_ALWAYS_HIDE": "Uvijek sakrij",
     "LBL_DYNAMIC_SHOW": "Prikaži dinamički",
@@ -202,7 +205,8 @@
     "LBL_RELATED_CUSTOM_VIEW": "Filteri",
     "LBL_RCV_PRIVATE": "Privatni filtri (samo moji filtri)",
     "LBL_RCV_ALL": "Svi filtri iz modula",
-    "LBL_FILTERS_FROM_MODULE": "Filteri iz modula"
+    "LBL_FILTERS_FROM_MODULE": "Filteri iz modula",
+    "LBL_ANONYMIZATION_TARGET": "Anonymization"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Naziv bloka već postoji",

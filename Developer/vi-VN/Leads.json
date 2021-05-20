@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Cá nhân tự doanh",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Sở hữu duy nhất",
     "PLL_GENERAL_PARTNERSHIP": "Hợp tác đã đăng ký",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Đối tác chuyên nghiệp",

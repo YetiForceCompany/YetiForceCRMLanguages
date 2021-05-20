@@ -12,6 +12,7 @@
     "FL_NUMBER": "請求書番号",
     "FL_TOTAL": "小計",
     "FL_GROSS": "合計",
-    "PLL_WIRE_TRANSFER": "電子送金"
+    "PLL_WIRE_TRANSFER": "電子送金",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "تحديث الفردية",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "ملكية فردية",
     "PLL_GENERAL_PARTNERSHIP": "الشراكة المسجلة",
     "PLL_PROFESSIONAL_PARTNERSHIP": "المهنية الشراكة",

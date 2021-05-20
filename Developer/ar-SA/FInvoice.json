@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "لم يتم الدفع",
     "PLL_PAID": "مدفوع",
     "PLL_OVERPAID": "دفعت أكثر",
-    "PLL_UNDERPAID": "يتقاضون أجورا"
+    "PLL_UNDERPAID": "يتقاضون أجورا",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

@@ -12,6 +12,7 @@
     "FL_NUMBER": "رقم الفاتورة:",
     "FL_TOTAL": "صافى",
     "FL_GROSS": "الإجمالي",
-    "PLL_WIRE_TRANSFER": "التحويل الالكتروني"
+    "PLL_WIRE_TRANSFER": "التحويل الالكتروني",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

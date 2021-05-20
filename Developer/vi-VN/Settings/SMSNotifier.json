@@ -4,8 +4,6 @@
     "FL_STATUS": "Trạng thái",
     "FL_SMSAPI_FROM": "Tên người gửi",
     "FL_API_KEY": "Khóa API",
-    "PLL_INACTIVE": "Tắt",
-    "PLL_ACTIVE": "Bật",
     "LBL_ADD_RECORD": "Cấu hình mới",
     "LBL_SMSNOTIFIER": "Cấu hình nhà cung cấp SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

@@ -30,7 +30,7 @@
     "Ownership": "Sahiplik",
     "Phone": "Birincil telefon",
     "Press": "Basın",
-    "Prospect": "Prospect",
+    "Prospect": "Beklenti",
     "Reseller": "Bayi",
     "SIC Code": "SIC kodu",
     "SINGLE_Accounts": "Hesap",
@@ -87,11 +87,11 @@
     "PLL_UFCIITS": "Devredilebilir menkul kıymetlere toplu yatırım amaçlı teşebbüsler",
     "LBL_DEACTIVATED_BY": "Hesap devre dışı bırakıldı",
     "SINGLE_Vendors": "Satıcı",
-    "FL_CHECK_STOCK_LEVELS": "Check stock levels",
-    "FL_PRICEBOOK": "Pricebook",
-    "FL_SUM_ORDERS": "Sum of open sales orders",
-    "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Available taxes"
+    "FL_CHECK_STOCK_LEVELS": "Stok seviyesini kontrol edin",
+    "FL_PRICEBOOK": "Ödeme defteri",
+    "FL_SUM_ORDERS": "Açık satış sipariş toplamı",
+    "FL_TAXES": "Vergiler",
+    "FL_AVAILABLE_TAXES": "Mevcut vergiler"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Hesap adı zaten var. Yinelenen bir kayıt oluşturmak istiyor musunuz? ",

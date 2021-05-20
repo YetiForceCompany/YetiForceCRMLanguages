@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Nem fizetett",
     "PLL_PAID": "Fizetve",
     "PLL_OVERPAID": "Túlfizetve",
-    "PLL_UNDERPAID": "Alul fizetett"
+    "PLL_UNDERPAID": "Alul fizetett",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

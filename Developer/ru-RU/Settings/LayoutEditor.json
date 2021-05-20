@@ -16,6 +16,9 @@
     "LBL_ADD_AFTER": "Добавить после",
     "LBL_ADD_CUSTOM_BLOCK": "Добавить блок",
     "LBL_ADD_CUSTOM_FIELD": "Добавить пользовательское поле",
+    "BTN_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Всегда показывать",
     "LBL_ALWAYS_HIDE": "Всегда скрывать",
     "LBL_DYNAMIC_SHOW": "Динамическое отображение",
@@ -202,7 +205,8 @@
     "LBL_RELATED_CUSTOM_VIEW": "Filters",
     "LBL_RCV_PRIVATE": "Private filters (only my filters)",
     "LBL_RCV_ALL": "All filters from the module",
-    "LBL_FILTERS_FROM_MODULE": "Filters from the module"
+    "LBL_FILTERS_FROM_MODULE": "Filters from the module",
+    "LBL_ANONYMIZATION_TARGET": "Anonymization"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Блок с таким именем уже существует",

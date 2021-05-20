@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "未支付",
     "PLL_PAID": "已支付",
     "PLL_OVERPAID": "超额支付",
-    "PLL_UNDERPAID": "未足额支付"
+    "PLL_UNDERPAID": "未足额支付",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

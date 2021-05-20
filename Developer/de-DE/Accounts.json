@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Abgeschlossener Kunde",
     "PLL_BLACKLISTED_CLIENT": "Blacklisted Kunde",
     "PLL_NATURAL_PERSON": "Natürliche Person",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Geschäftsfeld",
     "PLL_GENERAL_PARTNERSHIP": "Offene Handelsgesellschaft (OHG)",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Sozietät",

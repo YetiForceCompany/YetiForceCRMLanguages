@@ -1,6 +1,6 @@
 {
   "php": {
-    "No data available in table": "Nenhuma tradução",
+    "No data available in table": "Nenhum dado disponível na tabela",
     "Translations": "Traduções",
     "Language editor": "Editor de Idiomas",
     "LangManagement": "Gerenciador de Idiomas",
@@ -15,7 +15,7 @@
     "LBL_Lang_ac_admin": "Administrador",
     "LBL_Lang_ac_user": "Usuários",
     "LBL_Lang_action": "Ações",
-    "LBL_LAST_UPDATE": "Update date",
+    "LBL_LAST_UPDATE": "Data de atualização",
     "LBL_SaveDataOK": "Alterações salvas",
     "LBL_DeleteDataOK": "Idioma deletado",
     "LBL_AddDataOK": "Novo Idioma adicionado",
@@ -35,7 +35,7 @@
     "LBL_UpdateTranslationOK": "Tradução Atualizada",
     "LBL_AddTranslationOK": "Nova tradução adicionada",
     "LBL_DeleteTranslationOK": "Tradução deletada",
-    "LBL_DELETE_TRANSLATION_FAILED": "Removing translation unsuccessful",
+    "LBL_DELETE_TRANSLATION_FAILED": "Remoção da tradução malsucedida",
     "Modules": "Módulos",
     "Module": "Módulo",
     "Language": "Idioma",
@@ -48,13 +48,13 @@
     "LBL_SHOW_EMPTY_VALUES": "Mostrar valores vazios",
     "LBL_SHOW_IN": "Mostrar em",
     "LBL_BASE_LANGUAGE": "Idioma Base",
-    "LBL_LANGUAGE": "Language",
+    "LBL_LANGUAGE": "Idioma",
     "LBL_SHOW": "Mostrar",
     "LBL_STATS_INFO": "Os valores estatísticos demonstrados determinam a porcentagem da proporção de rótulos não traduzidos frente a todos os rótulos existentes no arquivo de idiomas base.",
     "LBL_UNTRANSLATED_LABELS": "Rótulos Não Traduzidos",
-    "LBL_IMPORT_LANG": "Import language",
-    "LBL_IETF_LANGUAGE_TAG": "IETF language tag",
-    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Language tag not compliant with the IETF standard."
+    "LBL_IMPORT_LANG": "Importar idioma",
+    "LBL_IETF_LANGUAGE_TAG": "Etiqueta de idioma IETF",
+    "LBL_NOT_CORRECT_LANGUAGE_TAG": "Etiqueta de idioma não compatível com o padrão IETF."
   },
   "js": {
     "Translations": "Traduções",
@@ -68,6 +68,6 @@
     "Search": "Busca:",
     "No data available in table": "Nenhuma tradução",
     "JS_NOTRANSLATION": "--Nenhuma Tradução--",
-    "JS_EXPORT": "Export"
+    "JS_EXPORT": "Exportar"
   }
 }

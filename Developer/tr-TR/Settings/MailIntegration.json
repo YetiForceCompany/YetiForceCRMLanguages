@@ -3,7 +3,7 @@
     "MailIntegration": "Mail integration panel",
     "LBL_MAIL_INTEGRATION": "Mail integration panel",
     "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
-    "LBL_OUTLOOK": "Outlook add-ins",
+    "LBL_OUTLOOK": "Outlook eklentisi",
     "LBL_OUTLOOK_ALERT": "Add-ins installation instructions can be found at %s",
     "LBL_OUTLOOK_ADDRESSES": "Outlook mail server URLs",
     "LBL_OUTLOOK_ADDRESSES_DESC": "List of addresses where the system will be available as an integration panel, mandatory for Outlook Web App e.g. %s",

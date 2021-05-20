@@ -52,7 +52,7 @@
     "LBL_PRIVILEGES_UPDATER": "Aggiorna permessi",
     "LBL_RECORD_LABEL_UPDATER": "Aggiorna etichette",
     "Activity state": "Stato attività",
-    "LBL_MAILER": "Mittente email",
+    "LBL_MAILER": "Invio email in coda",
     "LBL_MAGENTO": "Integrazione con Magento",
     "LBL_CARD_DAV": "Integrazione CardDav",
     "LBL_CAL_DAV": "Integrazione CalDav",

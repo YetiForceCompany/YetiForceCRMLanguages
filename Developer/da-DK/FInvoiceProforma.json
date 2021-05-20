@@ -12,6 +12,7 @@
     "FL_NUMBER": "Invoice number",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Brutto",
-    "PLL_WIRE_TRANSFER": "Elektronisk overførsel"
+    "PLL_WIRE_TRANSFER": "Elektronisk overførsel",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

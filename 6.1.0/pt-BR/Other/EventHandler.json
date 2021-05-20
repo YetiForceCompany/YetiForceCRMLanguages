@@ -3,14 +3,14 @@
     "CONTACTS_DUPLICATEEMAIL_HANDLER": "E-mails duplicados",
     "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Bloquear a adição/edição de registros quando email inserido já existir",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Id de IVA já existe",
-    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Bloquear adição/edição de registros IVA ID duplicado",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Código de barras duplicado",
     "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Bloquear adição/edição de registros com código de barras duplicado",
     "IGDNC_IGDNEXIST_HANDLER": "Correções de notas enviadas",
-    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
-    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
-    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation the length working time",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Bloquear registro de adicionar/editar quando a mesma Correção de Nota de Mercadorias Expedidas já existir",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplicar Correção de Nota de Mercadorias Recebidas",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Bloquear registro de adicionar/editar quando a mesma Correção de Nota de Mercadorias Expedidas já existir.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validação do tempo de trabalho",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Tempo de trabalho limitado a 24 horas"
   }
 }

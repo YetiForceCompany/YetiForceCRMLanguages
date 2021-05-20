@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "未払い",
     "PLL_PAID": "支払い済み",
     "PLL_OVERPAID": "過払い",
-    "PLL_UNDERPAID": "過少支払い"
+    "PLL_UNDERPAID": "過少支払い",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

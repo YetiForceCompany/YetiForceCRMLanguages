@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Не е платено",
     "PLL_PAID": "Платено",
     "PLL_OVERPAID": "Надплатено",
-    "PLL_UNDERPAID": "Частично платено"
+    "PLL_UNDERPAID": "Частично платено",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

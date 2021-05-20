@@ -9,6 +9,7 @@
     "LBL_COUNTRY": "کشور",
     "LBL_CONDITIONS_OF_REGISTRATION": "کلیه داده‌های زیر می‌بایستی که صحیح باشند ، برای ثبت محصول این شرط واجب  است و حاصل از شرایط مجوز استفاده می‌باشد.  %s\nدر ثبت نام ، باید تمام شرکت هایی که در اجرای سیستم CRM شرکت دارند شرکت کنند. به عنوان مثال  \"کاربر هدف\" باید همیشه با داده های شرکتی که از این سیستم استفاده می کند ، پر شود.\nورودی مقدار \"تأمین کننده\" بایدوجود داشته باشد در زمانی که شرکتی که CRM را پیاده‌سازی  می کند متفاوت از شرکت استفاده کننده آن باشد.\nنوع ورودی  \"Integrator\" باید هنگام وجود یکپارچه‌سازی با سیستم CRM وجود داشته باشد و داده های شرکتی که سیستم را یکپارچه‌سازی نموده است نیاز به ارسال دارد\nبرای اینکه سیستم بتواند کلید ثبت نام را به درستی بررسی کند ، Cron باید فعال باشد و به درستی کار کند.\nاعتبار داده های ارسال شده در هنگام ثبت نام به صورت دستی در طی 72 ساعت تأیید می شود. ارائه اطلاعات غلط باعث می شود کل ثبت نام رد شود. ممنون که صبر کردید.\n%s",
     "LBL_TYPE": "نوع",
+    "LBL_TYPE_INFO": "\n- end user - a company that uses the CRM system \n- provider - a company that implements a CRM system for another company that will use it \n- integrator - a company that integrates the CRM system\n\n NOTE: If you are a provider/integrator and you want to register the CRM on behalf of your client, remember that both companies must be registered - your company as a vendor/integrator and your client’s company as an end user.",
     "LBL_TYPE_TARGET_USER": "کاربر نهایی",
     "LBL_TYPE_INTEGRATOR": "یکپارچه سازی",
     "LBL_CHANGING_COMPANY_NAME": "هر تغییر نام شرکت نیاز به ثبت نام مجدد دارد.",

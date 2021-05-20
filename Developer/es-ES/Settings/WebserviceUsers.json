@@ -19,13 +19,10 @@
     "PLL_ACCOUNTS_RELATED_RECORDS": "Todos los registros de las Empresas asignados directamente al Contacto",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Todos los registros de las Empresas asignados directamente al Contacto y Empresas a nivel inferior en jerarquía",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Todos los registros de las Empresas asignados directamente al Contacto y Empresa en jerarquía",
-    "PLL_ACTIVE": "Activo",
-    "PLL_INACTIVE": "Inactivo",
     "LBL_CREATE_RECORD": "Crear un nuevo usuario",
     "Mail": "Correo",
     "FL_STORAGE": "Almacenamiento",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Administrar consentimientos"
+    "FL_TOKEN": "Token"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "¿Seguro que desea eliminar el Usuario de la API?",

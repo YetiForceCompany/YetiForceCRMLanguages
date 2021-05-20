@@ -12,6 +12,7 @@
     "FL_NUMBER": "Factuurnummer",
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Bruto",
-    "PLL_WIRE_TRANSFER": "Elektronische overdracht"
+    "PLL_WIRE_TRANSFER": "Elektronische overdracht",
+    "FL_PAYMENT_SUM": "Totaal betalingen"
   }
 }

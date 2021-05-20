@@ -13,8 +13,8 @@
     "LBL_ADD_FOLDER": "Klasör ekle",
     "LBL_ADD_NEW_FOLDER": "Yeni klasör ekle",
     "LBL_ADD_RECORD": "Kayıt ekle",
-    "LBL_ADD_RELATION": "Add document",
-    "LBL_SELECT_RELATION": "Select document",
+    "LBL_ADD_RELATION": "Belge ekle",
+    "LBL_SELECT_RELATION": "Belge seçin",
     "LBL_CHECK_FILE_INTEGRITY": "Dosya bütünlüğünü kontrol et",
     "LBL_DENIED_DOCUMENTS": "Reddedilen belgeler",
     "LBL_DESCRIPTION": "Açıklama",
@@ -47,7 +47,7 @@
     "LBL_SELECT_Documents": "Belgeyi seçin",
     "LBL_RELATIONS": "İlişkiler",
     "LBL_MASS_ADD": "Kütle ekle",
-    "LBL_PREVIEW_FILE": "File preview"
+    "LBL_PREVIEW_FILE": "Dosya önizleme"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Dosya (ları) ya taşımak istediğinize emin misiniz? ",

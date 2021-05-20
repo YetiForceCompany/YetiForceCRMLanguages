@@ -3,7 +3,7 @@
     "EventHandler": "Event handlers",
     "LBL_EVENT_HANDLER": "Event handlers",
     "LBL_EVENT_HANDLER_DESC": "",
-    "LBL_EVENT_NAME": "Event name",
+    "LBL_EVENT_NAME": "Olay adı",
     "LBL_EVENT_DESC": "Event description",
     "LBL_INCLUDE_MODULES": "Include modules",
     "LBL_EXCLUDE_MODULES": "Exclude modules",

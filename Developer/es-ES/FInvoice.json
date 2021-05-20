@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "No pagados",
     "PLL_PAID": "Pagado",
     "PLL_OVERPAID": "Pagado en exceso",
-    "PLL_UNDERPAID": "Con saldo pendiente"
+    "PLL_UNDERPAID": "Con saldo pendiente",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

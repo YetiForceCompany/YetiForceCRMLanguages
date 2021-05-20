@@ -4,8 +4,6 @@
     "FL_STATUS": "状态",
     "FL_SMSAPI_FROM": "发送人姓名",
     "FL_API_KEY": "Api密钥",
-    "PLL_INACTIVE": "禁用",
-    "PLL_ACTIVE": "启用",
     "LBL_ADD_RECORD": "新建设置",
     "LBL_SMSNOTIFIER": "短信提供商设置",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

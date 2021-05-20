@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Ιδιώτης",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Ατομική επιχείρηση",
     "PLL_GENERAL_PARTNERSHIP": "Ομόρρυθμη Εταιρία - ΟΕ",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Επαγγελματική συνεργασία",

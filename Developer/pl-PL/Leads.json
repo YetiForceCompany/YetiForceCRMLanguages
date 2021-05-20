@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Osoba fizyczna",
+    "PLL_COMPANY": "Firma",
     "PLL_BUSINESS_ACTIVITY": "Działalność gospodarcza",
     "PLL_GENERAL_PARTNERSHIP": "Spółka jawna",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Spółka partnerska",

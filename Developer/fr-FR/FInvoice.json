@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Non payé",
     "PLL_PAID": "Payé",
     "PLL_OVERPAID": "Surpayé",
-    "PLL_UNDERPAID": "Sous-payé"
+    "PLL_UNDERPAID": "Sous-payé",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Champ Sommation"
   }
 }

@@ -43,7 +43,11 @@
     "PLL_CURRENT_MONTH": "Current month",
     "PLL_CURRENT_YEAR": "Current year",
     "LBL_SAVE_DASHBOARD": "Save dashboard",
-    "LBL_NAME_DASHBOARD": "Dashboard name"
+    "LBL_NAME_DASHBOARD": "Dashboard name",
+    "Upcoming events": "Aankomende evenementen op basis van geselecteerde datumvelden.",
+    "LBL_FIELD_DATE": "Datumveld",
+    "LBL_SKIP_YEAR": "Sla het jaar over",
+    "LBL_SKIP_YEAR_DESC": "Sla het jaar van de gebeurtenis over door alleen te kijken naar de maand en de dag."
   },
   "js": {
     "JS_BLOCK_ADDED": "Block has been added successfully",

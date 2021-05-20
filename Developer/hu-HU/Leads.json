@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Magánszemély",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Egyéni vállalkozás",
     "PLL_GENERAL_PARTNERSHIP": "Betéti társaság",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Professional partnership",

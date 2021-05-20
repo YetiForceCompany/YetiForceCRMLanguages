@@ -4,8 +4,6 @@
     "FL_STATUS": "Статус",
     "FL_SMSAPI_FROM": "Имя отправителя",
     "FL_API_KEY": "Ключ API",
-    "PLL_INACTIVE": "Неактивно",
-    "PLL_ACTIVE": "Активно",
     "LBL_ADD_RECORD": "Новая конфигурация",
     "LBL_SMSNOTIFIER": "Конфигурация провайдера SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Non pagato",
     "PLL_PAID": "Pagato",
     "PLL_OVERPAID": "Pagato in eccesso",
-    "PLL_UNDERPAID": "Sottopagato"
+    "PLL_UNDERPAID": "Sottopagato",
+    "FL_PAYMENT_SUM": "Totale pagamenti",
+    "DW_SUM_FIELD": "Campo sommatoria"
   }
 }

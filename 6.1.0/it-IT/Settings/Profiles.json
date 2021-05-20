@@ -84,9 +84,9 @@
     "Guest Profile": "Ospite",
     "RemoveRelation": "Eliminazone relazione",
     "ReceivingMailNotifications": "Ricezione notifiche email",
-    "ActivityCancel": "Set activity status to canceled",
-    "ActivityComplete": "Set activity status to completed",
-    "ActivityPostponed": "Set activity status to postponed",
+    "ActivityCancel": "Imposta lo stato dell'attività ad annullata",
+    "ActivityComplete": "Imposta lo stato dell'attività a completata",
+    "ActivityPostponed": "Imposta lo stato dell'attività a posticipata",
     "Emails": "Invio email [SMTP]",
     "ModTracker": "Aggiornamenti",
     "AssignToYourself": "Assegna a me",
@@ -94,7 +94,7 @@
     "RecordConventer": "Convertitore di record",
     "RecordCollector": "Record collector",
     "MeetingUrl": "URL Riunione",
-    "InterestsConflictUsers": "Conflict of interests"
+    "InterestsConflictUsers": "Conflitto d'interessi"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profilo eliminato con successo"

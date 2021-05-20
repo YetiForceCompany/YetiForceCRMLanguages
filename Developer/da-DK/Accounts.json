@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Lukket klient",
     "PLL_BLACKLISTED_CLIENT": "Sortlistet klient",
     "PLL_NATURAL_PERSON": "Privatperson",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Enkeltmandsvirksomhed",
     "PLL_GENERAL_PARTNERSHIP": "Registreret partnerskab",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Professionelt partnerskab",

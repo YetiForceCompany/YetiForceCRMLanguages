@@ -9,6 +9,7 @@
     "LBL_COUNTRY": "Paese",
     "LBL_CONDITIONS_OF_REGISTRATION": "Tutti i dati qui sotto devono essere reali e veritieri, è una condizione obbligatoria per la registrazione del prodotto risultante dai termini della licenza.  %s \nNella registrazione, dovrebbero esserci tutte le aziende coinvolte nell'implementazione del sistema CRM. . \"Utente utilizzatore\" dovrebbe essere sempre compilato con i dati di un'azienda che utilizza questo sistema. \nIl tipo di voce \"Provider\" deve esistere quando un'azienda di implementazione CRM è diversa da quella che lo utilizza. \nIl tipo di voce \"Integratore\" deve esistere quando l'integrazione con un sistema CRM è stata eseguita e i dati dell'azienda che ha integrato il sistema devono essere inviati.\nAffinché il sistema possa verificare correttamente la chiave di registrazione, il CRON deve essere attivo e funzionare correttamente. \nLa validità dei dati inviati durante la registrazione viene verificata manualmente entro 72h. Fornendo dati falsi, l'intera registrazione verrà rifiutata. Grazie per la pazienza.\n %s",
     "LBL_TYPE": "Tipo",
+    "LBL_TYPE_INFO": "\n- end user - a company that uses the CRM system \n- provider - a company that implements a CRM system for another company that will use it \n- integrator - a company that integrates the CRM system\n\n NOTE: If you are a provider/integrator and you want to register the CRM on behalf of your client, remember that both companies must be registered - your company as a vendor/integrator and your client’s company as an end user.",
     "LBL_TYPE_TARGET_USER": "Utente utilizzatore",
     "LBL_TYPE_INTEGRATOR": "Integratore",
     "LBL_CHANGING_COMPANY_NAME": "Ogni modifica del nome della società richiede una nuova registrazione.",
@@ -50,8 +51,8 @@
     "LBL_BRAND_DATA": "Dati Marca",
     "LBL_BRAND_DATA_INFO": "Blocco utilizzato quando il Marchio YetiForce viene acquistato: consente di inserire dati personalizzati visibili nel piè di pagina.",
     "LBL_BILLING_DATA": "Dati di fatturazione",
-    "LBL_SYSTEM_NOT_REGISTERED": "The YetiForce system has not been properly registered or the provided data is incorrect.",
-    "LBL_PAID_FN_NO_SUBSCRIPTION": "Paid functionalities have been enabled in the system %s, please purchase a subscription."
+    "LBL_SYSTEM_NOT_REGISTERED": "Il sistema YetiForce non è stato registrato correttamente o i dati forniti non sono corretti.",
+    "LBL_PAID_FN_NO_SUBSCRIPTION": "Le funzionalità a pagamento sono state attivate nel sistema %s, si prega di acquistarne l'abbonamento."
   },
   "js": {
     "JS_ENTER_REGISTRATION_KEY": "Inserisci chiave di registrazione",

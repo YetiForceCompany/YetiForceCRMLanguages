@@ -14,7 +14,7 @@
     "Office Phone": "Ofis telefonu",
     "Portal User": "Portal kullanıcısı",
     "Reference": "Referans",
-    "Reports To": "Parent Contact",
+    "Reports To": "Bağlı Kişi",
     "Secondary Email": "İkincil e-posta",
     "SINGLE_Contacts": "İletişim",
     "Support End Date": "Destek bitiş tarihi",
@@ -31,7 +31,7 @@
     "Inactive": "Etkin değil",
     "Other Po Box": "Ek adres: Posta kutusu",
     "Mailing Po Box": "Birincil adres: Posta kutusu",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Birincil Adres",
     "LBL_CONTACT_INFO": "İletişim bilgileri",
     "Approval for phone calls": "Çağrı izni",
     "Approval for email": "E-posta gönderme izni",
@@ -44,13 +44,13 @@
     "Birthdays of contacts": "Kişilerin doğum günleri",
     "LBL_SWITCH_ON_DECISION_MAKER": "Karar verici",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Hepsi",
-    "LBL_SHOW_HIERARCHY": "Contact hierarchy",
-    "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "LBL_SHOW_HIERARCHY": "İletişim Hiyerarşisi",
+    "FL_APPROVALS": "Onaylama",
+    "LBL_PARTICIPANTS": "Katılımcılar",
+    "FL_GENDER": "Cinsiyet",
+    "PLL_WOMAN": "Kadın",
+    "PLL_MAN": "Erkek",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Bu e posta adresine sahip bir kayıt sistemde zaten var."
   },
   "js": {}
 }

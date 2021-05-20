@@ -313,8 +313,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Selectielijst sequentie-instellingen",
     "LBL_PREFIX": "Voorvoegsel",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "De functionaliteit %s is nog niet geactiveerd of wijzigingen in de configuratie zijn uitgevoerd en de functionaliteit werkt niet goed.\nDe functionaliteit moet worden gereactiveerd om naar behoren te werken.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Deze functionaliteit is beschikbaar na registratie.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Het systeem is niet geregistreerd. Registreer uw YetiForce CRM om toegang te hebben tot dit deel van het systeem.",
     "LBL_REQUIRES_INTERVENTION": "Vereist interventie",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activeren",
     "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst"

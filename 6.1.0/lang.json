@@ -25,7 +25,7 @@
         "crowdinCode": "cs",
         "name": "Czech",
         "progress": 7,
-        "time": "2020-12-02 08:56:40"
+        "time": "2021-05-20 13:19:14"
     },
     "da-DK": {
         "prefix": "da-DK",
@@ -66,8 +66,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 98,
-        "time": "2021-04-08 13:49:14"
+        "progress": 99,
+        "time": "2021-05-20 13:21:52"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -102,7 +102,7 @@
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 99,
-        "time": "2021-04-08 13:53:05"
+        "time": "2021-05-20 13:25:45"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -130,14 +130,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2021-04-08 13:48:36"
+        "time": "2021-05-20 13:21:15"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 53,
-        "time": "2021-04-08 13:47:59"
+        "time": "2021-05-20 13:20:33"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -151,14 +151,14 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2021-03-01 07:53:09"
+        "time": "2021-05-20 13:29:03"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 72,
-        "time": "2020-12-31 07:38:22"
+        "progress": 78,
+        "time": "2021-05-20 13:30:20"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -192,8 +192,8 @@
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
-        "progress": 9,
-        "time": "2020-12-02 09:11:36"
+        "progress": 17,
+        "time": "2021-05-20 13:33:29"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -220,15 +220,15 @@
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
-        "progress": 31,
-        "time": "2020-12-02 09:13:40"
+        "progress": 56,
+        "time": "2021-05-20 13:36:00"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 88,
-        "time": "2021-03-26 11:46:30"
+        "time": "2021-05-20 13:36:41"
     },
     "vi-VN": {
         "prefix": "vi-VN",

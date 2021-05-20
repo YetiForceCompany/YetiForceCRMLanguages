@@ -12,6 +12,7 @@
     "FL_NUMBER": "Rechnungsnummer",
     "FL_TOTAL": "Gesamt",
     "FL_GROSS": "Brutto",
-    "PLL_WIRE_TRANSFER": "Elektronischer Transfer"
+    "PLL_WIRE_TRANSFER": "Elektronischer Transfer",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

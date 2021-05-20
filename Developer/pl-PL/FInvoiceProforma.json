@@ -12,6 +12,7 @@
     "FL_NUMBER": "Numer faktury",
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Brutto",
-    "PLL_WIRE_TRANSFER": "Przelew elektroniczny"
+    "PLL_WIRE_TRANSFER": "Przelew elektroniczny",
+    "FL_PAYMENT_SUM": "Suma wpłat"
   }
 }

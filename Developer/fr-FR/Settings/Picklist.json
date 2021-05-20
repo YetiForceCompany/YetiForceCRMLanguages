@@ -49,7 +49,8 @@
     "LBL_TIME_COUNTING_REACTION": "Temps de réaction",
     "LBL_TIME_COUNTING_RESOLVE": "Temps de résolution",
     "LBL_TIME_COUNTING_IDLE": "Temps d'inactivité",
-    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Le champ n'est pas un champ d'état du processus."
+    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Le champ n'est pas un champ d'état du processus.",
+    "LBL_IMPORT_VALUE": "Importer des valeurs"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Tous les Rôles sélectionnés",

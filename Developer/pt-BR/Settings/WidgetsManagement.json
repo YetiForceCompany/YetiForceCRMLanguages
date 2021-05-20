@@ -43,7 +43,11 @@
     "PLL_CURRENT_MONTH": "Mês Atual",
     "PLL_CURRENT_YEAR": "Ano Atual",
     "LBL_SAVE_DASHBOARD": "Salvar Painel",
-    "LBL_NAME_DASHBOARD": "Nome do Painel"
+    "LBL_NAME_DASHBOARD": "Nome do Painel",
+    "Upcoming events": "Próximos eventos baseados em datas selecionas.",
+    "LBL_FIELD_DATE": "Campo Data",
+    "LBL_SKIP_YEAR": "Pular o ano",
+    "LBL_SKIP_YEAR_DESC": "Pule o ano do evento considerando apenas o mês e o dia."
   },
   "js": {
     "JS_BLOCK_ADDED": "Bloco adicionado com sucesso",

@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Onbetaald",
     "PLL_PAID": "Betaald",
     "PLL_OVERPAID": "Over betaald",
-    "PLL_UNDERPAID": "Onderbetaald"
+    "PLL_UNDERPAID": "Onderbetaald",
+    "FL_PAYMENT_SUM": "Totaal betalingen",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

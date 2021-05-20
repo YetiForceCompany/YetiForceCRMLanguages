@@ -40,6 +40,8 @@
     "PLL_NOT_PAID": "Ni plačano",
     "PLL_PAID": "Plačano",
     "PLL_OVERPAID": "Preplačano",
-    "PLL_UNDERPAID": "Premalo plačano"
+    "PLL_UNDERPAID": "Premalo plačano",
+    "FL_PAYMENT_SUM": "Total payments",
+    "DW_SUM_FIELD": "Summation field"
   }
 }

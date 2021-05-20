@@ -19,13 +19,10 @@
     "PLL_ACCOUNTS_RELATED_RECORDS": "Svi zapisi o računu dodijeljeni direktno kontaktu",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Svi povezani zapisi računa dodijeljeni direktno kontaktu i računima nižim u hijerarhiji",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Svi povezani zapisi računa dodijeljeni direktno kontaktu i računima iz hijerarhije",
-    "PLL_ACTIVE": "Aktivan",
-    "PLL_INACTIVE": "Neaktivan",
     "LBL_CREATE_RECORD": "Kreiraj",
     "Mail": "Pošta",
     "FL_STORAGE": "Skladište",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Upravljanje saglasnostima"
+    "FL_TOKEN": "Token"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite ukloniti ključ?",

@@ -4,8 +4,6 @@
     "FL_STATUS": "Státusz",
     "FL_SMSAPI_FROM": "Küldő neve",
     "FL_API_KEY": "Api key",
-    "PLL_INACTIVE": "Inaktív",
-    "PLL_ACTIVE": "Aktív",
     "LBL_ADD_RECORD": "New configuration",
     "LBL_SMSNOTIFIER": "SMS provider configuration",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

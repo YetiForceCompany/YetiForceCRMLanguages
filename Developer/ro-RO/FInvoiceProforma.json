@@ -12,6 +12,7 @@
     "FL_NUMBER": "Numar factura",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Brut",
-    "PLL_WIRE_TRANSFER": "Electronic transfer"
+    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

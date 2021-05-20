@@ -72,6 +72,17 @@
     "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Quantité produit en stock",
     "FL_PURCHASE": "Achat",
-    "FL_WEIGHT": "Poids"
+    "FL_WEIGHT": "Poids",
+    "LBL_IMPORT_STOCKTAKING": "Product stocktaking import",
+    "LBL_STORAGE_QUANTITY_LOCATION": "Storage quantity location",
+    "LBL_PRODUCTS_STORAGE_FIELD": "Inventory status based on the 'Available product quantity' field in products.",
+    "BTN_ANALYZE_FILE": "Analyser le fichier",
+    "BTN_COMPARE_STOCK_LEVELS": "Comparez les niveaux de stock",
+    "LBL_ENTRIES_TO_UPDATE": "Entrées à mettre à jour",
+    "LBL_NUMBER_ENTRIES_TO_UPDATE": "Nombre d'entrées à mettre à jour",
+    "LBL_NUMBER_ENTRIES_NO_UPDATE": "Nombre d'entrées qui ne nécessitent pas de mise à jour",
+    "LBL_NUMBER_ENTRIES_NOT_FOUND": "Nombre d'entrées non trouvées",
+    "LBL_LIST_ENTRIES_NOT_FOUND": "Liste des entrées non trouvées",
+    "LBL_IMPORT_STOCK_ALERT": "La modification du niveau de stock nécessite une vérification et une approbation, ce n'est qu'alors que le niveau de stock changera."
   }
 }

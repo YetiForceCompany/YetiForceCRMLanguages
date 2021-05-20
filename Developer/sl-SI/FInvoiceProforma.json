@@ -12,6 +12,7 @@
     "FL_NUMBER": "Številka računa",
     "FL_TOTAL": "Neto",
     "FL_GROSS": "Bruto",
-    "PLL_WIRE_TRANSFER": "Elektronski prenos"
+    "PLL_WIRE_TRANSFER": "Elektronski prenos",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

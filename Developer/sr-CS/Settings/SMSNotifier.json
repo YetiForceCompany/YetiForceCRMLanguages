@@ -4,8 +4,6 @@
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Naziv pošiljaoca",
     "FL_API_KEY": "Api ključ",
-    "PLL_INACTIVE": "Neaktivan",
-    "PLL_ACTIVE": "Aktivan",
     "LBL_ADD_RECORD": "Nova konfiguracija",
     "LBL_SMSNOTIFIER": "Konfiguracija SMS davaoca usluge",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

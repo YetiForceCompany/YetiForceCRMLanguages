@@ -1,7 +1,7 @@
 {
   "php": {
-    "FInvoice": "Sales invoices",
-    "SINGLE_FInvoice": "Sales invoice",
+    "FInvoice": "Satış faturaları",
+    "SINGLE_FInvoice": "Satış Faturası",
     "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
     "LBL_INVOICE_ADDRESS": "Fatura adresi",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Teslimat adresi",
@@ -34,12 +34,14 @@
     "PLL_CANCELLED": "İptal edildi",
     "PLL_ACCEPTED": "Kabul Edildi",
     "LBL_YEAR": "Yıl",
-    "FL_ISSUE_TIME": "Invoice date",
-    "FL_OPPORTUNITY": "Opportunity",
-    "FL_PROJECT": "Project",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_ISSUE_TIME": "Fatura tarihi",
+    "FL_OPPORTUNITY": "Fırsat",
+    "FL_PROJECT": "Proje",
+    "PLL_NOT_PAID": "Ödenmedi",
+    "PLL_PAID": "Ödendi",
+    "PLL_OVERPAID": "Fazla ödenmiş",
+    "PLL_UNDERPAID": "Eksik ödenmiş",
+    "FL_PAYMENT_SUM": "Toplam ödemeler",
+    "DW_SUM_FIELD": "Toplama alanı"
   }
 }

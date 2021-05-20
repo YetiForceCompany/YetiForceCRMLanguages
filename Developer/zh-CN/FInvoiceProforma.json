@@ -12,6 +12,7 @@
     "FL_NUMBER": "付款通知单号码",
     "FL_TOTAL": "净总额",
     "FL_GROSS": "毛总额",
-    "PLL_WIRE_TRANSFER": "电子转账"
+    "PLL_WIRE_TRANSFER": "电子转账",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

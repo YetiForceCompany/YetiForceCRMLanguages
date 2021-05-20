@@ -72,6 +72,17 @@
     "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Quantidade de produtos em estoque",
     "FL_PURCHASE": "Compra",
-    "FL_WEIGHT": "Weight"
+    "FL_WEIGHT": "Weight",
+    "LBL_IMPORT_STOCKTAKING": "Importação de estoque de produtos",
+    "LBL_STORAGE_QUANTITY_LOCATION": "Localização da quantidade de armazenamento",
+    "LBL_PRODUCTS_STORAGE_FIELD": "Status do inventário baseado no campo 'Quantidade de produto disponível' em produtos.",
+    "BTN_ANALYZE_FILE": "Analisar o arquivo",
+    "BTN_COMPARE_STOCK_LEVELS": "Comparar níveis de estoque",
+    "LBL_ENTRIES_TO_UPDATE": "Registros a serem atualizados",
+    "LBL_NUMBER_ENTRIES_TO_UPDATE": "Número de registrosa serem atualizados",
+    "LBL_NUMBER_ENTRIES_NO_UPDATE": "Número de registros que não requerem atualização",
+    "LBL_NUMBER_ENTRIES_NOT_FOUND": "Número de registros não encontrados",
+    "LBL_LIST_ENTRIES_NOT_FOUND": "Lista de registros não encontrados",
+    "LBL_IMPORT_STOCK_ALERT": "Alterar o nível de estoque requer verificação e aprovação, somente assim o nível de estoque será alterado."
   }
 }

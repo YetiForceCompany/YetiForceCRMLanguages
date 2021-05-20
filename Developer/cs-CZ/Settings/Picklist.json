@@ -49,7 +49,8 @@
     "LBL_TIME_COUNTING_REACTION": "Reakční doba",
     "LBL_TIME_COUNTING_RESOLVE": "Vyřešte čas",
     "LBL_TIME_COUNTING_IDLE": "Doba nečinnosti",
-    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Pole není pole stavu procesu."
+    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Pole není pole stavu procesu.",
+    "LBL_IMPORT_VALUE": "Import values"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "All Roles selected",

@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Empresa cerrado",
     "PLL_BLACKLISTED_CLIENT": "Empresa en Lista Negra",
     "PLL_NATURAL_PERSON": "Particular",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Empresario Individual (Autónomo)",
     "PLL_GENERAL_PARTNERSHIP": "Sociedad Civil",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Sociedades Profesionales",

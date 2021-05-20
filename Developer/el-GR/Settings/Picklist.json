@@ -49,7 +49,8 @@
     "LBL_TIME_COUNTING_REACTION": "Χρόνος απόκρισης",
     "LBL_TIME_COUNTING_RESOLVE": "Χρόνος επίλυσης",
     "LBL_TIME_COUNTING_IDLE": "Χρόνος αδράνειας",
-    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Το πεδίο δεν είναι μία διεργασία κατάστασης πεδίου."
+    "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Το πεδίο δεν είναι μία διεργασία κατάστασης πεδίου.",
+    "LBL_IMPORT_VALUE": "Εισάγετε τιμές"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Όλοι οι ρολόι επιλέχθηκαν",

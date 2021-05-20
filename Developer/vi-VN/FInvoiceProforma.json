@@ -12,6 +12,7 @@
     "FL_NUMBER": "Số hóa đơn",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Gross",
-    "PLL_WIRE_TRANSFER": "Chuyển tiền điện tử"
+    "PLL_WIRE_TRANSFER": "Chuyển tiền điện tử",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

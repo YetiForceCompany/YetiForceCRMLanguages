@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Физическое лицо",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Юридическое лицо",
     "PLL_GENERAL_PARTNERSHIP": "Общество с Неограниченной Ответственностью",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Саморегулируемая Организация",

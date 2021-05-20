@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Client inchis",
     "PLL_BLACKLISTED_CLIENT": "Client lista neagra",
     "PLL_NATURAL_PERSON": "Individual privat",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Proprietate proprie",
     "PLL_GENERAL_PARTNERSHIP": "Parteneriat inregistrat",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Parteneriat profesional",

@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "닫힌 고객",
     "PLL_BLACKLISTED_CLIENT": "악성 고객",
     "PLL_NATURAL_PERSON": "개인",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "개인 기업",
     "PLL_GENERAL_PARTNERSHIP": "Registered partnership",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Professional partnership",

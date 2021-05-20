@@ -19,13 +19,10 @@
     "PLL_ACCOUNTS_RELATED_RECORDS": "Todos os registros de conta atribuídos diretamente ao contato",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Todos os registros de conta relacionados atribuídos diretamente ao contato e contas abaixo na hierarquia",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Todos os registros de conta relacionados atribuídos diretamente ao contato e contas da hierarquia",
-    "PLL_ACTIVE": "Ativo",
-    "PLL_INACTIVE": "Inativo",
     "LBL_CREATE_RECORD": "Criar",
     "Mail": "Mail",
     "FL_STORAGE": "Estoque",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Manage consents"
+    "FL_TOKEN": "Token"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Você tem certeza que deseja remover esta chave?",

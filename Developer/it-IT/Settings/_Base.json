@@ -313,8 +313,8 @@
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Impostazioni sequenza elenco discesa",
     "LBL_PREFIX": "Prefisso",
     "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "La funzionalità %s non è stata ancora attivata o le modifiche nella configurazione sono state eseguite e la funzionalità non funziona correttamente.\nLa funzionalità deve essere riattivata per funzionare correttamente.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Questa funzionalità è disponibile dopo la registrazione.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Il sistema non è stato registrato. Registra il tuo YetiForce CRM per avere accesso a questa parte del sistema.",
     "LBL_REQUIRES_INTERVENTION": "Richiede intervento",
     "LBL_ACTIVATE_FUNCTIONALITY": "Attivazione",
     "LBL_ONLY_TO_FIRST_LIST": "Solo al primo della lista"

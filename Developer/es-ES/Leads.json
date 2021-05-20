@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Particular",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Empresario Individual (Autónomo)",
     "PLL_GENERAL_PARTNERSHIP": "Sociedad Civil",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Sociedades Profesionales",

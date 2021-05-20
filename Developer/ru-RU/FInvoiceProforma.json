@@ -12,6 +12,7 @@
     "FL_NUMBER": "Счет №",
     "FL_TOTAL": "Чистый",
     "FL_GROSS": "Валовый",
-    "PLL_WIRE_TRANSFER": "Электронный перевод"
+    "PLL_WIRE_TRANSFER": "Электронный перевод",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

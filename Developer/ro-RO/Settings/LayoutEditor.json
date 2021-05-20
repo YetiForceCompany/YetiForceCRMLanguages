@@ -16,6 +16,9 @@
     "LBL_ADD_AFTER": "Adauga dupa",
     "LBL_ADD_CUSTOM_BLOCK": "Adaugati bloc personalizat",
     "LBL_ADD_CUSTOM_FIELD": "Adaugati camp personalizat",
+    "BTN_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Afiseaza intotdeauna",
     "LBL_ALWAYS_HIDE": "Always hide",
     "LBL_DYNAMIC_SHOW": "Dynamic show",
@@ -202,7 +205,8 @@
     "LBL_RELATED_CUSTOM_VIEW": "Filtre",
     "LBL_RCV_PRIVATE": "Filtre private (doar filtrele mele)",
     "LBL_RCV_ALL": "Toate filtrele din modul",
-    "LBL_FILTERS_FROM_MODULE": "Filtre din modul"
+    "LBL_FILTERS_FROM_MODULE": "Filtre din modul",
+    "LBL_ANONYMIZATION_TARGET": "Anonymization"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Denumirea blocului exista deja",

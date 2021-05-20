@@ -17,8 +17,8 @@
 		"LBL_REMIND_LATER": "Remind me later",
 		"LBL_DATA_SAVE_OK": "Data saved correctly",
 		"LBL_DATA_SAVE_FAIL": "An error occurred while saving, please check your logs",
-		"BTN_SET_IGNORE": "Ignore",
-		"BTN_REMOVE_IGNORE": "Unignore",
+		"BTN_SET_IGNORE": "Yoksay",
+		"BTN_REMOVE_IGNORE": "Dikkate al",
 		"LBL_MISSING_LIBRARY": "Detected missing library. Some features were disabled. In order to enable them please download the library. If the CRM has no Internet connection, you can download the files and copy them to %s folder.",
 		"BTN_DOWNLOAD_LIBRARY": "Download library",
 		"LBL_SERVER_HTTPS": "HTTPS encryption",
@@ -59,6 +59,6 @@
 		"LBL_LANGUAGES_UPDATER": "Languages updater",
 		"LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
 		"LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating.",
-		"Mail": "Mail"
+		"Mail": "E-posta"
 	}
 }

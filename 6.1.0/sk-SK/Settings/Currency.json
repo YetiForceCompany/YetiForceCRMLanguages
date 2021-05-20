@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion rate",
-    "Currency": "Currency",
+    "Conversion Rate": "Konverzný kurz",
+    "Currency": "Mena",
     "Symbol": "Symbol",
-    "Currency Code": "Currency code",
-    "Currency Name": "Currency name",
-    "LBL_ADD_NEW_CURRENCY": "Add new currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency code",
-    "LBL_CURRENCY_NAME": "Currency name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency active",
+    "Currency Code": "Kód meny",
+    "Currency Name": "Názov meny",
+    "LBL_ADD_NEW_CURRENCY": "Pridať novú menu",
+    "LBL_ADD_RECORD": "Pridať záznam",
+    "LBL_CURRENCY_CODE": "Kód meny",
+    "LBL_CURRENCY_NAME": "Názov meny",
+    "LBL_CURRENCY_STATUS_DESC": "Povoliť zaškrtávacie pole, aby bola mena aktívna",
     "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current currency",
-    "LBL_EDIT_CURRENCY": "Edit currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "LBL_CURRENT_CURRENCY": "Aktuálna mena",
+    "LBL_EDIT_CURRENCY": "Úprava meny",
+    "LBL_ENTER_CONVERSION_RATE": "Vložiť konverzný kurz",
+    "LBL_TRANSFER_CURRENCY": "Previesť menu",
+    "Active": "Aktívna",
+    "Inactive": "Neaktívna",
+    "LBL_SET_AS_DEFAULT": "Nastaviť ako predvolené"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency deleted successfully.",
-    "JS_CURRENCY_DETAILS_SAVED": "Currency details saved.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Mena úspešne vymazaná.",
+    "JS_CURRENCY_DETAILS_SAVED": "Podrobnosti o Mene uložené.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Varovanie! Táto operácia zmení menu na mnohých miestach v systéme. Finančné dokumenty vystavené pred touto zmenou môžu požadovať konverziu meny. Prosím urobte manuálnu konverziu meny ak tieto dokumenty boli vystavené v ich produkčných verziách. Prepočítanie kurzu pre ostatné meny bude požadované."
   }
 }

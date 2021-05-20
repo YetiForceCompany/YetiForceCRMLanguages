@@ -4,8 +4,6 @@
     "FL_STATUS": "ステータス",
     "FL_SMSAPI_FROM": "送信者名",
     "FL_API_KEY": "API キー",
-    "PLL_INACTIVE": "非アクティブ",
-    "PLL_ACTIVE": "アクティブ",
     "LBL_ADD_RECORD": "新しい構成",
     "LBL_SMSNOTIFIER": "SMSプロバイダの設定",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

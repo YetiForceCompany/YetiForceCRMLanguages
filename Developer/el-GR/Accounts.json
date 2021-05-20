@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Κλεισμένος πελάτης",
     "PLL_BLACKLISTED_CLIENT": "Πελάτης στη μαύρη λίστα",
     "PLL_NATURAL_PERSON": "Ιδιώτης",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Ατομική επιχείρηση",
     "PLL_GENERAL_PARTNERSHIP": "Ομόρρυθμη Εταιρία - ΟΕ",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Επαγγελματική συνεργασία",

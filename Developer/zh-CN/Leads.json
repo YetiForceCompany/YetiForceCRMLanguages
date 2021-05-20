@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "私营企业",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "独资企业",
     "PLL_GENERAL_PARTNERSHIP": "注册合作伙伴",
     "PLL_PROFESSIONAL_PARTNERSHIP": "专业人员合伙制",

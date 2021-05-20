@@ -103,7 +103,7 @@
     "LBL_BTN_ACCEPT_MANUALLY": "Handmatig accepteren",
     "LBL_BTN_SEND_AUTOMATICALLY": "Automatisch verzenden",
     "LBL_BTN_SEND_MANUALLY": "Handmatig verzenden",
-    "LBL_SYNCH_PAID_FEATURE": "Synchronization with the public RBL server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) is a paid feature. In order to activate the synchronization and to be constantly updated with new hazardous mail servers please go to %s"
+    "LBL_SYNCH_PAID_FEATURE": "Synchronisatie met de publieke RBL-server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) is een betaalde functie. Om de synchronisatie te activeren en voortdurend te worden bijgewerkt met nieuwe gevaarlijke mailservers ga naar %s"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Show details",

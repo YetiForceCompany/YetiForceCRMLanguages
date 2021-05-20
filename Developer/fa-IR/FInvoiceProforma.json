@@ -12,6 +12,7 @@
     "FL_NUMBER": "شماره فاکتور",
     "FL_TOTAL": "خالص",
     "FL_GROSS": "ناخالص",
-    "PLL_WIRE_TRANSFER": "انتقال الکترونیکی"
+    "PLL_WIRE_TRANSFER": "انتقال الکترونیکی",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

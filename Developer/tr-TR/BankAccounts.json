@@ -1,18 +1,18 @@
 {
   "php": {
-    "BankAccounts": "Bank accounts",
-    "SINGLE_BankAccounts": "Bank account",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
-    "FL_BANK_ACCOUNT_NUMBER": "Account number",
-    "FL_CURRENCY": "Currency",
-    "FL_SWIFT": "SWIFT",
-    "FL_BANK_NAME": "Bank name",
-    "FL_STATUS": "Status",
-    "FL_MULTICOMPANY": "Department",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "BankAccounts": "Banka hesapları",
+    "SINGLE_BankAccounts": "Banka hesabı",
+    "LBL_CUSTOM_INFORMATION": "Özel Bilgiler",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "FL_NAME": "İsim",
+    "FL_BANK_ACCOUNT_NUMBER": "Hesap numarası",
+    "FL_CURRENCY": "Para birimi",
+    "FL_SWIFT": "SWIFT Code",
+    "FL_BANK_NAME": "Banka Adı",
+    "FL_STATUS": "Durum",
+    "FL_MULTICOMPANY": "Bölüm",
+    "PLL_DRAFT": "Taslak",
+    "PLL_ACTIVE": "Aktif",
+    "PLL_INACTIVE": "Pasif"
   }
 }

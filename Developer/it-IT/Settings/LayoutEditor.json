@@ -6,7 +6,7 @@
     "Date": "Data",
     "Decimal": "Decimale",
     "Email": "Email",
-    "MultiEmail": "Multi email",
+    "MultiEmail": "Email multiple",
     "Integer": "Intero",
     "Token": "Token (One-time code generator)",
     "ServerAccess": "Web service application (Api permissions)",
@@ -16,6 +16,9 @@
     "LBL_ADD_AFTER": "Posiziona dopo",
     "LBL_ADD_CUSTOM_BLOCK": "Aggiungi blocco custom",
     "LBL_ADD_CUSTOM_FIELD": "Aggiungi campo custom",
+    "BTN_ADD_SYSTEM_FIELD": "Aggiungi campo di sistema",
+    "LBL_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_NO_FIELDS_ADD": "Nessun campo da aggiungere",
     "LBL_ALWAYS_SHOW": "Mostra sempre",
     "LBL_ALWAYS_HIDE": "Nascondi sempre",
     "LBL_DYNAMIC_SHOW": "Visualizzazione dinamica",
@@ -111,7 +114,7 @@
     "LBL_CREATING_INVENTORY_FIELD": "Aggiungi campo",
     "LBL_NAME_FIELD": "Nome",
     "LBL_COLSPAN": "Larghezza [%]",
-    "LBL_HEIGHT": "Height [px]",
+    "LBL_HEIGHT": "Altezza [px]",
     "LBL_COMMENT": "Commento",
     "LBL_SELECT_TYPE_OF_INVENTORY": "Tipo",
     "LBL_NEXT": "Successivo",
@@ -202,7 +205,8 @@
     "LBL_RELATED_CUSTOM_VIEW": "Filtri",
     "LBL_RCV_PRIVATE": "Filtri privati (solo i miei filtri)",
     "LBL_RCV_ALL": "Tutti i filtri dal modulo",
-    "LBL_FILTERS_FROM_MODULE": "Filtri dal modulo"
+    "LBL_FILTERS_FROM_MODULE": "Filtri dal modulo",
+    "LBL_ANONYMIZATION_TARGET": "Anonimizzazione"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

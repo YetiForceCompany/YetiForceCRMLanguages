@@ -12,6 +12,7 @@
     "FL_NUMBER": "Broj fakture",
     "FL_TOTAL": "Neto",
     "FL_GROSS": "Bruto",
-    "PLL_WIRE_TRANSFER": "Elektronski prijenos"
+    "PLL_WIRE_TRANSFER": "Elektronski prijenos",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

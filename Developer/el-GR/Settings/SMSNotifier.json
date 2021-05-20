@@ -4,8 +4,6 @@
     "FL_STATUS": "Κατάσταση",
     "FL_SMSAPI_FROM": "Όνομα αποστολέα",
     "FL_API_KEY": "Κλειδί API",
-    "PLL_INACTIVE": "Ανενεργό",
-    "PLL_ACTIVE": "Ενεργό",
     "LBL_ADD_RECORD": "Νέα διαμόρφωση",
     "LBL_SMSNOTIFIER": "Ρύθμιση παραμέτρων της υπηρεσίας παροχής SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

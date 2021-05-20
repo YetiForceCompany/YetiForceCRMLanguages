@@ -16,6 +16,9 @@
     "LBL_ADD_AFTER": "Add After",
     "LBL_ADD_CUSTOM_BLOCK": "Add Custom Block",
     "LBL_ADD_CUSTOM_FIELD": "Add Custom Field",
+    "BTN_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_ADD_SYSTEM_FIELD": "Add system field",
+    "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Always Show",
     "LBL_ALWAYS_HIDE": "Altijd verbergen",
     "LBL_DYNAMIC_SHOW": "Dynamic show",
@@ -202,7 +205,8 @@
     "LBL_RELATED_CUSTOM_VIEW": "Filters",
     "LBL_RCV_PRIVATE": "Privé filters (alleen mijn filters)",
     "LBL_RCV_ALL": "Alle filters van de module",
-    "LBL_FILTERS_FROM_MODULE": "Filters van de module"
+    "LBL_FILTERS_FROM_MODULE": "Filters van de module",
+    "LBL_ANONYMIZATION_TARGET": "Anonimisatie"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

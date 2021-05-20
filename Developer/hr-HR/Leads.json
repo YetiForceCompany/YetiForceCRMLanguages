@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "Fizičko lice",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Društvo jednog lica",
     "PLL_GENERAL_PARTNERSHIP": "Registrovano partnerstvo",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Profesionalno partnerstvo",

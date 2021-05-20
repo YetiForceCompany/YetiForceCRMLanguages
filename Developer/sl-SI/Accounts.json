@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "Zaključena stranka",
     "PLL_BLACKLISTED_CLIENT": "Blokirana stranka",
     "PLL_NATURAL_PERSON": "Fizična oseba",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Območje poslovanja",
     "PLL_GENERAL_PARTNERSHIP": "Samostnojni podjetnik",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Odvetniška družba",

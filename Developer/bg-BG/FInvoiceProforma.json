@@ -12,6 +12,7 @@
     "FL_NUMBER": "Номер на фактура",
     "FL_TOTAL": "Нето",
     "FL_GROSS": "Бруто",
-    "PLL_WIRE_TRANSFER": "Електронен превод"
+    "PLL_WIRE_TRANSFER": "Електронен превод",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

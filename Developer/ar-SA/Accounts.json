@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "أغلقت العميل",
     "PLL_BLACKLISTED_CLIENT": "معلومات المحظورين",
     "PLL_NATURAL_PERSON": "تحديث الفردية",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "ملكية فردية",
     "PLL_GENERAL_PARTNERSHIP": "الشراكة المسجلة",
     "PLL_PROFESSIONAL_PARTNERSHIP": "المهنية الشراكة",

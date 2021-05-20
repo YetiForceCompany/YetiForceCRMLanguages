@@ -43,7 +43,11 @@
     "PLL_CURRENT_MONTH": "Mese corrente",
     "PLL_CURRENT_YEAR": "Anno corrente",
     "LBL_SAVE_DASHBOARD": "Imposta nome scheda di cruscotto",
-    "LBL_NAME_DASHBOARD": "Nome"
+    "LBL_NAME_DASHBOARD": "Nome",
+    "Upcoming events": "Prossimi eventi in base ai campi data selezionati.",
+    "LBL_FIELD_DATE": "Campo Data",
+    "LBL_SKIP_YEAR": "Tralascia l'anno",
+    "LBL_SKIP_YEAR_DESC": "Tralascia l'anno dell'evento considerando solo il mese e il giorno."
   },
   "js": {
     "JS_BLOCK_ADDED": "Il blocco è stato aggiunto",

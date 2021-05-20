@@ -4,8 +4,6 @@
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Sender name",
     "FL_API_KEY": "Cheie Api",
-    "PLL_INACTIVE": "Inactiv",
-    "PLL_ACTIVE": "Activ",
     "LBL_ADD_RECORD": "Configuratie noua",
     "LBL_SMSNOTIFIER": "Configurare furnizor SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",

@@ -67,6 +67,7 @@
     "PLL_CLOSED_CLIENT": "已成单的",
     "PLL_BLACKLISTED_CLIENT": "被列入黑名单的",
     "PLL_NATURAL_PERSON": "私营企业",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "独资企业",
     "PLL_GENERAL_PARTNERSHIP": "注册合作伙伴",
     "PLL_PROFESSIONAL_PARTNERSHIP": "专业人员合伙制",

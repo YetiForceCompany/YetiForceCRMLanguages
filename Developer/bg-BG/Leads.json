@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "В2В",
     "PLL_NATURAL_PERSON": "Частно лице",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "Едноличен търговец",
     "PLL_GENERAL_PARTNERSHIP": "Регистрирано партньорство",
     "PLL_PROFESSIONAL_PARTNERSHIP": "Професионално партньорство",

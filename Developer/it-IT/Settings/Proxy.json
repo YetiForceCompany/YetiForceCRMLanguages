@@ -9,9 +9,9 @@
     "LBL_PROXY_PORT": "Porta",
     "LBL_PROXY_LOGIN": "Nome utente",
     "LBL_PROXY_PASSWORD": "Password",
-    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Address Finder - Yetiforce server, \n - Integration with Magento - Magento server, \n - Coordinate search engine - Yetiforce server, OpenStreetMap server, \n - Route search - Yetiforce server, servers indicated by the user in the configuration, \n - Communication with the update server - Github server, \n - Communication with the registration server - Yetiforce server, \n - Integration with OpenStreetMap - Yetiforce server, OpenStreetMap server and servers indicated by the user in the configuration, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB, NBR), \n - Installation and update of libraries - Github server"
+    "LBL_PROXY_INFORMATION": "Luoghi di sistema che comunicano con server esterni: \n - Motore di ricerca sicuro per password - Server Yetiforce, \n - Installazione della lingua - server Github, \n - Address Finder - server Yetiforce, \n - Integrazione con Magento - Server Magento, \n - Motore di ricerca coordinate - Server Yetiforce, Server OpenStreetMap, \n - Ricerca itinerario - Server Yetiforce, server indicati dall'utente nella configurazione, \n - Comunicazione con il server di aggiornamento - server Github, \n - Comunicazione con il server di registrazione - Yetiforce server, \n - Integrazione con OpenStreetMap - Yetiforce server, Server e server OpenStreetMap indicati dall'utente nella configurazione, \n - Aggiornamento dei tassi di cambio - Server bancari (NBP, CBR, ECB, NBR), \n - Installazione e aggiornamento delle librerie - server Github"
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Dettagli configurazione salvati"
   }
 }

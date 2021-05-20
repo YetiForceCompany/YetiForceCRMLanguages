@@ -12,6 +12,7 @@
     "FL_NUMBER": "Számla sorszáma",
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Bruttó",
-    "PLL_WIRE_TRANSFER": "Elektronikus átutalás"
+    "PLL_WIRE_TRANSFER": "Elektronikus átutalás",
+    "FL_PAYMENT_SUM": "Total payments"
   }
 }

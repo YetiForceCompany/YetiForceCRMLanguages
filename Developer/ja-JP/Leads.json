@@ -59,6 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "非公開の個人",
+    "PLL_COMPANY": "Company",
     "PLL_BUSINESS_ACTIVITY": "個人事業主",
     "PLL_GENERAL_PARTNERSHIP": "登録されたパートナー",
     "PLL_PROFESSIONAL_PARTNERSHIP": "プロのパートナー",

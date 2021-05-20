@@ -72,6 +72,17 @@
     "FL_EAN_SKU": "SKU",
     "FL_QTY_IN_STOCK": "Ilość produktu na magazynie",
     "FL_PURCHASE": "Zakup",
-    "FL_WEIGHT": "Waga"
+    "FL_WEIGHT": "Waga",
+    "LBL_IMPORT_STOCKTAKING": "Import inwentaryzacji produktów",
+    "LBL_STORAGE_QUANTITY_LOCATION": "Lokalizacja stanu magazynowego",
+    "LBL_PRODUCTS_STORAGE_FIELD": "Stan zapasów na podstawie pola „Dostępna ilość produktu” w produktach.",
+    "BTN_ANALYZE_FILE": "Analizuj plik",
+    "BTN_COMPARE_STOCK_LEVELS": "Porównaj poziomy zapasów",
+    "LBL_ENTRIES_TO_UPDATE": "Wpisy do aktualizacji",
+    "LBL_NUMBER_ENTRIES_TO_UPDATE": "Liczba wpisów do aktualizacji",
+    "LBL_NUMBER_ENTRIES_NO_UPDATE": "Liczba wpisów, które nie wymagają aktualizacji",
+    "LBL_NUMBER_ENTRIES_NOT_FOUND": "Liczba wpisów nie znalezionych",
+    "LBL_LIST_ENTRIES_NOT_FOUND": "Lista wpisów nie znalezionych",
+    "LBL_IMPORT_STOCK_ALERT": "Zmiana stanu magazynowego wymaga weryfikacji i akceptacji, dopiero wtedy stan magazynowy ulegnie zmianie."
   }
 }

@@ -43,7 +43,11 @@
     "PLL_CURRENT_MONTH": "Bieżący miesiąc",
     "PLL_CURRENT_YEAR": "Bieżący rok",
     "LBL_SAVE_DASHBOARD": "Zapisz pulpit",
-    "LBL_NAME_DASHBOARD": "Nazwa pulpitu"
+    "LBL_NAME_DASHBOARD": "Nazwa pulpitu",
+    "Upcoming events": "Nadchodzące wydarzenia na podstawie wybranych pól dat.",
+    "LBL_FIELD_DATE": "Pole daty",
+    "LBL_SKIP_YEAR": "Pomiń rok",
+    "LBL_SKIP_YEAR_DESC": "Pomiń rok wydarzenia, biorąc pod uwagę tylko miesiąc i dzień."
   },
   "js": {
     "JS_BLOCK_ADDED": "Pomyślnie dodano blok",

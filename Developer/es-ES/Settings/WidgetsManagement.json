@@ -43,7 +43,11 @@
     "PLL_CURRENT_MONTH": "Mes actual",
     "PLL_CURRENT_YEAR": "Año actual",
     "LBL_SAVE_DASHBOARD": "Guardar panel de control",
-    "LBL_NAME_DASHBOARD": "Nombre del panel de control"
+    "LBL_NAME_DASHBOARD": "Nombre del panel de control",
+    "Upcoming events": "Upcoming events based on selected date fields.",
+    "LBL_FIELD_DATE": "Date field",
+    "LBL_SKIP_YEAR": "Skip the year",
+    "LBL_SKIP_YEAR_DESC": "Skip the year of the event by only considering the month and day."
   },
   "js": {
     "JS_BLOCK_ADDED": "Bloque agregado correctamente",

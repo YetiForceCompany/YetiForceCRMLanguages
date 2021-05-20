@@ -19,13 +19,10 @@
     "PLL_ACCOUNTS_RELATED_RECORDS": "Mọi hồ sơ của tài khoản đã được phân công trực tiếp tới liên hệ",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Mọi hồ sơ liên quan của tài khoản đã được phân công trực tiếp đến tài khoản và khách hàng mức dưới trong hệ thống cấp bậc",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Mọi hồ sơ liên quan của tài khoản được phân công trực tiếp đến tài khoản và khách hàng trong hệ thống cấp bậc",
-    "PLL_ACTIVE": "Bật",
-    "PLL_INACTIVE": "Tắt",
     "LBL_CREATE_RECORD": "Tạo",
     "Mail": "Mail",
     "FL_STORAGE": "Kho lưu trữ",
-    "FL_TOKEN": "Token",
-    "ManageConsents": "Quản lý thoả thuận"
+    "FL_TOKEN": "Token"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Bạn có chắc bạn muốn xoá bỏ mã này?",
