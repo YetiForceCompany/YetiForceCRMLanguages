@@ -1,5 +1,6 @@
 {
   "php": {
+    "WebserviceApps": "Internet usluge - Aplikacije",
     "LBL_APP_NAME": "Naziv",
     "LBL_ADDRESS_URL": "Dozvoljene IP adrese",
     "LBL_ADDRESS_URL_INFO": "Prazna vrijednost - pristup sa svih servera.\nAko se unesu IP adrese (nakon decimalne točke), pristup API-ju bit će dozvoljen samo s ovih IP adresa.\nPrimjer:",

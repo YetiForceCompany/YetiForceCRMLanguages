@@ -62,6 +62,13 @@
         "progress": 93,
         "time": "2020-12-02 09:06:26"
     },
+    "fi-FI": {
+        "prefix": "fi-FI",
+        "crowdinCode": "fi",
+        "name": "Finnish",
+        "progress": 5,
+        "time": "2021-05-25 15:07:30"
+    },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
@@ -192,8 +199,8 @@
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
-        "progress": 17,
-        "time": "2021-05-20 13:33:29"
+        "progress": 20,
+        "time": "2021-05-25 15:19:32"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -214,7 +221,14 @@
         "crowdinCode": "sv-SE",
         "name": "Swedish",
         "progress": 5,
-        "time": "2021-04-08 14:02:55"
+        "time": "2021-05-25 15:21:29"
+    },
+    "th-TH": {
+        "prefix": "th-TH",
+        "crowdinCode": "th",
+        "name": "Thai",
+        "progress": 5,
+        "time": "2021-05-25 15:22:08"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -228,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 88,
-        "time": "2021-05-20 13:36:41"
+        "time": "2021-05-25 15:23:25"
     },
     "vi-VN": {
         "prefix": "vi-VN",

@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Удалить",
     "LBL_CANCEL": "Отмена",
     "LBL_MORE_INFO": "Для получения дополнительной информации нажмите здесь",
-    "LBL_COPY_MENU": "Копировать меню"
+    "LBL_COPY_MENU": "Копировать меню",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "Редактировать",

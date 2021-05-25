@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Ukloni",
     "LBL_CANCEL": "Otkaži",
     "LBL_MORE_INFO": "Kliknite ovdje za više informacija",
-    "LBL_COPY_MENU": "Kopija menija"
+    "LBL_COPY_MENU": "Kopija menija",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "Uredi",

@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "オブジェクトにはインターフェイス %sが必要です",
     "ERR_CLASS_NOT_FOUND": "クラス %s が見つかりません",
     "ERR_CLASS_MUST_BE": "クラスは %sでなければなりません",
-    "ERR_PAID_FUNCTIONALITY": "%sの有料機能です。購入する必要があります"
+    "ERR_PAID_FUNCTIONALITY": "%sの有料機能です。購入する必要があります",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

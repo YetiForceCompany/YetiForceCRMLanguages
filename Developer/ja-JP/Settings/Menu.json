@@ -47,7 +47,8 @@
     "LBL_REMOVE": "削除",
     "LBL_CANCEL": "キャンセル",
     "LBL_MORE_INFO": "詳細はここをクリックしてください",
-    "LBL_COPY_MENU": "メニューをコピー"
+    "LBL_COPY_MENU": "メニューをコピー",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "編集",

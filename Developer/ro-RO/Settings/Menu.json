@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Elimina",
     "LBL_CANCEL": "Anuleaza",
     "LBL_MORE_INFO": "Click aici pentru mai multe informatii",
-    "LBL_COPY_MENU": "Copiaza meniu"
+    "LBL_COPY_MENU": "Copiaza meniu",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "Editeaza",

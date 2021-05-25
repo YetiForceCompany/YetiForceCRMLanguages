@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Usuń",
     "LBL_CANCEL": "Anuluj",
     "LBL_MORE_INFO": "Kliknij tutaj by uzyskać więcej informacji",
-    "LBL_COPY_MENU": "Skopiuj menu"
+    "LBL_COPY_MENU": "Skopiuj menu",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Stosowanie ograniczeń uniemożliwia tworzenie filtrów z tego widoku listy."
   },
   "js": {
     "JS_EDIT": "Edytuj",

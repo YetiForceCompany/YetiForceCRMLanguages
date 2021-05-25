@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Das Objekt muss eine Schnittstelle %s haben",
     "ERR_CLASS_NOT_FOUND": "Klasse %s nicht gefunden",
     "ERR_CLASS_MUST_BE": "Klasse muss %s sein",
-    "ERR_PAID_FUNCTIONALITY": "%s bezahlte Funktionalität, Sie müssen sie kaufen"
+    "ERR_PAID_FUNCTIONALITY": "%s bezahlte Funktionalität, Sie müssen sie kaufen",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

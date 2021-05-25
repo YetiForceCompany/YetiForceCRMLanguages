@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Видалити",
     "LBL_CANCEL": "Відмінити",
     "LBL_MORE_INFO": "Натисніть тут для отримання додаткової інформації",
-    "LBL_COPY_MENU": "Копіювати меню"
+    "LBL_COPY_MENU": "Копіювати меню",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "Редагувати",

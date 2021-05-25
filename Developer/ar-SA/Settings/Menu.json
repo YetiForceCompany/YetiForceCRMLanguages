@@ -47,7 +47,8 @@
     "LBL_REMOVE": "احذف",
     "LBL_CANCEL": "إلغاء",
     "LBL_MORE_INFO": "تحقق من هنا للمزيد من المعلومات.",
-    "LBL_COPY_MENU": "نسخ القائمة"
+    "LBL_COPY_MENU": "نسخ القائمة",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "تعديل",

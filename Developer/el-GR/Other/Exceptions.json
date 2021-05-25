@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Το αντικείμενο πρέπει να έχει μια διεπαφή %s",
     "ERR_CLASS_NOT_FOUND": "Η κλάση %s δεν βρέθηκε",
     "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s",
-    "ERR_PAID_FUNCTIONALITY": "%s πληρωμένη λειτουργικότητα, θα πρέπει να το αγοράσετε"
+    "ERR_PAID_FUNCTIONALITY": "%s πληρωμένη λειτουργικότητα, θα πρέπει να το αγοράσετε",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

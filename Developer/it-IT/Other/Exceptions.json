@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "L'oggetto deve avere un'interfaccia %s",
     "ERR_CLASS_NOT_FOUND": "Classe %s non trovata",
     "ERR_CLASS_MUST_BE": "La classe deve essere %s",
-    "ERR_PAID_FUNCTIONALITY": "%s funzionalità a pagamento, devi acquistarla"
+    "ERR_PAID_FUNCTIONALITY": "%s funzionalità a pagamento, devi acquistarla",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

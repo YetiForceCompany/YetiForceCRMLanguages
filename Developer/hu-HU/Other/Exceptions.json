@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "A tárgy kell, hogy legyen egy felület %s",
     "ERR_CLASS_NOT_FOUND": "Osztály nem található",
     "ERR_CLASS_MUST_BE": "Az osztályba %s",
-    "ERR_PAID_FUNCTIONALITY": "%s fizetett funkció, meg kell vásárolni"
+    "ERR_PAID_FUNCTIONALITY": "%s fizetett funkció, meg kell vásárolni",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

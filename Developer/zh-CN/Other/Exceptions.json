@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "该对象必须具有接口 %s",
     "ERR_CLASS_NOT_FOUND": "类 %s 找不到",
     "ERR_CLASS_MUST_BE": "类必须是 %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it"
+    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

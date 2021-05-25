@@ -45,6 +45,8 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Các đối tượng phải có một diện %s",
     "ERR_CLASS_NOT_FOUND": "Class %s không tồn tại",
     "ERR_CLASS_MUST_BE": "Class phải là %s",
-    "ERR_PAID_FUNCTIONALITY": "%s chức năng có phí, bạn phải mua nó"
+    "ERR_PAID_FUNCTIONALITY": "%s chức năng có phí, bạn phải mua nó",
+    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_NO_TOKEN": "No token"
   }
 }

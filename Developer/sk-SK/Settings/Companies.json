@@ -55,7 +55,7 @@
     "LBL_PAID_FN_NO_SUBSCRIPTION": "Platené funkcie boli zapnuté v systéme %s, prosím zakúpte predplatné."
   },
   "js": {
-    "JS_ENTER_REGISTRATION_KEY": "Enter registration key",
-    "JS_ENTER_ALL_REGISTRATION_DATA": "Enter all required data"
+    "JS_ENTER_REGISTRATION_KEY": "Vlož registračný kľúč",
+    "JS_ENTER_ALL_REGISTRATION_DATA": "Vlož všetky požadované dáta"
   }
 }

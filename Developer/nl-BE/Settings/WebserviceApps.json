@@ -1,5 +1,6 @@
 {
   "php": {
+    "WebserviceApps": "Web service - Applications",
     "LBL_APP_NAME": "Name",
     "LBL_ADDRESS_URL": "Toegestane IP-adressen",
     "LBL_ADDRESS_URL_INFO": "Lege waarde - toegang van alle servers.\nAls IP-adressen worden ingevoerd (na de komma), dan wordt de toegang tot de API alleen toegestaan vanaf deze IP-adressen.\nVoorbeeld:",

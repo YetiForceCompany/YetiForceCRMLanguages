@@ -1,5 +1,6 @@
 {
   "php": {
+    "WebserviceApps": "Web service - Applikationen",
     "LBL_APP_NAME": "Bestandsname",
     "LBL_ADDRESS_URL": "Zulässige IPs",
     "LBL_ADDRESS_URL_INFO": "Leerer Wert - Zugriff von allen Servern.\nWenn die IP-Adressen eingegeben werden (nach dem Dezimalpunkt), wird API-Zugriff nur von diesen IP-Adressen erlaubt.\nBeispiel:",

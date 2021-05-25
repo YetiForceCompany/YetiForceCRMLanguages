@@ -47,7 +47,8 @@
     "LBL_REMOVE": "حذف",
     "LBL_CANCEL": "لغو",
     "LBL_MORE_INFO": "جهت اطلاعات بیشتر کلیک کنید",
-    "LBL_COPY_MENU": "کپی کردن منو"
+    "LBL_COPY_MENU": "کپی کردن منو",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "ویرایش",

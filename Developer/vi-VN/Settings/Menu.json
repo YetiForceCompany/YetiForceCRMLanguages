@@ -47,7 +47,8 @@
     "LBL_REMOVE": "Xoá",
     "LBL_CANCEL": "Huỷ",
     "LBL_MORE_INFO": "Click vào đây để xem thêm thông tin",
-    "LBL_COPY_MENU": "Copy trình đơn"
+    "LBL_COPY_MENU": "Copy trình đơn",
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
     "JS_EDIT": "Sửa",
