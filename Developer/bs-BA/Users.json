@@ -362,6 +362,7 @@
     "PLL_PASSWORD": "Lozinka",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Lozinka + 2FA",
+    "PLL_LDAP_2FA": "LDAP + 2FA",
     "BTN_MASS_OFF_2FA": "Masa isključivanje 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "U demo režimu 2FA je samo za pregled.",
     "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
@@ -410,7 +411,7 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_PASSWORD_LINK_SENT": "We sent you a link to change your password. Please check your inbox."
+    "LBL_PASSWORD_LINK_SENT": "The password change link is waiting to be sent, it can take a few minutes. Please check your inbox. "
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kada se korisnik izbriše, korisnik će biti označen kao \"Neaktivan\" i korisniku se ne mogu dodijeliti novi zapisi, a korisnik se neće moći prijaviti. Jeste li sigurni da želite izbrisati?",

@@ -10,7 +10,7 @@
     "LBL_ADDITIONAL_INFORMATION": "Additional info",
     "FL_COMPANY_NAME": "Company name",
     "FL_PARENT": "Parent department",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Stav",
     "FL_EMAIL_1": "Primary email",
     "FL_EMAIL_2": "Secondary email",
     "FL_PHONE": "Primary phone",
@@ -24,7 +24,7 @@
     "PLL_ACTIVE": "Active",
     "PLL_INACTIVE": "Inactive",
     "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "FL_WEBSITE": "Website",
+    "FL_WEBSITE": "Webstránka",
     "FL_LOGO": "Logo"
   }
 }

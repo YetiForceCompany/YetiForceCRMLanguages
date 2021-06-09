@@ -11,10 +11,12 @@
     "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Dôvod návštevy",
     "FL_DATE_TIME": "Dátum",
     "FL_PURPOSE": "Dôvod",
-    "FL_USER": "Používateľ",
+    "FL_USER": "Užívateľ",
     "FL_BASE_USER": "Base user",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Dôvod tohto prihlásenia",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Chcete aktivovať okno \"Dôvod tohto prihlásenia\" pre administrátorov keď sa prihlasujú do systému?"
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Chcete aktivovať okno \"Dôvod tohto prihlásenia\" pre administrátorov keď sa prihlasujú do systému?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Chcete aktivovať okno \"Účel prepnutia užívateľov\" pre administrátorov keď prepínajú užívateľov s systéme?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Zmeny uložené"

@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Thời gian giải quyết",
     "LBL_TIME_COUNTING_IDLE": "Thời gian rỗi",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Trường không phải là trường trạng thái xử lý.",
-    "LBL_IMPORT_VALUE": "Import values"
+    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Tất cả vai trò được chọn",

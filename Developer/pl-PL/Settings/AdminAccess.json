@@ -13,8 +13,10 @@
     "FL_PURPOSE": "Cel",
     "FL_USER": "Użytkownik",
     "FL_BASE_USER": "Użytkownik podstawowy",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Cel logowania",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Czy chcesz aktywować okno wprowadzenia celu wizyty dla administratorów podczas logowania do systemu?"
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Pytaj o przyczynę logowania",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Czy chcesz aktywować okno wprowadzenia celu wizyty dla administratorów podczas logowania do systemu?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Pytaj o cel przełączania użytkowników",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Czy chcesz aktywować okno wprowadzania celu wizyty dla administratorów przy przełączaniu użytkowników w systemie?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Zapisano zmiany"

@@ -1,10 +1,10 @@
 {
   "php": {
     "FL_PROVIDER": "Provider",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Stav",
     "FL_SMSAPI_FROM": "Sender name",
     "FL_API_KEY": "Api key",
-    "LBL_ADD_RECORD": "New configuration",
+    "LBL_ADD_RECORD": "Nová konfigurácia",
     "LBL_SMSNOTIFIER": "SMS provider configuration",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",
     "LBL_ADD_CONFIGURATION": "New configuration",

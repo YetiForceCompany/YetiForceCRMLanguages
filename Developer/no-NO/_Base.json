@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Globalt",
     "LBL_GROUP_DISCOUNTS": "Group",
     "LBL_INDIVIDUAL_DISCOUNTS": "Individual",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Percentage",
     "LBL_AMOUNT_DISCOUNTS": "Amount",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Discount for Account",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Daily",
     "LBL_MONTHLY": "Monthly",
     "LBL_YEARLY": "Yearly",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "Approve",

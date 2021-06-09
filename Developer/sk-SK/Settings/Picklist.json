@@ -5,9 +5,9 @@
     "LBL_EDIT": "Edit",
     "LBL_ADD_ITEM_TO": "Add item to",
     "LBL_ADD_VALUE": "Add value",
-    "LBL_ALL_ROLES": "All Roles",
+    "LBL_ALL_ROLES": "Všetky role",
     "LBL_ALL_VALUES": "All values",
-    "LBL_ASSIGN_TO_ROLE": "Assign to Role",
+    "LBL_ASSIGN_TO_ROLE": "Priradenie role",
     "LBL_ASSIGN_VALUE": "Assign Roles",
     "LBL_ASSIGN_VALUES_TO_ROLES": "Assign values to Roles",
     "LBL_CHOOSE_ROLES": "Choose Roles",
@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Resolve time",
     "LBL_TIME_COUNTING_IDLE": "Idle time",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Field is not a process status field.",
-    "LBL_IMPORT_VALUE": "Import hodnôt"
+    "LBL_IMPORT_VALUE": "Import hodnôt",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Ste si istý, že to chcete modifikovať/vymazať? Vybrané pole je vzájomne závisle na iných moduloch: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "All Roles selected",

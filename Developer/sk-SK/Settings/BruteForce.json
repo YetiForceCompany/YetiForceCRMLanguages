@@ -12,7 +12,7 @@
     "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
     "LBL_IP": "IP address",
     "LBL_DATE": "Date",
-    "LBL_USERS": "Users",
+    "LBL_USERS": "Uživatelia",
     "LBL_BROWSERS": "Browsers",
     "LBL_UNBLOCK": "Unblock",
     "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",

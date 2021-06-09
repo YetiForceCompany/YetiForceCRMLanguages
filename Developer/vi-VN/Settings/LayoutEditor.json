@@ -17,7 +17,6 @@
     "LBL_ADD_CUSTOM_BLOCK": "Thêm khối tuỳ chỉnh",
     "LBL_ADD_CUSTOM_FIELD": "Thêm trường tùy chỉnh",
     "BTN_ADD_SYSTEM_FIELD": "Add system field",
-    "LBL_ADD_SYSTEM_FIELD": "Add system field",
     "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Luôn hiển thị",
     "LBL_ALWAYS_HIDE": "Luôn ẩn",
@@ -206,7 +205,8 @@
     "LBL_RCV_PRIVATE": "Private filters (only my filters)",
     "LBL_RCV_ALL": "All filters from the module",
     "LBL_FILTERS_FROM_MODULE": "Filters from the module",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonymization",
+    "LBL_DUPLICATES_VALUES_FOUND": "Phát hiện giá trị trùng lặp"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Tên khối đã tồn tại",

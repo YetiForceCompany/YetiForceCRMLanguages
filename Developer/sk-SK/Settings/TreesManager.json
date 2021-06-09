@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add",
+    "LBL_ADD_RECORD": "Pridať",
     "TreesManager": "Tree manager",
     "LBL_TREES_MANAGER": "Fields – Folders",
     "LBL_TREES_MANAGER_DESCRIPTION": "Tree template manager",
@@ -14,7 +14,7 @@
     "LBL_SAVE": "Save",
     "LBL_SELECT_REPLACE_TREE_ITEM": "Change tree item to:",
     "Category": "Category",
-    "LBL_MULTICATEGORY": "List of categories",
+    "LBL_MULTICATEGORY": "Zoznam kategórií",
     "Reservations": "Reservations",
     "LBL_SHARE_WITH": "Share with"
   },

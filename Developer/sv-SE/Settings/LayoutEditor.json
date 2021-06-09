@@ -17,7 +17,6 @@
     "LBL_ADD_CUSTOM_BLOCK": "Add custom block",
     "LBL_ADD_CUSTOM_FIELD": "Add custom field",
     "BTN_ADD_SYSTEM_FIELD": "Add system field",
-    "LBL_ADD_SYSTEM_FIELD": "Add system field",
     "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Always show",
     "LBL_ALWAYS_HIDE": "Always hide",
@@ -206,7 +205,8 @@
     "LBL_RCV_PRIVATE": "Privata filter (endast mina filter)",
     "LBL_RCV_ALL": "Alla filter från modulen",
     "LBL_FILTERS_FROM_MODULE": "Filter från modulen",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonymization",
+    "LBL_DUPLICATES_VALUES_FOUND": "Duplicate values found"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Tiempo de respuesta",
     "LBL_TIME_COUNTING_IDLE": "Tiempo de inactividad",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "El campo no es un campo de estado del proceso.",
-    "LBL_IMPORT_VALUE": "Importar valores"
+    "LBL_IMPORT_VALUE": "Importar valores",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Todos los roles seleccionados",

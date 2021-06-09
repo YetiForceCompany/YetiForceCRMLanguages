@@ -362,6 +362,7 @@
     "PLL_PASSWORD": "Password",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Password + 2FA",
+    "PLL_LDAP_2FA": "LDAP + 2FA",
     "BTN_MASS_OFF_2FA": "Mass disable 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In demo mode, 2FA is for preview only.",
     "LBL_2FA_TOTP_DESC": "Para gerar códigos de uso único, você precisa do aplicativo apropriado.\nEle pode ser usado em um computador ou no telefone.",
@@ -410,7 +411,7 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_PASSWORD_LINK_SENT": "We sent you a link to change your password. Please check your inbox."
+    "LBL_PASSWORD_LINK_SENT": "The password change link is waiting to be sent, it can take a few minutes. Please check your inbox. "
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Quando um usuário é excluído, esse será marcado como \"Inativo\" e nenhum novo registro poderá ser atribuído a este usuário e o mesmo não poderá acessar o sistema. Você tem certeza que deseja efetuar a exclusão?",

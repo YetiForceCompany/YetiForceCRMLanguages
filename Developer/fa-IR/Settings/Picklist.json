@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "زمان حل و فصل",
     "LBL_TIME_COUNTING_IDLE": "زمان بیکار",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "فیلد یک فیلد وضعیت فرآیند نیست.",
-    "LBL_IMPORT_VALUE": "Import values"
+    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "تمامی نقش‌‌های انتخاب شده",

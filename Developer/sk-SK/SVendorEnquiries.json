@@ -9,8 +9,8 @@
     "LBL_SUBJECT": "Subject",
     "LBL_NUMBER": "Number",
     "LBL_CLOSED_TIME": "Closed time",
-    "LBL_STATUS": "Status",
-    "SINGLE_SSalesProcesses": "Opportunity",
+    "LBL_STATUS": "Stav",
+    "SINGLE_SSalesProcesses": "Príležitosť",
     "FL_TOTAL_PRICE": "Net Total",
     "FL_MARGINP": "Total margin percentage",
     "FL_MARGIN": "Total margin",
@@ -21,6 +21,6 @@
     "PLL_FOR_VERIFICATION": "For verification",
     "PLL_CANCELLED": "Cancelled",
     "PLL_COMPLETED": "Completed",
-    "LBL_CHANGE_STATUS": "Change status"
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
   }
 }

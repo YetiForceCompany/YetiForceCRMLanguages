@@ -362,6 +362,7 @@
     "PLL_PASSWORD": "Mot de passe",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Mot de passe   2FA",
+    "PLL_LDAP_2FA": "LDAP + 2FA",
     "BTN_MASS_OFF_2FA": "Désactivation glabal 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "En mode démo, 2FA est uniquement pour test.",
     "LBL_2FA_TOTP_DESC": "In order to generate single use codes you need the appropriate application.\nIt can be used on a computer or on a phone.",
@@ -410,7 +411,7 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Historique de l'activité d'accès à votre compte",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_PASSWORD_LINK_SENT": "Nous vous avons envoyé un lien pour changer votre mot de passe. Veuillez vérifier votre boîte de réception."
+    "LBL_PASSWORD_LINK_SENT": "Le lien de changement de mot de passe attend d'être envoyé, cela peut prendre quelques minutes. Veuillez vérifier votre boîte de réception. "
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "When a User is deleted, the user will be marked as \"Inactive\" and no new records can be assigned to the User, and the user will not be able to login. Are you sure you want to delete?",

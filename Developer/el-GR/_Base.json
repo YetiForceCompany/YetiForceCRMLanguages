@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Συνολικά",
     "LBL_GROUP_DISCOUNTS": "Ομάδα",
     "LBL_INDIVIDUAL_DISCOUNTS": "Μεμονωμένα",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Ποσοστό",
     "LBL_AMOUNT_DISCOUNTS": "Ποσό",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Έκπτωση για λογαριασμό",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Ημερήσια",
     "LBL_MONTHLY": "Μηνιαία",
     "LBL_YEARLY": "Ετήσια",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "Έγκριση",

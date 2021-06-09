@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Toàn cục",
     "LBL_GROUP_DISCOUNTS": "Nhóm",
     "LBL_INDIVIDUAL_DISCOUNTS": "Cá nhân",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Phần trăm",
     "LBL_AMOUNT_DISCOUNTS": "Số lượng",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Giảm giá cho tài khoản",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Hàng ngày",
     "LBL_MONTHLY": "Hàng tháng",
     "LBL_YEARLY": "Hàng năm",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "Phê duyệt",

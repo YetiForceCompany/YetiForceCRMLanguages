@@ -1,16 +1,16 @@
 {
   "php": {
     "Approvals": "Approvals",
-    "SINGLE_Approvals": "Approval",
+    "SINGLE_Approvals": "Schválenie",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
     "FL_NAME": "Name",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_NUMBER": "Number",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
+    "FL_APPROVALS_STATUS": "Stav",
+    "FL_DESCRIPTION": "Popis",
+    "FL_NUMBER": "Číslo",
+    "PLL_DRAFT": "Koncept",
+    "PLL_ACTIVE": "Aktívny",
     "PLL_INACTIVE": "Neaktívny"
   }
 }

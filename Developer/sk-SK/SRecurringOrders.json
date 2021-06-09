@@ -11,13 +11,13 @@
     "LBL_SUBJECT": "Subject",
     "LBL_NUMBER": "Number",
     "LBL_CLOSED_TIME": "Closed time",
-    "LBL_STATUS": "Status",
+    "LBL_STATUS": "Stav",
     "LBL_REALIZATION_START_DATE": "Realization start date",
     "LBL_REALIZATION_COMPLETION_DATE": "Realization completion date",
     "LBL_COMPANY_NAME": "Company name",
-    "SINGLE_SSalesProcesses": "Opportunity",
+    "SINGLE_SSalesProcesses": "Príležitosť",
     "LBL_END_PERIOD": "End period",
-    "LBL_FREQUENCY": "Frequency",
+    "LBL_FREQUENCY": "Frekvencia",
     "LBL_START_PERIOD": "Start period",
     "LBL_TARGET_MODULE": "Target module",
     "PLL_DRAFT": "Draft",
@@ -48,6 +48,6 @@
     "last day of next month": "Last day of next month",
     "first day of +3 months": "First day of next quarter",
     "last day of +3 months": "Last day of next quarter",
-    "LBL_CHANGE_STATUS": "Change status"
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
   }
 }

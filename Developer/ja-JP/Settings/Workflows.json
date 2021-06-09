@@ -258,7 +258,10 @@
     "LBL_WORKINGDAY_WEEK": "週の最初の営業日",
     "LBL_WORKINGDAY_MONTH": "月の最初の勤務日",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "カスタム関係",
-    "LBL_VERIFY_IF_EXISTS": "関連するレコードが存在する場合は、新しいレコードを作成しないでください。"
+    "LBL_VERIFY_IF_EXISTS": "関連するレコードが存在する場合は、新しいレコードを作成しないでください。",
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "workflow trigger records restriction off",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Conditions for records cannot be set in a given workflow mode.",
+    "LBL_ERROR_DELETE_ENTRY": "Error, delete entry."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "同じフィールドを複数選択しました",

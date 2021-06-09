@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "全局",
     "LBL_GROUP_DISCOUNTS": "用户组",
     "LBL_INDIVIDUAL_DISCOUNTS": "单独",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "百分比",
     "LBL_AMOUNT_DISCOUNTS": "金额",
     "LBL_DISCOUNT_FOR_ACCOUNT": "客户的折扣",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "每天",
     "LBL_MONTHLY": "每月",
     "LBL_YEARLY": "每年",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "同意",

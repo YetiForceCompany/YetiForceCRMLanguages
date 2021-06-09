@@ -1,6 +1,6 @@
 {
   "php": {
-    "Widgets": "Modules – Widgets",
+    "Widgets": "Moduly - Widgety",
     "LBL_MODULE_DESC": "Module managing widgets in summary",
     "Add widget": "Pridať Widget",
     "Type widget": "Typ",
@@ -58,7 +58,7 @@
     "LBL_SHITCH_HEADER_INFO": "Switch can be found in the widget's header.",
     "HistoryRelation": "Timeline",
     "UpdatesList": "Field history and duration summary",
-    "CountRecords": "Number of records",
+    "CountRecords": "Počet záznamov",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
     "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
     "RelatedModuleChart": "Related module - chart",

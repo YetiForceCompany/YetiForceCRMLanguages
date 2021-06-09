@@ -1,6 +1,6 @@
 {
   "php": {
-    "RecordNumbering": "Record numbering",
+    "RecordNumbering": "Číslovanie záznamov",
     "LBL_VIEW_CUSTOMRECORDNUMBERING": "Customize record numbering",
     "LBL_ADVANCED_RECORD_NUMBERING": "Picklist sequence settings",
     "LBL_CUSTOMIZE_RECORD_NUMBERING": "Modules - Prefixes",

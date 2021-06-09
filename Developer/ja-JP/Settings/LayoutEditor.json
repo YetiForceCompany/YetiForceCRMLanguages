@@ -17,7 +17,6 @@
     "LBL_ADD_CUSTOM_BLOCK": "カスタムブロックを追加",
     "LBL_ADD_CUSTOM_FIELD": "カスタムフィールドを追加",
     "BTN_ADD_SYSTEM_FIELD": "Add system field",
-    "LBL_ADD_SYSTEM_FIELD": "Add system field",
     "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "常に表示",
     "LBL_ALWAYS_HIDE": "常に非表示",
@@ -206,7 +205,8 @@
     "LBL_RCV_PRIVATE": "Private filters (only my filters)",
     "LBL_RCV_ALL": "All filters from the module",
     "LBL_FILTERS_FROM_MODULE": "Filters from the module",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonymization",
+    "LBL_DUPLICATES_VALUES_FOUND": "重複した値が見つかりました"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "ブロック名は既に存在します",

@@ -1,15 +1,15 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
+    "LBL_ADD_RECORD": "Pridať záznam",
     "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
     "LBL_DUPLICATES_EXIST": "Group name already exists",
     "LBL_GROUP_MEMBERS": "Group members",
     "LBL_GROUP_NAME": "Group name",
     "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
     "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
+    "LBL_TRANSFORM_OWNERSHIP": "Prevod vlastníctva",
     "SINGLE_Groups": "Group",
-    "Users": "Users",
+    "Users": "Uživatelia",
     "Name": "Group name",
     "Description": "Description"
   },

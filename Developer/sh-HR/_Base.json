@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Globalno",
     "LBL_GROUP_DISCOUNTS": "Grupno",
     "LBL_INDIVIDUAL_DISCOUNTS": "Individualno",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Procenat",
     "LBL_AMOUNT_DISCOUNTS": "Iznos",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Popust za Klijenta",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Dnevno",
     "LBL_MONTHLY": "Mjesečno",
     "LBL_YEARLY": "Godišnje",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "Odobriti",

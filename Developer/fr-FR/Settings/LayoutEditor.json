@@ -17,7 +17,6 @@
     "LBL_ADD_CUSTOM_BLOCK": "Ajouter un bloc personalisé",
     "LBL_ADD_CUSTOM_FIELD": "Ajouter un champ personalisé",
     "BTN_ADD_SYSTEM_FIELD": "Add system field",
-    "LBL_ADD_SYSTEM_FIELD": "Add system field",
     "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "Toujours afficher",
     "LBL_ALWAYS_HIDE": "Toujours cacher",
@@ -206,7 +205,8 @@
     "LBL_RCV_PRIVATE": "Filtres privés (uniquement mes filtres)",
     "LBL_RCV_ALL": "All filters from the module",
     "LBL_FILTERS_FROM_MODULE": "Filters from the module",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonymization",
+    "LBL_DUPLICATES_VALUES_FOUND": "Valeurs doublons trouvées"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nom du bloc existe déjà",

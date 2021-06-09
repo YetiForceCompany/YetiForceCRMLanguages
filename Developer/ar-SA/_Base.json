@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Global",
     "LBL_GROUP_DISCOUNTS": "المجموعة",
     "LBL_INDIVIDUAL_DISCOUNTS": "شخصي",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "النسبة المئوية ",
     "LBL_AMOUNT_DISCOUNTS": "المبلغ",
     "LBL_DISCOUNT_FOR_ACCOUNT": "خصم حساب",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "يوميا",
     "LBL_MONTHLY": "شهرياً",
     "LBL_YEARLY": "سنويا",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "إعتماد",

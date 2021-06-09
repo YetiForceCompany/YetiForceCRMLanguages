@@ -53,7 +53,7 @@
 		"LBL_HOW_TO_ENABLE_CRON": "How to enable cron",
 		"LBL_CRON_TASKS_LIST": "Cron task list",
 		"LBL_REGISTRATION": "Registration",
-		"LBL_NEWSLETTER_NO_COMPANY_DATA": "No e-mail address was added to company details. Fill in the required data if you want to receive a newsletter.",
+		"LBL_NEWSLETTER_NO_COMPANY_DATA": "Nebol pridaný žiadny email spoločnosti. Vyplňte požadované údaje ak chcete dostávať novinky.",
 		"LBL_COMPANY_DATA": "Go to company details",
 		"LBL_SYSTEM_UPDATER": "System updater",
 		"LBL_LANGUAGES_UPDATER": "Languages updater",

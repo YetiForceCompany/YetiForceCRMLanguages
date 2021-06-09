@@ -258,7 +258,10 @@
     "LBL_WORKINGDAY_WEEK": "Erster Arbeitstag der Woche",
     "LBL_WORKINGDAY_MONTH": "Erster Arbeitstag des Monats",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "Benutzerdefinierte Beziehungen",
-    "LBL_VERIFY_IF_EXISTS": "Neuen Datensatz nicht erstellen, wenn verwandter Datensatz existiert"
+    "LBL_VERIFY_IF_EXISTS": "Neuen Datensatz nicht erstellen, wenn verwandter Datensatz existiert",
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "workflow trigger records restriction off",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Conditions for records cannot be set in a given workflow mode.",
+    "LBL_ERROR_DELETE_ENTRY": "Error, delete entry."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Dieselben Felder mehr als einmal ausgewählt",

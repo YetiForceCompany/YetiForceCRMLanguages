@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "解决时间",
     "LBL_TIME_COUNTING_IDLE": "空闲时间",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "字段不是流程状态字段。",
-    "LBL_IMPORT_VALUE": "Import values"
+    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "所有已选择的角色",

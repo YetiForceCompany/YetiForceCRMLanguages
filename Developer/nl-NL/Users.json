@@ -362,6 +362,7 @@
     "PLL_PASSWORD": "Wachtwoord",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Wachtwoord + 2FA",
+    "PLL_LDAP_2FA": "LDAP + 2FA",
     "BTN_MASS_OFF_2FA": "Bulk 2FA uitschakelen",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In demomodus is 2FA enkel bedoeld als voorbeeld.",
     "LBL_2FA_TOTP_DESC": "Om eenmalige gebruikscodes te genereren heeft u de juiste applicatie nodig.\nDeze kan gebruikt worden op een computer of op een telefoon.",
@@ -410,7 +411,7 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_PASSWORD_LINK_SENT": "We sent you a link to change your password. Please check your inbox."
+    "LBL_PASSWORD_LINK_SENT": "The password change link is waiting to be sent, it can take a few minutes. Please check your inbox. "
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Wanneer een gebruiker wordt verwijderd, zal de gebruiker worden gemarkeerd als \"Inactief\" en geen nieuwe records kunnen worden toegewezen aan de gebruiker, en de gebruiker kan niet inloggen. Weet u zeker dat u wilt verwijderen?",

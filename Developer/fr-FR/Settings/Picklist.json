@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Temps de résolution",
     "LBL_TIME_COUNTING_IDLE": "Temps d'inactivité",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Le champ n'est pas un champ d'état du processus.",
-    "LBL_IMPORT_VALUE": "Importer des valeurs"
+    "LBL_IMPORT_VALUE": "Importer des valeurs",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Êtes-vous sûr de vouloir le modifier/supprimer ? Le champ sélectionné est interdépendant avec d'autres modules : %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Tous les Rôles sélectionnés",

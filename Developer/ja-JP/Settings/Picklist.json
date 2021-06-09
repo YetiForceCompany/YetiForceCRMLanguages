@@ -50,7 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "時間を解決する",
     "LBL_TIME_COUNTING_IDLE": "アイドル時間",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "フィールドはプロセスステータスフィールドではありません。",
-    "LBL_IMPORT_VALUE": "Import values"
+    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "すべてのロールが選択されました",

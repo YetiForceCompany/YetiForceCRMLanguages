@@ -8,7 +8,7 @@
     "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
     "LBL_TITLE_MAX_LENGTH": "Maximálna dĺžka znakov pre názov",
     "LBL_MINIMUM_CRON_FREQUENCY": "Minimum cron frequency [min] ",
-    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum number of records in mass edition",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximálny počet záznamov v hromadnej úprave",
     "LBL_BG_CLOSING_MODAL": "Enable closing of modal window by clicking on the background",
     "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
     "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",

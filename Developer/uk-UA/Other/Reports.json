@@ -2,7 +2,7 @@
   "php": {
     "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
     "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
+    "LBL_UNTIL_DAY": "до дня",
     "LBL_ACTUAL_STATUS": "with actual status",
     "LBL_CALENDAR_OVERDUE": "Overdue activities",
     "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",

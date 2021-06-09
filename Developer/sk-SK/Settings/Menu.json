@@ -48,7 +48,7 @@
     "LBL_CANCEL": "Zrušiť",
     "LBL_MORE_INFO": "Pre viac informácií kliknite tu",
     "LBL_COPY_MENU": "Kopírovať menu",
-    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Aplikovanie obmedzení znemožní vytváranie filtrov z tohto zobrazenia zoznamu."
   },
   "js": {
     "JS_EDIT": "Upraviť",

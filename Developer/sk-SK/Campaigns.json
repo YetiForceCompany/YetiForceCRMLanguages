@@ -44,7 +44,7 @@
     "Telemarketing": "Telemarketing",
     "Webinar": "Webinar",
     "Message sent": "Message sent",
-    "LBL_LOAD_RECORDS": "Load from filter",
+    "LBL_LOAD_RECORDS": "Načítať z filtra",
     "LBL_LOAD_RECORDS_INFO": "Button used to load all records that meet the conditions specified in filter.",
     "LBL_COUNT_RECORDS_WIDGET": "Number of related modules records"
   },

@@ -17,7 +17,6 @@
     "LBL_ADD_CUSTOM_BLOCK": "添加自定义区块",
     "LBL_ADD_CUSTOM_FIELD": "添加自定义字段",
     "BTN_ADD_SYSTEM_FIELD": "Add system field",
-    "LBL_ADD_SYSTEM_FIELD": "Add system field",
     "LBL_NO_FIELDS_ADD": "No fields to add",
     "LBL_ALWAYS_SHOW": "总是显示",
     "LBL_ALWAYS_HIDE": "总是隐藏",
@@ -206,7 +205,8 @@
     "LBL_RCV_PRIVATE": "Private filters (only my filters)",
     "LBL_RCV_ALL": "All filters from the module",
     "LBL_FILTERS_FROM_MODULE": "Filters from the module",
-    "LBL_ANONYMIZATION_TARGET": "Anonymization"
+    "LBL_ANONYMIZATION_TARGET": "Anonymization",
+    "LBL_DUPLICATES_VALUES_FOUND": "发现重复值"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",

@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Global",
     "LBL_GROUP_DISCOUNTS": "Grup",
     "LBL_INDIVIDUAL_DISCOUNTS": "Individual",
+    "LBL_AVAILABLE_DICOUNTS": "Available discounts",
+    "LBL_ACCOUNT_DISCOUNT": "Account's discount",
+    "LBL_CUSTOM_DISCOUNT": "Custom discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Procentaj",
     "LBL_AMOUNT_DISCOUNTS": "Suma",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Discount pentru Cont",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Zilnic",
     "LBL_MONTHLY": "Lunar",
     "LBL_YEARLY": "Anual",
-    "LBL_USER_AGENT": "User agent"
+    "LBL_USER_AGENT": "User agent",
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {
     "JS_APPROVE": "Approve",

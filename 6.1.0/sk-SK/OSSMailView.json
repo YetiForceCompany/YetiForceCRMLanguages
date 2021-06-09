@@ -2,10 +2,10 @@
   "php": {
     "OSSMailView": "Email history",
     "SINGLE_OSSMailView": "Email history",
-    "LBL_RECORDS_LIST": "List of emails",
+    "LBL_RECORDS_LIST": "Zoznam emailov",
     "LBL_INFORMATION": "General Information",
     "LBL_ORIGN_MESSAGE": "Original message",
-    "relatedid": "Related to",
+    "relatedid": "Súvisiace s",
     "yes": "Yes",
     "no": "No",
     "number": "Number",

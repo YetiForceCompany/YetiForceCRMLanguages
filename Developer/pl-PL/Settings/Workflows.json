@@ -258,7 +258,10 @@
     "LBL_WORKINGDAY_WEEK": "Pierwszy roboczy dzień tygodnia",
     "LBL_WORKINGDAY_MONTH": "Pierwszy roboczy dzień miesiąca",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relacje niestandardowe",
-    "LBL_VERIFY_IF_EXISTS": "Nie twórz nowego rekordu, jeśli istnieje powiązany rekord"
+    "LBL_VERIFY_IF_EXISTS": "Nie twórz nowego rekordu, jeśli istnieje powiązany rekord",
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "Wyłączone ograniczenie rekordów wyzwalacza przepływu pracy",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Warunki dla rekordów nie mogą być ustawione w danym trybie przepływu pracy.",
+    "LBL_ERROR_DELETE_ENTRY": "Błąd, usuń wpis."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

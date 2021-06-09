@@ -992,6 +992,9 @@
     "LBL_GLOBAL_DISCOUNTS": "Globalny",
     "LBL_GROUP_DISCOUNTS": "Grupowy",
     "LBL_INDIVIDUAL_DISCOUNTS": "Indywidualny",
+    "LBL_AVAILABLE_DICOUNTS": "Dostępne rabaty",
+    "LBL_ACCOUNT_DISCOUNT": "Rabat Klienta",
+    "LBL_CUSTOM_DISCOUNT": "Niestandardowy rabat",
     "LBL_PERCENTAGE_DISCOUNTS": "Procentowy",
     "LBL_AMOUNT_DISCOUNTS": "Wartościowy",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Rabat ustawiony na kontrahencie",
@@ -1486,7 +1489,8 @@
     "LBL_DAILY": "Codziennie",
     "LBL_MONTHLY": "Co miesiąc",
     "LBL_YEARLY": "Co roku",
-    "LBL_USER_AGENT": "Agent użytkownika"
+    "LBL_USER_AGENT": "Agent użytkownika",
+    "LBL_LIMIT_INFO": "Historia pokazuje tylko ostatnie %s wpisy, pełna lista jest dostępna w panelu administratora."
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
