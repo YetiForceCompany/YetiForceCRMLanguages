@@ -2,8 +2,10 @@
   "php": {
     "WebserviceApps": "Spletne storitve - aplikacije",
     "LBL_APP_NAME": "Ime",
-    "LBL_ADDRESS_URL": "Dovoljeni naslovi IP",
-    "LBL_ADDRESS_URL_INFO": "Brez vrednosti - dostop z vseh strežnikov.\nČe vnesete naslove IP (za decimalno vejico), bo dostop do API dovoljen samo s teh IP naslovov.\nPrimer:",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Dovoljeni naslovi IP",
+    "LBL_ALLOWED_IPS_INFO": "Brez vrednosti - dostop z vseh strežnikov.\nČe vnesete naslove IP (za decimalno vejico), bo dostop do API dovoljen samo s teh IP naslovov.\nPrimer:",
     "LBL_TYPE_SERVER": "Vrsta",
     "LBL_API_KEY": "Ključ",
     "LBL_ADD_APPLICATION": "Dodaj ključ",

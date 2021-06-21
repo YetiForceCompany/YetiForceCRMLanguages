@@ -37,6 +37,7 @@
     "FL_LAST_INVALID_LOGIN": "Error message of the last failed login",
     "FL_LAST_ERROR": "Last error message",
     "FL_LAST_ERROR_METHOD": "Last error method",
+    "LBL_DEVICE_ID": "Device ID",
     "FL_LAST_ERROR_DATE": "Date of the last error",
     "LBL_PARAMS": "Params",
     "LBL_SIGNED_IN": "Signed in",
@@ -50,7 +51,10 @@
     "ERR_FORGOT_PASSWORD_SEND_MAIL": "Email with password change has been sent",
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_FAILED_PASSWORD_CHANGED": "Failed attempt to change password"
+    "LBL_FAILED_PASSWORD_CHANGED": "Failed attempt to change password",
+    "LBL_RESET_PASSWORD_REQUEST": "Password reset request",
+    "ERR_RESET_PASSWORD_REQUEST_SMTP_ERROR": "Error sending email with password reset",
+    "LBL_RESET_PASSWORD_CHANGED": "Password reset"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟",

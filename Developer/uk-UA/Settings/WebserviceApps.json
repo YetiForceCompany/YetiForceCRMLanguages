@@ -2,8 +2,10 @@
   "php": {
     "WebserviceApps": "Веб-сервіс - Додатки",
     "LBL_APP_NAME": "Назва",
-    "LBL_ADDRESS_URL": "Дозволені IP адреси",
-    "LBL_ADDRESS_URL_INFO": "Порожнє значення - доступ до всіх серверів.\nЯкщо введені IP-адреси (після точки), доступ до API буде дозволений тільки з цих IP-адрес.\nПриклад:",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Дозволені IP адреси",
+    "LBL_ALLOWED_IPS_INFO": "Порожнє значення - доступ до всіх серверів.\nЯкщо введені IP-адреси (після точки), доступ до API буде дозволений тільки з цих IP-адрес.\nПриклад:",
     "LBL_TYPE_SERVER": "Тип",
     "LBL_API_KEY": "Ключ",
     "LBL_ADD_APPLICATION": "Додати ключ",

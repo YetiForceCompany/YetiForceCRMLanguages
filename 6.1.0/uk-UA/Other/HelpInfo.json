@@ -6,7 +6,7 @@
     "Users|FL_OVERRIDE_SEARCH_MODULE": "If the option is checked, the system will by default force the module selected.",
     "Users|User Name": "An unique field that is used as the login while logging into the system. If we are integrating with the LDAP service then logins in both systems must be the same.",
     "Users|Admin": "Specifies whether the user has admin permissions.",
-    "Users|First Name": "User's first name.",
+    "Users|First Name": "Ім’я корист.",
     "Users|Last name": "User's last name.",
     "Users|Role": "Role assigned to the user.",
     "Users|Status": "Specifies whether the user is active or inactive.",

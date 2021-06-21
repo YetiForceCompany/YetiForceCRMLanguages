@@ -37,6 +37,7 @@
     "FL_LAST_INVALID_LOGIN": "Komunikat błędu ostatniego nieudanego logowania",
     "FL_LAST_ERROR": "Komunikat ostatniego błędu",
     "FL_LAST_ERROR_METHOD": "Metoda ostatniego błędu",
+    "LBL_DEVICE_ID": "ID urządzenia",
     "FL_LAST_ERROR_DATE": "Data ostatniego błędu",
     "LBL_PARAMS": "Parametry",
     "LBL_SIGNED_IN": "Zalogowano",
@@ -50,7 +51,10 @@
     "ERR_FORGOT_PASSWORD_SEND_MAIL": "E-mail ze zmianą hasła został wysłany",
     "ERR_WRONG_2FA_CODE": "Nieprawidłowy kod 2FA/TOPO",
     "LBL_PASSWORD_CHANGED": "Hasło zostało zmienione",
-    "LBL_FAILED_PASSWORD_CHANGED": "Nie udało się zmienić hasła"
+    "LBL_FAILED_PASSWORD_CHANGED": "Nie udało się zmienić hasła",
+    "LBL_RESET_PASSWORD_REQUEST": "Prośba o zresetowanie hasła",
+    "ERR_RESET_PASSWORD_REQUEST_SMTP_ERROR": "Wystąpił błąd podczas wysyłania wiadomości e-mail z resetem hasła",
+    "LBL_RESET_PASSWORD_CHANGED": "Resetowanie hasła"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?",

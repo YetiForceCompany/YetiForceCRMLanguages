@@ -51,7 +51,7 @@
     "LBL_SUMMARY": "Підсумок",
     "LBL_SELECT_BUTTON_INFO": "Enable visible select button",
     "LBL_CONDITION": "Стан",
-    "LBL_CONDITION_INFO": "Select condition for showing records",
+    "LBL_CONDITION_INFO": "Виберіть умови для відображення записів",
     "LBL_SHOW_ALL_RECORDS": "Показати всі записи",
     "LBL_SHOW_ALL_RECORDS_INFO": "No - Permissions are taken into account \r\n Yes - Searching for records excluding permissions",
     "LBL_SHITCH_HEADER": "Перемикач у заголовку",
@@ -62,7 +62,7 @@
     "LBL_LIST_WITH_SUMMARY": "Список із зведенням",
     "LBL_CURRENT_HISTORY_SWITCH": "Поточний/Історія",
     "RelatedModuleChart": "Related module - chart",
-    "Documents": "Documents",
+    "Documents": "Документи",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships"
   },
   "js": {

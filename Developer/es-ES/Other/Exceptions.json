@@ -46,7 +46,7 @@
     "ERR_CLASS_NOT_FOUND": "Clase %s no encontrada",
     "ERR_CLASS_MUST_BE": "La clase debe ser %s",
     "ERR_PAID_FUNCTIONALITY": "%s funcionalidad pagada, debes comprarla",
-    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_TOKEN_DOES_NOT_EXIST": "Ese token no existe o ha expirado",
     "ERR_NO_TOKEN": "No token",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Incorrect 2FA TOTP code",
     "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code"

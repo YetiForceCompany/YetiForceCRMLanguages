@@ -2,8 +2,10 @@
   "php": {
     "WebserviceApps": "Applications - Web service",
     "LBL_APP_NAME": "Nom",
-    "LBL_ADDRESS_URL": "Adresses IP autorisées",
-    "LBL_ADDRESS_URL_INFO": "Si valeur vide, accès depuis tous les serveurs.\nSi des adresses IP sont saisies (après le point décimal), l'accès à l'API ne sera autorisé qu'à partir de ces adresses IP.\nExemple :",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Adresses IP autorisées",
+    "LBL_ALLOWED_IPS_INFO": "Si valeur vide, accès depuis tous les serveurs.\nSi des adresses IP sont saisies (après le point décimal), l'accès à l'API ne sera autorisé qu'à partir de ces adresses IP.\nExemple :",
     "LBL_TYPE_SERVER": "Type",
     "LBL_API_KEY": "Clé",
     "LBL_ADD_APPLICATION": "Ajouter une clé",

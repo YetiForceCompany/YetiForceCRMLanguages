@@ -2,8 +2,10 @@
   "php": {
     "WebserviceApps": "Web service - Applications",
     "LBL_APP_NAME": "Name",
-    "LBL_ADDRESS_URL": "Toegestane IP-adressen",
-    "LBL_ADDRESS_URL_INFO": "Lege waarde - toegang van alle servers.\nAls IP-adressen worden ingevoerd (na de komma), dan wordt de toegang tot de API alleen toegestaan vanaf deze IP-adressen.\nVoorbeeld:",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Toegestane IP-adressen",
+    "LBL_ALLOWED_IPS_INFO": "Lege waarde - toegang van alle servers.\nAls IP-adressen worden ingevoerd (na de komma), dan wordt de toegang tot de API alleen toegestaan vanaf deze IP-adressen.\nVoorbeeld:",
     "LBL_TYPE_SERVER": "Type",
     "LBL_API_KEY": "Key",
     "LBL_ADD_APPLICATION": "Add key",

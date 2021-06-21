@@ -37,6 +37,7 @@
     "FL_LAST_INVALID_LOGIN": "Error message of the last failed login",
     "FL_LAST_ERROR": "Last error message",
     "FL_LAST_ERROR_METHOD": "Last error method",
+    "LBL_DEVICE_ID": "Laitetunnus",
     "FL_LAST_ERROR_DATE": "Date of the last error",
     "LBL_PARAMS": "Parametrit",
     "LBL_SIGNED_IN": "Kirjautunut Sisään",
@@ -46,11 +47,14 @@
     "ERR_USER_NOT_FOUND": "Käyttäjää ei löydy",
     "ERR_NO_CRMID": "Ei yhteystiedon tunnusta",
     "ERR_2FA_NOT_BEEN_ENABLED": "Kaksivaiheinen todennus ei ole käytössä",
-    "ERR_2FA_ALREADY_GENERATED": "A secret 2FA key has already been generated.",
+    "ERR_2FA_ALREADY_GENERATED": "Salainen 2FA avain on jo luotu.",
     "ERR_FORGOT_PASSWORD_SEND_MAIL": "Sähköposti salasanan vaihtamiseksi on lähetetty",
     "ERR_WRONG_2FA_CODE": "Väärä 2FA/TOPO-koodi",
     "LBL_PASSWORD_CHANGED": "Salasana vaihdettu",
-    "LBL_FAILED_PASSWORD_CHANGED": "Salasanana vaihto epäonnistui"
+    "LBL_FAILED_PASSWORD_CHANGED": "Salasanana vaihto epäonnistui",
+    "LBL_RESET_PASSWORD_REQUEST": "Hae uutta salasanaa",
+    "ERR_RESET_PASSWORD_REQUEST_SMTP_ERROR": "Error sending email with password reset",
+    "LBL_RESET_PASSWORD_CHANGED": "Password reset"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",

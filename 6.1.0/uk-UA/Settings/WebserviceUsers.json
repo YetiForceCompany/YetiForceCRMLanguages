@@ -1,7 +1,7 @@
 {
   "php": {
-    "WebserviceUsers": "Web service - Users",
-    "LBL_WEBSERVICE_USERS": "Web service - Users",
+    "WebserviceUsers": "Веб-сервіс - Користувачі",
+    "LBL_WEBSERVICE_USERS": "Веб-сервіс - Користувачі",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "FL_SERVER": "Сервер",
     "FL_STATUS": "Статус",
@@ -15,7 +15,7 @@
     "FL_USER": "Користувач",
     "BTN_SAVE": "Зберегти",
     "BTN_CLOSE": "Скасувати",
-    "PLL_USER_PERMISSIONS": "Permissions based on user",
+    "PLL_USER_PERMISSIONS": "Дозволи на основі користувача",
     "PLL_ACCOUNTS_RELATED_RECORDS": "All records of account assigned directly to contact",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts lower in hierarchy",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts from hierarchy",
@@ -24,7 +24,7 @@
     "LBL_CREATE_RECORD": "Створити",
     "Mail": "Mail",
     "FL_STORAGE": "Storage",
-    "FL_TOKEN": "Token",
+    "FL_TOKEN": "Токен",
     "ManageConsents": "Управління згодами"
   },
   "js": {
