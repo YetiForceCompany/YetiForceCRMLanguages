@@ -44,10 +44,10 @@
     "PLL_CURRENT_YEAR": "Поточний Рік",
     "LBL_SAVE_DASHBOARD": "Зберегти інформаційну панель",
     "LBL_NAME_DASHBOARD": "Назва панелі",
-    "Upcoming events": "Upcoming events based on selected date fields.",
-    "LBL_FIELD_DATE": "Date field",
-    "LBL_SKIP_YEAR": "Skip the year",
-    "LBL_SKIP_YEAR_DESC": "Skip the year of the event by only considering the month and day."
+    "Upcoming events": "Майбутні події на основі обраних полів дати.",
+    "LBL_FIELD_DATE": "Поле Дата",
+    "LBL_SKIP_YEAR": "Пропустити рік",
+    "LBL_SKIP_YEAR_DESC": "Пропустити рік події лише розглянувши місяць і день."
   },
   "js": {
     "JS_BLOCK_ADDED": "Блок був успішно доданий",
