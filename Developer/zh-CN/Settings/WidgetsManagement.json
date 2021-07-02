@@ -14,7 +14,7 @@
     "LBL_CREATE_CUSTOM_FIELD": "添加布局组件到面板",
     "LBL_ADD_CONDITION": "添加角色",
     "LBL_INVALID_DATA": "无效数据",
-    "WidgetsManagement": "布局组件管理",
+    "WidgetsManagement": "Dashboard - Widgets",
     "LBL_WIDGETS_MANAGEMENT": "Dashboard - Widgets",
     "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": "Description",
     "LBL_MANDATORY_WIDGET": "必填布局组件",

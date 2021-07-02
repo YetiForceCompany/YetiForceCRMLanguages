@@ -5,7 +5,7 @@
     "ViewName": "Filtro",
     "SetDefault": "Predefinito per tutti [per utente, gruppo, ...]",
     "LBL_PRIVILEGES_TO_EDIT": "Modifica",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "Disponibilità",
     "Delete": "Elimina",
     "Delete CustomView": "Filtro eliminato",
     "Saving CustomView": "Filtro salvato",
@@ -26,9 +26,9 @@
     "LBL_SORT_ASCENDING_ORDER": "Ordine crescente",
     "LBL_SORT_DESCENDING_ORDER": "Ordine decrescente",
     "LBL_ATTENTION": "Avviso!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Solo i filtri privati possono ricevere permessi parziali",
+    "LBL_PUBLIC": "Pubblico",
+    "LBL_PRIVATE": "Privato"
   },
   "js": {
     "Saving changes": "Salvataggio in corso ...",

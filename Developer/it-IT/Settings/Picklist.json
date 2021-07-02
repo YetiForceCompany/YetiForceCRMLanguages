@@ -50,7 +50,7 @@
     "LBL_TIME_COUNTING_RESOLVE": "Tempo di risoluzione",
     "LBL_TIME_COUNTING_IDLE": "Tempo di inattività",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Il campo non è un campo di stato del processo.",
-    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_IMPORT_VALUE": "Importa valori",
     "LBL_CONFIRM_BEFORE_MODIFY": "Sei sicuro di volerlo modificare/eliminare? Il campo selezionato è interdipendente con altri moduli: %s"
   },
   "js": {

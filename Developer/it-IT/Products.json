@@ -73,16 +73,16 @@
     "FL_QTY_IN_STOCK": "Quantità di prodotto in magazzino",
     "FL_PURCHASE": "Acquisto",
     "FL_WEIGHT": "Peso",
-    "LBL_IMPORT_STOCKTAKING": "Product stocktaking import",
-    "LBL_STORAGE_QUANTITY_LOCATION": "Storage quantity location",
-    "LBL_PRODUCTS_STORAGE_FIELD": "Inventory status based on the 'Available product quantity' field in products.",
-    "BTN_ANALYZE_FILE": "Analyze the file",
-    "BTN_COMPARE_STOCK_LEVELS": "Compare stock levels",
-    "LBL_ENTRIES_TO_UPDATE": "Entries to be updated",
-    "LBL_NUMBER_ENTRIES_TO_UPDATE": "Number of entries to be updated",
-    "LBL_NUMBER_ENTRIES_NO_UPDATE": "Number of entries that don't require updating",
-    "LBL_NUMBER_ENTRIES_NOT_FOUND": "Number of entries not found",
-    "LBL_LIST_ENTRIES_NOT_FOUND": "List of entries not found",
-    "LBL_IMPORT_STOCK_ALERT": "Changing the stock level requires verification and approval, only then the stock level will change."
+    "LBL_IMPORT_STOCKTAKING": "Importazione scorta dei prodotti",
+    "LBL_STORAGE_QUANTITY_LOCATION": "Posizione quantità in magazzino",
+    "LBL_PRODUCTS_STORAGE_FIELD": "Stato dell'inventario in base al campo della 'Quantità di prodotti disponibili' nei prodotti.",
+    "BTN_ANALYZE_FILE": "Analizza il file",
+    "BTN_COMPARE_STOCK_LEVELS": "Confronta livelli nelle scorte",
+    "LBL_ENTRIES_TO_UPDATE": "Voci da aggiornare",
+    "LBL_NUMBER_ENTRIES_TO_UPDATE": "Numero di voci da aggiornare",
+    "LBL_NUMBER_ENTRIES_NO_UPDATE": "Numero di voci che non richiedono l'aggiornamento",
+    "LBL_NUMBER_ENTRIES_NOT_FOUND": "Numero di voci non trovate",
+    "LBL_LIST_ENTRIES_NOT_FOUND": "Elenco di voci non trovate",
+    "LBL_IMPORT_STOCK_ALERT": "Cambiare il livello delle scorte richiede la verifica e l'approvazione, solo allora il livello di scorte cambierà."
   }
 }

@@ -48,7 +48,7 @@
     "LBL_CANCEL": "Annulla",
     "LBL_MORE_INFO": "Clic per maggiori informazioni",
     "LBL_COPY_MENU": "Copia menù",
-    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applicare le restrizioni rende impossibile creare filtri da questa vista elenco."
   },
   "js": {
     "JS_EDIT": "Modifica",

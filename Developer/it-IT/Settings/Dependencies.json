@@ -10,7 +10,7 @@
     "LBL_SECURITY_DEPENDENCIES": "Vulnerabilità di sicurezza nelle librerie usate",
     "LBL_SECURITY_PHP": "Vulnerabilità di sicurezza nel motore PHP",
     "LBL_SECURITY_OS": "Vulnerabilità di sicurezza nel sistema operativo",
-    "LBL_SECURITY_SERVERSOFTWARE": "Security vulnerabilities in Server Software",
+    "LBL_SECURITY_SERVERSOFTWARE": "Vulnerabilità di sicurezza nel Software del Server",
     "LBL_SECURITY_SQL": "Vulnerabilità di sicurezza nel motore del database",
     "LBL_LIB_NAME": "Nome libreria/app",
     "LBL_VULNERABILITY_NAME": "Nome vulnerabilità",

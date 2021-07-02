@@ -14,7 +14,7 @@
     "EmailList": "Email",
     "RelatedModule": "Relazione",
     "WYSIWYG": "Descrizione record",
-    "PDFViewer": "PDF printouts preview (Premium Widgets)",
+    "PDFViewer": "Anteprima di stampa PDF (Widget Premium)",
     "PreviewMail": "Anteprima email",
     "FastEdit": "Modifica valore menù a tendina",
     "Related module": "Modulo relazionato",
@@ -49,8 +49,8 @@
     "LBL_VIEW_TYPE": "Tipo visualizzazione",
     "LBL_VIEW_TYPE_INFO": "Modalità di visualizzazione del widget",
     "LBL_LIST": "Lista",
-    "LBL_CUSTOM_VIEW": "Custom views",
-    "LBL_CUSTOM_VIEW_INFO": "It allows adding additional conditions from module filters, the selection list will appear after choosing more than one.",
+    "LBL_CUSTOM_VIEW": "Viste personalizzate",
+    "LBL_CUSTOM_VIEW_INFO": "Consente di aggiungere le condizioni aggiuntive dai filtri del modulo, l'elenco di selezione comparirà dopo averne scelta più di una.",
     "LBL_SUMMARY": "Sommario",
     "LBL_SELECT_BUTTON_INFO": "Abilita bottone per selezionare un record dal modulo relazionato",
     "LBL_CONDITION": "Condizione",
@@ -67,8 +67,8 @@
     "RelatedModuleChart": "Modulo correlato - grafico",
     "Documents": "Documenti",
     "LBL_SHOW_DOC_RELATIONS": "Elenco delle relazioni correlate",
-    "InventoryBlock": "Inventory block",
-    "LBL_DEFAULT_ACTIVE": "Active by default"
+    "InventoryBlock": "Blocco dell'inventario",
+    "LBL_DEFAULT_ACTIVE": "Attiva di default"
   },
   "js": {
     "Loading data": "Caricamento ...",

@@ -14,7 +14,7 @@
     "LBL_CREATE_CUSTOM_FIELD": "パネルにウィジェットを追加",
     "LBL_ADD_CONDITION": "役割を追加",
     "LBL_INVALID_DATA": "無効なデータ",
-    "WidgetsManagement": "ウィジェット管理",
+    "WidgetsManagement": "ダッシュボード - ウィジェット",
     "LBL_WIDGETS_MANAGEMENT": "ダッシュボード - ウィジェット",
     "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": "説明",
     "LBL_MANDATORY_WIDGET": "必須ウィジェット",

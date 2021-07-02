@@ -47,7 +47,7 @@
     "LBL_SELECT_Documents": "Seleziona il documento",
     "LBL_RELATIONS": "Relazioni",
     "LBL_MASS_ADD": "Aggiunta massiva",
-    "LBL_PREVIEW_FILE": "File preview"
+    "LBL_PREVIEW_FILE": "Anteprima del file"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Sei sicuro di voler spostare i file in",

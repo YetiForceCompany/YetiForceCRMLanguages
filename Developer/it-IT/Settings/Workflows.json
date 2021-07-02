@@ -259,9 +259,9 @@
     "LBL_WORKINGDAY_MONTH": "Primo giorno lavorativo del mese",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relazioni personalizzate",
     "LBL_VERIFY_IF_EXISTS": "Se il record correlato esiste, non creare nuovi record",
-    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "workflow trigger records restriction off",
-    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Conditions for records cannot be set in a given workflow mode.",
-    "LBL_ERROR_DELETE_ENTRY": "Error, delete entry."
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "restrizione dei registri d'innesco del flusso di lavoro disattiva",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Condizioni per i registri non possono esser impostate in una data modalità di flusso di lavoro.",
+    "LBL_ERROR_DELETE_ENTRY": "Errore, elimina voce."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",
