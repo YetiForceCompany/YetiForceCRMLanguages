@@ -1,0 +1,34 @@
+{
+  "php": {
+    "Users": "Utenti",
+    "USER_MAIL_EXIST": "L'utente con questo indirizzo e-mail esiste",
+    "LBL_PRIORITY": "Priorità",
+    "LBL_LDAP_RECOMMENDED_INFO": "Sconsigliamo di selezionare gli utenti amministratore per l'autorizzazione LDAP. In caso di problemi di autorizzazione, deve esserci un utente che può accedere senza l'integrazione LDAP.",
+    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION_DESCRIPTION": " ",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "Autorizzazione con LDAP",
+    "LBL_LDAP_SERVER": "Indirizzo server",
+    "LBL_LDAP_PORT": "Porta",
+    "LBL_SAVE_CONFIG": "Configurazione salvata",
+    "LBL_LDAP_DOMAIN": "Dominio (aggiunto automaticamente al login)",
+    "LBL_VIEW_AUTH": "Autorizzazione",
+    "LBL_SWITCH_USERS": "Estensione ruoli",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Consente di estendere un ruolo / utente ad altri ruoli / utenti",
+    "LBL_SU_BASE_ACCESS": "Utente",
+    "LBL_SU_AVAILABLE_ACCESS": "È consentito accedere come",
+    "LBL_LOCKS": "Vincoli interazione",
+    "LBL_LOCKS_DESCRIPTION": "Strumento per disattivare azioni del browser. (Nota: è necessario qualche secondo per la propagazione a sistema)",
+    "LBL_LOCK_COPY": "Blocca copia",
+    "LBL_LOCK_CUT": "Blocca taglia",
+    "LBL_LOCK_PASTE": "Blocca incolla",
+    "LBL_LOCK_RIGHT_MENU": "Blocca il pulsante destro del mouse",
+    "LBL_LOCK_SELECT_TEXT": "Blocca selezione",
+    "LBL_LOCK_DRAG": "Blocca trascinamento"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "Seleziona modulo",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Il separatore decimale e il separatore di raggruppamento non possono essere identici",
+    "Changed password successfully": "Password modificata con successo"
+  }
+}

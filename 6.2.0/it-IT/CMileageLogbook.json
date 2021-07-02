@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Registro chilometraggio",
+    "SINGLE_CMileageLogbook": "Registro chilometraggio",
+    "LBL_ADDITIONAL_INFORMATION": "Informazioni aggiuntive",
+    "LBL_BASIC_INFORMATION": "Informazioni base",
+    "LBL_DESCRIPTION_BLOCK": "Descrizione",
+    "LBL_ATTENTION_BLOCK": "Note",
+    "FL_SUBJECT": "Oggetto",
+    "FL_STATUS": "Stato",
+    "FL_NUMBER_KILOMETERS": "Chilometri",
+    "PLL_DRAFT": "Bozza",
+    "PLL_FOR_APPROVAL": "Da approvare",
+    "PLL_ACCEPTED": "Accettato",
+    "PLL_CANCELLED": "Annullato"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Approvals register",
+    "SINGLE_ApprovalsRegister": "Approval Register",
+    "LBL_CUSTOM_INFORMATION": "Vlastné Informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
+    "FL_SUBJECT": "Predmet",
+    "FL_APPROVALS_STATUS": "Stav",
+    "FL_DESCRIPTION": "Popis",
+    "FL_APPROVAL": "Schválenie",
+    "FL_TYPE": "Typ",
+    "FL_STATUS": "Stav",
+    "FL_REGISTRATION_DATE": "Dátum registrácie",
+    "PLL_FOR_VERIFICATION": "Na overenie",
+    "PLL_ACCEPTED": "Akceptované",
+    "PLL_REJECTED": "Zamietnuté",
+    "PLL_ACCEPTANCE": "Acceptance",
+    "PLL_RESIGNATION": "Resignation"
+  }
+}

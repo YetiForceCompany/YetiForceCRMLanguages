@@ -1,0 +1,11 @@
+{
+	"php": {
+		"MeetingServices": "Usluge sastanaka",
+		"LBL_MEETING_SERVICES": "Usluge sastanaka",
+		"LBL_MEETING_SERVICES_DESCRIPTION": " ",
+		"FL_URL": "URL",
+		"FL_STATUS": "Status",
+		"BTN_COPY_API_KEY": "Kopirajte ključ aplikacije u međuspremnik",
+		"FL_PASSWORD": "Lozinka"
+	}
+}

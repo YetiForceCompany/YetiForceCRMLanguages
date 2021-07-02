@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Bộ kiểm soát sự kiện",
+    "LBL_EVENT_HANDLER": "Bộ kiểm soát sự kiện",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Tên sự kiện",
+    "LBL_EVENT_DESC": "Mô tả sự kiện",
+    "LBL_INCLUDE_MODULES": "Bao gồm các mô-đun",
+    "LBL_EXCLUDE_MODULES": "Bao gồm các mô-đun",
+    "LBL_EVENT_IS_ACTIVE": "Đang hoạt động",
+    "LBL_EDIT_VIEW_PRESAVE": "Xác nhận trước khi lưu biểu ghi",
+    "LBL_ENTITY_CHANGE_STATE": "Thay đổi trạng thái",
+    "LBL_ENTITY_BEFORE_SAVE": "Trước lưu",
+    "LBL_ENTITY_AFTER_SAVE": "Sau lưu"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Панель інтеграції пошти",
+    "SINGLE_MailIntegration": "Панель інтеграції пошти",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Пошта не знайдена в базі даних.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Імпорт",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Імпортувати повідомлення електронної пошти в CRM, він дозволить краще керувати відносинами",
+    "LBL_SEARCH_EMAIL": "Шукати адресу електронної пошти",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Знайти та вибрати одержувача повідомлення",
+    "LBL_ADD_CALENDAR": "Додати подію",
+    "LBL_ADD_MODCOMMENTS": "Додати коментар",
+    "LBL_SELECT_RECORD": "Виберіть пов’язаний запис",
+    "LBL_ADD_RECORD": "Додати пов’язаний запис"
+  },
+  "js": {
+    "JS_ERROR": "Повідомлення: помилка входу, будь ласка, зверніться до системного адміністратора.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Повідомлення: Зв'язок успішно видалено.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Повідомлення: Зв'язок успішно додано.",
+    "JS_IMPORT": "Повідомлення: e-mail успішно імпортовано.",
+    "JS_CC": "Копія",
+    "JS_BCC": "Прихована копія"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Enregistrement d'incident",
+    "SINGLE_IncidentRegister": "Enregistrement d'incident",
+    "LBL_BASIC_INFORMATION": "Information de base",
+    "FL_NAME": "Nom",
+    "FL_LOCATION_REGISTER": "Enregistrement de localisation",
+    "FL_DATASETREGISTER": "Registre des jeux de données",
+    "PLL_DRAFT": "Brouillon",
+    "PLL_WAITING_FOR_ACCEPTANCE": "En attente d'acceptation",
+    "PLL_IN_REALIZATION": "En réalisation",
+    "PLL_COMPLETED": "Completé",
+    "PLL_CANCELLED": "Annulé",
+    "FL_STATUS": "Statut",
+    "FL_TYPE": "Type ",
+    "PLL_INTERNAL": "Interne",
+    "PLL_EXTERNAL": "Externe",
+    "LBL_INCIDENT_DATES": "Dates d'incident",
+    "FL_INCIDENT_DATE": "Date d'incident",
+    "FL_INCIDENT_DISCOVERY": "Date de découverte de l'incident",
+    "FL_INCIDENT_REPORT_DATE": " Date du rapport d'incident",
+    "FL_INCIDENT_PUBLICATION_DATE": "Date de publication de l'incident",
+    "FL_PEOPLE_NUMBER": "Nombre de personnes",
+    "LBL_BREACH_CIRCUMSTANCES": "Circonstances de l'attaque",
+    "FL_BREACH_CIRCUMSTANCES": "Circonstances de l'attaque",
+    "LBL_NATURE_OF_BREACH": "Nature de violation",
+    "FL_NATURE_OF_BREACH": "Nature de violation",
+    "LBL_POSSIBLE_CONSEQUENCES": "Conséquences possibles",
+    "FL_POSSIBLE_CONSEQUENCES": "Conséquences possibles",
+    "LBL_SECURITY_MEASURES": "Mesures de sécurité appliquées",
+    "FL_SECURITY_MEASURES": "Mesures de sécurité appliquées"
+  }
+}

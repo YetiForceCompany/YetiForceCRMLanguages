@@ -1,0 +1,24 @@
+{
+  "php": {
+    "AdminAccess": "Dostęp administratora",
+    "LBL_ADMIN_ACCESS": "Dostęp administratora",
+    "LBL_PERMISSIONS": "Uprawnienia",
+    "BTN_MASS_EDIT_ACCESS": "Masowa edycja",
+    "FL_MODULE_NAME": "Nazwa modułu",
+    "LBL_ACTIVE": "Aktywny",
+    "LBL_EDIT_ADMIN_ACCESS": "Edycja dostępów administratora",
+    "LBL_EDIT_ADMIN_ACCESS_ALERT": " ",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Cel odwiedzin",
+    "FL_DATE_TIME": "Data",
+    "FL_PURPOSE": "Cel",
+    "FL_USER": "Użytkownik",
+    "FL_BASE_USER": "Użytkownik podstawowy",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Pytaj o przyczynę logowania",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Czy chcesz aktywować okno wprowadzenia celu wizyty dla administratorów podczas logowania do systemu?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Pytaj o cel przełączania użytkowników",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Czy chcesz aktywować okno wprowadzania celu wizyty dla administratorów przy przełączaniu użytkowników w systemie?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Zapisano zmiany"
+  }
+}

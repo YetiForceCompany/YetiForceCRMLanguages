@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Yêu cầu nhà cung cấp",
+    "SINGLE_SVendorEnquiries": "Yêu cầu nhà cung cấp",
+    "LBL_SCALCULATIONS_INFORMATION": "Thông tin cơ bản",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "LBL_STATISTICS": "Thống kê",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_NUMBER": "Số",
+    "LBL_CLOSED_TIME": "Thời gian đóng",
+    "LBL_STATUS": "Trạng thái",
+    "SINGLE_SSalesProcesses": "Cơ hội",
+    "FL_TOTAL_PRICE": "Net total",
+    "FL_MARGINP": "Tổng phần trăm lợi nhuận biên",
+    "FL_MARGIN": "Tổng lợi nhuận biên",
+    "FL_VENDOR": "Nhà cung cấp",
+    "FL_SCALCULATIONS": "Tính toán",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_FOR_VERIFICATION": "Để xác minh",
+    "PLL_CANCELLED": "Đã huỷ",
+    "PLL_COMPLETED": "Hoàn thành",
+    "LBL_CHANGE_STATUS": "Đổi trạng thái"
+  }
+}

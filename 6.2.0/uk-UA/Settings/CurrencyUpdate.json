@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Оновлення курсів валют",
+    "LBL_CURRENCY_UPDATE": "Оновлення курсів валют",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Options for setting systems built in currency conversion rates.",
+    "LBL_SELECT_BANK": "Оберіть банк",
+    "MSG_ONE_CURRENCY": "Актуальна тільки одна валюта. Для отримання курсів інших валют додайте більше валют налаштуваннях системи.",
+    "MSG_NO_NET_CONN": "Немає підключення до інтернету, відомості про валюту не були завантажені.",
+    "LBL_HISTORY": "Історія обмінних курсів",
+    "LBL_BANK": "Виберіть банк, з якого можна отримати інформацію про курси валют",
+    "LBL_CAL_DATE": "Дата курсу",
+    "LBL_MAINCURRENCY": "Основна валюта",
+    "LBL_CODE": "Код",
+    "LBL_SYMBOL": "Символ",
+    "LBL_CURRENCY_NAME": "Назва валюти",
+    "LBL_CURRENCY_SYMBOL": "Символ валюти",
+    "LBL_COURSE": "Курс обміну",
+    "LBL_DATE": "Дата завантаження",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Дата курсу",
+    "LBL_SHOW": "Показати",
+    "LBL_CURRENCIES_SUPPORTED": "Підтримувані валюти цим банком",
+    "LBL_CURRENCIES_UNSUPPORTED": "Список непідтримуваних валют цим банком",
+    "LBL_SET_BANK_OK": "Successfully saved active bank.",
+    "LBL_SET_BANK_ERROR": "Failed to set active bank.",
+    "LBL_INFORMATIONS": "Інформація",
+    "LBL_WARNING": "Увага!",
+    "NBP": "Національний банк Польщі",
+    "ECB": "Європейський Центральний Банк",
+    "CBR": "Центральний Банк Росії",
+    "NBR": "Національний Банк Румунії"
+  }
+}

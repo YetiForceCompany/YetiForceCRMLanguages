@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Automatikus hozzárendelése bejegyzések",
+    "AutomaticAssignment": "Automatikus hozzárendelés új feljegyzésekhez",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Mező neve",
+    "FL_MODULE": "Modul",
+    "FL_VALUE": "Érték",
+    "FL_ROLES": "Szerepkörök",
+    "FL_SMOWNERS": "Rekord tulajdonosa",
+    "FL_ASSIGN": "Alap beállítások",
+    "FL_CONDITIONS": "Rekord keresési feltételek",
+    "FL_MODE": "Mód",
+    "LBL_CREATE_RECORD": "Rekord létrehozása",
+    "BTN_NEXT": "Következő",
+    "BTN_CLOSE": "Bezárás",
+    "BTN_ADD": "Hozzáadás",
+    "LBL_CHANGE_ROLE_TYPE": "Szerep típus megváltoztatása",
+    "LBL_CHANGE_RECORD_STATE": "Rekord státus megváltoztatása",
+    "BTN_SAVE": "Mentés",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Tartalmazzák a felhasználó rekord határ",
+    "LBL_SET_DEFAULT_USER": "Az alapértelmezett felhasználó",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Rendszer mód kikapcsolása",
+    "LBL_SYSTEM": "Rendszer",
+    "LBL_NOTE": "Megjegyzés!",
+    "LBL_VALUE_INFO": "Az alábbi mezőben beállíthatja az értéket a kiválasztott modul mező.",
+    "LBL_ROLES_INFO": "A lista az előre kijelölt felhasználók létre az alábbi szerepek.",
+    "LBL_SMOWNERS_INFO": "A lista az előre kijelölt felhasználók létre az alábbi felhasználók, csoportok. Ez a felhasználói lista létre, csak akkor, ha nincsenek felhasználók kiválasztása, szerepek.",
+    "LBL_ASSIGN_INFO": "Az alapértelmezett Rendelni. Az itt beállított érték lesz rendelve a rekordot, amikor az a felhasználó, aki volt rendelve, nem található.",
+    "LBL_CONDITIONS_INFO": "Meghatározott rekord keresési feltételeket. Annak érdekében, hogy válassza ki a felhasználót a rendelkezésre álló felhasználói lista, akkor a rendszer számít a rekordok száma rendelni a felhasználó a modul. A felhasználó a legalacsonyabb bejegyzések száma van rendelve, hogy a rekord.",
+    "LBL_ROLEID_INFO": "Állítsa be a következő módok: RENDSZER - a felhasználó által az ilyen mechanizmusok, mint a munkafolyamatok feladatokat kapják; NEM-RENDSZER – lehetővé teszi, hogy rendelni egy rekord a felhasználó által kézzel."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Biztos, hogy akar változni rekord státuson?",
+    "JS_SAVE_SUCCESS": "Változások sikeresen megmentette"
+  }
+}

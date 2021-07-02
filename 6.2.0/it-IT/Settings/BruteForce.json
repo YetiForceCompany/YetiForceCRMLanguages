@@ -1,0 +1,26 @@
+{
+  "php": {
+    "BruteForce": "Brute Force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Numero di tentativi",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "Il parametro include l'innesco di ogni azione per utenti non connessi, es. tentativo d'accesso, ripristino della password",
+    "LBL_TIME_LOCK": "Tempo di blocco (minuti)",
+    "LBL_SETTINGS": "Impostazioni",
+    "LBL_BLOCKED_IP": "Indirizzi IP bloccati",
+    "LBL_SAVE_SUCCESS": "Modifiche salvate",
+    "LBL_UNBLOCK_FAIL": "L'indirizzo IP non è stato sbloccato",
+    "LBL_UNBLOCK_SUCCESS": "L'indirizzo IP è stato sbloccato",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Imposta il numero massimo di tentativi d'accesso falliti o cambiamenti della password e limite di tempo per il blocco IP.",
+    "LBL_IP": "Indirizzo IP",
+    "LBL_DATE": "Data",
+    "LBL_USERS": "Utente",
+    "LBL_BROWSERS": "Browser",
+    "LBL_UNBLOCK": "Sblocca",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Utente per le notifiche",
+    "LBL_BRUTEFORCE_ACTIVE": "Attivo",
+    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_SENT_NOTIFICATIONS": "Invia notifiche"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Errore. Salvataggio fallito."
+  }
+}

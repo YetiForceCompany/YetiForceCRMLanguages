@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "Viri Rss Feed",
+    "LBL_ADD_FEED_SOURCE": "Dodaj Feed vir",
+    "LBL_FEEDS_LIST_FROM": "Seznama virov iz",
+    "LBL_SET_AS_DEFAULT": "Nastavi kot privzeto",
+    "LBL_SENDER": "Pošiljatelj",
+    "LBL_FEED_SOURCE": "Feed vir",
+    "LBL_ENTER_FEED_SOURCE": "Vnesite Feed vir",
+    "SINGLE_Rss": "RSS Feed",
+    "LBL_CHANGE_RSS_CHANNEL": "Sprememba RSS kanala"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "Nastavitve uspešno shranjene",
+    "JS_INVALID_RSS_URL": "Napačen URL",
+    "JS_RSS_MADE_AS_DEFAULT": "Kot privzeti RSS"
+  }
+}

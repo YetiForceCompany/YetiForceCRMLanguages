@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_DAV_KEYS": "DAV εφαρμογές",
+    "LBL_DAV_KEYS_DESCRIPTION": "Δημιουργία και διαχείριση κλειδιών DAV",
+    "LBL_KEY": "Κλειδί",
+    "LBL_TOOLS": "Εργαλεία",
+    "LBL_DELETE_KEY": "Διαγράψτε το κλειδί",
+    "LBL_ADD_KEY": "Προσθήκη κλειδιού",
+    "LBL_DISPLAY_NAME": "Χρήστης",
+    "LBL_EMAIL": "E-mail",
+    "LBL_LOGIN": "Είσοδος",
+    "LBL_SELECT_USER": "Επιλέξτε χρήστη:",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active.",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Eφαρμογή DAV δεν έχει ενεργοποιηθεί ακόμα, ενεργοποιήστε την στο αρχείο config/api.php",
+    "LBL_SUCCESS_SAVE_KEY": "Νέο κλειδί έχει προστεθεί με επιτυχία",
+    "LBL_ERROR_SAVE_KEY": "Σφάλμα κατά την Αποθήκευση κλειδιού",
+    "LBL_SUCCESS_SAVE_CHANGES": "Οι αλλαγές αποθηκεύτηκαν",
+    "LBL_ACTIVE_USER": "Κατάσταση χρήστη",
+    "LBL_KEY_HAS_BEEN_REMOVED": "Το κλειδί έχει διαγραφεί",
+    "LBL_SELECT_TYPE": "Τύπος",
+    "LBL_COUNT_CARD": "Αριθμός επαφών",
+    "LBL_COUNT_CAL": "Αριθμός συμβάντων",
+    "Dav": "Κλειδιά DAV",
+    "LBL_VIEW_KEYS": "Κλειδιά DAV",
+    "LBL_DUPLICATE_USER_SERVICES": "Κλειδί για αυτή την εφαρμογή υπάρχει ήδη.",
+    "LBL_ALERT_DAV_CONFIG_TITLE": "Πληροφορίες ρύθμισης παραμέτρων",
+    "LBL_ALERT_DAV_CONFIG_DESC": "Παραδείγματα διαμόρφωσης σύνδεσης διακομιστή DAV για διαφορετικές εφαρμογές και συστήματα:"
+  },
+  "js": {
+    "Adding a Key": "Προσθήκη κλειδιού"
+  }
+}

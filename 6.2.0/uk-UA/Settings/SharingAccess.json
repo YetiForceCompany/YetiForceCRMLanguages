@@ -1,0 +1,41 @@
+{
+  "php": {
+    "Sharing Rules": "Загальний доступ",
+    "SharingAccess": "Загальний доступ",
+    "Accounts": "Контрагенти та Фізичні особи",
+    "LBL_ADD_CUSTOM_RULE": "Додати правило",
+    "LBL_ADD_CUSTOM_RULE_TO": "Додати правило до",
+    "LBL_ADVANCED_SHARING_RULES": "Розширені правила загального доступу",
+    "LBL_APPLY_NEW_SHARING_RULES": "Застосовувати нові правила доступу",
+    "LBL_CAN_ACCESSED_BY": "Дозволено для",
+    "LBL_CUSTOM_ACCESS_MESG": "Користувацькі правила доступу не визначені",
+    "LBL_MODULE": "Модуль",
+    "LBL_PRIVILEGES": "Права",
+    "LBL_READ": "Читання",
+    "LBL_READ_WRITE": "Читання і запис",
+    "LBL_RULE_NO": "Правило номер",
+    "LBL_SHARING_RULE": "Загальний доступ",
+    "LBL_WITH_PERMISSIONS": "З дозволами на",
+    "Read Only": "Тільки для читання",
+    "Read Write": "Читання \/ Запис",
+    "SINGLE_Groups": "Група",
+    "Groups": "Групи",
+    "SINGLE_RoleAndSubordinates": "Ролі та підлеглі",
+    "RoleAndSubordinates": "Ролі та підлеглі",
+    "SINGLE_Roles": "Роль",
+    "SINGLE_Users": "Користувач",
+    "Roles": "Ролі",
+    "Private": "Приватний",
+    "Public: Read Only": "Публічний: Лише читання",
+    "Public: Read, Create\/Edit, Delete": "Публічний: Читання, Створення\/Редагування, Видалення",
+    "Public: Read, Create\/Edit": "Публічний: Читання, Створення\/Редагування",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Користувальницькі правила загального доступу успішно збережено",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Не вдалося зберегти правило загального доступу",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Не вдалося видалити правило загального доступу"
+  },
+  "js": {
+    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Доступ до Угоди, Заявки, Пропозиції та Рахунки повинен бути приватним коли доступ доступ модуля Контрагенти встановлено приватний",
+    "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Нові правила загального доступу успішно застосовано",
+    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Вибрати будь-якого іншого користувача"
+  }
+}

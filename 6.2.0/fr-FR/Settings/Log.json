@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS": "Incidents de sécurité",
+    "LBL_LOGS_DESC": "Panneau de visualisation des incidents de sécurité",
+    "LBL_ACCESS_FOR_ADMIN": "Accès des administrateurs",
+    "LBL_ACCESS_FOR_API": "Accès de l'API",
+    "LBL_ACCESS_FOR_USER": "Accès des utilisateurs",
+    "LBL_ACCESS_TO_RECORD": "Accès aux enregistrements",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Nom d'utilisateur",
+    "LBL_DATE": "Date",
+    "LBL_IP": "Adresse IP ",
+    "LBL_RECORD": "N° de l'enregistrement",
+    "LBL_MODULE": "Module",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Requête",
+    "LBL_TIME": "Heure",
+    "LBL_CATEGORY": "Catégorie",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Utilisateur de base",
+    "LBL_DEST_USER": "Utilisateur cible",
+    "LBL_MAILS_NOT_SENT": "E-mails non envoyés",
+    "LBL_BATCH_NAME": "Nom méthode",
+    "LBL_PARAMS": "Paramètres",
+    "LBL_PROFILING": "Profilage",
+    "LBL_DURATION": "Durée",
+    "LBL_LOGS_VIEWER": "Visionneuse de journaux",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

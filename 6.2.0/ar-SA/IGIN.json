@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IGIN": "مذكرة اصدار البضائع",
+    "SINGLE_IGIN": "مذكرة اصدار البضائع",
+    "LBL_DESCRIPTION_BLOCK": "الوصف",
+    "LBL_ATTENTION_BLOCK": "التعليقات",
+    "FL_ACCEPTANCE_DATE": "تاريخ القبول",
+    "FL_SUBJECT": "الموضوع",
+    "FL_NUMBER": "رقم",
+    "FL_STORAGE": "التخزين",
+    "FL_STATUS": "الحالة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_IN_REALIZATION": "تحقيق",
+    "PLL_OBJECTIONS": "الاعتراضات",
+    "PLL_FOR_APPROVAL": "للموافقة عليها",
+    "PLL_CANCELLED": "ملغى",
+    "PLL_ACCEPTED": "تم قبوله",
+    "LBL_CHANGE_STATUS": "تغيير الحالة"
+  }
+}

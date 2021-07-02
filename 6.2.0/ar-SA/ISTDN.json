@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Storage Transfer Dispatched Notes",
+    "SINGLE_ISTDN": "Storage Transfer Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "الوصف",
+    "LBL_ATTENTION_BLOCK": "التعليقات",
+    "FL_ACCEPTANCE_DATE": "تاريخ القبول",
+    "FL_ACCOUNT": "الحساب",
+    "FL_SUBJECT": "الموضوع",
+    "FL_NUMBER": "Number",
+    "FL_STORAGE": "التخزين",
+    "FL_STATUS": "الحالة",
+    "PLL_DRAFT": "Draft",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_OBJECTIONS": "الاعتراضات",
+    "PLL_FOR_APPROVAL": "للموافقة عليها",
+    "PLL_CANCELLED": "ملغى",
+    "PLL_ACCEPTED": "تم قبوله",
+    "LBL_CHANGE_STATUS": "Change Status"
+  }
+}

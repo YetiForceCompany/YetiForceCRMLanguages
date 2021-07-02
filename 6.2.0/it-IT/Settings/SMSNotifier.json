@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FL_PROVIDER": "Provider SMS",
+    "FL_STATUS": "Stato",
+    "FL_SMSAPI_FROM": "Nome mittente",
+    "FL_API_KEY": "Chiave API",
+    "LBL_ADD_RECORD": "Aggiungi provider SMS",
+    "LBL_SMSNOTIFIER": "SMS provider - Configurazione",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nuovo provider SMS",
+    "LBL_EDIT_CONFIGURATION": "Modifica provider SMS",
+    "BTN_SAVE": "Salva",
+    "BTN_CLOSE": "Annulla"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare questo Provider SMS?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Provider SMS eliminato",
+    "JS_SAVE_SUCCESS": "Provider SMS salvato"
+  }
+}

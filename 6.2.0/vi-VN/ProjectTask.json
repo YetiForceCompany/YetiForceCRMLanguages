@@ -1,0 +1,29 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Tác vụ",
+    "Project Task": "Tác vụ",
+    "Start Date": "Ngày bắt đầu",
+    "Target End Date": "Ngày kết thúc dự kiến",
+    "End Date": "Ngày kết thúc",
+    "Related to": "Liên quan tới",
+    "Parent ID": "Tác vụ liên quan",
+    "Project Task Number": "Số tác vụ",
+    "description": " Mô tả",
+    "FL_TOTAL_TIME_H": "Tổng thời gian làm việc",
+    "Project Task No": "Mã tác vụ",
+    "Project Task Name": "Tên tác vụ",
+    "LBL_ESTIMATED_WORK_TIME": "Thời gian dự kiến",
+    "Add Project Task": "Thêm tác vụ",
+    "LBL_PROJECT_TASK_INFORMATION": "Thông tin chi tiết",
+    "LBL_PROJECTS_LIST": "Các dự án",
+    "LBL_TASKS_LIST": "Danh sách tác vụ",
+    "LBL_MILESTONES_LIST": "Các điểm mốc dự án",
+    "low": "thấp",
+    "normal": "bình thường",
+    "high": "cao",
+    "administrative": "Nội bộ",
+    "operative": "Bên ngoài",
+    "other": "Chia sẻ",
+    "LBL_PROJECT": "Dự án"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Komentar",
+    "LBL_RECORDS_LIST": "Pregled komentarje",
+    "LBL_MODCOMMENTS_INFORMATION": "Komentarji",
+    "LBL_OTHER_INFORMATION": "Ostali podatki",
+    "LBL_ADDING_COMMENT": "Dodaj komentar",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Tukaj vpišite komentar",
+    "Comment": "Komentar",
+    "Creator": "Avtor",
+    "Related To Comments": "Komitent",
+    "ReasonToEdit": "Razlog spremembe",
+    "UserId": "ID uporabnika",
+    "Customer": "Stranka",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Dodaj komentar k reklamaciji",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Komentar je bil dodan k reklamaciji",
+    "LBL_NOTICE_WELCOME": "Dobrodošli na platformi",
+    "LBL_NOTICE_CREATED": "Avtor je ",
+    "LBL_COMMENTS_0": "Trenutni zapis",
+    "LBL_COMMENTS_SEARCH": "Išči",
+    "LBL_ALL_RECORDS": "Povezani zapisi"
+  }
+}

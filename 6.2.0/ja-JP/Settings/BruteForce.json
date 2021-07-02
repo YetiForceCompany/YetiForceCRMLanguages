@@ -1,0 +1,26 @@
+{
+  "php": {
+    "BruteForce": "ブルートフォース",
+    "LBL_NUMBER_OF_ATTEMPTS": "試行回数",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "タイムロック (分)",
+    "LBL_SETTINGS": "設定",
+    "LBL_BLOCKED_IP": "ブロックされたIPアドレス",
+    "LBL_SAVE_SUCCESS": "変更が保存されました",
+    "LBL_UNBLOCK_FAIL": "IPアドレスはブロックされていません",
+    "LBL_UNBLOCK_SUCCESS": "IPアドレスのブロックが解除されました",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_IP": "IPアドレス",
+    "LBL_DATE": "日付",
+    "LBL_USERS": "ユーザー",
+    "LBL_BROWSERS": "ブラウザー",
+    "LBL_UNBLOCK": "ブロック解除",
+    "LBL_USERS_FOR_NOTIFICATIONS": "通知のユーザー",
+    "LBL_BRUTEFORCE_ACTIVE": "有効",
+    "LBL_VIEW_SHOW": "ブルートフォース",
+    "LBL_SENT_NOTIFICATIONS": "通知を送信"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "エラー。保存に失敗しました。"
+  }
+}

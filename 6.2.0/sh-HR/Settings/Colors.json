@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "Boje",
+    "LBL_COLOR": "Boja",
+    "LBL_PICKLISTS": "Lista za odabir",
+    "LBL_SELECT_PICKLIST": "Odaberite listu za odabir",
+    "LBL_REMOVE_COLOR": "Uklonite boju",
+    "LBL_GENERATE_COLOR": "Generiranje zapisa",
+    "LBL_UPDATE_COLOR": "Promenite boju",
+    "LBL_REMOVED_COLOR": "Boja uklonjena",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Uredi boju",
+    "LBL_CALENDAR_COLORS": "Boje kalendara",
+    "LBL_CALENDAR_TYPE": "Vrsta aktivnosti",
+    "LBL_SAVE_COLOR": "Boja spremljena",
+    "Call": "Poziv",
+    "Task": "Zadatak",
+    "Meeting": "Sastanak",
+    "LBL_GROUPS_COLORS": "Grupe boja",
+    "LBL_USERS_COLORS": "Korisničke boje",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Funkcija boja nije aktivirana za ovu listu za izbor",
+    "LBL_UPDATE_COLOR_COLUMN": "Aktiviraj",
+    "LBL_WARNING": "Upozoranje",
+    "LBL_ITEM": "Vrijednost",
+    "LBL_MODULE": "Modul",
+    "LBL_GROUP_NAME": "Grupa",
+    "LBL_FIELDS_COLORS": "Field colors"
+  }
+}

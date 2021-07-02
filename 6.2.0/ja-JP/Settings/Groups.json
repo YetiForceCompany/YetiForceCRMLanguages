@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "レコードを追加",
+    "LBL_ADD_USERS_ROLES": "ユーザ、ロール,,,を追加",
+    "LBL_DUPLICATES_EXIST": "グループ名は既に存在します",
+    "LBL_GROUP_MEMBERS": "グループメンバー",
+    "LBL_GROUP_NAME": "グループ名",
+    "LBL_ROLEANDSUBORDINATE": "ロールとその下階層",
+    "LBL_TO_OTHER_GROUP": "他のグループへ ",
+    "LBL_TRANSFORM_OWNERSHIP": "担当の移行",
+    "SINGLE_Groups": "グループ",
+    "Users": "ユーザー",
+    "Name": "グループ名",
+    "Description": "説明"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "グループのメンバーを少なくとも1人選択してください",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "グループを削除しました"
+  }
+}

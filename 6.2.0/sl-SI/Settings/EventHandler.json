@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Upravitelji dogodkov",
+    "LBL_EVENT_HANDLER": "Upravitelji dogodkov",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Ime dogodka",
+    "LBL_EVENT_DESC": "Opis dogodka",
+    "LBL_INCLUDE_MODULES": "Vključite module",
+    "LBL_EXCLUDE_MODULES": "Izključiti module",
+    "LBL_EVENT_IS_ACTIVE": "Je aktiven",
+    "LBL_EDIT_VIEW_PRESAVE": "Potrjevanje pred shranjevanjem zapisa",
+    "LBL_ENTITY_CHANGE_STATE": "Spremeni državo",
+    "LBL_ENTITY_BEFORE_SAVE": "Preden shraniš",
+    "LBL_ENTITY_AFTER_SAVE": "Po shranitvi"
+  }
+}

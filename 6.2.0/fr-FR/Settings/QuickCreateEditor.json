@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Editeur Création rapide",
+    "LBL_QUICK_CREATE_EDITOR": "Champs – Création rapide",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module permettant de modifier la disposition des champs dans la fenêtre de création rapide",
+    "LBL_SEQUENCE": "Séquence champ",
+    "LBL_SAVE_FIELD_SEQUENCE": "Sauvegarder la séquence"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Séquence mise à jour"
+  }
+}

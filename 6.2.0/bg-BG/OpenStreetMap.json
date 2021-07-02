@@ -1,0 +1,19 @@
+{
+  "php": {
+    "OpenStreetMap": "OpenStreetMap",
+    "LBL_GROUP_BY": "Група",
+    "LBL_GROUP_NEIGHBOURS": "Групиране на съседни елементи",
+    "LBL_NOT_FOUND_PLACE": "Местоположението не е открито",
+    "LBL_SEARCH_VALUE_DESCRIPTION": "Град, улица, номер на сграда...",
+    "LBL_IN_RADIUS": "В радиус от [км]",
+    "LBL_CALCULATE_TRACK": "Зададен маршрут",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Зададен маршрут",
+    "LBL_DISTANCE": "Разстояние [км]",
+    "LBL_TRAVEL_TIME": "Време [мин]",
+    "LBL_INSTRUCTION": "Ръчно",
+    "LBL_SEARCH_IN_RADIUS": "Търси в радиуси",
+    "LBL_CLIPBOARD": "Клипборд",
+    "LBL_INDIRECT_POINT": "Непряка точка",
+    "ERR_ADDRESS_NOT_FOUND": "Адресът не е открит"
+  }
+}

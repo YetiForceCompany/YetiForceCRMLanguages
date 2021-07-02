@@ -1,0 +1,17 @@
+{
+  "php": {
+    "MailIntegration": "E-Mail-Integrationsbereich",
+    "LBL_MAIL_INTEGRATION": "E-Mail-Integrationsbereich",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM als Integration in einem externen Mailclient",
+    "LBL_OUTLOOK": "Outlook-Add-ins",
+    "LBL_OUTLOOK_ALERT": "Installationsanweisungen für Add-ins finden Sie unter %s",
+    "LBL_OUTLOOK_ADDRESSES": "Outlook Mail-Server-URLs",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Liste der Adressen, unter denen das System als Integration verfügbar sein wird, obligatorisch für Outlook Web App, z.B. %s",
+    "LBL_OUTLOOK_SCRIPT": "Erlaubte CDN-Server für JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "Liste der erlaubten CDN-Server-Adressen, von denen JavaScript-Dateien geladen werden können, z.B. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Die Aktivierung verändert die 'config / Security.php' Datei und reduziert das Sicherheitsniveau, Änderungen:\n- es erlaubt das Laden von CRM innerhalb eines iframes\n- es erlaubt das Laden von externen Skripten (https://appsforoffice. icrosoft.com, https://ajax.aspnetcdn.com)\n- es deaktiviert HttpOnly im Cookie \n- es ändert Cookie SameSite zu None",
+    "LBL_QUICK_CREATE_MODULES": "Liste der Schnellerstellungsmodule",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Liste der Module, in denen Daten aus dem Integrationsbereich erstellt werden können. \n Wenn kein Wert ausgewählt ist, wird das System die Standard-Schnellerstellungsliste auswählen",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Laden Sie die Outlook Add-In-Installationsdatei herunter"
+  }
+}

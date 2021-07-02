@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "LBL_ADD_USERS_ROLES": "Προσθήκη χρηστών, ρόλων...",
+    "LBL_DUPLICATES_EXIST": "Υπάρχει ήδη το όνομα ομάδας",
+    "LBL_GROUP_MEMBERS": "Μέλη Ομάδας",
+    "LBL_GROUP_NAME": "Όνομα Ομάδας",
+    "LBL_ROLEANDSUBORDINATE": "Ρόλος και υπο-ρόλοι",
+    "LBL_TO_OTHER_GROUP": "Σε άλλη ομάδα ",
+    "LBL_TRANSFORM_OWNERSHIP": "Μεταβίβαση κυριότητας",
+    "SINGLE_Groups": "Ομάδα",
+    "Users": "Χρήστες",
+    "Name": "Όνομα ομάδας",
+    "Description": "Περιγραφή"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Παρακαλώ επιλέξτε τουλάχιστον ένα μέλος για την ομάδα",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Ομάδα διαγράφηκε επιτυχώς"
+  }
+}

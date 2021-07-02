@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Πρότυπα email",
+    "SINGLE_EmailTemplates": "Πρότυπο email",
+    "LBL_CONTENT_MAIL": "Περιεχόμενο email",
+    "LBL_BASIC_DETAILS": "Βασικές πληροφορίες",
+    "FL_NAME": "Όνομασία",
+    "FL_TYPE": "Τύπος",
+    "FL_MODULE": "Module",
+    "FL_SUBJECT": "Θέμα",
+    "FL_CONTENT": "Περιεχόμενο",
+    "FL_SMTP_PRIORITY": "Προτεραιότητα SMTP",
+    "PLL_MODULE": "Module",
+    "PLL_RECORD": "Εγγραφή",
+    "PLL_MAIL": "Μήνυμα",
+    "PLL_LIST": "Λίστα",
+    "PLL_DEFAULT": "Προεπιλεγμένη εταιρεία",
+    "FL_SYS_NAME": "System name"
+  }
+}

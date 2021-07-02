@@ -1,0 +1,18 @@
+{
+  "php": {
+    "BankAccounts": "Bankrekening",
+    "SINGLE_BankAccounts": "Bankrekening",
+    "LBL_CUSTOM_INFORMATION": "Klantgegevens",
+    "LBL_BASIC_INFORMATION": "Algemene gegevens",
+    "FL_NAME": "Naam",
+    "FL_BANK_ACCOUNT_NUMBER": "Rekeningnummer",
+    "FL_CURRENCY": "Valuta",
+    "FL_SWIFT": "SWIFT code",
+    "FL_BANK_NAME": "Naam van de bank",
+    "FL_STATUS": "Status",
+    "FL_MULTICOMPANY": "Afdeling",
+    "PLL_DRAFT": "Concept",
+    "PLL_ACTIVE": "Actief",
+    "PLL_INACTIVE": "Niet-actief"
+  }
+}

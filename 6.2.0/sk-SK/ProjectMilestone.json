@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Mílniky projektu",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Project Milestone Details",
+    "Project Milestone Name": "Project Milestone Name",
+    "Milestone Date": "Milestone Date",
+    "Project Milestone No": "Project Milestone Number",
+    "description": "Description",
+    "Related to": "Projekt",
+    "FL_PARENT_PROJECT_MILESTONE": "Parent project milestone",
+    "FL_STATUS": "Stav",
+    "LBL_ESTIMATED_WORK_TIME": "Estimated work time",
+    "LBL_MILESTONES_LIST": "Milestones List",
+    "LBL_TASKS_LIST": "Tasks List",
+    "LBL_PROJECTS_LIST": "Zoznam projektov",
+    "LBL_PRIORITY": "Priorita",
+    "LBL_PROGRESS": "Progress",
+    "PLL_INTERNAL": "Internal",
+    "PLL_EXTERNAL": "External",
+    "PLL_SHARED": "Shared",
+    "PLL_LOW": "Low",
+    "PLL_NORMAL": "Normal",
+    "PLL_HIGH": "High"
+  }
+}

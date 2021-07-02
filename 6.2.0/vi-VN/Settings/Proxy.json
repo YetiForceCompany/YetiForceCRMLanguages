@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Proxy",
+    "LBL_PROXY_CONFIGRATION": "Cấu hình Proxy",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy",
+    "LBL_PROXY_CONNECTION": "Kết nối",
+    "LBL_PROXY_PROTOCOL": "Giao thức",
+    "LBL_PROXY_HOST": "Máy chủ",
+    "LBL_PROXY_PORT": "Cổng",
+    "LBL_PROXY_LOGIN": "Đăng nhập",
+    "LBL_PROXY_PASSWORD": "Mật khẩu",
+    "LBL_PROXY_INFORMATION": "Nơi hệ thống giao tiếp với các máy chủ bên ngoài: \n - Công cụ tìm kiếm mật khẩu an toàn - Máy chủ Yetiforce, \n - Cài đặt ngôn ngữ - Máy chủ Github, \n - Công cụ tìm địa chỉ - máy chủ Yetiforce, \n - Tích hợp với Magento - Máy chủ Magento, \n - Phối hợp công cụ tìm kiếm - máy chủ Yetiforce, máy chủ OpenStreetMap, \n - Tìm kiếm tuyến đường - Máy chủ Yetiforce, các máy chủ được chỉ định bởi người dùng trong cấu hình, \n - Giao tiếp với máy chủ cập nhật - Máy chủ Github, \n - Giao tiếp với máy chủ đăng ký - Máy chủ Yetiforce, \n - Tích hợp với OpenStreetMap - máy chủ Yetiforce, máy chủ OpenStreetMap và các máy chủ được chỉ định bởi người dùng trong cấu hình, \n - Cập nhật tỷ giá hối đoái - Máy chủ ngân hàng (NBP, CBR, ECB, NBR), \n - Cài đặt và cập nhật thư viện - Máy chủ Github"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Cấu hình chi tiết đã được lưu"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Инспектор за разрешения",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Инспектор за разрешения",
+    "LBL_FULL_USER_NAME": "Потребител",
+    "LBL_VIEW_PRVILIGE": "Преглед",
+    "LBL_CREATE_PRIVILIGE": "Създай",
+    "LBL_EDIT_PRIVILIGE": "Редактирай",
+    "LBL_DELETE_PRIVILIGE": "Изтрий",
+    "LBL_PROFILES": "Профил:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Модул/действията са изключени от проверката на разрешения",
+    "SEC_USER_IS_ADMIN": "Потребител е и администратор",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Разрешения за модул, потребителят има достъп до данни в този модул",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Глобални разрешения за гледане на данни",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Глобални разрешения за редактиране на данни",
+    "SEC_RECORD_ID_IS_NULL": "Генерално разрешение на действия в модула",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Достъпът зависи от разрешенията за извършване на дейности в модула",
+    "SEC_RECORD_BY_SHARING_YES": "Достъпът се зависи на базата на правила за достъп (модул достъп)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Достъпът зависи от потребителя %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Достъпът зависи от група %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Достъпът зависи от йерархията на фирмата (роли), потребителят е по-нагоре в йерархията от собственика на записите",
+    "SEC_RECORD_HIERARCHY_USER": "Достъпът зависи от разрешенията на йерархията",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Без разрешения за модула, потребителят няма достъп в този модул",
+    "SEC_MODULE_PERMISSIONS_NO": "Без разрешения за модула, потребителят няма достъп в този модул",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Няма разрешения за извършване на действия в модула",
+    "SEC_RECORD_BY_SHARING_NO": "Достъпът се зависи на базата на правила за достъп (модул достъп)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Няма разрешения за действие - Действието не е намерено"
+  }
+}

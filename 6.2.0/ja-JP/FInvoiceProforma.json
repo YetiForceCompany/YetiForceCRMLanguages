@@ -1,0 +1,18 @@
+{
+  "php": {
+    "FInvoiceProforma": "仮請求書",
+    "SINGLE_FInvoiceProforma": "仮請求書",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "配送先住所",
+    "FL_SUBJECT": "件名",
+    "FL_PAYMENT_DATE": "期限",
+    "FL_SALE_DATE": "販売日",
+    "FL_ACCOUNT": "アカウント",
+    "FL_STATUS": "状態",
+    "FL_NUMBER": "請求書番号",
+    "FL_TOTAL": "小計",
+    "FL_GROSS": "合計",
+    "PLL_WIRE_TRANSFER": "電子送金",
+    "FL_PAYMENT_SUM": "Total payments"
+  }
+}

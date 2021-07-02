@@ -1,0 +1,8 @@
+{
+  "php": {
+    "CustomView": "筛选视图-配置",
+    "LBL_FEATURED": "添加到收藏夹",
+    "LBL_COLOR_VIEW": "视图颜色",
+    "LBL_ADD_FIELD": "添加字段"
+  }
+}

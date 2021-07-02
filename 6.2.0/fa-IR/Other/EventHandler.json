@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "ایمیل تکراری",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "شناسه ‌ean تکراری",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Block record adding/editing when such EAN code already exists",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplicate Goods Dispatched Note Correction",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplicate Goods Received Note Correction",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "اعتبارسنجی زمان کار نمی تواند بیش از ۲۴ ساعت باشد",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours"
+  }
+}

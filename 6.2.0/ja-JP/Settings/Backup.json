@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "バックアップマネージャー",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "バックアップ ファイルの管理",
+    "LBL_DOWNLOAD": "ダウンロード",
+    "LBL_FILE_NAME": "ファイル名",
+    "LBL_FILE_SIZE": "ファイルサイズ",
+    "LBL_FILE_DATE": "更新日",
+    "LBL_BACKUP_LIST": "バックアップリスト",
+    "ERR_CONFIG_ALERT_TITLE": "バックアップマネージャーは無効です",
+    "ERR_CONFIG_ALERT_DESC": "構成ファイル[config \/ Components \/ Backup.php]のBACKUP_PATH変数に適切なパスを設定して有効にします。"
+  },
+  "js": {}
+}

@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Corrigeer facturen",
+    "SINGLE_FCorectingInvoice": "Corrigeer facturen",
+    "LBL_CUSTOM_INFORMATION": "Systeeminformatie",
+    "LBL_INVOICE_ADDRESS": "Factuuradres",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Verzendadres",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_PAYMENT_DATE": "Vervaldatum",
+    "FL_SALE_DATE": "Verkoopdatum",
+    "FL_BANK_ACCOUNT": "Bankrekeningnummer",
+    "FL_NUMBER": "Factuurnummer",
+    "FL_ACCOUNT": "Rekening",
+    "FL_TOTAL": "Netto",
+    "FL_GROSS": "Bruto",
+    "FL_STATUS": "Status",
+    "PLL_WIRE_TRANSFER": "Elektronische overdracht",
+    "LBL_YEAR": "Jaar",
+    "FL_INVOICE": "Factuur",
+    "LBL_COMMENTS": "Opmerkingen",
+    "FL_EXTERNAL_COMMENT": "Externe commentaar",
+    "FL_INTERNAL_COMMENT": "Interne commentaar",
+    "LBL_BEFORE_CORRECTION": "Voor correctie",
+    "LBL_AFTER_CORRECTION": "Na correctie",
+    "LBL_CHOOSE_INVOICE": "Selecteer factuur die moet worden gecorrigeerd",
+    "LBL_COPY_FROM_INVOICE": "Kopieer van eerste factuur",
+    "LBL_INVOICE_INFO": "De oorspronkelijke factuur velden - voor correcties.",
+    "LBL_AFTER_INVOICE_INFO": "Hoe moet de uiteindelijke factuur er uitzien na correctie.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Factuurvelden moeten worden gecorrigeerd. Kopieer alle velden van de oorspronkelijke factuur en wijzig de waarden indien nodig."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Selecteer factuur die moet worden gecorrigeerd"
+  }
+}

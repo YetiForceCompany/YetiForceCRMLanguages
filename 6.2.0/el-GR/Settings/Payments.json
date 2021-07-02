@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "Πληρωμές",
+    "LBL_RIGHT_CLICK_COPY": "Κάντε δεξί κλικ και αντιγραφή"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "Διαγράφηκε με επιτυχία",
+    "JS_SAVED_SUCCESSFULLY": "Αποθηκεύτηκε με επιτυχία"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Інспектор дозволів",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Інспектор дозволів",
+    "LBL_FULL_USER_NAME": "Користувач",
+    "LBL_VIEW_PRVILIGE": "Перегляд",
+    "LBL_CREATE_PRIVILIGE": "Створення",
+    "LBL_EDIT_PRIVILIGE": "Редагування",
+    "LBL_DELETE_PRIVILIGE": "Видаляти",
+    "LBL_PROFILES": "Профіль:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Модуль/дія, виключена із перевірки дозволів",
+    "SEC_USER_IS_ADMIN": "Користувач є Адміністратором",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Дозволи на модуль, користувач має доступ до даних цього модуля",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Глобальні дозволи на перегляд даних",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Глобальні дозволи на редагування даних",
+    "SEC_RECORD_ID_IS_NULL": "Загальний доступ до дій в модулі",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Доступ на основі прав на дії в цьому модулі",
+    "SEC_RECORD_BY_SHARING_YES": "Доступ заснований на правилах доступу (доступ до модуля)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Заснований доступ на основі власника %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Доступу на основі групи %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Доступ на основі ієрархії компанії (ролі) користувача вище в ієрархії, ніж власник запису",
+    "SEC_RECORD_HIERARCHY_USER": "Доступ на основі ієрархії дозволів",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Немає прав на модуль, користувач не має доступу до даного модуля",
+    "SEC_MODULE_PERMISSIONS_NO": "Немає прав на модуль, користувач не має доступу до даного модуля",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Немає прав на виконання дій у даному модулі",
+    "SEC_RECORD_BY_SHARING_NO": "Немає дозволів, заснованих на правилах доступу (доступ до модуля)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Немає дозволів на дію - дія не знайдена"
+  }
+}

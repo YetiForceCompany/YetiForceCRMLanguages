@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "تیکت‌های داخلی",
+    "SINGLE_CInternalTickets": "تیکت داخلی",
+    "LBL_ADDITIONAL_INFORMATION": "اطلاعات بیشتر",
+    "LBL_BASIC_INFORMATION": "اطلاعات اولیه",
+    "LBL_TICKET_RESOLUTION": "راه حل",
+    "LBL_ATTENTION_BLOCK": "یادداشت‌ها",
+    "LBL_DESCRIPTION_BLOCK": "شرح",
+    "FL_SUBJECT": "موضوع",
+    "FL_STATUS": "وضعیت",
+    "FL_RESOLUTION": "راه حل",
+    "PLL_UNASSIGNED": "اختصاص نیافته",
+    "PLL_AWAITING_REALIZATION": "در انتظار تحقق",
+    "PLL_FOR_PROCESSING": "برای تحقق",
+    "PLL_IN_PROGRESSING": "در حال انجام",
+    "PLL_SUBMITTED_COMMENTS": "نظرات ارسال شده",
+    "PLL_FOR_APPROVAL": "برای تایید",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_ACCEPTED": "پذیرفته شده"
+  }
+}

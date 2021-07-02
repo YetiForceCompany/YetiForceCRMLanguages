@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Event handlers",
+    "LBL_EVENT_HANDLER": "Event handlers",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Event name",
+    "LBL_EVENT_DESC": "Event description",
+    "LBL_INCLUDE_MODULES": "Include modules",
+    "LBL_EXCLUDE_MODULES": "Exclude modules",
+    "LBL_EVENT_IS_ACTIVE": "Is active",
+    "LBL_EDIT_VIEW_PRESAVE": "Valideer voordat het record wordt opgeslagen",
+    "LBL_ENTITY_CHANGE_STATE": "Status wijzigen",
+    "LBL_ENTITY_BEFORE_SAVE": "Voor het opslaan",
+    "LBL_ENTITY_AFTER_SAVE": "Na opslaan"
+  }
+}

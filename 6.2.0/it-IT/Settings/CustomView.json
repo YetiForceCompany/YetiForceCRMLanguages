@@ -1,0 +1,37 @@
+{
+  "php": {
+    "CustomView": "Filtri - Configurazione",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Gestisce tutti i filtri di tutti i moduli sulla base degli utenti e gruppi.",
+    "ViewName": "Filtro",
+    "SetDefault": "Predefinito per tutti [per utente, gruppo, ...]",
+    "LBL_PRIVILEGES_TO_EDIT": "Modifica",
+    "LBL_PRIVILEGES_TO_VIEW": "Disponibilità",
+    "Delete": "Elimina",
+    "Delete CustomView": "Filtro eliminato",
+    "Saving CustomView": "Filtro salvato",
+    "Actions": "Azioni",
+    "Edit": "Modifica",
+    "LBL_FEATURED_LABELS": "Preferito per tutti [per utente, gruppo, ...]",
+    "LBL_CREATED_BY": "Creato da",
+    "LBL_ADD_FILTER": "Aggiungi filtro",
+    "LBL_ALL_GROUP_LIST": "Utenti, gruppi, ...",
+    "LBL_GROUP_MEMBERS": "Impostato per",
+    "LBL_ADD_PERMISSIONS": "Imposta",
+    "LBL_RECEIVE_PERMISSION": "Revoca",
+    "LBL_SAVE_SEQUENCES": "Sequenza salvata",
+    "LBL_SORTING": "Ordinamento",
+    "LBL_SORTING_SETTINGS": "Impostazioni ordinamento",
+    "LBL_SORTING_SETTINGS_WORNING": "L'ordinamento potrebbe aumentare significativamente il tempo di caricamento della pagina.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Ordina per",
+    "LBL_SORT_ASCENDING_ORDER": "Ordine crescente",
+    "LBL_SORT_DESCENDING_ORDER": "Ordine decrescente",
+    "LBL_ATTENTION": "Avviso!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Solo i filtri privati possono ricevere permessi parziali",
+    "LBL_PUBLIC": "Pubblico",
+    "LBL_PRIVATE": "Privato"
+  },
+  "js": {
+    "Saving changes": "Salvataggio in corso ...",
+    "Update labels": "Aggiorna"
+  }
+}

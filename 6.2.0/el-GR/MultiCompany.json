@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Τμήματα",
+    "SINGLE_MultiCompany": "Τμήμα",
+    "LBL_BASIC_INFORMATION": "Στοιχεία εταιρείας",
+    "LBL_CONTACT_INFORMATION": "Πληροφορίες επικοινωνίας",
+    "LBL_REGISTRATION_INFORMATION": "Πληροφορίες εγγραφής",
+    "LBL_ADDRESS_INFORMATION": "Στοιχεία διεύθυνσης",
+    "LBL_SYSTEM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_ADDITIONAL_INFORMATION": "Πρόσθετες πληροφορίες",
+    "FL_COMPANY_NAME": "Επωνυμία εταιρείας",
+    "FL_PARENT": "Γονικό τμήμα",
+    "FL_STATUS": "Κατάσταση",
+    "FL_EMAIL_1": "Κύριο email",
+    "FL_EMAIL_2": "Δευτερεύον email",
+    "FL_PHONE": "Κύριο τηλέφωνο",
+    "FL_MOBILE": "Δευτερεύον τηλέφωνο",
+    "FL_FAX": "Φαξ",
+    "FL_VATID": "ΑΦΜ",
+    "FL_COMPANY_ID1": "Αριθμός μητρώου επιχείρησης",
+    "FL_COMPANY_ID2": "NCR",
+    "FL_INTERNAL_NOTES": "Εσωτερικές σημειώσεις",
+    "FL_PUBLIC_NOTES": "Δημόσιες σημειώσεις",
+    "PLL_ACTIVE": "Ενεργή",
+    "PLL_INACTIVE": "Ανενεργή",
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία",
+    "FL_WEBSITE": "Ιστοσελίδα",
+    "FL_LOGO": "Λογότυπο"
+  }
+}

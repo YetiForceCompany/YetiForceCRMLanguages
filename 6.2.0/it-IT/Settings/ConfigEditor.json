@@ -1,0 +1,25 @@
+{
+  "php": {
+    "ConfigEditor": "Editor di configurazione",
+    "LBL_DEFAULT_MODULE": "Modulo predefinito",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Lunghezza massima del testo in lista record (caratteri)",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Numero massimo di risultati per pagina in lista record",
+    "LBL_DEFAULT_LAYOUT": "Layout",
+    "LBL_SHOWING_BREADCRUMBS": "Mostra menù breadcrumb",
+    "LBL_TITLE_MAX_LENGTH": "Numero massimo di caratteri per il titolo",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Frequenza minima Cron [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Numero massimo di record nelle azioni massive",
+    "LBL_BG_CLOSING_MODAL": "Abilita la chiusura della finestra modale con un clic sullo sfondo",
+    "LBL_HREF_MAX_LEGTH": "Lunghezza massima per il tag href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Mostra la selezione della lingua nella pagina di login",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Mostra la selezione della lingua nella pagina di login",
+    "LBL_CONFIG_EDITOR": "Sistema - Configurazione",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Imposta la configurazione base del CRM",
+    "LBL_MAX_UPLOAD_SIZE": "Dimensione massima upload",
+    "LBL_MB": "MB"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Impostazioni configurazione salvate",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Cortesemente inserisci un valore nell'intervallo 1-100"
+  }
+}

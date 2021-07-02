@@ -1,0 +1,18 @@
+{
+  "php": {
+    "FInvoiceProforma": "Hóa đơn chiếu lệ",
+    "SINGLE_FInvoiceProforma": "Hóa đơn chiếu lệ",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Địa chỉ giao hàng",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_PAYMENT_DATE": "Ngày hết hạn",
+    "FL_SALE_DATE": "Ngày bán hàng",
+    "FL_ACCOUNT": "Khách hàng",
+    "FL_STATUS": "Trạng thái",
+    "FL_NUMBER": "Số hóa đơn",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Gross",
+    "PLL_WIRE_TRANSFER": "Chuyển tiền điện tử",
+    "FL_PAYMENT_SUM": "Total payments"
+  }
+}

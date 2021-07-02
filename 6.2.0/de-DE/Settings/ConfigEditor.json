@@ -1,0 +1,25 @@
+{
+  "php": {
+    "ConfigEditor": "Konfigurationseditor",
+    "LBL_DEFAULT_MODULE": "Standardmodul",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximale Textlänge in der Listenansicht",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximale Einträge pro Seite in der Listenansicht",
+    "LBL_DEFAULT_LAYOUT": "Layout",
+    "LBL_SHOWING_BREADCRUMBS": "Breadcrumbs Menü anzeigen",
+    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Minimale Cron-Frequenz [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximale Anzahl von Datensätzen beim Masseneditieren",
+    "LBL_BG_CLOSING_MODAL": "Aktiviere das Schließen des modalen Fensters durch Klicken auf den Hintergrund",
+    "LBL_HREF_MAX_LEGTH": "Maximale Länge für href Tag",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Sprachauswahl auf der Anmeldeseite anzeigen",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Layoutauswahl auf der Anmeldeseite anzeigen",
+    "LBL_CONFIG_EDITOR": "System - Konfiguration",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Konfigurationsdatei der Anwendung aktualisieren",
+    "LBL_MAX_UPLOAD_SIZE": "Maximale Upload-Größe",
+    "LBL_MB": "MB"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Konfigurationsdetails gespeichert",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Bitte Wert im Bereich 1-100 eingeben"
+  }
+}

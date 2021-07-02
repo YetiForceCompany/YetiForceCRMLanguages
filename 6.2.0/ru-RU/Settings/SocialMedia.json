@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_TWITTER": "Twitter",
+    "LBL_TWITTER_DESC": "Интеграция с Twitter",
+    "LBL_ARCHIVING_RECORDS_NUMBER_OF_DAYS": "Архивирование записей - количество дней",
+    "LBL_SOCIAL_MEDIA_CRON_WARNING": "Социальный Cron не включен, необходим для правильной архивировации.",
+    "LBL_SOCIAL_MEDIA_CRON2_WARNING": "Cron должен быть включен для получения сообщений из социальных медиа",
+    "LBL_TWITTER_API_KEY": "Ключ Twitter API",
+    "LBL_TWITTER_API_SECRET": "Секрет Twitter API",
+    "LBL_TWITTER_INSTRUCTION": "Для настройки Twitter API требуется учетная запись разработчика Twitter. Добавьте новое приложение, перейдите к деталям приложения и найдите вкладку \"Ключи и токены\", где расположены API ключи. Предоставьте их ниже.",
+    "LBL_TYPE_OF_LOG": "Тип журнала",
+    "LBL_SOCIAL_MEDIA_TYPE": "Тип",
+    "LBL_MESSAGE": "Сообщение"
+  }
+}

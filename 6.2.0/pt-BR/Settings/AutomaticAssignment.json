@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Atribuir Registros Automaticamente",
+    "AutomaticAssignment": "Atribuir Registros Automaticamente",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Nome do Campo",
+    "FL_MODULE": "Módulo",
+    "FL_VALUE": "Valor",
+    "FL_ROLES": "Funções",
+    "FL_SMOWNERS": "Dono do Registro",
+    "FL_ASSIGN": "Configurações padrão",
+    "FL_CONDITIONS": "Registro de condições de busca",
+    "FL_MODE": "Modo",
+    "LBL_CREATE_RECORD": "Criar Registro",
+    "BTN_NEXT": "Próximo",
+    "BTN_CLOSE": "Fechar",
+    "BTN_ADD": "Adicionar",
+    "LBL_CHANGE_ROLE_TYPE": "Alterar tipo de função",
+    "LBL_CHANGE_RECORD_STATE": "Alterar estado do registro",
+    "BTN_SAVE": "Salvar",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Incluir limite de registro de usuários",
+    "LBL_SET_DEFAULT_USER": "Definir usuário padrão",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Desativar modo sistema",
+    "LBL_SYSTEM": "Sistema",
+    "LBL_NOTE": "Nota!",
+    "LBL_VALUE_INFO": "O seguinte campo define o valor para o campo do módulo selecionado.",
+    "LBL_ROLES_INFO": "A lista de usuários pré-atribuídos foi criada a partir das funções abaixo.",
+    "LBL_SMOWNERS_INFO": "A lista de usuários pré-atribuídos foi criada a partir dos usuários e grupos abaixo. Esta lista de usuários é criada somente se não houver nenhum usuário selecionado a partir das funções.",
+    "LBL_ASSIGN_INFO": "Definir Atribuído A padrão. O valor definido aqui será atribuído ao registro quando o usuário, que foi atribuído, não pode ser encontrado(a).",
+    "LBL_CONDITIONS_INFO": "Definir condições de pesquisa registrada. Para selecionar um usuário da lista de usuários disponíveis, o sistema conta o número de registros atribuídos ao usuário no módulo. O usuário com o menor número de registros é atribuído ao registro.",
+    "LBL_ROLEID_INFO": "Defina um dos seguintes modos: SISTEMA - usuário por tais mecanismos como gerenciadores e tarefas de fluxo de trabalho; NENHUM SISTEMA – permite atribuir um registro manualmente pelo usuário."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Você tem certeza que deseja alterar o estado do registro?",
+    "JS_SAVE_SUCCESS": "Alterações salvas com sucesso"
+  }
+}

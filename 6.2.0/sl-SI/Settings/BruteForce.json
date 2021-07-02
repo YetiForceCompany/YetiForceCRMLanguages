@@ -1,0 +1,26 @@
+{
+  "php": {
+    "BruteForce": "Brute Force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Število poskusov",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "Zaklepanje časa (minut)",
+    "LBL_SETTINGS": "Nastavitve",
+    "LBL_BLOCKED_IP": "Blokiran IP naslov",
+    "LBL_SAVE_SUCCESS": "Spremembe so bile shranjene",
+    "LBL_UNBLOCK_FAIL": "IP naslov še ni bil deblokiran",
+    "LBL_UNBLOCK_SUCCESS": "IP naslov je bil deblokiran",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_IP": "IP naslov",
+    "LBL_DATE": "Datum",
+    "LBL_USERS": "Uporabniki",
+    "LBL_BROWSERS": "Brskalniki",
+    "LBL_UNBLOCK": "Odblokiraj",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Uporabniki za obvestila",
+    "LBL_BRUTEFORCE_ACTIVE": "Aktiven",
+    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_SENT_NOTIFICATIONS": "Pošlji obvestila"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Napaka. Shranjevanje ni uspelo."
+  }
+}

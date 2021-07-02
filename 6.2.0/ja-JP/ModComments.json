@@ -1,0 +1,23 @@
+{
+  "php": {
+    "SINGLE_ModComments": "コメント",
+    "LBL_RECORDS_LIST": "コメントリスト",
+    "LBL_MODCOMMENTS_INFORMATION": "コメント",
+    "LBL_OTHER_INFORMATION": "その他の情報",
+    "LBL_ADDING_COMMENT": "コメントを追加",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "ここにコメントを入力",
+    "Comment": "コメント",
+    "Creator": "作成者",
+    "Related To Comments": "関連させる",
+    "ReasonToEdit": "編集する理由",
+    "UserId": "ユーザーID",
+    "Customer": "顧客",
+    "LBL_ADDED_COMMENT_TO_TICKET": "チケットにコメントを追加",
+    "LBL_NEW_COMMENT_FOR_TICKET": "チケットにコメントが追加されました",
+    "LBL_NOTICE_WELCOME": "プラットフォームへようこそ",
+    "LBL_NOTICE_CREATED": "作成者：",
+    "LBL_COMMENTS_0": "現在のレコード",
+    "LBL_COMMENTS_SEARCH": "検索",
+    "LBL_ALL_RECORDS": "関連レコード"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "E-mailuri dublate",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blocați adăugarea sau editarea unei adrese de e-mail atunci când adresă de e-mail acea a fost deja înregistrată",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "VAT ID dublate",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blocați adăugarea sau editarea unui ID TVA atunci când acel ID DE TVA a fost deja înregistrat",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "EAN dublate",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blocați adăugarea sau editarea unui cod EAN atunci când acel cod EAN a fost deja înregistrat",
+    "IGDNC_IGDNEXIST_HANDLER": "Corecție notă: Bunuri dublate expediate",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Blocati adaugarea/editarea inregistrarilor cand aceleasi Corectie Nota marfa expediata exista deja",
+    "IGRNC_IGRNEXIST_HANDLER": "Corecție notă: Bunuri dublate expediate",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blocati adaugarea/editarea inregistrarilor cand aceleasi Corectie Nota marfa expediata exista deja.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Timpul de lucru validat, nu poate depăși 24 de ore",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Timp de lucru limitat la 24 ore"
+  }
+}

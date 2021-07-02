@@ -1,0 +1,18 @@
+{
+  "php": {
+    "FInvoiceProforma": "Proforma Rechnungen",
+    "SINGLE_FInvoiceProforma": "Proforma Rechnung",
+    "LBL_CUSTOM_INFORMATION": "Systeminformationen",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Lieferadresse",
+    "FL_SUBJECT": "Betreff",
+    "FL_PAYMENT_DATE": "Ausführungsdatum",
+    "FL_SALE_DATE": "Verkaufsdatum",
+    "FL_ACCOUNT": "Organisation",
+    "FL_STATUS": "Status",
+    "FL_NUMBER": "Rechnungsnummer",
+    "FL_TOTAL": "Gesamt",
+    "FL_GROSS": "Brutto",
+    "PLL_WIRE_TRANSFER": "Elektronischer Transfer",
+    "FL_PAYMENT_SUM": "Total payments"
+  }
+}

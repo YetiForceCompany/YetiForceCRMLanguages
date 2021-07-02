@@ -1,0 +1,25 @@
+{
+  "php": {
+    "ConfigEditor": "Éditeur de configuration",
+    "LBL_DEFAULT_MODULE": "Module par défaut",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Longueur max. du texte en vue liste",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Entrées maximum par page en vue liste",
+    "LBL_DEFAULT_LAYOUT": "Disposition",
+    "LBL_SHOWING_BREADCRUMBS": "Afficher le menu du fil d'Ariane",
+    "LBL_TITLE_MAX_LENGTH": "Nombre de caractères maximum pour le titre",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Fréquence minimale de cron [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Nombre maximum d'enregistrements en édition de masse",
+    "LBL_BG_CLOSING_MODAL": "Activer la fermeture de la fenêtre modale en cliquant dans le fond",
+    "LBL_HREF_MAX_LEGTH": "Longueur maximale pour les tags href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Afficher le choix de langues sur la page de connexion",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Afficher le choix de la disposition sur la page de connexion",
+    "LBL_CONFIG_EDITOR": "Configuration – Système",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Mettre à jour le fichier de configuration de l'application",
+    "LBL_MAX_UPLOAD_SIZE": "Taille Maximum d'envoi",
+    "LBL_MB": "Mo"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Configurations sauvegardés",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Merci de saisir une valeur entre 1-100"
+  }
+}

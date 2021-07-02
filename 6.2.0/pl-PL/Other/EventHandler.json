@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikuj e-maile",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu kiedy już istnieje jeden z wprowadzonych adresów email",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikuj NIP",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki NIP",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikuj EAN",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki kod EAN",
+    "IGDNC_IGDNEXIST_HANDLER": "Duplikuj Korektę Wydania Zewnętrznego",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta wydania zewnętrznego",
+    "IGRNC_IGRNEXIST_HANDLER": "Duplikuj Korektę Przyjęcia z Zewnątrz",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta przyjęć z zewnątrz.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Walidacja czasu pracy, nie może być dłuższy niż 24 godziny.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Czas pracy ograniczony do 24 godzin"
+  }
+}

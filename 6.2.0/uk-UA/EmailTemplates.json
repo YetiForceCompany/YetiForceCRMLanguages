@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Поштові шаблони",
+    "SINGLE_EmailTemplates": "Шаблон листа",
+    "LBL_CONTENT_MAIL": "Вміст листа",
+    "LBL_BASIC_DETAILS": "Основна інформація",
+    "FL_NAME": "Назва",
+    "FL_TYPE": "Тип",
+    "FL_MODULE": "Модуль",
+    "FL_SUBJECT": "Тема",
+    "FL_CONTENT": "Зміст",
+    "FL_SMTP_PRIORITY": "Пріоритет SMTP",
+    "PLL_MODULE": "Модуль",
+    "PLL_RECORD": "Запис",
+    "PLL_MAIL": "Повідомлення",
+    "PLL_LIST": "Список",
+    "PLL_DEFAULT": "Компанія за замовчуванням",
+    "FL_SYS_NAME": "System name"
+  }
+}

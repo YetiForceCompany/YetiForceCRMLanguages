@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Modelli email",
+    "SINGLE_EmailTemplates": "Modello email",
+    "LBL_CONTENT_MAIL": "Contenuto email",
+    "LBL_BASIC_DETAILS": "Informazioni base",
+    "FL_NAME": "Nome",
+    "FL_TYPE": "Tipo",
+    "FL_MODULE": "Modulo",
+    "FL_SUBJECT": "Oggetto email",
+    "FL_CONTENT": "Corpo email",
+    "FL_SMTP_PRIORITY": "Priorità SMTP",
+    "PLL_MODULE": "Modulo",
+    "PLL_RECORD": "Record",
+    "PLL_MAIL": "Messaggio",
+    "PLL_LIST": "Lista",
+    "PLL_DEFAULT": "Mittente predefinito",
+    "FL_SYS_NAME": "Nome del sistema"
+  }
+}

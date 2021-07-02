@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "نماذج البريد الإلكتروني",
+    "SINGLE_EmailTemplates": "البريد الإلكتروني قالب",
+    "LBL_CONTENT_MAIL": "محتوى البريد الإلكتروني",
+    "LBL_BASIC_DETAILS": "معلومات أساسية",
+    "FL_NAME": "الاسم",
+    "FL_TYPE": "نوع",
+    "FL_MODULE": "الإضافه",
+    "FL_SUBJECT": "الموضوع",
+    "FL_CONTENT": "محتوى",
+    "FL_SMTP_PRIORITY": "SMTP الأولوية",
+    "PLL_MODULE": "الإضافه",
+    "PLL_RECORD": "تسجيل",
+    "PLL_MAIL": "رسالة",
+    "PLL_LIST": "قائمة",
+    "PLL_DEFAULT": "افتراضي شركة",
+    "FL_SYS_NAME": "System name"
+  }
+}

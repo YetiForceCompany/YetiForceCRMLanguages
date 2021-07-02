@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webサービス",
+    "LBL_CHANGE_PASSWORD_FAILURE": "パスワードの変更に失敗しました",
+    "LBL_DATABASE_QUERY_ERROR": "要求された操作を実行中にデータベースエラーが発生しました",
+    "LBL_INVALID_OLD_PASSWORD": "古いパスワードに対して無効な値が与えられました。",
+    "LBL_NEW_PASSWORD_MISMATCH": "新しいパスワードとパスワードの確認が一致しません"
+  }
+}

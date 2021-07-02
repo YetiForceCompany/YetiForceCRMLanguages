@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Map": "Karte",
+    "LBL_MAP": "Karte",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Kachelebene",
+    "LBL_TILE_LAYER_INFO_1": "Wählen Sie den Server, von dem Sie Kachelschichten für Karten im System herunterladen möchten. Jeder Server bietet einen anderen Blick auf die Karte, Sie können auch Ihren eigenen oder öffentlichen Server hinzufügen, aber auf Einschränkungen und Lizenzbeschränkungen achten.",
+    "LBL_TILE_LAYER_INFO_2": "Um zusätzliche Server hinzuzufügen, bearbeiten Sie die $tileLayerServers -Variable in der %s -Datei. Öffentlich verfügbare Tile Layer-Server sind verfügbar unter:",
+    "LBL_PROVIDER_NAME": "Name des Anbieters",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Kachel-Layer-Url-Vorlage",
+    "LBL_API_URL": "Provider API URL",
+    "LBL_DRIVER": "Treiber",
+    "LBL_COORDINATES": "Koordinaten",
+    "LBL_COORDINATES_INFO_1": "Wählen Sie den Server aus, der zum Herunterladen von geografischen Koordinaten verwendet werden soll. Der Cron aktualisiert die Koordinaten für Adressfelder. Achten Sie auf die Einschränkungen des Providers, das System sendet häufig Anfragen an die Server. Beachten Sie die Tatsache, dass freie Server große Grenzen haben und Sie Ihre Daten mit ihnen teilen, immer vertrauenswürdige Server wählen.",
+    "LBL_COORDINATES_INFO_2": "Um zusätzliche Server hinzuzufügen, bearbeiten Sie die $coordinatesServers -Variable in der %s -Datei. öffentlich verfügbare Koordinatenserver sind verfügbar:",
+    "LBL_AVAILABLE_DRIVERS": "Im System verfügbare Treiber",
+    "LBL_PROVIDER_ACTIVE": "Aktiv",
+    "LBL_ROUTING": "Routing",
+    "LBL_ROUTING_INFO_1": "Wählen Sie den Server, mit dem Routen für Fahrzeuge zugeordnet werden sollen, wird das System die Koordinaten der Punkte angeben, für die Sie die Route abbilden möchten.",
+    "LBL_ROUTING_INFO_2": "Um zusätzliche Server hinzuzufügen, bearbeiten Sie die $routingServers -Variable in der %s -Datei. öffentlich verfügbare Routing-Server sind verfügbar:"
+  }
+}

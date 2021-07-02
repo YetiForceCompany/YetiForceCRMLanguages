@@ -1,0 +1,18 @@
+{
+  "php": {
+    "FInvoiceProforma": "Προτιμολόγια",
+    "SINGLE_FInvoiceProforma": "Προτιμολόγιο",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Διεύθυνση παράδοσης",
+    "FL_SUBJECT": "Θέμα",
+    "FL_PAYMENT_DATE": "Ημερομηνία πληρωμής μέχρι",
+    "FL_SALE_DATE": "Ημερομηνία Πώλησης",
+    "FL_ACCOUNT": "Πελάτης",
+    "FL_STATUS": "Κατάσταση",
+    "FL_NUMBER": "Αριθμός προτιμολογίου",
+    "FL_TOTAL": "Καθαρό ποσό",
+    "FL_GROSS": "Μικτό ποσό",
+    "PLL_WIRE_TRANSFER": "Ηλεκτρονική μεταφορά",
+    "FL_PAYMENT_SUM": "Total payments"
+  }
+}

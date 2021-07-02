@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FL_PROVIDER": "سرویس دهنده",
+    "FL_STATUS": "وضعیت",
+    "FL_SMSAPI_FROM": "نامه فرستنده",
+    "FL_API_KEY": "کلید ‌Api",
+    "LBL_ADD_RECORD": "پیکربندی جدید",
+    "LBL_SMSNOTIFIER": "پیکربندی سرویس‌ دهنده SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "پیکربندی جدید",
+    "LBL_EDIT_CONFIGURATION": "ویرایش پیکربندی",
+    "BTN_SAVE": "ذخیره",
+    "BTN_CLOSE": "لغو"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید این پیکربندی را حذف کنید؟",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "پیکربندی با موفقیت حذف شد",
+    "JS_SAVE_SUCCESS": "ذخیره شده"
+  }
+}

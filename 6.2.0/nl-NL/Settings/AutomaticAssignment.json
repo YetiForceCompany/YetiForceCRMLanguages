@@ -1,0 +1,37 @@
+{
+  "php": {
+    "LBL_AUTOMATIC_ASSIGNMENT": "Automatisch records toewijzen",
+    "AutomaticAssignment": "Automatisch toewijzen records",
+    "LBL_AUTOMATICASSIGNMENT_DESCRIPTION": " ",
+    "FL_FIELD": "Veldnaam",
+    "FL_MODULE": "Module",
+    "FL_VALUE": "Waarde",
+    "FL_ROLES": "Rollen",
+    "FL_SMOWNERS": "Record eigenaar",
+    "FL_ASSIGN": "Standaard instellingen",
+    "FL_CONDITIONS": "Zoekvoorwaarden record",
+    "FL_MODE": "Mode",
+    "LBL_CREATE_RECORD": "Record aanmaken",
+    "BTN_NEXT": "Volgende",
+    "BTN_CLOSE": "Sluiten",
+    "BTN_ADD": "Toevoegen",
+    "LBL_CHANGE_ROLE_TYPE": "Rol type wijzigen",
+    "LBL_CHANGE_RECORD_STATE": "Wijzig de record status",
+    "BTN_SAVE": "Opslaan",
+    "LBL_INCLUDE_USERS_RECORD_LIMIT": "Inclusief gebruikers recordlimiet",
+    "LBL_SET_DEFAULT_USER": "Standaard gebruiker instellen",
+    "LBL_DEACTIVATE_SYSTEM_MODE": "Systeemmodus deactiveren",
+    "LBL_SYSTEM": "Systeem",
+    "LBL_NOTE": "Opmerking!",
+    "LBL_VALUE_INFO": "Het volgende veld stelt de waarde voor het geselecteerde module veld in.",
+    "LBL_ROLES_INFO": "De lijst met vooraf toegewezen gebruikers is gemaakt van de onderstaande rollen.",
+    "LBL_SMOWNERS_INFO": "De lijst met vooraf toegewezen gebruikers wordt gemaakt van onderstaande gebruikers, groepen. Deze gebruikerslijst wordt alleen gemaakt als er geen gebruikers zijn geselecteerd uit rollen.",
+    "LBL_ASSIGN_INFO": "Stel standaard toegewezen aan in. De waarde hier ingesteld wordt toegewezen aan het record wanneer de gebruiker, aan wie is toegewezen, niet kan worden gevonden.",
+    "LBL_CONDITIONS_INFO": "Stel record zoekvoorwaarden in. Om een gebruiker te selecteren uit de beschikbare gebruikerslijst, telt het systeem het aantal records dat aan de gebruiker is toegewezen in de module. De gebruiker met het laagste aantal records is toegewezen aan de record.",
+    "LBL_ROLEID_INFO": "Stel een van de volgende manieren in: SYSTEM - gebruiker door middel van mechanismen als workflows taken en handlers; NON-SYSTEM – laat toe om een record handmatig door de gebruiker toe te wijzen."
+  },
+  "js": {
+    "JS_STATE_CONFIRMATION": "Weet u zeker dat u de record status wilt wijzigen?",
+    "JS_SAVE_SUCCESS": "Wijzigingen met succes opgeslagen"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Tạo nhanh",
+    "LBL_SEPARATOR": "Dấu ngăn cách",
+    "LBL_OTHER": "Khác",
+    "MEN_VIRTUAL_DESK": "Bàn làm việc ảo",
+    "MEN_COMPANIES_CONTACTS": "Danh bạ",
+    "MEN_SALES": "Bán hàng",
+    "MEN_PROJECTS": "Quản lí dự án",
+    "MEN_MARKETING": "Tiếp thị",
+    "MEN_SUPPORT": "Hỗ trợ",
+    "MEN_ACCOUNTING": "Kế toán",
+    "MEN_COMPANY": "Công ty",
+    "MEN_ORGANIZATION": "Tổ chức",
+    "MEN_DATABESES": "Cơ sơ dữ liệu",
+    "MEN_TEAMWORK": "Nhóm làm việc",
+    "MEN_PRODUCTBASE": "Cơ sở dữ liệu sản phẩm",
+    "MEN_LISTS": "Danh sách",
+    "MEN_SERVICESBASE": "Cơ sở dữ liệu dịch vụ",
+    "MEN_SALE_PROCESSES": "Quy trình bán hàng",
+    "Menu": "Trình đơn",
+    "MEN_LOGISTICS": "Vận tải",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Thay đổi mật khẩu đăng nhập",
+    "LBL_CHANGE": "Thay đổi",
+    "LBL_USER_PROFILE": "Thông tin thành viên",
+    "MEN_GDPR": "GDPR"
+  }
+}

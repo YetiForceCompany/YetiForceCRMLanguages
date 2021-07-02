@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Projet",
+    "LBL_INFO": "Information",
+    "LBL_TYPE": "Statut",
+    "LBL_PROJECT": "Projet",
+    "LBL_PROJECT_STATUS_INFO": "Statuts determinant la clôture du projet",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "États déterminant la fermeture du jalon",
+    "LBL_PROJECTTASK_STATUS_INFO": "États déterminant la fermeture de la tâche",
+    "LBL_SAVE_CONFIG_OK": "Modifications sauvegardées avec succès.",
+    "LBL_SAVE_CONFIG_ERROR": "Echec de la sauvegarde de la configuration.",
+    "RealizationProcesses": "Processus Réalisation"
+  },
+  "js": {}
+}

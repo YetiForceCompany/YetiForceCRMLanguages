@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Gestionnaire de sauvegardes",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Gérer les fichiers de sauvegarde",
+    "LBL_DOWNLOAD": "Télécharger",
+    "LBL_FILE_NAME": "Nom du fichier",
+    "LBL_FILE_SIZE": "Taille du fichier",
+    "LBL_FILE_DATE": "Date de modification",
+    "LBL_BACKUP_LIST": "Liste de sauvegarde",
+    "ERR_CONFIG_ALERT_TITLE": "Gestionnaire de sauvegarde est désactivé",
+    "ERR_CONFIG_ALERT_DESC": "Défini le chemin d’accès approprié dans BACKUP_PATH variable dans le fichier de configuration [config\/Components\/Backup.php] pour l’activer."
+  },
+  "js": {}
+}

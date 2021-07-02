@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "Naziv",
+    "LBL_TYPE": "Tip",
+    "LBL_DEFAULT": "Zadano",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CREATE_RECORD": "Dodajte telefonsku centralu",
+    "LBL_EDIT_RECORD": "Uredite telefonsku centralu",
+    "LBL_URL": "Adresa poslužitelja",
+    "LBL_USERNAME": "Prijava",
+    "LBL_PASSWORD": "Lozinka",
+    "LBL_SECRET_KEY": "Tajni ključ",
+    "LBL_OUTBOUND_CONTEXT": "Izlazni kontekst"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Promjene su spremljene"
+  }
+}

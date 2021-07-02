@@ -1,0 +1,16 @@
+{
+  "php": {
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Dupliquer les e-mails",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsque l'une des adresses e-mail saisies existe déjà",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER": "Numéro de TVA en double",
+    "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsqu'un tel numéro de TVA existe déjà",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Dupliquer EAN",
+    "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsqu'un tel code EAN existe déjà",
+    "IGDNC_IGDNEXIST_HANDLER": "Correction de la note d'expédition de marchandises en double",
+    "IGDNC_IGDNEXIST_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsque la même correction de note d'expédition de marchandises existe déjà",
+    "IGRNC_IGRNEXIST_HANDLER": "Correction de la note de réception de marchandises en double",
+    "IGRNC_IGRNEXIST_HANDLER_DESC": "Bloquer l'ajout / la modification d'enregistrement lorsque la même correction de note de marchandises reçues existe déjà.",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Validation du temps de travail, elle ne peut pas excéder 24 heures",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Temps de travail limité à 24 heures"
+  }
+}

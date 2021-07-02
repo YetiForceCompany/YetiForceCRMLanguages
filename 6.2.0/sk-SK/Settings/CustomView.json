@@ -1,0 +1,37 @@
+{
+  "php": {
+    "CustomView": "Filtre - Konfigurácia",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Tento nástroj dovoľuje nastaviť vlastné zobrazenia v moduloch. Tieto moduly musia obsahovať záznamy a používať štandardné filtre v YetiForce CRM.",
+    "ViewName": "Názov zobrazenia",
+    "SetDefault": "Predvolené",
+    "LBL_PRIVILEGES_TO_EDIT": "Upraviť",
+    "LBL_PRIVILEGES_TO_VIEW": "Dostupnosť",
+    "Delete": "Vymazať",
+    "Delete CustomView": "Vlastné zobrazenie bolo vymazané",
+    "Saving CustomView": "Zobrazenie bolo uložené",
+    "Actions": "Akcie",
+    "Edit": "Upraviť",
+    "LBL_FEATURED_LABELS": "V obľúbených",
+    "LBL_CREATED_BY": "Vytvorené užívateľom",
+    "LBL_ADD_FILTER": "Pridať filter",
+    "LBL_ALL_GROUP_LIST": "Dostupné možnosti",
+    "LBL_GROUP_MEMBERS": "Included in action",
+    "LBL_ADD_PERMISSIONS": "Pridať oprávnenia",
+    "LBL_RECEIVE_PERMISSION": "Receive permissions",
+    "LBL_SAVE_SEQUENCES": "Sequences saved successfully",
+    "LBL_SORTING": "Sorting",
+    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_SORTING_SETTINGS_WORNING": "Record sorting might significantly increase the page loading time.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Select a field to sort records",
+    "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",
+    "LBL_SORT_DESCENDING_ORDER": "Sort in descending order",
+    "LBL_ATTENTION": "Varovanie!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Iba súkromným filtrom môžu byť udelené čiastkové povolenie",
+    "LBL_PUBLIC": "Verejné",
+    "LBL_PRIVATE": "Súkromné"
+  },
+  "js": {
+    "Saving changes": "Ukladajú sa zmeny...",
+    "Update labels": "Aktualizácia"
+  }
+}

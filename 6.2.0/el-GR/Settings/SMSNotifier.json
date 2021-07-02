@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FL_PROVIDER": "Πάροχος",
+    "FL_STATUS": "Κατάσταση",
+    "FL_SMSAPI_FROM": "Όνομα αποστολέα",
+    "FL_API_KEY": "Κλειδί API",
+    "LBL_ADD_RECORD": "Νέα διαμόρφωση",
+    "LBL_SMSNOTIFIER": "Ρύθμιση παραμέτρων της υπηρεσίας παροχής SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Νέα διαμόρφωση",
+    "LBL_EDIT_CONFIGURATION": "Επεξεργασία παραμέτρων",
+    "BTN_SAVE": "Αποθήκευση",
+    "BTN_CLOSE": "Άκυρο"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη ρύθμιση;",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Ρύθμιση παραμέτρων καταργήθηκε με επιτυχία",
+    "JS_SAVE_SUCCESS": "Αποθηκεύτηκε"
+  }
+}

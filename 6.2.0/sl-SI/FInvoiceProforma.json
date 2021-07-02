@@ -1,0 +1,18 @@
+{
+  "php": {
+    "FInvoiceProforma": "Predračuni",
+    "SINGLE_FInvoiceProforma": "Predračun",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Naslov prejemnika",
+    "FL_SUBJECT": "Zadeva",
+    "FL_PAYMENT_DATE": "Datum dobave",
+    "FL_SALE_DATE": "Datum prodaja",
+    "FL_ACCOUNT": "Podjetje",
+    "FL_STATUS": "Status",
+    "FL_NUMBER": "Številka računa",
+    "FL_TOTAL": "Neto",
+    "FL_GROSS": "Bruto",
+    "PLL_WIRE_TRANSFER": "Elektronski prenos",
+    "FL_PAYMENT_SUM": "Total payments"
+  }
+}
