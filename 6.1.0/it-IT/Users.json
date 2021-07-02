@@ -384,7 +384,7 @@
     "FL_MAIL_SCANNER_ACTIONS": "Azioni di analisi delle email disponibili (Outlook)",
     "FL_MAIL_SCANNER_FIELDS": "Campi di relazione dei record (Outlook)",
     "LBL_ACCOUNT_SETTINGS": "Impostazioni account",
-    "LBL_USER_NAME": "User name",
+    "LBL_USER_NAME": "Nome utente",
     "LBL_LOGIN_TIME": "Orario di accesso",
     "LBL_LOGGED_OUT_TIME": "Orario di uscita",
     "LBL_USER_IP_ADDRESS": "Indirizzo IP utente",
