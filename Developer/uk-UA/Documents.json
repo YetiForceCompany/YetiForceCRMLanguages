@@ -47,7 +47,7 @@
     "LBL_SELECT_Documents": "Оберіть документ",
     "LBL_RELATIONS": "Пов'язаний з",
     "LBL_MASS_ADD": "Масове завантаження",
-    "LBL_PREVIEW_FILE": "File preview"
+    "LBL_PREVIEW_FILE": "Перегляд файлу"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Ви впевнені, що хочете перемістити файли в",
