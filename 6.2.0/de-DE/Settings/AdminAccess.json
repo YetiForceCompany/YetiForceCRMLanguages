@@ -13,10 +13,10 @@
     "FL_PURPOSE": "Zweck",
     "FL_USER": "Benutzer",
     "FL_BASE_USER": "Basisbenutzer",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Nach dem Anmeldezweck fragen",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Möchten Sie das Besuchszweck-Fenster für Administratoren aktivieren, wenn sie sich im System anmelden?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Nach dem Wechseln des Benutzers fragen",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Möchten Sie das Besuchszweck-Fenster für Administratoren aktivieren, wenn Sie Benutzer im System wechseln?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Änderungen gespeichert"

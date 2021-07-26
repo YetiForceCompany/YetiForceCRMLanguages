@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Impila i blocchi discriminati",
     "LBL_CHART_COLORS_FROM_FILTER": "Colore per filtro",
     "LBL_WIDGET_DOWNLOAD": "Scarica grafico",
-    "LBL_WIDGET_PRINT": "Stampa grafico"
+    "LBL_WIDGET_PRINT": "Stampa grafico",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

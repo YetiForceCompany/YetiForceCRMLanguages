@@ -71,6 +71,7 @@
     "LBL_SUMMARY_FIELDS": "Lista de campos visíveis no resumo",
     "LBL_RELATED_ATTACHMENTS": "Anexos relacionados",
     "LBL_DISPLAY_BARCODE": "Código de barras",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dados de registros relacionados (matriz)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dados de registros relacionados (matriz)",
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)"
   }
 }

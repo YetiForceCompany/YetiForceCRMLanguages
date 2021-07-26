@@ -26,9 +26,9 @@
     "LBL_SORT_ASCENDING_ORDER": "Aufsteigend sortieren",
     "LBL_SORT_DESCENDING_ORDER": "Absteigend sortieren",
     "LBL_ATTENTION": "Warnung!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Nur private Filter können Teilberechtigungen erhalten",
+    "LBL_PUBLIC": "Öffentlich",
+    "LBL_PRIVATE": "Privat"
   },
   "js": {
     "Saving changes": "Speichern von Änderungen...",

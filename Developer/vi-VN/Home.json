@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Kết hợp yếu tố bản đồ",
     "LBL_CHART_COLORS_FROM_FILTER": "Màu từ bộ lọc",
     "LBL_WIDGET_DOWNLOAD": "Tài biểu đồ",
-    "LBL_WIDGET_PRINT": "In biểu đồ"
+    "LBL_WIDGET_PRINT": "In biểu đồ",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

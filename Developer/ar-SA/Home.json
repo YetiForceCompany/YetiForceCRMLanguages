@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "الجمع بين عناصر الرسم البياني",
     "LBL_CHART_COLORS_FROM_FILTER": "تحميل من ملف",
     "LBL_WIDGET_DOWNLOAD": "نوع التحميل",
-    "LBL_WIDGET_PRINT": "طباعة الرسم البياني"
+    "LBL_WIDGET_PRINT": "طباعة الرسم البياني",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

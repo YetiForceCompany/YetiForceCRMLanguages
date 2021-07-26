@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Połącz elementy wykresu",
     "LBL_CHART_COLORS_FROM_FILTER": "Kolory z filtrów",
     "LBL_WIDGET_DOWNLOAD": "Pobierz wykres",
-    "LBL_WIDGET_PRINT": "Drukuj wykres"
+    "LBL_WIDGET_PRINT": "Drukuj wykres",
+    "LBL_WIDGET_SHOW_SUMMARY": "Pokaż podsumowanie"
   }
 }

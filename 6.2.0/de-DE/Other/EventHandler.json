@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten blockieren, wenn die gleiche Ware bereits versendete Notizkorrektur existiert",
     "IGRNC_IGRNEXIST_HANDLER": "Doppelte Ware erhaltene Notiz Korrektur",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn die selbe erhaltene Notizkorrektur bereits existiert.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Überprüfung der Arbeitszeit, dies kann die 24 Stunden nicht überschreiten",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Arbeitszeit begrenzt auf 24 Stunden"
   }
 }

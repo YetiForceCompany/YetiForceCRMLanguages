@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Συνδυασμένα στοιχεία γραφήματος",
     "LBL_CHART_COLORS_FROM_FILTER": "Χρώματα από φίλτρο",
     "LBL_WIDGET_DOWNLOAD": "Λήψη γραφήματος",
-    "LBL_WIDGET_PRINT": "Εκτύπωση γραφήματος"
+    "LBL_WIDGET_PRINT": "Εκτύπωση γραφήματος",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

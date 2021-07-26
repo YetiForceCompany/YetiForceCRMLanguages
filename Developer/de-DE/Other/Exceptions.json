@@ -1,7 +1,7 @@
 {
   "php": {
     "ERR_ILLEGAL_VALUE": "Nicht zugelassener Wert",
-    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Script exists but doesn't contain imported function name.",
+    "ERR_SCRIPT_EXISTS_FUNCTION_NOT": "Skript existiert bereits, enthält aber keinen importierten Funktionsnamen.",
     "ERR_FAILED_TO_SAVE_SCRIPT": "Fehler beim Speichern der Workflow-Methoden-Skriptdatei fehlgeschlagen.",
     "ERR_ILLEGAL_FIELD_VALUE": "Ungültiger Wert wurde für diesen Feldtyp eingegeben. Feldname: %s, Modul: %s, Wert: %s",
     "ERR_VALUE_IS_TOO_LONG": "Zeichenlimit überschritten. Feldname: %s, Modul: %s, Wert: %s",
@@ -46,9 +46,9 @@
     "ERR_CLASS_NOT_FOUND": "Klasse %s nicht gefunden",
     "ERR_CLASS_MUST_BE": "Klasse muss %s sein",
     "ERR_PAID_FUNCTIONALITY": "%s bezahlte Funktionalität, Sie müssen sie kaufen",
-    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
-    "ERR_NO_TOKEN": "No token",
-    "ERR_INCORRECT_2FA_TOTP_CODE": "Incorrect 2FA TOTP code",
-    "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code"
+    "ERR_TOKEN_DOES_NOT_EXIST": "Das Token existiert nicht oder ist abgelaufen",
+    "ERR_NO_TOKEN": "Kein Token",
+    "ERR_INCORRECT_2FA_TOTP_CODE": "Falscher 2FA TOTP Code",
+    "ERR_NO_2FA_TOTP_CODE": "Kein 2FA TOTP Code"
   }
 }

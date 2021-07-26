@@ -71,6 +71,7 @@
     "LBL_SUMMARY_FIELDS": "Список полів, видимих у підсумку",
     "LBL_RELATED_ATTACHMENTS": "Пов'язані вкладення",
     "LBL_DISPLAY_BARCODE": "Штрих-код",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)"
   }
 }

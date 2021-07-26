@@ -5,7 +5,7 @@
     "LBL_CUSTOM_INFORMATION": "Custom Information",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "FL_NAME": "Name",
-    "FL_BANK_ACCOUNT_NUMBER": "Account number",
+    "FL_BANK_ACCOUNT_NUMBER": "顧客企業番号",
     "FL_CURRENCY": "Currency",
     "FL_SWIFT": "SWIFT",
     "FL_BANK_NAME": "Bank name",

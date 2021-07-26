@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "یکی کردن المان‌های نمودار",
     "LBL_CHART_COLORS_FROM_FILTER": "رنگ از فیلتر",
     "LBL_WIDGET_DOWNLOAD": "دانلود نمودار",
-    "LBL_WIDGET_PRINT": "چاپ نمودار"
+    "LBL_WIDGET_PRINT": "چاپ نمودار",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

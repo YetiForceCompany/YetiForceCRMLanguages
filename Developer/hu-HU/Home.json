@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Kombinált grafikon elemek",
     "LBL_CHART_COLORS_FROM_FILTER": "Színek szűrő",
     "LBL_WIDGET_DOWNLOAD": "Letöltés grafikon",
-    "LBL_WIDGET_PRINT": "Nyomtatás grafikon"
+    "LBL_WIDGET_PRINT": "Nyomtatás grafikon",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

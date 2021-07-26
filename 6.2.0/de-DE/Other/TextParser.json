@@ -71,6 +71,6 @@
     "LBL_SUMMARY_FIELDS": "Liste der sichtbaren Felder in der Zusammenfassung",
     "LBL_RELATED_ATTACHMENTS": "Datei-Anhänge",
     "LBL_DISPLAY_BARCODE": "Barcode",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Verwandte Datensätze (Array)"
   }
 }

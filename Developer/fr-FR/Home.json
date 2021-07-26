@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Combiner des éléments graphiques",
     "LBL_CHART_COLORS_FROM_FILTER": "Couleurs du filtre",
     "LBL_WIDGET_DOWNLOAD": "Télécharger graphique",
-    "LBL_WIDGET_PRINT": "Imprimer graphique"
+    "LBL_WIDGET_PRINT": "Imprimer graphique",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

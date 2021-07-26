@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Kombinovati elemente grafikona",
     "LBL_CHART_COLORS_FROM_FILTER": "Boje iz filtera",
     "LBL_WIDGET_DOWNLOAD": "Preuzmite grafikon",
-    "LBL_WIDGET_PRINT": "Štampaj grafikon"
+    "LBL_WIDGET_PRINT": "Štampaj grafikon",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

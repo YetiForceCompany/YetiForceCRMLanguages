@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Объединить элементы графика",
     "LBL_CHART_COLORS_FROM_FILTER": "Цвета из фильтра",
     "LBL_WIDGET_DOWNLOAD": "Скачать граф",
-    "LBL_WIDGET_PRINT": "Распечатать график"
+    "LBL_WIDGET_PRINT": "Распечатать график",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

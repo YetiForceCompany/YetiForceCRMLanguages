@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "グラフ要素を結合",
     "LBL_CHART_COLORS_FROM_FILTER": "フィルターの色",
     "LBL_WIDGET_DOWNLOAD": "グラフをダウンロード",
-    "LBL_WIDGET_PRINT": "グラフを印刷"
+    "LBL_WIDGET_PRINT": "グラフを印刷",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

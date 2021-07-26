@@ -10,7 +10,7 @@
     "FL_SALE_DATE": "販売日",
     "FL_BANK_ACCOUNT": "銀行口座番号",
     "FL_NUMBER": "請求書番号",
-    "FL_ACCOUNT": "アカウント",
+    "FL_ACCOUNT": "顧客企業",
     "FL_TOTAL": "Net",
     "FL_GROSS": "グロス",
     "FL_STATUS": "状況",

@@ -38,15 +38,15 @@
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 97,
-        "time": "2021-07-02 14:00:20"
+        "progress": 98,
+        "time": "2021-07-26 08:49:36"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 91,
-        "time": "2021-07-02 14:00:57"
+        "progress": 92,
+        "time": "2021-07-26 08:50:14"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -116,7 +116,7 @@
         "crowdinCode": "ja",
         "name": "Japanese",
         "progress": 90,
-        "time": "2021-07-02 14:04:11"
+        "time": "2021-07-26 08:53:30"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -200,7 +200,7 @@
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 29,
-        "time": "2021-07-14 10:06:37"
+        "time": "2021-07-26 09:00:46"
     },
     "sl-SI": {
         "prefix": "sl-SI",

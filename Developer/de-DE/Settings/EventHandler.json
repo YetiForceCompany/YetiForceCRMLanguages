@@ -9,8 +9,8 @@
     "LBL_EXCLUDE_MODULES": "Module ausschließen",
     "LBL_EVENT_IS_ACTIVE": "Ist aktiv",
     "LBL_EDIT_VIEW_PRESAVE": "Validierung vor dem Speichern des Datensatzes",
-    "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_ENTITY_CHANGE_STATE": "Status ändern",
+    "LBL_ENTITY_BEFORE_SAVE": "Vor dem Speichern",
+    "LBL_ENTITY_AFTER_SAVE": "Nach dem Speichern"
   }
 }

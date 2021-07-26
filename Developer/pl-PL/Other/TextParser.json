@@ -71,6 +71,7 @@
     "LBL_SUMMARY_FIELDS": "Lista pól widocznych w podsumowaniu",
     "LBL_RELATED_ATTACHMENTS": "Powiązane załączniki",
     "LBL_DISPLAY_BARCODE": "Kod kreskowy",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dane powiązanych rekordów (tablica)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dane powiązanych rekordów (tablica)",
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dane powiązanych rekordów z pola zależnego (tablica)"
   }
 }

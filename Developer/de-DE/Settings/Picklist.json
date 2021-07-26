@@ -50,8 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Antwortzeit",
     "LBL_TIME_COUNTING_IDLE": "Idle-Zeit",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Feld ist kein Prozessstatus-Feld.",
-    "LBL_IMPORT_VALUE": "Import values",
-    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
+    "LBL_IMPORT_VALUE": "Import-Werte",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Sind Sie sicher, dass Sie es ändern möchten? Das ausgewählte Feld ist mit anderen Modulen verknüpft: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Alle Rollen gewählt",

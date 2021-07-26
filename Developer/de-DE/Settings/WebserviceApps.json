@@ -2,8 +2,8 @@
   "php": {
     "WebserviceApps": "Web service - Applikationen",
     "LBL_APP_NAME": "Bestandsname",
-    "LBL_PUBLIC_URL": "Public URL address",
-    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_PUBLIC_URL": "Öffentliche IP-Adresse",
+    "LBL_PUBLIC_URL_INFO": "Die URL wird verwendet, um E-Mail-Benachrichtigungen zu senden und es wird möglich sein, die URL im Inhalt zu verwenden.. Passwort zurücksetzen im Kundenportal, Link zur Vorschau des Datensatzes im Kundenportal",
     "LBL_ALLOWED_IPS": "Zulässige IPs",
     "LBL_ALLOWED_IPS_INFO": "Leerer Wert - Zugriff von allen Servern.\nWenn die IP-Adressen eingegeben werden (nach dem Dezimalpunkt), wird API-Zugriff nur von diesen IP-Adressen erlaubt.\nBeispiel:",
     "LBL_TYPE_SERVER": "Typ",
@@ -17,7 +17,7 @@
     "LBL_TITLE_ADDED": "Hinzufügen",
     "LBL_TITLE_EDIT": "Ändern",
     "Portal": "Portal",
-    "RestApi": "REST API",
+    "RestApi": "REST-API",
     "Payments": "Zahlungen",
     "ManageConsents": "Einwilligungen verwalten"
   },

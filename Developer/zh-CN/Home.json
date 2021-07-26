@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "组合图形元素",
     "LBL_CHART_COLORS_FROM_FILTER": "筛选器的颜色",
     "LBL_WIDGET_DOWNLOAD": "下载图",
-    "LBL_WIDGET_PRINT": "打印图形"
+    "LBL_WIDGET_PRINT": "打印图形",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

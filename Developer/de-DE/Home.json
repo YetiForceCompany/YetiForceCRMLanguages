@@ -43,6 +43,7 @@
     "LBL_CHART_STACKED": "Grafikelemente kombinieren",
     "LBL_CHART_COLORS_FROM_FILTER": "Farben aus dem Filter",
     "LBL_WIDGET_DOWNLOAD": "Grafik speichern",
-    "LBL_WIDGET_PRINT": "Grafik drucken"
+    "LBL_WIDGET_PRINT": "Grafik drucken",
+    "LBL_WIDGET_SHOW_SUMMARY": "Show summary"
   }
 }

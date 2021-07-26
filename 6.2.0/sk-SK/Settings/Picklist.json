@@ -40,7 +40,7 @@
     "LBL_BLOCKED_RECORD_INFO": "Selecting this option will prevent the record from being edited. If you want to unblock the record you have to accept the assigned permissions in the profile",
     "LBL_RECORD_STATE": "Record state",
     "LBL_RECORD_STATE_NO_CONCERN": "Not applicable",
-    "LBL_RECORD_STATE_OPEN": "Open",
+    "LBL_RECORD_STATE_OPEN": "Otvoriť",
     "LBL_RECORD_STATE_CLOSED": "Closed",
     "LBL_RECORD_STATE_INFO": "This value might be taken into account in some record state mechanisms",
     "LBL_EDIT_PROCESS_LOCK_STATUS": "Edit lock and process status",

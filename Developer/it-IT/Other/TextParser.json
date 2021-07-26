@@ -71,6 +71,7 @@
     "LBL_SUMMARY_FIELDS": "Elenco dei campi visibili nel riepilogo",
     "LBL_RELATED_ATTACHMENTS": "Allegati correlati",
     "LBL_DISPLAY_BARCODE": "Codice a barre",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)",
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)"
   }
 }
