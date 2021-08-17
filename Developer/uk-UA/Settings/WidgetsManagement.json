@@ -47,7 +47,9 @@
     "Upcoming events": "Майбутні події на основі обраних полів дати.",
     "LBL_FIELD_DATE": "Поле Дата",
     "LBL_SKIP_YEAR": "Пропустити рік",
-    "LBL_SKIP_YEAR_DESC": "Пропустити рік події лише розглянувши місяць і день."
+    "LBL_SKIP_YEAR_DESC": "Пропустити рік події лише розглянувши місяць і день.",
+    "LBL_WIDGET_NAME": "Widget name",
+    "BTN_NEXT": "Next"
   },
   "js": {
     "JS_BLOCK_ADDED": "Блок був успішно доданий",

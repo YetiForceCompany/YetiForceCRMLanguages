@@ -259,9 +259,9 @@
     "LBL_WORKINGDAY_MONTH": "Prvi radni dan u mjesecu",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "Prilagođeni odnosi",
     "LBL_VERIFY_IF_EXISTS": "Ne stvarajte novi zapis ako postoji povezani zapis",
-    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "workflow trigger records restriction off",
-    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Conditions for records cannot be set in a given workflow mode.",
-    "LBL_ERROR_DELETE_ENTRY": "Error, delete entry."
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "ograničenje zapisa pokretača tijeka rada isključeno",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Uslovi za zapise ne mogu se postaviti u datom načinu rada.",
+    "LBL_ERROR_DELETE_ENTRY": "Greška, brisanje unosa."
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ista polja odabrana su više od jednom",

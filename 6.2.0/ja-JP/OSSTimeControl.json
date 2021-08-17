@@ -7,7 +7,7 @@
     "Payment": "支払い",
     "LBL_TOTAL_TIME": "合計時間 [h]",
     "LBL_STATUS": "ステータス",
-    "Assigned To": "割り当て先",
+    "Assigned To": "担当",
     "name": "件名",
     "Start Date": "開始日",
     "End Date": "終了日",
@@ -108,7 +108,7 @@
     "JS_START_DATE": "開始日",
     "JS_END_DATE": "終了日",
     "JS_TOTAL_TIME": "合計時間",
-    "JS_ASSIGNED_TO": "割り当て先",
+    "JS_ASSIGNED_TO": "担当",
     "JS_TYPE": "タイプ",
     "JS_NUMBER": "数値"
   }

@@ -1,8 +1,8 @@
 {
   "php": {
     "LBL_CONVERSION": "変換",
-    "LBL_CONVERSION_TO_ACCOUNT": "割り当て先を変更",
-    "LBL_CONVERSION_TO_ACCOUNT_INFO": "このオプションがチェックされている場合、リードをアカウントに変換するユーザーが割り当て先になります",
+    "LBL_CONVERSION_TO_ACCOUNT": "担当を変更",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "このオプションがチェックされている場合、リードをアカウントに変換するユーザーが担当になります",
     "LBL_LEADS": "リード",
     "LBL_INFO": "情報",
     "LBL_VALUES": "値",

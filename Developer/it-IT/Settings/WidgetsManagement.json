@@ -47,7 +47,9 @@
     "Upcoming events": "Prossimi eventi in base ai campi data selezionati.",
     "LBL_FIELD_DATE": "Campo Data",
     "LBL_SKIP_YEAR": "Tralascia l'anno",
-    "LBL_SKIP_YEAR_DESC": "Tralascia l'anno dell'evento considerando solo il mese e il giorno."
+    "LBL_SKIP_YEAR_DESC": "Tralascia l'anno dell'evento considerando solo il mese e il giorno.",
+    "LBL_WIDGET_NAME": "Widget name",
+    "BTN_NEXT": "Next"
   },
   "js": {
     "JS_BLOCK_ADDED": "Il blocco è stato aggiunto",

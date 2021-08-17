@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "新客户",
     "LBL_NEGLECTED_ACCOUNTS": "被忽略的客户",
     "LBL_ADD_CHART_FILTER": "从筛选视图中增加图表",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "饼状图",
     "LBL_DONUT_CHART": "圆环图",
     "LBL_AXIS_CHART": "轴线图",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "每月",
     "LBL_YEARLY": "每年",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "同意",

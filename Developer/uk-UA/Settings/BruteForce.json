@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "Користувачі для сповіщень",
     "LBL_BRUTEFORCE_ACTIVE": "Активний",
     "LBL_VIEW_SHOW": "Захист від підбору пароля",
+    "LBL_BRUTEFORCE": "Захист від підбору пароля",
     "LBL_SENT_NOTIFICATIONS": "Надіслати сповіщення"
   },
   "js": {

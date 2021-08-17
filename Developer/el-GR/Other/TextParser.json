@@ -72,6 +72,6 @@
     "LBL_RELATED_ATTACHMENTS": "Σχετικά συνημμένα",
     "LBL_DISPLAY_BARCODE": "Barcode",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
-    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)"
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Δεδομένα σχετικών εγγραφών από το εξαρτημένο πεδίο (πίνακας)"
   }
 }

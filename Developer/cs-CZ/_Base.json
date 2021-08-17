@@ -3,7 +3,7 @@
     "GlobalPermission": "Access to records",
     "LBL_SEND_EMAIL": "Send via email",
     "--None--": "--None--",
-    "Account Name": "Account name",
+    "Account Name": "Název účtu",
     "Accounts": "Accounts",
     "Acquired": "Acquired",
     "Active": "Active",
@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "New Accounts",
     "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
     "LBL_ADD_CHART_FILTER": "Add chart from filter",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Pie chart",
     "LBL_DONUT_CHART": "Donut chart",
     "LBL_AXIS_CHART": "Axis chart",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Monthly",
     "LBL_YEARLY": "Yearly",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Approve",

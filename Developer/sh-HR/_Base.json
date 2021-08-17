@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Novi Klijenti",
     "LBL_NEGLECTED_ACCOUNTS": "Zanemareni Klijenti",
     "LBL_ADD_CHART_FILTER": "Dodavanje grafikona iz filtra",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Pie grafikon",
     "LBL_DONUT_CHART": "Prstenasti grafikon",
     "LBL_AXIS_CHART": "Axis grafikon",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Mjesečno",
     "LBL_YEARLY": "Godišnje",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Odobriti",

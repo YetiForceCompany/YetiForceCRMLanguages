@@ -10,8 +10,8 @@
     "FL_ACCOUNT": "Account",
     "FL_STATUS": "Stav",
     "FL_NUMBER": "Invoice number",
-    "FL_TOTAL": "Net",
-    "FL_GROSS": "Gross",
+    "FL_TOTAL": "Bez dane",
+    "FL_GROSS": "Celková cena",
     "PLL_WIRE_TRANSFER": "Electronic transfer",
     "FL_PAYMENT_SUM": "Total payments"
   }

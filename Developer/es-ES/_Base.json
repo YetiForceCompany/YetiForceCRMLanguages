@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Empresas nuevos",
     "LBL_NEGLECTED_ACCOUNTS": "Empresas sin atender",
     "LBL_ADD_CHART_FILTER": "Crear gráfica",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Gráfico circular",
     "LBL_DONUT_CHART": "Gráfico donut",
     "LBL_AXIS_CHART": "Gráfico de ejes",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Mensualmente",
     "LBL_YEARLY": "Anualmente",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Aprovada",

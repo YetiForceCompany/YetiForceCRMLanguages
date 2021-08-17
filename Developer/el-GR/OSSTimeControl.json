@@ -77,7 +77,7 @@
     "LBL_Used_Entitled": "Used/Entitled:",
     "LBL_DAYS": "ημέρες",
     "Brak danych": "Χωρίς δεδομένα",
-    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Working time should not exceed 24hours",
+    "LBL_DATE_NOT_SHOULD_BE_GREATER_THAN_24H": "Χρόνος εργασίας δεν πρέπει να υπερβαίνει τις 24 ώρες",
     "LBL_DAYWORKSUM": "Χρόνος εργασίας",
     "LBL_ALLDAYS_INFO": "Όλες τις ημέρες",
     "LBL_WEEKENDDAYS_INFO": "Ημέρες Σαββατοκύριακου",

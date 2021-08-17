@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "通知のユーザー",
     "LBL_BRUTEFORCE_ACTIVE": "有効",
     "LBL_VIEW_SHOW": "ブルートフォース",
+    "LBL_BRUTEFORCE": "ブルートフォース",
     "LBL_SENT_NOTIFICATIONS": "通知を送信"
   },
   "js": {

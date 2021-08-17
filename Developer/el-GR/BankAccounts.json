@@ -1,18 +1,18 @@
 {
   "php": {
-    "BankAccounts": "Bank accounts",
-    "SINGLE_BankAccounts": "Bank account",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
-    "FL_BANK_ACCOUNT_NUMBER": "Account number",
-    "FL_CURRENCY": "Currency",
+    "BankAccounts": "Τραπεζικοί Λογαριασμοί",
+    "SINGLE_BankAccounts": "Τραπεζικός λογαριασμός",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "FL_NAME": "Όνομα",
+    "FL_BANK_ACCOUNT_NUMBER": "Αριθμός λογαριασμού",
+    "FL_CURRENCY": "Νόμισμα",
     "FL_SWIFT": "SWIFT",
-    "FL_BANK_NAME": "Bank name",
-    "FL_STATUS": "Status",
-    "FL_MULTICOMPANY": "Department",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "FL_BANK_NAME": "Όνομα τράπεζας",
+    "FL_STATUS": "Κατάσταση",
+    "FL_MULTICOMPANY": "Τμήμα",
+    "PLL_DRAFT": "Πρόχειρο",
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_INACTIVE": "Ανενεργό"
   }
 }

@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "Người dùng được thông báo",
     "LBL_BRUTEFORCE_ACTIVE": "Bật",
     "LBL_VIEW_SHOW": "Tấn công từ điển",
+    "LBL_BRUTEFORCE": "Tấn công từ điển",
     "LBL_SENT_NOTIFICATIONS": "Gửi thông báo"
   },
   "js": {

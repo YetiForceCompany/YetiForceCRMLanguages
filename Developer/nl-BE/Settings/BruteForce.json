@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "Gebruikers voor meldingen",
     "LBL_BRUTEFORCE_ACTIVE": "Actief",
     "LBL_VIEW_SHOW": "Brute-force",
+    "LBL_BRUTEFORCE": "Brute-force",
     "LBL_SENT_NOTIFICATIONS": "Meldingen verzenden"
   },
   "js": {

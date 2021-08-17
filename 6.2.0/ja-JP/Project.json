@@ -63,7 +63,7 @@
     "JS_PROJECT_STATUSES": "プロジェクトのステータス",
     "JS_MILESTONE_STATUSES": "マイルストーンの状態",
     "JS_TASK_STATUSES": "タスクの状態",
-    "JS_ASSIGNED": "割り当て先",
+    "JS_ASSIGNED": "担当",
     "JS_GANTT_ERROR_LOADING_DATA_TASK_REMOVED": "データの読み込み時のエラー - アイテムが削除されました",
     "JS_INVALID_DATE_FORMAT": "無効な日付形式",
     "JS_YES": "はい",

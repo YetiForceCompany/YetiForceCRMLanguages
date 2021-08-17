@@ -44,10 +44,10 @@
     "PLL_CURRENT_YEAR": "Τρέχων έτος",
     "LBL_SAVE_DASHBOARD": "Αποθήκευση dashboard",
     "LBL_NAME_DASHBOARD": "Όνομα Dashboard",
-    "Upcoming events": "Upcoming events based on selected date fields.",
+    "Upcoming events": "Μελλοντικά γεγονότα βασισμένα σε επιλεγμένες ημερομηνίες.",
     "LBL_FIELD_DATE": "Πεδίο ημερομηνίας",
-    "LBL_SKIP_YEAR": "Skip the year",
-    "LBL_SKIP_YEAR_DESC": "Skip the year of the event by only considering the month and day."
+    "LBL_SKIP_YEAR": "Παράλειψη του έτους",
+    "LBL_SKIP_YEAR_DESC": "Παράλειψη του έτους του γεγονότος λαμβάνοντας υπόψη μόνο το μήνα και την ημέρα."
   },
   "js": {
     "JS_BLOCK_ADDED": "Μπλοκ έχει προστεθεί με επιτυχία",

@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "Usuarios para notificaciones",
     "LBL_BRUTEFORCE_ACTIVE": "Activo",
     "LBL_VIEW_SHOW": "Fuerza bruta",
+    "LBL_BRUTEFORCE": "Fuerza bruta",
     "LBL_SENT_NOTIFICATIONS": "Enviar notificaciones"
   },
   "js": {

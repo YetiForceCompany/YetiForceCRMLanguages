@@ -5,7 +5,7 @@
     "ViewName": "Prikaži ime",
     "SetDefault": "Zadano",
     "LBL_PRIVILEGES_TO_EDIT": "Uredi",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "Dostupno",
     "Delete": "Obriši",
     "Delete CustomView": "Prilagođeni prikaz je izbrisan",
     "Saving CustomView": "Pogled je sačuvan",
@@ -26,9 +26,9 @@
     "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",
     "LBL_SORT_DESCENDING_ORDER": "Sort in descending order",
     "LBL_ATTENTION": "Upozoranje!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Samo privatnim filterima može se dodijeliti djelomična dozvola",
+    "LBL_PUBLIC": "Javno",
+    "LBL_PRIVATE": "Privatno"
   },
   "js": {
     "Saving changes": "Spremanje promjena...",

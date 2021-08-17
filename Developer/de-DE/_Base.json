@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Neue Organisationen",
     "LBL_NEGLECTED_ACCOUNTS": "Ehemalige Organisationen",
     "LBL_ADD_CHART_FILTER": "Diagramm hinzufügen",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Kuchendiagramm",
     "LBL_DONUT_CHART": "Donut-Diagramm",
     "LBL_AXIS_CHART": "Achsen-Diagramm",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Monatlich",
     "LBL_YEARLY": "Jährlich",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

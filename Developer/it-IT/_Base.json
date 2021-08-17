@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Nuove aziende",
     "LBL_NEGLECTED_ACCOUNTS": "Aziende trascurate",
     "LBL_ADD_CHART_FILTER": "Aggiungi grafico da filtro",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "A torta",
     "LBL_DONUT_CHART": "Ad anello",
     "LBL_AXIS_CHART": "Grafico ad assi",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Mensile",
     "LBL_YEARLY": "Annuale",
     "LBL_USER_AGENT": "Agente dell'utente",
-    "LBL_LIMIT_INFO": "La cronologia mostra solo le ultime %s voci, l'elenco completo è disponibile nel pannello dell'amministratore."
+    "LBL_LIMIT_INFO": "La cronologia mostra solo le ultime %s voci, l'elenco completo è disponibile nel pannello dell'amministratore.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Approva",

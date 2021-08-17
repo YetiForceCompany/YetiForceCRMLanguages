@@ -17,15 +17,15 @@
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 98,
-        "time": "2021-07-02 14:23:00"
+        "progress": 100,
+        "time": "2021-08-17 11:00:15"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
         "crowdinCode": "cs",
         "name": "Czech",
-        "progress": 7,
-        "time": "2021-07-02 13:56:36"
+        "progress": 13,
+        "time": "2021-08-17 11:03:50"
     },
     "da-DK": {
         "prefix": "da-DK",
@@ -45,8 +45,8 @@
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 92,
-        "time": "2021-07-26 08:50:14"
+        "progress": 93,
+        "time": "2021-08-17 11:07:59"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -116,7 +116,7 @@
         "crowdinCode": "ja",
         "name": "Japanese",
         "progress": 90,
-        "time": "2021-07-26 08:53:30"
+        "time": "2021-08-17 11:10:57"
     },
     "ko-KR": {
         "prefix": "ko-KR",
@@ -158,7 +158,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2021-07-02 14:06:46"
+        "time": "2021-08-17 11:13:21"
     },
     "pt-BR": {
         "prefix": "pt-BR",
@@ -200,7 +200,7 @@
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 29,
-        "time": "2021-07-26 09:00:46"
+        "time": "2021-08-17 11:17:47"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 89,
-        "time": "2021-07-14 10:10:26"
+        "time": "2021-08-17 11:21:34"
     },
     "vi-VN": {
         "prefix": "vi-VN",

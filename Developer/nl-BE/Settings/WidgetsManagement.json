@@ -47,7 +47,9 @@
     "Upcoming events": "Aankomende evenementen op basis van geselecteerde datumvelden.",
     "LBL_FIELD_DATE": "Datumveld",
     "LBL_SKIP_YEAR": "Sla het jaar over",
-    "LBL_SKIP_YEAR_DESC": "Sla het jaar van de gebeurtenis over door alleen te kijken naar de maand en de dag."
+    "LBL_SKIP_YEAR_DESC": "Sla het jaar van de gebeurtenis over door alleen te kijken naar de maand en de dag.",
+    "LBL_WIDGET_NAME": "Widget name",
+    "BTN_NEXT": "Next"
   },
   "js": {
     "JS_BLOCK_ADDED": "Block has been added successfully",

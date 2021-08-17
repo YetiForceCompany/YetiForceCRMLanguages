@@ -811,7 +811,7 @@
     "Share with users": "Share with users:",
     "LBL_TOTAL_TIME": "Celkový čas",
     "LBL_EMPLOYEE": "Employee",
-    "LBL_PURCHASE": "Purchase",
+    "LBL_PURCHASE": "Nákup",
     "LBL_MARGIN": "Margin",
     "LBL_MARGINP": "Margin (%)",
     "Total Purchase": "Total purchase (net)",
@@ -1007,7 +1007,7 @@
     "LBL_REFERENCE": "Reference",
     "LBL_UNIT_PRICE": "Unit price",
     "LBL_MARGIN_PERCENT": "Margin (%)",
-    "LBL_GROSS_PRICE": "Gross",
+    "LBL_GROSS_PRICE": "Celková cena",
     "LBL_DISCOUNT_PRICE": "Price after discount",
     "LBL_SELECT_TAX": "Select tax",
     "LBL_PRICE_BEFORE_TAX": "Price without tax",
@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "New Accounts",
     "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
     "LBL_ADD_CHART_FILTER": "Add chart from filter",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Pie chart",
     "LBL_DONUT_CHART": "Donut chart",
     "LBL_AXIS_CHART": "Axis chart",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Monthly",
     "LBL_YEARLY": "Yearly",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Approve",

@@ -1,16 +1,16 @@
 {
   "php": {
-    "EventHandler": "Event handlers",
-    "LBL_EVENT_HANDLER": "Event handlers",
+    "EventHandler": "Χειριστές γεγονότων",
+    "LBL_EVENT_HANDLER": "Χειριστές γεγονότων",
     "LBL_EVENT_HANDLER_DESC": "",
-    "LBL_EVENT_NAME": "Event name",
-    "LBL_EVENT_DESC": "Event description",
-    "LBL_INCLUDE_MODULES": "Include modules",
-    "LBL_EXCLUDE_MODULES": "Exclude modules",
-    "LBL_EVENT_IS_ACTIVE": "Is active",
-    "LBL_EDIT_VIEW_PRESAVE": "Validation before saving the record",
-    "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_EVENT_NAME": "Όνομα γεγονότος",
+    "LBL_EVENT_DESC": "Περιγραφή γεγονότος",
+    "LBL_INCLUDE_MODULES": "Να περιλαμβάνει πρόσθετα",
+    "LBL_EXCLUDE_MODULES": "Απόρριψη modules",
+    "LBL_EVENT_IS_ACTIVE": "Είναι ενεργό",
+    "LBL_EDIT_VIEW_PRESAVE": "Επιβεβαίωση πριν την αποθήκευση της εγγραφής",
+    "LBL_ENTITY_CHANGE_STATE": "Αλλαγή κατάστασης",
+    "LBL_ENTITY_BEFORE_SAVE": "Πριν την αποθήκευση",
+    "LBL_ENTITY_AFTER_SAVE": "Μετά την αποθήκευση"
   }
 }

@@ -6,7 +6,7 @@
     "LBL_BLOCK": "関連",
     "LBL_TOTAL_TIME": "合計時間",
     "LBL_STATUS": "ステータス",
-    "Assigned To": "割り当て先",
+    "Assigned To": "担当",
     "LBL_TITLE": "タイトル",
     "LBL_START_DATE": "開始日",
     "LBL_END_DATE": "終了日",
@@ -43,7 +43,7 @@
     "PLL_TO_APPROVAL": "承認済み",
     "PLL_DRAFT": "下書き",
     "PLL_CANCELLED": "キャンセル済",
-    "JS_ASSIGNED_TO": "割り当て先",
+    "JS_ASSIGNED_TO": "担当",
     "JS_TYPE": "タイプ",
     "JS_YES": "はい",
     "JS_NO": "いいえ"

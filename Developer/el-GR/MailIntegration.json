@@ -1,7 +1,7 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
+    "MailIntegration": "Πίνακας ενοποίησης αλληλογραφίας",
+    "SINGLE_MailIntegration": "Πίνακας ενοποίησης αλληλογραφίας",
     "LBL_MAIL_NOT_FOUND_IN_DB": "Mail δεν βρέθηκε στη βάση δεδομένων.",
     "LBL_IMPORT_MAIL_MANUALLY": "Εισαγωγή",
     "LBL_IMPORT_MAIL_MANUALLY_DESC": "Εισάγοντας ένα e-mail στο CRM, θα σας επιτρέψει να διαχειριστείτε τις σχέσεις καλύτερα",
@@ -13,7 +13,7 @@
     "LBL_ADD_RECORD": "Προσθέστε σχετική εγγραφή"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
+    "JS_ERROR": "Μήνυμα YetiForce: σφάλμα πρόσθετου, παρακαλώ επικοινωνήστε με το διαχειριστή του συστήματος.",
     "JS_REMOVED_RELATION_SUCCESSFULLY": "Μήνυμα YetiForce: Η σχέση αφαιρέθηκε με επιτυχία.",
     "JS_ADDED_RELATION_SUCCESSFULLY": "Μήνυμα YetiForce: Η σχέση προστέθηκε με επιτυχία.",
     "JS_IMPORT": "Μήνυμα YetiForce: e-mail έχει εισαχθεί με επιτυχία.",

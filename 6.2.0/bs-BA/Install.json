@@ -111,7 +111,7 @@
     "LBL_ERROR_INSTALL": "Instalacija neuspješna",
     "LBL_SESSION_ERROR_TITLE": "Pogrešan ID sesije.",
     "LBL_SESSION_ERROR_DESC": "Postoji u konfiguraciji servera koja uzrokuje gubitak podataka sesije.\nPreporučujemo uklanjanje predmemorije pretraživača, u slučaju da to ne pomogne, popravite konfiguraciju vašeg servera.",
-    "LBL_NAME": "Company name or first and last name",
+    "LBL_NAME": "Naziv kompanije ili ime i prezime",
     "LBL_INDUSTRY": "Industrija",
     "LBL_CITY": "Grad",
     "LBL_COUNTRY": "Zemlja",

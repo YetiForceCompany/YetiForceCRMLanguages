@@ -12,10 +12,10 @@
     "FL_PURPOSE": "Svrha",
     "FL_USER": "Korisnik",
     "FL_BASE_USER": "Osnovni korisnik",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Pitajte za svrhu prijavljivanja",
     "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Želite li aktivirati prozor svrhe posjeta za administratore kada se prijave u sistem?",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Pitajte za svrhu promjene korisnika",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Želite li aktivirati prozor svrhe posjete za administratore prilikom promjene korisnika u sistemu?"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Promjene su spremljene"

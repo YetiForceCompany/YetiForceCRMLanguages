@@ -42,6 +42,6 @@
     "PLL_OVERPAID": "Πληρώθηκε μεγαλύτερο ποσό",
     "PLL_UNDERPAID": "Μερικώς εξοφλημένο",
     "FL_PAYMENT_SUM": "Σύνολο πληρωμών",
-    "DW_SUM_FIELD": "Summation field"
+    "DW_SUM_FIELD": "Πεδίο άθροισης"
   }
 }

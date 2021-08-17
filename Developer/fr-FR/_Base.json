@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Nouveaux Comptes",
     "LBL_NEGLECTED_ACCOUNTS": "Comptes négligés",
     "LBL_ADD_CHART_FILTER": "Ajouter widget depuis un rapport",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Diagramme Circulaire",
     "LBL_DONUT_CHART": "Camembert",
     "LBL_AXIS_CHART": "Histogramme",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Mensuel",
     "LBL_YEARLY": "Annuel",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Approuver",

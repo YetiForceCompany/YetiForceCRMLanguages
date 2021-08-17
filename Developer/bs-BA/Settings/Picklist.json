@@ -50,8 +50,8 @@
     "LBL_TIME_COUNTING_RESOLVE": "Vrijeme riješavanja",
     "LBL_TIME_COUNTING_IDLE": "Vrijeme mirovanja",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Polje nije polje statusa procesa.",
-    "LBL_IMPORT_VALUE": "Import values",
-    "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
+    "LBL_IMPORT_VALUE": "Uvoz vrijednosti",
+    "LBL_CONFIRM_BEFORE_MODIFY": "Jeste li sigurni da ga želite izmijeniti/izbrisati? Odabrano polje je međuzavisno od drugih modula: %s"
   },
   "js": {
     "JS_ALL_ROLES_SELECTED": "Sve uloge odabrane",

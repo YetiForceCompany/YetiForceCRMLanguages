@@ -18,6 +18,7 @@
     "LBL_USERS_FOR_NOTIFICATIONS": "Потребители за уведомяване",
     "LBL_BRUTEFORCE_ACTIVE": "Активен",
     "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_BRUTEFORCE": "Brute Force",
     "LBL_SENT_NOTIFICATIONS": "Изпращане на уведомления"
   },
   "js": {

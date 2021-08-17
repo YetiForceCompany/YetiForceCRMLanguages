@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Khách hàng mới",
     "LBL_NEGLECTED_ACCOUNTS": "Khách hàng bị bỏ quên",
     "LBL_ADD_CHART_FILTER": "Thêm biểu đồ từ bộ lọc",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Biểu đồ tròn",
     "LBL_DONUT_CHART": "Biểu đồ Donut",
     "LBL_AXIS_CHART": "Biểu đồ Axis",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Hàng tháng",
     "LBL_YEARLY": "Hàng năm",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Phê duyệt",

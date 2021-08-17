@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Nowi kontrahenci",
     "LBL_NEGLECTED_ACCOUNTS": "Zaniedbani kontrahenci",
     "LBL_ADD_CHART_FILTER": "Dodaj wykres z filtru",
+    "LBL_EDIT_CHART_FILTER": "Edytuj wykres z filtru",
     "LBL_PIE_CHART": "Diagram kołowy",
     "LBL_DONUT_CHART": "Diagram pierścieniowy",
     "LBL_AXIS_CHART": "Wykres osi",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Co miesiąc",
     "LBL_YEARLY": "Co roku",
     "LBL_USER_AGENT": "Agent użytkownika",
-    "LBL_LIMIT_INFO": "Historia pokazuje tylko ostatnie %s wpisy, pełna lista jest dostępna w panelu administratora."
+    "LBL_LIMIT_INFO": "Historia pokazuje tylko ostatnie %s wpisy, pełna lista jest dostępna w panelu administratora.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

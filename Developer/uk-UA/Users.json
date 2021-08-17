@@ -400,7 +400,7 @@
     "LBL_VISIT_PURPOSE_INFO": "Введіть ціль візиту",
     "Signed in": "Signed in",
     "Signed off": "Signed off",
-    "Failed login": "Failed login",
+    "Failed login": "Помилка входу",
     "ForgotPasswordSendMail": "Email with password change has been sent",
     "ERR_RESET_PASS_NO_USER": "Password reset attempt, user not found",
     "ERR_RESET_IP_BLOCK": "Password reset attempt despite IP block",

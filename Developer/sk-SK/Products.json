@@ -71,7 +71,7 @@
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "List of records is limited to the products and services associated with the sales opportunity",
     "FL_EAN_SKU": "Skladový kód (SKU)",
     "FL_QTY_IN_STOCK": "Kusov na sklade",
-    "FL_PURCHASE": "Zakúpiť",
+    "FL_PURCHASE": "Nákup",
     "FL_WEIGHT": "Hmotnosť",
     "LBL_IMPORT_STOCKTAKING": "Product stocktaking import",
     "LBL_STORAGE_QUANTITY_LOCATION": "Storage quantity location",

@@ -1,7 +1,7 @@
 {
   "php": {
     "Assets": "Majetky",
-    "SINGLE_Assets": "Majetok",
+    "SINGLE_Assets": "Majetek",
     "LBL_ASSET_INFORMATION": "Detaily majetku",
     "Asset No": "Číslo majetku",
     "Serial Number": "Sériové číslo",
@@ -34,6 +34,6 @@
     "BLOCK_INFORMATION_TIME": "Časová informacia",
     "LBL_ORDER_TIME": "Čas objednávky",
     "LBL_EXPIRING_SOLD_PRODUCTS": "Expiring sold products",
-    "LBL_CHANGE_STATUS": "Zmeniť stav"
+    "LBL_CHANGE_STATUS": "Změna stavu"
   }
 }

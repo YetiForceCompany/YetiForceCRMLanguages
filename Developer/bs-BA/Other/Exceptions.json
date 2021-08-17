@@ -46,9 +46,9 @@
     "ERR_CLASS_NOT_FOUND": "Klasa %s nije pronađena",
     "ERR_CLASS_MUST_BE": "Klasa mora biti %s",
     "ERR_PAID_FUNCTIONALITY": "%s plaćena funkcionalnost, morate je kupiti",
-    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
-    "ERR_NO_TOKEN": "No token",
-    "ERR_INCORRECT_2FA_TOTP_CODE": "Incorrect 2FA TOTP code",
-    "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code"
+    "ERR_TOKEN_DOES_NOT_EXIST": "Token ne postoji ili je istekao",
+    "ERR_NO_TOKEN": "Nema tokena",
+    "ERR_INCORRECT_2FA_TOTP_CODE": "Neispravan 2FA TOTP kod",
+    "ERR_NO_2FA_TOTP_CODE": "Nema 2FA TOTP koda"
   }
 }

@@ -41,7 +41,7 @@
     "PLL_PAID": "Plaćeno",
     "PLL_OVERPAID": "Preplaćeno",
     "PLL_UNDERPAID": "Nedovoljno plaćeno",
-    "FL_PAYMENT_SUM": "Total payments",
-    "DW_SUM_FIELD": "Summation field"
+    "FL_PAYMENT_SUM": "Ukupna plaćanja",
+    "DW_SUM_FIELD": "Zbirno polje"
   }
 }

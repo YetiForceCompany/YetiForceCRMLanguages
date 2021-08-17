@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "Новий Рахунок",
     "LBL_NEGLECTED_ACCOUNTS": "Загублені Рахунки",
     "LBL_ADD_CHART_FILTER": "Додати діаграму",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "Кругова діаграма",
     "LBL_DONUT_CHART": "Кільцева діаграма",
     "LBL_AXIS_CHART": "Графік",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "Щомісяця",
     "LBL_YEARLY": "Щорічно",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "Схвалити",

@@ -52,9 +52,9 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_PASSWORD_CHANGED": "Password changed",
     "LBL_FAILED_PASSWORD_CHANGED": "Failed attempt to change password",
-    "LBL_RESET_PASSWORD_REQUEST": "Password reset request",
-    "ERR_RESET_PASSWORD_REQUEST_SMTP_ERROR": "Error sending email with password reset",
-    "LBL_RESET_PASSWORD_CHANGED": "Password reset"
+    "LBL_RESET_PASSWORD_REQUEST": "Αίτημα επαναφοράς κωδικού πρόσβασης",
+    "ERR_RESET_PASSWORD_REQUEST_SMTP_ERROR": "Σφάλμα αποστολή email επαναφοράς κωδικού πρόσβασης",
+    "LBL_RESET_PASSWORD_CHANGED": "Επαναφορά κωδικού πρόσβασης"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;",

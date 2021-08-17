@@ -190,8 +190,8 @@
     "LBL_EDIT_FROM_CALENDAR": "Επεξεργασία από το ημερολόγιο",
     "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας",
     "LBL_GROUP_NAME": "Όνομα Ομάδας",
-    "FL_MEETING_URL": "Meeting URL",
-    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
+    "FL_MEETING_URL": "URL Συνάντησης",
+    "LBL_SEND_CALENDAR": "Αποστολή ειδοποίησης με email σχετικά με το συμβάν"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Προβολή ημερολογίου προστέθηκε με επιτυχία",

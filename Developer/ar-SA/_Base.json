@@ -1163,6 +1163,7 @@
     "LBL_NEW_ACCOUNTS": "حسابات جديدة",
     "LBL_NEGLECTED_ACCOUNTS": "المهملة حسابات",
     "LBL_ADD_CHART_FILTER": "إضافة القطعة من مرشح",
+    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
     "LBL_PIE_CHART": "مخطط دائري",
     "LBL_DONUT_CHART": "دونات الرسم البياني",
     "LBL_AXIS_CHART": "مخطط دائري",
@@ -1490,7 +1491,8 @@
     "LBL_MONTHLY": "شهرياً",
     "LBL_YEARLY": "سنويا",
     "LBL_USER_AGENT": "User agent",
-    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
+    "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
+    "LBL_VIEW_KANBAN": "Kanban"
   },
   "js": {
     "JS_APPROVE": "إعتماد",
