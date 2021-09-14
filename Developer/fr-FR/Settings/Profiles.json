@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Déplacer des documents en masse",
     "ReadRecord": "Lire toutes les modifications des enregistrements",
     "WorkflowTrigger": "Déclencheur Workflow",
-    "QuickExportToExcel": "Export rapide vers Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Créer des filtres widgets",
     "DetailTransferOwnership": "Prévisualiser enregistrement - modifier le propriétaire",
     "ExportPdf": "Exporter en PDF",

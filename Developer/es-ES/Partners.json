@@ -9,6 +9,8 @@
     "LBL_NUMBER": "ID",
     "LBL_CLOSED_TIME": "Fecha cierre",
     "LBL_VAT_ID": "NIF",
-    "FL_CATEGORY": "Categoría"
+    "FL_CATEGORY": "Categoría",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

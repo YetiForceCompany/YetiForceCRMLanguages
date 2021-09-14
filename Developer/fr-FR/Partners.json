@@ -9,6 +9,8 @@
     "LBL_NUMBER": "No enregistrement",
     "LBL_CLOSED_TIME": "Heure de fermeture",
     "LBL_VAT_ID": "N° de TVA",
-    "FL_CATEGORY": "Catégorie"
+    "FL_CATEGORY": "Catégorie",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

@@ -206,7 +206,11 @@
     "LBL_RCV_ALL": "Alle filters van de module",
     "LBL_FILTERS_FROM_MODULE": "Filters van de module",
     "LBL_ANONYMIZATION_TARGET": "Anonimisatie",
-    "LBL_DUPLICATES_VALUES_FOUND": "Duplicate Values found"
+    "LBL_DUPLICATES_VALUES_FOUND": "Duplicate Values found",
+    "LBL_FIELD_ICON": "Icon",
+    "LBL_ANONYMIZATION_LOGS": "Logs",
+    "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Updates - display",
+    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

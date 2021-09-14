@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Progressivo",
     "LBL_CLOSED_TIME": "Data chiusura",
     "LBL_VAT_ID": "Partita IVA",
-    "FL_CATEGORY": "Categoria"
+    "FL_CATEGORY": "Categoria",
+    "FL_MEMBER_OF": "Partner genitore",
+    "LBL_SHOW_HIERARCHY": "Gerarchia"
   }
 }

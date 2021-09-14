@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Klasör yapılandırması yok",
     "LBL_SHOW_ACCOUNT_DETAILS": "Hesap ayrıntılarını göster",
     "LBL_EDIT_FOLDER_ACCOUNT": "Klasörleri düzenle",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "Klasörü silme ve yeniden ekleme, seçili klasörler için posta tarayıcısını yeniden başlatır.",
     "LBL_DELETE_ACCOUNT": "Hesabı sil"
   }

@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Номер",
     "LBL_CLOSED_TIME": "Время закрытия",
     "LBL_VAT_ID": "ИНН",
-    "FL_CATEGORY": "Категория"
+    "FL_CATEGORY": "Категория",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

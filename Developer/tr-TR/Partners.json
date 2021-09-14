@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Numara",
     "LBL_CLOSED_TIME": "Kapanış saati",
     "LBL_VAT_ID": "Vergi numarası",
-    "FL_CATEGORY": "Kategori"
+    "FL_CATEGORY": "Kategori",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

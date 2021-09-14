@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Nummer",
     "LBL_CLOSED_TIME": "Geschlossen am",
     "LBL_VAT_ID": "MwSt",
-    "FL_CATEGORY": "Kategorie"
+    "FL_CATEGORY": "Kategorie",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

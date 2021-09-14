@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Número",
     "LBL_CLOSED_TIME": "Fechado??",
     "LBL_VAT_ID": "ID do Imposto",
-    "FL_CATEGORY": "Categoria"
+    "FL_CATEGORY": "Categoria",
+    "FL_MEMBER_OF": "Parceiro Principal",
+    "LBL_SHOW_HIERARCHY": "Hierarquia"
   }
 }

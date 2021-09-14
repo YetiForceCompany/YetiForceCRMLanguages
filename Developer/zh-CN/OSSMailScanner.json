@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "没有文件夹设置",
     "LBL_SHOW_ACCOUNT_DETAILS": "显示客户详情",
     "LBL_EDIT_FOLDER_ACCOUNT": "编辑文件夹",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "选择文件夹，删除它们然后重新添加，将会重新启动他们的邮件扫描.",
     "LBL_DELETE_ACCOUNT": "删除客户"
   }

@@ -9,6 +9,8 @@
     "LBL_NUMBER": "编号",
     "LBL_CLOSED_TIME": "关闭时间",
     "LBL_VAT_ID": "税号",
-    "FL_CATEGORY": "分类"
+    "FL_CATEGORY": "分类",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

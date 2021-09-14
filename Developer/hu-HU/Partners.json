@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Sorszám",
     "LBL_CLOSED_TIME": "Zárás ideje",
     "LBL_VAT_ID": "Adóazonosító",
-    "FL_CATEGORY": "Kategória"
+    "FL_CATEGORY": "Kategória",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

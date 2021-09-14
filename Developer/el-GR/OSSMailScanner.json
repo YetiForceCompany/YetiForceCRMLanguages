@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Καμία ρύθμιση παραμέτρων του φακέλου",
     "LBL_SHOW_ACCOUNT_DETAILS": "Εμφάνιση λεπτομερειών λογαριασμού",
     "LBL_EDIT_FOLDER_ACCOUNT": "Επεξεργασία φακέλων",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "Αν διαγράψετε ένα φάκελο και τον προσθέσετε ξανά, θα επανεκκινηθεί ο σαρωτής αλληλογραφίας για τους επιλεγμένους φακέλους.",
     "LBL_DELETE_ACCOUNT": "Διαγραφή λογαριασμού"
   }

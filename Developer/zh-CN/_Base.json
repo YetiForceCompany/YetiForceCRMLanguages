@@ -170,6 +170,7 @@
     "LBL_COPY_BILLING_ADDRESS": "帐单地址",
     "LBL_COPY_SHIPPING_ADDRESS": "送货地址",
     "LBL_CREATE": "创建",
+    "LBL_CREATEDHELPDESK": "Create a ticket",
     "LBL_CREATED_ON": "创建于",
     "LBL_CREATE_NEW": "新建",
     "LBL_CREATE_NEW_FILTER": "创建新筛选",
@@ -389,6 +390,7 @@
     "LBL_OF_PRICE": "价格",
     "LBL_ON": "启用",
     "LBL_ON_DEMAND_ADMIN": "添加/删除用户",
+    "LBL_OPENHELPDESK": "Open a ticket",
     "LBL_OPERATION_NOT_PERMITTED": "操作不允许",
     "LBL_OR": "或者",
     "LBL_OWNER": "Owner",
@@ -962,7 +964,7 @@
     "LBL_RELATIONSHIPS_BASED_ON_MODULES": "基于相关的模块",
     "LBL_TRANSFER_OWNERSHIP_DESC": "转移所有权的过程可能需要几分钟的时间才能完成，具体时长取决于数据量",
     "LBL_LEGAL_FORM": "公司类型",
-    "LBL_QUICK_EXPORT_TO_EXCEL": "导出到Excel",
+    "LBL_QUICK_EXPORT": "Quick export",
     "ReasonToEdit": "编辑的理由",
     "Mails List": "最新的电子邮件",
     "Support Group": "技术支持用户组",
@@ -1492,7 +1494,12 @@
     "LBL_YEARLY": "每年",
     "LBL_USER_AGENT": "User agent",
     "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
-    "LBL_VIEW_KANBAN": "Kanban"
+    "LBL_VIEW_KANBAN": "Kanban",
+    "LBL_PWD_VALIDATE": "Verify the password",
+    "LBL_PWD_AUTO_GENERATE": "Generate a password",
+    "LBL_PWD_GET": "Load password",
+    "LBL_PWD_CLIPBOARD_DBCLICK": "Double click to get the password",
+    "LBL_PWD_USER_PASSWORD_OK": "Password complies with the system requirements."
   },
   "js": {
     "JS_APPROVE": "同意",
@@ -1949,6 +1956,12 @@
     "JS_CANT_CLOSE_NEW_RECROD": "无法关闭新工单",
     "JS_MEETING_URL_CHANGED": "Meeting URL has changed",
     "JS_ENTER_A_REASON": "Enter a reason",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed",
+    "JS_PWD_RIDICULOUS": "Ridiculous",
+    "JS_PWD_VERY_WEAK": "Very weak",
+    "JS_PWD_WEAK": "Weak",
+    "JS_PWD_MEDIUM": "中",
+    "JS_PWD_STRONG": "Strong",
+    "JS_PWD_VERY_STRONG": "Very strong"
   }
 }

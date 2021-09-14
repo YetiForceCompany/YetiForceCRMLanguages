@@ -9,6 +9,8 @@
     "LBL_NUMBER": "شماره",
     "LBL_CLOSED_TIME": "زمان بسته شدن",
     "LBL_VAT_ID": "شناسه مالیاتی",
-    "FL_CATEGORY": "دسته بندی"
+    "FL_CATEGORY": "دسته بندی",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

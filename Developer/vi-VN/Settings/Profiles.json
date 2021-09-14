@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Di chuyển tài liệu",
     "ReadRecord": "Đọc toàn bộ thay đổi đã thực hiện trên hồ sơ",
     "WorkflowTrigger": "Kích hoạt luồng công việc",
-    "QuickExportToExcel": "Xuất nhanh dữ liệu ra Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Tạo bộ lọc tiện ích",
     "DetailTransferOwnership": "Bản xem trước hồ sơ - thay đổi chủ sở hữu",
     "ExportPdf": "Kết xuất PDF",

@@ -170,6 +170,7 @@
     "LBL_COPY_BILLING_ADDRESS": "Billing address",
     "LBL_COPY_SHIPPING_ADDRESS": "Shipping address",
     "LBL_CREATE": "Create",
+    "LBL_CREATEDHELPDESK": "Create a ticket",
     "LBL_CREATED_ON": "Created on",
     "LBL_CREATE_NEW": "Create new",
     "LBL_CREATE_NEW_FILTER": "Create new filter",
@@ -389,6 +390,7 @@
     "LBL_OF_PRICE": "Price",
     "LBL_ON": "on",
     "LBL_ON_DEMAND_ADMIN": "Add/Delete users",
+    "LBL_OPENHELPDESK": "Open a ticket",
     "LBL_OPERATION_NOT_PERMITTED": "Operation not permitted",
     "LBL_OR": "or",
     "LBL_OWNER": "Owner",
@@ -962,7 +964,7 @@
     "LBL_RELATIONSHIPS_BASED_ON_MODULES": "Based on related modules",
     "LBL_TRANSFER_OWNERSHIP_DESC": "Depending on the amount of data the process of ownership transfer may take up to several minutes to complete",
     "LBL_LEGAL_FORM": "Legal form",
-    "LBL_QUICK_EXPORT_TO_EXCEL": "Export to Excel",
+    "LBL_QUICK_EXPORT": "Quick export",
     "ReasonToEdit": "Reason to edit",
     "Mails List": "Most recent emails",
     "Support Group": "Support Group",
@@ -1492,7 +1494,12 @@
     "LBL_YEARLY": "Yearly",
     "LBL_USER_AGENT": "Asiakasohjelma",
     "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
-    "LBL_VIEW_KANBAN": "Kanban"
+    "LBL_VIEW_KANBAN": "Kanban",
+    "LBL_PWD_VALIDATE": "Verify the password",
+    "LBL_PWD_AUTO_GENERATE": "Generate a password",
+    "LBL_PWD_GET": "Load password",
+    "LBL_PWD_CLIPBOARD_DBCLICK": "Double click to get the password",
+    "LBL_PWD_USER_PASSWORD_OK": "Password complies with the system requirements."
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1949,6 +1956,12 @@
     "JS_CANT_CLOSE_NEW_RECROD": "You cannot close a new ticket",
     "JS_MEETING_URL_CHANGED": "Meeting URL has changed",
     "JS_ENTER_A_REASON": "Enter a reason",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed",
+    "JS_PWD_RIDICULOUS": "Ridiculous",
+    "JS_PWD_VERY_WEAK": "Very weak",
+    "JS_PWD_WEAK": "Weak",
+    "JS_PWD_MEDIUM": "Medium",
+    "JS_PWD_STRONG": "Strong",
+    "JS_PWD_VERY_STRONG": "Very strong"
   }
 }

@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Ni konfiguracije mape",
     "LBL_SHOW_ACCOUNT_DETAILS": "Pokaži podrobnosti računa",
     "LBL_EDIT_FOLDER_ACCOUNT": "Uredi mapo",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "Če izbrišete mapo in jo znova dodate, bo skener pošte za izbrane mape znova zagnan.",
     "LBL_DELETE_ACCOUNT": "Izbris računa"
   }

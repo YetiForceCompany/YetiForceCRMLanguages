@@ -1393,7 +1393,7 @@
     "LBL_HAS_CHANGED_TO": "змінено на",
     "LBL_IS_RECORD_OPEN": "Запис відкритий",
     "LBL_IS_RECORD_CLOSED": "Запис закритий",
-    "LBL_NOT_CREATED_BY_OWNER": "Not created by owner",
+    "LBL_NOT_CREATED_BY_OWNER": "Не створено власником",
     "LBL_PAID_FUNCTIONALITY": "Це додаткова і платна функціональність. Зайдіть в Магазин, щоб здійснити платіж та активувати його.",
     "LBL_PAID_FUNCTIONALITY_IS_ACTIVE": "Платна функція була активована без придбання продукту в магазині. Ви порушуєте умови ліцензії.",
     "LBL_YETIFORCE_SHOP": "Магазин Yetiforce",
@@ -1485,11 +1485,11 @@
     "LBL_RECORDS_FROM_RELATION": "Records from relation",
     "LBL_NUMBER_OF_ALL_ENTRIES": "Number of all entries",
     "LBL_NUMBER_OF_IMPORTED_ENTRIES": "Number of imported entries",
-    "LBL_NUMBER_OF_ERRORS": "Number of errors",
+    "LBL_NUMBER_OF_ERRORS": "Кількість помилок",
     "LBL_DAILY": "Щоденно",
     "LBL_MONTHLY": "Щомісяця",
     "LBL_YEARLY": "Щорічно",
-    "LBL_USER_AGENT": "User agent",
+    "LBL_USER_AGENT": "Агент користувача",
     "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel."
   },
   "js": {

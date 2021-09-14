@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Masovno premještanje dokumenata",
     "ReadRecord": "Čitanje svih izmjena izvršenih na zapisima",
     "WorkflowTrigger": "Okidač radnog toka",
-    "QuickExportToExcel": "Brzi izvoz u Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Kreiranje filtera widgeta",
     "DetailTransferOwnership": "Pregled zapisa - promjena vlasnika",
     "ExportPdf": "Izvoz u PDF",

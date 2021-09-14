@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Movimiento masivo de documentos",
     "ReadRecord": "Leer todos los cambios realizados en los registros",
     "WorkflowTrigger": "Disparador de flujo de trabajo",
-    "QuickExportToExcel": "Exportación rápida a Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Crear widgets de filtro",
     "DetailTransferOwnership": "Vista previa del Registro - cambiar el propietario",
     "ExportPdf": "Exportar a PDF",

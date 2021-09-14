@@ -52,7 +52,7 @@
     "MassMoveDocuments": "ドキュメントを一括移動",
     "ReadRecord": "レコードに実行されたすべての変更を読み込みます。",
     "WorkflowTrigger": "ワークフロートリガー",
-    "QuickExportToExcel": "Excel にクイックエクスポート",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "フィルタウィジェットを作成",
     "DetailTransferOwnership": "レコードのプレビュー - 所有者を変更",
     "ExportPdf": "PDF にエクスポート",

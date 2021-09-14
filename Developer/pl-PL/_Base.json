@@ -170,6 +170,7 @@
     "LBL_COPY_BILLING_ADDRESS": "Adres korespondencji",
     "LBL_COPY_SHIPPING_ADDRESS": "Adres dostawy",
     "LBL_CREATE": "Dodaj",
+    "LBL_CREATEDHELPDESK": "Utwórz zgłoszenie",
     "LBL_CREATED_ON": "Utworzone:",
     "LBL_CREATE_NEW": "Utwórz nowy",
     "LBL_CREATE_NEW_FILTER": "Stwórz nowy filtr",
@@ -389,6 +390,7 @@
     "LBL_OF_PRICE": "Cena",
     "LBL_ON": "na",
     "LBL_ON_DEMAND_ADMIN": "Dodaj/Usuń użytkowników",
+    "LBL_OPENHELPDESK": "Otwórz zgłoszenie",
     "LBL_OPERATION_NOT_PERMITTED": "Operacja niedozwolona",
     "LBL_OR": "lub",
     "LBL_OWNER": "Właściciel",
@@ -962,7 +964,7 @@
     "LBL_RELATIONSHIPS_BASED_ON_MODULES": "Na podstawie modułów powiązanych",
     "LBL_TRANSFER_OWNERSHIP_DESC": "Operacja zmiany właściciela w zależności od ilości danych może zająć kilka lub kilkanaście minut.",
     "LBL_LEGAL_FORM": "Forma prawna",
-    "LBL_QUICK_EXPORT_TO_EXCEL": "Eksport do Excel",
+    "LBL_QUICK_EXPORT": "Szybki eksport",
     "ReasonToEdit": "Przyczyna edycji",
     "Mails List": "Najnowsze maile",
     "Support Group": "Grupa wsparcia",
@@ -1492,7 +1494,12 @@
     "LBL_YEARLY": "Co roku",
     "LBL_USER_AGENT": "Agent użytkownika",
     "LBL_LIMIT_INFO": "Historia pokazuje tylko ostatnie %s wpisy, pełna lista jest dostępna w panelu administratora.",
-    "LBL_VIEW_KANBAN": "Kanban"
+    "LBL_VIEW_KANBAN": "Kanban",
+    "LBL_PWD_VALIDATE": "Potwierdź hasło",
+    "LBL_PWD_AUTO_GENERATE": "Generuj hasło",
+    "LBL_PWD_GET": "Wczytaj hasło",
+    "LBL_PWD_CLIPBOARD_DBCLICK": "Kliknij dwukrotnie, aby uzyskać hasło",
+    "LBL_PWD_USER_PASSWORD_OK": "Hasło jest zgodne z wymaganiami systemu."
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1949,6 +1956,12 @@
     "JS_CANT_CLOSE_NEW_RECROD": "Nie można zamknąć nowego zgłoszenia",
     "JS_MEETING_URL_CHANGED": "Adres spotkania został zmieniony",
     "JS_ENTER_A_REASON": "Podaj powód",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "Brak informacji o rekordzie, który ma ulec zmianie"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Brak informacji o rekordzie, który ma ulec zmianie",
+    "JS_PWD_RIDICULOUS": "Absurdalne",
+    "JS_PWD_VERY_WEAK": "Bardzo słabe",
+    "JS_PWD_WEAK": "Słabe",
+    "JS_PWD_MEDIUM": "Normalny",
+    "JS_PWD_STRONG": "Silne",
+    "JS_PWD_VERY_STRONG": "Bardzo silne"
   }
 }

@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Brak konfiguracji folderów",
     "LBL_SHOW_ACCOUNT_DETAILS": "Pokaż szczegóły konta",
     "LBL_EDIT_FOLDER_ACCOUNT": "Edytuj foldery",
+    "LBL_SET_STATUS_DISABLE": "Wyłącz konto e-mail",
+    "LBL_SET_STATUS_ACTIVE": "Włącz konto e-mail",
+    "LBL_ACCOUNT_IS_BLOCKED": "Konto jest zablokowane",
+    "LBL_ACCOUNT_IS_DISABLED": "Konto jest wyłączone",
     "LBL_ALERT_EDIT_FOLDER": "Usunięcie folderu i dodanie ponownie spowoduje ponowne uruchomienie skanera poczty dla wybranych folderów.",
     "LBL_DELETE_ACCOUNT": "Usuń konto"
   }

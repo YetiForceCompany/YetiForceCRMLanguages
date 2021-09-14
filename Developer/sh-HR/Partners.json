@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Broj",
     "LBL_CLOSED_TIME": "Vrijeme zaključenja",
     "LBL_VAT_ID": "ID broj",
-    "FL_CATEGORY": "Kategorija"
+    "FL_CATEGORY": "Kategorija",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

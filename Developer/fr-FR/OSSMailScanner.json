@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Aucune configuration de dossier",
     "LBL_SHOW_ACCOUNT_DETAILS": "Afficher les détails du compte",
     "LBL_EDIT_FOLDER_ACCOUNT": "Editer dossier",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "Supprimer le dossier et l'ajouter à nouveau relancera le scanner de courrier pour les dossiers sélectionnés.",
     "LBL_DELETE_ACCOUNT": "Supprimer compte"
   }

@@ -52,7 +52,7 @@
     "MassMoveDocuments": "批量移动文档",
     "ReadRecord": "阅读记录的所有更改",
     "WorkflowTrigger": "工作流触发器",
-    "QuickExportToExcel": "快速导出至Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "创建筛选视图部件",
     "DetailTransferOwnership": "记录预览-更改所有者",
     "ExportPdf": "导出为PDF",

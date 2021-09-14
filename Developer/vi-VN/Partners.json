@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Số",
     "LBL_CLOSED_TIME": "Thời Gian Đóng",
     "LBL_VAT_ID": "Mã số thuế",
-    "FL_CATEGORY": "Nhóm"
+    "FL_CATEGORY": "Nhóm",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

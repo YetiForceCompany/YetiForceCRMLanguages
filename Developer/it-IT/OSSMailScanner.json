@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "Nessuna configurazione cartella",
     "LBL_SHOW_ACCOUNT_DETAILS": "Mostra dettagli email",
     "LBL_EDIT_FOLDER_ACCOUNT": "Modifica cartelle",
+    "LBL_SET_STATUS_DISABLE": "Disabilita il profilo email",
+    "LBL_SET_STATUS_ACTIVE": "Abilita il profilo email",
+    "LBL_ACCOUNT_IS_BLOCKED": "Il profilo è bloccato",
+    "LBL_ACCOUNT_IS_DISABLED": "Il profilo è disabilitato",
     "LBL_ALERT_EDIT_FOLDER": "Eliminando la cartella e aggiungendola di nuovo, si riavvierà lo scanner di posta per le cartelle selezionate.",
     "LBL_DELETE_ACCOUNT": "Elimina email"
   }

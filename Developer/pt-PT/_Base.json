@@ -170,6 +170,7 @@
     "LBL_COPY_BILLING_ADDRESS": "Endereço de faturação",
     "LBL_COPY_SHIPPING_ADDRESS": "Endereço de envio",
     "LBL_CREATE": "Criar",
+    "LBL_CREATEDHELPDESK": "Criar Ticket",
     "LBL_CREATED_ON": "Criado em",
     "LBL_CREATE_NEW": "Criar Novo",
     "LBL_CREATE_NEW_FILTER": "Criar novo filtro",
@@ -389,6 +390,7 @@
     "LBL_OF_PRICE": "Preço",
     "LBL_ON": "em",
     "LBL_ON_DEMAND_ADMIN": "Adicionar/Apagar utilizadores",
+    "LBL_OPENHELPDESK": "Abrir Pedido",
     "LBL_OPERATION_NOT_PERMITTED": "Operação não permitida",
     "LBL_OR": "ou",
     "LBL_OWNER": "Proprietário",
@@ -962,7 +964,7 @@
     "LBL_RELATIONSHIPS_BASED_ON_MODULES": "Baseado em módulos relacionados",
     "LBL_TRANSFER_OWNERSHIP_DESC": "Dependendo da quantidade de dados que o processo de transferência de propriedade pode levar até vários minutos para completar",
     "LBL_LEGAL_FORM": "Forma legal",
-    "LBL_QUICK_EXPORT_TO_EXCEL": "Exportar para Excel",
+    "LBL_QUICK_EXPORT": "Exportação rápida",
     "ReasonToEdit": "Razão para editar",
     "Mails List": "E-mails mais recentes",
     "Support Group": "Grupo de Suporte",
@@ -1492,7 +1494,12 @@
     "LBL_YEARLY": "Anual",
     "LBL_USER_AGENT": "User agent",
     "LBL_LIMIT_INFO": "The history shows only the last %s entries, the full list is available in the admin panel.",
-    "LBL_VIEW_KANBAN": "Kanban"
+    "LBL_VIEW_KANBAN": "Kanban",
+    "LBL_PWD_VALIDATE": "Verify the password",
+    "LBL_PWD_AUTO_GENERATE": "Generate a password",
+    "LBL_PWD_GET": "Load password",
+    "LBL_PWD_CLIPBOARD_DBCLICK": "Double click to get the password",
+    "LBL_PWD_USER_PASSWORD_OK": "Password complies with the system requirements."
   },
   "js": {
     "JS_APPROVE": "Aprovar",
@@ -1949,6 +1956,12 @@
     "JS_CANT_CLOSE_NEW_RECROD": "Não pode fechar um novo ticket",
     "JS_MEETING_URL_CHANGED": "Meeting URL has changed",
     "JS_ENTER_A_REASON": "Enter a reason",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "There is no information about the record to be changed",
+    "JS_PWD_RIDICULOUS": "Ridiculous",
+    "JS_PWD_VERY_WEAK": "Very weak",
+    "JS_PWD_WEAK": "Weak",
+    "JS_PWD_MEDIUM": "Médio",
+    "JS_PWD_STRONG": "Strong",
+    "JS_PWD_VERY_STRONG": "Very strong"
   }
 }

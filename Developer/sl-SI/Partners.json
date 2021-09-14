@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Številka",
     "LBL_CLOSED_TIME": "Zaključeno",
     "LBL_VAT_ID": "ID za DDV",
-    "FL_CATEGORY": "Kategorija"
+    "FL_CATEGORY": "Kategorija",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

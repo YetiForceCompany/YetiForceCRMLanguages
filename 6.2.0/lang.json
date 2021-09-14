@@ -24,8 +24,8 @@
         "prefix": "cs-CZ",
         "crowdinCode": "cs",
         "name": "Czech",
-        "progress": 13,
-        "time": "2021-08-17 11:03:50"
+        "progress": 14,
+        "time": "2021-09-13 12:41:22"
     },
     "da-DK": {
         "prefix": "da-DK",
@@ -108,8 +108,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 99,
-        "time": "2021-07-14 09:59:04"
+        "progress": 100,
+        "time": "2021-09-13 12:48:09"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -137,14 +137,14 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 22,
-        "time": "2021-07-02 13:58:28"
+        "time": "2021-09-13 12:43:14"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 53,
-        "time": "2021-07-02 13:57:51"
+        "time": "2021-09-13 12:42:35"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -200,7 +200,7 @@
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 29,
-        "time": "2021-08-17 11:17:47"
+        "time": "2021-09-13 12:55:09"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -228,7 +228,7 @@
         "crowdinCode": "th",
         "name": "Thai",
         "progress": 5,
-        "time": "2021-07-02 14:13:46"
+        "time": "2021-09-13 12:57:32"
     },
     "tr-TR": {
         "prefix": "tr-TR",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 89,
-        "time": "2021-08-17 11:21:34"
+        "time": "2021-09-13 12:58:43"
     },
     "vi-VN": {
         "prefix": "vi-VN",

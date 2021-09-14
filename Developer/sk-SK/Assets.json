@@ -1,8 +1,8 @@
 {
   "php": {
-    "Assets": "Majetky",
-    "SINGLE_Assets": "Majetek",
-    "LBL_ASSET_INFORMATION": "Detaily majetku",
+    "Assets": "Assety",
+    "SINGLE_Assets": "Asset",
+    "LBL_ASSET_INFORMATION": "Detaily assetu",
     "Asset No": "Číslo majetku",
     "Serial Number": "Sériové číslo",
     "Date Sold": "Dátum predaja",

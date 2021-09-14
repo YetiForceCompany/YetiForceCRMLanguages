@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Массовое перемещение документов",
     "ReadRecord": "Принять все изменения, выполненные в записях",
     "WorkflowTrigger": "Обработчик",
-    "QuickExportToExcel": "Быстрый Экспорт в Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Создать Виджет",
     "DetailTransferOwnership": "Просмотр записи - изменить владельца",
     "ExportPdf": "Экспорт в PDF",

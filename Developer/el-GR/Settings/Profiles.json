@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Μαζική μετακίνηση εγγράφων",
     "ReadRecord": "Διαβάστε όλες τις αλλαγές που πραγματοποιήθηκαν σε εγγραφές",
     "WorkflowTrigger": "Έναυσμα(trigger) ροής εργασίας",
-    "QuickExportToExcel": "Γρήγορη εξαγωγή σε Excel",
+    "QuickExportToExcel": "Quick export",
     "CreateDashboardFilter": "Δημιουργία widgets φιλτρων",
     "DetailTransferOwnership": "Προεπισκόπηση εγγραφή - αλλαγή του κατόχου",
     "ExportPdf": "Εξαγωγή σε PDF",

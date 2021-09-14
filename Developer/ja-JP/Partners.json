@@ -9,6 +9,8 @@
     "LBL_NUMBER": "番号",
     "LBL_CLOSED_TIME": "終了日時",
     "LBL_VAT_ID": "税ID",
-    "FL_CATEGORY": "カテゴリー"
+    "FL_CATEGORY": "カテゴリー",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
   }
 }

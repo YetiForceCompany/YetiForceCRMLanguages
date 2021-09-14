@@ -147,6 +147,10 @@
     "ERR_NO_CONFIGURATION_FOLDERS": "フォルダ設定がありません",
     "LBL_SHOW_ACCOUNT_DETAILS": "アカウントの詳細を表示",
     "LBL_EDIT_FOLDER_ACCOUNT": "フォルダを編集",
+    "LBL_SET_STATUS_DISABLE": "Disable the email account",
+    "LBL_SET_STATUS_ACTIVE": "Enable the email account",
+    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
     "LBL_ALERT_EDIT_FOLDER": "フォルダを削除し、再度追加すると、選択したフォルダのメールスキャナが再起動されます。",
     "LBL_DELETE_ACCOUNT": "アカウントを削除"
   }

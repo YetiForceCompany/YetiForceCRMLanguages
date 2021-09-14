@@ -170,6 +170,7 @@
     "LBL_COPY_BILLING_ADDRESS": "Indirizzo fatturazione",
     "LBL_COPY_SHIPPING_ADDRESS": "Indirizzo spedizione",
     "LBL_CREATE": "Crea",
+    "LBL_CREATEDHELPDESK": "Crea un ticket",
     "LBL_CREATED_ON": "Creato il",
     "LBL_CREATE_NEW": "Crea nuovo",
     "LBL_CREATE_NEW_FILTER": "Crea nuovo filtro",
@@ -389,6 +390,7 @@
     "LBL_OF_PRICE": "Prezzo",
     "LBL_ON": "a",
     "LBL_ON_DEMAND_ADMIN": "Aggiungi  / elimina utenti",
+    "LBL_OPENHELPDESK": "Apri un ticket",
     "LBL_OPERATION_NOT_PERMITTED": "Operazione non permessa",
     "LBL_OR": "o",
     "LBL_OWNER": "Proprietario",
@@ -702,7 +704,7 @@
     "Address details": "Indirizzo principale",
     "Contact details": "Informazioni contatto",
     "Registration details": "Dettagli registrazione",
-    "LBL_SUMMARY_LICENSE": "YetiForce Public License 4.0",
+    "LBL_SUMMARY_LICENSE": "Licenza Pubblica di YetiForce 4.0",
     "LBL_REGISTERING_INFORMATION": "Informazioni registrazione",
     "Created By": "Creato da",
     "Parent ID": "Relativo a",
@@ -962,7 +964,7 @@
     "LBL_RELATIONSHIPS_BASED_ON_MODULES": "Basato sui moduli relazionati",
     "LBL_TRANSFER_OWNERSHIP_DESC": "Dipendentemente dalla quantità di dati da elaborare, la modifica dell'assegnatario del record potrebbe richiedere alcuni minuti.",
     "LBL_LEGAL_FORM": "Forma giuridica",
-    "LBL_QUICK_EXPORT_TO_EXCEL": "Esporta in Excel",
+    "LBL_QUICK_EXPORT": "Esportazione rapida",
     "ReasonToEdit": "Motivazione della modifica",
     "Mails List": "Mostra le email più recenti",
     "Support Group": "Gruppo di supporto",
@@ -1163,7 +1165,7 @@
     "LBL_NEW_ACCOUNTS": "Nuove aziende",
     "LBL_NEGLECTED_ACCOUNTS": "Aziende trascurate",
     "LBL_ADD_CHART_FILTER": "Aggiungi grafico da filtro",
-    "LBL_EDIT_CHART_FILTER": "Edit chart from filter",
+    "LBL_EDIT_CHART_FILTER": "Modifica grafico dal filtro",
     "LBL_PIE_CHART": "A torta",
     "LBL_DONUT_CHART": "Ad anello",
     "LBL_AXIS_CHART": "Grafico ad assi",
@@ -1492,7 +1494,12 @@
     "LBL_YEARLY": "Annuale",
     "LBL_USER_AGENT": "Agente dell'utente",
     "LBL_LIMIT_INFO": "La cronologia mostra solo le ultime %s voci, l'elenco completo è disponibile nel pannello dell'amministratore.",
-    "LBL_VIEW_KANBAN": "Kanban"
+    "LBL_VIEW_KANBAN": "Kanban",
+    "LBL_PWD_VALIDATE": "Verifica la password",
+    "LBL_PWD_AUTO_GENERATE": "Genera una password",
+    "LBL_PWD_GET": "Carica password",
+    "LBL_PWD_CLIPBOARD_DBCLICK": "Fai doppio clic per ottenere la password",
+    "LBL_PWD_USER_PASSWORD_OK": "La password è conforme ai requisiti di sistema."
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1949,6 +1956,12 @@
     "JS_CANT_CLOSE_NEW_RECROD": "Non puoi chiudere un nuovo ticket",
     "JS_MEETING_URL_CHANGED": "L'URL della riunione è cambiato",
     "JS_ENTER_A_REASON": "Inserisci un motivo",
-    "JS_LACK_INFORMATION_ABOUT_RECORD": "Nessun'informazione sul registro da cambiare"
+    "JS_LACK_INFORMATION_ABOUT_RECORD": "Nessun'informazione sul registro da cambiare",
+    "JS_PWD_RIDICULOUS": "Ridicola",
+    "JS_PWD_VERY_WEAK": "Molto debole",
+    "JS_PWD_WEAK": "Debole",
+    "JS_PWD_MEDIUM": "Medio",
+    "JS_PWD_STRONG": "Sicura",
+    "JS_PWD_VERY_STRONG": "Molto sicura"
   }
 }

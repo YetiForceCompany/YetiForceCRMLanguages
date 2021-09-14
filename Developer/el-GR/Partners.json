@@ -9,6 +9,8 @@
     "LBL_NUMBER": "Αριθμός",
     "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
     "LBL_VAT_ID": "ΑΦΜ",
-    "FL_CATEGORY": "Κατηγορία"
+    "FL_CATEGORY": "Κατηγορία",
+    "FL_MEMBER_OF": "Γονιός συνεργάτης",
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία"
   }
 }
