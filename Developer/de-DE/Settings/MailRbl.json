@@ -99,11 +99,17 @@
     "LBL_PUBLIC_BLACK_LIST": "Black list der IP-Adressen",
     "LBL_PUBLIC_WHITE_LIST": "White list der IP-Adressen",
     "LBL_IP_EXISTING_IN_RBL": "Die IP-Adresse %s existiert in %s, kündige den bestehenden Bericht ab, um einen neuen hinzuzufügen.",
-    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Automatisch akzeptieren",
-    "LBL_BTN_ACCEPT_MANUALLY": "Manuell akzeptieren",
-    "LBL_BTN_SEND_AUTOMATICALLY": "Automatisch senden",
-    "LBL_BTN_SEND_MANUALLY": "Manuell senden",
-    "LBL_SYNCH_PAID_FEATURE": "Die Synchronisierung mit dem öffentlichen RBL-Server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) ist eine kostenpflichtige Funktion. Um die Synchronisation zu aktivieren und ständig mit neuen gefährlichen Mail-Servern zu aktualisieren, gehen Sie bitte zu %s"
+    "BTN_RBL_CONFIG": "RBL (Realtime Blackhole List) Konfiguration",
+    "LBL_ACCEPT_AUTOMATICALLY": "Automatisch akzeptieren",
+    "LBL_ACCEPT_AUTOMATICALLY_DESC": "Standardmäßig wird jeder RBL-Bericht (Realtime Blackhole List) zu einer Liste der zu überprüfenden Berichte hinzugefügt. Wenn diese Option aktiviert ist, werden alle Berichte sofort akzeptiert und der zu sendenden Liste hinzugefügt. Wir empfehlen die manuelle Überprüfung aller Berichte, um Nachrichten versehentlich oder falsch zu vermeiden. ",
+    "LBL_SEND_REPORT_AUTOMATICALLY": "Automatisch senden",
+    "LBL_SEND_REPORT_AUTOMATICALLY_DESC": "Ein Parameter der das automatische Senden des Berichts an die zentrale RBL-Datenbank (Realtime Blackhole List) nach der Validierung der e-Mail-Nachricht ermöglicht. Berichte an die Whitelist senden nur die Kopfzeilen der Nachricht, Berichte an die Blacklist senden die gesamte e-Mail. Das CRM-System kann problemlos ohne Berichtsversand laufen.",
+    "LBL_ACTIVATE_RBL_LIST": "Überprüfen Sie den Absender in der e-Mail-Liste im Mail-Client",
+    "LBL_ACTIVATE_RBL_LIST_DESC": "Das aktivieren dieser Option verlangsamt das Laden von e-Mails je nach Verbindungsgeschwindigkeit und e-Mailserver. Sobald der Absender überprüft wurde, wird das System (durch Änderung der Hintergrundfarbe) anzeigen, ob dem Absender vertraut wird oder nicht.",
+    "LBL_ACTIVATE_RBL_DETAIL": "Überprüfen Sie den Absender in der Nachrichtenvorschau im Mail-Client",
+    "LBL_ACTIVATE_RBL_DETAIL_DESC": "Wenn Sie diese Option aktivieren, wird in der Mailvorschau eine Leiste angezeigt, die darüber informiert, ob dem Absender vertraut wird oder er lokal/öffentlich auf die schwarze Liste gesetzt wurde.",
+    "LBL_SYNCH_PAID_FEATURE": "Die Synchronisierung mit dem öffentlichen RBL-Server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) ist eine kostenpflichtige Funktion. Um die Synchronisation zu aktivieren und ständig mit neuen gefährlichen Mail-Servern zu aktualisieren, gehen Sie bitte zu %s",
+    "LBL_IP_ALREADY_EXISTS_LIST": "IP address already exists on the following list:"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Details anzeigen",

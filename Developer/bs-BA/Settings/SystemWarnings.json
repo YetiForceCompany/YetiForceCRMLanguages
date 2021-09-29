@@ -6,6 +6,8 @@
 		"LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Broj potencijalnih izvještaja o neželjenoj pošti koji čekaju provjeru: %s",
 		"LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - izvještaji na crnoj listi",
 		"LBL_CHECK_BLACKLIST_REPORTS_DESC": "Broj prihvaćenih neželjenih izvještaja na crnoj listi: %s",
+		"LBL_CHECK_SUSPENDED_ACCOUNTS": "Suspended email accounts",
+		"LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "List of suspended e-mail accounts: %s",
 		"LBL_LIBRARY_ROUNDCUBE": "Roundcube biblioteka",
 		"LBL_LIBRARY_PHPEXCEL": "PHPExcel biblioteka",
 		"LBL_CONFIG_REPORT": "Konfiguracija servera",

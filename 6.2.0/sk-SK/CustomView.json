@@ -1,8 +1,8 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field"
+    "CustomView": "Filtre - Konfigurácia",
+    "LBL_FEATURED": "Pridať do obľúbených",
+    "LBL_COLOR_VIEW": "Farba zobrazenia",
+    "LBL_ADD_FIELD": "Pridať pole"
   }
 }

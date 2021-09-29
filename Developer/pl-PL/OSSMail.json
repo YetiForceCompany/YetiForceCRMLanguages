@@ -94,7 +94,13 @@
     "LBL_ALERT_FAKE_MAIL": "Uważaj na tę wiadomość, nie można zweryfikować, czy wiadomość faktycznie została wysłana z adresu nadawcy. \nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
     "LBL_ALERT_FAKE_SENDER": "Uważaj na tę wiadomość, adres e-mail w polu Od został sfałszowany.\nNie klikaj żadnych linków, nie pobieraj załączników ani nie podawaj danych osobowych w odpowiedzi.",
     "BTN_ANALYSIS_DETAILS": "Szczegóły analizy",
-    "LBL_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została dodana"
+    "LBL_NO_IP_ADDRESS": "Nie znaleziono adresu IP nadawcy",
+    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Wysłano zgłoszenie do lokalnej bazy RBL",
+    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Wysłano zgłoszenie do publicznej bazy RBL",
+    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Serwer nadawcy jest na białej liście, utworzono zgłoszenie do weryfikacji przez administratora",
+    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Serwer nadawcy jest na czarnej liście, utworzono zgłoszenie do weryfikacji przez administratora",
+    "LBL_RC_ERROR_RBL_REPORT": "Wystąpił błąd podczas zgłaszania do RBL",
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została dodana"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

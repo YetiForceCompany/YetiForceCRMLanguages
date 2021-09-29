@@ -1,7 +1,7 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
+    "MailIntegration": "Integračný panel mailu",
+    "SINGLE_MailIntegration": "Integračný panel mailu",
     "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
     "LBL_IMPORT_MAIL_MANUALLY": "Import",
     "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",

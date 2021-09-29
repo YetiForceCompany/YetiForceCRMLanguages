@@ -31,7 +31,7 @@
     "LBL_RC_prefer_html": "Show messages as HTML",
     "LBL_RC_preview_pane": "If preview pane is activated",
     "LBL_RC_htmleditor": "Message in HTML format",
-    "LBL_RC_draft_autosave": "Automatically save created message every: (seconds)",
+    "LBL_RC_draft_autosave": "Automatický ulož vytvorenú správu každých: (sekúnd)",
     "LBL_RC_mdn_requests": "How to behave if message demands notification of delivery",
     "LBL_RC_session_lifetime": "Životnosť spojenia v minútach",
     "LBL_RC_sendmail_delay": "Delay time while sending message",

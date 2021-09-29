@@ -30,7 +30,7 @@
     "Users|Number Of Currency Decimals": "Specifies the number of decimals after separator.",
     "Users|Day starts at": "The system will use this parameter for automatic calendar events scheduling.",
     "Users|Day ends at": "The system will use this parameter for automatic calendar events scheduling.",
-    "Users|Language": "System language selection for the user (does not apply to the login screen).",
+    "Users|Language": "Výber systémového jazyka užívateľa (neplatí pre prihlasovaciu stránku).",
     "Users|Row Height": "Specifies spacing between rows.",
     "Users|LBL_MENU_EXPANDED_BY_DEFAULT": "Checking the box will cause the user's and admin's menu to be expanded by default.",
     "Users|FL_AUTHY_SECRET_TOTP": "After 2FA TOPO is activated, a key will be generated to verify single use codes.",

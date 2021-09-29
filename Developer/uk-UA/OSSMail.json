@@ -94,7 +94,13 @@
     "LBL_ALERT_FAKE_MAIL": "Зверніть увагу на це повідомлення, неможливо перевірити, чи повідомлення було насправді надіслане з адреси відправника.\nНе натискайте ні на які посилання, не завантажуйте вкладені файли та не надавайте персональну інформацію у відповіді.",
     "LBL_ALERT_FAKE_SENDER": "Зверніть увагу на цей лист, електронну адресу в полі \"Від\" було підроблено.\nНе натискайте ні на які посилання, не завантажуйте вкладені файли та не надавайте персональну інформацію у відповіді.",
     "BTN_ANALYSIS_DETAILS": "Подробиці аналізу",
-    "LBL_MESSAGE_HAS_BEEN_ADDED": "Повідомлення додано"
+    "LBL_NO_IP_ADDRESS": "The sender's IP address was not found",
+    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Report sent to a local RBL base",
+    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Report sent to a public RBL base",
+    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
+    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
+    "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Повідомлення додано"
   },
   "js": {
     "NoFindEmailInRecord": "Запис не має електронної пошти",

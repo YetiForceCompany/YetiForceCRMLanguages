@@ -91,7 +91,7 @@
     "LBL_UPLOAD_TEMPLATE": "Import",
     "LBL_GO_TO_TEMPLATE": "Click to go to imported template.",
     "LBL_RETURN": "Return",
-    "LBL_PERMISSIONS_DETAILS": "Permissions",
+    "LBL_PERMISSIONS_DETAILS": "Oprávnenia",
     "LBL_INSERT": "Insert",
     "PAGENO": "Počet strán",
     "PAGENUM": "Číslo strany",
@@ -163,6 +163,6 @@
     "JS_NOTIFY_COPY_TEXT": "Copied to clipboard",
     "JS_NOTIFY_COPY_TITLE": "Text",
     "JS_PDF_TEMPLATE_EXPORTED": "PDF template exported successfully.",
-    "JS_RECALCULATING": "Recalculating permissions..."
+    "JS_RECALCULATING": "Prepočítavanie povolení..."
   }
 }

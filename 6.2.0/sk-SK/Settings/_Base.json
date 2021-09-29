@@ -135,7 +135,7 @@
     "USERGROUPLIST": "Skupiny",
     "VTLIB_LBL_MODULE_MANAGER_DESCRIPTION": "Spravujte správanie modulu vo vnútri YetiForce CRM",
     "VTLIB_LBL_MODULE_MANAGER": "Moduly - Inštalácia",
-    "LBL_LOGS_MANAGEMENT": "Denníky",
+    "LBL_LOGS_MANAGEMENT": "Logy",
     "LBL_SECURITY_MANAGEMENT": "Bezpečnosť",
     "LBL_MAIL_TOOLS": "Nástroje pošty",
     "LBL_PASSWORD_CONF": "Heslá - Konfigurácia",
@@ -333,8 +333,8 @@
     "LBL_MAXIMUM_SIZE_EXCEEDS": "You can upload maximum size of 1MB only",
     "LBL_NO_LOGO_SELECTED": "No logo selected",
     "LBL_WRONG_IMAGE_TYPE": "not supported Image type",
-    "JS_COLUMN_ADDED": "Field added",
-    "JS_COLUMN_EXIST": "Error while adding field",
+    "JS_COLUMN_ADDED": "Pole pridané",
+    "JS_COLUMN_EXIST": "Chyba počas pridávania poľa",
     "JS_NOTIFY_COPY_TEXT": "Copied variable to clipboard"
   }
 }

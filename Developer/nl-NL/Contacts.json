@@ -7,8 +7,8 @@
     "Contacts": "Contacten",
     "Email": "Primair Email",
     "LBL_CONTACT_INFORMATION": "Basis Informatie",
-    "LBL_COPY_MAILING_ADDRESS": "Copieer mail adres",
-    "LBL_COPY_OTHER_ADDRESS": "Copieer ander email adres",
+    "LBL_COPY_MAILING_ADDRESS": "Kopieer mail adres",
+    "LBL_COPY_OTHER_ADDRESS": "Kopieer ander email adres",
     "LBL_CUSTOMER_PORTAL_INFORMATION": "Klanten portaal details",
     "LBL_IMAGE_INFORMATION": "Profiel foto",
     "Office Phone": "Telefoon kantoor",
@@ -17,7 +17,7 @@
     "Reports To": "Bovenliggend contact",
     "Secondary Email": "Tweede Email",
     "SINGLE_Contacts": "Contact",
-    "Title": "Titel",
+    "Title": "Aanhef",
     "User List": "Gebruikerslijst",
     "Job title": "Functie",
     "Dr.": "Dr.",
@@ -48,7 +48,7 @@
     "FL_GENDER": "Geslacht",
     "PLL_WOMAN": "Vrouw",
     "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Contact met deze naam bestaat al."
   },
   "js": {}
 }

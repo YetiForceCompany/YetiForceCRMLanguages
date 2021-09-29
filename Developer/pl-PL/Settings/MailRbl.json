@@ -99,11 +99,17 @@
     "LBL_PUBLIC_BLACK_LIST": "Czarna lista adresów IP",
     "LBL_PUBLIC_WHITE_LIST": "Biała lista adresów IP",
     "LBL_IP_EXISTING_IN_RBL": "Adres IP %s istnieje w %s, anuluj istniejący raport w celu dodania nowego.",
-    "LBL_BTN_ACCEPT_AUTOMATICALLY": "Akceptuj automatycznie",
-    "LBL_BTN_ACCEPT_MANUALLY": "Akceptuj ręcznie",
-    "LBL_BTN_SEND_AUTOMATICALLY": "Wyślij automatycznie",
-    "LBL_BTN_SEND_MANUALLY": "Wyślij ręcznie",
-    "LBL_SYNCH_PAID_FEATURE": "Synchronizacja z publicznym serwerem RBL (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) jest funkcjonalnością płatną. Aby aktywować synchronizację i otrzymywać cały czas aktualizacje o nowych niebezpiecznych serwerach pocztowych, przejdź do %s"
+    "BTN_RBL_CONFIG": "Konfiguracja RBL (Realtime Blackhole List)",
+    "LBL_ACCEPT_AUTOMATICALLY": "Akceptuj automatycznie",
+    "LBL_ACCEPT_AUTOMATICALLY_DESC": "Domyślnie każdy raport RBL (Realtime Blackhole List) jest dodany do listy raportów, które mają zostać zweryfikowane. Gdy ta opcja jest włączona, wszystkie raporty zostaną zaakceptowane natychmiast i dodane do listy do wysłania. Zalecamy ręczną weryfikację wszystkich raportów w celu uniknięcia przypadkowego lub niepoprawnego kolejkowania wiadomości. ",
+    "LBL_SEND_REPORT_AUTOMATICALLY": "Wyślij automatycznie",
+    "LBL_SEND_REPORT_AUTOMATICALLY_DESC": "Parametr umożliwiający automatyczne wysyłanie raportu do centralnej bazy danych RBL (Realtime Blackhole List) po zweryfikowaniu wiadomości e-mail. Raporty do białej listy wysyłają tylko nagłówki wiadomości, raporty do czarnej listy wysyłają cały e-mail. System CRM może działać bezproblemowo bez wysyłania raportów.",
+    "LBL_ACTIVATE_RBL_LIST": "Sprawdź nadawcę na liście e-mail w kliencie poczty",
+    "LBL_ACTIVATE_RBL_LIST_DESC": "Włączenie tej opcji spowolni ładowanie wiadomości e-mail w zależności od prędkości połączenia i serwera e-mail. Gdy nadawca zostanie zweryfikowany, system wyświetli (zmieniając kolor tła) czy nadawca jest zaufany czy nie.",
+    "LBL_ACTIVATE_RBL_DETAIL": "Sprawdź nadawcę w podglądzie wiadomości w kliencie poczty",
+    "LBL_ACTIVATE_RBL_DETAIL_DESC": "Włączenie tej opcji spowoduje, że podgląd poczty wyświetli pasek informujący, czy nadawca jest zaufany lub czy został dodany lokalnie/publicznie do czarnej listy.",
+    "LBL_SYNCH_PAID_FEATURE": "Synchronizacja z publicznym serwerem RBL (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) jest funkcjonalnością płatną. Aby aktywować synchronizację i otrzymywać cały czas aktualizacje o nowych niebezpiecznych serwerach pocztowych, przejdź do %s",
+    "LBL_IP_ALREADY_EXISTS_LIST": "Adres IP już istnieje na liście:"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Pokaż szczegóły",

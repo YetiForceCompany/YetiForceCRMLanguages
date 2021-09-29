@@ -1,7 +1,7 @@
 {
   "php": {
     "ApprovalsRegister": "Approvals register",
-    "SINGLE_ApprovalsRegister": "Approval Register",
+    "SINGLE_ApprovalsRegister": "Schvaľovací register",
     "LBL_CUSTOM_INFORMATION": "Vlastné Informácie",
     "LBL_BASIC_INFORMATION": "Základné informácie",
     "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",

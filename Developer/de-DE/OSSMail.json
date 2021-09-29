@@ -94,7 +94,13 @@
     "LBL_ALERT_FAKE_MAIL": "Vorsicht bei dieser Nachricht, es lässt sich nicht prüfen, ob die Nachricht tatsächlich von der Adresse des Absenders gesendet wurde.\nKlicken Sie daher keine Links, laden Sie keine Anhänge herunter und geben Sie keine persönliche Informationen als Antwort an.",
     "LBL_ALERT_FAKE_SENDER": "Vorsicht bei dieser Nachricht, die E-Mail-Adresse im Absender-Feld wurde gefälscht.\nKlicken Sie daher keine Links, laden Sie keine Anhänge herunter und geben Sie keine persönliche Informationen als Antwort an.",
     "BTN_ANALYSIS_DETAILS": "Analyse-Details",
-    "LBL_MESSAGE_HAS_BEEN_ADDED": "Die Nachricht wurde hinzugefügt"
+    "LBL_NO_IP_ADDRESS": "The sender's IP address was not found",
+    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Report sent to a local RBL base",
+    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Report sent to a public RBL base",
+    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
+    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
+    "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Die Nachricht wurde hinzugefügt"
   },
   "js": {
     "NoFindEmailInRecord": "Datensatz hat keine E-Mail-Adresse",

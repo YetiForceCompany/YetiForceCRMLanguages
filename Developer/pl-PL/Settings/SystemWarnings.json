@@ -6,6 +6,8 @@
 		"LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Liczba potencjalnych zgłoszeń o spamie oczekujących na weryfikację: %s",
 		"LBL_CHECK_BLACKLIST_REPORTS": "Poczta RBL - zgłoszenia na czarnej liście",
 		"LBL_CHECK_BLACKLIST_REPORTS_DESC": "Liczba zaakceptowanych zgłoszeń o spamie na czarnej liście: %s",
+		"LBL_CHECK_SUSPENDED_ACCOUNTS": "Zawieszone konta email",
+		"LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Lista zawieszonych kont email: %s",
 		"LBL_LIBRARY_ROUNDCUBE": "Biblioteka Roundcube",
 		"LBL_LIBRARY_PHPEXCEL": "Biblioteka PHPExcel",
 		"LBL_CONFIG_REPORT": "Konfiguracja serwera",
