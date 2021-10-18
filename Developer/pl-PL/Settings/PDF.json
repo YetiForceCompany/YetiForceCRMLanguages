@@ -156,7 +156,9 @@
     "B": "B",
     "A": "A",
     "DEMY": "Demy",
-    "ROYAL": "Royal"
+    "ROYAL": "Royal",
+    "PLL_ACTIVE": "Aktywna",
+    "PLL_INACTIVE": "Nieaktywna"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "Szablon pdf został zapisany.",

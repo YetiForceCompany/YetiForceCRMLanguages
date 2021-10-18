@@ -156,7 +156,9 @@
     "B": "B",
     "A": "A",
     "DEMY": "Demy",
-    "ROYAL": "Kraljevo"
+    "ROYAL": "Kraljevo",
+    "PLL_ACTIVE": "Aktiven",
+    "PLL_INACTIVE": "Neaktiven"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "PDF predloga shranjena .",

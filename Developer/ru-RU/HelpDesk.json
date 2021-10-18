@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Статус обновлен в выбранных записях",
     "LBL_UPDATE": "Обновить",
     "LBL_ADD_TIME_CONTROL": "Добавьте рабочее время до закрытия заявки",
-    "LBL_CLOSE_RELATED_TICKETS": "Перед закрытием этой заявки, закройте связанные тикеты"
+    "LBL_CLOSE_RELATED_TICKETS": "Перед закрытием этой заявки, закройте связанные тикеты",
+    "LBL_HELPDESK_DEPENDENTS": "Заявки",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

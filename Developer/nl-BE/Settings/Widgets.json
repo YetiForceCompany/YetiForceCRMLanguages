@@ -68,7 +68,8 @@
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
     "InventoryBlock": "Inventaris blok",
-    "LBL_DEFAULT_ACTIVE": "Standaard actief"
+    "LBL_DEFAULT_ACTIVE": "Standaard actief",
+    "LBL_RELATED_FIELDS": "Related fields"
   },
   "js": {
     "Loading data": "Loading...",

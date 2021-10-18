@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Status posodobljen v izbrani zapisi",
     "LBL_UPDATE": "Posodobitev",
     "LBL_ADD_TIME_CONTROL": "Dodaj delovni čas, preden zaprete ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Preden zaprete to ticket, zaprite pripadajoče ticket"
+    "LBL_CLOSE_RELATED_TICKETS": "Preden zaprete to ticket, zaprite pripadajoče ticket",
+    "LBL_HELPDESK_DEPENDENTS": "Reklamacije",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

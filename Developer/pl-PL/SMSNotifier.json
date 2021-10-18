@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Wszystkie SMS-y są wysłane w cronie.",
     "LBL_CHECK_STATUS": "Sprawdź status",
     "message": "Wiadomość",
-    "LBL_SMSNOTIFIER_INFORMATION": "Informacje o wiadomości"
+    "LBL_SMSNOTIFIER_INFORMATION": "Informacje o wiadomości",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Dodano wiadomości SMS do kolejki"
   }
 }

@@ -1812,7 +1812,7 @@
     "JS_FROM": "Od",
     "JS_TO": "Do",
     "JS_DELETE": "Usuń",
-    "JS_DELETE_FILE_CONFIRMATION": "Czy na pewno chcesz usunąć plik",
+    "JS_DELETE_FILE_CONFIRMATION": "Czy na pewno chcesz usunąć plik?",
     "JS_DELETE_FILE": "Usuwanie pliku",
     "JS_ZOOM_IN": "Powiększ",
     "JS_FILE_UPLOAD_ERROR": "Nie udało się wgrać pliku na serwer",

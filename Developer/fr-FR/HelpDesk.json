@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Statut mis à jour dans les enregistrements sélectionnés",
     "LBL_UPDATE": "Mise à jour",
     "LBL_ADD_TIME_CONTROL": "Ajouter le temps de travail avant de fermer le ticket\n",
-    "LBL_CLOSE_RELATED_TICKETS": "Avant de fermer ce billet, fermez les tickets connexes"
+    "LBL_CLOSE_RELATED_TICKETS": "Avant de fermer ce billet, fermez les tickets connexes",
+    "LBL_HELPDESK_DEPENDENTS": "Tickets",
+    "LBL_HELPDESK_RELATED": "Billets (M:M)"
   }
 }

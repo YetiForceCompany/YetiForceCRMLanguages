@@ -143,7 +143,7 @@
     "ON_FIRST_SAVE": "Створення запису",
     "ON_MODIFY": "Змінення запису",
     "ON_DELETE": "Видалення запису",
-    "TRIGGER": "Ручний запуску користувачем",
+    "TRIGGER": "Ручний запуск користувачем",
     "BLOCK_EDIT": "Блокувати редагування",
     "ON_SCHEDULE": "Розклад виконання (визначений проміжок часу)",
     "EmailTempleteList": "Select an email template to be sent",

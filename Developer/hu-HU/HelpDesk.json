@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Állapot frissítve a kijelölt bejegyzések",
     "LBL_UPDATE": "Frissítés",
     "LBL_ADD_TIME_CONTROL": "Munkaidő hozzáadása mielőtt bezárja a jegyet",
-    "LBL_CLOSE_RELATED_TICKETS": "Mielőtt bezárja ezt a jegyet, bezárja a kapcsolódó jegyeket"
+    "LBL_CLOSE_RELATED_TICKETS": "Mielőtt bezárja ezt a jegyet, bezárja a kapcsolódó jegyeket",
+    "LBL_HELPDESK_DEPENDENTS": "Tickets",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

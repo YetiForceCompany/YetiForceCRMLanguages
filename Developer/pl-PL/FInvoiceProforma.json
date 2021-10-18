@@ -13,6 +13,11 @@
     "FL_TOTAL": "Netto",
     "FL_GROSS": "Brutto",
     "PLL_WIRE_TRANSFER": "Przelew elektroniczny",
-    "FL_PAYMENT_SUM": "Suma wpłat"
+    "FL_PAYMENT_SUM": "Suma wpłat",
+    "FL_PAYMENT_STATUS": "Status płatności",
+    "PLL_NOT_PAID": "Nieopłacona",
+    "PLL_PAID": "Opłacona",
+    "PLL_OVERPAID": "Nadpłata",
+    "PLL_UNDERPAID": "Niedopłata"
   }
 }

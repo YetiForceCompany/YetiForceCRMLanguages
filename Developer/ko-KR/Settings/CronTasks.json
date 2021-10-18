@@ -14,6 +14,7 @@
     "LBL_DURATION": "지속시간",
     "Id": "Id",
     "Last End": "종료된 마지막 스캔",
+    "Last update": "Last update",
     "Last Start": "시작된 마지막 스캔",
     "LBL_ACTIVE": "활성",
     "LBL_COMPLETED": "완료됨",

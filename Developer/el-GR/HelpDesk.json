@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Η κατάσταση ενημερώθηκε στις επιλεγμένες εγγραφές",
     "LBL_UPDATE": "Ενημέρωση",
     "LBL_ADD_TIME_CONTROL": "Πρόσθεσε χρόνο εργασίας πριν κλείσεις το ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Πριν κλείσεις το ticket, κλείσε τα σχετικά tickets"
+    "LBL_CLOSE_RELATED_TICKETS": "Πριν κλείσεις το ticket, κλείσε τα σχετικά tickets",
+    "LBL_HELPDESK_DEPENDENTS": "Αιτήματα Υποστήριξης",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

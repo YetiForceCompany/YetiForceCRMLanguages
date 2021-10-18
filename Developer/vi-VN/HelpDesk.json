@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Trạng thái đã được cập nhật cho biểu ghi đã chọn",
     "LBL_UPDATE": "Cập nhật",
     "LBL_ADD_TIME_CONTROL": "Thêm thời gian làm việc trước khi bạn đóng yêu cầu",
-    "LBL_CLOSE_RELATED_TICKETS": "Trước khi bạn đóng yêu cầu này này, hãy đóng yêu cầu liên quan"
+    "LBL_CLOSE_RELATED_TICKETS": "Trước khi bạn đóng yêu cầu này này, hãy đóng yêu cầu liên quan",
+    "LBL_HELPDESK_DEPENDENTS": "Vé hỗ trợ",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

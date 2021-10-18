@@ -1499,7 +1499,13 @@
     "LBL_PWD_AUTO_GENERATE": "Generuj hasło",
     "LBL_PWD_GET": "Wczytaj hasło",
     "LBL_PWD_CLIPBOARD_DBCLICK": "Kliknij dwukrotnie, aby uzyskać hasło",
-    "LBL_PWD_USER_PASSWORD_OK": "Hasło jest zgodne z wymaganiami systemu."
+    "LBL_PWD_USER_PASSWORD_OK": "Hasło jest zgodne z wymaganiami systemu.",
+    "LBL_QUICK_EXPORT_INFO": "Pola z bieżącego widoku listy zostaną wyeksportowane, jeśli nie wybrano żadnych pól",
+    "LBL_EXPORT_USER_FORMAT_ALERT": "Wszystkie eksportowane dane są w formacie użytkownika, czyli przeformatowane zgodnie z ustawieniami danych aktualnie zalogowanego użytkownika, np. data, czas, formatowanie liczb",
+    "LBL_USER_FORMAT_DATA_CANNOT_BE_IMPORTED": "Dane w formacie użytkownika nie mogą zostać zaimportowane do systemu",
+    "LBL_MASS_EDIT_INCLUDE_INFO": "Zaznaczenie pola spowoduje dodanie wartości do już istniejących",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Ta funkcjonalność jest dostępna po rejestracji.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "System nie został zarejestrowany. Zarejestruj swój system YetiForce CRM, aby uzyskać dostęp do tej części systemu."
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1821,7 +1827,7 @@
     "JS_FROM": "Od",
     "JS_TO": "Do",
     "JS_DELETE": "Usuń",
-    "JS_DELETE_FILE_CONFIRMATION": "Czy na pewno chcesz usunąć plik",
+    "JS_DELETE_FILE_CONFIRMATION": "Czy na pewno chcesz usunąć plik?",
     "JS_DELETE_FILE": "Usuwanie pliku",
     "JS_ZOOM_IN": "Powiększ",
     "JS_FILE_UPLOAD_ERROR": "Nie udało się wgrać pliku na serwer",

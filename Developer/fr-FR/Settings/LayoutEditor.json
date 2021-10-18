@@ -29,7 +29,7 @@
     "LBL_DECIMALS": "Décimales",
     "LBL_DEFAULT_VALUE": "Valeur par défaut",
     "LBL_DELETE_CUSTOM_BLOCK": "Supprimer bloc personalisé",
-    "LBL_DETAILVIEW_LAYOUT": "Disposition de la vue détaillée",
+    "LBL_DETAILVIEW_LAYOUT": "Fields and blocks",
     "LBL_DUPLICATE_FIELD_EXISTS": "Un champ doublon existe",
     "LBL_FIELD_NAME_IS_RESERVED": "Nom de champ réservé",
     "LBL_DUPLICATES_EXIST": "Le nom du bloc existe déjà",
@@ -77,6 +77,7 @@
     "LBL_DISPLAY_TYPE_2": "Champ visible seulement en prévisualisation, édition impossible",
     "LBL_DISPLAY_TYPE_3": "Champ visible seulement en vue liste",
     "LBL_DISPLAY_TYPE_4": "Champ visible seulement en création et en prévisualisation, nmodification impossible",
+    "LBL_DISPLAY_TYPE_9": "Field visible everywhere, read only in editing",
     "LBL_DISPLAY_TYPE_10": "Champ visible partout, édition impossible",
     "LBL_HELP_INFO": "Icône aide",
     "LBL_GENERATED_TYPE": "Champ basique",
@@ -210,7 +211,13 @@
     "LBL_FIELD_ICON": "Icon",
     "LBL_ANONYMIZATION_LOGS": "Logs",
     "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Updates - display",
-    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database"
+    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database",
+    "BTN_WEBSERVICE_APP_EDIT": "Edit field configuration",
+    "LBL_WSA_VISIBILITY": "Visibilité",
+    "LBL_WSA_VISIBILITY_DEFAULT": "According to the field configuration",
+    "LBL_LOGGED_CONTACT": "Contact currently logged in",
+    "LBL_ACTIVE_ACCOUNT": "Account currently active",
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nom du bloc existe déjà",

@@ -77,6 +77,7 @@
     "LBL_DISPLAY_TYPE_2": "Pole widoczne w podglądzie, nieedytowalne",
     "LBL_DISPLAY_TYPE_3": "Pole widoczne wyłącznie w widoku listy",
     "LBL_DISPLAY_TYPE_4": "Pole widoczne wyłącznie podczas tworzenia i podglądzie, nie można dokonywać na nim zmian",
+    "LBL_DISPLAY_TYPE_9": "Pole widoczne wszędzie, tylko do odczytu w edycji",
     "LBL_DISPLAY_TYPE_10": "Pole widoczne wszędzie, nieedytowalne",
     "LBL_HELP_INFO": "Ikona pomocy",
     "LBL_GENERATED_TYPE": "Systemowe",
@@ -210,7 +211,13 @@
     "LBL_FIELD_ICON": "Ikona",
     "LBL_ANONYMIZATION_LOGS": "Logi",
     "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Historia zmian - wyświetlanie",
-    "LBL_ANONYMIZATION_MODTRACKER_DB": "Historia zmian - baza danych"
+    "LBL_ANONYMIZATION_MODTRACKER_DB": "Historia zmian - baza danych",
+    "BTN_WEBSERVICE_APP_EDIT": "Edytuj konfigurację pól",
+    "LBL_WSA_VISIBILITY": "Widoczność",
+    "LBL_WSA_VISIBILITY_DEFAULT": "Zgodnie z konfiguracją pól",
+    "LBL_LOGGED_CONTACT": "Kontakt jest aktualnie zalogowany",
+    "LBL_ACTIVE_ACCOUNT": "Kontrahent obecnie aktywny",
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Kontrahent obecnie zalogowanego kontaktu"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

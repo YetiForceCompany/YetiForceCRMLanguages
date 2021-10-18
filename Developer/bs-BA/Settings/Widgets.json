@@ -68,7 +68,8 @@
     "Documents": "Dokumenti",
     "LBL_SHOW_DOC_RELATIONS": "Lista povezanih relacija",
     "InventoryBlock": "Blok inventara",
-    "LBL_DEFAULT_ACTIVE": "Prema zadanim postavkama aktivan"
+    "LBL_DEFAULT_ACTIVE": "Prema zadanim postavkama aktivan",
+    "LBL_RELATED_FIELDS": "Related fields"
   },
   "js": {
     "Loading data": "Učitavanje...",

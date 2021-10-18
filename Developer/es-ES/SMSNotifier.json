@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Todos los mensajes serán enviados mediante CRON",
     "LBL_CHECK_STATUS": "Comprobar estado",
     "message": "Mensaje",
-    "LBL_SMSNOTIFIER_INFORMATION": "Información sobre el SMS"
+    "LBL_SMSNOTIFIER_INFORMATION": "Información sobre el SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

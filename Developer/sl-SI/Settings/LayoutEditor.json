@@ -29,7 +29,7 @@
     "LBL_DECIMALS": "Decimalke",
     "LBL_DEFAULT_VALUE": "Privzeta vrednost",
     "LBL_DELETE_CUSTOM_BLOCK": "Izbriši sklop po meri",
-    "LBL_DETAILVIEW_LAYOUT": "Podrobni pogled postavitev",
+    "LBL_DETAILVIEW_LAYOUT": "Fields and blocks",
     "LBL_DUPLICATE_FIELD_EXISTS": "Podvojeno polje že obstaja",
     "LBL_FIELD_NAME_IS_RESERVED": "Ime polja je rezervirana",
     "LBL_DUPLICATES_EXIST": "Ime sklopa že obstaja",
@@ -77,6 +77,7 @@
     "LBL_DISPLAY_TYPE_2": "Polje je vidno samo v predogledu, ni ga mogoče urejati",
     "LBL_DISPLAY_TYPE_3": "Polja vidno le v pogledu seznama",
     "LBL_DISPLAY_TYPE_4": "Polje je vidno samo med dodajanjem in v predogledu, ni mogoče spreminjati",
+    "LBL_DISPLAY_TYPE_9": "Field visible everywhere, read only in editing",
     "LBL_DISPLAY_TYPE_10": "Polje vidno povsod, ni ga mogoče urejati",
     "LBL_HELP_INFO": "Ikona za pomoč",
     "LBL_GENERATED_TYPE": "Osnovno polje",
@@ -210,7 +211,13 @@
     "LBL_FIELD_ICON": "Ikona",
     "LBL_ANONYMIZATION_LOGS": "Logs",
     "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Updates - display",
-    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database"
+    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database",
+    "BTN_WEBSERVICE_APP_EDIT": "Edit field configuration",
+    "LBL_WSA_VISIBILITY": "Visibility",
+    "LBL_WSA_VISIBILITY_DEFAULT": "According to the field configuration",
+    "LBL_LOGGED_CONTACT": "Contact currently logged in",
+    "LBL_ACTIVE_ACCOUNT": "Account currently active",
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

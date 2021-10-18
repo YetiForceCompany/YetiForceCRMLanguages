@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "모든 문자 메시지는 cron으로 전송됩니다.",
     "LBL_CHECK_STATUS": "상태 확인",
     "message": "메시지",
-    "LBL_SMSNOTIFIER_INFORMATION": "SMS 정보"
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS 정보",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

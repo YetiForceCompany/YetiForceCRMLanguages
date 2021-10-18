@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Vsa tekstovna sporočila so bila poslana v Cron",
     "LBL_CHECK_STATUS": "Preveri status",
     "message": "Sporočilo",
-    "LBL_SMSNOTIFIER_INFORMATION": "Podatki o SMS"
+    "LBL_SMSNOTIFIER_INFORMATION": "Podatki o SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

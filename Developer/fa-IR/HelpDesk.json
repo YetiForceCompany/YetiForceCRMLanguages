@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "وضعیت در رکوردهای انتخاب شده به روز شد",
     "LBL_UPDATE": "به روز رسانی",
     "LBL_ADD_TIME_CONTROL": "افزودن زمان‌ کارکرد قبل از بستن تیکت",
-    "LBL_CLOSE_RELATED_TICKETS": "قبل از بستن این تیکت ، بلیط های تیکت را ببندید"
+    "LBL_CLOSE_RELATED_TICKETS": "قبل از بستن این تیکت ، بلیط های تیکت را ببندید",
+    "LBL_HELPDESK_DEPENDENTS": "تیکت ها",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

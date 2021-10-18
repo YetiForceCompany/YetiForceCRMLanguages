@@ -14,6 +14,7 @@
     "LBL_DURATION": "持续时间",
     "Id": "ID编号",
     "Last End": "上次扫描已结束",
+    "Last update": "Last update",
     "Last Start": "上次扫描已开始",
     "LBL_ACTIVE": "启用",
     "LBL_COMPLETED": "已完成",

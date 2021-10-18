@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "تمام پیام های متنی در cron ارسال می شود",
     "LBL_CHECK_STATUS": "بررسی وضعیت",
     "message": "پیام",
-    "LBL_SMSNOTIFIER_INFORMATION": "اطلاعات SMS"
+    "LBL_SMSNOTIFIER_INFORMATION": "اطلاعات SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

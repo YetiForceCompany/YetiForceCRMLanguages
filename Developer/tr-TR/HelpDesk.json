@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Seçilen kayıtlarda durum güncellendi",
     "LBL_UPDATE": "Güncelle",
     "LBL_ADD_TIME_CONTROL": "Ticketi kapatmadan önce çalışma süresini ekleyin",
-    "LBL_CLOSE_RELATED_TICKETS": "Bu talebi kapatmadan önce bağlı destek taleplerini kapatın"
+    "LBL_CLOSE_RELATED_TICKETS": "Bu talebi kapatmadan önce bağlı destek taleplerini kapatın",
+    "LBL_HELPDESK_DEPENDENTS": "Destekler",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

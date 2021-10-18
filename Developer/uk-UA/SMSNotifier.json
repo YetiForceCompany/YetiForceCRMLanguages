@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Всі текстові повідомлення надсилаються через cron",
     "LBL_CHECK_STATUS": "Перевірити статус",
     "message": "Повідомлення",
-    "LBL_SMSNOTIFIER_INFORMATION": "Інформація SMS"
+    "LBL_SMSNOTIFIER_INFORMATION": "Інформація SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

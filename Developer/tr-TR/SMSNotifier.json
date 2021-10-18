@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Tüm metin mesajları cron'da gönderilir",
     "LBL_CHECK_STATUS": "Durumu kontrol et",
     "message": "Mesaj",
-    "LBL_SMSNOTIFIER_INFORMATION": "SMS bilgileri"
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS bilgileri",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

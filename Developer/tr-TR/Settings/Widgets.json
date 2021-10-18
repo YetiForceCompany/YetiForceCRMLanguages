@@ -68,7 +68,8 @@
     "Documents": "Documents",
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
     "InventoryBlock": "Inventory block",
-    "LBL_DEFAULT_ACTIVE": "Varsayılan Olarak Etkinleştir"
+    "LBL_DEFAULT_ACTIVE": "Varsayılan Olarak Etkinleştir",
+    "LBL_RELATED_FIELDS": "Related fields"
   },
   "js": {
     "Loading data": "Loading...",

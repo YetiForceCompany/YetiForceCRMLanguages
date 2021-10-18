@@ -29,7 +29,7 @@
     "LBL_DECIMALS": "Δεκαδικά ψηφία",
     "LBL_DEFAULT_VALUE": "Προεπιλεγμένη τιμή",
     "LBL_DELETE_CUSTOM_BLOCK": "Διαγραφή προσαρμοσμένου μπλοκ",
-    "LBL_DETAILVIEW_LAYOUT": "Πεδία και μπλοκ",
+    "LBL_DETAILVIEW_LAYOUT": "Fields and blocks",
     "LBL_DUPLICATE_FIELD_EXISTS": "Αυτό το πεδίο υπάρχει ήδη",
     "LBL_FIELD_NAME_IS_RESERVED": "Το όνομα πεδίου είναι δεσμευμένο",
     "LBL_DUPLICATES_EXIST": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",
@@ -77,6 +77,7 @@
     "LBL_DISPLAY_TYPE_2": "Πεδίο ορατό μόνο στην προεπισκόπηση, μη επεξεργάσιμο",
     "LBL_DISPLAY_TYPE_3": "Πεδίο ορατό μόνο σε προβολή λίστας",
     "LBL_DISPLAY_TYPE_4": "Πεδίο ορατό μόνο κατά τη δημιουργία και στην προεπισκόπηση, δεν μπορεί να τροποποιηθεί",
+    "LBL_DISPLAY_TYPE_9": "Field visible everywhere, read only in editing",
     "LBL_DISPLAY_TYPE_10": "Πεδίο ορατό παντού, μη επεξεργάσιμο",
     "LBL_HELP_INFO": "Εικονίδιο βοήθειας",
     "LBL_GENERATED_TYPE": "Βασικό πεδίο",
@@ -210,7 +211,13 @@
     "LBL_FIELD_ICON": "Icon",
     "LBL_ANONYMIZATION_LOGS": "Logs",
     "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Updates - display",
-    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database"
+    "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database",
+    "BTN_WEBSERVICE_APP_EDIT": "Edit field configuration",
+    "LBL_WSA_VISIBILITY": "Visibility",
+    "LBL_WSA_VISIBILITY_DEFAULT": "According to the field configuration",
+    "LBL_LOGGED_CONTACT": "Contact currently logged in",
+    "LBL_ACTIVE_ACCOUNT": "Account currently active",
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

@@ -68,7 +68,8 @@
     "Documents": "Dokumenty",
     "LBL_SHOW_DOC_RELATIONS": "Lista z powiązanych relacji",
     "InventoryBlock": "Blok inwentarza",
-    "LBL_DEFAULT_ACTIVE": "Domyślnie aktywny"
+    "LBL_DEFAULT_ACTIVE": "Domyślnie aktywny",
+    "LBL_RELATED_FIELDS": "Pola relacyjne"
   },
   "js": {
     "Loading data": "Ładowanie danych...",

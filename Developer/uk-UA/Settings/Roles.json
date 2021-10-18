@@ -36,7 +36,7 @@
     "LBL_PERMISSIONS_TO_EDIT_RELATED_RECORDS": "Дозволити редагування записів, пов'язане з нашими записами, (якщо ми вже не є власником запису)",
     "LBL_PERMISSIONS_FIELD_RELATED_RECORDS": "Доступ для пов'язаних записів на основі",
     "LBL_PERMITTED_BY_READ_ACCESS": "Доступ до запису",
-    "LBL_PERMITTED_BY_SHARING": "Access permission exceptions",
+    "LBL_PERMITTED_BY_SHARING": "Винятки з політики доступу",
     "LBL_INACTIVE": "Неактивний",
     "LBL_ONLY_PARENT": "Основний запис",
     "LBL_ACCORDING_TO_HIERARCHY": "Відповідно до ієрархії",

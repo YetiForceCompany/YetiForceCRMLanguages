@@ -1407,7 +1407,7 @@
     "LBL_FIELD_HREF": "Link-Spalte",
     "LBL_FIELD_HREF_TOOLTIP": "Wenn Sie das Labelfeld auswählen, wird das in der Liste sichtbare Symbol ausgeblendet. Danach wird das ausgewählte Feld in einen Link umgewandelt.",
     "LBL_SORTING_SETTINGS": "Sortiereinstellungen",
-    "LBL_CHANGE_RELATION_DATA": "Zusätzliche Daten ändern",
+    "LBL_CHANGE_RELATION_DATA": "Change additional data",
     "LBL_EMPTY_DASHBOARD": "Ausgewähltes Dashboard ist leer.",
     "LBL_EDIT_COLOR": "Farbe bearbeiten",
     "LBL_SELECT_COLOR": "Farbe auswählen:",
@@ -1499,7 +1499,13 @@
     "LBL_PWD_AUTO_GENERATE": "Generate a password",
     "LBL_PWD_GET": "Load password",
     "LBL_PWD_CLIPBOARD_DBCLICK": "Double click to get the password",
-    "LBL_PWD_USER_PASSWORD_OK": "Password complies with the system requirements."
+    "LBL_PWD_USER_PASSWORD_OK": "Password complies with the system requirements.",
+    "LBL_QUICK_EXPORT_INFO": "The fields from the current list view will be exported if no fields are selected",
+    "LBL_EXPORT_USER_FORMAT_ALERT": "All exported data are in the user's format, that means converted according to the settings of the currently logged in user, such as date, time, number formatting",
+    "LBL_USER_FORMAT_DATA_CANNOT_BE_IMPORTED": "User format data cannot be imported into the system",
+    "LBL_MASS_EDIT_INCLUDE_INFO": "Checking the field will result in adding the values to the already existing ones",
+    "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system."
   },
   "js": {
     "JS_APPROVE": "Genehmigen",

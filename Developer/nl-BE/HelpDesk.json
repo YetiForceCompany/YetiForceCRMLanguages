@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "Status bijgewerkt in geselecteerde records",
     "LBL_UPDATE": "Bijwerken",
     "LBL_ADD_TIME_CONTROL": "Arbeidstijd toevoegen voordat u het ticket sluit",
-    "LBL_CLOSE_RELATED_TICKETS": "Voordat u dit ticket sluit, sluit u gerelateerde tickets"
+    "LBL_CLOSE_RELATED_TICKETS": "Voordat u dit ticket sluit, sluit u gerelateerde tickets",
+    "LBL_HELPDESK_DEPENDENTS": "Tickets",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

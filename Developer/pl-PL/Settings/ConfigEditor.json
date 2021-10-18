@@ -16,7 +16,15 @@
     "LBL_CONFIG_EDITOR": "System - konfiguracja",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Aktualizuj plik konfiguracyjny aplikacji",
     "LBL_MAX_UPLOAD_SIZE": "Maksymalna wielkość upload-u",
-    "LBL_MB": "MB"
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "Relacja",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "Maksymalna długość komentarza widocznego w powiązanym rekordzie",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "Te pola są dostępne w niektórych relacjach, np. w zakładce Produkty i usługi w module Kontrahenta",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "Pokaż nazwy modułów powiązanych w zakładkach",
+    "LBL_RELATION_SHOW_RELATED_ICON": "Pokaż ikony w powiązanych zakładkach",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "Pokaż liczbę rekordów w zakładkach powiązanych modułów",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Oddziel przyciski akcji zmiany dodatkowych danych",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Przycisk określa specjalny typ danych przynależny tylko do relacji, dostępny np. w module Wydarzenia"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Szczegóły konfiguracji zostały zapisane",

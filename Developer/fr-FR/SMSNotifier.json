@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Tous les SMS sont envoyé par tâche planifié",
     "LBL_CHECK_STATUS": "Vérifier le statut",
     "message": "Message",
-    "LBL_SMSNOTIFIER_INFORMATION": "Information SMS"
+    "LBL_SMSNOTIFIER_INFORMATION": "Information SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

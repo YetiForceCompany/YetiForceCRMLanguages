@@ -90,6 +90,8 @@
     "LBL_MASS_STATUS_UPDATED": "選択したレコードでステータスが更新されました",
     "LBL_UPDATE": "更新",
     "LBL_ADD_TIME_CONTROL": "チケットを閉じる前に作業時間を追加してください",
-    "LBL_CLOSE_RELATED_TICKETS": "このチケットを閉じる前に、関連するチケットを閉じる"
+    "LBL_CLOSE_RELATED_TICKETS": "このチケットを閉じる前に、関連するチケットを閉じる",
+    "LBL_HELPDESK_DEPENDENTS": "チケット",
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

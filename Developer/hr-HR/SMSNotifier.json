@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Sve tekstualne poruke poslane u cron",
     "LBL_CHECK_STATUS": "Provjeri status",
     "message": "Poruka",
-    "LBL_SMSNOTIFIER_INFORMATION": "SMS informacije"
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS informacije",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }

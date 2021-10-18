@@ -20,6 +20,7 @@
     "LBL_MASS_SEND_SMS_INFO": "Alle Texmeldungen wurden im CRON versendet",
     "LBL_CHECK_STATUS": "Status prüfen",
     "message": "Nachricht",
-    "LBL_SMSNOTIFIER_INFORMATION": "SMS Information"
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS Information",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
   }
 }
