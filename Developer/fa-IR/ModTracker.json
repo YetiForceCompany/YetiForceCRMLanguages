@@ -36,7 +36,7 @@
     "LBL_REMOVED": "حذف نمود",
     "LBL_CONVERTED_FROM_LEAD": "تبدیل شده از سرنخ فروش",
     "LBL_DELETED": "رکورد را حذف نمود",
-    "LBL_DELETED_VALUE": "Deleted value",
+    "LBL_DELETED_VALUE": "مقدار حذف شده",
     "LBL_ACTIVE": "بازیابی نمود",
     "LBL_ARCHIVED": "بایگانی نمود",
     "LBL_TRANSFER_EDIT": "رکورد در فرآیند انتقال تغییر کرد",
@@ -49,6 +49,6 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "تنظیمات ویجت پیکربندی",
     "LBL_PERSON_MAKING_CHANGES": "فرد ایجاد کننده تغییرات",
     "LBL_MODULES": "ماژول ها",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "نمایش داده‌های پنهان"
   }
 }

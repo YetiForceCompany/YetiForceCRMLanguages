@@ -157,8 +157,8 @@
     "A": "A",
     "DEMY": "قطع کاغذ",
     "ROYAL": "رویال",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_ACTIVE": "فعال",
+    "PLL_INACTIVE": "غیرفعال"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "قالب PDF ذخیره شد.",

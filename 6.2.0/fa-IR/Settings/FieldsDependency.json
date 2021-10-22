@@ -7,7 +7,7 @@
     "LBL_EDIT": "Edit dependent",
     "LBL_CREATE": "Create new dependent",
     "LBL_SOURCE_MODULE": "Module name",
-    "LBL_VIEWS": "Views",
+    "LBL_VIEWS": "بازدیدها",
     "LBL_VIEWS_INFO": "List of views where fields are to be hidden/shown, if a view is not selected the fields will always be visible",
     "LBL_FIELDS_INFO": "List of fields that will be visible only if the conditions below are met",
     "LBL_GUI": "Dynamic fields",

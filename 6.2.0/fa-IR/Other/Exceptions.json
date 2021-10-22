@@ -46,9 +46,9 @@
     "ERR_CLASS_NOT_FOUND": "کلاس %s یافت نشد",
     "ERR_CLASS_MUST_BE": "کلاس باید %s باشد",
     "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it",
-    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
+    "ERR_TOKEN_DOES_NOT_EXIST": "توکن یا وجود ندارد یا منقضی شده است",
     "ERR_NO_TOKEN": "No token",
-    "ERR_INCORRECT_2FA_TOTP_CODE": "Incorrect 2FA TOTP code",
-    "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code"
+    "ERR_INCORRECT_2FA_TOTP_CODE": "کد 2FA TOTP نادرست",
+    "ERR_NO_2FA_TOTP_CODE": "کد 2FA TOTP موجود نیست"
   }
 }

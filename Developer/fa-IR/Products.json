@@ -76,7 +76,7 @@
     "LBL_IMPORT_STOCKTAKING": "Product stocktaking import",
     "LBL_STORAGE_QUANTITY_LOCATION": "Storage quantity location",
     "LBL_PRODUCTS_STORAGE_FIELD": "Inventory status based on the 'Available product quantity' field in products.",
-    "BTN_ANALYZE_FILE": "Analyze the file",
+    "BTN_ANALYZE_FILE": "فایل را تحلیل کن",
     "BTN_COMPARE_STOCK_LEVELS": "Compare stock levels",
     "LBL_ENTRIES_TO_UPDATE": "Entries to be updated",
     "LBL_NUMBER_ENTRIES_TO_UPDATE": "Number of entries to be updated",

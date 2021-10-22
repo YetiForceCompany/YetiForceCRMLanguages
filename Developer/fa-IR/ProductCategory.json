@@ -1,10 +1,10 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_PARENT_CATEGORY": "Parent category",
+    "ProductCategory": "دسته‌بندی محصول",
+    "SINGLE_ProductCategory": "دسته‌بندی محصول",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات دلخواه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_PARENT_CATEGORY": "دسته‌بندی والد",
     "LBL_CHILD_PRODUCTCATEGORY": "زیردسته ها",
     "FL_ACTIVE": "فعال",
     "FL_CATEGORY_NAME": "نام دسته"

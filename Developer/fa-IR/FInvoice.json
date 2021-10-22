@@ -41,7 +41,7 @@
     "PLL_PAID": "پرداخت شده",
     "PLL_OVERPAID": "پرداخت بیشتر شده",
     "PLL_UNDERPAID": "کم پرداخت شده",
-    "FL_PAYMENT_SUM": "Total payments",
-    "DW_SUM_FIELD": "Summation field"
+    "FL_PAYMENT_SUM": "مجموع پرداخت",
+    "DW_SUM_FIELD": "فیلد تجمیعی"
   }
 }
