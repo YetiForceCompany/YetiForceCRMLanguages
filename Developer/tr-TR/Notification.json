@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Bildirim gönder",
     "LBL_NOTIFICATION_SETTINGS": "Bildirim ayarları",
     "LBL_UNREAD": "Okunmamış",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Okunmamış bildirim yok"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Okunmamış bildirim yok",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Okundu olarak işaretlendi"

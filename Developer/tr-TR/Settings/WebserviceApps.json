@@ -16,8 +16,8 @@
     "LBL_PASS": "Password",
     "LBL_TITLE_ADDED": "Ekle",
     "LBL_TITLE_EDIT": "Düzenle",
-    "Portal": "Portal",
-    "RestApi": "REST API",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
     "Payments": "Payments",
     "ManageConsents": "Manage consents"
   },

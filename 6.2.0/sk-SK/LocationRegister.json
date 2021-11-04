@@ -20,15 +20,15 @@
     "FL_STREET": "Ulica",
     "FL_STATE": "State",
     "FL_POBOX": "PO Box",
-    "FL_LOCAL_NUMBER": "Office number",
-    "FL_POST_CODE": "Post code",
+    "FL_LOCAL_NUMBER": "Číslo kancelárie",
+    "FL_POST_CODE": "PSČ",
     "FL_CITY": "Mesto",
-    "FL_COUNTY": "County",
-    "FL_COUNTRY": "Country",
+    "FL_COUNTY": "Okres",
+    "FL_COUNTRY": "Krajina",
     "FL_TOWNSHIP": "Township",
     "LBL_DESCRIPTION": "Description",
     "FL_DESCRIPTION": "Description",
-    "FL_COMMENTS": "Comments",
-    "LBL_COMMENTS": "Comments"
+    "FL_COMMENTS": "Komentáre",
+    "LBL_COMMENTS": "Komentáre"
   }
 }

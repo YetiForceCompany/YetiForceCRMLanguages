@@ -16,8 +16,8 @@
     "LBL_PASS": "Κωδικόs πρόσβασης",
     "LBL_TITLE_ADDED": "Προσθήκη",
     "LBL_TITLE_EDIT": "Επεξεργασία",
-    "Portal": "Πύλη",
-    "RestApi": "REST API",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
     "Payments": "Πληρωμές",
     "ManageConsents": "Διαχείριση συναινέσεις"
   },

@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "إرسال الإشعارات",
     "LBL_NOTIFICATION_SETTINGS": "إعدادات الإشعارات",
     "LBL_UNREAD": "غير مقروءة",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "لا توجد إشعارات غير مقروءة"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "لا توجد إشعارات غير مقروءة",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "وضع علامة كمقروء"

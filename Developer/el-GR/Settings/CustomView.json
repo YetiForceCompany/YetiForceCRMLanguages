@@ -5,7 +5,7 @@
     "ViewName": "Όνομα",
     "SetDefault": "Προεπιλογή",
     "LBL_PRIVILEGES_TO_EDIT": "Επεξεργασία",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "Διαθεσιμότητα",
     "Delete": "Διαγραφή",
     "Delete CustomView": "Διαγράφτηκε",
     "Saving CustomView": "Αποθηκεύτηκε",
@@ -26,9 +26,9 @@
     "LBL_SORT_ASCENDING_ORDER": "Ταξινόμηση κατά αύξουσα σειρά",
     "LBL_SORT_DESCENDING_ORDER": "Ταξινόμηση κατά φθίνουσα σειρά",
     "LBL_ATTENTION": "Προειδοποίηση!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Μόνο ιδιωτικά φίλτρα μπορούν να λάβουν μερικά δικαιώματα",
+    "LBL_PUBLIC": "Δημόσιο",
+    "LBL_PRIVATE": "Ιδιωτικό"
   },
   "js": {
     "Saving changes": "Αποθήκευση των αλλαγών...",

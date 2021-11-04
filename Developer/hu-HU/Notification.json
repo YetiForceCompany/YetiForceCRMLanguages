@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Értesítések küldése",
     "LBL_NOTIFICATION_SETTINGS": "Értesítési beállítások",
     "LBL_UNREAD": "Olvasatlan",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Nincs olvasatlan értesítés"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Nincs olvasatlan értesítés",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Olvasottnak jelölve"

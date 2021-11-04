@@ -4,7 +4,7 @@
     "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Блокувати додавання або редагування запису коли одна з введених адрес електронної пошти вже існує",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Дублікат VAT ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
-    "PRODUCTS_DUPLICATEEAN_HANDLER": "Дублікат ean",
+    "PRODUCTS_DUPLICATEEAN_HANDLER": "Дублікат EAN",
     "PRODUCTS_DUPLICATEEAN_HANDLER_DESC": "Блокувати додавання або редагування запису коли такий EAN код вже існує",
     "IGDNC_IGDNEXIST_HANDLER": "Duplicate Goods Dispatched Note Correction",
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Dispatched Note Correction already exists",

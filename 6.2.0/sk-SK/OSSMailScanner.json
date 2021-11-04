@@ -75,7 +75,7 @@
     "Alert_active_cron_desc": "Could not find tasks in schedule for scanner module or one of the tasks is inactive. For email scanner to work properly it needs to have all tasks active for scanning module (MailScannerAction, MailScannerVerification)",
     "Alert_active_crontime": "Incorrect frequency of schedule calls.",
     "Alert_active_crontime_desc": "Call frequency of \"MailScannerAction\" task should be at least twice the frequency of \"MailScannerVerification\" task",
-    "All_folder": "All",
+    "All_folder": "Všetko",
     "Received": "Received",
     "Sent": "Sent",
     "Spam": "Spam",

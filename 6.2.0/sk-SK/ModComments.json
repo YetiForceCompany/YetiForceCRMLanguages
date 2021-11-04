@@ -2,7 +2,7 @@
   "php": {
     "SINGLE_ModComments": "Comment",
     "LBL_RECORDS_LIST": "Zonam komentárov",
-    "LBL_MODCOMMENTS_INFORMATION": "Comments",
+    "LBL_MODCOMMENTS_INFORMATION": "Komentáre",
     "LBL_OTHER_INFORMATION": "Other information",
     "LBL_ADDING_COMMENT": "Add comment",
     "LBL_WRITE_YOUR_COMMENT_HERE": "Enter comments here",

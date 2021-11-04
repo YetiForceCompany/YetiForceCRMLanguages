@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "发送通知",
     "LBL_NOTIFICATION_SETTINGS": "提醒设置",
     "LBL_UNREAD": "未读",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "没有未读通知"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "没有未读通知",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "标记为已读"

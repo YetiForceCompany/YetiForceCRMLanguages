@@ -2,7 +2,7 @@
   "php": {
     "SINGLE_ModComments": "Comment",
     "LBL_RECORDS_LIST": "Zonam komentárov",
-    "LBL_MODCOMMENTS_INFORMATION": "Comments",
+    "LBL_MODCOMMENTS_INFORMATION": "Komentáre",
     "LBL_OTHER_INFORMATION": "Other information",
     "LBL_ADDING_COMMENT": "Add comment",
     "LBL_WRITE_YOUR_COMMENT_HERE": "Enter comments here",
@@ -11,7 +11,8 @@
     "Related To Comments": "Súvisiace s",
     "ReasonToEdit": "Reason to edit",
     "UserId": "UserId",
-    "Customer": "Customer",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
     "LBL_ADDED_COMMENT_TO_TICKET": "Added a comment to the ticket",
     "LBL_NEW_COMMENT_FOR_TICKET": "A comment was added to the ticket",
     "LBL_NOTICE_WELCOME": "Welcome to platform",

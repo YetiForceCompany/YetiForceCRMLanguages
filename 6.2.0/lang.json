@@ -45,8 +45,8 @@
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
-        "progress": 93,
-        "time": "2021-08-17 11:07:59"
+        "progress": 94,
+        "time": "2021-11-04 11:08:05"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -144,7 +144,7 @@
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 53,
-        "time": "2021-09-27 09:19:32"
+        "time": "2021-11-04 11:08:02"
     },
     "no-NO": {
         "prefix": "no-NO",
@@ -199,8 +199,8 @@
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
-        "progress": 30,
-        "time": "2021-09-27 09:33:12"
+        "progress": 35,
+        "time": "2021-11-04 11:08:14"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 89,
-        "time": "2021-10-18 12:42:10"
+        "time": "2021-11-04 11:08:17"
     },
     "vi-VN": {
         "prefix": "vi-VN",

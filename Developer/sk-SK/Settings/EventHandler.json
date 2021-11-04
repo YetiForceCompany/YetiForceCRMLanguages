@@ -10,7 +10,7 @@
     "LBL_EVENT_IS_ACTIVE": "Is active",
     "LBL_EDIT_VIEW_PRESAVE": "Validation before saving the record",
     "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save"
+    "LBL_ENTITY_BEFORE_SAVE": "Pred uložením",
+    "LBL_ENTITY_AFTER_SAVE": "Po uložení"
   }
 }

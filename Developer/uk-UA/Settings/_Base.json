@@ -309,7 +309,7 @@
     "LBL_SEARCH_PLACEHOLDER": "Пошук...",
     "LBL_SHOW_ADVANCED_SEQUENCE_SETTINGS": "Налаштування послідовності в списку",
     "LBL_PREFIX": "Префікс",
-    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Функціонал %s ще не активовано або здійснено зміни у конфігурації, через функціонал не працює належним чином.\nФункція потрібно повторно активувати для того, щоб вона запрацювала належним чином.",
+    "LBL_FUNCTIONALITY_HAS_NOT_YET_BEEN_ACTIVATED": "Функціонал %s ще не активовано або здійснено зміни у конфігурації, через які функціонал не працює належним чином.\nФункціонал потрібно повторно активувати для того, щоб він запрацював належним чином.",
     "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "This functionality is available after registration.",
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Потрібне втручання",

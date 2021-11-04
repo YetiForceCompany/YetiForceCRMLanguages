@@ -33,22 +33,22 @@
     "LBL_CONTACT_INFO": "Kontaktné informácie",
     "Approval for phone calls": "Povolenie na volanie",
     "Approval for email": "Povolenie odoslať e-maily",
-    "Do Not Call": "Do not call",
-    "LBL_LANGUAGE_NOTIFICATIONS": "Language notifications",
+    "Do Not Call": "Nevolať",
+    "LBL_LANGUAGE_NOTIFICATIONS": "Jazykové oznámenia",
     "SINGLE_Leads": "Lead",
     "SINGLE_Vendors": "Vendor",
     "Decision maker": "Decision maker",
-    "End of support for contact": "End of support for contact",
+    "End of support for contact": "Koniec podpory pre kontakt",
     "Birthdays of contacts": "Birthdays of contacts",
     "LBL_SWITCH_ON_DECISION_MAKER": "Decision maker",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Všetko",
     "LBL_SHOW_HIERARCHY": "Contact hierarchy",
     "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
+    "LBL_PARTICIPANTS": "Účastníci",
     "FL_GENDER": "Pohlavie",
     "PLL_WOMAN": "Žena",
     "PLL_MAN": "Muž",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Kontakt s touto emailovou adresou už existuje v systéme."
   },
   "js": {}
 }

@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Trimite notificari",
     "LBL_NOTIFICATION_SETTINGS": "Setari notificare",
     "LBL_UNREAD": "Necitit",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Nu sunt notificari necitite"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Nu sunt notificari necitite",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Marcat ca citit"

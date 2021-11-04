@@ -16,8 +16,8 @@
     "LBL_PASS": "گذرواژه",
     "LBL_TITLE_ADDED": "افزودن",
     "LBL_TITLE_EDIT": "ویرایش",
-    "Portal": "پرتال",
-    "RestApi": "REST API",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
     "Payments": "پرداخت‌ها",
     "ManageConsents": "مدیریت رضایت نامه"
   },

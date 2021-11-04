@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Αποστολή ειδοποιήσεων",
     "LBL_NOTIFICATION_SETTINGS": "Ρυθμίσεις ειδοποιήσεων",
     "LBL_UNREAD": "Δεν διαβάστηκε",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Δεν υπάρχουν ειδοποιήσεις αδιάβαστες"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Δεν υπάρχουν ειδοποιήσεις αδιάβαστες",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Σήμανση ως αναγνωσμένη"

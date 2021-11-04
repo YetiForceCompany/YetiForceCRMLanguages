@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Надіслати оповіщення",
     "LBL_NOTIFICATION_SETTINGS": "Налаштування оповіщень",
     "LBL_UNREAD": "Непрочитані",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Непрочитані оповіщення відсутні"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Непрочитані оповіщення відсутні",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Помітити як прочитані"

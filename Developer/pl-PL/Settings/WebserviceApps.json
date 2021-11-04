@@ -16,8 +16,8 @@
     "LBL_PASS": "Hasło",
     "LBL_TITLE_ADDED": "Dodaj",
     "LBL_TITLE_EDIT": "Edytuj",
-    "Portal": "Portal klienta",
-    "RestApi": "REST API",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
     "Payments": "Płatności (funkcjonalność płatna)",
     "ManageConsents": "Zarządzaj zgodami"
   },

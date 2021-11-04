@@ -1,6 +1,6 @@
 {
   "php": {
-    "MailRbl": "RBL mail servers",
+    "MailRbl": "Διακομιστές αλληλογραφίας RBL",
     "LBL_BY_NAME": "To",
     "LBL_BY_HOST_NAME": "Outgoing host name",
     "LBL_BY_IP": "Outgoing IP",

@@ -5,11 +5,11 @@
     "FL_SERVICE_CONTRACTS_DATE": "SLA expiry date",
     "FL_HELP_DESK_PARENT": "Nadradený tiket",
     "PLL_SUBMITTED_COMMENTS": "Submitted comments",
-    "PLL_FOR_APPROVAL": "For approval",
+    "PLL_FOR_APPROVAL": "Na schválenie",
     "PLL_TO_CLOSE": "To close",
     "LBL_ORDER_TIME": "Order time",
     "Big Problem": "Big problem",
-    "Closed": "Accepted",
+    "Closed": "Akceptované",
     "created": "Created",
     "Critical": "Critical",
     "Days": "Days",
@@ -36,7 +36,7 @@
     "LBL_STATUS": "Stav",
     "LBL_STATUS_UPDATE": "Ticket status is updated as",
     "LBL_SUBJECT_PORTAL_LOGIN_DETAILS": "Regarding your Customer Portal login details",
-    "LBL_SUBJECT": "Subject: ",
+    "LBL_SUBJECT": "Predmet: ",
     "LBL_SUPPORT_ADMIN": "Support administrator",
     "LBL_TEAM": "HelpDesk team",
     "LBL_TICKET_DETAILS": "Detaily tiketu",
@@ -89,7 +89,7 @@
     "LBL_CHILD_RECORDS": "Child records to current one",
     "LBL_MASS_STATUS_UPDATED": "Stav aktualizovaný pre vybrané záznamy",
     "LBL_UPDATE": "Update",
-    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
+    "LBL_ADD_TIME_CONTROL": "Pridaj pracovný čas pre zatvorením tiektu",
     "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets"
   }
 }

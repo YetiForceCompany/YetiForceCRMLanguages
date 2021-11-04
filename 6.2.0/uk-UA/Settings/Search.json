@@ -7,7 +7,7 @@
     "Module": "Модуль",
     "Table": "Таблиця",
     "LabelFields": "Головні колонки для модуля (в тому числі мітки для uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
+    "SearchFields": "Поля для механізму пошуку",
     "Tools": "Дія",
     "Update labels": "Оновити Мітки",
     "LBL_SAVE_CHANGES_SEARCHING": "Зміни збережено.",

@@ -71,6 +71,6 @@
     "LBL_SUMMARY_FIELDS": "Λίστα πεδίων που φαίνονται στην περίληψη",
     "LBL_RELATED_ATTACHMENTS": "Σχετικά συνημμένα",
     "LBL_DISPLAY_BARCODE": "Barcode",
-    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)"
+    "LBL_RECORDS_LIST_DATA_TEMPLATE": "Δεδομένα σχετικών εγγραφών (πίνακας)"
   }
 }

@@ -16,8 +16,8 @@
     "LBL_PASS": "Parola",
     "LBL_TITLE_ADDED": "Adauga",
     "LBL_TITLE_EDIT": "Editeaza",
-    "Portal": "Portal",
-    "RestApi": "REST API",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
     "Payments": "Payments",
     "ManageConsents": "Manage consents"
   },

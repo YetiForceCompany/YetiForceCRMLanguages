@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Meldingen verzenden",
     "LBL_NOTIFICATION_SETTINGS": "Meldingsvoorkeuren",
     "LBL_UNREAD": "Ongelezen ",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Geen ongelezen meldingen"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Geen ongelezen meldingen",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Tweede niveau subproces"
   },
   "js": {
     "JS_MARKED_AS_READ": "Gemarkeerd als gelezen"

@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Изпращане на уведомления",
     "LBL_NOTIFICATION_SETTINGS": "Настройки на уведомленията",
     "LBL_UNREAD": "Непрочетено",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Няма непрочетени уведомления"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Няма непрочетени уведомления",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Маркирай като прочетено"

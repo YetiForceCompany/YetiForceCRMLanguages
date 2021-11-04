@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_ADD_TEMPLATE": "Add mapping",
+    "LBL_ADD_TEMPLATE": "Додати зіставлення",
     "LBL_IMPORT_TEMPLATE": "Імпортувати шаблон",
     "LBL_MAPPEDFIELDS": "Зіставлення",
     "LBL_MAPPEDFIELDS_DESCRIPTION": " ",
@@ -24,7 +24,7 @@
     "LBL_FIELDS_TYPE": "Тип поля",
     "LBL_DEFAULT_VALUE": "Значення за замовчуванням",
     "LBL_ACTIONS": "Дія",
-    "LBL_ADD_CONDITION": "Add mapping",
+    "LBL_ADD_CONDITION": "Додати зіставлення",
     "LBL_PERMISSIONS_DETAILS": "Дозволи",
     "LBL_FINISH": "Готово",
     "LBL_EDITING_MF": "Редагувати",

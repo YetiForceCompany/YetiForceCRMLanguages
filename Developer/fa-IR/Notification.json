@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "ارسال اطلاعیه",
     "LBL_NOTIFICATION_SETTINGS": "تنظیمات اطلاعیه",
     "LBL_UNREAD": "خوانده نشده",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "اطلاعیه خوانده نشده‌ای نمی‌باشد"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "اطلاعیه خوانده نشده‌ای نمی‌باشد",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "علامت‌گذاری به عنوان خوانده شده"

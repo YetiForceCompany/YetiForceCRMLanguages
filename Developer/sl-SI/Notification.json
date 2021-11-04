@@ -38,7 +38,8 @@
     "LBL_SENT_NOTIFICATIONS": "Pošljite obvestila",
     "LBL_NOTIFICATION_SETTINGS": "Nastavitve",
     "LBL_UNREAD": "Neprebrano",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "Ni neprebranih obvestil"
+    "LBL_NO_UNREAD_NOTIFICATIONS": "Ni neprebranih obvestil",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
   },
   "js": {
     "JS_MARKED_AS_READ": "Označi kot prebrano"

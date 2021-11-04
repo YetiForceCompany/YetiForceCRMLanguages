@@ -8,7 +8,7 @@
     "LBL_ALL_ROLES": "Всі ролі",
     "LBL_ALL_VALUES": "Всі значення",
     "LBL_ASSIGN_TO_ROLE": "Призначити ролі",
-    "LBL_ASSIGN_VALUE": "Assign Roles",
+    "LBL_ASSIGN_VALUE": "Призначити ролі",
     "LBL_ASSIGN_VALUES_TO_ROLES": "Призначити значення Ролям",
     "LBL_CHOOSE_ROLES": "Choose Roles",
     "LBL_DELETE_PICKLIST_ITEMS": "Delete pickList items",
@@ -50,7 +50,7 @@
     "LBL_TIME_COUNTING_RESOLVE": "Resolve time",
     "LBL_TIME_COUNTING_IDLE": "Idle time",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Field is not a process status field.",
-    "LBL_IMPORT_VALUE": "Import values",
+    "LBL_IMPORT_VALUE": "Імпортувати значення",
     "LBL_CONFIRM_BEFORE_MODIFY": "Are you sure you want to modify/delete it? The selected field is interdependent with other modules: %s"
   },
   "js": {
