@@ -1,8 +1,8 @@
 {
   "php": {
     "Picklist": "Picklist",
-    "Calendar": "To Do",
-    "LBL_EDIT": "Edit",
+    "Calendar": "Robiť",
+    "LBL_EDIT": "Upraviť",
     "LBL_ADD_ITEM_TO": "Add item to",
     "LBL_ADD_VALUE": "Add value",
     "LBL_ALL_ROLES": "Všetky role",

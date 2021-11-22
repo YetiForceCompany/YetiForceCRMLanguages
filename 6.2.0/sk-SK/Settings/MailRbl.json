@@ -1,7 +1,7 @@
 {
   "php": {
     "MailRbl": "RBL mail servers",
-    "LBL_BY_NAME": "To",
+    "LBL_BY_NAME": "Do",
     "LBL_BY_HOST_NAME": "Outgoing host name",
     "LBL_BY_IP": "Outgoing IP",
     "LBL_MAIL_RBL": "RBL mail servers",
@@ -13,10 +13,10 @@
     "LBL_FRAUD_MONEY_SCAM": "[Fraud] Money scam",
     "LBL_FRAUD_PHISHING": "[Fraud] Phishing",
     "LBL_FRAUD_ATTEMPT_TO_PERSUADE_PEOPLE_TO_BUY": "[Fraud] An attempt to persuade people to buy a product or service",
-    "LBL_FROM_NAME": "From",
+    "LBL_FROM_NAME": "Od",
     "LBL_FROM_HOST_NAME": "Incoming host name",
     "LBL_FROM_IP": "Incoming IP",
-    "LBL_EXTRA_WITH": "Additional information",
+    "LBL_EXTRA_WITH": "Doplňujúce informácie",
     "LBL_EXTRA_COMMENTS": "Protocol",
     "LBL_SECURITY_ATTEMPT_TO_IMPERSONATE_ANOTHER_PERSON": "[Security] An attempt to impersonate another person",
     "LBL_SECURITY_ATTEMPT_TO_PERSUADE_FROM_ORGANIZATION": "[Security] An attempt to persuade the recipient to open a resource from outside the organization",
@@ -66,7 +66,7 @@
     "LBL_SERVER_HOST_NAME_BY": "Recipient host name",
     "LBL_SERVER_IP_FROM": "Sender IP",
     "LBL_SERVER_IP_BY": "Recipient IP",
-    "LBL_SERVER_COMMENTS": "Comment",
+    "LBL_SERVER_COMMENTS": "Komentár",
     "LBL_REQUEST": "Report",
     "LBL_PROTOCOL": "Protocol",
     "LBL_NONE": "None",
@@ -109,7 +109,7 @@
     "BTN_SHOW_DETAILS": "Show details",
     "BTN_STATUS_ACTION_ACCEPT": "Akceptovať",
     "BTN_STATUS_ACTION_REJECT": "Zamietnúť",
-    "BTN_DELETE": "Delete",
+    "BTN_DELETE": "Vymazať",
     "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report (modal window)",
     "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Send a report (no confirmation)"
   }

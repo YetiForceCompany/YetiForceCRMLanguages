@@ -14,9 +14,9 @@
     "LBL_SAVE": "Сохранить",
     "LBL_SELECT_REPLACE_TREE_ITEM": "Изменить Каталог:",
     "Category": "Категория",
-    "LBL_MULTICATEGORY": "List of categories",
+    "LBL_MULTICATEGORY": "Список категорий",
     "Reservations": "Бронирование",
-    "LBL_SHARE_WITH": "Share with"
+    "LBL_SHARE_WITH": "Поделиться с"
   },
   "js": {
     "JS_TREE_DELETED_SUCCESSFULLY": "Шаблон Каталога успешно удален",

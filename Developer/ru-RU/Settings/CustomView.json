@@ -5,7 +5,7 @@
     "ViewName": "Фильтр",
     "SetDefault": "По умолчанию",
     "LBL_PRIVILEGES_TO_EDIT": "Редактировать",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "Доступность",
     "Delete": "Удалить",
     "Delete CustomView": "Фильтр удален",
     "Saving CustomView": "Фильтр успешно сохранен",
@@ -26,9 +26,9 @@
     "LBL_SORT_ASCENDING_ORDER": "Сортировка в порядке возрастания",
     "LBL_SORT_DESCENDING_ORDER": "Сортировка в порядке убывания",
     "LBL_ATTENTION": "Внимание!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Частичные разрешения могут быть предоставлены только частным фильтрам",
+    "LBL_PUBLIC": "Публичный",
+    "LBL_PRIVATE": "Приватный"
   },
   "js": {
     "Saving changes": "Сохранение изменений...",

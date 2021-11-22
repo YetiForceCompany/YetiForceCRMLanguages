@@ -1505,7 +1505,10 @@
     "LBL_USER_FORMAT_DATA_CANNOT_BE_IMPORTED": "Dane w formacie użytkownika nie mogą zostać zaimportowane do systemu",
     "LBL_MASS_EDIT_INCLUDE_INFO": "Zaznaczenie pola spowoduje dodanie wartości do już istniejących",
     "LBL_YETIFORCE_NOT_REGISTRATION_TITLE": "Ta funkcjonalność jest dostępna po rejestracji.",
-    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "System nie został zarejestrowany. Zarejestruj swój system YetiForce CRM, aby uzyskać dostęp do tej części systemu."
+    "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "System nie został zarejestrowany. Zarejestruj swój system YetiForce CRM, aby uzyskać dostęp do tej części systemu.",
+    "BTN_SHARE_RECORD_IN": "Udostępnij rekord w:",
+    "BTN_DISABLE_SHARE_RECORD_IN": "Wyłącz udostępnianie rekordów w:",
+    "BTN_SERVER_ACCESS": "Zarządzaj udostępnianiem rekordów dla Webservice"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

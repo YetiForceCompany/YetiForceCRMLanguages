@@ -20,7 +20,7 @@
     "LBL_RECEIVE_PERMISSION": "Receive permissions",
     "LBL_SAVE_SEQUENCES": "Sequences saved successfully",
     "LBL_SORTING": "Sorting",
-    "LBL_SORTING_SETTINGS": "Sorting settings",
+    "LBL_SORTING_SETTINGS": "Nastavenia triedenia",
     "LBL_SORTING_SETTINGS_WORNING": "Record sorting might significantly increase the page loading time.",
     "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Select a field to sort records",
     "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",

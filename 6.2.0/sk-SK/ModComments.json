@@ -1,12 +1,12 @@
 {
   "php": {
-    "SINGLE_ModComments": "Comment",
+    "SINGLE_ModComments": "Komentár",
     "LBL_RECORDS_LIST": "Zonam komentárov",
     "LBL_MODCOMMENTS_INFORMATION": "Komentáre",
     "LBL_OTHER_INFORMATION": "Other information",
     "LBL_ADDING_COMMENT": "Add comment",
     "LBL_WRITE_YOUR_COMMENT_HERE": "Enter comments here",
-    "Comment": "Comment",
+    "Comment": "Komentár",
     "Creator": "Creator",
     "Related To Comments": "Súvisiace s",
     "ReasonToEdit": "Reason to edit",
@@ -17,7 +17,7 @@
     "LBL_NOTICE_WELCOME": "Welcome to platform",
     "LBL_NOTICE_CREATED": "It was created by",
     "LBL_COMMENTS_0": "Aktuálny záznam",
-    "LBL_COMMENTS_SEARCH": "Search",
+    "LBL_COMMENTS_SEARCH": "Hľadať",
     "LBL_ALL_RECORDS": "Related records"
   }
 }

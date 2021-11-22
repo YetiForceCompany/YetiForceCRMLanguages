@@ -13,15 +13,15 @@
     "Category": "Category",
     "Date Sold": "Date of sale",
     "Date in Service": "Support termination date",
-    "Description": "Description",
+    "Description": "Popis",
     "LBL_DESCRIPTION_INFORMATION": "Descriptive information",
-    "LBL_CUSTOM_INFORMATION": "System information",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
     "Where bought": "Where bought",
     "Number": "Number",
     "Save": "Uložiť",
     "LBL_GENERATE_EXTENSION": "Generate extension",
     "Selling proposition": "Opportunity",
     "Active": "Active",
-    "Inactive": "Inactive"
+    "Inactive": "Neaktívny"
   }
 }

@@ -1,11 +1,11 @@
 {
-	"php": {
-		"MeetingServices": "Servizi riunione",
-		"LBL_MEETING_SERVICES": "Servizi riunione",
-		"LBL_MEETING_SERVICES_DESCRIPTION": " ",
-		"FL_URL": "URL",
-		"FL_STATUS": "Stato",
-		"BTN_COPY_API_KEY": "Copia la chiave dell'applicazione negli appunti",
-		"FL_PASSWORD": "Password"
-	}
+  "php": {
+    "MeetingServices": "Servizi riunione",
+    "LBL_MEETING_SERVICES": "Servizi riunione",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "Stato",
+    "FL_APP_ID": "ID App",
+    "FL_SECRET_KEY": "Chiave segreta"
+  }
 }

@@ -57,7 +57,7 @@
     "LBL_SPECIAL_FUNCTIONS": "Special functions",
     "LBL_COMPANY_FIELDS": "Company details",
     "LBL_LABEL": "Label",
-    "LBL_FIELD": "Value",
+    "LBL_FIELD": "Hodnota",
     "LBL_HEADER_DETAILS": "Edit header",
     "LBL_HEADER_CONTENT": "Header",
     "LBL_SET_VALUE": "Set value",
@@ -158,7 +158,7 @@
     "DEMY": "Demy",
     "ROYAL": "Royal",
     "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_INACTIVE": "Neaktívne"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "PDF template saved.",

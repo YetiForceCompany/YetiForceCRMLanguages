@@ -1,23 +1,23 @@
 {
   "php": {
-    "AdminAccess": "Admin access",
-    "LBL_ADMIN_ACCESS": "Admin access",
+    "AdminAccess": "Административный доступ",
+    "LBL_ADMIN_ACCESS": "Административный доступ",
     "LBL_PERMISSIONS": "Возможности",
     "BTN_MASS_EDIT_ACCESS": "Редактировать массу",
     "FL_MODULE_NAME": "Название модуля",
     "LBL_ACTIVE": "Активен",
-    "LBL_EDIT_ADMIN_ACCESS": "Editing of admin accesses",
-    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Visits Purpose",
+    "LBL_EDIT_ADMIN_ACCESS": "Редактирование прав администратора",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Цель визита",
     "FL_DATE_TIME": "Дата",
-    "FL_PURPOSE": "Purpose",
-    "FL_USER": "User",
+    "FL_PURPOSE": "Цель",
+    "FL_USER": "Пользователь",
     "FL_BASE_USER": "Базовый пользователь",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Спрашивать о цели входа в систему",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Вы хотите активировать окно \"Цель визита\" для администраторов при входе в систему?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Спрашивать о цели переключения ролей пользователей",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Вы хотите активировать окно \"Цель визита\" для администраторов при смене пользователей в системе?"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "Изменения сохранены"
   }
 }

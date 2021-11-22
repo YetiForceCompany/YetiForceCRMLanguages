@@ -91,7 +91,7 @@
     "LBL_SHARING_ACCESS": "Dostop do modula",
     "LBL_SHORT_SECONDS": "sek",
     "LBL_START_SEQUENCE": "Številčenje se prične z",
-    "LBL_START_SEQUENCE_INFO": "A subsequent number (beginning of the sequence) in the record (without prefix/postfix) that will be added as next. If for some reason you want to skip a few numbers (so that newly added records will have a higher number than the current one) or change the numbering settings and start the numbering from the beginning, enter a new beginning of the sequence and the system will add subsequent numbers for each new record.",
+    "LBL_START_SEQUENCE_INFO": "Naslednja številka (začetek zaporedja) v zapisu (brez predpone/postfiks), ki bo dodana kot naslednja. Če želite iz nekega razloga preskočiti nekaj številk (da bodo na novo dodani zapisi imeli večjo številko od trenutne) ali spremeniti nastavitve oštevilčenja in začeti številčenje od začetka, vnesite nov začetek zaporedja in sistem bo dodal naslednje številke za vsak nov zapis.",
     "LBL_STATUS": "Status",
     "LBL_STUDIO": "Standardni moduli",
     "LBL_ADVANCED_MODULES": "Napredni moduli",

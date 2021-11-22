@@ -48,14 +48,16 @@
     "Users|FL_AVAILABLE": "사용자를 사용할 수 있는지 여부를 지정합니다 (향후 이 필드는 휴일, 근무 시간 등과 같은 다른 간접 메커니즘을 준수 함).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "옵션이 활성화되고 레코드 자동 할당 메커니즘이 활성화 된 경우, 사용자는 시스템의 규칙 및 알고리즘에 따라 레코드를 할당하는 데 사용됩니다.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "한 모듈에서 사용자에게 할당 할 수 있는 레코드 양 (열기)을 지정합니다.",
-    "FL_RESPONSE_RANGE_TIME": "SLA(Service-Level Agreement) 및 영업일/시간을 기반으로 계산 된, 작업 시작까지 경과한 시간(분)입니다.",
-    "FL_SOLUTION_RANGE_TIME": "주어진 작업 완료까지 경과 한 시간 (분)이며, 구성에 따라 SLA 및 영업일/시간에 따라 다른 상태로 계산됩니다.",
-    "FL_IDLE_RANGE_TIME": "주어진 작업이 비활성 상태 인 시간(분). 예 - 추가 정보를 기다리는 경우. SLA 및 영업일 / 시간을 기준으로 계산됩니다.",
-    "FL_CLOSING_RANGE_TIME": "작업 생성부터 작업 마감까지 경과 된 시간(분). SLA 및 영업일/시간을 기준으로 계산됩니다.",
-    "FL_RESPONSE_DATE_TIME": "작업 시작 날짜 및 시간.",
-    "FL_SOLUTION_DATE_TIME": "작업 종료 날짜 및 시간.",
-    "FL_IDLE_DATE_TIME": "대기 종료 날짜 및 시간.",
-    "FL_RESPONSE_EXPECTED": "작업에 대한 할당이 수행 될 때까지 예정/예상 날짜. SLA 및 영업일/시간을 기준으로 계산됩니다.",
-    "FL_IDLE_DATE_EXPECTED": "대기 시간이 허용 될 때까지 예약/예상 날짜. SLA 및 영업일/시간을 기준으로 계산됩니다."
+    "FL_RESPONSE_RANGE_TIME": "Amount of time (minutes and hours) that elapsed from the time the report was received until the response was initiated.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Response time\" to another category.",
+    "FL_SOLUTION_RANGE_TIME": "Amount of time (minutes and hours) used to resolve a given ticket.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Resolution time\" to another category.",
+    "FL_IDLE_RANGE_TIME": "The amount of time (minutes and hours) the record is idle, for example, waiting for additional information.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Waiting time\" to another category.",
+    "FL_CLOSING_RANGE_TIME": "The amount of time (minutes and hours) calculated from the time the record was created until the last time it was closed.",
+    "FL_RESPONSE_DATE_TIME": "Date and time of the response, that is, the change of dictionary value categories (e.g. status) from \"Response time\" to another category.",
+    "FL_SOLUTION_DATE_TIME": "Date and time of the resolution, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Resolution time\" to other categories.",
+    "FL_IDLE_DATE_TIME": "Date and time of idle status completion, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Waiting time\" to other categories.",
+    "FL_CLOSING_DATE_TIME": "Date and time of closing the entire time calculation process from the time the record was created until the last time it was closed.",
+    "FL_RESPONSE_EXPECTED": "Planned/expected response deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
+    "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Planned/expected maximum allowed idle time, calculated on the basis of the SLA agreement and working or calendar days/hours."
   }
 }

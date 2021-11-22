@@ -10,15 +10,15 @@
     "FL_DATA_SET_SHARED": "Data set shared",
     "FL_LEGAL_BASIS": " Legal basis",
     "FL_REGISTERED_DPO": " Registered DPO",
-    "FL_INTERNAL_REGISTER": "Internal register",
+    "FL_INTERNAL_REGISTER": "Interný register",
     "FL_ADDED_TO_REGISTER": "Data set added to register",
     "FL_PARENT_DATA_SET": "Parent data set",
     "FL_REMOVED_FROM_REGISTER": "Data set removed from register",
-    "FL_DESCRIPTION": "Description",
-    "LBL_DESCRIPTION": "Description",
+    "FL_DESCRIPTION": "Popis",
+    "LBL_DESCRIPTION": "Popis",
     "FL_COMMENTS": "Komentáre",
     "LBL_REGISTER_DATE": "Záznamy",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
     "LBL_COMMENTS": "Komentáre",
     "PLL_CONSENT": "Consent",
     "PLL_FULFIILMENT": "Fulfillment of permission or legal obligation",
@@ -34,7 +34,7 @@
     "PLL_VAT": "VAT identification number",
     "PLL_EDUCATION": "Education",
     "PLL_ID_CARD_NUMBER": "ID Card number",
-    "PLL_PHONE": "Phone",
+    "PLL_PHONE": "Telefón",
     "PLL_EMAIL": "Email",
     "PLL_EMPLOYMENT_PLACE": "Place of employment",
     "PLL_PROFESSION": "Profession",
@@ -42,6 +42,6 @@
     "PLL_WAITING_FOR_ACCEPTANCE": "Waiting for acceptance",
     "PLL_IN_REALIZATION": "In realization",
     "PLL_COMPLETED": "Completed",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_CANCELLED": "Zrušené"
   }
 }

@@ -48,14 +48,16 @@
     "Users|FL_AVAILABLE": "Określa, czy użytkownik jest dostępny (w przyszłości pole to będzie respektować inne mechanizmy pośrednie, takie jak urlop, czas pracy itp.).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "Jeśli opcja jest włączona, a mechanizm automatycznego przypisywania rekordów jest aktywny, użytkownik będzie używany do przypisywania rekordów zgodnie z regułami i algorytmami w systemie.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Określa liczbę rekordów (otwartych), które mogą być przypisane do użytkownika w jednym module.",
-    "FL_RESPONSE_RANGE_TIME": "Ilość minut, które upłynęły na podjęcie reakcji, wyliczania na podstawie umowy SLA i dni/godzin pracy.",
-    "FL_SOLUTION_RANGE_TIME": "Ilość minut, które upłynęły na rozwiązanie danego rekordu, ilość jest mierzona na różnych statusach w zależności od konfiguracji, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
-    "FL_IDLE_RANGE_TIME": "Ilość minut bezczynności danego rekordu, np. oczekiwanie na dodatkowe informacje, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
-    "FL_CLOSING_RANGE_TIME": "Ilość minut liczona od utworzenia do ostatniego zamknięcia rekordu, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
-    "FL_RESPONSE_DATE_TIME": "Data i czas podjęcia reakcji",
-    "FL_SOLUTION_DATE_TIME": "Data i czas zakończenia rozwiązywania ",
-    "FL_IDLE_DATE_TIME": "Data i czas zakończenia stanu bezczynności",
-    "FL_RESPONSE_EXPECTED": "Planowana/oczekiwana data do kiedy zostanie podjęta rekacja nad rekordem, wyliczana na podstawie umowy SLA i dni/godzin pracy.",
-    "FL_IDLE_DATE_EXPECTED": "Planowana/oczekiwana data do kiedy jest dozwolona bezczynności, wyliczana na podstawie umowy SLA i dni/godzin pracy."
+    "FL_RESPONSE_RANGE_TIME": "Ilość czasu (minut i godzin), który upłynął od momentu otrzymania zgłoszenia do czasu podjęcia reakcji.\n\nCzas jest obliczany na podstawie daty zmiany kategorii wartości słownika (np. status) z \"Czas reakcji\" na pozostałe kategorie.",
+    "FL_SOLUTION_RANGE_TIME": "Ilość czasu (minut i godzin), wykorzystanego na rozwiązanie danego zgłoszenia.\n\nCzas jest mierzony na podstawie daty zmiany kategorii wartości słownika (np. status) z \"Czas rozwiązania\" na pozostałe kategorie.",
+    "FL_IDLE_RANGE_TIME": "Ilość czasu (minut i godzin) bezczynności danego rekordu, np. oczekiwanie na dodatkowe informacje.\n\nCzas jest mierzony na podstawie daty zmiany kategorii wartości słownika (np. status) z \"Czas oczekiwania\" na pozostałe kategorie.",
+    "FL_CLOSING_RANGE_TIME": "Ilość czasu (minut i godzin) liczona od utworzenia rekordu do ostatniego zamknięcia rekordu.",
+    "FL_RESPONSE_DATE_TIME": "Data i czas podjęcia reakcji, to znaczy zmiany kategorii wartości słownika (np. statusach) z \"Czas reakcji\" na pozostałe kategorie.",
+    "FL_SOLUTION_DATE_TIME": "Data i czas zakończenia rozwiązywania, to znaczy zmiany kategorii \"Zliczania czasu\" wartości słownika (np. status) z \"Czas rozwiązania\" na pozostałe kategorie.",
+    "FL_IDLE_DATE_TIME": "Data i czas zakończenia stanu bezczynności, to znaczy zmiany kategorii \"Zliczania czasu\" wartości słownika (np. status) z \"Czas oczekiwania\" na pozostałe kategorie.",
+    "FL_CLOSING_DATE_TIME": "Data i czas zakończenia całego procesu zliczania czasu, od momentu utworzenia rekordu do ostatniego zamknięcia rekordu.",
+    "FL_RESPONSE_EXPECTED": "Planowana/oczekiwana maksymalna data do kiedy zostanie podjęta reakcja, wyliczana na podstawie umowy SLA oraz dni/godzin pracy lub kalendarzowych.",
+    "FL_SOLUTION_EXPECTED": "Planowana/oczekiwana maksymalna data do kiedy zostanie rozwiązany rekord, wyliczana na podstawie umowy SLA oraz dni/godzin pracy lub kalendarzowych.",
+    "FL_IDLE_DATE_EXPECTED": "Planowana/oczekiwana maksymalna data do kiedy jest dozwolona bezczynność, wyliczana na podstawie umowy SLA oraz dni/godzin pracy lub kalendarzowych."
   }
 }

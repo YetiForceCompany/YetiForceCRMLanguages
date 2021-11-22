@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_TO_LC": "to",
+    "LBL_TO_LC": "do",
     "LBL_EXPORT_TO_PDF": "Export to PDF",
     "LBL_VENDOR_ADDRESS_INFORMATION": "Address information",
     "LBL_VENDORS_ADD_TASK": "Add Task",
@@ -17,7 +17,7 @@
     "Email": "Primary Email",
     "GL Account": "GL account",
     "LBL_VENDOR_INFORMATION": "Vendor details",
-    "Phone": "Primary phone",
+    "Phone": "Primárny telefón",
     "SINGLE_Vendors": "Vendor",
     "Vendor Name": "Vendor name",
     "Vendor No": "Vendor number",

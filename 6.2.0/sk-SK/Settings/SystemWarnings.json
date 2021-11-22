@@ -6,9 +6,9 @@
 		"LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Number of potential spam reports awaiting verification: %s",
 		"LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - reports in blacklist",
 		"LBL_CHECK_BLACKLIST_REPORTS_DESC": "Number of accepted blacklisted spam reports: %s",
-		"LBL_LIBRARY_ROUNDCUBE": "Roundcube library",
+		"LBL_LIBRARY_ROUNDCUBE": "Roundcube knižnica",
 		"LBL_LIBRARY_PHPEXCEL": "PHPExcel library",
-		"LBL_CONFIG_REPORT": "Server configuration",
+		"LBL_CONFIG_REPORT": "Serverová konfigurácia",
 		"LBL_CONFIG_REPORT_LINK": "Check the configuration",
 		"LBL_NEWSLETTER": "Newsletter",
 		"LBL_STATS": "Send statistical information",
@@ -26,7 +26,7 @@
 		"LBL_MISSING_HTTPS": "Your connection to the server is not encrypted. If the connection is not established through the HTTPS protocol the communication may be intercepted or altered by third parties. The recommended configuration can be found in the \"Web server requirements\" article in the documentation.",
 		"LBL_DISK_USAGE": "Disk space available",
 		"LBL_DISK_FULL": "There is not enough free space on your disk (%s of %s), so the system may stop working. Directory path: %s",
-		"SystemWarnings": "System warnings",
+		"SystemWarnings": "Systémové varovania",
 		"BTN_CONFIGURE_ENCRYPTION": "Activate encryption",
 		"Security": "Zabezpečenie",
 		"LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities in libraries",
@@ -40,7 +40,7 @@
 		"LBL_PHPEXT": "PHP extensions",
 		"LBL_DATABASE": "Database",
 		"LBL_STABILITY": "Stability",
-		"LBL_CONFIG_SERVER": "Server configuration",
+		"LBL_CONFIG_SERVER": "Serverová konfigurácia",
 		"LBL_SECURITY": "Zabezpečenie",
 		"LBL_NO_FILE_WRITE_RIGHTS": "No file write rights",
 		"LBL_SECURITY_CONF": "Bezpečnostná konfigurácia",
@@ -59,6 +59,6 @@
 		"LBL_LANGUAGES_UPDATER": "Aktualizátor jazyka",
 		"LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
 		"LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating.",
-		"Mail": "Mail"
+		"Mail": "Pošta"
 	}
 }

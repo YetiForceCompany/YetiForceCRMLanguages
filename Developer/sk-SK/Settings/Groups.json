@@ -4,14 +4,14 @@
     "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
     "LBL_DUPLICATES_EXIST": "Group name already exists",
     "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
+    "LBL_GROUP_NAME": "Názov skupiny",
     "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
     "LBL_TO_OTHER_GROUP": "To other group ",
     "LBL_TRANSFORM_OWNERSHIP": "Prevod vlastníctva",
-    "SINGLE_Groups": "Group",
+    "SINGLE_Groups": "Skupina",
     "Users": "Uživatelia",
-    "Name": "Group name",
-    "Description": "Description"
+    "Name": "Názov skupiny",
+    "Description": "Popis"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",

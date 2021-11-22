@@ -48,14 +48,16 @@
     "Users|FL_AVAILABLE": "Megadja, ha a felhasználó elérhető (a jövőben ezen a területen tiszteletben tartja más közvetett mechanizmusok, mint például a nyaralás, munkaidő, stb.).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "If the option is enabled and the auto assign records mechanism is active, the user will be used for assigning records according to the rules and algorithms in the system.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Megadja, hogy egy felhasználó egy modulban hány rekordot tartat nyitva.",
-    "FL_RESPONSE_RANGE_TIME": "Az, hogy hány perc telt el, mielőtt a reakció alapján kell kiszámítani, hogy az SLA-t, illetve az üzleti nap/óra",
-    "FL_SOLUTION_RANGE_TIME": "Az, hogy hány perc telt el, hogy megoldja egy adott rekord számított a különböző állapotok attól függően, hogy a konfiguráció alapján az SLA-t, illetve az üzleti nap/óra",
-    "FL_IDLE_RANGE_TIME": "A percek számát, hogy egy adott rekord inaktív volt, például amikor a vár további rendelkezésre, az alapján kell kiszámítani, hogy az SLA-t, illetve az üzleti nap/óra",
-    "FL_CLOSING_RANGE_TIME": "Az, hogy hány perc telt el közötti létrehozása, a legutóbbi záró rekord, ez alapján számítják ki a SLA üzleti nap/óra",
-    "FL_RESPONSE_DATE_TIME": "Reakció start időpont.",
-    "FL_SOLUTION_DATE_TIME": "Befejezési dátum és idő használata.",
-    "FL_IDLE_DATE_TIME": "Tétlen vége időpont.",
-    "FL_RESPONSE_EXPECTED": "Tervezett/várható időpontja addig, amíg a reakció rekord kerül sor, ez alapján számítják ki a SLA üzleti nap/óra.",
-    "FL_IDLE_DATE_EXPECTED": "Tervezett/várható időpontja, míg ha tétlen időt engedélyezett, ez alapján számítják ki a SLA üzleti nap/óra."
+    "FL_RESPONSE_RANGE_TIME": "Amount of time (minutes and hours) that elapsed from the time the report was received until the response was initiated.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Response time\" to another category.",
+    "FL_SOLUTION_RANGE_TIME": "Amount of time (minutes and hours) used to resolve a given ticket.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Resolution time\" to another category.",
+    "FL_IDLE_RANGE_TIME": "The amount of time (minutes and hours) the record is idle, for example, waiting for additional information.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Waiting time\" to another category.",
+    "FL_CLOSING_RANGE_TIME": "The amount of time (minutes and hours) calculated from the time the record was created until the last time it was closed.",
+    "FL_RESPONSE_DATE_TIME": "Date and time of the response, that is, the change of dictionary value categories (e.g. status) from \"Response time\" to another category.",
+    "FL_SOLUTION_DATE_TIME": "Date and time of the resolution, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Resolution time\" to other categories.",
+    "FL_IDLE_DATE_TIME": "Date and time of idle status completion, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Waiting time\" to other categories.",
+    "FL_CLOSING_DATE_TIME": "Date and time of closing the entire time calculation process from the time the record was created until the last time it was closed.",
+    "FL_RESPONSE_EXPECTED": "Planned/expected response deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
+    "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Planned/expected maximum allowed idle time, calculated on the basis of the SLA agreement and working or calendar days/hours."
   }
 }

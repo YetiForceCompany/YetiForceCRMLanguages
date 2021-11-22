@@ -29,7 +29,7 @@
     "Inactive": "Отключен",
     "Other Po Box": "А/я  (другое)",
     "Mailing Po Box": "А/я (почта)",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "Основной адрес",
     "LBL_CONTACT_INFO": "Информация о контакте",
     "Approval for phone calls": "Можно звонить",
     "Approval for email": "Можно писать",
@@ -43,12 +43,12 @@
     "LBL_SWITCH_ON_DECISION_MAKER": "Включить принятие решений",
     "LBL_SWITCH_OFF_DECISION_MAKER": "Отключить принятие решений",
     "LBL_SHOW_HIERARCHY": "Иерархия контактов",
-    "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
+    "FL_APPROVALS": "Разрешительные документы, утверждение",
+    "LBL_PARTICIPANTS": "Участники",
+    "FL_GENDER": "Пол",
+    "PLL_WOMAN": "Женщина",
+    "PLL_MAN": "Мужчина",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Контакт с этим адресом электронной почты уже существует в системе."
   },
   "js": {}
 }

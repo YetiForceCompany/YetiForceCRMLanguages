@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "암호화",
     "LBL_YETIFORCE_SHOP": "스토어",
     "LBL_YETIFORCE_ISSUES": "무료 지원",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "유료 지원",
     "LBL_PICKLIST_VARIABLES": "선정목록 변수",
     "LBL_PICKLIST_VARIABLES_INFO": "이 변수를 사용하면 각 선택 목록 값에 대해 별도의 번호가 지정되며, 짧은 값이 변수를 대체한다.",

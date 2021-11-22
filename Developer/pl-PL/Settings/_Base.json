@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Szyfrowanie",
     "LBL_YETIFORCE_SHOP": "Sklep",
     "LBL_YETIFORCE_ISSUES": "Bezpłatne wsparcie",
+    "LBL_YETIFORCE_DOCUMENTATION": "Dokumentacja YetiForce",
     "LBL_YETIFORCE_ASSISTANCE": "Płatne wsparcie",
     "LBL_PICKLIST_VARIABLES": "Zmienne słownikowe",
     "LBL_PICKLIST_VARIABLES_INFO": "Użycie tej zmiennej spowoduje numerowanie dla każdej wartości słownikowej oddzielnie, a w miejscu zmiennej wprowadzona zostanie wartość skrócona.",

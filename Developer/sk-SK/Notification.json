@@ -1,11 +1,11 @@
 {
   "php": {
-    "Notification": "Notification",
-    "SINGLE_Notification": "Notification",
+    "Notification": "Notifikácie",
+    "SINGLE_Notification": "Notifikácie",
     "LBL_CHANGE_SAVE": "Každá zmena musí byť uložená",
     "LBL_NOTIFICATION_CONTENTS": "Notification contents",
     "FL_TITLE": "title",
-    "LBL_NOTIFICATION_INFORMATION": "Basic information",
+    "LBL_NOTIFICATION_INFORMATION": "Základné informácie",
     "FL_RELATED_MODULE": "Related module",
     "FL_MESSAGE": "Notification contents",
     "LBL_SCHEDULE": "Schedule",
@@ -25,7 +25,7 @@
     "PLL_UNREAD": "Unread",
     "PLL_READ": "Read",
     "PLL_USERS": "From users",
-    "PLL_SYSTEM": "System",
+    "PLL_SYSTEM": "Systém",
     "FL_RELATED_RECORD": "Related record",
     "FL_STATUS": "Stav",
     "FL_USER": "Užívateľ",

@@ -2,12 +2,12 @@
   "php": {
     "Queue": "Queued changes",
     "SINGLE_Queue": "Queued changes",
-    "LBL_CUSTOM_INFORMATION": "System Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
     "FL_SUBJECT": "Subject",
     "FL_RELATED_TO": "Related to",
     "FL_CHANGES": "Changes list",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
     "FL_REASON_FOR_CHANGE": "Reason for change",
     "FL_REASON_FOR_REJECTION": "Reason for rejection",
     "FL_STATUS": "Stav",
@@ -17,6 +17,6 @@
     "PLL_IN_APPROVAL": "In approval",
     "PLL_ACCEPTED": "Akceptované",
     "PLL_COMPLETED": "Completed",
-    "PLL_CANCELLED": "Cancelled"
+    "PLL_CANCELLED": "Zrušené"
   }
 }

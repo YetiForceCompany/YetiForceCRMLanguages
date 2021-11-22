@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Mã hóa",
     "LBL_YETIFORCE_SHOP": "Gian hàng",
     "LBL_YETIFORCE_ISSUES": "Hỗ trợ miễn phí",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Hỗ trợ có phí",
     "LBL_PICKLIST_VARIABLES": "Biến danh sách chọn",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",

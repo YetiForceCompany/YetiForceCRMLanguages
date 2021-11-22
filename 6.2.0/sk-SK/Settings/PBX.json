@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_NAME": "Name",
+    "LBL_NAME": "Názov",
     "LBL_TYPE": "Typ",
-    "LBL_DEFAULT": "Default",
+    "LBL_DEFAULT": "Predvolené",
     "LBL_ADD_RECORD": "Pridať záznam",
     "LBL_CREATE_RECORD": "Add telephone exchange",
     "LBL_EDIT_RECORD": "Edit telephone exchange",

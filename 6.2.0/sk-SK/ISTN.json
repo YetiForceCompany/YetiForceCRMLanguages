@@ -2,7 +2,7 @@
   "php": {
     "ISTN": "Storage Turnover Notes",
     "SINGLE_ISTN": "Storage Turnover Notes",
-    "LBL_DESCRIPTION_BLOCK": "Description",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
     "LBL_ATTENTION_BLOCK": "Komentáre",
     "FL_ESTIMATED_DATE": "Estimated date",
     "FL_SUBJECT": "Predmet",
@@ -12,7 +12,7 @@
     "PLL_IN_REALIZATION": "In realization",
     "PLL_OBJECTIONS": "Objections",
     "PLL_FOR_APPROVAL": "Na schválenie",
-    "PLL_CANCELLED": "Cancelled",
+    "PLL_CANCELLED": "Zrušené",
     "PLL_ACCEPTED": "Akceptované",
     "PLL_RECEIVED": "Received",
     "PLL_TRANSFER": "Transfer",

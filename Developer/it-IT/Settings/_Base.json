@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Crittografia",
     "LBL_YETIFORCE_SHOP": "Negozio",
     "LBL_YETIFORCE_ISSUES": "Supporto gratuito",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Supporto a pagamento",
     "LBL_PICKLIST_VARIABLES": "Variabile dal modulo",
     "LBL_PICKLIST_VARIABLES_INFO": "L'utilizzo di questa variabile comporterà la presenza di un valore di un menù a tendina, nel prefisso o nel suffisso. Il valore corrisponderà a quello presente nel record medesimo.",

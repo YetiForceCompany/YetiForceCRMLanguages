@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "加密",
     "LBL_YETIFORCE_SHOP": "商店",
     "LBL_YETIFORCE_ISSUES": "免费支持",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "付费支持",
     "LBL_PICKLIST_VARIABLES": "选取列表变量",
     "LBL_PICKLIST_VARIABLES_INFO": "使用此变量将导致每个选项列表值单独编号，短值将替换该变量。",

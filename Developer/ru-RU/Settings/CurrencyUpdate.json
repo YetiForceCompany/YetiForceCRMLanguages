@@ -5,7 +5,7 @@
     "LBL_CURRENCY_UPDATE_DESCRIPTION": "Настройка обновления курса Валют",
     "LBL_SELECT_BANK": "Выберите Банк",
     "MSG_ONE_CURRENCY": "Существует только одна Валюта. Чтобы получить курсы валют для других валют, пожалуйста, добавьте больше валют в настройках системы.",
-    "MSG_NO_NET_CONN": "No Internet connection, currency information was not downloaded.",
+    "MSG_NO_NET_CONN": "Нет подключения к Интернету, информация о валюте не была загружена.",
     "LBL_HISTORY": "История обменных курсов",
     "LBL_BANK": "Выберите Банк для получения курсов Валют",
     "LBL_CAL_DATE": "Дата",

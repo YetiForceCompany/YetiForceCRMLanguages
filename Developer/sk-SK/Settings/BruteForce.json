@@ -11,7 +11,7 @@
     "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
     "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
     "LBL_IP": "IP address",
-    "LBL_DATE": "Date",
+    "LBL_DATE": "Dátum",
     "LBL_USERS": "Uživatelia",
     "LBL_BROWSERS": "Browsers",
     "LBL_UNBLOCK": "Unblock",

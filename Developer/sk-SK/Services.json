@@ -1,7 +1,7 @@
 {
   "php": {
     "Services": "Services",
-    "SINGLE_Services": "Service",
+    "SINGLE_Services": "Služba",
     "LBL_SERVICE_INFORMATION": "Service details",
     "LBL_MORE_CURRENCIES": "more currencies",
     "LBL_PRICES": "Service prices",
@@ -31,7 +31,7 @@
     "Software": "Software",
     "CRM Applications": "CRM Applications",
     "Sales": "Sales",
-    "Service": "Service",
+    "Service": "Služba",
     "Support": "Support",
     "Installation": "Installation",
     "Migration": "Migration",

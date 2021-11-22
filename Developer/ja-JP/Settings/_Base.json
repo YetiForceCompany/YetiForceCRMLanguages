@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "暗号化",
     "LBL_YETIFORCE_SHOP": "ストア",
     "LBL_YETIFORCE_ISSUES": "無料サポート",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "有料サポート",
     "LBL_PICKLIST_VARIABLES": "Picklist変数",
     "LBL_PICKLIST_VARIABLES_INFO": "この変数を使用すると、picklist値ごとに個別の番号が付けられ、短い値が変数を置き換えます。",

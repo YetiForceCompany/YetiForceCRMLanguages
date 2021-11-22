@@ -45,10 +45,10 @@
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Объект должен содержать интерфейс %s",
     "ERR_CLASS_NOT_FOUND": "Класс %s не найден",
     "ERR_CLASS_MUST_BE": "Класс должен быть %s",
-    "ERR_PAID_FUNCTIONALITY": "%s paid functionality, you must purchase it",
-    "ERR_TOKEN_DOES_NOT_EXIST": "The token does not exist or has expired",
-    "ERR_NO_TOKEN": "No token",
-    "ERR_INCORRECT_2FA_TOTP_CODE": "Incorrect 2FA TOTP code",
-    "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code"
+    "ERR_PAID_FUNCTIONALITY": "%s платная функциональность, вы должны ее приобрести",
+    "ERR_TOKEN_DOES_NOT_EXIST": "Токен не существует или срок его действия истек",
+    "ERR_NO_TOKEN": "Нет токенов",
+    "ERR_INCORRECT_2FA_TOTP_CODE": "Неверный код 2FA TOTP",
+    "ERR_NO_2FA_TOTP_CODE": "Нет 2FA TOTP кода"
   }
 }

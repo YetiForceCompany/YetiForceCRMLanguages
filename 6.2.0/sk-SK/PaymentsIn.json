@@ -2,9 +2,9 @@
   "php": {
     "PaymentsIn": "Payments in",
     "SINGLE_PaymentsIn": "Payment in",
-    "LBL_MAIN_INFORMATION": "Basic information",
+    "LBL_MAIN_INFORMATION": "Základné informácie",
     "LBL_PAYMENT_INFORMATION": "Payment information",
-    "LBL_PAYMENTSVALUE": "Value",
+    "LBL_PAYMENTSVALUE": "Hodnota",
     "LBL_PAYMENTSTITLE": "Payment title",
     "LBL_PAYMENTSNO": "Number",
     "LBL_BANK_ACCOUNT": "Bank account number",
@@ -17,7 +17,7 @@
     "LBL_RECORDS_LIST": "Zoznam záznamov",
     "LBL_PARENTID": "Parent payment in",
     "PLL_DENIED": "Denied",
-    "PLL_CREATED": "Created",
+    "PLL_CREATED": "Vytvorené",
     "PLL_PAID": "Paid",
     "LBL_PAYMENTSCURRENCY": "Currency",
     "Account": "Account account number",
@@ -33,7 +33,7 @@
     "Amount": "Amount",
     "Date": "Effective date (of currency)",
     "DateK": "Accounting date",
-    "Kontrahent": "Account",
+    "Kontrahent": "Účet",
     "Currancy operation": "Transactions currency",
     "Amount operation": "Amount in currency",
     "Liczba transakcji:": "Number of transactions:",
@@ -59,7 +59,7 @@
     "idea": "Idea Bank S.A.",
     "FL_TRANSACTION": "Transaction",
     "FL_ORDER": "Order",
-    "FL_INVOICE": "Invoice",
+    "FL_INVOICE": "Faktúra",
     "FL_PAYMENT_SYSTEM": "Payment system"
   }
 }

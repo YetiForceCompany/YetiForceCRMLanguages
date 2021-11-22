@@ -13,7 +13,7 @@
     "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
     "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
     "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
-    "LBL_CONFIG_EDITOR": "System – Configuration",
+    "LBL_CONFIG_EDITOR": "Systém – Konfigurácia",
     "LBL_CONFIG_EDITOR_DESCRIPTION": "Update configuration file of the application",
     "LBL_MAX_UPLOAD_SIZE": "Maximum upload size",
     "LBL_MB": "MB"

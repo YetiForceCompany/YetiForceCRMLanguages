@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Κρυπτογράφηση",
     "LBL_YETIFORCE_SHOP": "Κατάστημα",
     "LBL_YETIFORCE_ISSUES": "Δωρεάν υποστήριξη",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Υποστήριξη με χρέωση",
     "LBL_PICKLIST_VARIABLES": "Απο λίστα επιλογών",
     "LBL_PICKLIST_VARIABLES_INFO": "Χρησιμοποιώντας αυτήν τη μεταβλητή θα οδηγήσει σε ξεχωριστή αρίθμηση για κάθε τιμή της λίστας επιλογών, και μια σύντομη(short) τιμή θα αντικαταστήσει τη μεταβλητή.",

@@ -48,14 +48,16 @@
     "Users|FL_AVAILABLE": "Určuje, či je používateľ dostupný (v budúcnosti bude toto pole rešpektovať iné nepriame mechanizmy, ako je dovolenka, pracovný čas atď.).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "If the option is enabled and the auto assign records mechanism is active, the user will be used for assigning records according to the rules and algorithms in the system.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Specifies the amount of records (open) that can be assigned to a user in one module.",
-    "FL_RESPONSE_RANGE_TIME": "Počet minút, ktoré uplynuli pred reakciou, vypočítaný na základe SLA a pracovných dní / hodín",
-    "FL_SOLUTION_RANGE_TIME": "Počet minút, ktoré uplynuli na vyriešenie daného záznamu, vypočítané na rôznych stavoch v závislosti od konfigurácie a na základe SLA a pracovných dní / hodín",
-    "FL_IDLE_RANGE_TIME": "Počet minút, počas ktorých bol daný záznam neaktívny, napr. pri čakaní na ďalšie informácie sa počíta na základe SLA a pracovných dní / hodín",
-    "FL_CLOSING_RANGE_TIME": "Počet minút, ktoré uplynuli medzi vytvorením a posledným uzavretím záznamu, sa počíta na základe SLA a pracovných dní / hodín",
-    "FL_RESPONSE_DATE_TIME": "Dátum a čas začiatku reakcie.",
-    "FL_SOLUTION_DATE_TIME": "Vyriešte dátum a čas ukončenia.",
-    "FL_IDLE_DATE_TIME": "Dátum a čas nečinnosti.",
-    "FL_RESPONSE_EXPECTED": "Plánovaný / očakávaný dátum, do ktorého sa reakcia zaznamená, sa počíta na základe SLA a pracovných dní / hodín.",
-    "FL_IDLE_DATE_EXPECTED": "Plánovaný / očakávaný dátum do času, keď je povolený voľný čas, sa počíta na základe SLA a pracovných dní / hodín."
+    "FL_RESPONSE_RANGE_TIME": "Čas (minúty a hodiny), ktorý uplynul od prijatia hlásenia do začatia odpovede.\n\nČas sa vypočíta na základe dátumu, kedy bola kategória hodnôt výberového zoznamu - picklistu (napr. stav) zmenená z „Čas odozvy“ na inú kategóriu.",
+    "FL_SOLUTION_RANGE_TIME": "Množstvo času (minúty a hodiny) použité na vyriešenie daného tiketu.\n\nČas sa vypočíta na základe dátumu, kedy bola kategória hodnôt výberového zoznamu - picklistu (napr. stav) zmenená z „Čas rozlíšenia“ na inú kategóriu.",
+    "FL_IDLE_RANGE_TIME": "Čas (minúty a hodiny), počas ktorého je záznam nečinný, napríklad čaká na ďalšie informácie.\n\nČas sa vypočíta na základe dátumu, kedy bola kategória hodnôt výberového zoznamu - picklist (napr. stav) zmenená z „Čakacia doba“ na inú kategóriu.",
+    "FL_CLOSING_RANGE_TIME": "Čas (minúty a hodiny) vypočítaný od vytvorenia záznamu do posledného uzavretia.",
+    "FL_RESPONSE_DATE_TIME": "Dátum a čas odpovede, teda zmeny kategórií hodnôt slovníka (napr. stavu) z „Čas odozvy“ na inú kategóriu.",
+    "FL_SOLUTION_DATE_TIME": "Date and time of the resolution, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Resolution time\" to other categories.",
+    "FL_IDLE_DATE_TIME": "Dátum a čas dokončenia stavu nečinnosti, to znamená zmeny kategórie \"Doba výpočtu\" hodnôt výberového zoznamu - picklistu (napr. stav) z \"Doba čakania\" na iné kategórie.",
+    "FL_CLOSING_DATE_TIME": "Dátum a čas uzavretia celého procesu výpočtu času od vytvorenia záznamu až po jeho posledné uzavretie.",
+    "FL_RESPONSE_EXPECTED": "Plánovaný/očakávaný termín odpovede vypočítaný na základe dohody SLA a pracovných alebo kalendárnych dní/hodín.",
+    "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
+    "FL_IDLE_DATE_EXPECTED": "Plánovaný/očakávaný maximálny povolený čas nečinnosti, vypočítaný na základe dohody SLA a pracovných alebo kalendárnych dní/hodín."
   }
 }

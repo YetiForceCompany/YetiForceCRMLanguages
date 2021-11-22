@@ -10,12 +10,12 @@
     "Tracking Unit": "Tracking unit",
     "Total Units": "Total units",
     "Used Units": "Used units",
-    "Progress": "Progress",
+    "Progress": "Priebeh",
     "Planned Duration": "Planned duration (in days)",
     "Actual Duration": "Actual duration (in days)",
-    "Low": "Low",
-    "Normal": "Normal",
-    "High": "High",
+    "Low": "Nízka",
+    "Normal": "Normálna",
+    "High": "Vysoká",
     "Hours": "Hours",
     "Days": "Days",
     "Incidents": "Incidents",
@@ -24,7 +24,7 @@
     "Administrative": "Administrative",
     "Undefined": "Undefined",
     "In Planning": "In planning",
-    "In Progress": "In progress",
+    "In Progress": "Prebieha",
     "On Hold": "On hold",
     "Complete": "Complete",
     "Archived": "Archived",
@@ -35,7 +35,7 @@
     "LBL_IDLE_TIME": "Idle time",
     "LBL_RESOLVE_TIME": "Resolve time",
     "LBL_OPERATIONAL_HOURS": "Operational hours",
-    "LBL_CALENDAR_HOURS": "Calendar",
+    "LBL_CALENDAR_HOURS": "Kalendár",
     "LBL_BUSINESS_HOURS": "Business",
     "LBL_SLA_POLICY": "SLA Policy",
     "LBL_POLICY_TYPE": "SLA configuration",
@@ -55,6 +55,6 @@
     "JS_REACTION_TIME": "Reaction time",
     "JS_IDLE_TIME": "Idle time",
     "JS_RESOLVE_TIME": "Resolve time",
-    "JS_BUSINESS_HOURS": "Business hours"
+    "JS_BUSINESS_HOURS": "Úradné hodiny"
   }
 }

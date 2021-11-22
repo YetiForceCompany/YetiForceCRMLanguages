@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Titkosítás",
     "LBL_YETIFORCE_SHOP": "Bolt",
     "LBL_YETIFORCE_ISSUES": "Ingyenes támogatás",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Kifizetett támogatás",
     "LBL_PICKLIST_VARIABLES": "Értéklista változók",
     "LBL_PICKLIST_VARIABLES_INFO": "Használata ez a változó fogja eredményezni külön számozás az egyes választási lista érték, valamint egy rövid érték felülírja a változó.",

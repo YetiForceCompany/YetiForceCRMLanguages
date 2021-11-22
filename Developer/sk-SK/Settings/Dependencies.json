@@ -1,7 +1,7 @@
 {
   "php": {
-    "Dependencies": "Vulnerability detection",
-    "LBL_VULNERABILITIES": "Vulnerability detection",
+    "Dependencies": "Detekcia zraniteľnosti",
+    "LBL_VULNERABILITIES": "Detekcia zraniteľnosti",
     "LBL_VULNERABILITIES_DESCRIPTION": "A tool to detect vulnerabilities in the system",
     "LBL_VULNERABILITIES_OK": "No vulnerabilities found",
     "LBL_VULNERABILITIES_OK_DESC": "Do not forget to check the vulnerabilities in your libraries periodically.",

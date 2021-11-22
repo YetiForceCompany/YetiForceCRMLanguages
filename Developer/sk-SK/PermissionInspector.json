@@ -1,12 +1,12 @@
 {
   "php": {
-    "PermissionInspector": "Permission Inspector",
-    "LBL_INSPECTION_PERMISSION_HEADER": "Permission Inspector",
+    "PermissionInspector": "Inšpektor povolení",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Inšpektor povolení",
     "LBL_FULL_USER_NAME": "Užívateľ",
-    "LBL_VIEW_PRVILIGE": "View",
-    "LBL_CREATE_PRIVILIGE": "Create",
-    "LBL_EDIT_PRIVILIGE": "Edit",
-    "LBL_DELETE_PRIVILIGE": "Delete",
+    "LBL_VIEW_PRVILIGE": "Zobraziť",
+    "LBL_CREATE_PRIVILIGE": "Vytvoriť",
+    "LBL_EDIT_PRIVILIGE": "Upraviť",
+    "LBL_DELETE_PRIVILIGE": "Vymazať",
     "LBL_PROFILES": "Profil:",
     "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Module/action excluded from verification of permissions",
     "SEC_USER_IS_ADMIN": "Užívateľ je administrátor",

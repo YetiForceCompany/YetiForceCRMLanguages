@@ -1,7 +1,7 @@
 {
   "php": {
-    "FieldsDependency": "Dependent Fields",
-    "LBL_FIELDS_DEPENDENCY": "Dependent Fields",
+    "FieldsDependency": "Závislé polia",
+    "LBL_FIELDS_DEPENDENCY": "Závislé polia",
     "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration of dynamic fields and blocks depending on specific criteria",
     "LBL_NAME": "Dependent name",
     "LBL_EDIT": "Edit dependent",

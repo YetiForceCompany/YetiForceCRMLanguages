@@ -1,11 +1,11 @@
 {
   "php": {
-    "CMileageLogbook": "Mileage log book",
-    "SINGLE_CMileageLogbook": "Mileage log book",
-    "LBL_ADDITIONAL_INFORMATION": "Additional information",
-    "LBL_BASIC_INFORMATION": "Basic information",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Notes",
+    "CMileageLogbook": "Kniha jázd",
+    "SINGLE_CMileageLogbook": "Kniha jázd",
+    "LBL_ADDITIONAL_INFORMATION": "Doplňujúce informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
+    "LBL_ATTENTION_BLOCK": "Poznámky",
     "FL_SUBJECT": "Predmet",
     "FL_STATUS": "Stav",
     "FL_NUMBER_KILOMETERS": "Number of kilometers",

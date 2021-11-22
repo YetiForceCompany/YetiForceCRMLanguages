@@ -185,8 +185,8 @@
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
-        "progress": 82,
-        "time": "2021-07-02 14:09:30"
+        "progress": 84,
+        "time": "2021-11-22 12:45:52"
     },
     "sh-HR": {
         "prefix": "sh-HR",
@@ -199,15 +199,15 @@
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
-        "progress": 35,
-        "time": "2021-11-04 11:08:14"
+        "progress": 42,
+        "time": "2021-11-22 12:47:56"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 81,
-        "time": "2021-10-18 12:42:07"
+        "time": "2021-11-22 12:46:22"
     },
     "sr-CS": {
         "prefix": "sr-CS",

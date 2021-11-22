@@ -302,6 +302,7 @@
     "LBL_ENCRYPTION": "Criptografia",
     "LBL_YETIFORCE_SHOP": "Loja",
     "LBL_YETIFORCE_ISSUES": "Suporte gratuito",
+    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Suporte pago",
     "LBL_PICKLIST_VARIABLES": "Variáveis Lista Opções",
     "LBL_PICKLIST_VARIABLES_INFO": "Usar esta variável resultará em uma numeração separada para cada valor da Lista de Opções, e um valor curto substituirá a variável.",
