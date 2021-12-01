@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "你确定要删除选定的记录吗？?",
     "LBL_NO": "否",
     "LBL_YES": "是",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "在本次批量编辑中没有修改任何字段值",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "用选定的地址覆盖已有地址 ",
     "OVERWRITE_EXISTING_MSG2": "的详细地址覆盖现有地址吗？?",
     "PM": "下午",

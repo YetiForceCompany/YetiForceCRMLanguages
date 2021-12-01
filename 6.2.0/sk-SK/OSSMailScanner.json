@@ -138,7 +138,7 @@
     "AccontDeleteOK": "Deleted account",
     "No": "No",
     "LBL_MAIL_LOGS": "Mail Logs",
-    "LBL_ACTIVE_MAIL": "Active",
+    "LBL_ACTIVE_MAIL": "Aktívny",
     "LBL_INACTIVE_MAIL": "Neaktívny",
     "LBL_EXCEPTIONS": "Exceptions",
     "LBL_EXCEPTIONS_CREATING_EMAIL": "Addresses omitted while executing an action creating e-mail messages",

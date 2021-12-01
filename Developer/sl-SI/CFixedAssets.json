@@ -9,7 +9,7 @@
     "FL_SUBJECT": "Naziv",
     "FL_TYPE": "Vrsta",
     "FL_STATUS": "Status",
-    "FL_PRODUCENT_DESIGNATION": "Znamka",
+    "FL_PRODUCENT_DESIGNATION": "Manufacturer’s marking",
     "FL_ADDITIONAL_DESIGNATION": "Dodatne oznake",
     "FL_INTERNAL_DESIGNATION": "Interna oznaka",
     "FL_DATE_PRODUCTION": "Production date",

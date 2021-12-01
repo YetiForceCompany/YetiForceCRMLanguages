@@ -32,7 +32,7 @@
     "PLL_ADDRESS": "Address or legal residence address",
     "PLL_PESEL_NUMBER": "PESEL number ( Universal Electronic System for Registration of the Population)",
     "PLL_VAT": "VAT identification number",
-    "PLL_EDUCATION": "Education",
+    "PLL_EDUCATION": "Vzdelanie",
     "PLL_ID_CARD_NUMBER": "ID Card number",
     "PLL_PHONE": "Telefón",
     "PLL_EMAIL": "Email",

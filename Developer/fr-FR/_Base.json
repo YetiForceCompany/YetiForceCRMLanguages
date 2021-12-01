@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Etes-vous sur de vouloir effacer ces enregistrements?",
     "LBL_NO": "Non",
     "LBL_YES": "Oui",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Aucune des valeurs ne sont modifiées en édition de masse",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Ecraser l'adresse existante avec l'",
     "OVERWRITE_EXISTING_MSG2": "adresse sélectionnée?",
     "PM": "PM",

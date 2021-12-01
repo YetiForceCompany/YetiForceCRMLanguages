@@ -8,7 +8,7 @@
     "LBL_ADD_KEY": "Pridať kľúč",
     "LBL_DISPLAY_NAME": "Užívateľ",
     "LBL_EMAIL": "E-mail",
-    "LBL_LOGIN": "Login",
+    "LBL_LOGIN": "Prihlasovacie meno",
     "LBL_SELECT_USER": "Vybrať užívateľov:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV aplikácia nie je aktívna.",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "DAV aplikácie ešte nebola aktivovaná, povoľte ju v config/api.php",

@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Bạn có chắc bạn muốn xóa biểu ghi được chọn?",
     "LBL_NO": "Không",
     "LBL_YES": "Có",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Không có giá trị trường nào được thay đổi trong hàng loạt chỉnh sửa",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Ghi đè lên địa chỉ hiện tại với các phần đã chọn ",
     "OVERWRITE_EXISTING_MSG2": "thông tin địa chỉ?",
     "PM": "PM",

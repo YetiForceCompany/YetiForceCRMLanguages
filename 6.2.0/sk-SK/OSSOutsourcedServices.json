@@ -10,7 +10,7 @@
     "Finished support": "Support terminated",
     "Product Name": "Názov služby",
     "Sub Category": "Subcategory",
-    "Category": "Category",
+    "Category": "Kategória",
     "Date Sold": "Date of sale",
     "Date in Service": "Support termination date",
     "Description": "Popis",
@@ -21,7 +21,7 @@
     "Save": "Uložiť",
     "LBL_GENERATE_EXTENSION": "Generate extension",
     "Selling proposition": "Opportunity",
-    "Active": "Active",
+    "Active": "Aktívny",
     "Inactive": "Neaktívny"
   }
 }

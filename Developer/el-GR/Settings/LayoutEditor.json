@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Inherits from field visibility",
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
+    "LBL_DISABLE_FIELD": "Disable the field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία.",
     "JS_NOTIFY_COPY_TEXT": "Έγινε αντιγραφή στο πρόχειρο",
     "JS_NOTIFY_COPY_TITLE": "Κείμενο",
-    "JS_EXIST_PICKLIST_NAME": "Αυτό το όνομα χρησιμοποιείται ήδη. Θέλετε να την αποθηκεύσετε ως κοινόχρηστη λίστα επιλογών;"
+    "JS_EXIST_PICKLIST_NAME": "Αυτό το όνομα χρησιμοποιείται ήδη. Θέλετε να την αποθηκεύσετε ως κοινόχρηστη λίστα επιλογών;",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
   }
 }

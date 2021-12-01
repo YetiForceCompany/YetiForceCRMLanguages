@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "選択したレコードを削除してもよろしいですか？",
     "LBL_NO": "いいえ",
     "LBL_YES": "はい",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "一括編集ではフィールド値が変更されません",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "既存のアドレスを上書きします。 ",
     "OVERWRITE_EXISTING_MSG2": "住所の詳細?",
     "PM": "午後",

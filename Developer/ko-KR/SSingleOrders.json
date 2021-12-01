@@ -46,7 +46,7 @@
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal 취소 반환",
 		"PLL_PAYPAL_REVERSED": "PayPal 반환",
 		"PLL_NEW": "신규",
-		"PLL_PAYMENT_REVIEW": "결제 검토",
+		"PLL_PAYMENT_REVIEW": "Payment review",
 		"PLL_ON_HOLD": "보류중",
 		"PLL_PROCESSING": "처리중",
 		"PLL_COMPLETE": "완료",

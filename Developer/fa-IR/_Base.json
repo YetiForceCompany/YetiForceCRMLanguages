@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید رکوردهای انتخاب شده را حذف کنید؟",
     "LBL_NO": "خیر",
     "LBL_YES": "بله",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "هیچ یک از مقادیر فیلد در ویرایش انبوه تغییر نکرده است",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "نشانی موجود را با انتخاب شده بازنویسی شود ",
     "OVERWRITE_EXISTING_MSG2": "جزئیات نشانی؟",
     "PM": "بعد از ظهر",

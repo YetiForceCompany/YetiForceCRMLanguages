@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare i record selezionati?",
     "LBL_NO": "No",
     "LBL_YES": "Sì",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Non è stato selezionato alcun campo da modificare",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "Nessun campo è stato selezionato per la modifica del valore ",
     "OVERWRITE_EXISTING_MSG1": "Sovrascrivi l'indirizzo con quello selezionato",
     "OVERWRITE_EXISTING_MSG2": "dettagli indirizzo?",
     "PM": "PM",

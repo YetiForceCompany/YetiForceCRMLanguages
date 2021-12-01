@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Ali ste prepričani, da želite izbrisati izbrane zapise?",
     "LBL_NO": "Ne",
     "LBL_YES": "Da",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Nobena od vrednosti polja niso bila spremenjena v množičnem urejanju",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Prepiši obstoječi naslov z izbranim ",
     "OVERWRITE_EXISTING_MSG2": "podrobnosti naslova?",
     "PM": "Popoldan",

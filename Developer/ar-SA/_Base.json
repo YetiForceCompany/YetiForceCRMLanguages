@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "هل أنت متأكد أنك تريد حذف السجلات المحددة؟",
     "LBL_NO": "لا",
     "LBL_YES": "نعم",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "ولا واحدة من قيم الحقول تم تغيرها في كتلة التعديلات",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "الكتابة فوق العنوان الحالي مع اختيار ",
     "OVERWRITE_EXISTING_MSG2": "تفاصيل العنوان?",
     "PM": "بعد الظهر",

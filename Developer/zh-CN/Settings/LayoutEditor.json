@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Inherits from field visibility",
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
+    "LBL_DISABLE_FIELD": "Disable the field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "更改已保存.",
     "JS_NOTIFY_COPY_TEXT": "已复制到剪贴板",
     "JS_NOTIFY_COPY_TITLE": "文本",
-    "JS_EXIST_PICKLIST_NAME": "该名称已经被使用. 您希望作为共享的名称使用吗?"
+    "JS_EXIST_PICKLIST_NAME": "该名称已经被使用. 您希望作为共享的名称使用吗?",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
   }
 }

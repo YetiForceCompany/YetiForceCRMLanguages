@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Inherits from field visibility",
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
+    "LBL_DISABLE_FIELD": "Disable the field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "ブロック名は既に存在します",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "変更は正常に保存されました。",
     "JS_NOTIFY_COPY_TEXT": "クリップボードにコピーしました",
     "JS_NOTIFY_COPY_TITLE": "テキスト",
-    "JS_EXIST_PICKLIST_NAME": "この名前は既に使用されています。共有選択リストとして保存しますか？"
+    "JS_EXIST_PICKLIST_NAME": "この名前は既に使用されています。共有選択リストとして保存しますか？",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
   }
 }

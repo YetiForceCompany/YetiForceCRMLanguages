@@ -46,7 +46,7 @@
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 94,
-        "time": "2021-11-04 11:08:05"
+        "time": "2021-12-01 09:58:52"
     },
     "es-ES": {
         "prefix": "es-ES",
@@ -158,7 +158,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2021-10-22 07:07:04"
+        "time": "2021-12-01 10:00:08"
     },
     "pt-BR": {
         "prefix": "pt-BR",
@@ -199,8 +199,8 @@
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
-        "progress": 42,
-        "time": "2021-11-22 12:47:56"
+        "progress": 44,
+        "time": "2021-12-01 10:01:18"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -249,7 +249,7 @@
         "crowdinCode": "vi",
         "name": "Vietnamese",
         "progress": 90,
-        "time": "2021-07-02 14:15:36"
+        "time": "2021-12-01 10:02:06"
     },
     "zh-CN": {
         "prefix": "zh-CN",

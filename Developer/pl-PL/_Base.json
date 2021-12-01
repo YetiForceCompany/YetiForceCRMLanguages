@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć zaznaczone rekordy?",
     "LBL_NO": "Nie",
     "LBL_YES": "Tak",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Żaden z rekordów nie został zmieniony podczas masowej edycji",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "Żadne pole nie zostało wybrane do zmiany wartości ",
     "OVERWRITE_EXISTING_MSG1": "Obecny adres zostanie nadpisany przez adres zaznaczony ",
     "OVERWRITE_EXISTING_MSG2": "szczegóły adresu?",
     "PM": "PM",

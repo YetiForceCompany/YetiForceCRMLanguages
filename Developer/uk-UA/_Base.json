@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Ви дійсно бажаєте видалити вибрані записи?",
     "LBL_NO": "Ні",
     "LBL_YES": "Так",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Жодне з значень поля не змінюється в масовому редагуванні",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Перезаписати існуючу адресу вибраною ",
     "OVERWRITE_EXISTING_MSG2": "деталі адреси?",
     "PM": "PM",

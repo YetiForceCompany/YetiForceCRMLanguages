@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Heranças da visibilidade do campo",
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Conta atribuída ao contato",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
+    "LBL_DISABLE_FIELD": "Desativar o campo"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "Changes saved successfully.",
     "JS_NOTIFY_COPY_TEXT": "Copied to clipboard",
     "JS_NOTIFY_COPY_TITLE": "Text",
-    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?"
+    "JS_EXIST_PICKLIST_NAME": "This name is already used. Do you want to save it as shared picklist?",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
   }
 }

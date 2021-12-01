@@ -3,8 +3,8 @@
     "providertype": "Provider",
     "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS max 160 characters allowed",
     "username": "Užívateľské meno",
-    "password": "Password",
-    "isactive": "Active",
+    "password": "Heslo",
+    "isactive": "Aktívny",
     "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Send SMS to the selected numbers",
     "LBL_STEP_1": "Step 1",
     "LBL_STEP_2": "Step 2",
@@ -19,7 +19,7 @@
     "PLL_FAILED": "Failed",
     "LBL_MASS_SEND_SMS_INFO": "All text messages are sent in cron",
     "LBL_CHECK_STATUS": "Overiť stav",
-    "message": "Message",
+    "message": "Správa",
     "LBL_SMSNOTIFIER_INFORMATION": "SMS information"
   }
 }

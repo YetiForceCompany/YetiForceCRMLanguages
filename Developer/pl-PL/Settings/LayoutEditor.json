@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Dziedziczy z widoczności pola",
     "LBL_LOGGED_CONTACT": "Kontakt jest aktualnie zalogowany",
     "LBL_ACCOUNT_ON_CONTACT": "Kontrahent przypisany do kontaktu",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Kontrahent obecnie zalogowanego kontaktu"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Kontrahent obecnie zalogowanego kontaktu",
+    "LBL_DISABLE_FIELD": "Wyłącz pole"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "Pomyślnie zapisano zmiany.",
     "JS_NOTIFY_COPY_TEXT": "Skopiowano do schowka",
     "JS_NOTIFY_COPY_TITLE": "Tekst",
-    "JS_EXIST_PICKLIST_NAME": "Ta nazwa jest już używana przez pole słownikowe. Czy chcesz je zapisać jako słownik współdzielony?"
+    "JS_EXIST_PICKLIST_NAME": "Ta nazwa jest już używana przez pole słownikowe. Czy chcesz je zapisać jako słownik współdzielony?",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Czy na pewno chcesz wyłączyć to pole?"
   }
 }

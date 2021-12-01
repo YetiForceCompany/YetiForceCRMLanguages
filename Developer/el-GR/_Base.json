@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να διαγράψετε τις επιλεγμένες εγγραφές;",
     "LBL_NO": "Όχι",
     "LBL_YES": "Ναί",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Καμία από τις τιμές πεδίου δεν αλλάζει στη μαζική επεξεργασία",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Αντικαταστήστε την υπάρχουσα διεύθυνση με την επιλεγμένη ",
     "OVERWRITE_EXISTING_MSG2": "στοιχεία διεύθυνσης;",
     "PM": "Μ.Μ.",

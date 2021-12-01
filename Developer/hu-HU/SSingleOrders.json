@@ -46,7 +46,7 @@
 		"PLL_PAYPAL_CANCELED_REVERSAL": "PayPal fizetést törölték,",
 		"PLL_PAYPAL_REVERSED": "PayPal visszafordított",
 		"PLL_NEW": "Új",
-		"PLL_PAYMENT_REVIEW": "Fizetések áttekintése",
+		"PLL_PAYMENT_REVIEW": "Payment review",
 		"PLL_ON_HOLD": "Függő",
 		"PLL_PROCESSING": "Feldolgozás alatt",
 		"PLL_COMPLETE": "Teljesítve",

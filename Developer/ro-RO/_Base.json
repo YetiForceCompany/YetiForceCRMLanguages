@@ -1657,7 +1657,7 @@
     "LBL_MASS_DELETE_CONFIRMATION": "Are you sure you want to delete the selected records?",
     "LBL_NO": "Nu",
     "LBL_YES": "Da",
-    "NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT": "Nici una dintre valorile campului nu este modificata in editia de masa",
+    "JS_NONE_FIELD_MARKED_IN_MASS_EDIT": "No field has been selected for value change ",
     "OVERWRITE_EXISTING_MSG1": "Inlocuiti adresa existenta cu cea selectata ",
     "OVERWRITE_EXISTING_MSG2": "detalii adresa?",
     "PM": "PM",

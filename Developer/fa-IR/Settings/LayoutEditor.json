@@ -219,7 +219,8 @@
     "LBL_WSA_VISIBILITY_DEFAULT": "Inherits from field visibility",
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
-    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in"
+    "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
+    "LBL_DISABLE_FIELD": "Disable the field"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "نام بلوک در حال حاضر موجود است",
@@ -255,6 +256,7 @@
     "JS_SAVE_CHANGES": "تغییرات با موفقیت ذخیره گردید.",
     "JS_NOTIFY_COPY_TEXT": "کپی به کلیپ بورد",
     "JS_NOTIFY_COPY_TITLE": "متن",
-    "JS_EXIST_PICKLIST_NAME": "این  نام در حال حاضر در حال استفاده است. آیا از اینکه به عنوان یک لیست انتخاب مشترک ذخیره گردد مطمئن می‌باشید؟"
+    "JS_EXIST_PICKLIST_NAME": "این  نام در حال حاضر در حال استفاده است. آیا از اینکه به عنوان یک لیست انتخاب مشترک ذخیره گردد مطمئن می‌باشید؟",
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
   }
 }
