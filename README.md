@@ -6,6 +6,7 @@ Our team adds translations in English on GitHub and they are synchronized with C
 
 # YetiForceCRM
 https://github.com/YetiForceCompany/YetiForceCRM
+
 https://yetiforce.com/pl
 
 # Status
