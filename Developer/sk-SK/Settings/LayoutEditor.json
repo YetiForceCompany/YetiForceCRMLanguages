@@ -94,7 +94,7 @@
     "LBL_MULTI_REFERENCE_VALUE_FILTER_FIELD": "Filter by field",
     "LBL_MULTI_REFERENCE_VALUE_FILTER_VALUE": "Filter by value",
     "LBL_ADD_RELATION": "Add relation",
-    "LBL_REMOVE_RELATION": "Remove relation",
+    "LBL_REMOVE_RELATION": "Odstrániť prepojenie",
     "LBL_RELATION_TYPE": "Relation type",
     "LBL_RELATION_ACTIONS": "Akcie",
     "LBL_SOURCE_MODULE": "Source module",
@@ -220,7 +220,8 @@
     "LBL_LOGGED_CONTACT": "Contact currently logged in",
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
     "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
-    "LBL_DISABLE_FIELD": "Deaktivovať pole"
+    "LBL_DISABLE_FIELD": "Deaktivovať pole",
+    "LBL_SAVE_AND_CLOSE": "Uložiť a zatvoriť"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",
@@ -249,7 +250,7 @@
     "JS_UPDATED_FIELD_LIST_MODULE_RELATED": "Field list has been updated",
     "JS_FIELD_CAN_NOT_BE_EMPTY": "Field cannot be empty",
     "JS_RESERVED_PICKLIST_NAME": "This picklist name is reserved.",
-    "JS_REMOVE_RELATION_OK": "Successfully deleted a relation.",
+    "JS_REMOVE_RELATION_OK": "Prepojenie bolo úspešne odstránené.",
     "JS_DELETE_RELATION_CONFIRMATION": "Are you sure you want to delete?",
     "JS_DELETE_INVENTORY_CONFIRMATION": "Are you sure you want to remove the element from the block?",
     "JS_EXTENDED_MODULE": "Are you sure you want to change the module type?",

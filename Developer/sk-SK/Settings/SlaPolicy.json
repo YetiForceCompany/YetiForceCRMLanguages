@@ -4,7 +4,9 @@
     "LBL_NAME": "Názov politiky",
     "LBL_EDIT": "Upraviť politiku SLA",
     "LBL_CREATE": "Vytvoriť novú politiku SLA",
-    "LBL_SOURCE_MODULE": "Modul"
+    "LBL_SOURCE_MODULE": "Modul",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Dostupné globálne pre výpočet času záznamu",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Ak vyberiete túto možnosť, politika SLA bude k dispozícii na výpočet časov záznamu, aj keď položka nesúvisí so žiadnou SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "Vyberte otváracie hodiny",

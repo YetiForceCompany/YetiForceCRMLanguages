@@ -4,7 +4,9 @@
     "LBL_NAME": "정책 이름",
     "LBL_EDIT": "SLA 정책 편집",
     "LBL_CREATE": "SLA 정책 생성",
-    "LBL_SOURCE_MODULE": "모듈"
+    "LBL_SOURCE_MODULE": "모듈",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "근무시간선택",

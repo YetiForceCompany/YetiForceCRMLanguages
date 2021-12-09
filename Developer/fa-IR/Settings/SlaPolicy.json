@@ -4,7 +4,9 @@
     "LBL_NAME": "نام توافقنامه خدمات",
     "LBL_EDIT": "ویرایش موافقت نامه سطح خدمات SLA",
     "LBL_CREATE": "ایجاد موافقت نامه سطح خدمات SLA",
-    "LBL_SOURCE_MODULE": "ماژول"
+    "LBL_SOURCE_MODULE": "ماژول",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "انتخاب ساعات کاری",
