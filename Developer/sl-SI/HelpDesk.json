@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Reklamacija ni povezana z nobenim podjetjem.  Prosimo, da jo povežete z enim od podjetij",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Reklamacija ni povezana z nobeno vzdrževalno pogodbo",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Ta stranka nima vzdrževalne pogodbe",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Določite SLA tej reklamaciji",
     "LBL_NOTICE_WELCOME": "Dobrodošli na portalu",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

@@ -44,7 +44,7 @@
 		"LBL_SECURITY": "Bezpieczeństwo",
 		"LBL_NO_FILE_WRITE_RIGHTS": "Brak uprawnień do zapisu",
 		"LBL_SECURITY_CONF": "Ustawienia bezpieczeństwa",
-		"LBL_SECURITY_CONF_DESC": "Wykryto błędy w konfiguracji parametrów związanych z bezpieczeństwem systemu. Mogą wystąpić problemy z działaniem systemu, lub wprowadzane dane mogą zostać uszkodzone, lub usunięte. Więcej informacji znajduje się w artykule %s. Następujące parametry powinny zostać dostosowane:%s",
+		"LBL_SECURITY_CONF_DESC": "Wykryto błędy w konfiguracji parametrów związanych z bezpieczeństwem systemu. Mogą wystąpić problemy z działaniem systemu, lub wprowadzane dane mogą zostać uszkodzone, lub usunięte. Więcej informacji znajduje się w artykule %s. Następujące parametry powinny zostać dostosowane:",
 		"LBL_LIB_REQUIRED": "Wymagane",
 		"LBL_LIB_OPTIONAL": "Opcjonalne",
 		"LBL_CRON_STATE": "Status mechanizmu cron",

@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Bu desteğin, herhangi bir Hesapla ilgisi yoktur. Lütfen bir ilişki oluşturun. ",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Destek hiçbir SLA ile ilgili değildir.",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Hesabın aktif SLA'sı yok",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Bu düğmeye basarak bu SLA'yi destekle ilişkilendirin.",
     "LBL_NOTICE_WELCOME": "Platforma hoş geldiniz",
     "LBL_MAIL_NOTICE_CREATE": "Mesajınızı aldık ve yakında işlenecek. Herhangi bir ek bilgi veya sorunuz varsa, lütfen bu e-postayı yanıtlayın. E-posta yazışmalarının sürekliliğini korumak için, lütfen bilet numarasını e-posta konusundan kaldırmayın.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

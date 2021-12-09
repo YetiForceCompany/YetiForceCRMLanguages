@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Tiket nije povezan s bilo kojim Klijentom. Molimo vas da stvorite vezu.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Tiket nije povezan sa nijednim SLA-om",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Klijent nema aktivnih SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Pritiskom na ovo dugme ovaj SLA se odnosi na tiket.",
     "LBL_NOTICE_WELCOME": "Dobrodošli na platformu",
     "LBL_MAIL_NOTICE_CREATE": "Primili smo vašu poruku i ona će uskoro biti obrađena. Ako imate dodatnih informacija ili pitanja, odgovorite na ovaj e-mail. Da biste sačuvali kontinuitet dopisivanja putem e-pošte, nemojte uklanjati broj ulaznice iz predmeta e-pošte.",
     "LBL_MAIL_NOTICE_CLOSED": "Naši stručnjaci su riješili vašu kartu. Ispod možete pronaći detaljne informacije o radu koji smo obavili. Ako imate dodatnih informacija ili pitanja, odgovorite na ovaj e-mail. Da biste sačuvali kontinuitet dopisivanja putem e-pošte, nemojte uklanjati broj ulaznice iz predmeta e-pošte.",

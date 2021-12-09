@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Le ticket n'est associé à aucun compte. Veuillez créer une relation.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Le ticket n'est pas lié à un contrat de service",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Le compte n'a pas de contrat de service actif",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "En appuyant sur ce bouton, le contrat de service sera associé au ticket.",
     "LBL_NOTICE_WELCOME": "Bienvenue sur le portail",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

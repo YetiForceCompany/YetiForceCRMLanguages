@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "服务单没有关联任何客户，请创建一个关联.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "该工单没有关联任何服务等级协议",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "这个客户没有活动的服务合同",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "按下按钮把服务合同关联到服务单.",
     "LBL_NOTICE_WELCOME": "欢迎来到平台",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

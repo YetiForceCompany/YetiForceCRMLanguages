@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Yêu cầu không liên quan đến bất kỳ tài khoản. Hãy tạo ra một mối quan hệ.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Vé không liên quan đến bất kỳ thỏa thuận",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Tài khoản không có thoả thuận dịch vụ (SLA)",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Nhấn nút này sẽ liên quan này thỏa thuận đến vé.",
     "LBL_NOTICE_WELCOME": "Chào mừng tới nền tảng",
     "LBL_MAIL_NOTICE_CREATE": "Chúng tôi đã nhận được tin nhắn của bạn và nó sẽ sớm được xử lý.\nNếu bạn có bất kỳ thông tin hoặc câu hỏi bổ sung nào, vui lòng trả lời email này. Để duy trì tính liên tục của thư từ qua email, vui lòng không xóa số Ticket khỏi chủ đề email.",
     "LBL_MAIL_NOTICE_CLOSED": "Các chuyên gia của chúng tôi đã giải quyết Ticket của bạn. Bạn có thể tìm thấy thông tin chi tiết về công việc chúng tôi đã thực hiện dưới đây.\nNếu bạn có bất kỳ thông tin hoặc câu hỏi bổ sung nào, vui lòng trả lời email này. Để duy trì tính liên tục của thư từ qua email, vui lòng không xóa số Ticket khỏi chủ đề email.",

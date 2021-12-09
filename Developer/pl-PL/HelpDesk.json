@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Zgłoszenie nie jest podpięte pod kontrahenta, należy powiązać z kontrahentem",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Zgłoszenie nie ma podpiętej umowy SLA",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Kontrahent nie ma aktywnych umów SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Naciśnięcie tego przycisku spowoduje powiązanie tej umowy ze zgłoszeniem",
     "LBL_NOTICE_WELCOME": "Witaj w platformie",
     "LBL_MAIL_NOTICE_CREATE": "Twoje zgłoszenie zostało przyjęte i oczekuje na realizację.\nW przypadku dodatkowych informacji/pytań, prosimy o ich przesłanie w odpowiedzi na tę wiadomość.\nAby zachować ciągłość korespondencji, nie usuwaj numeru zgłoszenia z tematu wiadomości.",
     "LBL_MAIL_NOTICE_CLOSED": "Nasi specjaliści zakończyli realizację Twojego zgłoszenia. Poniżej znajdziesz szczegółowe informacje na temat wykonanych prac.\nW przypadku dodatkowych informacji/pytań, prosimy o ich przesłanie w odpowiedzi na tę wiadomość. Aby zachować ciągłość korespondencji, nie usuwaj numeru zgłoszenia z tematu wiadomości.",

@@ -63,6 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "言語アップデート",
     "LBL_LANGUAGES_UPDATER_DESC": "CRMシステムにインストールされている言語の更新が可能です。言語管理に行き、更新ボタンをクリックしてください。",
     "LBL_UPDATER_DESC": "お使いのシステムバージョンではアップデートが可能です。アップデートをお勧めします。",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
     "Mail": "Mail"
   }
 }

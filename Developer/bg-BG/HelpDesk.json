@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Запитването не е свържано с акаунт. Моля, създайте връзка.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Запитването не е свържено с SLA",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Сметката няма активен SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Натискането на този бутон ще свързе този SLA с направеното запитване.",
     "LBL_NOTICE_WELCOME": "Добре дошли в платформата",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

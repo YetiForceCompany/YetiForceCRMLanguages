@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "درخواست به هیچ حسابی مرتبط نمی‌باشد. لطفا یک رابطه ایجاد نمایید.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "بلیط مربوط به هیچ توافقنامه سطح ارايه‌ی خدماتی نمی‌باشد",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "حساب هیچ موافقتنامه سطح ارایه خدمات SLA فعالی ندارد",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "با فشار دادن این دکمه ، این SLA را به تیکت مربوط می کنید.",
     "LBL_NOTICE_WELCOME": "به پلتفرم خوش آمدید",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

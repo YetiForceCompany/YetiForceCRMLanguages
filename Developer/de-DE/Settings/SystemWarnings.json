@@ -63,6 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "Sprach-Updates",
     "LBL_LANGUAGES_UPDATER_DESC": "Ein Update der auf Ihrem CRM-System installierten Sprachen ist verfügbar. Gehen Sie zur Sprachverwaltung und klicken Sie auf die Schaltfläche Aktualisieren.",
     "LBL_UPDATER_DESC": "Updates für Ihre Systemversion sind verfügbar. Wir empfehlen eine Aktualisierung.",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
     "Mail": "E-Mail"
   }
 }

@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "The ticket is not related to any Account. Please create a relation.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "The ticket is not related to any SLA",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "The Account has no active SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Pressing this button will relate this SLA to ticket.",
     "LBL_NOTICE_WELCOME": "Welcome to platform",
     "LBL_MAIL_NOTICE_CREATE": "Vi har mottagit ditt meddelande och det kommer snart att behandlas.\nOm du har ytterligare information eller frågor, vänligen svara på detta e-postmeddelande. För att bevara kontinuiteten i e-postkorrespondensen, ta inte bort ärendenumret från e-postämnet.",
     "LBL_MAIL_NOTICE_CLOSED": "Våra experter har löst ditt supportärende. Nedan hittar du detaljerad information om det arbete vi utfört.\nOm du har ytterligare information eller frågor, vänligen svara på detta e-postmeddelande. För att bevara kontinuiteten i e-postkorrespondensen, ta inte bort ärendenumret från e-postämnet.",

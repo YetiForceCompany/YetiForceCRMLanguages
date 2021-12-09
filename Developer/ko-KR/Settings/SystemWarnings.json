@@ -63,6 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "언어 업데이트한 사람",
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
     "LBL_UPDATER_DESC": "업데이트가 있습니다. 업데이트할 것을 권장합니다.",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
     "Mail": "Mail"
   }
 }

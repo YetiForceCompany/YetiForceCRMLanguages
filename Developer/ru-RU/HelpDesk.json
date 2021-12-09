@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "Тикет не связан с какой-либо счетом. Пожалуйста, создайте связь.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Тикет не связан ни с одним SLA.",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "К аккаунту не привязаны SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Нажатие этой кнопки привяжет данный SLA к тикету.",
     "LBL_NOTICE_WELCOME": "Добро пожаловать в систему",
     "LBL_MAIL_NOTICE_CREATE": "We received your message and it will soon be processed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
     "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",

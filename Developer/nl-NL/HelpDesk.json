@@ -74,7 +74,6 @@
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "De ticket is niet gerelateerd aan een account. Maak een relatie.",
     "LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK": "Het ticket is niet gerelateerd aan een SLA",
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Het Account heeft geen actieve SLA",
-    "LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC": "Door op deze knop te drukken wordt deze SLA gerelateerd aan de ticket.",
     "LBL_NOTICE_WELCOME": "Welkom bij platform",
     "LBL_MAIL_NOTICE_CREATE": "We hebben je bericht ontvangen en het zal binnenkort worden verwerkt.\nAls je aanvullende informatie of vragen hebt, beantwoord dan deze e-mail. Om de continuïteit van de e-mailcorrespondentie te behouden, graag het ticketnummer niet uit het e-mailonderwerp verwijderen.",
     "LBL_MAIL_NOTICE_CLOSED": "Onze experts hebben uw ticket opgelost. Hieronder vindt u gedetailleerde informatie over het werk dat we uitvoeren.\nAls u aanvullende informatie of vragen heeft, beantwoord dan deze e-mail. Om de continuïteit van de e-mailcorrespondentie te behouden, kunt u het ticketnummer niet uit het e-mailonderwerp verwijderen.",

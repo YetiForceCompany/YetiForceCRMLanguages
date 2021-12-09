@@ -63,6 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "Ažuriranje jezika",
     "LBL_LANGUAGES_UPDATER_DESC": "Dostupno je ažuriranje jezika instaliranih na vašem CRM sistemu. Idite na Upravljanje jezikom i kliknite gumb za ažuriranje.",
     "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje.",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
     "Mail": "Pošta"
   }
 }
