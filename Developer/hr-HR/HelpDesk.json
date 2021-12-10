@@ -90,7 +90,7 @@
     "LBL_UPDATE": "Ažuriraj",
     "LBL_ADD_TIME_CONTROL": "Dodajte radno vrijeme prije nego što zatvorite tiket",
     "LBL_CLOSE_RELATED_TICKETS": "Prije nego što zatvorite ovuaj tiket, zatvorite povezane tikete",
-    "LBL_HELPDESK_DEPENDENTS": "Tiketi",
+    "LBL_HELPDESK_DEPENDENTS": "Tickets",
     "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }
