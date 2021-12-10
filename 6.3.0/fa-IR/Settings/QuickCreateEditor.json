@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "ویرایشگر ایجاد سریع",
+    "LBL_QUICK_CREATE_EDITOR": "فیلد - ایجاد سریع",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "ماژولی که اجازه تغییر طرح زمینه را در پنجره ایجاد سریع را می‌دهد",
+    "LBL_SEQUENCE": "دنباله فیلد",
+    "LBL_SAVE_FIELD_SEQUENCE": "ذخیره سلسله ترتیب فیلد"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "ترتیب فیلدها به‌روزرسانی شد"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Lịch sử gọi điện",
+    "SINGLE_CallHistory": "Lịch sử gọi điện",
+    "LBL_CALLHISTORY_INFORMATION": "Thông tin lịch sử cuộc gọi",
+    "LBL_CUSTOM_INFORMATION": "Thông tin bổ sung",
+    "LBL_PHONE_INFORMATION": "Thông tin điện thoại",
+    "LBL_RELATED_INFORMATION": "Thông tin liên quan",
+    "LBL_TYPE": "Kiểu",
+    "LBL_FROM_NUMBER": "TỪ số",
+    "LBL_TO_NUMBER": "ĐẾN số",
+    "LBL_LOCATION": "Địa điểm",
+    "LBL_PHONE_CALL_ID": "Mã gọi trên điện thoại",
+    "LBL_DURATION": "Thời lượng gọi",
+    "LBL_STATUS": "Trạng thái",
+    "LBL_START_TIME": "Cuộc gọi bắt đầu",
+    "LBL_END_TIME": "Cuộc gọi kết thúc",
+    "LBL_COUNTRY_CODE": "Mã quốc gia",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "Mã địa chỉ",
+    "LBL_SIMSERIAL": "Số SIM",
+    "LBL_SUBSCRIBERID": "Số thuê bao",
+    "LBL_DESTINATION": "Nơi được gọi",
+    "LBL_SOURCE": "Nguồn gọi",
+    "Record Id": "Mã bản ghi",
+    "Outgoing missed": "Gọi đi bị nhỡ",
+    "Outgoing received": "Gọi đi được nhận",
+    "Incoming": "Gọi đến được nhận",
+    "Missed": "Gọi đi bị nhỡ",
+    "Voicemail": "Thư thoại đến"
+  }
+}

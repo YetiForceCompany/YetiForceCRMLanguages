@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "para",
+    "LBL_EXPORT_TO_PDF": "Exportar para PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Informações da Morada",
+    "LBL_VENDORS_ADD_TASK": "Adicionar Tarefa",
+    "LBL_VENDORS_ADD_EVENT": "Adicionar Evento",
+    "300-Sales-Software": "300-Sales-Software",
+    "301-Sales-Hardware": "301-Sales-Hardware",
+    "302-Rental-Income": "302-Rental-Income",
+    "303-Interest-Income": "303-Interest-Income",
+    "304-Sales-Software-Support": "304-Sales-Software-Support",
+    "305-Sales Other": "305-Sales other",
+    "306-Internet Sales": "306-Internet sales",
+    "307-Service-Hardware Labor": "307-Service-Hardware Labor",
+    "308-Sales-Books": "308-Sales-Books",
+    "Email": "E-mail principal",
+    "GL Account": "Conta GL",
+    "LBL_VENDOR_INFORMATION": "Detalhes do Fornecedor",
+    "Phone": "Telefone principal",
+    "SINGLE_Vendors": "Fornecedor",
+    "Vendor Name": "Nome do Fornecedor",
+    "Vendor No": "Cod. Fornecedor",
+    "Vendors": "Fornecedores",
+    "Website": "Site",
+    "LBL_BUILDING_NUMBER": "Número do edifício",
+    "LBL_LOCAL_NUMBER": "Número do Escritório"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Apagar este fornecedor vai remover o seus pedidos de compra relacionados. Tem a certeza de que deseja excluir este fornecedor ?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Apagar estes fornecedores vai remover o seus pedidos de compra relacionados. Tem certeza de que deseja excluir os registos selecionados?"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Eseménykezelők",
+    "LBL_EVENT_HANDLER": "Eseménykezelők",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Esemény neve",
+    "LBL_EVENT_DESC": "Esemény leírása",
+    "LBL_INCLUDE_MODULES": "Modulok hozzáadása",
+    "LBL_EXCLUDE_MODULES": "Modulok kizárása",
+    "LBL_EVENT_IS_ACTIVE": "Aktív",
+    "LBL_EDIT_VIEW_PRESAVE": "Érvényesítés előtt a rekord mentése",
+    "LBL_ENTITY_CHANGE_STATE": "Change state",
+    "LBL_ENTITY_BEFORE_SAVE": "Before save",
+    "LBL_ENTITY_AFTER_SAVE": "After save"
+  }
+}

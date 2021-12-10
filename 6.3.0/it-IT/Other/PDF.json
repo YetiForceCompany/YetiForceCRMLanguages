@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_INVOICE": "Fattura",
+    "LBL_INVOICE_NUMBER": "Fattura numero",
+    "LBL_TO_FINVOICE_NUMBER": "Alla fattura numero",
+    "LBL_INVOICE_PROFORMA": "Fattura proforma",
+    "LBL_RECIPIENT": "Destinatario",
+    "LBL_ORDER": "Ordine",
+    "LBL_SUBMIT_ORDER": "Persona autorizzata a inviare l'ordine",
+    "LBL_TO_PAY": "Totale",
+    "LBL_TO_PAY_WORD": "Totale (in lettere)",
+    "LBL_DEALER": "Cedente",
+    "LBL_BUYER": "Acquirente",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Persona autorizzata a ricevere",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Persona autorizzata a emettere",
+    "LBL_SALES_QUOTE_FOR": "Preventivo per",
+    "LBL_DATE_EXECUTION": "Data di completamento",
+    "LBL_STAGE": "Emesso da",
+    "LBL_VALID_UNTIL": "Valido fino al",
+    "LBL_QUOTE_NUMBER": "Numero preventivo",
+    "LBL_DETAILS": "Dettagli",
+    "LBL_COMMENTS": "Commenti",
+    "LBL_FIRST_NAME": "Nome",
+    "LBL_LAST_NAME": "Cognome",
+    "LBL_PHONE": "Telefono",
+    "LBL_EMAIL": "Email",
+    "LBL_VATID": "Partita IVA",
+    "LBL_SALE_DATE": "Data vendita",
+    "LBL_PLACE_DATE": "Luogo, data"
+  }
+}

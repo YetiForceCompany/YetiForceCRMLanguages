@@ -1,0 +1,27 @@
+{
+  "php": {
+    "BruteForce": "Fuerza bruta",
+    "LBL_NUMBER_OF_ATTEMPTS": "Número de intentos",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "Bloqueo del tiempo (minutos)",
+    "LBL_SETTINGS": "Ajustes",
+    "LBL_BLOCKED_IP": "Dirección IP bloqueada",
+    "LBL_SAVE_SUCCESS": "Los cambios han sido guardados",
+    "LBL_UNBLOCK_FAIL": "La dirección IP no se ha desbloqueado",
+    "LBL_UNBLOCK_SUCCESS": "Se ha desbloqueado la dirección IP",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_IP": "Dirección IP",
+    "LBL_DATE": "Fecha",
+    "LBL_USERS": "Usuarios",
+    "LBL_BROWSERS": "Navegadores",
+    "LBL_UNBLOCK": "Desbloquear",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Usuarios para notificaciones",
+    "LBL_BRUTEFORCE_ACTIVE": "Activo",
+    "LBL_VIEW_SHOW": "Fuerza bruta",
+    "LBL_BRUTEFORCE": "Fuerza bruta",
+    "LBL_SENT_NOTIFICATIONS": "Enviar notificaciones"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Error al guardar."
+  }
+}

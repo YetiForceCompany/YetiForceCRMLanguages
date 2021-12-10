@@ -1,0 +1,26 @@
+{
+  "php": {
+    "providertype": "プロバイダー",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMSの最大160文字を許可",
+    "username": "ユーザ名",
+    "password": "パスワード",
+    "isactive": "有効",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "選択した番号にSMSを送信",
+    "LBL_STEP_1": "ステップ 1",
+    "LBL_STEP_2": "ステップ 2",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "送信する電話番号フィールドを選択してください",
+    "LBL_TYPE_THE_MESSAGE": "メッセージを入力",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "ここにメッセージを書いてください",
+    "LBL_ADD_MORE_FIELDS": "さらにフィールドを追加",
+    "LBL_SERVER_CONFIG": "サーバ設定",
+    "FL_STATUS": "ステータス",
+    "PLL_UNDEFINED": "未設定",
+    "PLL_DELIVERED": "配信済み",
+    "PLL_FAILED": "失敗した",
+    "LBL_MASS_SEND_SMS_INFO": "すべてのテキストメッセージは cron で送信されます",
+    "LBL_CHECK_STATUS": "ステータスの確認",
+    "message": "メッセージ",
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS情報",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+  }
+}

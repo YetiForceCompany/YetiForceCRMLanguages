@@ -1,0 +1,26 @@
+{
+  "php": {
+    "providertype": "Провайдер",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "СМС максимум 160 символів",
+    "username": "Ім'я користувача",
+    "password": "Пароль",
+    "isactive": "Активний",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Відправити SMS на обрані номери",
+    "LBL_STEP_1": "Крок 1",
+    "LBL_STEP_2": "Крок 2",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Виберіть поля номер телефону для відправки",
+    "LBL_TYPE_THE_MESSAGE": "Введіть повідомлення",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "введіть тут своє повідомлення",
+    "LBL_ADD_MORE_FIELDS": "Додати більше полів",
+    "LBL_SERVER_CONFIG": "Конфігурація сервера",
+    "FL_STATUS": "Статус",
+    "PLL_UNDEFINED": "Невизначено",
+    "PLL_DELIVERED": "Доставлено",
+    "PLL_FAILED": "Невдало",
+    "LBL_MASS_SEND_SMS_INFO": "Всі текстові повідомлення надсилаються через cron",
+    "LBL_CHECK_STATUS": "Перевірити статус",
+    "message": "Повідомлення",
+    "LBL_SMSNOTIFIER_INFORMATION": "Інформація SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+  }
+}

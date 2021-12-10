@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Goedkeuringen register",
+    "SINGLE_ApprovalsRegister": "Goedkeuring Registreren",
+    "LBL_CUSTOM_INFORMATION": "Aangepaste Information",
+    "LBL_BASIC_INFORMATION": "Algemeen",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving Details",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Omschrijving",
+    "FL_APPROVAL": "Goedkeuring",
+    "FL_TYPE": "Type",
+    "FL_STATUS": "Status",
+    "FL_REGISTRATION_DATE": "Invoerdatum",
+    "PLL_FOR_VERIFICATION": "Voor verificatie",
+    "PLL_ACCEPTED": "Geaccepteerd",
+    "PLL_REJECTED": "Afgewezen",
+    "PLL_ACCEPTANCE": "Acceptatie",
+    "PLL_RESIGNATION": "Afwijzing"
+  }
+}

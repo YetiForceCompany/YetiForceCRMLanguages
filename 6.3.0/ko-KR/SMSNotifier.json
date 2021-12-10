@@ -1,0 +1,26 @@
+{
+  "php": {
+    "providertype": "공급자",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS 최대 160 자 허용",
+    "username": "사용자 이름",
+    "password": "비밀번호",
+    "isactive": "활성",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "선택한 번호로 SMS 보내기",
+    "LBL_STEP_1": "1단계",
+    "LBL_STEP_2": "2단계",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "전송할 전화번호 필드항목 선택",
+    "LBL_TYPE_THE_MESSAGE": "메시지를 입력하십시요.",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "여기에 메시지 입력하세요",
+    "LBL_ADD_MORE_FIELDS": "더 많은 필드 추가",
+    "LBL_SERVER_CONFIG": "서버 환경설정",
+    "FL_STATUS": "상태",
+    "PLL_UNDEFINED": "알 수 없음",
+    "PLL_DELIVERED": "전달됨",
+    "PLL_FAILED": "실패함",
+    "LBL_MASS_SEND_SMS_INFO": "모든 문자 메시지는 cron으로 전송됩니다.",
+    "LBL_CHECK_STATUS": "상태 확인",
+    "message": "메시지",
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS 정보",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+  }
+}

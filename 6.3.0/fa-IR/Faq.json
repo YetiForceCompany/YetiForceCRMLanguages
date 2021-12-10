@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "سوالات متداول",
+    "SINGLE_Faq": "سوالات متداول",
+    "Draft": "پیش‌نویس",
+    "FL_SUBJECT": "موضوع",
+    "FL_CONTENT": "محتوا",
+    "FL_CATEGORY": "دسته بندی",
+    "FL_ACCOUNT": "حساب",
+    "FL_VIEWS": "مشاهده",
+    "PLL_PAGE": "صفحه",
+    "PLL_PRESENTATION": "پرزنتیشن",
+    "LBL_VIEW_KNOWLEDGE_BASE": "پایگاه دانش",
+    "LBL_PREVIOUS": "قبلی",
+    "LBL_NEXT": "بعدی",
+    "FL_STATUS": "وضعیت",
+    "LBL_ARTICLE": "مقاله",
+    "FL_FEATURED": "ویژه",
+    "LBL_RELATED_FAQ": "مطالب مرتبط",
+    "FL_INTRODUCTION": "مقدمه",
+    "Faq No": "شماره FAQ",
+    "General": "عمومی",
+    "LBL_FAQ_INFORMATION": "اطلاعات FAQ",
+    "LBL_RECORDS_LIST": "لیست سوالات متداول",
+    "Obsolete": "منسوخ",
+    "Published": "منتشر شده",
+    "Question": "سوال"
+  }
+}

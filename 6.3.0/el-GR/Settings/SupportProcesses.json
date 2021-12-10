@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Υποστήριξη",
+    "LBL_GENERAL_CONFIGURATION": "Γενική διαμόρφωση",
+    "LBL_OTHER": "Άλλα",
+    "LBL_INFO": "Πληροφορίες",
+    "LBL_TYPE": "Τύπος",
+    "LBL_TICKET_STATUS_INFO": "Καταστάσεις που καθορίζουν ότι το αίτημα υποστήριξης έκλεισε",
+    "LBL_SAVE_CONFIG_OK": "Οι αλλαγές αποθηκεύτηκαν",
+    "LBL_SAVE_CONFIG_ERROR": "Οι αλλαγές αποθηκεύτηκαν.",
+    "SupportProcesses": "Διαδικασίες υποστήριξης"
+  },
+  "js": {}
+}

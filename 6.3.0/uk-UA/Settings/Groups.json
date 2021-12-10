@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Добавити Групу",
+    "LBL_ADD_USERS_ROLES": "Додайте Користувачів, Ролі...",
+    "LBL_DUPLICATES_EXIST": "Таке ім'я групи вже існує",
+    "LBL_GROUP_MEMBERS": "Учасники групи",
+    "LBL_GROUP_NAME": "Назва групи",
+    "LBL_ROLEANDSUBORDINATE": "Ролі та підлеглі",
+    "LBL_TO_OTHER_GROUP": "До іншої групи ",
+    "LBL_TRANSFORM_OWNERSHIP": "Передача права власності",
+    "SINGLE_Groups": "Група",
+    "Users": "Користувачі",
+    "Name": "Назва групи",
+    "Description": "Опис"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Будь ласка, виберіть принаймні одного учасника для групи",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Групу успішно видалено"
+  }
+}

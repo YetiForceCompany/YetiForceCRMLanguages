@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Ekle",
+    "TreesManager": "Tree manager",
+    "LBL_TREES_MANAGER": "Fields – Folders",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Tree template manager",
+    "LBL_NO_RECORDS_FOUND": "Şablon ağacı yok",
+    "LBL_EDIT_TEMPLATE_TREES": "Edit tree template",
+    "LBL_CREATING_TEMPLATE_TREES": "Yeni şablon ağacı oluştur",
+    "LBL_NAME": "Şablon adı",
+    "LBL_MODULE": "Module",
+    "LBL_ADD_ITEM_TREE": "Yeni öğe ekle",
+    "LBL_ADD_TO_TREES": "Ekle",
+    "LBL_SAVE": "Kaydet",
+    "LBL_SELECT_REPLACE_TREE_ITEM": "Change tree item to:",
+    "Category": "Category",
+    "LBL_MULTICATEGORY": "List of categories",
+    "Reservations": "Reservations",
+    "LBL_SHARE_WITH": "Share with"
+  },
+  "js": {
+    "JS_TREE_DELETED_SUCCESSFULLY": "Tree template deleted successfully",
+    "JS_JSTREE_CREATE": "Ekle",
+    "JS_JSTREE_RENAME": "İsim Değiştir",
+    "JS_JSTREE_REMOVE": "Delete",
+    "JS_JSTREE_CCP": "Düzenle",
+    "JS_JSTREE_CUT": "Kes",
+    "JS_JSTREE_COPY": "Kopyala",
+    "JS_JSTREE_PASTE": "Yapıştır",
+    "JS_JSTREE_CHANGE_ICON": "Change icon",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Field cannot be empty",
+    "JS_NO_ITEM_SELECTED": "No item has been selected",
+    "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "You cannot delete all items",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Bağlı olduğu kayıt silinemez",
+    "JS_NEW_ITEM": "Yeni item",
+    "JS_ONLY_ONE_ITEM_SELECTED": "Only one item can be selected."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FL_PROVIDER": "Провайдер",
+    "FL_STATUS": "Статус",
+    "FL_SMSAPI_FROM": "Ім'я відправника",
+    "FL_API_KEY": "Ключ API",
+    "LBL_ADD_RECORD": "Нова конфігурація",
+    "LBL_SMSNOTIFIER": "Конфігурація провайдера SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Нова конфігурація",
+    "LBL_EDIT_CONFIGURATION": "Редагувати конфігурацію",
+    "BTN_SAVE": "Зберегти",
+    "BTN_CLOSE": "Скасувати"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Ви впевнені, що бажаєте видалити цю конфігурацію?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Конфігурацію успішно видалено",
+    "JS_SAVE_SUCCESS": "Збережено"
+  }
+}

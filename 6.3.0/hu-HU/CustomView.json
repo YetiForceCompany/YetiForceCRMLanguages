@@ -1,0 +1,8 @@
+{
+  "php": {
+    "CustomView": "Szűrők - beállítások",
+    "LBL_FEATURED": "Kedvencekhez ad",
+    "LBL_COLOR_VIEW": "Szín megtekintése",
+    "LBL_ADD_FIELD": "Mező hozzáadása"
+  }
+}

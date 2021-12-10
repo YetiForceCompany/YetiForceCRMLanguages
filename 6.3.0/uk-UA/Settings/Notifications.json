@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "Винятки",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Сповіщення - налаштування",
+    "LBL_ADD_MEMBERS": "Додати учасників до сповіщення",
+    "LBL_SELECT_MEMBERS": "Вибрати учасників до сповіщення",
+    "LBL_MEMBERS": "Учасники",
+    "LBL_LOCK": "Блокувати",
+    "LBL_NOTICE_CONFIG_WARNING": "Перегляд конфігурації модулів увімкнено. Вимкніть його, щоб керувати сповіщеннями."
+  },
+  "js": {}
+}

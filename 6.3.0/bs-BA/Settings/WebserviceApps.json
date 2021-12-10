@@ -1,0 +1,27 @@
+{
+  "php": {
+    "WebserviceApps": "Internet usluge - Aplikacije",
+    "LBL_APP_NAME": "Naziv",
+    "LBL_PUBLIC_URL": "Javna URL adresa",
+    "LBL_PUBLIC_URL_INFO": "URL će se koristiti za slanje obavijesti e-poštom i bit će moguće koristiti URL u sadržaju, npr. poništavanje lozinke na korisničkom portalu, veza za pregled zapisa na korisničkom portalu",
+    "LBL_ALLOWED_IPS": "Dozvoljene IP adrese",
+    "LBL_ALLOWED_IPS_INFO": "Prazna vrijednost - pristup sa svih servera.\nAko se unesu IP adrese (nakon decimalne točke), pristup API-ju bit će dozvoljen samo s ovih IP adresa.\nPrimjer:",
+    "LBL_TYPE_SERVER": "Tip",
+    "LBL_API_KEY": "Ključ",
+    "LBL_ADD_APPLICATION": "Dodaj ključ",
+    "LBL_WEBSERVICE_APPS": "Internet usluge - Aplikacije",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Kreirajte i upravljajte aplikacijskim ključevima koji se integrišu putem API-ja.",
+    "LBL_MODAL_ALERT": "Podaci za pristup trebaju se unijeti u zaglavlje u svakom API zahtjevu.",
+    "Mail": "Pošta",
+    "LBL_PASS": "Lozinka",
+    "LBL_TITLE_ADDED": "Dodaj",
+    "LBL_TITLE_EDIT": "Uredi",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "Plaćanja",
+    "ManageConsents": "Upravljanje saglasnostima"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ključ?"
+  }
+}

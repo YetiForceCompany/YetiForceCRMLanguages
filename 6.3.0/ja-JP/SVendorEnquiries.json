@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "ベンダーからのお問い合わせ",
+    "SINGLE_SVendorEnquiries": "ベンダーからのお問い合わせ",
+    "LBL_SCALCULATIONS_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_STATISTICS": "統計情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "番号",
+    "LBL_CLOSED_TIME": "クローズ時間",
+    "LBL_STATUS": "状態",
+    "SINGLE_SSalesProcesses": "機会",
+    "FL_TOTAL_PRICE": "正味合計",
+    "FL_MARGINP": "マージン合計の割合",
+    "FL_MARGIN": "マージンの合計",
+    "FL_VENDOR": "仕入先",
+    "FL_SCALCULATIONS": "計算",
+    "PLL_DRAFT": "ドラフト（下書き）",
+    "PLL_IN_REALIZATION": "実現のために",
+    "PLL_FOR_VERIFICATION": "検証用",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_COMPLETED": "完了",
+    "LBL_CHANGE_STATUS": "状態の変更"
+  }
+}

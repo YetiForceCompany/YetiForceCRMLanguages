@@ -1,0 +1,29 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Projektová úloha",
+    "Project Task": "Projektové úlohy",
+    "Start Date": "Dátum začiatku",
+    "Target End Date": "Cieľový dátum ukončenia",
+    "End Date": "Dátum ukončenia",
+    "Related to": "Súvisiace s",
+    "Parent ID": "Súvisiaca úloha",
+    "Project Task Number": "Číslo projektovej úlohy",
+    "description": " Popis",
+    "FL_TOTAL_TIME_H": "Celkový pracovný čas",
+    "Project Task No": "Číslo projektovej úlohy",
+    "Project Task Name": "Názov projektovej úlohy",
+    "LBL_ESTIMATED_WORK_TIME": "Odhadovaný čas prác",
+    "Add Project Task": "Pridať projektovú úlohu",
+    "LBL_PROJECT_TASK_INFORMATION": "Informácie o projektovej úolhe",
+    "LBL_PROJECTS_LIST": "Zoznam projektov",
+    "LBL_TASKS_LIST": "Zoznam úloh",
+    "LBL_MILESTONES_LIST": "Zoznam míľnikov",
+    "low": "nízka",
+    "normal": "normálna",
+    "high": "vysoká",
+    "administrative": "Interný",
+    "operative": "Externý",
+    "other": "Zdieľaný",
+    "LBL_PROJECT": "Projekt"
+  }
+}

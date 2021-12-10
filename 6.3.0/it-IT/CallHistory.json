@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Cronologia chiamate",
+    "SINGLE_CallHistory": "Cronologia chiamate",
+    "LBL_CALLHISTORY_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni aggiuntive",
+    "LBL_PHONE_INFORMATION": "Informazioni telefono",
+    "LBL_RELATED_INFORMATION": "Informazioni correlate",
+    "LBL_TYPE": "Tipo",
+    "LBL_FROM_NUMBER": "Dal numero",
+    "LBL_TO_NUMBER": "Al numero",
+    "LBL_LOCATION": "Luogo",
+    "LBL_PHONE_CALL_ID": "Identificativo chiamata",
+    "LBL_DURATION": "Durata",
+    "LBL_STATUS": "Stato",
+    "LBL_START_TIME": "Dalle ore",
+    "LBL_END_TIME": "Alle ore",
+    "LBL_COUNTRY_CODE": "Codice paese",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "Indirizzo IP",
+    "LBL_SIMSERIAL": "Numero SIM",
+    "LBL_SUBSCRIBERID": "Numero dell'abbonato",
+    "LBL_DESTINATION": "Chiamato da",
+    "LBL_SOURCE": "Sorgente chiamata",
+    "Record Id": "Identificativo record",
+    "Outgoing missed": "In uscita - persa",
+    "Outgoing received": "In uscita - risposta",
+    "Incoming": "In ingresso - risposta",
+    "Missed": "In ingresso - persa",
+    "Voicemail": "In ingresso - Voicemail"
+  }
+}

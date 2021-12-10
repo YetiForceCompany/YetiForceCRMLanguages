@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Gestionnaire d'événements",
+    "LBL_EVENT_HANDLER": "Gestionnaire d'événements",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Nom de l'événement",
+    "LBL_EVENT_DESC": "Description de l'événement",
+    "LBL_INCLUDE_MODULES": "Inclure les modules",
+    "LBL_EXCLUDE_MODULES": "Exclure les modules",
+    "LBL_EVENT_IS_ACTIVE": "Est actif",
+    "LBL_EDIT_VIEW_PRESAVE": "Validation avant l'enregistrement",
+    "LBL_ENTITY_CHANGE_STATE": "Changer d'état",
+    "LBL_ENTITY_BEFORE_SAVE": "Avant d'enregistrer",
+    "LBL_ENTITY_AFTER_SAVE": "Après la sauvegarde"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "FL_PROVIDER": "Nhà cung cấp",
+    "FL_STATUS": "Trạng thái",
+    "FL_SMSAPI_FROM": "Tên người gửi",
+    "FL_API_KEY": "Khóa API",
+    "LBL_ADD_RECORD": "Cấu hình mới",
+    "LBL_SMSNOTIFIER": "Cấu hình nhà cung cấp SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Cấu hình mới",
+    "LBL_EDIT_CONFIGURATION": "Chỉnh sửa cấu hình",
+    "BTN_SAVE": "Lưu",
+    "BTN_CLOSE": "Huỷ"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Bạn có chắc chắn muốn xóa cấu hình này?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Cấu hình đã được gỡ bỏ thành công",
+    "JS_SAVE_SUCCESS": "Đã lưu"
+  }
+}

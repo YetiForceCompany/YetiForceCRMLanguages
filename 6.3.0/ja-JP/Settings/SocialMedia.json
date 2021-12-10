@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_TWITTER": "Twitter",
+    "LBL_TWITTER_DESC": "Twitter との連携",
+    "LBL_ARCHIVING_RECORDS_NUMBER_OF_DAYS": "アーカイブ記録 - 日数",
+    "LBL_SOCIAL_MEDIA_CRON_WARNING": "ソーシャルCronが有効になっていません。適切なアーカイブに必要です。",
+    "LBL_SOCIAL_MEDIA_CRON2_WARNING": "ソーシャルメディアからメッセージを取得するにはCronを有効にする必要があります",
+    "LBL_TWITTER_API_KEY": "Twitter API キー",
+    "LBL_TWITTER_API_SECRET": "Twitter API secret",
+    "LBL_TWITTER_INSTRUCTION": "Twitter APIの設定には、Twitterの開発者アカウントが必要です。 新しいアプリケーションを追加し、アプリケーションの詳細に移動し、API キーが配置されている「キーとトークン」タブを見つけます。",
+    "LBL_TYPE_OF_LOG": "ログの種類",
+    "LBL_SOCIAL_MEDIA_TYPE": "タイプ",
+    "LBL_MESSAGE": "メッセージ"
+  }
+}

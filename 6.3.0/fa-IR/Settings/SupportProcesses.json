@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "پشتیبانی",
+    "LBL_GENERAL_CONFIGURATION": "پیکربندی عمومی",
+    "LBL_OTHER": "سایر",
+    "LBL_INFO": "اطلاعات",
+    "LBL_TYPE": "نوع",
+    "LBL_TICKET_STATUS_INFO": "وضعیت تعیین که تیکت بسته است",
+    "LBL_SAVE_CONFIG_OK": "تغییرات ذخیره گردید",
+    "LBL_SAVE_CONFIG_ERROR": "تغییرات ذخیره گردید.",
+    "SupportProcesses": "فرآیندهای پشتیبانی"
+  },
+  "js": {}
+}

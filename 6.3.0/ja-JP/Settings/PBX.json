@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "名前",
+    "LBL_TYPE": "タイプ",
+    "LBL_DEFAULT": "デフォルト",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "LBL_CREATE_RECORD": "電話交換を追加",
+    "LBL_EDIT_RECORD": "電話交換を編集",
+    "LBL_URL": "サーバーアドレス",
+    "LBL_USERNAME": "ログイン",
+    "LBL_PASSWORD": "パスワード",
+    "LBL_SECRET_KEY": "Secret Key",
+    "LBL_OUTBOUND_CONTEXT": "Outbound context"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Manager backupów",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Zarządzanie plikami kopii zapasowych",
+    "LBL_DOWNLOAD": "Pobierz",
+    "LBL_FILE_NAME": "Nazwa pliku",
+    "LBL_FILE_SIZE": "Rozmiar",
+    "LBL_FILE_DATE": "Data modyfikacji",
+    "LBL_BACKUP_LIST": "Lista kopii zapasowych",
+    "ERR_CONFIG_ALERT_TITLE": "Manager backupów jest wyłączony",
+    "ERR_CONFIG_ALERT_DESC": "Ustaw odpowiednią ścieżkę w zmiennej BACKUP_PATH w pliku konfiguracyjnym [config\/Components\/Backup.php] aby go włączyć."
+  },
+  "js": {}
+}

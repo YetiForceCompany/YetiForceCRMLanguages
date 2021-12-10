@@ -1,0 +1,26 @@
+{
+  "php": {
+    "providertype": "ارائه دهنده",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "اس ام اس حداکثر 160 کاراکتر مجاز",
+    "username": "نام کاربری",
+    "password": "گذرواژه",
+    "isactive": "فعال",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "ارسال اس ام اس به شماره های انتخاب شده",
+    "LBL_STEP_1": "گام ۱",
+    "LBL_STEP_2": "گام ۲",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "انتخاب فیلد تلفن برای ارسال",
+    "LBL_TYPE_THE_MESSAGE": "پیام خود را بنویسید",
+    "LBL_WRITE_YOUR_MESSAGE_HERE": "پیام خود را اینجا بنویسید",
+    "LBL_ADD_MORE_FIELDS": "افزودن فیلدهای بیشتر",
+    "LBL_SERVER_CONFIG": "پیکربندی سرور",
+    "FL_STATUS": "وضعیت",
+    "PLL_UNDEFINED": "تعریف نشده",
+    "PLL_DELIVERED": "به مقصد رسید",
+    "PLL_FAILED": "ناموفق",
+    "LBL_MASS_SEND_SMS_INFO": "تمام پیام های متنی در cron ارسال می شود",
+    "LBL_CHECK_STATUS": "بررسی وضعیت",
+    "message": "پیام",
+    "LBL_SMSNOTIFIER_INFORMATION": "اطلاعات SMS",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+  }
+}

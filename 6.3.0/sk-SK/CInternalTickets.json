@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Interné tikety",
+    "SINGLE_CInternalTickets": "Interný tiket",
+    "LBL_ADDITIONAL_INFORMATION": "Doplňujúce informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "LBL_TICKET_RESOLUTION": "Riešenie",
+    "LBL_ATTENTION_BLOCK": "Poznámky",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
+    "FL_SUBJECT": "Predmet",
+    "FL_STATUS": "Stav",
+    "FL_RESOLUTION": "Riešenie",
+    "PLL_UNASSIGNED": "Nepriradené",
+    "PLL_AWAITING_REALIZATION": "Awaiting realization",
+    "PLL_FOR_PROCESSING": "For realization",
+    "PLL_IN_PROGRESSING": "Prebieha",
+    "PLL_SUBMITTED_COMMENTS": "Comments submitted",
+    "PLL_FOR_APPROVAL": "Na schválenie",
+    "PLL_CANCELLED": "Zrušené",
+    "PLL_ACCEPTED": "Akceptované"
+  }
+}

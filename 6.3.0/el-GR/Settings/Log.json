@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS": "Περιστατικά ασφαλείας",
+    "LBL_LOGS_DESC": "Πίνακας για την προβολή συμβάντων ασφαλείας",
+    "LBL_ACCESS_FOR_ADMIN": "Πρόσβασης για admin",
+    "LBL_ACCESS_FOR_API": "Πρόσβαση για API",
+    "LBL_ACCESS_FOR_USER": "Πρόσβαση για χρήστη",
+    "LBL_ACCESS_TO_RECORD": "Πρόσβαση σε εγγραφή",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Όνομα χρήστη",
+    "LBL_DATE": "Ημερομηνία",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "Αναγνωριστικό εγγραφής",
+    "LBL_MODULE": "Module",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Πράκτορας(Agent)",
+    "LBL_REQUEST": "Αίτηση",
+    "LBL_TIME": "Ώρα",
+    "LBL_CATEGORY": "Κατηγορία",
+    "LBL_CODE": "Κώδικας",
+    "LBL_BASE_USER": "Βασικός χρήστης",
+    "LBL_DEST_USER": "Χρήστης προορισμού",
+    "LBL_MAILS_NOT_SENT": "Τα e-mail δεν εστάλησαν",
+    "LBL_BATCH_NAME": "Όνομα μεθόδου",
+    "LBL_PARAMS": "Παράμετροι",
+    "LBL_PROFILING": "Προφίλ",
+    "LBL_DURATION": "Διάρκεια",
+    "LBL_LOGS_VIEWER": "Προβολή καταγραφών",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

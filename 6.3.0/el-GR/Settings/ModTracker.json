@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Ιστορικό αλλαγών",
+    "LBL_MODTRACKER_SETTINGS": "Modules - Παρακολούθηση αλλαγών",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Καθορίστε για ποια modules επιθυμείτε την παρακολούθηση αλλαγών",
+    "LBL_MODULE": "Module",
+    "LBL_ACTIVE": "Παρακολούθηση αλλαγών",
+    "LBL_TOOLS": "Εργαλεία",
+    "LBL_TRACK_CHANGES_ENABLED": "Παρακολούθηση αλλαγών ενεργοποιημένη",
+    "LBL_TRACK_CHANGES_DISABLE": "Παρακολούθηση αλλαγών απενεργοποιημένη"
+  }
+}

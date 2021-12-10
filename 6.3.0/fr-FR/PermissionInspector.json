@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Inspecteur de permissions",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Inspecteur de permissions",
+    "LBL_FULL_USER_NAME": "Utilisateur",
+    "LBL_VIEW_PRVILIGE": "Vue",
+    "LBL_CREATE_PRIVILIGE": "Créer",
+    "LBL_EDIT_PRIVILIGE": "Editer",
+    "LBL_DELETE_PRIVILIGE": "Supprimer",
+    "LBL_PROFILES": "Profil:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Module/action exclue de la vérification des autorisations",
+    "SEC_USER_IS_ADMIN": "L’utilisateur est administrateur",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Autorisations au module, l’utilisateur a accès aux données de ce module",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Autorisations globales pour afficher des données",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Autorisations globales pour éditer des données",
+    "SEC_RECORD_ID_IS_NULL": "Accès général aux actions dans le module",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Accès basé sur les permissions pour effectuer des actions dans le module",
+    "SEC_RECORD_BY_SHARING_YES": "Accès basé sur les règles d’accès (accès au Module)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Accès basé sur propriétaire %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Accès basé sur groupe %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Accès basé sur la hiérarchie (rôles), l'utilisateur est plus haut dans la hiérarchie que le propriétaire d'enregistrement",
+    "SEC_RECORD_HIERARCHY_USER": "Accès basé sur la hiérarchie des permissions",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Sans droits d'accès au module, l'utilisateur n'a pas accès au module",
+    "SEC_MODULE_PERMISSIONS_NO": "Sans droits d'accès au module, l'utilisateur n'a pas accès au module",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Aucune permission pour effectuer des actions dans le module",
+    "SEC_RECORD_BY_SHARING_NO": "Aucune autorisation basée sur les règles d'accès (accès au module)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Pas d'autorisation d'action - Action non trouvée"
+  }
+}

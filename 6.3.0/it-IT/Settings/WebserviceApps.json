@@ -1,0 +1,27 @@
+{
+  "php": {
+    "WebserviceApps": "Web service - Applicazioni",
+    "LBL_APP_NAME": "Nome",
+    "LBL_PUBLIC_URL": "Indirizzo URL pubblico",
+    "LBL_PUBLIC_URL_INFO": "L'URL sarà usato per inviare notifiche email e sarà possibile usare l'URL nel contenuto, es. ripristino della password, collegamento all'anteprima del registro nel Portale Clienti",
+    "LBL_ALLOWED_IPS": "IP consentiti",
+    "LBL_ALLOWED_IPS_INFO": "Valore vuoto - accesso da tutti i server.\nSe gli indirizzi IP sono inseriti (dopo il punto decimale), l'accesso alle API sarà consentito solo da questi indirizzi IP.\nEsempio:",
+    "LBL_TYPE_SERVER": "Tipo",
+    "LBL_API_KEY": "Chiave di accesso",
+    "LBL_ADD_APPLICATION": "Aggiungi chiave di accesso",
+    "LBL_WEBSERVICE_APPS": "Web service - Applicazioni",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Definisce le chiavi di accesso delle aziende al portale cliente",
+    "LBL_MODAL_ALERT": "I dati di accesso devono essere inseriti nell'intestazione di ogni richiesta API.",
+    "Mail": "Mail",
+    "LBL_PASS": "Chiave di accesso",
+    "LBL_TITLE_ADDED": "Aggiungi",
+    "LBL_TITLE_EDIT": "Modifica",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "Pagamenti",
+    "ManageConsents": "Gestire i consensi"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la chiave di accesso?"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "بازرسی مجوز",
+    "LBL_INSPECTION_PERMISSION_HEADER": "بازرسی مجوز",
+    "LBL_FULL_USER_NAME": "کاربر",
+    "LBL_VIEW_PRVILIGE": "مشاهده",
+    "LBL_CREATE_PRIVILIGE": "ایجاد",
+    "LBL_EDIT_PRIVILIGE": "ویرایش",
+    "LBL_DELETE_PRIVILIGE": "حذف",
+    "LBL_PROFILES": "پروفایل:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "ماژول/عملیات از تایید مجوز صرف نظر گردد",
+    "SEC_USER_IS_ADMIN": "کاربر مدیر است",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "مجوزهای ماژول، کاربر به داده های این ماژول دسترسی دارد",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "مجوز عموی برای دیدن دادها",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "مجوز عمومی برای ویرایش اطلاعات",
+    "SEC_RECORD_ID_IS_NULL": "دسترسی کلی به عملیات در ماژول",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "دسترسی بر اساس سلسله مراتب مجوز برای اجرای عملیات در این ماژول است",
+    "SEC_RECORD_BY_SHARING_YES": "دسترسی بر اساس قوانین دسترسی (ماژول دسترسی)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "دسترسی بر اساس مالک %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "دسترسی بر اساس گروه %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "دسترسی بر اساس چارت سازمانی (نقش‌ها)،کاربر در چارت سازمانی بالاتر از مالک رکورد قراردارد",
+    "SEC_RECORD_HIERARCHY_USER": "دسترسی بر اساس سلسله مراتب مجوزها",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "بدون مجوز برای ماژول ، کاربر هیچ دسترسی به ماژول ندارد",
+    "SEC_MODULE_PERMISSIONS_NO": "بدون مجوز برای ماژول ، کاربر هیچ دسترسی به ماژول ندارد",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "مجوزی برای انجام اقدامات در ماژول وجود ندارد",
+    "SEC_RECORD_BY_SHARING_NO": "هیچ مجوزی بر اساس قوانین دسترسی (دسترسی ماژول)",
+    "SEC_MODULE_NO_ACTION_TOOL": "بدون مجوز برای عملیات - عملیاتی یافت نشد"
+  }
+}

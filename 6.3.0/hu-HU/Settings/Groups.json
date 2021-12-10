@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Rekord hozzáadása",
+    "LBL_ADD_USERS_ROLES": "Felhasználók, Szerepkörök hozzáadása...",
+    "LBL_DUPLICATES_EXIST": "A megadott csoportnév már létezik",
+    "LBL_GROUP_MEMBERS": "Csoport tagok",
+    "LBL_GROUP_NAME": "Csoport neve",
+    "LBL_ROLEANDSUBORDINATE": "Szerep és beosztott",
+    "LBL_TO_OTHER_GROUP": "Másik csoportba ",
+    "LBL_TRANSFORM_OWNERSHIP": "Tulajdonjog átadása",
+    "SINGLE_Groups": "Csoport",
+    "Users": "Felhasználók",
+    "Name": "Csoport neve",
+    "Description": "Leírás"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Kérjük, válasszon ki legalább egy tagot a csoport számára",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Csoport sikeresen törölve"
+  }
+}

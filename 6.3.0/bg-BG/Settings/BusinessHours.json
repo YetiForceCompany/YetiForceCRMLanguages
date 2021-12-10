@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Работно време",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Работно време е един модул, в който можете да настроите работното време на вашия екип.",
+    "LBL_WORKING_HOURS_FROM": "Oт",
+    "LBL_WORKING_HOURS_TO": "До",
+    "LBL_WORKING_DAYS": "Работни дни",
+    "LBL_WORKING_HOURS": "Работно време",
+    "LBL_DEFAULT": "Основна",
+    "LBL_NAME": "Име",
+    "LBL_HOLIDAYS": "Празници",
+    "LBL_EDIT_BUSINESS_HOURS": "Редактиране на работно време",
+    "LBL_ADD_BUSINESS_HOURS": "Добави запис на работни часове",
+    "LBL_DEFAULT_TIMES": "Време по подразбиране",
+    "LBL_DEFAULT_REACTION_TIME": "Време за реакция, по подразбиране",
+    "LBL_DEFAULT_IDLE_TIME": "Време на празен ход, по подразбиране",
+    "LBL_DEFAULT_RESOLVE_TIME": "Време за разрешаване, по подразбиране",
+    "LBL_HOLIDAYS_LINK": "Влезте в настройките на празниците"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Сигурни ли сте, че искате да изтриете този запис?"
+  }
+}

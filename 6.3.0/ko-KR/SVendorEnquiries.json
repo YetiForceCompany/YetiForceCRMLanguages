@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "공급처 문의",
+    "SINGLE_SVendorEnquiries": "공급처 문의",
+    "LBL_SCALCULATIONS_INFORMATION": "기본 정보",
+    "LBL_CUSTOM_INFORMATION": "시스템 정보",
+    "LBL_DESCRIPTION_INFORMATION": "설명 세부사항",
+    "LBL_STATISTICS": "통계",
+    "LBL_SUBJECT": "제목",
+    "LBL_NUMBER": "번호",
+    "LBL_CLOSED_TIME": "마감 시간",
+    "LBL_STATUS": "상태",
+    "SINGLE_SSalesProcesses": "기회",
+    "FL_TOTAL_PRICE": "순 합계",
+    "FL_MARGINP": "총 마진률",
+    "FL_MARGIN": "총 마진",
+    "FL_VENDOR": "공급처",
+    "FL_SCALCULATIONS": "계산",
+    "PLL_DRAFT": "초안",
+    "PLL_IN_REALIZATION": "실현중",
+    "PLL_FOR_VERIFICATION": "확인 목적",
+    "PLL_CANCELLED": "최소됨",
+    "PLL_COMPLETED": "완료됨",
+    "LBL_CHANGE_STATUS": "상태 변경"
+  }
+}

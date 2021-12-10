@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Quản lý sao lưu",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Quản lý file sao lưu",
+    "LBL_DOWNLOAD": "Tải về",
+    "LBL_FILE_NAME": "Tên tập tin",
+    "LBL_FILE_SIZE": "Dung lượng",
+    "LBL_FILE_DATE": "Ngày sửa đổi",
+    "LBL_BACKUP_LIST": "Danh sách sao lưu",
+    "ERR_CONFIG_ALERT_TITLE": "Trình quản lý sao lưu đã bị tắt",
+    "ERR_CONFIG_ALERT_DESC": "Thiết lập đường dẫn thích hợp trong biến BACKUP_PATH của tập tin cấu hình [config\/Components\/Backup.php] để kích hoạt nó."
+  },
+  "js": {}
+}

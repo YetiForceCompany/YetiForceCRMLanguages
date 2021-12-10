@@ -1,0 +1,27 @@
+{
+  "php": {
+    "WebserviceApps": "网络服务-应用程序",
+    "LBL_APP_NAME": "名称",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Allowed IPs",
+    "LBL_ALLOWED_IPS_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
+    "LBL_TYPE_SERVER": "类型",
+    "LBL_API_KEY": "秘钥",
+    "LBL_ADD_APPLICATION": "添加秘钥",
+    "LBL_WEBSERVICE_APPS": "网络服务-应用程序",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "创建和管理通过 API 集成的应用程序密钥。",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "Mail": "邮件",
+    "LBL_PASS": "密码",
+    "LBL_TITLE_ADDED": "添加",
+    "LBL_TITLE_EDIT": "编辑",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "付款",
+    "ManageConsents": "管理同意"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "您确定您要删除秘钥吗？?"
+  }
+}

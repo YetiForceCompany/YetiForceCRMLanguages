@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Lịch nhập dữ liệu đã kết thúc",
+    "LBL_CRON_COMPLETED_IMPORT": "Tóm tắt nhập biểu ghi cho mô-đun:"
+  }
+}

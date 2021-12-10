@@ -1,0 +1,13 @@
+{
+  "php": {
+    "Kanban": "Kanban",
+    "LBL_KANBAN": "Kanban",
+    "LBL_KANBAN_DESCRIPTION": "",
+    "LBL_ADD_BOARD": "Aggiungi scheda",
+    "LBL_NO_BOARDS": "Nessuna scheda",
+    "LBL_DETAIL_FIELDS": "Campi dettagliati",
+    "LBL_SUM_FIELDS": "Campi sommatori",
+    "LBL_NO_FIELDS_ADD": "No fields to add"
+  },
+  "js": {}
+}

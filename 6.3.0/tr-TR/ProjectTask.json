@@ -1,0 +1,29 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Proje Görevi",
+    "Project Task": "Proje Görevleri",
+    "Start Date": "Başlangıç tarihi",
+    "Target End Date": "Hedef Bitiş Tarihi",
+    "End Date": "Bitiş tarihi",
+    "Related to": "İle ilgili",
+    "Parent ID": "İlgili görev",
+    "Project Task Number": "Proje Görev Numarası",
+    "description": " Açıklama",
+    "FL_TOTAL_TIME_H": "Toplam çalışma süresi",
+    "Project Task No": "Proje Görev No",
+    "Project Task Name": "Proje Görev Adı",
+    "LBL_ESTIMATED_WORK_TIME": "Tahmini çalışma süresi",
+    "Add Project Task": "Proje görev ekleme",
+    "LBL_PROJECT_TASK_INFORMATION": "Proje Görev Ayrıntıları",
+    "LBL_PROJECTS_LIST": "Projeler Listesi",
+    "LBL_TASKS_LIST": "Görevler Listesi",
+    "LBL_MILESTONES_LIST": "Kilometre Taşları Listesi",
+    "low": "düşük",
+    "normal": "normal",
+    "high": "yüksek",
+    "administrative": "İç",
+    "operative": "Dış",
+    "other": "Paylaşılan",
+    "LBL_PROJECT": "Proje"
+  }
+}

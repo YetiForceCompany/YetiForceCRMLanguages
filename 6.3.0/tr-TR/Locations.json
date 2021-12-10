@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Locations": "Lokasyonlar",
+    "SINGLE_Locations": "Lokasyon",
+    "LBL_LOCATIONS_INFORMATION": "Temel bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "LBL_SUBJECT": "Konu",
+    "LBL_NUMBER": "Sayı",
+    "LBL_CLOSED_TIME": "Kapanış saati",
+    "FL_PHONE": "Telefon",
+    "FL_CAPACITY": "Kapasite"
+  }
+}

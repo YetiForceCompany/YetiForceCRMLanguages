@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Dnevnik kilometraže",
+    "SINGLE_CMileageLogbook": "Dnevnik kilometraže",
+    "LBL_ADDITIONAL_INFORMATION": "Dodatne informacije",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Napomene",
+    "FL_SUBJECT": "Predmet",
+    "FL_STATUS": "Status",
+    "FL_NUMBER_KILOMETERS": "Broj kilometara",
+    "PLL_DRAFT": "Skica",
+    "PLL_FOR_APPROVAL": "Za odobrenje",
+    "PLL_ACCEPTED": "Prihvaćeno",
+    "PLL_CANCELLED": "Otkazano"
+  }
+}

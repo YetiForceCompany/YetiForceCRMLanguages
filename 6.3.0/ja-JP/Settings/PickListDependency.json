@@ -1,0 +1,32 @@
+{
+  "php": {
+    "Selected Values": "選択した値",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "PickListDependency": "選択リストの依存関係",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_1": "ソースフィールドのマップされたpicklist値のみ以下に表示されます (最初の時間を除く)",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_2": "ソースフィールドの他のpicklist値のマッピングを表示または変更する場合。 \nその後、右側の <b>「ソースの値を選択」<\/b> ボタンをクリックして値を選択することができます",
+    "LBL_CONFIGURE_DEPENDENCY_HELP_3": "ターゲットフィールドの値の選択された値は、",
+    "LBL_CONFIGURE_DEPENDENCY_INFO": "ターゲットフィールドのpicklist値のためのマッピングを変更するには、対応するセルをクリックしてください",
+    "LBL_ERR_CYCLIC_DEPENDENCY": "この依存関係のセットアップは、いくつかのサイクル依存関係に終わるため、許可されていません",
+    "LBL_PICKLIST_DEPENDENCY": "選択リストの依存関係",
+    "LBL_SELECT_FIELD": "フィールドを選択",
+    "LBL_SELECT_MODULE": "モジュール",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "ソース選択リストの値を選択",
+    "LBL_SELECT_SOURCE_VALUES": "ソースの値を選択",
+    "LBL_SOURCE_FIELD": "ソースフィールド",
+    "LBL_TARGET_FIELD": "ターゲットフィールド",
+    "LBL_UNMARK_ALL": "すべてのマークを解除",
+    "Module": "モジュール",
+    "Source Field": "ソースフィールド",
+    "Target Field": "ターゲットフィールド"
+  },
+  "js": {
+    "JS_DEPENDENCY_ATLEAST_ONE_VALUE": "少なくとも1つの値を選択する必要があります",
+    "JS_DEPENDENCY_DELETED_SUEESSFULLY": "依存関係の削除に成功しました",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "この選択リスト依存関係を削除してもよろしいですか？",
+    "JS_PICKLIST_DEPENDENCY_SAVED": "Picklist依存関係を保存しました",
+    "JS_SELECT_SOME_VALUE": "いくつかの値を選択",
+    "JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME": "ソースフィールドとターゲットフィールドは同じではありません",
+    "JS_PICKLIST_DEPENDENCY_NO_SAVED": "依存関係が入力されていません。変更は保存されませんでした。"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Регістр інцидентів",
+    "SINGLE_IncidentRegister": "Регістр інцидентів",
+    "LBL_BASIC_INFORMATION": "Основна інформація",
+    "FL_NAME": "Ім'я ",
+    "FL_LOCATION_REGISTER": "Регістр розташування",
+    "FL_DATASETREGISTER": "Регістр набору даних",
+    "PLL_DRAFT": "Проект",
+    "PLL_WAITING_FOR_ACCEPTANCE": "В ожидании подтверждения",
+    "PLL_IN_REALIZATION": "У реалізації",
+    "PLL_COMPLETED": "Завершино",
+    "PLL_CANCELLED": "Скасовано",
+    "FL_STATUS": "Статус",
+    "FL_TYPE": "Тип",
+    "PLL_INTERNAL": "Внутрішній",
+    "PLL_EXTERNAL": "Зовнішній",
+    "LBL_INCIDENT_DATES": "Дати інциденту",
+    "FL_INCIDENT_DATE": "Дати інциденту",
+    "FL_INCIDENT_DISCOVERY": "Дата виявлення інциденту",
+    "FL_INCIDENT_REPORT_DATE": "Дата звіту про інцидент",
+    "FL_INCIDENT_PUBLICATION_DATE": "Дата публікації інциденту",
+    "FL_PEOPLE_NUMBER": "Кількість людей",
+    "LBL_BREACH_CIRCUMSTANCES": "Порушення умов",
+    "FL_BREACH_CIRCUMSTANCES": "Порушення умов",
+    "LBL_NATURE_OF_BREACH": "Походження порушення",
+    "FL_NATURE_OF_BREACH": "Походження порушення",
+    "LBL_POSSIBLE_CONSEQUENCES": "Можливі наслідки",
+    "FL_POSSIBLE_CONSEQUENCES": "Можливі наслідки",
+    "LBL_SECURITY_MEASURES": "Прикладні заходи безпеки",
+    "FL_SECURITY_MEASURES": "Прикладні заходи безпеки"
+  }
+}

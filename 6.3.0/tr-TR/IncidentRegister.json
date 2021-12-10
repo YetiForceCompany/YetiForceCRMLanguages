@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Olay Kaydı",
+    "SINGLE_IncidentRegister": "Olay Kaydı",
+    "LBL_BASIC_INFORMATION": "Genel Bilgi",
+    "FL_NAME": "İsim",
+    "FL_LOCATION_REGISTER": "Lokasyon kaydı",
+    "FL_DATASETREGISTER": "Veri seti kaydı",
+    "PLL_DRAFT": "Taslak",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Kabul bekliyor",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_COMPLETED": "Tamamlandı",
+    "PLL_CANCELLED": "İptal edildi",
+    "FL_STATUS": "Durum",
+    "FL_TYPE": "Tür",
+    "PLL_INTERNAL": "Dahili",
+    "PLL_EXTERNAL": "Harici",
+    "LBL_INCIDENT_DATES": "Olay tarihi",
+    "FL_INCIDENT_DATE": "Olay tarihi",
+    "FL_INCIDENT_DISCOVERY": "Olay keşif tarihi",
+    "FL_INCIDENT_REPORT_DATE": " Olay rapor tarihi",
+    "FL_INCIDENT_PUBLICATION_DATE": "Olay yayınlama tarihi",
+    "FL_PEOPLE_NUMBER": "Kişi sayısı",
+    "LBL_BREACH_CIRCUMSTANCES": "İhlal koşulları",
+    "FL_BREACH_CIRCUMSTANCES": "İhlal koşulları",
+    "LBL_NATURE_OF_BREACH": "İhlal niteliği",
+    "FL_NATURE_OF_BREACH": "İhlal niteliği",
+    "LBL_POSSIBLE_CONSEQUENCES": "Olası sonuçlar",
+    "FL_POSSIBLE_CONSEQUENCES": "Olası sonuçlar",
+    "LBL_SECURITY_MEASURES": "Uygulanan güvenlik önlemleri",
+    "FL_SECURITY_MEASURES": "Uygulanan güvenlik önlemleri"
+  }
+}

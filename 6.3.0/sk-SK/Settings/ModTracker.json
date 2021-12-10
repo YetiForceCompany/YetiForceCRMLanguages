@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Change history",
+    "LBL_MODTRACKER_SETTINGS": "Moduly – Sledovanie zmien \/ História",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Manage change history in modules",
+    "LBL_MODULE": "Module",
+    "LBL_ACTIVE": "Sledovať zmeny",
+    "LBL_TOOLS": "Nástroje",
+    "LBL_TRACK_CHANGES_ENABLED": "Sledovanie zmien aktivované",
+    "LBL_TRACK_CHANGES_DISABLE": "Sledovanie zmien deaktivované"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Yorum Yap",
+    "LBL_RECORDS_LIST": "Yorumlar listesi",
+    "LBL_MODCOMMENTS_INFORMATION": "Yorum",
+    "LBL_OTHER_INFORMATION": "Diğer bilgiler",
+    "LBL_ADDING_COMMENT": "Yorum ekle",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Buraya yorumlar gir",
+    "Comment": "Yorum Yap",
+    "Creator": "Oluşturan",
+    "Related To Comments": "İle ilgili",
+    "ReasonToEdit": "Düzenleme nedeni",
+    "UserId": "KullanıcıId",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Destek Talebine bir yorum ekledi",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Destek Talebine bir açıklama eklendi",
+    "LBL_NOTICE_WELCOME": "Platforma hoş geldiniz",
+    "LBL_NOTICE_CREATED": "Tarafından Yaratıldı",
+    "LBL_COMMENTS_0": "Geçerli kayıt",
+    "LBL_COMMENTS_SEARCH": "Arama",
+    "LBL_ALL_RECORDS": "Related records"
+  }
+}

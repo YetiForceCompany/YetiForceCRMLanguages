@@ -1,0 +1,16 @@
+{
+  "php": {
+    "EventHandler": "Ereignisbehandler ",
+    "LBL_EVENT_HANDLER": "Ereignisbehandler ",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Ereignisname",
+    "LBL_EVENT_DESC": "Ereignisbeschreibung",
+    "LBL_INCLUDE_MODULES": "Module einbeziehen",
+    "LBL_EXCLUDE_MODULES": "Module ausschließen",
+    "LBL_EVENT_IS_ACTIVE": "Ist aktiv",
+    "LBL_EDIT_VIEW_PRESAVE": "Validierung vor dem Speichern des Datensatzes",
+    "LBL_ENTITY_CHANGE_STATE": "Status ändern",
+    "LBL_ENTITY_BEFORE_SAVE": "Vor dem Speichern",
+    "LBL_ENTITY_AFTER_SAVE": "Nach dem Speichern"
+  }
+}

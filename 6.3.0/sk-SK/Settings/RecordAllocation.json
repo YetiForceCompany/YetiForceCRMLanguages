@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_OWNER_ALLOCATION": "Assign owner",
+    "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_SORTING_SETTINGS_WORNING": "Varovanie!\n Konfigurácia bude fungovať iba vtedy, keď ju povolíte v panely Role",
+    "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",
+    "LBL_SELECT_MODULE": "Vybrať modul",
+    "LBL_GO_TO_PANEL": "prejsť do panela",
+    "LBL_USERS_AND_GROUPS": "Užívatelia a skupiny"
+  },
+  "js": {
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+  }
+}
