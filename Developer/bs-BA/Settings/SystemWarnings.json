@@ -6,10 +6,10 @@
     "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Broj potencijalnih izvještaja o neželjenoj pošti koji čekaju provjeru: %s",
     "LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - izvještaji na crnoj listi",
     "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Broj prihvaćenih neželjenih izvještaja na crnoj listi: %s",
-    "LBL_CHECK_SUSPENDED_ACCOUNTS": "Suspended email accounts",
-    "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "List of suspended e-mail accounts: %s",
-    "LBL_CHECK_MAIL_QUEUE_ERROR": "Errors while sending an email message",
-    "LBL_CHECK_MAIL_QUEUE_ERROR_DESC": "In the last 24 hours the system was unable to send some queued email messages. We recommend verifying the cause of this issue.\n Number of unsent emails:: %s",
+    "LBL_CHECK_SUSPENDED_ACCOUNTS": "Obustavljeni računi e-pošte",
+    "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Lista suspendovanih naloga e-pošte: %s",
+    "LBL_CHECK_MAIL_QUEUE_ERROR": "Greške prilikom slanja emaila",
+    "LBL_CHECK_MAIL_QUEUE_ERROR_DESC": "U posljednja 24 sata sistem nije mogao poslati neke e-poruke na čekanju. Preporučujemo da provjerite uzrok ovog problema.\n  Broj neposlanih e-poruka:: %s",
     "LBL_LIBRARY_ROUNDCUBE": "Roundcube biblioteka",
     "LBL_LIBRARY_PHPEXCEL": "PHPExcel biblioteka",
     "LBL_CONFIG_REPORT": "Konfiguracija servera",
@@ -63,7 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "Ažuriranje jezika",
     "LBL_LANGUAGES_UPDATER_DESC": "Dostupno je ažuriranje jezika instaliranih na vašem CRM sistemu. Idite na Upravljanje jezikom i kliknite gumb za ažuriranje.",
     "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje.",
-    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Otkrivene su %s greške prilikom slanja e-pošte u posljednja 24 sata. Provjerite svoje SMTP akreditive.",
     "Mail": "Pošta"
   }
 }

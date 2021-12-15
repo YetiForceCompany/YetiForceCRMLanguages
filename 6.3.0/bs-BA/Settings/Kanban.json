@@ -3,11 +3,11 @@
     "Kanban": "Kanban",
     "LBL_KANBAN": "Kanban",
     "LBL_KANBAN_DESCRIPTION": "",
-    "LBL_ADD_BOARD": "Add board",
-    "LBL_NO_BOARDS": "No boards",
-    "LBL_DETAIL_FIELDS": "Details fields",
-    "LBL_SUM_FIELDS": "Summation fields",
-    "LBL_NO_FIELDS_ADD": "No fields to add"
+    "LBL_ADD_BOARD": "Dodaj rubriku",
+    "LBL_NO_BOARDS": "Nema rubrika",
+    "LBL_DETAIL_FIELDS": "Polja sa detaljima",
+    "LBL_SUM_FIELDS": "Polja sumiranja",
+    "LBL_NO_FIELDS_ADD": "Nema polja za dodavanje"
   },
   "js": {}
 }

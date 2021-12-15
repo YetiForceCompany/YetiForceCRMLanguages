@@ -48,16 +48,16 @@
     "Users|FL_AVAILABLE": "Određuje je li korisnik dostupan (u budućnosti će ovo polje poštivati druge neizravne mehanizme, poput praznika, radnog vremena itd.).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "Ako je opcija omogućena i ako je mehanizam automatskog dodjeljivanja zapisa aktivan, korisnik će se koristiti za dodjeljivanje zapisa prema pravilima i algoritmima u sistemu.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Određuje količinu zapisa (otvorenih) koji se mogu dodijeliti korisniku u jednom modulu.",
-    "FL_RESPONSE_RANGE_TIME": "Amount of time (minutes and hours) that elapsed from the time the report was received until the response was initiated.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Response time\" to another category.",
-    "FL_SOLUTION_RANGE_TIME": "Amount of time (minutes and hours) used to resolve a given ticket.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Resolution time\" to another category.",
-    "FL_IDLE_RANGE_TIME": "The amount of time (minutes and hours) the record is idle, for example, waiting for additional information.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Waiting time\" to another category.",
-    "FL_CLOSING_RANGE_TIME": "The amount of time (minutes and hours) calculated from the time the record was created until the last time it was closed.",
-    "FL_RESPONSE_DATE_TIME": "Date and time of the response, that is, the change of dictionary value categories (e.g. status) from \"Response time\" to another category.",
-    "FL_SOLUTION_DATE_TIME": "Date and time of the resolution, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Resolution time\" to other categories.",
-    "FL_IDLE_DATE_TIME": "Date and time of idle status completion, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Waiting time\" to other categories.",
-    "FL_CLOSING_DATE_TIME": "Date and time of closing the entire time calculation process from the time the record was created until the last time it was closed.",
-    "FL_RESPONSE_EXPECTED": "Planned/expected response deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
-    "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Planned/expected maximum allowed idle time, calculated on the basis of the SLA agreement and working or calendar days/hours."
+    "FL_RESPONSE_RANGE_TIME": "Vrijeme proteklo (minuta i sati) od trenutka prijema izvještaja do pokretanja odgovora.\n\nVrijeme se izračunava na osnovu datuma kada je kategorija vrijednosti liste za odabir (npr. status) promijenjena iz \"Vrijeme odgovora\" u drugu kategoriju.",
+    "FL_SOLUTION_RANGE_TIME": "Količina vremena (minuti i sati) korištena za rješavanje date tiketa.\n\nVrijeme se izračunava na osnovu datuma kada je kategorija vrijednosti liste za odabir (npr. status) promijenjena iz \"Vrijeme rezolucije\" u drugu kategoriju.",
+    "FL_IDLE_RANGE_TIME": "Količina vremena (minuti i sati) u kojem je zapis neaktivan, na primjer, čekajući dodatne informacije.\n\nVrijeme se izračunava na osnovu datuma kada je kategorija vrijednosti liste za odabir (npr. status) promijenjena iz \"Vrijeme čekanja\" u drugu kategoriju.",
+    "FL_CLOSING_RANGE_TIME": "Količina vremena (minuta i sati) izračunata od trenutka kada je zapis kreiran do posljednjeg zatvaranja.",
+    "FL_RESPONSE_DATE_TIME": "Datum i vrijeme odgovora, odnosno promjena kategorija vrijednosti rječnika (npr. status) iz \"Vrijeme odgovora\" u drugu kategoriju.",
+    "FL_SOLUTION_DATE_TIME": "Datum i vrijeme razrješenja, odnosno promjene kategorije \"Izračunavanje vremena\" vrijednosti liste za odabir (npr. status) iz \"Vrijeme rezolucije\" u druge kategorije.",
+    "FL_IDLE_DATE_TIME": "Datum i vrijeme završetka statusa mirovanja, odnosno promjena kategorije \"Izračunavanje vremena\" vrijednosti izborne liste (npr. status) iz \"Vrijeme čekanja\" u druge kategorije.",
+    "FL_CLOSING_DATE_TIME": "Datum i vrijeme zatvaranja cjelokupnog procesa izračunavanja vremena od trenutka kreiranja zapisa do posljednjeg zatvaranja.",
+    "FL_RESPONSE_EXPECTED": "Planirani/očekivani rok za odgovor, izračunat na osnovu SLA sporazuma i radnih ili kalendarskih dana/sati.",
+    "FL_SOLUTION_EXPECTED": "Planirani/očekivani rok rješavanja, obračunat na osnovu SLA sporazuma i radnih ili kalendarskih dana/sati.",
+    "FL_IDLE_DATE_EXPECTED": "Planirano/očekivano maksimalno dozvoljeno vrijeme mirovanja, izračunato na osnovu SLA ugovora i radnih ili kalendarskih dana/sati."
   }
 }

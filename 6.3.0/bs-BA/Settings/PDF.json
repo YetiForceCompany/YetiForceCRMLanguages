@@ -157,8 +157,8 @@
     "A": "A",
     "DEMY": "Demy",
     "ROYAL": "Royal",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_ACTIVE": "Aktivan",
+    "PLL_INACTIVE": "Neaktivan"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "PDF je predložak spremljen.",

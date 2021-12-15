@@ -14,10 +14,10 @@
     "FL_GROSS": "Bruto",
     "PLL_WIRE_TRANSFER": "Elektronski prijenos",
     "FL_PAYMENT_SUM": "Ukupna plaćanja",
-    "FL_PAYMENT_STATUS": "Payment status",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_PAYMENT_STATUS": "Status plaćanja",
+    "PLL_NOT_PAID": "Nije plaćeno",
+    "PLL_PAID": "Plaćeno",
+    "PLL_OVERPAID": "Preplaćeno",
+    "PLL_UNDERPAID": "Nedovoljno plaćeno"
   }
 }

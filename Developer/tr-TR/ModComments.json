@@ -11,14 +11,14 @@
     "Related To Comments": "İle ilgili",
     "ReasonToEdit": "Düzenleme nedeni",
     "UserId": "KullanıcıId",
-    "Customer": "Contact",
-    "FL_PARENTS": "Hierarchy of comments",
+    "Customer": "Kişiler",
+    "FL_PARENTS": "Yorumlar",
     "LBL_ADDED_COMMENT_TO_TICKET": "Destek Talebine bir yorum ekledi",
     "LBL_NEW_COMMENT_FOR_TICKET": "Destek Talebine bir açıklama eklendi",
     "LBL_NOTICE_WELCOME": "Platforma hoş geldiniz",
     "LBL_NOTICE_CREATED": "Tarafından Yaratıldı",
     "LBL_COMMENTS_0": "Geçerli kayıt",
     "LBL_COMMENTS_SEARCH": "Arama",
-    "LBL_ALL_RECORDS": "Related records"
+    "LBL_ALL_RECORDS": "İlgili kayıtlar"
   }
 }

@@ -90,7 +90,7 @@
     "LBL_UPDATE": "التحديث",
     "LBL_ADD_TIME_CONTROL": "إضافة عامل الوقت قبل إغلاق التذكرة",
     "LBL_CLOSE_RELATED_TICKETS": "قبل إغلاق هذه التذكرة ، وثيق الصلة تذاكر",
-    "LBL_HELPDESK_DEPENDENTS": "Tickets",
+    "LBL_HELPDESK_DEPENDENTS": "تذاكر",
     "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

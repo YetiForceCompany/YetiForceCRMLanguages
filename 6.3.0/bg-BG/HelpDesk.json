@@ -90,7 +90,7 @@
     "LBL_UPDATE": "Актуализация",
     "LBL_ADD_TIME_CONTROL": "Добави работно време преди да затвориш заявката",
     "LBL_CLOSE_RELATED_TICKETS": "Преди да затвориш заявката, затвори свързаните заявки",
-    "LBL_HELPDESK_DEPENDENTS": "Tickets",
+    "LBL_HELPDESK_DEPENDENTS": "Билети",
     "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }
 }

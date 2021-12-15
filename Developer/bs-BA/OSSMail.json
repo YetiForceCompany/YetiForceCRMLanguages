@@ -94,13 +94,13 @@
     "LBL_ALERT_FAKE_MAIL": "Pazite na ovu poruku, nije moguće provjeriti je li poruka zapravo poslana s adrese pošiljatelja.\nNe klikajte nikakve veze, ne preuzmite privitke ili dajte lične podatke kao odgovor.",
     "LBL_ALERT_FAKE_SENDER": "Pazite na ovu poruku, adresa e-pošte u polju Od je krivotvorena.\nNe klikajte nikakve veze, ne preuzmite privitke ili dajte lične podatke kao odgovor.",
     "BTN_ANALYSIS_DETAILS": "Detalji analize",
-    "LBL_NO_IP_ADDRESS": "The sender's IP address was not found",
-    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Report sent to a local RBL base",
-    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Report sent to a public RBL base",
-    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
-    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
-    "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "The message has been added"
+    "LBL_NO_IP_ADDRESS": "IP adresa servera nije pronađena",
+    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Izvještaj poslan lokalnoj RBL bazi",
+    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Izvještaj poslan javnoj RBL bazi",
+    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Pošiljateljov server je na popisu dopuštenih, kreiran je zahtjev za provjeru za administratora",
+    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Pošiljateljov server je na crnoj listi, kreiran je zahtjev za provjeru za administratora",
+    "LBL_RC_ERROR_RBL_REPORT": "Došlo je do pogreške prilikom slanja izvještaja RBL-u",
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Poruka je dodana"
   },
   "js": {
     "NoFindEmailInRecord": "Zapis nema email adresu",

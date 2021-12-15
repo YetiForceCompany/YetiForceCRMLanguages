@@ -4,21 +4,21 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 48,
-        "time": "2021-12-10 13:01:48"
+        "time": "2021-12-15 08:01:54"
     },
     "bg-BG": {
         "prefix": "bg-BG",
         "crowdinCode": "bg",
         "name": "Bulgarian",
         "progress": 43,
-        "time": "2021-12-10 13:02:32"
+        "time": "2021-12-15 08:01:55"
     },
     "bs-BA": {
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 97,
-        "time": "2021-12-10 13:02:08"
+        "progress": 100,
+        "time": "2021-12-15 08:01:55"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -88,7 +88,7 @@
         "crowdinCode": "hr",
         "name": "Croatian",
         "progress": 91,
-        "time": "2021-12-10 13:03:50"
+        "time": "2021-12-15 08:01:57"
     },
     "hu-HU": {
         "prefix": "hu-HU",
@@ -234,8 +234,8 @@
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
-        "progress": 54,
-        "time": "2021-12-10 13:11:54"
+        "progress": 55,
+        "time": "2021-12-15 08:02:14"
     },
     "uk-UA": {
         "prefix": "uk-UA",
@@ -256,7 +256,7 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 86,
-        "time": "2021-12-10 13:03:04"
+        "time": "2021-12-15 08:01:56"
     },
     "zh-TW": {
         "prefix": "zh-TW",

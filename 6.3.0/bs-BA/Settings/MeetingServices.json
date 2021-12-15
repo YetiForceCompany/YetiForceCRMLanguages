@@ -5,7 +5,7 @@
     "LBL_MEETING_SERVICES_DESCRIPTION": " ",
     "FL_URL": "URL",
     "FL_STATUS": "Status",
-    "FL_APP_ID": "App ID",
-    "FL_SECRET_KEY": "Secret key"
+    "FL_APP_ID": "ID aplikacije",
+    "FL_SECRET_KEY": "Tajni ključ"
   }
 }

@@ -21,6 +21,6 @@
     "LBL_CHECK_STATUS": "Provjeri status",
     "message": "Poruka",
     "LBL_SMSNOTIFIER_INFORMATION": "SMS informacije",
-    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Dodane SMS poruke u red čekanja"
   }
 }

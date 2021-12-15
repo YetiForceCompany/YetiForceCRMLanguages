@@ -48,8 +48,8 @@
     "LBL_FIELD_DATE": "Datumsko polje",
     "LBL_SKIP_YEAR": "Preskočite godinu",
     "LBL_SKIP_YEAR_DESC": "Preskočite godinu događaja samo uzimajući u obzir mjesec i dan.",
-    "LBL_WIDGET_NAME": "Widget name",
-    "BTN_NEXT": "Next"
+    "LBL_WIDGET_NAME": "Naziv widgeta",
+    "BTN_NEXT": "Sljedeći"
   },
   "js": {
     "JS_BLOCK_ADDED": "Blok je uspešno dodan",
