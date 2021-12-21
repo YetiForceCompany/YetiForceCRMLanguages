@@ -21,7 +21,7 @@
     "Hours": "Hours",
     "LBL_ALTBODY": "This is the body in plain text for non-HTML mail clients",
     "LBL_COULDNOT_CLOSED": "Ticket could not be",
-    "LBL_CUSTOMER_COMMENTS": "Customer has provided the following additional information to your reply:",
+    "LBL_CUSTOMER_COMMENTS": "Zákazník poskytol nasledujúce dodatočné informácie k Vašej odpovedi:",
     "LBL_DETAIL": "the details are:",
     "LBL_GIVE_MAILID": "Please give your email id",
     "LBL_LOGIN_REVOKED": "Your login is revoked. Please contact your admin.",

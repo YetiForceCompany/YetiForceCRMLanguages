@@ -57,6 +57,8 @@
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER": "Sačuvajte geografske koordinate",
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER_DESC": "",
     "VTIGER_AUTOASSIGN_HANDLER": "Automatsko dodjeljivanje zapisa",
-    "VTIGER_AUTOASSIGN_HANDLER_DESC": "Promjena vlasnika zapisa prije njegovog kreiranja"
+    "VTIGER_AUTOASSIGN_HANDLER_DESC": "Promjena vlasnika zapisa prije njegovog kreiranja",
+    "APPROVALS_APPROVALS_HANDLER": "Updating consents on contact",
+    "APPROVALS_APPROVALS_HANDLER_DESC": ""
   }
 }

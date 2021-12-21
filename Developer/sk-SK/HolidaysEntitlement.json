@@ -2,7 +2,7 @@
   "php": {
     "HolidaysEntitlement": "Annual holiday entitlement",
     "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
-    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Vlastné Informácie",
     "LBL_CUSTOM_INFORMATION": "Systémové informácie",
     "LBL_YEAR": "Rok",
     "LBL_DAYS": "Number of holidays",

@@ -1,7 +1,7 @@
 {
   "php": {
-    "ServiceContracts": "Service Contracts",
-    "Service Contracts": "Service Contracts",
+    "ServiceContracts": "Servisné zmluvy",
+    "Service Contracts": "Servisné zmluvy",
     "SINGLE_ServiceContracts": "Service Contract",
     "LBL_SERVICE_CONTRACT_INFORMATION": "Service Contract details",
     "Contract No": "Contract number",
@@ -29,7 +29,7 @@
     "Complete": "Complete",
     "Archived": "Archived",
     "LBL_SUMMARY": "Work time summary",
-    "Due date": "Due date",
+    "Due date": "Dátum splatnosti",
     "Related to": "Súvisiace s",
     "LBL_REACTION_TIME": "Reaction time",
     "LBL_IDLE_TIME": "Idle time",

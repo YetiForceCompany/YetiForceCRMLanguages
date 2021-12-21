@@ -20,7 +20,7 @@
     "LBL_SAVE_SEND_MAIL_INFO": "Všetky odoslané e-maily sa neukladajú (Gmail ich ukladá automaticky, takže túto možnosť nie je potrebné zapínať). Ak chcete uložiť e-maily, urobte dodatočnú konfiguráciu.",
     "LBL_VALIDATE_CERT": "Do you want to validate the certificate?",
     "LBL_IMAP_SAVE_MAIL": "IMAP configuration for saving emails",
-    "LBL_SEND_FOLDER": "Folder",
+    "LBL_SEND_FOLDER": "Priečinok",
     "LBL_SMTP": "SMTP",
     "LBL_SENDMAIL": "Sendmail",
     "LBL_MAIL": "Pošta",
