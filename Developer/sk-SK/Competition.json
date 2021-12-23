@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Competition",
-    "SINGLE_Competition": "Competitor",
+    "Competition": "Konkurencia",
+    "SINGLE_Competition": "Konkurent",
     "LBL_COMPETITION_INFORMATION": "Základné informácie",
     "LBL_CUSTOM_INFORMATION": "Systémové informácie",
     "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
     "LBL_SUBJECT": "Názov",
-    "LBL_NUMBER": "Number",
+    "LBL_NUMBER": "Číslo",
     "LBL_CLOSED_TIME": "Closed time",
     "LBL_VAT_ID": "DIČ",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
+    "LBL_SHOW_HIERARCHY": "Hierarchia",
     "LBL_PARENT_ID": "Competitor parent"
   }
 }

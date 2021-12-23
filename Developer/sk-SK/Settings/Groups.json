@@ -2,11 +2,11 @@
   "php": {
     "LBL_ADD_RECORD": "Pridať záznam",
     "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
+    "LBL_DUPLICATES_EXIST": "Názov skupiny už existuje",
+    "LBL_GROUP_MEMBERS": "Členovia skupiny",
     "LBL_GROUP_NAME": "Názov skupiny",
     "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
+    "LBL_TO_OTHER_GROUP": "Do inej skupiny ",
     "LBL_TRANSFORM_OWNERSHIP": "Prevod vlastníctva",
     "SINGLE_Groups": "Skupina",
     "Users": "Uživatelia",
@@ -14,7 +14,7 @@
     "Description": "Popis"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Prosím zvoľte aspoň jedného člena skupiny",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Skupina bola úspešne zmazaná"
   }
 }

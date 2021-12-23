@@ -58,7 +58,7 @@
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER_DESC": "",
     "VTIGER_AUTOASSIGN_HANDLER": "Automatyczne przypisywanie rekordów",
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modyfikowanie właściciela rekordu przed jego utworzeniem",
-    "APPROVALS_APPROVALS_HANDLER": "Updating consents on contact",
+    "APPROVALS_APPROVALS_HANDLER": "Aktualizacja zgód na kontakcie",
     "APPROVALS_APPROVALS_HANDLER_DESC": ""
   }
 }

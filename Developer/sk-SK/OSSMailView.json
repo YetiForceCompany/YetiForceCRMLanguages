@@ -15,7 +15,7 @@
     "BCC": "BCC",
     "Date": "Dátum",
     "Subject": "Predmet",
-    "Content": "Content",
+    "Content": "Obsah",
     "SendType": "Typ",
     "Sent": "Sent",
     "Received": "Received",
@@ -84,7 +84,7 @@
     "BCC": "BCC",
     "Date": "Dátum",
     "Subject": "Predmet",
-    "Content": "Content",
+    "Content": "Obsah",
     "JS_BIND_CONFIRM": "Are you sure you want to bind the selected messages?"
   }
 }

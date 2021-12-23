@@ -9,7 +9,7 @@
     "LBL_SAVE_SUCCESS": "Zmeny boli uložené",
     "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
     "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
-    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Nastavte maximálny počet neúspešných pokusov o prihlásenie alebo zmeny hesla a časový limit pre blokovanie IP.",
     "LBL_IP": "IP address",
     "LBL_DATE": "Dátum",
     "LBL_USERS": "Uživatelia",
@@ -19,7 +19,7 @@
     "LBL_BRUTEFORCE_ACTIVE": "Aktívny",
     "LBL_VIEW_SHOW": "Brute Force",
     "LBL_BRUTEFORCE": "Brute Force",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications"
+    "LBL_SENT_NOTIFICATIONS": "Odoslať notifikácie"
   },
   "js": {
     "JS_COULD_NOT_FINNISH_REACTION": "Chyba. Uloženie zlyhalo."

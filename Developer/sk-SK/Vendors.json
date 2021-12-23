@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_TO_LC": "do",
-    "LBL_EXPORT_TO_PDF": "Export to PDF",
+    "LBL_EXPORT_TO_PDF": "Exportovať do PDF",
     "LBL_VENDOR_ADDRESS_INFORMATION": "Informácie o adrese",
     "LBL_VENDORS_ADD_TASK": "Pridať Úlohu",
     "LBL_VENDORS_ADD_EVENT": "Pridať udalosť",

@@ -22,7 +22,7 @@
     "LBL_PRIORITY": "Priorita",
     "LBL_CREATED_BY": "Vytvorené užívateľom",
     "LBL_SMTP_NAME": "Smtp name",
-    "LBL_CONTENT": "Content",
+    "LBL_CONTENT": "Obsah",
     "LBL_PENDING_ACCEPTANCE": "Pending acceptance",
     "LBL_WAITING_TO_BE_SENT": "Waiting to be sent",
     "LBL_ERROR_DURING_SENDING": "Error while sending",

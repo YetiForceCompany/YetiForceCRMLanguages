@@ -4,15 +4,15 @@
     "SINGLE_Faq": "FAQ",
     "Draft": "Koncept",
     "FL_SUBJECT": "Predmet",
-    "FL_CONTENT": "Content",
+    "FL_CONTENT": "Obsah",
     "FL_CATEGORY": "Kategória",
     "FL_ACCOUNT": "Účet",
     "FL_VIEWS": "Zobraziť",
-    "PLL_PAGE": "Page",
-    "PLL_PRESENTATION": "Presentation",
+    "PLL_PAGE": "Stránka",
+    "PLL_PRESENTATION": "Prezentácia",
     "LBL_VIEW_KNOWLEDGE_BASE": "Znalostná báza",
     "LBL_PREVIOUS": "Previous",
-    "LBL_NEXT": "Next",
+    "LBL_NEXT": "Ďalej",
     "FL_STATUS": "Stav",
     "LBL_ARTICLE": "Article",
     "FL_FEATURED": "Featured",
@@ -23,7 +23,7 @@
     "LBL_FAQ_INFORMATION": "FAQ information",
     "LBL_RECORDS_LIST": "FAQs list",
     "Obsolete": "Obsolete",
-    "Published": "Published",
+    "Published": "Zverejnené",
     "Question": "Question"
   }
 }
