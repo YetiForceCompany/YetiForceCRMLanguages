@@ -50,6 +50,7 @@
     "ERR_TOKEN_DOES_NOT_EXIST": "توکن یا وجود ندارد یا منقضی شده است",
     "ERR_NO_TOKEN": "No token",
     "ERR_INCORRECT_2FA_TOTP_CODE": "کد 2FA TOTP نادرست",
-    "ERR_NO_2FA_TOTP_CODE": "کد 2FA TOTP موجود نیست"
+    "ERR_NO_2FA_TOTP_CODE": "کد 2FA TOTP موجود نیست",
+    "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Function %s not found in class %s object"
   }
 }

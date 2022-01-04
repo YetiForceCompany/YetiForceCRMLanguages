@@ -1050,7 +1050,7 @@
     "FL_SUBUNIT": "Subunit",
     "LBL_EXPORT_PDF": "Exportovať do PDF",
     "LBL_GENERATE_PDF_FILE": "Generate PDF file",
-    "LBL_AVAILABLE_TEMPLATES": "Available templates",
+    "LBL_AVAILABLE_TEMPLATES": "Dostupné šablóny",
     "LBL_GENERATE_SINGLE": "One PDF file",
     "LBL_MANY_IN_ONE": "Collective document",
     "LBL_VALID_RECORDS": "%s out of %s are valid for the selected template.",
@@ -1508,7 +1508,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Tento systém nebol zaregistrovaný. Prosím registrujte váš YetiForce CRM pre povolenie prístupu do tejto časti systému.",
     "BTN_SHARE_RECORD_IN": "Share a record in:",
     "BTN_DISABLE_SHARE_RECORD_IN": "Disable record sharing in:",
-    "BTN_SERVER_ACCESS": "Manage record sharing for Webservice"
+    "BTN_SERVER_ACCESS": "Manage record sharing for Webservice",
+    "LBL_CUSTOM_VIEW_ADV_COND": "Advanced custom view conditions"
   },
   "js": {
     "JS_APPROVE": "Approve",

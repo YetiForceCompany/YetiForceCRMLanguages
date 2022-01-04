@@ -1508,7 +1508,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "System nie został zarejestrowany. Zarejestruj swój system YetiForce CRM, aby uzyskać dostęp do tej części systemu.",
     "BTN_SHARE_RECORD_IN": "Udostępnij rekord w:",
     "BTN_DISABLE_SHARE_RECORD_IN": "Wyłącz udostępnianie rekordów w:",
-    "BTN_SERVER_ACCESS": "Zarządzaj udostępnianiem rekordów dla Webservice"
+    "BTN_SERVER_ACCESS": "Zarządzaj udostępnianiem rekordów dla Webservice",
+    "LBL_CUSTOM_VIEW_ADV_COND": "Zaawansowane warunki filtrów"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

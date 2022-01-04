@@ -1508,7 +1508,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "BTN_SHARE_RECORD_IN": "Condividi un record in:",
     "BTN_DISABLE_SHARE_RECORD_IN": "Disabilita la condivisione dei record in:",
-    "BTN_SERVER_ACCESS": "Gestisci la condivisione dei record per il Webservice"
+    "BTN_SERVER_ACCESS": "Gestisci la condivisione dei record per il Webservice",
+    "LBL_CUSTOM_VIEW_ADV_COND": "Advanced custom view conditions"
   },
   "js": {
     "JS_APPROVE": "Approva",

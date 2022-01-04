@@ -2,7 +2,7 @@
   "php": {
     "LBL_TOKEN": "Token",
     "LBL_NOT_AUTHORIZED": "Authorization required to access all module features.",
-    "LBL_TITLE": "Title",
+    "LBL_TITLE": "Nadpis",
     "LBL_AUTHOR": "Author",
     "LBL_ADD_ISSUES": "Add",
     "LBL_TITLE_ADD_ISSUE": "Add",

@@ -1050,7 +1050,7 @@
     "FL_SUBUNIT": "Subunit",
     "LBL_EXPORT_PDF": "Exportovať do PDF",
     "LBL_GENERATE_PDF_FILE": "Generate PDF file",
-    "LBL_AVAILABLE_TEMPLATES": "Available templates",
+    "LBL_AVAILABLE_TEMPLATES": "Dostupné šablóny",
     "LBL_GENERATE_SINGLE": "One PDF file",
     "LBL_MANY_IN_ONE": "Collective document",
     "LBL_VALID_RECORDS": "%s out of %s are valid for the selected template.",

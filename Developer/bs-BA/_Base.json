@@ -1508,7 +1508,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Sistem nije registrovan. Registrirajte svoj YetiForce CRM da biste imali pristup ovom dijelu sistema.",
     "BTN_SHARE_RECORD_IN": "Podijelite zapis u:",
     "BTN_DISABLE_SHARE_RECORD_IN": "Onemogući dijeljenje zapisa u:",
-    "BTN_SERVER_ACCESS": "Upravljajte dijeljenjem zapisa za Web uslugu"
+    "BTN_SERVER_ACCESS": "Upravljajte dijeljenjem zapisa za Web uslugu",
+    "LBL_CUSTOM_VIEW_ADV_COND": "Advanced custom view conditions"
   },
   "js": {
     "JS_APPROVE": "Odobriti",

@@ -3,6 +3,10 @@
     "CustomView": "筛选视图-配置",
     "LBL_FEATURED": "添加到收藏夹",
     "LBL_COLOR_VIEW": "视图颜色",
-    "LBL_ADD_FIELD": "添加字段"
+    "LBL_ADD_FIELD": "添加字段",
+    "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
+    "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filter the current list of records based on relationships and related records that meet specified criteria.\nFailure to set conditions results in showing lists of records with at least one relation."
   }
 }
