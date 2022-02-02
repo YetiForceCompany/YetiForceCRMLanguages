@@ -157,8 +157,13 @@
     "A": "A",
     "DEMY": "Demy",
     "ROYAL": "Rotyal",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_ACTIVE": "Attivo",
+    "PLL_INACTIVE": "Inattivo",
+    "LBL_GENERATOR_ENGINE": "Generazione del motore",
+    "LBL_GENERATOR_ENGINE_DESC": "YetiForcePDF - generatore pdf gratis\nChromium/Chrome - generatore di file PDF a pagamento, richiede l'acquisto di YetiForce PDF Premium",
+    "LBL_CUSTOM_STYLES": "Stili personalizzati",
+    "LBL_CHROMIUM_PDF": "Chromium/Chrome",
+    "LBL_YETIFORCE_PDF": "YetiFore PDF"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "Modello salvato",

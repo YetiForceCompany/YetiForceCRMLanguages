@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Αλλάξτε το όνομα της εταιρείας. Το όνομα YetiForce είναι δεσμευμένο.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Επιλέξτε τιμή από τη λίστα ή καταχωρήστε τιμή και στη συνέχεια πατήστε Enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Module '${sourceModule}' για τη θέση '${position}' δεν ΄ταν ενεργοποιημένο.",
-    "JS_DATES_SELECTED_HOLIDAYS": "Επιλεγμένες ημερομηνίες περιλαμβάνουν αργίες. Θέλετε να αποθηκεύσετε;",
     "JS_MESSAGE_TOO_LONG": "Το μήνυμα είναι πολύ μεγάλο",
     "JS_NO_DESKTOP_PERMISSION": "Η λήψη συγκατάθεσης για ειδοποιήσεις απέτυχε, ελέγξτε τις ρυθμίσεις του προγράμματος περιήγησής σας.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Ληφθέντα δεδομένα διεύθυνσης",

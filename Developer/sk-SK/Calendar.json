@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_GROUP_NAME": "Názov skupiny",
     "FL_MEETING_URL": "Meeting URL",
-    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Vybrané dátumy zahŕňajú dni pracovného pokoja. Chcete to uložiť?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

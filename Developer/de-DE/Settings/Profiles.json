@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Massenverschiebung Dokumente",
     "ReadRecord": "Alle durchgeführten Änderungen lesen",
     "WorkflowTrigger": "Workflow Trigger",
-    "QuickExportToExcel": "Quick export",
+    "QuickExportToExcel": "Schneller Export",
     "CreateDashboardFilter": "Filter für Widgets erzeugen",
     "DetailTransferOwnership": "Vorschau Datensatz - Zuständigen ändern",
     "ExportPdf": "Als PDF exportieren",
@@ -94,7 +94,8 @@
     "RecordConventer": "Datensatzkonverter",
     "RecordCollector": "Datensatzkonverter",
     "MeetingUrl": "Meeting-URL",
-    "InterestsConflictUsers": "Interessenkonflikt"
+    "InterestsConflictUsers": "Interessenkonflikt",
+    "CustomViewAdvCond": "Advanced custom view conditions"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil erfolgreich gelöscht"

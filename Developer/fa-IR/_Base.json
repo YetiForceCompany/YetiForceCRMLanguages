@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "تغییر نام شرکت نام شرکت YetiForce محفوظ است.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "مقدار را از لیست انتخاب کنید یا مقدار نوشتن را وارد کرده و Enter را فشار دهید",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Module '${sourceModule}' for position'${position}' was not activated.",
-    "JS_DATES_SELECTED_HOLIDAYS": "تاریخ های منتخب شامل تعطیلات است. آیا می خواهید ذخیره کنید؟",
     "JS_MESSAGE_TOO_LONG": "پیام بیش‌از‌حد طولانی است",
     "JS_NO_DESKTOP_PERMISSION": "به دست آوردن رضایت برای اعلان ها انجام نشد ، لطفاً تنظیمات مرورگر خود را بررسی کنید.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "دانلود داده‌های نشانی",

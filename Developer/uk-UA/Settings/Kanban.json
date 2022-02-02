@@ -1,13 +1,13 @@
 {
   "php": {
-    "Kanban": "Kanban",
-    "LBL_KANBAN": "Kanban",
+    "Kanban": "Канбан",
+    "LBL_KANBAN": "Канбан",
     "LBL_KANBAN_DESCRIPTION": "",
-    "LBL_ADD_BOARD": "Add board",
-    "LBL_NO_BOARDS": "No boards",
+    "LBL_ADD_BOARD": "Додати дошку",
+    "LBL_NO_BOARDS": "Немає дошок",
     "LBL_DETAIL_FIELDS": "Details fields",
     "LBL_SUM_FIELDS": "Summation fields",
-    "LBL_NO_FIELDS_ADD": "No fields to add"
+    "LBL_NO_FIELDS_ADD": "Немає полів для додавання"
   },
   "js": {}
 }

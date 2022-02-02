@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Ngày sửa đổi",
     "LBL_BACKUP_LIST": "Danh sách sao lưu",
     "ERR_CONFIG_ALERT_TITLE": "Trình quản lý sao lưu đã bị tắt",
-    "ERR_CONFIG_ALERT_DESC": "Thiết lập đường dẫn thích hợp trong biến BACKUP_PATH của tập tin cấu hình [config\/Components\/Backup.php] để kích hoạt nó."
+    "ERR_CONFIG_ALERT_DESC": "Thiết lập đường dẫn thích hợp trong biến BACKUP_PATH của tập tin cấu hình [config\/Components\/Backup.php] để kích hoạt nó.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

@@ -21,6 +21,6 @@
     "LBL_CHECK_STATUS": "Controlla stato",
     "message": "Messaggio",
     "LBL_SMSNOTIFIER_INFORMATION": "Dettagli SMS",
-    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Aggiunti messaggi SMS alla coda"
   }
 }

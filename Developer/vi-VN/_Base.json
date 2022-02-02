@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Thay đổi tên công ty. Tên của công ty YetiForce được dành riêng.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Chọn giá trị từ danh sách hoặc viết giá trị sau đó nhấn enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Mô-đun '${sourceModule}' cho vị trí'${position}' không được kích hoạt.",
-    "JS_DATES_SELECTED_HOLIDAYS": "Chọn ngày bao gồm ngày nghỉ. Bạn có muốn lưu?",
     "JS_MESSAGE_TOO_LONG": "Thông điệp quá dài",
     "JS_NO_DESKTOP_PERMISSION": "Không có sự đồng ý cho thông báo, vui lòng kiểm tra thiết lập trình duyệt.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Dữ liệu địa chỉ đả tải về",

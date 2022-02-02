@@ -302,7 +302,7 @@
     "LBL_ENCRYPTION": "Шифрування",
     "LBL_YETIFORCE_SHOP": "Магазин",
     "LBL_YETIFORCE_ISSUES": "Безкоштовна підтримка",
-    "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
+    "LBL_YETIFORCE_DOCUMENTATION": "Документація YetiForce",
     "LBL_YETIFORCE_ASSISTANCE": "Платна підтримка",
     "LBL_PICKLIST_VARIABLES": "Змінні списку вибору",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
@@ -315,7 +315,7 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Потрібне втручання",
     "LBL_ACTIVATE_FUNCTIONALITY": "Активувати",
-    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
+    "LBL_ONLY_TO_FIRST_LIST": "Тільки до першого у списку"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Авторизація успішна",

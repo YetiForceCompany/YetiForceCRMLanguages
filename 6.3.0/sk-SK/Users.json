@@ -350,7 +350,7 @@
     "LBL_2FA_SECRET": "Secret code",
     "LBL_2FA_TOTP_QR_CODE": "2FA TOTP aktivačný kľúč",
     "LBL_AUTHY_SECRET_TOTP_SUCCESS": "Two factor authentication was succesfully enabled.",
-    "LBL_2FA_WRONG_CODE": "Incorrect code - enter again or contact the Administrator",
+    "LBL_2FA_WRONG_CODE": "Nesprávny kód - vložte ešte raz alebo kontaktujte Administrátora",
     "LBL_2FA_OFF": "Vypnúť dvojfaktorové overenie",
     "LBL_2FA_TITLE": "Dvojfaktorové overovanie",
     "LBL_2FA_DESCRIPTION": "This step confirms that the person who is trying to log in is actually you",
@@ -408,9 +408,9 @@
     "ERR_LOGIN_DESP_IP_BLOCK": "Login attempt despite IP block",
     "ERR_LOGIN_IP_BLOCK": "Unsuccessful login attempt. IP blocked due to exceeding login attempts limit.",
     "ERR_2FA_IP_BLOCK": "Wrong 2FA/TOPO code. IP blocked due to exceeding login attempts limit.",
-    "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
+    "ERR_WRONG_2FA_CODE": "Nesprávny 2FA/TOPO kód",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
-    "LBL_PASSWORD_CHANGED": "Password changed",
+    "LBL_PASSWORD_CHANGED": "Heslo zmenené",
     "LBL_PASSWORD_LINK_SENT": "The link for password change is waiting to be sent, it can take a few minutes. Please check your inbox."
   },
   "js": {

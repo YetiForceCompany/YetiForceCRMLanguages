@@ -94,7 +94,8 @@
     "RecordConventer": "Konwerter rekordów",
     "RecordCollector": "Kolektor rekordów",
     "MeetingUrl": "Adres URL spotkania",
-    "InterestsConflictUsers": "Konflikt interesów"
+    "InterestsConflictUsers": "Konflikt interesów",
+    "CustomViewAdvCond": "Zaawansowane warunki filtrów"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil zapisano poprawnie"

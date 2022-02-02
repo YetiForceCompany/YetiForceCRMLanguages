@@ -4,9 +4,9 @@
     "LBL_FEATURED": "Aggiungi ai preferiti",
     "LBL_COLOR_VIEW": "Colore",
     "LBL_ADD_FIELD": "Aggiungi campo",
-    "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
-    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
-    "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",
-    "LBL_CUSTOM_CONDITIONS_DESC": "Filter the current list of records based on relationships and related records that meet specified criteria.\nFailure to set conditions results in showing lists of records with at least one relation."
+    "LBL_CUSTOM_RELATION_COLUMN": "Relazione come colonna personalizzata",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtraggio come una colonna aggiuntiva all'elenco dei registri. Filtra secondo la voce trovata nei registri correlati. ",
+    "LBL_CUSTOM_CONDITIONS": "Condizioni per filtrare i registri correlati",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtra l'elenco corrente di registri secondo le relazioni e i registri correlati che soddisfano i criteri specificati. Il mancato inserimento delle condizioni risulta nella visualizzazione degli elenchi di registri con almeno una relazione."
   }
 }

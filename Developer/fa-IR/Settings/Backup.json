@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "تاریخ اصلاح",
     "LBL_BACKUP_LIST": "فهرست پشتیبان",
     "ERR_CONFIG_ALERT_TITLE": "مدیر پشتیبان غیرفعال شده است",
-    "ERR_CONFIG_ALERT_DESC": "مسیر مناسب را در متغیر BACKUP_PATH در پرونده پیکربندی [config\/Components\/Backup.php] تنظیم کنید تا آن را فعال کنید."
+    "ERR_CONFIG_ALERT_DESC": "مسیر مناسب را در متغیر BACKUP_PATH در پرونده پیکربندی [config\/Components\/Backup.php] تنظیم کنید تا آن را فعال کنید.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

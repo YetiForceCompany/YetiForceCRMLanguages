@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "تغيير اسم الشركة. اسم YetiForce شركة محجوز.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "حدد قيمة من القائمة أو اكتب القيمة ثم اضغط enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "وحدة '${sourceModule}' على موقع'${position}' لم يتم تفعيلها.",
-    "JS_DATES_SELECTED_HOLIDAYS": "تواريخ محددة تشمل أيام العطل. هل تريد حفظ ؟",
     "JS_MESSAGE_TOO_LONG": "الرسالة طويلة جداً",
     "JS_NO_DESKTOP_PERMISSION": "فشلت في الحصول على موافقة للحصول على الإخطارات ، يرجى التحقق من إعدادات المتصفح الخاص بك.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "تحميل بيانات العنوان",

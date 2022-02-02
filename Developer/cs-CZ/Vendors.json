@@ -27,7 +27,7 @@
     "LBL_LOCAL_NUMBER": "Office number"
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Deleting this Vendor will remove its related PurchaseOrders. Are you sure you want to delete this Vendor?",
-    "LBL_MASS_DELETE_CONFIRMATION": "Deleting this vendor(s) will remove its related Purchase Orders. Are you sure you want to delete the selected Records?"
+    "LBL_DELETE_CONFIRMATION": "Smazáním tohoto prodejce odstraníte jeho související nákupní objednávky. Opravdu chcete tohoto prodejce smazat?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Smazáním tohoto prodejce budou odstraněny související nákupní objednávky. Opravdu chcete smazat vybrané záznamy?"
   }
 }

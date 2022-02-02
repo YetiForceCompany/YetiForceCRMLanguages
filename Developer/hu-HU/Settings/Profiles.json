@@ -94,7 +94,8 @@
     "RecordConventer": "Rekord átalakító",
     "RecordCollector": "Rekord kapcsoló",
     "MeetingUrl": "Meeting URL",
-    "InterestsConflictUsers": "Összeférhetetlenség"
+    "InterestsConflictUsers": "Összeférhetetlenség",
+    "CustomViewAdvCond": "Advanced custom view conditions"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

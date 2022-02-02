@@ -158,7 +158,12 @@
     "DEMY": "Demy",
     "ROYAL": "Royal",
     "PLL_ACTIVE": "Aktywna",
-    "PLL_INACTIVE": "Nieaktywna"
+    "PLL_INACTIVE": "Nieaktywna",
+    "LBL_GENERATOR_ENGINE": "Silnik generujący",
+    "LBL_GENERATOR_ENGINE_DESC": "YetiForcePDF - darmowy generator pdf\nChromium/Chrome - płatny generator plików PDF, wymaga zakupu YetiForce PDF Premium",
+    "LBL_CUSTOM_STYLES": "Style niestandardowe",
+    "LBL_CHROMIUM_PDF": "Chromium/Chrome",
+    "LBL_YETIFORCE_PDF": "YetiFore PDF"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "Szablon pdf został zapisany.",

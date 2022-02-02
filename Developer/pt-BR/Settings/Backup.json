@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Data de Modificação",
     "LBL_BACKUP_LIST": "Lista de backup",
     "ERR_CONFIG_ALERT_TITLE": "Gerenciador de backup está desativado",
-    "ERR_CONFIG_ALERT_DESC": "Defina o caminho apropriado na variável BACKUP_PATH no arquivo de configuração [config\/Components\/Backup.php] para ativá-lo."
+    "ERR_CONFIG_ALERT_DESC": "Defina o caminho apropriado na variável BACKUP_PATH no arquivo de configuração [config\/Components\/Backup.php] para ativá-lo.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

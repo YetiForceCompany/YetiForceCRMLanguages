@@ -35,7 +35,7 @@
     "LBL_PERMISSIONS_TO_VIEW_RELATED_RECORDS": "Mal by byť náhľad záznamov, súvisiaci so záznamami, ku ktorým máme prístup, byť zdieľaný",
     "LBL_PERMISSIONS_TO_EDIT_RELATED_RECORDS": "Should the edition of records (that we do not own), related to our records, be enabled",
     "LBL_PERMISSIONS_FIELD_RELATED_RECORDS": "Permissions for the related records are field-based",
-    "LBL_PERMITTED_BY_READ_ACCESS": "Access to record",
+    "LBL_PERMITTED_BY_READ_ACCESS": "Prístup k záznamu",
     "LBL_PERMITTED_BY_SHARING": "Access permission exceptions",
     "LBL_INACTIVE": "Neaktívny",
     "LBL_ONLY_PARENT": "Nadradený záznam",

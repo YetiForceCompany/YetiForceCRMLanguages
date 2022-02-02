@@ -32,7 +32,7 @@
     "PLL_MEETING": "Meeting",
     "PLL_ADVERTISING": "Advertising",
     "PLL_COMMUNITY": "Community",
-    "PLL_OTHER": "Other",
+    "PLL_OTHER": "Iné",
     "PLL_NEW_SALES": "New sales",
     "PLL_RENEWAL": "Obnovenie",
     "PLL_AFTERSALES": "Aftersales",
@@ -54,7 +54,7 @@
     "PLL_SALE_FAILED": "Sale failed",
     "PLL_SALE_CANCELLED": "Sale cancelled",
     "LBL_SWITCHHEADER_ON_0": "Otvoriť",
-    "LBL_SWITCHHEADER_OFF_0": "Closed",
+    "LBL_SWITCHHEADER_OFF_0": "Zatvorené",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Open/Closed",
     "LBL_SHOW_HIERARCHY": "Hierarchy"
   }

@@ -8,7 +8,7 @@
     "LBL_YEAR_FROM": "From",
     "LBL_YEAR_TO": "To",
     "LBL_EDIT": "Edit",
-    "LBL_DELETE": "Delete",
+    "LBL_DELETE": "Smazat",
     "LBL_HOLIDAY_DELETE_OK": "Successfully deleted public holiday",
     "LBL_HOLIDAY_DELETE_ALREADYDELETED": "The public holiday had already been deleted",
     "LBL_HOLIDAY_DELETE_SOMENOTDELETED": "Some public holidays have not been deleted",

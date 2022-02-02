@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Endre navn på selskap. Navnet på YetiForce selskapet er reservert.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Velg fra listen, eller skriv og trykk enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Module '${sourceModule}' for position'${position}' was not activated.",
-    "JS_DATES_SELECTED_HOLIDAYS": "Valgte datoer inkluderer helligdager. Vil du lagre?",
     "JS_MESSAGE_TOO_LONG": "Meldingen er for lang",
     "JS_NO_DESKTOP_PERMISSION": "Klarte ikke å få samtykke for varsler, sjekk innstillingene i nettleseren din.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Lastet ned adresse data",

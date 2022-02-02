@@ -94,7 +94,8 @@
     "RecordConventer": "Pretvarač zapisa",
     "RecordCollector": "Sakupljač zapisa",
     "MeetingUrl": "URL sastanka",
-    "InterestsConflictUsers": "Sukobi interesa"
+    "InterestsConflictUsers": "Sukobi interesa",
+    "CustomViewAdvCond": "Advanced custom view conditions"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

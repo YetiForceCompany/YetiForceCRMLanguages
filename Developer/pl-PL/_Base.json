@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Zmień nazwę firmy. Nazwa firmy YetiForce jest zastrzeżona.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Wybierz wartość z listy lub wpisz własną i naciśnij enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Moduł '${sourceModule}' dla pozycji '${position}' nie został aktywowany.",
-    "JS_DATES_SELECTED_HOLIDAYS": "W wybranym zakresie dat znajdują się dni świąteczne. Czy chcesz zapisać?",
     "JS_MESSAGE_TOO_LONG": "Wiadomość jest za długa",
     "JS_NO_DESKTOP_PERMISSION": "Nie udało się uzyskać zgody na powiadomienia, sprawdź ustawienia przeglądarki.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Wczytano dane adresowe",

@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Дата на модифициране",
     "LBL_BACKUP_LIST": "Backup списък",
     "ERR_CONFIG_ALERT_TITLE": "Backup Manager е изключен",
-    "ERR_CONFIG_ALERT_DESC": "Изберете съответния начин в променливата стойност на BACKUP_PATH в конфигурационния файл [config\/Components\/Backup.php], за да го включите."
+    "ERR_CONFIG_ALERT_DESC": "Изберете съответния начин в променливата стойност на BACKUP_PATH в конфигурационния файл [config\/Components\/Backup.php], за да го включите.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

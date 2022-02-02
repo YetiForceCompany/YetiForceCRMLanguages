@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Promenite naziv kompanije. Ime kompanije YetiForce je rezervisano.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Odaberite vrijednost s liste ili vrijednost pisanja, a zatim pritisnite enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "Modul '${sourceModule}' za poziciju '${position}' nije aktiviran",
-    "JS_DATES_SELECTED_HOLIDAYS": "Odabrani datumi uključuju praznike. Da li želite spremiti?",
     "JS_MESSAGE_TOO_LONG": "Poruka je preduga",
     "JS_NO_DESKTOP_PERMISSION": "Neuspjeh u dobivanju suglasnosti za obavijesti provjerite postavke preglednika.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Preuzeti podaci adrese",

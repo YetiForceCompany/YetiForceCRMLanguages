@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Bearbeitungsdatum",
     "LBL_BACKUP_LIST": "Liste sichern",
     "ERR_CONFIG_ALERT_TITLE": "Backup-Management ist deaktiviert",
-    "ERR_CONFIG_ALERT_DESC": "Legen Sie den entsprechenden Pfad in der BACKUP_PATH-Variable in der Konfigurationsdatei [config\/Components\/Backup.php] fest, um ihn zu aktivieren."
+    "ERR_CONFIG_ALERT_DESC": "Legen Sie den entsprechenden Pfad in der BACKUP_PATH-Variable in der Konfigurationsdatei [config\/Components\/Backup.php] fest, um ihn zu aktivieren.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

@@ -48,7 +48,7 @@
     "LBL_HANDLER_DESC": "The option activates automatic record assignment only for newly created records before they are created.",
     "FL_MANUAL": "Available from GUI",
     "FL_MODULE_NAME": "Module name",
-    "FL_SUBJECT": "Subject",
+    "FL_SUBJECT": "Sujet",
     "FL_STATE": "State",
     "PLL_ACTIVE": "Active",
     "PLL_INACTIVE": "Inactive",

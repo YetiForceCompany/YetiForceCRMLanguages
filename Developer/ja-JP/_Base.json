@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "会社名を変更します。YetiForce companyの名前は予約されています。",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "リストまたは書き込み値から値を選択しEnterを押します",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "モジュール '${sourceModule}' for position'${position}' はアクティベートされませんでした。",
-    "JS_DATES_SELECTED_HOLIDAYS": "選択した日付には休日が含まれています。保存しますか？",
     "JS_MESSAGE_TOO_LONG": "メッセージが長すぎます",
     "JS_NO_DESKTOP_PERMISSION": "通知の同意を取得できませんでした。ブラウザの設定を確認してください。",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "ダウンロードされたアドレスデータ",

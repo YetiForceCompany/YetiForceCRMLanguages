@@ -2,7 +2,7 @@
   "php": {
     "LBL_SUPPORT_PROCESSES": "Podpora",
     "LBL_GENERAL_CONFIGURATION": "General configuration",
-    "LBL_OTHER": "Other",
+    "LBL_OTHER": "Iné",
     "LBL_INFO": "Info",
     "LBL_TYPE": "Typ",
     "LBL_TICKET_STATUS_INFO": "Statuses determining that ticket is closed",

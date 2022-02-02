@@ -91,6 +91,6 @@
     "LBL_ADD_TIME_CONTROL": "Aggiungi orario di lavoro prima di chiudere il ticket",
     "LBL_CLOSE_RELATED_TICKETS": "Prima di chiudere questo ticket, chiudi i ticket correlati",
     "LBL_HELPDESK_DEPENDENTS": "Ticket",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Biglietti (M:M)"
   }
 }

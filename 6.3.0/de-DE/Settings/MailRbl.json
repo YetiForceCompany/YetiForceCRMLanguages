@@ -109,7 +109,7 @@
     "LBL_ACTIVATE_RBL_DETAIL": "Überprüfen Sie den Absender in der Nachrichtenvorschau im Mail-Client",
     "LBL_ACTIVATE_RBL_DETAIL_DESC": "Wenn Sie diese Option aktivieren, wird in der Mailvorschau eine Leiste angezeigt, die darüber informiert, ob dem Absender vertraut wird oder er lokal/öffentlich auf die schwarze Liste gesetzt wurde.",
     "LBL_SYNCH_PAID_FEATURE": "Die Synchronisierung mit dem öffentlichen RBL-Server (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) ist eine kostenpflichtige Funktion. Um die Synchronisation zu aktivieren und ständig mit neuen gefährlichen Mail-Servern zu aktualisieren, gehen Sie bitte zu %s",
-    "LBL_IP_ALREADY_EXISTS_LIST": "IP address already exists on the following list:"
+    "LBL_IP_ALREADY_EXISTS_LIST": "Die IP-Adresse existiert bereits in der folgenden Liste:"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Details anzeigen",

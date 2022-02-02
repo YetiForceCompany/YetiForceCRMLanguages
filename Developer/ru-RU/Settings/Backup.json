@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Дата изменения",
     "LBL_BACKUP_LIST": "Списки резервных копий",
     "ERR_CONFIG_ALERT_TITLE": "Менеджер резервных копий отключен",
-    "ERR_CONFIG_ALERT_DESC": "Установите соответствующий путь в переменной BACKUP_PATH в конфигурационном файле [config\/Components\/Backup.php], чтобы включить его."
+    "ERR_CONFIG_ALERT_DESC": "Установите соответствующий путь в переменной BACKUP_PATH в конфигурационном файле [config\/Components\/Backup.php], чтобы включить его.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

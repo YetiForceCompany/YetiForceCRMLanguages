@@ -6,8 +6,8 @@
     "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Numero di potenziali segnalazioni di spam in attesa di verifica: %s",
     "LBL_CHECK_BLACKLIST_REPORTS": "Posta RBL - report in lista nera",
     "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Numero di rapporti di spam inseriti nella lista nera: %s",
-    "LBL_CHECK_SUSPENDED_ACCOUNTS": "Suspended email accounts",
-    "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "List of suspended e-mail accounts: %s",
+    "LBL_CHECK_SUSPENDED_ACCOUNTS": "Profili email sospesi",
+    "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Elenco di profili email sospesi: %s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "Errori durante l'invio di un messaggio email",
     "LBL_CHECK_MAIL_QUEUE_ERROR_DESC": "Nelle ultime 24 ore il sistema non è stato in grado di inviare alcuni messaggi email in coda. Si consiglia di verificare la causa di questo problema.\n Numero di email non inviate:: %s",
     "LBL_LIBRARY_ROUNDCUBE": "Libreria Roundcube",
@@ -63,7 +63,7 @@
     "LBL_LANGUAGES_UPDATER": "Aggiornamenti lingue",
     "LBL_LANGUAGES_UPDATER_DESC": "Un aggiornamento delle lingue installate sul tuo sistema CRM è disponibile. Vai alla Gestione della Lingua e clicca il pulsante d'aggiornamento.",
     "LBL_UPDATER_DESC": "Sono disponibili aggiornamenti per la versione di sistema. Ti consigliamo di aggiornare.",
-    "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
+    "LBL_CHECK_ERROR_MAIL_DESC": "Rilevati %s errori inviando email nelle ultime 24 ore. Sei pregato di controllare le tue credenziali SMTP. ",
     "Mail": "Posta"
   }
 }

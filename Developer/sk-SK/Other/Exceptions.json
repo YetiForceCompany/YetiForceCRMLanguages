@@ -28,7 +28,7 @@
     "ERR_FILE_XPACKET_CODE_INJECTION": "Súbor obsahuje nebezpečný kód XPACKET a bol zamietnutý",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Nemáte oprávnenie na vytváranie adresárov",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Adresár nie je možné vytvoriť",
-    "ERR_AUTO_LOGOUT": "Automaticky sa odhlási z dôvodu nečinnosti",
+    "ERR_AUTO_LOGOUT": "Automaticky odhlásený z dôvodu nečinnosti",
     "ERR_FIELD_NOT_FOUND": "Súbor nebol nájdený: [%s]",
     "ERR_NUMBER_OF_ARGUMENTS_NOT_ALLOWED": "Počet argumentov nie je povolený (% d % s v % s)",
     "ERR_NO_VALUE": "No value in %s",

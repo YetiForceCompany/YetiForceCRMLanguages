@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Tweede niveau subproces",
     "LBL_GROUP_NAME": "Groepsnaam",
     "FL_MEETING_URL": "URL vergadering",
-    "LBL_SEND_CALENDAR": "Verstuur een e-mail bericht over dit event"
+    "LBL_SEND_CALENDAR": "Verstuur een e-mail bericht over dit event",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Kalenderweergave met succes toegevoegd",

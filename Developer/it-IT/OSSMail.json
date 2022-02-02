@@ -94,12 +94,12 @@
     "LBL_ALERT_FAKE_MAIL": "Attenzione a questo messaggio, non è possibile verificare se il messaggio è stato effettivamente inviato dall'indirizzo del mittente.\nNon fare clic su alcun collegamento, scaricare allegati o fornire informazioni personali in risposta.",
     "LBL_ALERT_FAKE_SENDER": "Attenzione a questo messaggio, l'indirizzo email nel campo Da è stato falsificato.\nNon fare clic su alcun collegamento, scaricare allegati o fornire informazioni personali in risposta.",
     "BTN_ANALYSIS_DETAILS": "Dettagli analisi",
-    "LBL_NO_IP_ADDRESS": "The sender's IP address was not found",
-    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Report sent to a local RBL base",
-    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Report sent to a public RBL base",
-    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
-    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
-    "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
+    "LBL_NO_IP_ADDRESS": "L'indirizzo IP del mittente non è stato trovato",
+    "LBL_RC_ADDED_RBL_REPORT_LOCAL": "Rapporto inviato a una base RBL locale",
+    "LBL_RC_ADDED_RBL_REPORT_PUBLIC": "Rapporto inviato a una base RBL pubblica",
+    "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Il server del mittente è nella white list, ha creato una richiesta di verifica per l'amministratore",
+    "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Il server del mittente è nella lista nera, ha creato una richiesta di verifica per l'amministratore",
+    "LBL_RC_ERROR_RBL_REPORT": "Si è verificato un errore inviando un rapporto al RBL",
     "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Il messaggio è stato aggiunto"
   },
   "js": {

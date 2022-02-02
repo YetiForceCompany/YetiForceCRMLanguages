@@ -217,7 +217,7 @@
     "BTN_WEBSERVICE_APP_EDIT": "Uredite konfiguraciju polja",
     "LBL_WSA_VISIBILITY": "Vidljivost",
     "LBL_WSA_VISIBILITY_DEFAULT": "Nasljeđuje vidljivost polja",
-    "LBL_LOGGED_CONTACT": "Kontakt trenutno prijavljen",
+    "LBL_LOGGED_CONTACT": "Contact online in Portal",
     "LBL_ACCOUNT_ON_CONTACT": "Račun je dodijeljen kontaktu",
     "LBL_ACCOUNT_LOGGED_CONTACT": "Račun kontakta koji je trenutno prijavljen",
     "LBL_DISABLE_FIELD": "Onemogućite polje",

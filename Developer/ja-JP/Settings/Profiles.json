@@ -94,7 +94,8 @@
     "RecordConventer": "レコードコンバータ",
     "RecordCollector": "レコードコレクター",
     "MeetingUrl": "ミーティング URL",
-    "InterestsConflictUsers": "Conflict of interests"
+    "InterestsConflictUsers": "Conflict of interests",
+    "CustomViewAdvCond": "Advanced custom view conditions"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "プロファイルが正常に削除されました"

@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Attività di progetto",
     "LBL_GROUP_NAME": "Nome gruppo",
     "FL_MEETING_URL": "URL della riunione",
-    "LBL_SEND_CALENDAR": "Invia notifica e-mail sull'evento"
+    "LBL_SEND_CALENDAR": "Invia notifica e-mail sull'evento",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Le date selezionate includono le vacanze. Vuoi salvare?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vista calendario aggiunta con successo",

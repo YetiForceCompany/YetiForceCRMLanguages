@@ -28,7 +28,7 @@
     "LBL_ATTENTION": "Avertissement !",
     "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
     "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVATE": "Privé"
   },
   "js": {
     "Saving changes": "Sauvergarde des changements...",

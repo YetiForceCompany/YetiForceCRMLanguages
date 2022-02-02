@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Segundo nível subprocesso",
     "LBL_GROUP_NAME": "Nome do grupo",
     "FL_MEETING_URL": "Meeting URL",
-    "LBL_SEND_CALENDAR": "Enviar notificação por e-mail sobre evento"
+    "LBL_SEND_CALENDAR": "Enviar notificação por e-mail sobre evento",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

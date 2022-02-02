@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Quy trình cấp độ hai",
     "LBL_GROUP_NAME": "Tên nhóm",
     "FL_MEETING_URL": "URL cuộc họp",
-    "LBL_SEND_CALENDAR": "Send e-mail notification about Event"
+    "LBL_SEND_CALENDAR": "Send e-mail notification about Event",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Chế độ xem lịch được thêm thành công",

@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "更改公司名称。这个 YetiForce 公司名称是预设的。",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "从列表中选择值，或键入值, 然后按 enter 键",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "位置 '${position}' 上的模块 '${sourceModule}' 没有激活。",
-    "JS_DATES_SELECTED_HOLIDAYS": "选定的日期包括节假日。要保存吗？",
     "JS_MESSAGE_TOO_LONG": "消息太长",
     "JS_NO_DESKTOP_PERMISSION": "未能获得通知的同意, 请检查您的浏览器设置。",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "下载的地址数据",

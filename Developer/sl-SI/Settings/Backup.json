@@ -8,7 +8,8 @@
     "LBL_FILE_DATE": "Spremenjen datum",
     "LBL_BACKUP_LIST": "Seznam varnostnih kopij",
     "ERR_CONFIG_ALERT_TITLE": "Upravljalnik varnostnih kopij je onemogočen",
-    "ERR_CONFIG_ALERT_DESC": "Nastavite ustrezno pot v spremenljivki BACKUP_PATH v konfiguracijski datoteki [config \/ Components \/ Backup.php], da jo omogočite."
+    "ERR_CONFIG_ALERT_DESC": "Nastavite ustrezno pot v spremenljivki BACKUP_PATH v konfiguracijski datoteki [config \/ Components \/ Backup.php], da jo omogočite.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
 }

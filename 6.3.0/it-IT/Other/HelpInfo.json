@@ -49,15 +49,15 @@
     "Users|FL_AUTO_ASSIGN_RECORDS": "Quando l'opzione è abilitata e il meccanismo di assegnazione automatica dei record è attivo, l'utente verrà utilizzato per assegnare i record secondo le regole e gli algoritmi del sistema.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Specifica la quantità di record (aperti) che possono essere assegnati a un utente in un modulo.",
     "FL_RESPONSE_RANGE_TIME": "Quantità di tempo (minuti e ore) trascorso dal momento in cui il rapporto è stato ricevuto fino all’inizio della risposta.\n\nL'ora viene calcolata in base alla data in cui la categoria del valore di picklist (es. status) è stata cambiata da \"Tempo di risposta\" a un'altra categoria.",
-    "FL_SOLUTION_RANGE_TIME": "Amount of time (minutes and hours) used to resolve a given ticket.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Resolution time\" to another category.",
-    "FL_IDLE_RANGE_TIME": "The amount of time (minutes and hours) the record is idle, for example, waiting for additional information.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Waiting time\" to another category.",
-    "FL_CLOSING_RANGE_TIME": "The amount of time (minutes and hours) calculated from the time the record was created until the last time it was closed.",
-    "FL_RESPONSE_DATE_TIME": "Date and time of the response, that is, the change of dictionary value categories (e.g. status) from \"Response time\" to another category.",
-    "FL_SOLUTION_DATE_TIME": "Date and time of the resolution, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Resolution time\" to other categories.",
-    "FL_IDLE_DATE_TIME": "Date and time of idle status completion, that is, the change of the \"Calculating time\" category of the picklist values (e.g. status) from \"Waiting time\" to other categories.",
-    "FL_CLOSING_DATE_TIME": "Date and time of closing the entire time calculation process from the time the record was created until the last time it was closed.",
-    "FL_RESPONSE_EXPECTED": "Planned/expected response deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
-    "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Planned/expected maximum allowed idle time, calculated on the basis of the SLA agreement and working or calendar days/hours."
+    "FL_SOLUTION_RANGE_TIME": "Quantità di tempo (minuti e ore) usata per risolvere un dato ticket.\n\nIl tempo è calcolato in base alla data quando la categoria del valore dell'elenco di selezione (es. stato) è stata modificata da \"Orario di risoluzione\" a un'altra categoria.",
+    "FL_IDLE_RANGE_TIME": "La quantità di tempo (minuti e ore) in cui il registro è inattivo, ad esempio, in attesa di informazioni aggiuntive.\n\nIl tempo è calcolato in base alla data in cui la categoria del valore del menu a tendina (es. stato) è stato modificato da \"Orario d'attesa\" a un'altra categoria.",
+    "FL_CLOSING_RANGE_TIME": "La quantità di tempo (minuti e ore) calcolata dall'orario di creazione del registro fino alla sua ultima chiusura.",
+    "FL_RESPONSE_DATE_TIME": "Data e ora della risposta, ovvero, il cambiamento delle categorie del valore del dizionario (es. stato) da \"Orario di risposta\" a un'altra categoria.",
+    "FL_SOLUTION_DATE_TIME": "Data e ora della risoluzione, ovvero, il cambiamento della categoria \"Orario di calcolo\" dei valori del menu a tendina (es. stato) da \"Orario di risoluzione\" ad altre categorie.",
+    "FL_IDLE_DATE_TIME": "Data e ora del completamento dello stato inattivo, ovvero, il cambiamento della categoria \"Orario di calcolo\" dei valori del menua tendina (es. stato) da \"Orario d'attesa\" ad altre categorie.",
+    "FL_CLOSING_DATE_TIME": "Data e ora di chiusura dell'intero processo di calcolo del tempo dall'orario di creazione del registro fino alla sua ultima chiusura.",
+    "FL_RESPONSE_EXPECTED": "Scadenza della risposta pianificata/prevista, calcolata in base all'accordo SLA e i giorni/ore di lavoro o del calendario.",
+    "FL_SOLUTION_EXPECTED": "Scadenza della risoluzione pianificata/prevista, calcolata in base all'accordo SLA e i giorni/ore di lavoro o del calendario.",
+    "FL_IDLE_DATE_EXPECTED": "Tempo di inattività consentito massimo pianificato/previsto, calcolato in base all'accordo SLA e i giorni/ore di lavoro o del calendario."
   }
 }

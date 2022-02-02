@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Наступний рівень підпроцесу",
     "LBL_GROUP_NAME": "Назва групи",
     "FL_MEETING_URL": "URL зборів",
-    "LBL_SEND_CALENDAR": "Надіслати повідомлення про подію електронною поштою"
+    "LBL_SEND_CALENDAR": "Надіслати повідомлення про подію електронною поштою",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Подання календаря додано успішно",

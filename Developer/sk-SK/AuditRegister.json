@@ -1,7 +1,7 @@
 {
   "php": {
-    "AuditRegister": "Audit Register",
-    "SINGLE_AuditRegister": "Audit Register",
+    "AuditRegister": "Audit register",
+    "SINGLE_AuditRegister": "Audit register",
     "LBL_BASIC_INFORMATION": "Základné informácie",
     "FL_NAME": "Názov",
     "FL_LOCATION_REGISTER": "Location register",

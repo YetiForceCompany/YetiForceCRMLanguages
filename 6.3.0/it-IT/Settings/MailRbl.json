@@ -101,15 +101,15 @@
     "LBL_IP_EXISTING_IN_RBL": "L'indirizzo IP %s esiste in %s, annulla il rapporto esistente per aggiungerne uno nuovo.",
     "BTN_RBL_CONFIG": "Configurazione RBL (Realtime Blackhole List)",
     "LBL_ACCEPT_AUTOMATICALLY": "Accetta automaticamente",
-    "LBL_ACCEPT_AUTOMATICALLY_DESC": "By default each RBL (Realtime Blackhole List) report is added to a list of reports to be verified. When this option is enabled all reports will be accepted right away and added to the list to be sent. We recommend manually verifying all reports to avoid queueing messages accidentally or incorrectly. ",
+    "LBL_ACCEPT_AUTOMATICALLY_DESC": "Di default ogni rapporto RBL (Elenco in Tempo Reale di Blackhole) è aggiunto a un elenco di rapporti da verificare. Quando quest'opzuione è abilitata, tutti i rapporti saranno accettati direttamente e aggiunti all'elenco da inviare. Consiglio manualmente la verifica di tutti i rapporti per evitare di accodare accidentalmente o erroneamente i messaggi. ",
     "LBL_SEND_REPORT_AUTOMATICALLY": "Invia automaticamente",
-    "LBL_SEND_REPORT_AUTOMATICALLY_DESC": "A parameter that enables automatic sending of the report to the central RBL database (Realtime Blackhole List) after validating the e-mail message. Reports to the whitelist send only the headers of the message, reports to the blacklist send the entire e-mail. The CRM system can run without any problems without sending reports.",
-    "LBL_ACTIVATE_RBL_LIST": "Check the sender on the email list in the mail client",
-    "LBL_ACTIVATE_RBL_LIST_DESC": "Enabling this option will slow down loading emails depending on the connection speed and the email server. Once the sender is verified the system will display (by changing the background color) whether the sender is trusted or not.",
-    "LBL_ACTIVATE_RBL_DETAIL": "Check the sender in the message preview in the mail client",
-    "LBL_ACTIVATE_RBL_DETAIL_DESC": "Enabling this option will cause the mail preview to display a bar that informs whether the sender is trusted or has been blacklisted locally/publicly.",
+    "LBL_SEND_REPORT_AUTOMATICALLY_DESC": "Un parametro che consente l'invio automatico del rapporto al database centrale di RBL (Elenco in Tempo Reale del Blackhole) dopo aver convalidato il messaggio email. I rapporti alla lista bianca inviano solo le intestazioni del messaggio, i rapporti alla lista nera inviano l'email intera. Il sistema CRM può esser eseguito senza alcun problema senza inviare rapporti.",
+    "LBL_ACTIVATE_RBL_LIST": "Controlla il mittente sull'elenco di email nel client di posta",
+    "LBL_ACTIVATE_RBL_LIST_DESC": "Abilitare quest'opzione rallenterà il caricamento delle email secondo la velocità di connessione e il server email. Una volta che il mittente è verificato, il sistema mostrerà (cambiando il colore di sfondo) se il mittente è affidabile o no.",
+    "LBL_ACTIVATE_RBL_DETAIL": "Controlla il mittente nell'anteprima del messaggio nel client di posta",
+    "LBL_ACTIVATE_RBL_DETAIL_DESC": "Abilitare quest'opzione causerà la visualizzazione dell'anteprima della mail di una barra che informa se il mittente è affidabile o è stato inserito localmente/pubblicamente nella lista nera.",
     "LBL_SYNCH_PAID_FEATURE": "La sincronizzazione con il server RBL pubblico (rbl-block.yetiforce.com, rbl-allow.yetiforce.com) è una funzione a pagamento. Al fine di attivare la sincronizzazione e di essere costantemente aggiornato con nuovi server di posta pericolosi si prega di andare a %s",
-    "LBL_IP_ALREADY_EXISTS_LIST": "IP address already exists on the following list:"
+    "LBL_IP_ALREADY_EXISTS_LIST": "L'indirizzo IP esiste già sull'elenco seguente:"
   },
   "js": {
     "BTN_SHOW_DETAILS": "Visualizza i dettagli",

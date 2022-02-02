@@ -1845,7 +1845,6 @@
     "JS_YETIFORCE_COMPANY_NAME_NOT_ALLOWED": "Cambie le nombre de la empresa. El nombre de empresa YetiForce está reservado.",
     "JS_SELECT_OR_WRITE_AND_PRESS_ENTER": "Seleccione el valor de la lista o escriba un valor y presione Enter",
     "JS_INVENTORY_ITEM_MODULE_NOT_FOUND": "El módulo '${sourceModule}' para la posición'${position}' no fue activado.",
-    "JS_DATES_SELECTED_HOLIDAYS": "Fechas seleccionadas incluyen días de fiesta. ¿Desea guardar?",
     "JS_MESSAGE_TOO_LONG": "El mensaje es demasiado largo",
     "JS_NO_DESKTOP_PERMISSION": "No se pudo obtener el consentimiento para las notificaciones, por favor compruebe la configuración de su navegador.",
     "JS_MESSAGE_DOWNLOADED_ADDRESS_DATA": "Datos de dirección descargados",

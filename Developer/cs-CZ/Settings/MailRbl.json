@@ -115,7 +115,7 @@
     "BTN_SHOW_DETAILS": "Show details",
     "BTN_STATUS_ACTION_ACCEPT": "Accept",
     "BTN_STATUS_ACTION_REJECT": "Reject",
-    "BTN_DELETE": "Delete",
+    "BTN_DELETE": "Smazat",
     "BTN_STATUS_ACTION_SEND_REQUEST": "Send a report (modal window)",
     "BTN_STATUS_ACTION_QUICK_SEND_REQUEST": "Send a report (no confirmation)"
   }

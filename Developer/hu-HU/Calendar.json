@@ -191,7 +191,8 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_GROUP_NAME": "Csoport neve",
     "FL_MEETING_URL": "Találkozó URL",
-    "LBL_SEND_CALENDAR": "Küldjön e-mail értesítőt az Eseményről"
+    "LBL_SEND_CALENDAR": "Küldjön e-mail értesítőt az Eseményről",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Naptár nézet sikeresen hozzáadva",
