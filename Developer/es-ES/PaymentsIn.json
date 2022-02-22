@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "Transacción",
     "FL_ORDER": "Pedido",
     "FL_INVOICE": "Factura",
-    "FL_PAYMENT_SYSTEM": "Sistema de Pago"
+    "FL_PAYMENT_SYSTEM": "Sistema de Pago",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

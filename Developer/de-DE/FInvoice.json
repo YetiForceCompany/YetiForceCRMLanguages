@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Rechnungsadresse",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Lieferadresse",
     "LBL_DESCRIPTION_BLOCK": "Beschreibung",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "Kommentare",
     "FL_SUBJECT": "Betreff",
     "FL_PAYMENT_DATE": "Zahlungsdatum",

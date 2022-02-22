@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Morada de facturação",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Endereço de Entrega",
     "LBL_DESCRIPTION_BLOCK": "Descrição",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "Comentários",
     "FL_SUBJECT": "Assunto",
     "FL_PAYMENT_DATE": "Prazo",

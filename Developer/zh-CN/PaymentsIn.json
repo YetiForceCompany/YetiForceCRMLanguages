@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "交易",
     "FL_ORDER": "排序",
     "FL_INVOICE": "付款通知单",
-    "FL_PAYMENT_SYSTEM": "支付系统"
+    "FL_PAYMENT_SYSTEM": "支付系统",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

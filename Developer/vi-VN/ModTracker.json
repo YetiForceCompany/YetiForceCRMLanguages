@@ -33,6 +33,7 @@
     "LBL_UPDATED": "ngày cập nhật",
     "LBL_DISPLAYED": "Đã hiển thị",
     "LBL_ADDED": "đã thêm",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "đã xoá",
     "LBL_CONVERTED_FROM_LEAD": "Đã chuyển đổi từ cơ hội",
     "LBL_DELETED": "Hồ sơ đã xoá",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Cấu hình cập nhật tiện ích",
     "LBL_PERSON_MAKING_CHANGES": "Cá nhân đã làm thay đổi",
     "LBL_MODULES": "Các Mô-Đun",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

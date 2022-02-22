@@ -95,7 +95,9 @@
     "RecordCollector": "Collecteur d'enregistrements",
     "MeetingUrl": "URL de la réunion",
     "InterestsConflictUsers": "Conflit d'intérêts",
-    "CustomViewAdvCond": "Advanced custom view conditions"
+    "CustomViewAdvCond": "Advanced custom view conditions",
+    "RecordActivityNotifier": "Record activity notifier",
+    "WorkflowTriggerWhenRecordIsBlocked": "Workflow trigger when record is blocked"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil supprimé avec succès"

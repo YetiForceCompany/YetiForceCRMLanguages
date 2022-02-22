@@ -33,6 +33,7 @@
     "LBL_UPDATED": "更新",
     "LBL_DISPLAYED": "表示",
     "LBL_ADDED": "追加済",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "削除済み",
     "LBL_CONVERTED_FROM_LEAD": "リードから変換しました",
     "LBL_DELETED": "削除したレコード",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "ウィジェットの設定を更新",
     "LBL_PERSON_MAKING_CHANGES": "変更を加えている人",
     "LBL_MODULES": "モジュール",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

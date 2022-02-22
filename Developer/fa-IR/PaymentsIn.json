@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "تراکنش‌ها",
     "FL_ORDER": "سفارش",
     "FL_INVOICE": "فاکتور",
-    "FL_PAYMENT_SYSTEM": "سامانه پرداخت"
+    "FL_PAYMENT_SYSTEM": "سامانه پرداخت",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

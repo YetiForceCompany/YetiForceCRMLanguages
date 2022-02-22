@@ -33,6 +33,7 @@
     "LBL_UPDATED": "змінив",
     "LBL_DISPLAYED": "Переглянуто",
     "LBL_ADDED": "додав",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "видалено",
     "LBL_CONVERTED_FROM_LEAD": "Перетворено з лідів",
     "LBL_DELETED": "Видалений запис",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Оновлення налаштувань віджетів",
     "LBL_PERSON_MAKING_CHANGES": "Особа, яка вносить зміни",
     "LBL_MODULES": "Модулі",
-    "LBL_SHOW_HIDDEN_DATA": "Показані приховані дані"
+    "LBL_SHOW_HIDDEN_DATA": "Показані приховані дані",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

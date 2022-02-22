@@ -22,7 +22,7 @@
     "LBL_ALTBODY": "Este é o corpo em texto puro para clientes de email não-HTML",
     "LBL_COULDNOT_CLOSED": "Ticket não pôde ser",
     "LBL_CUSTOMER_COMMENTS": "O Cliente realizou o seguinte comentário em relação a sua resposta:",
-    "LBL_DETAIL": "the details are:",
+    "LBL_DETAIL": "os detalhes são:",
     "LBL_GIVE_MAILID": "Por favor, informe seu email",
     "LBL_LOGIN_REVOKED": "Seu acesso foi revogado. Por favor, entre em contato com o administrador.",
     "LBL_MAIL_COULDNOT_SENT": "E-mail não pode ser enviado.",
@@ -67,8 +67,8 @@
     "Wait For Response": "Aguarda Resposta",
     "LBL_CHARTS": "Gráfico",
     "Rejected": "Rejeitado",
-    "Answered": "Response received",
-    "P&S Sold": "Product/Service Sold",
+    "Answered": "Resposta recebida",
+    "P&S Sold": "Produto/Serviço Vendido",
     "Record Id": "No. Registro",
     "ticketpriorities": "prioridade",
     "LBL_NO_ACCOUNTS_IN_HELPDESK": "O Ticket não esta relacionado a nenhuma Conta. Por favor, crie uma relaçao.",
@@ -89,7 +89,7 @@
     "LBL_MASS_STATUS_UPDATED": "Status atualizado nos registos selecionados",
     "LBL_UPDATE": "Atualizar",
     "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
-    "LBL_CLOSE_RELATED_TICKETS": "Before you close this ticket, close related tickets",
+    "LBL_CLOSE_RELATED_TICKETS": "Antes de fechar este ticket, feche os tickets relacionados",
     "LBL_HELPDESK_DEPENDENTS": "Pedidos",
     "LBL_HELPDESK_RELATED": "Tickets (M:M)"
   }

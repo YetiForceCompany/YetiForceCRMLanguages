@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "請求先住所",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "配送先住所",
     "LBL_DESCRIPTION_BLOCK": "説明",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "コメント",
     "FL_SUBJECT": "件名",
     "FL_PAYMENT_DATE": "期限",

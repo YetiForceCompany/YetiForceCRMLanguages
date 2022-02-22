@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "حوالة",
     "FL_ORDER": "الترتيب",
     "FL_INVOICE": "الفاتوره",
-    "FL_PAYMENT_SYSTEM": "التحويل إلى حساب المصرف"
+    "FL_PAYMENT_SYSTEM": "التحويل إلى حساب المصرف",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

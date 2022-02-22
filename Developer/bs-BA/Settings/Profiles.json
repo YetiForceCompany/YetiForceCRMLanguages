@@ -95,7 +95,9 @@
     "RecordCollector": "Sakupljač zapisa",
     "MeetingUrl": "URL sastanka",
     "InterestsConflictUsers": "Sukobi interesa",
-    "CustomViewAdvCond": "Advanced custom view conditions"
+    "CustomViewAdvCond": "Advanced custom view conditions",
+    "RecordActivityNotifier": "Record activity notifier",
+    "WorkflowTriggerWhenRecordIsBlocked": "Workflow trigger when record is blocked"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

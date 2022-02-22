@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "Giao dịch",
     "FL_ORDER": "Đặt hàng",
     "FL_INVOICE": "Hoá đơn",
-    "FL_PAYMENT_SYSTEM": "Hệ thống thanh toán"
+    "FL_PAYMENT_SYSTEM": "Hệ thống thanh toán",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

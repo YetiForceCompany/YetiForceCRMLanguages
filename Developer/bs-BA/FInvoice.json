@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Adresa za fakturisanje",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresa za dostavu",
     "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "Komentari",
     "FL_SUBJECT": "Predmet",
     "FL_PAYMENT_DATE": "Datum dospijeća",

@@ -33,6 +33,7 @@
     "LBL_UPDATED": "به روزرسانی نمود",
     "LBL_DISPLAYED": "نمایش داده شده",
     "LBL_ADDED": "افزود",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "حذف نمود",
     "LBL_CONVERTED_FROM_LEAD": "تبدیل شده از سرنخ فروش",
     "LBL_DELETED": "رکورد را حذف نمود",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "تنظیمات ویجت پیکربندی",
     "LBL_PERSON_MAKING_CHANGES": "فرد ایجاد کننده تغییرات",
     "LBL_MODULES": "ماژول ها",
-    "LBL_SHOW_HIDDEN_DATA": "نمایش داده‌های پنهان"
+    "LBL_SHOW_HIDDEN_DATA": "نمایش داده‌های پنهان",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

@@ -33,6 +33,7 @@
     "LBL_UPDATED": "Güncellenmiş",
     "LBL_DISPLAYED": "Gösterilen",
     "LBL_ADDED": "Eklendi",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "Kaldırılmış",
     "LBL_CONVERTED_FROM_LEAD": "Potansiyel Müşteriye çevrildi",
     "LBL_DELETED": "Silinen kayıt",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Araç ayarını güncelle",
     "LBL_PERSON_MAKING_CHANGES": "Kişilik değişiklikleri",
     "LBL_MODULES": "Modüller",
-    "LBL_SHOW_HIDDEN_DATA": "Gizli veriler görünür"
+    "LBL_SHOW_HIDDEN_DATA": "Gizli veriler görünür",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

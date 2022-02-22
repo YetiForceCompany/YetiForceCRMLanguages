@@ -95,7 +95,9 @@
     "RecordCollector": "Kolektor rekordów",
     "MeetingUrl": "Adres URL spotkania",
     "InterestsConflictUsers": "Konflikt interesów",
-    "CustomViewAdvCond": "Zaawansowane warunki filtrów"
+    "CustomViewAdvCond": "Zaawansowane warunki filtrów",
+    "RecordActivityNotifier": "Powiadomienia o aktywności na rekordzie",
+    "WorkflowTriggerWhenRecordIsBlocked": "Wyzwalacz przepływu pracy, gdy rekord jest zablokowany"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil zapisano poprawnie"

@@ -161,9 +161,9 @@
     "PLL_INACTIVE": "Neaktívne",
     "LBL_GENERATOR_ENGINE": "Generating engine",
     "LBL_GENERATOR_ENGINE_DESC": "YetiForcePDF - free pdf generator\nChromium/Chrome - paid PDF file generator, requires purchase of YetiForce PDF Premium",
-    "LBL_CUSTOM_STYLES": "Custom styles",
+    "LBL_CUSTOM_STYLES": "Vlastné štýly",
     "LBL_CHROMIUM_PDF": "Chromium/Chrome",
-    "LBL_YETIFORCE_PDF": "YetiFore PDF"
+    "LBL_YETIFORCE_PDF": "YetiForce PDF"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "PDF template saved.",

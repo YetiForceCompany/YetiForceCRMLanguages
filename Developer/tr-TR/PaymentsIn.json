@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "İşlem",
     "FL_ORDER": "Sipariş",
     "FL_INVOICE": "Fatura",
-    "FL_PAYMENT_SYSTEM": "Ödeme sistemi"
+    "FL_PAYMENT_SYSTEM": "Ödeme sistemi",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

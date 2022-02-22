@@ -33,6 +33,7 @@
     "LBL_UPDATED": "zmieniono",
     "LBL_DISPLAYED": "przeglądał rekord",
     "LBL_ADDED": "dodano powiązanie",
+    "LBL_UNLINK": "usunięto powiązanie",
     "LBL_REMOVED": "usunięto powiązanie",
     "LBL_CONVERTED_FROM_LEAD": "skonwertowany z leada",
     "LBL_DELETED": "usunięto rekord",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Aktualizacja konfiguracji widgetów",
     "LBL_PERSON_MAKING_CHANGES": "Osoba dokonująca zmian",
     "LBL_MODULES": "Moduły",
-    "LBL_SHOW_HIDDEN_DATA": "Pokazał ukryte dane"
+    "LBL_SHOW_HIDDEN_DATA": "Pokazał ukryte dane",
+    "LBL_RECORD_DOES_NOT_EXIST": "Rekord nie istnieje",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "Rekord został usunięty, nie można wyświetlić nazwy."
   }
 }

@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "Транзакция",
     "FL_ORDER": "Поръчка",
     "FL_INVOICE": "Фактура",
-    "FL_PAYMENT_SYSTEM": "Платежна система"
+    "FL_PAYMENT_SYSTEM": "Платежна система",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

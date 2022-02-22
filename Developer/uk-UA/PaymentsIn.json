@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "Транзакція",
     "FL_ORDER": "Замовлення",
     "FL_INVOICE": "Рахунок",
-    "FL_PAYMENT_SYSTEM": "Платіжна система"
+    "FL_PAYMENT_SYSTEM": "Платіжна система",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

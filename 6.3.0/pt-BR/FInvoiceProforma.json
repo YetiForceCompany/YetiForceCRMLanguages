@@ -12,12 +12,12 @@
     "FL_NUMBER": "Número da Fatura",
     "FL_TOTAL": "Líquido",
     "FL_GROSS": "Bruto",
-    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "PLL_WIRE_TRANSFER": "Transferência eletrônica",
     "FL_PAYMENT_SUM": "Total de pagamentos",
-    "FL_PAYMENT_STATUS": "Payment status",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_PAYMENT_STATUS": "Estado do pagamento",
+    "PLL_NOT_PAID": "Não pago",
+    "PLL_PAID": "Pago",
+    "PLL_OVERPAID": "Pago em excesso",
+    "PLL_UNDERPAID": "Pagou menos"
   }
 }

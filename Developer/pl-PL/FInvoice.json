@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Adres do faktury",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adres do dostawy",
     "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "Dostępna ilość następujących produktów została przekroczona: %s",
     "LBL_ATTENTION_BLOCK": "Uwagi",
     "FL_SUBJECT": "Temat",
     "FL_PAYMENT_DATE": "Data płatności",

@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "Transakcija",
     "FL_ORDER": "Naročilo",
     "FL_INVOICE": "Račun",
-    "FL_PAYMENT_SYSTEM": "Tip plačila"
+    "FL_PAYMENT_SYSTEM": "Tip plačila",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

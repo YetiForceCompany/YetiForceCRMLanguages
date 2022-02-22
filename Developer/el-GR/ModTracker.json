@@ -33,6 +33,7 @@
     "LBL_UPDATED": "ενημέρωσε",
     "LBL_DISPLAYED": "πρόβαλε",
     "LBL_ADDED": "πρόσθεσε",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "αφαίρεσε",
     "LBL_CONVERTED_FROM_LEAD": "Μετατράπηκε από Δυνητικό Πελάτη",
     "LBL_DELETED": "Διαγραμμένη εγγραφή",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ενημέρωση διαμόρφωσης widget",
     "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές",
     "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Εμφανίστηκαν κρυφά δεδομένα"
+    "LBL_SHOW_HIDDEN_DATA": "Εμφανίστηκαν κρυφά δεδομένα",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Indirizzo fattura",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Indirizzo di recapito",
     "LBL_DESCRIPTION_BLOCK": "Descrizione",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "Commenti",
     "FL_SUBJECT": "Oggetto",
     "FL_PAYMENT_DATE": "Data scadenza pagamento",

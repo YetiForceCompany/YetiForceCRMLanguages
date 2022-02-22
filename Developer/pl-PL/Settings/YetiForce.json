@@ -125,6 +125,6 @@
     "LBL_ACTIVATE_DEACTIVATE_SERVICE": "Aktywuj/dezaktywuj usługę",
     "LBL_ACTIVATE_DEACTIVATE_SERVICE_CONFIRM_DESC": "Czy na pewno chcesz aktywować/dezaktywować usługę?",
     "LBL_SHOP_YETIFORCEPDFPREMIUM_INTRO": "Dodatkowy silnik Chromium/Chrome do generowania plików PDF",
-    "LBL_SHOP_YETIFORCEPDFPREMIUM_DESC": "Additional engine to generate PDF Chromium/Chrome files\nThe Chromium engine used to generate PDFs introduces a method of creating complex PDF files.\n\nFeatures:\n- compatibility with CSS and HTML 5\n- compatibility with all technologies supported by the browser\n- fully supported special characters and fonts\n- the only limitation is the browsers capability\n- support for OS: Linux, macOS, Windows"
+    "LBL_SHOP_YETIFORCEPDFPREMIUM_DESC": "Dodatkowy silnik do generowania plików PDF Chromium/Chrome\nSilnik Chromium używany do generowania dokumentów PDF wprowadza możliwość tworzenia zaawansowanych i skomplikowanych plików PDF.\n\nFunkcje:\n- kompatybilność z CSS3 i HTML 5\n- kompatybilność ze wszystkimi technologiami obsługiwanymi przez przeglądarkę\n- w pełni obsługiwane znaki specjalne i czcionki\n- jedynym ograniczeniem są możliwości przeglądarki\n- wsparcie systemu operacyjnego: Linux, macOS, Windows"
   }
 }

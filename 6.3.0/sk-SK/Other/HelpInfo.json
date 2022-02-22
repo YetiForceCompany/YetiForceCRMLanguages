@@ -33,7 +33,7 @@
     "Users|Language": "Výber systémového jazyka užívateľa (neplatí pre prihlasovaciu stránku).",
     "Users|Row Height": "Specifies spacing between rows.",
     "Users|LBL_MENU_EXPANDED_BY_DEFAULT": "Checking the box will cause the user's and admin's menu to be expanded by default.",
-    "Users|FL_AUTHY_SECRET_TOTP": "After 2FA TOPO is activated, a key will be generated to verify single use codes.",
+    "Users|FL_AUTHY_SECRET_TOTP": "Po aktivácii 2FA TOPO sa vygeneruje kľúč na overenie kódov na jedno použitie.",
     "Users|FL_MAIL_SCANNER_FIELDS": "A list of fields used by the scanner to search for and relate records.",
     "Users|Default Record View": "Set the default record view for modules that support multiple views (i.e. details, summary).",
     "Users|Default Activity View": "In order for the changes to take effect clearing browser cache is required (CTRL+SHIFT+R).",

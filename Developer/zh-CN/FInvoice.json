@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "发票地址",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "收信人地址",
     "LBL_DESCRIPTION_BLOCK": "说明",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "评论",
     "FL_SUBJECT": "标题",
     "FL_PAYMENT_DATE": "截止日期",

@@ -6,6 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Factuuradres",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Verzendadres",
     "LBL_DESCRIPTION_BLOCK": "Beschrijving",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
     "LBL_ATTENTION_BLOCK": "Opmerkingen",
     "FL_SUBJECT": "Onderwerp",
     "FL_PAYMENT_DATE": "Vervaldatum",

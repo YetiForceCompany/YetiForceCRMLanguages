@@ -192,7 +192,7 @@
     "LBL_GROUP_NAME": "Nom du Groupe",
     "FL_MEETING_URL": "URL de la réunion",
     "LBL_SEND_CALENDAR": "Envoyer une notification par e-mail à propos de l'événement",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Les dates sélectionnées incluent des jours fériés. Voulez-vous enregistrer ?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vue calendrier ajoutée avec succès",

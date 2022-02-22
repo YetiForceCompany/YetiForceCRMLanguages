@@ -60,6 +60,7 @@
     "FL_TRANSACTION": "取引",
     "FL_ORDER": "ご注文",
     "FL_INVOICE": "請求書",
-    "FL_PAYMENT_SYSTEM": "支払いシステム"
+    "FL_PAYMENT_SYSTEM": "支払いシステム",
+    "FL_FINVOICE_PROFORMA": "Proforma"
   }
 }

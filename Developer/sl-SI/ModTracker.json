@@ -33,6 +33,7 @@
     "LBL_UPDATED": "posodobljen",
     "LBL_DISPLAYED": "Prikazano",
     "LBL_ADDED": "dodano",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "odstranjeno",
     "LBL_CONVERTED_FROM_LEAD": "Pretvorjen iz interesenta",
     "LBL_DELETED": "Izbrisani zapis",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Posodobitev konfiguracije pripomočka (widget )",
     "LBL_PERSON_MAKING_CHANGES": "Osebne spremembe izvedi",
     "LBL_MODULES": "Moduli",
-    "LBL_SHOW_HIDDEN_DATA": "Prikaži skrite podatke"
+    "LBL_SHOW_HIDDEN_DATA": "Prikaži skrite podatke",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

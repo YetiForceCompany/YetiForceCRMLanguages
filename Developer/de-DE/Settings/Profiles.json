@@ -95,7 +95,9 @@
     "RecordCollector": "Datensatzkonverter",
     "MeetingUrl": "Meeting-URL",
     "InterestsConflictUsers": "Interessenkonflikt",
-    "CustomViewAdvCond": "Advanced custom view conditions"
+    "CustomViewAdvCond": "Advanced custom view conditions",
+    "RecordActivityNotifier": "Record activity notifier",
+    "WorkflowTriggerWhenRecordIsBlocked": "Workflow trigger when record is blocked"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil erfolgreich gelöscht"

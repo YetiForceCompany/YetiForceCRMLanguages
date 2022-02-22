@@ -60,7 +60,7 @@
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 91,
-        "time": "2021-12-21 07:16:28"
+        "time": "2022-02-22 08:12:48"
     },
     "fi-FI": {
         "prefix": "fi-FI",
@@ -73,8 +73,8 @@
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
-        "progress": 95,
-        "time": "2022-02-02 13:40:34"
+        "progress": 96,
+        "time": "2022-02-22 08:11:52"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -165,7 +165,7 @@
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 76,
-        "time": "2021-12-10 13:09:22"
+        "time": "2022-02-22 08:13:40"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -200,7 +200,7 @@
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 48,
-        "time": "2022-02-02 13:40:36"
+        "time": "2022-02-22 08:14:34"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 87,
-        "time": "2022-02-02 13:40:36"
+        "time": "2022-02-22 08:15:04"
     },
     "vi-VN": {
         "prefix": "vi-VN",

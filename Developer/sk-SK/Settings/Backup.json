@@ -9,7 +9,7 @@
     "LBL_BACKUP_LIST": "Zoznam záloh",
     "ERR_CONFIG_ALERT_TITLE": "Spravovanie záloh je zablokované",
     "ERR_CONFIG_ALERT_DESC": "Nastavte príslušnú cestu v BACKUP_PATH premennej v konfiguračnom súbore [config\/Components\/Backup.php] na zapnutie.",
-    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+    "ERR_CONFIG_PATH_ALERT_DESC": "Systém nemôže získať prístup k zadanému záložnému adresáru. Uistite sa, že cesta a udelené povolenia sú správne."
   },
   "js": {}
 }

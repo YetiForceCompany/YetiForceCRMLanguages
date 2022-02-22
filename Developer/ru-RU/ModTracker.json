@@ -33,6 +33,7 @@
     "LBL_UPDATED": "изменил",
     "LBL_DISPLAYED": "Просмотрено",
     "LBL_ADDED": "добавил",
+    "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "удалено",
     "LBL_CONVERTED_FROM_LEAD": "Создано из Обращения",
     "LBL_DELETED": "Удаленная запись",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
     "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
   }
 }

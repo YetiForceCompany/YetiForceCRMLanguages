@@ -33,6 +33,7 @@
     "LBL_UPDATED": "aktualizované",
     "LBL_DISPLAYED": "Displayed",
     "LBL_ADDED": "pridal/a",
+    "LBL_UNLINK": "odstránené prepojenie",
     "LBL_REMOVED": "removed",
     "LBL_CONVERTED_FROM_LEAD": "Converted from lead",
     "LBL_DELETED": "Deleted record",
@@ -49,6 +50,8 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
     "LBL_MODULES": "Moduly",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_RECORD_DOES_NOT_EXIST": "Záznam neexistuje",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "Záznam bol zmzaný a názov nemôže byť zobrazený."
   }
 }
