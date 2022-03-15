@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "Maximale Upload Größe ist",
     "LBL_May": "Mai",
     "LBL_MERGE": "Zusammenführen",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "Der primäre Datensatz wird nach der Zusammenführung erhalten bleiben. Sie können die Spalte mit den zu erhaltenden Werten wählen. Der andere Datensatz wird gelöscht, aber die zugehörigen Informationen werden zusammengeführt.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Datensätze zusammenführen in",
     "LBL_MERGE_SELECT": "Zum Zusammenführen selektieren",
     "LBL_MERGING_CRITERIA_SELECTION": "Kriterien Auswahl zusammenführen",

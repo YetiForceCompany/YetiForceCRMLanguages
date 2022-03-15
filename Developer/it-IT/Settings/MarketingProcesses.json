@@ -9,7 +9,7 @@
     "LBL_GROUPS_INFO": "Gruppi senza diritto di proprietà",
     "LBL_LEAD_STATUS": "Stati che definiscono un lead come chiuso",
     "LBL_LEAD_CONVERT_STATUS": "Stati che consentono la conversione di un lead ad azienda",
-    "LBL_CONVERT_LEAD_MERGE": "Riassocia record relazionati, ma senza convertire",
+    "LBL_CONVERT_LEAD_MERGE": "Riassocia record correlati, ma senza convertire",
     "LBL_CONVERT_LEAD_MERGE_ALERT": "Se le condizioni sono tutte soddisfatte, ovvero l'azienda, dal lead, esiste già, non viene creata una nuova azienda, ma i record relazionati al lead, che si sta convertendo, saranno riassociati alla azienda identificata, che soddisfa le condizioni impostate",
     "LBL_CONDITION": "Aggiungi condizione",
     "MarketingProcesses": "Processo di marketing"

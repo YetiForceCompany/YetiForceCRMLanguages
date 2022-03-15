@@ -11,7 +11,11 @@
     "SINGLE_Groups": "Skupina",
     "Users": "Uživatelia",
     "Name": "Názov skupiny",
-    "Description": "Popis"
+    "Description": "Popis",
+    "FL_PARENT": "Vedúci tímu",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Bol prekročený limit podskupín.",
+    "LBL_INDEFINITE_LOOP": "Aktuálne nastavenie bude vytvárať nekonečnú slučku. Prosím zmeňte členov skupiny.",
+    "LBL_GROUP_DUPLICATE": "Duplikovať"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Prosím zvoľte aspoň jedného člena skupiny",

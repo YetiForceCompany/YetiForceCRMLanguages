@@ -37,7 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Primo giorno di questo mese",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Ultimo giorno di questo mese",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Primo giorno del mese prossimo",
-    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Campi dipendenti",
+    "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Campi con dipendenza",
     "LBL_PRODUCTS_TABLE": "Tabella con blocco esteso",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Tabella con blocco esteso e descrizione",
     "LBL_PRODUCTS_TABLE_NEW": "Tabella migliorata con blocco esteso",
@@ -72,6 +72,6 @@
     "LBL_RELATED_ATTACHMENTS": "Allegati correlati",
     "LBL_DISPLAY_BARCODE": "Codice a barre",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)",
-    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "I dati dei registri correlati dal campo dipendente (insieme)"
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dati relativi ai record dal campo dipendente (array)"
   }
 }

@@ -5,8 +5,8 @@
     "LBL_COLOR_VIEW": "Colore",
     "LBL_ADD_FIELD": "Aggiungi campo",
     "LBL_CUSTOM_RELATION_COLUMN": "Relazione come colonna personalizzata",
-    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtraggio come una colonna aggiuntiva all'elenco dei registri. Filtra secondo la voce trovata nei registri correlati. ",
-    "LBL_CUSTOM_CONDITIONS": "Condizioni per filtrare i registri correlati",
-    "LBL_CUSTOM_CONDITIONS_DESC": "Filtra l'elenco corrente di registri secondo le relazioni e i registri correlati che soddisfano i criteri specificati. Il mancato inserimento delle condizioni risulta nella visualizzazione degli elenchi di registri con almeno una relazione."
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrare come colonna aggiuntiva nella lista dei record. Filtra sulla base della voce trovata nei record correlati. ",
+    "LBL_CUSTOM_CONDITIONS": "Condizioni per filtrare i record correlati",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtra l'elenco corrente dei record in base alle relazioni e ai relativi record che soddisfano i criteri specificati.\nIl mancato inserimento delle condizioni comporta la visualizzazione di elenchi di record con almeno una relazione."
   }
 }

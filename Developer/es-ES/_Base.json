@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "El tamaño máximo de subida es",
     "LBL_May": "Mayo",
     "LBL_MERGE": "Unir",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "El registro primario se conservará después de la fusión. Puede seleccionar la columna para conservar los valores. El otro registro se eliminará, pero la información relacionada se fusionará.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Fusionar registros en",
     "LBL_MERGE_SELECT": "Seleccionar para unir",
     "LBL_MERGING_CRITERIA_SELECTION": "Selección de criterios de fusión",

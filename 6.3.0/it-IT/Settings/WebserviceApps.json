@@ -3,7 +3,7 @@
     "WebserviceApps": "Web service - Applicazioni",
     "LBL_APP_NAME": "Nome",
     "LBL_PUBLIC_URL": "Indirizzo URL pubblico",
-    "LBL_PUBLIC_URL_INFO": "L'URL sarà usato per inviare notifiche email e sarà possibile usare l'URL nel contenuto, es. ripristino della password, collegamento all'anteprima del registro nel Portale Clienti",
+    "LBL_PUBLIC_URL_INFO": "L'URL verrà utilizzato per inviare notifiche email e sarà possibile utilizzare l'URL nel contenuto, es. per reimpostare la password nel Portale Clienti, link per visualizzare in anteprima il record nel Portale Cliente",
     "LBL_ALLOWED_IPS": "IP consentiti",
     "LBL_ALLOWED_IPS_INFO": "Valore vuoto - accesso da tutti i server.\nSe gli indirizzi IP sono inseriti (dopo il punto decimale), l'accesso alle API sarà consentito solo da questi indirizzi IP.\nEsempio:",
     "LBL_TYPE_SERVER": "Tipo",

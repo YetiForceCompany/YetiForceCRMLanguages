@@ -8,7 +8,7 @@
     "LBL_MIN_LOOKUP_LENGTH": "O número mínimo de caracteres que um usuário deve digitar antes de uma pesquisa ser realizada",
     "LBL_SAVE_NOTIFY_OK": "Mudanças salvas.",
     "LBL_COUNTRY_CODES": "Códigos do país",
-    "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. gb,fr,pl",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "exemplo gb,fr,pl",
     "LBL_COUNTRY_CODES_INFO": "Verificar lista de código do país",
     "LBL_KEY": "Chave",
     "LBL_KEY_PLACEHOLDER": "Digita a chave da aplicação",

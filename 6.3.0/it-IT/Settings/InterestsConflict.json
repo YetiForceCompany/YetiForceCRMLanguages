@@ -14,9 +14,9 @@
     "LBL_USERS_CONFIRMATIONS": "Accesso al pannello di conferma",
     "LBL_USERS_UNLOCK": "Accesso al pannello delle richieste di sblocco",
     "LBL_RELATIONSHIP": "Relazione",
-    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Invia un'email quando richiedi l'accesso al registro",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Invia un'email quando richiedi l'accesso al record",
     "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail inviata alle persone sopra (indirizzi email per le notifiche)",
-    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Invia un'email con l'esito della richiesta per l'accesso al registro",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Invia un'email con l'esito della richiesta di accesso al record",
     "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail inviata alla persona che richiede l'accesso"
   }
 }

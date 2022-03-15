@@ -11,6 +11,10 @@
     "LBL_EDIT_VIEW_PRESAVE": "Επιβεβαίωση πριν την αποθήκευση της εγγραφής",
     "LBL_ENTITY_CHANGE_STATE": "Αλλαγή κατάστασης",
     "LBL_ENTITY_BEFORE_SAVE": "Πριν την αποθήκευση",
-    "LBL_ENTITY_AFTER_SAVE": "Μετά την αποθήκευση"
+    "LBL_ENTITY_AFTER_SAVE": "Μετά την αποθήκευση",
+    "LBL_DETAIL_VIEW_BEFORE": "Detail View",
+    "LBL_EDIT_VIEW_BEFORE": "Edit View",
+    "LBL_EDIT_VIEW_DUPLICATE": "Edit View (Duplicate)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Loading data for inventory"
   }
 }

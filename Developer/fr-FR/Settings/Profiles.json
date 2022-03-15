@@ -6,7 +6,7 @@
     "LBL_DELETE_PROFILE": "Supprimer profil",
     "LBL_DELETE_RECORD": "Supprimer",
     "LBL_DESCRIPTION": "Description",
-    "LBL_DUPLICATE_RECORD": "Doublon",
+    "LBL_DUPLICATE_RECORD": "Dupliquer",
     "LBL_DUPLICATES_EXIST": "Un profil doublon existe ",
     "LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE": "Editer les droits pour ce profil",
     "LBL_EDIT_ALL_DESC": "Peux modifier toutes les informations du module",

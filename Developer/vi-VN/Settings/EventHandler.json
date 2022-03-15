@@ -11,6 +11,10 @@
     "LBL_EDIT_VIEW_PRESAVE": "Xác nhận trước khi lưu biểu ghi",
     "LBL_ENTITY_CHANGE_STATE": "Thay đổi trạng thái",
     "LBL_ENTITY_BEFORE_SAVE": "Trước lưu",
-    "LBL_ENTITY_AFTER_SAVE": "Sau lưu"
+    "LBL_ENTITY_AFTER_SAVE": "Sau lưu",
+    "LBL_DETAIL_VIEW_BEFORE": "Detail View",
+    "LBL_EDIT_VIEW_BEFORE": "Edit View",
+    "LBL_EDIT_VIEW_DUPLICATE": "Edit View (Duplicate)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Loading data for inventory"
   }
 }

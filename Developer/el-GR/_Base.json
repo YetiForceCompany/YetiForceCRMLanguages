@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "Το μέγιστο μέγεθος αρχείου είναι",
     "LBL_May": "Μάι",
     "LBL_MERGE": "Συγχώνευση",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "Η κύρια εγγραφή θα διατηρηθεί μετά τη συγχώνευση. Μπορείτε να επιλέξετε τη στήλη για να διατηρήσετε τις τιμές. <br />Η άλλη εγγραφή θα διαγραφεί, αλλά οι σχετιζόμενες πληροφορίες θα συγχωνευθούν.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Συγχώνευση εγγραφών σε",
     "LBL_MERGE_SELECT": "Επιλέξτε για συγχώνευση",
     "LBL_MERGING_CRITERIA_SELECTION": "Επιλογή κριτηρίων συγχώνευσης",

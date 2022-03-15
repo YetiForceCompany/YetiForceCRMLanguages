@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "حداکثر حجم آپلود",
     "LBL_May": "مِی",
     "LBL_MERGE": "ادغام",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "فیلد اصلی بعد از ادغام نگه داشته می شود. شما با انتخاب ستون می توانید مقادیر را نگه دارید.<br />باقی مانده اطلاعات ثبتی حذف شده اما اطلاعات مرتبط ادغام می شوند.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "ادغام رکوردها",
     "LBL_MERGE_SELECT": "انتخاب برای ادغام",
     "LBL_MERGING_CRITERIA_SELECTION": "انتخاب معیارها",

@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "Maksimal opplastningsstørrelse",
     "LBL_May": "Mai",
     "LBL_MERGE": "Slå sammen",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "Den primære posten vil bli beholdt. Du kan velge kolonnen for å beholde de verdier.<br />Den andre posten vil bli slettet, men de relaterte informasjon vil bli slått sammen.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Slå sammen poster i",
     "LBL_MERGE_SELECT": "Velg for å slå sammen",
     "LBL_MERGING_CRITERIA_SELECTION": "Merging criteria selection",

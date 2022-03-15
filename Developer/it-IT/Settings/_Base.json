@@ -211,7 +211,7 @@
     "LBL_BACKUP_DESCRIPTION": "Crea backup dei file",
     "LBL_SCHEDULER_DESCRIPTION": "Gestisce le operazioni CRON",
     "LBL_OSSMAIL_DESCRIPTION": "Configura la webmail",
-    "Mail Logs": "Email - Cronologia scaricamenti",
+    "Mail Logs": "Email - Cronologia scansioni",
     "LBL_LOGS": "Tracciati",
     "LBL_AUTOMATION": "Automazione",
     "LBL_TIMECONTROL_PROCESSES": "Processi piano temporale",

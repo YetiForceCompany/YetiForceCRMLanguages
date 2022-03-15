@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "最大上传限制",
     "LBL_May": "5月",
     "LBL_MERGE": "合并",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "合并后的主要记录将被保留。您可以选择的列值保留。其他的记录将被删除，但相关信息将被合并.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "合并记录在",
     "LBL_MERGE_SELECT": "选择用于合并",
     "LBL_MERGING_CRITERIA_SELECTION": "合并条件选择",

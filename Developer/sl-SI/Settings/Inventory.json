@@ -25,11 +25,11 @@
     "LBL_IN_TOTAL": "Skupaj",
     "LBL_CASCADE": "Kaskada",
     "LBL_GLOBAL": "Davek iz seznama razpoložljivih davkov",
-    "LBL_GROUP": "Davek iz seznama izdelkov \/ storitev",
+    "LBL_GROUP": "Davek iz seznama izdelkov / storitev",
     "LBL_INDIVIDUAL": "Davek po meri",
     "LBL_REGIONAL": "Davek podjetja",
     "LBL_GLOBAL_TAXS": "Davek iz seznama razpoložljivih davkov",
-    "LBL_GROUP_TAXS": "Davek iz seznama izdelkov \/ storitev",
+    "LBL_GROUP_TAXS": "Davek iz seznama izdelkov / storitev",
     "LBL_INDIVIDUAL_TAXS": "Davek po meri",
     "LBL_REGIONAL_TAXS": "Davek podjetja",
     "LBL_GLOBAL_DISCOUNTS": "Discount from the list of available discounts",
@@ -46,10 +46,11 @@
     "LBL_VIEW_TAXCONFIGURATION": "Nastavitev davkov",
     "LBL_VIEW_DISCOUNTCONFIGURATION": "Nastavitve popustov",
     "LBL_VIEW_DISCOUNTS": "Osnovni popust",
+    "LBL_DEFAULT_MODE": "Default type",
     "LBL_ALERT_TAX_CONFIG_TITLE": "Opis davčnih nastavitev:",
-    "LBL_ALERT_TAX_CONFIG_DESC": "Vrsta seštevanja:\nSkupaj:\n- Skupna vrednost vseh davkov, izračunana na vrednost izdelka \/ storitve.\n[Example]\nIzbrana sta dva davka: prvi 23%%, drugi 8%%. Sistem znese vrednost obeh davkov iz prvotnega neto zneska.\nV zgornjem primeru za neto vrednost 100 € bo bruto znesek (100 € * 1,31) = 131,00 € \n\nKaskadno:\n- Znesek davka se izračuna vsakič od vrednosti izdelka \/ storitve.\n[Example]\nIzbrana sta dva davka: prvi 23%%, drugi 8%%. Sistem izračuna vrednost prvega davka, nato pa se doda vrednost drugega davka.\nV zgornjem primeru za neto vrednost 100 € bo bruto znesek (100 € * 1,23) * 1,08 = 132,84 € \n\nOpis davčnih nastavitev:\nDavek s seznama razpoložljivih davkov:\n- Navedeno v nastavitvah za napredne module.\nDavek s seznama izdelkov \/ storitev:\n- Posamezno določeno za izdelke v modulu izdelki.\nDavek po meri:\n- Določeno enkrat za izbrani zapis.\nDavek na računu:\n- Določeno posebej za izbrano stranko.",
+    "LBL_ALERT_TAX_CONFIG_DESC": "Summation type:\r\nIn total:\r\n- Total value of all taxes calculated on the value of product/services.\r\n[Example]\r\nThere are two taxes selected: the first one 23%, the second one 8%. The system sums the value of both taxes from the original net amount. \r\nIn the above example for the net value 100zł, the gross amount will be (100zł * 1,31) = 131,00 zł\r\n\r\nCascade:\r\n- Tax amount is calculated each time from the product/service value.\r\n[Example]\r\nTwo taxes are selected: the first one 23%, the second one 8%. The system calculates the value for the first tax and then the value of second tax is added. \r\nIn the above example for the net value of 100zł, the gross amount will be (100zł * 1,23) * 1,08 = 132,84 zł\r\n\r\nTax settings description:\r\nTax from the list of available taxes:\r\n- Specified in settings for Advanced Modules.\r\nTax from products/services list:\r\n- Specified individually for products in the Products module.\r\nCustom tax:\r\n- Specified once for a selected record.\r\nAccount's tax:\r\n- Specified individually for a selected customer.",
     "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "Opis nastavitev popusta:",
-    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Vrsta seštevanja:\nSkupaj:\n- Skupna vrednost vseh popustov, izračunana na podlagi vrednosti izdelka \/ storitve.\n[Example]\nIzbrana sta dva popusta: prvi znaša 20%%, drugi pa 10%%. Sistem znese vrednost obeh popustov od prvotnega neto zneska.\nV zgornjem primeru za znesek 100 € bo znesek po popustu = (100 €- 30%%) = 70,00 €\n\nKaskadno:\n- Znesek popusta se izračuna vsakič od vrednosti izdelka \/ storitve.\n[Example]\nIzbrana sta dva popusta: prvi znaša 20%%, drugi pa 10%%. Sistem izračuna vrednost za prvi popust, nato pa se ta znesek zmanjša za vrednost drugega popusta.\nV zgornjem primeru za znesek 100 € bo znesek po popustu = (100 €- 20%%) - 10%% = 72 €\n\nOpis nastavitev popusta:\nPopust s seznama razpoložljivih popustov:\n- Navedeno v nastavitvah za napredne module.\nPopust s seznama izdelkov \/ storitev:\n- Navedeno posebej za izdelke v modulu izdelki.\nPopust po meri:\n- Določeno enkrat za izbrani zapis.\nPopust na račun:\n- Navedeno posebej za izbrani račun."
+    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Summation type:\nIn total:\n- Total value of all discounts calculated on the basis of product/services value.\n[Example]\nThere are two discounts selected: the first one is 20%, the second one is 10%. The system sums the value of both discounts from the original net amount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 30%) = 70,00 zł\n\nCascade:\n- Discount amount is calculated each time from the product/service value.\n[Example]\nTwo discounts are selected: the first one is 20%, the second one is 10%. The system calculates the value for the first discount and then this amount is reduced by the value of the second discount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 20%) - 10% = 72 zł\n\nDiscount settings description:\nDiscount from the list of available discounts:\n- Specified in settings for Advanced Modules.\nDiscount from products/services list:\n- Specified individually for products in the Products module.\nCustom discount:\n- Specified once for a selected record.\nAccount's discount:\n- Specified individually for a selected Account."
   },
   "js": {
     "JS_SAVE_CHANGES": "Spremembe so uspešno shranjene.",

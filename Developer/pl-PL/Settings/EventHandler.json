@@ -11,6 +11,10 @@
     "LBL_EDIT_VIEW_PRESAVE": "Walidacja przed zapisaniem rekordu",
     "LBL_ENTITY_CHANGE_STATE": "Zmień stan",
     "LBL_ENTITY_BEFORE_SAVE": "Przed zapisaniem",
-    "LBL_ENTITY_AFTER_SAVE": "Po zapisaniu"
+    "LBL_ENTITY_AFTER_SAVE": "Po zapisaniu",
+    "LBL_DETAIL_VIEW_BEFORE": "Podgląd rekordu",
+    "LBL_EDIT_VIEW_BEFORE": "Widok edycji",
+    "LBL_EDIT_VIEW_DUPLICATE": "Widok edycji (dublowanie)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Wczytywanie danych do inwentarza"
   }
 }

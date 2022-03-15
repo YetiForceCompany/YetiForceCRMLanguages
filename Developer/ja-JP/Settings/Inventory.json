@@ -25,11 +25,11 @@
     "LBL_IN_TOTAL": "合計",
     "LBL_CASCADE": "重ねて表示",
     "LBL_GLOBAL": "利用可能な税のリストからの税",
-    "LBL_GROUP": "製品\/サービスリストからの税",
+    "LBL_GROUP": "製品/サービスリストからの税",
     "LBL_INDIVIDUAL": "カスタム税",
     "LBL_REGIONAL": "アカウントの税",
     "LBL_GLOBAL_TAXS": "利用可能な税のリストからの税",
-    "LBL_GROUP_TAXS": "製品\/サービスリストからの税",
+    "LBL_GROUP_TAXS": "製品/サービスリストからの税",
     "LBL_INDIVIDUAL_TAXS": "カスタム税",
     "LBL_REGIONAL_TAXS": "アカウントの税",
     "LBL_GLOBAL_DISCOUNTS": "Discount from the list of available discounts",
@@ -46,10 +46,11 @@
     "LBL_VIEW_TAXCONFIGURATION": "税の設定",
     "LBL_VIEW_DISCOUNTCONFIGURATION": "割引設定",
     "LBL_VIEW_DISCOUNTS": "ディスカウントベース",
+    "LBL_DEFAULT_MODE": "Default type",
     "LBL_ALERT_TAX_CONFIG_TITLE": "税設定の説明:",
-    "LBL_ALERT_TAX_CONFIG_DESC": "計算タイプ：\n合計：\n- 商品・サービスの金額に対して計算された全ての税金の合計額。\n例\n2つの税金が選択されています：最初の税金は23％、2番目の税金は8％です。このシステムでは、両方の税金の合計額を元の純額から算出します。\n上記の例では、純額100złの場合、総額は(100zł * 1,31) = 131,00 złとなります。\n\nカスケード：\n- 商品・サービスの金額からその都度税額を算出します。\n例\n2つの税金が選択されています：最初の税金は23％、2番目の税金は8％です。システムは最初の税金の値を計算し、次に2番目の税金の値を加算します。\n上記の例では、純額100złの場合、総額は(100zł * 1,23) * 1,08 = 132,84 złとなります。\n\n税金の設定の説明：\n利用可能な税金のリストから税金を選択します：\n- 高度なモジュールの設定で指定します。\n製品\/サービスリストからの税金：\n- 商品モジュールの商品に対して個別に指定します。\nカスタム税：\n- 選択したレコードに対して一度だけ指定されます。\nアカウントの税金：\n- 選択した顧客に対して個別に指定。",
+    "LBL_ALERT_TAX_CONFIG_DESC": "Summation type:\r\nIn total:\r\n- Total value of all taxes calculated on the value of product/services.\r\n[Example]\r\nThere are two taxes selected: the first one 23%, the second one 8%. The system sums the value of both taxes from the original net amount. \r\nIn the above example for the net value 100zł, the gross amount will be (100zł * 1,31) = 131,00 zł\r\n\r\nCascade:\r\n- Tax amount is calculated each time from the product/service value.\r\n[Example]\r\nTwo taxes are selected: the first one 23%, the second one 8%. The system calculates the value for the first tax and then the value of second tax is added. \r\nIn the above example for the net value of 100zł, the gross amount will be (100zł * 1,23) * 1,08 = 132,84 zł\r\n\r\nTax settings description:\r\nTax from the list of available taxes:\r\n- Specified in settings for Advanced Modules.\r\nTax from products/services list:\r\n- Specified individually for products in the Products module.\r\nCustom tax:\r\n- Specified once for a selected record.\r\nAccount's tax:\r\n- Specified individually for a selected customer.",
     "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "割引設定の説明:",
-    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "計算タイプ：\n合計：\n- 商品・サービス価値に基づいて算出された全ての割引の合計値。\n例\n2つの割引が選択されています：最初の割引は20％、2つ目の割引は10％です。システムは元の純額から両方の割引額を合計します。\n上記の例では、100złの場合、割引後の金額は = (100 zł - 30%%) = 70,00 zł となります。\n\nカスケード：\n- 商品\/サービスの値から毎回割引額を算出します。\n例\n2 つの割引が選択されています：最初の割引は 20%で、2 番目の割引は 10%です。システムは最初の割引の値を計算し、この値を2つ目の割引の値で減額します。\n上記の例では、100złの値引き後の金額は= (100 zł - 20%%) - 10% = 72 złとなります。\n\n割引設定の説明：\n利用可能な割引のリストからの割引：\n- 高度なモジュールの設定で指定します。\n商品\/サービス一覧からの割引：\n- 商品モジュールの商品に対して個別に指定\nカスタム割引：\n- 選択したレコードに対して一度だけ指定。\nアカウントの割引：\n- 選択したアカウントに対して個別に指定します。"
+    "LBL_ALERT_DISCOUNT_CONFIG_DESC": "Summation type:\nIn total:\n- Total value of all discounts calculated on the basis of product/services value.\n[Example]\nThere are two discounts selected: the first one is 20%, the second one is 10%. The system sums the value of both discounts from the original net amount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 30%) = 70,00 zł\n\nCascade:\n- Discount amount is calculated each time from the product/service value.\n[Example]\nTwo discounts are selected: the first one is 20%, the second one is 10%. The system calculates the value for the first discount and then this amount is reduced by the value of the second discount. \nIn the above example for the amount of 100zł the amount after discount will be = (100 zł - 20%) - 10% = 72 zł\n\nDiscount settings description:\nDiscount from the list of available discounts:\n- Specified in settings for Advanced Modules.\nDiscount from products/services list:\n- Specified individually for products in the Products module.\nCustom discount:\n- Specified once for a selected record.\nAccount's discount:\n- Specified individually for a selected Account."
   },
   "js": {
     "JS_SAVE_CHANGES": "変更は正常に保存されました。",

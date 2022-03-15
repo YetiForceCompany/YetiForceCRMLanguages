@@ -1,11 +1,11 @@
 {
   "php": {
-    "FieldsDependency": "Campi Dipendenti",
-    "LBL_FIELDS_DEPENDENCY": "Campi dipendenti",
+    "FieldsDependency": "Campi - Dipendenza",
+    "LBL_FIELDS_DEPENDENCY": "Campi - Dipendenza",
     "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configurazione di campi e blocchi dinamici a seconda di criteri specifici",
-    "LBL_NAME": "Nome dipendente",
+    "LBL_NAME": "Nome dipendenza",
     "LBL_EDIT": "Modifica dipendente",
-    "LBL_CREATE": "Crea un nuovo dipendente",
+    "LBL_CREATE": "Crea una nuova dipendenza",
     "LBL_SOURCE_MODULE": "Nome modulo",
     "LBL_VIEWS": "Viste",
     "LBL_VIEWS_INFO": "Elenco di viste dove i campi devono essere nascosti/mostrati, se una vista non è selezionata, i campi saranno sempre visibili",

@@ -6,7 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Fakturačná adresa",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Dodacia adresa",
     "LBL_DESCRIPTION_BLOCK": "Popis",
-    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "Dostupné množstvo nasledujúcich produktov bolo prekročené: %s",
     "LBL_ATTENTION_BLOCK": "Komentáre",
     "FL_SUBJECT": "Predmet",
     "FL_PAYMENT_DATE": "Dátum splatnosti",

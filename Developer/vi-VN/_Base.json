@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "Kích thước tải lên tối đa",
     "LBL_May": "Th.5",
     "LBL_MERGE": "Gộp lại",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values.<br />The other record will be deleted but the related information will be merged.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Hợp nhất hồ sơ trong",
     "LBL_MERGE_SELECT": "Chọn để hợp nhất",
     "LBL_MERGING_CRITERIA_SELECTION": "Gộp tiêu chí lựa chọn",

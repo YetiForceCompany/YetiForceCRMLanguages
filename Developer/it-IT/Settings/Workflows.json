@@ -259,8 +259,8 @@
     "LBL_WORKINGDAY_MONTH": "Primo giorno lavorativo del mese",
     "LBL_WORKFLOW_CUSTOM_RELATIONS": "Relazioni personalizzate",
     "LBL_VERIFY_IF_EXISTS": "Se il record correlato esiste, non creare nuovi record",
-    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "restrizione dei registri d'innesco del flusso di lavoro disattiva",
-    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Condizioni per i registri non possono esser impostate in una data modalità di flusso di lavoro.",
+    "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "disattiva le condizioni di esecuzione dei task di workflow",
+    "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Le condizioni, per l'esecuzione dei task di workflow, non possono essere impostate nella modalità di esecuzione scelta [impostata nella fase precedente (Informazioni base) => \"Definisci quando (evento) il workflow verrà eseguito\"].",
     "LBL_ERROR_DELETE_ENTRY": "Errore, elimina voce."
   },
   "js": {

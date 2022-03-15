@@ -1,7 +1,7 @@
 {
   "php": {
-    "SVendorEnquiries": "Demande de fournisseur",
-    "SINGLE_SVendorEnquiries": "Demande de fournisseur",
+    "SVendorEnquiries": "Commandes fournisseur",
+    "SINGLE_SVendorEnquiries": "Commande fournisseur",
     "LBL_SCALCULATIONS_INFORMATION": "Informations de base",
     "LBL_CUSTOM_INFORMATION": "Information systèmes",
     "LBL_DESCRIPTION_INFORMATION": "Description",
@@ -14,7 +14,7 @@
     "FL_TOTAL_PRICE": "Total HT",
     "FL_MARGINP": "Pourcentage de marge totale",
     "FL_MARGIN": "Marge totale",
-    "FL_VENDOR": "Vendeur",
+    "FL_VENDOR": "Fournisseur",
     "FL_SCALCULATIONS": "Calcul",
     "PLL_DRAFT": "Brouillon",
     "PLL_IN_REALIZATION": "En cours",

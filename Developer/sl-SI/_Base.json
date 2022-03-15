@@ -325,7 +325,7 @@
     "LBL_MAX_UPLOAD_SIZE": "Največja velikost datoteke za nalaganje",
     "LBL_May": "Maj",
     "LBL_MERGE": "Združi",
-    "LBL_MERGE_RECORDS_DESCRIPTION": "Primarni zapis se bo ohranil po združitvi. Izberete lahko stolpec z vrednostmi, ki jih želite ohraniti.<br /> Drugi zapis se izbriše, vendar se njegove informacije združijo.",
+    "LBL_MERGE_RECORDS_DESCRIPTION": "The primary record will be retained after the merge. You can select the column to retain the values. The other record will be deleted but the related information will be merged.",
     "LBL_MERGE_RECORDS_IN": "Združevanje zapisov v",
     "LBL_MERGE_SELECT": "Izberi za združevanje",
     "LBL_MERGING_CRITERIA_SELECTION": "Izberi pogoje združevanja",

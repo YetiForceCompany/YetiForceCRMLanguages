@@ -5,8 +5,8 @@
     "LBL_EDIT": "Modifica politica SLA",
     "LBL_CREATE": "Crea una nuova politica SLA",
     "LBL_SOURCE_MODULE": "Modulo",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Disponibile globalmente per il calcolo dell'orario di stato del registro",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Se quest'opzione è selezionata, la politica SLA sarà disponibile per calcolare gli orari di stato del registro anche se la voce non è correlata ad alcun SLA."
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Disponibile globalmente per il calcolo del tempo di stato record",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Se questa opzione è selezionata, la politica SLA sarà disponibile per calcolare i tempi di stato del record anche se la voce non è correlata ad alcun SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "Seleziona ore lavorative",

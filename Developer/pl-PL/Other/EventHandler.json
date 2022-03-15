@@ -59,6 +59,8 @@
     "VTIGER_AUTOASSIGN_HANDLER": "Automatyczne przypisywanie rekordów",
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modyfikowanie właściciela rekordu przed jego utworzeniem",
     "APPROVALS_APPROVALS_HANDLER": "Aktualizacja zgód na kontakcie",
-    "APPROVALS_APPROVALS_HANDLER_DESC": ""
+    "APPROVALS_APPROVALS_HANDLER_DESC": "",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Szczegóły dotyczące produktu lub usługi",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

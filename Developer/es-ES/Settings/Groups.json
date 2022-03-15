@@ -11,7 +11,11 @@
     "SINGLE_Groups": "Grupo",
     "Users": "Usuarios",
     "Name": "Nombre del grupo",
-    "Description": "Descripción"
+    "Description": "Descripción",
+    "FL_PARENT": "Team leader",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
+    "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
+    "LBL_GROUP_DUPLICATE": "Duplicate"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Seleccione al menos un miembro para un grupo",

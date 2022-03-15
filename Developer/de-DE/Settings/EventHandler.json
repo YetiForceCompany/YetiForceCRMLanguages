@@ -11,6 +11,10 @@
     "LBL_EDIT_VIEW_PRESAVE": "Validierung vor dem Speichern des Datensatzes",
     "LBL_ENTITY_CHANGE_STATE": "Status ändern",
     "LBL_ENTITY_BEFORE_SAVE": "Vor dem Speichern",
-    "LBL_ENTITY_AFTER_SAVE": "Nach dem Speichern"
+    "LBL_ENTITY_AFTER_SAVE": "Nach dem Speichern",
+    "LBL_DETAIL_VIEW_BEFORE": "Detail View",
+    "LBL_EDIT_VIEW_BEFORE": "Edit View",
+    "LBL_EDIT_VIEW_DUPLICATE": "Edit View (Duplicate)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Loading data for inventory"
   }
 }

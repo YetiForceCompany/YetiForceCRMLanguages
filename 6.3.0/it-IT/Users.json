@@ -362,7 +362,7 @@
     "PLL_PASSWORD": "Password",
     "PLL_LDAP": "LDAP",
     "PLL_PASSWORD_2FA": "Password + 2FA",
-    "PLL_LDAP_2FA": "LDAP + A2F",
+    "PLL_LDAP_2FA": "LDAP + 2FA",
     "BTN_MASS_OFF_2FA": "Disabilitazione massiva 2FA",
     "LBL_2FA_TOTP_INFO_IN_DEMO": "In modalità demo, 2FA è solo per l'anteprima.",
     "LBL_2FA_TOTP_DESC": "Per generare codici monouso è necessaria l'applicazione appropriata.\nSi può utilizzare su un computer o su un telefono.",
@@ -414,7 +414,7 @@
     "LBL_PASSWORD_LINK_SENT": "Il link per la modifica della password è in attesa d'esser inviato, può impiegare qualche minuto. Sei pregato di controllare la tua casella di posta."
   },
   "js": {
-    "JS_DELETE_USER_CONFIRMATION": "Quando un Utente è eliminato, questi sarà contrassegnato come \"Inattivo\" e nessun nuovo registro potrà essergli assegnato e l'utente non potrà accedere. Sei sicuro di volerlo eliminato?",
+    "JS_DELETE_USER_CONFIRMATION": "Quando un Utente viene eliminato, l'utente sarà contrassegnato come \"Inattivo\" e nessun nuovo record può essere assegnato all'Utente, e l'utente non sarà in grado di effettuare il login. Sei sicuro di voler eliminare?",
     "JS_DELETE_USER_PERMANENT_CONFIRMATION": "Sei sicuro di voler eliminare l'utente in modo permanente?",
     "JS_RESTORE_CONFIRMATION": "Sei sicuro di voler ripristinare l'utente?",
     "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separatore decimale e separatore di raggruppamento non possono essere gli stessi.",
