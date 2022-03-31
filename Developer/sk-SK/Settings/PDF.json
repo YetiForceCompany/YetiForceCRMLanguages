@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Dostupný v zobrazeniach",
     "PLL_LISTVIEW": "Zoznam",
     "PLL_DETAILVIEW": "Záznam",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Selected by default",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Document settings",
     "LBL_MAIN_MODULE_FIELDS": "Main module fields",

@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Доступно у переглядах",
     "PLL_LISTVIEW": "Список",
     "PLL_DETAILVIEW": "Record",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Вибрано за замовчуванням",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Налаштування документа",
     "LBL_MAIN_MODULE_FIELDS": "Головні поля модуля",

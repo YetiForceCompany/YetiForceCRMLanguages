@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Seznam časovnega sledenja z dodatnimi informacijami o uporabnikih",
     "LBL_TYPE": "Vrsta aktivnosti",
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja",
-    "LBL_SELECT_USER_CALENDAR": "Izberi koledar uporabnika",
-    "LBL_SELECT_GROUP_CALENDAR": "Izberi koledar skupine",
     "LBL_USER_NAME": "Uporabniško ime",
     "LBL_GROUP_NAME": "Ime skupine",
     "LBL_WORK_DAYS": "Delovni dnevi"

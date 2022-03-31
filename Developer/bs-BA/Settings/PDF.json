@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Dostupno u prikazima",
     "PLL_LISTVIEW": "Lista",
     "PLL_DETAILVIEW": "Zapis",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Predefinisano odabrano",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Postavke dokumenta",
     "LBL_MAIN_MODULE_FIELDS": "Polja glavnih modula",

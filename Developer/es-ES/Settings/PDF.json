@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Disponible en vistas",
     "PLL_LISTVIEW": "Lista",
     "PLL_DETAILVIEW": "Registro",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Seleccionado por defecto",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Configuración del documento",
     "LBL_MAIN_MODULE_FIELDS": "Campos del módulo principal",

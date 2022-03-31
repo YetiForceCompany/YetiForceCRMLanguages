@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": " Список контролю часу з додатковою інформацією про користувачів",
     "LBL_TYPE": "Тип діяльності ",
     "FL_SUBPROCESS_SECOND_LEVEL": "Підпроцес другого рівня",
-    "LBL_SELECT_USER_CALENDAR": "Вибрати Календар Користувача",
-    "LBL_SELECT_GROUP_CALENDAR": "Виберіть календар групи",
     "LBL_USER_NAME": "Ім’я користувача",
     "LBL_GROUP_NAME": "Назва групи",
     "LBL_WORK_DAYS": "Робочи днів"

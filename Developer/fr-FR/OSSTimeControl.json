@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Liste Contrôle Temps avec informations comp. sur les utilisateurs",
     "LBL_TYPE": "Type d'activité",
     "FL_SUBPROCESS_SECOND_LEVEL": "Sous-processus de deuxième niveau",
-    "LBL_SELECT_USER_CALENDAR": "Choisir Calendrier Utilisateur",
-    "LBL_SELECT_GROUP_CALENDAR": "Sélectionnez le calendrier du groupe",
     "LBL_USER_NAME": "Nom d'utilisateur",
     "LBL_GROUP_NAME": "Nom de groupe",
     "LBL_WORK_DAYS": "Jours ouvrés"

@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Time Control List with additional information about users",
     "LBL_TYPE": "Typ aktivity",
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
-    "LBL_SELECT_USER_CALENDAR": "Vybrať kalendár užívateľa",
-    "LBL_SELECT_GROUP_CALENDAR": "Vybrať skupinový kalendár",
     "LBL_USER_NAME": "Užívateľské meno",
     "LBL_GROUP_NAME": "Názov skupiny",
     "LBL_WORK_DAYS": "Pracovné dni"

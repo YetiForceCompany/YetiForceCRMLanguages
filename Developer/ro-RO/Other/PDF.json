@@ -26,6 +26,8 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "Cod TVA",
     "LBL_SALE_DATE": "Data vanzarii",
-    "LBL_PLACE_DATE": "Loc, data"
+    "LBL_PLACE_DATE": "Loc, data",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

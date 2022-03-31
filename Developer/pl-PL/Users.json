@@ -412,7 +412,8 @@
     "ERR_WRONG_2FA_CODE": "Nieprawidłowy kod 2FA/TOPO",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Historia aktywności dostępu do Twojego konta",
     "LBL_PASSWORD_CHANGED": "Hasło zostało zmienione",
-    "LBL_PASSWORD_LINK_SENT": "Link do zmiany hasła czeka na wysłanie, może to potrwać kilka minut. Sprawdź skrzynkę odbiorczą."
+    "LBL_PASSWORD_LINK_SENT": "Link do zmiany hasła czeka na wysłanie, może to potrwać kilka minut. Sprawdź skrzynkę odbiorczą.",
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Wybierz wszystkich użytkowników domyślnie"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Po usunięciu użytkownika, zostanie on oznaczony jako \"Nieaktywny\" i żadne nowe rekordy nie będą mogły być do niego przypisane, dodatkowo użytkownik nie będzie mógł się zalogować. Czy na pewno chcesz usunąć użytkownika?",

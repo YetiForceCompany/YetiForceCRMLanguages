@@ -48,8 +48,6 @@
     "LBL_RESULT": "Resultado",
     "LBL_SELECT_ACTIVITY_TYPE": "Seleccionar tipo de Actividad",
     "LBL_SELECT_CALENDAR_COLOR": "Seleccionar color del Calendario",
-    "LBL_SELECT_USER_CALENDAR": "Seleccionar Calendario del Usuario",
-    "LBL_SELECT_GROUP_CALENDAR": "Seleccione calendario del grupo",
     "LBL_SELECT_USERS": "Selecciona Usuarios",
     "LBL_SHARED_CALENDAR": "Calendario compartido",
     "LBL_STATUS": "Estado",

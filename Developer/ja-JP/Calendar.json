@@ -48,8 +48,6 @@
     "LBL_RESULT": "結果",
     "LBL_SELECT_ACTIVITY_TYPE": "アクティビティの種類を選択",
     "LBL_SELECT_CALENDAR_COLOR": "カレンダーの色の選択",
-    "LBL_SELECT_USER_CALENDAR": "カレンダーを選択",
-    "LBL_SELECT_GROUP_CALENDAR": "グループカレンダーの選択",
     "LBL_SELECT_USERS": "ユーザーを選択",
     "LBL_SHARED_CALENDAR": "共有カレンダー",
     "LBL_STATUS": "状態",

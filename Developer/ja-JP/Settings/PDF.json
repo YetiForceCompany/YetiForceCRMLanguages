@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "ビューで利用可能",
     "PLL_LISTVIEW": "リスト",
     "PLL_DETAILVIEW": "レコード",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "デフォルトで選択",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "ドキュメントの設定",
     "LBL_MAIN_MODULE_FIELDS": "メインモジュールフィールド",

@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Có sẵn xong kiểu xem",
     "PLL_LISTVIEW": "Danh sách",
     "PLL_DETAILVIEW": "Hồ sơ",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Mặc định được chọn",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Thiết lập tài liệu",
     "LBL_MAIN_MODULE_FIELDS": "Trường mô-đun chính",

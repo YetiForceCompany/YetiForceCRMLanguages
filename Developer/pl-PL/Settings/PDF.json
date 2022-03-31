@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Dostępny w widokach",
     "PLL_LISTVIEW": "Lista",
     "PLL_DETAILVIEW": "Rekord",
+    "PLL_RELATEDLISTVIEW": "Z powiązanej listy",
     "LBL_DEFAULT_TPL": "Domyślnie zaznaczony",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Ustawienia dokumentu",
     "LBL_MAIN_MODULE_FIELDS": "Pola z modułu głównego",

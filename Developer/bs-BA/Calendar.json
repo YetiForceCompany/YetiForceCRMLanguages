@@ -48,8 +48,6 @@
     "LBL_RESULT": "Rezultat",
     "LBL_SELECT_ACTIVITY_TYPE": "Odaberite vrstu aktivnosti",
     "LBL_SELECT_CALENDAR_COLOR": "Odaberite boju kalendara",
-    "LBL_SELECT_USER_CALENDAR": "Odaberite korisnički kalendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Odaberite kalendar grupe",
     "LBL_SELECT_USERS": "Odaberite korisnike",
     "LBL_SHARED_CALENDAR": "Dijeljeni kalendar",
     "LBL_STATUS": "Status",
@@ -192,7 +190,7 @@
     "LBL_GROUP_NAME": "Naziv grupe",
     "FL_MEETING_URL": "URL sastanka",
     "LBL_SEND_CALENDAR": "Pošaljite e-mail obavijest o događaju",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Odabrani datumi uključuju praznike. Da li želite spremiti?"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Prikaz kalendara uspješno dodan",

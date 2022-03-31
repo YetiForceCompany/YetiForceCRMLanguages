@@ -26,6 +26,8 @@
     "LBL_EMAIL": "Elektronski naslov",
     "LBL_VATID": "ID DDV",
     "LBL_SALE_DATE": "Datum prodaje",
-    "LBL_PLACE_DATE": "Kraj, datum"
+    "LBL_PLACE_DATE": "Kraj, datum",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

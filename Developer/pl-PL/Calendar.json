@@ -48,8 +48,6 @@
     "LBL_RESULT": "Wynik",
     "LBL_SELECT_ACTIVITY_TYPE": "Wybierz typ terminu",
     "LBL_SELECT_CALENDAR_COLOR": "Wybierz kolor kalendarza",
-    "LBL_SELECT_USER_CALENDAR": "Wybierz kalendarz użytkownika",
-    "LBL_SELECT_GROUP_CALENDAR": "Wybierz kalendarz grupy",
     "LBL_SELECT_USERS": "Zaznacz użytkowników",
     "LBL_SHARED_CALENDAR": "Wspólny kalendarz",
     "LBL_STATUS": "Status",

@@ -26,6 +26,8 @@
     "LBL_EMAIL": "이메일",
     "LBL_VATID": "Vat ID",
     "LBL_SALE_DATE": "판매 날짜",
-    "LBL_PLACE_DATE": "장소, 날짜"
+    "LBL_PLACE_DATE": "장소, 날짜",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

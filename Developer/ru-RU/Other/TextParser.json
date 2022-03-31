@@ -72,6 +72,7 @@
     "LBL_RELATED_ATTACHMENTS": "Связанные вложения",
     "LBL_DISPLAY_BARCODE": "Штрих-код",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Связанные записи (массив)",
-    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)"
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
   }
 }

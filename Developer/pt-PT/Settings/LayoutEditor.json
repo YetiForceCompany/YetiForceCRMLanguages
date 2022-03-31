@@ -221,7 +221,8 @@
     "LBL_ACCOUNT_ON_CONTACT": "Conta atribuída ao contato",
     "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
     "LBL_DISABLE_FIELD": "Desativar o campo",
-    "LBL_SAVE_AND_CLOSE": "Guardar e Fechar"
+    "LBL_SAVE_AND_CLOSE": "Guardar e Fechar",
+    "MultiAttachment": "Attachments"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

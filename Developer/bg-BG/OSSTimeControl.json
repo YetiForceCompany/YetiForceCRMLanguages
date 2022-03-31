@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Списък на контрол на времето с повече информация относно потребителите",
     "LBL_TYPE": "Вид активност",
     "FL_SUBPROCESS_SECOND_LEVEL": "Второ ниво подпроцес",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
     "LBL_USER_NAME": "User name",
     "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "Работни дни"

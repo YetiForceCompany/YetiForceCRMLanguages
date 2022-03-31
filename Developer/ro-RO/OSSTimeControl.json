@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Lista de control a timpului cu informatii suplimentare despre utilizatori",
     "LBL_TYPE": "Tip activitate",
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
     "LBL_USER_NAME": "User name",
     "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "Zile de lucru"

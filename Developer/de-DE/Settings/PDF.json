@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Verfügbar in Ansicht",
     "PLL_LISTVIEW": "Liste",
     "PLL_DETAILVIEW": "Datensatz",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Standardselektion",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Dokument Einstellung",
     "LBL_MAIN_MODULE_FIELDS": "Felder Hauptmodul",

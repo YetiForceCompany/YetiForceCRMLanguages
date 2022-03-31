@@ -221,7 +221,8 @@
     "LBL_ACCOUNT_ON_CONTACT": "Account assigned to contact",
     "LBL_ACCOUNT_LOGGED_CONTACT": "Account of contact currently logged in",
     "LBL_DISABLE_FIELD": "Deaktivovať pole",
-    "LBL_SAVE_AND_CLOSE": "Uložiť a zatvoriť"
+    "LBL_SAVE_AND_CLOSE": "Uložiť a zatvoriť",
+    "MultiAttachment": "Attachments"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

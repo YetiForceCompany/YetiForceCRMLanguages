@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Διαθέσιμο στις Προβολές",
     "PLL_LISTVIEW": "Λίστα",
     "PLL_DETAILVIEW": "Εγγραφή",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Προεπιλογή",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Ρυθμίσεις εγγράφου",
     "LBL_MAIN_MODULE_FIELDS": "Πεδία κύριου module",

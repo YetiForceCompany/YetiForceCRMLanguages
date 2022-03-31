@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Disponible dans les vues",
     "PLL_LISTVIEW": "Liste",
     "PLL_DETAILVIEW": "Enregistrement",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Choisis par défaut",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Paramètres du Document",
     "LBL_MAIN_MODULE_FIELDS": "Champs du module principal",

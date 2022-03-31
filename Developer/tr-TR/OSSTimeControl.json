@@ -95,8 +95,6 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Kullanıcılar hakkında ek bilgi içeren Zaman Kontrol Listesi",
     "LBL_TYPE": "Activity type",
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
-    "LBL_SELECT_USER_CALENDAR": "Select User Calendar",
-    "LBL_SELECT_GROUP_CALENDAR": "Select group calendar",
     "LBL_USER_NAME": "Kullanıcı adı",
     "LBL_GROUP_NAME": "Grup adı",
     "LBL_WORK_DAYS": "İş günleri"

@@ -26,6 +26,8 @@
     "LBL_EMAIL": "رایانامه",
     "LBL_VATID": "شماره مالیات بر ارزش افزوده",
     "LBL_SALE_DATE": "تاریخ فروش",
-    "LBL_PLACE_DATE": "موقعیت، تاریخ"
+    "LBL_PLACE_DATE": "موقعیت، تاریخ",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

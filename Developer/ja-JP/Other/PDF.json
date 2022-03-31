@@ -26,6 +26,8 @@
     "LBL_EMAIL": "メール",
     "LBL_VATID": "Vat ID",
     "LBL_SALE_DATE": "販売日",
-    "LBL_PLACE_DATE": "配置、日付"
+    "LBL_PLACE_DATE": "配置、日付",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

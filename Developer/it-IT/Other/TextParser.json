@@ -72,6 +72,7 @@
     "LBL_RELATED_ATTACHMENTS": "Allegati correlati",
     "LBL_DISPLAY_BARCODE": "Codice a barre",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)",
-    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dati relativi ai record dal campo dipendente (array)"
+    "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dati relativi ai record dal campo dipendente (array)",
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
   }
 }

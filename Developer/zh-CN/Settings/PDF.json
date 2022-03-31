@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "在视图中可用",
     "PLL_LISTVIEW": "列表",
     "PLL_DETAILVIEW": "记录",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "默认情况下选中",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "文档设置",
     "LBL_MAIN_MODULE_FIELDS": "主要模块字段",

@@ -1516,7 +1516,9 @@
     "LBL_LESS_THAN_FIELD": "mniejsze od pola (<)",
     "LBL_GREATER_THAN_FIELD": "większe od pola (>)",
     "LBL_LESS_THAN_OR_EQUAL_FIELD": "mniejszy lub równy od pola (<=)",
-    "LBL_GREATER_OR_EQUAL_FIELD": "większy lub równy od pola (>=)"
+    "LBL_GREATER_OR_EQUAL_FIELD": "większy lub równy od pola (>=)",
+    "LBL_DRAG_AND_DROP_FILES": "Przeciągnij i upuść swoje pliki lub Przeglądaj",
+    "LBL_SELECT_CALENDAR": "Wybierz kalendarz"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

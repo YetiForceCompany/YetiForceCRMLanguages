@@ -1516,7 +1516,9 @@
     "LBL_LESS_THAN_FIELD": "menšie ako pole (<)",
     "LBL_GREATER_THAN_FIELD": "väčšie ako pole (>)",
     "LBL_LESS_THAN_OR_EQUAL_FIELD": "menšie alebo rovné poľu (<=)",
-    "LBL_GREATER_OR_EQUAL_FIELD": "väčšie alebo rovné poľu (>=)"
+    "LBL_GREATER_OR_EQUAL_FIELD": "väčšie alebo rovné poľu (>=)",
+    "LBL_DRAG_AND_DROP_FILES": "Drag & Drop your files or Browse",
+    "LBL_SELECT_CALENDAR": "Select calendar"
   },
   "js": {
     "JS_APPROVE": "Approve",

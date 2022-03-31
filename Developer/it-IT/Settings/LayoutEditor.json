@@ -221,7 +221,8 @@
     "LBL_ACCOUNT_ON_CONTACT": "Profilo assegnato al contatto",
     "LBL_ACCOUNT_LOGGED_CONTACT": "Profilo di contatto correntemente connesso",
     "LBL_DISABLE_FIELD": "Disabilita il campo",
-    "LBL_SAVE_AND_CLOSE": "Salva e chiudi"
+    "LBL_SAVE_AND_CLOSE": "Salva e chiudi",
+    "MultiAttachment": "Allegati"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

@@ -48,8 +48,6 @@
     "LBL_RESULT": "Результат",
     "LBL_SELECT_ACTIVITY_TYPE": "Выберите тип",
     "LBL_SELECT_CALENDAR_COLOR": "Выберите цвет",
-    "LBL_SELECT_USER_CALENDAR": "Выберите Календарь пользователя",
-    "LBL_SELECT_GROUP_CALENDAR": "Выберите календарь группы",
     "LBL_SELECT_USERS": "Выбор Пользователей",
     "LBL_SHARED_CALENDAR": "Общий Календарь",
     "LBL_STATUS": "Статус",

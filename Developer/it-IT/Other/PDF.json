@@ -26,6 +26,8 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "Partita IVA",
     "LBL_SALE_DATE": "Data vendita",
-    "LBL_PLACE_DATE": "Luogo, data"
+    "LBL_PLACE_DATE": "Luogo, data",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

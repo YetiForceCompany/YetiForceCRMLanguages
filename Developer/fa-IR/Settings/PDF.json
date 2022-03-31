@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "نمایش های در دسترس",
     "PLL_LISTVIEW": "فهرست",
     "PLL_DETAILVIEW": "رکورد",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "انتخاب براساس پیش‌فرض",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "تنظیمات سند",
     "LBL_MAIN_MODULE_FIELDS": "فیلد ماژول اصلی",

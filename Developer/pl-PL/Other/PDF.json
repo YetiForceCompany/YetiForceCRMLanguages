@@ -26,6 +26,8 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "NIP",
     "LBL_SALE_DATE": "Data sprzedaży",
-    "LBL_PLACE_DATE": "Miejsce, data"
+    "LBL_PLACE_DATE": "Miejsce, data",
+    "LBL_REFUND_AMOUNT": "Kwota zwrotu",
+    "LBL_SURCHARGE_AMOUNT": "Kwota dopłaty"
   }
 }

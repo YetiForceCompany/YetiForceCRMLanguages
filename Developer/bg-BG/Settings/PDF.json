@@ -49,6 +49,7 @@
     "LBL_VISIBILITY": "Available in views",
     "PLL_LISTVIEW": "Списък",
     "PLL_DETAILVIEW": "Запис",
+    "PLL_RELATEDLISTVIEW": "From related list",
     "LBL_DEFAULT_TPL": "Избрано по подразбиране",
     "LBL_DOCUMENT_SETTINGS_DETAILS": "Настройки на документа",
     "LBL_MAIN_MODULE_FIELDS": "Основни полета на модул",

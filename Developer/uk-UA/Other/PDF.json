@@ -26,6 +26,8 @@
     "LBL_EMAIL": "Ел. пошта",
     "LBL_VATID": "Vat ID",
     "LBL_SALE_DATE": "Дата продажу",
-    "LBL_PLACE_DATE": "Місце, дата"
+    "LBL_PLACE_DATE": "Місце, дата",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
   }
 }

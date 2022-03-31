@@ -412,7 +412,8 @@
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
     "LBL_PASSWORD_CHANGED": "Password changed",
-    "LBL_PASSWORD_LINK_SENT": "The link for password change is waiting to be sent, it can take a few minutes. Please check your inbox."
+    "LBL_PASSWORD_LINK_SENT": "The link for password change is waiting to be sent, it can take a few minutes. Please check your inbox.",
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Khi một người dùng bị xoá, người dùng sẽ được đánh dấu là \"Không hoạt động\" và sẽ không tạo được thông mới liên quan đến người này. Người này sẽ không thể đăng nhập. Bạn có chắc chắn muốn xoá?",
