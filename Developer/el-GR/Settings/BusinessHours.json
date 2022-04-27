@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Προεπιλεγμένος χρόνος απόκρισης",
     "LBL_DEFAULT_IDLE_TIME": "Προεπιλεγμένος χρόνος αδράνειας",
     "LBL_DEFAULT_RESOLVE_TIME": "Προεπιλεγμένος χρόνος επίλυσης",
-    "LBL_HOLIDAYS_LINK": "Μετάβαση στον πίνακα ρυθμίσεων αργιών"
+    "LBL_HOLIDAYS_LINK": "Μετάβαση στον πίνακα ρυθμίσεων αργιών",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Είστε βέβαιος ότι θέλετε να διαγράψετε αυτή την καταχώρηση;"

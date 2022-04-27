@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "Permite agrupar elementos en el menú.",
     "LBL_SEPARATOR": "Separador",
     "LBL_SEPARATOR_DESC": "Divide los elementos grandes en partes más pequeñas.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "Creación rápida",
     "LBL_QUICKCREATE_DESC": "Ayuda a crear registros rápidamente.",
     "LBL_HOMEICON": "Icono de inicio",

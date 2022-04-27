@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Pagamenti",
-    "ManageConsents": "Gestire i consensi"
+    "ManageConsents": "Gestire i consensi",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la chiave di accesso?"

@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Alapértelmezett reakció idő",
     "LBL_DEFAULT_IDLE_TIME": "Alapértelmezett késleltetési idő",
     "LBL_DEFAULT_RESOLVE_TIME": "Alapértelmezett megoldani idő",
-    "LBL_HOLIDAYS_LINK": "Menj ünnepek beállítások"
+    "LBL_HOLIDAYS_LINK": "Menj ünnepek beállítások",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Biztos vagy benne hogy törölni akarja ezt a bejegyzést?"

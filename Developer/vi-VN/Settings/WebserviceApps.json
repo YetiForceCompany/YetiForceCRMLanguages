@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Thanh toán",
-    "ManageConsents": "Quản lý thoả thuận"
+    "ManageConsents": "Quản lý thoả thuận",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Bạn có chắc chắn muốn xoá mã này?"

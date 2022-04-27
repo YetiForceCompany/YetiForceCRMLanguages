@@ -1,5 +1,6 @@
 {
   "php": {
+    "FL_NAME": "Name",
     "FL_PROVIDER": "供应商",
     "FL_STATUS": "状态",
     "FL_SMSAPI_FROM": "发送人姓名",
@@ -10,7 +11,9 @@
     "LBL_ADD_CONFIGURATION": "新建设置",
     "LBL_EDIT_CONFIGURATION": "编辑设置",
     "BTN_SAVE": "保存",
-    "BTN_CLOSE": "取消"
+    "BTN_CLOSE": "取消",
+    "LBL_SMSPROVIDER_CREATE": "Add provider",
+    "LBL_SMSPROVIDER_EDIT": "Edit provider"
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "确实要删除此设置吗？?",

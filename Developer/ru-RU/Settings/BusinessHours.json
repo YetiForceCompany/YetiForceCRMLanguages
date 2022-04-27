@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Время реакции по умолчанию",
     "LBL_DEFAULT_IDLE_TIME": "Время простоя по умолчанию",
     "LBL_DEFAULT_RESOLVE_TIME": "Время решения по умолчанию",
-    "LBL_HOLIDAYS_LINK": "Перейти к настройкам праздников"
+    "LBL_HOLIDAYS_LINK": "Перейти к настройкам праздников",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Вы уверены, что хотите удалить эту запись?"

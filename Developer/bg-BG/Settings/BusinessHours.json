@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Време за реакция, по подразбиране",
     "LBL_DEFAULT_IDLE_TIME": "Време на празен ход, по подразбиране",
     "LBL_DEFAULT_RESOLVE_TIME": "Време за разрешаване, по подразбиране",
-    "LBL_HOLIDAYS_LINK": "Влезте в настройките на празниците"
+    "LBL_HOLIDAYS_LINK": "Влезте в настройките на празниците",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Сигурни ли сте, че искате да изтриете този запис?"

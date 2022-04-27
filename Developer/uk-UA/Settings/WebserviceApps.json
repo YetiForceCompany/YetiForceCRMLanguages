@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Платежі",
-    "ManageConsents": "Управління згодами"
+    "ManageConsents": "Управління згодами",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Ви впевнені, що хочете видалити ключ?"

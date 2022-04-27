@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Wykryto zagrożenie bezpieczeństwa - Brute Force",
     "Backup has been made": "Stworzono kopię zapasową",
     "Notify Account On New comment added to ticket": "Powiadom kontrahenta o nowym komentarzu do zgłoszenia z portalu",
-    "LBL_OWNER_REKORD": "Właściciel rekordu",
+    "LBL_OWNER_RECORD": "Właściciel rekordu",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Sprawdzaj zgode na kontakt mailowy odbiorców",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Pole które ma być sumowane",

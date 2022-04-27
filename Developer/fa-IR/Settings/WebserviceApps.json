@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "پرداخت‌ها",
-    "ManageConsents": "مدیریت رضایت نامه"
+    "ManageConsents": "مدیریت رضایت نامه",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "آیا مطمئن هستید که می خواهید کلید را حذف کنید؟"

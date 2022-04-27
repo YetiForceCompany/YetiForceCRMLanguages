@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Zadano vrijeme reakcije",
     "LBL_DEFAULT_IDLE_TIME": "Zadano vrijeme mirovanja",
     "LBL_DEFAULT_RESOLVE_TIME": "Zadano vrijeme rješavanja",
-    "LBL_HOLIDAYS_LINK": "Idite na postavke za praznike"
+    "LBL_HOLIDAYS_LINK": "Idite na postavke za praznike",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovaj unos?"

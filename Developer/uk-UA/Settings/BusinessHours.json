@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Час відповіді за замовчуванням",
     "LBL_DEFAULT_IDLE_TIME": "Час простою за замовчуванням",
     "LBL_DEFAULT_RESOLVE_TIME": "Час рішення за замовчуванням",
-    "LBL_HOLIDAYS_LINK": "Зайдіть в налаштування свят"
+    "LBL_HOLIDAYS_LINK": "Зайдіть в налаштування свят",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Ви впевнені у тому, що хочете видалити цей запис?"

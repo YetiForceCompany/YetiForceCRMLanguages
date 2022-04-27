@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "已发现的安全风险-暴力破解模块",
     "Backup has been made": "已经创建备份",
     "Notify Account On New comment added to ticket": "服务单有新评论时，通知客户",
-    "LBL_OWNER_REKORD": "记录负责人",
+    "LBL_OWNER_RECORD": "记录负责人",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "验证收件人是否同意接收电子邮件",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "要求和的字段",

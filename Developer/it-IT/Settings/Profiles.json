@@ -96,8 +96,8 @@
     "MeetingUrl": "URL Riunione",
     "InterestsConflictUsers": "Conflitto d'interessi",
     "CustomViewAdvCond": "Condizioni di visualizzazione personalizzata avanzate",
-    "RecordActivityNotifier": "Record activity notifier",
-    "WorkflowTriggerWhenRecordIsBlocked": "Workflow trigger when record is blocked"
+    "RecordActivityNotifier": "Notificatore dell'attività del registro",
+    "WorkflowTriggerWhenRecordIsBlocked": "Innesco del flusso di lavoro al blocco del registro"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profilo eliminato con successo"

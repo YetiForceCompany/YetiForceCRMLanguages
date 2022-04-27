@@ -348,8 +348,8 @@
     "LBL_AUTHENTICATION_CODE": "Kôd autentifikacije",
     "LBL_TWO_FACTOR_AUTHENTICATION": "Dva faktora autentifikacije",
     "LBL_2FA_SECRET": "Tajna kod",
-    "BTN_2FA_SECRET_OLD": "Copy current secret code",
-    "LBL_2FA_TOTP_QR_CODE": "Change 2FA key",
+    "BTN_2FA_SECRET_OLD": "Kopirajte trenutni tajni kod",
+    "LBL_2FA_TOTP_QR_CODE": "Promijeni 2FA ključ",
     "LBL_AUTHY_SECRET_TOTP_SUCCESS": "Dvofaktorska provjera identiteta uspješno je omogućena.",
     "LBL_2FA_WRONG_CODE": "Netačan kod - unesite ponovo ili se obratite administratoru",
     "LBL_2FA_OFF": "Isključi multi-faktor autentifikaciju",
@@ -413,7 +413,7 @@
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Historija aktivnosti pristupa vašem računu",
     "LBL_PASSWORD_CHANGED": "Lozinka je promijenjena",
     "LBL_PASSWORD_LINK_SENT": "Link za promjenu lozinke čeka na slanje, može potrajati nekoliko minuta. Molimo provjerite svoj inbox.",
-    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default"
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Odaberite sve korisnike prema zadanim postavkama"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kada se korisnik izbriše, korisnik će biti označen kao \"Neaktivan\" i korisniku se ne mogu dodijeliti novi zapisi, a korisnik se neće moći prijaviti. Jeste li sigurni da želite izbrisati?",

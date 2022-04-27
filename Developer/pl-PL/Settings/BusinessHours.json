@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Domyślny czas reakcji",
     "LBL_DEFAULT_IDLE_TIME": "Domyślny czas bezczynności",
     "LBL_DEFAULT_RESOLVE_TIME": "Domyślny czas rozwiązania",
-    "LBL_HOLIDAYS_LINK": "Przejdź do panelu konfiguracji świąt"
+    "LBL_HOLIDAYS_LINK": "Przejdź do panelu konfiguracji świąt",
+    "LBL_HOLIDAYS_INFO": "Rezultatem zaznaczenia święta będzie pomijanie tego dnia przy wyliczaniu czasu pracy."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?"

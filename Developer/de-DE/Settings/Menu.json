@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "Erlaubt Menüeinträge zu gruppieren.",
     "LBL_SEPARATOR": "Trennzeichen",
     "LBL_SEPARATOR_DESC": "Unterteilt Einträge in kleinere Abschnitte.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "Schnellerfassung",
     "LBL_QUICKCREATE_DESC": "Hilft Einträge schnell anzulegen.",
     "LBL_HOMEICON": "Home Icon",

@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "يسمح لتجميع العناصر في القائمة.",
     "LBL_SEPARATOR": "فاصل",
     "LBL_SEPARATOR_DESC": "يقسم العناصر الكبيرة إلى أجزاء أصغر.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "إنشاء السريع",
     "LBL_QUICKCREATE_DESC": "يساعد على إنشاء سجلات بسرعة.",
     "LBL_HOMEICON": "رقم هاتف المنزل",

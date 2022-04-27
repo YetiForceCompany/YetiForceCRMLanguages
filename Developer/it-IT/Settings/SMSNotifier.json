@@ -1,5 +1,6 @@
 {
   "php": {
+    "FL_NAME": "Name",
     "FL_PROVIDER": "Provider SMS",
     "FL_STATUS": "Stato",
     "FL_SMSAPI_FROM": "Nome mittente",
@@ -10,7 +11,9 @@
     "LBL_ADD_CONFIGURATION": "Nuovo provider SMS",
     "LBL_EDIT_CONFIGURATION": "Modifica provider SMS",
     "BTN_SAVE": "Salva",
-    "BTN_CLOSE": "Annulla"
+    "BTN_CLOSE": "Annulla",
+    "LBL_SMSPROVIDER_CREATE": "Add provider",
+    "LBL_SMSPROVIDER_EDIT": "Edit provider"
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare questo Provider SMS?",

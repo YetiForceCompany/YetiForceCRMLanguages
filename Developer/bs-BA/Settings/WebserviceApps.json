@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Plaćanja",
-    "ManageConsents": "Upravljanje saglasnostima"
+    "ManageConsents": "Upravljanje saglasnostima",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ključ?"

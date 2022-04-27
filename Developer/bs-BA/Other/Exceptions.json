@@ -51,8 +51,8 @@
     "ERR_NO_TOKEN": "Nema tokena",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Neispravan 2FA TOTP kod",
     "ERR_NO_2FA_TOTP_CODE": "Nema 2FA TOTP koda",
-    "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Function %s not found in class %s object",
-    "ERR_FILE_SIZE_EXCEEDED": "File size exceeded",
-    "ERR_FILE_TYPE": "Invalid file type"
+    "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Funkcija %s nije pronađena u objektu klase %s",
+    "ERR_FILE_SIZE_EXCEEDED": "Veličina datoteke je premašena",
+    "ERR_FILE_TYPE": "Nevažeća vrsta datoteke"
   }
 }

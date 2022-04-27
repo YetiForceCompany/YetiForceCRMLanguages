@@ -73,6 +73,6 @@
     "LBL_DISPLAY_BARCODE": "Barkod",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Povezani podaci o zapisima (niz)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Povezani podaci zapisa iz zavisnog polja (polja)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Ispravka: ukupan iznos"
   }
 }

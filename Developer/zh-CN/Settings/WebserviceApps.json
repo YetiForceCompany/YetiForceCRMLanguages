@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "付款",
-    "ManageConsents": "管理同意"
+    "ManageConsents": "管理同意",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "您确定您要删除秘钥吗？?"

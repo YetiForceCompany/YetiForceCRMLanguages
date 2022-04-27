@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Payments",
-    "ManageConsents": "Kezeléséhez hozzájárul,"
+    "ManageConsents": "Kezeléséhez hozzájárul,",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"

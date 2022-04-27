@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "Дозволяє групувати елементи в меню.",
     "LBL_SEPARATOR": "Межа",
     "LBL_SEPARATOR_DESC": "Ділить великі елементи на дрібніші частини.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "Швидке створення",
     "LBL_QUICKCREATE_DESC": "Допомагає створювати записи швидко.",
     "LBL_HOMEICON": "Іконка головної сторінки",

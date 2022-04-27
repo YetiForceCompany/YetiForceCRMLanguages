@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Standard Reaktionszeit",
     "LBL_DEFAULT_IDLE_TIME": "Standard Idle-Zeit",
     "LBL_DEFAULT_RESOLVE_TIME": "Standard Lösungszeit",
-    "LBL_HOLIDAYS_LINK": "Gehe zu den Urlaubseinstellungen"
+    "LBL_HOLIDAYS_LINK": "Gehe zu den Urlaubseinstellungen",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?"

@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "允许组项目在菜单显示.",
     "LBL_SEPARATOR": "分隔符",
     "LBL_SEPARATOR_DESC": "将大型项目划分为较小的部分.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "快速创建",
     "LBL_QUICKCREATE_DESC": "有助于快速创建记录.",
     "LBL_HOMEICON": "主页图标",

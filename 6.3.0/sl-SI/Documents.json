@@ -47,7 +47,7 @@
     "LBL_SELECT_Documents": "Izberi dokument",
     "LBL_RELATIONS": "Povezave",
     "LBL_MASS_ADD": "Množično dodajanje",
-    "LBL_PREVIEW_FILE": "File preview"
+    "LBL_PREVIEW_FILE": "Predogled datoteke"
   },
   "js": {
     "JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO": "Datoteke premakni v naslednjo mapo",

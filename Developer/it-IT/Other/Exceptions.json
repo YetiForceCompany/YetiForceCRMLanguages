@@ -52,7 +52,7 @@
     "ERR_INCORRECT_2FA_TOTP_CODE": "Codice TOTP A2F errato",
     "ERR_NO_2FA_TOTP_CODE": "Nessun codice TOTP A2F",
     "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Funzione %s non trovata nell'oggetto di classe %s",
-    "ERR_FILE_SIZE_EXCEEDED": "File size exceeded",
-    "ERR_FILE_TYPE": "Invalid file type"
+    "ERR_FILE_SIZE_EXCEEDED": "Dimensioni del file superate",
+    "ERR_FILE_TYPE": "Tipo di file non valido"
   }
 }

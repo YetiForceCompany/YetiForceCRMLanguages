@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Tempo di risposta/reazione predefinito",
     "LBL_DEFAULT_IDLE_TIME": "Tempo di inattività predefinito",
     "LBL_DEFAULT_RESOLVE_TIME": "Tempo di risoluzione predefinito",
-    "LBL_HOLIDAYS_LINK": "Vai alle impostazioni vacanze/festività"
+    "LBL_HOLIDAYS_LINK": "Vai alle impostazioni vacanze/festività",
+    "LBL_HOLIDAYS_INFO": "Spuntare 'Vacanze', farà sì che queste vengano omesse calcolando l'Orario lavorativo."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questo inserimento?"

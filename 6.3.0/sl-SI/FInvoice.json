@@ -41,7 +41,7 @@
     "PLL_PAID": "Plačano",
     "PLL_OVERPAID": "Preplačano",
     "PLL_UNDERPAID": "Premalo plačano",
-    "FL_PAYMENT_SUM": "Total payments",
-    "DW_SUM_FIELD": "Summation field"
+    "FL_PAYMENT_SUM": "Skupaj plačilo",
+    "DW_SUM_FIELD": "Polje seštevka"
   }
 }

@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Sicherheitsrisiko wurde entdeckt - Brute Force",
     "Backup has been made": "Backup wurde durchgeführt",
     "Notify Account On New comment added to ticket": "Benachrichtige Organisation bei einem neuen Kommentar, welche dem Ticket hinzugefügt wurde",
-    "LBL_OWNER_REKORD": "Datensatz Verantwortlicher",
+    "LBL_OWNER_RECORD": "Datensatz Verantwortlicher",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Prüfen ob Empfänger den Empfang der E-Mail bestätigt hat",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Feld, welches addiert werden soll",

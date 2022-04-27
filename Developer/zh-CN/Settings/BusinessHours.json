@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "默认响应时间",
     "LBL_DEFAULT_IDLE_TIME": "默认空闲时间",
     "LBL_DEFAULT_RESOLVE_TIME": "默认解决时间",
-    "LBL_HOLIDAYS_LINK": "转到节假日设置"
+    "LBL_HOLIDAYS_LINK": "转到节假日设置",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "您确定要删除此条目吗？"

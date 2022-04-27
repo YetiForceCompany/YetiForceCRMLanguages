@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "زمان واکنش پیش‌فرض",
     "LBL_DEFAULT_IDLE_TIME": "زمان بیکاری پیش‌فرض",
     "LBL_DEFAULT_RESOLVE_TIME": "زمان حل و فصل پیش‌فرض",
-    "LBL_HOLIDAYS_LINK": "تنظیمات تعطیلات رسمی"
+    "LBL_HOLIDAYS_LINK": "تنظیمات تعطیلات رسمی",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "آيا مطمئن هستيد که می خواهيد اين ورودی را حذف کنيد؟"

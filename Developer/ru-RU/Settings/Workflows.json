@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Уведомление о попытке подбора пароля",
     "Backup has been made": "Уведомление - Резервное копирование выполнено",
     "Notify Account On New comment added to ticket": "Уведомлять пользователя портала о новом комментарии в Заявке",
-    "LBL_OWNER_REKORD": "Владелец",
+    "LBL_OWNER_RECORD": "Владелец",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Получатель согласен принимать почтовые сообщения?",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Field to be summed",

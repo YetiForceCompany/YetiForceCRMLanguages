@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Otkriven je sigurnosni rizik - Brute Force",
     "Backup has been made": "Izrađena je sigurnosna kopija",
     "Notify Account On New comment added to ticket": "Obavijesti Klijenta o novom komentaru koji je dodan u Tiket",
-    "LBL_OWNER_REKORD": "Vlasnik zapisa",
+    "LBL_OWNER_RECORD": "Vlasnik zapisa",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Provjerite je li primatelj pristao primiti e-poštu",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Polje koje treba zbrojiti",

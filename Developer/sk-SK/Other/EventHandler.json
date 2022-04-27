@@ -60,7 +60,7 @@
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modifying the owner of a record before its creation",
     "APPROVALS_APPROVALS_HANDLER": "Aktualizácia súhlasov kontaktu",
     "APPROVALS_APPROVALS_HANDLER_DESC": "",
-    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details about the product or service",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Detaily o produkte alebo službe",
     "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

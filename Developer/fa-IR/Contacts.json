@@ -47,7 +47,7 @@
     "LBL_PARTICIPANTS": "شرکت کنندگان",
     "FL_GENDER": "جنسیت",
     "PLL_WOMAN": "زن",
-    "PLL_MAN": "Man",
+    "PLL_MAN": "مرد",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system."
   },
   "js": {}

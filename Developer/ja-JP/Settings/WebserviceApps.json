@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "支払い",
-    "ManageConsents": "同意の管理"
+    "ManageConsents": "同意の管理",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "キーを削除してもよろしいですか？"

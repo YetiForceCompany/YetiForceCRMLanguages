@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Payments",
-    "ManageConsents": "요청 승락 관리"
+    "ManageConsents": "요청 승락 관리",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"

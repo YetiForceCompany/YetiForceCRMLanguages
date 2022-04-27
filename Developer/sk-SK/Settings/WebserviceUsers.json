@@ -31,7 +31,7 @@
     "FL_LAST_IP": "IP of the last connection",
     "FL_LAST_METHOD": "Last method",
     "FL_VERSION": "Verzia",
-    "FL_FROM_URL": "From url",
+    "FL_FROM_URL": "Z url",
     "FL_DATETIME_LAST_QUERY": "Date of the last connection",
     "FL_DATETIME_LAST_INVALID_LOGIN": "Date of the last failed login",
     "FL_LAST_INVALID_LOGIN": "Error message of the last failed login",

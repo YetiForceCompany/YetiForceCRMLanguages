@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Výchozí reakční doba",
     "LBL_DEFAULT_IDLE_TIME": "Výchozí doba nečinnosti",
     "LBL_DEFAULT_RESOLVE_TIME": "Výchozí doba vyřešení",
-    "LBL_HOLIDAYS_LINK": "Přejděte na nastavení svátků"
+    "LBL_HOLIDAYS_LINK": "Přejděte na nastavení svátků",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Opravdu chcete tuto položku smazat?"

@@ -58,9 +58,9 @@
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER_DESC": "",
     "VTIGER_AUTOASSIGN_HANDLER": "Automatsko dodjeljivanje zapisa",
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Promjena vlasnika zapisa prije njegovog kreiranja",
-    "APPROVALS_APPROVALS_HANDLER": "Updating consents on contact",
+    "APPROVALS_APPROVALS_HANDLER": "Ažuriranje saglasnosti za kontakt",
     "APPROVALS_APPROVALS_HANDLER_DESC": "",
-    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details about the product or service",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Detalji o proizvodu ili usluzi",
     "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

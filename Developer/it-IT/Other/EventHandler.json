@@ -60,7 +60,7 @@
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modificare il proprietario di un record prima della sua creazione",
     "APPROVALS_APPROVALS_HANDLER": "Aggiornamento dei consensi al contatto",
     "APPROVALS_APPROVALS_HANDLER_DESC": "",
-    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details about the product or service",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Dettagli sul prodotto o servizio",
     "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

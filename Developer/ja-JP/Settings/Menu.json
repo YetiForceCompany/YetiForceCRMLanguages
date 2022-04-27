@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "メニューの項目をグループ化することができます。",
     "LBL_SEPARATOR": "セパレータ",
     "LBL_SEPARATOR_DESC": "大きなアイテムを小さな部分に分割します。",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "クイック作成",
     "LBL_QUICKCREATE_DESC": "すぐにレコードを作成するのに役立ちます。",
     "LBL_HOMEICON": "ホームアイコン",

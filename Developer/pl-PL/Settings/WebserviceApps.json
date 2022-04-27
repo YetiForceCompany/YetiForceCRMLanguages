@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Płatności (funkcjonalność płatna)",
-    "ManageConsents": "Zarządzaj zgodami"
+    "ManageConsents": "Zarządzaj zgodami",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?"

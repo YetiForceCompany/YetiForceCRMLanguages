@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Κίνδυνος για την ασφάλεια έχει εντοπιστεί - Brute Force",
     "Backup has been made": "Δημιουργία αντιγράφων ασφαλείας έχει γίνει",
     "Notify Account On New comment added to ticket": "Ειδοποίηση Πελάτη όταν προστίθεται νέο σχόλιο σε Αίτημα υποστήριξης",
-    "LBL_OWNER_REKORD": "Κάτοχος εγγραφής",
+    "LBL_OWNER_RECORD": "Κάτοχος εγγραφής",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Επαληθεύστε εάν παραλήπτη συμφώνησε να λαμβάνει e-mails",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Πεδία που αθροίζονται",

@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "Risc de securitate a fost detectat - Forta Bruta",
     "Backup has been made": "Backup-ul a fost efectuat",
     "Notify Account On New comment added to ticket": "Notificati contul cu privire la noul comentariu adaugat la bilet",
-    "LBL_OWNER_REKORD": "Proprietar inregistrare",
+    "LBL_OWNER_RECORD": "Proprietar inregistrare",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "Verificati daca destinatarul este de acord sa primeasca email-uri",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "Camp pentru a fi insumat",

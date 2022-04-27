@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "既定の反応時間",
     "LBL_DEFAULT_IDLE_TIME": "既定のアイドル時間",
     "LBL_DEFAULT_RESOLVE_TIME": "既定の解決時間",
-    "LBL_HOLIDAYS_LINK": "休日の設定に移動"
+    "LBL_HOLIDAYS_LINK": "休日の設定に移動",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "このエントリを削除してもよろしいですか？"

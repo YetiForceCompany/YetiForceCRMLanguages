@@ -19,7 +19,8 @@
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Paiements",
-    "ManageConsents": "Gérer les consentements"
+    "ManageConsents": "Gérer les consentements",
+    "SMS": "SMS"
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Etes-vous sûr de vouloir supprimer cette clé ?"

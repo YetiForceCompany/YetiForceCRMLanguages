@@ -241,7 +241,7 @@
     "Security risk has been detected - Brute Force": "セキュリティリスクが検出されました - ブルートフォース",
     "Backup has been made": "バックアップが作成されました",
     "Notify Account On New comment added to ticket": "チケットに新しいコメントが追加されたことを通知する",
-    "LBL_OWNER_REKORD": "所有者を記録",
+    "LBL_OWNER_RECORD": "所有者を記録",
     "LBL_SMTP": "SMTP",
     "LBL_CHECK_EMAIL_OPTOUT": "受信者が電子メールの受信に同意したかどうかを確認する",
     "LBL_SUMFIELDFROMDEPENDENT_SOURCE": "合計するフィールド",

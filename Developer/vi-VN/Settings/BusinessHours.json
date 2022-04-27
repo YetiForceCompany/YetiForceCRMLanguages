@@ -15,7 +15,8 @@
     "LBL_DEFAULT_REACTION_TIME": "Thời gian phản ứng mặc định",
     "LBL_DEFAULT_IDLE_TIME": "Thời gian rỗi mặc định",
     "LBL_DEFAULT_RESOLVE_TIME": "Thời gian giải quyết mặc định",
-    "LBL_HOLIDAYS_LINK": "Chuyển tới thiết lập ngày nghỉ lễ"
+    "LBL_HOLIDAYS_LINK": "Chuyển tới thiết lập ngày nghỉ lễ",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Bạn có chắc chắn là muốn xóa mục hồ sơ này?"

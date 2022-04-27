@@ -29,6 +29,7 @@
     "LBL_LABEL_DESC": "Группировка элементов в меню.",
     "LBL_SEPARATOR": "Разделитель",
     "LBL_SEPARATOR_DESC": "Разделитель позволяет разделить меню на несколько разделов.",
+    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
     "LBL_QUICKCREATE": "Быстрое создание",
     "LBL_QUICKCREATE_DESC": "Раздел меню, позволяющий редактировать меню Быстрое создание.",
     "LBL_HOMEICON": "Иконка Главной страницы",

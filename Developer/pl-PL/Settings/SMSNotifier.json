@@ -1,5 +1,6 @@
 {
   "php": {
+    "FL_NAME": "Nazwa",
     "FL_PROVIDER": "Dostawca",
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Nazwa nadawcy",
@@ -10,7 +11,9 @@
     "LBL_ADD_CONFIGURATION": "Nowa konfiguracja",
     "LBL_EDIT_CONFIGURATION": "Edytuj konfigurację",
     "BTN_SAVE": "Zapisz",
-    "BTN_CLOSE": "Anuluj"
+    "BTN_CLOSE": "Anuluj",
+    "LBL_SMSPROVIDER_CREATE": "Dodaj dostawcę",
+    "LBL_SMSPROVIDER_EDIT": "Edytuj dostawcę"
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Czy jesteś pewien, że chcesz usunąć tę konfigurację?",

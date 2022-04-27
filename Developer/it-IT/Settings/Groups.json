@@ -12,10 +12,10 @@
     "Users": "Utenti",
     "Name": "Nome",
     "Description": "Descrizione",
-    "FL_PARENT": "Team leader",
-    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
-    "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
-    "LBL_GROUP_DUPLICATE": "Duplicate"
+    "FL_PARENT": "Capogruppo",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Il limite di nidi di gruppo consentiti è stato superato.",
+    "LBL_INDEFINITE_LOOP": "Le impostazioni correnti creeranno un ciclo indefinito. Sei pregato di modificare i membri del gruppo.",
+    "LBL_GROUP_DUPLICATE": "Duplica"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Seleziona almeno un membro",
