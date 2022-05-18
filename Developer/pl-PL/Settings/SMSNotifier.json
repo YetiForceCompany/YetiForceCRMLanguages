@@ -13,7 +13,13 @@
     "BTN_SAVE": "Zapisz",
     "BTN_CLOSE": "Anuluj",
     "LBL_SMSPROVIDER_CREATE": "Dodaj dostawcę",
-    "LBL_SMSPROVIDER_EDIT": "Edytuj dostawcę"
+    "LBL_SMSPROVIDER_EDIT": "Edytuj dostawcę",
+    "LBL_CALLBACK_ADDRESSES": "Adresy zwrotne",
+    "LBL_CALLBACK_ADDRESSES_DESC": "W celu wygenerowania adresów zwrotnych przy komunikacji sms-owej wymagane jest utworzenie uprzednio połączenia webserwisu dla sms.\nPoniższe adresy URL należy wprowadzić w sekcji adresów callback bezpośrednio u dostawcy.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Raporty (SMS, MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Odbiór (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "Adres URL dla raportów doręczeń. Do wprowadzenia bezpośrednio u dostawcy.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "Adres URL dla odbioru wiadomości SMS. Do wprowadzenia bezpośrednio u dostawcy."
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Czy jesteś pewien, że chcesz usunąć tę konfigurację?",

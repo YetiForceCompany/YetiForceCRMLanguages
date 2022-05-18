@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSOutsourcedServices": "Outsourced Services",
-    "SINGLE_OSSOutsourcedServices": "Outsourced Service",
+    "OSSOutsourcedServices": "Outsourcované služby",
+    "SINGLE_OSSOutsourcedServices": "Outsourcovaná služba",
     "LBL_INFORMATION": "Information block",
     "Assigned To": "Priradené k",
     "LBL_osservicesstatus": "Stav",

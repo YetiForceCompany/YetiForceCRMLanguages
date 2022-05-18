@@ -261,7 +261,10 @@
     "LBL_VERIFY_IF_EXISTS": "Se il record correlato esiste, non creare nuovi record",
     "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "disattiva le condizioni di esecuzione dei task di workflow",
     "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Le condizioni, per l'esecuzione dei task di workflow, non possono essere impostate nella modalità di esecuzione scelta [impostata nella fase precedente (Informazioni base) => \"Definisci quando (evento) il workflow verrà eseguito\"].",
-    "LBL_ERROR_DELETE_ENTRY": "Errore, elimina voce."
+    "LBL_ERROR_DELETE_ENTRY": "Errore, elimina voce.",
+    "LBL_SORT_WORKFLOW_ACTIONS": "Sort workflow actions",
+    "LBL_SELECT_WORKFLOW": "Select workflow",
+    "LBL_SET_WORKFLOW_BEFORE": "Set workflow before"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Stessi campi selezionati più di una volta",

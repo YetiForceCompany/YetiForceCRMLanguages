@@ -1,7 +1,7 @@
 {
   "php": {
-    "OSSSoldServices": "Sold Services",
-    "SINGLE_OSSSoldServices": "Sold Service",
+    "OSSSoldServices": "Predané služby",
+    "SINGLE_OSSSoldServices": "Predané služby",
     "LBL_INFORMATION": "Information block",
     "Number": "Number",
     "Assigned To": "Priradené k",
@@ -16,7 +16,7 @@
     "LBL_DESCRIPTION_INFORMATION": "Descriptive information",
     "LBL_CUSTOM_INFORMATION": "Systémové informácie",
     "Where bought": "Where bought",
-    "Services": "Services",
+    "Services": "Služby",
     "LBL_GENERATE_EXTENSION": "Vygenerovať rozšírenie",
     "LBL_ORDER_TIME": "Order time",
     "FL_RENEWAL_INVOICE": "Renewal invoice",
