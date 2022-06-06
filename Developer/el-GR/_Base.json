@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Τρέχουσα FY",
     "LBL_CURRENT_MONTH": "Τρέχων μήνας",
     "LBL_CURRENT_WEEK": "Τρέχουσα εβδομάδα",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Προσαρμοσμένο",
     "LBL_CUSTOMIZE_MAIN_MENU": "Προσαρμόσετε το κύριο μενού",
     "LBL_CUSTOM_FIELD_MAPPING": "Αντιστοίχιση πεδίων Δυν. Πελ.-Πελ.",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Φθίνουσα ταξινόμηση",
     "LBL_SORT_ASCENDING": "Αύξουσα ταξινόμηση",
     "LBL_GO_TO_RECORDS_LIST": "Μεταβείτε στη λίστα εγγραφών",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Επιλογή Αρχείου για Μεταφόρτωση",
     "LBL_ENABLE_CURRENCY": "Ενεργοποίηση νομίσματος",
     "LBL_DISABLE_CURRENCY": "Απενεργοποίηση νομίσματος",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Τροποποίηση επιτυχημένη. Επαναλάβετε τη φόρτωση προβολής για να δείτε τις αλλαγές.",
     "LBL_MODIFICATION_FAILURE": "Δεν έγινε καμία τροποποίηση",
     "LBL_QUICK_CREATE_MODULE": "Γρήγορη δημιουργία",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Το σύστημά σας δεν έχει καταχωρηθεί σωστά. %s, ένα όχι σωστά καταχωρημένο σύστημα δεν είναι συμβατό με την άδεια.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Ελέγξτε την κατάστασης εγγραφής",
     "LBL_YETIFORCE_REGISTRATION": "Καταχώρηση συστήματος CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Μέτρια",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "έχει απενεργοποιηθεί",
     "JS_IS_ENABLED": "έχει ενεργοποιηθεί",
     "JS_ITEMS": "στοιχεία",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Τα στοιχεία έχουν διαγραφεί με επιτυχία",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Το στοιχείο προστέθηκε επιτυχώς",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Το στοιχείο μετονομάστηκε επιτυχώς",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Είστε βέβαιοι ότι θέλετε να διαγράψετε;",
     "JS_LBL_CANCEL": "Άκυρο",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Σχόλιο δεν μπορεί να είναι κενό",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Προηγούμενο",
     "JS_NEXT": "Επόμενη",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

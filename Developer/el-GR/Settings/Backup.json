@@ -9,7 +9,7 @@
     "LBL_BACKUP_LIST": "Λίστα αντιγράφων ασφαλείας",
     "ERR_CONFIG_ALERT_TITLE": "Η διαχείριση των αντιγράφων ασφαλείας είναι απενεργοποιημένη",
     "ERR_CONFIG_ALERT_DESC": "Ορίστε την κατάλληλη διαδρομή στη μεταβλητή BACKUP_PATH στο αρχείο παραμέτρων [config\/Components\/Backup.php] για να το ενεργοποιήσετε.",
-    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+    "ERR_CONFIG_PATH_ALERT_DESC": "Το σύστημα δεν μπορεί να έχει πρόσβαση στον καθορισμένο κατάλογο αντιγράφων ασφαλείας. Παρακαλώ σιγουρευτείτε ότι η διαδρομή και τα εκχωρημένα δικαιώματα είναι σωστά."
   },
   "js": {}
 }

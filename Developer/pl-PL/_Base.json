@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Obecny rok",
     "LBL_CURRENT_MONTH": "Obecny miesiąc",
     "LBL_CURRENT_WEEK": "Obecny tydzień",
+    "LBL_CURRENT_PAGE": "Bieżący numer strony",
+    "LBL_PREV_PAGE": "Przejdź do poprzedniej strony",
+    "LBL_GO_TO_PAGE_NUMBER": "Przejdź do strony numer",
+    "LBL_PAGINATION_NAV": "Nawigacja stronicowania",
     "LBL_CUSTOM": "własny zakres dat",
     "LBL_CUSTOMIZE_MAIN_MENU": "Skonfiguruj menu główne",
     "LBL_CUSTOM_FIELD_MAPPING": "Pola - mapowanie",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Sortuj malejąco",
     "LBL_SORT_ASCENDING": "Sortuj rosnąco",
     "LBL_GO_TO_RECORDS_LIST": "Przejdź do listy rekordów",
+    "LBL_GO_TO_FIRST_PAGE": "Przejdź do pierwszej strony",
     "LBL_SELECT_FILE": "Wybierz plik do dodania",
     "LBL_ENABLE_CURRENCY": "Waluta zaznaczona",
     "LBL_DISABLE_CURRENCY": "Waluta wyłączona",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Pomyślnie dokonano modyfikacji. Zmiany widoczne będą po ponownym załadowaniu widoku.",
     "LBL_MODIFICATION_FAILURE": "Nie dokonano modyfikacji.",
     "LBL_QUICK_CREATE_MODULE": "Szybkie tworzenie",
+    "LBL_YETIFORCE_CRM_INFO": "Najbardziej elastyczny system CRM na świecie",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Twój system nie został prawidłowo zarejestrowany. %s, nieprawidłowo zarejestrowany system jest niezgodny z warunkami licencji.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Sprawdź status rejestracji",
     "LBL_YETIFORCE_REGISTRATION": "Rejestracja systemu CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Bardzo mały",
     "LBL_TILE_SMALL": "Mały",
     "LBL_TILE_MEDIUM": "Normalny",
-    "LBL_TILE_BIG": "Duży"
+    "LBL_TILE_BIG": "Duży",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Dodaj niestandardową etykietę",
+    "LBL_ICONS": "Ikony",
+    "LBL_BROWSE_ASSETS": "Przeglądaj zasoby"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "jest wyłączony",
     "JS_IS_ENABLED": "jest włączony",
     "JS_ITEMS": "pozycji",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Elementy usunięte pomyślnie",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Element dodany pomyślnie",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Zmiana nazwy elementu pomyślna",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Czy na pewno chcesz usunąć rekord?",
     "JS_LBL_CANCEL": "Anuluj",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Treść komentarza nie może być pusta",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Bardzo silne",
     "JS_PREV": "Poprzedni",
     "JS_NEXT": "Następny",
-    "JS_CALENDAR_LIST": "Harmonogram"
+    "JS_CALENDAR_LIST": "Harmonogram",
+    "JS_SPECIAL_CHARACTERS": "Znaki specjalne, takie jak"
   }
 }

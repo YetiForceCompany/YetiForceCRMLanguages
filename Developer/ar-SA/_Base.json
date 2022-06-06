@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": ": الحالي",
     "LBL_CURRENT_MONTH": "الشهر الحالي",
     "LBL_CURRENT_WEEK": "الأسبوع الحالي",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "مُخصّص",
     "LBL_CUSTOMIZE_MAIN_MENU": "تخصيص القائمة الرئيسية",
     "LBL_CUSTOM_FIELD_MAPPING": "تعيين حقل رئيسي",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "الترتيب إلى الأسفل",
     "LBL_SORT_ASCENDING": "الترتيب إلى الأعلى",
     "LBL_GO_TO_RECORDS_LIST": "انتقل إلى القائمة سجلات",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "تحديد ملف للتحميل",
     "LBL_ENABLE_CURRENCY": "اسم العملة:",
     "LBL_DISABLE_CURRENCY": "اسم العملة:",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "التعديل ناجحة. تحميل عرض لرؤية التغييرات.",
     "LBL_MODIFICATION_FAILURE": "أي تعديل قد تم تنفيذ",
     "LBL_QUICK_CREATE_MODULE": "إنشاء السريع",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "النظام الخاص بك غير مسجلة على النحو المناسب. %s، بشكل غير صحيح تسجيل النظام غير متوافق مع الترخيص.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "التسجيل",
     "LBL_YETIFORCE_REGISTRATION": "نظام إدارة علاقات العملاء التسجيل",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "متوسطة",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "إعتماد",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "معطل",
     "JS_IS_ENABLED": "تم التفعيل",
     "JS_ITEMS": "الأصناف",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "تم حذف العناصر بنجاح",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "تم اضافة البند بنجاح",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "تم اعادة تسمية البند بنجاح",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "هل أنت متأكد أنك تريد الحذف؟",
     "JS_LBL_CANCEL": "إلغاء",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "قيمة التعليق لايمكن ان تكون فارغة",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "السابق",
     "JS_NEXT": "التالي",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

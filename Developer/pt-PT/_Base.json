@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "FY atual",
     "LBL_CURRENT_MONTH": "Mês atual",
     "LBL_CURRENT_WEEK": "Semana atual",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Personalizar",
     "LBL_CUSTOMIZE_MAIN_MENU": "Personalizar menu principal",
     "LBL_CUSTOM_FIELD_MAPPING": "Mapeamento de campo personalizado",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Ordenação descendente",
     "LBL_SORT_ASCENDING": "Ordenação ascendente",
     "LBL_GO_TO_RECORDS_LIST": "Ir para lista de registos",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Selecione o ficheiro para upload",
     "LBL_ENABLE_CURRENCY": "Ativar moeda",
     "LBL_DISABLE_CURRENCY": "Desativar moeda",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Modification successful. Reload view to see the changes.",
     "LBL_MODIFICATION_FAILURE": "Nenhuma modificação foi realizada",
     "LBL_QUICK_CREATE_MODULE": "Criar Rápido",
+    "LBL_YETIFORCE_CRM_INFO": "O CRM mais flexível do mundo",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Your system was not properly registered. %s, an incorrectly registered system is not compliant with the license.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Verificar estado do registo",
     "LBL_YETIFORCE_REGISTRATION": "Registo do sistema CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Médio",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Definir etiqueta personalizada",
+    "LBL_ICONS": "Ícones",
+    "LBL_BROWSE_ASSETS": "Procurar Ativos"
   },
   "js": {
     "JS_APPROVE": "Aprovar",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "está inativo",
     "JS_IS_ENABLED": "está ativo",
     "JS_ITEMS": "itens",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Itens excluídos com sucesso",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Item adicionado com sucesso",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Item Renomeado com sucesso",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Tem certeza de que deseja eliminar?",
     "JS_LBL_CANCEL": "Cancelar",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Comentário não pode estar vazio",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Anterior",
     "JS_NEXT": "Próximo",
-    "JS_CALENDAR_LIST": "Agenda"
+    "JS_CALENDAR_LIST": "Agenda",
+    "JS_SPECIAL_CHARACTERS": "Caracteres especiais, como"
   }
 }

@@ -15,6 +15,7 @@
     "LBL_COORDINATES_INFO_2": "サーバを追加するには、%s ファイル内の $coordinatesServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。",
     "LBL_AVAILABLE_DRIVERS": "システム内で利用可能なドライバ",
     "LBL_PROVIDER_ACTIVE": "アクティブ",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
     "LBL_ROUTING": "ルーティング",
     "LBL_ROUTING_INFO_1": "車両のルートをマップするために使用するサーバーを選択します。 システムはルートをマッピングしたい点の座標を提供します",
     "LBL_ROUTING_INFO_2": "サーバを追加するには、%s ファイル内の $routingServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。"

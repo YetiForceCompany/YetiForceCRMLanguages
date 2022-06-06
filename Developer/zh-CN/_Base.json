@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "本财年",
     "LBL_CURRENT_MONTH": "当月",
     "LBL_CURRENT_WEEK": "本周",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "自定义",
     "LBL_CUSTOMIZE_MAIN_MENU": "自定义主菜单",
     "LBL_CUSTOM_FIELD_MAPPING": "自定义字段映射",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "降序排列",
     "LBL_SORT_ASCENDING": "升序排列",
     "LBL_GO_TO_RECORDS_LIST": "转到记录列表",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "选择要上载的文件",
     "LBL_ENABLE_CURRENCY": "货币启用",
     "LBL_DISABLE_CURRENCY": "货币禁用",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "修改成功。重新加载视图以查看更改。",
     "LBL_MODIFICATION_FAILURE": "未执行任何修改",
     "LBL_QUICK_CREATE_MODULE": "快速创建",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "您的系统未正确注册。%s, 注册错误的系统不符合许可证。",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "检查注册状态",
     "LBL_YETIFORCE_REGISTRATION": "客户关系管理系统注册",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "中",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "同意",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "已禁用",
     "JS_IS_ENABLED": "已启用",
     "JS_ITEMS": "条目",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "项目已删除",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "项目添加成功",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "项目更名成功",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "您确定要删除吗？?",
     "JS_LBL_CANCEL": "取消",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "评论内容不能为空",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "上一步",
     "JS_NEXT": "下一步",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

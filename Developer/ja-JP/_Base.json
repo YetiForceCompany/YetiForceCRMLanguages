@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "現在",
     "LBL_CURRENT_MONTH": "現在の月",
     "LBL_CURRENT_WEEK": "現在の週",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "カスタム",
     "LBL_CUSTOMIZE_MAIN_MENU": "メインメニューをカスタマイズ",
     "LBL_CUSTOM_FIELD_MAPPING": "カスタムフィールドのマッピング",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "降順にソート",
     "LBL_SORT_ASCENDING": "昇順にソート",
     "LBL_GO_TO_RECORDS_LIST": "記録リストへ移動",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "アップロードするファイルを選択",
     "LBL_ENABLE_CURRENCY": "通貨有効",
     "LBL_DISABLE_CURRENCY": "通貨無効",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "変更が完了しました。変更を確認するには、ビューを再読み込みしてください。",
     "LBL_MODIFICATION_FAILURE": "変更は実行されていません",
     "LBL_QUICK_CREATE_MODULE": "クイック作成",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "システムが正しく登録されませんでした。 %s, 間違った登録システムがライセンスに準拠していません。",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "登録状態を確認",
     "LBL_YETIFORCE_REGISTRATION": "CRMシステムの登録",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Medium",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "承認",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "は無効です",
     "JS_IS_ENABLED": "が有効になっています",
     "JS_ITEMS": "項目",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "アイテムが正常に削除されました",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "アイテムを正常に追加しました",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "品名を変更しました",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "削除してもよろしいですか？",
     "JS_LBL_CANCEL": "キャンセル",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "コメントの値は空にできません",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "前",
     "JS_NEXT": "次へ",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "سال مالی کنونی",
     "LBL_CURRENT_MONTH": "ماه جاری",
     "LBL_CURRENT_WEEK": "هفته جاری",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "دلخواه",
     "LBL_CUSTOMIZE_MAIN_MENU": "دلخواه‌سازی منوی اصلی",
     "LBL_CUSTOM_FIELD_MAPPING": "نگاشت فیلد دلخواه",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "مرتب‌سازی نزولی",
     "LBL_SORT_ASCENDING": "مرتب سازی صعودی",
     "LBL_GO_TO_RECORDS_LIST": "رفتن به لیست رکورد‌ها",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "انتخاب فایل برای بارگذاری",
     "LBL_ENABLE_CURRENCY": "واحد‌پولی فعال",
     "LBL_DISABLE_CURRENCY": "واحد‌پولی غیر فعال",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "اصلاح موفقیت آمیز است. بارگذاری نمای برای دیدن تغییرات.",
     "LBL_MODIFICATION_FAILURE": "هیچ تغییری انجام نشده است",
     "LBL_QUICK_CREATE_MODULE": "ایجاد سریع",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "سیستم شما به درستی ثبت نشده است%s، یک سامانه ثبت نشده مطابق با مجوز نیست.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "بررسی وضعیت ثبت نام",
     "LBL_YETIFORCE_REGISTRATION": "ثبت‌نام سامانه CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "متوسط",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "تایید",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "غیر فعال است",
     "JS_IS_ENABLED": "فعال است",
     "JS_ITEMS": "آیتم‌ها",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "موارد با موفقیت حذف شدند",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "آیتم با موفقیت اضافه شد",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "آیتم با موفقیت حذف گردید",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "آیا از حذف مطمئن هستید؟",
     "JS_LBL_CANCEL": "لغو",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "فیلد توضیح نمی تواند خالی باشد",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "بسیار قوی",
     "JS_PREV": "قبلی",
     "JS_NEXT": "بعدی",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

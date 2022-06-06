@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Current FY",
     "LBL_CURRENT_MONTH": "Tháng hiện tại",
     "LBL_CURRENT_WEEK": "Tuần hiện tại",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Tùy chỉnh",
     "LBL_CUSTOMIZE_MAIN_MENU": "Tuỳ chính menu",
     "LBL_CUSTOM_FIELD_MAPPING": "Custom field mapping",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Xếp giảm dần",
     "LBL_SORT_ASCENDING": "Xếp tăng dần",
     "LBL_GO_TO_RECORDS_LIST": "Tới danh sách hồ sơ",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Chọn file để tải lên",
     "LBL_ENABLE_CURRENCY": "Tiền tệ đang mở",
     "LBL_DISABLE_CURRENCY": "Tiền tệ bị tắt",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Sửa đổi thành công. Nạp lại để xem các thay đổi.",
     "LBL_MODIFICATION_FAILURE": "Chưa có sửa đổi gì được thực hiện",
     "LBL_QUICK_CREATE_MODULE": "Tạo nhanh",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Hệ thống của bạn đã không đăng ký đúng. %s, một đăng ký hệ thống sai là không phù hợp với giấy phép.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Kiểm tra trạng thái đăng ký",
     "LBL_YETIFORCE_REGISTRATION": "Đăng ký hệ thống CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Trung bình",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Phê duyệt",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "bị vô hiệu hóa",
     "JS_IS_ENABLED": "được kích hoạt",
     "JS_ITEMS": "mục",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Mục đã bị xoá thành công",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Mục đã được thêm thành công",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Mục đã được đổi tên thành công",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Bạn có chắc chắn muốn xoá?",
     "JS_LBL_CANCEL": "Huỷ",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Nội dung nhận xét không thể để trống",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Trước",
     "JS_NEXT": "Tiếp",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

@@ -15,6 +15,7 @@
     "LBL_COORDINATES_INFO_2": "Để thêm máy chủ bổ sung, sửa biến $coordinatesServers trong file %s. Máy chủ tạo độ công khai có tại:",
     "LBL_AVAILABLE_DRIVERS": "Trình điều khiển có sẵn trong hệ thống",
     "LBL_PROVIDER_ACTIVE": "Bật",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
     "LBL_ROUTING": "Định tuyến",
     "LBL_ROUTING_INFO_1": "Chọn máy chủ để ánh xạ định tuyến cho các phương tiện, hệ thống sẽ cung cấp toạ độ của điểm bạn muốn ánh xạ đường đi.",
     "LBL_ROUTING_INFO_2": "Để thêm máy chủ bổ sung, hãy sửa biến $routingServers trong file %s. Máy chủ định tuyến công khai có tại:"

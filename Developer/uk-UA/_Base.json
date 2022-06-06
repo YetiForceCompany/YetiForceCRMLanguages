@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "поточний рік",
     "LBL_CURRENT_MONTH": "поточний місяць",
     "LBL_CURRENT_WEEK": "поточний тиждень",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Підлаштоване",
     "LBL_CUSTOMIZE_MAIN_MENU": "Налаштування головного меню",
     "LBL_CUSTOM_FIELD_MAPPING": "Користувацькі співвідношення полів",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Сортувати за спаданням",
     "LBL_SORT_ASCENDING": "Сортування за зростанням",
     "LBL_GO_TO_RECORDS_LIST": "Перейти до списку записів",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Виберіть файл для завантаження",
     "LBL_ENABLE_CURRENCY": "Увімкнути валюту",
     "LBL_DISABLE_CURRENCY": "Відключення валюти",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Змінено успішно. Перезавантажте для того, щоб побачити зміни.",
     "LBL_MODIFICATION_FAILURE": "Жодної модифікації не було виконано",
     "LBL_QUICK_CREATE_MODULE": "Швидке створення",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Ваша система не була належним чином зареєстрована. %s, неправильно зареєстрований в системі не відповідає ліцензії.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Перевірте статус реєстрації",
     "LBL_YETIFORCE_REGISTRATION": "Реєстрація системи CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Середній",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Схвалити",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "вимкнено",
     "JS_IS_ENABLED": "увімкнено",
     "JS_ITEMS": "пунктів",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Елементи успішно видалено",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Елемент додано успішно",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Значення успішно перейменовано",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Ви дійсно бажаєте видалити?",
     "JS_LBL_CANCEL": "Скасувати",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Коментар не може бути пустим",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Попередній",
     "JS_NEXT": "наступний",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

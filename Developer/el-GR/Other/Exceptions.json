@@ -22,9 +22,9 @@
     "ERR_FILE_EMPTY_NAME": "Το όνομα του αρχείου είναι κενό",
     "ERR_FILE_ERROR_REQUEST": "Σφάλμα μεταφοράς αρχείου: %s",
     "ERR_FILE_ILLEGAL_FORMAT": "Μη αποδεκτή μορφή αρχείου",
-    "ERR_FILE_ILLEGAL_NAME": "Illegal file name",
+    "ERR_FILE_ILLEGAL_NAME": "Μη αποδεκτό όνομα αρχείου",
     "ERR_FILE_WRONG_IMAGE": "Λάθος αρχείο εικόνας",
-    "ERR_FILE_CODE_INJECTION": "File contains dangerous code and was rejected",
+    "ERR_FILE_CODE_INJECTION": "Το αρχείο περιέχει επικίνδυνο κώδικα και απορρίφθηκε",
     "ERR_FILE_XPACKET_CODE_INJECTION": "Το αρχείο περιέχει επικίνδυνο XPACKET κώδικα και απορρίφθηκε",
     "ERR_NO_PERMISSIONS_TO_CREATE_DIRECTORIES": "Δεν έχετε δικαιώματα να δημιουργήσετε καταλόγους",
     "ERR_DIRECTORY_CANNOT_BE_CREATED": "Ο κατάλογος δεν μπορεί να δημιουργηθεί",
@@ -51,8 +51,8 @@
     "ERR_NO_TOKEN": "Χωρίς διακριτικό",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Λάθος κωδικός 2FA TOTP",
     "ERR_NO_2FA_TOTP_CODE": "Δεν υπάρχει 2FA κωδικός TOTP",
-    "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Function %s not found in class %s object",
-    "ERR_FILE_SIZE_EXCEEDED": "File size exceeded",
-    "ERR_FILE_TYPE": "Invalid file type"
+    "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Η συνάρτηση %s δεν βρέθηκε στην κλάση %s αντικείμενο",
+    "ERR_FILE_SIZE_EXCEEDED": "Υπέρβαση μεγέθους αρχείου",
+    "ERR_FILE_TYPE": "Μη έγκυρος τύπος αρχείου"
   }
 }

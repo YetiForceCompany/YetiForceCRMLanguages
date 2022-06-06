@@ -15,6 +15,7 @@
     "LBL_COORDINATES_INFO_2": "Da biste dodali dodatne poslužitelje, uredite varijablu $coordinatesServers u datoteci %s. Javno dostupni poslužitelji koordinata dostupni su na:",
     "LBL_AVAILABLE_DRIVERS": "Drajveri dostupan u sistemu",
     "LBL_PROVIDER_ACTIVE": "Aktivan",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
     "LBL_ROUTING": "Rutiranje",
     "LBL_ROUTING_INFO_1": "Odaberite server koji će se koristiti za mapiranje ruta za vozila, sustav će pružiti koordinate točaka za koje želite preslikati rutu.",
     "LBL_ROUTING_INFO_2": "Da biste dodali dodatne servere, uredite varijablu $routingServers u datoteci %s. Javno dostupni serveri koordinata dostupni su na:"

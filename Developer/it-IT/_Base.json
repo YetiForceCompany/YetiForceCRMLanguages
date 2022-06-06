@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "anno fiscale corrente",
     "LBL_CURRENT_MONTH": "mese corrente",
     "LBL_CURRENT_WEEK": "settimana corrente",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Personalizzato",
     "LBL_CUSTOMIZE_MAIN_MENU": "Personalizza menù principale",
     "LBL_CUSTOM_FIELD_MAPPING": "Mappatura campi personalizzata",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Ordinamento decrescente",
     "LBL_SORT_ASCENDING": "Ordinamento crescente",
     "LBL_GO_TO_RECORDS_LIST": "Vai alla lista record",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Seleziona file da caricare",
     "LBL_ENABLE_CURRENCY": "Abilita valuta",
     "LBL_DISABLE_CURRENCY": "Disabilita valuta",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Modifica riuscita. Ricarica per vedere le modifiche.",
     "LBL_MODIFICATION_FAILURE": "Nessuna modifica è stata eseguita",
     "LBL_QUICK_CREATE_MODULE": "Creazione veloce",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Il tuo sistema non è correttamente registrato. %s. Una non corretta registrazione del sistema non è conforme alla licenza.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Controlla lo stato di registrazione",
     "LBL_YETIFORCE_REGISTRATION": "Registrazione sistema CRM",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Medio",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "è disabilitato",
     "JS_IS_ENABLED": "è abilitato",
     "JS_ITEMS": "elementi",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Elementi eliminati con successo",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Elemento aggiunto con successo",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Elemento salvato con successo",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sei sicuro di voler eliminare?",
     "JS_LBL_CANCEL": "Annulla",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Il commento non può essere vuoto",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Molto sicura",
     "JS_PREV": "Precedente",
     "JS_NEXT": "Successivo",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

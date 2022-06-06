@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Trenutni FY",
     "LBL_CURRENT_MONTH": "Tekoči mesec",
     "LBL_CURRENT_WEEK": "Tekoči teden",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Po meri",
     "LBL_CUSTOMIZE_MAIN_MENU": "Prilagodite glavni meni",
     "LBL_CUSTOM_FIELD_MAPPING": "Preslikave polja po meri",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Razvrsti padajoče",
     "LBL_SORT_ASCENDING": "Razvrsti naraščajoče",
     "LBL_GO_TO_RECORDS_LIST": "Pojdi na seznam zapisov",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Izberi datoteko za nalaganje",
     "LBL_ENABLE_CURRENCY": "Omogoči valute",
     "LBL_DISABLE_CURRENCY": "Onemogoči valute",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Sprememba je bile uspešna. Osvežite pogled, da vidite spremembe.",
     "LBL_MODIFICATION_FAILURE": "Sprememba ni bila izvedena",
     "LBL_QUICK_CREATE_MODULE": "Hiter vnos",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Vaš sistem ni bil pravilno registriran. %s, nepravilno registriran sistem ni združljiv z licenco.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Preverite status registracije",
     "LBL_YETIFORCE_REGISTRATION": "CRM sistem registracije",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Srednje",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Odobri",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "je onemogočen",
     "JS_IS_ENABLED": "omogočena",
     "JS_ITEMS": "elementi",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Elementi uspešno izbrisani",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Element uspešno dodan",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Element uspešno preimenovan",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Ali ste prepričani, da želite izbrisati?",
     "JS_LBL_CANCEL": "Prekliči",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Polje komentar ne sme biti prazno",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Prejšnji",
     "JS_NEXT": "Naslednji",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

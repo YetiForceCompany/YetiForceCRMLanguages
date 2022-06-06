@@ -15,6 +15,7 @@
     "LBL_COORDINATES_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $coordinatesServers dans le fichier %s. Des serveurs de coordonnées accessibles au public sont disponibles à l'adresse suivante:",
     "LBL_AVAILABLE_DRIVERS": "Pilotes disponibles dans le système",
     "LBL_PROVIDER_ACTIVE": "Actif",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
     "LBL_ROUTING": "Acheminement",
     "LBL_ROUTING_INFO_1": "Sélectionnez le serveur à utiliser pour cartographier les itinéraires des véhicules, le système fournira les coordonnées des points pour lesquels vous souhaitez cartographier l'itinéraire.",
     "LBL_ROUTING_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $routingServers dans le fichier %s. Les serveurs de routage accessibles au public sont disponibles à l'adresse suivante:"

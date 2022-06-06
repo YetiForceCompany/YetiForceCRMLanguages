@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Aktuelles Jahr",
     "LBL_CURRENT_MONTH": "Aktueller Monat",
     "LBL_CURRENT_WEEK": "Aktuelle Woche",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Anpassen",
     "LBL_CUSTOMIZE_MAIN_MENU": "Hauptmenü anpassen",
     "LBL_CUSTOM_FIELD_MAPPING": "Benutzerdefinierte Feldzuordnung",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Absteigend sortieren",
     "LBL_SORT_ASCENDING": "Aufsteigend sortieren",
     "LBL_GO_TO_RECORDS_LIST": "Zur Datenliste springen",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Wähle Datei zu hochladen",
     "LBL_ENABLE_CURRENCY": "Währung aktivieren",
     "LBL_DISABLE_CURRENCY": "Währung deaktivieren",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Änderung erfolgreich. Die Ansicht neu laden, um die Änderungen zu sehen.",
     "LBL_MODIFICATION_FAILURE": "Keine Änderung durchgeführt",
     "LBL_QUICK_CREATE_MODULE": "Schnellerfassung",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Ihr System wurde nicht ordnungsgemäß registriert. %s, ein falsch registriertes System ist nicht mit der Lizenz kompatibel.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Registrierungsstatus überprüfen",
     "LBL_YETIFORCE_REGISTRATION": "CRM Systemregistrierung",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Mittel",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Genehmigen",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "deaktiviert",
     "JS_IS_ENABLED": "aktiviert",
     "JS_ITEMS": "Einträge",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Einträge erfolgreich gelöscht",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Einträge erfolgreich hinzugefügt",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Einträge erfolgreich umbenannt",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sind Sie sicher, dass Sie löschen möchten?",
     "JS_LBL_CANCEL": "Abbruch",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Kommentar Wert darf nicht leer sein",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Vorheriger",
     "JS_NEXT": "Nächster",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }

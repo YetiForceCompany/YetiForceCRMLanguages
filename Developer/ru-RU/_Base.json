@@ -182,6 +182,10 @@
     "LBL_CURRENT_FY": "Текущий финансовый год",
     "LBL_CURRENT_MONTH": "Текущий месяц",
     "LBL_CURRENT_WEEK": "Текущая неделя",
+    "LBL_CURRENT_PAGE": "Current page number",
+    "LBL_PREV_PAGE": "Go to previous page number",
+    "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
+    "LBL_PAGINATION_NAV": "Pagination navigation",
     "LBL_CUSTOM": "Пользовательское",
     "LBL_CUSTOMIZE_MAIN_MENU": "Настройка главного меню",
     "LBL_CUSTOM_FIELD_MAPPING": "Пользовательские поля преобразования",
@@ -727,6 +731,7 @@
     "LBL_SORT_DESCENDING": "Сортировать по убыванию",
     "LBL_SORT_ASCENDING": "Сортировать по возрастанию",
     "LBL_GO_TO_RECORDS_LIST": "Перейти к списку записей",
+    "LBL_GO_TO_FIRST_PAGE": "Go to first page",
     "LBL_SELECT_FILE": "Выберите файл для загрузки",
     "LBL_ENABLE_CURRENCY": "Валюта включена",
     "LBL_DISABLE_CURRENCY": "Валюта отключена",
@@ -1304,6 +1309,7 @@
     "LBL_MODIFICATION_SUCCESSFUL_AND_RELOAD": "Modification successful. Reload view to see the changes.",
     "LBL_MODIFICATION_FAILURE": "No modification has been performed",
     "LBL_QUICK_CREATE_MODULE": "Quick create",
+    "LBL_YETIFORCE_CRM_INFO": "The most flexible CRM in the world",
     "LBL_YETIFORCE_REGISTRATION_ERROR": "Your system was not properly registered. %s, an incorrectly registered system is not compliant with the license.",
     "LBL_YETIFORCE_REGISTRATION_CHECK_STATUS": "Check registration status",
     "LBL_YETIFORCE_REGISTRATION": "CRM system registration",
@@ -1487,7 +1493,10 @@
     "LBL_TILE_VERY_SMALL": "Very small",
     "LBL_TILE_SMALL": "Small",
     "LBL_TILE_MEDIUM": "Средний",
-    "LBL_TILE_BIG": "Big"
+    "LBL_TILE_BIG": "Big",
+    "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
+    "LBL_ICONS": "Icons",
+    "LBL_BROWSE_ASSETS": "Browse Assets"
   },
   "js": {
     "JS_APPROVE": "Approve",
@@ -1542,9 +1551,6 @@
     "JS_IS_DISABLED": "отключен",
     "JS_IS_ENABLED": "включен",
     "JS_ITEMS": "пункта",
-    "JS_ITEMS_DELETED_SUCCESSFULLY": "Записи успешно удалены",
-    "JS_ITEM_ADDED_SUCCESSFULLY": "Значение успешно добавлено",
-    "JS_ITEM_RENAMED_SUCCESSFULLY": "Значение успешно переименовано",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Вы уверены, что хотите удалить?",
     "JS_LBL_CANCEL": "Отменить",
     "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Комментарий не может быть пустым",
@@ -1953,6 +1959,7 @@
     "JS_PWD_VERY_STRONG": "Very strong",
     "JS_PREV": "Предыдущая",
     "JS_NEXT": "Следующая",
-    "JS_CALENDAR_LIST": "Schedule"
+    "JS_CALENDAR_LIST": "Schedule",
+    "JS_SPECIAL_CHARACTERS": "Special characters like"
   }
 }
