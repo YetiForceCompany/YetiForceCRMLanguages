@@ -450,7 +450,7 @@
     "LBL_SELECT": "Vybrať",
     "LBL_SELECT_RELATION": "Vybrať záznam",
     "LBL_ADD_RELATION": "Pridať záznam",
-    "LBL_SELECT_ALL": "Vybrať všetko",
+    "LBL_SELECT_ALL": "Vybrať všetky",
     "LBL_SELECT_EMAIL_IDS": "Select email addresses",
     "LBL_SELECT_EMAIL_TEMPLATE": "Select email template",
     "LBL_SELECT_FIELD": "Select field",
@@ -1496,7 +1496,9 @@
     "LBL_TILE_BIG": "Big",
     "LBL_SET_CUSTOM_COLUMNS_LABEL": "Set custom label",
     "LBL_ICONS": "Icons",
-    "LBL_BROWSE_ASSETS": "Browse Assets"
+    "LBL_BROWSE_ASSETS": "Browse Assets",
+    "LBL_MEDIA": "Media",
+    "LBL_IMAGES": "Images"
   },
   "js": {
     "JS_APPROVE": "Approve",

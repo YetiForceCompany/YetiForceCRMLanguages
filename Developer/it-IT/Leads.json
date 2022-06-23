@@ -72,7 +72,13 @@
     "Attorney General's Office": "Ufficio generale della procura",
     "LBL_RELATION": "Mercato",
     "LBL_LEGAL_FORM": "Forma giuridica",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Almeno due aziende soddisfano i requisiti per il collegamento, vai a: (Configurazione sistema > Processi > Marketing > Conversione) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Almeno due aziende soddisfano i requisiti per il collegamento, vai a: (Configurazione sistema > Processi > Marketing > Conversione) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Seleziona l'azienda per procedere"

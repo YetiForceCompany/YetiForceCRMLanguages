@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Grille tarifaire",
     "FL_SUM_ORDERS": "Somme des commandes en cours",
     "FL_TAXES": "Taxes",
-    "FL_AVAILABLE_TAXES": "Taxes disponibles"
+    "FL_AVAILABLE_TAXES": "Taxes disponibles",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Le nom du compte existe déjà. Voulez-vous créer un enregistrement en double ?",

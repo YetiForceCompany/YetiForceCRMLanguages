@@ -72,7 +72,13 @@
     "Attorney General's Office": "دفتر دادستان کل",
     "LBL_RELATION": "رابطه",
     "LBL_LEGAL_FORM": "فرم قانونی",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "حداقل دو حساب الزامات مربوط به لینک سازی را برآورده می کند ، به: (اداره> فرآیندها> فرآیندهای بازاریابی> تبدیل)%s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "حداقل دو حساب الزامات مربوط به لینک سازی را برآورده می کند ، به: (اداره> فرآیندها> فرآیندهای بازاریابی> تبدیل)%s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "انتخاب حساب برای ادامه"

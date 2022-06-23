@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "لیست قیمت",
     "FL_SUM_ORDERS": "مجموع سفارشات فروش باز",
     "FL_TAXES": "مالیات‌ها",
-    "FL_AVAILABLE_TAXES": "مالیات موجود"
+    "FL_AVAILABLE_TAXES": "مالیات موجود",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "نام حساب هم اکنون موجود میباشد. آیا میخواهید یک رکورد تکراری ایجاد نمایید؟",

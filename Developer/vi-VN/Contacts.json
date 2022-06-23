@@ -48,7 +48,9 @@
     "FL_GENDER": "Giới tính",
     "PLL_WOMAN": "Nữ",
     "PLL_MAN": "Nam giới",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Một liên lạc gắn với địa chỉ email này đã tồn tại trong hệ thống."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Một liên lạc gắn với địa chỉ email này đã tồn tại trong hệ thống.",
+    "History": "History",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {}
 }

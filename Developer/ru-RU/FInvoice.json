@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "Переплачено",
     "PLL_UNDERPAID": "Недоплачено",
     "FL_PAYMENT_SUM": "Общая сумма платежей",
-    "DW_SUM_FIELD": "Поле суммирования"
+    "DW_SUM_FIELD": "Поле суммирования",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

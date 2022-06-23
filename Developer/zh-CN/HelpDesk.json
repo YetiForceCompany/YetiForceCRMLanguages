@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "服务单编号",
     "LBL_TICKET_RESOLUTION": "详细解决方案",
     "LBL_USERNAME": "用户名：:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "主要",
     "Minor": "轻微",
     "Normal": "普通",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "在关闭工单之前添加工作时间",
     "LBL_CLOSE_RELATED_TICKETS": "在关闭此工单之前，请关闭相关工单",
     "LBL_HELPDESK_DEPENDENTS": "服务单",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

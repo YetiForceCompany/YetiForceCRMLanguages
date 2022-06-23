@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Listino",
     "FL_SUM_ORDERS": "Somma degli ordini di vendita aperti",
     "FL_TAXES": "Tasse",
-    "FL_AVAILABLE_TAXES": "Tasse disponibili"
+    "FL_AVAILABLE_TAXES": "Tasse disponibili",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Il nome azienda esiste già. Vuoi creare un duplicato?",

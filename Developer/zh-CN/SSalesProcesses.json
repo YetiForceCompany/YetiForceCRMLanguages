@@ -56,6 +56,9 @@
     "LBL_SWITCHHEADER_ON_0": "打开",
     "LBL_SWITCHHEADER_OFF_0": "关闭",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "打开/关闭",
-    "LBL_SHOW_HIERARCHY": "组织结构"
+    "LBL_SHOW_HIERARCHY": "组织结构",
+    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
+    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
   }
 }

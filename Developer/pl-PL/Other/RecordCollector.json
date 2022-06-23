@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_POLAND_VAT_PAYER": "Weryfikacja statusu płatnika VAT [PL]",
+    "LBL_POLAND_VAT_PAYER_DESC": "Usługa umożliwiająca sprawdzenie, czy podmiot jest czynnym, zwolnionym czy też niezarejestrowanym podatnikiem w VAT w Polsce.",
+    "LBL_POLAND_GUS": "Wczytaj dane podmiotu gospodarczego [PL]",
+    "LBL_POLAND_GUS_DESC": "Pobierz informację z Rejestru REGON o podmiotach gospodarki narodowej Polski.",
+    "LBL_VIES": "Potwierdzenie numeru VAT-EU",
+    "LBL_VIES_DESC": "Sprawdza, czy podmiot gospodarczy posiada aktualny numer VAT-EU (europejski NIP), dla transakcji wewnątrzwspólnotowej na terenie Unii Europejskiej.",
+    "LBL_REQUEST_DATE": "Data żądania",
+    "LBL_REQUEST_ID": "ID żądania",
+    "LBL_POLAND_NCR": "KRS",
+    "LBL_POLAND_NCR_DESC": "Pobierz dane firmy z KRS"
+  }
+}

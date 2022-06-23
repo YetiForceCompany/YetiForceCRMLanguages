@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Ценовая книга",
     "FL_SUM_ORDERS": "Сумма открытых заказов на продажу",
     "FL_TAXES": "Налоги",
-    "FL_AVAILABLE_TAXES": "Доступные налоги"
+    "FL_AVAILABLE_TAXES": "Доступные налоги",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Такой клиент уже существует. Создать дубликат?",

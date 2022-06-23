@@ -72,7 +72,13 @@
     "Attorney General's Office": "Общa прокуратурата",
     "LBL_RELATION": "Отношение",
     "LBL_LEGAL_FORM": "Правна форма",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Поне два акаунта отговарят на изискванията за свързване, отидете на: (Администрация> Процеси> Маркетингови процеси> Конверсия)% s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Поне два акаунта отговарят на изискванията за свързване, отидете на: (Администрация> Процеси> Маркетингови процеси> Конверсия)% s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Изберете профил, за да продължите"

@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_USER_NAME": "Felhasználói név",
     "LBL_GROUP_NAME": "Csoport neve",
-    "LBL_WORK_DAYS": "Munkanapok"
+    "LBL_WORK_DAYS": "Munkanapok",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Megengedett karakterek: [0-9]",

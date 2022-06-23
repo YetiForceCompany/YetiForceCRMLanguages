@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "価格表",
     "FL_SUM_ORDERS": "オープン販売注文の合計",
     "FL_TAXES": "税",
-    "FL_AVAILABLE_TAXES": "利用可能な税"
+    "FL_AVAILABLE_TAXES": "利用可能な税",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "顧客企業名は既に存在します。 重複するレコードを作成しますか？",

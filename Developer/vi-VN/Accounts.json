@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Bảng giá",
     "FL_SUM_ORDERS": "Tổng số đơn hàng đang mở",
     "FL_TAXES": "Thuế",
-    "FL_AVAILABLE_TAXES": "Thuế có sẵn"
+    "FL_AVAILABLE_TAXES": "Thuế có sẵn",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Tên tài khoản đã tồn tại. Bạn có muốn tạo 1 biểu ghi trùng lặp?",

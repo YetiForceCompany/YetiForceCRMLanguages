@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Δεύτερο επίπεδο δευτερεύουσας διεργασίας",
     "LBL_USER_NAME": "Όνομα χρήστη",
     "LBL_GROUP_NAME": "Όνομα ομάδας",
-    "LBL_WORK_DAYS": "Εργάσιμες μέρες"
+    "LBL_WORK_DAYS": "Εργάσιμες μέρες",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Επιτρεπτοί χαρακτήρες: [0-9]",

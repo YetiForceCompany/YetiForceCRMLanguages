@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Numer zgłoszenia",
     "LBL_TICKET_RESOLUTION": "Informacje o rozwiązaniu zgłoszenia",
     "LBL_USERNAME": "Użytkownik:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Zamknięte zgłoszenie według priorytetu",
+    "LBL_CLOSED_TICKETS_BY_USER": "Zamknięte zgłoszenia według użytkowników",
     "Major": "Normalny",
     "Minor": "Drobny",
     "Normal": "Normalny",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Dodaj czas pracy przed zamknięciem zgłoszenia",
     "LBL_CLOSE_RELATED_TICKETS": "Zanim zamkniesz zgłoszenie, zamknij powiązane zgłoszenia",
     "LBL_HELPDESK_DEPENDENTS": "Zgłoszenia",
-    "LBL_HELPDESK_RELATED": "Zgłoszenia (M:M)"
+    "LBL_HELPDESK_RELATED": "Zgłoszenia (M:M)",
+    "Tickets by Status": "Zgłoszenia po statusach",
+    "Open Tickets": "Otwarte zgłoszenia"
   }
 }

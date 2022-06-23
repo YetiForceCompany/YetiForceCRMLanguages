@@ -48,7 +48,9 @@
     "FL_GENDER": "Nem",
     "PLL_WOMAN": "Nő",
     "PLL_MAN": "Férfi",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A Contact ezzel az e-mail címmel már létezik a rendszerben."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "A Contact ezzel az e-mail címmel már létezik a rendszerben.",
+    "History": "History",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {}
 }

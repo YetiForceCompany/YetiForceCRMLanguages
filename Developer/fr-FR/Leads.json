@@ -72,7 +72,13 @@
     "Attorney General's Office": "Procureur de la république",
     "LBL_RELATION": "Relation",
     "LBL_LEGAL_FORM": "Forme légale",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Au moins deux Comptes remplissent les critères de liaisons : (Administration > Processus > Processus Marketing > Conversion) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Au moins deux Comptes remplissent les critères de liaisons : (Administration > Processus > Processus Marketing > Conversion) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Choisir un compte pour continuer"

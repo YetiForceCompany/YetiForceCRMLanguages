@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "شماره تیکت",
     "LBL_TICKET_RESOLUTION": "نتیجه تیکت",
     "LBL_USERNAME": "نام کاربری:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "عمده",
     "Minor": "جزئی",
     "Normal": "معمولی",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "افزودن زمان‌ کارکرد قبل از بستن تیکت",
     "LBL_CLOSE_RELATED_TICKETS": "قبل از بستن این تیکت ، بلیط های تیکت را ببندید",
     "LBL_HELPDESK_DEPENDENTS": "تیکت ها",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

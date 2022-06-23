@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "Fazla ödenmiş",
     "PLL_UNDERPAID": "Eksik ödenmiş",
     "FL_PAYMENT_SUM": "Toplam ödemeler",
-    "DW_SUM_FIELD": "Toplama alanı"
+    "DW_SUM_FIELD": "Toplama alanı",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

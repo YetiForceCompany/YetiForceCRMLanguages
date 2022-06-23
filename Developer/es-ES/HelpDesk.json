@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Número de Incidencia",
     "LBL_TICKET_RESOLUTION": "Resolución de la Incidencia",
     "LBL_USERNAME": "Nombre de usuario:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Importante",
     "Minor": "Poco grave",
     "Normal": "Normal",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Añadir tiempo de trabajo antes de cerrar el ticket",
     "LBL_CLOSE_RELATED_TICKETS": "Antes de cerrar este ticket, cierre los tickets relacionados",
     "LBL_HELPDESK_DEPENDENTS": "Incidencias",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

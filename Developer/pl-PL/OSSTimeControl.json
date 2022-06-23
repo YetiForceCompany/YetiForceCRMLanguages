@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu",
     "LBL_USER_NAME": "Nazwa użytkownika",
     "LBL_GROUP_NAME": "Nazwa grupy",
-    "LBL_WORK_DAYS": "Dni pracownicze"
+    "LBL_WORK_DAYS": "Dni pracownicze",
+    "Employees Time Control": "Czas pracy użytkowników",
+    "LBL_ALL_TIME_CONTROL": "Czas pracy wszystkich użytkowników"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dopuszczalne znaki: [0-9]",

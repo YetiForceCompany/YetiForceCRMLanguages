@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugega nivoja",
     "LBL_USER_NAME": "Uporabniško ime",
     "LBL_GROUP_NAME": "Ime skupine",
-    "LBL_WORK_DAYS": "Delovni dnevi"
+    "LBL_WORK_DAYS": "Delovni dnevi",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dovoljeni znaki: [0-9]",

@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Cenník",
     "FL_SUM_ORDERS": "Sum of open sales orders",
     "FL_TAXES": "Dane",
-    "FL_AVAILABLE_TAXES": "Dostupné dane"
+    "FL_AVAILABLE_TAXES": "Dostupné dane",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Názov účtu už existuje. Chcete vytvoriť rovnaký záznam?",

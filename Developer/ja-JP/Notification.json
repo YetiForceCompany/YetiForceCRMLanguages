@@ -39,7 +39,10 @@
     "LBL_NOTIFICATION_SETTINGS": "通知の設定",
     "LBL_UNREAD": "未読",
     "LBL_NO_UNREAD_NOTIFICATIONS": "未読の通知はありません",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
+    "Notifications": "Notifications"
   },
   "js": {
     "JS_MARKED_AS_READ": "既読にする"

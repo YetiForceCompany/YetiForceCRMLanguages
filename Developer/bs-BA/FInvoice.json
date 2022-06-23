@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "Preplaćeno",
     "PLL_UNDERPAID": "Nedovoljno plaćeno",
     "FL_PAYMENT_SUM": "Ukupna plaćanja",
-    "DW_SUM_FIELD": "Zbirno polje"
+    "DW_SUM_FIELD": "Zbirno polje",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

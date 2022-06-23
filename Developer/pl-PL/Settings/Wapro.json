@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Wapro": "Wapro ERP",
+    "LBL_WAPRO_ERP": "Wapro ERP",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integracja z systemem Asseco Wapro ERP",
+    "FL_NAME": "Nazwa",
+    "FL_STATUS": "Status",
+    "FL_SERVER": "Serwer",
+    "FL_PORT": "Port",
+    "FL_DATABASE": "Nazwa bazy danych",
+    "FL_USERNAME": "Nazwa użytkownika",
+    "FL_PASSWORD": "Hasło",
+    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
+  }
+}

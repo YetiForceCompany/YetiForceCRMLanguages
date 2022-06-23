@@ -39,7 +39,10 @@
     "LBL_NOTIFICATION_SETTINGS": "Konfiguracja powiadomień",
     "LBL_UNREAD": "Nieprzeczytane",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Brak nowych powiadomień",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugiego poziomu",
+    "LBL_NOTIFICATION_BY_SENDER": "Liczba powiadomień wg nadawców",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Liczba powiadomień wg odbiorców",
+    "Notifications": "Powiadomienia"
   },
   "js": {
     "JS_MARKED_AS_READ": "Oznacz jako przeczytane"

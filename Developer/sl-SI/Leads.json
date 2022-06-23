@@ -72,7 +72,13 @@
     "Attorney General's Office": "Urad državnega tožilca",
     "LBL_RELATION": "Vrsta kupca",
     "LBL_LEGAL_FORM": "Pravna oblika",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Najmanj dva računa izpolnjujeta zahteve za povezovanje, pojdite na: (Uprava> Procesi> Tržni procesi> Pretvorba)% s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Najmanj dva računa izpolnjujeta zahteve za povezovanje, pojdite na: (Uprava> Procesi> Tržni procesi> Pretvorba)% s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Izberi račun za nadaljevanje"

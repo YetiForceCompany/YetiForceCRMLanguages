@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Številka reklamacije",
     "LBL_TICKET_RESOLUTION": "Rešitev",
     "LBL_USERNAME": "Ime uporabnika:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Pomembno",
     "Minor": "Ni tako pomembno",
     "Normal": "Normalno",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Dodaj delovni čas, preden zaprete ticket",
     "LBL_CLOSE_RELATED_TICKETS": "Preden zaprete to ticket, zaprite pripadajoče ticket",
     "LBL_HELPDESK_DEPENDENTS": "Reklamacije",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

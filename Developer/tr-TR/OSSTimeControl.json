@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_USER_NAME": "Kullanıcı adı",
     "LBL_GROUP_NAME": "Grup adı",
-    "LBL_WORK_DAYS": "İş günleri"
+    "LBL_WORK_DAYS": "İş günleri",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "İzin verilen karakterler: [0-9]",

@@ -72,7 +72,13 @@
     "Attorney General's Office": "Генеральна прокуратура",
     "LBL_RELATION": "Зв’язок",
     "LBL_LEGAL_FORM": "Правова форма",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Щонайменше два облікові записи відповідають вимогам для встановлення зв'язків, перейдіть до: (Administration > Processes > Marketing processes > Conversion) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Щонайменше два облікові записи відповідають вимогам для встановлення зв'язків, перейдіть до: (Administration > Processes > Marketing processes > Conversion) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Виберіть Контрагента щоб продовжити"

@@ -56,6 +56,9 @@
     "LBL_SWITCHHEADER_ON_0": "Abierto",
     "LBL_SWITCHHEADER_OFF_0": "Cerrado",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Abierto/Cerrado",
-    "LBL_SHOW_HIERARCHY": "Jerarquía"
+    "LBL_SHOW_HIERARCHY": "Jerarquía",
+    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
+    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
   }
 }

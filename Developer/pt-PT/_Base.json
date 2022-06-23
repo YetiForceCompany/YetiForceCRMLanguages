@@ -1496,7 +1496,9 @@
     "LBL_TILE_BIG": "Big",
     "LBL_SET_CUSTOM_COLUMNS_LABEL": "Definir etiqueta personalizada",
     "LBL_ICONS": "Ícones",
-    "LBL_BROWSE_ASSETS": "Procurar Ativos"
+    "LBL_BROWSE_ASSETS": "Procurar Ativos",
+    "LBL_MEDIA": "Media",
+    "LBL_IMAGES": "Imagens"
   },
   "js": {
     "JS_APPROVE": "Aprovar",

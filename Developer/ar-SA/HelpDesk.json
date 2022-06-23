@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "رقم التذكرة",
     "LBL_TICKET_RESOLUTION": "قرار التذكرة",
     "LBL_USERNAME": "اسم المستخدم:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "رئيسي",
     "Minor": "طفيفة",
     "Normal": "عادي",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "إضافة عامل الوقت قبل إغلاق التذكرة",
     "LBL_CLOSE_RELATED_TICKETS": "قبل إغلاق هذه التذكرة ، وثيق الصلة تذاكر",
     "LBL_HELPDESK_DEPENDENTS": "تذاكر",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

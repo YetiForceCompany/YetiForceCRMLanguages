@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "가격표",
     "FL_SUM_ORDERS": "미결 판매 주문 합계",
     "FL_TAXES": "세금",
-    "FL_AVAILABLE_TAXES": "유효 세금"
+    "FL_AVAILABLE_TAXES": "유효 세금",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "계정 이름이 이미 존재합니다. 중복 레코드를 작성 하시겠습니까?",

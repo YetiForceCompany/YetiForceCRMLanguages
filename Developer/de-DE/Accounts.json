@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Preisbuch",
     "FL_SUM_ORDERS": "Summe der offenen Bestellungen",
     "FL_TAXES": "Steuern",
-    "FL_AVAILABLE_TAXES": "Verfügbare Steuern"
+    "FL_AVAILABLE_TAXES": "Verfügbare Steuern",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Organisationsname ist bereits vorhanden. Möchten Sie einen doppelten Datensatz erstellen?",

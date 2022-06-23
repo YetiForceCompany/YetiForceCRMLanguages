@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Cennik",
     "FL_SUM_ORDERS": "Suma wszystkich otwartych zamówień",
     "FL_TAXES": "Podatki",
-    "FL_AVAILABLE_TAXES": "Dostępne podatki"
+    "FL_AVAILABLE_TAXES": "Dostępne podatki",
+    "History": "Historia",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Kontrahenci według branży",
+    "Overdue Activities": "Sprawy zaległe",
+    "LBL_NEGLECTED_ACCOUNTS": "Zaniedbani kontrahenci",
+    "LBL_NEW_ACCOUNTS": "Nowi kontrahenci"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Taki kontrahent istnieje. Czy chcesz utworzyć duplikat?",

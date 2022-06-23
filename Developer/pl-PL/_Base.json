@@ -1496,7 +1496,9 @@
     "LBL_TILE_BIG": "Duży",
     "LBL_SET_CUSTOM_COLUMNS_LABEL": "Dodaj niestandardową etykietę",
     "LBL_ICONS": "Ikony",
-    "LBL_BROWSE_ASSETS": "Przeglądaj zasoby"
+    "LBL_BROWSE_ASSETS": "Przeglądaj zasoby",
+    "LBL_MEDIA": "Media",
+    "LBL_IMAGES": "Obrazy"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

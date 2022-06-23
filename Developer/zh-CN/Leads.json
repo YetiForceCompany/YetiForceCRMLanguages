@@ -72,7 +72,13 @@
     "Attorney General's Office": "律政司办公室",
     "LBL_RELATION": "关系",
     "LBL_LEGAL_FORM": "公司类型",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "至少两个帐户需要符合要求的链接，转到:管理 > 流程 > 营销流程 > 转换) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "至少两个帐户需要符合要求的链接，转到:管理 > 流程 > 营销流程 > 转换) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "选择客户进行处理"

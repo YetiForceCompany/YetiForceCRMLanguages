@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Підпроцес другого рівня",
     "LBL_USER_NAME": "Ім’я користувача",
     "LBL_GROUP_NAME": "Назва групи",
-    "LBL_WORK_DAYS": "Робочи днів"
+    "LBL_WORK_DAYS": "Робочи днів",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Дозволені символи: [0-9]",

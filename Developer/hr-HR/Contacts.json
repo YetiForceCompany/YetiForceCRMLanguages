@@ -48,7 +48,9 @@
     "FL_GENDER": "Spol",
     "PLL_WOMAN": "Žena",
     "PLL_MAN": "Muškarac",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Kontakt s ovom adresom e-pošte već postoji u sustavu."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Kontakt s ovom adresom e-pošte već postoji u sustavu.",
+    "History": "History",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {}
 }

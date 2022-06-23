@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Cenik",
     "FL_SUM_ORDERS": "Znesek odprtih naročil",
     "FL_TAXES": "Davki",
-    "FL_AVAILABLE_TAXES": "Razpoložljivi davki"
+    "FL_AVAILABLE_TAXES": "Razpoložljivi davki",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Podjetje s tem imenom že obstaja. Ali želite kljub narediti kopijo podjetja?",

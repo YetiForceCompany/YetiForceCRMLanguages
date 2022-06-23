@@ -48,7 +48,9 @@
     "FL_GENDER": "လိင်အမျိုးအစား",
     "PLL_WOMAN": "အမျိုးသမီး",
     "PLL_MAN": "အမျိုးသား",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "ယခု အီးမေးလိပ်စာနှင့် အဆက်အသွယ် တစ်ယောက် စနစ်ထဲတွင် ရှိပြီး ဖြစ်နေသည်။"
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "ယခု အီးမေးလိပ်စာနှင့် အဆက်အသွယ် တစ်ယောက် စနစ်ထဲတွင် ရှိပြီး ဖြစ်နေသည်။",
+    "History": "History",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {}
 }

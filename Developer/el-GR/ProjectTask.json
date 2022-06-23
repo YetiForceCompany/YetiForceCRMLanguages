@@ -24,6 +24,8 @@
     "administrative": "Εσωτερική",
     "operative": "Εξωτερική",
     "other": "Κοινής χρήσης",
-    "LBL_PROJECT": "Έργο"
+    "LBL_PROJECT": "Έργο",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
   }
 }

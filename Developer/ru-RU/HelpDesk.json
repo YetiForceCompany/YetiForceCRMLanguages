@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Количество билетов",
     "LBL_TICKET_RESOLUTION": "Информация о решениях",
     "LBL_USERNAME": "Учетная запись:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Значительная",
     "Minor": "Незначительная",
     "Normal": "Нормальный",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Добавьте рабочее время до закрытия заявки",
     "LBL_CLOSE_RELATED_TICKETS": "Перед закрытием этой заявки, закройте связанные тикеты",
     "LBL_HELPDESK_DEPENDENTS": "Заявки",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

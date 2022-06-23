@@ -56,6 +56,9 @@
     "LBL_SWITCHHEADER_ON_0": "Открыто",
     "LBL_SWITCHHEADER_OFF_0": "Закрыто",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Открыть/Закрыть",
-    "LBL_SHOW_HIERARCHY": "Иерархия"
+    "LBL_SHOW_HIERARCHY": "Иерархия",
+    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
+    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
   }
 }

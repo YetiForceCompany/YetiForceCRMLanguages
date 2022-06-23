@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "价格薄",
     "FL_SUM_ORDERS": "未结销售订单合计",
     "FL_TAXES": "税",
-    "FL_AVAILABLE_TAXES": "可用的税"
+    "FL_AVAILABLE_TAXES": "可用的税",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "帐户名称已存在,您想要创建重复记录吗？?",

@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "2 番目のレベルのサブプロセス",
     "LBL_USER_NAME": "ユーザー名",
     "LBL_GROUP_NAME": "グループ名",
-    "LBL_WORK_DAYS": "勤務日"
+    "LBL_WORK_DAYS": "勤務日",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "使用できる文字: [0-9]",

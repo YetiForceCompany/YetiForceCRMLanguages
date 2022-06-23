@@ -72,7 +72,13 @@
     "Attorney General's Office": "Прокуратура",
     "LBL_RELATION": "Отношение",
     "LBL_LEGAL_FORM": "Юридическая форма",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Как минимум два условия должны быть выполнены, перейдите по ссылке: (Настройка системы &gt; Процессы &gt; Маркетинг &gt; Преобразование) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Как минимум два условия должны быть выполнены, перейдите по ссылке: (Настройка системы &gt; Процессы &gt; Маркетинг &gt; Преобразование) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Выберите Контрагента для продолжнеия"

@@ -48,7 +48,9 @@
     "FL_GENDER": "Cinsiyet",
     "PLL_WOMAN": "Kadın",
     "PLL_MAN": "Erkek",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Bu e posta adresine sahip bir kayıt sistemde zaten var."
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Bu e posta adresine sahip bir kayıt sistemde zaten var.",
+    "History": "History",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {}
 }

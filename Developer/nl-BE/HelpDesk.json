@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Ticket Number",
     "LBL_TICKET_RESOLUTION": "Ticket Resolution",
     "LBL_USERNAME": "User Name :",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Belangrijk",
     "Minor": "Minder belangrijk",
     "Normal": "Normaal",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Arbeidstijd toevoegen voordat u het ticket sluit",
     "LBL_CLOSE_RELATED_TICKETS": "Voordat u dit ticket sluit, sluit u gerelateerde tickets",
     "LBL_HELPDESK_DEPENDENTS": "Tickets",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

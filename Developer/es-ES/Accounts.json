@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Lista de precios",
     "FL_SUM_ORDERS": "Suma de órdenes de pedidos abiertas",
     "FL_TAXES": "Impuestos",
-    "FL_AVAILABLE_TAXES": "Impuestos disponibles"
+    "FL_AVAILABLE_TAXES": "Impuestos disponibles",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "El nombre de la Empresa ya existe. ¿Quieres crear un registro duplicado?",

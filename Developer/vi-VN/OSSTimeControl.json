@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Quy trình cấp độ hai",
     "LBL_USER_NAME": "Tên đăng nhập",
     "LBL_GROUP_NAME": "Tên nhóm",
-    "LBL_WORK_DAYS": "Ngày làm việc"
+    "LBL_WORK_DAYS": "Ngày làm việc",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Ký tự hợp lệ: [0-9]",

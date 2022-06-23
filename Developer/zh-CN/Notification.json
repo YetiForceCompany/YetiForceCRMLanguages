@@ -39,7 +39,10 @@
     "LBL_NOTIFICATION_SETTINGS": "提醒设置",
     "LBL_UNREAD": "未读",
     "LBL_NO_UNREAD_NOTIFICATIONS": "没有未读通知",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess"
+    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
+    "Notifications": "Notifications"
   },
   "js": {
     "JS_MARKED_AS_READ": "标记为已读"

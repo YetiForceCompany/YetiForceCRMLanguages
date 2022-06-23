@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Số vé",
     "LBL_TICKET_RESOLUTION": "Phương án giải quyết",
     "LBL_USERNAME": "Tên đăng nhập:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Chính",
     "Minor": "Phụ",
     "Normal": "Bình thường",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Thêm thời gian làm việc trước khi bạn đóng yêu cầu",
     "LBL_CLOSE_RELATED_TICKETS": "Trước khi bạn đóng yêu cầu này này, hãy đóng yêu cầu liên quan",
     "LBL_HELPDESK_DEPENDENTS": "Vé hỗ trợ",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

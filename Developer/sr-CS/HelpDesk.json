@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Tiket broj",
     "LBL_TICKET_RESOLUTION": "Riješenje tiketa",
     "LBL_USERNAME": "Korisničko ime:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Glavni",
     "Minor": "Manji",
     "Normal": "Normalan",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Dodajte radno vrijeme prije nego što zatvorite tiket",
     "LBL_CLOSE_RELATED_TICKETS": "Prije nego što zatvorite ovuaj tiket, zatvorite povezane tikete",
     "LBL_HELPDESK_DEPENDENTS": "Tiketi",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

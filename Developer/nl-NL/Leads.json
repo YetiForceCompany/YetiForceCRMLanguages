@@ -72,7 +72,13 @@
     "Attorney General's Office": "Kantoor procureur-generaal",
     "LBL_RELATION": "Relatie",
     "LBL_LEGAL_FORM": "Juridische vorm",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Ten minste twee Accounts voldoen aan de eisen voor linking, ga naar: (Administration > Processen > Marketing processen > Conversion) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Ten minste twee Accounts voldoen aan de eisen voor linking, ga naar: (Administration > Processen > Marketing processen > Conversion) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Rol selecteren om door te gaan"

@@ -3,30 +3,14 @@
     "Selected Values": "Valori selezionati",
     "LBL_ADD_RECORD": "Aggiungi record",
     "PickListDependency": "Dipendenza menù a tendina",
-    "LBL_CONFIGURE_DEPENDENCY_HELP_1": "Sono visibili i valori del campo sorgente selezionati in \"Seleziona valori del campo sorgente\"",
-    "LBL_CONFIGURE_DEPENDENCY_HELP_2": "Se vuoi modificare tutti i \/ alcuni valori del campo sorgente, selezionali \/ deselezionali da \"Seleziona valori del campo sorgente\"",
-    "LBL_CONFIGURE_DEPENDENCY_HELP_3": "I valori mappati del campo di destinazione, saranno evidenziati come",
-    "LBL_CONFIGURE_DEPENDENCY_INFO": "Clicca sulla rispettiva cella per cambiare la mappatura dei valori del campo di destinazione",
-    "LBL_ERR_CYCLIC_DEPENDENCY": "Questa configurazione di dipendenza non è consentita perché è ciclica",
     "LBL_PICKLIST_DEPENDENCY": "Dipendenza menù a tendina",
     "LBL_SELECT_FIELD": "Seleziona campo",
     "LBL_SELECT_MODULE": "Modulo",
     "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Valori del campo sorgente",
-    "LBL_SELECT_SOURCE_VALUES": "Seleziona valori del campo sorgente",
     "LBL_SOURCE_FIELD": "Campo sorgente",
-    "LBL_TARGET_FIELD": "Campo di destinazione",
-    "LBL_UNMARK_ALL": "Deseleziona tutti",
-    "Module": "Modulo",
-    "Source Field": "Campo sorgente",
-    "Target Field": "Campo di destinazione"
+    "LBL_MODULE": "Modulo"
   },
   "js": {
-    "JS_DEPENDENCY_ATLEAST_ONE_VALUE": "Devi selezionare almeno un valore per",
-    "JS_DEPENDENCY_DELETED_SUEESSFULLY": "Dipendenza eliminata",
-    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sei sicuro di voler eliminare la dipendenza?",
-    "JS_PICKLIST_DEPENDENCY_SAVED": "Dipendenza salvata",
-    "JS_SELECT_SOME_VALUE": "Seleziona un valore",
-    "JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME": "Il campo sorgente e il campo di destinazione non devono essere uguali",
-    "JS_PICKLIST_DEPENDENCY_NO_SAVED": "Nessuna dipendenza è stata inserita. Nessuna modifica è stata salvata."
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sei sicuro di voler eliminare la dipendenza?"
   }
 }

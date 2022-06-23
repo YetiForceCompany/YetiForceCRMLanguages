@@ -72,7 +72,13 @@
     "Attorney General's Office": "Prokuratura",
     "LBL_RELATION": "Relacja",
     "LBL_LEGAL_FORM": "Forma prawna",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Istnieje co najmniej dwóch kontrahentów spełniających warunki łączenia, przejdź do: (Administracja > Procesy > Procesy marketingowe > Konwersja) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Istnieje co najmniej dwóch kontrahentów spełniających warunki łączenia, przejdź do: (Administracja > Procesy > Procesy marketingowe > Konwersja) %s",
+    "History": "Historia",
+    "Leads by Industry": "Leady według branży",
+    "Leads by Source": "Leady według źródła",
+    "Leads by Status": "Leady według statusu",
+    "Leads by Status Converted": "Leady skonwertowane według statusu",
+    "Overdue Activities": "Sprawy zaległe"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Zaznacz kontrahenta w celu kontynuowania"

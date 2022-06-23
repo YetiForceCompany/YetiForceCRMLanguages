@@ -44,6 +44,8 @@
     "LBL_TICKET_NUMBER": "Номер Заявки",
     "LBL_TICKET_RESOLUTION": "Вирішення Заявки",
     "LBL_USERNAME": "Ім'я користувача:",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
+    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
     "Major": "Основна",
     "Minor": "Незначна",
     "Normal": "Нормальний",
@@ -91,6 +93,8 @@
     "LBL_ADD_TIME_CONTROL": "Додайте робочий час, перш ніж закрити заявку",
     "LBL_CLOSE_RELATED_TICKETS": "Перш ніж закрити цю заявку, закрийте пов'язані заявки",
     "LBL_HELPDESK_DEPENDENTS": "Заявки",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "Tickets by Status": "Tickets by status",
+    "Open Tickets": "Open Tickets"
   }
 }

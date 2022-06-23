@@ -24,6 +24,8 @@
     "administrative": "İç",
     "operative": "Dış",
     "other": "Paylaşılan",
-    "LBL_PROJECT": "Proje"
+    "LBL_PROJECT": "Proje",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
   }
 }

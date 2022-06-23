@@ -72,7 +72,13 @@
     "Attorney General's Office": "مكتب النائب العام",
     "LBL_RELATION": "العلاقة",
     "LBL_LEGAL_FORM": "الشكل القانوني",
-    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "على الأقل حسابين تلبية متطلبات الربط ، انتقل إلى : (الإدارة > العمليات > عمليات التسويق > التحويل) %s"
+    "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "على الأقل حسابين تلبية متطلبات الربط ، انتقل إلى : (الإدارة > العمليات > عمليات التسويق > التحويل) %s",
+    "History": "History",
+    "Leads by Industry": "Leads by industry",
+    "Leads by Source": "Leads by source",
+    "Leads by Status": "Leads by status",
+    "Leads by Status Converted": "Leads converted by status",
+    "Overdue Activities": "Overdue activities"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "حدد حساب XMPP للمتابعه"

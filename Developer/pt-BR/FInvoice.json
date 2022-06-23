@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "Pago em excesso",
     "PLL_UNDERPAID": "Pagou menos",
     "FL_PAYMENT_SUM": "Total de pagamentos",
-    "DW_SUM_FIELD": "Campo de somatório"
+    "DW_SUM_FIELD": "Campo de somatório",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

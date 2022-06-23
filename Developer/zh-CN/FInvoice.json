@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "超额支付",
     "PLL_UNDERPAID": "未足额支付",
     "FL_PAYMENT_SUM": "Total payments",
-    "DW_SUM_FIELD": "Summation field"
+    "DW_SUM_FIELD": "Summation field",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "زیر فرآیند سطح دو",
     "LBL_USER_NAME": "نام کاربری",
     "LBL_GROUP_NAME": "نام گروه",
-    "LBL_WORK_DAYS": "روزهای کاری"
+    "LBL_WORK_DAYS": "روزهای کاری",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "کاراکتر های مجاز: [0-9]",

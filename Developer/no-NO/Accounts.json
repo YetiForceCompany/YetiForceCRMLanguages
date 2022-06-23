@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Priceliste",
     "FL_SUM_ORDERS": "Summen av åpne salgsordre",
     "FL_TAXES": "Avgifter",
-    "FL_AVAILABLE_TAXES": "Tilgjengelige avgifter"
+    "FL_AVAILABLE_TAXES": "Tilgjengelige avgifter",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Kontonavn eksisterer allerede. Vil du opprette en duplikatoppføring?",

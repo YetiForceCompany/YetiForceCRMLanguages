@@ -74,7 +74,12 @@
     "FL_PRICEBOOK": "Pricebook",
     "FL_SUM_ORDERS": "Jumlah pesanan penjualan terbuka",
     "FL_TAXES": "Pajak-Pajak",
-    "FL_AVAILABLE_TAXES": "Pajak-pajak yang tersedia"
+    "FL_AVAILABLE_TAXES": "Pajak-pajak yang tersedia",
+    "History": "History",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "Overdue Activities": "Overdue activities",
+    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
+    "LBL_NEW_ACCOUNTS": "New Accounts"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Nama akun sudah ada. Apakah Anda ingin membuat catatan duplikat?",

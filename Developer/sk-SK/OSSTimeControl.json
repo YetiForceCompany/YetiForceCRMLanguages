@@ -97,7 +97,9 @@
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
     "LBL_USER_NAME": "Užívateľské meno",
     "LBL_GROUP_NAME": "Názov skupiny",
-    "LBL_WORK_DAYS": "Pracovné dni"
+    "LBL_WORK_DAYS": "Pracovné dni",
+    "Employees Time Control": "Employees Time Control",
+    "LBL_ALL_TIME_CONTROL": "All users total working time"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Allowed characters: [0-9]",

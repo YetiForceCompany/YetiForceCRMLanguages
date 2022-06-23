@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "پرداخت بیشتر شده",
     "PLL_UNDERPAID": "کم پرداخت شده",
     "FL_PAYMENT_SUM": "مجموع پرداخت",
-    "DW_SUM_FIELD": "فیلد تجمیعی"
+    "DW_SUM_FIELD": "فیلد تجمیعی",
+    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
+    "DW_SUMMATION_BY_USER": "Sales comparison by user"
   }
 }

@@ -56,6 +56,9 @@
     "LBL_SWITCHHEADER_ON_0": "開く",
     "LBL_SWITCHHEADER_OFF_0": "閉じる",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "開く/閉じる",
-    "LBL_SHOW_HIERARCHY": "階層"
+    "LBL_SHOW_HIERARCHY": "階層",
+    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
+    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
   }
 }

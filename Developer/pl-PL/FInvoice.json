@@ -43,6 +43,8 @@
     "PLL_OVERPAID": "Nadpłata",
     "PLL_UNDERPAID": "Niedopłata",
     "FL_PAYMENT_SUM": "Suma wpłat",
-    "DW_SUM_FIELD": "Pole sumowania"
+    "DW_SUM_FIELD": "Pole sumowania",
+    "DW_SUMMATION_BY_MONTHS": "Porównanie sprzedaży po miesiącach",
+    "DW_SUMMATION_BY_USER": "Porównanie sprzedaży po użytkownikach"
   }
 }
