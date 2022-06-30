@@ -491,6 +491,11 @@
     "LBL_TAX": "Davek",
     "LBL_TAX_IN_PERCENT": "Davek (%)",
     "LBL_TAX_MODE": "Davčni način",
+    "LBL_DISCOUNT_AGGREGATION": "Discount aggregation type",
+    "LBL_DISCOUNT_AGGREGATION_DESC": "Selection list of allowed discount summation types",
+    "LBL_CANNOT_BE_COMBINED": "Cannot be combined",
+    "LBL_IN_TOTAL": "In total",
+    "LBL_CASCADE": "Cascade",
     "LBL_Thu": "Čet",
     "LBL_TO": "Za",
     "LBL_TO_LC": "za",
@@ -983,6 +988,7 @@
     "LBL_AVAILABLE_DICOUNTS": "Available discounts",
     "LBL_ACCOUNT_DISCOUNT": "Account's discount",
     "LBL_CUSTOM_DISCOUNT": "Custom discount",
+    "LBL_ADDITIONAL_DISCOUNT": "Additional discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Odstotek",
     "LBL_AMOUNT_DISCOUNTS": "Znesek",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Popust za stranko",
@@ -1498,7 +1504,8 @@
     "LBL_ICONS": "Icons",
     "LBL_BROWSE_ASSETS": "Browse Assets",
     "LBL_MEDIA": "Mediji",
-    "LBL_IMAGES": "Images"
+    "LBL_IMAGES": "Images",
+    "FL_WAPRO_ID": "WAPRO ERP ID"
   },
   "js": {
     "JS_APPROVE": "Odobri",
@@ -1962,6 +1969,7 @@
     "JS_PREV": "Prejšnji",
     "JS_NEXT": "Naslednji",
     "JS_CALENDAR_LIST": "Schedule",
-    "JS_SPECIAL_CHARACTERS": "Special characters like"
+    "JS_SPECIAL_CHARACTERS": "Special characters like",
+    "JS_NOT_ALLOWED": "are not allowed"
   }
 }

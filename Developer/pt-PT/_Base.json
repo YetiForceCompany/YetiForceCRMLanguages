@@ -491,6 +491,11 @@
     "LBL_TAX": "IVA",
     "LBL_TAX_IN_PERCENT": "Iva (%)",
     "LBL_TAX_MODE": "Tributação",
+    "LBL_DISCOUNT_AGGREGATION": "Discount aggregation type",
+    "LBL_DISCOUNT_AGGREGATION_DESC": "Selection list of allowed discount summation types",
+    "LBL_CANNOT_BE_COMBINED": "Cannot be combined",
+    "LBL_IN_TOTAL": "In total",
+    "LBL_CASCADE": "Cascade",
     "LBL_Thu": "Qui",
     "LBL_TO": "Para",
     "LBL_TO_LC": "para",
@@ -983,6 +988,7 @@
     "LBL_AVAILABLE_DICOUNTS": "Available discounts",
     "LBL_ACCOUNT_DISCOUNT": "Account's discount",
     "LBL_CUSTOM_DISCOUNT": "Custom discount",
+    "LBL_ADDITIONAL_DISCOUNT": "Additional discount",
     "LBL_PERCENTAGE_DISCOUNTS": "Percentagem",
     "LBL_AMOUNT_DISCOUNTS": "Quantia",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Desconto por conta",
@@ -1498,7 +1504,8 @@
     "LBL_ICONS": "Ícones",
     "LBL_BROWSE_ASSETS": "Procurar Ativos",
     "LBL_MEDIA": "Media",
-    "LBL_IMAGES": "Imagens"
+    "LBL_IMAGES": "Imagens",
+    "FL_WAPRO_ID": "WAPRO ERP ID"
   },
   "js": {
     "JS_APPROVE": "Aprovar",
@@ -1962,6 +1969,7 @@
     "JS_PREV": "Anterior",
     "JS_NEXT": "Próximo",
     "JS_CALENDAR_LIST": "Agenda",
-    "JS_SPECIAL_CHARACTERS": "Caracteres especiais, como"
+    "JS_SPECIAL_CHARACTERS": "Caracteres especiais, como",
+    "JS_NOT_ALLOWED": "Não são permitidos"
   }
 }

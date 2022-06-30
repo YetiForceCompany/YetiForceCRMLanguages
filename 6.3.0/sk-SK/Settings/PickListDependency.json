@@ -13,12 +13,12 @@
     "LBL_SELECT_MODULE": "Modul",
     "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",
     "LBL_SELECT_SOURCE_VALUES": "Select source values",
-    "LBL_SOURCE_FIELD": "Source field",
-    "LBL_TARGET_FIELD": "Target field",
+    "LBL_SOURCE_FIELD": "Zdrojové pole",
+    "LBL_TARGET_FIELD": "Cieľové pole",
     "LBL_UNMARK_ALL": "Unmark all",
     "Module": "Modul",
-    "Source Field": "Source field",
-    "Target Field": "Target field"
+    "Source Field": "Zdrojové pole",
+    "Target Field": "Cieľové pole"
   },
   "js": {
     "JS_DEPENDENCY_ATLEAST_ONE_VALUE": "You need to select at least one value for",

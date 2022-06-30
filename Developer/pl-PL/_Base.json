@@ -491,6 +491,11 @@
     "LBL_TAX": "Podatek",
     "LBL_TAX_IN_PERCENT": "Podatek (%)",
     "LBL_TAX_MODE": "Tryb podatku",
+    "LBL_DISCOUNT_AGGREGATION": "Typ sumowania rabatu",
+    "LBL_DISCOUNT_AGGREGATION_DESC": "Lista wyboru dozwolonych rodzajów sumowania rabatów",
+    "LBL_CANNOT_BE_COMBINED": "Nie wolno łączyć",
+    "LBL_IN_TOTAL": "Łącznie",
+    "LBL_CASCADE": "Kaskadowo",
     "LBL_Thu": "Czw",
     "LBL_TO": "na",
     "LBL_TO_LC": "z",
@@ -983,6 +988,7 @@
     "LBL_AVAILABLE_DICOUNTS": "Dostępne rabaty",
     "LBL_ACCOUNT_DISCOUNT": "Rabat Klienta",
     "LBL_CUSTOM_DISCOUNT": "Niestandardowy rabat",
+    "LBL_ADDITIONAL_DISCOUNT": "Dodatkowy rabat",
     "LBL_PERCENTAGE_DISCOUNTS": "Procentowy",
     "LBL_AMOUNT_DISCOUNTS": "Wartościowy",
     "LBL_DISCOUNT_FOR_ACCOUNT": "Rabat ustawiony na kontrahencie",
@@ -1498,7 +1504,8 @@
     "LBL_ICONS": "Ikony",
     "LBL_BROWSE_ASSETS": "Przeglądaj zasoby",
     "LBL_MEDIA": "Media",
-    "LBL_IMAGES": "Obrazy"
+    "LBL_IMAGES": "Obrazy",
+    "FL_WAPRO_ID": "WAPRO ERP ID"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1962,6 +1969,7 @@
     "JS_PREV": "Poprzedni",
     "JS_NEXT": "Następny",
     "JS_CALENDAR_LIST": "Harmonogram",
-    "JS_SPECIAL_CHARACTERS": "Znaki specjalne, takie jak"
+    "JS_SPECIAL_CHARACTERS": "Znaki specjalne, takie jak",
+    "JS_NOT_ALLOWED": "nie są dozwolone"
   }
 }

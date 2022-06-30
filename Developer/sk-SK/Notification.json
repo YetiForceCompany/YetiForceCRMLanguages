@@ -6,7 +6,7 @@
     "LBL_NOTIFICATION_CONTENTS": "Notification contents",
     "FL_TITLE": "nadpis",
     "LBL_NOTIFICATION_INFORMATION": "Základné informácie",
-    "FL_RELATED_MODULE": "Related module",
+    "FL_RELATED_MODULE": "Súvisiaci modul",
     "FL_MESSAGE": "Notification contents",
     "LBL_SCHEDULE": "Schedule",
     "LBL_RECEIVING_MAIL_NOTIFICATIONS": "Prijímanie e-mailových oznámení",
@@ -40,9 +40,9 @@
     "LBL_UNREAD": "Unread",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Žiadne neprečítané oznámenia",
     "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
-    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
-    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
-    "Notifications": "Notifications"
+    "LBL_NOTIFICATION_BY_SENDER": "Počet upozornení podľa odosielateľa",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Počet upozornení podľa príjemcu",
+    "Notifications": "Notifikácie"
   },
   "js": {
     "JS_MARKED_AS_READ": "Marked as read"

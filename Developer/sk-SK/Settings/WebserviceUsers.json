@@ -1,7 +1,7 @@
 {
   "php": {
-    "WebserviceUsers": "Web service - Users",
-    "LBL_WEBSERVICE_USERS": "Web service - Users",
+    "WebserviceUsers": "Webová služba – užívatelia",
+    "LBL_WEBSERVICE_USERS": "Webová služba – užívatelia",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "LBL_SESSION_RECORD": "API User session list",
     "FL_SERVER": "Server",

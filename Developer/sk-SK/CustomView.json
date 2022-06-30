@@ -4,9 +4,9 @@
     "LBL_FEATURED": "Pridať do obľúbených",
     "LBL_COLOR_VIEW": "Farba zobrazenia",
     "LBL_ADD_FIELD": "Pridať pole",
-    "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
-    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
-    "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",
-    "LBL_CUSTOM_CONDITIONS_DESC": "Filter the current list of records based on relationships and related records that meet specified criteria.\nFailure to set conditions results in showing lists of records with at least one relation."
+    "LBL_CUSTOM_RELATION_COLUMN": "Vzťah, ako vlastný stĺpec",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrovanie, ako ďalší stĺpec v zozname záznamov. Filtruje na základe záznamu nájdeného v súvisiacich záznamoch. ",
+    "LBL_CUSTOM_CONDITIONS": "Podmienky pre filtrovanie súvisiacich záznamov",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtrujte aktuálny zoznam záznamov na základe vzťahov a súvisiacich záznamov, ktoré spĺňajú zadané kritériá.\nAk podmienky nenastavíte, zobrazia sa zoznamy záznamov s aspoň jedným vzťahom."
   }
 }

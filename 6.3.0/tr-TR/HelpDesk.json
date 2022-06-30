@@ -76,8 +76,8 @@
     "LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS": "Hesabın aktif SLA'sı yok",
     "LBL_NOTICE_WELCOME": "Platforma hoş geldiniz",
     "LBL_MAIL_NOTICE_CREATE": "Mesajınızı aldık ve yakında işlenecek. Herhangi bir ek bilgi veya sorunuz varsa, lütfen bu e-postayı yanıtlayın. E-posta yazışmalarının sürekliliğini korumak için, lütfen bilet numarasını e-posta konusundan kaldırmayın.",
-    "LBL_MAIL_NOTICE_CLOSED": "Our experts have resolved your ticket. Below you can find detailed information about the work we performed.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
-    "LBL_MAIL_NOTICE_MODIFICATION": "Our specialists are working on your ticket.\nIf you have any additional information or questions, please reply to this email. In order to preserve continuity of email correspondence, please do not remove the ticket number from the email subject.",
+    "LBL_MAIL_NOTICE_CLOSED": "Mesajınızı aldık ve yakında işlenecek. Herhangi bir ek bilgi veya sorunuz varsa, lütfen bu e-postayı yanıtlayın. E-posta yazışmalarının sürekliliğini korumak için, lütfen bilet numarasını e-posta konusundan kaldırmayın.",
+    "LBL_MAIL_NOTICE_MODIFICATION": "Mesajınızı aldık ve yakında işlenecek. Herhangi bir ek bilgi veya sorunuz varsa, lütfen bu e-postayı yanıtlayın. E-posta yazışmalarının sürekliliğini korumak için, lütfen bilet numarasını e-posta konusundan kaldırmayın.",
     "LBL_MAIL_NOTICE_OWNER_CREATED": "A new ticket has been created. You can find more information below:",
     "Services": "hizmetler",
     "Support": "destek",
@@ -91,6 +91,6 @@
     "LBL_ADD_TIME_CONTROL": "Ticketi kapatmadan önce çalışma süresini ekleyin",
     "LBL_CLOSE_RELATED_TICKETS": "Bu talebi kapatmadan önce bağlı destek taleplerini kapatın",
     "LBL_HELPDESK_DEPENDENTS": "Destekler",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)"
+    "LBL_HELPDESK_RELATED": "Biletler ( M:M)"
   }
 }

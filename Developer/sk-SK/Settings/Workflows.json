@@ -63,7 +63,7 @@
     "LBL_USE_FUNCTION": "Use function",
     "LBL_VTIGER": "YetiForce",
     "LBL_WORKFLOW": "Workflow",
-    "MANUAL": "System",
+    "MANUAL": "Systém",
     "SCHEDULE_WORKFLOW": "Schedule workflow",
     "Execution Condition": "Execution condition",
     "Module": "Modul",
@@ -213,7 +213,7 @@
     "LBL_DATA_FORMAT_DATABASE": "Databázový formát",
     "LBL_DATA_CHANGED": "Zmeny",
     "LBL_VALUE_FROM_FIELD": "Value from field",
-    "LBL_FIELDS_LABELS": "Field label",
+    "LBL_FIELDS_LABELS": "Názov poľa",
     "LBL_SELECT_VARIABLES": "Vybrať premennú",
     "LBL_CREATE_CUSTOM_MAPPING": "Create custom mapping",
     "LBL_GET_FROM_PANEL_MAPPING": "Get mapping from panel",
@@ -262,9 +262,12 @@
     "LBL_WORKFLOW_TRIGGER_RECORD_RESTRICTION_OFF": "workflow trigger records restriction off",
     "LBL_WORKFLOW_RESTRICTION_OFF_ALERT": "Conditions for records cannot be set in a given workflow mode.",
     "LBL_ERROR_DELETE_ENTRY": "Error, delete entry.",
-    "LBL_SORT_WORKFLOW_ACTIONS": "Sort workflow actions",
-    "LBL_SELECT_WORKFLOW": "Select workflow",
-    "LBL_SET_WORKFLOW_BEFORE": "Set workflow before"
+    "LBL_SORT_WORKFLOW_ACTIONS": "Zoradiť akcie pracovných postupov",
+    "LBL_SELECT_WORKFLOW": "Vybrať pracovný postup",
+    "LBL_SET_WORKFLOW_BEFORE": "Set workflow before",
+    "LBL_SOURCE_MODULE": "Source module",
+    "LBL_ONE_TO_MANY_RELATIONS": "One to many relations",
+    "LBL_MANY_TO_MANY_RELATIONS": "Many to many relations"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

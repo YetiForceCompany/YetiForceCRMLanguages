@@ -23,7 +23,7 @@
     "LBL_SAVE_ORDER": "Uložiť poradie",
     "LBL_SELECTED_VALUES_MESSGAE": "will appear for the user with this Role",
     "LBL_SELECTED_VALUES": "Selected values",
-    "LBL_SELECT_PICKLIST_IN": "Select picklist in",
+    "LBL_SELECT_PICKLIST_IN": "Vyberte zoznam v module",
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Hodnoty priradené k rolám",
     "LBL_CLOSES_RECORD": "Mal by byť záznam blokovaný?",
     "LBL_PREFIX": "Prefix",
@@ -41,8 +41,8 @@
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Field is not a process status field.",
     "LBL_IMPORT_VALUE": "Import hodnôt",
     "LBL_CONFIRM_BEFORE_MODIFY": "The selected field is interdependent with other modules: %s. Are you sure you want to proceed?",
-    "LBL_CSV_DESC": "Import csv file with each value per line",
-    "LBL_ICON": "Icon"
+    "LBL_CSV_DESC": "Importuj CSV súbor s každou hodnotou na riadok",
+    "LBL_ICON": "Ikona"
   },
   "js": {
     "JS_ITEMS_DELETED_SUCCESSFULLY": "Items deleted successfully",

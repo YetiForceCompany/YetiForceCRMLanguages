@@ -32,7 +32,7 @@
     "LBL_USE_CUSTOM_VARIABLES": "Systémové premenné pre vytváranie prefixov",
     "LBL_UPDATE_MISSING_RECORD_SEQUENCE": "Aktualizovať chýbajúcu sekvenciu záznamov",
     "LBL_USE_PREFIX_INFO": "Prefix je pridaná hodnota pred skutočným číslom záznamu.\nKaždý modul má iný prefix, takže je jednoduchšie rozpoznať, kde sa záznam v systéme nachádza.\nPredpony je možné podľa potreby meniť, ale nemožno ich duplikovať.\nFaktúry môžu mať napríklad tieto predčíslia: FA, FV, FI alebo FAKT.\nK prefixom možno pridávať aj časovo súvisiace premenné, napr. deň, mesiac, rok.\nNapríklad „FA {{YYYY}}/“ sa zobrazí ako „FA 2018/84“, kde 84 je číslo záznamu.\nPremenné pre prefix/postfix nájdete v spodnej časti tohto formulára. Skopírujte premennú a vložte ju do poľa prefix alebo postfix a hodnota sa zobrazí aj v čísle záznamu.",
-    "LBL_REFERENCE_VARIABLES": "Variables from related records",
+    "LBL_REFERENCE_VARIABLES": "Premenné zo súvisiacich záznamov",
     "LBL_REFERENCE_VARIABLES_INFO": "The function allows for retrieving data from a related record.\nUsing elements in this section is discouraged."
   },
   "js": {

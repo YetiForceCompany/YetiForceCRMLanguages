@@ -2,14 +2,21 @@
   "php": {
     "Wapro": "Wapro ERP",
     "LBL_WAPRO_ERP": "Wapro ERP",
-    "LBL_WAPRO_ERP_DESCRIPTION": "Integration with the Asseco Wapro ERP system",
-    "FL_NAME": "Name",
-    "FL_STATUS": "Status",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integrácia s Asseco Wapro EPR systémom",
+    "LBL_SYNCHRONIZER_LIST": "List of items to synchronize",
+    "FL_NAME": "Názov",
+    "FL_STATUS": "Stav",
     "FL_SERVER": "Server",
     "FL_PORT": "Port",
-    "FL_DATABASE": "Database name",
-    "FL_USERNAME": "User name",
-    "FL_PASSWORD": "Password",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "FL_DATABASE": "Názov databázy",
+    "FL_USERNAME": "Užívateľské meno",
+    "FL_PASSWORD": "Heslo",
+    "LBL_MULTI_COMPANY": "Departments/Company (read only)",
+    "LBL_COMPANY_BANK_ACCOUNTS": "Company bank accounts (read only)",
+    "LBL_ACCOUNTS": "Accounts (read only)",
+    "LBL_CONTACTS": "Contacts (read only)",
+    "LBL_PRODUCTS": "Products (read only)",
+    "LBL_INVOICE": "Invoices (read only)",
+    "LBL_SAVE_AND_VERIFY": "Uložiť a overiť"
   }
 }

@@ -11,7 +11,7 @@
     "Dr.": "Dr.",
     "Email": "Primárny e-mail",
     "Hot": "Hot",
-    "Industry": "Industry",
+    "Industry": "Odvetvie",
     "Sub industry": "Sub-branch",
     "Junk Lead": "Junk Lead",
     "Building number": "Číslo budovy",
@@ -73,12 +73,12 @@
     "LBL_RELATION": "Relation",
     "LBL_LEGAL_FORM": "Legal form",
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "At least two Accounts meet the requirements for linking, go to : (Administration > Processes > Marketing processes > Conversion) %s",
-    "History": "History",
+    "History": "História",
     "Leads by Industry": "Leads by industry",
     "Leads by Source": "Leads by source",
     "Leads by Status": "Leads by status",
     "Leads by Status Converted": "Leads converted by status",
-    "Overdue Activities": "Overdue activities"
+    "Overdue Activities": "Činnosti po termíne"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Select Account to proceed"

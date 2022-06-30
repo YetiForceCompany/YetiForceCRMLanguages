@@ -11,12 +11,12 @@
     "FL_REASON_FOR_CHANGE": "Reason for change",
     "FL_REASON_FOR_REJECTION": "Reason for rejection",
     "FL_STATUS": "Stav",
-    "PLL_PLANNED": "Planned",
-    "PLL_ON_HOLD": "On hold",
+    "PLL_PLANNED": "Plánované",
+    "PLL_ON_HOLD": "Pozastavené",
     "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_IN_APPROVAL": "In approval",
+    "PLL_IN_APPROVAL": "V schvaľovaní",
     "PLL_ACCEPTED": "Akceptované",
-    "PLL_COMPLETED": "Completed",
+    "PLL_COMPLETED": "Dokončené",
     "PLL_CANCELLED": "Zrušené"
   }
 }

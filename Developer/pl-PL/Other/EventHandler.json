@@ -50,8 +50,6 @@
     "VTIGER_FILES_HANDLER_DESC": "",
     "QUEUE_QUEUE_HANDLER": "Aktualizator kolejki",
     "QUEUE_QUEUE_HANDLER_DESC": "",
-    "OSSPASSWORDS_SECURE_HANDLER": "Aktualizator hasła",
-    "OSSPASSWORDS_SECURE_HANDLER_DESC": "Chroni hasło podczas wyświetlania w historii",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER": "Przelicz stany",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER_DESC": "Obliczanie poziomu stanów",
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER": "Zapisz współrzędnych geograficznych",

@@ -11,6 +11,6 @@
     "LBL_USERS_AND_GROUPS": "Užívatelia a skupiny"
   },
   "js": {
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Naozaj chcete odstrániť všetky priradenia v tomto module?"
   }
 }

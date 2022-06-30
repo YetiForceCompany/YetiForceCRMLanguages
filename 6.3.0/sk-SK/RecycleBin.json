@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
+    "LBL_RECYCLE_DELETE_ALL": "Odstrániť všetko v koši",
     "RecycleBin": "Kôš"
   },
   "js": {

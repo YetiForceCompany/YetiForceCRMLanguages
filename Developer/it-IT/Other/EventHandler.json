@@ -50,8 +50,6 @@
     "VTIGER_FILES_HANDLER_DESC": "",
     "QUEUE_QUEUE_HANDLER": "Aggiornatore della coda",
     "QUEUE_QUEUE_HANDLER_DESC": "",
-    "OSSPASSWORDS_SECURE_HANDLER": "Aggiornamento password",
-    "OSSPASSWORDS_SECURE_HANDLER_DESC": "Protegge la tua password visualizzando la cronologia",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER": "Ricalcola scorte",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER_DESC": "Calcolo dei livelli di scorte",
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER": "Salva le coordinate geografiche",

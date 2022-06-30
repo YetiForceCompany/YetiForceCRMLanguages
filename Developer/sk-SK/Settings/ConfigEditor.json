@@ -25,8 +25,8 @@
     "LBL_RELATION_SHOW_RECORDS_COUNT": "Show record count in tabs of related modules",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Separate action buttons for changing additional data",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "The button defines a special data type that belongs only to relations, available e.g. in the Occurrences module",
-    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Max number of export records",
-    "LBL_PERFORMANCE": "Performance"
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Maximálny počet exportovaných záznamov",
+    "LBL_PERFORMANCE": "Výkon"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",

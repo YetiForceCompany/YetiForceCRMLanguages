@@ -1,14 +1,16 @@
 {
   "php": {
-    "LBL_POLAND_VAT_PAYER": "Verify VAT taxpayer’s status [PL]",
-    "LBL_POLAND_VAT_PAYER_DESC": "The service allows you to verify whether the entity is an active, exempt, or unregistered VAT taxpayer in Poland.",
-    "LBL_POLAND_GUS": "Load business entity data [PL]",
-    "LBL_POLAND_GUS_DESC": "Download information about entities of the national economy of Poland from the REGON Registry.",
-    "LBL_VIES": "Confirm the VAT-EU number",
-    "LBL_VIES_DESC": "Checks if the business entity has a valid VAT-EU number for intra-community transactions within the European Union.",
-    "LBL_REQUEST_DATE": "Request Date",
-    "LBL_REQUEST_ID": "Request ID",
-    "LBL_POLAND_NCR": "Polish National Court Register",
-    "LBL_POLAND_NCR_DESC": "Get company data from the Polish National Court Register"
+    "LBL_POLAND_VAT_PAYER": "Overenie štatútu platiteľa DPH [PL]",
+    "LBL_POLAND_VAT_PAYER_DESC": "Služba umožňuje overiť, či je subjekt aktívnym, oslobodeným alebo neregistrovaným platiteľom DPH v Poľsku.",
+    "LBL_POLAND_GUS": "Načítať údaje obchodného subjektu [PL]",
+    "LBL_POLAND_GUS_DESC": "Stiahnite si informácie o subjektoch národného hospodárstva Poľska z registra REGON.",
+    "LBL_VIES": "Potvrďte IČ DPH-EU číslo",
+    "LBL_VIES_DESC": "Kontroluje, či má podnikateľský subjekt platné IČ DPH-EÚ pre intrakomunitárne transakcie v rámci Európskej únie.",
+    "LBL_REQUEST_DATE": "Dátum požiadavky",
+    "LBL_REQUEST_ID": "ID požiadavky",
+    "LBL_POLAND_NCR": "Polish National Court Register [PL]",
+    "LBL_POLAND_NCR_DESC": "Získať firemné údaje z poľského národného súdneho registra",
+    "LBL_UNITED_KINGDOM_CH": "Companies House [GB]",
+    "LBL_UNITED_KINGDOM_CH_DESC": "Skontrolujte spoločnosť vo vládnom registri spoločností pre UK"
   }
 }

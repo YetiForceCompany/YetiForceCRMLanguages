@@ -264,7 +264,10 @@
     "LBL_ERROR_DELETE_ENTRY": "Błąd, usuń wpis.",
     "LBL_SORT_WORKFLOW_ACTIONS": "Sortuj akcje workflow",
     "LBL_SELECT_WORKFLOW": "Wybierz workflow",
-    "LBL_SET_WORKFLOW_BEFORE": "Ustaw workflow przed"
+    "LBL_SET_WORKFLOW_BEFORE": "Ustaw workflow przed",
+    "LBL_SOURCE_MODULE": "Moduł źródłowy",
+    "LBL_ONE_TO_MANY_RELATIONS": "Relacja jeden do wielu",
+    "LBL_MANY_TO_MANY_RELATIONS": "Relacja wiele do wielu"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

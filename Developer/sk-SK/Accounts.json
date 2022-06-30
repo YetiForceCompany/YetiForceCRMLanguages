@@ -8,7 +8,7 @@
     "Customer": "Zákazník",
     "Email": "Primárny e-mail",
     "Employees": "Zamestnanci",
-    "industry": "Priemysel",
+    "industry": "Odvetvie",
     "Integrator": "Integrátor",
     "Investor": "Investor",
     "LBL_ACCOUNT_INFORMATION": "Informácie o účte",
@@ -75,11 +75,11 @@
     "FL_SUM_ORDERS": "Sum of open sales orders",
     "FL_TAXES": "Dane",
     "FL_AVAILABLE_TAXES": "Dostupné dane",
-    "History": "History",
-    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
-    "Overdue Activities": "Overdue activities",
-    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
-    "LBL_NEW_ACCOUNTS": "New Accounts"
+    "History": "História",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Účty podľa odvetvia",
+    "Overdue Activities": "Činnosti po termíne",
+    "LBL_NEGLECTED_ACCOUNTS": "Zanedbané účty",
+    "LBL_NEW_ACCOUNTS": "Nové účty"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Názov účtu už existuje. Chcete vytvoriť rovnaký záznam?",

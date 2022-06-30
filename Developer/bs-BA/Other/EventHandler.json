@@ -50,8 +50,6 @@
     "VTIGER_FILES_HANDLER_DESC": "",
     "QUEUE_QUEUE_HANDLER": "Ažuriranje reda čekanja",
     "QUEUE_QUEUE_HANDLER_DESC": "",
-    "OSSPASSWORDS_SECURE_HANDLER": "Ažuriranje lozinke",
-    "OSSPASSWORDS_SECURE_HANDLER_DESC": "Štiti vašu lozinku kada se prikazuje u istoriji",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER": "Preračunajte zalihe",
     "ISTORAGES_RECALCULATESTOCKHANDLER_HANDLER_DESC": "Proračun nivoa zaliha",
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER": "Sačuvajte geografske koordinate",

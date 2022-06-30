@@ -2,7 +2,7 @@
   "php": {
     "LBL_OTHER": "Iné",
     "Automatic signed off": "Automatické odhlásenie",
-    "LBL_LOGIN_TIME": "Date time",
-    "LBL_LOGGED_OUT_TIME": "Sign-out time"
+    "LBL_LOGIN_TIME": "Dátum Čas",
+    "LBL_LOGGED_OUT_TIME": "Čas odhlásenia"
   }
 }
