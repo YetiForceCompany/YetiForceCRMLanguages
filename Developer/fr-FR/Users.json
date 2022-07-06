@@ -413,7 +413,10 @@
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Historique de l'activité d'accès à votre compte",
     "LBL_PASSWORD_CHANGED": "Mot de passe changé",
     "LBL_PASSWORD_LINK_SENT": "Le lien pour le changement de mot de passe est en attente d'être envoyé, cela peut prendre quelques minutes. Veuillez vérifier votre boîte de réception.",
-    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default"
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
+    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
+    "LBL_MEMBER": "Members",
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Lorsqu'un utilisateur est supprimé, l'utilisateur sera marqué comme \"Inactif\", aucun nouvel enregistrement ne pourra être assigné à l'utilisateur et l'utilisateur ne pourra pas se connecter. Êtes-vous sûr de vouloir supprimer ?",

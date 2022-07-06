@@ -17,6 +17,7 @@
     "LBL_CONTACTS": "Kontakty (tylko do odczytu)",
     "LBL_PRODUCTS": "Produkty (tylko do odczytu)",
     "LBL_INVOICE": "Faktury (tylko do odczytu)",
+    "LBL_LOGS_VIEWER": "Podgląd logów",
     "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
   }
 }

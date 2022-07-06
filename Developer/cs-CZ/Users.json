@@ -413,7 +413,10 @@
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Historie přístupové aktivity k vašemu účtu",
     "LBL_PASSWORD_CHANGED": "Heslo změněno",
     "LBL_PASSWORD_LINK_SENT": "Odkaz na změnu hesla čeká na odeslání, může to trvat několik minut. Zkontrolujte prosím svou doručenou poštu.",
-    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default"
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
+    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
+    "LBL_MEMBER": "Members",
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Po odstranění uživatele bude uživatel označen jako \"Neaktivní\" a uživateli nebude možné přiřadit žádné nové záznamy, a uživatel se nebude moci přihlásit. Jste si jisti, že chcete odstranit?",

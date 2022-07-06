@@ -97,7 +97,8 @@
     "InterestsConflictUsers": "Conflict of interests",
     "CustomViewAdvCond": "Pokročilé vlastné zobrazenia podmienok",
     "RecordActivityNotifier": "Oznamovač aktivity v záznamoch",
-    "WorkflowTriggerWhenRecordIsBlocked": "Spúšťač pracovného postupu keď je záznam blokovaný"
+    "WorkflowTriggerWhenRecordIsBlocked": "Spúšťač pracovného postupu keď je záznam blokovaný",
+    "LeaderCanManageGroupMembership": "Leader can manage group membership"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

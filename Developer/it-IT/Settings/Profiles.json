@@ -97,7 +97,8 @@
     "InterestsConflictUsers": "Conflitto d'interessi",
     "CustomViewAdvCond": "Condizioni di visualizzazione personalizzata avanzate",
     "RecordActivityNotifier": "Notificatore dell'attività del registro",
-    "WorkflowTriggerWhenRecordIsBlocked": "Innesco del flusso di lavoro al blocco del registro"
+    "WorkflowTriggerWhenRecordIsBlocked": "Innesco del flusso di lavoro al blocco del registro",
+    "LeaderCanManageGroupMembership": "Leader can manage group membership"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profilo eliminato con successo"

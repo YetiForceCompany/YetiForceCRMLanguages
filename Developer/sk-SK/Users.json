@@ -413,7 +413,10 @@
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "History of access activity to your account",
     "LBL_PASSWORD_CHANGED": "Heslo zmenené",
     "LBL_PASSWORD_LINK_SENT": "The link for password change is waiting to be sent, it can take a few minutes. Please check your inbox.",
-    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Predvolene vybrať všetkých užívateľov"
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Predvolene vybrať všetkých užívateľov",
+    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
+    "LBL_MEMBER": "Members",
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kde je užívateľ odstránený tak bude označený ako \"negatívny\" a žiadne nové záznamy mu nemôžu byť pridelené. Užívateľ sa nebude môcť prihlásiť. Ste si istý že ho chcete odstrániť?",

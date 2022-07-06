@@ -413,7 +413,10 @@
     "LBL_YOUR_ACCOUNT_ACCESS_HISTORY": "Ιστορικό πρόσβασης στο λογαριασμό σας",
     "LBL_PASSWORD_CHANGED": "Ο κωδικός άλλαξε",
     "LBL_PASSWORD_LINK_SENT": "Ο σύνδεσμος για την αλλαγή κωδικού πρόσβασης που αναμένεται να σταλεί, μπορεί να διαρκέσει μερικά λεπτά. Παρακαλώ ελέγξτε τα εισερχόμενά σας.",
-    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default"
+    "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
+    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
+    "LBL_MEMBER": "Members",
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Όταν ένας Χρήστης διαγραφεί, ο χρήστης θα επισημανθεί ως \"Ανενεργός\" και δεν μπορούν να εκχωρηθούν νέες εγγραφές στον Χρήστη, και ο χρήστης δεν θα μπορεί να συνδεθεί. Είστε βέβαιοι ότι θέλετε να διαγράψετε;",
