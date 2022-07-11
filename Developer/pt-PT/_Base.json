@@ -1505,7 +1505,8 @@
     "LBL_BROWSE_ASSETS": "Procurar Ativos",
     "LBL_MEDIA": "Media",
     "LBL_IMAGES": "Imagens",
-    "FL_WAPRO_ID": "WAPRO ERP ID"
+    "FL_WAPRO_ID": "WAPRO ERP ID",
+    "LBL_IMAGE_PREVIEW": "Pré-visualização da imagem"
   },
   "js": {
     "JS_APPROVE": "Aprovar",

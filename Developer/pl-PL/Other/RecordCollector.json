@@ -2,7 +2,7 @@
   "php": {
     "LBL_POLAND_VAT_PAYER": "Weryfikacja statusu płatnika VAT [PL]",
     "LBL_POLAND_VAT_PAYER_DESC": "Usługa umożliwiająca sprawdzenie, czy podmiot jest czynnym, zwolnionym czy też niezarejestrowanym podatnikiem w VAT w Polsce.",
-    "LBL_POLAND_GUS": "Wczytaj dane podmiotu gospodarczego [PL]",
+    "LBL_POLAND_GUS": "Wczytaj dane podmiotu gospodarczego z REGON [PL]",
     "LBL_POLAND_GUS_DESC": "Pobierz informację z Rejestru REGON o podmiotach gospodarki narodowej Polski.",
     "LBL_VIES": "Potwierdzenie numeru VAT-EU",
     "LBL_VIES_DESC": "Sprawdza, czy podmiot gospodarczy posiada aktualny numer VAT-EU (europejski NIP), dla transakcji wewnątrzwspólnotowej na terenie Unii Europejskiej.",
@@ -16,6 +16,13 @@
     "LBL_UK_VAT_PAYER": "Potwierdzenie numeru VAT [GB]",
     "LBL_UK_VAT_PAYER_DESC": "Sprawdź, czy brytyjska firma jest płatnikiem VAT",
     "LBL_UK_VAT_PAYER_CONFIRM": "Firma o tym numerze jest płatnikiem VAT w Wielkiej Brytanii",
-    "LBL_UK_VAT_PAYER_NOT_CONFIRM": "Firma o tym numerze nie jest płatnikiem VAT w Wielkiej Brytanii"
+    "LBL_UK_VAT_PAYER_NOT_CONFIRM": "Firma o tym numerze nie jest płatnikiem VAT w Wielkiej Brytanii",
+    "LBL_USA_EDGAR": "Rejestr Komisji Papierów Wartościowych i Giełd EDGAR [USA]",
+    "LBL_USA_EDGAR_DESC": "Sprawdź firmę w Komisji ds. Gromadzenia, Analizy i Odzyskiwania Papierów Wartościowych i Giełd w Stanach Zjednoczonych",
+    "LBL_POLAND_CEIDG": "Wczytaj dane podmiotu gospodarczego z CEIDG [PL]",
+    "LBL_POLAND_CEIDG_DESC": "Uzyskaj dane firmy z polskiej Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+    "LBL_ORB": "Orb Intelligence API stworzone przez The Dun and Bradstreet [GLOBALNY]",
+    "LBL_ORB_DESC": "Pobieranie danych firm z całego świata",
+    "LBL_ORB_VAT": "EIN/VAT (tylko w USA)"
   }
 }

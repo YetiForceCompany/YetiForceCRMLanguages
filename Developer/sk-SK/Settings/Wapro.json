@@ -11,12 +11,14 @@
     "FL_DATABASE": "Názov databázy",
     "FL_USERNAME": "Užívateľské meno",
     "FL_PASSWORD": "Heslo",
+    "LBL_NUMBER_OF_ENTRIES": "Number of entries",
     "LBL_MULTI_COMPANY": "Departments/Company (read only)",
     "LBL_COMPANY_BANK_ACCOUNTS": "Company bank accounts (read only)",
     "LBL_ACCOUNTS": "Accounts (read only)",
     "LBL_CONTACTS": "Contacts (read only)",
     "LBL_PRODUCTS": "Products (read only)",
     "LBL_INVOICE": "Invoices (read only)",
+    "LBL_CORRECTING_INVOICE": "Correction invoices (read only)",
     "LBL_LOGS_VIEWER": "Logs viewer",
     "LBL_SAVE_AND_VERIFY": "Uložiť a overiť"
   }

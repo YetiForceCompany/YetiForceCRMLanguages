@@ -2,7 +2,7 @@
   "php": {
     "LBL_POLAND_VAT_PAYER": "Overenie štatútu platiteľa DPH [PL]",
     "LBL_POLAND_VAT_PAYER_DESC": "Služba umožňuje overiť, či je subjekt aktívnym, oslobodeným alebo neregistrovaným platiteľom DPH v Poľsku.",
-    "LBL_POLAND_GUS": "Načítať údaje obchodného subjektu [PL]",
+    "LBL_POLAND_GUS": "Load business entity data from REGON [PL]",
     "LBL_POLAND_GUS_DESC": "Stiahnite si informácie o subjektoch národného hospodárstva Poľska z registra REGON.",
     "LBL_VIES": "Potvrďte IČ DPH-EU číslo",
     "LBL_VIES_DESC": "Kontroluje, či má podnikateľský subjekt platné IČ DPH-EÚ pre intrakomunitárne transakcie v rámci Európskej únie.",
@@ -16,6 +16,13 @@
     "LBL_UK_VAT_PAYER": "Confirm the VAT number [GB]",
     "LBL_UK_VAT_PAYER_DESC": "Check if british company is VAT Payer",
     "LBL_UK_VAT_PAYER_CONFIRM": "The entity with the given number is an UK VAT payer",
-    "LBL_UK_VAT_PAYER_NOT_CONFIRM": "The entity with the given number is not an UK VAT payer"
+    "LBL_UK_VAT_PAYER_NOT_CONFIRM": "The entity with the given number is not an UK VAT payer",
+    "LBL_USA_EDGAR": "EDGAR Registry of Securities and Exchange Commission [USA]",
+    "LBL_USA_EDGAR_DESC": "Check company in US Electronic Data Gathering, Analysis, and Retrieval of Securities and Exchange Commission",
+    "LBL_POLAND_CEIDG": "Load business entity data from CEIDG [PL]",
+    "LBL_POLAND_CEIDG_DESC": "Get company data from the Polish Central Registration And Information On Business",
+    "LBL_ORB": "Orb Intelligence API by The Dun and Bradstreet [GLOBAL]",
+    "LBL_ORB_DESC": "Fetching companies data from around the world",
+    "LBL_ORB_VAT": "EIN/VAT (Only in USA)"
   }
 }
