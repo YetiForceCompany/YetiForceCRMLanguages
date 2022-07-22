@@ -51,8 +51,6 @@
     "LBL_UPDATES": "História aktualizácií systému",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
     "LBL_MODULES": "Moduly",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
-    "LBL_RECORD_DOES_NOT_EXIST": "Záznam neexistuje",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "Záznam bol zmzaný a názov nemôže byť zobrazený."
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
   }
 }

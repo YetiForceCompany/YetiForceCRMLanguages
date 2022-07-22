@@ -7,9 +7,13 @@
     "LBL_SUCCESSFULLY_UPDATED": "The status change was successful",
     "LBL_DOC_URL": "URL da Documentação",
     "LBL_API_KEY": "API Key",
+    "LBL_API_KEY_OPTIONAL": "Chave da API (opcional)",
     "LBL_SAVE_NOTIFY_OK": "Saved changes.",
     "LBL_PROVIDER_INVALID": "Configuration is incorrect",
-    "LBL_CONFIG": "Setup data for record collector"
+    "LBL_CONFIG": "Setup data for record collector",
+    "LBL_ACCESS_KEY": "Access Key",
+    "LBL_CLIENT_ID": "Client ID",
+    "LBL_VATIFY_EU_NO_AUTH": "Bearer token not fetch."
   },
   "js": {}
 }

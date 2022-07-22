@@ -1506,7 +1506,9 @@
     "LBL_MEDIA": "Media",
     "LBL_IMAGES": "Obrazy",
     "FL_WAPRO_ID": "WAPRO ERP ID",
-    "LBL_IMAGE_PREVIEW": "Podgląd obrazu"
+    "LBL_IMAGE_PREVIEW": "Podgląd obrazu",
+    "LBL_RECORD_DOES_NOT_EXIST": "Rekord nie istnieje",
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "Rekord został usunięty, nie można wyświetlić nazwy."
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

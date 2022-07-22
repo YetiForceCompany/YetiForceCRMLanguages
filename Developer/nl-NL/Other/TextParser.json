@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Voorraad tabel met aangepaste vooraf gedefinieerde kolommen",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Inventaristabel met dynamische kolommen",
     "LBL_INVENTORY_VARIABLES": "Extra inventaris variabelen",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Lijst van records",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Gebruikersvariabelen",
     "LBL_REPORT_NEW_RECORDS": "Nieuwe records in de gegeven module",
     "LBL_REPORT_SSALESPROCESSES": "Verkoopkans records",

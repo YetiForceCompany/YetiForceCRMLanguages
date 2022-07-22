@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "字段类型",
     "Editor": "所见即所得编辑器",
     "Related1M": "相关字段",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "字段在任何地方可见",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

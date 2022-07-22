@@ -1,10 +1,10 @@
 {
   "php": {
-    "Dependencies": "Schwachstellenerkennung",
-    "LBL_VULNERABILITIES": "Schwachstellenerkennung",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Ein Werkzeug um Schwachstellen im System zu erkennen",
+    "Dependencies": "Vulnerability scanner",
+    "LBL_VULNERABILITIES": "Vulnerability scanner",
+    "LBL_VULNERABILITIES_DESCRIPTION": "A tool for detecting vulnerabilities in CRM and the server",
     "LBL_VULNERABILITIES_OK": "Keine Sicherheitslücken gefunden",
-    "LBL_VULNERABILITIES_OK_DESC": "Vergessen Sie nicht, auf Sicherheitslücken in Ihren Bibliotheken regelmäßig zu überprüfen.",
+    "LBL_VULNERABILITIES_OK_DESC": "Do not forget to periodically check for vulnerabilities in your libraries and applications installed on the server.",
     "LBL_VULNERABILITIES_WARNING": "Erkannte Schwachstellen in Bibliotheken/Anwendungen",
     "LBL_VULNERABILITIES_WARNING_DESC": "Schwachstellen in Bibliotheken oder Anwendungen wurden entdeckt, es wird empfohlen, sie schnell zu aktualisieren.",
     "LBL_SECURITY_DEPENDENCIES": "Sicherheitslücken in verwendeten Bibliotheken",

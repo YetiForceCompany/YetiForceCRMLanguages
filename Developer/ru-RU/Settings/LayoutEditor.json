@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Тип поля",
     "Editor": "Визуальный редактор",
     "Related1M": "Связь - один ко многим",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Поле будет видно везде",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

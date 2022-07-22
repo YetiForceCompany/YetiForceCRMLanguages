@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Type de champ",
     "Editor": " Editeur WYSIWYG",
     "Related1M": "Champ lié 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Champ visible partout",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Πίνακας προϊοντων/υπηρεσιών με προσαρμοσμένες προκαθορισμένες στήλες",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Πίνακας προϊόντων/υπηρεσιών με δυναμικές στήλες",
     "LBL_INVENTORY_VARIABLES": "Πρόσθετες μεταβλητές προϊόντων/υπηρεσιών",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Λίστα εγγραφών",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Μεταβλητές χρήστη",
     "LBL_REPORT_NEW_RECORDS": "Νέες εγγραφές σε αυτό το module",
     "LBL_REPORT_SSALESPROCESSES": "Εγγραφές ευκαιριών",

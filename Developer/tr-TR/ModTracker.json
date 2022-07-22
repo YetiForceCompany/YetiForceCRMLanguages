@@ -51,8 +51,6 @@
     "LBL_UPDATES": "System update history",
     "LBL_PERSON_MAKING_CHANGES": "Kişilik değişiklikleri",
     "LBL_MODULES": "Modüller",
-    "LBL_SHOW_HIDDEN_DATA": "Gizli veriler görünür",
-    "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
+    "LBL_SHOW_HIDDEN_DATA": "Gizli veriler görünür"
   }
 }

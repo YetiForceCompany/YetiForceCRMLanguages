@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Τύπος πεδίου",
     "Editor": "WYSIWYG Editor",
     "Related1M": "Related field 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Πεδίο ορατό παντού",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

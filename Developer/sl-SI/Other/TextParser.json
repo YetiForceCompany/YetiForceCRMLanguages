@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Preglednica z vnaprej določenimi stolpci po meri",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Preglednica z dinamičnimi stolpci",
     "LBL_INVENTORY_VARIABLES": "Dodatne spremenljivke zalog",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Seznam zapisov",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Uporabniška spremenljivka",
     "LBL_REPORT_NEW_RECORDS": "Novi zapisi v danem modulu",
     "LBL_REPORT_SSALESPROCESSES": "Evidence priložnosti",

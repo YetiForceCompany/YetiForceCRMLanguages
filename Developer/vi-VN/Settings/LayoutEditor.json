@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Kiểu trường",
     "Editor": "Trình chỉnh sửa WYSIWYG",
     "Related1M": "Trường liên quan 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Trường có thể nhìn thấy mọi nơi",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

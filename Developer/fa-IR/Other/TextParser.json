@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "جدول موجودی با ستون های از پیش تعریف شده سفارشی",
     "LBL_DYNAMIC_INVENTORY_TABLE": "جدول موجودی با ستون های پویا",
     "LBL_INVENTORY_VARIABLES": "متغییرهای اضافی موجودی انبار",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "فهرست رکوردها",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "متغییر‌های کاربر",
     "LBL_REPORT_NEW_RECORDS": "رکورد جدید در ماژول",
     "LBL_REPORT_SSALESPROCESSES": "رکورد فرصت",

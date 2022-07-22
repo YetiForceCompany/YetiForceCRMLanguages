@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Tipo de campo",
     "Editor": "Editor WYSIWYG",
     "Related1M": "Campo relacionado 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Campo visível em todos os lugares",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

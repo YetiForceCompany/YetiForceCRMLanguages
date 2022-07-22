@@ -51,8 +51,6 @@
     "LBL_UPDATES": "System update history",
     "LBL_PERSON_MAKING_CHANGES": "Persona che apporta modifiche",
     "LBL_MODULES": "Moduli",
-    "LBL_SHOW_HIDDEN_DATA": "Dati nascosti mostrati",
-    "LBL_RECORD_DOES_NOT_EXIST": "Il registro non esiste",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "Il registro è stato eliminato ed è impossibile visualizzarne il nome."
+    "LBL_SHOW_HIDDEN_DATA": "Dati nascosti mostrati"
   }
 }

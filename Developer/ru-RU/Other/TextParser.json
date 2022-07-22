@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Таблица инвентаря с пользовательскими предопределенными столбцами",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Таблица инвентаря с динамическими столбцами",
     "LBL_INVENTORY_VARIABLES": "Дополнительные переменные инвентаря",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Список записей",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Переменная пользователя",
     "LBL_REPORT_NEW_RECORDS": "Новые записи в данном модуле",
     "LBL_REPORT_SSALESPROCESSES": "Записи сделок",

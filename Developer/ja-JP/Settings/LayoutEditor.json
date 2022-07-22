@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "フィールドタイプ",
     "Editor": "WYSIWYGエディタ",
     "Related1M": "関連フィールド 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "すべての場所に表示されるフィールド",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

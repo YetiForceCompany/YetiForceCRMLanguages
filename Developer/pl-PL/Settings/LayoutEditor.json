@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Typ pola",
     "Editor": "Edytor WYSIWYG",
     "Related1M": "Pole powiązane 1:M",
+    "MultiReference": "Pole powiązane M:M",
     "LBL_DISPLAY_TYPE": "Widoczność",
     "LBL_DISPLAY_TYPE_1": "Pole widoczne wszędzie",
     "LBL_DISPLAY_TYPE_2": "Pole widoczne tylko w podglądzie",

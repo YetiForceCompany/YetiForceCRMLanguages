@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Leltár tábla, egyedi, előre meghatározott oszlopokkal",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Leltár táblázat dinamikus oszlopokkal",
     "LBL_INVENTORY_VARIABLES": "Kiegészítő leltár változók",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "Lista",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Felhasználói változók",
     "LBL_REPORT_NEW_RECORDS": "Új bejegyzések az adott modul",
     "LBL_REPORT_SSALESPROCESSES": "Lehetőség bejegyzések",

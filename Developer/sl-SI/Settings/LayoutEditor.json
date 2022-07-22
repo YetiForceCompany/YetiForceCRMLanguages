@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Vrsta polja",
     "Editor": "Urejevalnik WYSIWYG",
     "Related1M": "Povezana polja 1:M",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibility",
     "LBL_DISPLAY_TYPE_1": "Polje vidno povsod",
     "LBL_DISPLAY_TYPE_2": "Field visible only in preview",

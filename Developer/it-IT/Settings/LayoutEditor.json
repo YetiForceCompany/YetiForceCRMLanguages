@@ -73,6 +73,7 @@
     "LBL_FIELD_TYPE": "Visibilità",
     "Editor": "Area di testo formattato",
     "Related1M": "Relazione (1:M)",
+    "MultiReference": "Related field M:M",
     "LBL_DISPLAY_TYPE": "Visibilità",
     "LBL_DISPLAY_TYPE_1": "Campo visibile ovunque",
     "LBL_DISPLAY_TYPE_2": "Campo visibile solo nell'anteprima",

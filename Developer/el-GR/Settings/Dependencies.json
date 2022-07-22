@@ -1,10 +1,10 @@
 {
   "php": {
-    "Dependencies": "Αδυναμία ανιχνεύτηκε",
-    "LBL_VULNERABILITIES": "Ανίχνευση ευπάθειας",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Ένα εργαλείο για την ανίχνευση τρωτών σημείων στο σύστημα",
+    "Dependencies": "Vulnerability scanner",
+    "LBL_VULNERABILITIES": "Vulnerability scanner",
+    "LBL_VULNERABILITIES_DESCRIPTION": "A tool for detecting vulnerabilities in CRM and the server",
     "LBL_VULNERABILITIES_OK": "Δεν βρέθηκαν τρωτά σημεία",
-    "LBL_VULNERABILITIES_OK_DESC": "Μην ξεχνάτε να ελέγχετε ανά τακτά χρονικά διαστήματα για θέματα ευπάθειας στις βιβλιοθήκες σας.",
+    "LBL_VULNERABILITIES_OK_DESC": "Do not forget to periodically check for vulnerabilities in your libraries and applications installed on the server.",
     "LBL_VULNERABILITIES_WARNING": "Εντοπίστηκε αδυναμία στις βιβλιοθήκες/εφαρμογές",
     "LBL_VULNERABILITIES_WARNING_DESC": "Εντοπίστηκε αδυναμία στις βιβλιοθήκες η εφαρμογές, προτείνεται να τις ενημερώσετε το συντομότερο.",
     "LBL_SECURITY_DEPENDENCIES": "Αδυναμίες ασφαλείας στις χρησιμοποιούμενες βιβλιοθήκες",
