@@ -890,6 +890,7 @@
     "currently logged in user": "Trenutno prijavljeni uporabnik",
     "user currently not logged": "User currently not logged",
     "Users": "Uporabniki",
+    "Username": "Username",
     "Service Requests": "Zahtevek za storitve",
     "LBL_NULL_VALUE": "(Ni vrednosti)",
     "LBL_QUICK_CREATE_EDITOR": "Urejevalnik za hiter vnos",
@@ -1508,7 +1509,8 @@
     "FL_WAPRO_ID": "WAPRO ERP ID",
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
+    "LBL_CONDITION_WIZARD": "Condition wizard"
   },
   "js": {
     "JS_APPROVE": "Odobri",

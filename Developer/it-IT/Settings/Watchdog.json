@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Verifica prestazioni",
     "LBL_PUBLICDIRECTORYACCESS": "Cartella pubblica",
     "LBL_ENVIRONMENT": "Informazioni sull'ambiente",
-    "LBL_WRITABLEFILESANDFOLDERS": "File e cartelle scrivibili"
+    "LBL_WRITABLEFILESANDFOLDERS": "File e cartelle scrivibili",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

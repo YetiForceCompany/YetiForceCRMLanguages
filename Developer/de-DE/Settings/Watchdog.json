@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Performance Überprüfung",
     "LBL_PUBLICDIRECTORYACCESS": "Öffentliches Verzeichnis",
     "LBL_ENVIRONMENT": "Umgebungsinformationen",
-    "LBL_WRITABLEFILESANDFOLDERS": "Beschreibbare Dateien und Ordner"
+    "LBL_WRITABLEFILESANDFOLDERS": "Beschreibbare Dateien und Ordner",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

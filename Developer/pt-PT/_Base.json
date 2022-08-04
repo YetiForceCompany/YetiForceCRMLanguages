@@ -890,6 +890,7 @@
     "currently logged in user": "Utilizadores com sessão iniciada",
     "user currently not logged": "Utilizador actual não está autenticado",
     "Users": "Utilizadores",
+    "Username": "Username",
     "Service Requests": "Pedidos de Serviço",
     "LBL_NULL_VALUE": "(Sem valor)",
     "LBL_QUICK_CREATE_EDITOR": "Editor de Criação Rápida",
@@ -1508,7 +1509,8 @@
     "FL_WAPRO_ID": "WAPRO ERP ID",
     "LBL_IMAGE_PREVIEW": "Pré-visualização da imagem",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
+    "LBL_CONDITION_WIZARD": "Assistente de condições"
   },
   "js": {
     "JS_APPROVE": "Aprovar",

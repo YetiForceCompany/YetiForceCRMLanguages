@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Provjera performansi",
     "LBL_PUBLICDIRECTORYACCESS": "Javni direktorij",
     "LBL_ENVIRONMENT": "Informacije o okruženju",
-    "LBL_WRITABLEFILESANDFOLDERS": "Datoteke i mape koje se mogu pisati"
+    "LBL_WRITABLEFILESANDFOLDERS": "Datoteke i mape koje se mogu pisati",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

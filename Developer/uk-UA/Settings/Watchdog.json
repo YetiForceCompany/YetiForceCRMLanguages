@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Перевірка продуктивності",
     "LBL_PUBLICDIRECTORYACCESS": "Публічний каталог",
     "LBL_ENVIRONMENT": "Інформація про середовище",
-    "LBL_WRITABLEFILESANDFOLDERS": "Доступні для запису файли і теки"
+    "LBL_WRITABLEFILESANDFOLDERS": "Доступні для запису файли і теки",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Vérification des performances",
     "LBL_PUBLICDIRECTORYACCESS": "Répertoire public",
     "LBL_ENVIRONMENT": "Informations sur l'environnement",
-    "LBL_WRITABLEFILESANDFOLDERS": "Fichiers et dossiers accessibles en écriture"
+    "LBL_WRITABLEFILESANDFOLDERS": "Fichiers et dossiers accessibles en écriture",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

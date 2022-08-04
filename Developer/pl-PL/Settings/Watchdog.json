@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "Weryfikacja wydajności",
     "LBL_PUBLICDIRECTORYACCESS": "Katalog publiczny",
     "LBL_ENVIRONMENT": "Informacje o środowisku",
-    "LBL_WRITABLEFILESANDFOLDERS": "Uprawnienia zapisu do plików i folderów"
+    "LBL_WRITABLEFILESANDFOLDERS": "Uprawnienia zapisu do plików i folderów",
+    "LBL_PATHVERIFICATION": "Weryfikacja ścieżki"
   }
 }

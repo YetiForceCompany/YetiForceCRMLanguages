@@ -890,6 +890,7 @@
     "currently logged in user": "目前已登录用户",
     "user currently not logged": "User currently not logged",
     "Users": "用户",
+    "Username": "Username",
     "Service Requests": "服务请求",
     "LBL_NULL_VALUE": "（没有值）",
     "LBL_QUICK_CREATE_EDITOR": "快速创建编辑器",
@@ -1508,7 +1509,8 @@
     "FL_WAPRO_ID": "WAPRO ERP ID",
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
-    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed."
+    "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
+    "LBL_CONDITION_WIZARD": "Condition wizard"
   },
   "js": {
     "JS_APPROVE": "同意",

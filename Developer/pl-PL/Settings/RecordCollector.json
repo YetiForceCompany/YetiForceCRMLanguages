@@ -6,7 +6,11 @@
     "LBL_NAME": "Nazwa",
     "LBL_SUCCESSFULLY_UPDATED": "Zmiana statusu powiodła się",
     "LBL_DOC_URL": "Adres URL dokumentacji",
+    "LBL_MODULES": "Moduły",
     "LBL_API_KEY": "Klucz API",
+    "LBL_TYPE": "Typ",
+    "LBL_TYPE_FillFields": "Pokaż i wypełnij",
+    "LBL_TYPE_Summary": "Wyświetl",
     "LBL_API_KEY_OPTIONAL": "Klucz API (opcjonalnie)",
     "LBL_SAVE_NOTIFY_OK": "Zapisane zmiany.",
     "LBL_PROVIDER_INVALID": "Nieprawidłowa konfiguracja",
@@ -14,6 +18,5 @@
     "LBL_ACCESS_KEY": "Klucz dostępu (Access Key)",
     "LBL_CLIENT_ID": "ID klienta",
     "LBL_VATIFY_EU_NO_AUTH": "Nie pobrano Token Bearer "
-  },
-  "js": {}
+  }
 }

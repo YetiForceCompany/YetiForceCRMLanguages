@@ -4,265 +4,265 @@
         "crowdinCode": "ar",
         "name": "Arabic",
         "progress": 47,
-        "time": "2022-07-22 13:27:50"
+        "time": "2022-08-04 13:41:38"
     },
     "bg-BG": {
         "prefix": "bg-BG",
         "crowdinCode": "bg",
         "name": "Bulgarian",
         "progress": 42,
-        "time": "2022-07-22 13:27:52"
+        "time": "2022-08-04 13:41:38"
     },
     "bs-BA": {
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
         "progress": 97,
-        "time": "2022-07-22 13:29:24"
+        "time": "2022-08-04 13:41:45"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
         "crowdinCode": "cs",
         "name": "Czech",
         "progress": 14,
-        "time": "2022-07-22 13:27:54"
+        "time": "2022-08-04 13:41:39"
     },
     "da-DK": {
         "prefix": "da-DK",
         "crowdinCode": "da",
         "name": "Danish",
         "progress": 11,
-        "time": "2022-07-22 13:27:56"
+        "time": "2022-08-04 13:41:39"
     },
     "de-DE": {
         "prefix": "de-DE",
         "crowdinCode": "de",
         "name": "German",
-        "progress": 94,
-        "time": "2022-07-22 13:27:58"
+        "progress": 93,
+        "time": "2022-08-04 13:41:39"
     },
     "el-GR": {
         "prefix": "el-GR",
         "crowdinCode": "el",
         "name": "Greek",
         "progress": 90,
-        "time": "2022-07-22 13:28:02"
+        "time": "2022-08-04 13:41:39"
     },
     "es-ES": {
         "prefix": "es-ES",
         "crowdinCode": "es-ES",
         "name": "Spanish",
         "progress": 85,
-        "time": "2022-07-22 13:27:48"
+        "time": "2022-08-04 13:41:38"
     },
     "fa-IR": {
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
-        "progress": 89,
-        "time": "2022-07-22 13:29:12"
+        "progress": 88,
+        "time": "2022-08-04 13:41:44"
     },
     "fi-FI": {
         "prefix": "fi-FI",
         "crowdinCode": "fi",
         "name": "Finnish",
         "progress": 5,
-        "time": "2022-07-22 13:28:04"
+        "time": "2022-08-04 13:41:40"
     },
     "fr-FR": {
         "prefix": "fr-FR",
         "crowdinCode": "fr",
         "name": "French",
         "progress": 93,
-        "time": "2022-07-22 13:27:46"
+        "time": "2022-08-04 13:41:38"
     },
     "he-IL": {
         "prefix": "he-IL",
         "crowdinCode": "he",
         "name": "Hebrew",
         "progress": 4,
-        "time": "2022-07-22 13:28:06"
+        "time": "2022-08-04 13:41:40"
     },
     "hr-HR": {
         "prefix": "hr-HR",
         "crowdinCode": "hr",
         "name": "Croatian",
         "progress": 88,
-        "time": "2022-07-22 13:29:16"
+        "time": "2022-08-04 13:41:44"
     },
     "hu-HU": {
         "prefix": "hu-HU",
         "crowdinCode": "hu",
         "name": "Hungarian",
         "progress": 57,
-        "time": "2022-07-22 13:28:08"
+        "time": "2022-08-04 13:41:40"
     },
     "id-ID": {
         "prefix": "id-ID",
         "crowdinCode": "id",
         "name": "Indonesian",
         "progress": 11,
-        "time": "2022-07-22 13:29:10"
+        "time": "2022-08-04 13:41:43"
     },
     "it-IT": {
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
         "progress": 97,
-        "time": "2022-07-22 13:28:12"
+        "time": "2022-08-04 13:41:40"
     },
     "ja-JP": {
         "prefix": "ja-JP",
         "crowdinCode": "ja",
         "name": "Japanese",
-        "progress": 86,
-        "time": "2022-07-22 13:28:14"
+        "progress": 85,
+        "time": "2022-08-04 13:41:40"
     },
     "ko-KR": {
         "prefix": "ko-KR",
         "crowdinCode": "ko",
         "name": "Korean",
         "progress": 24,
-        "time": "2022-07-22 13:28:16"
+        "time": "2022-08-04 13:41:41"
     },
     "my-MM": {
         "prefix": "my-MM",
         "crowdinCode": "my",
         "name": "Burmese",
         "progress": 5,
-        "time": "2022-07-22 13:29:22"
+        "time": "2022-08-04 13:41:44"
     },
     "nl-BE": {
         "prefix": "nl-BE",
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
-        "progress": 21,
-        "time": "2022-07-22 13:29:32"
+        "progress": 20,
+        "time": "2022-08-04 13:41:45"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 51,
-        "time": "2022-07-22 13:28:18"
+        "time": "2022-08-04 13:41:41"
     },
     "no-NO": {
         "prefix": "no-NO",
         "crowdinCode": "no",
         "name": "Norwegian",
         "progress": 15,
-        "time": "2022-07-22 13:28:20"
+        "time": "2022-08-04 13:41:41"
     },
     "pl-PL": {
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2022-07-22 13:28:56"
+        "time": "2022-08-04 13:41:41"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 74,
-        "time": "2022-07-22 13:29:08"
+        "time": "2022-08-04 13:41:43"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 29,
-        "time": "2022-07-22 13:28:56"
+        "time": "2022-08-04 13:41:41"
     },
     "ro-RO": {
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 69,
-        "time": "2022-07-22 13:27:42"
+        "time": "2022-08-04 13:41:38"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 80,
-        "time": "2022-07-22 13:28:56"
+        "time": "2022-08-04 13:41:42"
     },
     "sh-HR": {
         "prefix": "sh-HR",
         "crowdinCode": "sh",
         "name": "Serbo-Croatian",
         "progress": 86,
-        "time": "2022-07-22 13:29:34"
+        "time": "2022-08-04 13:41:45"
     },
     "sk-SK": {
         "prefix": "sk-SK",
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 50,
-        "time": "2022-07-22 13:28:56"
+        "time": "2022-08-04 13:41:42"
     },
     "sl-SI": {
         "prefix": "sl-SI",
         "crowdinCode": "sl",
         "name": "Slovenian",
         "progress": 77,
-        "time": "2022-07-22 13:28:56"
+        "time": "2022-08-04 13:41:42"
     },
     "sr-CS": {
         "prefix": "sr-CS",
         "crowdinCode": "sr-CS",
         "name": "Serbian (Latin)",
         "progress": 82,
-        "time": "2022-07-22 13:29:28"
+        "time": "2022-08-04 13:41:45"
     },
     "sv-SE": {
         "prefix": "sv-SE",
         "crowdinCode": "sv-SE",
         "name": "Swedish",
         "progress": 5,
-        "time": "2022-07-22 13:28:58"
+        "time": "2022-08-04 13:41:42"
     },
     "th-TH": {
         "prefix": "th-TH",
         "crowdinCode": "th",
         "name": "Thai",
         "progress": 5,
-        "time": "2022-07-22 13:29:14"
+        "time": "2022-08-04 13:41:44"
     },
     "tr-TR": {
         "prefix": "tr-TR",
         "crowdinCode": "tr",
         "name": "Turkish",
         "progress": 53,
-        "time": "2022-07-22 13:28:58"
+        "time": "2022-08-04 13:41:42"
     },
     "uk-UA": {
         "prefix": "uk-UA",
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 85,
-        "time": "2022-07-22 13:28:58"
+        "time": "2022-08-04 13:41:43"
     },
     "vi-VN": {
         "prefix": "vi-VN",
         "crowdinCode": "vi",
         "name": "Vietnamese",
         "progress": 86,
-        "time": "2022-07-22 13:29:06"
+        "time": "2022-08-04 13:41:43"
     },
     "zh-CN": {
         "prefix": "zh-CN",
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 83,
-        "time": "2022-07-22 13:29:00"
+        "time": "2022-08-04 13:41:43"
     },
     "zh-TW": {
         "prefix": "zh-TW",
         "crowdinCode": "zh-TW",
         "name": "Chinese Traditional",
         "progress": 4,
-        "time": "2022-07-22 13:29:02"
+        "time": "2022-08-04 13:41:43"
     }
 }

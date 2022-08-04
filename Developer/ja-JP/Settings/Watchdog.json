@@ -27,6 +27,7 @@
     "LBL_PERFORMANCE": "パフォーマンス検証",
     "LBL_PUBLICDIRECTORYACCESS": "公開ディレクトリ",
     "LBL_ENVIRONMENT": "環境情報",
-    "LBL_WRITABLEFILESANDFOLDERS": "ファイルとフォルダへの書き込み"
+    "LBL_WRITABLEFILESANDFOLDERS": "ファイルとフォルダへの書き込み",
+    "LBL_PATHVERIFICATION": "Path verification"
   }
 }

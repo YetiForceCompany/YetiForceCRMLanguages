@@ -33,7 +33,7 @@
     "LBL_UPDATED": "posodobljen",
     "LBL_DISPLAYED": "Prikazano",
     "LBL_ADDED": "dodano",
-    "LBL_UNLINK": "removed relation",
+    "LBL_UNLINK": "odstrani povezavo",
     "LBL_REMOVED": "odstranjeno",
     "LBL_CONVERTED_FROM_LEAD": "Pretvorjen iz interesenta",
     "LBL_DELETED": "Izbrisani zapis",
@@ -48,7 +48,7 @@
     "LBL_INV_UPDATED": "Posodobljen",
     "LBL_INV_DELETED": "Izbrisano",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Posodobitev konfiguracije pripomočka (widget )",
-    "LBL_UPDATES": "System update history",
+    "LBL_UPDATES": "Zgodovina posodobitev sistema",
     "LBL_PERSON_MAKING_CHANGES": "Osebne spremembe izvedi",
     "LBL_MODULES": "Moduli",
     "LBL_SHOW_HIDDEN_DATA": "Prikaži skrite podatke"
