@@ -48,8 +48,8 @@
     "Users|FL_AVAILABLE": "Καθορίζει εάν ο χρήστης είναι διαθέσιμος (στο μέλλον αυτό το πεδίο θα εξαρτάται από άλλους έμμεσους μηχανισμούς, όπως διακοπές, χρόνο εργασίας κλπ).",
     "Users|FL_AUTO_ASSIGN_RECORDS": "Εάν η επιλογή είναι ενεργοποιημένη και ο μηχανισμός αυτόματης εκχώρησης εγγραφών είναι ενεργός, ο χρήστης θα χρησιμοποιηθεί για την εκχώρηση εγγραφών σύμφωνα με τους κανόνες και τους αλγόριθμους του συστήματος.",
     "Users|FL_RECORD_LIMIT_IN_MODULE": "Καθορίζει το ποσό των εγγραφών (ανοιχτές) που μπορούν να αντιστοιχιστούν σε έναν χρήστη σε μία ενότητα.",
-    "FL_RESPONSE_RANGE_TIME": "Amount of time (minutes and hours) that elapsed from the time the report was received until the response was initiated.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Response time\" to another category.",
-    "FL_SOLUTION_RANGE_TIME": "Amount of time (minutes and hours) used to resolve a given ticket.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Resolution time\" to another category.",
+    "FL_RESPONSE_RANGE_TIME": "Ύψος χρόνου (λεπτά και ώρες) που παρήλθε από τη στιγμή που ελήφθη η αναφορά μέχρι την έναρξη της απάντησης.\n\nΗ ώρα υπολογίζεται με βάση την ημερομηνία κατά την οποία η κατηγορία τιμής της λίστας επιλογής (π.χ. κατάσταση) άλλαξε από \"Ώρα απόκρισης\" σε άλλη κατηγορία.",
+    "FL_SOLUTION_RANGE_TIME": "Χρόνος (λεπτά και ώρες) που χρησιμοποιείται για την επίλυση ενός δοσμένου αιτήματος.\n\nΗ ώρα υπολογίζεται με βάση την ημερομηνία κατά την οποία η κατηγορία τιμής της λίστας επιλογής (π. χ.. κατάσταση) άλλαξε από \"Ώρα επίλυσης\" σε άλλη κατηγορία.",
     "FL_IDLE_RANGE_TIME": "The amount of time (minutes and hours) the record is idle, for example, waiting for additional information.\n\nThe time is calculated based on the date when the picklist value category (e.g. status) was changed from \"Waiting time\" to another category.",
     "FL_CLOSING_RANGE_TIME": "The amount of time (minutes and hours) calculated from the time the record was created until the last time it was closed.",
     "FL_RESPONSE_DATE_TIME": "Date and time of the response, that is, the change of dictionary value categories (e.g. status) from \"Response time\" to another category.",
@@ -58,6 +58,6 @@
     "FL_CLOSING_DATE_TIME": "Date and time of closing the entire time calculation process from the time the record was created until the last time it was closed.",
     "FL_RESPONSE_EXPECTED": "Planned/expected response deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
     "FL_SOLUTION_EXPECTED": "Planned/expected resolution deadline, calculated on the basis of the SLA agreement and working or calendar days/hours.",
-    "FL_IDLE_DATE_EXPECTED": "Planned/expected maximum allowed idle time, calculated on the basis of the SLA agreement and working or calendar days/hours."
+    "FL_IDLE_DATE_EXPECTED": "Προγραμματισμένος/αναμενόμενος μέγιστος επιτρεπτός χρόνος αδράνειας, υπολογισμένος βάσει της συμφωνίας SLA και των εργάσιμων ή ημερολογιακών ημερών/ωρών."
   }
 }

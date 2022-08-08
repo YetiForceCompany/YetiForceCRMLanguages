@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Elimina il record dal sistema",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "L'eliminazione è permanente e irreversibile per tutte le informazioni dei record. Sei sicuro di volere eliminare i record?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Il record è stato eliminato",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Mostra dettagli dell'inventario",
     "LBL_SHOW_WIDGETS_ROW": "Mostra widget",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Calcola la somma per questo campo",

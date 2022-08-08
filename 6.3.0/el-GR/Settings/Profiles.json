@@ -52,7 +52,7 @@
     "MassMoveDocuments": "Μαζική μετακίνηση εγγράφων",
     "ReadRecord": "Διαβάστε όλες τις αλλαγές που πραγματοποιήθηκαν σε εγγραφές",
     "WorkflowTrigger": "Έναυσμα(trigger) ροής εργασίας",
-    "QuickExportToExcel": "Quick export",
+    "QuickExportToExcel": "Γρήγορη εξαγωγή",
     "CreateDashboardFilter": "Δημιουργία widgets φιλτρων",
     "DetailTransferOwnership": "Προεπισκόπηση εγγραφή - αλλαγή του κατόχου",
     "ExportPdf": "Εξαγωγή σε PDF",
@@ -84,17 +84,17 @@
     "Guest Profile": "Επισκέπτης",
     "RemoveRelation": "Αφαίρεση σχέσης",
     "ReceivingMailNotifications": "Λήψη ειδοποιήσεων mail",
-    "ActivityCancel": "Set activity status to canceled",
-    "ActivityComplete": "Set activity status to completed",
-    "ActivityPostponed": "Set activity status to postponed",
+    "ActivityCancel": "Ορισμός κατάστασης δραστηριότητας σε ακυρώθηκε",
+    "ActivityComplete": "Ορίστε την κατάσταση δραστηριότητας σε ολοκληρώθηκε",
+    "ActivityPostponed": "Ορισμός κατάστασης δραστηριότητας για αναβλήθηκε",
     "Emails": "Στείλτε email [SMTP]",
     "ModTracker": "Ιστορικό αλλαγών",
     "AssignToYourself": "Ανάθεση σε μένα",
     "AutoAssignRecord": "Αυτόματη μεταφορά των εγγραφών",
-    "RecordConventer": "Record converter",
-    "RecordCollector": "Record collector",
-    "MeetingUrl": "Meeting URL",
-    "InterestsConflictUsers": "Conflict of interests"
+    "RecordConventer": "Μετατροπέας εγγραφών",
+    "RecordCollector": "Μετατροπέας εγγραφών",
+    "MeetingUrl": "Διεύθυνση URL της σύσκεψης",
+    "InterestsConflictUsers": "Σύγκρουση συμφερόντων"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Εγγραφή διαγράφηκε με επιτυχία"

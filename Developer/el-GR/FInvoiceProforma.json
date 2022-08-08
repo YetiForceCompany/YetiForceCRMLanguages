@@ -14,10 +14,10 @@
     "FL_GROSS": "Μικτό ποσό",
     "PLL_WIRE_TRANSFER": "Ηλεκτρονική μεταφορά",
     "FL_PAYMENT_SUM": "Σύνολο πληρωμών",
-    "FL_PAYMENT_STATUS": "Payment status",
-    "PLL_NOT_PAID": "Not paid",
-    "PLL_PAID": "Paid",
-    "PLL_OVERPAID": "Over paid",
-    "PLL_UNDERPAID": "Underpaid"
+    "FL_PAYMENT_STATUS": "Κατάσταση πληρωμής",
+    "PLL_NOT_PAID": "Δεν πληρώθηκε",
+    "PLL_PAID": "Πληρωμένο",
+    "PLL_OVERPAID": "Πληρώθηκε μεγαλύτερο ποσό",
+    "PLL_UNDERPAID": "Μερικώς εξοφλημένο"
   }
 }

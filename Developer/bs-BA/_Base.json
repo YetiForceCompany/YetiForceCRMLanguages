@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Izbrišite zapis iz sistema",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "Brisanje zapisa je trajno i nepovratno za sve informacije zapisa. Jeste li sigurni da želite izbrisati zapis?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Zapis je obrisan",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Prikaži detalje inventara",
     "LBL_SHOW_WIDGETS_ROW": "Prikaži vidžete",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Izračunajte sumu za ovo polje",

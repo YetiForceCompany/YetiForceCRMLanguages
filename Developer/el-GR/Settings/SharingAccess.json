@@ -30,8 +30,8 @@
     "Public: Read, Create\/Edit, Delete": "Δημόσια: Ανάγνωση, Δημιουργία\/Επεξεργασία, Διαγραφή",
     "Public: Read, Create\/Edit": "Δημόσια: Ανάγνωση, Δημιουργία\/Επεξεργασία",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Προσαρμοσμένοι κανόνες κοινής χρήσης αποθηκεύτηκαν με επιτυχία",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Η αποθήκευση του κανόνα πρόσβασης κοινής χρήσης απέτυχε",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Η διαγραφή κανόνα πρόσβασης κοινής χρήσης απέτυχε"
   },
   "js": {
     "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Ευκαιρίες, Αιτήματα υποστήριξης, Προσφορές & Τιμολόγια πρέπει να οριστούν ως ιδιωτικής πρόσβασης όταν η πρόσβαση στον Πελάτη έχει οριστεί ως ιδιωτική",

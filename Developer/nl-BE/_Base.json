@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Delete record from system",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "Verwijderen is permanent en onomkeerbaar. Weet u zeker dat je deze records wilt verwijderen?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Record has been deleted",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Toon inventaris details",
     "LBL_SHOW_WIDGETS_ROW": "Toon widgetpagina's",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Som",

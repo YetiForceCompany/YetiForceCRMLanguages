@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Datensatz aus System löschen",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "Löschen eines Datensatzes kann nicht wieder rückgängig gemacht werden. Sind Sie sicher?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Datensatz wurde gelöscht",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Inventardetails anzeigen",
     "LBL_SHOW_WIDGETS_ROW": "Widgets anzeigen",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Summe für dieses Feld kalkulieren",

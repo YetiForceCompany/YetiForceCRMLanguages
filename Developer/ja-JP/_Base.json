@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "システムからレコードを削除",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "レコードを削除することは、すべてのレコードの情報に対して永続的かつ不可逆的です。レコードを削除してもよろしいですか？",
     "LBL_RECORD_HAS_BEEN_DELETED": "レコードが削除されました",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "在庫の詳細を表示",
     "LBL_SHOW_WIDGETS_ROW": "ウィジェットを表示",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "このフィールドの合計を計算する",

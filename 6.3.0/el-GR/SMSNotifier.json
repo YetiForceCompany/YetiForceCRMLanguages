@@ -21,6 +21,6 @@
     "LBL_CHECK_STATUS": "Έλεγχος κατάστασης",
     "message": "Μήνυμα",
     "LBL_SMSNOTIFIER_INFORMATION": "Πληροφορίες SMS",
-    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue"
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Προστέθηκαν μηνύματα SMS στην ουρά"
   }
 }

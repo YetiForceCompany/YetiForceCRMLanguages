@@ -20,7 +20,7 @@
     "FL_MESSAGE": "Μήνυμα",
     "LBL_SMSNOTIFIER_INFORMATION": "Πληροφορίες SMS",
     "LBL_ADD_MORE_FIELDS": "Προσθήκη περισσότερων πεδίων",
-    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Προστέθηκαν μηνύματα SMS στην ουρά",
     "LBL_TEMPLATE": "Template",
     "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS max 160 χαρακτήρες επιτρέπονται",
     "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Αποστολή SMS προς τους επιλεγμένους αριθμούς",

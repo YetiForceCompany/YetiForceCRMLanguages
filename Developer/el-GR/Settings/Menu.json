@@ -49,7 +49,7 @@
     "LBL_CANCEL": "Άκυρο",
     "LBL_MORE_INFO": "Κάντε κλικ εδώ για περισσότερες πληροφορίες",
     "LBL_COPY_MENU": "Aντιγραφή Μενού",
-    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Η εφαρμογή περιορισμών καθιστά αδύνατη τη δημιουργία φίλτρων από αυτή την προβολή λίστας."
   },
   "js": {
     "JS_EDIT": "Επεξεργασία",

@@ -157,8 +157,8 @@
     "A": "Α",
     "DEMY": "Demy",
     "ROYAL": "Royal",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_INACTIVE": "Ανενεργό"
   },
   "js": {
     "JS_PDF_SAVED_SUCCESSFULLY": "Πρότυπο PDF αποθηκεύτηκε.",

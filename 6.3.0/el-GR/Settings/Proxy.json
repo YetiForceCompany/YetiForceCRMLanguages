@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_CONFIG_PROXY": "Proxy",
-    "LBL_PROXY_CONFIGRATION": "Proxy configuration",
-    "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy",
-    "LBL_PROXY_CONNECTION": "Connection",
-    "LBL_PROXY_PROTOCOL": "Protocol",
-    "LBL_PROXY_HOST": "Host",
-    "LBL_PROXY_PORT": "Port",
-    "LBL_PROXY_LOGIN": "Login",
-    "LBL_PROXY_PASSWORD": "Password",
-    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Address Finder - Yetiforce server, \n - Integration with Magento - Magento server, \n - Coordinate search engine - Yetiforce server, OpenStreetMap server, \n - Route search - Yetiforce server, servers indicated by the user in the configuration, \n - Communication with the update server - Github server, \n - Communication with the registration server - Yetiforce server, \n - Integration with OpenStreetMap - Yetiforce server, OpenStreetMap server and servers indicated by the user in the configuration, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB, NBR), \n - Installation and update of libraries - Github server"
+    "LBL_CONFIG_PROXY": "Διακομιστής μεσολάβησης",
+    "LBL_PROXY_CONFIGRATION": "Διαμόρφωση διακομιστή μεσολάβησης",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Διακομιστής μεσολάβησης",
+    "LBL_PROXY_CONNECTION": "Σύνδεση",
+    "LBL_PROXY_PROTOCOL": "Πρωτόκολλο",
+    "LBL_PROXY_HOST": "Διακομιστής",
+    "LBL_PROXY_PORT": "Θύρα",
+    "LBL_PROXY_LOGIN": "Είσοδος",
+    "LBL_PROXY_PASSWORD": "Συνθηματικό",
+    "LBL_PROXY_INFORMATION": "Χώροι συστήματος που επικοινωνούν με εξωτερικούς διακομιστές: \n - Ασφαλής μηχανή αναζήτησης κωδικού πρόσβασης - Yetiforce server, \n - Εγκατάσταση γλώσσας - διακομιστή Github, \n - Διεύθυνση Finder - Εξυπηρετητής Yetiforce, \n - Ενσωμάτωση με το Magento - διακομιστή Magento, \n - Μηχανή αναζήτησης Συντεταγμένων - Εξυπηρετητής Yetiforce OpenStreetMap server, \n - Αναζήτηση διαδρομής - Yetiforce server, διακομιστές που υποδεικνύεται από το χρήστη στις ρυθμίσεις, \n - Επικοινωνία με τον διακομιστή ενημέρωσης - διακομιστή Github, \n - Επικοινωνία με τον διακομιστή εγγραφής - Yetiforce server, \n - Ενσωμάτωση με το OpenStreetMap - Yetiforce server, OpenStreetMap server and servers indicated by the user in the configuration, \n - Ενημέρωση των συναλλαγματικών ισοτιμιών - Διακομιστές τράπεζας (NBP, CBR, ECB, NBR), \n - Εγκατάσταση και ενημέρωση βιβλιοθηκών - Github server"
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Οι λεπτομέρειες ρυθμίσεων αποθηκεύτηκαν"
   }
 }

@@ -4,7 +4,7 @@
     "LBL_ADD_DASHBOARD_BLOCK": "Προσθέστε μπλοκ στην προβολή Σύνοψης του module",
     "LBL_WIDTH": "Πλάτος",
     "LBL_HEIGHT": "Ύψος",
-    "LBL_ADD_WIDGET": "Predefined widgets",
+    "LBL_ADD_WIDGET": "Προκαθορισμένα widget",
     "LBL_ADD_NOTEBOOK": "Σημειωματάριο",
     "LBL_ADD_WIDGET_CHARTS": "Διάγραμμα",
     "LBL_REPORT": "Έκθεση",
@@ -14,9 +14,9 @@
     "LBL_CREATE_CUSTOM_FIELD": "Προσθέστε widget",
     "LBL_ADD_CONDITION": "Προσθήκη ρόλου",
     "LBL_INVALID_DATA": "Μη έγκυρα δεδομένα",
-    "WidgetsManagement": "Dashboard - Widgets",
-    "LBL_WIDGETS_MANAGEMENT": "Dashboard - Widgets",
-    "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": "Description",
+    "WidgetsManagement": "Πίνακας Ελέγχου - Widgets",
+    "LBL_WIDGETS_MANAGEMENT": "Πίνακας Ελέγχου - Widgets",
+    "LBL_WIDGETS_MANAGEMENT_DESCRIPTION": "Περιγραφή",
     "LBL_MANDATORY_WIDGET": "Υποχρεωτικό widget",
     "LBL_WIDGET": "Widgets",
     "LBL_NUMBER_OF_RECORDS_DISPLAYED": "Προβάλει αριθμό εγγραφών",
@@ -45,8 +45,8 @@
     "LBL_FIELD_DATE": "Πεδίο ημερομηνίας",
     "LBL_SKIP_YEAR": "Παράλειψη του έτους",
     "LBL_SKIP_YEAR_DESC": "Παράλειψη του έτους του γεγονότος λαμβάνοντας υπόψη μόνο το μήνα και την ημέρα.",
-    "LBL_WIDGET_NAME": "Widget name",
-    "BTN_NEXT": "Next"
+    "LBL_WIDGET_NAME": "Όνομα Widget",
+    "BTN_NEXT": "Επόμενο"
   },
   "js": {
     "JS_BLOCK_ADDED": "Μπλοκ έχει προστεθεί με επιτυχία",

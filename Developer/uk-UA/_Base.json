@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Видалити записи з системи",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "Видалення запису є постійним та незворотним для всієї інформації запису. Ви впевнені, що хочете видалити запис?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Запис видалено",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Показати деталі складу",
     "LBL_SHOW_WIDGETS_ROW": "Показувати віджети",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Підрахувати суму для цього поля",

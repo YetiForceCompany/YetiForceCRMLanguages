@@ -27,7 +27,7 @@
     "LBL_VATID": "纳税人识别号",
     "LBL_SALE_DATE": "销售日期",
     "LBL_PLACE_DATE": "地点、日期",
-    "LBL_REFUND_AMOUNT": "Refund amount",
-    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
+    "LBL_REFUND_AMOUNT": "退款金额",
+    "LBL_SURCHARGE_AMOUNT": "附加费金额"
   }
 }

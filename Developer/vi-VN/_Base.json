@@ -1297,6 +1297,7 @@
     "LBL_DELETE_RECORD_COMPLETELY": "Xoá biểu ghi khỏi hệ thống",
     "LBL_DELETE_RECORD_COMPLETELY_DESC": "Xóa một hồ sơ là vĩnh viễn và không thể khôi phục được cho tất cả các thông tin của hồ sơ. Bạn có chắc chắn muốn loại bỏ hồ sơ?",
     "LBL_RECORD_HAS_BEEN_DELETED": "Biểu ghi đã bị xoá",
+    "LBL_RECORD_COLLECTOR": "Record collectors",
     "LBL_SHOW_INVENTORY_ROW": "Hiển thị chi tiết kho",
     "LBL_SHOW_WIDGETS_ROW": "Hiển thị tiện ích",
     "LBL_CALCULATE_SUM_FOR_THIS_FIELD": "Tính tổng cho trường này",

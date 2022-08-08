@@ -93,7 +93,7 @@
     "LBL_ADD_TIME_CONTROL": "Πρόσθεσε χρόνο εργασίας πριν κλείσεις το ticket",
     "LBL_CLOSE_RELATED_TICKETS": "Πριν κλείσεις το ticket, κλείσε τα σχετικά tickets",
     "LBL_HELPDESK_DEPENDENTS": "Αιτήματα Υποστήριξης",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
+    "LBL_HELPDESK_RELATED": "Αιτήματα (Μ:M)",
     "Tickets by Status": "Tickets by status",
     "Open Tickets": "Open Tickets"
   }
