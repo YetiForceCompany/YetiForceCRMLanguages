@@ -31,7 +31,7 @@
     "time": "시간",
     "url": "URL",
     "LBL_CONVERSION_TO_ACCOUNT": "거래처로 전환",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "매핑할 수 없음",
@@ -57,6 +57,6 @@
     "JS_url": "URL",
     "JS_WITH": "와 함께",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "필드항목 매핑 저장됨",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

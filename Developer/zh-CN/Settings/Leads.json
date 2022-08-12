@@ -31,7 +31,7 @@
     "time": "时间",
     "url": "链接",
     "LBL_CONVERSION_TO_ACCOUNT": "转换为客户",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "不能映射",
@@ -57,6 +57,6 @@
     "JS_url": "链接",
     "JS_WITH": "和",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "保存字段映射",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

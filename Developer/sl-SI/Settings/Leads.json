@@ -31,7 +31,7 @@
     "time": "Čas",
     "url": "Url",
     "LBL_CONVERSION_TO_ACCOUNT": "Spremeni v stranko",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "Razvrstitev ni možna",
@@ -57,6 +57,6 @@
     "JS_url": "Url",
     "JS_WITH": "s/z",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "Razvrščanje je shranjeno",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

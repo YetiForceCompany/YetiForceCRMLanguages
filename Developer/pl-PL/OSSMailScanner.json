@@ -149,8 +149,10 @@
     "LBL_EDIT_FOLDER_ACCOUNT": "Edytuj foldery",
     "LBL_SET_STATUS_DISABLE": "Wyłącz konto e-mail",
     "LBL_SET_STATUS_ACTIVE": "Włącz konto e-mail",
-    "LBL_ACCOUNT_IS_BLOCKED": "Konto jest zablokowane",
+    "LBL_ACCOUNT_IS_BLOCKED_TEMP": "Konto jest tymczasowo zablokowane",
+    "LBL_ACCOUNT_IS_BLOCKED_PERM": "Konto jest zablokowane na stałe",
     "LBL_ACCOUNT_IS_DISABLED": "Konto jest wyłączone",
+    "LBL_ACCOUNT_INVALID_ACCESS": "Nieprawidłowe dane",
     "LBL_ALERT_EDIT_FOLDER": "Usunięcie folderu i dodanie ponownie spowoduje ponowne uruchomienie skanera poczty dla wybranych folderów.",
     "LBL_DELETE_ACCOUNT": "Usuń konto"
   }

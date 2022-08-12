@@ -31,7 +31,7 @@
     "time": "Χρόνος",
     "url": "Διεύθυνση URL",
     "LBL_CONVERSION_TO_ACCOUNT": "Μετατροπή σε λογαριασμό",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "Δεν μπορούν να αντιστοιχίσουν",
@@ -57,6 +57,6 @@
     "JS_url": "Διεύθυνση URL",
     "JS_WITH": "με",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "Αποθήκευση πίνακα αντιστοίχισης πεδίων",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

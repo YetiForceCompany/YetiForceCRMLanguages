@@ -149,8 +149,10 @@
     "LBL_EDIT_FOLDER_ACCOUNT": "Modifica dosare",
     "LBL_SET_STATUS_DISABLE": "Disable the email account",
     "LBL_SET_STATUS_ACTIVE": "Enable the email account",
-    "LBL_ACCOUNT_IS_BLOCKED": "The account is blocked",
+    "LBL_ACCOUNT_IS_BLOCKED_TEMP": "The account is temporarily blocked",
+    "LBL_ACCOUNT_IS_BLOCKED_PERM": "The account is permanently blocked",
     "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
+    "LBL_ACCOUNT_INVALID_ACCESS": "Incorrect credentials",
     "LBL_ALERT_EDIT_FOLDER": "Daca stergeti dosarul si il adaugati din nou, va reporni scanerul de e-mail pentru folderele selectate.",
     "LBL_DELETE_ACCOUNT": "Sterge cont"
   }

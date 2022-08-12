@@ -8,6 +8,7 @@
     "LBL_CLEAR_DEVICE_CONF": "Wyczyść konfigurację widgetów dla tego urządzenia",
     "LBL_CLEAR_DEVICE_CONF_DESC": "Przycisk usuwa/resetuje konfigurację tylko dla urządzenia, którego aktualnie używasz i tylko dla aktywnej zakładki.",
     "LBL_PREDEFINED_WIDGETS": "Predefiniowane widgety",
-    "LBL_EMPTY_DASHBOARD": "Wybrany panel jest pusty."
+    "LBL_EMPTY_DASHBOARD": "Wybrany panel jest pusty.",
+    "LBL_WORKING_TIME_COUNTER": "Licznik czasu pracy"
   }
 }

@@ -8,6 +8,7 @@
     "LBL_CLEAR_DEVICE_CONF": "Vymazať konfiguráciu widgetov pre toto zariadenie",
     "LBL_CLEAR_DEVICE_CONF_DESC": "Tlačidlo odstráni/resetuje konfiguráciu len pre zariadenie, ktoré práve používate a len pre aktuálnu záložku.",
     "LBL_PREDEFINED_WIDGETS": "Preddefinované widgety",
-    "LBL_EMPTY_DASHBOARD": "Vybraný informačný panel je prázdny."
+    "LBL_EMPTY_DASHBOARD": "Vybraný informačný panel je prázdny.",
+    "LBL_WORKING_TIME_COUNTER": "Working time counter"
   }
 }

@@ -31,7 +31,7 @@
     "time": "Время",
     "url": "Ссылка",
     "LBL_CONVERSION_TO_ACCOUNT": "Преобразовать в Контрагента",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "Не удается сопоставить поля",
@@ -57,6 +57,6 @@
     "JS_url": "Ссылка",
     "JS_WITH": "с",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "Сохранено",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

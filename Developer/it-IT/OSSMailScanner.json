@@ -149,8 +149,10 @@
     "LBL_EDIT_FOLDER_ACCOUNT": "Modifica cartelle",
     "LBL_SET_STATUS_DISABLE": "Disabilita il profilo email",
     "LBL_SET_STATUS_ACTIVE": "Abilita il profilo email",
-    "LBL_ACCOUNT_IS_BLOCKED": "Il profilo è bloccato",
+    "LBL_ACCOUNT_IS_BLOCKED_TEMP": "The account is temporarily blocked",
+    "LBL_ACCOUNT_IS_BLOCKED_PERM": "The account is permanently blocked",
     "LBL_ACCOUNT_IS_DISABLED": "Il profilo è disabilitato",
+    "LBL_ACCOUNT_INVALID_ACCESS": "Incorrect credentials",
     "LBL_ALERT_EDIT_FOLDER": "Eliminando la cartella e aggiungendola di nuovo, si riavvierà lo scanner di posta per le cartelle selezionate.",
     "LBL_DELETE_ACCOUNT": "Elimina email"
   }

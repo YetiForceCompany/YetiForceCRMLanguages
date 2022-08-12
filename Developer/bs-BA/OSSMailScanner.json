@@ -149,8 +149,10 @@
     "LBL_EDIT_FOLDER_ACCOUNT": "Uredi foldere",
     "LBL_SET_STATUS_DISABLE": "Onemogućite email račun",
     "LBL_SET_STATUS_ACTIVE": "Omogućite email račun",
-    "LBL_ACCOUNT_IS_BLOCKED": "Račun je blokiran",
+    "LBL_ACCOUNT_IS_BLOCKED_TEMP": "The account is temporarily blocked",
+    "LBL_ACCOUNT_IS_BLOCKED_PERM": "The account is permanently blocked",
     "LBL_ACCOUNT_IS_DISABLED": "Račun je onemogućen",
+    "LBL_ACCOUNT_INVALID_ACCESS": "Incorrect credentials",
     "LBL_ALERT_EDIT_FOLDER": "Ako izbrišete mapu i ponovo je dodate, ponovo ćete pokrenuti skener pošte za odabrane mape.",
     "LBL_DELETE_ACCOUNT": "Brisanje računa"
   }

@@ -31,7 +31,7 @@
     "time": "Hora",
     "url": "Url",
     "LBL_CONVERSION_TO_ACCOUNT": "Converter para Conta",
-    "sharedOwner": " "
+    "sharedOwner": "Users sharing field"
   },
   "js": {
     "JS_CANT_MAP": "Não é possível mapear",
@@ -57,6 +57,6 @@
     "JS_url": "Url",
     "JS_WITH": "com",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "O Mapeamento de Campos foi salvo",
-    "JS_sharedOwner": " "
+    "JS_sharedOwner": "Users sharing field"
   }
 }

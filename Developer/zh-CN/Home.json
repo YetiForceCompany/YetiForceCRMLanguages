@@ -58,6 +58,9 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Matters delegated",
     "LIST_OF_LAST_UPDATED_RECORD": "List of last updated records",
     "Mails List": "Most recent emails",
-    "Notebook": "Notepad"
+    "Notebook": "Notepad",
+    "LBL_START_TIME_COUNTER": "开始时间计数器",
+    "LBL_STOP_TIME_COUNTER": "停止时间计数器",
+    "LBL_RESET_TIME_COUNTER": "重置计数器"
   }
 }
