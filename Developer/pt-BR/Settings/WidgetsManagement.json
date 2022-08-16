@@ -46,7 +46,8 @@
     "LBL_SKIP_YEAR": "Pular o ano",
     "LBL_SKIP_YEAR_DESC": "Pule o ano do evento considerando apenas o mês e o dia.",
     "LBL_WIDGET_NAME": "Widget name",
-    "BTN_NEXT": "Next"
+    "BTN_NEXT": "Next",
+    "LBL_DEFAULT_TIME": "Default call end time (min)"
   },
   "js": {
     "JS_BLOCK_ADDED": "Bloco adicionado com sucesso",

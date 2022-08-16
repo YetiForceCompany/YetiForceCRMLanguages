@@ -152,7 +152,7 @@
     "LBL_ACCOUNT_IS_BLOCKED_TEMP": "The account is temporarily blocked",
     "LBL_ACCOUNT_IS_BLOCKED_PERM": "The account is permanently blocked",
     "LBL_ACCOUNT_IS_DISABLED": "The account is disabled",
-    "LBL_ACCOUNT_INVALID_ACCESS": "Incorrect credentials",
+    "LBL_ACCOUNT_INVALID_ACCESS": "登录失败",
     "LBL_ALERT_EDIT_FOLDER": "选择文件夹，删除它们然后重新添加，将会重新启动他们的邮件扫描.",
     "LBL_DELETE_ACCOUNT": "删除客户"
   }

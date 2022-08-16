@@ -46,7 +46,8 @@
     "LBL_SKIP_YEAR": "Pomiń rok",
     "LBL_SKIP_YEAR_DESC": "Pomiń rok wydarzenia, biorąc pod uwagę tylko miesiąc i dzień.",
     "LBL_WIDGET_NAME": "Nazwa widżetu",
-    "BTN_NEXT": "Dalej"
+    "BTN_NEXT": "Dalej",
+    "LBL_DEFAULT_TIME": "Domyślny czas zakończenia połączenia (min)"
   },
   "js": {
     "JS_BLOCK_ADDED": "Pomyślnie dodano blok",

@@ -58,9 +58,6 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Sprawy oddelegowane",
     "LIST_OF_LAST_UPDATED_RECORD": "Lista ostatnio zaktualizowanych rekordów",
     "Mails List": "Najnowsze maile",
-    "Notebook": "Notatnik",
-    "LBL_START_TIME_COUNTER": "Uruchom licznik czasu",
-    "LBL_STOP_TIME_COUNTER": "Zatrzymaj licznik czasu",
-    "LBL_RESET_TIME_COUNTER": "Zresetuj licznik czasu"
+    "Notebook": "Notatnik"
   }
 }

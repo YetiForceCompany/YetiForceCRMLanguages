@@ -46,7 +46,8 @@
     "LBL_SKIP_YEAR": "Παράλειψη του έτους",
     "LBL_SKIP_YEAR_DESC": "Παράλειψη του έτους του γεγονότος λαμβάνοντας υπόψη μόνο το μήνα και την ημέρα.",
     "LBL_WIDGET_NAME": "Όνομα Widget",
-    "BTN_NEXT": "Επόμενο"
+    "BTN_NEXT": "Επόμενο",
+    "LBL_DEFAULT_TIME": "Default call end time (min)"
   },
   "js": {
     "JS_BLOCK_ADDED": "Μπλοκ έχει προστεθεί με επιτυχία",
