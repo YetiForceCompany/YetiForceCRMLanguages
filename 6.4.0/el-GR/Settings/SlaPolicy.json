@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA Πολιτική",
+    "LBL_NAME": "Oνομασία πολιτικής",
+    "LBL_EDIT": "Επεξεργασία SLA πολιτικής",
+    "LBL_CREATE": "Δημιουργία νέας SLA πολιτικής",
+    "LBL_SOURCE_MODULE": "Module",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Επιλέξτε ώρες εργασίας",
+    "JS_BUSINESS_HOURS_FROM": "Από",
+    "JS_BUSINESS_HOURS_TO": "Έως",
+    "JS_BUSINESS_HOURS_NAME": "Όνομα",
+    "JS_BUSINESS_HOURS_DAYS": "Εργάσιμες ημέρες",
+    "JS_HOLIDAYS": "Αργίες"
+  }
+}

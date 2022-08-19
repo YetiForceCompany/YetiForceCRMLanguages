@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Moja domovská stránka",
+    "LBL_ADD_FILTER": "Pridať widget z filtra",
+    "LBL_ADD_FILTER_DESC": "Dostupné sú iba filtre so zapnutou možnosťou „zoznam v metrikách“.",
+    "LBL_ADD_CHART_FILTER": "Pridať graf z filtra",
+    "LBL_ADD_CHART_FILTER_DESC": "Dostupné sú iba filtre so zapnutou možnosťou „zoznam v metrikách“.",
+    "LBL_CLEAR_DEVICE_CONF": "Vymazať konfiguráciu widgetov pre toto zariadenie",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Tlačidlo odstráni/resetuje konfiguráciu len pre zariadenie, ktoré práve používate a len pre aktuálnu záložku.",
+    "LBL_PREDEFINED_WIDGETS": "Preddefinované widgety",
+    "LBL_EMPTY_DASHBOARD": "Vybraný informačný panel je prázdny.",
+    "LBL_WORKING_TIME_COUNTER": "Working time counter"
+  }
+}

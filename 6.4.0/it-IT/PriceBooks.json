@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Aggiungi a",
+    "LBL_EDIT_LIST_PRICE": "Modifica listino prezzi",
+    "LBL_PRICEBOOK_INFORMATION": "Informazioni base",
+    "LBL_UNIT_PRICE": "Prezzo unitario",
+    "Price Book Name": "Nome",
+    "PriceBook No": "Progressivo",
+    "PriceBooks": "Listini prezzi",
+    "SINGLE_PriceBooks": "Listino prezzi",
+    "yes": "Sì",
+    "no": "No",
+    "Unit Price": "Prezzo unitario",
+    "LBL_SPECIFY_THE_MARGIN": "Specifica il margine",
+    "LBL_SPECIFY_THE_MARGINP": "Specificare il margine (%)"
+  }
+}

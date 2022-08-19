@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "اطلاعیه ها",
+    "SINGLE_Announcements": "اطلاعيه",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "اطلاعات اولیه",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "FL_STATUS": "وضعیت",
+    "FL_INTERVAL": "زمان یادآوری",
+    "FL_IS_MANDATORY": "اجبار در پذیرش",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_FOR_ACCEPTANCE": "برای تایید",
+    "PLL_PUBLISHED": "منتشر شده",
+    "PLL_ARCHIVES": "بایگانی شده",
+    "LBL_REMIND_ME_LATER": "بعدا مرا یادآوری کن",
+    "LBL_MARK_AS_READ": "علامت گذاری به عنوان خوانده شده",
+    "LBL_ACCEPT_ANNOUNCEMENT": "پذیرفته شده؟",
+    "LBL_DATE": "مشاهده در"
+  }
+}

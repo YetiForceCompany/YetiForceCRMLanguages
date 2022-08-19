@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Oznámení",
+    "SINGLE_Announcements": "Oznámení",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Základní informace",
+    "LBL_SUBJECT": "Předmět",
+    "LBL_NUMBER": "Číslo",
+    "FL_STATUS": "Stav",
+    "FL_INTERVAL": "Čas připomenutí",
+    "FL_IS_MANDATORY": "Povinné přijmout",
+    "PLL_DRAFT": "Návrh",
+    "PLL_FOR_ACCEPTANCE": "Pro schválení",
+    "PLL_PUBLISHED": "Zveřejněno",
+    "PLL_ARCHIVES": "Archivováno",
+    "LBL_REMIND_ME_LATER": "Upozornit později",
+    "LBL_MARK_AS_READ": "Označit jako přečtené",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Bylo přijato?",
+    "LBL_DATE": "Přečtěte si"
+  }
+}

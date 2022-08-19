@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "색상",
+    "LBL_COLOR": "색상",
+    "LBL_PICKLISTS": "선정목록",
+    "LBL_SELECT_PICKLIST": "선정목록 선택",
+    "LBL_REMOVE_COLOR": "색상 제거",
+    "LBL_GENERATE_COLOR": "색상 생성",
+    "LBL_UPDATE_COLOR": "색상 변경",
+    "LBL_REMOVED_COLOR": "색상 제거됨",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "색상 편집",
+    "LBL_CALENDAR_COLORS": "달력 색상",
+    "LBL_CALENDAR_TYPE": "활동 유형",
+    "LBL_SAVE_COLOR": "색상 저장됨",
+    "Call": "통화",
+    "Task": "작업",
+    "Meeting": "회의",
+    "LBL_GROUPS_COLORS": "그룹 색상",
+    "LBL_USERS_COLORS": "사용자 색상",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "색상 기능성은 이 선정목록에서 활성화되지 않았습니다",
+    "LBL_UPDATE_COLOR_COLUMN": "활성화",
+    "LBL_WARNING": "경고",
+    "LBL_ITEM": "값",
+    "LBL_MODULE": "모듈",
+    "LBL_GROUP_NAME": "그룹",
+    "LBL_FIELDS_COLORS": "필드 색상"
+  }
+}

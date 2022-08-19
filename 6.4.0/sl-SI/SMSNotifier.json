@@ -1,0 +1,33 @@
+{
+  "php": {
+    "SMSNotifier": "SMS messages",
+    "SINGLE_SMSNotifier": "SMS message",
+    "LBL_CUSTOM_INFORMATION": "System information",
+    "BL_SMS_CONTENT": "SMS content",
+    "FL_RELATED_TO": "Related to",
+    "FL_STATUS": "Status",
+    "FL_PARENT": "Parent SMS",
+    "FL_IMAGE": "Image file",
+    "FL_MESSAGE_ID": "Message ID",
+    "PLL_UNDEFINED": "Nedefinirano",
+    "PLL_DELIVERED": "Dostavljeno",
+    "PLL_FAILED": "Spodletelo",
+    "PLL_SENT": "Sent",
+    "PLL_QUEUE": "In queue",
+    "PLL_REPLY": "Reply",
+    "LBL_MASS_SEND_SMS_INFO": "Vsa tekstovna sporočila so bila poslana v Cron",
+    "LBL_CHECK_STATUS": "Preveri status",
+    "FL_MESSAGE": "Sporočilo",
+    "LBL_SMSNOTIFIER_INFORMATION": "Podatki o SMS",
+    "LBL_ADD_MORE_FIELDS": "Dodajte več polj",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue",
+    "LBL_TEMPLATE": "Template",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS dovoljena največ 160 znakov",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Pošiljanje SMS sporočil do izbrane številke",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Phone number from",
+    "LBL_ADD_IMAGE_FILE": "Add an image file",
+    "LBL_TYPE_THE_MESSAGE": "Napišite sporočilo",
+    "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Limit of one-time created text messages",
+    "LBL_SERVER_CONFIG": "Konfiguracija strežnika"
+  }
+}

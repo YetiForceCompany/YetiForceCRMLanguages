@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Valori selezionati",
+    "LBL_ADD_RECORD": "Aggiungi record",
+    "PickListDependency": "Dipendenza menù a tendina",
+    "LBL_PICKLIST_DEPENDENCY": "Dipendenza menù a tendina",
+    "LBL_SELECT_FIELD": "Seleziona campo",
+    "LBL_SELECT_MODULE": "Modulo",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Valori del campo sorgente",
+    "LBL_SOURCE_FIELD": "Campo sorgente",
+    "LBL_MODULE": "Modulo"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sei sicuro di voler eliminare la dipendenza?"
+  }
+}

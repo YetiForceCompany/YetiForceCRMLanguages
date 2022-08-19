@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Comentário",
+    "LBL_RECORDS_LIST": "Lista de Comentários",
+    "LBL_MODCOMMENTS_INFORMATION": "Comentários",
+    "LBL_OTHER_INFORMATION": "Outras Informações",
+    "LBL_ADDING_COMMENT": "Adicionar Comentário",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Digitar Comentários aqui",
+    "Comment": "Comentário",
+    "Creator": "Criado por",
+    "Related To Comments": "Relacionado à",
+    "ReasonToEdit": "Razão para Editar",
+    "UserId": "ID Uauario",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Foi adicionado um Comentario ao Chamado",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Um Comentario foi adicionado ao Chamado e o conteudo do Comentario pode ser encontrato abaixo",
+    "LBL_NOTICE_WELCOME": "Bam vindo(a) ao Suporte ao Cliente - Dialo Soluções",
+    "LBL_NOTICE_CREATED": "Criado por",
+    "LBL_COMMENTS_0": "Resgistro atual",
+    "LBL_COMMENTS_SEARCH": "Pesquisar",
+    "LBL_ALL_RECORDS": "Related records"
+  }
+}

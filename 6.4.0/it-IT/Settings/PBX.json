@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_NAME": "Nome",
+    "LBL_TYPE": "Tipo",
+    "LBL_DEFAULT": "Predefinito",
+    "LBL_ADD_RECORD": "Aggiungi centralino",
+    "LBL_CREATE_RECORD": "Aggiungi centralino",
+    "LBL_EDIT_RECORD": "Modifica centralino",
+    "LBL_URL": "Indirizzo server",
+    "LBL_USERNAME": "Nome utente",
+    "LBL_PASSWORD": "Password",
+    "LBL_SECRET_KEY": "Chiave segreta",
+    "LBL_OUTBOUND_CONTEXT": "Contesto di uscita"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "E-mail sablonok",
+    "SINGLE_EmailTemplates": "E-mail sablon",
+    "LBL_CONTENT_MAIL": "E-Mail Tartalom",
+    "LBL_BASIC_DETAILS": "Alap információk",
+    "FL_NAME": "Név",
+    "FL_TYPE": "Típus",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Tárgy",
+    "FL_CONTENT": "Tartalom",
+    "FL_SMTP_PRIORITY": "SMTP prioritás",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Bejegyzés",
+    "PLL_MAIL": "Üzenet",
+    "PLL_LIST": "Lista",
+    "PLL_DEFAULT": "Alapértelmezett vállalat",
+    "FL_SYS_NAME": "System name"
+  }
+}

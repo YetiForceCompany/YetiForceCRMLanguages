@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "部署",
+    "SINGLE_MultiCompany": "部署",
+    "LBL_BASIC_INFORMATION": "会社詳細",
+    "LBL_CONTACT_INFORMATION": "連絡先情報",
+    "LBL_REGISTRATION_INFORMATION": "登録情報",
+    "LBL_ADDRESS_INFORMATION": "住所詳細",
+    "LBL_SYSTEM_INFORMATION": "システム情報",
+    "LBL_ADDITIONAL_INFORMATION": "追加情報",
+    "FL_COMPANY_NAME": "会社名",
+    "FL_PARENT": "親部門",
+    "FL_STATUS": "ステータス",
+    "FL_EMAIL_1": "メール（主）",
+    "FL_EMAIL_2": "メール（副）",
+    "FL_PHONE": "電話（主）",
+    "FL_MOBILE": "電話（副）",
+    "FL_FAX": "FAX",
+    "FL_VATID": "税金番号",
+    "FL_COMPANY_ID1": "ビジネス登録番号",
+    "FL_COMPANY_ID2": "NCR",
+    "FL_INTERNAL_NOTES": "内部メモ",
+    "FL_PUBLIC_NOTES": "公開ノート",
+    "PLL_ACTIVE": "有効",
+    "PLL_INACTIVE": "無効",
+    "LBL_SHOW_HIERARCHY": "階層",
+    "FL_WEBSITE": "Webサイト",
+    "FL_LOGO": "ロゴ"
+  }
+}

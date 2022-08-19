@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Accesso amministratore",
+    "LBL_ADMIN_ACCESS": "Accesso amministratore",
+    "LBL_PERMISSIONS": "Permessi",
+    "BTN_MASS_EDIT_ACCESS": "Modifica massiva",
+    "FL_MODULE_NAME": "Nome modulo",
+    "LBL_ACTIVE": "Attivo",
+    "LBL_EDIT_ADMIN_ACCESS": "Modifica degli accessi di amministrazione",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Scopo Visite",
+    "FL_DATE_TIME": "Data",
+    "FL_PURPOSE": "Scopo",
+    "FL_USER": "Utente",
+    "FL_BASE_USER": "Utente base",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Chiedi lo scopo dell'accesso",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Vuoi attivare la richiesta di inserimento dello scopo della visita per gli amministratori quando accedono al sistema?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Chiedi il cambio dello scopo degli utenti",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Vuoi attivare la finestra dello scopo della visita per amministratori quando gli utenti cambiano nel sistema?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

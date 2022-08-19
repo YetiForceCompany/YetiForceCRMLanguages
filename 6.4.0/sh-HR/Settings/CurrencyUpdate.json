@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Ažuriranje valute",
+    "LBL_CURRENCY_UPDATE": "Ažuriranje valute",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Opcije za podešavanje sistema ugrađenih u kurseve konverzije valuta.",
+    "LBL_SELECT_BANK": "Odaberite Banku",
+    "MSG_ONE_CURRENCY": "Postoji samo jedna glavna valuta. Da biste dobili kurseve valuta za druge valute, dodajte više valuta u CRM postavkama.",
+    "MSG_NO_NET_CONN": "Nema internetske veze, podaci o valuti nisu preuzeti.",
+    "LBL_HISTORY": "Istorija deviznog kursa",
+    "LBL_BANK": "Odaberite banku iz koje ćete dohvatiti informacije o tečajevima",
+    "LBL_CAL_DATE": "Datum kursa",
+    "LBL_MAINCURRENCY": "Glavna valuta",
+    "LBL_CODE": "Šifra",
+    "LBL_SYMBOL": "Simbol",
+    "LBL_CURRENCY_NAME": "Naziv valute",
+    "LBL_CURRENCY_SYMBOL": "Simbol valute",
+    "LBL_COURSE": "Kurs",
+    "LBL_DATE": "Datum preuzimanja kursa",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Datum kursa",
+    "LBL_SHOW": "Prikaži",
+    "LBL_CURRENCIES_SUPPORTED": "Lista podržanih valuta ove banke",
+    "LBL_CURRENCIES_UNSUPPORTED": "Lista nepodržanih valuta ove banke",
+    "LBL_SET_BANK_OK": "Aktivna banka je uspješno spremljena.",
+    "LBL_SET_BANK_ERROR": "Nije uspjelo postavljanje aktivne banke.",
+    "LBL_INFORMATIONS": "Informacije",
+    "LBL_WARNING": "Upozoranje!",
+    "NBP": "Nacionalne Banka Poljske",
+    "ECB": "Evropske Centralne Banke",
+    "CBR": "Centralne Banke iz Rusije",
+    "NBR": "National Bank of Romania"
+  }
+}

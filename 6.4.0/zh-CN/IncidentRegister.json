@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "事件注册",
+    "SINGLE_IncidentRegister": "事件注册",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "FL_NAME": "名称",
+    "FL_LOCATION_REGISTER": "位置注册",
+    "FL_DATASETREGISTER": "数据注册",
+    "PLL_DRAFT": "草稿",
+    "PLL_WAITING_FOR_ACCEPTANCE": "等待接受",
+    "PLL_IN_REALIZATION": "执行中",
+    "PLL_COMPLETED": "已完成",
+    "PLL_CANCELLED": "已取消",
+    "FL_STATUS": "状态",
+    "FL_TYPE": "类型",
+    "PLL_INTERNAL": "内部",
+    "PLL_EXTERNAL": "外部",
+    "LBL_INCIDENT_DATES": "事件日期",
+    "FL_INCIDENT_DATE": "事件日期",
+    "FL_INCIDENT_DISCOVERY": "事件发现日期",
+    "FL_INCIDENT_REPORT_DATE": "事件报告日期",
+    "FL_INCIDENT_PUBLICATION_DATE": "事件发布日期",
+    "FL_PEOPLE_NUMBER": "人数",
+    "LBL_BREACH_CIRCUMSTANCES": "违规情况",
+    "FL_BREACH_CIRCUMSTANCES": "违规情况",
+    "LBL_NATURE_OF_BREACH": "违规性质",
+    "FL_NATURE_OF_BREACH": "违规性质",
+    "LBL_POSSIBLE_CONSEQUENCES": "可能的后果",
+    "FL_POSSIBLE_CONSEQUENCES": "可能的后果",
+    "LBL_SECURITY_MEASURES": "采取的安全措施",
+    "FL_SECURITY_MEASURES": "采取的安全措施"
+  }
+}

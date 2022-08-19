@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Chỉnh hóa đơn",
+    "SINGLE_FCorectingInvoice": "Chỉnh Hóa Đơn",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_INVOICE_ADDRESS": "Địa chỉ hóa đơn",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Địa chỉ giao hàng",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_PAYMENT_DATE": "Ngày hết hạn",
+    "FL_SALE_DATE": "Ngày bán hàng",
+    "FL_BANK_ACCOUNT": "Số tài khoản ngân hàng",
+    "FL_NUMBER": "Số hóa đơn",
+    "FL_ACCOUNT": "Tài khoản",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Tổng",
+    "FL_STATUS": "Trạng thái",
+    "PLL_WIRE_TRANSFER": "Chuyển tiền điện tử",
+    "LBL_YEAR": "Năm",
+    "FL_INVOICE": "Hoá đơn",
+    "LBL_COMMENTS": "Bình luận",
+    "FL_EXTERNAL_COMMENT": "Bình luận bên ngoài",
+    "FL_INTERNAL_COMMENT": "Thảo luận nội bộ",
+    "LBL_BEFORE_CORRECTION": "Trước khi sửa",
+    "LBL_AFTER_CORRECTION": "Sau khi sửa",
+    "LBL_CHOOSE_INVOICE": "Chọn hoá đơn cần được hiệu chỉnh",
+    "LBL_COPY_FROM_INVOICE": "Sao chép từ ban đầu hóa đơn",
+    "LBL_INVOICE_INFO": "Trường hoá đơn ban đầu - trước khi sửa.",
+    "LBL_AFTER_INVOICE_INFO": "Hoá đơn cuối cùng trông giống như thế nào sau khi chỉnh.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Trường hóa đơn cần sửa. Copy toàn bộ các trường từ hóa đơn đầu tiên và thay đổi giá trị cần thiết."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Chọn hoá đơn cần được hiệu chỉnh"
+  }
+}

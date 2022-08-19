@@ -1,0 +1,33 @@
+{
+  "php": {
+    "Watchdog": "Захисник",
+    "LBL_YETIFORCE_WATCHDOG_HEADER": "Монітор спостереження YetiForce",
+    "LBL_YETIFORCE_WATCHDOG_DESC": "Сторінка конфігурації монітору спостереження YetiForce",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "The watchdog mechanism monitors the CRM system work and transfers selected information to YetiForce S.A. All collected information will not be published and is intended only to monitor the CRM system for incorrect operation and the environment on which it is installed.",
+    "LBL_PARAM_NAME": "Параметр",
+    "LBL_PARAM_VAL": "Значення",
+    "LBL_PARAM_NOT_ALLOWED": "Параметр не допускається",
+    "LBL_SAVED": "Зміни збережено",
+    "LBL_WATCHDOGURL": "URL сервісу",
+    "LBL_SYSTEMVERSION": "Версія системи YtiForce",
+    "LBL_PHPVERSION": "Версія PHP",
+    "LBL_OSVERSION": "Версія системи",
+    "LBL_DBVERSION": "Версія бази даних",
+    "LBL_DATABASE": "Інформація про базу даних",
+    "LBL_SAPIVERSION": "Версія сервера API",
+    "LBL_LASTCRONTIME": "Останній запуск Cron",
+    "LBL_SPACEROOT": "Кореневий простір",
+    "LBL_SPACESTORAGE": "Простір зберігання даних",
+    "LBL_SPACETEMP": "Тимчасовий каталог",
+    "LBL_SPACEBACKUP": "Папка з резервними копіями",
+    "LBL_CRMVERSION": "Версія CRM",
+    "LBL_DOMAIN": "URL системи CRM",
+    "LBL_STABILITY": "Налаштування стабільності системи",
+    "LBL_LIBRARIES": "Підтримка бібліотек",
+    "LBL_PERFORMANCE": "Перевірка продуктивності",
+    "LBL_PUBLICDIRECTORYACCESS": "Публічний каталог",
+    "LBL_ENVIRONMENT": "Інформація про середовище",
+    "LBL_WRITABLEFILESANDFOLDERS": "Доступні для запису файли і теки",
+    "LBL_PATHVERIFICATION": "Path verification"
+  }
+}

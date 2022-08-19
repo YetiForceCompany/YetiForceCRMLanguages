@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Регистрация одобрений",
+    "SINGLE_ApprovalsRegister": "Регистрация Утверждения",
+    "LBL_CUSTOM_INFORMATION": "Основная информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "LBL_DESCRIPTION_INFORMATION": "Детальная информация",
+    "FL_SUBJECT": "Предмет",
+    "FL_APPROVALS_STATUS": "Статус",
+    "FL_DESCRIPTION": "Описание",
+    "FL_APPROVAL": "Утверждение",
+    "FL_TYPE": "Тип",
+    "FL_STATUS": "Статус",
+    "FL_REGISTRATION_DATE": "Дата регистрации",
+    "PLL_FOR_VERIFICATION": "На проверке",
+    "PLL_ACCEPTED": "Принятый",
+    "PLL_REJECTED": "Отклонено",
+    "PLL_ACCEPTANCE": "Подтверждение",
+    "PLL_RESIGNATION": "Отставка"
+  }
+}

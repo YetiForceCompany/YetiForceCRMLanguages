@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Ellenőrzési nyilvántartás",
+    "SINGLE_AuditRegister": "Ellenőrzési nyilvántartás",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "FL_NAME": "Név",
+    "FL_LOCATION_REGISTER": "Elhelyezkedés nyilvántartás",
+    "FL_DATASETREGISTER": "Adatkészlet-nyilvántartás",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Elfogadásra vár",
+    "PLL_IN_REALIZATION": "Megvalósulás alatt",
+    "PLL_COMPLETED": "Teljesítve",
+    "PLL_CANCELLED": "Megszakítva",
+    "FL_STATUS": "Státusz",
+    "FL_TYPE": "Típus",
+    "PLL_INTERNAL": "Belső",
+    "PLL_EXTERNAL": "Külső",
+    "LBL_DESCRIPTION": "Leírás",
+    "FL_DESCRIPTION": "Leírás",
+    "FL_COMMENTS": "Hozzászólások",
+    "LBL_COMMENTS": "Hozzászólások"
+  }
+}

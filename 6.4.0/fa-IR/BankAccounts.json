@@ -1,0 +1,18 @@
+{
+  "php": {
+    "BankAccounts": "حساب‌های بانکی",
+    "SINGLE_BankAccounts": "حساب بانکی",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات دلخواه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_NAME": "نام",
+    "FL_BANK_ACCOUNT_NUMBER": "شماره حساب",
+    "FL_CURRENCY": "واحدپول",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "نام بانک",
+    "FL_STATUS": "وضعیت",
+    "FL_MULTICOMPANY": "دپارتمان",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_ACTIVE": "فعال",
+    "PLL_INACTIVE": "غیرفعال"
+  }
+}

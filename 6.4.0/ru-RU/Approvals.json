@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Утверждения",
+    "SINGLE_Approvals": "Утверждение",
+    "LBL_CUSTOM_INFORMATION": "Основная информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "LBL_DESCRIPTION_INFORMATION": "Детальная информация",
+    "FL_NAME": "Название",
+    "FL_APPROVALS_STATUS": "Статус",
+    "FL_DESCRIPTION": "Описание",
+    "FL_NUMBER": "Номер",
+    "PLL_DRAFT": "Драфт",
+    "PLL_ACTIVE": "Активно",
+    "PLL_INACTIVE": "Неактивно"
+  }
+}

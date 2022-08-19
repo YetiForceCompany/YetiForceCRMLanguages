@@ -1,0 +1,28 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Création rapide",
+    "LBL_SEPARATOR": "Séparateur",
+    "LBL_OTHER": "Autre",
+    "MEN_VIRTUAL_DESK": "Bureau virtuel",
+    "MEN_COMPANIES_CONTACTS": "Sociétés et Contacts",
+    "MEN_SALES": "Ventes",
+    "MEN_PROJECTS": "Projets",
+    "MEN_MARKETING": "Commercialisation",
+    "MEN_SUPPORT": "Aide",
+    "MEN_ACCOUNTING": "Comptabilité",
+    "MEN_COMPANY": "Entreprise",
+    "MEN_ORGANIZATION": "Organisation",
+    "MEN_DATABESES": "Bases de données",
+    "MEN_TEAMWORK": "Travail d'équipe",
+    "MEN_PRODUCTBASE": "Base de données produit",
+    "MEN_LISTS": "Listes",
+    "MEN_SERVICESBASE": "Base de données de service",
+    "MEN_SALE_PROCESSES": "Processus de vente",
+    "Menu": "Menu",
+    "MEN_LOGISTICS": "Logistique",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Changez le mot de passe de connexion",
+    "LBL_CHANGE": "Changer",
+    "LBL_USER_PROFILE": "Profil utilisateur",
+    "MEN_GDPR": "RGPD"
+  }
+}

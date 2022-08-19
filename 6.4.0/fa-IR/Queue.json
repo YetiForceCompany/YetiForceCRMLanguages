@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Queued changes",
+    "SINGLE_Queue": "Queued changes",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_SUBJECT": "Subject",
+    "FL_RELATED_TO": "مربوط به",
+    "FL_CHANGES": "لیست تغییرها",
+    "LBL_DESCRIPTION_INFORMATION": "Description details",
+    "FL_REASON_FOR_CHANGE": "Reason for change",
+    "FL_REASON_FOR_REJECTION": "Reason for rejection",
+    "FL_STATUS": "Status",
+    "PLL_PLANNED": "Planned",
+    "PLL_ON_HOLD": "On hold",
+    "PLL_FOR_VERIFICATION": "برای تایید",
+    "PLL_IN_APPROVAL": "In approval",
+    "PLL_ACCEPTED": "Accepted",
+    "PLL_COMPLETED": "کامل شده",
+    "PLL_CANCELLED": "لغو شده"
+  }
+}

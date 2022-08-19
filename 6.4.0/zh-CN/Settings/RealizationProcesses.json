@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "项目",
+    "LBL_INFO": "信息",
+    "LBL_TYPE": "状态",
+    "LBL_PROJECT": "项目",
+    "LBL_PROJECT_STATUS_INFO": "确定项目已关闭的条件",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "确定里程碑已关闭的状态",
+    "LBL_PROJECTTASK_STATUS_INFO": "确定任务已关闭的状态",
+    "LBL_SAVE_CONFIG_OK": "更改已保存.",
+    "LBL_SAVE_CONFIG_ERROR": "无法保存更改.",
+    "RealizationProcesses": "实施流程"
+  },
+  "js": {}
+}

@@ -1,0 +1,18 @@
+{
+  "php": {
+    "BankAccounts": "Bančni računi",
+    "SINGLE_BankAccounts": "Bančni računi",
+    "LBL_CUSTOM_INFORMATION": "Informacije po meri",
+    "LBL_BASIC_INFORMATION": "Osnovni podatki",
+    "FL_NAME": "Naziv",
+    "FL_BANK_ACCOUNT_NUMBER": "Št.TRR",
+    "FL_CURRENCY": "Valuta",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Naziv banke",
+    "FL_STATUS": "Status",
+    "FL_MULTICOMPANY": "Oddelek",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_ACTIVE": "Aktiven",
+    "PLL_INACTIVE": "Neaktiven"
+  }
+}

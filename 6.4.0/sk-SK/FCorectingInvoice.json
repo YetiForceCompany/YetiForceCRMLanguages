@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Correcting Invoices",
+    "SINGLE_FCorectingInvoice": "Correcting Invoice",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
+    "LBL_INVOICE_ADDRESS": "Invoice address",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Dodacia adresa",
+    "FL_SUBJECT": "Predmet",
+    "FL_PAYMENT_DATE": "Dátum splatnosti",
+    "FL_SALE_DATE": "Dátum predaja",
+    "FL_BANK_ACCOUNT": "Bank account number",
+    "FL_NUMBER": "Invoice number",
+    "FL_ACCOUNT": "Účet",
+    "FL_TOTAL": "Bez dane",
+    "FL_GROSS": "Celková cena",
+    "FL_STATUS": "Stav",
+    "PLL_WIRE_TRANSFER": "Electronic transfer",
+    "LBL_YEAR": "Rok",
+    "FL_INVOICE": "Faktúra",
+    "LBL_COMMENTS": "Komentáre",
+    "FL_EXTERNAL_COMMENT": "External comment",
+    "FL_INTERNAL_COMMENT": "Internal comment",
+    "LBL_BEFORE_CORRECTION": "Before correction",
+    "LBL_AFTER_CORRECTION": "After correction",
+    "LBL_CHOOSE_INVOICE": "Select invoice to be corrected",
+    "LBL_COPY_FROM_INVOICE": "Copy from initial invoice",
+    "LBL_INVOICE_INFO": "Initial invoice fields - before corrections.",
+    "LBL_AFTER_INVOICE_INFO": "How should final invoice look like after correction.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Polia faktúry, ktoré treba opraviť. Skopírujte všetky polia z pôvodnej faktúry a podľa potreby zmeňte hodnoty."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Select invoice to be corrected"
+  }
+}

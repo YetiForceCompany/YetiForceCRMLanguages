@@ -1,0 +1,30 @@
+{
+  "php": {
+    "OpenStreetMap": "OpenStreetMap",
+    "LBL_GROUP_BY": "Ομάδα",
+    "LBL_GROUP_NEIGHBOURS": "Ομάδα γειτονικών στοιχείων",
+    "LBL_NOT_FOUND_PLACE": "Θέση δεν βρέθηκε",
+    "LBL_SEARCH_ADDRESS_DESCRIPTION": "Address finder: street building number, city, country",
+    "LBL_IN_RADIUS": "Σε ακτίνα [km]",
+    "LBL_CALCULATE_TRACK": "Υπολογισμός διαδρομής",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Δρομολόγηση",
+    "LBL_ROUTE_DESCRIPTION": "Description of the route",
+    "LBL_DISTANCE": "Απόσταση [km]",
+    "LBL_TRAVEL_TIME": "Χρόνος (λεπτά)",
+    "LBL_INSTRUCTION": "Χειροκίνητα",
+    "LBL_SEARCH_IN_RADIUS": "Αναζήτηση σε ακτίνα",
+    "LBL_CLIPBOARD": "Πρόχειρο",
+    "LBL_CLIPBOARD_DESC": "The clipboard allows you to save the current map points for later retrieval without the need to search or add them to the map again.",
+    "LBL_INDIRECT_POINT": "Ενδιάμεσο σημείο",
+    "LBL_SEARCH_COMPANY_INPUT": "Search in the system",
+    "LBL_SEARCH_COMPANY_DESCRIPTION": "The search engine allows you to find and add data from the system on the map.",
+    "LBL_SEARCH_MY_LOCATION": "Show my location on the map",
+    "LBL_MY_LOCATION": "My location",
+    "BTN_COPY_TO_CLIPBOARD": "Save to clipboard",
+    "BTN_DELETE_CLIPBOARD": "Delete from clipboard",
+    "BTN_LOAD_ALL_CLIPBOARD": "Load and save all address data from the module to the clipboard.",
+    "LBL_GROUP_POINTS": "Group points on the map",
+    "LBL_GROUP_POINTS_DESC": "Group map points based on the selected field. When selected, a legend with field values is displayed.",
+    "ERR_ADDRESS_NOT_FOUND": "Διεύθυνση δεν βρέθηκε"
+  }
+}

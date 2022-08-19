@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_INVOICE": "Рахунок",
+    "LBL_INVOICE_NUMBER": "№ Рахунку",
+    "LBL_TO_FINVOICE_NUMBER": "To VAT invoice number",
+    "LBL_INVOICE_PROFORMA": "Pro-forma invoice",
+    "LBL_RECIPIENT": "Одержувач",
+    "LBL_ORDER": "Замовлення",
+    "LBL_SUBMIT_ORDER": "Person authorized to submit order",
+    "LBL_TO_PAY": "Усього",
+    "LBL_TO_PAY_WORD": "Разом (прописом)",
+    "LBL_DEALER": "Продавець",
+    "LBL_BUYER": "Покупець",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Особи, уповноважені отримувати",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Особа, уповноважена видавати",
+    "LBL_SALES_QUOTE_FOR": "Пропозиція для",
+    "LBL_DATE_EXECUTION": "Дата завершення",
+    "LBL_STAGE": "Ким видано",
+    "LBL_VALID_UNTIL": "Дійсний до",
+    "LBL_QUOTE_NUMBER": "Quote number",
+    "LBL_DETAILS": "Детально",
+    "LBL_COMMENTS": "Коментарі",
+    "LBL_FIRST_NAME": "Ім'я",
+    "LBL_LAST_NAME": "Прізвище",
+    "LBL_PHONE": "Телефон",
+    "LBL_EMAIL": "Ел. пошта",
+    "LBL_VATID": "Vat ID",
+    "LBL_SALE_DATE": "Дата продажу",
+    "LBL_PLACE_DATE": "Місце, дата",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
+  }
+}

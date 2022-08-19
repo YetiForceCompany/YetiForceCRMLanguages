@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Cập nhật",
+    "LBL_YES": "Có",
+    "LBL_NO": "Không",
+    "LBL_TIME": "Ngày",
+    "LBL_USER": "Tên đăng nhập",
+    "LBL_FROM_VERSION": "Từ phiên bản",
+    "LBL_TO_VERSION": "Đến phiên bản",
+    "LBL_RESULT": "Trạng thái",
+    "LBL_UPDATES": "Cập nhật",
+    "LBL_UPDATES_DESCRIPTION": "Lịch sử cập nhật",
+    "LBL_IMPORT_UPDATE": "Lịch sử tải lên",
+    "LBL_INSTALL_PACKAGE": "Cài đặt gói",
+    "LBL_DOWNLOAD_PACKAGE": "Tải về gói",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Gói nâng cấp đang có",
+    "LBL_INSTALLED_PACKAGES": "Gói đã đặt",
+    "LBL_PACKAGE_VERSION": "Phiên bản gói",
+    "LBL_NAME_PACKAGES": "Tên gói"
+  }
+}

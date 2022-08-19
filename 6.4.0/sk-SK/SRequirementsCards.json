@@ -1,0 +1,21 @@
+{
+  "php": {
+    "SRequirementsCards": "Sales requirements",
+    "SINGLE_SRequirementsCards": "Sales requirement",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Základné informácie",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
+    "LBL_STATISTICS": "Štatistiky",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Number",
+    "LBL_CLOSED_TIME": "Closed time",
+    "LBL_STATUS": "Stav",
+    "SINGLE_SSalesProcesses": "Príležitosť",
+    "PLL_DRAFT": "Koncept",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_FOR_VERIFICATION": "For verification",
+    "PLL_CANCELLED": "Zrušené",
+    "PLL_COMPLETED": "Dokončené",
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
+  }
+}

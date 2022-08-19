@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Шаблони за електронната поща",
+    "SINGLE_EmailTemplates": "Шаблон за електронната поща",
+    "LBL_CONTENT_MAIL": "Съдържанието на електронната поща",
+    "LBL_BASIC_DETAILS": "Основна информация",
+    "FL_NAME": "Име",
+    "FL_TYPE": "Вид",
+    "FL_MODULE": "Модул",
+    "FL_SUBJECT": "Тема",
+    "FL_CONTENT": "Съдържание",
+    "FL_SMTP_PRIORITY": "Приоритет SMTP",
+    "PLL_MODULE": "Модул",
+    "PLL_RECORD": "Запис",
+    "PLL_MAIL": "Съобщение",
+    "PLL_LIST": "Списък",
+    "PLL_DEFAULT": "Компания по подразбиране",
+    "FL_SYS_NAME": "System name"
+  }
+}

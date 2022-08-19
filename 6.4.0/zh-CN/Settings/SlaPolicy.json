@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA安全策略",
+    "LBL_NAME": "安全策略名称",
+    "LBL_EDIT": "编辑SLA 安全策略",
+    "LBL_CREATE": "新建 SLA 安全策略",
+    "LBL_SOURCE_MODULE": "模块",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "选择工作时间",
+    "JS_BUSINESS_HOURS_FROM": "从",
+    "JS_BUSINESS_HOURS_TO": "到",
+    "JS_BUSINESS_HOURS_NAME": "名称",
+    "JS_BUSINESS_HOURS_DAYS": "工作日",
+    "JS_HOLIDAYS": "节假日"
+  }
+}

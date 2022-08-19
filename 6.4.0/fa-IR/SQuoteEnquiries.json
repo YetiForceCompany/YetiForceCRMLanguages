@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "درخواست‌‌های فروش",
+    "SINGLE_SQuoteEnquiries": "درخواست فروش",
+    "LBL_QUOTESENQUIRES_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "LBL_STATISTICS": "آمارها",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_STATUS": "وضعیت",
+    "SINGLE_SSalesProcesses": "فرصت",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_FOR_VERIFICATION": "برای تایید",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_COMPLETED": "کامل شده",
+    "LBL_CHANGE_STATUS": "تغییر وضعیت",
+    "FL_CAMPAIGN_ID": "کمپین"
+  }
+}

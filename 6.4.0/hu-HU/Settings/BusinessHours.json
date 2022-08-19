@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Nyitvatartási idő",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Üzleti órák egy modul, ahol beállíthatja, hogy a munkaidő a csapat.",
+    "LBL_WORKING_HOURS_FROM": "Feladó",
+    "LBL_WORKING_HOURS_TO": "Címzett",
+    "LBL_WORKING_DAYS": "Munkanapok",
+    "LBL_WORKING_HOURS": "Munkaidő",
+    "LBL_DEFAULT": "Alapértelmezett",
+    "LBL_NAME": "Név",
+    "LBL_HOLIDAYS": "Szabadnapok",
+    "LBL_EDIT_BUSINESS_HOURS": "Szerkesztés üzleti óra",
+    "LBL_ADD_BUSINESS_HOURS": "Add munkaidő bejegyzés",
+    "LBL_DEFAULT_TIMES": "Alapértelmezett idő",
+    "LBL_DEFAULT_REACTION_TIME": "Alapértelmezett reakció idő",
+    "LBL_DEFAULT_IDLE_TIME": "Alapértelmezett késleltetési idő",
+    "LBL_DEFAULT_RESOLVE_TIME": "Alapértelmezett megoldani idő",
+    "LBL_HOLIDAYS_LINK": "Menj ünnepek beállítások",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Biztos vagy benne hogy törölni akarja ezt a bejegyzést?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

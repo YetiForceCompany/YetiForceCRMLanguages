@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Approvals register",
+    "SINGLE_ApprovalsRegister": "Approval Register",
+    "LBL_CUSTOM_INFORMATION": "Thông tin tuỳ chỉnh",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_APPROVALS_STATUS": "Trạng thái",
+    "FL_DESCRIPTION": "Mô tả",
+    "FL_APPROVAL": "Chấp thuận",
+    "FL_TYPE": "Loại",
+    "FL_STATUS": "Trạng thái",
+    "FL_REGISTRATION_DATE": "Ngày đăng kí",
+    "PLL_FOR_VERIFICATION": "Chờ xác minh",
+    "PLL_ACCEPTED": "Đã chấp nhận",
+    "PLL_REJECTED": "Đã từ chối",
+    "PLL_ACCEPTANCE": "Chấp nhận",
+    "PLL_RESIGNATION": "Đầu hàng"
+  }
+}

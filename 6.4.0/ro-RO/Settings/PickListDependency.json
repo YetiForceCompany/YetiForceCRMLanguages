@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Valori selectate",
+    "LBL_ADD_RECORD": "Adauga inregistrare",
+    "PickListDependency": "Dependenta Lista de alegere",
+    "LBL_PICKLIST_DEPENDENCY": "Dependenta lista de alegere",
+    "LBL_SELECT_FIELD": "Selectati camp",
+    "LBL_SELECT_MODULE": "Modul",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Selectati sursa valorilor listei de alegere",
+    "LBL_SOURCE_FIELD": "Camp sursa",
+    "LBL_MODULE": "Modul"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Sigur doriti sa stergeti aceasta dependenta de lista de selectii?"
+  }
+}

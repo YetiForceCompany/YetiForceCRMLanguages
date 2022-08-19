@@ -1,0 +1,18 @@
+{
+  "php": {
+    "BankAccounts": "Банківські рахунки",
+    "SINGLE_BankAccounts": "Банківський рахунок",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "LBL_BASIC_INFORMATION": "Основна інформція",
+    "FL_NAME": "Назва",
+    "FL_BANK_ACCOUNT_NUMBER": "Номер рахунку",
+    "FL_CURRENCY": "Валюта",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Назва банку",
+    "FL_STATUS": "Статус",
+    "FL_MULTICOMPANY": "Відділ",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_ACTIVE": "Активно",
+    "PLL_INACTIVE": "Неактивно"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "php": {
+    "OSSMailScanner_manual": "Mail Scanner",
+    "OSSMailScanner": "Mail Scanner",
+    "Mail Scanner": "ایمیل – اسکنر",
+    "LBL_VIEW_LOGS": "پروتکل ایمیل",
+    "LBL_PAGE_NUMBER": "رفتن به صفحه شماره",
+    "CRM Archive": "بایگانی CRM",
+    "CRM Archive Sent": "بایگانی CRM ارسال شد",
+    "Drafts": "پیشنویس‌ها",
+    "INBOX": "صندوق دریافت",
+    "Junk": "آشغال",
+    "Sent": "ارسال شده‌ها",
+    "ERR_INCORRECT_ACCESS_DATA": "داده دسترسی اشتباه",
+    "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "پوشه‌های زیر پس از ذخیره‌سازی حذف می‌گردند"
+  },
+  "js": {
+    "start_cron": "Cron شروع شده",
+    "end_cron_ok": "عملیات Cron با موفقیت به پایان رسید",
+    "end_cron_error": "While cron was running an error has appeared",
+    "JS_mail_error": "آدرس ایمیل وارد شده صحیح نمی‌باشد",
+    "JS_time_error": "فرمت تاریخ وارد شده صحیح نمی‌باشد",
+    "JS_StopCron": "به صورت دستی Cron را متوقف کن",
+    "stop_user": "کاربری که اسکن را متوقف کرده است",
+    "Manually stopped": "به صورت دستی متوقف شد",
+    "OK": "تایید",
+    "In progress": "در حال انجام",
+    "whether_remove_an_identity": "حذف هویت؟",
+    "removed_identity": "هویت حذف گردید",
+    "LBL_LOADING_LIST_OF_FOLDERS": "در حال بارگیری لیست پوشه‌های در حال انجام است.\nچند دقیقه طول می کشد..."
+  }
+}

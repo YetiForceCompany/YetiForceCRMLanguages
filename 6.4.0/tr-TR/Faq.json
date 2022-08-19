@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "SSS",
+    "SINGLE_Faq": "SSS",
+    "Draft": "Taslak",
+    "FL_SUBJECT": "Konu",
+    "FL_CONTENT": "İçerik",
+    "FL_CATEGORY": "Kategori",
+    "FL_ACCOUNT": "Hesap",
+    "FL_VIEWS": "Görünüm",
+    "PLL_PAGE": "Sayfa",
+    "PLL_PRESENTATION": "Sunum",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Bilgi Bankası",
+    "LBL_PREVIOUS": "Önceki",
+    "LBL_NEXT": "Sonraki",
+    "FL_STATUS": "Durum",
+    "LBL_ARTICLE": "Makale",
+    "FL_FEATURED": "Öne Çıkanlar",
+    "LBL_RELATED_FAQ": "İlişkili girdiler",
+    "FL_INTRODUCTION": "Tanıtım",
+    "Faq No": "SSS numarası",
+    "General": "Genel",
+    "LBL_FAQ_INFORMATION": "SSS bilgisi",
+    "LBL_RECORDS_LIST": "SSS listesi",
+    "Obsolete": "Eskiden",
+    "Published": "Yayınlandı",
+    "Question": "Soru"
+  }
+}

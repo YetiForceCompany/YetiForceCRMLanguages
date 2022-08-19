@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "备份管理器",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "管理备份文件",
+    "LBL_DOWNLOAD": "下载",
+    "LBL_FILE_NAME": "文件名",
+    "LBL_FILE_SIZE": "文件大小",
+    "LBL_FILE_DATE": "修改日期",
+    "LBL_BACKUP_LIST": "备份列表",
+    "ERR_CONFIG_ALERT_TITLE": "备份管理器被禁用",
+    "ERR_CONFIG_ALERT_DESC": "在配置文件 [config\/Components\/Backup.php] 中的BACKUP_PATH变量中设置适当的路径以启用它。",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+  },
+  "js": {}
+}

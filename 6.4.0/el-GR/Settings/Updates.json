@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Ενημερώσεις",
+    "LBL_YES": "Ναι",
+    "LBL_NO": "Όχι",
+    "LBL_TIME": "Ημερομηνία",
+    "LBL_USER": "Όνομα χρήστη",
+    "LBL_FROM_VERSION": "Από την έκδοση",
+    "LBL_TO_VERSION": "Στην έκδοση",
+    "LBL_RESULT": "Κατάσταση",
+    "LBL_UPDATES": "Ενημερώσεις",
+    "LBL_UPDATES_DESCRIPTION": "Ιστορικό ενημερώσεων",
+    "LBL_IMPORT_UPDATE": "Μεταφόρτωση ενημερωμένης έκδοσης",
+    "LBL_INSTALL_PACKAGE": "Εγκατάσταση πακέτου",
+    "LBL_DOWNLOAD_PACKAGE": "Κατεβάστε το πακέτο",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Διαθέσιμη αναβάθμιση των πακέτων",
+    "LBL_INSTALLED_PACKAGES": "Εγκατεστημένα πακέτα",
+    "LBL_PACKAGE_VERSION": "Έκδοση πακέτου",
+    "LBL_NAME_PACKAGES": "Όνομα πακέτου"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "php": {
+    "SRequirementsCards": "متطلبات المبيعات",
+    "SINGLE_SRequirementsCards": "متطلبات المبيعات",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "معلومات أساسية",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "LBL_STATISTICS": "الإحصائيات",
+    "LBL_SUBJECT": "الموضوع",
+    "LBL_NUMBER": "عدد",
+    "LBL_CLOSED_TIME": "وقت المغلق",
+    "LBL_STATUS": "الحالة",
+    "SINGLE_SSalesProcesses": "الفرصة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_IN_REALIZATION": "تحقيق",
+    "PLL_FOR_VERIFICATION": "بإنتظار التدقيق",
+    "PLL_CANCELLED": "ملغى",
+    "PLL_COMPLETED": "إكمال",
+    "LBL_CHANGE_STATUS": "تغيير الحالة"
+  }
+}

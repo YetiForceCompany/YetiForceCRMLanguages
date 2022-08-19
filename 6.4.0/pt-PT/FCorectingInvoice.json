@@ -1,0 +1,34 @@
+{
+  "php": {
+    "FCorectingInvoice": "Correção De Faturas",
+    "SINGLE_FCorectingInvoice": "Correção De Faturas",
+    "LBL_CUSTOM_INFORMATION": "Informações do Sistema",
+    "LBL_INVOICE_ADDRESS": "Morada de facturação",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Endereço de Entrega",
+    "FL_SUBJECT": "Assunto",
+    "FL_PAYMENT_DATE": "Prazo",
+    "FL_SALE_DATE": "Data de venda",
+    "FL_BANK_ACCOUNT": "Número da conta bancária",
+    "FL_NUMBER": "Número da Fatura",
+    "FL_ACCOUNT": "Conta",
+    "FL_TOTAL": "Líquido",
+    "FL_GROSS": "Bruto",
+    "FL_STATUS": "Estado",
+    "PLL_WIRE_TRANSFER": "Transferência eletrônica",
+    "LBL_YEAR": "Ano",
+    "FL_INVOICE": "Fatura",
+    "LBL_COMMENTS": "Comentários",
+    "FL_EXTERNAL_COMMENT": "Comentário externo",
+    "FL_INTERNAL_COMMENT": "Comentário interno",
+    "LBL_BEFORE_CORRECTION": "Antes da correção",
+    "LBL_AFTER_CORRECTION": "Após a correção",
+    "LBL_CHOOSE_INVOICE": "Selecionar fatura a ser corrigida",
+    "LBL_COPY_FROM_INVOICE": "Copiar da fatura inicial",
+    "LBL_INVOICE_INFO": "Campos iniciais da fatura - antes das correções.",
+    "LBL_AFTER_INVOICE_INFO": "Como deve ficar a fatura final depois da correção.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Campos da fatura a ser corrigida. Copie todos os campos da fatura inicial e altere os valores conforme necessário."
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Selecionar fatura a ser corrigida"
+  }
+}

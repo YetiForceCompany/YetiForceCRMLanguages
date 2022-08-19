@@ -1,0 +1,23 @@
+{
+  "php": {
+    "Map": "Térkép",
+    "LBL_MAP": "Térkép",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Csempe réteg",
+    "LBL_TILE_LAYER_INFO_1": "Válassza ki azt a kiszolgálót, ahonnan a térképrészleteket le szeretné tölteni a térképen. Minden szerver másképp mutatja a térképet, hozzáadhat saját vagy nyilvános szervert is, de ügyeljen a korlátozásokra és a licenckorlátozásokra.",
+    "LBL_TILE_LAYER_INFO_2": "További kiszolgálók hozzáadásához módosítsa a $tileLayerServers a %s fájlban. A nyilvánosan elérhető tile-layer-kiszolgálók a következő címen érhetők el:",
+    "LBL_PROVIDER_NAME": "Szolgáltató neve",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Csempe réteg url sablon",
+    "LBL_API_URL": "Szolgáltató API URL",
+    "LBL_DRIVER": "Illesztõprogram",
+    "LBL_COORDINATES": "Koordináták",
+    "LBL_COORDINATES_INFO_1": "Válassza ki a földrajzi koordináták letöltéséhez használandó szervert. A Cron frissíti a címmezők koordinátáit. Vigyázzon a szolgáltató korlátozására, a rendszer gyakran kéréseket küld a kiszolgálóknak. Légy tudatában annak a ténynek, hogy az ingyenes kiszolgálóknak nagy korlátai vannak, és megosztja velük az adatait. Mindig válasszon megbízható kiszolgálókat.",
+    "LBL_COORDINATES_INFO_2": "További kiszolgálók hozzáadásához módosítsa a $coordinatesServers a %s fájlban. A nyilvánosan elérhető térkép-kiszolgálók a következő címen érhetők el:",
+    "LBL_AVAILABLE_DRIVERS": "Illesztőprogramok érhetők el a rendszerben",
+    "LBL_PROVIDER_ACTIVE": "Aktív",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_ROUTING": "Útvonal",
+    "LBL_ROUTING_INFO_1": "Válassza ki azt a szervert, amelyet a járművek útvonalainak tervezéséhez használ. A rendszer megadja azon pontok koordinátáit, amelyekhez az útvonalat le szeretné illeszteni.",
+    "LBL_ROUTING_INFO_2": "További kiszolgálók hozzáadásához módosítsa a $routingServers a %s fájlban. A nyilvánosan elérhető térkép-kiszolgálók a következő címen érhetők el:"
+  }
+}

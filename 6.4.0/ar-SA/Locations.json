@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Locations": "المواقع",
+    "SINGLE_Locations": "الموقع",
+    "LBL_LOCATIONS_INFORMATION": "المعلومات الأساسية",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "LBL_SUBJECT": "الموضوع",
+    "LBL_NUMBER": "رقم",
+    "LBL_CLOSED_TIME": "وقت الإغلاق",
+    "FL_PHONE": "الهاتف",
+    "FL_CAPACITY": "السعة"
+  }
+}

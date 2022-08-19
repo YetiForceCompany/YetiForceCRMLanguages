@@ -1,0 +1,29 @@
+{
+  "php": {
+    "FL_NAME": "Name",
+    "FL_PROVIDER": "Oprateur",
+    "FL_STATUS": "Statut",
+    "FL_SMSAPI_FROM": "Nom de l'expéditeur",
+    "FL_API_KEY": "Clé API",
+    "LBL_ADD_RECORD": "Ajouter un enregistrement",
+    "LBL_SMSNOTIFIER": "Configuration de l'opérateur",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nouvelle configuration",
+    "LBL_EDIT_CONFIGURATION": "Editer la configuration",
+    "BTN_SAVE": "Enregistrer",
+    "BTN_CLOSE": "Annuler",
+    "LBL_SMSPROVIDER_CREATE": "Add provider",
+    "LBL_SMSPROVIDER_EDIT": "Edit provider",
+    "LBL_CALLBACK_ADDRESSES": "Callback addresses",
+    "LBL_CALLBACK_ADDRESSES_DESC": "In order to generate callback addresses for SMS communication, it is necessary to first create a webservice connection for SMS.\nThe following URLs must be entered in the callback section directly at the provider.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Reports (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Reception (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL for delivery reports. To be entered directly at the provider.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL for receptions. To be entered directly at the provider."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Etes-vous sur de vouloir supprimer cette configuration de fournisseur SMS?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Fournisseur SMS supprimé avec succès",
+    "JS_SAVE_SUCCESS": "Enregistré"
+  }
+}

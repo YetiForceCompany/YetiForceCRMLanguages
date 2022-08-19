@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "添加到",
+    "LBL_EDIT_LIST_PRICE": "编辑价格表",
+    "LBL_PRICEBOOK_INFORMATION": "价格表详情",
+    "LBL_UNIT_PRICE": "单价",
+    "Price Book Name": "价格表名称",
+    "PriceBook No": "价格表编号",
+    "PriceBooks": "价格表",
+    "SINGLE_PriceBooks": "价格表",
+    "yes": "是",
+    "no": "否",
+    "Unit Price": "单价",
+    "LBL_SPECIFY_THE_MARGIN": "指定边距",
+    "LBL_SPECIFY_THE_MARGINP": "指定边距 （%）"
+  }
+}

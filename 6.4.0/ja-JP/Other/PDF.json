@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_INVOICE": "請求書",
+    "LBL_INVOICE_NUMBER": "VAT請求書番号",
+    "LBL_TO_FINVOICE_NUMBER": "VAT請求書番号へ",
+    "LBL_INVOICE_PROFORMA": "プロ-フォーマ請求書",
+    "LBL_RECIPIENT": "受取人",
+    "LBL_ORDER": "注文",
+    "LBL_SUBMIT_ORDER": "注文を提出する権限のある人",
+    "LBL_TO_PAY": "合計",
+    "LBL_TO_PAY_WORD": "合計 (in words)",
+    "LBL_DEALER": "販売者",
+    "LBL_BUYER": "購入者",
+    "LBL_AUTHORIZED_TO_RECEIVE": "受領権限者",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "発行権限者",
+    "LBL_SALES_QUOTE_FOR": "見積もり",
+    "LBL_DATE_EXECUTION": "完了日",
+    "LBL_STAGE": "発行者:",
+    "LBL_VALID_UNTIL": "有効期限",
+    "LBL_QUOTE_NUMBER": "見積書番号",
+    "LBL_DETAILS": "詳細",
+    "LBL_COMMENTS": "コメント",
+    "LBL_FIRST_NAME": "名",
+    "LBL_LAST_NAME": "姓",
+    "LBL_PHONE": "電話",
+    "LBL_EMAIL": "メール",
+    "LBL_VATID": "Vat ID",
+    "LBL_SALE_DATE": "販売日",
+    "LBL_PLACE_DATE": "配置、日付",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "FL_NAME": "Name",
+    "FL_PROVIDER": "Furnizor",
+    "FL_STATUS": "Status",
+    "FL_SMSAPI_FROM": "Sender name",
+    "FL_API_KEY": "Cheie Api",
+    "LBL_ADD_RECORD": "Configuratie noua",
+    "LBL_SMSNOTIFIER": "Configurare furnizor SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Configuratie noua",
+    "LBL_EDIT_CONFIGURATION": "Modifica configuratie",
+    "BTN_SAVE": "Salveaza",
+    "BTN_CLOSE": "Anuleaza",
+    "LBL_SMSPROVIDER_CREATE": "Add provider",
+    "LBL_SMSPROVIDER_EDIT": "Edit provider",
+    "LBL_CALLBACK_ADDRESSES": "Callback addresses",
+    "LBL_CALLBACK_ADDRESSES_DESC": "In order to generate callback addresses for SMS communication, it is necessary to first create a webservice connection for SMS.\nThe following URLs must be entered in the callback section directly at the provider.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Reports (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Reception (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL for delivery reports. To be entered directly at the provider.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL for receptions. To be entered directly at the provider."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Sunteti sigur ca doriti sa stergeti aceasta configuratie?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuratie stearsa cu succes",
+    "JS_SAVE_SUCCESS": "Salvat"
+  }
+}

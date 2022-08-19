@@ -1,0 +1,18 @@
+{
+  "php": {
+    "BankAccounts": "Konta bankowe",
+    "SINGLE_BankAccounts": "Konto bankowe",
+    "LBL_CUSTOM_INFORMATION": "Informacje dodatkowe",
+    "LBL_BASIC_INFORMATION": "Informacje podstawowe",
+    "FL_NAME": "Nazwa",
+    "FL_BANK_ACCOUNT_NUMBER": "Numer konta",
+    "FL_CURRENCY": "Waluta",
+    "FL_SWIFT": "Kod SWIFT",
+    "FL_BANK_NAME": "Nazwa banku",
+    "FL_STATUS": "Status",
+    "FL_MULTICOMPANY": "Dział",
+    "PLL_DRAFT": "Wersja robocza",
+    "PLL_ACTIVE": "Aktywny",
+    "PLL_INACTIVE": "Nieaktywny"
+  }
+}

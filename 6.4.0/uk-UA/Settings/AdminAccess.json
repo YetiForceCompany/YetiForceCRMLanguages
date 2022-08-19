@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Доступ адміністратора",
+    "LBL_ADMIN_ACCESS": "Доступ адміністратора",
+    "LBL_PERMISSIONS": "Дозволи",
+    "BTN_MASS_EDIT_ACCESS": "Масове редагування",
+    "FL_MODULE_NAME": "Назва модуля",
+    "LBL_ACTIVE": "Активно",
+    "LBL_EDIT_ADMIN_ACCESS": "Редагування прав адміністратора",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Мета входу",
+    "FL_DATE_TIME": "Дата",
+    "FL_PURPOSE": "Мета",
+    "FL_USER": "Користувач",
+    "FL_BASE_USER": "Базовий користувач",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Зміни збережено"
+  }
+}

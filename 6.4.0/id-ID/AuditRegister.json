@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Daftar Audit",
+    "SINGLE_AuditRegister": "Daftar Audit",
+    "LBL_BASIC_INFORMATION": "Informasi Dasar",
+    "FL_NAME": "Nama",
+    "FL_LOCATION_REGISTER": "Daftarkan lokasi",
+    "FL_DATASETREGISTER": "Daftarkan kumpulan data",
+    "PLL_DRAFT": "Konsep",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Menunggu penerimaan",
+    "PLL_IN_REALIZATION": "Dalam realisasi",
+    "PLL_COMPLETED": "Selesai",
+    "PLL_CANCELLED": "Dibatalkan",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Tipe",
+    "PLL_INTERNAL": "Intern",
+    "PLL_EXTERNAL": "Eksternal",
+    "LBL_DESCRIPTION": "Deskripsi",
+    "FL_DESCRIPTION": "Deskripsi",
+    "FL_COMMENTS": "Komentar-komentar",
+    "LBL_COMMENTS": "Komentar-komentar"
+  }
+}

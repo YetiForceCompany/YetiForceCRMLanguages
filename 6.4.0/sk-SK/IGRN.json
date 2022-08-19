@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "Goods Received Note",
+    "SINGLE_IGRN": "Goods Received Note",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
+    "LBL_ATTENTION_BLOCK": "Komentáre",
+    "FL_ACCEPTANCE_DATE": "Date of acceptance",
+    "FL_VENDOR": "Vendor",
+    "FL_SUBJECT": "Predmet",
+    "FL_NUMBER": "Number",
+    "FL_STORAGE": "Sklad",
+    "FL_STATUS": "Stav",
+    "PLL_DRAFT": "Koncept",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_OBJECTIONS": "Objections",
+    "PLL_FOR_APPROVAL": "Na schválenie",
+    "PLL_CANCELLED": "Zrušené",
+    "PLL_ACCEPTED": "Akceptované",
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
+  }
+}

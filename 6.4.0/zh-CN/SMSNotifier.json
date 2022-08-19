@@ -1,0 +1,33 @@
+{
+  "php": {
+    "SMSNotifier": "SMS messages",
+    "SINGLE_SMSNotifier": "SMS message",
+    "LBL_CUSTOM_INFORMATION": "System information",
+    "BL_SMS_CONTENT": "SMS content",
+    "FL_RELATED_TO": "Related to",
+    "FL_STATUS": "状态",
+    "FL_PARENT": "Parent SMS",
+    "FL_IMAGE": "Image file",
+    "FL_MESSAGE_ID": "Message ID",
+    "PLL_UNDEFINED": "未定义的",
+    "PLL_DELIVERED": "已发送",
+    "PLL_FAILED": "失败",
+    "PLL_SENT": "Sent",
+    "PLL_QUEUE": "In queue",
+    "PLL_REPLY": "Reply",
+    "LBL_MASS_SEND_SMS_INFO": "所有文本消息都在定时任务中发送",
+    "LBL_CHECK_STATUS": "检查状态",
+    "FL_MESSAGE": "信息",
+    "LBL_SMSNOTIFIER_INFORMATION": "SMS信息",
+    "LBL_ADD_MORE_FIELDS": "添加更多字段",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue",
+    "LBL_TEMPLATE": "Template",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "短信最多允许160个字符（在中国是70个汉字）",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "发送短信给选定的号码",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Phone number from",
+    "LBL_ADD_IMAGE_FILE": "Add an image file",
+    "LBL_TYPE_THE_MESSAGE": "输入消息",
+    "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Limit of one-time created text messages",
+    "LBL_SERVER_CONFIG": "服务器参数设置"
+  }
+}

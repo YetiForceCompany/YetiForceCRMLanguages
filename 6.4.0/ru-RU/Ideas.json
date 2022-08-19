@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Идеи",
+    "SINGLE_Ideas": "Идеи",
+    "LBL_IDEAS_INFORMATION": "Основная информация",
+    "LBL_SUBJECT": "Тема",
+    "LBL_STATUS": "Статус",
+    "Description": "Краткое описание",
+    "LBL_EXTENT_DESCRIPTION": "Полное описание",
+    "Attention": "Комментарии",
+    "LBL_NO": "Номер",
+    "Draft": "Черновик",
+    "Proposition": "Предложение"
+  }
+}

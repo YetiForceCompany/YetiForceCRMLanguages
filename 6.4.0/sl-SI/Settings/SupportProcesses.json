@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Podpora",
+    "LBL_GENERAL_CONFIGURATION": "Splošne nastavitve",
+    "LBL_OTHER": "Drugo",
+    "LBL_INFO": "Informacije",
+    "LBL_TYPE": "Vrsta",
+    "LBL_TICKET_STATUS_INFO": "Statuses determining that ticket is closed",
+    "LBL_SAVE_CONFIG_OK": "Changes have been saved",
+    "LBL_SAVE_CONFIG_ERROR": "Changes have been saved.",
+    "SupportProcesses": "Procesi podpore"
+  },
+  "js": {}
+}

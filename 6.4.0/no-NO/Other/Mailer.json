@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Planlagt import er ferdig",
+    "LBL_CRON_COMPLETED_IMPORT": "Import sammendrag for modul:"
+  }
+}

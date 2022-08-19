@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Proxy",
+    "LBL_PROXY_CONFIGRATION": "Configuración del proxy",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy",
+    "LBL_PROXY_CONNECTION": "Conexión",
+    "LBL_PROXY_PROTOCOL": "Protocolo",
+    "LBL_PROXY_HOST": "Host",
+    "LBL_PROXY_PORT": "Puerto",
+    "LBL_PROXY_LOGIN": "Inicio sesión",
+    "LBL_PROXY_PASSWORD": "Contraseña",
+    "LBL_PROXY_INFORMATION": "Lugares del sistema que se comunican con servidores externos: \n - Motor de búsqueda de contraseñas seguro - Servidor Yetiford, \n - Instalación de idioma - Servidor Github, \n - Buscador de direcciones - Servidor Yetiford, \n - Integración con Magento - Servidor Magento, \n - Motor de búsqueda Coordenada - Servidor Yetiford, Servidor OpenStreetMap, \n - Búsqueda de rutas - Servidor Yetiforce, servidores indicados por el usuario en la configuración, \n - Comunicación con el servidor de actualizaciones - servidor Github, \n - Comunicación con el servidor de registro - servidor Yetiforce, \n - Integración con OpenStreetMap - servidor Yetiforce, Servidor y servidores de OpenStreetMap indicados por el usuario en la configuración, \n - Actualización de los tipos de cambio - Servidores bancarios (NBP, CBR, ECB, NBR), \n - Instalación y actualización de bibliotecas - Servidor Github"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Detalles de configuración guardados"
+  }
+}
