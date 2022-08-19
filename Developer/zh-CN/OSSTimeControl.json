@@ -100,10 +100,10 @@
     "LBL_WORK_DAYS": "工作天数",
     "Employees Time Control": "Employees Time Control",
     "LBL_ALL_TIME_CONTROL": "All users total working time",
-    "LBL_START_TIME_COUNTER": "Start time counter",
-    "LBL_STOP_TIME_COUNTER": "Stop time counter",
-    "LBL_RESET_TIME_COUNTER": "Reset time counter",
-    "LBL_ADD_MINUTES": "Add %s minutes to work time"
+    "LBL_START_TIME_COUNTER": "开始时间计数器",
+    "LBL_STOP_TIME_COUNTER": "停止时间计数器",
+    "LBL_RESET_TIME_COUNTER": "重置计数器",
+    "LBL_ADD_MINUTES": "添加 %s 分钟到工作时间"
   },
   "js": {
     "MSG_ERROR_NUMBER": "只允许数字: [0-9]",

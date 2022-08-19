@@ -19,6 +19,7 @@
     "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Сигурни ли сте, че искате да изтриете този запис?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Сигурни ли сте, че искате да изтриете този запис?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
   }
 }

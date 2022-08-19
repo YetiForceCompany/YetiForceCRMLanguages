@@ -19,6 +19,7 @@
     "LBL_HOLIDAYS_INFO": "Rezultatem zaznaczenia święta będzie pomijanie tego dnia przy wyliczaniu czasu pracy."
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?"
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć ten wpis?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Proszę wybrać co najmniej jeden dzień roboczy."
   }
 }
