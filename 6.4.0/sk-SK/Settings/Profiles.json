@@ -98,7 +98,7 @@
     "CustomViewAdvCond": "Pokročilé vlastné zobrazenia podmienok",
     "RecordActivityNotifier": "Oznamovač aktivity v záznamoch",
     "WorkflowTriggerWhenRecordIsBlocked": "Spúšťač pracovného postupu keď je záznam blokovaný",
-    "LeaderCanManageGroupMembership": "Leader can manage group membership"
+    "LeaderCanManageGroupMembership": "Vedúci môže spravovať členstvo v skupine"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

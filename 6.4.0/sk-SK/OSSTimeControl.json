@@ -100,10 +100,10 @@
     "LBL_WORK_DAYS": "Pracovné dni",
     "Employees Time Control": "Časový fond zamestnancov",
     "LBL_ALL_TIME_CONTROL": "Celkový pracovný čas všetkých užívateľov",
-    "LBL_START_TIME_COUNTER": "Start time counter",
-    "LBL_STOP_TIME_COUNTER": "Stop time counter",
-    "LBL_RESET_TIME_COUNTER": "Reset time counter",
-    "LBL_ADD_MINUTES": "Add %s minutes to work time"
+    "LBL_START_TIME_COUNTER": "Spustiť počítadlo času",
+    "LBL_STOP_TIME_COUNTER": "Zastaviť počítadlo času",
+    "LBL_RESET_TIME_COUNTER": "Resetovať počítadlo času",
+    "LBL_ADD_MINUTES": "Pridať %s minúty do pracovného času"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Allowed characters: [0-9]",

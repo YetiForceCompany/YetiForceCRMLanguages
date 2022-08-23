@@ -20,6 +20,6 @@
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?",
-    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Vyberte prosím aspoň jeden pracovný deň."
   }
 }

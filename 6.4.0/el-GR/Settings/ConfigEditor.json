@@ -25,7 +25,7 @@
     "LBL_RELATION_SHOW_RECORDS_COUNT": "Εμφάνιση αριθμού εγγραφών στις καρτέλες σχετιζόμενων modules",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Ξεχωριστά κουμπιά ενεργειών για την αλλαγή πρόσθετων δεδομένων",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Το κουμπί ορίζει έναν ειδικό τύπο δεδομένων που ανήκει μόνο στις σχέσεις, διαθέσιμες π.χ. στο module Occurrences",
-    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Max number of export records",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Μέγιστος αριθμός εγγραφών εξαγωγής",
     "LBL_PERFORMANCE": "Performance"
   },
   "js": {

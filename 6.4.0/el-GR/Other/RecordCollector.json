@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_REQUEST_DATE": "Request Date",
-    "LBL_REQUEST_ID": "Request ID",
+    "LBL_REQUEST_ID": "Αναγνωριστικό Αίτησης",
     "LBL_VIES": "Confirm the VAT-EU number",
     "LBL_VIES_DESC": "Checks if the business entity has a valid VAT-EU number for intra-community transactions within the European Union.",
     "LBL_VATIFY_EU": "VATify.eu",
