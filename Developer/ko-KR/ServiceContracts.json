@@ -48,13 +48,5 @@
     "LBL_STATUS": "상태",
     "LBL_CONDITIONS": "조건",
     "LBL_TIMES": "시간"
-  },
-  "js": {
-    "JS_POLICY_NAME": "정책 이름",
-    "JS_OPERATIONAL_HOURS": "영업 시간",
-    "JS_REACTION_TIME": "반응 시간",
-    "JS_IDLE_TIME": "휴식 시간",
-    "JS_RESOLVE_TIME": "해결 시간",
-    "JS_BUSINESS_HOURS": "업무 시간"
   }
 }

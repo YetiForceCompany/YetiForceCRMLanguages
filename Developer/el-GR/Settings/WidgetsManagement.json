@@ -47,7 +47,11 @@
     "LBL_SKIP_YEAR_DESC": "Παράλειψη του έτους του γεγονότος λαμβάνοντας υπόψη μόνο το μήνα και την ημέρα.",
     "LBL_WIDGET_NAME": "Όνομα Widget",
     "BTN_NEXT": "Επόμενο",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_DEFAULT_TIME": "Default call end time (min)",
+    "LBL_MOVE": "Move",
+    "LBL_TRANSFER": "Transfer",
+    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_NOT_SAVED": "Your changes could not be saved"
   },
   "js": {
     "JS_BLOCK_ADDED": "Μπλοκ έχει προστεθεί με επιτυχία",
@@ -55,6 +59,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Μπλοκ έχει διαγραφεί με επιτυχία",
     "JS_WIDGET_ADDED": "Widget έχει προστεθεί με επιτυχία",
     "JS_FIELD_EMPTY": "Το πεδίο δεν μπορεί να είναι κενό",
-    "JS_FILTERS_AVAILABLE": "Διαθέσιμα φίλτρα"
+    "JS_FILTERS_AVAILABLE": "Διαθέσιμα φίλτρα",
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Select at least one widget"
   }
 }

@@ -47,7 +47,11 @@
     "LBL_SKIP_YEAR_DESC": "Tralascia l'anno dell'evento considerando solo il mese e il giorno.",
     "LBL_WIDGET_NAME": "Nome del widget",
     "BTN_NEXT": "Successivo",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_DEFAULT_TIME": "Default call end time (min)",
+    "LBL_MOVE": "Move",
+    "LBL_TRANSFER": "Transfer",
+    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_NOT_SAVED": "Your changes could not be saved"
   },
   "js": {
     "JS_BLOCK_ADDED": "Il blocco è stato aggiunto",
@@ -55,6 +59,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Il blocco è stato eliminato",
     "JS_WIDGET_ADDED": "Widget aggiunto",
     "JS_FIELD_EMPTY": "Il campo non può essere vuoto",
-    "JS_FILTERS_AVAILABLE": "Filtri disponibili"
+    "JS_FILTERS_AVAILABLE": "Filtri disponibili",
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Select at least one widget"
   }
 }

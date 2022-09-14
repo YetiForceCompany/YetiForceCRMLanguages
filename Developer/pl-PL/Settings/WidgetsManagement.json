@@ -47,7 +47,11 @@
     "LBL_SKIP_YEAR_DESC": "Pomiń rok wydarzenia, biorąc pod uwagę tylko miesiąc i dzień.",
     "LBL_WIDGET_NAME": "Nazwa widżetu",
     "BTN_NEXT": "Dalej",
-    "LBL_DEFAULT_TIME": "Domyślny czas zakończenia połączenia (min)"
+    "LBL_DEFAULT_TIME": "Domyślny czas zakończenia połączenia (min)",
+    "LBL_MOVE": "Przenieś",
+    "LBL_TRANSFER": "Przelew",
+    "LBL_SAVED_SUCCESSFULLY": "Zapisano pomyślnie",
+    "LBL_NOT_SAVED": "Zmiany nie mogły zostać zapisane"
   },
   "js": {
     "JS_BLOCK_ADDED": "Pomyślnie dodano blok",
@@ -55,6 +59,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Pomyślnie usunięto blok",
     "JS_WIDGET_ADDED": "Pomyślnie dodano widget",
     "JS_FIELD_EMPTY": "Pole nie może być puste",
-    "JS_FILTERS_AVAILABLE": "Filtry dostępne"
+    "JS_FILTERS_AVAILABLE": "Filtry dostępne",
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Wybierz co najmniej jeden widget"
   }
 }

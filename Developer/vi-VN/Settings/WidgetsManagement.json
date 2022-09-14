@@ -47,7 +47,11 @@
     "LBL_SKIP_YEAR_DESC": "Skip the year of the event by only considering the month and day.",
     "LBL_WIDGET_NAME": "Widget name",
     "BTN_NEXT": "Next",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_DEFAULT_TIME": "Default call end time (min)",
+    "LBL_MOVE": "Move",
+    "LBL_TRANSFER": "Transfer",
+    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_NOT_SAVED": "Your changes could not be saved"
   },
   "js": {
     "JS_BLOCK_ADDED": "Khối đã được thêm thành công",
@@ -55,6 +59,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Khối đã được xoá thành công",
     "JS_WIDGET_ADDED": "Tiện ích đã được thêm thành công",
     "JS_FIELD_EMPTY": "Trường này không được để trống",
-    "JS_FILTERS_AVAILABLE": "Bộ lọc có sẵn"
+    "JS_FILTERS_AVAILABLE": "Bộ lọc có sẵn",
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Select at least one widget"
   }
 }

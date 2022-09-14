@@ -48,13 +48,5 @@
     "LBL_STATUS": "Status",
     "LBL_CONDITIONS": "Warunki",
     "LBL_TIMES": "Czasy"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Nazwa",
-    "JS_OPERATIONAL_HOURS": "Godziny",
-    "JS_REACTION_TIME": "Czas reakcji",
-    "JS_IDLE_TIME": "Czas bezczynności",
-    "JS_RESOLVE_TIME": "Czas rozwiązania",
-    "JS_BUSINESS_HOURS": "Godziny pracy"
   }
 }

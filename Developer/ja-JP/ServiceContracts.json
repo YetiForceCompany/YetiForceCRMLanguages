@@ -48,13 +48,5 @@
     "LBL_STATUS": "ステータス",
     "LBL_CONDITIONS": "条件",
     "LBL_TIMES": "時間"
-  },
-  "js": {
-    "JS_POLICY_NAME": "ポリシー名",
-    "JS_OPERATIONAL_HOURS": "運用時間",
-    "JS_REACTION_TIME": "リアクション時間",
-    "JS_IDLE_TIME": "アイドル時間",
-    "JS_RESOLVE_TIME": "解決時間",
-    "JS_BUSINESS_HOURS": "営業時間"
   }
 }

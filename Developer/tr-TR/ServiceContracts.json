@@ -48,13 +48,5 @@
     "LBL_STATUS": "Durum",
     "LBL_CONDITIONS": "Koşullar",
     "LBL_TIMES": "Kez"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Politika adı",
-    "JS_OPERATIONAL_HOURS": "Operasyonel saat",
-    "JS_REACTION_TIME": "Reaksiyon Süresi",
-    "JS_IDLE_TIME": "Boşta kalma zamanı",
-    "JS_RESOLVE_TIME": "Çözümleme süresi",
-    "JS_BUSINESS_HOURS": "Çalışma saatleri"
   }
 }

@@ -48,13 +48,5 @@
     "LBL_STATUS": "Κατάσταση",
     "LBL_CONDITIONS": "Συνθήκες",
     "LBL_TIMES": "Φορές"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Όνομα πολιτικής",
-    "JS_OPERATIONAL_HOURS": "Ώρες λειτουργίας",
-    "JS_REACTION_TIME": "Χρόνος απόκρισης",
-    "JS_IDLE_TIME": "Χρόνος αδράνειας",
-    "JS_RESOLVE_TIME": "Χρόνος επίλυσης",
-    "JS_BUSINESS_HOURS": "Ώρες λειτουργίας"
   }
 }

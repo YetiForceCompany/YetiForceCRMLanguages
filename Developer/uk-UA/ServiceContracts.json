@@ -48,13 +48,5 @@
     "LBL_STATUS": "Статус",
     "LBL_CONDITIONS": "Умови",
     "LBL_TIMES": "Час"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Політика йменування",
-    "JS_OPERATIONAL_HOURS": "Робочі години",
-    "JS_REACTION_TIME": "Тривалість відклику",
-    "JS_IDLE_TIME": "Тривалість простою",
-    "JS_RESOLVE_TIME": "Тривалість вирішення",
-    "JS_BUSINESS_HOURS": "Робочі години"
   }
 }

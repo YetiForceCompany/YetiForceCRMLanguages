@@ -47,7 +47,11 @@
     "LBL_SKIP_YEAR_DESC": "Пропустити рік події лише розглянувши місяць і день.",
     "LBL_WIDGET_NAME": "Widget name",
     "BTN_NEXT": "Next",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_DEFAULT_TIME": "Default call end time (min)",
+    "LBL_MOVE": "Move",
+    "LBL_TRANSFER": "Transfer",
+    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_NOT_SAVED": "Your changes could not be saved"
   },
   "js": {
     "JS_BLOCK_ADDED": "Блок був успішно доданий",
@@ -55,6 +59,7 @@
     "JS_CUSTOM_BLOCK_DELETED": "Блок видалено успішно",
     "JS_WIDGET_ADDED": "Віджет було додано успішно",
     "JS_FIELD_EMPTY": "Поле не може бути порожнім",
-    "JS_FILTERS_AVAILABLE": "Доступні фільтри"
+    "JS_FILTERS_AVAILABLE": "Доступні фільтри",
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Select at least one widget"
   }
 }
