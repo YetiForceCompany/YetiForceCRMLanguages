@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Prikaži skrite geslo",
     "LBL_NO_DATA_FOUND": "Ne najdem podatkov",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in this module.",
-    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in this module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "Ta '%s' že obstaja v tem modulu.",
     "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
     "FL_MAGENTO_SERVER": "Magento server",

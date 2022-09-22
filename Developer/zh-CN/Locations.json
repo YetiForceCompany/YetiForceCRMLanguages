@@ -1,14 +1,14 @@
 {
   "php": {
-    "Locations": "Locations",
-    "SINGLE_Locations": "Location",
-    "LBL_LOCATIONS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "FL_PHONE": "Phone",
-    "FL_CAPACITY": "Capacity"
+    "Locations": "位置",
+    "SINGLE_Locations": "位置",
+    "LBL_LOCATIONS_INFORMATION": "基本信息",
+    "LBL_CUSTOM_INFORMATION": "系统信息",
+    "LBL_DESCRIPTION_INFORMATION": "详细介绍",
+    "LBL_SUBJECT": "标题",
+    "LBL_NUMBER": "编号",
+    "LBL_CLOSED_TIME": "关闭时间",
+    "FL_PHONE": "手机",
+    "FL_CAPACITY": "能力"
   }
 }

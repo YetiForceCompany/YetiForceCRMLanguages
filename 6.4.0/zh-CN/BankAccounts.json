@@ -1,18 +1,18 @@
 {
   "php": {
-    "BankAccounts": "Bank accounts",
-    "SINGLE_BankAccounts": "Bank account",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
-    "FL_BANK_ACCOUNT_NUMBER": "Account number",
-    "FL_CURRENCY": "Currency",
+    "BankAccounts": "银行账户",
+    "SINGLE_BankAccounts": "银行账户",
+    "LBL_CUSTOM_INFORMATION": "客户信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "FL_NAME": "名称",
+    "FL_BANK_ACCOUNT_NUMBER": "账户编号",
+    "FL_CURRENCY": "币种",
     "FL_SWIFT": "SWIFT",
-    "FL_BANK_NAME": "Bank name",
+    "FL_BANK_NAME": "银行名称",
     "FL_STATUS": "状态",
-    "FL_MULTICOMPANY": "Department",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "FL_MULTICOMPANY": "部门",
+    "PLL_DRAFT": "汇票",
+    "PLL_ACTIVE": "活动",
+    "PLL_INACTIVE": "未启用"
   }
 }

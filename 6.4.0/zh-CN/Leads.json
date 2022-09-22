@@ -59,7 +59,7 @@
     "PLL_B2C": "B2C",
     "PLL_B2B": "B2B",
     "PLL_NATURAL_PERSON": "私营企业",
-    "PLL_COMPANY": "Company",
+    "PLL_COMPANY": "公司",
     "PLL_BUSINESS_ACTIVITY": "独资企业",
     "Total emails": "电子邮件数量",
     "Total comments": "评论数量",
@@ -73,12 +73,12 @@
     "LBL_RELATION": "关系",
     "LBL_LEGAL_FORM": "公司类型",
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "至少两个帐户需要符合要求的链接，转到:管理 > 流程 > 营销流程 > 转换) %s",
-    "History": "History",
-    "Leads by Industry": "Leads by industry",
-    "Leads by Source": "Leads by source",
-    "Leads by Status": "Leads by status",
-    "Leads by Status Converted": "Leads converted by status",
-    "Overdue Activities": "Overdue activities"
+    "History": "历史",
+    "Leads by Industry": "按行业分列的潜在客户",
+    "Leads by Source": "按来源分列的潜在客户",
+    "Leads by Status": "按状态分列的潜在客户",
+    "Leads by Status Converted": "按状态转换的潜在客户",
+    "Overdue Activities": "逾期活动"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "选择客户进行处理"

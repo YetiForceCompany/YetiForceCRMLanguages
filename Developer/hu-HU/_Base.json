@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Rejtett jelszó megjelenítése",
     "LBL_NO_DATA_FOUND": "Nem található adat",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Ez az e-mail cím már létezik ebben a modulban.",
-    "LBL_DUPLICATE_VAT_ID": "Ez a adó-azonosító már létezik ebben a modulban.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "Ez a '%s' kód már létezik ebben a modulban.",
     "LBL_DUPLICATE_EAN": "Ez az Ean kód már létezik ebben a modulban.",
     "FL_MAGENTO_SERVER": "Magento szerver",

@@ -9,7 +9,7 @@
     "LBL_BACKUP_LIST": "备份列表",
     "ERR_CONFIG_ALERT_TITLE": "备份管理器被禁用",
     "ERR_CONFIG_ALERT_DESC": "在配置文件 [config\/Components\/Backup.php] 中的BACKUP_PATH变量中设置适当的路径以启用它。",
-    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+    "ERR_CONFIG_PATH_ALERT_DESC": "系统无妨访问指定备份目录。请确保路径和所给权限正确。"
   },
   "js": {}
 }

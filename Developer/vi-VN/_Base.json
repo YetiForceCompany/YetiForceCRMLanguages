@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Hiện/ẩn mật khẩu",
     "LBL_NO_DATA_FOUND": "Không có dữ liệu",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Địa chỉ email này đã tồn tại trong mô-đun này.",
-    "LBL_DUPLICATE_VAT_ID": "Mã VAT này đã tồn tại trong mô-đun này.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "'%s' này đã tồn tại trong mô-đun này.",
     "LBL_DUPLICATE_EAN": "Ean này đã tồn tại trong mô-đun này.",
     "FL_MAGENTO_SERVER": "Magento server",

@@ -29,7 +29,7 @@
     "Inactive": "禁用",
     "Other Po Box": "附加地址：邮政信箱",
     "Mailing Po Box": "主要地址：邮政信箱",
-    "LBL_ADDRESS_INFORMATION": "Primary address",
+    "LBL_ADDRESS_INFORMATION": "主要地址",
     "LBL_CONTACT_INFO": "联系信息",
     "Approval for phone calls": "不允许电话呼叫",
     "Approval for email": "不允许发送Email",
@@ -44,13 +44,13 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "全部",
     "LBL_SHOW_HIERARCHY": "联系人层次结构",
     "FL_APPROVALS": "核准",
-    "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
-    "PLL_MAN": "Man",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system.",
-    "History": "History",
-    "Overdue Activities": "Overdue activities"
+    "LBL_PARTICIPANTS": "参与者",
+    "FL_GENDER": "性别",
+    "PLL_WOMAN": "女士",
+    "PLL_MAN": "男士",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "系统中已存在此电子邮件地址的联系人。",
+    "History": "历史",
+    "Overdue Activities": "逾期活动"
   },
   "js": {}
 }

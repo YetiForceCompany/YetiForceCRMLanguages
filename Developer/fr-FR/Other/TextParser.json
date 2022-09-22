@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "Premier jour de ce mois",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "Dernier jour de ce mois",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "Premier jour du mois prochain",
+    "LBL_DATE_NEXT_WORKING_DAY": "Next working day",
     "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Champs dépendants",
     "LBL_PRODUCTS_TABLE": "Table avec bloc avancé",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "Table avec bloc avancé et description",

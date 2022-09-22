@@ -33,11 +33,11 @@
     "LBL_UPDATED": "已更新",
     "LBL_DISPLAYED": "显示",
     "LBL_ADDED": "已添加",
-    "LBL_UNLINK": "removed relation",
+    "LBL_UNLINK": "已删除的关系",
     "LBL_REMOVED": "已删除",
     "LBL_CONVERTED_FROM_LEAD": "来自于潜在客户",
     "LBL_DELETED": "已删除记录",
-    "LBL_DELETED_VALUE": "Deleted value",
+    "LBL_DELETED_VALUE": "删除值",
     "LBL_ACTIVE": "恢复记录",
     "LBL_ARCHIVED": "存档记录",
     "LBL_TRANSFER_EDIT": "转换过程中更改了记录",
@@ -48,9 +48,9 @@
     "LBL_INV_UPDATED": "已更新",
     "LBL_INV_DELETED": "已删除",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "更新组件的配置",
-    "LBL_UPDATES": "System update history",
+    "LBL_UPDATES": "系统更新历史",
     "LBL_PERSON_MAKING_CHANGES": "个人变更",
-    "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_MODULES": "模块",
+    "LBL_SHOW_HIDDEN_DATA": "已显示的隐藏数据"
   }
 }

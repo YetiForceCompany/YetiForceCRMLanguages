@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Pokaż ukryte hasło",
     "LBL_NO_DATA_FOUND": "Nie znaleziono danych",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Podany adres e-mail już istnieje w tym module.",
-    "LBL_DUPLICATE_VAT_ID": "Podany numer NIP już istnieje w tym module.",
+    "LBL_DUPLICATE_VAT_ID": "Podany numer NIP już istnieje w module %s.",
     "LBL_DUPLICATE_FIELD_VALUE": "'%s' już istnieje w tym module.",
     "LBL_DUPLICATE_EAN": "Podany kod EAN już istnieje w tym module.",
     "FL_MAGENTO_SERVER": "Serwer magento",

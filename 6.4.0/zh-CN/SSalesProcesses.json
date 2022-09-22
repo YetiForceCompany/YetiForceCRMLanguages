@@ -21,9 +21,9 @@
     "FL_CAMPAIGN": "市场市场活动",
     "FL_MEMBER_OF": "父级销售机会",
     "FL_START_DATE": "开始日期",
-    "FL_ESTIMATED_MARGIN": "Estimated margin",
-    "FL_EXPECTED_MARGIN": "Expected margin",
-    "FL_EXPECTED_SALE": "Expected sale",
+    "FL_ESTIMATED_MARGIN": "预估利润",
+    "FL_EXPECTED_MARGIN": "预计利润",
+    "FL_EXPECTED_SALE": "预计销售额",
     "PLL_WEBSITE": "网站",
     "PLL_PHONE": "电话",
     "PLL_MAIL_CAMPAIGN": "邮件营销",
@@ -57,8 +57,8 @@
     "LBL_SWITCHHEADER_OFF_0": "关闭",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "打开/关闭",
     "LBL_SHOW_HIERARCHY": "组织结构",
-    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
-    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
-    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
+    "DW_ACTUAL_SALES_OF_TEAM": "团队的实际销售额",
+    "DW_TEAMS_ESTIMATED_SALES": "团队预估销售额",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "预估商机价值"
   }
 }

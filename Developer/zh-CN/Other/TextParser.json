@@ -37,6 +37,7 @@
     "LBL_DATE_FIRST_DAY_OF_THIS_MONTH": "本月第一天",
     "LBL_DATE_LAST_DAY_OF_THIS_MONTH": "本月最后一天",
     "LBL_DATE_FIRST_DAY_OF_NEXT_MONTH": "下个月的第一天",
+    "LBL_DATE_NEXT_WORKING_DAY": "下一个工作日",
     "LBL_DEPENDENT_NEXT_LEVEL_MODULE_FIELDS": "Dependent  fields",
     "LBL_PRODUCTS_TABLE": "具有高级区块的表格",
     "LBL_PRODUCTS_TABLE_DESCRIPTION": "具有高级区块和详细信息的表格",

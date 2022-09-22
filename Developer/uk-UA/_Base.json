@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Показати прихований пароль",
     "LBL_NO_DATA_FOUND": "Даних не знайдено",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Така електронна адреса вже існує в даному модулі.",
-    "LBL_DUPLICATE_VAT_ID": "Такий ідентифікатор ПДВ вже існує в цьому модулі.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "'%s' вже існує в цьому модулі.",
     "LBL_DUPLICATE_EAN": "Цей EAN вже існує в даному модулі.",
     "FL_MAGENTO_SERVER": "Сервер Magento",

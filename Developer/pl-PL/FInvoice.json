@@ -45,6 +45,7 @@
     "FL_PAYMENT_SUM": "Suma wpłat",
     "DW_SUM_FIELD": "Pole sumowania",
     "DW_SUMMATION_BY_MONTHS": "Porównanie sprzedaży po miesiącach",
-    "DW_SUMMATION_BY_USER": "Porównanie sprzedaży po użytkownikach"
+    "DW_SUMMATION_BY_USER": "Porównanie sprzedaży po użytkownikach",
+    "FL_WAPRO_PAID": "WAPRO ERP zapłacono"
   }
 }

@@ -48,9 +48,9 @@
     "LBL_WIDGET_NAME": "Widget name",
     "BTN_NEXT": "Next",
     "LBL_DEFAULT_TIME": "默认通话结束时间(分钟)",
-    "LBL_MOVE": "Move",
-    "LBL_TRANSFER": "Transfer",
-    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_MOVE": "移动",
+    "LBL_TRANSFER": "转移",
+    "LBL_SAVED_SUCCESSFULLY": "已成功保存",
     "LBL_NOT_SAVED": "无法保存更改"
   },
   "js": {
@@ -60,6 +60,6 @@
     "JS_WIDGET_ADDED": "布局组件已添加",
     "JS_FIELD_EMPTY": "字段不能为空",
     "JS_FILTERS_AVAILABLE": "筛选视图可用",
-    "JS_SELECT_AT_LEAST_ONE_WIDGET": "Select at least one widget"
+    "JS_SELECT_AT_LEAST_ONE_WIDGET": "请至少选择一个微件"
   }
 }

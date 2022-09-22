@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "非表示のパスワードを表示",
     "LBL_NO_DATA_FOUND": "データが見つかりません",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "このメールアドレスは既にこのモジュールに存在します。",
-    "LBL_DUPLICATE_VAT_ID": "このVAT IDは、このモジュールに既に存在しています。",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "この '%s' は既にこのモジュールに存在します。",
     "LBL_DUPLICATE_EAN": "この値はすでにこのモジュールに存在します。",
     "FL_MAGENTO_SERVER": "Magentoサーバー",

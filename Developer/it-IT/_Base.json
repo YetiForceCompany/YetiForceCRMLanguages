@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Mostra password nascosta",
     "LBL_NO_DATA_FOUND": "Nessun dato trovato",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Questo indirizzo email esiste già in questo modulo.",
-    "LBL_DUPLICATE_VAT_ID": "Questo id vat esiste già in questo modulo.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "'%s' già esistente in questo modulo.",
     "LBL_DUPLICATE_EAN": "Questo ean esiste già in questo modulo.",
     "FL_MAGENTO_SERVER": "Server Magento",

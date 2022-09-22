@@ -1401,7 +1401,7 @@
     "LBL_SHOW_PASSWORD": "Εμφάνιση κρυφού κωδικού",
     "LBL_NO_DATA_FOUND": "Δεν βρέθηκαν δεδομένα",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου υπάρχει ήδη σε αυτό το module.",
-    "LBL_DUPLICATE_VAT_ID": "Αυτό το ΑΦΜ υπάρχει ήδη σε αυτό το module.",
+    "LBL_DUPLICATE_VAT_ID": "This vat id already exists in %s module.",
     "LBL_DUPLICATE_FIELD_VALUE": "Αυτό το '%s' υπάρχει ήδη σε αυτό το module.",
     "LBL_DUPLICATE_EAN": "Αυτό το ean υπάρχει ήδη σε αυτό το module.",
     "FL_MAGENTO_SERVER": "Magento server",
