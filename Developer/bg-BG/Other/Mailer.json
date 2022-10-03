@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Планираното импортиране приключи",
-    "LBL_CRON_COMPLETED_IMPORT": "Запишете обобщена информация за внос на модула:"
+    "LBL_CRON_COMPLETED_IMPORT": "Запишете обобщена информация за внос на модула:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }

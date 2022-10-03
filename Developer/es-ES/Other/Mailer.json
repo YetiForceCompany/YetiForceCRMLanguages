@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Importación programada ha terminado",
-    "LBL_CRON_COMPLETED_IMPORT": "Registro del resumen de importación para el modulo:"
+    "LBL_CRON_COMPLETED_IMPORT": "Registro del resumen de importación para el modulo:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }

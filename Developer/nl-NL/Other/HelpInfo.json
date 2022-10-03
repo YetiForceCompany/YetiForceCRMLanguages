@@ -15,7 +15,7 @@
     "Users|Email": "Primair e-mailadres (verplicht veld) gebruikt voor o.a. wachtwoord reset.",
     "Users|Secondary email": "Extra e-mailadres.",
     "Users|FL_PRIMARY_PHONE": "Primaire telefoonnummer.",
-    "Users|CRM phone extension": "Extra telefoonnummer.",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "Optie selecteren voor akkoord gebruikers met het ontvangen van nieuwsbrieven via workflowtaken (e-mail verzenden, e-mail verzenden van sjablonen, e-mail met PDF printout)",
     "Users|Date Format": "Het systeem ondersteunt 9 datum formaten, de aanbevolen (getest) is rrrr-mm-dd. We raden alle gebruikers gebruik maken van dezelfde datum-formaat.",
     "Users|Calendar Hour Format": "Het systeem ondersteunt 2 van de tijd formaten, de aanbevolen (getest) is 24 uur per dag. We raden alle gebruikers gebruik maken van hetzelfde formaat.",

@@ -1,17 +1,17 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "LBL_MAIL_INTEGRATION": "Mail integration panel",
-    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
-    "LBL_OUTLOOK": "Outlook add-ins",
-    "LBL_OUTLOOK_ALERT": "Add-ins installation instructions can be found at %s",
-    "LBL_OUTLOOK_ADDRESSES": "Outlook mail server URLs",
-    "LBL_OUTLOOK_ADDRESSES_DESC": "List of addresses where the system will be available as an integration panel, mandatory for Outlook Web App e.g. %s",
-    "LBL_OUTLOOK_SCRIPT": "Allowed CDN servers for JavaScript",
-    "LBL_OUTLOOK_SCRIPT_DESC": "List of allowed CDN server addresses from which JavaScript files can be loaded, e.g. %s",
-    "LBL_OUTLOOK_ACTIVATED_ALERT": "Activation modifies the 'config / Security.php' file and reduces the security level, changes:\n- it allows loading CRM in an inframe\n- it allows loading of external scripts (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- it disables HttpOnly in cookie \n- it changes cookie SameSite to None",
-    "LBL_QUICK_CREATE_MODULES": "List of quick create modules",
-    "LBL_QUICK_CREATE_MODULES_DESC": "List of modules in which data can be created from the integration panel. \n If no value is selected, the system will select the default quick create list",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file"
+    "MailIntegration": "邮件集成面板",
+    "LBL_MAIL_INTEGRATION": "邮件集成面板",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM 是外部邮件客户端中的集成面板",
+    "LBL_OUTLOOK": "outlook 附加组件",
+    "LBL_OUTLOOK_ALERT": "%s 可以找到附加组件安装说明",
+    "LBL_OUTLOOK_ADDRESSES": "outlook 邮件服务器网址",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "系统将作为集成面板的地址列表，Outlook Web App 必须，即 %s",
+    "LBL_OUTLOOK_SCRIPT": "允许 JavaScript 的 CDN 服务器",
+    "LBL_OUTLOOK_SCRIPT_DESC": "可加载 JavaScript 的允许 CDN 服务器地址列表，即 %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "激活修正 ‘config/Security.php’ 文件并减少安全登记，变更有：\n- 其允许在内框中加载 CRM\n- 其允许加载外部脚本 (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- 其禁用 cookie 中的 HttpOnly \n- 其更改 cookie SameSite 为无",
+    "LBL_QUICK_CREATE_MODULES": "快捷创建模块的列表",
+    "LBL_QUICK_CREATE_MODULES_DESC": "可以从集成面板在其中创建的模块列表。 \n 如果没有值被选择，那么系统会选择默认快捷创建列表",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "下载 outlook 附加组件安装文件"
   }
 }

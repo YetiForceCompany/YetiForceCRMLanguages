@@ -15,7 +15,7 @@
     "Users|Email": "آدرس ایمیل اصلی (فیلد اجباری) مورد استفاده در شرایط خاص (به عنوان مثال بازنشانی رمز عبور).",
     "Users|Secondary email": "سایر آدرس‌های ایمیل.",
     "Users|FL_PRIMARY_PHONE": "شماره تلفن اصلی.",
-    "Users|CRM phone extension": "سایر شماره تلفنها.",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "گزینه ای برای انتخاب کاربران برای دریافت خبرنامه های ارسال شده از طریق وظایف گردش کار (ارسال ایمیل، ارسال ایمیل از الگوها، ارسال ایمیل با چاپ PDF)",
     "Users|Date Format": "این سیستم از 9 فرمت تاریخ پشتیبانی می کند، فرمت توصیه شده (تست شده) rrrr-mm-dd است. ما قویاً پیشنهاد می کنیم که همه کاربران از یک قالب تاریخ استفاده کنند.",
     "Users|Calendar Hour Format": "این سیستم از دو فرمت زمانی پشتیبانی می کند، فرمت توصیه شده (تست شده) 24 ساعته است. ما قویاً پیشنهاد می کنیم که همه کاربران از یک فرمت زمانی استفاده کنند.",

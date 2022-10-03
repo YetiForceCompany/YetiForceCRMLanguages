@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "スケジュールされたインポートが完了しました",
-    "LBL_CRON_COMPLETED_IMPORT": "モジュールのレコードインポートの概要:"
+    "LBL_CRON_COMPLETED_IMPORT": "モジュールのレコードインポートの概要:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }

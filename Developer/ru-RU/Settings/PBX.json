@@ -10,7 +10,10 @@
     "LBL_USERNAME": "Логин",
     "LBL_PASSWORD": "Пароль",
     "LBL_SECRET_KEY": "Секретный ключ",
-    "LBL_OUTBOUND_CONTEXT": "Исходящий контекст"
+    "LBL_OUTBOUND_CONTEXT": "Исходящий контекст",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_PBX_DEFAULT": "По умолчанию",
+    "LBL_PBX_BASE": "Base (default in browser)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Изменения сохранены"

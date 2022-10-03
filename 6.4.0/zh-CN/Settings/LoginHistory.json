@@ -2,7 +2,7 @@
   "php": {
     "LBL_OTHER": "其他",
     "Automatic signed off": "自动注销",
-    "LBL_LOGIN_TIME": "Date time",
-    "LBL_LOGGED_OUT_TIME": "Sign-out time"
+    "LBL_LOGIN_TIME": "日期时间",
+    "LBL_LOGGED_OUT_TIME": "登出时间"
   }
 }

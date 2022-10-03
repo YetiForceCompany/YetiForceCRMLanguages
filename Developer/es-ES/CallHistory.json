@@ -17,7 +17,7 @@
     "LBL_END_TIME": "Llamada finalizada",
     "LBL_COUNTRY_CODE": "Código del país",
     "LBL_IMEI": "IMEI",
-    "LBL_IPADDRESS": "ID de la dirección",
+    "LBL_IPADDRESS": "IP address",
     "LBL_SIMSERIAL": "Número SIM",
     "LBL_SUBSCRIBERID": "Número de subscriptor",
     "LBL_DESTINATION": "Destino de la llamada",

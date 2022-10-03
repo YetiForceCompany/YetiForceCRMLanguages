@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "واردکردن برنامه‌ریزی شده انجام شد",
-    "LBL_CRON_COMPLETED_IMPORT": "ثبت خلاصه واردات برای ماژول:"
+    "LBL_CRON_COMPLETED_IMPORT": "ثبت خلاصه واردات برای ماژول:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }

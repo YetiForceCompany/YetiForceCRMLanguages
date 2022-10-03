@@ -15,7 +15,7 @@
     "Users|Email": "Elsődleges e-mail cím (kötelező mező) használható speciális helyzetekben (pl. jelszó visszaállítása).",
     "Users|Secondary email": "További e-mail címek.",
     "Users|FL_PRIMARY_PHONE": "Elsődleges telefonszám.",
-    "Users|CRM phone extension": "További telefonszám.",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "Ez egy lehetőség, hogy válassza ki, melyik felhasználó egyezett bele, hogy kapjon hírlevelet, munkafolyamat-feladatokat (az e-mail Küldése, küldjön e-mailt a sablonok, küldjön e-mailt a PDF nyomtatás)",
     "Users|Date Format": "A rendszer támogatja a 9-es dátumot, formátumot, az ajánlott (tesztelt), az egyik éééé-hh-nn. Erősen ajánljuk, hogy minden felhasználó ugyanazt a dátum formátumot használja.",
     "Users|Calendar Hour Format": "A rendszer támogat 2 idő formátumot, az ajánlott (tesztelt), az egyik 24 Órás. Erősen ajánljuk, hogy minden felhasználó ugyanazt a formátumot.",

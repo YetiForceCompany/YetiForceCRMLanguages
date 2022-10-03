@@ -10,7 +10,10 @@
     "LBL_USERNAME": "Nome utente",
     "LBL_PASSWORD": "Password",
     "LBL_SECRET_KEY": "Chiave segreta",
-    "LBL_OUTBOUND_CONTEXT": "Contesto di uscita"
+    "LBL_OUTBOUND_CONTEXT": "Contesto di uscita",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_PBX_DEFAULT": "Predefinito",
+    "LBL_PBX_BASE": "Base (default in browser)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Modifiche salvate"

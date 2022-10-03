@@ -15,7 +15,7 @@
     "Users|Email": "Endereço de e-mail principal (campo obrigatório) usado em situações especiais (ou seja, redefinição de senha).",
     "Users|Secondary email": "Endereço de e-mail adicional.",
     "Users|FL_PRIMARY_PHONE": "Número de telefone.",
-    "Users|CRM phone extension": "Número de telefone adicional.",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "Uma opção para selecionar quais usuários concordaram em receber newsletters enviadas através de tarefas de fluxo de trabalho (E-mail, enviar e-mail a partir de modelos, enviar e-mail com impressão PDF)",
     "Users|Date Format": "O sistema suporta formatos de 9 datas, o recomendado (testado) um é aaaa-mm-dd. Sugerimos fortemente que todos os usuários utilizem o mesmo formato de data.",
     "Users|Calendar Hour Format": "O sistema suporta 2 formatos de tempo, o recomendado (testado) é 24H. Sugerimos fortemente que todos os usuários usem o mesmo formato de tempo.",

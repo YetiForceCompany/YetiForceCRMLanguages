@@ -10,7 +10,10 @@
     "LBL_USERNAME": "Login",
     "LBL_PASSWORD": "Hasło",
     "LBL_SECRET_KEY": "Klucz",
-    "LBL_OUTBOUND_CONTEXT": "Kontekst wyjścia"
+    "LBL_OUTBOUND_CONTEXT": "Kontekst wyjścia",
+    "LBL_HTTP_LISTENER_PORT": "Port nasłuchu HTTP",
+    "LBL_PBX_DEFAULT": "Domyślna",
+    "LBL_PBX_BASE": "Podstawowy (domyślnie w przeglądarce)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Zapisano zmiany"

@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Η προγραμματισμένη εισαγωγή έχει ολοκληρωθεί",
-    "LBL_CRON_COMPLETED_IMPORT": "Σύνοψη εισαγωγής εγγραφών για το module:"
+    "LBL_CRON_COMPLETED_IMPORT": "Σύνοψη εισαγωγής εγγραφών για το module:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }

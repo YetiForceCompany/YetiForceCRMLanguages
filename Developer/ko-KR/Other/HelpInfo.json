@@ -15,7 +15,7 @@
     "Users|Email": "특수 상황에서 사용되는 기본 이메일 주소 (필수 필드) (예 - 비밀번호 재 설정).",
     "Users|Secondary email": "추가 이메일 주소.",
     "Users|FL_PRIMARY_PHONE": "기본 전화 번호",
-    "Users|CRM phone extension": "추가 전화 번호",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "워크 플로 작업을 통해 전송 된 뉴스 레터를 수신하기로 동의 한 사용자를 선택할 수 있는 옵션 (이메일 보내기, 템플릿에서 이메일 보내기, PDF 출력으로 이메일 보내기)",
     "Users|Date Format": "이 시스템은 9 가지 날짜 형식을 지원하며 권장 (테스트 된) 형식은 rrrr-mm-dd입니다. 모든 사용자가 동일한 날짜 형식을 사용하는 것이 좋습니다.",
     "Users|Calendar Hour Format": "이 시스템은 2 가지 시간 형식을 지원하며 권장 (테스트 된) 형식은 24H입니다. 모든 사용자가 동일한 시간 형식을 사용하는 것이 좋습니다.",

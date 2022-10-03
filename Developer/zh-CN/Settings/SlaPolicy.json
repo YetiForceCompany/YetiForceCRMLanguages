@@ -5,8 +5,8 @@
     "LBL_EDIT": "编辑SLA 安全策略",
     "LBL_CREATE": "新建 SLA 安全策略",
     "LBL_SOURCE_MODULE": "模块",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "记录状态时间计算全局有效",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "如果选择该项，即使该项与任何 SLA 无关，SLA 策略也将会对计算记录状态时间有效。"
   },
   "js": {
     "JS_BUSINESS_HOURS": "选择工作时间",

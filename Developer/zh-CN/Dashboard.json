@@ -1,14 +1,14 @@
 {
   "php": {
     "Dashboards": "我的主页",
-    "LBL_ADD_FILTER": "Add widget from filter",
-    "LBL_ADD_FILTER_DESC": "Only filters with the \"list in metrics\" option enabled are available.",
-    "LBL_ADD_CHART_FILTER": "Add chart from filter",
-    "LBL_ADD_CHART_FILTER_DESC": "Only filters with the \"list in metrics\" option enabled are available.",
-    "LBL_CLEAR_DEVICE_CONF": "Clear configuration of widgets for this device",
-    "LBL_CLEAR_DEVICE_CONF_DESC": "The button removes/resets the configuration only for the device you are currently using and only for the current tab.",
-    "LBL_PREDEFINED_WIDGETS": "Predefined widgets",
-    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_ADD_FILTER": "从筛选器中添加微件",
+    "LBL_ADD_FILTER_DESC": "仅启用了“列表计量”选项的筛选器有效。",
+    "LBL_ADD_CHART_FILTER": "从筛选器添加图表",
+    "LBL_ADD_CHART_FILTER_DESC": "仅启用了“列表计量”的筛选器有效。",
+    "LBL_CLEAR_DEVICE_CONF": "清除此设备的微件配置",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "此按钮仅移除/重置当前在用的设备配置，并且仅用于当前选项卡。",
+    "LBL_PREDEFINED_WIDGETS": "预定义微件",
+    "LBL_EMPTY_DASHBOARD": "已选择的主要信息面板为空。",
     "LBL_WORKING_TIME_COUNTER": "工作时间计数器"
   }
 }

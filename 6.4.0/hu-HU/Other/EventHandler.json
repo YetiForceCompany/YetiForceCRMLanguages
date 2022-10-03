@@ -10,7 +10,7 @@
     "IGDNC_IGDNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz az a feladott áru megjegyzés-javítás már létezik",
     "IGRNC_IGRNEXIST_HANDLER": "Kétszeresen fogadott áruk megjegyzés javítása",
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkolja a rekordok hozzáadását / szerkesztését, ha ugyanaz a fogadott áru megjegyzés-javítás már létezik.",
-    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
+    "OSSTIMECONTROL_TIMECONTROL_HANDLER": "A munkaidő nem haladhatja meg a 24 órát",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "A nyitvatartási idő maximum 24 óra lehet",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
@@ -58,7 +58,7 @@
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modifying the owner of a record before its creation",
     "APPROVALS_APPROVALS_HANDLER": "Updating consents on contact",
     "APPROVALS_APPROVALS_HANDLER_DESC": "",
-    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details about the product or service",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "A termék vagy szolgáltatás leírása",
     "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

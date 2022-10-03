@@ -1,6 +1,9 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Ütemezett import befejezte",
-    "LBL_CRON_COMPLETED_IMPORT": "Rekord beolvasása összefoglaló a modul:"
+    "LBL_CRON_COMPLETED_IMPORT": "Rekord beolvasása összefoglaló a modul:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)"
   }
 }
