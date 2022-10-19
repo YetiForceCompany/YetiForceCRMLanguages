@@ -228,7 +228,9 @@
     "LBL_ACCOUNT_LOGGED_CONTACT": "Kontrahent obecnie zalogowanego kontaktu",
     "LBL_DISABLE_FIELD": "Wyłącz pole",
     "LBL_SAVE_AND_CLOSE": "Zapisz i zamknij",
-    "MultiAttachment": "Załączniki"
+    "MultiAttachment": "Załączniki",
+    "LBL_OWNER_FROM_ACCOUNT_CONTACT": "Przypisane do kontrahenta z kontaktu",
+    "LBL_SPECIAL_FUNCTION": "Specjalne funkcje"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

@@ -48,9 +48,9 @@
     "LBL_WIDGET_NAME": "Widget name",
     "BTN_NEXT": "Ďalej",
     "LBL_DEFAULT_TIME": "Default call end time (min)",
-    "LBL_MOVE": "Move",
-    "LBL_TRANSFER": "Transfer",
-    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_MOVE": "Presunúť",
+    "LBL_TRANSFER": "Presun",
+    "LBL_SAVED_SUCCESSFULLY": "Úspešne uložené",
     "LBL_NOT_SAVED": "Your changes could not be saved"
   },
   "js": {

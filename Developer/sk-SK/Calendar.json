@@ -190,7 +190,11 @@
     "LBL_GROUP_NAME": "Názov skupiny",
     "FL_MEETING_URL": "URL stretnutia",
     "LBL_SEND_CALENDAR": "Poslať e-mailovú notifikáciu o udalosti",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Vybrané dátumy zahŕňajú dni pracovného pokoja. Chcete to uložiť?"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Vybrané dátumy zahŕňajú dni pracovného pokoja. Chcete to uložiť?",
+    "LBL_THIRTY_MINUTES": "30 minút",
+    "LBL_ONE_DAY": "1 deň",
+    "LBL_SEVEN_DAYS": "7 dní",
+    "LBL_THIRTY_DAYS": "30 dní"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Calendar view added successfully",

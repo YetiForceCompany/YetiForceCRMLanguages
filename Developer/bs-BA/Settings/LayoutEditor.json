@@ -228,7 +228,9 @@
     "LBL_ACCOUNT_LOGGED_CONTACT": "Račun kontakta koji je trenutno prijavljen",
     "LBL_DISABLE_FIELD": "Onemogućite polje",
     "LBL_SAVE_AND_CLOSE": "Spremite i zatvorite",
-    "MultiAttachment": "Prilozi"
+    "MultiAttachment": "Prilozi",
+    "LBL_OWNER_FROM_ACCOUNT_CONTACT": "Assigned To from the Contact Account",
+    "LBL_SPECIAL_FUNCTION": "Special function"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Naziv bloka već postoji",

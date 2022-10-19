@@ -60,7 +60,7 @@
         "crowdinCode": "fa",
         "name": "Persian",
         "progress": 88,
-        "time": "2022-08-19 13:29:48"
+        "time": "2022-10-19 12:31:06"
     },
     "fi-FI": {
         "prefix": "fi-FI",
@@ -74,7 +74,7 @@
         "crowdinCode": "fr",
         "name": "French",
         "progress": 93,
-        "time": "2022-10-03 12:25:10"
+        "time": "2022-10-19 12:29:02"
     },
     "he-IL": {
         "prefix": "he-IL",
@@ -200,7 +200,7 @@
         "crowdinCode": "sk",
         "name": "Slovak",
         "progress": 51,
-        "time": "2022-08-23 06:12:40"
+        "time": "2022-10-19 12:30:24"
     },
     "sl-SI": {
         "prefix": "sl-SI",
@@ -256,7 +256,7 @@
         "crowdinCode": "zh-CN",
         "name": "Chinese Simplified",
         "progress": 97,
-        "time": "2022-10-03 12:26:44"
+        "time": "2022-10-19 12:30:46"
     },
     "zh-TW": {
         "prefix": "zh-TW",

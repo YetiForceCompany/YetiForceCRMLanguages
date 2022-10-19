@@ -13,7 +13,7 @@
     "LBL_OUTBOUND_CONTEXT": "Contexte sortant",
     "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
     "LBL_PBX_DEFAULT": "Défaut",
-    "LBL_PBX_BASE": "Base (default in browser)"
+    "LBL_PBX_BASE": "Base (par défaut dans le navigateur)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Changements sauvgardés"

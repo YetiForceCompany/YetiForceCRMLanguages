@@ -190,7 +190,11 @@
     "LBL_GROUP_NAME": "用户组名称",
     "FL_MEETING_URL": "会议 URL",
     "LBL_SEND_CALENDAR": "发送有关事件的电子邮件通知",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "所选日期包含解假日。是否保存？"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "所选日期包含解假日。是否保存？",
+    "LBL_THIRTY_MINUTES": "30 minutes",
+    "LBL_ONE_DAY": "1 day",
+    "LBL_SEVEN_DAYS": "7 days",
+    "LBL_THIRTY_DAYS": "30 days"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "已成功添加的日历视图",

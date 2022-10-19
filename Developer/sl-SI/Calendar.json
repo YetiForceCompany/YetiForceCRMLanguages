@@ -190,7 +190,11 @@
     "LBL_GROUP_NAME": "Ime skupine",
     "FL_MEETING_URL": "URL srečanja",
     "LBL_SEND_CALENDAR": "Pošljite e-poštno obvestilo o dogodku",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Izbrani datumi vključujejo tudi praznike. Želite shraniti?"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Izbrani datumi vključujejo tudi praznike. Želite shraniti?",
+    "LBL_THIRTY_MINUTES": "30 minutes",
+    "LBL_ONE_DAY": "1 day",
+    "LBL_SEVEN_DAYS": "7 days",
+    "LBL_THIRTY_DAYS": "30 days"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Pogled koledarja uspešno dodan",

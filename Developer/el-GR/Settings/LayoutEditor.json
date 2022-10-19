@@ -228,7 +228,9 @@
     "LBL_ACCOUNT_LOGGED_CONTACT": "Λογαριασμός επαφών συνδεδεμένος αυτή τη στιγμή",
     "LBL_DISABLE_FIELD": "Απενεργοποιήσετε το πεδίο",
     "LBL_SAVE_AND_CLOSE": "Αποθήκευση και κλείσιμο",
-    "MultiAttachment": "Συνημμένα"
+    "MultiAttachment": "Συνημμένα",
+    "LBL_OWNER_FROM_ACCOUNT_CONTACT": "Assigned To from the Contact Account",
+    "LBL_SPECIAL_FUNCTION": "Special function"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Υπάρχει ήδη Μπλοκ με αυτό το όνομα",

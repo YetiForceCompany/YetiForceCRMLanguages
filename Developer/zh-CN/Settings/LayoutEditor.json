@@ -228,7 +228,9 @@
     "LBL_ACCOUNT_LOGGED_CONTACT": "当前登入的联系人账户",
     "LBL_DISABLE_FIELD": "禁用字段",
     "LBL_SAVE_AND_CLOSE": "保存并关闭",
-    "MultiAttachment": "附件"
+    "MultiAttachment": "附件",
+    "LBL_OWNER_FROM_ACCOUNT_CONTACT": "Assigned To from the Contact Account",
+    "LBL_SPECIAL_FUNCTION": "Special function"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",

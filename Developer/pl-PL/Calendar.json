@@ -190,7 +190,11 @@
     "LBL_GROUP_NAME": "Nazwa grupy",
     "FL_MEETING_URL": "URL spotkania",
     "LBL_SEND_CALENDAR": "Wyślij powiadomienie e-mail o wydarzeniu",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "W wybranym zakresie dat znajdują się dni świąteczne. Czy mimo to chcesz dokonać zapisu?"
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "W wybranym zakresie dat znajdują się dni świąteczne. Czy mimo to chcesz dokonać zapisu?",
+    "LBL_THIRTY_MINUTES": "30 minut",
+    "LBL_ONE_DAY": "1 dzień",
+    "LBL_SEVEN_DAYS": "7 dni",
+    "LBL_THIRTY_DAYS": "30 dni"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Dodano kalendarz",
