@@ -98,12 +98,12 @@
     "LBL_USER_NAME": "Nome utente",
     "LBL_GROUP_NAME": "Nome del gruppo",
     "LBL_WORK_DAYS": "Giorni di lavoro",
-    "Employees Time Control": "Employees Time Control",
-    "LBL_ALL_TIME_CONTROL": "All users total working time",
-    "LBL_START_TIME_COUNTER": "Start time counter",
-    "LBL_STOP_TIME_COUNTER": "Stop time counter",
-    "LBL_RESET_TIME_COUNTER": "Reset time counter",
-    "LBL_ADD_MINUTES": "Add %s minutes to work time"
+    "Employees Time Control": "Controllo Temporale Dipendenti",
+    "LBL_ALL_TIME_CONTROL": "Le ore di lavoro totali di tutti gli utenti",
+    "LBL_START_TIME_COUNTER": "Avvia contatore dell'ora",
+    "LBL_STOP_TIME_COUNTER": "Ferma contatore dell'ora",
+    "LBL_RESET_TIME_COUNTER": "Ripristina contatore dell'ora",
+    "LBL_ADD_MINUTES": "Aggiungi %s minuti all'orario lavorativo"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caratteri consentiti: [0-9]",

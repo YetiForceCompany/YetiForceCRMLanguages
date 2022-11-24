@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Converiti la Cont",
     "LBL_DAV_KEYS": "Chei DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Creati si Gestionati chei DAV",
-    "LBL_AUTOLOGIN": "Auto Autentificare",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configurarea autentificarii automate pentru modulul e-mail",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Configuratie generala",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Configuratie generala a modulului de e-mail",
     "LBL_SUPPORT_PROCESSES": "Procese de suport",

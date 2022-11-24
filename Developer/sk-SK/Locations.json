@@ -9,6 +9,7 @@
     "LBL_NUMBER": "Number",
     "LBL_CLOSED_TIME": "Closed time",
     "FL_PHONE": "Telefón",
-    "FL_CAPACITY": "Kapacita"
+    "FL_CAPACITY": "Kapacita",
+    "FL_COORDINATES": "Coordinates"
   }
 }

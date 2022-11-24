@@ -31,7 +31,7 @@
     "time": "Orario",
     "url": "Url",
     "LBL_CONVERSION_TO_ACCOUNT": "Converti in azienda",
-    "sharedOwner": "Users sharing field"
+    "sharedOwner": "Utenti che condividono il campo"
   },
   "js": {
     "JS_CANT_MAP": "Impossibile mappare",
@@ -57,6 +57,6 @@
     "JS_url": "Url",
     "JS_WITH": "con",
     "JS_MAPPING_SAVED_SUCCESSFULLY": "Mappatura salvata",
-    "JS_sharedOwner": "Users sharing field"
+    "JS_sharedOwner": "Utenti che condividono il campo"
   }
 }

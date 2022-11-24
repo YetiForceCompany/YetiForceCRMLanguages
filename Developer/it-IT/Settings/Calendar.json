@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Genera colore casuale",
     "LBL_GENERATED_COLOR": "Colore generato",
     "LBL_NOTWORKING_DAYS": "Giorni festivi",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Giorni festivi della settimana",
     "PLL_MONDAY": "Lunedì",
     "PLL_TUESDAY": "Martedì",

@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Chuyển thành khách hàng",
     "LBL_DAV_KEYS": "Mã DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Tạo và quản lý mã DAV",
-    "LBL_AUTOLOGIN": "Tự động đăng nhập",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Cấu hình đăng nhập tự động cho mô-đun email",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Cấu hình chung",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Cấu hình chung của mô-đun email",
     "LBL_SUPPORT_PROCESSES": "Quy trình hỗ trợ",

@@ -48,6 +48,7 @@
     "Discount Amount": "折扣金额",
     "Discount Percent": "折扣率",
     "Discount": "折扣",
+    "LBL_MARKUP": "Markup",
     "Documents": "文档",
     "Due Date & Time": "截止日期及时间",
     "Due Date": "截止日期",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "折扣前价格",
     "LBL_DISCOUNT_IN_TOTAL": "总折扣",
     "LBL_PRICE_AFTER_DISCOUNT": "折后价格",
-    "LBL_DISCOUNT_MODE": "总折扣",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "值",
     "LBL_QUANTITY": "数量",
     "LBL_REFERENCE": "参考",
@@ -1248,7 +1249,6 @@
     "Potentials": "销售机会",
     "LBL_PICKLIST_FIELD": "从字段中选择",
     "LBL_MAP": "地图",
-    "LBL_SHOW_MAP": "在地图上显示",
     "LBL_SOCIAL_MEDIA": "社交媒体",
     "FL_CAMPAIGN_STATUS": "市场活动状态",
     "LBL_REVIEW_CHANGES": "将更新标记为已审核",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "图像预览",
     "LBL_RECORD_DOES_NOT_EXIST": "记录不存在",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "记录已删除，名称无法显示。",
-    "LBL_CONDITION_WIZARD": "条件向导"
+    "LBL_CONDITION_WIZARD": "条件向导",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "确定"
   },
   "js": {
     "JS_APPROVE": "同意",

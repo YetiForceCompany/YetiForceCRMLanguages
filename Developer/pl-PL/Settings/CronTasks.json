@@ -35,6 +35,7 @@
     "RecurringInvoice": "Cykliczna faktura",
     "LBL_MAIL_SCANNER_ACTION": "Akcja skanera poczty",
     "LBL_MAIL_SCANNER_VERIFICATION": "Weryfikacja skanera poczty",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Powiadomienia skanera poczty",
     "LBL_SEND_REMINDER": "Wyślij przypomnienie",
     "LBL_SCHEDULED_IMPORT": "Zaplanowany import",
     "LBL_SCHEDULE_REPORTS": "Zaplanuj raporty",

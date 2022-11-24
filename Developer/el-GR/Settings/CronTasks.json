@@ -35,6 +35,7 @@
     "RecurringInvoice": "Δημιουργία Επαναλαμβανόμενου τιμολόγιου",
     "LBL_MAIL_SCANNER_ACTION": "Σάρωση email",
     "LBL_MAIL_SCANNER_VERIFICATION": "Επαλήθευση σάρωσης email",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "Αποστολή υπενθύμισης",
     "LBL_SCHEDULED_IMPORT": "Προγραμματισμένη εισαγωγή",
     "LBL_SCHEDULE_REPORTS": "Προγραμματισμένες αναφορές",

@@ -48,6 +48,7 @@
     "Discount Amount": "Iznos popusta",
     "Discount Percent": "Procenat popusta",
     "Discount": "Popust",
+    "LBL_MARKUP": "Markup",
     "Documents": "Dokumenti",
     "Due Date & Time": "Krajnji datum i vrijeme",
     "Due Date": "Krajnji datum",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Cijena prije popusta",
     "LBL_DISCOUNT_IN_TOTAL": "Popusti ukupno",
     "LBL_PRICE_AFTER_DISCOUNT": "Cijena nakon popusta",
-    "LBL_DISCOUNT_MODE": "Popusti ukupno",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Vrijednost",
     "LBL_QUANTITY": "Količina",
     "LBL_REFERENCE": "Regerenca",
@@ -1248,7 +1249,6 @@
     "Potentials": "Prilike",
     "LBL_PICKLIST_FIELD": "Odaberite iz polja",
     "LBL_MAP": "Mapa",
-    "LBL_SHOW_MAP": "Prikaži na mapi",
     "LBL_SOCIAL_MEDIA": "Društveni mediji",
     "FL_CAMPAIGN_STATUS": "Status kampanje",
     "LBL_REVIEW_CHANGES": "Označi ažuriranja kao pregledana",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "OK"
   },
   "js": {
     "JS_APPROVE": "Odobriti",

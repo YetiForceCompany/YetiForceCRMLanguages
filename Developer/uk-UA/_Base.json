@@ -48,6 +48,7 @@
     "Discount Amount": "Сума знижки",
     "Discount Percent": "Відсоток знижки",
     "Discount": "Знижка",
+    "LBL_MARKUP": "Markup",
     "Documents": "Документи",
     "Due Date & Time": "Завершення: Дата - Час",
     "Due Date": "Термін оплати",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Ціна без знижки",
     "LBL_DISCOUNT_IN_TOTAL": "Знижка всього",
     "LBL_PRICE_AFTER_DISCOUNT": "Ціна після знижки",
-    "LBL_DISCOUNT_MODE": "Тип знижки",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Значення",
     "LBL_QUANTITY": "Кількість",
     "LBL_REFERENCE": "Посилання",
@@ -1248,7 +1249,6 @@
     "Potentials": "Угоди",
     "LBL_PICKLIST_FIELD": "Оберіть одне з полів",
     "LBL_MAP": "Карта",
-    "LBL_SHOW_MAP": "Показати на мапі",
     "LBL_SOCIAL_MEDIA": "Соціальні мережі",
     "FL_CAMPAIGN_STATUS": "Статус кампанії",
     "LBL_REVIEW_CHANGES": "Позначити зміни як прочитані",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Добре"
   },
   "js": {
     "JS_APPROVE": "Схвалити",

@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "アカウントに変換",
     "LBL_DAV_KEYS": "DAV キー",
     "LBL_DAV_KEYS_DESCRIPTION": "DAVキーの作成と管理",
-    "LBL_AUTOLOGIN": "自動ログイン",
-    "LBL_AUTOLOGIN_DESCRIPTION": "メールモジュールの自動ログインの設定",
     "LBL_MAIL_GENERAL_CONFIGURATION": "一般的な構成",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "メールモジュールの一般的な構成",
     "LBL_SUPPORT_PROCESSES": "サポートプロセス",

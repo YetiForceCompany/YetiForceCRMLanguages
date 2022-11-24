@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Konvertovať na Účet",
     "LBL_DAV_KEYS": "DAV kľúče",
     "LBL_DAV_KEYS_DESCRIPTION": "Vytvoriť a spravovať DAV kľúče",
-    "LBL_AUTOLOGIN": "Automatické prihlásenie",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Konfigurácia automatického prihlásenia pre modul email",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Všeobecná konfigurácia",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Všeobecná konfigurácia emailového modulu",
     "LBL_SUPPORT_PROCESSES": "Support processes",

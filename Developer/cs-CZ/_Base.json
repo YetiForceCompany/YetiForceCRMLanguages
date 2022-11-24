@@ -48,6 +48,7 @@
     "Discount Amount": "Hodnota slevy",
     "Discount Percent": "Sleva v procentech",
     "Discount": "Sleva",
+    "LBL_MARKUP": "Markup",
     "Documents": "Dokumenty",
     "Due Date & Time": "Datum a čas zahájení",
     "Due Date": "Due date",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Price before discount",
     "LBL_DISCOUNT_IN_TOTAL": "Discount in total",
     "LBL_PRICE_AFTER_DISCOUNT": "Price after discount",
-    "LBL_DISCOUNT_MODE": "Discount in total",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Value",
     "LBL_QUANTITY": "Quantity",
     "LBL_REFERENCE": "Reference",
@@ -1248,7 +1249,6 @@
     "Potentials": "Opportunities",
     "LBL_PICKLIST_FIELD": "Select from field",
     "LBL_MAP": "Map",
-    "LBL_SHOW_MAP": "Show on the map",
     "LBL_SOCIAL_MEDIA": "Social media",
     "FL_CAMPAIGN_STATUS": "Campaign status",
     "LBL_REVIEW_CHANGES": "Mark updates as reviewed",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Approve",

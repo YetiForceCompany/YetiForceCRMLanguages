@@ -1,10 +1,10 @@
 {
   "php": {
-    "Dependencies": "Vulnerability scanner",
-    "LBL_VULNERABILITIES": "Vulnerability scanner",
-    "LBL_VULNERABILITIES_DESCRIPTION": "A tool for detecting vulnerabilities in CRM and the server",
+    "Dependencies": "Scansione delle vulnerabilità",
+    "LBL_VULNERABILITIES": "Scansione delle vulnerabilità",
+    "LBL_VULNERABILITIES_DESCRIPTION": "Uno strumento per rilevare le vulnerabilità su CRM e sul server",
     "LBL_VULNERABILITIES_OK": "Nessuna vulnerabilità trovata",
-    "LBL_VULNERABILITIES_OK_DESC": "Do not forget to periodically check for vulnerabilities in your libraries and applications installed on the server.",
+    "LBL_VULNERABILITIES_OK_DESC": "Non dimenticarti di controllare periodicamente le vulnerabilità nelle tue librerie e applicazioni installate sul server.",
     "LBL_VULNERABILITIES_WARNING": "Vulnerabilità rilevate in librerie/applicazioni",
     "LBL_VULNERABILITIES_WARNING_DESC": "Sono state rilevate vulnerabilità nelle librerie o nelle applicazioni, si consiglia di aggiornarle rapidamente.",
     "LBL_SECURITY_DEPENDENCIES": "Vulnerabilità di sicurezza nelle librerie usate",

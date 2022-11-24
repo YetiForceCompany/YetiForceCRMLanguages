@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Pretvori u Klijenta",
     "LBL_DAV_KEYS": "DAV ključevi",
     "LBL_DAV_KEYS_DESCRIPTION": "Stvaranje i upravljanje DAV ključevima",
-    "LBL_AUTOLOGIN": "Automatska prijava",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Konfiguracija automatske prijave email za modul",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Opšta konfiguracija",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Opšta konfiguracija email modula",
     "LBL_SUPPORT_PROCESSES": "Proces podrške",

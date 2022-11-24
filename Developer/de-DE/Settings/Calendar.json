@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Generiere Zufallsfarbe",
     "LBL_GENERATED_COLOR": "Farbe generiert",
     "LBL_NOTWORKING_DAYS": "Keine Arbeitstage",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Keine Arbeitstage",
     "PLL_MONDAY": "Montag",
     "PLL_TUESDAY": "Dienstag",

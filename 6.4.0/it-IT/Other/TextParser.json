@@ -59,7 +59,7 @@
     "LBL_INVENTORY_TABLE": "Tabella inventario con colonne predefinite personalizzate",
     "LBL_DYNAMIC_INVENTORY_TABLE": "Tabella inventario con colonne dinamiche",
     "LBL_INVENTORY_VARIABLES": "Variabili di inventario aggiuntive",
-    "LBL_TEXT_PARSER_RECORDS_LIST": "List of records (marked by the user)",
+    "LBL_TEXT_PARSER_RECORDS_LIST": "Elenco dei registri (contrassegnati dall'utente)",
     "LBL_TEXT_PARSER_USER_VARIABLE": "Variabile utente",
     "LBL_REPORT_NEW_RECORDS": "Nuovi record nel modulo",
     "LBL_REPORT_SSALESPROCESSES": "Records opportunità",

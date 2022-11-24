@@ -48,6 +48,7 @@
     "Discount Amount": "Ποσό έκπτωσης",
     "Discount Percent": "Ποσοστό έκπτωσης",
     "Discount": "Έκπτωση",
+    "LBL_MARKUP": "Markup",
     "Documents": "Έγγραφα",
     "Due Date & Time": "Λήξη: Ημερομηνία - Ώρα",
     "Due Date": "Ημ/νία μέχρι",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Τιμή πριν την έκπτωση",
     "LBL_DISCOUNT_IN_TOTAL": "Έκπτωση στο σύνολο",
     "LBL_PRICE_AFTER_DISCOUNT": "Τιμή μετά την έκπτωση",
-    "LBL_DISCOUNT_MODE": "Λειτουργία έκπτωσης",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Τιμή",
     "LBL_QUANTITY": "Ποσότητα",
     "LBL_REFERENCE": "Αναφορά",
@@ -1248,7 +1249,6 @@
     "Potentials": "Ευκαιρίες",
     "LBL_PICKLIST_FIELD": "Επιλέξτε από πεδίο",
     "LBL_MAP": "Χάρτης",
-    "LBL_SHOW_MAP": "Εμφάνιση στο χάρτη",
     "LBL_SOCIAL_MEDIA": "Μέσα κοινωνικής δικτύωσης",
     "FL_CAMPAIGN_STATUS": "Κατάσταση καμπάνιας",
     "LBL_REVIEW_CHANGES": "Σήμανση αλλαγών ως αναγνωσμένες",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",

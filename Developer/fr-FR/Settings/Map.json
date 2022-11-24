@@ -10,7 +10,6 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "Modèle d'URL des couches",
     "LBL_API_URL": "URL de l'API du fournisseur",
     "LBL_DRIVER": "Pilote",
-    "LBL_COORDINATES": "Coordonnées",
     "LBL_COORDINATES_INFO_1": "Sélectionnez le serveur à utiliser pour télécharger les coordonnées géographiques, le Cron mettra à jour les coordonnées des champs d'adresse. Faites attention aux limites du fournisseur, le système enverra fréquemment des demandes aux serveurs. Soyez conscient du fait que les serveurs gratuits ont de grandes limites et que vous partagez vos données avec eux, choisissez toujours des serveurs de confiance.",
     "LBL_COORDINATES_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $coordinatesServers dans le fichier %s. Des serveurs de coordonnées accessibles au public sont disponibles à l'adresse suivante:",
     "LBL_AVAILABLE_DRIVERS": "Pilotes disponibles dans le système",

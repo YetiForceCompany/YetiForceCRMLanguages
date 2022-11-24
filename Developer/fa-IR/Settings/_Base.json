@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "تبدیل به حساب",
     "LBL_DAV_KEYS": "کلیدهای DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "ایجاد و مدیریت کلیدهای ‌DAV",
-    "LBL_AUTOLOGIN": "ورود خودکار",
-    "LBL_AUTOLOGIN_DESCRIPTION": "تنظیمات ورود خودکار برای ایمیل ماژول",
     "LBL_MAIL_GENERAL_CONFIGURATION": "پیکربندی عمومی",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "پیکربندی عمومی برای ماژول ایمیل",
     "LBL_SUPPORT_PROCESSES": "فرآیندهای پشتیبانی",

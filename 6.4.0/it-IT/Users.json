@@ -414,9 +414,9 @@
     "LBL_PASSWORD_CHANGED": "Password modificata",
     "LBL_PASSWORD_LINK_SENT": "Il link per la modifica della password è in attesa d'esser inviato, può impiegare qualche minuto. Sei pregato di controllare la tua casella di posta.",
     "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Seleziona tutti gli utenti di default",
-    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
-    "LBL_MEMBER": "Members",
-    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
+    "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Gestione dei membri del gruppo",
+    "LBL_MEMBER": "Membri",
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Aggiungi membri del gruppo"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Quando un Utente viene eliminato, l'utente sarà contrassegnato come \"Inattivo\" e nessun nuovo record può essere assegnato all'Utente, e l'utente non sarà in grado di effettuare il login. Sei sicuro di voler eliminare?",

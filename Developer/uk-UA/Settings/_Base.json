@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Перетворити в Контрагента",
     "LBL_DAV_KEYS": "Ключі DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Create and manage DAV keys",
-    "LBL_AUTOLOGIN": "Автовхід",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Налаштування автоматичного входу до модуля електорнної пошти",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Загальні налаштування",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Загальна конфігурація модуля електронної пошти",
     "LBL_SUPPORT_PROCESSES": "Процес підтримки",

@@ -40,9 +40,9 @@
     "LBL_UNREAD": "Non letto",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Nessuna notifica non letta",
     "FL_SUBPROCESS_SECOND_LEVEL": "Sotto-processo di secondo livello",
-    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
-    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
-    "Notifications": "Notifications"
+    "LBL_NOTIFICATION_BY_SENDER": "Numero di notifiche per mittente",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Numero di notifiche per destinatario",
+    "Notifications": "Notifiche"
   },
   "js": {
     "JS_MARKED_AS_READ": "Segnato come letto"

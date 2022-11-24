@@ -191,10 +191,10 @@
     "FL_MEETING_URL": "URL della riunione",
     "LBL_SEND_CALENDAR": "Invia notifica e-mail sull'evento",
     "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Le date selezionate includono le vacanze. Vuoi salvare?",
-    "LBL_THIRTY_MINUTES": "30 minutes",
-    "LBL_ONE_DAY": "1 day",
-    "LBL_SEVEN_DAYS": "7 days",
-    "LBL_THIRTY_DAYS": "30 days"
+    "LBL_THIRTY_MINUTES": "30 minuti",
+    "LBL_ONE_DAY": "1 giorno",
+    "LBL_SEVEN_DAYS": "7 giorni",
+    "LBL_THIRTY_DAYS": "30 giorni"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Vista calendario aggiunta con successo",

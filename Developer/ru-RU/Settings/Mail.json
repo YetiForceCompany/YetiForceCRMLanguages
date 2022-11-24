@@ -1,7 +1,5 @@
 {
   "php": {
-    "LBL_AUTOLOGIN": "Почта - Автовход",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Конфигурация автоматического входа для модуля электронной почты",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Почта - Настройка",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Основная конфигурация модуля электронной почты",
     "LBL_RC_USER": "Пользовательская учетная запись электронной почты",
@@ -13,7 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Показывать учетные записи электронной почты связанные с текущим пользователем",
     "LBL_NUMBER_UNREAD_EMAILS": "Показать количество непрочитанных сообщений",
     "LBL_MAIL_ICON_CONFIG": "Иконка Почты",
-    "LBL_AUTOLOGIN_ACTIVE": "Включить автовход?",
     "LBL_ADD_SIGNATURE": "Включить общую подпись для всех исходящих сообщений",
     "LBL_SIGNATURE": "Общая подпись",
     "LBL_SAVED_SIGNATURE": "Изменить подпись",
@@ -40,6 +37,26 @@
     "LBL_TO": "Для",
     "LBL_EMAILS_TO_SEND_DESCRIPTION": "Список писем на отсылку. За отправку сообщений отвечает CRON.",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "Письма на отправку",
-    "LBL_EMAIL_WAS_SENT": "Письмо отправлено, предварительный просмотр недоступен."
+    "LBL_EMAIL_WAS_SENT": "Письмо отправлено, предварительный просмотр недоступен.",
+    "LBL_TIME_CHECKING_MAIL": "Number of unread messages refresh frequency [sec]",
+    "LBL_TIME_CHECKING_MAIL_DESC": "The refresh rate in seconds for the number of unread messages. The frequency cannot be too low, as it will slow down the application.",
+    "LBL_MAIL_SCANNER": "Mail scanner",
+    "BL_SCANNER_NOTIFICATION": "Notifications",
+    "FL_SCANNER_EMAIL_FOR_NOTIFICATION": "E-mail",
+    "LBL_SCANNER_EMAIL_FOR_NOTIFICATION_DESC": "E-mail address to which the notification about the timeout of the mail scanner action will be sent.\n The option depends on one of the cron jobs.",
+    "FL_SCANNER_TIME_FOR_NOTIFICATION": "Time limit [min]",
+    "LBL_SCANNER_TIME_FOR_NOTIFICATION_DESC": "Time after which the notification about the protracted email account scanning process will be sent. The option depends on one of the cron jobs.",
+    "BL_SCANNER_BASIC": "Basic configuration",
+    "FL_SCANNER_LIMIT": "Limit",
+    "LBL_SCANNER_LIMIT_DESC": "Number of scanned e-mails in a single process.",
+    "FL_SCANNER_DEACTIVATION_TIME": "Timeout for account deactivation [h]",
+    "LBL_SCANNER_DEACTIVATION_TIME_DESC": "In case of problems with access to the e-mail account, it will be deactivated after the set number of hours.",
+    "FL_SCANNER_FLAG_SEEN": "Mark as seen",
+    "LBL_SCANNER_FLAG_SEEN_DESC": "Scanned e-mails will be marked as seen automatically.",
+    "BL_SCANNER_EXCEPTIONS": "Exceptions",
+    "FL_SCANNER_EMAIL_EXCEPTIONS": "E-mails",
+    "LBL_SCANNER_EMAIL_EXCEPTIONS_DESC": "Global list of e-mail addresses omitted from mail scanner actions.",
+    "FL_SCANNER_DOMAIN_EXCEPTIONS": "Domains",
+    "LBL_SCANNER_DOMAIN_EXCEPTIONS_DESC": "Global list of domains omitted from mail scanner actions."
   }
 }

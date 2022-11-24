@@ -1,6 +1,6 @@
 {
   "php": {
-    "FL_NAME": "Name",
+    "FL_NAME": "Nome",
     "FL_PROVIDER": "Provider SMS",
     "FL_STATUS": "Stato",
     "FL_SMSAPI_FROM": "Nome mittente",
@@ -12,14 +12,14 @@
     "LBL_EDIT_CONFIGURATION": "Modifica provider SMS",
     "BTN_SAVE": "Salva",
     "BTN_CLOSE": "Annulla",
-    "LBL_SMSPROVIDER_CREATE": "Add provider",
-    "LBL_SMSPROVIDER_EDIT": "Edit provider",
-    "LBL_CALLBACK_ADDRESSES": "Callback addresses",
-    "LBL_CALLBACK_ADDRESSES_DESC": "In order to generate callback addresses for SMS communication, it is necessary to first create a webservice connection for SMS.\nThe following URLs must be entered in the callback section directly at the provider.",
-    "FL_CALLBACK_URL_FOR_REPORT": "Reports (SMS,MMS)",
-    "FL_CALLBACK_URL_FOR_REPLY": "Reception (SMS)",
-    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL for delivery reports. To be entered directly at the provider.",
-    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL for receptions. To be entered directly at the provider."
+    "LBL_SMSPROVIDER_CREATE": "Aggiungi fornitore",
+    "LBL_SMSPROVIDER_EDIT": "Modifica fornitore",
+    "LBL_CALLBACK_ADDRESSES": "Indirizzi di richiamata",
+    "LBL_CALLBACK_ADDRESSES_DESC": "Per poter generare gli indirizzi di richiamata per la comunicazione via SMS, è prima necessario creare una connessione al servizio web per gli SMS.\nI seguenti URL devono essere inseriti direttamente nella sezione di richiamata al fornitore.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Rapporti (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Ricezione (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL per i rapporti di consegna. Da inserire direttamente al fornitore.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL per le ricezioni. Da inserire direttamente al fornitore."
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare questo Provider SMS?",

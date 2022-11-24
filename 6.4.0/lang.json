@@ -108,8 +108,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 97,
-        "time": "2022-08-19 13:29:44"
+        "progress": 100,
+        "time": "2022-11-24 13:54:16"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -137,21 +137,21 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 21,
-        "time": "2022-08-19 13:29:44"
+        "time": "2022-11-24 13:55:48"
     },
     "nl-NL": {
         "prefix": "nl-NL",
         "crowdinCode": "nl",
         "name": "Dutch",
         "progress": 51,
-        "time": "2022-08-19 13:29:36"
+        "time": "2022-11-24 13:54:36"
     },
     "no-NO": {
         "prefix": "no-NO",
         "crowdinCode": "no",
         "name": "Norwegian",
         "progress": 15,
-        "time": "2022-08-19 13:29:36"
+        "time": "2022-11-24 13:54:20"
     },
     "pl-PL": {
         "prefix": "pl-PL",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 85,
-        "time": "2022-08-19 13:29:48"
+        "time": "2022-11-24 13:55:22"
     },
     "vi-VN": {
         "prefix": "vi-VN",

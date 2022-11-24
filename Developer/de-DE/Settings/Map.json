@@ -10,7 +10,6 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "Kachel-Layer-Url-Vorlage",
     "LBL_API_URL": "Provider API URL",
     "LBL_DRIVER": "Treiber",
-    "LBL_COORDINATES": "Koordinaten",
     "LBL_COORDINATES_INFO_1": "Wählen Sie den Server aus, der zum Herunterladen von geografischen Koordinaten verwendet werden soll. Der Cron aktualisiert die Koordinaten für Adressfelder. Achten Sie auf die Einschränkungen des Providers, das System sendet häufig Anfragen an die Server. Beachten Sie die Tatsache, dass freie Server große Grenzen haben und Sie Ihre Daten mit ihnen teilen, immer vertrauenswürdige Server wählen.",
     "LBL_COORDINATES_INFO_2": "Um zusätzliche Server hinzuzufügen, bearbeiten Sie die $coordinatesServers -Variable in der %s -Datei. öffentlich verfügbare Koordinatenserver sind verfügbar:",
     "LBL_AVAILABLE_DRIVERS": "Im System verfügbare Treiber",

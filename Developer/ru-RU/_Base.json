@@ -48,6 +48,7 @@
     "Discount Amount": "Сумма скидки",
     "Discount Percent": "Процент скидки",
     "Discount": "Скидка",
+    "LBL_MARKUP": "Markup",
     "Documents": "Документы",
     "Due Date & Time": "Дата и Время",
     "Due Date": "Cрок оплаты",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Сумма без скидки",
     "LBL_DISCOUNT_IN_TOTAL": "Общая сумма скидки",
     "LBL_PRICE_AFTER_DISCOUNT": "Сумма после скидки",
-    "LBL_DISCOUNT_MODE": "Тип скидки",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Значение",
     "LBL_QUANTITY": "Количество",
     "LBL_REFERENCE": "Ссылка",
@@ -1248,7 +1249,6 @@
     "Potentials": "Сделки",
     "LBL_PICKLIST_FIELD": "Выберите одно из полей",
     "LBL_MAP": "Карта",
-    "LBL_SHOW_MAP": "Показать на карте",
     "LBL_SOCIAL_MEDIA": "Social media",
     "FL_CAMPAIGN_STATUS": "Статус Компании",
     "LBL_REVIEW_CHANGES": "Mark updates as reviewed",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Approve",

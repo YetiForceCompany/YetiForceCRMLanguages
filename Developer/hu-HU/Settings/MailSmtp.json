@@ -40,6 +40,13 @@
     "LBL_SAVE_SENT_MESSAGE": "Save the sent message",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emails will be sent individually for each recipient",
     "LBL_UNSUBSCRIBE_INFO": "A List-Unsubscribe fejléc egy opcionális e-mail fejléc adhat, hogy az üzeneteket. Ez lehetővé teszi az előfizetők számára, hogy egy leiratkozás gombra, hogy kattintson, ha azt szeretné, hogy automatikusan ne kapjon e-mail. A paraméterek listája kerülnek a fejléc szög zárójelben, pl. a < ... >\npélda: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Példaértékű további paraméterek (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:hamis,\n\";allow_self_signed\";:igaz\n   }\n}"
+    "LBL_OPTIONS_INFO": "Példaértékű további paraméterek (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:hamis,\n\";allow_self_signed\";:igaz\n   }\n}",
+    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
+    "BL_BASE": "Base configuration",
+    "FL_MAIL_ACCOUNT": "Mail account",
+    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
   }
 }

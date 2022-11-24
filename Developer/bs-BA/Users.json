@@ -418,7 +418,9 @@
     "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Odaberite sve korisnike prema zadanim postavkama",
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
     "LBL_MEMBER": "Members",
-    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
+    "FL_WAPRO_USER": "WAPRO ERP User identifier",
+    "FL_MAIL_POPUP": "Open your mail client in a new window"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kada se korisnik izbriše, korisnik će biti označen kao \"Neaktivan\" i korisniku se ne mogu dodijeliti novi zapisi, a korisnik se neće moći prijaviti. Jeste li sigurni da želite izbrisati?",

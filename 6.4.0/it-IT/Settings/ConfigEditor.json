@@ -25,8 +25,8 @@
     "LBL_RELATION_SHOW_RECORDS_COUNT": "Mostra il conteggio dei record nelle schede dei moduli correlati",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Separa i pulsanti d'azione per modificare i dati aggiuntivi",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Il pulsante definisce un tipo di dato speciale che appartiene solo alle relazioni, disponibile ad es. nel modulo Eventi",
-    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Max number of export records",
-    "LBL_PERFORMANCE": "Performance"
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Numero massimo di registri d'esportazione",
+    "LBL_PERFORMANCE": "Prestazioni"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Impostazioni configurazione salvate",

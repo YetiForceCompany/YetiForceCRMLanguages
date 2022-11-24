@@ -418,7 +418,9 @@
     "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
     "LBL_MEMBER": "Members",
-    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
+    "FL_WAPRO_USER": "WAPRO ERP User identifier",
+    "FL_MAIL_POPUP": "Open your mail client in a new window"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Όταν ένας Χρήστης διαγραφεί, ο χρήστης θα επισημανθεί ως \"Ανενεργός\" και δεν μπορούν να εκχωρηθούν νέες εγγραφές στον Χρήστη, και ο χρήστης δεν θα μπορεί να συνδεθεί. Είστε βέβαιοι ότι θέλετε να διαγράψετε;",

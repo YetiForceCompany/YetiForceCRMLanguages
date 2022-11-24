@@ -48,6 +48,7 @@
     "Discount Amount": "Discount amount",
     "Discount Percent": "Discount percent",
     "Discount": "Zľava",
+    "LBL_MARKUP": "Markup",
     "Documents": "Dokumenty",
     "Due Date & Time": "Dátum a čas splatnosti",
     "Due Date": "Dátum splatnosti",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Price before discount",
     "LBL_DISCOUNT_IN_TOTAL": "Zľava celkom",
     "LBL_PRICE_AFTER_DISCOUNT": "Price after discount",
-    "LBL_DISCOUNT_MODE": "Zľava celkom",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Hodnota",
     "LBL_QUANTITY": "Množstvo",
     "LBL_REFERENCE": "Reference",
@@ -1248,7 +1249,6 @@
     "Potentials": "Opportunities",
     "LBL_PICKLIST_FIELD": "Select from field",
     "LBL_MAP": "Map",
-    "LBL_SHOW_MAP": "Show on the map",
     "LBL_SOCIAL_MEDIA": "Social media",
     "FL_CAMPAIGN_STATUS": "Stav kampane",
     "LBL_REVIEW_CHANGES": "Označiť aktualizácie ako skontrolované",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Záznam neexistuje",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "Záznam bol zmzaný a názov nemôže byť zobrazený.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Approve",

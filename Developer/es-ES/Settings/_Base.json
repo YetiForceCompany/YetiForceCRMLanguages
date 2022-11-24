@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Convertir a Empresa",
     "LBL_DAV_KEYS": "Claves DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Crear y administrar claves DAV",
-    "LBL_AUTOLOGIN": "Inicio de sesión automático",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuración de inicio de sesión automático para el módulo de correo electrónico",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Configuración general",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Configuración general del módulo de correo electrónico",
     "LBL_SUPPORT_PROCESSES": "Procesos de soporte",

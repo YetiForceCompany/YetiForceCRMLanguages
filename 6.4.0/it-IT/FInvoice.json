@@ -44,7 +44,7 @@
     "PLL_UNDERPAID": "Sottopagato",
     "FL_PAYMENT_SUM": "Totale pagamenti",
     "DW_SUM_FIELD": "Campo sommatoria",
-    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
-    "DW_SUMMATION_BY_USER": "Sales comparison by user"
+    "DW_SUMMATION_BY_MONTHS": "Confronto delle vendite per mese",
+    "DW_SUMMATION_BY_USER": "Confronto delle vendite per utente"
   }
 }

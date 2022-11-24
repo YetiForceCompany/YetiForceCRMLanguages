@@ -48,6 +48,7 @@
     "Discount Amount": "Kwota rabatu",
     "Discount Percent": "Procent rabatu",
     "Discount": "Rabat",
+    "LBL_MARKUP": "Marża",
     "Documents": "Dokumenty",
     "Due Date & Time": "Czas realizacji",
     "Due Date": "Data realizacji",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Cena przed rabatem",
     "LBL_DISCOUNT_IN_TOTAL": "Łączna wartość rabatu",
     "LBL_PRICE_AFTER_DISCOUNT": "Cena po rabacie",
-    "LBL_DISCOUNT_MODE": "Typ rabatu",
+    "LBL_DISCOUNT_MODE": "Tryb rabatu",
     "LBL_VALUE": "Wartość",
     "LBL_QUANTITY": "Ilość",
     "LBL_REFERENCE": "Powiązanie",
@@ -1248,7 +1249,6 @@
     "Potentials": "Szanse sprzedaży",
     "LBL_PICKLIST_FIELD": "Lista wyboru z pola",
     "LBL_MAP": "Mapa",
-    "LBL_SHOW_MAP": "Pokaż na mapie",
     "LBL_SOCIAL_MEDIA": "Social",
     "FL_CAMPAIGN_STATUS": "Status kampanii",
     "LBL_REVIEW_CHANGES": "Oznacz zmiany jako przeczytane",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Podgląd obrazu",
     "LBL_RECORD_DOES_NOT_EXIST": "Rekord nie istnieje",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "Rekord został usunięty, nie można wyświetlić nazwy.",
-    "LBL_CONDITION_WIZARD": "Kreator warunków"
+    "LBL_CONDITION_WIZARD": "Kreator warunków",
+    "LBL_CURRENCY_CONVERTER": "Konwerter walut",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

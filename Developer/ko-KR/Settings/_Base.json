@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "거래처로 전환",
     "LBL_DAV_KEYS": "DAV 키",
     "LBL_DAV_KEYS_DESCRIPTION": "DAV 키를 생성하고 관리",
-    "LBL_AUTOLOGIN": "자동 로그인",
-    "LBL_AUTOLOGIN_DESCRIPTION": "이메일 모듈에 대한 자동 로그인 환경설정",
     "LBL_MAIL_GENERAL_CONFIGURATION": "일반설정",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "이메일 모듈의 일반 설정",
     "LBL_SUPPORT_PROCESSES": "지원 프로세스",

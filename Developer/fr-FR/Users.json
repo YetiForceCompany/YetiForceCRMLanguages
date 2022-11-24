@@ -418,7 +418,9 @@
     "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
     "LBL_MEMBER": "Members",
-    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
+    "FL_WAPRO_USER": "WAPRO ERP User identifier",
+    "FL_MAIL_POPUP": "Open your mail client in a new window"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Lorsqu'un utilisateur est supprimé, l'utilisateur sera marqué comme \"Inactif\", aucun nouvel enregistrement ne pourra être assigné à l'utilisateur et l'utilisateur ne pourra pas se connecter. Êtes-vous sûr de vouloir supprimer ?",

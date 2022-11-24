@@ -3,7 +3,7 @@
     "Watchdog": "Watchdog",
     "LBL_YETIFORCE_WATCHDOG_HEADER": "YetiForce watchdog monitor",
     "LBL_YETIFORCE_WATCHDOG_DESC": "Pagina di configurazione del servizio di monitoraggio YetiForce watchdog",
-    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "The watchdog mechanism monitors the CRM system work and transfers selected information to YetiForce S.A. All collected information will not be published and is intended only to monitor the CRM system for incorrect operation and the environment on which it is installed.",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "Il meccanismo di vigilanza monitora il funzionamento del sistema di CRM e trasferisce le informazioni selezionate a YetiForce S.A. Tutte le informazioni raccolte non saranno pubblicate e sono intese solo per il monitoraggio del sistema di CRM per l'operazione errata e l'ambiente su cui è installato.",
     "LBL_PARAM_NAME": "Impostazioni",
     "LBL_PARAM_VAL": "Valore",
     "LBL_PARAM_NOT_ALLOWED": "Parametro non consentito",
@@ -28,6 +28,6 @@
     "LBL_PUBLICDIRECTORYACCESS": "Cartella pubblica",
     "LBL_ENVIRONMENT": "Informazioni sull'ambiente",
     "LBL_WRITABLEFILESANDFOLDERS": "File e cartelle scrivibili",
-    "LBL_PATHVERIFICATION": "Path verification"
+    "LBL_PATHVERIFICATION": "Verifica del percorso"
   }
 }

@@ -8,7 +8,7 @@
     "LBL_DETAIL_FIELDS": "Campi dettagliati",
     "LBL_SUM_FIELDS": "Campi sommatori",
     "LBL_NO_FIELDS_ADD": "Nessun campo da aggiungere",
-    "LBL_NOT_VISIBLE_KANBAN": "The dictionary has lost its Quick Edit permission and is not available in Kanban view."
+    "LBL_NOT_VISIBLE_KANBAN": "Il dizionario ha perso la propria autorizzazione alla Modifica Rapida e non è disponibile nella vista di Kanban."
   },
   "js": {}
 }

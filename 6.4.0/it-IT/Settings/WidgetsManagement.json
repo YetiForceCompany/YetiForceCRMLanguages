@@ -47,7 +47,7 @@
     "LBL_SKIP_YEAR_DESC": "Tralascia l'anno dell'evento considerando solo il mese e il giorno.",
     "LBL_WIDGET_NAME": "Nome del widget",
     "BTN_NEXT": "Successivo",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_DEFAULT_TIME": "Tempo di fine chiamata predefinito (min)"
   },
   "js": {
     "JS_BLOCK_ADDED": "Il blocco è stato aggiunto",

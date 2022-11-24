@@ -48,6 +48,7 @@
     "Discount Amount": "Montant de la remise",
     "Discount Percent": "Pourcentage de la remise",
     "Discount": "Remise",
+    "LBL_MARKUP": "Markup",
     "Documents": "Documents",
     "Due Date & Time": "Date & Heure dûes",
     "Due Date": "Date dûe",
@@ -999,7 +1000,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Prix avant remise",
     "LBL_DISCOUNT_IN_TOTAL": "Remise totale",
     "LBL_PRICE_AFTER_DISCOUNT": "Prix après remise",
-    "LBL_DISCOUNT_MODE": "Remise totale",
+    "LBL_DISCOUNT_MODE": "Discount mode",
     "LBL_VALUE": "Valeur",
     "LBL_QUANTITY": "Quantité",
     "LBL_REFERENCE": "Référence",
@@ -1248,7 +1249,6 @@
     "Potentials": "Opportunités",
     "LBL_PICKLIST_FIELD": "Sélectionner dans le champ",
     "LBL_MAP": "Carte",
-    "LBL_SHOW_MAP": "Voir la carte",
     "LBL_SOCIAL_MEDIA": "Réseau Social",
     "FL_CAMPAIGN_STATUS": "État de la campagne",
     "LBL_REVIEW_CHANGES": "Marquer les mises à jour comme examinées",
@@ -1514,7 +1514,9 @@
     "LBL_IMAGE_PREVIEW": "Image preview",
     "LBL_RECORD_DOES_NOT_EXIST": "Record does not exist",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "The record has been deleted and the name cannot be displayed.",
-    "LBL_CONDITION_WIZARD": "Condition wizard"
+    "LBL_CONDITION_WIZARD": "Condition wizard",
+    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_OK": "Ok"
   },
   "js": {
     "JS_APPROVE": "Approuver",

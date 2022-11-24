@@ -35,6 +35,7 @@
     "RecurringInvoice": "Fattura periodica",
     "LBL_MAIL_SCANNER_ACTION": "Azione scansione email",
     "LBL_MAIL_SCANNER_VERIFICATION": "Verifica scansione email",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Notifiche della Scansione Email",
     "LBL_SEND_REMINDER": "Invia promemoria",
     "LBL_SCHEDULED_IMPORT": "Importazione pianificata",
     "LBL_SCHEDULE_REPORTS": "Reportistica pianificata",
@@ -71,7 +72,7 @@
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "Il CRON non è stato abilitato, è richiesto per il corretto funzionamento del sistema.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Scarica i messaggi dai social media",
     "LBL_MAIL_RBL": "Aggiornamento server RBL",
-    "LBL_INTEGRATION_PL_GUS_REGON": "Creating newly added companies from the PL GUS REGON database"
+    "LBL_INTEGRATION_PL_GUS_REGON": "Creazione di aziende appena aggiunte, dal database di PL GUS REGON"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Frequenza consigliata per l'importazione pianificata è di 15 minuti",

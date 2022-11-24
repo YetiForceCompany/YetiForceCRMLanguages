@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "تحويل إلى حساب",
     "LBL_DAV_KEYS": "DAV مفاتيح",
     "LBL_DAV_KEYS_DESCRIPTION": "إنشاء وإدارة DAV مفاتيح",
-    "LBL_AUTOLOGIN": "الدخول التلقائي",
-    "LBL_AUTOLOGIN_DESCRIPTION": "التكوين من دخول السيارات من أجل وحدة البريد الإلكتروني",
     "LBL_MAIL_GENERAL_CONFIGURATION": "اعدادات عامة",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "التكوين العامة من وحدة البريد الإلكتروني",
     "LBL_SUPPORT_PROCESSES": "دعم العمليات",

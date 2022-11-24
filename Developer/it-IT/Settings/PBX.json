@@ -11,9 +11,9 @@
     "LBL_PASSWORD": "Password",
     "LBL_SECRET_KEY": "Chiave segreta",
     "LBL_OUTBOUND_CONTEXT": "Contesto di uscita",
-    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_PORT": "Porta d'ascolto HTTP",
     "LBL_PBX_DEFAULT": "Predefinito",
-    "LBL_PBX_BASE": "Base (default in browser)"
+    "LBL_PBX_BASE": "Base (predefinita nel browser)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Modifiche salvate"

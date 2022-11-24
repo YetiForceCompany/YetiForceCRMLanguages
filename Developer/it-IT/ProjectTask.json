@@ -25,7 +25,7 @@
     "operative": "Esterno",
     "other": "Condiviso",
     "LBL_PROJECT": "Progetto",
-    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
-    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+    "LBL_UPCOMING_PROJECT_TASKS": "Attività del progetto in arrivo",
+    "LBL_COMPLETED_PROJECT_TASKS": "Attività del progetto completate"
   }
 }
