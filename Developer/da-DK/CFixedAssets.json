@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Personskade forsikrings udgift",
     "FL_NUMBER_MOTOHOURS": "Motor timer",
     "FL_EQUIPMENT": "Udstyr",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Ikke tilgængelig",
     "PLL_AVAILABLE": "Tilgængelig",
     "PLL_DEMAGED": "Beskadiget",

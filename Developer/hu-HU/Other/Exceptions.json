@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Nem sikerült menteni a munkafolyamat módszerek script fájlt.",
     "ERR_ILLEGAL_FIELD_VALUE": "Illegális érték beírása ez a mező típus. Mező név: %s, Modul: %s, Érték: %s",
     "ERR_VALUE_IS_TOO_LONG": "Karakter limit túllépése. Mező név: %s, Modul: %s, Érték: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Túl sok fájl át - határérték túllépése. Mező név: %s, Modul: %s, Érték: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "A mező értéke lehet nagyobb, mint nulla. Mező név: %s, Modul: %s, Érték: %s",
     "ERR_NOT_ALLOWED_VALUE": "Helytelen értéket észlel, kérjük, lépjen kapcsolatba a rendszergazdával",

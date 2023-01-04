@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Datoteke skripta za metode poteka dela (workflow) ni bilo mogoče shraniti.",
     "ERR_ILLEGAL_FIELD_VALUE": "Za to vrsto polja je bila vnesena napačna vrednost. Ime polja:%s, modul:%s, vrednost:%s",
     "ERR_VALUE_IS_TOO_LONG": "Število znakov je presežena. Ime polja:%s, modul:%s, vrednost:%s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Preveč prenesenih datotek - meja je bila presežena. Ime polja: %s, Modul: %s, Vrednost: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Vrednost polja mora biti večja od nič. Ime polja:%s, modul:%s, vrednost:%s",
     "ERR_NOT_ALLOWED_VALUE": "Zaznana je napačna vrednost, prosimo da se obrnite na skrbnika",

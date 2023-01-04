@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Kan het script-bestand van workflow niet opslaan.",
     "ERR_ILLEGAL_FIELD_VALUE": "Illegale waarde is opgegeven voor dit veld type. Naam veld: %s, Module: %s, Waarde: %s",
     "ERR_VALUE_IS_TOO_LONG": "Limiet overschreden. Naam veld: %s, Module: %s, Waarde: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Te veel bestanden overgedragen - limiet is overschreden. Veldnaam: %s, Module: %s, waarde: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "De veldwaarde moet groter zijn dan nul. Veldnaam: %s, Module: %s, waarde: %s",
     "ERR_NOT_ALLOWED_VALUE": "Onjuiste waarde aangetroffen, neem contact op met uw beheerder",

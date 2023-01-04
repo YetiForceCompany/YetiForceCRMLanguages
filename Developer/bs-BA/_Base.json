@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Uvoz",
     "LBL_IN": "u",
     "LBL_INDIVIDUAL": "Individualno",
+    "LBL_INV_TAX_MODE_GLOBAL": "Globalno",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Globalno",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Grupa",
     "LBL_INVENTORY": "INVENTAR",
     "LBL_IS_EMPTY": "je prazan",
     "LBL_IS_NOT_EMPTY": "nije prazan",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Valuta sumarno",
     "LBL_CHANGE_CURRENCY": "Promjena valute",
     "LBL_CHANGE_CURRENCY_INFO": "Promjena valute pretvorit će sve vrijednosti. Jeste li sigurni da to želite učiniti?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Iznos",
     "LBL_SET_GLOBAL_TAX": "Postavi",
     "LBL_SET_GLOBAL_DISCOUNT": "Postavi",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Sljedeći",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

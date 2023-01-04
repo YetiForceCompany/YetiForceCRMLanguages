@@ -73,12 +73,12 @@
     "LBL_RELATION": "Σχέση",
     "LBL_LEGAL_FORM": "Νομική μορφή",
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Υπάρχουν τουλάχιστον δύο λογαριασμοί Πελατών που πληρούν τις προϋποθέσεις σύνδεσης, πηγαίνετε στο: (Διαχείριση> Διαδικασίες> Μάρκετινγκ> Μετατροπή) %s",
-    "History": "History",
-    "Leads by Industry": "Leads by industry",
-    "Leads by Source": "Leads by source",
-    "Leads by Status": "Leads by status",
-    "Leads by Status Converted": "Leads converted by status",
-    "Overdue Activities": "Overdue activities"
+    "History": "Ιστορικό",
+    "Leads by Industry": "Δυνητικοί Πελάτες ανά κλάδο",
+    "Leads by Source": "Δυνητικοί Πελάτες ανά πηγή",
+    "Leads by Status": "Δυνητικοί πελάτες ανα κατάσταση",
+    "Leads by Status Converted": "Δυνητικοί πελάτες μετατράπηκαν ανά κατάσταση",
+    "Overdue Activities": "Ληξιπρόθεσμες δραστηριότητες"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Επιλέξτε Λογαριασμό"

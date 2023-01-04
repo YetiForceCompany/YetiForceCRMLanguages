@@ -6,7 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Διεύθυνση τιμολόγησης",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Διεύθυνση παράδοσης",
     "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
-    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "Υπέρβαση της διαθέσιμης ποσότητας των ακόλουθων προϊόντων: %s",
     "LBL_ATTENTION_BLOCK": "Παρατηρήσεις",
     "FL_SUBJECT": "Θέμα",
     "FL_PAYMENT_DATE": "Ημερομηνία πληρωμής μέχρι",
@@ -44,7 +44,7 @@
     "PLL_UNDERPAID": "Μερικώς εξοφλημένο",
     "FL_PAYMENT_SUM": "Σύνολο πληρωμών",
     "DW_SUM_FIELD": "Πεδίο άθροισης",
-    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
-    "DW_SUMMATION_BY_USER": "Sales comparison by user"
+    "DW_SUMMATION_BY_MONTHS": "Σύγκριση πωλήσεων ανά μήνα",
+    "DW_SUMMATION_BY_USER": "Σύγκριση πωλήσεων ανα χρήστη"
   }
 }

@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Importati",
     "LBL_IN": "in",
     "LBL_INDIVIDUAL": "Individual",
+    "LBL_INV_TAX_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Grup",
     "LBL_INVENTORY": "INVENTAR",
     "LBL_IS_EMPTY": "este gol",
     "LBL_IS_NOT_EMPTY": "nu este gol",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Sumar valuta",
     "LBL_CHANGE_CURRENCY": "Schimba valuta",
     "LBL_CHANGE_CURRENCY_INFO": "Modificarea valutei va converti toate valorile\nEsti sigur ca vrei sa faci asta?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Suma",
     "LBL_SET_GLOBAL_TAX": "Seteaza",
     "LBL_SET_GLOBAL_DISCOUNT": "Seteaza",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Urmatorul",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

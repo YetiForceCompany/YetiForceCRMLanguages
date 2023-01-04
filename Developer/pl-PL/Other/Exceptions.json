@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Nie można zapisać pliku skryptu metod workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Wprowadzono niedozwoloną wartość dla tego typu pola. Nazwa pola: %s, Moduł: %s, Wartość: %s",
     "ERR_VALUE_IS_TOO_LONG": "Przekroczono limit znaków. Nazwa pola: %s, moduł: %s, wartość: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Wprowadzona wartość jest za krótka. Nazwa pola: %s, Moduł: %s, Wartość: %s",
     "ERR_TO_MANY_FILES": "Przekroczono limit ilości przesyłanych plików. Nazwa pola: %s, moduł: %s, wartość: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Wartość pola musi być większa od zera. Nazwa pola: %s, moduł: %s, wartość: %s",
     "ERR_NOT_ALLOWED_VALUE": "Wykryto niedozwoloną wartość, prosimy o kontakt z administratorem",

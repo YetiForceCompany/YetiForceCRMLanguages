@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Cobertura del seguro (lesiones personales)",
     "FL_NUMBER_MOTOHOURS": "Nº de horas Moto",
     "FL_EQUIPMENT": "Equipamiento",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "No disponible",
     "PLL_AVAILABLE": "Disponible",
     "PLL_DEMAGED": "Dañado",

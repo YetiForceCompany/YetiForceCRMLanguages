@@ -291,6 +291,9 @@
     "LBL_IMPORT": "Import",
     "LBL_IN": "in",
     "LBL_INDIVIDUAL": "Individual",
+    "LBL_INV_TAX_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Group",
     "LBL_INVENTORY": "INVENTORY",
     "LBL_IS_EMPTY": "is empty",
     "LBL_IS_NOT_EMPTY": "is not empty",
@@ -1032,6 +1035,8 @@
     "LBL_CURRENCIES_SUMMARY": "Currency summary",
     "LBL_CHANGE_CURRENCY": "Change currency",
     "LBL_CHANGE_CURRENCY_INFO": "Changing the currency will convert all values.\nAre you sure you want to do that?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Amount",
     "LBL_SET_GLOBAL_TAX": "Set",
     "LBL_SET_GLOBAL_DISCOUNT": "Set",
@@ -1406,10 +1411,12 @@
     "LBL_DUPLICATE_FIELD_VALUE": "This '%s' already exists in this module.",
     "LBL_DUPLICATE_EAN": "This ean already exists in this module.",
     "FL_MAGENTO_SERVER": "Magento server",
+    "FL_MAGENTO_ID": "Magento Id",
+    "FL_WOOCOMMERCE_SERVER": "WooCommerce server",
+    "FL_WOOCOMMERCE_ID": "WooCommerce Id",
     "LBL_COMPLETE_FIELDS": "Complete fields",
     "LBL_DATA_FROM_RECORD": "Data from record",
     "LBL_DATA_FROM_SOURCE": "Data from source",
-    "FL_MAGENTO_ID": "Magento Id",
     "FL_CONTACT": "Contact",
     "FL_PAYMENTS_METHOD": "Payment method",
     "PLL_TRANSFER": "Bank transfer",
@@ -1982,6 +1989,7 @@
     "JS_NEXT": "Next",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "未能保存工作流方法脚本文件。",
     "ERR_ILLEGAL_FIELD_VALUE": "此字段类型输入的值非法。字段名称:%s, 模块:%s, 值:%s",
     "ERR_VALUE_IS_TOO_LONG": "超出了字符限制。字段名称:%s, 模块:%s, 值:%s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "超出了传输的文件限制太多。字段名称:%s, 模块:%s, 值:%s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "字段值必须大于零。字段名称:%s, 模块:%s, 值:%s",
     "ERR_NOT_ALLOWED_VALUE": "检测到的值不正确，请联系您的管理员",

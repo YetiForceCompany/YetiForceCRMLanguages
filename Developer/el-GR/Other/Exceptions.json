@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Αποτυχία αποθήκευσης αρχείου δέσμης ενεργειών (script) των μεθόδων ροής εργασίας.",
     "ERR_ILLEGAL_FIELD_VALUE": "Εχει εισαχθεί μη έγκυρη τιμή για αυτό τον τύπο πεδίου. Όνομα πεδίου: %s, Module: %s, Τιμή: %s",
     "ERR_VALUE_IS_TOO_LONG": "Υπέρβαση του ορίου χαρακτήρων. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Πολλά αρχεία μεταφέρθηκαν - Υπέρβαση ορίου. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Η τιμή του πεδίου πρέπει να είναι μεγαλύτερη από μηδέν. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
     "ERR_NOT_ALLOWED_VALUE": "Εντοπίστηκε εσφαλμένη τιμή, παρακαλώ επικοινωνήστε με τον διαχειριστή σας",

@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Impossible d'enregistrer le script de méthodes de flux de travail.",
     "ERR_ILLEGAL_FIELD_VALUE": "Une valeur illégale a été saisie pour ce type de champ. Nom du champ : %s, Module : %s, Valeur : %s",
     "ERR_VALUE_IS_TOO_LONG": "Limite de caractères dépassée. Nom de champ : %s, Module : %s, Valeur : %s",
+    "ERR_VALUE_IS_TOO_SHORT": "La valeur saisie est trop courte. Nom du champ : %s, Module : %s, Valeur : %s",
     "ERR_TO_MANY_FILES": "Trop de fichiers transférés - limite a été dépassée. Nom du champ : %s, Module : %s, Valeur : %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "La valeur du champ doit être supérieure à zéro. Nom du champ : %s, Module : %s, Valeur : %s",
     "ERR_NOT_ALLOWED_VALUE": "Valeur incorrecte détecté, veuillez contacter l'administrateur.",

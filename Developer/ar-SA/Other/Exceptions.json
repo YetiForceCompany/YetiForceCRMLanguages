@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Failed to save workflow methods script file.",
     "ERR_ILLEGAL_FIELD_VALUE": "تم إدخال قيمة غير صحيحه لهذا الحقل. اسم الحقل: %s، الوحدة النمطية: %s، قيمة: %s",
     "ERR_VALUE_IS_TOO_LONG": "تجاوز حد عدد الأحرف. اسم الحقل: %s، الوحدة: %s، القيمة: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "عدد كبير جدا من الملفات التي تم نقلها - تم تجاوز الحد الأقصى. اسم الحقل: %s، الوحدة: %s، القيمة: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "The field value must be greater than zero. Field name: %s, Module: %s, Value: %s",
     "ERR_NOT_ALLOWED_VALUE": "تم اكتشاف قيمة غير صحيحة، الرجاء الاتصال بالمسؤول الخاص بك",

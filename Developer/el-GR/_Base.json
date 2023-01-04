@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Εισαγωγή",
     "LBL_IN": "σε",
     "LBL_INDIVIDUAL": "Μεμονωμένα",
+    "LBL_INV_TAX_MODE_GLOBAL": "Συνολικά",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Συνολικά",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Ομάδα",
     "LBL_INVENTORY": "ΑΠΟΘΕΜΑΤΑ",
     "LBL_IS_EMPTY": "είναι κενό",
     "LBL_IS_NOT_EMPTY": "δεν είναι κενό",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Νόμισμα σύνοψη",
     "LBL_CHANGE_CURRENCY": "Αλλαγή νομίσματος",
     "LBL_CHANGE_CURRENCY_INFO": "Αλλαγή του νομίσματος θα μετατρέψει όλες τις τιμές.\nΕίστε βέβαιοι ότι θέλετε να το κάνετε αυτό;",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Ποσότητα",
     "LBL_SET_GLOBAL_TAX": "Όρισε",
     "LBL_SET_GLOBAL_DISCOUNT": "Όρισε",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Επόμενη",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

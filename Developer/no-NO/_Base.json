@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Import",
     "LBL_IN": "i",
     "LBL_INDIVIDUAL": "Individuell",
+    "LBL_INV_TAX_MODE_GLOBAL": "Globalt",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Globalt",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Gruppe",
     "LBL_INVENTORY": "INVENTAR",
     "LBL_IS_EMPTY": "er tom",
     "LBL_IS_NOT_EMPTY": "er ikke tom",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Currency summary",
     "LBL_CHANGE_CURRENCY": "Change currency",
     "LBL_CHANGE_CURRENCY_INFO": "Changing the currency will convert all values.\nAre you sure you want to do that?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Amount",
     "LBL_SET_GLOBAL_TAX": "Set",
     "LBL_SET_GLOBAL_DISCOUNT": "Set",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Neste",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

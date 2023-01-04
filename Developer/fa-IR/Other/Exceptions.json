@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "ذخیره روش گردش کار بروی فایل اسکریپت با شکست مواجه شد.",
     "ERR_ILLEGAL_FIELD_VALUE": "مقادیر غیر مجاز برای این نوع فایل وارد شده. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
     "ERR_VALUE_IS_TOO_LONG": "سقف تعداد کاراکتر رد شد. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "بیش از حد مجاز فایل جابجا شد و از سقف مجاز گذشت. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "مقدار فیلد با بیشتر از صفر باشد. نام فیلد: %s ، ماژول:%s ، مقدار: %s",
     "ERR_NOT_ALLOWED_VALUE": "مقدار نادرستی تشخیص داده شد, لطفا با مدیریت تماس بگیرید",

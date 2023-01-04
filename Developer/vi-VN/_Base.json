@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Nhập dữ liệu",
     "LBL_IN": "trong",
     "LBL_INDIVIDUAL": "Cá nhân",
+    "LBL_INV_TAX_MODE_GLOBAL": "Toàn cục",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Toàn cục",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Nhóm",
     "LBL_INVENTORY": "Kho đồ",
     "LBL_IS_EMPTY": "rỗng",
     "LBL_IS_NOT_EMPTY": "không rỗng",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Tổng quan tiền tệ",
     "LBL_CHANGE_CURRENCY": "Thay đổi tiền tệ",
     "LBL_CHANGE_CURRENCY_INFO": "Thay đổi tiền tệ sẽ chuyển đổi tất cả các giá trị.\nBạn chắc chắn muốn làm điều này?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Số lượng",
     "LBL_SET_GLOBAL_TAX": "Đặt",
     "LBL_SET_GLOBAL_DISCOUNT": "Đặt",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Tiếp",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

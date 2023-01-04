@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Import",
     "LBL_IN": "in",
     "LBL_INDIVIDUAL": "Individual",
+    "LBL_INV_TAX_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Skupina",
     "LBL_INVENTORY": "INVENTÁR",
     "LBL_IS_EMPTY": "je prázdny",
     "LBL_IS_NOT_EMPTY": "nie je prázdny",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Currency summary",
     "LBL_CHANGE_CURRENCY": "Change currency",
     "LBL_CHANGE_CURRENCY_INFO": "Zmenou meny sa prevedú všetky hodnoty.\nSte si istý, že to chcete urobiť?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Amount",
     "LBL_SET_GLOBAL_TAX": "Nastaviť",
     "LBL_SET_GLOBAL_DISCOUNT": "Nastaviť",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Ďalej",
     "JS_CALENDAR_LIST": "Rozvrh",
     "JS_SPECIAL_CHARACTERS": "Špeciálne znaky, ako",
-    "JS_NOT_ALLOWED": "nie sú povolené"
+    "JS_NOT_ALLOWED": "nie sú povolené",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

@@ -4,9 +4,9 @@
     "LBL_FEATURED": "Προσθήκη στα αγαπημένα",
     "LBL_COLOR_VIEW": "Προβολή χρωμάτων",
     "LBL_ADD_FIELD": "Προσθήκη πεδίου",
-    "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
-    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
-    "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",
-    "LBL_CUSTOM_CONDITIONS_DESC": "Filter the current list of records based on relationships and related records that meet specified criteria.\nFailure to set conditions results in showing lists of records with at least one relation."
+    "LBL_CUSTOM_RELATION_COLUMN": "Σχέση ως προσαρμοσμένη στήλη",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Φιλτράρισμα ως πρόσθετη στήλη στη λίστα εγγραφών. Φιλτράρει με βάση την καταχώρηση που βρέθηκε σε σχετικές εγγραφές. ",
+    "LBL_CUSTOM_CONDITIONS": "Προϋποθέσεις για το φιλτράρισμα σχετικών εγγραφών",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Φιλτράρετε την τρέχουσα λίστα εγγραφών με βάση τις σχέσεις και τις σχετικές εγγραφές που πληρούν συγκεκριμένα κριτήρια.\nΗ αποτυχία καθορισμού προϋποθέσεων έχει ως αποτέλεσμα την εμφάνιση καταλόγων εγγραφών με τουλάχιστον μία σχέση."
   }
 }

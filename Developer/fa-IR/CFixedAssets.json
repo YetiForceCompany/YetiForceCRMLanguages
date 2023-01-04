@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "هزینه بیمه محافظت شخصی",
     "FL_NUMBER_MOTOHOURS": "شماره ساعت موتور",
     "FL_EQUIPMENT": "تجهیزات",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "ناموجود",
     "PLL_AVAILABLE": "در دسترس",
     "PLL_DEMAGED": "آسیب دیده",

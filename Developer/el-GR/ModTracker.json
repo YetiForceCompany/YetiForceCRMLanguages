@@ -33,7 +33,7 @@
     "LBL_UPDATED": "ενημέρωσε",
     "LBL_DISPLAYED": "πρόβαλε",
     "LBL_ADDED": "πρόσθεσε",
-    "LBL_UNLINK": "removed relation",
+    "LBL_UNLINK": "αφαίρεση σχέσης",
     "LBL_REMOVED": "αφαίρεσε",
     "LBL_CONVERTED_FROM_LEAD": "Μετατράπηκε από Δυνητικό Πελάτη",
     "LBL_DELETED": "Διαγραμμένη εγγραφή",
@@ -48,7 +48,7 @@
     "LBL_INV_UPDATED": "Ενημερώθηκε",
     "LBL_INV_DELETED": "Διαγράφηκε",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ενημέρωση διαμόρφωσης widget",
-    "LBL_UPDATES": "System update history",
+    "LBL_UPDATES": "Ιστορικό ενημερώσεων συστήματος",
     "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές",
     "LBL_MODULES": "Modules",
     "LBL_SHOW_HIDDEN_DATA": "Εμφανίστηκαν κρυφά δεδομένα"

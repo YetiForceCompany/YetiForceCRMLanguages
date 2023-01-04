@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Грешка на записване на методи на работния процесна скрипт файла.\n\t",
     "ERR_ILLEGAL_FIELD_VALUE": "Невалидна стойност за този тип поле. Име на поле: %s, модул: %s, цена: %s",
     "ERR_VALUE_IS_TOO_LONG": "Надхвърлен лимит на характери. Име на поле: %s, Module: %s, Стойност: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Прекалено много файлове са предавани - лимитът е надхвърлен. Име на поле: %s, Module: %s, Стойност: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Стойността на полето трябва да е по-голям от нула. Име на поле: %s, модул: %s, цена: %s",
     "ERR_NOT_ALLOWED_VALUE": "Открита е неправилна стойност, моля, свържете се с вашия администратор",

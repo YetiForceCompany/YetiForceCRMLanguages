@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "ワークフローメソッドのスクリプトファイルの保存に失敗しました。",
     "ERR_ILLEGAL_FIELD_VALUE": "このフィールドタイプに不正な値が入力されました。 フィールド名：%s、モジュール：%s、値：%s",
     "ERR_VALUE_IS_TOO_LONG": "文字制限を超えました。フィールド名: %s, モジュール: %s, 値: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "転送されたファイルが多すぎます。フィールド名: %s, モジュール: %s, 値: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "フィールド値はゼロより大きくなければなりません。 フィールド名：%s、モジュール：%s、値：%s",
     "ERR_NOT_ALLOWED_VALUE": "不正な値が検出されました。管理者に問い合わせてください",

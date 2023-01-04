@@ -290,6 +290,9 @@
     "LBL_IMPORT": "وارد کردن",
     "LBL_IN": "در",
     "LBL_INDIVIDUAL": "موردی",
+    "LBL_INV_TAX_MODE_GLOBAL": "سراسری",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "سراسری",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "گروه",
     "LBL_INVENTORY": "انبار",
     "LBL_IS_EMPTY": "خالی است",
     "LBL_IS_NOT_EMPTY": "خالی نیست",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "چکیده واحد پولی",
     "LBL_CHANGE_CURRENCY": "تغییر واحد پول",
     "LBL_CHANGE_CURRENCY_INFO": "تغییر واحد پولی تمام مقادیر را تبدیل می کند.\nآیا شما مطمئن هستید که میخواهید انجام دهید؟",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "مقدار",
     "LBL_SET_GLOBAL_TAX": "تنظیم",
     "LBL_SET_GLOBAL_DISCOUNT": "تنظیم",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "بعدی",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

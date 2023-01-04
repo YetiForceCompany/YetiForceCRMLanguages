@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Lỗi khi lưu file script phương pháp luồng công việc.",
     "ERR_ILLEGAL_FIELD_VALUE": "Giá trị không hợp lệ đã được nhập vào loại trường này. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_VALUE_IS_TOO_LONG": "Ký tự đã vượt ngưỡng. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Quá nhiều tập tin được chuyển - đã vượt quá giới hạn. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Giá trị trường phải lớn hơn 0. Tên trường: %s, Mô-đun: %s, Giá trị: %s",
     "ERR_NOT_ALLOWED_VALUE": "Phát hiện giá trị không hợp lệ, xin hãy liên hệ với quản trị",

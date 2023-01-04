@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Імпорт",
     "LBL_IN": "в",
     "LBL_INDIVIDUAL": "Індивідуальний",
+    "LBL_INV_TAX_MODE_GLOBAL": "Загальна",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Загальна",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Група",
     "LBL_INVENTORY": "Склад",
     "LBL_IS_EMPTY": "порожнє",
     "LBL_IS_NOT_EMPTY": "не є порожнім",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Всього в валюті",
     "LBL_CHANGE_CURRENCY": "Змінити валюту",
     "LBL_CHANGE_CURRENCY_INFO": "Зміна валюти призведе до конвертації всіх значень.\nВи впевнені, що хочете це зробити?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Сума",
     "LBL_SET_GLOBAL_TAX": "Встановити",
     "LBL_SET_GLOBAL_DISCOUNT": "Встановити",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "наступний",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

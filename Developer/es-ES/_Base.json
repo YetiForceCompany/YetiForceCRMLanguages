@@ -290,6 +290,9 @@
     "LBL_IMPORT": "Importar",
     "LBL_IN": "en",
     "LBL_INDIVIDUAL": "Particular",
+    "LBL_INV_TAX_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "Grupo",
     "LBL_INVENTORY": "INVENTARIO",
     "LBL_IS_EMPTY": "Está vacío",
     "LBL_IS_NOT_EMPTY": "No está vacío",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Resumen de la moneda",
     "LBL_CHANGE_CURRENCY": "Cambiar moneda",
     "LBL_CHANGE_CURRENCY_INFO": "Cambiar la moneda convertirá todos los valores. ¿Está seguro de que desea hacerlo?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "Cantidad",
     "LBL_SET_GLOBAL_TAX": "Establecer",
     "LBL_SET_GLOBAL_DISCOUNT": "Establecer",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "Siguiente",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

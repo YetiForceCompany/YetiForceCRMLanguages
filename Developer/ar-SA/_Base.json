@@ -290,6 +290,9 @@
     "LBL_IMPORT": "استيراد",
     "LBL_IN": "في",
     "LBL_INDIVIDUAL": "شخصي",
+    "LBL_INV_TAX_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "Global",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "المجموعة",
     "LBL_INVENTORY": "مستودع",
     "LBL_IS_EMPTY": "فارغة (Automatic Translation)",
     "LBL_IS_NOT_EMPTY": "ليس فارغاً (Automatic Translation)",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "العملة ملخص",
     "LBL_CHANGE_CURRENCY": "تغيير العملة",
     "LBL_CHANGE_CURRENCY_INFO": "تغيير العملة سيتم تحويل جميع القيم.\nهل أنت متأكد من أنك تريد أن تفعل هذا ؟",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "المبلغ",
     "LBL_SET_GLOBAL_TAX": "تعيين",
     "LBL_SET_GLOBAL_DISCOUNT": "تعيين",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "التالي",
     "JS_CALENDAR_LIST": "Schedule",
     "JS_SPECIAL_CHARACTERS": "Special characters like",
-    "JS_NOT_ALLOWED": "are not allowed"
+    "JS_NOT_ALLOWED": "are not allowed",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

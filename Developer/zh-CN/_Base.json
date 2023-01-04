@@ -290,6 +290,9 @@
     "LBL_IMPORT": "导入",
     "LBL_IN": "在",
     "LBL_INDIVIDUAL": "单独",
+    "LBL_INV_TAX_MODE_GLOBAL": "全局",
+    "LBL_INV_DISCOUNT_MODE_GLOBAL": "全局",
+    "LBL_INV_DISCOUNT_MODE_GROUP": "用户组",
     "LBL_INVENTORY": "库存",
     "LBL_IS_EMPTY": "为空",
     "LBL_IS_NOT_EMPTY": "不为空",
@@ -1031,6 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "货币摘要",
     "LBL_CHANGE_CURRENCY": "更改货币",
     "LBL_CHANGE_CURRENCY_INFO": "更改货币将转换所有值。\n确认要这样做吗？",
+    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
     "LBL_AMOUNT": "金额",
     "LBL_SET_GLOBAL_TAX": "设置",
     "LBL_SET_GLOBAL_DISCOUNT": "设置",
@@ -1981,6 +1986,7 @@
     "JS_NEXT": "下一步",
     "JS_CALENDAR_LIST": "清单",
     "JS_SPECIAL_CHARACTERS": "特殊字符像",
-    "JS_NOT_ALLOWED": "不允许"
+    "JS_NOT_ALLOWED": "不允许",
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
   }
 }

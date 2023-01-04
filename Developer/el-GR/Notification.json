@@ -40,9 +40,9 @@
     "LBL_UNREAD": "Δεν διαβάστηκε",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Δεν υπάρχουν ειδοποιήσεις αδιάβαστες",
     "FL_SUBPROCESS_SECOND_LEVEL": "Υποδιεργασία δευτέρου επιπέδου",
-    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
-    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
-    "Notifications": "Notifications"
+    "LBL_NOTIFICATION_BY_SENDER": "Αριθμός ειδοποιήσεων από τον αποστολέα",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Αριθμός ειδοποιήσεων από παραλήπτη",
+    "Notifications": "Ειδοποιήσεις"
   },
   "js": {
     "JS_MARKED_AS_READ": "Σήμανση ως αναγνωσμένη"

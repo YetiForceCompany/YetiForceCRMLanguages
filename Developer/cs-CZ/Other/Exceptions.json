@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Soubor skriptu metod pracovního postupu se nepodařilo uložit.",
     "ERR_ILLEGAL_FIELD_VALUE": "Pro tento typ pole byla zadána neplatná hodnota. Název pole: % s, modul: % s, hodnota: % s",
     "ERR_VALUE_IS_TOO_LONG": "Byl překročen limit počtu znaků. Název pole: % s, modul: % s, hodnota: % s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Bylo přeneseno příliš mnoho souborů - byl překročen limit. Název pole: % s, modul: % s, hodnota: % s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Hodnota pole musí být větší než nula. Název pole: % s, modul: % s, hodnota: % s",
     "ERR_NOT_ALLOWED_VALUE": "Incorrect value detected, please contact your administrator",

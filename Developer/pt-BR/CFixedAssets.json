@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Custo de Seguro de Proteção Contra Danos Pessoais",
     "FL_NUMBER_MOTOHOURS": "Número de horas de moto",
     "FL_EQUIPMENT": "Equipamento",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Indisponível",
     "PLL_AVAILABLE": "Disponível",
     "PLL_DEMAGED": "Avariado",

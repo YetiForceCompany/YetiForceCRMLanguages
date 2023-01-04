@@ -44,8 +44,8 @@
     "LBL_TICKET_NUMBER": "Αρ. Αιτήματος Υποστήριξης",
     "LBL_TICKET_RESOLUTION": "Λύση Αιτήματος Υποστήριξης",
     "LBL_USERNAME": "Όνομα χρήστη:",
-    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Closed ticket by priority",
-    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
+    "LBL_CLOSED_TICKETS_BY_PRIORITY": "Κλειστά Αιτήματα Υποστήριξης ανά προτεραιότητα",
+    "LBL_CLOSED_TICKETS_BY_USER": "Κλειστά Αιτήματα Υποστήριξης ανά χρήστη",
     "Major": "Σημαντικό",
     "Minor": "Ασήμαντο",
     "Normal": "Κανονικό",
@@ -94,7 +94,7 @@
     "LBL_CLOSE_RELATED_TICKETS": "Πριν κλείσεις το ticket, κλείσε τα σχετικά tickets",
     "LBL_HELPDESK_DEPENDENTS": "Αιτήματα Υποστήριξης",
     "LBL_HELPDESK_RELATED": "Αιτήματα (Μ:M)",
-    "Tickets by Status": "Tickets by status",
-    "Open Tickets": "Open Tickets"
+    "Tickets by Status": "Αιτήματα Υποστήριξης ανα Κατάσταση",
+    "Open Tickets": "Ανοιχτά Αιτήματα Υποστήριξης"
   }
 }
