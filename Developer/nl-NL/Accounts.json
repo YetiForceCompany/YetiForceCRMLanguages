@@ -75,11 +75,11 @@
     "FL_SUM_ORDERS": "Waarde openstaande verkoop orders",
     "FL_TAXES": "Btw",
     "FL_AVAILABLE_TAXES": "Beschikbare Btw",
-    "History": "History",
-    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
-    "Overdue Activities": "Overdue activities",
-    "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
-    "LBL_NEW_ACCOUNTS": "New Accounts"
+    "History": "Historie",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts per bedrijfstak",
+    "Overdue Activities": "Activiteiten overtijd",
+    "LBL_NEGLECTED_ACCOUNTS": "Relaties inactief",
+    "LBL_NEW_ACCOUNTS": "Relaties nieuw"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Organization Name already Exists.Do you want to create a duplicate record?",

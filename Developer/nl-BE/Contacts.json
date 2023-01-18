@@ -49,8 +49,8 @@
     "PLL_WOMAN": "Vrouw",
     "PLL_MAN": "Man",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Contact met deze naam bestaat al.",
-    "History": "History",
-    "Overdue Activities": "Overdue activities"
+    "History": "Historie",
+    "Overdue Activities": "Activiteiten planning overtijd"
   },
   "js": {}
 }
