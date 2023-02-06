@@ -49,7 +49,7 @@
     "BL_SCANNER_BASIC": "Configurazione di base",
     "FL_SCANNER_LIMIT": "Limite",
     "LBL_SCANNER_LIMIT_DESC": "Numero di email scansionate in un singolo processo.",
-    "FL_SCANNER_DEACTIVATION_TIME": "Timeout for account deactivation [h]",
+    "FL_SCANNER_DEACTIVATION_TIME": "Timeout per la disattivazione del profilo [h]",
     "LBL_SCANNER_DEACTIVATION_TIME_DESC": "In caso di problemi con l'accesso al profilo email, sarà disattivato dopo il dato numero di ore.",
     "FL_SCANNER_FLAG_SEEN": "Segna come letto",
     "LBL_SCANNER_FLAG_SEEN_DESC": "Le email scansionate saranno automaticamente segnate come lette.",

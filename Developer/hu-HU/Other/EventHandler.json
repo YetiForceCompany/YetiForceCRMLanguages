@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Ismétlődő e-mail cím",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor az egyik a megadott e-mail cím már létezik",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor az egyik a megadott e-mail cím már létezik",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Ismétlődő ÁFA AZONOSÍTÓ",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokk rekord hozzáadása/szerkesztése, amikor ilyen adószámát már létezik",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Ismétlődő ean",

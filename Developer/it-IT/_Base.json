@@ -1003,7 +1003,7 @@
     "LBL_PRICE_BEFORE_DISCOUNT": "Prezzo non scontato",
     "LBL_DISCOUNT_IN_TOTAL": "Totale sconto",
     "LBL_PRICE_AFTER_DISCOUNT": "Prezzo scontato",
-    "LBL_DISCOUNT_MODE": "Discount mode",
+    "LBL_DISCOUNT_MODE": "Modalità sconto",
     "LBL_VALUE": "Ammontare",
     "LBL_QUANTITY": "Quantità",
     "LBL_REFERENCE": "Relazione",
@@ -1034,8 +1034,8 @@
     "LBL_CURRENCIES_SUMMARY": "Sommario valuta",
     "LBL_CHANGE_CURRENCY": "Cambia valuta",
     "LBL_CHANGE_CURRENCY_INFO": "Cambiare la valuta convertirà tutti i valori.\nSei sicuro di volerlo fare?",
-    "LBL_INV_CURRENCY_RESET_BTN": "Exchange rate reset",
-    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Exchange rate reset. Are you sure you want to do that?",
+    "LBL_INV_CURRENCY_RESET_BTN": "Azzera tasso di cambio",
+    "LBL_INV_CURRENCY_RESET_CONFIRMATION": "Azzera tasso di cambio. Sei sicuro di volerlo fare?",
     "LBL_AMOUNT": "Ammontare",
     "LBL_SET_GLOBAL_TAX": "Definisci",
     "LBL_SET_GLOBAL_DISCOUNT": "Definisci",
@@ -1405,15 +1405,18 @@
     "FL_COMPANY_NAME": "Nome azienda",
     "LBL_SHOW_PASSWORD": "Mostra password nascosta",
     "LBL_NO_DATA_FOUND": "Nessun dato trovato",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "Questo indirizzo email esiste già in questo modulo.",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "This email address already exists in the %s module.",
+    "LBL_DUPLICATE_PHONE": "This phone already exists in the %s module.",
     "LBL_DUPLICATE_VAT_ID": "Questa partita iva esiste già nel modulo %s.",
     "LBL_DUPLICATE_FIELD_VALUE": "'%s' già esistente in questo modulo.",
     "LBL_DUPLICATE_EAN": "Questo ean esiste già in questo modulo.",
     "FL_MAGENTO_SERVER": "Server Magento",
+    "FL_MAGENTO_ID": "Identificativo Magento",
+    "FL_WOOCOMMERCE_SERVER": "WooCommerce server",
+    "FL_WOOCOMMERCE_ID": "WooCommerce Id",
     "LBL_COMPLETE_FIELDS": "Completa i campi",
     "LBL_DATA_FROM_RECORD": "Dati da record",
     "LBL_DATA_FROM_SOURCE": "Dati da fonte",
-    "FL_MAGENTO_ID": "Identificativo Magento",
     "FL_CONTACT": "Contatto",
     "FL_PAYMENTS_METHOD": "Metodo di pagamento",
     "PLL_TRANSFER": "Trasferimento bancario",
@@ -1520,7 +1523,7 @@
     "LBL_RECORD_DOES_NOT_EXIST": "Registro inesistente",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "Il registro è stato eliminato e non è possibile visualizzare il nome.",
     "LBL_CONDITION_WIZARD": "Procedura guidata della condizione",
-    "LBL_CURRENCY_CONVERTER": "Currency converter",
+    "LBL_CURRENCY_CONVERTER": "Convertitore di valuta",
     "LBL_OK": "Ok"
   },
   "js": {
@@ -1987,6 +1990,6 @@
     "JS_CALENDAR_LIST": "Pianifica",
     "JS_SPECIAL_CHARACTERS": "I caratteri speciali come",
     "JS_NOT_ALLOWED": "non sono consentiti",
-    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
+    "JS_INVALID_COORDINATES": "Coordinate errate inserite"
   }
 }

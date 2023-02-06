@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Podvojena e-pošta",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodajanje / urejanje zapisa, če že obstaja eden od e-poštnih naslovov že vnesen",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Blokirajte dodajanje / urejanje zapisa, če že obstaja eden od e-poštnih naslovov že vnesen",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Podvojen ID za DDV",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodajanja / urejanja zapisov, ko takšen ID za DDV že obstaja",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Podvojena koda Ean",

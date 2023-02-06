@@ -51,7 +51,9 @@
     "LBL_MOVE": "移动",
     "LBL_TRANSFER": "转移",
     "LBL_SAVED_SUCCESSFULLY": "已成功保存",
-    "LBL_NOT_SAVED": "无法保存更改"
+    "LBL_NOT_SAVED": "无法保存更改",
+    "LBL_SELECT_BASE_MODULE_FILTER": "Select base module filter",
+    "LBL_SELECT_CUSTOM_FILTERS": "Select additional filter fields"
   },
   "js": {
     "JS_BLOCK_ADDED": "区块已经添加成功",

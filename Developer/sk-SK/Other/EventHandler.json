@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicitné emaily",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Zablokovať pridanie/úpravu ak niektorý z vložených emailov už existuje",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Overenie duplicitnej e-mailovej adresy",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Zablokovať pridanie/úpravu ak niektorý z vložených emailov už existuje",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Overenie duplicitného telefónneho čísla",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicitný EAN",

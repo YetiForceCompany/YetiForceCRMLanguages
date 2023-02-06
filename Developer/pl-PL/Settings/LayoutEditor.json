@@ -246,7 +246,8 @@
     "LBL_SHOW_BUTTON_COORDINATE_MAP": "Pokaż przycisk mapy",
     "LBL_SHOW_LIST_COORDINATE_TYPE": "Pokaż listę typów współrzędnych",
     "LBL_SHOW_BUTTON_MY_LOCATION": "Pokaż przycisk mojej lokalizacji",
-    "LBL_COORDINATE_TYPE": "Typ współrzędnych"
+    "LBL_COORDINATE_TYPE": "Typ współrzędnych",
+    "LBL_USE_SORTING_FROM_FILTERS": "Uwzględnia sortowanie wybranego elementu lub zachowuje sortowanie domyślne"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

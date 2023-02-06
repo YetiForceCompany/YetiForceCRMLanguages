@@ -5,7 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Impossibile salvare il file script dei metodi di workflow.",
     "ERR_ILLEGAL_FIELD_VALUE": "Un valore non valido è stato inserito per questo tipo di campo; campo: %s, modulo: %s, valore: %s",
     "ERR_VALUE_IS_TOO_LONG": "Limite caratteri superato; campo: %s, modulo: %s, valore: %s",
-    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Il valore inserito è troppo breve. Nome del campo: %s, Modulo: %s, Valore: %s",
     "ERR_TO_MANY_FILES": "Troppi file trasferiti: il limite è stato superato; campo: %s, modulo: %s, valore: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Il valore del campo deve essere maggiore di zero; campo: %s, modulo: %s, valore: %s",
     "ERR_NOT_ALLOWED_VALUE": "Valore errato rilevato, contatta l'amministratore",

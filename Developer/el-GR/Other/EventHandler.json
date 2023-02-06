@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Διπλότυπα μηνύματα ηλεκτρονικού ταχυδρομείου",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν υπάρχει ήδη μία από τις καταχωρημένες διευθύνσεις ηλεκτρονικού ταχυδρομείου",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν υπάρχει ήδη μία από τις καταχωρημένες διευθύνσεις ηλεκτρονικού ταχυδρομείου",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Διπλότυπο ΑΦΜ",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκης / επεξεργασίας όταν υπάρχει ήδη τέτοιο αναγνωριστικό ΦΠΑ",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Διπλότυπος ραβδοκώδικας (EAN)",

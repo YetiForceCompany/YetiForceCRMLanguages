@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Dubbele emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als een van de ingevulde email adressen al bestaat",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als een van de ingevulde email adressen al bestaat",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Kopieer BTW-nummer",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als de BTW-nummer al bestaat",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Dupliceer ean",

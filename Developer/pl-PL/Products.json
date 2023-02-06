@@ -83,6 +83,24 @@
     "LBL_NUMBER_ENTRIES_NO_UPDATE": "Liczba wpisów, które nie wymagają aktualizacji",
     "LBL_NUMBER_ENTRIES_NOT_FOUND": "Liczba wpisów nie znalezionych",
     "LBL_LIST_ENTRIES_NOT_FOUND": "Lista wpisów nie znalezionych",
-    "LBL_IMPORT_STOCK_ALERT": "Zmiana stanu magazynowego wymaga weryfikacji i akceptacji, dopiero wtedy stan magazynowy ulegnie zmianie."
+    "LBL_IMPORT_STOCK_ALERT": "Zmiana stanu magazynowego wymaga weryfikacji i akceptacji, dopiero wtedy stan magazynowy ulegnie zmianie.",
+    "LBL_WOOCOMMERCE": "WooCommerce",
+    "FL_PRODUCT_TYPE": "Typ produktu",
+    "FL_SHORT_DESCRIPTION": "Krótki opis",
+    "FL_TAGS": "Tagi",
+    "FL_ALIAS": "Alias",
+    "FL_WOOCOMMERCE_PRODUCT_STATUS": "Status Woocommerce",
+    "FL_WOOCOMMERCE_PRODUCT_VISIBILITY": "Widoczność Woocommerce",
+    "FL_WOO_PUBLISH": "Opublikowany",
+    "FL_WOO_PENDING": "Czeka na weryfikację",
+    "FL_WOO_DRAFT": "Szkic",
+    "FL_WOO_VISIBLE": "Wyniki ze sklepu i wyszukiwania",
+    "FL_WOO_CATALOG": "Tylko sklep",
+    "FL_WOO_SEARCH": "Tylko wyniki wyszukiwania",
+    "FL_WOO_HIDDEN": "Ukryty",
+    "PLL_TYPE_SIMPLE": "Prosty",
+    "PLL_TYPE_GROUPED": "Grupowy",
+    "PLL_TYPE_VARIABLE": "Zmienny",
+    "PLL_TYPE_VARIATION": "Wariant"
   }
 }

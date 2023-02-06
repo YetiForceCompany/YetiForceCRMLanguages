@@ -51,7 +51,9 @@
     "LBL_MOVE": "Przenieś",
     "LBL_TRANSFER": "Przelew",
     "LBL_SAVED_SUCCESSFULLY": "Zapisano pomyślnie",
-    "LBL_NOT_SAVED": "Zmiany nie mogły zostać zapisane"
+    "LBL_NOT_SAVED": "Zmiany nie mogły zostać zapisane",
+    "LBL_SELECT_BASE_MODULE_FILTER": "Wybierz filtr modułu podstawowego",
+    "LBL_SELECT_CUSTOM_FILTERS": "Wybierz dodatkowe pola filtra"
   },
   "js": {
     "JS_BLOCK_ADDED": "Pomyślnie dodano blok",

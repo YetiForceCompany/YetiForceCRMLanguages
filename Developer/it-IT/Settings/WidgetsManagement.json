@@ -51,7 +51,9 @@
     "LBL_MOVE": "Sposta",
     "LBL_TRANSFER": "Trasferisci",
     "LBL_SAVED_SUCCESSFULLY": "Salvato correttamente",
-    "LBL_NOT_SAVED": "Impossibile modificare le tue modifiche"
+    "LBL_NOT_SAVED": "Impossibile modificare le tue modifiche",
+    "LBL_SELECT_BASE_MODULE_FILTER": "Seleziona il filtro del modulo di base",
+    "LBL_SELECT_CUSTOM_FILTERS": "Seleziona i campi aggiuntivi del filtro"
   },
   "js": {
     "JS_BLOCK_ADDED": "Il blocco è stato aggiunto",
