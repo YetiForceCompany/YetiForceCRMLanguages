@@ -247,7 +247,10 @@
     "LBL_SHOW_LIST_COORDINATE_TYPE": "Pokaż listę typów współrzędnych",
     "LBL_SHOW_BUTTON_MY_LOCATION": "Pokaż przycisk mojej lokalizacji",
     "LBL_COORDINATE_TYPE": "Typ współrzędnych",
-    "LBL_USE_SORTING_FROM_FILTERS": "Uwzględnia sortowanie wybranego elementu lub zachowuje sortowanie domyślne"
+    "LBL_USE_SORTING_FROM_FILTERS": "Uwzględnia sortowanie wybranego elementu lub zachowuje sortowanie domyślne",
+    "LBL_ALL_GROUPS": "Wszystkie grupy",
+    "LBL_ALL_GROUPS_INFO": "Gdy opcja nie jest zaznaczona, wyświetla tylko dostępne grupy oparte na wybranych modułach w panelu grupy",
+    "Group": "Grupa"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

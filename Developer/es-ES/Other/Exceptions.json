@@ -5,7 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Error al guardar archivo de instrucciones de los métodos de flujo de trabajo.",
     "ERR_ILLEGAL_FIELD_VALUE": "Se ha introducido un valor ilegal para este tipo de campo. Nombre de campo: %s, Módulo: %s, Valor: %s",
     "ERR_VALUE_IS_TOO_LONG": "Límite de caracteres excedido. Nombre de campo: %s, Módulo: %s, Valor: %s",
-    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "El valor introducido es demasiado corto. Nombre de campo: %s, Módulo: %s, Valor: %s",
     "ERR_TO_MANY_FILES": "Demasiados archivos transferidos - el límite se ha excedido. Nombre de campo: %s, Módulo: %s, Valor: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "El valor del campo debe ser mayor que cero. Nombre de campo: %s, Módulo: %s, Valor: %s",
     "ERR_NOT_ALLOWED_VALUE": "Se detectó un valor incorrecto, póngase en contacto con su administrador",

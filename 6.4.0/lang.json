@@ -17,8 +17,8 @@
         "prefix": "bs-BA",
         "crowdinCode": "bs",
         "name": "Bosnian",
-        "progress": 96,
-        "time": "2022-08-19 13:29:50"
+        "progress": 97,
+        "time": "2023-03-03 13:56:55"
     },
     "cs-CZ": {
         "prefix": "cs-CZ",
@@ -137,7 +137,7 @@
         "crowdinCode": "nl-BE",
         "name": "Dutch, Belgium",
         "progress": 21,
-        "time": "2023-01-18 11:58:30"
+        "time": "2023-03-03 13:56:56"
     },
     "nl-NL": {
         "prefix": "nl-NL",
@@ -158,7 +158,7 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2023-02-06 16:25:38"
+        "time": "2023-03-03 13:56:53"
     },
     "pt-BR": {
         "prefix": "pt-BR",

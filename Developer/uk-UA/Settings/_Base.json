@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Потрібне втручання",
     "LBL_ACTIVATE_FUNCTIONALITY": "Активувати",
-    "LBL_ONLY_TO_FIRST_LIST": "Тільки до першого у списку"
+    "LBL_ONLY_TO_FIRST_LIST": "Тільки до першого у списку",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Авторизація успішна",

@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "Χρώματα από φίλτρο",
     "LBL_WIDGET_DOWNLOAD": "Λήψη γραφήματος",
     "LBL_WIDGET_PRINT": "Εκτύπωση γραφήματος",
-    "LBL_WIDGET_SHOW_SUMMARY": "Εμφάνιση σύνοψης",
+    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Show columns summary",
     "Upcoming events": "Μελλοντικά γεγονότα βασισμένα σε επιλεγμένες ημερομηνίες.",
     "Upcoming Activities": "Ημερολόγιο - σε εκκρεμότητα",
     "ChartFilter": "Φίλτρο Γραφήματος",
@@ -58,6 +58,8 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Εργασιες/Συμβάντα που ανατίθενται σε κάποιον άλλο",
     "LIST_OF_LAST_UPDATED_RECORD": "Πρόσφατες ενημερώσεις εγγραφών",
     "Mails List": "Πιο πρόσφατα emails",
-    "Notebook": "Σημειωματάριο"
+    "Notebook": "Σημειωματάριο",
+    "LBL_ROW_SUMMARY": "Summary",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show rows summary"
   }
 }

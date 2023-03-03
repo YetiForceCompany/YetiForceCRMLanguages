@@ -2,8 +2,8 @@
   "php": {
     "Selected Values": "Selected Values",
     "LBL_ADD_RECORD": "Add record",
-    "PickListDependency": "PickList Dependency",
-    "LBL_PICKLIST_DEPENDENCY": "Picklist Dependency",
+    "PickListDependency": "Keuzelijst afhankelijkheid",
+    "LBL_PICKLIST_DEPENDENCY": "Keuzelijst afhankelijkheid",
     "LBL_SELECT_FIELD": "Select field",
     "LBL_SELECT_MODULE": "Module",
     "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select Source Picklist Values",
@@ -11,6 +11,6 @@
     "LBL_MODULE": "Module"
   },
   "js": {
-    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure you want to delete this picklist dependency?"
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Weet u zeker dat u deze keuzelijst afhankelijkheid wilt verwijderen?"
   }
 }

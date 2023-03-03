@@ -38,6 +38,7 @@
     "Customization": "Tuỳ biến",
     "Training": "Đào tạo",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Danh sách các hồ sơ bị hạn chế đến các sản phẩm và dịch vụ liên quan đến việc bán hàng cơ hội",
-    "FL_COST": "Chi phí"
+    "FL_COST": "Chi phí",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
   }
 }

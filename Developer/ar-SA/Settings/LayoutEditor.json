@@ -247,7 +247,10 @@
     "LBL_SHOW_LIST_COORDINATE_TYPE": "Show coordinate type list",
     "LBL_SHOW_BUTTON_MY_LOCATION": "Show my location button",
     "LBL_COORDINATE_TYPE": "Coordinate type",
-    "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting"
+    "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
+    "LBL_ALL_GROUPS": "كافة المجموعات",
+    "LBL_ALL_GROUPS_INFO": "عندما لا يتم تحديد الخيار فإنه يعرض المجموعات التي يمكن الوصول إليها فقط استناداً إلى الوحدات المختارة في لوحة المجموعة",
+    "Group": "المجموعة"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

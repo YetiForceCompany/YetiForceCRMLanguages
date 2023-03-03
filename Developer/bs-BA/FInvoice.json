@@ -6,7 +6,7 @@
     "LBL_INVOICE_ADDRESS": "Adresa za fakturisanje",
     "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresa za dostavu",
     "LBL_DESCRIPTION_BLOCK": "Opis",
-    "LBL_AVAILABLE_QUANTITY_PRODUCT": "The available quantity of the following products has been exceeded: %s",
+    "LBL_AVAILABLE_QUANTITY_PRODUCT": "Prekoračena je dostupna količina sljedećih proizvoda: %s",
     "LBL_ATTENTION_BLOCK": "Komentari",
     "FL_SUBJECT": "Predmet",
     "FL_PAYMENT_DATE": "Datum dospijeća",
@@ -44,8 +44,8 @@
     "PLL_UNDERPAID": "Nedovoljno plaćeno",
     "FL_PAYMENT_SUM": "Ukupna plaćanja",
     "DW_SUM_FIELD": "Zbirno polje",
-    "DW_SUMMATION_BY_MONTHS": "Sales comparison by month",
-    "DW_SUMMATION_BY_USER": "Sales comparison by user",
+    "DW_SUMMATION_BY_MONTHS": "Poređenje prodaje po mesecima",
+    "DW_SUMMATION_BY_USER": "Poređenje prodaje po korisniku",
     "FL_WAPRO_PAID": "WAPRO ERP Paid"
   }
 }

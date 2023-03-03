@@ -1,9 +1,9 @@
 {
   "php": {
     "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
-    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν υπάρχει ήδη μία από τις καταχωρημένες διευθύνσεις ηλεκτρονικού ταχυδρομείου",
-    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER": "Phone number duplicate validation",
-    "CONTACTS_PHONEDUPLICATECHECKER_HANDLER_DESC": "Block record adding/editing when one of the entered phone already exists",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "A validator that checks whether the address is unique in modules and all email type fields",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "A validator that checks whether the number is unique in modules and all phone number type fields",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Διπλότυπο ΑΦΜ",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκης / επεξεργασίας όταν υπάρχει ήδη τέτοιο αναγνωριστικό ΦΠΑ",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Διπλότυπος ραβδοκώδικας (EAN)",
@@ -14,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτίο Παραλαβής υπάρχει ήδη.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Ο χρόνος εργασίας σας δεν μπορεί να υπερβαίνει τις 24 ώρες",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Ο χρόνος εργασίας περιορίζεται στις 24 ώρες",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

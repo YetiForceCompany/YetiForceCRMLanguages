@@ -33,7 +33,7 @@
     "LBL_UPDATED": "ažurirano",
     "LBL_DISPLAYED": "Prikazano",
     "LBL_ADDED": "dodato",
-    "LBL_UNLINK": "removed relation",
+    "LBL_UNLINK": "uklonjena relacija",
     "LBL_REMOVED": "uklonjeno",
     "LBL_CONVERTED_FROM_LEAD": "Pretvoreno iz Traga",
     "LBL_DELETED": "Izbrisan zapis",
@@ -48,7 +48,7 @@
     "LBL_INV_UPDATED": "Ažurirano",
     "LBL_INV_DELETED": "Obrisano",
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Ažuriranja config widgeta",
-    "LBL_UPDATES": "System update history",
+    "LBL_UPDATES": "Istorija ažuriranja sistema",
     "LBL_PERSON_MAKING_CHANGES": "Osoba koja vrši promjene",
     "LBL_MODULES": "Moduli",
     "LBL_SHOW_HIDDEN_DATA": "Prikazani su skriveni podaci"

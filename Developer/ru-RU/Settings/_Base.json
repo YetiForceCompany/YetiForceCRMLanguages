@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Система не была зарегистрирована. Пожалуйста, зарегистрируйте свою CRM-систему YetiForce, чтобы получить доступ к этой части системы.",
     "LBL_REQUIRES_INTERVENTION": "Требуется вмешательство",
     "LBL_ACTIVATE_FUNCTIONALITY": "Активация",
-    "LBL_ONLY_TO_FIRST_LIST": "Только к первому списку"
+    "LBL_ONLY_TO_FIRST_LIST": "Только к первому списку",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Успешная авторизация",

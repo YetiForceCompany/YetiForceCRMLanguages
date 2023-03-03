@@ -40,9 +40,9 @@
     "LBL_UNREAD": "Nepročitano",
     "LBL_NO_UNREAD_NOTIFICATIONS": "Nema nepročitanih obaveštenja",
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugog nivoa",
-    "LBL_NOTIFICATION_BY_SENDER": "Number of notifications by sender",
-    "LBL_NOTIFICATION_BY_RECIPIENT": "Number of notifications by recipient",
-    "Notifications": "Notifications"
+    "LBL_NOTIFICATION_BY_SENDER": "Broj obavijesti po pošiljatelju",
+    "LBL_NOTIFICATION_BY_RECIPIENT": "Broj obaviještenja po primaocu",
+    "Notifications": "Napomene"
   },
   "js": {
     "JS_MARKED_AS_READ": "Označeno kao pročitano"

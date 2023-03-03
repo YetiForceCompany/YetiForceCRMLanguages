@@ -49,8 +49,8 @@
     "PLL_WOMAN": "Ženski",
     "PLL_MAN": "Muški",
     "LBL_DUPLICATE_EMAIL_ADDRESS": "Kontakt s ovom adresom e-pošte već postoji u sistemu.",
-    "History": "History",
-    "Overdue Activities": "Overdue activities"
+    "History": "Povijest",
+    "Overdue Activities": "Zakašnjele aktivnosti"
   },
   "js": {}
 }

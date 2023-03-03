@@ -27,7 +27,8 @@
     "PLL_CANCELLED": "キャンセル済",
     "LBL_USER_NAME": "ユーザ名",
     "LBL_GROUP_NAME": "グループ名",
-    "LBL_WORK_DAYS": "就業日"
+    "LBL_WORK_DAYS": "就業日",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "使用できる文字: [0-9]",

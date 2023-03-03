@@ -73,12 +73,12 @@
     "LBL_RELATION": "Relacija",
     "LBL_LEGAL_FORM": "Pravni oblik",
     "LBL_TOO_MANY_ACCOUNTS_TO_CONVERT": "Najmanje dva računa ispunjavaju uslove za povezivanje, idite na: (Administracija> Procesi> Marketinški procesi> Konverzija) %s",
-    "History": "History",
-    "Leads by Industry": "Leads by industry",
-    "Leads by Source": "Leads by source",
-    "Leads by Status": "Leads by status",
-    "Leads by Status Converted": "Leads converted by status",
-    "Overdue Activities": "Overdue activities"
+    "History": "Povijest",
+    "Leads by Industry": "Tragovi po industriji",
+    "Leads by Source": "Tragovi po izvoru",
+    "Leads by Status": "Tragovi po statusu",
+    "Leads by Status Converted": "Tragovi pretvoreni po statusu",
+    "Overdue Activities": "Zakašnjele aktivnosti"
   },
   "js": {
     "JS_SELECT_ORGANIZATION": "Izaberite Klijenta za nastavak"

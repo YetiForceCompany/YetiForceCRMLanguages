@@ -7,6 +7,8 @@
     "LBL_WOOCOMMERCE_SETTINGS": "Konfiguracja połączenia z WooCommerce",
     "LBL_URL": "URL API",
     "LBL_CONNECTOR": "Uwierzytelnianie",
+    "LBL_USER_NAME": "Klucz klienta",
+    "LBL_PASSWORD": "Klucz prywatny",
     "LBL_VERIFY_SSL": "Zweryfikuj SSL",
     "LBL_MASTER": "System główny",
     "LBL_SYSTEM_YETIFORCE": "YetiForce",

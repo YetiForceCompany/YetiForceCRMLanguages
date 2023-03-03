@@ -247,7 +247,10 @@
     "LBL_SHOW_LIST_COORDINATE_TYPE": "Mostra l'elenco del tipo di coordinate",
     "LBL_SHOW_BUTTON_MY_LOCATION": "Mostra il pulsante della mia posizione",
     "LBL_COORDINATE_TYPE": "Tipo di coordinate",
-    "LBL_USE_SORTING_FROM_FILTERS": "Considera di ordinare l'elemento selezionato o mantenere l'ordinamento predefinito"
+    "LBL_USE_SORTING_FROM_FILTERS": "Considera di ordinare l'elemento selezionato o mantenere l'ordinamento predefinito",
+    "LBL_ALL_GROUPS": "All groups",
+    "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
+    "Group": "Group"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",

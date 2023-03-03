@@ -302,7 +302,7 @@
     "LBL_YETIFORCE_ISSUES": "Gratis ondersteuning",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
     "LBL_YETIFORCE_ASSISTANCE": "Betaalde ondersteuning",
-    "LBL_PICKLIST_VARIABLES": "Selectielijst variabelen",
+    "LBL_PICKLIST_VARIABLES": "Keuzelijst variabelen",
     "LBL_PICKLIST_VARIABLES_INFO": "Het gebruik van deze variabele resulteert in aparte nummering voor elke selectielijst waarde en een korte waarde vervangt de variabele.",
     "LBL_BUSINESS_HOURS": "Openingsuren",
     "LBL_SEARCH_PLACEHOLDER": "Zoeken...",
@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Het systeem is niet geregistreerd. Registreer uw YetiForce CRM om toegang te hebben tot dit deel van het systeem.",
     "LBL_REQUIRES_INTERVENTION": "Vereist interventie",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activeren",
-    "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst"
+    "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorisatie succesvol",

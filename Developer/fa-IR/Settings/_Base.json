@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "سامانه ثبت نشده است. لطفاً YetiForce CRM خود را برای دسترسی به این بخش از سیستم ثبت کنید.",
     "LBL_REQUIRES_INTERVENTION": "نیاز به مداخله دارد",
     "LBL_ACTIVATE_FUNCTIONALITY": "فعال کردن",
-    "LBL_ONLY_TO_FIRST_LIST": "فقط به نفر اول لیست"
+    "LBL_ONLY_TO_FIRST_LIST": "فقط به نفر اول لیست",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "اعطای مجوز دسترسی موفقیت آمیز بود",

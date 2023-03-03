@@ -247,7 +247,10 @@
     "LBL_SHOW_LIST_COORDINATE_TYPE": "Afficher les coordonnées",
     "LBL_SHOW_BUTTON_MY_LOCATION": "Afficher ma localisation GPS",
     "LBL_COORDINATE_TYPE": "Type de coordonnées",
-    "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting"
+    "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
+    "LBL_ALL_GROUPS": "All groups",
+    "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
+    "Group": "Group"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nom du bloc existe déjà",

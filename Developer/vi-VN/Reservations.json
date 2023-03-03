@@ -27,7 +27,8 @@
     "PLL_CANCELLED": "Đã huỷ",
     "LBL_USER_NAME": "Tên đăng nhập",
     "LBL_GROUP_NAME": "Tên nhóm",
-    "LBL_WORK_DAYS": "Ngày làm việc"
+    "LBL_WORK_DAYS": "Ngày làm việc",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Ký tự hợp lệ: [0-9]",

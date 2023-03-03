@@ -38,6 +38,7 @@
     "Customization": "사용자 정의",
     "Training": "연습 훈련",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "기록 목록은 판매 기회와 관련된 제품 및 서비스로 제한됩니다.",
-    "FL_COST": "비용"
+    "FL_COST": "비용",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
   }
 }

@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "系统尚未注册。请注册 YetiForce CRM 以便访问此部分系统。",
     "LBL_REQUIRES_INTERVENTION": "需要干预措施",
     "LBL_ACTIVATE_FUNCTIONALITY": "激活",
-    "LBL_ONLY_TO_FIRST_LIST": "仅适用于该列表的第一项"
+    "LBL_ONLY_TO_FIRST_LIST": "仅适用于该列表的第一项",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "认证成功",

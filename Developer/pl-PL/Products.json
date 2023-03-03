@@ -91,6 +91,7 @@
     "FL_ALIAS": "Alias",
     "FL_WOOCOMMERCE_PRODUCT_STATUS": "Status Woocommerce",
     "FL_WOOCOMMERCE_PRODUCT_VISIBILITY": "Widoczność Woocommerce",
+    "FL_WOOCOMMERCE_PERMALINK": "URL sklepu",
     "FL_WOO_PUBLISH": "Opublikowany",
     "FL_WOO_PENDING": "Czeka na weryfikację",
     "FL_WOO_DRAFT": "Szkic",
@@ -101,6 +102,7 @@
     "PLL_TYPE_SIMPLE": "Prosty",
     "PLL_TYPE_GROUPED": "Grupowy",
     "PLL_TYPE_VARIABLE": "Zmienny",
-    "PLL_TYPE_VARIATION": "Wariant"
+    "PLL_TYPE_VARIATION": "Wariant",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Rekord jest powiązany z innym rekordem, potwierdź akcję"
   }
 }

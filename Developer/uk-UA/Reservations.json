@@ -27,7 +27,8 @@
     "PLL_CANCELLED": "Скасовано",
     "LBL_USER_NAME": "Ім’я користувача",
     "LBL_GROUP_NAME": "Назва групи",
-    "LBL_WORK_DAYS": "Робочі дні"
+    "LBL_WORK_DAYS": "Робочі дні",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Дозволені символи: [0-9]",

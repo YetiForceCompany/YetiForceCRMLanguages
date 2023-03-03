@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "Farby z filtra",
     "LBL_WIDGET_DOWNLOAD": "Stiahnuť graf",
     "LBL_WIDGET_PRINT": "Tlačiť graf",
-    "LBL_WIDGET_SHOW_SUMMARY": "Zobraz súhrn",
+    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Show columns summary",
     "Upcoming events": "Nadchádzajúce udalosti na základe vybraných dátumov.",
     "Upcoming Activities": "Calendar - pending",
     "ChartFilter": "Chart Filter",
@@ -58,6 +58,8 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Matters delegated",
     "LIST_OF_LAST_UPDATED_RECORD": "Zoznam posledných aktualizovaných záznamov",
     "Mails List": "Most recent emails",
-    "Notebook": "Poznámkový blok"
+    "Notebook": "Poznámkový blok",
+    "LBL_ROW_SUMMARY": "Summary",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show rows summary"
   }
 }

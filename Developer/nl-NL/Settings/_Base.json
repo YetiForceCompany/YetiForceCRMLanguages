@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Het systeem is niet geregistreerd. Registreer uw YetiForce CRM om toegang te hebben tot dit deel van het systeem.",
     "LBL_REQUIRES_INTERVENTION": "Vereist interventie",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activeren",
-    "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst"
+    "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorisatie succesvol",

@@ -27,7 +27,8 @@
     "PLL_CANCELLED": "İptal edildi",
     "LBL_USER_NAME": "Kullanıcı adı",
     "LBL_GROUP_NAME": "Grup adı",
-    "LBL_WORK_DAYS": "İş günleri"
+    "LBL_WORK_DAYS": "İş günleri",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "İzin verilen karakterler: [0-9]",

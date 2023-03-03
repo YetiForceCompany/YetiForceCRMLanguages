@@ -152,7 +152,7 @@
     "Search Setup": "Etykiety i wyszukiwanie",
     "LBL_EXTENDED_MODULES": "Moduły rozszerzone",
     "LBL_PBX": "PBX",
-    "LBL_PBX_DESCRIPTION": "Integracja z PBX umożliwia wywoływanie połaczeń telefonicznych prosto z systemu CRM.",
+    "LBL_PBX_DESCRIPTION": "Integracja z PBX umożliwia wywoływanie połączeń telefonicznych prosto z systemu CRM",
     "CustomView": "Widoki",
     "Widgets": "Widgety podsumowania rekordu",
     "LBL_ADDING_ERROR": "Błąd przy dodawaniu pola",
@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "System nie został zarejestrowany. Zarejestruj swój system YetiForce CRM, aby uzyskać dostęp do tej części systemu.",
     "LBL_REQUIRES_INTERVENTION": "Wymaga interwencji",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktywuj",
-    "LBL_ONLY_TO_FIRST_LIST": "Tylko do pierwszego na liście"
+    "LBL_ONLY_TO_FIRST_LIST": "Tylko do pierwszego na liście",
+    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

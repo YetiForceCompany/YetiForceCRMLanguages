@@ -27,7 +27,8 @@
     "PLL_CANCELLED": "Cancelado",
     "LBL_USER_NAME": "Nombre de usuario",
     "LBL_GROUP_NAME": "Nombre del grupo",
-    "LBL_WORK_DAYS": "Días laborales"
+    "LBL_WORK_DAYS": "Días laborales",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caracteres permitidos: [0-9]",

@@ -313,7 +313,8 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Αυτό το σύστημα αν δεν είναι εγγεγραμμένο. Παρακαλώ εγγραφείτε με το YetiForce CRM σας για να έχετε πρόσβαση σε αυτό το τμήμα του συστήματος.",
     "LBL_REQUIRES_INTERVENTION": "Απαιτεί παρέμβαση",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση",
-    "LBL_ONLY_TO_FIRST_LIST": "Μόνο το πρώτο στην λίστα"
+    "LBL_ONLY_TO_FIRST_LIST": "Μόνο το πρώτο στην λίστα",
+    "LBL_SAVE_AND_VERIFY": "Save and verify"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

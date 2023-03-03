@@ -1524,7 +1524,8 @@
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "记录已删除，名称无法显示。",
     "LBL_CONDITION_WIZARD": "条件向导",
     "LBL_CURRENCY_CONVERTER": "Currency converter",
-    "LBL_OK": "确定"
+    "LBL_OK": "确定",
+    "LBL_BATCH_ADDING_RECORDS": "Batch adding records"
   },
   "js": {
     "JS_APPROVE": "同意",
