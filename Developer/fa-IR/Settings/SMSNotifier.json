@@ -1,6 +1,6 @@
 {
   "php": {
-    "FL_NAME": "Name",
+    "FL_NAME": "نام",
     "FL_PROVIDER": "سرویس دهنده",
     "FL_STATUS": "وضعیت",
     "FL_SMSAPI_FROM": "نامه فرستنده",

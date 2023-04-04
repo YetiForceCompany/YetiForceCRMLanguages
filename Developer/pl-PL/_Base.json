@@ -187,7 +187,6 @@
     "LBL_PREV_PAGE": "Przejdź do poprzedniej strony",
     "LBL_GO_TO_PAGE_NUMBER": "Przejdź do strony numer",
     "LBL_PAGINATION_NAV": "Nawigacja stronicowania",
-    "LBL_CUSTOM": "własny zakres dat",
     "LBL_CUSTOMIZE_MAIN_MENU": "Skonfiguruj menu główne",
     "LBL_CUSTOM_FIELD_MAPPING": "Pola - mapowanie",
     "LBL_CUSTOM_INFORMATION": "Informacje dodatkowe",
@@ -1525,7 +1524,8 @@
     "LBL_CONDITION_WIZARD": "Kreator warunków",
     "LBL_CURRENCY_CONVERTER": "Konwerter walut",
     "LBL_OK": "Ok",
-    "LBL_BATCH_ADDING_RECORDS": "Masowe dodawanie rekordów"
+    "LBL_BATCH_ADDING_RECORDS": "Masowe dodawanie rekordów",
+    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1991,6 +1991,8 @@
     "JS_CALENDAR_LIST": "Harmonogram",
     "JS_SPECIAL_CHARACTERS": "Znaki specjalne, takie jak",
     "JS_NOT_ALLOWED": "nie są dozwolone",
-    "JS_INVALID_COORDINATES": "Wprowadzono nieprawidłowe współrzędne"
+    "JS_INVALID_COORDINATES": "Wprowadzono nieprawidłowe współrzędne",
+    "JS_PDF_GENERATED_AND_ATTACHED": "Wygenerowano PDF i dołączono do rekordu",
+    "JS_PDF_GENERATED": "Plik PDF został utworzony"
   }
 }

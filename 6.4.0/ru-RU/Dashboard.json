@@ -1,13 +1,13 @@
 {
   "php": {
     "Dashboards": "Главная",
-    "LBL_ADD_FILTER": "Add widget from filter",
-    "LBL_ADD_FILTER_DESC": "Only filters with the \"list in metrics\" option enabled are available.",
-    "LBL_ADD_CHART_FILTER": "Add chart from filter",
-    "LBL_ADD_CHART_FILTER_DESC": "Only filters with the \"list in metrics\" option enabled are available.",
-    "LBL_CLEAR_DEVICE_CONF": "Clear configuration of widgets for this device",
-    "LBL_CLEAR_DEVICE_CONF_DESC": "The button removes/resets the configuration only for the device you are currently using and only for the current tab.",
-    "LBL_PREDEFINED_WIDGETS": "Predefined widgets",
+    "LBL_ADD_FILTER": "Добавить Виджет",
+    "LBL_ADD_FILTER_DESC": "Доступны только фильтры с включенной опцией \"list in metrics\".",
+    "LBL_ADD_CHART_FILTER": "Добавить диаграмму из фильтра",
+    "LBL_ADD_CHART_FILTER_DESC": "Доступны только фильтры с включенной опцией \"list in metrics\".",
+    "LBL_CLEAR_DEVICE_CONF": "Очистить конфигурацию виджетов для этого устройства",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Кнопка удаляет /сбрасывает конфигурацию только для используемого вами устройства и только для текущей вкладки.",
+    "LBL_PREDEFINED_WIDGETS": "Предопределенные виджеты",
     "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
     "LBL_WORKING_TIME_COUNTER": "Working time counter"
   }

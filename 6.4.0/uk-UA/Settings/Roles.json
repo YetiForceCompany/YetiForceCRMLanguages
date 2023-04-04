@@ -20,7 +20,7 @@
     "LBL_TRANSFER_OWNERSHIP": "Змінити відповідального",
     "LBL_USERS_WITH_LOWER_LEVEL": "Користувачі з підпорядкованими Ролями",
     "LBL_USERS_WITH_SAME_OR_LOWER_LEVEL": "Користувачі з такою ж Роллю або підлеглою Роллю",
-    "LBL_FROM_PANEL": "from panel - assign records",
+    "LBL_FROM_PANEL": "з панелі - призначити записи",
     "Roles": "Ролі",
     "SINGLE_Roles": "Роль",
     "LBL_USERS_LIST": "Список користувачів, що належать до цієї Ролі:",

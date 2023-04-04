@@ -5,7 +5,7 @@
     "ViewName": "نام نما",
     "SetDefault": "پیش فرض",
     "LBL_PRIVILEGES_TO_EDIT": "ویرایش",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "دسترسی",
     "Delete": "حذف",
     "Delete CustomView": "نمای سفارشی حذف شد",
     "Saving CustomView": "نما ذخیره گردید",
@@ -27,8 +27,8 @@
     "LBL_SORT_DESCENDING_ORDER": "مرتب سازی به ترتیب نزولی",
     "LBL_ATTENTION": "هشدار!",
     "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PUBLIC": "عمومی",
+    "LBL_PRIVATE": "خصوصی"
   },
   "js": {
     "Saving changes": "ذخیره‌ی تغییرات...",

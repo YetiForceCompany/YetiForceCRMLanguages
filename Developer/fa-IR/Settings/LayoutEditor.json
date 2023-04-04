@@ -63,7 +63,7 @@
     "Text": "متن",
     "Time": "زمان",
     "LBL_LANGUAGE": "زبان",
-    "LBL_USER": "User",
+    "LBL_USER": "کاربر",
     "URL": "وب‌سایت",
     "LBL_REL_MODULE_LAYOUT_EDITOR": "ویرایش ماژول‌های مرتبط",
     "LBL_VISIBLE": "قابل مشاهده",
@@ -227,7 +227,7 @@
     "LBL_FILTERS_FROM_MODULE": "Filters from the module",
     "LBL_ANONYMIZATION_TARGET": "Anonymization",
     "LBL_DUPLICATES_VALUES_FOUND": "مقادیر تکراری کشف شد",
-    "LBL_FIELD_ICON": "Icon",
+    "LBL_FIELD_ICON": "آیکون",
     "LBL_ANONYMIZATION_LOGS": "لاگ ها",
     "LBL_ANONYMIZATION_MODTRACKER_DISPLAY": "Updates - display",
     "LBL_ANONYMIZATION_MODTRACKER_DB": "Updates - database",
@@ -250,7 +250,7 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "گروه"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "نام بلوک در حال حاضر موجود است",

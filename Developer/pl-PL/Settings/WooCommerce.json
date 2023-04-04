@@ -11,6 +11,7 @@
     "LBL_PASSWORD": "Klucz prywatny",
     "LBL_VERIFY_SSL": "Zweryfikuj SSL",
     "LBL_MASTER": "System główny",
+    "LBL_ASSIGNED_USER_ID": "Właściciel rekordu",
     "LBL_SYSTEM_YETIFORCE": "YetiForce",
     "LBL_SYSTEM_WOOCOMMERCE": "WooCommerce",
     "LBL_SYNC_CURRENCY": "Synchronizuj waluty",
@@ -31,6 +32,8 @@
     "LBL_DIR_CRM_TO_API": "Jednokierunkowa z YetiForce do WooCommerce",
     "LBL_DIR_CRM_API": "Dwukierunkowa",
     "LBL_SHIPPING_SERVICE_ID": "Usługa wysyłkowa",
-    "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Dodatkowa pozycja do zamówienia lub faktury, jeśli istnieje koszt dostawy.\nWartość jest pobierana z WooCommerce z kosztów dostawy."
+    "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Dodatkowa pozycja do zamówienia lub faktury, jeśli istnieje koszt dostawy.\nWartość jest pobierana z WooCommerce z kosztów dostawy.",
+    "BTN_RECORD_INFO": "Pokaż informacje i konfigurację WooCommerce",
+    "LBL_EDIT_CONFIG": "Pokaż informacje i konfigurację WooCommerce"
   }
 }

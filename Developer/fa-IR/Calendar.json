@@ -190,7 +190,7 @@
     "LBL_GROUP_NAME": "نام گروه",
     "FL_MEETING_URL": "URL جلسه",
     "LBL_SEND_CALENDAR": "ارسال یادآور جهت رویداد",
-    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Selected dates include holidays. Do you want to save?",
+    "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "تاریخ های منتخب شامل تعطیلات است. آیا می خواهید ذخیره کنید؟",
     "LBL_THIRTY_MINUTES": "30 minutes",
     "LBL_ONE_DAY": "1 day",
     "LBL_SEVEN_DAYS": "7 days",

@@ -15,7 +15,7 @@
     "LBL_COORDINATES_INFO_2": "Щоб додати додаткові сервери, відредагуйте $coordinatesServers у файлі %s. Загальнодоступні сервера координат доступні за адресою:",
     "LBL_AVAILABLE_DRIVERS": "Драйвери доступні в системі",
     "LBL_PROVIDER_ACTIVE": "Активний",
-    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_PROVIDER_NOT_VERIFIED": "Постачальника не перевірено, якщо ви використовуєте загальнодоступні сервери, дані з системи можуть надсилатися на сторонні сервери.",
     "LBL_ROUTING": "Маршрутизація",
     "LBL_ROUTING_INFO_1": "Виберіть сервер, який буде використовуватися для прокладання маршрутів для автомобілів, система надасть координати точок, для яких ви хочете прокласти маршрут.",
     "LBL_ROUTING_INFO_2": "Щоб додати додаткові сервери, відредагуйте $routingServers у файлі %s. Загальнодоступні сервера маршрутизації доступні за адресою:"

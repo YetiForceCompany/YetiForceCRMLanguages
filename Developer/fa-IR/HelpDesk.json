@@ -94,7 +94,7 @@
     "LBL_CLOSE_RELATED_TICKETS": "قبل از بستن این تیکت ، بلیط های تیکت را ببندید",
     "LBL_HELPDESK_DEPENDENTS": "تیکت ها",
     "LBL_HELPDESK_RELATED": "Tickets (M:M)",
-    "Tickets by Status": "Tickets by status",
-    "Open Tickets": "Open Tickets"
+    "Tickets by Status": "تیکت‌ها بر اساس وضعیت",
+    "Open Tickets": "تیکت های باز"
   }
 }

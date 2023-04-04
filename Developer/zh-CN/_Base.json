@@ -187,7 +187,6 @@
     "LBL_PREV_PAGE": "转到上一个页码",
     "LBL_GO_TO_PAGE_NUMBER": "转到页码",
     "LBL_PAGINATION_NAV": "分页导航",
-    "LBL_CUSTOM": "自定义",
     "LBL_CUSTOMIZE_MAIN_MENU": "自定义主菜单",
     "LBL_CUSTOM_FIELD_MAPPING": "自定义字段映射",
     "LBL_CUSTOM_INFORMATION": "自定义信息",
@@ -1525,7 +1524,8 @@
     "LBL_CONDITION_WIZARD": "条件向导",
     "LBL_CURRENCY_CONVERTER": "Currency converter",
     "LBL_OK": "确定",
-    "LBL_BATCH_ADDING_RECORDS": "Batch adding records"
+    "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
+    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option"
   },
   "js": {
     "JS_APPROVE": "同意",
@@ -1991,6 +1991,8 @@
     "JS_CALENDAR_LIST": "清单",
     "JS_SPECIAL_CHARACTERS": "特殊字符像",
     "JS_NOT_ALLOWED": "不允许",
-    "JS_INVALID_COORDINATES": "Wrong coordinates entered"
+    "JS_INVALID_COORDINATES": "Wrong coordinates entered",
+    "JS_PDF_GENERATED_AND_ATTACHED": "PDF generated and attached to the record",
+    "JS_PDF_GENERATED": "PDF 已创建"
   }
 }

@@ -187,7 +187,6 @@
     "LBL_PREV_PAGE": "Go to previous page number",
     "LBL_GO_TO_PAGE_NUMBER": "Go to page number",
     "LBL_PAGINATION_NAV": "Pagination navigation",
-    "LBL_CUSTOM": "Personalizar",
     "LBL_CUSTOMIZE_MAIN_MENU": "Personalizar menu principal",
     "LBL_CUSTOM_FIELD_MAPPING": "Mapeamento de campo personalizado",
     "LBL_CUSTOM_INFORMATION": "Informações personalizadas",
@@ -1525,7 +1524,8 @@
     "LBL_CONDITION_WIZARD": "Assistente de condições",
     "LBL_CURRENCY_CONVERTER": "Currency converter",
     "LBL_OK": "Ok",
-    "LBL_BATCH_ADDING_RECORDS": "Batch adding records"
+    "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
+    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option"
   },
   "js": {
     "JS_APPROVE": "Aprovar",
@@ -1991,6 +1991,8 @@
     "JS_CALENDAR_LIST": "Agenda",
     "JS_SPECIAL_CHARACTERS": "Caracteres especiais, como",
     "JS_NOT_ALLOWED": "Não são permitidos",
-    "JS_INVALID_COORDINATES": "Coordenadas erradas inseridas"
+    "JS_INVALID_COORDINATES": "Coordenadas erradas inseridas",
+    "JS_PDF_GENERATED_AND_ATTACHED": "PDF generated and attached to the record",
+    "JS_PDF_GENERATED": "PDF was created"
   }
 }

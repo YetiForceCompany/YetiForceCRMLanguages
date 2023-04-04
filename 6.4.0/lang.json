@@ -59,8 +59,8 @@
         "prefix": "fa-IR",
         "crowdinCode": "fa",
         "name": "Persian",
-        "progress": 88,
-        "time": "2022-10-19 12:31:06"
+        "progress": 89,
+        "time": "2023-04-03 09:15:12"
     },
     "fi-FI": {
         "prefix": "fi-FI",
@@ -165,7 +165,7 @@
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
         "progress": 74,
-        "time": "2022-08-19 13:29:48"
+        "time": "2023-04-03 09:15:12"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -186,7 +186,7 @@
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 79,
-        "time": "2022-08-19 13:29:46"
+        "time": "2023-04-03 09:15:10"
     },
     "sh-HR": {
         "prefix": "sh-HR",
@@ -242,7 +242,7 @@
         "crowdinCode": "uk",
         "name": "Ukrainian",
         "progress": 85,
-        "time": "2022-11-24 13:55:22"
+        "time": "2023-04-03 09:15:11"
     },
     "vi-VN": {
         "prefix": "vi-VN",

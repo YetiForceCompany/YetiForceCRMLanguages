@@ -45,9 +45,9 @@
     "LBL_FIELD_DATE": "Поле Дата",
     "LBL_SKIP_YEAR": "Пропустити рік",
     "LBL_SKIP_YEAR_DESC": "Пропустити рік події лише розглянувши місяць і день.",
-    "LBL_WIDGET_NAME": "Widget name",
-    "BTN_NEXT": "Next",
-    "LBL_DEFAULT_TIME": "Default call end time (min)"
+    "LBL_WIDGET_NAME": "Назва віджету",
+    "BTN_NEXT": "Далі",
+    "LBL_DEFAULT_TIME": "Час завершення виклику за замовчуванням (хв)"
   },
   "js": {
     "JS_BLOCK_ADDED": "Блок був успішно доданий",
