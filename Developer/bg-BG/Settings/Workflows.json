@@ -182,7 +182,7 @@
     "End Date & Time": "End date & time",
     "UpdateBalance": "Update balance",
     "UpdateInventory": "Update inventory",
-    "LBL_TRIGGER_USER": "User selected in workflow trigger mondal",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Изберете имйл адрес от свързаните модули.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Системата ще изпрати имейл съобщение до всички свързани записи, които имат попълнено поле за електронна поща. Тази операция може да отнеме известно време в зависимост от броя на записите.",
     "LBL_PDF_TEMPLATE": "Select PDF template",

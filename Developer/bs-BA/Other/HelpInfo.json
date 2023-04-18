@@ -15,7 +15,7 @@
     "Users|Email": "Primarna adresa e-pošte (obavezno polje) koja se koristi u posebnim situacijama (tj. Resetiranje lozinke).",
     "Users|Secondary email": "Dodatna adresa e-pošte.",
     "Users|FL_PRIMARY_PHONE": "Primarni telefonski broj.",
-    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
+    "Users|CRM Phone Extension": "Telefonski broj koji se koristi za povezivanje na telefonsku centralu, ako nije upisan, korisnik neće imati aktivnu integraciju sa PBX-om.",
     "Users|Approval for email": "Opcija za odabir korisnika koji su pristali na primanje biltena poslanih kroz zadatke toka posla (slanje e-pošte, slanje e-pošte iz predložaka, slanje e-pošte s PDF ispisom)",
     "Users|Date Format": "Sistem podržava 9 formata datuma, preporučeni (testirani) je rrrr-mm-dd. Preporučujemo da svi korisnici koriste isti format datuma.",
     "Users|Calendar Hour Format": "Sistem podržava 2 formata datuma, preporučeni (testirani) je 24h. Preporučujemo da svi korisnici koriste isti format datuma.",

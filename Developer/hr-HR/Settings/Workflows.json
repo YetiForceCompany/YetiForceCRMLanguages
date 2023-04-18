@@ -182,7 +182,7 @@
     "End Date & Time": "Datum i vrijeme završetka",
     "UpdateBalance": "Ažuriraj bilans",
     "UpdateInventory": "Ažurirajte inventar",
-    "LBL_TRIGGER_USER": "Korisnik je izabran u modalnom okidaču radnog tijeka",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Odaberite adresu e-pošte iz povezanih modula.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Sustav će poslati poruku e-pošte svim povezanim unosima s popunjenim poljem za e-poštu. Ova operacija može potrajati neko vrijeme, ovisno o broju zapisa.",
     "LBL_PDF_TEMPLATE": "Odaberi PDF predložak",

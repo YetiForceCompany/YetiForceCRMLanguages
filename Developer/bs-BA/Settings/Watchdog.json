@@ -3,7 +3,7 @@
     "Watchdog": "Watchdog",
     "LBL_YETIFORCE_WATCHDOG_HEADER": "YetiForce watchdog monitor",
     "LBL_YETIFORCE_WATCHDOG_DESC": "Stranica sa konfiguracijom YetiForce watchdog monitoring service",
-    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "The watchdog mechanism monitors the CRM system work and transfers selected information to YetiForce S.A. All collected information will not be published and is intended only to monitor the CRM system for incorrect operation and the environment on which it is installed.",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "Watchdog mehanizam prati rad CRM sistema i prenosi odabrane informacije u YetiForce S.A. Sve prikupljene informacije neće biti objavljene i namijenjene su samo praćenju neispravnog rada CRM sistema i okruženja na kojem je instaliran.",
     "LBL_PARAM_NAME": "Parametar",
     "LBL_PARAM_VAL": "Vrijednost",
     "LBL_PARAM_NOT_ALLOWED": "Parametar nije dozvoljen",
@@ -28,6 +28,6 @@
     "LBL_PUBLICDIRECTORYACCESS": "Javni direktorij",
     "LBL_ENVIRONMENT": "Informacije o okruženju",
     "LBL_WRITABLEFILESANDFOLDERS": "Datoteke i mape koje se mogu pisati",
-    "LBL_PATHVERIFICATION": "Path verification"
+    "LBL_PATHVERIFICATION": "Provjera putanje"
   }
 }

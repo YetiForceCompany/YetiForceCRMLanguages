@@ -182,7 +182,7 @@
     "End Date & Time": "End date & time",
     "UpdateBalance": "Update balance",
     "UpdateInventory": "Update inventory",
-    "LBL_TRIGGER_USER": "User selected in workflow trigger mondal",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Vyberte e-mailovou adresu z příslušných modulů.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Systém odešle e-mailovou zprávu na všechny související položky, které mají vyplněné pole pro e-mail. Tato operace může nějakou dobu trvat v závislosti na počtu záznamů.",
     "LBL_PDF_TEMPLATE": "Select PDF template",

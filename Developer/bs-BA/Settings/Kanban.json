@@ -8,7 +8,7 @@
     "LBL_DETAIL_FIELDS": "Polja sa detaljima",
     "LBL_SUM_FIELDS": "Polja sumiranja",
     "LBL_NO_FIELDS_ADD": "Nema polja za dodavanje",
-    "LBL_NOT_VISIBLE_KANBAN": "The dictionary has lost its Quick Edit permission and is not available in Kanban view."
+    "LBL_NOT_VISIBLE_KANBAN": "Rječnik je izgubio dozvolu za brzo uređivanje i nije dostupan u Kanban prikazu."
   },
   "js": {}
 }

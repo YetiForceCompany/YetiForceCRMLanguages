@@ -245,8 +245,8 @@
     "RecordAllocation": "Dodjela zapisa",
     "LBL_RECORDALLOCATION_DESCRIPTION": " ",
     "ERR_NO_REQUIRED_LIBRARY_FEATURES_DOWNLOAD": "Ne mogu pronaći potrebnu biblioteku %s. Neke su funkcionalnosti onemogućene. Idite na %s da biste je preuzeli.",
-    "ERR_NO_REQUIRED_LIBRARY": "Could not find required %s library.",
-    "ERR_NO_REQUIRED_LIBRARY_DESC": "The %s library is required for the integration to work.",
+    "ERR_NO_REQUIRED_LIBRARY": "Nije moguće pronaći potrebnu %s biblioteku.",
+    "ERR_NO_REQUIRED_LIBRARY_DESC": "Biblioteka %s je potrebna da bi integracija funkcionirala.",
     "LBL_SYSTEM_WARNINGS": "Upozorenja sistema",
     "LBL_WARNINGS_FOLDERS": "Kategorija upozorenja",
     "LBL_WARNINGS_TITLE": "Naslov",
@@ -314,7 +314,7 @@
     "LBL_REQUIRES_INTERVENTION": "Zahtijeva intervenciju",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj",
     "LBL_ONLY_TO_FIRST_LIST": "Samo prvom na listi",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Sačuvaj i potvrdi"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",

@@ -182,7 +182,7 @@
     "End Date & Time": "تاریخ و زمان پایان",
     "UpdateBalance": "به روز رسانی موجودی",
     "UpdateInventory": "به روز رسانی موجودی انبار",
-    "LBL_TRIGGER_USER": "User selected in workflow trigger mondal",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "یک آدرس ایمیل را از ماژول های مربوطه انتخاب کنید.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "این سیستم برای همه موارد موجود مرتبط که دارای فیلد نامه الکترونیکی هستند ، یک ایمیل ارسال می کند. این عملیات بسته به تعداد رکوردها ممکن است مدتی طول بکشد.",
     "LBL_PDF_TEMPLATE": "انتخاب قالب PDF",

@@ -182,7 +182,7 @@
     "End Date & Time": "Data si ora de incheiere",
     "UpdateBalance": "Actualizati balanta",
     "UpdateInventory": "Actualizati inventar",
-    "LBL_TRIGGER_USER": "Utilizatorul selectat in modalitatea de declansare a fluxului de lucru",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Select an e-mail address from related modules.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "The system will send an e-mail message to all related entries that have an e-mail field filled in. This operation may take some time depending on the number of records.",
     "LBL_PDF_TEMPLATE": "Selecteaza fisier PDF",

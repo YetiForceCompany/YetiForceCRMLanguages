@@ -182,7 +182,7 @@
     "End Date & Time": "结束日期及时间",
     "UpdateBalance": "更新记账",
     "UpdateInventory": "更新库存",
-    "LBL_TRIGGER_USER": "工作流触发器窗口中选定的用户",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "从相关模块中选择电子邮件地址。",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "系统将向填写电子邮件字段的所有相关记录发送电子邮件。此操作可能需要一些时间，具体取决于记录数。",
     "LBL_PDF_TEMPLATE": "选择PDF模板",

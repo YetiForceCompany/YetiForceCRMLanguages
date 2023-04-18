@@ -2,7 +2,7 @@
   "php": {
     "LBL_OTHER": "Drugo",
     "Automatic signed off": "Automatska odjava",
-    "LBL_LOGIN_TIME": "Date time",
-    "LBL_LOGGED_OUT_TIME": "Sign-out time"
+    "LBL_LOGIN_TIME": "Datum i vrijeme",
+    "LBL_LOGGED_OUT_TIME": "Vrijeme odjave"
   }
 }

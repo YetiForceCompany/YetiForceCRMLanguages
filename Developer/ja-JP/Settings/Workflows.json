@@ -182,7 +182,7 @@
     "End Date & Time": "終了日時",
     "UpdateBalance": "残高を更新",
     "UpdateInventory": "インベントリを更新",
-    "LBL_TRIGGER_USER": "ワークフロートリガーMondalで選択されたユーザー",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "関連モジュールから電子メール アドレスを選択します。",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "システムは、電子メール項目が記入されているすべての関連項目に電子メールメッセージを送信します。 この操作にはレコード数によって時間がかかる場合があります。",
     "LBL_PDF_TEMPLATE": "PDFテンプレートを選択",

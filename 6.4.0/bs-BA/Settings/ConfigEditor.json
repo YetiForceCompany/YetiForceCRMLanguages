@@ -25,8 +25,8 @@
     "LBL_RELATION_SHOW_RECORDS_COUNT": "Prikaži broj zapisa u karticama povezanih modula",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Odvojena akcijska dugmad za promjenu dodatnih podataka",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Dugme definira poseban tip podataka koji pripada samo relacijama, dostupan npr. u modulu Pojave",
-    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Max number of export records",
-    "LBL_PERFORMANCE": "Performance"
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Maksimalni broj zapisa za izvoz",
+    "LBL_PERFORMANCE": "Performanse"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Podaci o konfiguraciji su sačuvani",

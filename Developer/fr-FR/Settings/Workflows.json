@@ -182,7 +182,7 @@
     "End Date & Time": "Date et heure de fin",
     "UpdateBalance": "MAJ solde",
     "UpdateInventory": "MAJ inventaire",
-    "LBL_TRIGGER_USER": "Utilisateur sélectionné dans le déclencheur de workflow modal",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Sélectionnez une adresse e-mail dans les modules associés.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Le système enverra un message électronique à toutes les entrées associées dont le champ de courrier électronique est rempli. Cette opération peut prendre un certain temps en fonction du nombre d'enregistrements.",
     "LBL_PDF_TEMPLATE": "Sélectionnez un modèle PDF",

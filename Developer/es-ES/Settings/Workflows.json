@@ -182,7 +182,7 @@
     "End Date & Time": "Fecha y hora de finalización",
     "UpdateBalance": "Actualizar balance",
     "UpdateInventory": "Actualizar inventario",
-    "LBL_TRIGGER_USER": "Usuario seleccionado en desencadenador de flujo de trabajo mondal",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Seleccione una dirección de correo electrónico de módulos relacionados.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "El sistema enviará un mensaje de correo electrónico a todas las entradas relacionadas que tengan un campo de correo electrónico rellenado. Esta operación puede tardar algún tiempo dependiendo del número de registros.",
     "LBL_PDF_TEMPLATE": "Seleccionar plantilla PDF",

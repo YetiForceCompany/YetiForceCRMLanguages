@@ -12,11 +12,11 @@
     "Users": "Korisnici",
     "Name": "Naziv grupe",
     "Description": "Opis",
-    "FL_PARENT": "Team leader",
-    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
-    "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
-    "LBL_GROUP_DUPLICATE": "Duplicate",
-    "LBL_DELETE_GROUP": "Delete group"
+    "FL_PARENT": "Vođa tima",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Prekoračena je granica dozvoljenih grupnih gnijezda.",
+    "LBL_INDEFINITE_LOOP": "Trenutne postavke će stvoriti neograničenu petlju. Molimo promijenite članove grupe.",
+    "LBL_GROUP_DUPLICATE": "Duplikat",
+    "LBL_DELETE_GROUP": "Obriši grupu"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Odaberite najmanje jednog člana za grupu",

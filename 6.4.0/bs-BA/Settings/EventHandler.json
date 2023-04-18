@@ -12,9 +12,9 @@
     "LBL_ENTITY_CHANGE_STATE": "Promjena stanja",
     "LBL_ENTITY_BEFORE_SAVE": "Prije spremanja",
     "LBL_ENTITY_AFTER_SAVE": "Nakon spremanja",
-    "LBL_DETAIL_VIEW_BEFORE": "Detail View",
-    "LBL_EDIT_VIEW_BEFORE": "Edit View",
-    "LBL_EDIT_VIEW_DUPLICATE": "Edit View (Duplicate)",
-    "LBL_INVENTORY_RECORD_DETAILS": "Loading data for inventory"
+    "LBL_DETAIL_VIEW_BEFORE": "Detaljan prikaz",
+    "LBL_EDIT_VIEW_BEFORE": "Uredi pogled",
+    "LBL_EDIT_VIEW_DUPLICATE": "Pogled za uređivanje (Duplikat)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Učitavanje podataka za inventar"
   }
 }

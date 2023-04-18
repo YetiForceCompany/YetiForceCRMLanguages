@@ -16,10 +16,10 @@
     "LBL_DEFAULT_IDLE_TIME": "Zadano vrijeme mirovanja",
     "LBL_DEFAULT_RESOLVE_TIME": "Zadano vrijeme rješavanja",
     "LBL_HOLIDAYS_LINK": "Idite na postavke za praznike",
-    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+    "LBL_HOLIDAYS_INFO": "Označavanjem opcije 'Praznici' praznici će biti izostavljeni prilikom izračuna radnog vremena."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovaj unos?",
-    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Odaberite barem jedan radni dan."
   }
 }

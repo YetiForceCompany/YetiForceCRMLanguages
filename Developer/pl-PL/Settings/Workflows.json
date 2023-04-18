@@ -182,7 +182,7 @@
     "End Date & Time": "Czas zakończenia",
     "UpdateBalance": "Zaktualizuj saldo",
     "UpdateInventory": "Zaktualizuj inwentarz",
-    "LBL_TRIGGER_USER": "Użytkownik wybrany w oknie ręcznego wywoływania",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Wybierz adres e-mail z modułów powiazanych.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "System wyśle wiadomość e-mail do wszystkich powiązanych wpisów, które posiadają wypełnione pole e-mail. Ta operacja może zająć chwilę czasu w zależności od ilości rekordów.",
     "LBL_PDF_TEMPLATE": "Wybierz szablon PDF",

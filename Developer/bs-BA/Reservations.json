@@ -28,7 +28,7 @@
     "LBL_USER_NAME": "Korisničko ime",
     "LBL_GROUP_NAME": "Naziv grupe",
     "LBL_WORK_DAYS": "Radni dani",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_RESERVATION_EXISTS": "Već postoji rezervacija za sljedeći datum: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dozvoljeni znakovi: [0-9]",

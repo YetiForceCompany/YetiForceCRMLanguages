@@ -40,9 +40,9 @@
     "LBL_TIME_COUNTING_IDLE": "Vrijeme mirovanja",
     "LBL_IS_NOT_A_PROCESS_STATUS_FIELD": "Polje nije polje statusa procesa.",
     "LBL_IMPORT_VALUE": "Uvoz vrijednosti",
-    "LBL_CONFIRM_BEFORE_MODIFY": "The selected field is interdependent with other modules: %s. Are you sure you want to proceed?",
-    "LBL_CSV_DESC": "Import csv file with each value per line",
-    "LBL_ICON": "Icon"
+    "LBL_CONFIRM_BEFORE_MODIFY": "Odabrano polje je međusobno ovisno o drugim modulima: %s. Jeste li sigurni da želite nastaviti?",
+    "LBL_CSV_DESC": "Uvezi csv datoteku sa svakom vrijednošću po retku",
+    "LBL_ICON": "Ikona"
   },
   "js": {
     "JS_ITEMS_DELETED_SUCCESSFULLY": "Stavke su uspješno izbrisane",

@@ -182,7 +182,7 @@
     "End Date & Time": "Λήξη: Ημερομηνία - Ώρα",
     "UpdateBalance": "Ενημέρωση υπολοίπου",
     "UpdateInventory": "Ενημέρωση αποθέματος",
-    "LBL_TRIGGER_USER": "Ο χρήστης που επιλέχθηκε στο παράθυρο χειροκίνητης κλήσης",
+    "LBL_TRIGGER_USER": "User selected in workflow trigger modal",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS": "Επιλέξτε μια διεύθυνση e-mail από σχετιζόμενα modules.",
     "LBL_SELECT_RELATIONS_EMAIL_ADDRESS_INFO": "Το σύστημα θα στείλει ένα μήνυμα ηλεκτρονικού ταχυδρομείου σε όλες τις σχετικές καταχωρήσεις που έχουν ένα e-mail πεδίο συμπληρωμένο. Αυτή η λειτουργία μπορεί να πάρει κάποιο χρόνο, ανάλογα με τον αριθμό των εγγραφών.",
     "LBL_PDF_TEMPLATE": "Επιλέξτε πρότυπο PDF",

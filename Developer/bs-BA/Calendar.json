@@ -191,10 +191,10 @@
     "FL_MEETING_URL": "URL sastanka",
     "LBL_SEND_CALENDAR": "Pošaljite e-mail obavijest o događaju",
     "LBL_DATES_SELECTED_HOLIDAYS_CONFIRM": "Odabrani datumi uključuju praznike. Da li želite spremiti?",
-    "LBL_THIRTY_MINUTES": "30 minutes",
-    "LBL_ONE_DAY": "1 day",
-    "LBL_SEVEN_DAYS": "7 days",
-    "LBL_THIRTY_DAYS": "30 days"
+    "LBL_THIRTY_MINUTES": "30 minuta",
+    "LBL_ONE_DAY": "1 dan",
+    "LBL_SEVEN_DAYS": "7 dana",
+    "LBL_THIRTY_DAYS": "30 dana"
   },
   "js": {
     "JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY": "Prikaz kalendara uspješno dodan",

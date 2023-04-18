@@ -13,7 +13,7 @@
     "LBL_OUTBOUND_CONTEXT": "Izlazni kontekst",
     "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
     "LBL_PBX_DEFAULT": "Zadano",
-    "LBL_PBX_BASE": "Base (default in browser)"
+    "LBL_PBX_BASE": "Baza (zadano u pregledniku)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Promjene su spremljene"

@@ -95,10 +95,10 @@
     "RecordCollector": "Sakupljač zapisa",
     "MeetingUrl": "URL sastanka",
     "InterestsConflictUsers": "Sukobi interesa",
-    "CustomViewAdvCond": "Advanced custom view conditions",
+    "CustomViewAdvCond": "Napredni prilagođeni uvjeti prikaza",
     "RecordActivityNotifier": "Record activity notifier",
-    "WorkflowTriggerWhenRecordIsBlocked": "Workflow trigger when record is blocked",
-    "LeaderCanManageGroupMembership": "Leader can manage group membership"
+    "WorkflowTriggerWhenRecordIsBlocked": "Okidač tijeka rada kada je zapis blokiran",
+    "LeaderCanManageGroupMembership": "Voditelj može upravljati članstvom u grupi"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

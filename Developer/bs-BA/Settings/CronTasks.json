@@ -35,7 +35,7 @@
     "RecurringInvoice": "Ponavljajući račun",
     "LBL_MAIL_SCANNER_ACTION": "Mail Scanner Acija",
     "LBL_MAIL_SCANNER_VERIFICATION": "Mail Scanner Verifikacija",
-    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifikacija",
     "LBL_SEND_REMINDER": "Pošaljite podsjetnik",
     "LBL_SCHEDULED_IMPORT": "Planirani uvoz",
     "LBL_SCHEDULE_REPORTS": "Raspored izvještaja",
@@ -72,7 +72,7 @@
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "CRON mehanizam nije omogućen, potreban je za ispravan rad sustava.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Preuzmite poruke s društvenih medija",
     "LBL_MAIL_RBL": "Ažuriranje RBL servera",
-    "LBL_INTEGRATION_PL_GUS_REGON": "Creating newly added companies from the PL GUS REGON database"
+    "LBL_INTEGRATION_PL_GUS_REGON": "Kreiranje novododatih kompanija iz baze podataka PL GUS REGON"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Preporučena učestalost za Scheduled Import je 15 min",
