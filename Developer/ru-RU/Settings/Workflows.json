@@ -147,6 +147,7 @@
     "TRIGGER": "Ручной запуск пользователем",
     "BLOCK_EDIT": "Блокировать изменение",
     "ON_SCHEDULE": "График выполнения (определенные интервалы времени)",
+    "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": "Выберите шаблон электронной почты для отправки",
     "Do you send all attachments": "Отправить все вложения?",
     "Select e-mail address": "Выберите адрес электронной почты",
@@ -272,7 +273,8 @@
     "LBL_MANY_TO_MANY_RELATIONS": "Many to many relations",
     "LBL_ALL_ATTACHMENTS": "all attachments",
     "LBL_LATEST_ATTACHMENTS": "latest attachments",
-    "LBL_MEETING_URL": "Meeting URL"
+    "LBL_MEETING_URL": "Meeting URL",
+    "LBL_SMS_PROVIDER": "SMS provider"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Некоторые поля выбраны более одного раза",

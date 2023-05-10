@@ -147,6 +147,7 @@
     "TRIGGER": "Ručni okidač od strane korisnika",
     "BLOCK_EDIT": "Blok izdanje",
     "ON_SCHEDULE": "Raspored izvršenja (definisani vremenski intervali)",
+    "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": "Odaberite predložak e-pošte koji ćete poslati",
     "Do you send all attachments": "Pošalji sve priloge?",
     "Select e-mail address": "Odaberi email adresu",
@@ -272,7 +273,8 @@
     "LBL_MANY_TO_MANY_RELATIONS": "Relacije više na više",
     "LBL_ALL_ATTACHMENTS": "svi prilozi",
     "LBL_LATEST_ATTACHMENTS": "najnoviji prilozi",
-    "LBL_MEETING_URL": "URL sastanka"
+    "LBL_MEETING_URL": "URL sastanka",
+    "LBL_SMS_PROVIDER": "SMS provider"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ista polja odabrana su više od jednom",

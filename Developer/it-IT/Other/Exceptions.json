@@ -49,6 +49,7 @@
     "ERR_CLASS_MUST_BE": "La classe deve essere %s",
     "ERR_PAID_FUNCTIONALITY": "%s funzionalità a pagamento, devi acquistarla",
     "ERR_TOKEN_DOES_NOT_EXIST": "Il token non esiste o è scaduto",
+    "ERR_TOKEN_NOT_EXECUTION_CONDITIONS": "The token does not meet the conditions for execution",
     "ERR_NO_TOKEN": "Nessun token",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Codice TOTP A2F errato",
     "ERR_NO_2FA_TOTP_CODE": "Nessun codice TOTP A2F",

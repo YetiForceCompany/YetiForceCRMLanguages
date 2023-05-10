@@ -1525,7 +1525,7 @@
     "LBL_CURRENCY_CONVERTER": "Konwerter walut",
     "LBL_OK": "Ok",
     "LBL_BATCH_ADDING_RECORDS": "Masowe dodawanie rekordów",
-    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option"
+    "LBL_ATTACH_DOCUMENT_DESC": "Po wybraniu tej opcji PDF zostanie załączony do rekordów. Akcja wysyłania wiadomości e-mail jest pomijana przy tej opcji"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

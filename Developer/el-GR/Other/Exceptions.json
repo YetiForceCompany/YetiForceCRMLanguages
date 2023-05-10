@@ -49,6 +49,7 @@
     "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s",
     "ERR_PAID_FUNCTIONALITY": "%s πληρωμένη λειτουργικότητα, θα πρέπει να το αγοράσετε",
     "ERR_TOKEN_DOES_NOT_EXIST": "Το διακριτικό δεν υπάρχει ή έχει λήξει",
+    "ERR_TOKEN_NOT_EXECUTION_CONDITIONS": "The token does not meet the conditions for execution",
     "ERR_NO_TOKEN": "Χωρίς διακριτικό",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Λάθος κωδικός 2FA TOTP",
     "ERR_NO_2FA_TOTP_CODE": "Δεν υπάρχει 2FA κωδικός TOTP",

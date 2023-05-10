@@ -147,6 +147,7 @@
     "TRIGGER": "Χειροκίνητη ενεργοποίηση από το χρήστη",
     "BLOCK_EDIT": "Έκδοση μπλοκ",
     "ON_SCHEDULE": "Χρονοδιάγραμμα εκτέλεσης (καθορισμένα χρονικά διαστήματα)",
+    "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": "Επιλέξτε ένα πρότυπο email για αποστολή",
     "Do you send all attachments": "Αποστολή όλων των συνημμένων;",
     "Select e-mail address": "Επιλέξτε διεύθυνση email",
@@ -272,7 +273,8 @@
     "LBL_MANY_TO_MANY_RELATIONS": "Many to many relations",
     "LBL_ALL_ATTACHMENTS": "all attachments",
     "LBL_LATEST_ATTACHMENTS": "latest attachments",
-    "LBL_MEETING_URL": "Meeting URL"
+    "LBL_MEETING_URL": "Meeting URL",
+    "LBL_SMS_PROVIDER": "SMS provider"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ίδια πεδία επιλέγονται περισσότερο από μία φορά",

@@ -147,6 +147,7 @@
     "TRIGGER": "由用户手动触发",
     "BLOCK_EDIT": "区块编辑",
     "ON_SCHEDULE": "执行计划（设定的时间间隔）",
+    "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": "选择要发送的电子邮件模板",
     "Do you send all attachments": "发送所有附件？?",
     "Select e-mail address": "选择Email地址",
@@ -272,7 +273,8 @@
     "LBL_MANY_TO_MANY_RELATIONS": "多对多关系",
     "LBL_ALL_ATTACHMENTS": "all attachments",
     "LBL_LATEST_ATTACHMENTS": "latest attachments",
-    "LBL_MEETING_URL": "Meeting URL"
+    "LBL_MEETING_URL": "Meeting URL",
+    "LBL_SMS_PROVIDER": "SMS provider"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "重复选择了同一字段",

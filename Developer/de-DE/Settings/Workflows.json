@@ -147,6 +147,7 @@
     "TRIGGER": "Manuell getriggert durch den Benutzer",
     "BLOCK_EDIT": "Änderungsmodus sperren",
     "ON_SCHEDULE": "Einplanung ausführen (definierte Zeitintervalle)",
+    "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": " Wählen Sie eine E-Mail-Vorlage zum versenden",
     "Do you send all attachments": "Alle Anhänge senden?",
     "Select e-mail address": "E-Mail-Adresse auswählen",
@@ -272,7 +273,8 @@
     "LBL_MANY_TO_MANY_RELATIONS": "Many to many relations",
     "LBL_ALL_ATTACHMENTS": "all attachments",
     "LBL_LATEST_ATTACHMENTS": "latest attachments",
-    "LBL_MEETING_URL": "Meeting URL"
+    "LBL_MEETING_URL": "Meeting URL",
+    "LBL_SMS_PROVIDER": "SMS provider"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Dieselben Felder mehr als einmal ausgewählt",

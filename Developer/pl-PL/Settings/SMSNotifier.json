@@ -19,7 +19,9 @@
     "FL_CALLBACK_URL_FOR_REPORT": "Raporty (SMS, MMS)",
     "FL_CALLBACK_URL_FOR_REPLY": "Odbiór (SMS)",
     "FL_CALLBACK_URL_FOR_REPORT_DESC": "Adres URL dla raportów doręczeń. Do wprowadzenia bezpośrednio u dostawcy.",
-    "FL_CALLBACK_URL_FOR_REPLY_DESC": "Adres URL dla odbioru wiadomości SMS. Do wprowadzenia bezpośrednio u dostawcy."
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "Adres URL dla odbioru wiadomości SMS. Do wprowadzenia bezpośrednio u dostawcy.",
+    "FL_DEFAULT": "Domyślny",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Wybrany dostawca jest nieaktywny. Aktywuj go lub zmień dostawcę."
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Czy jesteś pewien, że chcesz usunąć tę konfigurację?",
