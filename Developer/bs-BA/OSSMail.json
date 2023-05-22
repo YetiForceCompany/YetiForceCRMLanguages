@@ -98,7 +98,8 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Pošiljateljov server je na popisu dopuštenih, kreiran je zahtjev za provjeru za administratora",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Pošiljateljov server je na crnoj listi, kreiran je zahtjev za provjeru za administratora",
     "LBL_RC_ERROR_RBL_REPORT": "Došlo je do pogreške prilikom slanja izvještaja RBL-u",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Poruka je dodana"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Poruka je dodana",
+    "LBL_SIGNATURES": "Signatures"
   },
   "js": {
     "NoFindEmailInRecord": "Zapis nema email adresu",

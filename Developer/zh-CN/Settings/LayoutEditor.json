@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "多对多",
     "PLL_DEPENDENTS_LIST": "一到多",
     "PLL_ATTACHMENTS": "附件",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "相关字段 M:M",
     "PLL_SPLITED_RELATED_LIST": "多对多-与数据的分离",
     "PLL_ADD": "添加",
     "PLL_SELECT": "选择",
@@ -214,6 +216,7 @@
     "RangeTime": "范围时间",
     "LBL_HEADER_TYPE_VALUE": "值",
     "LBL_HEADER_TYPE_PROGRESS": "进度条",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "突出显示",
     "LBL_EDIT_MANDATORY_INFO": "适用于整个记录。如果选择 \"否\", 则可以在没有任何库存行的情况下保存记录。",
     "MultiDomain": "域多选",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "Group",
+    "LBL_MULTI_REFERENCE_FIELDS": "相关字段 M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",

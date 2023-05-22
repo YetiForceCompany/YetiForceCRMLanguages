@@ -420,7 +420,10 @@
     "LBL_MEMBER": "Članovi",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Dodajte članove grupe",
     "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Otvorite svoj mail klijent u novom prozoru"
+    "FL_MAIL_POPUP": "Otvorite svoj mail klijent u novom prozoru",
+    "FL_RECORD_LIST_FILTER": "Record list filter",
+    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
+    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kada se korisnik izbriše, korisnik će biti označen kao \"Neaktivan\" i korisniku se ne mogu dodijeliti novi zapisi, a korisnik se neće moći prijaviti. Jeste li sigurni da želite izbrisati?",

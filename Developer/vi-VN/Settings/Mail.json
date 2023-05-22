@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Hiển thị tài khoản email liên quan tới người dùng hiện tại",
     "LBL_NUMBER_UNREAD_EMAILS": "Hiển thị số tin nhắn chưa đọc",
     "LBL_MAIL_ICON_CONFIG": "Biểu tượng thư",
-    "LBL_ADD_SIGNATURE": "Kích hoạt chữ ký toàn cục cho tất cả thư điện tử gửi đi",
-    "LBL_SIGNATURE": "Chữ ký toàn cục",
     "LBL_SAVED_SIGNATURE": "Chữ ký đã được lưu",
     "LBL_VIEW_AUTOLOGIN": "Tự động đăng nhập",
     "LBL_VIEW_CONFIG": "Cấu hình chung",

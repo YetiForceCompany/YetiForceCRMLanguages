@@ -420,7 +420,10 @@
     "LBL_MEMBER": "成员",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "添加群组成员",
     "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Open your mail client in a new window"
+    "FL_MAIL_POPUP": "Open your mail client in a new window",
+    "FL_RECORD_LIST_FILTER": "Record list filter",
+    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
+    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "当删除用户时，该用户会被标记为“不活跃”，且不会分配给该用户新的记录，该用户将无法登录。是否要删除？",

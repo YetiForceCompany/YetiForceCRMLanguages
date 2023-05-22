@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Mostra caselle email dell'utente corrente",
     "LBL_NUMBER_UNREAD_EMAILS": "Mostra il numero di messaggi non letti",
     "LBL_MAIL_ICON_CONFIG": "Impostazioni base",
-    "LBL_ADD_SIGNATURE": "Attiva la firma in tutte le email in uscita",
-    "LBL_SIGNATURE": "Firma globale",
     "LBL_SAVED_SIGNATURE": "Firma salvata",
     "LBL_VIEW_AUTOLOGIN": "Auto login",
     "LBL_VIEW_CONFIG": "Configurazione generale",

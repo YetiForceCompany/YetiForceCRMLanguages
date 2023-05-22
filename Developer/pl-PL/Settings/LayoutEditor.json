@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Wiele do wielu",
     "PLL_DEPENDENTS_LIST": "Jeden do wielu",
     "PLL_ATTACHMENTS": "Załączniki",
+    "PLL_EMAILS": "Historia maili",
+    "PLL_MULTI_REFERENCE": "Pole powiązane M:M",
     "PLL_SPLITED_RELATED_LIST": "Wiele do wielu - Z separacją danych",
     "PLL_ADD": "Tworzenie",
     "PLL_SELECT": "Wybieranie",
@@ -214,6 +216,7 @@
     "RangeTime": "Zakres czasu",
     "LBL_HEADER_TYPE_VALUE": "Wartość",
     "LBL_HEADER_TYPE_PROGRESS": "Linia postępu",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Pasek wyboru",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Wyróżnione",
     "LBL_EDIT_MANDATORY_INFO": "Ma zastosowanie dla całego rekordu. Jeśli wybrano \"Nie\", rekord można zapisać bez żadnych stanów magazynowych.",
     "MultiDomain": "Wybór wielu domen",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Uwzględnia sortowanie wybranego elementu lub zachowuje sortowanie domyślne",
     "LBL_ALL_GROUPS": "Wszystkie grupy",
     "LBL_ALL_GROUPS_INFO": "Gdy opcja nie jest zaznaczona, wyświetla tylko dostępne grupy oparte na wybranych modułach w panelu grupy",
-    "Group": "Grupa"
+    "Group": "Grupa",
+    "LBL_MULTI_REFERENCE_FIELDS": "Pole powiązane M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",

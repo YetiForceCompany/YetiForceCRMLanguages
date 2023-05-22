@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Nhiều - nhiều",
     "PLL_DEPENDENTS_LIST": "Một - nhiều",
     "PLL_ATTACHMENTS": "Đính kèm",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "Nhiều nhiều - Với phân tách dữ liệu",
     "PLL_ADD": "Thêm",
     "PLL_SELECT": "Chọn",
@@ -214,6 +216,7 @@
     "RangeTime": "Khoảng thời gian",
     "LBL_HEADER_TYPE_VALUE": "Giá trị",
     "LBL_HEADER_TYPE_PROGRESS": "Thanh tiến trình",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Làm nổi bật",
     "LBL_EDIT_MANDATORY_INFO": "Áp dụng cho toàn bộ hồ sơ. Nếu 'Không' được chọn, hồ sơ có thể được lưu mà không có bất kỳ đường biên tồn kho nào.",
     "MultiDomain": "Chọn nhiều tên miền",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "Group",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Tên khối đã tồn tại",

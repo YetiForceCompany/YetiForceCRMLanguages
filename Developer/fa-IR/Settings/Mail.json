@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "نمایش حساب ایمیل‌های مرتبط به کاربر فعلی",
     "LBL_NUMBER_UNREAD_EMAILS": "نمایش تعداد پیام خوانده نشده",
     "LBL_MAIL_ICON_CONFIG": "ایمیل آیکون",
-    "LBL_ADD_SIGNATURE": "فعال سازی پاورقی سراسری برای ایمیل‌های خروجی",
-    "LBL_SIGNATURE": "امضای کلی",
     "LBL_SAVED_SIGNATURE": "امضا ذخیره شد",
     "LBL_VIEW_AUTOLOGIN": "ورود خودکار",
     "LBL_VIEW_CONFIG": "پیکربندی عمومی",

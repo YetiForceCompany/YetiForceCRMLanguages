@@ -420,7 +420,10 @@
     "LBL_MEMBER": "Members",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
     "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Open your mail client in a new window"
+    "FL_MAIL_POPUP": "Open your mail client in a new window",
+    "FL_RECORD_LIST_FILTER": "Record list filter",
+    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
+    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Lorsqu'un utilisateur est supprimé, l'utilisateur sera marqué comme \"Inactif\", aucun nouvel enregistrement ne pourra être assigné à l'utilisateur et l'utilisateur ne pourra pas se connecter. Êtes-vous sûr de vouloir supprimer ?",

@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Prikaži račune e-pošte koji se odnose na trenutnog korisnika",
     "LBL_NUMBER_UNREAD_EMAILS": "Pokažite broj nepročitanih poruka",
     "LBL_MAIL_ICON_CONFIG": "Mail ikona",
-    "LBL_ADD_SIGNATURE": "Aktivirajte globalno podnožje za sve odlazne poruke e-pošte",
-    "LBL_SIGNATURE": "Globalni potpis",
     "LBL_SAVED_SIGNATURE": "Potpis je sačuvan",
     "LBL_VIEW_AUTOLOGIN": "Automatska prijava",
     "LBL_VIEW_CONFIG": "Opća konfiguracija",

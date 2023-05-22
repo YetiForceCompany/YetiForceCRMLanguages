@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "多数対多数",
     "PLL_DEPENDENTS_LIST": "1対多数",
     "PLL_ATTACHMENTS": "添付ファイル",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "多くから多くの - データの分離で",
     "PLL_ADD": "追加",
     "PLL_SELECT": "選択",
@@ -214,6 +216,7 @@
     "RangeTime": "レンジ時間",
     "LBL_HEADER_TYPE_VALUE": "値",
     "LBL_HEADER_TYPE_PROGRESS": "進捗バー",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "レコード全体に適用されます。「いいえ」を選択すると、レコードはインベントリ行なしで保存できます。",
     "MultiDomain": "ドメインのマルチ選択",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "Group",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "ブロック名は既に存在します",

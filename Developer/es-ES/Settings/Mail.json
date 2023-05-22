@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Mostrar cuentas de correo electrónico relacionadas con el usuario actual",
     "LBL_NUMBER_UNREAD_EMAILS": "Mostrar el número de mensajes no leídos",
     "LBL_MAIL_ICON_CONFIG": "Icono de correo",
-    "LBL_ADD_SIGNATURE": "Activar un pie de página global para todos los correos electrónicos salientes",
-    "LBL_SIGNATURE": "Firma global",
     "LBL_SAVED_SIGNATURE": "Firma guardada",
     "LBL_VIEW_AUTOLOGIN": "Inicio de sesión automático",
     "LBL_VIEW_CONFIG": "Configuración general",

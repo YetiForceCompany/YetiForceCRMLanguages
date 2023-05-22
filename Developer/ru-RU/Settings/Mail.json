@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Показывать учетные записи электронной почты связанные с текущим пользователем",
     "LBL_NUMBER_UNREAD_EMAILS": "Показать количество непрочитанных сообщений",
     "LBL_MAIL_ICON_CONFIG": "Иконка Почты",
-    "LBL_ADD_SIGNATURE": "Включить общую подпись для всех исходящих сообщений",
-    "LBL_SIGNATURE": "Общая подпись",
     "LBL_SAVED_SIGNATURE": "Изменить подпись",
     "LBL_VIEW_AUTOLOGIN": "Автовход",
     "LBL_VIEW_CONFIG": "Конфигурация",

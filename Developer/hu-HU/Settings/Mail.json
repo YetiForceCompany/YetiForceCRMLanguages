@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "A jelenlegi felhasználóhoz tartozó e-mail fiókok megjelenítése",
     "LBL_NUMBER_UNREAD_EMAILS": "Az olvastalan levelek számának megjelenítése",
     "LBL_MAIL_ICON_CONFIG": "Levelezési ikon",
-    "LBL_ADD_SIGNATURE": "Activate a global footer for all outgoing emails",
-    "LBL_SIGNATURE": "Global signature",
     "LBL_SAVED_SIGNATURE": "Signature saved",
     "LBL_VIEW_AUTOLOGIN": "Automatikus belépés",
     "LBL_VIEW_CONFIG": "Általános beállítások",

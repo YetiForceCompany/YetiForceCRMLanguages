@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Exibir lista de e-mail de contas associadas com o Usuário atual",
     "LBL_NUMBER_UNREAD_EMAILS": "Exibir a quantidade de mensagens não lidas",
     "LBL_MAIL_ICON_CONFIG": "Ícone E-mail",
-    "LBL_ADD_SIGNATURE": "Ativar um rodapé geral para todos os emails enviados",
-    "LBL_SIGNATURE": "Assinatura Global",
     "LBL_SAVED_SIGNATURE": "Assinatura Salva",
     "LBL_VIEW_AUTOLOGIN": "Acesso automático",
     "LBL_VIEW_CONFIG": "Configuração Geral",

@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Mnogi na mnoge",
     "PLL_DEPENDENTS_LIST": "Jedan na mnoge",
     "PLL_ATTACHMENTS": "Prilozi",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Vezano polje M:M",
     "PLL_SPLITED_RELATED_LIST": "Mnogi na mnoge - Sa razdvajanjem podataka",
     "PLL_ADD": "Dodaj",
     "PLL_SELECT": "Odaberite",
@@ -214,6 +216,7 @@
     "RangeTime": "Raspon vremena",
     "LBL_HEADER_TYPE_VALUE": "Vrijednost",
     "LBL_HEADER_TYPE_PROGRESS": "Traka napredka",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Pregled",
     "LBL_EDIT_MANDATORY_INFO": "Primjenjuje se na cijeli zapis. Ako je odabrano 'Ne', zapis se može spremiti bez ikakvih redaka inventara.",
     "MultiDomain": "Dodela više domena",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Razmatra sortiranje odabrane stavke ili zadržava zadano sortiranje",
     "LBL_ALL_GROUPS": "Sve grupe",
     "LBL_ALL_GROUPS_INFO": "Kada opcija nije odabrana, prikazuje samo dostupne grupe na temelju odabranih modula na ploči grupa",
-    "Group": "Grupno"
+    "Group": "Grupno",
+    "LBL_MULTI_REFERENCE_FIELDS": "Vezano polje M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Naziv bloka već postoji",

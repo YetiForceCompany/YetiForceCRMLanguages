@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "現在のユーザーに関連するメールアカウントを表示",
     "LBL_NUMBER_UNREAD_EMAILS": "未読メッセージの数を表示",
     "LBL_MAIL_ICON_CONFIG": "メールアイコン",
-    "LBL_ADD_SIGNATURE": "すべての送信メールのグローバルフッターを有効にする",
-    "LBL_SIGNATURE": "グローバル署名",
     "LBL_SAVED_SIGNATURE": "署名が保存されました",
     "LBL_VIEW_AUTOLOGIN": "自動ログイン",
     "LBL_VIEW_CONFIG": "一般的な構成",

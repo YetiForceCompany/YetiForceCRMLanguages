@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Muitos para muitos",
     "PLL_DEPENDENTS_LIST": "Um para muitos",
     "PLL_ATTACHMENTS": "Anexos",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "Muitos para muitos - Com separação de dados",
     "PLL_ADD": "Adicionar",
     "PLL_SELECT": "Selecionar",
@@ -214,6 +216,7 @@
     "RangeTime": "Intervalo de tempo",
     "LBL_HEADER_TYPE_VALUE": "Valor",
     "LBL_HEADER_TYPE_PROGRESS": "Barra de progresso",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Destaques",
     "LBL_EDIT_MANDATORY_INFO": "Aplica-se a todo o registro. Se 'Não' é selecionado, o registro pode ser salvo sem quaisquer linhas de inventário.",
     "MultiDomain": "Seleção múltipla de domínio",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considere a classificação do item selecionado ou mantém a classificação padrão",
     "LBL_ALL_GROUPS": "Todos os Grupos",
     "LBL_ALL_GROUPS_INFO": "Quando a opção não está selecionada, ela exibe apenas grupos acessíveis baseados nos módulos selecionados no painel de grupos",
-    "Group": "Grupos"
+    "Group": "Grupos",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nome do Bloco já existe",

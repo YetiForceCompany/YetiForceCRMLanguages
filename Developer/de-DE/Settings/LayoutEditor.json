@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "verknüpfte Einträge",
     "PLL_DEPENDENTS_LIST": "abhängige Einträge",
     "PLL_ATTACHMENTS": "Anhänge",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "Many to many - Mit getrennter Datenhaltung",
     "PLL_ADD": "Hinzufügen",
     "PLL_SELECT": "Auswählen",
@@ -214,6 +216,7 @@
     "RangeTime": "Zeitabschnitt",
     "LBL_HEADER_TYPE_VALUE": "Wert",
     "LBL_HEADER_TYPE_PROGRESS": "Fortschrittsbalken",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Übersicht",
     "LBL_EDIT_MANDATORY_INFO": "Anwendung auf den gesamten Datensatz. Wenn 'Nein' ausgewählt ist, kann der Datensatz ohne Inventar-Zeilen gespeichert werden.",
     "MultiDomain": "Domain Multi-Auswahl",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "Group",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name existiert bereits",

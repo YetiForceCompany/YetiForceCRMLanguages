@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "显示电子邮件帐户相关的当前用户",
     "LBL_NUMBER_UNREAD_EMAILS": "显示未读邮件数",
     "LBL_MAIL_ICON_CONFIG": "邮件图标",
-    "LBL_ADD_SIGNATURE": "启用所有传出电子邮件的全局页脚",
-    "LBL_SIGNATURE": "全局签名",
     "LBL_SAVED_SIGNATURE": "已保存的签名",
     "LBL_VIEW_AUTOLOGIN": "自动登录",
     "LBL_VIEW_CONFIG": "常规设置",

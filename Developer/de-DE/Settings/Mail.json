@@ -11,8 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Zeige dem aktuellen Benutzer zugeordnete E-Mail-Konten",
     "LBL_NUMBER_UNREAD_EMAILS": "Zeige Anzahl der ungelesenen E-Mails",
     "LBL_MAIL_ICON_CONFIG": "E-Mail Icon",
-    "LBL_ADD_SIGNATURE": "Signature hinzufügen",
-    "LBL_SIGNATURE": "Signatur",
     "LBL_SAVED_SIGNATURE": "Gespeicherte Signatur",
     "LBL_VIEW_AUTOLOGIN": "Automatischer Login",
     "LBL_VIEW_CONFIG": "Allgemeine Konfiguration",

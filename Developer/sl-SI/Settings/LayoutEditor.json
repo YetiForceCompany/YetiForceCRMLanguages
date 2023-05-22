@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Mnogo na mnogo",
     "PLL_DEPENDENTS_LIST": "En na mnogo",
     "PLL_ATTACHMENTS": "Priponke",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "Mnogo na mnogo - z ločevanjem podatkov",
     "PLL_ADD": "Dodaj",
     "PLL_SELECT": "Izberi",
@@ -214,6 +216,7 @@
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Vrednost",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Poudarki",
     "LBL_EDIT_MANDATORY_INFO": "Velja za celoten zapis. Če je izbrana možnost \"Ne\", se zapis lahko shrani brez kakršnih koli vrstic inventarja.",
     "MultiDomain": "Domain multi select",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group"
+    "Group": "Group",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

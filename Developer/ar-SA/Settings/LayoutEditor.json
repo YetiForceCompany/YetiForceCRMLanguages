@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "Many to many",
     "PLL_DEPENDENTS_LIST": "One to many",
     "PLL_ATTACHMENTS": "Attachments",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "Many to many - With separation of data",
     "PLL_ADD": "Add",
     "PLL_SELECT": "Select",
@@ -214,6 +216,7 @@
     "RangeTime": "Range time",
     "LBL_HEADER_TYPE_VALUE": "Value",
     "LBL_HEADER_TYPE_PROGRESS": "Progress bar",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Highlights",
     "LBL_EDIT_MANDATORY_INFO": "Applies to the entire record. If 'No' is selected, the record can be saved without any inventory lines.",
     "MultiDomain": "Domain multi select",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "كافة المجموعات",
     "LBL_ALL_GROUPS_INFO": "عندما لا يتم تحديد الخيار فإنه يعرض المجموعات التي يمكن الوصول إليها فقط استناداً إلى الوحدات المختارة في لوحة المجموعة",
-    "Group": "المجموعة"
+    "Group": "المجموعة",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Block Name already exists",

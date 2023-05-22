@@ -105,6 +105,8 @@
     "PLL_RELATED_LIST": "چند به چند",
     "PLL_DEPENDENTS_LIST": "یک به چند",
     "PLL_ATTACHMENTS": "پیوست‌‌‌‌‌‌ها",
+    "PLL_EMAILS": "Email history",
+    "PLL_MULTI_REFERENCE": "Related field M:M",
     "PLL_SPLITED_RELATED_LIST": "چند به چند - با جداسازی داده‌ها",
     "PLL_ADD": "افزودن",
     "PLL_SELECT": "انتخاب",
@@ -214,6 +216,7 @@
     "RangeTime": "محدوده زمان",
     "LBL_HEADER_TYPE_VALUE": "مقدار",
     "LBL_HEADER_TYPE_PROGRESS": "نوار پیشرفت",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "سایه روشنها",
     "LBL_EDIT_MANDATORY_INFO": "به کل پرونده اعمال می شود اگر \"نه\" انتخاب شود ، رکورد می تواند بدون خط موجودی انبار ذخیره شود.",
     "MultiDomain": "دامنه چند انتخابی",
@@ -250,7 +253,8 @@
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "گروه"
+    "Group": "گروه",
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "نام بلوک در حال حاضر موجود است",
