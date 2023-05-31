@@ -274,7 +274,8 @@
     "LBL_ALL_ATTACHMENTS": "wszystkie załączniki",
     "LBL_LATEST_ATTACHMENTS": "najnowsze załączniki",
     "LBL_MEETING_URL": "Adres URL spotkania",
-    "LBL_SMS_PROVIDER": "Dostawca SMS"
+    "LBL_SMS_PROVIDER": "Dostawca SMS",
+    "LBL_ADDRESS_EMAILS_INFO": "Możesz użyć zwykłego adresu e-mail lub specjalnej zmiennej. Przykłady:\ntest@test.com,\n$(record : email)$,\n$(relatedRecord : created_user_id|email1|Users)$,\n$(roleEmails : 1)$"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

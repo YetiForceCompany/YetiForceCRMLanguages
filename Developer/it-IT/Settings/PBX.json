@@ -12,6 +12,7 @@
     "LBL_SECRET_KEY": "Chiave segreta",
     "LBL_OUTBOUND_CONTEXT": "Contesto di uscita",
     "LBL_HTTP_LISTENER_PORT": "Porta d'ascolto HTTP",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
     "LBL_PBX_DEFAULT": "Predefinito",
     "LBL_PBX_BASE": "Base (predefinita nel browser)"
   },

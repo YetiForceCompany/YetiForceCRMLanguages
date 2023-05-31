@@ -25,8 +25,6 @@
     "LBL_CARS": "Samochody",
     "PLL_DRAFT": "Wersja robocza",
     "PLL_CANCELLED": "Anulowano",
-    "LBL_USER_NAME": "Nazwa użytkownika",
-    "LBL_GROUP_NAME": "Nazwa grupy",
     "LBL_WORK_DAYS": "Dni robocze",
     "LBL_RESERVATION_EXISTS": "W tym terminie istnieje już następująca rezerwacja: "
   },
