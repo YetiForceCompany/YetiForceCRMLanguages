@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "لیست واحدهای پولی پشتیبانی شده توسط این بانک",
     "LBL_CURRENCIES_UNSUPPORTED": "لیست واحدهای پولی پشتیبانی نشده توسط این بانک",
     "LBL_SET_BANK_OK": "بانک فعال با موفقیت ذخیره شد.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "بانک فعال ذخیره نشد.",
     "LBL_INFORMATIONS": "اطلاعات",
     "LBL_WARNING": "هشدار!",

@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Crear y Editar",
     "LBL_DETAIL_VIEW": "Vista de detalle y vista de resumen",
     "LBL_QUICK_CREATE_VIEW": "Creación rápida",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Entero",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Casilla de verificación",

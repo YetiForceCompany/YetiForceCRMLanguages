@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "作成と編集",
     "LBL_DETAIL_VIEW": "詳細ビューと概要ビュー",
     "LBL_QUICK_CREATE_VIEW": "クイック作成",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "整数",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "チェックボックス",

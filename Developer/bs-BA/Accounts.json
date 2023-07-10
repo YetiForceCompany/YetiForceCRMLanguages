@@ -79,7 +79,11 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "Klijenti po industriji",
     "Overdue Activities": "Zakašnjele aktivnosti",
     "LBL_NEGLECTED_ACCOUNTS": "Zanemareni Klijenti",
-    "LBL_NEW_ACCOUNTS": "Novi Klijenti"
+    "LBL_NEW_ACCOUNTS": "Novi Klijenti",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Naziv Klijenta već postoji. Želite li stvoriti duplikat zapisa?",

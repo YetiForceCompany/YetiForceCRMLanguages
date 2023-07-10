@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Изменить",
     "LBL_DETAIL_VIEW": "Детальный вид",
     "LBL_QUICK_CREATE_VIEW": "Быстрое создание",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Целое число",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Чекбокс",

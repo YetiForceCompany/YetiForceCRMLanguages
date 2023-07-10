@@ -11,6 +11,7 @@
     "FL_BANK_NAME": "Название банка",
     "FL_STATUS": "Статус",
     "FL_MULTICOMPANY": "Департамент",
+    "FL_RELATED_TO": "Related to",
     "PLL_DRAFT": "Черновик",
     "PLL_ACTIVE": "Активно",
     "PLL_INACTIVE": "Неактивно"

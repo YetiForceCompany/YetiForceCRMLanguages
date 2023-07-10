@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "ایجاد و ویرایش",
     "LBL_DETAIL_VIEW": "نمای جزئیات و نمای خلاصه",
     "LBL_QUICK_CREATE_VIEW": "ایجاد سریع",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "عدد صحیح",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "چک باکس",

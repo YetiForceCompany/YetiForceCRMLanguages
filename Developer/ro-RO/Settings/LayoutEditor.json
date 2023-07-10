@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Creaza & Modifica",
     "LBL_DETAIL_VIEW": "Vizualizare detaliata & Vizualizare sumar",
     "LBL_QUICK_CREATE_VIEW": "Creare rapida",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Integer",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Checkbox",

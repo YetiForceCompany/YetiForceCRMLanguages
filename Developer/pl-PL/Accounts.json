@@ -79,7 +79,11 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "Kontrahenci według branży",
     "Overdue Activities": "Sprawy zaległe",
     "LBL_NEGLECTED_ACCOUNTS": "Zaniedbani kontrahenci",
-    "LBL_NEW_ACCOUNTS": "Nowi kontrahenci"
+    "LBL_NEW_ACCOUNTS": "Nowi kontrahenci",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Nazwa kontrahenta 2",
+    "FL_ACCOUNT_THIRD_NAME": "Nazwa kontrahenta 2",
+    "FL_ACCOUNT_SHORT_NAME": "Nazwa skrócona"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Taki kontrahent istnieje. Czy chcesz utworzyć duplikat?",

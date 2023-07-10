@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "此银行支持的货币列表",
     "LBL_CURRENCIES_UNSUPPORTED": "此银行不支持的货币列表",
     "LBL_SET_BANK_OK": "活跃银行已保存.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "未能设置活跃银行.",
     "LBL_INFORMATIONS": "信息",
     "LBL_WARNING": "警告！!",

@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Anlegen & Bearbeiten",
     "LBL_DETAIL_VIEW": "Detailsicht & Kompaktsicht",
     "LBL_QUICK_CREATE_VIEW": "Schnellanlegen",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Integer",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Checkbox",

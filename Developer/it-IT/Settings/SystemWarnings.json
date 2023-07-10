@@ -64,6 +64,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Un aggiornamento delle lingue installate sul tuo sistema CRM è disponibile. Vai alla Gestione della Lingua e clicca il pulsante d'aggiornamento.",
     "LBL_UPDATER_DESC": "Sono disponibili aggiornamenti per la versione di sistema. Ti consigliamo di aggiornare.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Rilevati %s errori inviando email nelle ultime 24 ore. Sei pregato di controllare le tue credenziali SMTP. ",
-    "Mail": "Posta"
+    "Mail": "Posta",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

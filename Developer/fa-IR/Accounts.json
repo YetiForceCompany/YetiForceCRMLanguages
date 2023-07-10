@@ -79,7 +79,11 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "حساب‌ها براساس صنعت",
     "Overdue Activities": "فعالیت‌های با تاخیر",
     "LBL_NEGLECTED_ACCOUNTS": "حساب‌های غافل مانده",
-    "LBL_NEW_ACCOUNTS": "حساب‌های جدید"
+    "LBL_NEW_ACCOUNTS": "حساب‌های جدید",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "نام حساب هم اکنون موجود میباشد. آیا میخواهید یک رکورد تکراری ایجاد نمایید؟",

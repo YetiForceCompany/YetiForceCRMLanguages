@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Criar & Editar",
     "LBL_DETAIL_VIEW": "Ver Detalhes & Ver Resumos",
     "LBL_QUICK_CREATE_VIEW": "Criação Rápida",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Número inteiro",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Caixa de verificação",

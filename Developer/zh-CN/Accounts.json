@@ -79,7 +79,11 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "按行业分类账户",
     "Overdue Activities": "逾期活动",
     "LBL_NEGLECTED_ACCOUNTS": "已忽略的账户",
-    "LBL_NEW_ACCOUNTS": "新建账户"
+    "LBL_NEW_ACCOUNTS": "新建账户",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "帐户名称已存在,您想要创建重复记录吗？?",

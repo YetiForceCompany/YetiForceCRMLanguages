@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Creazione e modifica",
     "LBL_DETAIL_VIEW": "Sommario e dettagli",
     "LBL_QUICK_CREATE_VIEW": "Creazione veloce",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Numero intero",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Opzione di spunta",

@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Створити та редагувати",
     "LBL_DETAIL_VIEW": "Повна інформація та основна інформація ",
     "LBL_QUICK_CREATE_VIEW": "Швидке створення",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Ціле число",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Прапорець",

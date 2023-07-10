@@ -64,6 +64,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Dostupno je ažuriranje jezika instaliranih na vašem CRM sistemu. Idite na Upravljanje jezikom i kliknite gumb za ažuriranje.",
     "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Otkrivene su %s greške prilikom slanja e-pošte u posljednja 24 sata. Provjerite svoje SMTP akreditive.",
-    "Mail": "Pošta"
+    "Mail": "Pošta",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

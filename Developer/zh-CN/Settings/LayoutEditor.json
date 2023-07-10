@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "创建与编辑",
     "LBL_DETAIL_VIEW": "详细视图和摘要视图",
     "LBL_QUICK_CREATE_VIEW": "快速创建",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "整数",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "复选框",

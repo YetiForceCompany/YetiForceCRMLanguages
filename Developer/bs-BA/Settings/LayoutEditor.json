@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Stvori i uredi",
     "LBL_DETAIL_VIEW": "Detaljan prikaz i rezime",
     "LBL_QUICK_CREATE_VIEW": "Brzo kreiranje",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Cijeli broj",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Kvačica",

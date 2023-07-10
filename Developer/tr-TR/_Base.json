@@ -1414,6 +1414,8 @@
     "FL_MAGENTO_ID": "Magento Id",
     "FL_WOOCOMMERCE_SERVER": "WooCommerce server",
     "FL_WOOCOMMERCE_ID": "WooCommerce Id",
+    "FL_COMARCH_SERVER": "Comarch server",
+    "FL_COMARCH_ID": "Comarch Id",
     "LBL_COMPLETE_FIELDS": "Complete fields",
     "LBL_DATA_FROM_RECORD": "Data from record",
     "LBL_DATA_FROM_SOURCE": "Data from source",
@@ -1526,7 +1528,8 @@
     "LBL_CURRENCY_CONVERTER": "Currency converter",
     "LBL_OK": "Tamam",
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
-    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option"
+    "LBL_ATTACH_DOCUMENT_DESC": "When you select this option, it will attach PDF to the records. Send email action is omitted with this option",
+    "LBL_FILTER_EMPTY_VALUE": "Sadece boş değer"
   },
   "js": {
     "JS_APPROVE": "Onayla",

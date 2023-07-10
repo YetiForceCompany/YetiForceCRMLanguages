@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Δημιουργία & επεξεργασία",
     "LBL_DETAIL_VIEW": "Προβολή λεπτομερειών & προβολή σύνοψης",
     "LBL_QUICK_CREATE_VIEW": "Γρήγορη δημιουργία",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Ακέραιος",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Checkbox",

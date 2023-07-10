@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Tạo & Chỉnh sửa",
     "LBL_DETAIL_VIEW": "Xem chi tiết và tóm tắt",
     "LBL_QUICK_CREATE_VIEW": "Tạo nhanh",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Số nguyên",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Hộp kiểm",

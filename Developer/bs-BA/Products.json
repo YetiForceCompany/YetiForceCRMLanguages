@@ -103,6 +103,7 @@
     "PLL_TYPE_GROUPED": "Grupisano",
     "PLL_TYPE_VARIABLE": "Varijabla",
     "PLL_TYPE_VARIATION": "Varijacija",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Zapis je povezan sa drugim zapisom, potvrdite radnju"
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Zapis je povezan sa drugim zapisom, potvrdite radnju",
+    "LBL_COMARCH_BLOCK": "Comarch"
   }
 }

@@ -76,10 +76,14 @@
     "FL_TAXES": "Vergiler",
     "FL_AVAILABLE_TAXES": "Mevcut vergiler",
     "History": "Tarihçe",
-    "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
+    "LBL_ACCOUNTS_BY_INDUSTRY": "Sanayi tarafından hesap",
     "Overdue Activities": "Geciken Aktiviteler",
     "LBL_NEGLECTED_ACCOUNTS": "Hesap silindi",
-    "LBL_NEW_ACCOUNTS": "Yeni Hesaplar"
+    "LBL_NEW_ACCOUNTS": "Yeni Hesaplar",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Hesap adı zaten var. Yinelenen bir kayıt oluşturmak istiyor musunuz? ",

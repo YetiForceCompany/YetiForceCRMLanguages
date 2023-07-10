@@ -103,6 +103,7 @@
     "PLL_TYPE_GROUPED": "Grupowy",
     "PLL_TYPE_VARIABLE": "Zmienny",
     "PLL_TYPE_VARIATION": "Wariant",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Rekord jest powiązany z innym rekordem, potwierdź akcję"
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Rekord jest powiązany z innym rekordem, potwierdź akcję",
+    "LBL_COMARCH_BLOCK": "Comarch"
   }
 }

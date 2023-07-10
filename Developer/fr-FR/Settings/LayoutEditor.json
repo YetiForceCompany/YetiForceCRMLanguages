@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Créer & Editer",
     "LBL_DETAIL_VIEW": "Vues Détail & Résumé",
     "LBL_QUICK_CREATE_VIEW": "Création rapide",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Entier",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Case à cocher",

@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Létrehozás/szerkesztés",
     "LBL_DETAIL_VIEW": "Detail view & Summary view",
     "LBL_QUICK_CREATE_VIEW": "Gyors létrehozás",
+    "LBL_QUICK_EDIT_VIEW": "Quick edit",
     "LBL_INTEGER": "Egész",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Jelölőnégyzet",

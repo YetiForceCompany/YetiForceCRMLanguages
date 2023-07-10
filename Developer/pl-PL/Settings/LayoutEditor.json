@@ -201,6 +201,7 @@
     "LBL_EDIT_VIEW": "Tworzenie i edycja",
     "LBL_DETAIL_VIEW": "Podgląd",
     "LBL_QUICK_CREATE_VIEW": "Szybkie tworzenie",
+    "LBL_QUICK_EDIT_VIEW": "Szybka edycja",
     "LBL_INTEGER": "Liczba całkowita",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Pole zaznaczenia",

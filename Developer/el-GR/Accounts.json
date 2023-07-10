@@ -79,7 +79,11 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "Λογαριασμοί κατά κλάδο",
     "Overdue Activities": "Ληξιπρόθεσμες δραστηριότητες",
     "LBL_NEGLECTED_ACCOUNTS": "Παραμελημένοι Πελάτες",
-    "LBL_NEW_ACCOUNTS": "Νέοι Λογαριασμοί"
+    "LBL_NEW_ACCOUNTS": "Νέοι Λογαριασμοί",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Το όνομα του πελάτη υπάρχει ήδη. Θέλετε να δημιουργήσετε μία διπλότυπη εγγραφή;",

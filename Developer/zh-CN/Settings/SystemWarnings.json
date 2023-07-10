@@ -64,6 +64,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "CRM 系统上安装的语言现在可以更新了。请前往“语言管理”然后单击更新按钮。",
     "LBL_UPDATER_DESC": "您的系统版本可以更新。我们建议更新。",
     "LBL_CHECK_ERROR_MAIL_DESC": "在过去 24 小时发送邮件时检测到 %s 个错误。请检查您的 SMTP 凭据。 ",
-    "Mail": "邮件"
+    "Mail": "邮件",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

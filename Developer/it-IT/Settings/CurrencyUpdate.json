@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "Elenco delle valute supportate da questa banca",
     "LBL_CURRENCIES_UNSUPPORTED": "Elenco delle valute non supportate da questa banca",
     "LBL_SET_BANK_OK": "Banca attiva salvata",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Impossibile impostare la banca attiva",
     "LBL_INFORMATIONS": "Informazioni",
     "LBL_WARNING": "Avviso!",
