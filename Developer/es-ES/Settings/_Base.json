@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logotipo de la empresa visible en el sistema",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logotipo de la empresa visible en el panel de inicio de sesión",
     "LBL_ADD_CUSTOM_FIELD": "Añadir campo",
-    "LBL_FIELD_NAME": "Nombre de la columna en BBDD",
     "LBL_HEIGHT_LOGO": "Altura del logotipo",
     "LBL_SECURITY": "Información de seguridad",
     "LBL_LOG_ACCESS_TO_RECORD": "Log acceso por Registro",

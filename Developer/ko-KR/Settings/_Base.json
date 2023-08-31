@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "시스템에서 회사로고 보이기",
     "LBL_COMPANY_LOGO_IN_LOGIN": "로그인 패널에서 회사로고 보이기",
     "LBL_ADD_CUSTOM_FIELD": "필드항목 추가",
-    "LBL_FIELD_NAME": "필드항목명",
     "LBL_HEIGHT_LOGO": "로고 높이",
     "LBL_SECURITY": "보안",
     "LBL_LOG_ACCESS_TO_RECORD": "기록에 대한 액세스 권한 없음",

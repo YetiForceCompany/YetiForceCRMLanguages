@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Ελαχιστοποίηση μπάρας",
     "LBL_CREATEMAIL": "Αποστολή email",
     "LBL_ADD_RELATION": "Προσθήκη σχέσης",
-    "LBL_ADD_DOCUMENTS": "Προσθήκη εγγράφων",
     "LBL_ADD_TO_MY_CALENDAR": "Προσθήκη στο ημερολόγιο",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Παρουσιάστηκε σφάλμα κατά την εισαγωγή",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Το αρχείο έχει εισαχθεί. Αριθμός εισαγόμενων εγγραφών: %s",

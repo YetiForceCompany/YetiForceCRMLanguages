@@ -26,7 +26,8 @@
     "LBL_COPY_FROM_INVOICE": "Copie de facture initiale",
     "LBL_INVOICE_INFO": "Champs de la facture initiale - avant corrections.",
     "LBL_AFTER_INVOICE_INFO": "À quoi devrait ressembler la facture finale après correction.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Zones de facture à corriger. Copiez toutes les zones de la facture initiale et modifiez les valeurs au besoin."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Zones de facture à corriger. Copiez toutes les zones de la facture initiale et modifiez les valeurs au besoin.",
+    "FL_ISSUE_TIME": "Correcting invoice date"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Sélectionnez la facture à corriger"

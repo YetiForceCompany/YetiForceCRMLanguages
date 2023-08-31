@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Скрыть",
     "LBL_CREATEMAIL": "Написать Письмо",
     "LBL_ADD_RELATION": "Добавить связь",
-    "LBL_ADD_DOCUMENTS": "Добавить документы",
     "LBL_ADD_TO_MY_CALENDAR": "Добавить в мой календарь",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Произошла ошибка при импорте",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",

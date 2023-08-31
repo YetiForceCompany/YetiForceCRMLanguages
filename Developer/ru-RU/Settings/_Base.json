@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Логотип компании, видимый в системе.",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Логотип компании, видимый на странице входа",
     "LBL_ADD_CUSTOM_FIELD": "Добавить Поле",
-    "LBL_FIELD_NAME": "Название Поля",
     "LBL_HEIGHT_LOGO": "Высота логотипа",
     "LBL_SECURITY": "Безопасность",
     "LBL_LOG_ACCESS_TO_RECORD": "Нет доступа к записям",

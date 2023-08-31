@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Мінімізувати панель",
     "LBL_CREATEMAIL": "Надіслати ел. листа",
     "LBL_ADD_RELATION": "Додати зв'язок",
-    "LBL_ADD_DOCUMENTS": "Додати документи",
     "LBL_ADD_TO_MY_CALENDAR": "Додати до мого календаря",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Сталася помилка під час імпорту",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Файл було імпортовано. Кількість імпортованих записів: %s",

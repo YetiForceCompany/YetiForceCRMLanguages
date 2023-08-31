@@ -86,6 +86,7 @@
     "LBL_IMPORT_STOCK_ALERT": "Zmiana stanu magazynowego wymaga weryfikacji i akceptacji, dopiero wtedy stan magazynowy ulegnie zmianie.",
     "LBL_WOOCOMMERCE": "WooCommerce",
     "FL_PRODUCT_TYPE": "Typ produktu",
+    "FL_PRODUCT_CODE": "Kod produktu",
     "FL_SHORT_DESCRIPTION": "Krótki opis",
     "FL_TAGS": "Tagi",
     "FL_ALIAS": "Alias",

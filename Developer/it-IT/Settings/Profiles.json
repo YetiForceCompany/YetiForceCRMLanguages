@@ -99,9 +99,9 @@
     "RecordActivityNotifier": "Notificatore dell'attività del registro",
     "WorkflowTriggerWhenRecordIsBlocked": "Innesco del flusso di lavoro al blocco del registro",
     "LeaderCanManageGroupMembership": "Il leader può gestire l'appartenenza al gruppo",
-    "TilesView": "Tiles view",
-    "CalendarExtraSources": "Calendar - Additional data sources",
-    "CalendarExtraSourcesCreate": "Calendar - Create additional data sources"
+    "TilesView": "Vista pannelli",
+    "CalendarExtraSources": "Calendario - Fonti di dati aggiuntivi",
+    "CalendarExtraSourcesCreate": "Calendario - Crea fonti di dati aggiuntive"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profilo eliminato con successo"

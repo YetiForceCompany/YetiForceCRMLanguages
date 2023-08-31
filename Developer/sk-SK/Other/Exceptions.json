@@ -43,6 +43,7 @@
     "ERR_ITERATIONS_LIMIT_EXCEEDED": "Prekročený iteračný limit.",
     "ERR_CANNOT_PARSE_SERVER_RESPONSE": "Chyba pri analýze odpovedí servera",
     "ERR_CANNOT_CONNECT_TO_REMOTE": "Chyba pri pripájaní k vzdialenému serveru",
+    "ERR_ERROR_WHILE_SENDING_DATA": "Chyba pri odosielaní údajov, pravdepodobne došlo k chybe/chýbajú údaje.",
     "ERR_NO_INTERNET_CONNECTION": "Žiadne internetové pripojenie",
     "ERR_OBJECT_MUST_HAVE_INTERFACE": "Objekt musí mať rozhranie % s",
     "ERR_CLASS_NOT_FOUND": "Class %s not found",
@@ -55,6 +56,9 @@
     "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code",
     "ERR_FUNCTION_NOT_FOUND_IN_CLASS": "Function %s not found in class %s object",
     "ERR_FILE_SIZE_EXCEEDED": "Veľkosť súboru bola prekročená",
-    "ERR_FILE_TYPE": "Nesprávny typ súboru"
+    "ERR_FILE_TYPE": "Nesprávny typ súboru",
+    "ERR_REQUIRED_VALUE_MISSING": "The field value is missing or is not supported",
+    "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Problems or errors have been detected in this record. Please review the following message and modify the data accordingly.",
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration."
   }
 }

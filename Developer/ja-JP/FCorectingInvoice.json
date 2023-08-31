@@ -26,7 +26,8 @@
     "LBL_COPY_FROM_INVOICE": "初期請求書からコピー",
     "LBL_INVOICE_INFO": "初期請求書フィールド - 訂正前。",
     "LBL_AFTER_INVOICE_INFO": "修正後の最終請求書はどのようになりますか?",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "修正する請求項目。最初の請求書からすべての項目をコピーし、必要に応じて値を変更します。"
+    "LBL_AFTER_INVOICE_INFO_EDIT": "修正する請求項目。最初の請求書からすべての項目をコピーし、必要に応じて値を変更します。",
+    "FL_ISSUE_TIME": "Correcting invoice date"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "修正する請求書を選択してください"

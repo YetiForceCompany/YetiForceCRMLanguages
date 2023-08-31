@@ -21,9 +21,16 @@
     "LBL_SYNC_PRODUCTS": "Synchronizuj produkty",
     "LBL_DIRECTION_PRODUCTS": "Kierunek synchronizacji produktów",
     "LBL_PRODUCTS_LIMIT": "Limit pobierania produktów",
+    "LBL_SYNC_INVOICES": "Synchronizuj faktury",
+    "LBL_DIRECTION_INVOICES": "Kierunek synchronizacji faktur",
+    "LBL_INVOICES_LIMIT": "Limit pobierania faktur",
+    "LBL_SYNC_COR_INVOICES": "Synchronizuj faktury korekty",
+    "LBL_DIRECTION_COR_INVOICES": "Kierunek synchronizacji faktur korekt",
+    "LBL_COR_INVOICES_LIMIT": "Limit pobierania faktur korekt",
     "LBL_DIR_API_TO_CRM": "Jednokierunkowa z Comarch do YetiForce",
     "LBL_DIR_CRM_TO_API": "Jednokierunkowa z YetiForce do Comarch",
     "LBL_DIR_CRM_API": "Dwukierunkowa",
-    "BTN_RECORD_INFO": "Pokaż informacje i konfigurację Comarch"
+    "BTN_RECORD_INFO": "Pokaż informacje i konfigurację Comarch",
+    "LBL_EDIT_CONFIG": "Informacje i konfiguracja Comarch"
   }
 }

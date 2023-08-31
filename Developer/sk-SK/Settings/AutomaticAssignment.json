@@ -52,7 +52,9 @@
     "FL_STATE": "Stav",
     "PLL_ACTIVE": "Aktívny",
     "PLL_INACTIVE": "Neaktívny",
-    "LBL_DUPLICATE": "Duplikát.\nPredmet vstupu musí byť unikátny v rámci modulu."
+    "LBL_DUPLICATE": "Duplikát.\nPredmet vstupu musí byť unikátny v rámci modulu.",
+    "FL_USER_WORKING_HOURS": "Pracovná doba",
+    "LBL_USER_SELECTION_CONDITIONS": "Výberom tejto možnosti sa overí pracovný čas definovaný v používateľskom paneli. Používatelia budú k dispozícii, ak je čas vytvorenia záznamu medzi `Deň začína o` a `Deň končí o`."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Are you sure you want to change record state?",

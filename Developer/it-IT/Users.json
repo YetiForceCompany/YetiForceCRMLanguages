@@ -421,9 +421,9 @@
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Aggiungi membri del gruppo",
     "FL_WAPRO_USER": "Identificativo Utente di WAPRO ERP",
     "FL_MAIL_POPUP": "Apri il client della tua email in una nuova finestra",
-    "FL_RECORD_LIST_FILTER": "Record list filter",
-    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
-    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
+    "FL_RECORD_LIST_FILTER": "Filtro elenco registro",
+    "PLL_DEFAULT_FROM_LIST_VIEW": "Predefinito dalla vista a elenco",
+    "PLL_LAST_SELECTED_IN_LIST": "Ultimo selezionato nella vista a elenco"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Quando un Utente viene eliminato, l'utente sarà contrassegnato come \"Inattivo\" e nessun nuovo record può essere assegnato all'Utente, e l'utente non sarà in grado di effettuare il login. Sei sicuro di voler eliminare?",

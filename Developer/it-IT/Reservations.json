@@ -26,7 +26,7 @@
     "PLL_DRAFT": "Bozza",
     "PLL_CANCELLED": "Annullato",
     "LBL_WORK_DAYS": "Giorni lavorativi",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_RESERVATION_EXISTS": "Esiste già una prenotazione per la seguente data: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caratteri consentiti: [0-9]",

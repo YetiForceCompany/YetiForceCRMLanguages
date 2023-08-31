@@ -26,7 +26,8 @@
     "LBL_COPY_FROM_INVOICE": "نسخه‌برداری از فاکتور اولیه",
     "LBL_INVOICE_INFO": "فیلدهای فاکتور اولیه - قبل از اصلاح.",
     "LBL_AFTER_INVOICE_INFO": "چگونگی نحوه به نمایش در آمدن فاکتور نهایی بعد از اصلاحیه.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "فیلدهای فاکتور برای اصلاح. همه قسمت ها را از فاکتور اولیه کپی کرده و در صورت لزوم مقادیر را تغییر دهید."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "فیلدهای فاکتور برای اصلاح. همه قسمت ها را از فاکتور اولیه کپی کرده و در صورت لزوم مقادیر را تغییر دهید.",
+    "FL_ISSUE_TIME": "Correcting invoice date"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "انتخاب فاکتور‌برای اصلاح"

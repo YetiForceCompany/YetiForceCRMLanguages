@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "Các trường tiêu chuẩn",
     "LBL_ADVANCED_BLOCK_FIELDS": "Trường khối nâng cao",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "Thêm trường khối nâng cao",
-    "LBL_MAX_LENGTH_TEXT": "Độ dài văn bản tối đa",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Max display text length",
     "LBL_MAX_WIDTH_COLUMN": "Độ rộng cột [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Giá trị phần trăm tương quan với độ rộng cửa sổ.",
     "LBL_TABINDEX": "Trình tự phím tab",
@@ -255,7 +255,9 @@
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
     "Group": "Group",
-    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M",
+    "LBL_MAXIMUM_LENGTH": "Maximum value length",
+    "LBL_MINIMUM_LENGTH": "Minimum value length"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Tên khối đã tồn tại",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "Thông tin trường đã được lưu",
     "JS_FIELD_SEQUENCE_UPDATED": "Trình tự trường đã được cập nhật",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "Độ dài có thể nhỏ hơn hoặc bằng",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Length should be more than or equal to",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "Không có trường bị tắt",
     "JS_NOT_ALLOWED": "không được phép",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "Số thập phân phải trong khoảng 2-5",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "Đã sao chép vào clipboard",
     "JS_NOTIFY_COPY_TITLE": "Văn bản",
     "JS_EXIST_PICKLIST_NAME": "Tên này đã được dùng. Bạn có muốn lưu nó như là mục chọn chia sẻ?",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Changing the column length depending on the database size may take a while. If you changed the column length, please make sure you want to continue this process. You can only increase length"
   }
 }

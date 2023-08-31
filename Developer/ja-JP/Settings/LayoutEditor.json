@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "標準フィールド",
     "LBL_ADVANCED_BLOCK_FIELDS": "高度なブロックフィールド",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "高度なブロックフィールドを追加",
-    "LBL_MAX_LENGTH_TEXT": "最大テキストの長さ",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Max display text length",
     "LBL_MAX_WIDTH_COLUMN": "列の幅 [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "ウィンドウの幅に対するパーセンテージ値。",
     "LBL_TABINDEX": "タブキーのシーケンス",
@@ -255,7 +255,9 @@
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
     "Group": "Group",
-    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M",
+    "LBL_MAXIMUM_LENGTH": "Maximum value length",
+    "LBL_MINIMUM_LENGTH": "Minimum value length"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "ブロック名は既に存在します",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "フィールドの詳細を保存しました",
     "JS_FIELD_SEQUENCE_UPDATED": "フィールドシーケンスが更新されました",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "長さは以下でなければなりません",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Length should be more than or equal to",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "無効なフィールドはありません",
     "JS_NOT_ALLOWED": "は許可されていません",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "小数は 2 から 5 の範囲でなければなりません",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "クリップボードにコピーしました",
     "JS_NOTIFY_COPY_TITLE": "テキスト",
     "JS_EXIST_PICKLIST_NAME": "この名前は既に使用されています。共有選択リストとして保存しますか？",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Changing the column length depending on the database size may take a while. If you changed the column length, please make sure you want to continue this process. You can only increase length"
   }
 }

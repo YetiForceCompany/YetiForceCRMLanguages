@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "Campos padrões",
     "LBL_ADVANCED_BLOCK_FIELDS": "Campos bloco avançado",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "Adicionar campos de bloco de avançados",
-    "LBL_MAX_LENGTH_TEXT": "Comprimento máximo do texto",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Max display text length",
     "LBL_MAX_WIDTH_COLUMN": "Largura da coluna [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "O valor percentual em relação à largura da janela.",
     "LBL_TABINDEX": "Aba de sequência de teclas",
@@ -255,7 +255,9 @@
     "LBL_ALL_GROUPS": "Todos os Grupos",
     "LBL_ALL_GROUPS_INFO": "Quando a opção não está selecionada, ela exibe apenas grupos acessíveis baseados nos módulos selecionados no painel de grupos",
     "Group": "Grupos",
-    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M"
+    "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M",
+    "LBL_MAXIMUM_LENGTH": "Maximum value length",
+    "LBL_MINIMUM_LENGTH": "Minimum value length"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nome do Bloco já existe",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "Detalhes do Campo Salvo",
     "JS_FIELD_SEQUENCE_UPDATED": "Sequência de Campos Atualizada",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "O comprimento deve ser menor ou igual a",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Length should be more than or equal to",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "Nenhum Campo Inativo",
     "JS_NOT_ALLOWED": "não são permitidos",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "Decimal deve estar no intervalo de 2 a 5",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "Copiado para área de transferência",
     "JS_NOTIFY_COPY_TITLE": "Texto",
     "JS_EXIST_PICKLIST_NAME": "Este nome já está em uso. Deseja salvá-lo como lista de opções compartilhada?",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Are you sure that you want to disable the field?",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Changing the column length depending on the database size may take a while. If you changed the column length, please make sure you want to continue this process. You can only increase length"
   }
 }

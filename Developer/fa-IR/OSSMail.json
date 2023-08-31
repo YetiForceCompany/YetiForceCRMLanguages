@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "نوار کوچک شده",
     "LBL_CREATEMAIL": "ارسال ایمیل",
     "LBL_ADD_RELATION": "افزودن رابطه",
-    "LBL_ADD_DOCUMENTS": "افزودن سند",
     "LBL_ADD_TO_MY_CALENDAR": "افزودن به تقویم من",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "بروز خطا هنگام وارد کردن اطلاعات",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",

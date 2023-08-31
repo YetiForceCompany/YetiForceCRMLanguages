@@ -52,7 +52,9 @@
     "FL_STATE": "Kanton/Entitet",
     "PLL_ACTIVE": "Aktivan",
     "PLL_INACTIVE": "Neaktivan",
-    "LBL_DUPLICATE": "Duplikat.\nPredmet unosa mora biti jedinstven unutar modula."
+    "LBL_DUPLICATE": "Duplikat.\nPredmet unosa mora biti jedinstven unutar modula.",
+    "FL_USER_WORKING_HOURS": "Working hours",
+    "LBL_USER_SELECTION_CONDITIONS": "Selecting this option will verify the working hours defined in the user panel. Users will be available if the record creation time is between `Day start at` and `Day end at`."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Jeste li sigurni da želite promijeniti stanje zapisa?",

@@ -77,7 +77,7 @@
     "skipped": "Pominięte rekordy",
     "failed": "Niepoprawne rekordy",
     "LBL_SELECT_FILE": "Wybierz plik do zaimportowania",
-    "LBL_MERGE_TYPE_INFO": "Pomiń: pomija istniejące już rekordy - nie aktualizuje ich.\n\nNadpisz: nadpisuje istniejący rekord danymi z pliku lub uzupełnia domyślnymi wartościami jeżeli wymagane wartości w rekordzie i w pliku są puste. Nadpisuje wartości w rekordzie pustymi wartościami z pliku gdy nie są one oznaczone jako wymagane.\n\nPołącz: nadpisuje wartości rekordu wartościami z pliku, jeżeli wartości z pliku nie są puste (jeżeli są zachowuje obecne w rekordzie - nie czyści pola).\n\nUzupełnij: aktualizuje tylko puste pola w rekordzie. Nie nadpisuje wartości z pliku, jeżeli w rekordzie jest jakaś wartość.",
+    "LBL_MERGE_TYPE_INFO": "Pomiń: istniejące rekordy zostaną pominięte i nie zostaną zaktualizowane.\n\nNadpisz: istniejące rekordy zostaną nadpisane danymi z pliku, lub wartościami domyślnymi, jeśli wymagane wartości w rekordzie i pliku są puste. Jeśli wartości nie są oznaczone jako wymagane, zostaną nadpisywane w rekordzie pustymi wartościami z pliku. \n\nScal: wartości rekordów zostaną nadpisane wartościami z pliku, jeśli wartości z pliku nie są puste (jeśli są puste, zachowane zostaną wartości z rekordu). \n\nWypełnij: tylko puste pola w rekordzie zostaną aktualizowane. Wartości z pola nie zostaną nadpisane, jeśli w rekordzie istnieje już wartość.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Importowany plik jest w innym kodowaniu niż wybrano (%s)"
   }
 }

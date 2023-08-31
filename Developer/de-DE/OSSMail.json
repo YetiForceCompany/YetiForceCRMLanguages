@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Minimieren",
     "LBL_CREATEMAIL": "E-Mail senden",
     "LBL_ADD_RELATION": "Modulbeziehung hinzufügen",
-    "LBL_ADD_DOCUMENTS": "Dokumente hinzufügen",
     "LBL_ADD_TO_MY_CALENDAR": "Zu meinem Kalender hinzufügen",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Beim Import ist ein Fehler aufgetreten",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Die Datei wurde importiert. Anzahl importierter Datensätze: %s",

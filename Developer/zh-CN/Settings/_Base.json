@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "公司logo显示在系统中",
     "LBL_COMPANY_LOGO_IN_LOGIN": "公司logo显示在登录面板",
     "LBL_ADD_CUSTOM_FIELD": "添加字段",
-    "LBL_FIELD_NAME": "字段名称",
     "LBL_HEIGHT_LOGO": "Logo高度",
     "LBL_SECURITY": "安全设置",
     "LBL_LOG_ACCESS_TO_RECORD": "没有访问记录",

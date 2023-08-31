@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo société visible dans le système",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo société visible dans la mire de connexion",
     "LBL_ADD_CUSTOM_FIELD": "Ajouter un champ",
-    "LBL_FIELD_NAME": "Nom du champ",
     "LBL_HEIGHT_LOGO": "Hauteur Logo",
     "LBL_SECURITY": "Sécurité",
     "LBL_LOG_ACCESS_TO_RECORD": "Pas d'accès aux enregistrements",

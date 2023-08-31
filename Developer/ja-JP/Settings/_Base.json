@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "システムに会社のロゴが表示されます",
     "LBL_COMPANY_LOGO_IN_LOGIN": "ログインパネルに会社のロゴが表示されます",
     "LBL_ADD_CUSTOM_FIELD": "フィールドを追加",
-    "LBL_FIELD_NAME": "フィールド名",
     "LBL_HEIGHT_LOGO": "ロゴの高さ",
     "LBL_SECURITY": "セキュリティ",
     "LBL_LOG_ACCESS_TO_RECORD": "レコードへのアクセス権限がありません",

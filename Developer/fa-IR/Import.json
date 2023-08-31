@@ -77,7 +77,7 @@
     "skipped": "رکورد‌های صرف‌نظر شده",
     "failed": "رکوردهای ناموفق",
     "LBL_SELECT_FILE": "انتخاب یک فایل برای واردسازی",
-    "LBL_MERGE_TYPE_INFO": "611/5000\nپرش: رکوردهای موجود پرش می شوند و به روز نمی شوند.\n\nبازنویسی: رکوردهای موجود با داده های پرونده رونویسی می شوند یا در صورت خالی بودن مقادیر مورد نیاز در ضبط و پرونده ، مقادیر پیش فرض پر می شوند. در صورت لزوم علامت گذاری نشده ، مقادیر در پرونده با مقادیر خالی از پرونده رونویسی می شوند.\n\nادغام: اگر مقادیر از پرونده خالی نباشد ، مقادیر رکورد با مقادیر از پرونده رونویسی می شوند (اما اگر خالی باشد ، مقادیر مربوط به رکورد نگه داشته می شوند).\n\nپر کنید: فقط قسمتهای خالی در پرونده به روز می شوند. اگر قبلاً یک مقدار موجود در رکورد وجود داشته باشد ، مقادیر مربوط به فیلد رونویسی نمی شوند.",
+    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing records are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "فایل وارد شده دارای کدگذاری (انکودینتگ) متفاوتی با انتخاب شده می‌باشد (%s)"
   }
 }

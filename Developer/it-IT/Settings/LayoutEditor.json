@@ -105,7 +105,7 @@
     "PLL_RELATED_LIST": "Molti a molti",
     "PLL_DEPENDENTS_LIST": "Uno a molti",
     "PLL_ATTACHMENTS": "Allegati",
-    "PLL_EMAILS": "Email history",
+    "PLL_EMAILS": "Storico email",
     "PLL_MULTI_REFERENCE": "Campo correlato M:M",
     "PLL_SPLITED_RELATED_LIST": "Molti a molti - con separatore dati",
     "PLL_ADD": "Aggiungi",
@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "Campi base",
     "LBL_ADVANCED_BLOCK_FIELDS": "Campi estesi",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "Aggiungi campi blocco esteso",
-    "LBL_MAX_LENGTH_TEXT": "Lunghezza massima",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Max display text length",
     "LBL_MAX_WIDTH_COLUMN": "Larghezza colonna [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Larghezza percentuale in relazione alla larghezza della finestra del browser.",
     "LBL_TABINDEX": "Sequenza del tasto Tab",
@@ -201,7 +201,7 @@
     "LBL_EDIT_VIEW": "Creazione e modifica",
     "LBL_DETAIL_VIEW": "Sommario e dettagli",
     "LBL_QUICK_CREATE_VIEW": "Creazione veloce",
-    "LBL_QUICK_EDIT_VIEW": "Quick edit",
+    "LBL_QUICK_EDIT_VIEW": "Modifica rapida",
     "LBL_INTEGER": "Numero intero",
     "LBL_INTEGER_DESC": "",
     "LBL_BOOLEAN": "Opzione di spunta",
@@ -217,7 +217,7 @@
     "RangeTime": "Intervallo di tempo",
     "LBL_HEADER_TYPE_VALUE": "Valore",
     "LBL_HEADER_TYPE_PROGRESS": "Barra di avanzamento",
-    "LBL_HEADER_TYPE_SELECTION_BAR": "Selection bar",
+    "LBL_HEADER_TYPE_SELECTION_BAR": "Barra di selezione",
     "LBL_HEADER_TYPE_HIGHLIGHTS": "Evidenziazioni",
     "LBL_EDIT_MANDATORY_INFO": "Inficia l'intera linea base: se viene scelto \"No\", il record può essere salvato senza alcuna linea di campi estesi",
     "MultiDomain": "Selezione dominio multiplo",
@@ -252,10 +252,12 @@
     "LBL_SHOW_BUTTON_MY_LOCATION": "Mostra il pulsante della mia posizione",
     "LBL_COORDINATE_TYPE": "Tipo di coordinate",
     "LBL_USE_SORTING_FROM_FILTERS": "Considera di ordinare l'elemento selezionato o mantenere l'ordinamento predefinito",
-    "LBL_ALL_GROUPS": "All groups",
-    "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
-    "Group": "Group",
-    "LBL_MULTI_REFERENCE_FIELDS": "Campo correlato M:M"
+    "LBL_ALL_GROUPS": "Tutti i gruppi",
+    "LBL_ALL_GROUPS_INFO": "Quando l'opzione non è selezionata, mostra soltanto i gruppi accessibili, secondo i moduli selezionati nel pannello del gruppo",
+    "Group": "Gruppo",
+    "LBL_MULTI_REFERENCE_FIELDS": "Campo correlato M:M",
+    "LBL_MAXIMUM_LENGTH": "Maximum value length",
+    "LBL_MINIMUM_LENGTH": "Minimum value length"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Il nome esiste già",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "Dettagli campo salvati",
     "JS_FIELD_SEQUENCE_UPDATED": "Disposizione salvata",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "La lunghezza deve essere minore o uguale a",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Length should be more than or equal to",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "Nessun campo inattivo",
     "JS_NOT_ALLOWED": "non sono permessi",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "Decimali dovrebbe essere nell'intervallo da 2 a 5",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "Copiato",
     "JS_NOTIFY_COPY_TITLE": "Testo",
     "JS_EXIST_PICKLIST_NAME": "Questo nome è già in uso. Vuoi salvarlo come lista di selezione condivisa?",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Sei sicuro di voler disabilitare il campo?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Sei sicuro di voler disabilitare il campo?",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Changing the column length depending on the database size may take a while. If you changed the column length, please make sure you want to continue this process. You can only increase length"
   }
 }

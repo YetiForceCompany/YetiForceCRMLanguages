@@ -26,7 +26,8 @@
     "LBL_COPY_FROM_INVOICE": "نسخة من الفاتورة الأولية",
     "LBL_INVOICE_INFO": "الأولي الفاتورة الحقول قبل التصحيحات.",
     "LBL_AFTER_INVOICE_INFO": "كيف ينبغي أن الفاتورة النهائية تبدو بعد التصحيح.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "فاتورة الحقول إلى تصحيح. نسخ كافة المجالات بدءا من فاتورة تغيير القيم حسب الحاجة."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "فاتورة الحقول إلى تصحيح. نسخ كافة المجالات بدءا من فاتورة تغيير القيم حسب الحاجة.",
+    "FL_ISSUE_TIME": "Correcting invoice date"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "اختر الفاتورة إلى تصحيح"

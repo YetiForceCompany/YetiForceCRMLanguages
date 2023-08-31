@@ -1416,6 +1416,7 @@
     "FL_WOOCOMMERCE_ID": "WooCommerce ID",
     "FL_COMARCH_SERVER": "Serwer Comarch",
     "FL_COMARCH_ID": "Identyfikator Comarch",
+    "FL_COMARCH_LOG": "Dziennik błędów Comarch",
     "LBL_COMPLETE_FIELDS": "Uzupełnij pola",
     "LBL_DATA_FROM_RECORD": "Dane z rekordu",
     "LBL_DATA_FROM_SOURCE": "Dane ze źródła",
@@ -1529,7 +1530,9 @@
     "LBL_OK": "Ok",
     "LBL_BATCH_ADDING_RECORDS": "Masowe dodawanie rekordów",
     "LBL_ATTACH_DOCUMENT_DESC": "Po wybraniu tej opcji PDF zostanie załączony do rekordów. Akcja wysyłania wiadomości e-mail jest pomijana przy tej opcji",
-    "LBL_FILTER_EMPTY_VALUE": "Tylko puste wartości"
+    "LBL_FILTER_EMPTY_VALUE": "Tylko puste wartości",
+    "LBL_FIELD_NAME": "Nazwa pola",
+    "LBL_VALUE_OF_FIELDS": "Wartość z pola"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

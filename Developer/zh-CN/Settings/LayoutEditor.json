@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "标准字段",
     "LBL_ADVANCED_BLOCK_FIELDS": "高级区块字段",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "添加高级区块字段",
-    "LBL_MAX_LENGTH_TEXT": "最大文字长度",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Max display text length",
     "LBL_MAX_WIDTH_COLUMN": "列宽[%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "相对于窗口宽度的百分比值。",
     "LBL_TABINDEX": "切换键的顺序",
@@ -255,7 +255,9 @@
     "LBL_ALL_GROUPS": "All groups",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
     "Group": "Group",
-    "LBL_MULTI_REFERENCE_FIELDS": "相关字段 M:M"
+    "LBL_MULTI_REFERENCE_FIELDS": "相关字段 M:M",
+    "LBL_MAXIMUM_LENGTH": "Maximum value length",
+    "LBL_MINIMUM_LENGTH": "Minimum value length"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "区块名称已存在",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "字段信息已保存",
     "JS_FIELD_SEQUENCE_UPDATED": "字段顺序已更新",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "长度应该小于或等于",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Length should be more than or equal to",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "没有禁用的字段",
     "JS_NOT_ALLOWED": "不能使用",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "十进制数应该在2到5之间",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "已复制到剪贴板",
     "JS_NOTIFY_COPY_TITLE": "文本",
     "JS_EXIST_PICKLIST_NAME": "该名称已经被使用. 您希望作为共享的名称使用吗?",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "是否确定要禁用字段？"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "是否确定要禁用字段？",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Changing the column length depending on the database size may take a while. If you changed the column length, please make sure you want to continue this process. You can only increase length"
   }
 }

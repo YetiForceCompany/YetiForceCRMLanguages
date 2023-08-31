@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Çubuğu Küçült",
     "LBL_CREATEMAIL": "Eposta gönder",
     "LBL_ADD_RELATION": "İlişki ekleyin",
-    "LBL_ADD_DOCUMENTS": "Belge ekle",
     "LBL_ADD_TO_MY_CALENDAR": "Takvime ekleyin",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "İçe aktarma sırasında bir hata oluştu",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",

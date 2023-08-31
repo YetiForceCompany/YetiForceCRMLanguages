@@ -83,7 +83,8 @@
     "LBL_COMARCH_BLOCK": "Comarch",
     "FL_ACCOUNT_SECOND_NAME": "Nazwa kontrahenta 2",
     "FL_ACCOUNT_THIRD_NAME": "Nazwa kontrahenta 2",
-    "FL_ACCOUNT_SHORT_NAME": "Nazwa skrócona"
+    "FL_ACCOUNT_SHORT_NAME": "Nazwa skrócona",
+    "FL_PAYMENT_TERM_DAYS": "Termin płatności (w dniach)"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Taki kontrahent istnieje. Czy chcesz utworzyć duplikat?",

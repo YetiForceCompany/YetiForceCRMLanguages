@@ -15,7 +15,7 @@
     "Users|Email": "Primárna emailová adresa (povinné pole) používaná v špeciálnych situáciách (napr.: resetovanie hesla).",
     "Users|Secondary email": "Dodatočná emailová adresa.",
     "Users|FL_PRIMARY_PHONE": "Hlavné telefónne číslo.",
-    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
+    "Users|CRM Phone Extension": "Telefónne číslo používané na pripojenie k telefónnej ústredni, ak nie je zadané, užívateľ nebude mať aktívnu integráciu s PBX.",
     "Users|Approval for email": "An option to select which users agreed to receive newsletters sent through workflow tasks (Send email, send email from templates, send email with PDF printout)",
     "Users|Date Format": "The system supports 9 date formats, the recommended (tested) one is rrrr-mm-dd. We strongly suggest that all users use the same date format.",
     "Users|Calendar Hour Format": "The system supports 2 time formats, the recommended (tested) one is 24H. We strongly suggest that all users use the same time format.",

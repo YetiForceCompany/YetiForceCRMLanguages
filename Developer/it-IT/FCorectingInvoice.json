@@ -26,7 +26,8 @@
     "LBL_COPY_FROM_INVOICE": "Copia elementi dalla fattura da correggere",
     "LBL_INVOICE_INFO": "Elementi delle fattura da modificare - prima della correzione",
     "LBL_AFTER_INVOICE_INFO": "Come dovrebbe apparire la fattura finale dopo la correzione",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Copia gli elementi dalla fattura da correggere - poi effettuare le modifiche"
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Copia gli elementi dalla fattura da correggere - poi effettuare le modifiche",
+    "FL_ISSUE_TIME": "Correcting invoice date"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Seleziona fattura da correggere"

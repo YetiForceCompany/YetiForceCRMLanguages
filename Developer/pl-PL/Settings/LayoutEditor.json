@@ -180,7 +180,7 @@
     "LBL_STANDARD_FIELDS": "Pola standardowe",
     "LBL_ADVANCED_BLOCK_FIELDS": "Pola bloku zaawansowanego",
     "LBL_ADD_ADVANCED_BLOCK_FIELDS": "Dodaj pola bloku zaawansowanego",
-    "LBL_MAX_LENGTH_TEXT": "Maksymalna długość tekstu",
+    "LBL_MAX_DISPLAY_LENGTH_TEXT": "Maksymalna długość wyświetlanego tekstu",
     "LBL_MAX_WIDTH_COLUMN": "Szerokość kolumny [%]",
     "LBL_MAX_WIDTH_COLUMN_INFO": "Wartość procentowa w stosunku do szerokości okna.",
     "LBL_TABINDEX": "Sekwencja klawisza Tab",
@@ -255,7 +255,9 @@
     "LBL_ALL_GROUPS": "Wszystkie grupy",
     "LBL_ALL_GROUPS_INFO": "Gdy opcja nie jest zaznaczona, wyświetla tylko dostępne grupy oparte na wybranych modułach w panelu grupy",
     "Group": "Grupa",
-    "LBL_MULTI_REFERENCE_FIELDS": "Pole powiązane M:M"
+    "LBL_MULTI_REFERENCE_FIELDS": "Pole powiązane M:M",
+    "LBL_MAXIMUM_LENGTH": "Maksymalna długość wartości",
+    "LBL_MINIMUM_LENGTH": "Minimalna długość wartości"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",
@@ -271,6 +273,7 @@
     "JS_FIELD_DETAILS_SAVED": "Zapisano szczegóły pola",
     "JS_FIELD_SEQUENCE_UPDATED": "Kolejność pól została zaktualizowana",
     "JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO": "Długość powinna być mniejsza lub równa",
+    "JS_LENGTH_SHOULD_BE_MORE_THAN_EQUAL_TO": "Długość powinna być większa lub równa",
     "JS_NO_HIDDEN_FIELDS_EXISTS": "Brak pól nieaktywnych",
     "JS_NOT_ALLOWED": "nie są dozwolone",
     "JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5": "Dziesiętne powinny mieścić się w zakresie od 2 do 5",
@@ -292,6 +295,7 @@
     "JS_NOTIFY_COPY_TEXT": "Skopiowano do schowka",
     "JS_NOTIFY_COPY_TITLE": "Tekst",
     "JS_EXIST_PICKLIST_NAME": "Ta nazwa jest już używana przez pole słownikowe. Czy chcesz je zapisać jako słownik współdzielony?",
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Czy na pewno chcesz wyłączyć to pole?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_INACTIVE_FIELD": "Czy na pewno chcesz wyłączyć to pole?",
+    "JS_COLUMN_LENGTH_CHANGE_WARNING": "Zmiana długości kolumny w zależności od rozmiaru bazy danych może zająć chwilę. Jeśli zmieniłeś długość kolumny, upewnij się, że chcesz kontynuować ten proces. Można jedynie zwiększyć długość"
   }
 }

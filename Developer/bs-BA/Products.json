@@ -86,6 +86,7 @@
     "LBL_IMPORT_STOCK_ALERT": "Promjena nivoa zaliha zahtijeva verifikaciju i odobrenje, tek tada će se nivo zaliha promijeniti.",
     "LBL_WOOCOMMERCE": "Woocommerce",
     "FL_PRODUCT_TYPE": "Vrsta proizvoda",
+    "FL_PRODUCT_CODE": "Product code",
     "FL_SHORT_DESCRIPTION": "Kratak opis",
     "FL_TAGS": "Discussions tagged %1s",
     "FL_ALIAS": "Pseudonim",

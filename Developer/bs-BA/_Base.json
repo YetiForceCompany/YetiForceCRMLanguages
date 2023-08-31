@@ -1416,6 +1416,7 @@
     "FL_WOOCOMMERCE_ID": "WooCommerce Id",
     "FL_COMARCH_SERVER": "Comarch server",
     "FL_COMARCH_ID": "Comarch Id",
+    "FL_COMARCH_LOG": "Comarch error log",
     "LBL_COMPLETE_FIELDS": "Ispunite polja",
     "LBL_DATA_FROM_RECORD": "Podaci iz zapisa",
     "LBL_DATA_FROM_SOURCE": "Podaci iz izvora",
@@ -1529,7 +1530,9 @@
     "LBL_OK": "OK",
     "LBL_BATCH_ADDING_RECORDS": "Grupno dodavanje zapisa",
     "LBL_ATTACH_DOCUMENT_DESC": "Kada odaberete ovu opciju, priložit će se PDF zapisima. Radnja slanja e-pošte je izostavljena sa ovom opcijom",
-    "LBL_FILTER_EMPTY_VALUE": "Only empty values"
+    "LBL_FILTER_EMPTY_VALUE": "Only empty values",
+    "LBL_FIELD_NAME": "Field name",
+    "LBL_VALUE_OF_FIELDS": "Value from field"
   },
   "js": {
     "JS_APPROVE": "Odobriti",

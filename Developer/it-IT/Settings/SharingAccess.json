@@ -31,7 +31,7 @@
     "Public: Read, Create\/Edit": "Pubblico: lettura, creazione \/ modifica",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regola di condivisione salvata con successo",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "Salvataggio regola di accesso di condivisione fallito",
-    "LBL_CUSTOM_RULE_DELETING_SUCCESSFULLY": "Custom sharing rule deleted successfully",
+    "LBL_CUSTOM_RULE_DELETING_SUCCESSFULLY": "Regola di condivisione personalizzata eliminata correttamente",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "Impossibile eliminare regola di accesso condivisione"
   },
   "js": {

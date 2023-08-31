@@ -2,7 +2,7 @@
   "php": {
     "KnowledgeBase": "База знаний",
     "SINGLE_KnowledgeBase": "Знание",
-    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
+    "BTN_KNOWLEDGE_BASE": "База знаний",
     "LBL_CUSTOM_INFORMATION": "Пользовательская информация",
     "FL_SUBJECT": "Предмет",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Основная информация",
@@ -11,7 +11,7 @@
     "FL_VIEWS": "Просмотр",
     "PLL_PAGE": "Страница",
     "PLL_PRESENTATION": "Презентация",
-    "LBL_VIEW_KNOWLEDGE_BASE": "Knowledge base",
+    "LBL_VIEW_KNOWLEDGE_BASE": "База знаний",
     "LBL_PREVIOUS": "Предыдущий",
     "LBL_NEXT": "Следующий",
     "LBL_LIST_RECORDS": "Список записей",

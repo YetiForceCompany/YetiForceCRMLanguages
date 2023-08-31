@@ -11,7 +11,7 @@
     "LBL_TYPE": "Typ",
     "LBL_TYPE_FillFields": "Zobraziť a vyplniť",
     "LBL_TYPE_Summary": "Zobraziť",
-    "LBL_API_KEY_OPTIONAL": "API Key (Optional)",
+    "LBL_API_KEY_OPTIONAL": "Kľúč API (voliteľný)",
     "LBL_SAVE_NOTIFY_OK": "Zmeny uložené.",
     "LBL_PROVIDER_INVALID": "Konfigurácia je nesprávna",
     "LBL_CONFIG": "Setup data for record collector",

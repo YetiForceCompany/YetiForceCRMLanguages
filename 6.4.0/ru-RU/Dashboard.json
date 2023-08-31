@@ -8,7 +8,7 @@
     "LBL_CLEAR_DEVICE_CONF": "Очистить конфигурацию виджетов для этого устройства",
     "LBL_CLEAR_DEVICE_CONF_DESC": "Кнопка удаляет /сбрасывает конфигурацию только для используемого вами устройства и только для текущей вкладки.",
     "LBL_PREDEFINED_WIDGETS": "Предопределенные виджеты",
-    "LBL_EMPTY_DASHBOARD": "Selected dashboard is empty.",
+    "LBL_EMPTY_DASHBOARD": "Выбранная панель мониторинга пуста.",
     "LBL_WORKING_TIME_COUNTER": "Working time counter"
   }
 }

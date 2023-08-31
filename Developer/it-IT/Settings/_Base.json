@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo società visibile nel sistema",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo società visibile al login",
     "LBL_ADD_CUSTOM_FIELD": "Aggiungi campo",
-    "LBL_FIELD_NAME": "Nome campo",
     "LBL_HEIGHT_LOGO": "Altezza logo",
     "LBL_SECURITY": "Sicurezza",
     "LBL_LOG_ACCESS_TO_RECORD": "Nessun accesso ai record",
@@ -314,7 +313,7 @@
     "LBL_REQUIRES_INTERVENTION": "Richiede intervento",
     "LBL_ACTIVATE_FUNCTIONALITY": "Attivazione",
     "LBL_ONLY_TO_FIRST_LIST": "Solo al primo della lista",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Salva e verifica"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizzazione riuscita",

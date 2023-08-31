@@ -2,8 +2,8 @@
   "php": {
     "ServiceContracts": "Servisné zmluvy",
     "Service Contracts": "Servisné zmluvy",
-    "SINGLE_ServiceContracts": "Service Contract",
-    "LBL_SERVICE_CONTRACT_INFORMATION": "Service Contract details",
+    "SINGLE_ServiceContracts": "Servisná zmluva",
+    "LBL_SERVICE_CONTRACT_INFORMATION": "Detaily servisnej zmluvy",
     "Contract No": "Contract number",
     "Start Date": "Dátum začiaktu",
     "End Date": "Dátum ukončenia",

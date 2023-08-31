@@ -275,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Το λογότυπο της εταιρείας ορατό στο σύστημα",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Το λογότυπο της εταιρίας εμφανίζεται στον πίνακα σύνδεσης",
     "LBL_ADD_CUSTOM_FIELD": "Προσθήκη πεδίου",
-    "LBL_FIELD_NAME": "Όνομα πεδίου",
     "LBL_HEIGHT_LOGO": "Λογότυπο ύψος",
     "LBL_SECURITY": "Ασφάλεια",
     "LBL_LOG_ACCESS_TO_RECORD": "Καμία πρόσβαση στις εγγραφές",

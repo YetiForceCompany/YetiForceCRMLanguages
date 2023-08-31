@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Minimaliseer balk",
     "LBL_CREATEMAIL": "Stuur e-mail",
     "LBL_ADD_RELATION": "Relatie toevoegen",
-    "LBL_ADD_DOCUMENTS": "Documenten toevoegen",
     "LBL_ADD_TO_MY_CALENDAR": "Aan mijn kalender toevoegen",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Er is een fout opgetreden tijdens het importeren",
     "LBL_FILE_HAS_BEEN_IMPORTED": "The file has been imported. Number of imported records: %s",
