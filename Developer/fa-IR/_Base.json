@@ -1673,6 +1673,8 @@
     "JS_YOU_ARE_IN_PAGE_NUMBER": "شما هستید در صفحه شماره",
     "JS_YOU_CAN_SELECT_ONLY": "شما فقط قادر به انتخاب",
     "LBL_DELETE_CONFIRMATION": "آیا از حذف اطمینان دارید ؟",
+    "JS_SEND_MAIL_CONFIRMATION": "Are you sure to send the email?",
+    "JS_DIAL_NUMBER_CONFIRMATION": "Are you sure you want to dial the number?",
     "JS_CHANGE_VALUE_CONFIRMATION": "آیا میخواهید این مقدار را قرار دهید؟",
     "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "مطمئن هستید که می خواهید ارتباط با این ماژول را حذف کنید؟ فقط رابطه حذف می شود ، برای حذف رکوردی که باید برای رفتن به رکوردها داشته باشید و حذف را فشار دهید",

@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "需要干预措施",
     "LBL_ACTIVATE_FUNCTIONALITY": "激活",
     "LBL_ONLY_TO_FIRST_LIST": "仅适用于该列表的第一项",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "认证成功",

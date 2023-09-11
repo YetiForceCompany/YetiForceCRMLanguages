@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "Wymaga interwencji",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktywuj",
     "LBL_ONLY_TO_FIRST_LIST": "Tylko do pierwszego na liście",
-    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
+    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj",
+    "LBL_MAIL_REPLY_TO": "Odpowiedz do"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Kích hoạt",
     "LBL_ONLY_TO_FIRST_LIST": "Chỉ đến thứ nhất trong danh sách",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Ủy quyền thành công",

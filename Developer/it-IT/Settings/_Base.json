@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "Richiede intervento",
     "LBL_ACTIVATE_FUNCTIONALITY": "Attivazione",
     "LBL_ONLY_TO_FIRST_LIST": "Solo al primo della lista",
-    "LBL_SAVE_AND_VERIFY": "Salva e verifica"
+    "LBL_SAVE_AND_VERIFY": "Salva e verifica",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizzazione riuscita",

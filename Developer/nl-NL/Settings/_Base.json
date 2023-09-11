@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "Vereist interventie",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activeren",
     "LBL_ONLY_TO_FIRST_LIST": "Alleen voor de eerste op de lijst",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorisatie succesvol",

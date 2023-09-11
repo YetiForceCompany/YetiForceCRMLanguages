@@ -313,7 +313,8 @@
     "LBL_REQUIRES_INTERVENTION": "Zahtijeva intervenciju",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj",
     "LBL_ONLY_TO_FIRST_LIST": "Samo prvom na listi",
-    "LBL_SAVE_AND_VERIFY": "Sačuvaj i potvrdi"
+    "LBL_SAVE_AND_VERIFY": "Sačuvaj i potvrdi",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",

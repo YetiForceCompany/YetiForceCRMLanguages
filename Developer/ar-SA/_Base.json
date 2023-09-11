@@ -1673,6 +1673,8 @@
     "JS_YOU_ARE_IN_PAGE_NUMBER": "انت بالصفحة رقم",
     "JS_YOU_CAN_SELECT_ONLY": "يمكنك اختيار فقط",
     "LBL_DELETE_CONFIRMATION": "هل ترغب حقا بالحذف؟",
+    "JS_SEND_MAIL_CONFIRMATION": "Are you sure to send the email?",
+    "JS_DIAL_NUMBER_CONFIRMATION": "Are you sure you want to dial the number?",
     "JS_CHANGE_VALUE_CONFIRMATION": "هل كنت تريد استخدام هذه القيمة؟",
     "JS_CHANGE_CONFIRMATION": "Are you sure you want to make changes?",
     "JS_DELETE_CONFIRMATION": "هل أنت متأكد من أنك تريد حذف العلاقة مع هذه الوحدة ؟ فقط فيما سيتم إزالة لإزالة سجل عليك أن تذهب إلى السجل ثم اضغط حذف",
