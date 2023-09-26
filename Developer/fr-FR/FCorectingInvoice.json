@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Champs de la facture initiale - avant corrections.",
     "LBL_AFTER_INVOICE_INFO": "À quoi devrait ressembler la facture finale après correction.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Zones de facture à corriger. Copiez toutes les zones de la facture initiale et modifiez les valeurs au besoin.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Sélectionnez la facture à corriger"

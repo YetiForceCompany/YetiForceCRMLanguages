@@ -149,7 +149,7 @@
     "TOKEN_LINK": "Token link (When the token link is clicked)",
     "EmailTempleteList": "Select an email template to be sent",
     "Do you send all attachments": "Send all attachments?",
-    "Select e-mail address": "Select email address",
+    "Select e-mail address": "Välj e-postadress",
     "Send Mail": "Send Mail",
     "Invoke Custom Function": "Invoke custom function",
     "Create Todo": "Create ToDo",

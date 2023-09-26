@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Oprindelige faktura felter - før rettelse.",
     "LBL_AFTER_INVOICE_INFO": "Hvordan skal endelig faktura se ud efter rettelse.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Faktura felter der skal rettes. Kopier alle felter fra oprindelig faktura og ændrer værdier efter behov.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Vælg faktura der skal rettes"

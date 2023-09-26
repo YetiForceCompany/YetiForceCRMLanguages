@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Първоначалните полета на фактурата - преди корекций.",
     "LBL_AFTER_INVOICE_INFO": "Как трябва да изглезда крайната фактура след корекцийте.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Полета на фактурата който са за корекция. Копиране на всички полета от първоначалната фактура и промени стойностите както е необходимо.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Изберете фактура за корекция"

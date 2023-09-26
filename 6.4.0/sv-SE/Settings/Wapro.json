@@ -10,7 +10,7 @@
     "FL_PORT": "Port",
     "FL_DATABASE": "Database name",
     "FL_USERNAME": "User name",
-    "FL_PASSWORD": "Password",
+    "FL_PASSWORD": "Lösenord",
     "LBL_NUMBER_OF_ENTRIES": "Number of entries",
     "LBL_MULTI_COMPANY": "Departments/Company (read only)",
     "LBL_COMPANY_BANK_ACCOUNTS": "Company bank accounts (read only)",

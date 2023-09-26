@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "İlk fatura alanları - düzeltmelerden önce.",
     "LBL_AFTER_INVOICE_INFO": "Düzeltmelerden sonra fatura görünmelidir?",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Fatura alanları düzeltilecek. İlk faturadaki tüm alanları kopyalayın ve değerleri gerektiği gibi değiştirin.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Düzeltilecek faturayı seçin"

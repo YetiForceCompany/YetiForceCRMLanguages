@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Elementi delle fattura da modificare - prima della correzione",
     "LBL_AFTER_INVOICE_INFO": "Come dovrebbe apparire la fattura finale dopo la correzione",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Copia gli elementi dalla fattura da correggere - poi effettuare le modifiche",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Seleziona fattura da correggere"

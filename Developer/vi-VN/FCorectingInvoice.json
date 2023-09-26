@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Trường hoá đơn ban đầu - trước khi sửa.",
     "LBL_AFTER_INVOICE_INFO": "Hoá đơn cuối cùng trông giống như thế nào sau khi chỉnh.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Trường hóa đơn cần sửa. Copy toàn bộ các trường từ hóa đơn đầu tiên và thay đổi giá trị cần thiết.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Chọn hoá đơn cần được hiệu chỉnh"

@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Початкові поля рахунку - до виправлень",
     "LBL_AFTER_INVOICE_INFO": "Як повинен виглядати остаточний рахунок після виправлення",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Поля рахунку повинні бути виправлені. Скопіюйте всі поля з початкового рахунку і змініть значення в міру необхідності.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Виберіть рахунок для виправлення"

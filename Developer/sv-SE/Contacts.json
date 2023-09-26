@@ -1,7 +1,7 @@
 {
   "php": {
     "Member Of": "Member of",
-    "Birthdate": "Date of birth",
+    "Birthdate": "Födelsedatum",
     "Contact Id": "Contact ID",
     "Contact Image": "Contact image",
     "Contacts": "Contacts",
@@ -44,9 +44,9 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "All",
     "LBL_SHOW_HIERARCHY": "Contact hierarchy",
     "FL_APPROVALS": "Approvals",
-    "LBL_PARTICIPANTS": "Participants",
-    "FL_GENDER": "Gender",
-    "PLL_WOMAN": "Woman",
+    "LBL_PARTICIPANTS": "Deltagare",
+    "FL_GENDER": "Kön",
+    "PLL_WOMAN": "Kvinna",
     "PLL_MAN": "Man",
     "History": "History",
     "Overdue Activities": "Overdue activities"

@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Campos iniciais da fatura - antes das correções.",
     "LBL_AFTER_INVOICE_INFO": "Como deve ficar a fatura final depois da correção.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Campos da fatura a ser corrigida. Copie todos os campos da fatura inicial e altere os valores conforme necessário.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Selecionar fatura a ser corrigida"

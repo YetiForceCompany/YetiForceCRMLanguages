@@ -9,7 +9,7 @@
     "FL_PAYMENT_DATE": "Due date",
     "FL_SALE_DATE": "Sale date",
     "FL_BANK_ACCOUNT": "Bank account number",
-    "FL_NUMBER": "Invoice number",
+    "FL_NUMBER": "Fakturanummer",
     "FL_ACCOUNT": "Account",
     "FL_TOTAL": "Net",
     "FL_GROSS": "Gross",

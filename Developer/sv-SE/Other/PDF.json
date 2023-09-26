@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_INVOICE": "Invoice",
+    "LBL_INVOICE": "Faktura",
     "LBL_INVOICE_NUMBER": "VAT invoice number",
     "LBL_TO_FINVOICE_NUMBER": "To VAT invoice number",
     "LBL_INVOICE_PROFORMA": "Pro-forma invoice",
@@ -20,8 +20,8 @@
     "LBL_QUOTE_NUMBER": "Quote number",
     "LBL_DETAILS": "Details",
     "LBL_COMMENTS": "Comments",
-    "LBL_FIRST_NAME": "First name",
-    "LBL_LAST_NAME": "Last name",
+    "LBL_FIRST_NAME": "Förnamn",
+    "LBL_LAST_NAME": "Efternamn",
     "LBL_PHONE": "Phone",
     "LBL_EMAIL": "E-mail",
     "LBL_VATID": "Vat ID",

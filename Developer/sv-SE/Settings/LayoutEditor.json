@@ -252,7 +252,7 @@
     "LBL_SHOW_BUTTON_MY_LOCATION": "Show my location button",
     "LBL_COORDINATE_TYPE": "Coordinate type",
     "LBL_USE_SORTING_FROM_FILTERS": "Considers sorting of the selected item or keeps the default sorting",
-    "LBL_ALL_GROUPS": "All groups",
+    "LBL_ALL_GROUPS": "Alla grupper",
     "LBL_ALL_GROUPS_INFO": "When the option is not selected it displays only accessible groups based on the selected modules in the group panel",
     "Group": "Group",
     "LBL_MULTI_REFERENCE_FIELDS": "Related field M:M",

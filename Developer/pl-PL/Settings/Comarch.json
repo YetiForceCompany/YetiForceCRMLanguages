@@ -27,6 +27,8 @@
     "LBL_SYNC_COR_INVOICES": "Synchronizuj faktury korekty",
     "LBL_DIRECTION_COR_INVOICES": "Kierunek synchronizacji faktur korekt",
     "LBL_COR_INVOICES_LIMIT": "Limit pobierania faktur korekt",
+    "LBL_SYNC_PAYMENTS": "Synchronizuj wpłaty",
+    "LBL_DIRECTION_PAYMENTS": "Kierunek synchronizacji wpłat",
     "LBL_DIR_API_TO_CRM": "Jednokierunkowa z Comarch do YetiForce",
     "LBL_DIR_CRM_TO_API": "Jednokierunkowa z YetiForce do Comarch",
     "LBL_DIR_CRM_API": "Dwukierunkowa",

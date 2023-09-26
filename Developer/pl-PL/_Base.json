@@ -1673,6 +1673,8 @@
     "JS_YOU_ARE_IN_PAGE_NUMBER": "Jesteś na stronie numer",
     "JS_YOU_CAN_SELECT_ONLY": "Można wybrać tylko",
     "LBL_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć rekord?",
+    "JS_SEND_MAIL_CONFIRMATION": "Czy na pewno chcesz wysłać e-mail?",
+    "JS_DIAL_NUMBER_CONFIRMATION": "Czy na pewno chcesz wybrać numer?",
     "JS_CHANGE_VALUE_CONFIRMATION": "Czy chcesz ustawić tę wartość?",
     "JS_CHANGE_CONFIRMATION": "Czy na pewno chcesz wprowadzić zmiany?",
     "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć powiązanie z tym rekordem? Usunięte zostanie tylko powiązanie, aby usunąć rekord musisz przejść do rekordu i kliknąć usuń.",

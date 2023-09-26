@@ -53,6 +53,7 @@
     "PLL_COMARCH_DRAFT": "Wersja robocza",
     "PLL_COMARCH_TO_SEND": "Do wysłania",
     "PLL_COMARCH_SENT": "Wysłano",
+    "PLL_FROM_COMARCH": "Wczytano z Comarch",
     "PLL_COMARCH_ERROR": "Wystąpił błąd"
   }
 }

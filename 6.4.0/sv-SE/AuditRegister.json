@@ -15,8 +15,8 @@
     "FL_TYPE": "Type",
     "PLL_INTERNAL": "Internal",
     "PLL_EXTERNAL": "External",
-    "LBL_DESCRIPTION": "Description",
-    "FL_DESCRIPTION": "Description",
+    "LBL_DESCRIPTION": "Beskrivning",
+    "FL_DESCRIPTION": "Beskrivning",
     "FL_COMMENTS": "Comments",
     "LBL_COMMENTS": "Comments"
   }

@@ -27,7 +27,9 @@
     "LBL_INVOICE_INFO": "Initiale Rechnungfelder - vor Korrektur.",
     "LBL_AFTER_INVOICE_INFO": "Wie soll die finale Rechnung ausschauen - nach Korrektur.",
     "LBL_AFTER_INVOICE_INFO_EDIT": "Zu korrigierende Rechnungsfelder. Alle Felder von initialer Rechnung kopieren und wenn benötigt ändern.",
-    "FL_ISSUE_TIME": "Correcting invoice date"
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Zu korrigierende Rechnung wählen"
