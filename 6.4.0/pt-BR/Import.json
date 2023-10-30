@@ -78,6 +78,6 @@
     "failed": "Registros Falhos",
     "LBL_SELECT_FILE": "Selecionar arquivo para importação",
     "LBL_MERGE_TYPE_INFO": "Ignorar: registros existentes são ignorados e não atualizados.\n\nSobrescrever: os registros existentes são sobrescritos com os dados do arquivo ou os valores padrão são preenchidos se os valores necessários no registro e no arquivo estiverem vazios. Se não marcado como necessário, os valores serão sobrescritos no registro com valores vazios do arquivo.\n\nMesclar: os valores de registro são sobrescritos com valores do arquivo, se os valores do arquivo não estiverem vazios (no entanto, se estiverem vazios, os valores do registro serão mantidos).\n\nPreencher: somente os campos vazios no registro são atualizados. Os valores do campo não são sobrescritos se já houver um valor existente no registro.",
-    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "The imported file is in a different encoding than it was selected (%s)"
+    "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "O arquivo importado está em uma codificação diferente da que foi selecionada (%s)"
   }
 }

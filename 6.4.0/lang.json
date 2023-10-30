@@ -164,15 +164,15 @@
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 74,
-        "time": "2023-04-03 09:15:12"
+        "progress": 75,
+        "time": "2023-10-30 11:14:52"
     },
     "pt-PT": {
         "prefix": "pt-PT",
         "crowdinCode": "pt-PT",
         "name": "Portuguese",
         "progress": 29,
-        "time": "2023-09-26 10:48:10"
+        "time": "2023-10-30 11:14:40"
     },
     "ro-RO": {
         "prefix": "ro-RO",
@@ -221,7 +221,7 @@
         "crowdinCode": "sv-SE",
         "name": "Swedish",
         "progress": 7,
-        "time": "2023-09-26 10:48:32"
+        "time": "2023-10-30 11:15:24"
     },
     "th-TH": {
         "prefix": "th-TH",

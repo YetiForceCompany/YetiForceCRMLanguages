@@ -15,7 +15,7 @@
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Tempo de trabalho limitado a 24 horas",
     "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
-    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Bloquear adicionar/editar um registo caso já exista uma reserva para esta data.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

@@ -17,13 +17,13 @@
     "LBL_NOT_PARENT_STORAGE": "Você tem que preencher o nome do Estoque principal",
     "LBL_SHOW_HIERARCHY": "Hierarquia",
     "LBL_PARENT_IS_CHILD": "O Estoque principal selecionado, nao pode ser secundario ao Estoque atual.",
-    "LBL_PRODUCTS_CONTROL_TABLE": "Products control table",
-    "LBL_PRODUCTS_TABLE": "Table with products",
-    "LBL_PRODUCTS_TABLE_HIERARCHY": "Table with products hierarchy",
-    "LBL_PRODUCTS_VALUE_TABLE": "Table with products value",
-    "LBL_TABLE_HIERARCHY": "Hierarchy table",
+    "LBL_PRODUCTS_CONTROL_TABLE": "Tabela de controle de produtos",
+    "LBL_PRODUCTS_TABLE": "Tabela com produtos",
+    "LBL_PRODUCTS_TABLE_HIERARCHY": "Tabela com hierarquia de produtos",
+    "LBL_PRODUCTS_VALUE_TABLE": "Tabela com valor de produtos",
+    "LBL_TABLE_HIERARCHY": "Tabela de hierarquia",
     "LBL_SECONDARY_STORAGES": "Estoques Secundarios",
-    "LBL_ROW_NUM": "No.",
+    "LBL_ROW_NUM": "Nº.",
     "LBL_STORAGE_OWNER": "Responsavel"
   }
 }

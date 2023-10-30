@@ -47,7 +47,7 @@
     "ERR_NO_2FA_TOTP_CODE": "No 2FA TOTP code",
     "ERR_USER_NOT_FOUND": "User not found",
     "ERR_NO_CRMID": "No contact ID",
-    "ERR_2FA_NOT_BEEN_ENABLED": "Two-factor authentication has not been enabled",
+    "ERR_2FA_NOT_BEEN_ENABLED": "Tvåfaktorsautentisering har inte aktiverats",
     "ERR_2FA_ALREADY_GENERATED": "A secret 2FA key has already been generated.",
     "ERR_FORGOT_PASSWORD_SEND_MAIL": "Email with password change has been sent",
     "ERR_WRONG_2FA_CODE": "Wrong 2FA/TOPO code",

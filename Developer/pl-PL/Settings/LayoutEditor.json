@@ -257,7 +257,8 @@
     "Group": "Grupa",
     "LBL_MULTI_REFERENCE_FIELDS": "Pole powiązane M:M",
     "LBL_MAXIMUM_LENGTH": "Maksymalna długość wartości",
-    "LBL_MINIMUM_LENGTH": "Minimalna długość wartości"
+    "LBL_MINIMUM_LENGTH": "Minimalna długość wartości",
+    "LBL_RELATED_FIELDS_LIST": "Lista powiązanych pól"
   },
   "js": {
     "JS_BLOCK_NAME_EXISTS": "Nazwa bloku już istnieje",
