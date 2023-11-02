@@ -1,0 +1,12 @@
+{
+  "php": {
+    "SMSTemplates": "短信模板",
+    "SINGLE_SMSTemplates": "短信模板",
+    "LBL_CUSTOM_INFORMATION": "系统信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "FL_SUBJECT": "标题",
+    "FL_MESSAGE": "消息",
+    "FL_TARGET_MODULE": "模块",
+    "BL_SMS_CONTENT": "短信内容"
+  }
+}

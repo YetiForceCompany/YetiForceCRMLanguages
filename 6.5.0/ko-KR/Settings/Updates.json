@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Updates",
+    "LBL_YES": "Yes",
+    "LBL_NO": "No",
+    "LBL_TIME": "Date",
+    "LBL_USER": "Username",
+    "LBL_FROM_VERSION": "From version",
+    "LBL_TO_VERSION": "To version",
+    "LBL_RESULT": "Status",
+    "LBL_UPDATES": "Updates",
+    "LBL_UPDATES_DESCRIPTION": "Updates history",
+    "LBL_IMPORT_UPDATE": "Upload update",
+    "LBL_INSTALL_PACKAGE": "패키지 설치",
+    "LBL_DOWNLOAD_PACKAGE": "패키지 다운로드",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "업그레이드 가능한 패키지",
+    "LBL_INSTALLED_PACKAGES": "설치된 패키지",
+    "LBL_PACKAGE_VERSION": "패키지 버전",
+    "LBL_NAME_PACKAGES": "패키지 이름"
+  }
+}

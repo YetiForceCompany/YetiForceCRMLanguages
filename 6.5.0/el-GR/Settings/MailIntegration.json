@@ -1,0 +1,17 @@
+{
+  "php": {
+    "MailIntegration": "Πίνακας ενοποίησης αλληλογραφίας",
+    "LBL_MAIL_INTEGRATION": "Πίνακας ενοποίησης αλληλογραφίας",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "Το CRM ως πίνακας ενοποίησης σε εξωτερικό πρόγραμμα-πελάτη ηλεκτρονικού ταχυδρομείου",
+    "LBL_OUTLOOK": "Πρόσθετα του Outlook",
+    "LBL_OUTLOOK_ALERT": "Για οδηγίες σχετικά με τον τρόπο εγκατάστασης των πρόσθετων add-ons, ανατρέξτε στο %s",
+    "LBL_OUTLOOK_ADDRESSES": "URLs διακομιστή αλληλογραφίας Outlook",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Λίστα διευθύνσεων όπου το σύστημα θα είναι διαθέσιμο ως ένας πίνακας ενσωμάτωσης, υποχρεωτικό για το Outlook Web App π.χ. %s",
+    "LBL_OUTLOOK_SCRIPT": "Επιτρεπόμενοι διακομιστές CDN για JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "Λίστα επιτρεπόμενων διακομιστών CDN από τα οποία μπορούν να φορτωθούν αρχεία JavaScript, π.χ. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Η ενεργοποίηση τροποποιεί το αρχείο 'config / Security.php και μειώνει το επίπεδο ασφαλείας, αλλάζει:\n- επιτρέπει τη φόρτωση του CRM σε μια υποδομή\n- επιτρέπει τη φόρτωση εξωτερικών scripts (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- απενεργοποιεί το Http μόνο στο cookie \n- αλλάζει το cookie Same Site σε Κανένα",
+    "LBL_QUICK_CREATE_MODULES": "Λίστα γρήγορης δημιουργίας πρόσθετων modules",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Λίστα των modules στα οποία τα δεδομένα είναι δημιουργημένα από τον πίνακα ενσωμάτωσης.\nΕάν δεν επιλεχθεί καμία τιμή, το σύστημα θα επιλέξει την προεπιλεγμένη λίστα γρήγορης δημιουργίας",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Κατεβάστε το αρχείο εγκατάστασης του Outlook"
+  }
+}

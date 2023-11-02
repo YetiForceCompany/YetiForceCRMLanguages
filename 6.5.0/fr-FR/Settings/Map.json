@@ -1,0 +1,23 @@
+{
+  "php": {
+    "Map": "Carte",
+    "LBL_MAP": "Carte",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Couche affichée",
+    "LBL_TILE_LAYER_INFO_1": "Sélectionnez le serveur à partir duquel vous souhaitez télécharger les couches de tuiles pour les cartes dans le système. Chaque serveur offre un aspect différent de la carte, vous pouvez également ajouter votre propre serveur ou un serveur public, mais faites attention aux limites et aux restrictions de licence.",
+    "LBL_TILE_LAYER_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $tileLayerServers dans le fichier %s. Les serveurs de couche de tuiles accessibles au public sont disponibles à l'adresse suivante :",
+    "LBL_PROVIDER_NAME": "Nom du fournisseur",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Modèle d'URL des couches",
+    "LBL_API_URL": "URL de l'API du fournisseur",
+    "LBL_DRIVER": "Pilote",
+    "LBL_COORDINATES": "Coordonnées",
+    "LBL_COORDINATES_INFO_1": "Sélectionnez le serveur à utiliser pour télécharger les coordonnées géographiques, le Cron mettra à jour les coordonnées des champs d'adresse. Faites attention aux limites du fournisseur, le système enverra fréquemment des demandes aux serveurs. Soyez conscient du fait que les serveurs gratuits ont de grandes limites et que vous partagez vos données avec eux, choisissez toujours des serveurs de confiance.",
+    "LBL_COORDINATES_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $coordinatesServers dans le fichier %s. Des serveurs de coordonnées accessibles au public sont disponibles à l'adresse suivante:",
+    "LBL_AVAILABLE_DRIVERS": "Pilotes disponibles dans le système",
+    "LBL_PROVIDER_ACTIVE": "Actif",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_ROUTING": "Acheminement",
+    "LBL_ROUTING_INFO_1": "Sélectionnez le serveur à utiliser pour cartographier les itinéraires des véhicules, le système fournira les coordonnées des points pour lesquels vous souhaitez cartographier l'itinéraire.",
+    "LBL_ROUTING_INFO_2": "Pour ajouter des serveurs supplémentaires, modifiez la variable $routingServers dans le fichier %s. Les serveurs de routage accessibles au public sont disponibles à l'adresse suivante:"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Registar revizije",
+    "SINGLE_AuditRegister": "Registar revizije",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "FL_NAME": "Naziv",
+    "FL_LOCATION_REGISTER": "Lokacija registra",
+    "FL_DATASETREGISTER": "Registar skupa podataka",
+    "PLL_DRAFT": "Skica",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Čeka na prihvaćanje",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_COMPLETED": "Kompletirano",
+    "PLL_CANCELLED": "Otkazano",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Tip",
+    "PLL_INTERNAL": "Interni",
+    "PLL_EXTERNAL": "Externi",
+    "LBL_DESCRIPTION": "Opis",
+    "FL_DESCRIPTION": "Opis",
+    "FL_COMMENTS": "Komentari",
+    "LBL_COMMENTS": "Komentari"
+  }
+}

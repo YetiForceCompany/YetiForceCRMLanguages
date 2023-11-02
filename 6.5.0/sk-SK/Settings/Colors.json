@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "Farby",
+    "LBL_COLOR": "Farba",
+    "LBL_PICKLISTS": "Rozbaľovacie zoznamy",
+    "LBL_SELECT_PICKLIST": "Výber rozbaľovacieho zoznamu",
+    "LBL_REMOVE_COLOR": "Odstrániť farbu",
+    "LBL_GENERATE_COLOR": "Vygenerovať farbu",
+    "LBL_UPDATE_COLOR": "Zmeniť farbu",
+    "LBL_REMOVED_COLOR": "Farba odstránená",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Upraviť farbu",
+    "LBL_CALENDAR_COLORS": "Farby kalendára",
+    "LBL_CALENDAR_TYPE": "Typ aktivity",
+    "LBL_SAVE_COLOR": "Farba uložená",
+    "Call": "Hovor",
+    "Task": "Úloha",
+    "Meeting": "Stretnutie",
+    "LBL_GROUPS_COLORS": "Farby skupín",
+    "LBL_USERS_COLORS": "Užívateľské farby",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Funkcionalita farieb nebola aktivovaná pre tento rozbaľovací zoznam",
+    "LBL_UPDATE_COLOR_COLUMN": "Aktivovať",
+    "LBL_WARNING": "Varovanie",
+    "LBL_ITEM": "Hodnota",
+    "LBL_MODULE": "Modul",
+    "LBL_GROUP_NAME": "Skupina",
+    "LBL_FIELDS_COLORS": "Farby poľa"
+  }
+}

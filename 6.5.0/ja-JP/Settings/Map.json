@@ -1,0 +1,23 @@
+{
+  "php": {
+    "Map": "地図",
+    "LBL_MAP": "地図",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "タイルレイヤー",
+    "LBL_TILE_LAYER_INFO_1": "システム内のマップのタイルレイヤーをダウンロードするサーバーを選択します。 各サーバーは、マップの異なる外観を提供しています。 独自のサーバーやパブリックサーバーを追加することもできますが、制限やライセンス制限に注意を払うこともできます。",
+    "LBL_TILE_LAYER_INFO_2": "サーバを追加するには、%s ファイル内の $tileLayerServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。",
+    "LBL_PROVIDER_NAME": "プロバイダー名",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "タイルレイヤーURLテンプレート",
+    "LBL_API_URL": "プロバイダー API URL",
+    "LBL_DRIVER": "ドライバ",
+    "LBL_COORDINATES": "座標",
+    "LBL_COORDINATES_INFO_1": "地理的な座標をダウンロードするために使用するサーバーを選択し、Cronはアドレスフィールドの座標を更新します。 プロバイダの制限に注意を払うと、システムは頻繁にサーバーに要求を送信します。 無料サーバーには大きな制限があり、データを共有することで、常に信頼できるサーバーを選択することができます。",
+    "LBL_COORDINATES_INFO_2": "サーバを追加するには、%s ファイル内の $coordinatesServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。",
+    "LBL_AVAILABLE_DRIVERS": "システム内で利用可能なドライバ",
+    "LBL_PROVIDER_ACTIVE": "アクティブ",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_ROUTING": "ルーティング",
+    "LBL_ROUTING_INFO_1": "車両のルートをマップするために使用するサーバーを選択します。 システムはルートをマッピングしたい点の座標を提供します",
+    "LBL_ROUTING_INFO_2": "サーバを追加するには、%s ファイル内の $routingServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。"
+  }
+}

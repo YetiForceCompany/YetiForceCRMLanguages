@@ -1,0 +1,12 @@
+{
+  "php": {
+    "SMSTemplates": "Modelli SMS",
+    "SINGLE_SMSTemplates": "Modello SMS",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_BASIC_INFORMATION": "Informazioni di base",
+    "FL_SUBJECT": "Oggetto",
+    "FL_MESSAGE": "Messaggio",
+    "FL_TARGET_MODULE": "Modulo",
+    "BL_SMS_CONTENT": "Contenuto SMS"
+  }
+}

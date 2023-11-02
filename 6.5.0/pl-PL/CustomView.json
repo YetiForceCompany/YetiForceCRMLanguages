@@ -1,0 +1,12 @@
+{
+  "php": {
+    "CustomView": "Filtry - konfiguracja",
+    "LBL_FEATURED": "Dodaj do ulubionych",
+    "LBL_COLOR_VIEW": "Kolor widoku",
+    "LBL_ADD_FIELD": "Dodaj pole",
+    "LBL_CUSTOM_RELATION_COLUMN": "Relacje jako niestandardowa kolumna",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrowanie jako dodatkowa kolumna na liście rekordów. Filtruje ona na podstawie wpisu znajdującego się w powiązanych rekordach. ",
+    "LBL_CUSTOM_CONDITIONS": "Warunki filtrowania powiązanych rekordów",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtruj bieżącą listę rekordów na podstawie relacji i powiązanych rekordów, które spełniają określone kryteria.\nNie ustawienie warunków skutkuje wyświetlaniem list rekordów z co najmniej jednym powiązaniem."
+  }
+}

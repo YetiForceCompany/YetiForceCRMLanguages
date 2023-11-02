@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Proxy Opcije",
+    "LBL_PROXY_CONFIGRATION": "Proxy konfiguracija",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy Opcije",
+    "LBL_PROXY_CONNECTION": "Veza",
+    "LBL_PROXY_PROTOCOL": "Protokol",
+    "LBL_PROXY_HOST": "Server",
+    "LBL_PROXY_PORT": "Port",
+    "LBL_PROXY_LOGIN": "Prijava",
+    "LBL_PROXY_PASSWORD": "Lozinka",
+    "LBL_PROXY_INFORMATION": "Sistemska mjesta koja komuniciraju s vanjskim serverima:\n- Sigurna tražilica za pretraživanje lozinki - Yetiforce poslužitelj, \n- Instalacija jezika - Github server, \n- Pronalaženje adresa - Yetiforce server, \n- Integracija s Magentom - Magento server, \n- Koordinatni pretraživač - Yetiforce server, OpenStreetMap server, \n- Traženje rute - Yetiforce server, servere koje je korisnik naznačio u konfiguraciji, \n- Komunikacija sa serverom za ažuriranje - Github server, \n- Komunikacija sa serverom za registraciju - Yetiforce server, \n- Integracija sa OpenStreetMap - Yetiforce server, OpenStreetMap server i servere označene sa korisnik u konfiguraciji, \n- Ažuriranje deviznih kurseva - Bankovni serveri (NBP, CBR, ECB, NBR), \n- Instalacija i ažuriranje biblioteka - Github server"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Podaci o konfiguraciji su sačuvani"
+  }
+}

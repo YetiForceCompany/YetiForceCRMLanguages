@@ -1,0 +1,33 @@
+{
+  "php": {
+    "SMSNotifier": "Wiadomości SMS",
+    "SINGLE_SMSNotifier": "Wiadomość SMS",
+    "LBL_CUSTOM_INFORMATION": "Informacje systemowe",
+    "BL_SMS_CONTENT": "Treść wiadomości SMS",
+    "FL_RELATED_TO": "Powiązany z",
+    "FL_STATUS": "Status",
+    "FL_PARENT": "SMS nadrzędny",
+    "FL_IMAGE": "Plik graficzny",
+    "FL_MESSAGE_ID": "ID wiadomości",
+    "PLL_UNDEFINED": "Niezdefiniowany",
+    "PLL_DELIVERED": "Dostarczony",
+    "PLL_FAILED": "Niepowodzenie",
+    "PLL_SENT": "Wysłane",
+    "PLL_QUEUE": "W kolejce",
+    "PLL_REPLY": "Odpowiedź",
+    "LBL_MASS_SEND_SMS_INFO": "Wszystkie SMS-y są wysłane w cronie.",
+    "LBL_CHECK_STATUS": "Sprawdź status",
+    "FL_MESSAGE": "Wiadomość",
+    "LBL_SMSNOTIFIER_INFORMATION": "Informacje o wiadomości",
+    "LBL_ADD_MORE_FIELDS": "Dodaj więcej pól",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Dodano wiadomości SMS do kolejki",
+    "LBL_TEMPLATE": "Szablon",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS maksymalnie 160 znaków",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Wyślij smsa do zaznaczonych numerów",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Numer telefonu z",
+    "LBL_ADD_IMAGE_FILE": "Dodaj plik graficzny",
+    "LBL_TYPE_THE_MESSAGE": "Treść wiadomości",
+    "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Limit jednorazowo tworzonych wiadomości tekstowych",
+    "LBL_SERVER_CONFIG": "Konfiguracja serwera"
+  }
+}

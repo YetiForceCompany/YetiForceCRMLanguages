@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "به روزرسانی واحد پول",
+    "LBL_CURRENCY_UPDATE": "به روزرسانی واحد پول",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "گزینه‌ها برای تنظیم نرخ تبدیل ارز موجود در سامانه.",
+    "LBL_SELECT_BANK": "انتخاب بانک",
+    "MSG_ONE_CURRENCY": "فقط یک واحد پولی اصلی تنظیم شده. برای دریافت نرخ تبدیل سایر واحدهای پولی لطفا واحد‌های پولی بیشتری در تنظیمات CRM وارد نمایید.",
+    "MSG_NO_NET_CONN": "اتصال به اینترنت برای دریافت اطلاعات واحد پولی برقرار نمی باشد.",
+    "LBL_HISTORY": "تاریخچه نرخ تبدیل ارز",
+    "LBL_BANK": "بانک مورد نظر برای گرفتن اطلاعات نرخ تبدیل ارز را انتخاب نمایید",
+    "LBL_CAL_DATE": "تاریخ دوره",
+    "LBL_MAINCURRENCY": "واحد پولی اصلی",
+    "LBL_CODE": "کد",
+    "LBL_SYMBOL": "نماد",
+    "LBL_CURRENCY_NAME": "نام واحد پول",
+    "LBL_CURRENCY_SYMBOL": "نماد واحد پولی",
+    "LBL_COURSE": "نرخ تبدیل",
+    "LBL_DATE": "تاریخ دانلود دوره",
+    "LBL_ACTUAL_DATE_OF_COURSE": "تاریخ دوره",
+    "LBL_SHOW": "نمایش",
+    "LBL_CURRENCIES_SUPPORTED": "لیست واحدهای پولی پشتیبانی شده توسط این بانک",
+    "LBL_CURRENCIES_UNSUPPORTED": "لیست واحدهای پولی پشتیبانی نشده توسط این بانک",
+    "LBL_SET_BANK_OK": "بانک فعال با موفقیت ذخیره شد.",
+    "LBL_SET_BANK_ERROR": "بانک فعال ذخیره نشد.",
+    "LBL_INFORMATIONS": "اطلاعات",
+    "LBL_WARNING": "هشدار!",
+    "NBP": "بانک ملی لهستان",
+    "ECB": "بانک مرکزی اروپا",
+    "CBR": "بانک مرکزی روسیه",
+    "NBR": "National Bank of Romania"
+  }
+}

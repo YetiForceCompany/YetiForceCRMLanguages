@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "Αιτήματα πωλήσεων",
+    "SINGLE_SQuoteEnquiries": "Αίτημα πώλησης",
+    "LBL_QUOTESENQUIRES_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_STATISTICS": "Στατιστικά",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_STATUS": "Κατασταση",
+    "SINGLE_SSalesProcesses": "Ευκαιρία",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_COMPLETED": "Ολοκληρώθηκε",
+    "LBL_CHANGE_STATUS": "Αλλαγή κατάστασης",
+    "FL_CAMPAIGN_ID": "Καμπάνια"
+  }
+}

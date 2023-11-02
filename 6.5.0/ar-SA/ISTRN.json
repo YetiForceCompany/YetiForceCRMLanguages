@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTRN": "Storage Transfer Received Notes",
+    "SINGLE_ISTRN": "Storage Transfer Received Notes",
+    "LBL_DESCRIPTION_BLOCK": "Description",
+    "LBL_ATTENTION_BLOCK": "التعليقات",
+    "FL_ACCEPTANCE_DATE": "تاريخ القبول",
+    "FL_VENDOR": "المورد",
+    "FL_SUBJECT": "الموضوع",
+    "FL_NUMBER": "Number",
+    "FL_STORAGE": "التخزين",
+    "FL_STATUS": "الحالة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_OBJECTIONS": "الاعتراضات",
+    "PLL_FOR_APPROVAL": "For approval",
+    "PLL_CANCELLED": "Cancelled",
+    "PLL_ACCEPTED": "تم قبوله",
+    "LBL_CHANGE_STATUS": "Change Status"
+  }
+}

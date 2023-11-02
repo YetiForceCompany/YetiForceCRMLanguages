@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Závislé polia",
+    "LBL_FIELDS_DEPENDENCY": "Závislé polia",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration of dynamic fields and blocks depending on specific criteria",
+    "LBL_NAME": "Názov vzťahu",
+    "LBL_EDIT": "Edit dependent",
+    "LBL_CREATE": "Create new dependent",
+    "LBL_SOURCE_MODULE": "Názov modulu",
+    "LBL_VIEWS": "Zobrazenia",
+    "LBL_VIEWS_INFO": "List of views where fields are to be hidden/shown, if a view is not selected the fields will always be visible",
+    "LBL_FIELDS_INFO": "Zoznam polí, ktoré budú viditeľné iba vtedy, ak budú splnené nižšie uvedené podmienky",
+    "LBL_GUI": "Dynamické polia",
+    "LBL_GUI_INFO": "Povolenie má za následok dynamické zobrazenie polí vo formulári pri zmene hodnôt v poliach.\nAk je zakázaná, zmeny sa prejavia až po uložení údajov.",
+    "LBL_MANDATORY": "Povinné polia",
+    "LBL_MANDATORY_INFO": "Po povolení všetky polia uvedené nižšie budú povinné",
+    "LBL_CONDITIONS": "Podmienky"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "به",
+    "LBL_EXPORT_TO_PDF": "خروجی به PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "اطلاعات نشانی",
+    "LBL_VENDORS_ADD_TASK": "افزودن وظیفه",
+    "LBL_VENDORS_ADD_EVENT": "افزودن رویداد",
+    "300-Sales-Software": "300-فروش-نرم افزار",
+    "301-Sales-Hardware": "301-فروش-سخت افزار",
+    "302-Rental-Income": "302-اجاره-درآمد",
+    "303-Interest-Income": "303-سهم-درآمد",
+    "304-Sales-Software-Support": "304-فروش-نرم افزار-پشتیبانی",
+    "305-Sales Other": "305-فروش سایر موارد",
+    "306-Internet Sales": "306-فروش اینترنتی",
+    "307-Service-Hardware Labor": "307-خدمات-کار سخت افزاری",
+    "308-Sales-Books": "308-فروش-کتاب ها",
+    "Email": "ایمیل اصلی",
+    "GL Account": "حساب معين",
+    "LBL_VENDOR_INFORMATION": "اطلاعات تامين کننده",
+    "Phone": "تلفن اصلی",
+    "SINGLE_Vendors": "تامین کننده",
+    "Vendor Name": "نام تامين کننده",
+    "Vendor No": "شماره تامين کننده",
+    "Vendors": "تامین کنندگان",
+    "Website": "وب‌سایت",
+    "LBL_BUILDING_NUMBER": "پلاک ساختمان",
+    "LBL_LOCAL_NUMBER": "شماره دفتر"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "با حذف تامین کننده سفارشات خرید مربوط به ان حذف خواهد شد، ایا مایل به حذف می باشید ؟",
+    "LBL_MASS_DELETE_CONFIRMATION": "با حذف این تامین کننده(ها) سفارشات خرید مربوط به ان حذف خواهد شد، ایا مایل به حذف می باشید؟"
+  }
+}

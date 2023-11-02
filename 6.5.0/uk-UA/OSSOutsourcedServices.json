@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Аутсорсинг Послуг",
+    "SINGLE_OSSOutsourcedServices": "Аутсорсинг Послуг",
+    "LBL_INFORMATION": "Основна інформація ",
+    "Assigned To": "Відповідальний ",
+    "LBL_osservicesstatus": "Статус",
+    "Individual Agreement": "Індивідуальна угода",
+    "In service": "Підтримується",
+    "Finished support": "Підтримка припинена",
+    "Product Name": "Назва послуги",
+    "Sub Category": "Підкатегорія",
+    "Category": "Категорія",
+    "Date Sold": "Дата початку продажів",
+    "Date in Service": "Дата закінчення підтримки",
+    "Description": "Опис",
+    "LBL_DESCRIPTION_INFORMATION": "Додаткова інформація",
+    "LBL_CUSTOM_INFORMATION": "Системна інформація",
+    "Where bought": "Де купити",
+    "Number": "№",
+    "Save": "Зберегти",
+    "LBL_GENERATE_EXTENSION": "Створити угоду",
+    "Selling proposition": "Угода",
+    "Active": "Активний",
+    "Inactive": "Неактивний"
+  }
+}

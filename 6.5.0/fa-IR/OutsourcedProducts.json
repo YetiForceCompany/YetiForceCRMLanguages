@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "محصولات برون‌سپاری شده",
+    "SINGLE_OutsourcedProducts": "محصول برون‌سپاری شده",
+    "LBL_INFORMATION": "محصولات برون‌سپاری شده",
+    "Assigned To": "اختصاص یافته به",
+    "LBL_RODZAJUMOWY": "نوع توافقنامه",
+    "LBL_osservicesstatus": "وضعیت",
+    "Individual Agreement": "توافق فردی",
+    "In service": "پشتیبانی شده",
+    "Finished support": "پشتیبانی پایان یافته",
+    "Product Name": "نام محصول",
+    "Sub Category": "زیردسته",
+    "Category": "دسته بندی",
+    "Date Sold": "تاریخ فروش",
+    "Date in Service": "تاریخ پایان پشتیبانی",
+    "Description": "شرح",
+    "LBL_DESCRIPTION_INFORMATION": "اطلاعات توصیفی",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "Where bought": "محل خرید",
+    "Number": "شماره",
+    "Save": "ذخیره",
+    "Selling proposition": "بالقوه",
+    "LBL_GENERATE_EXTENSION": "ایجاد افزونه",
+    "Active": "فعال",
+    "Inactive": "غیرفعال"
+  }
+}

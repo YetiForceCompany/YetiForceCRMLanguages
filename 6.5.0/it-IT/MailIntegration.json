@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Pannello di integrazione mail",
+    "SINGLE_MailIntegration": "Pannello di integrazione mail",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail non trovata nel database.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importa",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importa una email nella CRM, ti permetterà di gestire meglio le relazioni",
+    "LBL_SEARCH_EMAIL": "Ricerca indirizzo e-mail",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Cerca e seleziona il destinatario del messaggio",
+    "LBL_ADD_CALENDAR": "Aggiungi evento",
+    "LBL_ADD_MODCOMMENTS": "Aggiungi commento",
+    "LBL_SELECT_RECORD": "Seleziona il record relazionato",
+    "LBL_ADD_RECORD": "Aggiungi record relazionato"
+  },
+  "js": {
+    "JS_ERROR": "Messaggio YetiForce: errore sull'addin contatta l'amministratore del sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Messaggio YetiForte: Rimossa la relazione con successo.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Messaggio YetiForce: aggiunta con successo la relazione.",
+    "JS_IMPORT": "Messaggio YetiForce: e-mail importata con successo.",
+    "JS_CC": "CC",
+    "JS_BCC": "CCN"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Статусы изменений очереди",
+    "SINGLE_Queue": "Статусы изменений очереди",
+    "LBL_CUSTOM_INFORMATION": "Системная информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "FL_SUBJECT": "Субъект очереди",
+    "FL_RELATED_TO": "Связан с",
+    "FL_CHANGES": "Журнал изменений",
+    "LBL_DESCRIPTION_INFORMATION": "Детальное описание",
+    "FL_REASON_FOR_CHANGE": "Причина изменения",
+    "FL_REASON_FOR_REJECTION": "Причина отказа",
+    "FL_STATUS": "Статус",
+    "PLL_PLANNED": "Запланировано",
+    "PLL_ON_HOLD": "Приостановлен",
+    "PLL_FOR_VERIFICATION": "На проверке",
+    "PLL_IN_APPROVAL": "На утверждении",
+    "PLL_ACCEPTED": "Принято",
+    "PLL_COMPLETED": "Выполнено",
+    "PLL_CANCELLED": "Отменено"
+  }
+}

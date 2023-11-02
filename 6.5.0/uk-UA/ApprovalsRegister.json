@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Реєстр схвалень",
+    "SINGLE_ApprovalsRegister": "Реєстр схвалення",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "LBL_BASIC_INFORMATION": "Основна інформція",
+    "LBL_DESCRIPTION_INFORMATION": "Детальний опис",
+    "FL_SUBJECT": "Тема",
+    "FL_APPROVALS_STATUS": "Статус",
+    "FL_DESCRIPTION": "Опис",
+    "FL_APPROVAL": "Затвердження",
+    "FL_TYPE": "Тип",
+    "FL_STATUS": "Статус",
+    "FL_REGISTRATION_DATE": "Дата реєстрації",
+    "PLL_FOR_VERIFICATION": "Для перевірки",
+    "PLL_ACCEPTED": "Погоджено",
+    "PLL_REJECTED": "Відхилено",
+    "PLL_ACCEPTANCE": "Визнання",
+    "PLL_RESIGNATION": "Відставка"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Phòng ban",
+    "SINGLE_MultiCompany": "Phòng ban",
+    "LBL_BASIC_INFORMATION": "Chi tiết công ty",
+    "LBL_CONTACT_INFORMATION": "Thông tin liên hệ",
+    "LBL_REGISTRATION_INFORMATION": "Thông tin đăng ký",
+    "LBL_ADDRESS_INFORMATION": "Thông tin địa chỉ",
+    "LBL_SYSTEM_INFORMATION": "Thông tin hệ thống",
+    "LBL_ADDITIONAL_INFORMATION": "Thông tin bổ sung",
+    "FL_COMPANY_NAME": "Tên công ty",
+    "FL_PARENT": "Phòng ban cấp trên",
+    "FL_STATUS": "Trạng thái",
+    "FL_EMAIL_1": "Email chính",
+    "FL_EMAIL_2": "Email dự phòng",
+    "FL_PHONE": "Điện thoại chính",
+    "FL_MOBILE": "Điện thoại phụ",
+    "FL_FAX": "Fax",
+    "FL_VATID": "Mã số thuế",
+    "FL_COMPANY_ID1": "Số đăng ký kinh doanh",
+    "FL_COMPANY_ID2": "NCR",
+    "FL_INTERNAL_NOTES": "Lưu ý nội bộ",
+    "FL_PUBLIC_NOTES": "Ghi chú công khai",
+    "PLL_ACTIVE": "Bật",
+    "PLL_INACTIVE": "Tắt",
+    "LBL_SHOW_HIERARCHY": "Cấp bậc",
+    "FL_WEBSITE": "Trang web",
+    "FL_LOGO": "Logo"
+  }
+}

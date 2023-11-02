@@ -1,0 +1,6 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Importação agendada foi concluída",
+    "LBL_CRON_COMPLETED_IMPORT": "Resumo da importação para o módulo:"
+  }
+}

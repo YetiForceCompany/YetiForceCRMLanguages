@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Ý tưởng",
+    "SINGLE_Ideas": "Ý tưởng",
+    "LBL_IDEAS_INFORMATION": "Thông tin cơ bản",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_STATUS": "Trạng thái",
+    "Description": "Thông tin cơ bản",
+    "LBL_EXTENT_DESCRIPTION": "Chi tiết",
+    "Attention": "Nhận xét",
+    "LBL_NO": "Số",
+    "Draft": "Dự thảo",
+    "Proposition": "Đề xuất"
+  }
+}

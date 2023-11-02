@@ -1,0 +1,23 @@
+{
+  "php": {
+    "Map": "Mapa",
+    "LBL_MAP": "Mapa",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Nivel de sección",
+    "LBL_TILE_LAYER_INFO_1": "Selecciona el servidor desde el que deseas descargar niveles de sección para mapas en el sistema. Cada servidor ofrece un aspecto diferente del mapa, también puedes agregar tu propio servidor público o prestar atención a los límites y restricciones de licencia.",
+    "LBL_TILE_LAYER_INFO_2": "Para agregar servidores adicionales, edita la variable $tileLayerServers en el archivo %s. Los servidores del nivel de sección disponibles públicamente están disponibles en:",
+    "LBL_PROVIDER_NAME": "Nombre del proveedor",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Plantilla url del nivel de sección",
+    "LBL_API_URL": "URL de la API del proveedor",
+    "LBL_DRIVER": "Driver",
+    "LBL_COORDINATES": "Coordenadas",
+    "LBL_COORDINATES_INFO_1": "Seleccione el servidor que se utilizará para descargar coordenadas geográficas, el Cron actualizará las coordenadas para los campos de dirección. Preste atención a los límites del proveedor, el sistema enviará frecuentemente solicitudes a los servidores. Tenga en cuenta el hecho de que los servidores gratuitos tienen grandes límites y comparte sus datos con ellos, siempre elija servidores de confianza.",
+    "LBL_COORDINATES_INFO_2": "Para agregar servidores adicionales, edita la variable $coordinatesServers en el archivo %s. Los servidores de coordenadas disponibles públicamente están disponibles en:",
+    "LBL_AVAILABLE_DRIVERS": "Drivers disponibles en el sistema",
+    "LBL_PROVIDER_ACTIVE": "Activo",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_ROUTING": "Enrutamiento",
+    "LBL_ROUTING_INFO_1": "Seleccione el servidor que se utilizará para mapear rutas para vehículos, el sistema proporcionará coordenadas de puntos para los cuales desea mapear la ruta.",
+    "LBL_ROUTING_INFO_2": "Para agregar servidores adicionales, edita la variable $routingServers en el archivo %s. Los servidores de enrutamiento disponibles públicamente están disponibles en:"
+  }
+}

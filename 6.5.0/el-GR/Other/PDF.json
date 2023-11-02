@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_INVOICE": "Τιμολόγιο",
+    "LBL_INVOICE_NUMBER": "Αριθμός τιμολογίου",
+    "LBL_TO_FINVOICE_NUMBER": "Στον αριθμό τιμολογίου",
+    "LBL_INVOICE_PROFORMA": "Προτιμολόγιο",
+    "LBL_RECIPIENT": "Παραλήπτης",
+    "LBL_ORDER": "Παραγγελία",
+    "LBL_SUBMIT_ORDER": "Πρόσωπο εξουσιοδοτημένο να υποβάλει παραγγελία",
+    "LBL_TO_PAY": "Σύνολο",
+    "LBL_TO_PAY_WORD": "Σύνολο (ολογράφως)",
+    "LBL_DEALER": "Πωλητής",
+    "LBL_BUYER": "Αγοραστής",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Πρόσωπο εξουσιοδοτημένο για παραλαβή",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Εξουσιοδοτημένο πρόσωπο για έκδοση",
+    "LBL_SALES_QUOTE_FOR": "Προσφορά για",
+    "LBL_DATE_EXECUTION": "Ημερομηνία ολοκλήρωσης",
+    "LBL_STAGE": "Εκδόθηκε από",
+    "LBL_VALID_UNTIL": "Ισχύει μέχρι",
+    "LBL_QUOTE_NUMBER": "Αριθμός προσφοράς",
+    "LBL_DETAILS": "Λεπτομέρειες",
+    "LBL_COMMENTS": "Σχόλια",
+    "LBL_FIRST_NAME": "Όνομα",
+    "LBL_LAST_NAME": "Επώνυμο",
+    "LBL_PHONE": "Τηλέφωνο",
+    "LBL_EMAIL": "E-mail",
+    "LBL_VATID": "ΑΦΜ",
+    "LBL_SALE_DATE": "Ημερομηνία Πώλησης",
+    "LBL_PLACE_DATE": "Τόπος, ημερομηνία",
+    "LBL_REFUND_AMOUNT": "Ποσό επιστροφής",
+    "LBL_SURCHARGE_AMOUNT": "Ποσό πρόσθετης επιβάρυνσης"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Commentaire",
+    "LBL_RECORDS_LIST": "Liste de commentaires",
+    "LBL_MODCOMMENTS_INFORMATION": "Commentaires",
+    "LBL_OTHER_INFORMATION": "Informations additionnelles",
+    "LBL_ADDING_COMMENT": "Ajoutez un commentaire",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Saisir les commentaires ici",
+    "Comment": "Commentaire",
+    "Creator": "Créateur",
+    "Related To Comments": "Relié à",
+    "ReasonToEdit": "Justification édition",
+    "UserId": "N° d'utilisateur",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Un commentaire a été ajouté au ticket",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Un commentaire a été ajouté au ticket, le contenu du commentaire est ci-dessous",
+    "LBL_NOTICE_WELCOME": "Bienvenue",
+    "LBL_NOTICE_CREATED": "Crée par",
+    "LBL_COMMENTS_0": "Enregistrement actuel",
+    "LBL_COMMENTS_SEARCH": "Chercher",
+    "LBL_ALL_RECORDS": "Enregistrements liés"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "php": {
+    "OpenStreetMap": "公开地图",
+    "LBL_GROUP_BY": "用户组",
+    "LBL_GROUP_NEIGHBOURS": "相邻元素分组",
+    "LBL_NOT_FOUND_PLACE": "没有找到地址",
+    "LBL_SEARCH_ADDRESS_DESCRIPTION": "地址查找器：街道门牌号、城市、国家",
+    "LBL_IN_RADIUS": "半径 [公里]",
+    "LBL_CALCULATE_TRACK": "设置路由",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "设置路由",
+    "LBL_ROUTE_DESCRIPTION": "路线说明",
+    "LBL_DISTANCE": "距离[公里]",
+    "LBL_TRAVEL_TIME": "时间[分]",
+    "LBL_INSTRUCTION": "手动",
+    "LBL_SEARCH_IN_RADIUS": "搜索半径",
+    "LBL_CLIPBOARD": "剪贴板",
+    "LBL_CLIPBOARD_DESC": "借助剪贴板，您可以保存当前地图位置供以后找回，而无须再次搜索或将它们添加到地图。",
+    "LBL_INDIRECT_POINT": "间接点",
+    "LBL_SEARCH_COMPANY_INPUT": "在系统中搜索",
+    "LBL_SEARCH_COMPANY_DESCRIPTION": "借助搜索引擎，您可以从地图上的系统找到并添加数据。",
+    "LBL_SEARCH_MY_LOCATION": "在地图上显示我的位置",
+    "LBL_MY_LOCATION": "我的位置",
+    "BTN_COPY_TO_CLIPBOARD": "保存到剪贴板",
+    "BTN_DELETE_CLIPBOARD": "从剪贴板删除",
+    "BTN_LOAD_ALL_CLIPBOARD": "从模块加载所有地址数据并保存到剪贴板。",
+    "LBL_GROUP_POINTS": "地图上的群组位置",
+    "LBL_GROUP_POINTS_DESC": "基于所选字段的群组地图位置。选中时，会显示带有字段值的图例。",
+    "ERR_ADDRESS_NOT_FOUND": "找不到地址"
+  }
+}

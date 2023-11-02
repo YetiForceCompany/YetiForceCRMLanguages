@@ -1,0 +1,33 @@
+{
+  "php": {
+    "Watchdog": "Watchdog",
+    "LBL_YETIFORCE_WATCHDOG_HEADER": "YetiForce watchdog モニター",
+    "LBL_YETIFORCE_WATCHDOG_DESC": "YetiForce ウォッチドッグ監視サービスの設定ページ",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "The watchdog mechanism monitors the CRM system work and transfers selected information to YetiForce S.A. All collected information will not be published and is intended only to monitor the CRM system for incorrect operation and the environment on which it is installed.",
+    "LBL_PARAM_NAME": "パラメータ",
+    "LBL_PARAM_VAL": "値",
+    "LBL_PARAM_NOT_ALLOWED": "パラメーターは許可されていません",
+    "LBL_SAVED": "変更を保存しました",
+    "LBL_WATCHDOGURL": "サービスURL",
+    "LBL_SYSTEMVERSION": "YetiForce システム バージョン",
+    "LBL_PHPVERSION": "PHPのバージョン",
+    "LBL_OSVERSION": "システムバージョン",
+    "LBL_DBVERSION": "データベースのバージョン",
+    "LBL_DATABASE": "データベース情報",
+    "LBL_SAPIVERSION": "APIサーバーのバージョン",
+    "LBL_LASTCRONTIME": "前回のCron時間",
+    "LBL_SPACEROOT": "ルートスペース",
+    "LBL_SPACESTORAGE": "ストレージ容量",
+    "LBL_SPACETEMP": "一時ディレクトリスペース",
+    "LBL_SPACEBACKUP": "バックアップディレクトリのスペース",
+    "LBL_CRMVERSION": "CRMのバージョン",
+    "LBL_DOMAIN": "CRMシステムURL",
+    "LBL_STABILITY": "システム安定の構成",
+    "LBL_LIBRARIES": "ライブラリのサポート",
+    "LBL_PERFORMANCE": "パフォーマンス検証",
+    "LBL_PUBLICDIRECTORYACCESS": "公開ディレクトリ",
+    "LBL_ENVIRONMENT": "環境情報",
+    "LBL_WRITABLEFILESANDFOLDERS": "ファイルとフォルダへの書き込み",
+    "LBL_PATHVERIFICATION": "Path verification"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Εξωτερικά προϊόντα",
+    "SINGLE_OutsourcedProducts": "Εξωτερικό προϊόν",
+    "LBL_INFORMATION": "Βασικές πληροφορίες",
+    "Assigned To": "Ανατέθηκε σε",
+    "LBL_RODZAJUMOWY": "Τύπος συμφωνίας",
+    "LBL_osservicesstatus": "Κατάσταση",
+    "Individual Agreement": "Ατομική σύμβαση",
+    "In service": "Υποστηρίζεται",
+    "Finished support": "Υποστήριξη τερματίστηκε",
+    "Product Name": "Όνομα Προϊόντος",
+    "Sub Category": "Υποκατηγορία",
+    "Category": "Κατηγορία",
+    "Date Sold": "Ημερομηνία πώλησης",
+    "Date in Service": "Ημερομηνία λήξης υποστήριξης",
+    "Description": "Περιγραφή",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "Where bought": "Από πού αγοράστηκε",
+    "Number": "Αριθμός",
+    "Save": "Αποθήκευση",
+    "Selling proposition": "Ευκαιρία",
+    "LBL_GENERATE_EXTENSION": "Δημιουργία επέκτασης",
+    "Active": "Ενεργό",
+    "Inactive": "Ανενεργό"
+  }
+}

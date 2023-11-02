@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "インシデント登録",
+    "SINGLE_IncidentRegister": "インシデント登録",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "FL_NAME": "名前",
+    "FL_LOCATION_REGISTER": "場所の登録",
+    "FL_DATASETREGISTER": "データセットの登録",
+    "PLL_DRAFT": "ドラフト（下書き）",
+    "PLL_WAITING_FOR_ACCEPTANCE": "承認待ちです",
+    "PLL_IN_REALIZATION": "実現",
+    "PLL_COMPLETED": "完了",
+    "PLL_CANCELLED": "キャンセル済",
+    "FL_STATUS": "状態",
+    "FL_TYPE": "タイプ",
+    "PLL_INTERNAL": "内部",
+    "PLL_EXTERNAL": "外部",
+    "LBL_INCIDENT_DATES": "インシデント日付",
+    "FL_INCIDENT_DATE": "Incident date",
+    "FL_INCIDENT_DISCOVERY": "インシデント発見日",
+    "FL_INCIDENT_REPORT_DATE": " インシデント報告日",
+    "FL_INCIDENT_PUBLICATION_DATE": "インシデント公表日",
+    "FL_PEOPLE_NUMBER": "人数",
+    "LBL_BREACH_CIRCUMSTANCES": "違反の状況",
+    "FL_BREACH_CIRCUMSTANCES": "違反の状況",
+    "LBL_NATURE_OF_BREACH": "違反の特性",
+    "FL_NATURE_OF_BREACH": "違反の性質",
+    "LBL_POSSIBLE_CONSEQUENCES": "考えられる結果",
+    "FL_POSSIBLE_CONSEQUENCES": "考えられる結果",
+    "LBL_SECURITY_MEASURES": "適用されたセキュリティ対策",
+    "FL_SECURITY_MEASURES": "適用されたセキュリティ対策"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Etkinlik kaydı",
+    "SINGLE_ActivityRegister": "Etkinlik kaydı",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "FL_SUBJECT": "Konu",
+    "FL_PARENT_ACTIVITY": "Ana etkinlik",
+    "FL_STATUS": "Durum",
+    "PLL_DRAFT": "Taslak",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Kabul bekliyor",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_COMPLETED": "Tamamlandı",
+    "PLL_CANCELLED": "İptal edildi",
+    "FL_DATA_SET": "Veri Seti",
+    "PLL_ENTRUSTMENT": "Emanet",
+    "PLL_SHARING": "Paylaşım",
+    "PLL_TRANSFER": "Transfer",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Emanet kabul et",
+    "PLL_INTERNAL": "Dahili",
+    "FL_START_DATE": "Başlangıç tarihi",
+    "FL_END_DATE": "Bitiş tarihi",
+    "LBL_DATES": "Etkinlik Tarihi",
+    "LBL_DESCRIPTION": "Açıklama",
+    "FL_DESCRIPTION": "Açıklama",
+    "FL_COMMENTS": "Yorumlar",
+    "LBL_COMMENTS": "Yorumlar",
+    "FL_ACTIVITY_TYPE": "Etkinlik türü"
+  }
+}

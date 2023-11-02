@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_INVOICE": "Facture",
+    "LBL_INVOICE_NUMBER": "Vat invoice number",
+    "LBL_TO_FINVOICE_NUMBER": "To invoice number",
+    "LBL_INVOICE_PROFORMA": "Facture Proforma",
+    "LBL_RECIPIENT": "Bénéficiaire",
+    "LBL_ORDER": "Commande",
+    "LBL_SUBMIT_ORDER": "Personne autorisée à soumettre la commande",
+    "LBL_TO_PAY": "Total",
+    "LBL_TO_PAY_WORD": "Total (en mots)",
+    "LBL_DEALER": "Vendeur",
+    "LBL_BUYER": "Acheteur",
+    "LBL_AUTHORIZED_TO_RECEIVE": "Personne autorisée à recevoir",
+    "LBL_AUTHORIZED_TO_BE_ISSUED": "Personne autorisée à émettre",
+    "LBL_SALES_QUOTE_FOR": "Devis pour",
+    "LBL_DATE_EXECUTION": "Date d'achèvement",
+    "LBL_STAGE": "Émis par",
+    "LBL_VALID_UNTIL": "Valable jusqu’au",
+    "LBL_QUOTE_NUMBER": "Numéro du devis",
+    "LBL_DETAILS": "Détails",
+    "LBL_COMMENTS": "Commentaires",
+    "LBL_FIRST_NAME": "Prénom",
+    "LBL_LAST_NAME": "Nom de famille",
+    "LBL_PHONE": "Téléphone",
+    "LBL_EMAIL": "Email",
+    "LBL_VATID": "N° d'identification TVA",
+    "LBL_SALE_DATE": "Date de vente",
+    "LBL_PLACE_DATE": "Lieu, date",
+    "LBL_REFUND_AMOUNT": "Refund amount",
+    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
+  }
+}

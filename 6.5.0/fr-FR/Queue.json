@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Modifications en attente",
+    "SINGLE_Queue": "Modifications en attente",
+    "LBL_CUSTOM_INFORMATION": "Informations du système",
+    "LBL_BASIC_INFORMATION": "Informations de base",
+    "FL_SUBJECT": "Sujet",
+    "FL_RELATED_TO": "Lié à",
+    "FL_CHANGES": "Changer de liste",
+    "LBL_DESCRIPTION_INFORMATION": "Description details",
+    "FL_REASON_FOR_CHANGE": "Raison du changement",
+    "FL_REASON_FOR_REJECTION": "Raison du rejet",
+    "FL_STATUS": "État ",
+    "PLL_PLANNED": "Programmé",
+    "PLL_ON_HOLD": "En attente",
+    "PLL_FOR_VERIFICATION": "Pour vérification",
+    "PLL_IN_APPROVAL": "En cours d'approbation",
+    "PLL_ACCEPTED": "Accepté",
+    "PLL_COMPLETED": "Completé",
+    "PLL_CANCELLED": "Annulée"
+  }
+}

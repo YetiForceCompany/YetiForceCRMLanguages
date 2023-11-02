@@ -1,0 +1,37 @@
+{
+  "php": {
+    "CustomView": "フィルタ - 設定",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "このツールを使用すると、モジュールのカスタムビューを設定できます。 これらのモジュールにはレコードが含まれ、YetiForce CRMの標準フィルターを使用する必要があります。",
+    "ViewName": "表示名",
+    "SetDefault": "既定",
+    "LBL_PRIVILEGES_TO_EDIT": "編集",
+    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "Delete": "削除",
+    "Delete CustomView": "カスタムビューが削除されました",
+    "Saving CustomView": "ビューが保存されました",
+    "Actions": "アクション",
+    "Edit": "編集",
+    "LBL_FEATURED_LABELS": "お気に入り",
+    "LBL_CREATED_BY": "作成者:",
+    "LBL_ADD_FILTER": "フィルターを追加",
+    "LBL_ALL_GROUP_LIST": "利用可能なオプション",
+    "LBL_GROUP_MEMBERS": "アクションに含まれます",
+    "LBL_ADD_PERMISSIONS": "権限を追加",
+    "LBL_RECEIVE_PERMISSION": "権限を受け取る",
+    "LBL_SAVE_SEQUENCES": "シーケンスが正常に保存されました",
+    "LBL_SORTING": "並べ替え",
+    "LBL_SORTING_SETTINGS": "並べ替え設定",
+    "LBL_SORTING_SETTINGS_WORNING": "レコードのソートにより、ページの読み込み時間が大幅に増加する可能性があります。",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "レコードを並べ替えるフィールドを選択します",
+    "LBL_SORT_ASCENDING_ORDER": "昇順でソート",
+    "LBL_SORT_DESCENDING_ORDER": "降順でソート",
+    "LBL_ATTENTION": "警告！",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
+    "LBL_PUBLIC": "Public",
+    "LBL_PRIVATE": "Private"
+  },
+  "js": {
+    "Saving changes": "変更を保存しています...",
+    "Update labels": "更新"
+  }
+}

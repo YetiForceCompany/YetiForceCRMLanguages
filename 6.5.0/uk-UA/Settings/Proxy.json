@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Проксі",
+    "LBL_PROXY_CONFIGRATION": "Конфігурація проксі",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Проксі",
+    "LBL_PROXY_CONNECTION": "З'єднання",
+    "LBL_PROXY_PROTOCOL": "Протокол",
+    "LBL_PROXY_HOST": "Хост",
+    "LBL_PROXY_PORT": "Порт",
+    "LBL_PROXY_LOGIN": "Логін",
+    "LBL_PROXY_PASSWORD": "Пароль",
+    "LBL_PROXY_INFORMATION": "Системи з зв’язком із зовнішніми серверами: \n - Безпечний пошук паролів - сервер Yetiforce, \n - Встановлення мови - Github сервер, \n - Пошук адрес - Yetiforce сервер, \n - Інтеграція з Magento - сервер Magento, \n - Пошук координат - сервер Yetiforce, OpenStreetMap server, \n - Пошук за маршрутом - сервер Yetiforce, сервери зазначені користувачем в конфігурації, \n - Комунікація з сервером оновлень - Github сервер, \n - Комунікація з сервером реєстрації - сервер Yetiforce, \n - Інтеграція з OpenStreetMap - сервер Yetiforce, OpenStreetMap та сервери, зазначені користувачем в конфігурації, \n - Оновлення курсів валют - Банківські сервери (NBP, CBR, ECB, NBR), \n - Встановлення та оновлення бібліотек - Github сервер"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Деталі конфігурації збережено"
+  }
+}

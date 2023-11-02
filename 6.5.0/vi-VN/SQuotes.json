@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SQuotes": "Báo giá",
+    "SINGLE_SQuotes": "Báo giá",
+    "LBL_SQUOTES_INFORMATION": "Thông tin cơ bản",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "LBL_STATISTICS": "Thống kê",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_NUMBER": "Số",
+    "LBL_CLOSED_TIME": "Thời Gian Đóng",
+    "LBL_STATUS": "Trạng thái",
+    "LBL_COMPANY_NAME": "Tên công ty",
+    "SINGLE_SSalesProcesses": "Cơ hội",
+    "FL_TOTAL_PRICE": "Net total",
+    "FL_MARGINP": "Tổng phần trăm lợi nhuận biên",
+    "FL_MARGIN": "Tổng lợi nhuận",
+    "FL_SUM_GROSS": "Gross Amount",
+    "FL_SUM_DISCOUNT": "Số tiền giảm giá",
+    "FL_VALID_UNTIL": "Có hiệu lực đến",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_FOR_VERIFICATION": "Xác minh dữ liệu",
+    "PLL_AWAITING_DECISION": "Đang chờ quyết định",
+    "PLL_NEGOTIATIONS": "Thương lượng",
+    "PLL_CANCELLED": "Đã huỷ",
+    "PLL_ACCEPTED": "Đã chấp nhận",
+    "LBL_CHANGE_STATUS": "Đổi trạng thái",
+    "FL_PARENT_SQUOTES": "Báo giá cấp cha"
+  }
+}

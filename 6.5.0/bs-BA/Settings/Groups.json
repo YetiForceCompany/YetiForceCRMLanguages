@@ -1,0 +1,24 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_ADD_USERS_ROLES": "Dodaj korisnike, uloge ...",
+    "LBL_DUPLICATES_EXIST": "Naziv grupe već postoji",
+    "LBL_GROUP_MEMBERS": "Članovi grupe",
+    "LBL_GROUP_NAME": "Naziv grupe",
+    "LBL_ROLEANDSUBORDINATE": "Uloga i podređeni",
+    "LBL_TO_OTHER_GROUP": "U drugu grupu",
+    "LBL_TRANSFORM_OWNERSHIP": "Prenos vlasništva",
+    "SINGLE_Groups": "Grupa",
+    "Users": "Korisnici",
+    "Name": "Naziv grupe",
+    "Description": "Opis",
+    "FL_PARENT": "Vođa tima",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Prekoračena je granica dozvoljenih grupnih gnijezda.",
+    "LBL_INDEFINITE_LOOP": "Trenutne postavke će stvoriti neograničenu petlju. Molimo promijenite članove grupe.",
+    "LBL_GROUP_DUPLICATE": "Duplikat"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Odaberite najmanje jednog člana za grupu",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Grupa uspješno izbrisana"
+  }
+}

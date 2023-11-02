@@ -1,0 +1,29 @@
+{
+  "php": {
+    "FL_NAME": "Nome",
+    "FL_PROVIDER": "Provider SMS",
+    "FL_STATUS": "Stato",
+    "FL_SMSAPI_FROM": "Nome mittente",
+    "FL_API_KEY": "Chiave API",
+    "LBL_ADD_RECORD": "Aggiungi provider SMS",
+    "LBL_SMSNOTIFIER": "SMS provider - Configurazione",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nuovo provider SMS",
+    "LBL_EDIT_CONFIGURATION": "Modifica provider SMS",
+    "BTN_SAVE": "Salva",
+    "BTN_CLOSE": "Annulla",
+    "LBL_SMSPROVIDER_CREATE": "Aggiungi fornitore",
+    "LBL_SMSPROVIDER_EDIT": "Modifica fornitore",
+    "LBL_CALLBACK_ADDRESSES": "Indirizzi di richiamata",
+    "LBL_CALLBACK_ADDRESSES_DESC": "Per poter generare gli indirizzi di richiamata per la comunicazione via SMS, è prima necessario creare una connessione al servizio web per gli SMS.\nI seguenti URL devono essere inseriti direttamente nella sezione di richiamata al fornitore.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Rapporti (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Ricezione (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL per i rapporti di consegna. Da inserire direttamente al fornitore.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL per le ricezioni. Da inserire direttamente al fornitore."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare questo Provider SMS?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Provider SMS eliminato",
+    "JS_SAVE_SUCCESS": "Provider SMS salvato"
+  }
+}

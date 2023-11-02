@@ -1,0 +1,35 @@
+{
+  "php": {
+    "ConfigEditor": "Edytor konfiguracji",
+    "LBL_DEFAULT_MODULE": "Domyślny moduł",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maksymalna długość tekstu w widoku listy",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maksymalna ilość wyświetlanych rekordów na stronę w widoku listy",
+    "LBL_DEFAULT_LAYOUT": "Układ",
+    "LBL_SHOWING_BREADCRUMBS": "Pokaż menu okruszkowe",
+    "LBL_TITLE_MAX_LENGTH": "Maksymalna długość znaków dla tytułu",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Minimalna częstotliwość crona [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maksymalna liczba rekordów w masowej edycji",
+    "LBL_BG_CLOSING_MODAL": "Włącz zamykanie okna modalnego klikając w tło",
+    "LBL_HREF_MAX_LEGTH": "Maksymalna długość dla tagu href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Pokaż wybór języka na stronie logowania",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Pokaż wybór layout-u na stronie logowania",
+    "LBL_CONFIG_EDITOR": "System - konfiguracja",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Aktualizuj plik konfiguracyjny aplikacji",
+    "LBL_MAX_UPLOAD_SIZE": "Maksymalna wielkość upload-u",
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "Relacja",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "Maksymalna długość komentarza widocznego w powiązanym rekordzie",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "Te pola są dostępne w niektórych relacjach, np. w zakładce Produkty i usługi w module Kontrahenta",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "Pokaż nazwy modułów powiązanych w zakładkach",
+    "LBL_RELATION_SHOW_RELATED_ICON": "Pokaż ikony w powiązanych zakładkach",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "Pokaż liczbę rekordów w zakładkach powiązanych modułów",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Oddziel przyciski akcji zmiany dodatkowych danych",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Przycisk określa specjalny typ danych przynależny tylko do relacji, dostępny np. w module Wydarzenia",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Maksymalna liczba eksportowanych rekordów",
+    "LBL_PERFORMANCE": "Wydajność"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Szczegóły konfiguracji zostały zapisane",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Wprowadź wartość od 1 do 100"
+  }
+}

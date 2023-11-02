@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Termék kategória",
+    "SINGLE_ProductCategory": "Termék kategória",
+    "LBL_CUSTOM_INFORMATION": "Vevő információk",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "FL_PARENT_CATEGORY": "Szülőkategória",
+    "LBL_CHILD_PRODUCTCATEGORY": "Alkategóriák",
+    "FL_ACTIVE": "Aktív",
+    "FL_CATEGORY_NAME": "Kategória név"
+  }
+}

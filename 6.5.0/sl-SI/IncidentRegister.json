@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Register incidentov",
+    "SINGLE_IncidentRegister": "Register dogodkov",
+    "LBL_BASIC_INFORMATION": "Osnovni podatki",
+    "FL_NAME": "Ime",
+    "FL_LOCATION_REGISTER": "Lokacija registrov",
+    "FL_DATASETREGISTER": "Nabor podatkov registra",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Čakaj na prevzem",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_COMPLETED": "Zaključeno",
+    "PLL_CANCELLED": "Prekinjeno",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Vrsta",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Zunanje",
+    "LBL_INCIDENT_DATES": "Datumi dogodka",
+    "FL_INCIDENT_DATE": "Datum dogodka",
+    "FL_INCIDENT_DISCOVERY": "Datum odkritja dogodka",
+    "FL_INCIDENT_REPORT_DATE": " Datum poročila o dogodku",
+    "FL_INCIDENT_PUBLICATION_DATE": "Datum objave dogodka",
+    "FL_PEOPLE_NUMBER": "Število oseb",
+    "LBL_BREACH_CIRCUMSTANCES": "Okoliščine kršitve zaščite podatkov",
+    "FL_BREACH_CIRCUMSTANCES": "Okoliščine kršitve zaščite podatkov",
+    "LBL_NATURE_OF_BREACH": "Vzrok kršitve zaščite podatkov",
+    "FL_NATURE_OF_BREACH": "Vzrok kršitve zaščite podatkov",
+    "LBL_POSSIBLE_CONSEQUENCES": "Možne posledice",
+    "FL_POSSIBLE_CONSEQUENCES": "Možne posledice",
+    "LBL_SECURITY_MEASURES": "Uporabljeni varnostni ukrepi",
+    "FL_SECURITY_MEASURES": "Uporabljeni varnostni ukrepi"
+  }
+}

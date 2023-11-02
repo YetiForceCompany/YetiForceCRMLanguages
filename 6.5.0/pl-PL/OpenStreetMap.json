@@ -1,0 +1,30 @@
+{
+  "php": {
+    "OpenStreetMap": "OpenStreetMap",
+    "LBL_GROUP_BY": "Grupuj",
+    "LBL_GROUP_NEIGHBOURS": "Połącz najbliższe elementy",
+    "LBL_NOT_FOUND_PLACE": "Nie odnaleziono miejsca",
+    "LBL_SEARCH_ADDRESS_DESCRIPTION": "Wyszukiwarka adresu: ulica, numer budynku, miasto, kraj",
+    "LBL_IN_RADIUS": "w promieniu [km]",
+    "LBL_CALCULATE_TRACK": "Wyznacz trasę",
+    "LBL_CALCULATE_ROUTE_HEADER_BLOCK": "Wyznaczanie trasy",
+    "LBL_ROUTE_DESCRIPTION": "Opis trasy",
+    "LBL_DISTANCE": "Dystans [km]",
+    "LBL_TRAVEL_TIME": "Czas podróży [min]",
+    "LBL_INSTRUCTION": "Instrukcja",
+    "LBL_SEARCH_IN_RADIUS": "Wyszukaj w promieniu",
+    "LBL_CLIPBOARD": "Schowek",
+    "LBL_CLIPBOARD_DESC": "Schowek umożliwia zapisanie aktualnych punktów mapy w celu późniejszego ich odtworzenia, bez konieczności ponownego wyszukiwania lub dodawania do mapy.",
+    "LBL_INDIRECT_POINT": "Punkt pośredni",
+    "LBL_SEARCH_COMPANY_INPUT": "Wyszukaj w systemie",
+    "LBL_SEARCH_COMPANY_DESCRIPTION": "Wyszukiwarka umożliwia znalezienie oraz dodanie do mapy danych z systemu.",
+    "LBL_SEARCH_MY_LOCATION": "Pokaż moją lokalizację na mapie",
+    "LBL_MY_LOCATION": "Moja lokalizacja",
+    "BTN_COPY_TO_CLIPBOARD": "Zapisz do schowka",
+    "BTN_DELETE_CLIPBOARD": "Usuń ze schowka",
+    "BTN_LOAD_ALL_CLIPBOARD": "Wczytaj i zapisz do schowka wszystkie dane adresowe z modułu.",
+    "LBL_GROUP_POINTS": "Grupuj punkty na mapie",
+    "LBL_GROUP_POINTS_DESC": "Grupuj punkty mapy na podstawie wybranego pola. Po wybraniu wyświetlana jest legenda z wartościami pola.",
+    "ERR_ADDRESS_NOT_FOUND": "Nie znaleziono adresu"
+  }
+}

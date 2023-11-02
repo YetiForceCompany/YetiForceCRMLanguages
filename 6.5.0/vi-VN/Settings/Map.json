@@ -1,0 +1,23 @@
+{
+  "php": {
+    "Map": "Bản đồ",
+    "LBL_MAP": "Bản đồ",
+    "LBL_MAP_DESCRIPTION": "",
+    "LBL_TILE_LAYER": "Tile layer",
+    "LBL_TILE_LAYER_INFO_1": "Chọn máy chủ bạn muốn tải về tite layer cho bản đồ trong hệ thống của bạn. Mỗi máy chủ cung cấp một cái nhìn khác nhau, bạn còn có thể thêm máy chủ của chính bạn hoặc máy chủ công khai nhưng cần chú ý yếu tố giới hạn và bạn quyền.",
+    "LBL_TILE_LAYER_INFO_2": "Để thêm máy chủ bổ sung, sửa biến $tileLayerServers trong file %s. Máy chủ tile layer công cộng có tại:",
+    "LBL_PROVIDER_NAME": "Tên nhà cung cấp",
+    "LBL_TILE_LAYER_URL_TEMPLATE": "Url mẫu tile layer",
+    "LBL_API_URL": "URL API nhà cung cấp",
+    "LBL_DRIVER": "Lái xe",
+    "LBL_COORDINATES": "Toạ độ",
+    "LBL_COORDINATES_INFO_1": "Chọn máy chủ được dùng để tải về toạ độ địa lý, lịch cron sẽ cập nhật toạ độ cho trường địa chỉ. Cần chú ý giới hạn của nhà cung cấp, hệ thống sẽ thường xuyên gửi yêu cầu tới máy chủ. Cẩn hiểu rằng các máy chủ miễn phí có giới hạn sử dụng lớn và bạn chia sẻ thông tin của họ với bạn, luôn cần chọn máy chủ đáng tin cậy.",
+    "LBL_COORDINATES_INFO_2": "Để thêm máy chủ bổ sung, sửa biến $coordinatesServers trong file %s. Máy chủ tạo độ công khai có tại:",
+    "LBL_AVAILABLE_DRIVERS": "Trình điều khiển có sẵn trong hệ thống",
+    "LBL_PROVIDER_ACTIVE": "Bật",
+    "LBL_PROVIDER_NOT_VERIFIED": "Provider not verified, when you use public servers, data from the system will be sent to third-party servers.",
+    "LBL_ROUTING": "Định tuyến",
+    "LBL_ROUTING_INFO_1": "Chọn máy chủ để ánh xạ định tuyến cho các phương tiện, hệ thống sẽ cung cấp toạ độ của điểm bạn muốn ánh xạ đường đi.",
+    "LBL_ROUTING_INFO_2": "Để thêm máy chủ bổ sung, hãy sửa biến $routingServers trong file %s. Máy chủ định tuyến công khai có tại:"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_COLORS": "色",
+    "LBL_COLOR": "色",
+    "LBL_PICKLISTS": "選択リスト",
+    "LBL_SELECT_PICKLIST": "選択リストを選択",
+    "LBL_REMOVE_COLOR": "色を削除",
+    "LBL_GENERATE_COLOR": "色を生成",
+    "LBL_UPDATE_COLOR": "色を変更",
+    "LBL_REMOVED_COLOR": "色を削除しました",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "色を編集",
+    "LBL_CALENDAR_COLORS": "カレンダーの色",
+    "LBL_CALENDAR_TYPE": "アクティブタイプ",
+    "LBL_SAVE_COLOR": "色を保存しました",
+    "Call": "電話",
+    "Task": "タスク",
+    "Meeting": "ミーティング",
+    "LBL_GROUPS_COLORS": "グループの色",
+    "LBL_USERS_COLORS": "ユーザーの色",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "この選択リストの色機能が有効になっていません",
+    "LBL_UPDATE_COLOR_COLUMN": "有効化",
+    "LBL_WARNING": "警告",
+    "LBL_ITEM": "値",
+    "LBL_MODULE": "モジュール",
+    "LBL_GROUP_NAME": "グループ",
+    "LBL_FIELDS_COLORS": "フィールドの色"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "FL_NAME": "Nazwa",
+    "FL_PROVIDER": "Dostawca",
+    "FL_STATUS": "Status",
+    "FL_SMSAPI_FROM": "Nazwa nadawcy",
+    "FL_API_KEY": "Klucz API",
+    "LBL_ADD_RECORD": "Nowa konfiguracja",
+    "LBL_SMSNOTIFIER": "Konfiguracja dostawcy SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nowa konfiguracja",
+    "LBL_EDIT_CONFIGURATION": "Edytuj konfigurację",
+    "BTN_SAVE": "Zapisz",
+    "BTN_CLOSE": "Anuluj",
+    "LBL_SMSPROVIDER_CREATE": "Dodaj dostawcę",
+    "LBL_SMSPROVIDER_EDIT": "Edytuj dostawcę",
+    "LBL_CALLBACK_ADDRESSES": "Adresy zwrotne",
+    "LBL_CALLBACK_ADDRESSES_DESC": "W celu wygenerowania adresów zwrotnych przy komunikacji sms-owej wymagane jest utworzenie uprzednio połączenia webserwisu dla sms.\nPoniższe adresy URL należy wprowadzić w sekcji adresów callback bezpośrednio u dostawcy.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Raporty (SMS, MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Odbiór (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "Adres URL dla raportów doręczeń. Do wprowadzenia bezpośrednio u dostawcy.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "Adres URL dla odbioru wiadomości SMS. Do wprowadzenia bezpośrednio u dostawcy."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Czy jesteś pewien, że chcesz usunąć tę konfigurację?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Konfiguracja została poprawnie usunięta",
+    "JS_SAVE_SUCCESS": "Pomyślnie zapisano zmiany"
+  }
+}

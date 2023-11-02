@@ -1,0 +1,33 @@
+{
+  "php": {
+    "SMSNotifier": "Messaggi SMS",
+    "SINGLE_SMSNotifier": "Messaggio SMS",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "BL_SMS_CONTENT": "Contenuto SMS",
+    "FL_RELATED_TO": "Correlato a",
+    "FL_STATUS": "Stato",
+    "FL_PARENT": "SMS Padre",
+    "FL_IMAGE": "File immagine",
+    "FL_MESSAGE_ID": "ID Messaggio",
+    "PLL_UNDEFINED": "Indefinito",
+    "PLL_DELIVERED": "Consegnato",
+    "PLL_FAILED": "Fallito",
+    "PLL_SENT": "Inviato",
+    "PLL_QUEUE": "In coda",
+    "PLL_REPLY": "Rispondi",
+    "LBL_MASS_SEND_SMS_INFO": "Tutti i messaggi SMS sono inviati dal CRON",
+    "LBL_CHECK_STATUS": "Controlla stato",
+    "FL_MESSAGE": "Messaggio",
+    "LBL_SMSNOTIFIER_INFORMATION": "Dettagli SMS",
+    "LBL_ADD_MORE_FIELDS": "Aggiungere più campi",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Aggiunti messaggi SMS alla coda",
+    "LBL_TEMPLATE": "Modello",
+    "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS: max 160 caratteri consentiti",
+    "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Invia SMS ai numeri selezionati",
+    "LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND": "Numero telefonico da",
+    "LBL_ADD_IMAGE_FILE": "Aggiungi un file immagine",
+    "LBL_TYPE_THE_MESSAGE": "Inserisci il messaggio",
+    "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Limite di messaggi di testo creati una volta",
+    "LBL_SERVER_CONFIG": "Configurazione del server"
+  }
+}

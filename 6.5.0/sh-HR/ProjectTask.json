@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Projektni zadatak",
+    "Project Task": "Projektni zadaci",
+    "Start Date": "Datum početka",
+    "Target End Date": "Ciljni datum završetka",
+    "End Date": "Datum završetka",
+    "Related to": "Povezano sa",
+    "Parent ID": "Povezani zadatak",
+    "Project Task Number": "Projektni zadatak broj",
+    "description": " Opis",
+    "FL_TOTAL_TIME_H": "Ukupno radno vrijeme",
+    "Project Task No": "Projektni zadatak Br",
+    "Project Task Name": "Naziv projektnog zadatka",
+    "LBL_ESTIMATED_WORK_TIME": "Procijenjeno radno vrijeme",
+    "Add Project Task": "Dodaj projektni zadatak",
+    "LBL_PROJECT_TASK_INFORMATION": "Detalji projektnog zadatka",
+    "LBL_PROJECTS_LIST": "Lista projekata",
+    "LBL_TASKS_LIST": "Lista zadataka",
+    "LBL_MILESTONES_LIST": "Lista glavnih koraka",
+    "low": "nizak",
+    "normal": "normalan",
+    "high": "visok",
+    "administrative": "Interni",
+    "operative": "Externi",
+    "other": "Dijeljeno",
+    "LBL_PROJECT": "Projekat",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+  }
+}

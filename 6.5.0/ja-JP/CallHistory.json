@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "通話履歴",
+    "SINGLE_CallHistory": "通話履歴",
+    "LBL_CALLHISTORY_INFORMATION": "通話履歴情報",
+    "LBL_CUSTOM_INFORMATION": "追加情報",
+    "LBL_PHONE_INFORMATION": "電話情報",
+    "LBL_RELATED_INFORMATION": "関連情報",
+    "LBL_TYPE": "タイプ",
+    "LBL_FROM_NUMBER": "着信番号",
+    "LBL_TO_NUMBER": "発信番号",
+    "LBL_LOCATION": "場所",
+    "LBL_PHONE_CALL_ID": "電話での通話ID",
+    "LBL_DURATION": "通話時間",
+    "LBL_STATUS": "ステータス",
+    "LBL_START_TIME": "通話開始",
+    "LBL_END_TIME": "通話終了",
+    "LBL_COUNTRY_CODE": "国コード",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "ID アドレス",
+    "LBL_SIMSERIAL": "SIM番号",
+    "LBL_SUBSCRIBERID": "購読者番号",
+    "LBL_DESTINATION": "呼び出し場所",
+    "LBL_SOURCE": "呼び出し元",
+    "Record Id": "レコード Id",
+    "Outgoing missed": "送信に失敗しました",
+    "Outgoing received": "送信を受信",
+    "Incoming": "受信済み",
+    "Missed": "着信がありません",
+    "Voicemail": "着信ボイスメール"
+  }
+}

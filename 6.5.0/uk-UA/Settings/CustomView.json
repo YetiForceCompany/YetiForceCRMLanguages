@@ -1,0 +1,37 @@
+{
+  "php": {
+    "CustomView": "Фільтри - конфігурація",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Цей інструмент дозволяє налаштовувати відображення для модулів. Ці модулі повинні містити записи та використовувати стандартні фільтри в YetiForce CRM.",
+    "ViewName": "Назва фільтру",
+    "SetDefault": "За замовчуванням",
+    "LBL_PRIVILEGES_TO_EDIT": "Редагувати",
+    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "Delete": "Видалити",
+    "Delete CustomView": "Візуальний вигляд видалений",
+    "Saving CustomView": "Вигляд було збережено",
+    "Actions": "Дії",
+    "Edit": "Редагувати",
+    "LBL_FEATURED_LABELS": "У вибране",
+    "LBL_CREATED_BY": "Створено",
+    "LBL_ADD_FILTER": "Додати фільтр",
+    "LBL_ALL_GROUP_LIST": "Доступні параметри",
+    "LBL_GROUP_MEMBERS": "Включено до дії",
+    "LBL_ADD_PERMISSIONS": "Додати дозволи",
+    "LBL_RECEIVE_PERMISSION": "Отримати права доступу",
+    "LBL_SAVE_SEQUENCES": "Послідовності успішно збережено",
+    "LBL_SORTING": "Сортування",
+    "LBL_SORTING_SETTINGS": "Параметри сортування",
+    "LBL_SORTING_SETTINGS_WORNING": "Сортування записів може значно збільшити час завантаження сторінки.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Виберіть поле для сортування записів",
+    "LBL_SORT_ASCENDING_ORDER": "Сортувати за зростанням",
+    "LBL_SORT_DESCENDING_ORDER": "Сортувати за спаданням",
+    "LBL_ATTENTION": "Увага!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
+    "LBL_PUBLIC": "Public",
+    "LBL_PRIVATE": "Private"
+  },
+  "js": {
+    "Saving changes": "Збереження змін...",
+    "Update labels": "Оновлення"
+  }
+}

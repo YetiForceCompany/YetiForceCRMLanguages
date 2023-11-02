@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_TOTP_AUTHY_MODE": "認証モード",
+    "LBL_TOTP_OFF": "TOTP - OFF",
+    "LBL_TOTP_OPTIONAL": "TOTP - ユーザー定義のオプション",
+    "LBL_TOTP_OBLIGATORY": "TOTP - 必須、各ユーザーはこのオプションを設定する必要があります",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "失敗した試行回数",
+    "LBL_2FA_CONF": "多要素認証",
+    "LBL_TOTP": "時間ベースのワンタイムパスワードアルゴリズム",
+    "LBL_TOTP_AUTHY_MODE_DESC": "認証モードを選択",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "認証コードの入力に失敗した回数の上限",
+    "LBL_TOTP_WHITE_LIST": "IPホワイトリスト一覧"
+  }
+}

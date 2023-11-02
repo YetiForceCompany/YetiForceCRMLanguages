@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Taak",
+    "Project Task": "Taken",
+    "Start Date": "Startdatum",
+    "Target End Date": "Streefdatum",
+    "End Date": "Einddatum",
+    "Related to": "Gerelateerd aan",
+    "Parent ID": "Gerelateerde taak",
+    "Project Task Number": "Taaknummer",
+    "description": " Beschrijving",
+    "FL_TOTAL_TIME_H": "Totale werktijd",
+    "Project Task No": "Taak nr",
+    "Project Task Name": "Taak",
+    "LBL_ESTIMATED_WORK_TIME": "Geschatte werktijd",
+    "Add Project Task": "Taak toevoegen",
+    "LBL_PROJECT_TASK_INFORMATION": "Algemeen",
+    "LBL_PROJECTS_LIST": "Projecten Lijst",
+    "LBL_TASKS_LIST": "Taken Lijst",
+    "LBL_MILESTONES_LIST": "Mijlpalen Lijst",
+    "low": "laag",
+    "normal": "normaal",
+    "high": "hoog",
+    "administrative": "Intern",
+    "operative": "Extern",
+    "other": "Gedeeld",
+    "LBL_PROJECT": "Project",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+  }
+}
