@@ -48,13 +48,5 @@
     "LBL_STATUS": "Статус",
     "LBL_CONDITIONS": "Условия",
     "LBL_TIMES": "Пъти"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Име на политика",
-    "JS_OPERATIONAL_HOURS": "Работно време",
-    "JS_REACTION_TIME": "Време за отговор",
-    "JS_IDLE_TIME": "Време на изчакване",
-    "JS_RESOLVE_TIME": "Време за разрешаване",
-    "JS_BUSINESS_HOURS": "Работно време"
   }
 }

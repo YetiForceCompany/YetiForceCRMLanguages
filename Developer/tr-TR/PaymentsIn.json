@@ -33,6 +33,7 @@
     "Amount": "Miktar",
     "Date": "Geçerlilik tarihi (para birimi)",
     "DateK": "Muhasebe tarihi",
+    "Kontrahent": "Account",
     "Currancy operation": "İşlem para birimi",
     "Amount operation": "Para birimi cinsinden tutar",
     "Liczba transakcji:": "İşlem sayısı:",

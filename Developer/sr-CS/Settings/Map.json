@@ -10,6 +10,7 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "Tile layer url predložak",
     "LBL_API_URL": "URL API pružatelja usluge",
     "LBL_DRIVER": "Driver",
+    "LBL_COORDINATES": "Coordinates",
     "LBL_COORDINATES_INFO_1": "Odaberite server koji će se koristiti za preuzimanje geografskih koordinata, Cron će ažurirati koordinate za adresna polja. Obratite pažnju na ograničenja davatelja usluga, sustav će često slati zahtjeve poslužiteljima. Budite svjesni činjenice da besplatni serveri imaju velike limite i s njima dijelite svoje podatke, uvijek odaberite pouzdane poslužitelje.",
     "LBL_COORDINATES_INFO_2": "Da biste dodali dodatne poslužitelje, uredite varijablu $coordinatesServers u datoteci %s. Javno dostupni poslužitelji koordinata dostupni su na:",
     "LBL_AVAILABLE_DRIVERS": "Drajveri dostupan u sistemu",

@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "Aktivacija mijenja datoteku 'config / Security.php' i smanjuje nivo zaštite, promjene:\n- omogućava učitavanje CRM-a u infra\n- omogućava učitavanje eksternih skripti (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- onemogućava HttpOnly u kolačiću\n- mijenja cookie SameSite u None",
     "LBL_QUICK_CREATE_MODULES": "Popis modula za brzo kreiranje",
     "LBL_QUICK_CREATE_MODULES_DESC": "Popis modula u kojima se podaci mogu kreirati iz panela za integraciju.\n Ako nije odabrana nijedna vrijednost, sistem će odabrati zadanu listu za brzo kreiranje",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Preuzmite instalacijsku datoteku dodatka za Outlook"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Preuzmite instalacijsku datoteku dodatka za Outlook",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
   }
 }

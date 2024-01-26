@@ -1,11 +1,6 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Importación programada ha terminado",
-    "LBL_CRON_COMPLETED_IMPORT": "Registro del resumen de importación para el modulo:",
-    "LBL_DEFAULT_IN_BROWSER": "Base (predeterminado en el navegador)",
-    "LBL_GENESYS_WDE": "Genesys WDE de Whirly",
-    "LBL_INTERNAL_CLIENT": "Cliente interno (Roundcube)",
-    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "No hay una cuenta de correo electrónico activa.",
-    "ERR_NO_SMTP_CONFIGURATION": "Sin configuración."
+    "LBL_CRON_COMPLETED_IMPORT": "Registro del resumen de importación para el modulo:"
   }
 }

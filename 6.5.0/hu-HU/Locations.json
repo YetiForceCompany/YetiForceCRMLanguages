@@ -9,6 +9,7 @@
     "LBL_NUMBER": "Szám",
     "LBL_CLOSED_TIME": "Zárva tartás",
     "FL_PHONE": "Telefon",
-    "FL_CAPACITY": "Kapacitás"
+    "FL_CAPACITY": "Kapacitás",
+    "FL_COORDINATES": "Coordinates"
   }
 }

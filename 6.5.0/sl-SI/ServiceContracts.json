@@ -48,13 +48,5 @@
     "LBL_STATUS": "Status",
     "LBL_CONDITIONS": "Pogoji",
     "LBL_TIMES": "Časi"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Naziv smernic",
-    "JS_OPERATIONAL_HOURS": "Delovni časi",
-    "JS_REACTION_TIME": "Reakcijski čas",
-    "JS_IDLE_TIME": "Prosti čas",
-    "JS_RESOLVE_TIME": "Ozivni čas",
-    "JS_BUSINESS_HOURS": "Obratovalni čas"
   }
 }

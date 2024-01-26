@@ -48,13 +48,5 @@
     "LBL_STATUS": "Trạng thái",
     "LBL_CONDITIONS": "Điều kiện",
     "LBL_TIMES": "Lần"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Tên chính sách",
-    "JS_OPERATIONAL_HOURS": "Giờ hoạt động",
-    "JS_REACTION_TIME": "Thời gian đáp ứng",
-    "JS_IDLE_TIME": "Thời gian dỗi",
-    "JS_RESOLVE_TIME": "Thời gian giải quyết",
-    "JS_BUSINESS_HOURS": "Thời gian làm việc"
   }
 }

@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "How to enable cron",
     "LBL_CRON_TASKS_LIST": "Cron task list",
     "LBL_REGISTRATION": "Registration",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "Nebol pridaný žiadny email spoločnosti. Vyplňte požadované údaje ak chcete dostávať novinky.",
     "LBL_COMPANY_DATA": "Go to company details",
     "LBL_SYSTEM_UPDATER": "System updater",
     "LBL_LANGUAGES_UPDATER": "Aktualizátor jazyka",
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
     "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Pošta",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integrácia - overovanie chyby",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "Integrácia Comarch zaznamenala za posledných 24 hodín nasledujúce chyby:"
+    "Mail": "Pošta"
   }
 }

@@ -21,7 +21,6 @@
     "LBL_CURRENCIES_SUPPORTED": "Zoznam podporovaných mien touto bankou",
     "LBL_CURRENCIES_UNSUPPORTED": "Zoznam nepodporovaných mien touto bankou",
     "LBL_SET_BANK_OK": "Úspešne uložená aktívna banka.",
-    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Nepodarilo sa nastaviť aktívnu banku.",
     "LBL_INFORMATIONS": "Informácia",
     "LBL_WARNING": "Varovanie!",

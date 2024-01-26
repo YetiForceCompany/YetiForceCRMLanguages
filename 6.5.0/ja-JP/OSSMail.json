@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "最小化バー",
     "LBL_CREATEMAIL": "メールを送信",
     "LBL_ADD_RELATION": "関連の追加",
-    "LBL_ADD_DOCUMENTS": "文書の追加",
     "LBL_ADD_TO_MY_CALENDAR": "カレンダーに追加",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "インポート中にエラーが発生しました",
     "LBL_FILE_HAS_BEEN_IMPORTED": "ファイルがインポートされました。インポートされたレコードの数: %s",
@@ -98,7 +97,8 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
     "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "メッセージが追加されました"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "メッセージが追加されました",
+    "LBL_SIGNATURES": "Signatures"
   },
   "js": {
     "NoFindEmailInRecord": "メールアドレスがありません",

@@ -26,7 +26,13 @@
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Odvojena akcijska dugmad za promjenu dodatnih podataka",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Dugme definira poseban tip podataka koji pripada samo relacijama, dostupan npr. u modulu Pojave",
     "LBL_MAX_NUMBER_EXPORT_RECORDS": "Maksimalni broj zapisa za izvoz",
-    "LBL_PERFORMANCE": "Performanse"
+    "LBL_PERFORMANCE": "Performanse",
+    "LBL_BRAND_DATA_NAME": "Footer's name",
+    "LBL_TWITTER": "Twitter URL",
+    "LBL_FACEBOOK": "Facebook URL",
+    "LBL_LINKEDIN": "LinkedIn URL",
+    "LBL_BRAND_DATA": "Brand data",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Podaci o konfiguraciji su sačuvani",

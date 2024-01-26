@@ -17,6 +17,7 @@
     "BTN_SAVE": "Αποθήκευση",
     "BTN_CLOSE": "Ακύρωση",
     "PLL_USER_PERMISSIONS": "Δικαιώματα βάσει χρήστη",
+    "PLL_CONTACT_RELATED_RECORDS": "All related records directly to contact",
     "PLL_ACCOUNTS_RELATED_RECORDS": "Όλες οι εγγραφές του Πελάτη αντιστοιχήθηκαν απευθείας σε Επαφή",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Όλες οι εγγραφές του Πελάτη αντιστοιχήθηκαν απευθείας σε Επαφή και σε λογαριασμούς που είναι χαμηλότερα στην ιεραρχία",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Όλες οι εγγραφές του Πελάτη αντιστοιχήθηκαν απευθείας σε Επαφή και σε λογαριασμούς από την ιεραρχία",

@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Lưu thông điệp đã gửi",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Email sẽ được gửi riêng biệt cho từng người nhận",
     "LBL_UNSUBSCRIBE_INFO": "The List-Unsubscribe header is an optional email header you can add to your messages. It allows subscribers to see an unsubscribe button they can click if they would like to automatically stop receiving your email. The list of parameters that will be placed in the header in angle brackets, e.g. < ... >\nexample: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Ví dụ tham số bổ sung (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Ví dụ tham số bổ sung (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

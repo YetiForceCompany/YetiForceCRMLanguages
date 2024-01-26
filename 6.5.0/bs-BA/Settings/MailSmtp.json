@@ -40,6 +40,13 @@
     "LBL_SAVE_SENT_MESSAGE": "Spremite poslanu poruku",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emailovi će se slati pojedinačno za svakog primaoca",
     "LBL_UNSUBSCRIBE_INFO": "Zaglavlje liste odjava pretplata je opcionalno zaglavlje e-pošte koje možete dodati u svoje poruke. Omogućava pretplatnicima da vide dugme za odjavu na koju mogu kliknuti ako žele automatski prestati primati vašu e-poštu. Popis parametara koji će biti smješteni u zaglavlju u kutnim zagradama, npr. <...> primjer: mailto: newsletter@yetiforce.com >>> <mailto: newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Primjeri dodatnih parametara (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
+    "LBL_OPTIONS_INFO": "Primjeri dodatnih parametara (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
+    "LBL_NO_EMAIL_TEMPLATE": "Ne postoji zadani predložak e-pošte",
+    "BL_BASE": "Bazna konfiguracija",
+    "FL_MAIL_ACCOUNT": "Mail account",
+    "LBL_SMTP_MAIL_ACCOUNT": "SMTP sa mail naloga"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Promjene su spremljene"
   }
 }

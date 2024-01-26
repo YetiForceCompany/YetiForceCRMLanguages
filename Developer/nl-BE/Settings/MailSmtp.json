@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Save the sent message",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emails will be sent individually for each recipient",
     "LBL_UNSUBSCRIBE_INFO": "De List-Unsubscribe header is een extra e-mail header die u kunt toevoegen aan uw berichten. Het maakt het mogelijk abonnees te zien een knop abonnement opzeggen ze kunnen klikken als ze automatisch wilt stoppen met het ontvangen van uw e-mail. De lijst van parameters die zullen worden geplaatst in de header haken, bijvoorbeeld < ... >\nvoorbeeld: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Aanvullende parameters (Json):\n {\n\"ssl\": Corbet\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Aanvullende parameters (Json):\n {\n\"ssl\": Corbet\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

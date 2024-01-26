@@ -21,9 +21,7 @@
     "Digit Grouping Separator": "Oddeľovač pre vzor zobrazovania číslic",
     "ForgotPassword": "Zabudnuté heslo",
     "Home Phone": "Telefón domov",
-    "FL_INTERNAL_MAIL_COMPOSER": "Mailový editor",
-    "FL_USER_PBX": "Užívateľ PBX",
-    "LBL_PBX": "Telefónna pobočková ústredňa",
+    "INTERNAL_MAIL_COMPOSER": "Internal mail composer",
     "Language": "Jazyk",
     "FL_AVAILABLE": "Je užívateľ dostupný?",
     "FL_AUTO_ASSIGN_RECORDS": "Môžu byť záznamy automatický pridelené užívateľovi?",
@@ -419,11 +417,8 @@
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Spravovanie členov skupiny",
     "LBL_MEMBER": "Členovia",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Pridať člena skupiny",
-    "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Open your mail client in a new window",
-    "FL_RECORD_LIST_FILTER": "Record list filter",
-    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
-    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
+    "LBL_NO_ACCESS_TITLE": "Access denied",
+    "LBL_NO_ACCESS_DESCRIPTION": "The system is going through the registration process. Please try again later or report it to the administrator."
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Kde je užívateľ odstránený tak bude označený ako \"negatívny\" a žiadne nové záznamy mu nemôžu byť pridelené. Užívateľ sa nebude môcť prihlásiť. Ste si istý že ho chcete odstrániť?",

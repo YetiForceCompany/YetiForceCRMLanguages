@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Дублікат E-Mail",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Блокувати додавання або редагування запису коли одна з введених адрес електронної пошти вже існує",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Перевірка дублікатів електронної адреси",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Валідатор, який перевіряє унікальність адреси в модулях і всіх полях типу електронної пошти",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Перевірка дубліката номера телефону",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "Валідатор, який перевіряє унікальність номера в модулях і всіх полях типу номера телефону",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Дублікат VAT ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Дублікат EAN",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Working time validation, it cannot exceed 24 hours",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Робочий час обмежено до 24 годин",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

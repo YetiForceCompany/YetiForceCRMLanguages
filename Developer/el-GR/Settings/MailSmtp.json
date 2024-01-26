@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Αποθήκευση του απεσταλμένου μηνύματος",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Τα emails θα σταλούν ξεχωριστά για κάθε παραλήπτη",
     "LBL_UNSUBSCRIBE_INFO": "Η κεφαλίδα απεγγραφής από λίστα είναι μια προαιρετική κεφαλίδα ηλεκτρονικού ταχυδρομείου που μπορείτε να προσθέσετε στα μηνύματά σας. Επιτρέπει στους συνδρομητές να δουν ένα κουμπί απεγγραφής στο οποίο μπορούν να κάνουν κλικ αν θα ήθελαν να σταματήσουν να λαμβάνουν αυτόματα τα email σας. Η λίστα παραμέτρων που θα τοποθετηθούν στην κεφαλίδα σε γωνιακές αγκύλες, π.χ. < ... >\nπαράδειγμα: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Παραδείγματα πρόσθετων παραμέτρων (Json): \n {\n  ssl: {\n    verify_peer:false,\n    verify_peer_name:false,\n    allow_self_signed:true\n  }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Παραδείγματα πρόσθετων παραμέτρων (Json): \n {\n  ssl: {\n    verify_peer:false,\n    verify_peer_name:false,\n    allow_self_signed:true\n  }\n}"
   }
 }

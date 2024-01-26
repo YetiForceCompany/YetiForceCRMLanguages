@@ -26,7 +26,10 @@
     "LBL_COPY_FROM_INVOICE": "Αντιγραφή από το αρχικό τιμολόγιο",
     "LBL_INVOICE_INFO": "Πεδία αρχικού τιμολογίου - προ διορθώσεων.",
     "LBL_AFTER_INVOICE_INFO": "Πώς πρέπει θα είναι το τελικό τιμολόγιο μετά τη διόρθωση.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Πεδία Τιμολογίου που πρέπει να διορθωθούν. Αντιγράψτε όλα τα πεδία από το αρχικό τιμολόγιο και αλλάξτε τις τιμές, όπως απαιτείται."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Πεδία Τιμολογίου που πρέπει να διορθωθούν. Αντιγράψτε όλα τα πεδία από το αρχικό τιμολόγιο και αλλάξτε τις τιμές, όπως απαιτείται.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Επιλέξτε τιμολόγιο που πρέπει να διορθωθεί"

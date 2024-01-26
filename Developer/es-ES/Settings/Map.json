@@ -10,6 +10,7 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "Plantilla url del nivel de sección",
     "LBL_API_URL": "URL de la API del proveedor",
     "LBL_DRIVER": "Driver",
+    "LBL_COORDINATES": "Coordinates",
     "LBL_COORDINATES_INFO_1": "Seleccione el servidor que se utilizará para descargar coordenadas geográficas, el Cron actualizará las coordenadas para los campos de dirección. Preste atención a los límites del proveedor, el sistema enviará frecuentemente solicitudes a los servidores. Tenga en cuenta el hecho de que los servidores gratuitos tienen grandes límites y comparte sus datos con ellos, siempre elija servidores de confianza.",
     "LBL_COORDINATES_INFO_2": "Para agregar servidores adicionales, edita la variable $coordinatesServers en el archivo %s. Los servidores de coordenadas disponibles públicamente están disponibles en:",
     "LBL_AVAILABLE_DRIVERS": "Drivers disponibles en el sistema",

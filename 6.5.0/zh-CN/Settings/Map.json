@@ -10,7 +10,6 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "平铺图层网址模板",
     "LBL_API_URL": "提供者 API 网址",
     "LBL_DRIVER": "驱动程序",
-    "LBL_COORDINATES": "坐标",
     "LBL_COORDINATES_INFO_1": "选择要用于下载地理坐标的服务器，该定时任务器会更新地址字段的坐标。请注意提供者限制，系统会频繁向服务器发送请求。注意自由服务器有较大限制，且您与他们共享数据，请始终选择可信服务器。",
     "LBL_COORDINATES_INFO_2": "要添加额外服务器，请在 %s 文件中编辑 $coordinatesServers 变量。公共有效的坐标服务器是可用在：",
     "LBL_AVAILABLE_DRIVERS": "系统中可用的驱动程序",

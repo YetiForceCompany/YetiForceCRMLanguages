@@ -10,6 +10,7 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "Url mẫu tile layer",
     "LBL_API_URL": "URL API nhà cung cấp",
     "LBL_DRIVER": "Lái xe",
+    "LBL_COORDINATES": "Coordinates",
     "LBL_COORDINATES_INFO_1": "Chọn máy chủ được dùng để tải về toạ độ địa lý, lịch cron sẽ cập nhật toạ độ cho trường địa chỉ. Cần chú ý giới hạn của nhà cung cấp, hệ thống sẽ thường xuyên gửi yêu cầu tới máy chủ. Cẩn hiểu rằng các máy chủ miễn phí có giới hạn sử dụng lớn và bạn chia sẻ thông tin của họ với bạn, luôn cần chọn máy chủ đáng tin cậy.",
     "LBL_COORDINATES_INFO_2": "Để thêm máy chủ bổ sung, sửa biến $coordinatesServers trong file %s. Máy chủ tạo độ công khai có tại:",
     "LBL_AVAILABLE_DRIVERS": "Trình điều khiển có sẵn trong hệ thống",

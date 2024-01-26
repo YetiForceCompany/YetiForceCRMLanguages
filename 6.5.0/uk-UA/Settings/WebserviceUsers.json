@@ -17,6 +17,7 @@
     "BTN_SAVE": "Зберегти",
     "BTN_CLOSE": "Скасувати",
     "PLL_USER_PERMISSIONS": "Дозволи на основі користувача",
+    "PLL_CONTACT_RELATED_RECORDS": "All related records directly to contact",
     "PLL_ACCOUNTS_RELATED_RECORDS": "Всі записи облікового запису, призначені безпосередньо для контакту",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Всі пов'язані записи облікового запису, прив'язані безпосередньо до контакту, та нижче по ієрархії",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts from hierarchy",

@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "如何启用 定时任务",
     "LBL_CRON_TASKS_LIST": "定时任务 任务列表",
     "LBL_REGISTRATION": "注册",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "没有将电子邮件地址添加到公司详细信息中。如果您想要接收新闻稿, 请填写所需的数据。",
     "LBL_COMPANY_DATA": "转到公司详细信息",
     "LBL_SYSTEM_UPDATER": "系统更新",
     "LBL_LANGUAGES_UPDATER": "语言更新",
     "LBL_LANGUAGES_UPDATER_DESC": "CRM 系统上安装的语言现在可以更新了。请前往“语言管理”然后单击更新按钮。",
     "LBL_UPDATER_DESC": "您的系统版本可以更新。我们建议更新。",
     "LBL_CHECK_ERROR_MAIL_DESC": "在过去 24 小时发送邮件时检测到 %s 个错误。请检查您的 SMTP 凭据。 ",
-    "Mail": "邮件",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
+    "Mail": "邮件"
   }
 }

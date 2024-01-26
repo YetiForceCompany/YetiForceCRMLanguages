@@ -25,9 +25,8 @@
     "LBL_CARS": "Auto",
     "PLL_DRAFT": "Bozza",
     "PLL_CANCELLED": "Annullato",
-    "LBL_USER_NAME": "Nome utente",
-    "LBL_GROUP_NAME": "Nome del gruppo",
-    "LBL_WORK_DAYS": "Giorni lavorativi"
+    "LBL_WORK_DAYS": "Giorni lavorativi",
+    "LBL_RESERVATION_EXISTS": "Esiste già una prenotazione per la seguente data: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caratteri consentiti: [0-9]",

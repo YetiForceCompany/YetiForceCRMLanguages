@@ -28,7 +28,6 @@
     "LBL_ADD_IMAGE_FILE": "Add an image file",
     "LBL_TYPE_THE_MESSAGE": "メッセージを入力",
     "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Limit of one-time created text messages",
-    "LBL_SERVER_CONFIG": "サーバ設定",
-    "FL_SMS_PROVIDER": "SMS Provider"
+    "LBL_SERVER_CONFIG": "サーバ設定"
   }
 }

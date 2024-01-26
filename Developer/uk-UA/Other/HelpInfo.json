@@ -15,7 +15,7 @@
     "Users|Email": "Основна адреса електронної пошти (обов'язкове поле) для використання в критичних ситуаціях (напр. скидання пароля).",
     "Users|Secondary email": "Додаткова адреса електронної пошти.",
     "Users|FL_PRIMARY_PHONE": "Основний номер телефону.",
-    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
+    "Users|CRM phone extension": "Additional phone number.",
     "Users|Approval for email": "An option to select which users agreed to receive newsletters sent through workflow tasks (Send email, send email from templates, send email with PDF printout)",
     "Users|Date Format": "Система підтримує 9 форматів дати, рекомендованих (тестових) від рррр-мм-дд. Ми рекомендуємо, щоб всі користувачі використовували один і той же формат дати.",
     "Users|Calendar Hour Format": "The system supports 2 time formats, the recommended (tested) one is 24H. We strongly suggest that all users use the same time format.",

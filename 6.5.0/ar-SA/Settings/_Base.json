@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "تحويل إلى حساب",
     "LBL_DAV_KEYS": "DAV مفاتيح",
     "LBL_DAV_KEYS_DESCRIPTION": "إنشاء وإدارة DAV مفاتيح",
-    "LBL_AUTOLOGIN": "الدخول التلقائي",
-    "LBL_AUTOLOGIN_DESCRIPTION": "التكوين من دخول السيارات من أجل وحدة البريد الإلكتروني",
     "LBL_MAIL_GENERAL_CONFIGURATION": "اعدادات عامة",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "التكوين العامة من وحدة البريد الإلكتروني",
     "LBL_SUPPORT_PROCESSES": "دعم العمليات",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "شعار الشركة واضحة في النظام",
     "LBL_COMPANY_LOGO_IN_LOGIN": "شعار الشركة واضحة في النظام",
     "LBL_ADD_CUSTOM_FIELD": "أضف حقل",
-    "LBL_FIELD_NAME": "اسم الحقل",
     "LBL_HEIGHT_LOGO": "ارتفاع الصف",
     "LBL_SECURITY": "الأمان",
     "LBL_LOG_ACCESS_TO_RECORD": "السجلات الممكن الوصول إليها",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activate",
-    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list"
+    "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list",
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "إذن الناجح",

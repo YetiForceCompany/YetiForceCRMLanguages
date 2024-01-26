@@ -95,6 +95,8 @@
     "LBL_TIME_CONTROL_USER_GROUP": "لیست کنترل زمان با اطلاعات بیشتر در مورد کاربران",
     "LBL_TYPE": "نوع فعالیت",
     "FL_SUBPROCESS_SECOND_LEVEL": "زیر فرآیند سطح دو",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "روزهای کاری",
     "Employees Time Control": "Employees Time Control",
     "LBL_ALL_TIME_CONTROL": "All users total working time",

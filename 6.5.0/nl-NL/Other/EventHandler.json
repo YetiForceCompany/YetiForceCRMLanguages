@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Dubbele emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als een van de ingevulde email adressen al bestaat",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Het e-mailadres wordt al gebruikt",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Een validator die controleert of het adres uniek is in modules en alle velden van het e-mailtype",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Het telefoonnummer komt al voor",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "Een validator die controleert of het nummer uniek is in modules en alle velden van het type telefoonnummer",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Kopieer BTW-nummer",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als de BTW-nummer al bestaat",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Dupliceer ean",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als dezelfde Goederen Ontvangen Notitie Correctie al bestaat.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Werktijd validatie, kan niet langer zijn dan 24 uur",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Werktijd is beperkt tot 24 uur",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Beschikbaarheid controle",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Blokkeer het toevoegen/bewerken van een record als er al een reservering voor deze datum is.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

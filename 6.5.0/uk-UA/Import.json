@@ -77,7 +77,7 @@
     "skipped": "Пропущено записів",
     "failed": "Помилкові записи",
     "LBL_SELECT_FILE": "Виберіть файл для Імпорту",
-    "LBL_MERGE_TYPE_INFO": "Пропустити: існуючі записи пропускаються і не оновлються.\n\nПерезаписати: існуючі записи перезаписуються даними з файлу або значеннями за замовчуванням якщо потрібні значення в записі і файлі пусті. Якщо не позначено як обов'язкове, значення перезаписуються в запис з порожніми значеннями з файлу.\n\nЗлиття: значення запису перезаписуються значеннями з файлу, якщо значення з файлу не порожній (втім, якщо вони порожні, значення записів зберігаються). \n\nЗаповнити: оновлюються тільки порожні поля запису. Значення поля не перезаписуються, якщо там вже істує запис.",
+    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing records are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Імпортований файл в іншому кодуванні, в він був обраний (%s)"
   }
 }

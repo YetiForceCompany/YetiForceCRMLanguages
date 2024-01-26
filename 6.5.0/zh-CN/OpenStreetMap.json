@@ -25,6 +25,13 @@
     "BTN_LOAD_ALL_CLIPBOARD": "从模块加载所有地址数据并保存到剪贴板。",
     "LBL_GROUP_POINTS": "地图上的群组位置",
     "LBL_GROUP_POINTS_DESC": "基于所选字段的群组地图位置。选中时，会显示带有字段值的图例。",
-    "ERR_ADDRESS_NOT_FOUND": "找不到地址"
+    "ERR_ADDRESS_NOT_FOUND": "找不到地址",
+    "FL_LAT": "The latitude",
+    "FL_LON": "The longitude",
+    "LBL_DECIMAL": "Decimal",
+    "LBL_DEGREES": "Degrees",
+    "LBL_CODE_PLUS": "Code plus",
+    "LBL_SHOW_MAP": "Show on the map",
+    "LBL_COORDINATES": "Coordinates"
   }
 }

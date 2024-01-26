@@ -48,6 +48,7 @@
     "FL_GENDER": "Φύλο",
     "PLL_WOMAN": "Γυναίκα",
     "PLL_MAN": "Άντρας",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Η επαφή με αυτό το email υπάρχει ήδη στο σύστημα μας.",
     "History": "Ιστορικό",
     "Overdue Activities": "Ληξιπρόθεσμες δραστηριότητες"
   },

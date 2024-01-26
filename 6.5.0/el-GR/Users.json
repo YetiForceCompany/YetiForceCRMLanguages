@@ -21,7 +21,9 @@
     "Digit Grouping Separator": "Διαχωριστικό ομαδοποίησης ψηφίων",
     "ForgotPassword": "Ξεχάσατε τον κωδικό",
     "Home Phone": "Τηλέφωνο οικίας",
-    "INTERNAL_MAIL_COMPOSER": "Εσωτερικός συνθέτης email",
+    "FL_INTERNAL_MAIL_COMPOSER": "Mail composer",
+    "FL_USER_PBX": "User PBX",
+    "LBL_PBX": "Phone branch exchange",
     "Language": "Γλώσσα",
     "FL_AVAILABLE": "Είναι ο χρήστης διαθέσιμος;",
     "FL_AUTO_ASSIGN_RECORDS": "Μπορούν οι εγγραφές να εκχωρηθούν αυτόματα στο χρήστη;",
@@ -416,7 +418,12 @@
     "FL_CALENDAR_ALL_USERS_BY_DEFAULT": "Select all users by default",
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
     "LBL_MEMBER": "Members",
-    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members"
+    "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
+    "FL_WAPRO_USER": "WAPRO ERP User identifier",
+    "FL_MAIL_POPUP": "Open your mail client in a new window",
+    "FL_RECORD_LIST_FILTER": "Record list filter",
+    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
+    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Όταν ένας Χρήστης διαγραφεί, ο χρήστης θα επισημανθεί ως \"Ανενεργός\" και δεν μπορούν να εκχωρηθούν νέες εγγραφές στον Χρήστη, και ο χρήστης δεν θα μπορεί να συνδεθεί. Είστε βέβαιοι ότι θέλετε να διαγράψετε;",

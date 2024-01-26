@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "Lista podržanih valuta ove banke",
     "LBL_CURRENCIES_UNSUPPORTED": "Lista nepodržanih valuta ove banke",
     "LBL_SET_BANK_OK": "Aktivna banka je uspješno spremljena.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Nije uspjelo postavljanje aktivne banke.",
     "LBL_INFORMATIONS": "Informacije",
     "LBL_WARNING": "Upozoranje!",

@@ -21,7 +21,6 @@
     "LBL_CURRENCIES_SUPPORTED": "Λίστα με τα υποστηριζόμενα νομίσματα από αυτή την τράπεζα",
     "LBL_CURRENCIES_UNSUPPORTED": "Λίστα με τα νομίσματα που δεν υποστηρίζονται από αυτή την τράπεζα",
     "LBL_SET_BANK_OK": "Η ενεργή τράπεζα έχει αποθηκευτεί με επιτυχία.",
-    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Απέτυχε ο Ορισμός ενεργού τράπεζα.",
     "LBL_INFORMATIONS": "Πληροφορίες",
     "LBL_WARNING": "Προειδοποίηση!",

@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Doppelte E-Mail",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Hinzufügen/Bearbeiten blockieren, wenn eine der eingegebenen E-Mail-Adressen bereits vorhanden ist",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Email address duplicate validation",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "A validator that checks whether the address is unique in modules and all email type fields",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "A validator that checks whether the number is unique in modules and all phone number type fields",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Doppelte Umsatzsteuer-ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn eine solche USt-ID bereits existiert",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Doppelte ean",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn die selbe erhaltene Notizkorrektur bereits existiert.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Überprüfung der Arbeitszeit, dies kann die 24 Stunden nicht überschreiten",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Arbeitszeit begrenzt auf 24 Stunden",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

@@ -66,6 +66,7 @@
     "Configuration": "پیکربندی",
     "LBL_MAIL_REPLY_INTRO": "در %s،نوشت %s:",
     "LBL_MAIL_FORWARD_INTRO": "-------- پیام اصلی --------",
+    "Graf": "Emails by Type",
     "Today": "امروز",
     "Yesterday": "دیروز",
     "Current week": "هفته جاری",

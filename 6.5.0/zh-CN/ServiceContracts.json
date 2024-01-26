@@ -48,13 +48,5 @@
     "LBL_STATUS": "状态",
     "LBL_CONDITIONS": "条件",
     "LBL_TIMES": "次"
-  },
-  "js": {
-    "JS_POLICY_NAME": "政策名称",
-    "JS_OPERATIONAL_HOURS": "营业时间",
-    "JS_REACTION_TIME": "反应时间",
-    "JS_IDLE_TIME": "空闲时间",
-    "JS_RESOLVE_TIME": "解决时间",
-    "JS_BUSINESS_HOURS": "营业时间"
   }
 }

@@ -77,7 +77,7 @@
     "skipped": "Skipped Records",
     "failed": "Failed Records",
     "LBL_SELECT_FILE": "Selecteer bestand om te importeren",
-    "LBL_MERGE_TYPE_INFO": "Overslaan: bestaande records worden overgeslagen en worden niet bijgewerkt.\n\nOverschrijven: bestaande records worden overgeschreven met de gegevens van het bestand of standaard waardes worden ingevuld als de verplichte waardes in het record en bestand leeg zijn. Als niet gemarkeerd zijn als verplicht, worden de waardes overschreven in het record met lege waardes van het bestand.\n\nSamenvoegen: record wordt overschreven met de waardes van het bestand als de waardes van het bestand niet leeg zijn (indien de waardes leeg zijn worden de oorspronkelijke waardes van het record behouden).\n\nInvullen: alleen de lege waardes van het record worden bijgewerkt. Waardes van veld worden niet overgeschreven als er al een bestaande waarde in het record staat.",
+    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing records are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Het geïmporteerde bestand is in een andere codering dan het geselecteerde (%s)"
   }
 }

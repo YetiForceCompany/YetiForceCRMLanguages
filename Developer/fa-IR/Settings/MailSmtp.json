@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "ذخیره پیام ارسال شده",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Emails will be sent individually for each recipient",
     "LBL_UNSUBSCRIBE_INFO": "سربرگ فهرست لغو اشتراک یک سربرگ دلخواه برای افزوده شدن به ایمیل شما می‌باشد. این هدر به کاربر امکان این را می‌دهد که در صورت تمایل با فشردن یک کلید اقدام به لغو اشتراک نمایند. پارمترهای لیست در هدر میان علامت بزرگتر و کوچکتر نمایش داده می‌شوند، برای مثال < ... >\nمثال: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

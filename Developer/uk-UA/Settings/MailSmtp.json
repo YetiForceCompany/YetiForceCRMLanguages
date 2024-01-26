@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Зберегти надіслане повідомлення",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Листи будуть відправлятися індивідуально для кожного одержувача",
     "LBL_UNSUBSCRIBE_INFO": "Заголовок Список-Відписки є опціональним заголовком електронної пошти, який ви можете додавати до ваших повідомлень. Це дозволяє підписникам бачити кнопку \"Відписатися\" яка вони можуть натиснути якщо хочуть автоматично припинити отримувати вашу електронну пошту. Список параметрів, які будуть розміщуватися в заголовку в кутових дужках, наприклад < ... >\nНаприклад: mailto:newsletter@yetiforce.com >> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Приклад додаткових параметрів (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Приклад додаткових параметрів (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

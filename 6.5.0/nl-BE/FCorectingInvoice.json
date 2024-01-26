@@ -26,7 +26,10 @@
     "LBL_COPY_FROM_INVOICE": "Kopieer van eerste factuur",
     "LBL_INVOICE_INFO": "De oorspronkelijke factuur velden - voor correcties.",
     "LBL_AFTER_INVOICE_INFO": "Hoe moet de uiteindelijke factuur er uitzien na correctie.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Factuurvelden moeten worden gecorrigeerd. Kopieer alle velden van de oorspronkelijke factuur en wijzig de waarden indien nodig."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Factuurvelden moeten worden gecorrigeerd. Kopieer alle velden van de oorspronkelijke factuur en wijzig de waarden indien nodig.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Selecteer factuur die moet worden gecorrigeerd"

@@ -17,6 +17,7 @@
     "BTN_SAVE": "Salva",
     "BTN_CLOSE": "Annulla",
     "PLL_USER_PERMISSIONS": "Record assegnati all'utente",
+    "PLL_CONTACT_RELATED_RECORDS": "Tutti i regstri correlati direttamente al contatto",
     "PLL_ACCOUNTS_RELATED_RECORDS": "Tutti i record dell'azienda assegnati al contatto",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Tutti i record, relazionati all'azienda, assegnati al contatto e aziende con gerarchia inferiore",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Tutti i record, relazionati all'azienda, assegnati al contatto e a tutte le aziende in gerarchia",

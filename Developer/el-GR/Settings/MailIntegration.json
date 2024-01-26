@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "Η ενεργοποίηση τροποποιεί το αρχείο 'config / Security.php και μειώνει το επίπεδο ασφαλείας, αλλάζει:\n- επιτρέπει τη φόρτωση του CRM σε μια υποδομή\n- επιτρέπει τη φόρτωση εξωτερικών scripts (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- απενεργοποιεί το Http μόνο στο cookie \n- αλλάζει το cookie Same Site σε Κανένα",
     "LBL_QUICK_CREATE_MODULES": "Λίστα γρήγορης δημιουργίας πρόσθετων modules",
     "LBL_QUICK_CREATE_MODULES_DESC": "Λίστα των modules στα οποία τα δεδομένα είναι δημιουργημένα από τον πίνακα ενσωμάτωσης.\nΕάν δεν επιλεχθεί καμία τιμή, το σύστημα θα επιλέξει την προεπιλεγμένη λίστα γρήγορης δημιουργίας",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Κατεβάστε το αρχείο εγκατάστασης του Outlook"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Κατεβάστε το αρχείο εγκατάστασης του Outlook",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Απενεργοποίηση"
   }
 }

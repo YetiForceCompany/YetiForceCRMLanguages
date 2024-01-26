@@ -25,8 +25,9 @@
     "LBL_CARS": "車",
     "PLL_DRAFT": "下書き",
     "PLL_CANCELLED": "キャンセル済",
-    "LBL_WORK_DAYS": "就業日",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "就業日"
   },
   "js": {
     "MSG_ERROR_NUMBER": "使用できる文字: [0-9]",

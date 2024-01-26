@@ -25,8 +25,9 @@
     "LBL_CARS": "خودروها",
     "PLL_DRAFT": "پیش‌نویس",
     "PLL_CANCELLED": "لغو شده",
-    "LBL_WORK_DAYS": "روزهای کاری",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "روزهای کاری"
   },
   "js": {
     "MSG_ERROR_NUMBER": "کاراکتر های مجاز: [0-9]",

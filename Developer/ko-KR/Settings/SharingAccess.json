@@ -31,7 +31,6 @@
     "Public: Read, Create\/Edit": "Public: Read, Create\/Edit",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Custom sharing rule saved successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "공유 액세스 규칙 저장 실패",
-    "LBL_CUSTOM_RULE_DELETING_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "공유 액세스 규칙 삭제 실패"
   },
   "js": {

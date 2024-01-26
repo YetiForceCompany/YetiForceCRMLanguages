@@ -17,6 +17,7 @@
     "LBL_REQUEST": "请求",
     "LBL_TIME": "时间",
     "LBL_CATEGORY": "类别",
+    "LBL_ERROR": "Error",
     "LBL_CODE": "编码",
     "LBL_BASE_USER": "基本用户",
     "LBL_DEST_USER": "目标用户",

@@ -15,7 +15,7 @@
     "Users|Email": "Adresse e-mail principale (champ obligatoire) utilisée dans des situations particulières (par ex. Réinitialisation du mot de passe).",
     "Users|Secondary email": "Adresse e-mail supplémentaire.",
     "Users|FL_PRIMARY_PHONE": "Numéro de téléphone principal.",
-    "Users|CRM phone extension": "Numéro de téléphone supplémentaire.",
+    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
     "Users|Approval for email": "Une option pour sélectionner les utilisateurs qui ont accepté de recevoir des newsletters envoyées via des tâches de workflow (Envoyer un e-mail, envoyer un e-mail à partir de modèles, envoyer un e-mail avec impression PDF)",
     "Users|Date Format": "Le système prend en charge 9 formats de date, celui recommandé (testé) est rrrr-mm-jj. Nous suggérons fortement à tous les utilisateurs d'utiliser le même format de date.",
     "Users|Calendar Hour Format": "Le système supporte 2 formats de temps, celui recommandé (testé) est 24H. Nous suggérons fortement que tous les utilisateurs utilisent le même format d'heure.",

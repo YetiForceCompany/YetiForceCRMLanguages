@@ -21,7 +21,6 @@
     "LBL_CURRENCIES_SUPPORTED": "Lista de monedas soportadas por este banco",
     "LBL_CURRENCIES_UNSUPPORTED": "Lista de monedas no soportadas por este banco",
     "LBL_SET_BANK_OK": "Se ha guardado correctamente el banco activo.",
-    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "No se pudo establecer el banco activo.",
     "LBL_INFORMATIONS": "Información",
     "LBL_WARNING": "¡Advertencia!",

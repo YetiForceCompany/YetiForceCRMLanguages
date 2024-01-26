@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Chuyển thành khách hàng",
     "LBL_DAV_KEYS": "Mã DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Tạo và quản lý mã DAV",
-    "LBL_AUTOLOGIN": "Tự động đăng nhập",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Cấu hình đăng nhập tự động cho mô-đun email",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Cấu hình chung",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Cấu hình chung của mô-đun email",
     "LBL_SUPPORT_PROCESSES": "Quy trình hỗ trợ",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo công ty có thể nhìn thấy trong hệ thống",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo công ty có thể nhìn thấy trong bảng điều khiển đăng nhập",
     "LBL_ADD_CUSTOM_FIELD": "Thêm trường",
-    "LBL_FIELD_NAME": "Tên trường",
     "LBL_HEIGHT_LOGO": "Chiều cao của logo",
     "LBL_SECURITY": "Bảo mật",
     "LBL_LOG_ACCESS_TO_RECORD": "Không có quyền truy cập hồ sơ",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Kích hoạt",
-    "LBL_ONLY_TO_FIRST_LIST": "Chỉ đến thứ nhất trong danh sách"
+    "LBL_ONLY_TO_FIRST_LIST": "Chỉ đến thứ nhất trong danh sách",
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Ủy quyền thành công",

@@ -38,7 +38,6 @@
     "Customization": "定制",
     "Training": "培训",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "记录列表仅限于与产品和服务相关的销售机会",
-    "FL_COST": "成本",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "成本"
   }
 }

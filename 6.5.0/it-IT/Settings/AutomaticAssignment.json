@@ -52,7 +52,9 @@
     "FL_STATE": "Stato",
     "PLL_ACTIVE": "Attivo",
     "PLL_INACTIVE": "Inattivo",
-    "LBL_DUPLICATE": "Duplicato.\nIl soggetto della voce dev'essere unico nel modulo."
+    "LBL_DUPLICATE": "Duplicato.\nIl soggetto della voce dev'essere unico nel modulo.",
+    "FL_USER_WORKING_HOURS": "Ore di lavoro",
+    "LBL_USER_SELECTION_CONDITIONS": "Selezionare quest'opzione verificherà le ore di lavoro definite nel pannello dell'utente. Gli utenti saranno disponibili se l'ora di creazione del registro è tra 'Giornata inizia alle' e 'Giornata termina alle'."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Sei sicuro di volere modificare lo stato?",

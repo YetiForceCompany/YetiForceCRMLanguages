@@ -74,6 +74,7 @@
     "LBL_MINIMIZE_BAR": "最小化工具条",
     "LBL_CREATEMAIL": "发送电子邮件",
     "LBL_ADD_RELATION": "添加关联",
+    "LBL_ADD_DOCUMENTS": "Add documents",
     "LBL_ADD_TO_MY_CALENDAR": "添加到我的日历",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "导入过程中出错",
     "LBL_FILE_HAS_BEEN_IMPORTED": "文件已导入。导入的记录数为： %s",
@@ -97,8 +98,7 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "发送者的服务器已列入白名单，为管理员创建了一个验证请求",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "发送者服务器已列入黑名单，为管理员创建了一个验证请求",
     "LBL_RC_ERROR_RBL_REPORT": "向实时阻止列表 (RBL) 发送报告时出现错误",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "消息已添加",
-    "LBL_SIGNATURES": "Signatures"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "消息已添加"
   },
   "js": {
     "NoFindEmailInRecord": "记录没有电子邮件地址",

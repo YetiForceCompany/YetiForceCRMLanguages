@@ -26,7 +26,13 @@
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Oddziel przyciski akcji zmiany dodatkowych danych",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Przycisk określa specjalny typ danych przynależny tylko do relacji, dostępny np. w module Wydarzenia",
     "LBL_MAX_NUMBER_EXPORT_RECORDS": "Maksymalna liczba eksportowanych rekordów",
-    "LBL_PERFORMANCE": "Wydajność"
+    "LBL_PERFORMANCE": "Wydajność",
+    "LBL_BRAND_DATA_NAME": "Nazwa stopki",
+    "LBL_TWITTER": "Adres URL - Twitter",
+    "LBL_FACEBOOK": "Adres URL - Facebook",
+    "LBL_LINKEDIN": "Adres URL - LinkedIn",
+    "LBL_BRAND_DATA": "Dane brandingu",
+    "LBL_BRAND_DATA_INFO": "Blok używany gdy zakupiony został dodatek YetiForce Branding, pozwala na wprowadzenie własnych danych widocznych w stopce."
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Szczegóły konfiguracji zostały zapisane",

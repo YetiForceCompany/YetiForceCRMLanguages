@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "Πώς να ενεργοποιήσετε cron",
     "LBL_CRON_TASKS_LIST": "Λίστα εργασιών cron",
     "LBL_REGISTRATION": "Εγγραφή",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "Δεν προστέθηκε διεύθυνση email στα στοιχεία της εταιρείας. Αν θέλετε να λαμβάνετε ενημερωτικά δελτία συμπληρώστε τα απαραίτητα στοιχεία.",
     "LBL_COMPANY_DATA": "Μεταβείτε στην καταχώρηση της εταιρείας",
     "LBL_SYSTEM_UPDATER": "Ενημέρωση συστήματος",
     "LBL_LANGUAGES_UPDATER": "Ενημέρωση γλωσσών",
     "LBL_LANGUAGES_UPDATER_DESC": "Υπάρχει διαθέσιμη ενημέρωση των γλωσσών που είναι εγκατεστημένες στο σύστημα CRM. Πηγαίνετε στη Διαχείριση Γλώσσας και κάντε κλικ στο κουμπί ενημέρωσης.",
     "LBL_UPDATER_DESC": "Υπάρχουν διαθέσιμες ενημερώσεις για το σύστημά σας. Σας συνιστούμε να κάνετε ενημέρωση.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Εντοπίστηκαν %s σφάλματα κατά την αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου τις τελευταίες 24 ώρες. Παρακαλώ ελέγξτε τα διαπιστευτήριά σας SMTP. ",
-    "Mail": "Mail",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
+    "Mail": "Mail"
   }
 }

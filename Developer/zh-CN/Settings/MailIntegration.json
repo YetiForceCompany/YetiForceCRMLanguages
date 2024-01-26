@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "激活修正 ‘config/Security.php’ 文件并减少安全登记，变更有：\n- 其允许在内框中加载 CRM\n- 其允许加载外部脚本 (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- 其禁用 cookie 中的 HttpOnly \n- 其更改 cookie SameSite 为无",
     "LBL_QUICK_CREATE_MODULES": "快捷创建模块的列表",
     "LBL_QUICK_CREATE_MODULES_DESC": "可以从集成面板在其中创建的模块列表。 \n 如果没有值被选择，那么系统会选择默认快捷创建列表",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "下载 outlook 附加组件安装文件"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "下载 outlook 附加组件安装文件",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
   }
 }

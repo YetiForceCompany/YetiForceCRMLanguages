@@ -98,10 +98,7 @@
     "CustomViewAdvCond": "Napredni prilagođeni uvjeti prikaza",
     "RecordActivityNotifier": "Record activity notifier",
     "WorkflowTriggerWhenRecordIsBlocked": "Okidač tijeka rada kada je zapis blokiran",
-    "LeaderCanManageGroupMembership": "Voditelj može upravljati članstvom u grupi",
-    "TilesView": "Tiles view",
-    "CalendarExtraSources": "Calendar - Additional data sources",
-    "CalendarExtraSourcesCreate": "Calendar - Create additional data sources"
+    "LeaderCanManageGroupMembership": "Voditelj može upravljati članstvom u grupi"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil uspješno izbrisan"

@@ -38,7 +38,6 @@
     "Customization": "Kişiselleştirme",
     "Training": "Pratik",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Kayıt listesi, satış fırsatı ile ilişkili ürünler ve hizmetler ile sınırlıdır",
-    "FL_COST": "Maliyet",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "Maliyet"
   }
 }

@@ -79,12 +79,7 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "Účty podľa odvetvia",
     "Overdue Activities": "Činnosti po termíne",
     "LBL_NEGLECTED_ACCOUNTS": "Zanedbané účty",
-    "LBL_NEW_ACCOUNTS": "Nové účty",
-    "LBL_COMARCH_BLOCK": "Comarch",
-    "FL_ACCOUNT_SECOND_NAME": "Názov účtu 2",
-    "FL_ACCOUNT_THIRD_NAME": "Názov účtu 3",
-    "FL_ACCOUNT_SHORT_NAME": "Krátky názov",
-    "FL_PAYMENT_TERM_DAYS": "Platobné podmienky (v dňoch)"
+    "LBL_NEW_ACCOUNTS": "Nové účty"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Názov účtu už existuje. Chcete vytvoriť rovnaký záznam?",

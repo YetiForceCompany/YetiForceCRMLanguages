@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "Список поддерживаемых валют этим банком",
     "LBL_CURRENCIES_UNSUPPORTED": "Список неподдерживаемых валют этим банком",
     "LBL_SET_BANK_OK": "Настройка банка успешно сохранена",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Ошибка настройки банка",
     "LBL_INFORMATIONS": "Информация",
     "LBL_WARNING": "Предупреждение",

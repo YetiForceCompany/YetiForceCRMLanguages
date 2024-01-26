@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Save the sent message",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Los correos electrónicos se enviarán individualmente para cada destinatario",
     "LBL_UNSUBSCRIBE_INFO": "El encabezado List-Unsubscribe es un encabezado de correo electrónico opcional que puede agregar a sus mensajes. Permite a los suscriptores ver un botón para darse de baja en el que pueden hacer clic si desean dejar de recibir automáticamente su correo electrónico. La lista de parámetros que se colocarán en el encabezado entre paréntesis angulares, p. <...>\nejemplo: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Parámetros adicionales de ejemplo (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Parámetros adicionales de ejemplo (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

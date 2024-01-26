@@ -1,7 +1,5 @@
 {
   "php": {
-    "LBL_AUTOLOGIN": "Poczta - autologowanie",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Konfiguracja automatycznego logowania do modułu poczty",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Poczta - konfiguracja",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Ogólna konfiguracja poczty w systemie",
     "LBL_RC_USER": "Konto pocztowe",
@@ -13,9 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Pokaż listę kont pocztowych powiązanych z aktualnym użytkownikiem",
     "LBL_NUMBER_UNREAD_EMAILS": "Pokazuj ilości nieprzeczytanych wiadomości mail",
     "LBL_MAIL_ICON_CONFIG": "Ikona poczty",
-    "LBL_AUTOLOGIN_ACTIVE": "Czy włączyć automatyczne logowanie do poczty?",
-    "LBL_ADD_SIGNATURE": "Aktywuj globalną stopkę dla wszystkich maili wychodzących",
-    "LBL_SIGNATURE": "Podpis globalny",
     "LBL_SAVED_SIGNATURE": "Zmieniono podpis",
     "LBL_VIEW_AUTOLOGIN": "Autologowanie",
     "LBL_VIEW_CONFIG": "Konfiguracja ogólna",
@@ -40,6 +35,26 @@
     "LBL_TO": "Do",
     "LBL_EMAILS_TO_SEND_DESCRIPTION": "Lista emaili oczekujących na wysłanie. Wysyłanie wiadomości mailowych odbywa się w cronie.",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "Wiadomości do wysłania",
-    "LBL_EMAIL_WAS_SENT": "Email został wysłany, podgląd nie jest możliwy."
+    "LBL_EMAIL_WAS_SENT": "Email został wysłany, podgląd nie jest możliwy.",
+    "LBL_TIME_CHECKING_MAIL": "Częstotliwość odświeżania nieprzeczytanych wiadomości [sec]",
+    "LBL_TIME_CHECKING_MAIL_DESC": "Częstotliwość odświeżania w sekundach dla liczby nieprzeczytanych wiadomości. Zbyt niska częstotliwość spowolni aplikację.",
+    "LBL_MAIL_SCANNER": "Skaner poczty",
+    "BL_SCANNER_NOTIFICATION": "Powiadomienia",
+    "FL_SCANNER_EMAIL_FOR_NOTIFICATION": "E-mail",
+    "LBL_SCANNER_EMAIL_FOR_NOTIFICATION_DESC": "Adres e-mail, na który zostanie wysłane powiadomienie o przekroczeniu limitu czasu akcji skanera poczty.\n Opcja jest zależna od jednego z zadań CRONa.",
+    "FL_SCANNER_TIME_FOR_NOTIFICATION": "Limit czasowy [min]",
+    "LBL_SCANNER_TIME_FOR_NOTIFICATION_DESC": "Czas, po którym zostanie wysłane powiadomienie o przedłużającym się procesie skanowania konta pocztowego. Opcja zależy od jednego z zadań CRONa.",
+    "BL_SCANNER_BASIC": "Podstawowa konfiguracja",
+    "FL_SCANNER_LIMIT": "Limit",
+    "LBL_SCANNER_LIMIT_DESC": "Liczba zeskanowanych wiadomości e-mail w jednym procesie.",
+    "FL_SCANNER_DEACTIVATION_TIME": "Limit czasu dla dezaktywacji konta [h]",
+    "LBL_SCANNER_DEACTIVATION_TIME_DESC": "W przypadku problemów z dostępem do konta e-mail, zostanie ono dezaktywowane po określonej liczbie godzin.",
+    "FL_SCANNER_FLAG_SEEN": "Oznacz jako przeczytane",
+    "LBL_SCANNER_FLAG_SEEN_DESC": "Zeskanowane e-maile będą oznaczone jako widoczne automatycznie.",
+    "BL_SCANNER_EXCEPTIONS": "Wyjątki",
+    "FL_SCANNER_EMAIL_EXCEPTIONS": "E-maile",
+    "LBL_SCANNER_EMAIL_EXCEPTIONS_DESC": "Globalna lista adresów e-mail pominiętych w akcjach skanera wiadomości.",
+    "FL_SCANNER_DOMAIN_EXCEPTIONS": "Domeny",
+    "LBL_SCANNER_DOMAIN_EXCEPTIONS_DESC": "Globalna lista domen pominiętych w działaniach skanera wiadomości."
   }
 }

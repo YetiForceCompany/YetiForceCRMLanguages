@@ -1,6 +1,11 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Η προγραμματισμένη εισαγωγή έχει ολοκληρωθεί",
-    "LBL_CRON_COMPLETED_IMPORT": "Σύνοψη εισαγωγής εγγραφών για το module:"
+    "LBL_CRON_COMPLETED_IMPORT": "Σύνοψη εισαγωγής εγγραφών για το module:",
+    "LBL_DEFAULT_IN_BROWSER": "Βάση (προεπιλεγμένη στον περιηγητή)",
+    "LBL_GENESYS_WDE": "Genesys WDE από την Whirly",
+    "LBL_INTERNAL_CLIENT": "Εσωτερικός πελάτης (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Δεν υπάρχει κάποιος ενεργός λογαριασμός ηλεκτρονικού ταχυδρομείου.",
+    "ERR_NO_SMTP_CONFIGURATION": "Χωρίς διαμόρφωση."
   }
 }

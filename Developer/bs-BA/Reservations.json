@@ -25,8 +25,9 @@
     "LBL_CARS": "Automobili",
     "PLL_DRAFT": "Skica",
     "PLL_CANCELLED": "Otkazano",
-    "LBL_WORK_DAYS": "Radni dani",
-    "LBL_RESERVATION_EXISTS": "Već postoji rezervacija za sljedeći datum: "
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "Radni dani"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dozvoljeni znakovi: [0-9]",

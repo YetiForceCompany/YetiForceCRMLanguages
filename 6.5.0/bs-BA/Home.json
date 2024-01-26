@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "Boje iz filtera",
     "LBL_WIDGET_DOWNLOAD": "Preuzmite grafikon",
     "LBL_WIDGET_PRINT": "Štampaj grafikon",
-    "LBL_WIDGET_SHOW_SUMMARY": "Prikaži sažetak",
+    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Prikaži sažetak kolona",
     "Upcoming events": "Predstojeći događaji na osnovu odabranih polja datuma.",
     "Upcoming Activities": "Kalendar - u toku",
     "ChartFilter": "Filter grafikona",
@@ -58,6 +58,8 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Delegirane stvari",
     "LIST_OF_LAST_UPDATED_RECORD": "Lista zadnjih ažuriranih zapisa",
     "Mails List": "Najnoviji emailovi",
-    "Notebook": "Bilježnica"
+    "Notebook": "Bilježnica",
+    "LBL_ROW_SUMMARY": "Sažetak",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Prikaži sažetak redova"
   }
 }

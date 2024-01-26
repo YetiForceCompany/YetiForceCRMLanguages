@@ -48,13 +48,5 @@
     "LBL_STATUS": "Státusz",
     "LBL_CONDITIONS": "Feltételek",
     "LBL_TIMES": "Times"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Házirend neve",
-    "JS_OPERATIONAL_HOURS": "Működési órák",
-    "JS_REACTION_TIME": "Reaction time",
-    "JS_IDLE_TIME": "Idle time",
-    "JS_RESOLVE_TIME": "Resolve time",
-    "JS_BUSINESS_HOURS": "Nyitvatartási idő"
   }
 }

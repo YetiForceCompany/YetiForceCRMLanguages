@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "Die Aktivierung verändert die 'config / Security.php' Datei und reduziert das Sicherheitsniveau, Änderungen:\n- es erlaubt das Laden von CRM innerhalb eines iframes\n- es erlaubt das Laden von externen Skripten (https://appsforoffice. icrosoft.com, https://ajax.aspnetcdn.com)\n- es deaktiviert HttpOnly im Cookie \n- es ändert Cookie SameSite zu None",
     "LBL_QUICK_CREATE_MODULES": "Liste der Schnellerstellungsmodule",
     "LBL_QUICK_CREATE_MODULES_DESC": "Liste der Module, in denen Daten aus dem Integrationsbereich erstellt werden können. \n Wenn kein Wert ausgewählt ist, wird das System die Standard-Schnellerstellungsliste auswählen",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Laden Sie die Outlook Add-In-Installationsdatei herunter"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Laden Sie die Outlook Add-In-Installationsdatei herunter",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
   }
 }

@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "送信されたメッセージを保存",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "メールは受信者ごとに個別に送信されます",
     "LBL_UNSUBSCRIBE_INFO": "List-Unsubscribe ヘッダーは、メッセージに追加できるオプションの電子メールヘッダーです。 購読者は、自動的にあなたのメールの受信を停止したい場合にクリックできる購読解除ボタンを見ることができます。 角括弧内のヘッダに配置されるパラメータのリスト。例: < ... >\n例: mailto:newsletter@yetiforce.com >> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "Exemplary additional parameters (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

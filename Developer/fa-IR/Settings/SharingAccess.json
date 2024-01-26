@@ -31,7 +31,6 @@
     "Public: Read, Create\/Edit": "عمومی: خواندن،ایجاد\/ویرایش",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "قانون اشتراک گذاری سفارشی با موفقیت ذخیره شد",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "ذخیره اشتراک سطح دستری انجام نشد",
-    "LBL_CUSTOM_RULE_DELETING_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "حذف اشتراک سطح دستری انجام نشد"
   },
   "js": {

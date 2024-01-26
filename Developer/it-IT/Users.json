@@ -21,9 +21,7 @@
     "Digit Grouping Separator": "Separatore raggruppamento cifre",
     "ForgotPassword": "Password dimenticata",
     "Home Phone": "Telefono di casa",
-    "FL_INTERNAL_MAIL_COMPOSER": "Compositore email",
-    "FL_USER_PBX": "PBX Utente",
-    "LBL_PBX": "Scambio del ramo telefonico",
+    "INTERNAL_MAIL_COMPOSER": "Webmail interna",
     "Language": "Lingua",
     "FL_AVAILABLE": "L'utente è disponibile?",
     "FL_AUTO_ASSIGN_RECORDS": "I record possono essere assegnati automaticamente all'utente?",
@@ -419,11 +417,8 @@
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Gestione dei membri del gruppo",
     "LBL_MEMBER": "Membri",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Aggiungi membri del gruppo",
-    "FL_WAPRO_USER": "Identificativo Utente di WAPRO ERP",
-    "FL_MAIL_POPUP": "Apri il client della tua email in una nuova finestra",
-    "FL_RECORD_LIST_FILTER": "Filtro elenco registro",
-    "PLL_DEFAULT_FROM_LIST_VIEW": "Predefinito dalla vista a elenco",
-    "PLL_LAST_SELECTED_IN_LIST": "Ultimo selezionato nella vista a elenco"
+    "LBL_NO_ACCESS_TITLE": "Accesso negato",
+    "LBL_NO_ACCESS_DESCRIPTION": "Il sistema in fase di registrazione. Riprova più tardi o segnalalo all'amministratore."
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Quando un Utente viene eliminato, l'utente sarà contrassegnato come \"Inattivo\" e nessun nuovo record può essere assegnato all'Utente, e l'utente non sarà in grado di effettuare il login. Sei sicuro di voler eliminare?",

@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "Comment activer cron",
     "LBL_CRON_TASKS_LIST": "Liste des tâches Cron",
     "LBL_REGISTRATION": "Enregistrement",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "Aucune adresse e-mail n'a été ajoutée aux détails de l'entreprise. Remplissez les données requises si vous souhaitez recevoir une newsletter.",
     "LBL_COMPANY_DATA": "Aller aux détails de l'entreprise",
     "LBL_SYSTEM_UPDATER": "Mise à jour du système",
     "LBL_LANGUAGES_UPDATER": "Mise à jour des langues",
     "LBL_LANGUAGES_UPDATER_DESC": "Une mise à jour des langues installées sur votre système CRM est disponible. Allez à la Gestion des langues et cliquez sur le bouton de mise à jour.",
     "LBL_UPDATER_DESC": "Des mises à jour sont disponibles pour la version de votre système. Nous recommandons la mise à jour.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Email",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
+    "Mail": "Email"
   }
 }

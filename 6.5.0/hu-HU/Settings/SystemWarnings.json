@@ -64,6 +64,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "A CRM rendszerére telepített nyelvek frissítése elérhető. Lépjen a Nyelvkezelés elemre, és kattintson a frissítés gombra.",
     "LBL_UPDATER_DESC": "Frissítések érhetők el a rendszer verzióját. Javasoljuk, hogy a frissítést.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

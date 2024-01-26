@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Generar color aleatorio",
     "LBL_GENERATED_COLOR": "Color generado",
     "LBL_NOTWORKING_DAYS": "Días no laborales",
+    "LBL_RM_SHARING_ON": "Incluir persona que comparte en las notificaciones del calendario",
     "LBL_NOTWORKEDDAYS_INFO": "Días no laborales",
     "PLL_MONDAY": "Lunes",
     "PLL_TUESDAY": "Martes",

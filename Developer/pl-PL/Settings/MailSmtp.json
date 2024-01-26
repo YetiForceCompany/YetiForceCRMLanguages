@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "Zapisz wysłaną wiadomość",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Wiadomości email będą wysyłane oddzielnie do każdego z odbiorców",
     "LBL_UNSUBSCRIBE_INFO": "Nagłówek „List-Unsubscribe” jest opcjonalnym nagłówkiem e-maila, który możesz dodać do swoich wiadomości. Pozwala subskrybentom zobaczyć przycisk rezygnacji z subskrypcji, który mogą kliknąć, jeśli chcieliby automatycznie przestać otrzymywać Twoje e-maile. Lista parametrów jakie mają zostać umieszczone w nagłówku w nawiasach ostrych, np. <...>\nprzykład: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Przykładowe dodatkowe parametry (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "Brak domyślnego szablonu e-mail",
-    "BL_BASE": "Konfiguracja podstawowa",
-    "FL_MAIL_ACCOUNT": "Konto pocztowe",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP z konta pocztowego"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Zapisano zmiany"
+    "LBL_OPTIONS_INFO": "Przykładowe dodatkowe parametry (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

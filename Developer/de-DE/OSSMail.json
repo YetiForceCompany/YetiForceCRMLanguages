@@ -74,6 +74,7 @@
     "LBL_MINIMIZE_BAR": "Minimieren",
     "LBL_CREATEMAIL": "E-Mail senden",
     "LBL_ADD_RELATION": "Modulbeziehung hinzufügen",
+    "LBL_ADD_DOCUMENTS": "Add documents",
     "LBL_ADD_TO_MY_CALENDAR": "Zu meinem Kalender hinzufügen",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Beim Import ist ein Fehler aufgetreten",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Die Datei wurde importiert. Anzahl importierter Datensätze: %s",
@@ -97,8 +98,7 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Sender's server is whitelisted, created a verification request for the administrator",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Sender's server is blacklisted, created a verification request for the administrator",
     "LBL_RC_ERROR_RBL_REPORT": "There was an error while sending a report to RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Die Nachricht wurde hinzugefügt",
-    "LBL_SIGNATURES": "Signatures"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Die Nachricht wurde hinzugefügt"
   },
   "js": {
     "NoFindEmailInRecord": "Datensatz hat keine E-Mail-Adresse",

@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Poluga za minimiziranje",
     "LBL_CREATEMAIL": "Pošalji email",
     "LBL_ADD_RELATION": "Dodaj odnos",
-    "LBL_ADD_DOCUMENTS": "Dodajte dokumente",
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj u moj kalendar",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Došlo je do greške prilikom uvoza",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Datoteka je uvezena. Broj uvezenih zapisa: %s",
@@ -98,7 +97,8 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Pošiljateljov server je na popisu dopuštenih, kreiran je zahtjev za provjeru za administratora",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Pošiljateljov server je na crnoj listi, kreiran je zahtjev za provjeru za administratora",
     "LBL_RC_ERROR_RBL_REPORT": "Došlo je do pogreške prilikom slanja izvještaja RBL-u",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Poruka je dodana"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Poruka je dodana",
+    "LBL_SIGNATURES": "Signatures"
   },
   "js": {
     "NoFindEmailInRecord": "Zapis nema email adresu",

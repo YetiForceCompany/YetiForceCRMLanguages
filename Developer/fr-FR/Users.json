@@ -21,9 +21,7 @@
     "Digit Grouping Separator": "Séparateur des milliers",
     "ForgotPassword": "Mot de passe oublié",
     "Home Phone": "Téléphone domicile",
-    "FL_INTERNAL_MAIL_COMPOSER": "Mail composer",
-    "FL_USER_PBX": "User PBX",
-    "LBL_PBX": "Phone branch exchange",
+    "INTERNAL_MAIL_COMPOSER": "Internal mail composer",
     "Language": "Langue",
     "FL_AVAILABLE": "L'utilisateur est-il disponible ?",
     "FL_AUTO_ASSIGN_RECORDS": "Assignés automatiquement des enregistrements à l'utilisateur ?",
@@ -419,11 +417,8 @@
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "Managing group members",
     "LBL_MEMBER": "Members",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "Add group members",
-    "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Open your mail client in a new window",
-    "FL_RECORD_LIST_FILTER": "Record list filter",
-    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
-    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
+    "LBL_NO_ACCESS_TITLE": "Access denied",
+    "LBL_NO_ACCESS_DESCRIPTION": "The system is going through the registration process. Please try again later or report it to the administrator."
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "Lorsqu'un utilisateur est supprimé, l'utilisateur sera marqué comme \"Inactif\", aucun nouvel enregistrement ne pourra être assigné à l'utilisateur et l'utilisateur ne pourra pas se connecter. Êtes-vous sûr de vouloir supprimer ?",

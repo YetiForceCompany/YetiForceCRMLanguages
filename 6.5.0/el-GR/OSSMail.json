@@ -74,7 +74,6 @@
     "LBL_MINIMIZE_BAR": "Ελαχιστοποίηση μπάρας",
     "LBL_CREATEMAIL": "Αποστολή email",
     "LBL_ADD_RELATION": "Προσθήκη σχέσης",
-    "LBL_ADD_DOCUMENTS": "Προσθήκη εγγράφων",
     "LBL_ADD_TO_MY_CALENDAR": "Προσθήκη στο ημερολόγιο",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Παρουσιάστηκε σφάλμα κατά την εισαγωγή",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Το αρχείο έχει εισαχθεί. Αριθμός εισαγόμενων εγγραφών: %s",
@@ -98,7 +97,8 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Ο διακομιστής αποστολέα είναι στη λευκή λίστα, δημιούργησε ένα αίτημα επαλήθευσης για τον διαχειριστή",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Ο διακομιστής του αποστολέα είναι στη μαύρη λίστα, δημιούργησε ένα αίτημα επαλήθευσης για τον διαχειριστή",
     "LBL_RC_ERROR_RBL_REPORT": "Παρουσιάστηκε σφάλμα κατά την αποστολή αναφοράς στο RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Το μήνυμα έχει προστεθεί"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Το μήνυμα έχει προστεθεί",
+    "LBL_SIGNATURES": "Signatures"
   },
   "js": {
     "NoFindEmailInRecord": "Εγγραφή δεν έχει διεύθυνση ηλεκτρονικού ταχυδρομείου",

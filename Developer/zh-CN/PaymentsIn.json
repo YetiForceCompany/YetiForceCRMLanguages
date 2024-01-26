@@ -33,6 +33,7 @@
     "Amount": "金额",
     "Date": "生效日期（货币）",
     "DateK": "记账日期",
+    "Kontrahent": "Account",
     "Currancy operation": "交易货币",
     "Amount operation": "币种金额",
     "Liczba transakcji:": "交易次数：:",

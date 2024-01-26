@@ -79,12 +79,7 @@
     "LBL_ACCOUNTS_BY_INDUSTRY": "Profili per industria",
     "Overdue Activities": "Attività scadute",
     "LBL_NEGLECTED_ACCOUNTS": "Profili Trascurati",
-    "LBL_NEW_ACCOUNTS": "Nuovi Profili",
-    "LBL_COMARCH_BLOCK": "Comarch",
-    "FL_ACCOUNT_SECOND_NAME": "Nome del profilo 2",
-    "FL_ACCOUNT_THIRD_NAME": "Nome del profilo 3",
-    "FL_ACCOUNT_SHORT_NAME": "Nome breve",
-    "FL_PAYMENT_TERM_DAYS": "Payment term (in days)"
+    "LBL_NEW_ACCOUNTS": "Nuovi Profili"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Il nome azienda esiste già. Vuoi creare un duplicato?",

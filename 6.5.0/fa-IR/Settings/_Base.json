@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "تبدیل به حساب",
     "LBL_DAV_KEYS": "کلیدهای DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "ایجاد و مدیریت کلیدهای ‌DAV",
-    "LBL_AUTOLOGIN": "ورود خودکار",
-    "LBL_AUTOLOGIN_DESCRIPTION": "تنظیمات ورود خودکار برای ایمیل ماژول",
     "LBL_MAIL_GENERAL_CONFIGURATION": "پیکربندی عمومی",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "پیکربندی عمومی برای ماژول ایمیل",
     "LBL_SUPPORT_PROCESSES": "فرآیندهای پشتیبانی",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "لوگوی شرکت قابل مشاهده در سامانه است",
     "LBL_COMPANY_LOGO_IN_LOGIN": "لوگوی شرکت قابل مشاهده در لوگین به سامانه است",
     "LBL_ADD_CUSTOM_FIELD": "افزودن فیلد",
-    "LBL_FIELD_NAME": "نام فیلد",
     "LBL_HEIGHT_LOGO": "ارتفاع لوگو",
     "LBL_SECURITY": "امنیت",
     "LBL_LOG_ACCESS_TO_RECORD": "دسترسی به رکوردها وجود ندارد",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "سامانه ثبت نشده است. لطفاً YetiForce CRM خود را برای دسترسی به این بخش از سیستم ثبت کنید.",
     "LBL_REQUIRES_INTERVENTION": "نیاز به مداخله دارد",
     "LBL_ACTIVATE_FUNCTIONALITY": "فعال کردن",
-    "LBL_ONLY_TO_FIRST_LIST": "فقط به نفر اول لیست"
+    "LBL_ONLY_TO_FIRST_LIST": "فقط به نفر اول لیست",
+    "LBL_SAVE_AND_VERIFY": "دخیره و تایید",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "اعطای مجوز دسترسی موفقیت آمیز بود",

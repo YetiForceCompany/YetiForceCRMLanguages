@@ -10,7 +10,11 @@
     "LBL_USERNAME": "登录",
     "LBL_PASSWORD": "密码",
     "LBL_SECRET_KEY": "密钥",
-    "LBL_OUTBOUND_CONTEXT": "出站上下文"
+    "LBL_OUTBOUND_CONTEXT": "出站上下文",
+    "LBL_HTTP_LISTENER_PORT": "HTTP 监听器端口",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "默认",
+    "LBL_PBX_BASE": "Base (default in browser)"
   },
   "js": {
     "JS_SAVE_SUCCESS": "更改已保存"

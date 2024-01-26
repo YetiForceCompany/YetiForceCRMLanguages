@@ -31,7 +31,6 @@
     "Public: Read, Create\/Edit": "公開: 読み込み、作成\/編集",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "カスタム共有ルールが正常に保存されました",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "共有アクセスルールの保存に失敗しました",
-    "LBL_CUSTOM_RULE_DELETING_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "共有アクセスルールの削除に失敗しました"
   },
   "js": {

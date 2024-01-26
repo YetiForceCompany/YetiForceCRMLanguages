@@ -35,6 +35,7 @@
     "RecurringInvoice": "Recurring Invoice",
     "LBL_MAIL_SCANNER_ACTION": "Дія Сканера пошти",
     "LBL_MAIL_SCANNER_VERIFICATION": "Перевірка сканера пошти",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "Надіслати нагадування",
     "LBL_SCHEDULED_IMPORT": "Запланований імпорт",
     "LBL_SCHEDULE_REPORTS": "Schedule Reports",

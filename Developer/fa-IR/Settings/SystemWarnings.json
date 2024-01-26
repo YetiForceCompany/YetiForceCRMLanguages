@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "چگونگی فعال کردن cron",
     "LBL_CRON_TASKS_LIST": "فهرست وظایف Cron",
     "LBL_REGISTRATION": "ثبت‌نام",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "هیچ آدرس ایمیل به جزئیات شرکت اضافه نشده است. اگر می خواهید یک خبرنامه دریافت کنید ، داده های مورد نیاز را پر کنید.",
     "LBL_COMPANY_DATA": "رفتن به جزئیات شرکت",
     "LBL_SYSTEM_UPDATER": "به روزرسان سامانه",
     "LBL_LANGUAGES_UPDATER": "به روزرسان زبان",
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
     "LBL_UPDATER_DESC": "به روز رسانی برای سامانه در دسترس است. ما توصیه می کنیم نسخه خود را به روز رسانی نمایید.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
+    "Mail": "Mail"
   }
 }

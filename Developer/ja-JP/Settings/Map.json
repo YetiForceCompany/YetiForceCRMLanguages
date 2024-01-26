@@ -10,6 +10,7 @@
     "LBL_TILE_LAYER_URL_TEMPLATE": "タイルレイヤーURLテンプレート",
     "LBL_API_URL": "プロバイダー API URL",
     "LBL_DRIVER": "ドライバ",
+    "LBL_COORDINATES": "Coordinates",
     "LBL_COORDINATES_INFO_1": "地理的な座標をダウンロードするために使用するサーバーを選択し、Cronはアドレスフィールドの座標を更新します。 プロバイダの制限に注意を払うと、システムは頻繁にサーバーに要求を送信します。 無料サーバーには大きな制限があり、データを共有することで、常に信頼できるサーバーを選択することができます。",
     "LBL_COORDINATES_INFO_2": "サーバを追加するには、%s ファイル内の $coordinatesServers 変数を編集します。公開されているタイル・レイヤ・サーバは以下の場所で利用できます。",
     "LBL_AVAILABLE_DRIVERS": "システム内で利用可能なドライバ",

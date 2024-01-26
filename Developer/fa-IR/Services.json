@@ -38,7 +38,6 @@
     "Customization": "شخصی سازی",
     "Training": "آموزش",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "لیست رکورد‌ها به تعداد محصولات و خدمات در ارتباط با فرصت فروش محدود می‌باشد",
-    "FL_COST": "هزینه",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "هزینه"
   }
 }

@@ -12,12 +12,12 @@
     "PLL_COMPLETED": "Concluído",
     "PLL_CANCELLED": "Cancelado",
     "FL_STATUS": "Status",
-    "FL_TYPE": "Type",
-    "PLL_INTERNAL": "Internal",
-    "PLL_EXTERNAL": "External",
-    "LBL_DESCRIPTION": "Description",
-    "FL_DESCRIPTION": "Description",
-    "FL_COMMENTS": "Comments",
-    "LBL_COMMENTS": "Comments"
+    "FL_TYPE": "Tipo",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Externo",
+    "LBL_DESCRIPTION": "Descrição",
+    "FL_DESCRIPTION": "Descrição",
+    "FL_COMMENTS": "Comentários",
+    "LBL_COMMENTS": "Comentários"
   }
 }

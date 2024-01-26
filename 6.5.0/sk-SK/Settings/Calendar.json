@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Vygenerovať náhodnú farbu",
     "LBL_GENERATED_COLOR": "Farba vygenerovaná",
     "LBL_NOTWORKING_DAYS": "Nepracvoné dni",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Nepracovné dni",
     "PLL_MONDAY": "Pondelok",
     "PLL_TUESDAY": "Utorok",

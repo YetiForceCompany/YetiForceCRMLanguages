@@ -74,6 +74,7 @@
     "LBL_MINIMIZE_BAR": "Zwijanie i rozwijanie paska",
     "LBL_CREATEMAIL": "Wyślij maila",
     "LBL_ADD_RELATION": "Dodaj powiązanie",
+    "LBL_ADD_DOCUMENTS": "Dodaj dokumenty",
     "LBL_ADD_TO_MY_CALENDAR": "Dodaj do mojego kalendarza",
     "LBL_ERROR_OCCURRED_DURING_IMPORT": "Wystąpił błąd podczas importowania",
     "LBL_FILE_HAS_BEEN_IMPORTED": "Plik został zaimportowany. Liczba zaimportowanych rekordów: %s",
@@ -97,8 +98,7 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Serwer nadawcy jest na białej liście, utworzono zgłoszenie do weryfikacji przez administratora",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Serwer nadawcy jest na czarnej liście, utworzono zgłoszenie do weryfikacji przez administratora",
     "LBL_RC_ERROR_RBL_REPORT": "Wystąpił błąd podczas zgłaszania do RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została dodana",
-    "LBL_SIGNATURES": "Podpisy"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Wiadomość została dodana"
   },
   "js": {
     "NoFindEmailInRecord": "Rekord nie posiada adresu email",

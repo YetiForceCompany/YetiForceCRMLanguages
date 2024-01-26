@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "Az aktiválás módosítja a 'config / Security.php' fájlt, és csökkenti a biztonsági szintet, megváltoztatja:\n- lehetővé teszi a CRM betöltését inframe-ben\n- lehetővé teszi a külső szkriptek betöltését (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- letiltja a HttpOnly-t a cookie-kban\n- a SameSite cookie-t Semmire változtatja",
     "LBL_QUICK_CREATE_MODULES": "List of quick create modules",
     "LBL_QUICK_CREATE_MODULES_DESC": "List of modules in which data can be created from the integration panel. \n If no value is selected, the system will select the default quick create list",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
   }
 }

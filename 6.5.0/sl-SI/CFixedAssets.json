@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Znesek zavarovanja nezgode oseb",
     "FL_NUMBER_MOTOHOURS": "Število ur",
     "FL_EQUIPMENT": "Oprema",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Ni na voljo",
     "PLL_AVAILABLE": "Na voljo",
     "PLL_DEMAGED": "Pokvarjeno",

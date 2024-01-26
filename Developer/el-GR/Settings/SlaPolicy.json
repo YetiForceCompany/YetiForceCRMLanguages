@@ -5,8 +5,8 @@
     "LBL_EDIT": "Επεξεργασία SLA πολιτικής",
     "LBL_CREATE": "Δημιουργία νέας SLA πολιτικής",
     "LBL_SOURCE_MODULE": "Module",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Διαθέσιμο σε παγκόσμιο επίπεδο για τον υπολογισμό χρόνου κατάστασης εγγραφών",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Αν αυτή η επιλογή είναι επιλεγμένη, η πολιτική SLA θα είναι διαθέσιμη για τον υπολογισμό κατάστασης εγγραφών ακόμα και αν η καταχώριση δε σχετίζεται με καμία από αυτή της πολιτικής SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "Επιλέξτε ώρες εργασίας",

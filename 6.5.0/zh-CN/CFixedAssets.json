@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "人身伤害保护保险费用",
     "FL_NUMBER_MOTOHOURS": "发动机计时器数",
     "FL_EQUIPMENT": "设备",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "不可用",
     "PLL_AVAILABLE": "有效",
     "PLL_DEMAGED": "损坏",

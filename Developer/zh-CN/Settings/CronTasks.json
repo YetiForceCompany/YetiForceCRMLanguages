@@ -35,7 +35,6 @@
     "RecurringInvoice": "周期性付款通知单",
     "LBL_MAIL_SCANNER_ACTION": "邮件扫描操作",
     "LBL_MAIL_SCANNER_VERIFICATION": "邮件扫描程序验证",
-    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "发送提醒",
     "LBL_SCHEDULED_IMPORT": "安排的导入",
     "LBL_SCHEDULE_REPORTS": "定期生成报告",

@@ -19,9 +19,7 @@
     "FL_CALLBACK_URL_FOR_REPORT": "Reports (SMS,MMS)",
     "FL_CALLBACK_URL_FOR_REPLY": "Prijem (SMS)",
     "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL za izvješća o isporuci. Upisuje se izravno kod davatelja usluga.",
-    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL za prijeme. Upisuje se izravno kod davatelja usluga.",
-    "FL_DEFAULT": "Default",
-    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Selected provider is inactive. Activate it or change the provider."
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL za prijeme. Upisuje se izravno kod davatelja usluga."
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovu konfiguraciju?",

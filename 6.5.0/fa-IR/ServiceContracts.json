@@ -48,13 +48,5 @@
     "LBL_STATUS": "وضعیت",
     "LBL_CONDITIONS": "شرایط",
     "LBL_TIMES": "دفعات"
-  },
-  "js": {
-    "JS_POLICY_NAME": "نام سیاست",
-    "JS_OPERATIONAL_HOURS": "ساعات عملیاتی",
-    "JS_REACTION_TIME": "زمان واکنش",
-    "JS_IDLE_TIME": "زمان بیکار",
-    "JS_RESOLVE_TIME": "زمان حل و فصل",
-    "JS_BUSINESS_HOURS": "ساعت های کاری"
   }
 }

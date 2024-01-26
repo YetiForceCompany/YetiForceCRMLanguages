@@ -25,9 +25,8 @@
     "LBL_CARS": "Autá",
     "PLL_DRAFT": "Koncept",
     "PLL_CANCELLED": "Zrušené",
-    "LBL_USER_NAME": "Užívateľské meno",
-    "LBL_GROUP_NAME": "Názov skupiny",
-    "LBL_WORK_DAYS": "Pracovné dni"
+    "LBL_WORK_DAYS": "Pracovné dni",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Allowed characters: [0-9]",

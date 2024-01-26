@@ -52,7 +52,9 @@
     "FL_STATE": "Stan",
     "PLL_ACTIVE": "Aktywne",
     "PLL_INACTIVE": "Nieaktywne",
-    "LBL_DUPLICATE": "Duplikat.\nTemat wpisu musi być unikalny w module."
+    "LBL_DUPLICATE": "Duplikat.\nTemat wpisu musi być unikalny w module.",
+    "FL_USER_WORKING_HOURS": "Godziny pracy",
+    "LBL_USER_SELECTION_CONDITIONS": "Wybranie tej opcji spowoduje weryfikację godzin pracy zdefiniowanych w panelu użytkownika. Użytkownicy będą dostępni, jeśli czas utworzenia rekordu mieści się w przedziale od `Godzina rozpoczęcia pracy` do `Godzina zakończenia pracy`."
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Czy jesteś pewien, że chcesz zmienić stan rekordu?",

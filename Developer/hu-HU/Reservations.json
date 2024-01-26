@@ -25,8 +25,9 @@
     "LBL_CARS": "Autók",
     "PLL_DRAFT": "Vázlat",
     "PLL_CANCELLED": "Megszakítva",
-    "LBL_WORK_DAYS": "Munkanapok",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
+    "LBL_WORK_DAYS": "Munkanapok"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Megengedett karakterek: [0-9]",

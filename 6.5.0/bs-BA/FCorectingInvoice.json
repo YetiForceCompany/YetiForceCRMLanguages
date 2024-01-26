@@ -26,7 +26,10 @@
     "LBL_COPY_FROM_INVOICE": "Kopiranje sa početne fakture",
     "LBL_INVOICE_INFO": "Početna polja fakture - prije ispravke.",
     "LBL_AFTER_INVOICE_INFO": "Kako bi trebala izgledati konačna faktura nakon ispravke.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Polja fakture koje treba ispraviti. Kopirajte sva polja s početne fakture i po potrebi promijenite vrijednosti."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Polja fakture koje treba ispraviti. Kopirajte sva polja s početne fakture i po potrebi promijenite vrijednosti.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Odaberite fakturu koju treba ispraviti"

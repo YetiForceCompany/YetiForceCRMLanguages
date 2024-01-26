@@ -17,6 +17,7 @@
     "BTN_SAVE": "保存",
     "BTN_CLOSE": "キャンセル",
     "PLL_USER_PERMISSIONS": "ユーザーに基づく権限",
+    "PLL_CONTACT_RELATED_RECORDS": "All related records directly to contact",
     "PLL_ACCOUNTS_RELATED_RECORDS": "連絡先に直接割り当てられたアカウントのすべての記録",
     "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "すべての関連する取引先レコードが直接取引先に割り当てられ、下位階層の口座に割り当てられました",
     "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "取引先責任者と口座の階層から直接割り当てられたすべての関連レコード",

@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Email duplicate",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blocca registrazione/modifica quando uno degli indirizzi email inseriti esiste già",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Convalida dell'indirizzo email duplicato",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Un validatore che controlla se l'indirizzo è univoco nei moduli e in tutti i campi di tipo email",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Convalida del numero telefonico duplicato",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "Un validatore che verifica se il numero è univoco nei moduli e in tutti i campi di tipo numero telefonico",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Partita IVA dupliacata",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blocca aggiungi/modifica record quando questa partita IVA esiste già",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "EAN duplicato",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blocca la creazione/modifica record quando esiste già la stessa Correzione Note Ricevute.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Convalida dell'orario di lavoro, non può superare le 24 ore",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Orario di lavoro limitato a 24 ore",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Verifica Disponibilità",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Blocca l'aggiunta/modifica del registro se esiste già una prenotazione per questa data.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

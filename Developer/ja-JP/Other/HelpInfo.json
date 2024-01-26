@@ -15,7 +15,7 @@
     "Users|Email": "特別な状況(パスワードリセットなど)で使用されるプライマリメールアドレス(必須フィールド)。",
     "Users|Secondary email": "追加のメールアドレス",
     "Users|FL_PRIMARY_PHONE": "プライマリー電話番号",
-    "Users|CRM Phone Extension": "The telephone number used to connect to the telephone exchange, if not entered, the user will not have active integration with the PBX.",
+    "Users|CRM phone extension": "Additional phone number.",
     "Users|Approval for email": "ワークフロータスクを通じて送信されるニュースレターの受信に同意したユーザーを選択するオプション (メールを送信する、テンプレートからメールを送信する、PDFプリントアウトでメールを送信する)",
     "Users|Date Format": "システムは9つの日付フォーマットに対応しており、推奨（テスト）1つはrrrr-mm-ddです。すべてのユーザーが同じ日付フォーマットを使用することを強くお勧めします。",
     "Users|Calendar Hour Format": "システムは2つのタイムフォーマットに対応しており、推奨(テスト)1つは24Hです。すべてのユーザーが同じタイムフォーマットを使用することを強くお勧めします。",

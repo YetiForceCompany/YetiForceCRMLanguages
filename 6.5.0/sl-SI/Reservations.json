@@ -25,9 +25,8 @@
     "LBL_CARS": "Vozilo",
     "PLL_DRAFT": "Osnutek",
     "PLL_CANCELLED": "Prekinjeno",
-    "LBL_USER_NAME": "Uporabniško ime",
-    "LBL_GROUP_NAME": "Ime skupine",
-    "LBL_WORK_DAYS": "Delovni dnevi"
+    "LBL_WORK_DAYS": "Delovni dnevi",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Dovoljeni znaki: [0-9]",

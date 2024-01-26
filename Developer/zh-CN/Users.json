@@ -21,9 +21,7 @@
     "Digit Grouping Separator": "数字分组分隔符",
     "ForgotPassword": "忘记密码",
     "Home Phone": "家庭电话",
-    "FL_INTERNAL_MAIL_COMPOSER": "邮件撰写者",
-    "FL_USER_PBX": "用户 PBX",
-    "LBL_PBX": "手机分支交换机",
+    "INTERNAL_MAIL_COMPOSER": "Internal mail composer",
     "Language": "语言",
     "FL_AVAILABLE": "用户是否有效？",
     "FL_AUTO_ASSIGN_RECORDS": "记录是否可以自动分配给用户？",
@@ -419,11 +417,8 @@
     "LBL_GROUP_MEMBERS_CHANGE_VIEW": "管理组成员",
     "LBL_MEMBER": "成员",
     "LBL_GROUP_MEMBERS_ADD_VIEW": "添加群组成员",
-    "FL_WAPRO_USER": "WAPRO ERP User identifier",
-    "FL_MAIL_POPUP": "Open your mail client in a new window",
-    "FL_RECORD_LIST_FILTER": "Record list filter",
-    "PLL_DEFAULT_FROM_LIST_VIEW": "Default from list view",
-    "PLL_LAST_SELECTED_IN_LIST": "Last selected in list view"
+    "LBL_NO_ACCESS_TITLE": "Access denied",
+    "LBL_NO_ACCESS_DESCRIPTION": "The system is going through the registration process. Please try again later or report it to the administrator."
   },
   "js": {
     "JS_DELETE_USER_CONFIRMATION": "当删除用户时，该用户会被标记为“不活跃”，且不会分配给该用户新的记录，该用户将无法登录。是否要删除？",

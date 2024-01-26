@@ -26,7 +26,13 @@
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Separa i pulsanti d'azione per modificare i dati aggiuntivi",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Il pulsante definisce un tipo di dato speciale che appartiene solo alle relazioni, disponibile ad es. nel modulo Eventi",
     "LBL_MAX_NUMBER_EXPORT_RECORDS": "Numero massimo di registri d'esportazione",
-    "LBL_PERFORMANCE": "Prestazioni"
+    "LBL_PERFORMANCE": "Prestazioni",
+    "LBL_BRAND_DATA_NAME": "Nome del piè di pagina (footer)",
+    "LBL_TWITTER": "URL Twitter",
+    "LBL_FACEBOOK": "URL Facebook",
+    "LBL_LINKEDIN": "URL Linkedin",
+    "LBL_BRAND_DATA": "Dati del marchio",
+    "LBL_BRAND_DATA_INFO": "Blocco utilizzato quando YetiForce Branding è acquistato che consente d'inserire dati personalizzati visibili nel piè di pagina."
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Impostazioni configurazione salvate",

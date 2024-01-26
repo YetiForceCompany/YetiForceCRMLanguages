@@ -9,7 +9,6 @@
     "LBL_NUMBER": "Numer",
     "LBL_CLOSED_TIME": "Czas zamknięcia",
     "FL_PHONE": "Telefon",
-    "FL_CAPACITY": "Pojemność sali",
-    "FL_COORDINATES": "Współrzędne"
+    "FL_CAPACITY": "Pojemność sali"
   }
 }

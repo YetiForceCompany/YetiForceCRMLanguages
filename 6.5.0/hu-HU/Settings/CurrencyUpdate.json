@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "A bank által támogatott pénznemek listája",
     "LBL_CURRENCIES_UNSUPPORTED": "A bank által nem támogatott valuták listája",
     "LBL_SET_BANK_OK": "Az aktív bank sikeresen mentve.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Nem sikerült beállítani az aktív bankot.",
     "LBL_INFORMATIONS": "Információ",
     "LBL_WARNING": "Figyelmeztetés!",

@@ -15,7 +15,7 @@
     "Users|Email": "Indirizzo email principale (campo obbligatorio) utilizzato in situazioni speciali (ad es. reimpostazione della password).",
     "Users|Secondary email": "Indirizzo e-mail aggiuntivo.",
     "Users|FL_PRIMARY_PHONE": "Numero di telefono principale.",
-    "Users|CRM phone extension": "Numero di telefono aggiuntivo.",
+    "Users|CRM Phone Extension": "Il numero telefonico usato per connettersi allo scambio telefonico; se non inserito, l'utente non avrà l'integrazione attiva con PBX.",
     "Users|Approval for email": "Un'opzione per selezionare gli utenti che hanno accettato di ricevere le newsletter inviate attraverso le attività del flusso di lavoro (posta elettronica, invio email dai modelli, invio email con stampa PDF)",
     "Users|Date Format": "Il sistema supporta 9 formati di data, quello consigliato (testato) è rrr-mm-dd. Consigliamo vivamente che tutti gli utenti usino lo stesso formato della data.",
     "Users|Calendar Hour Format": "Il sistema supporta 2 formati orari, quello raccomandato (testato) è di 24 ore. Consigliamo vivamente che tutti gli utenti usino lo stesso formato orario.",

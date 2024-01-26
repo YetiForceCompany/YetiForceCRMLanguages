@@ -26,7 +26,13 @@
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Separate action buttons for changing additional data",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "The button defines a special data type that belongs only to relations, available e.g. in the Occurrences module",
     "LBL_MAX_NUMBER_EXPORT_RECORDS": "Número máximo de registos de exportação",
-    "LBL_PERFORMANCE": "Desempenho"
+    "LBL_PERFORMANCE": "Desempenho",
+    "LBL_BRAND_DATA_NAME": "Nome do Rodapé",
+    "LBL_TWITTER": "URL do Twitter",
+    "LBL_FACEBOOK": "URL do Facebook",
+    "LBL_LINKEDIN": "URL do LinkedIn",
+    "LBL_BRAND_DATA": "Dados da marca",
+    "LBL_BRAND_DATA_INFO": "Bloco usado quando comprar o add-on \"YetiForce Branding\" que permite que inserir dados personalizados visíveis no rodapé."
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",

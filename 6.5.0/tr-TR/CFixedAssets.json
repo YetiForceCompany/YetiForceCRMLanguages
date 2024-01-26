@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Kişisel Yaralanma Koruması Sigorta Bedeli",
     "FL_NUMBER_MOTOHOURS": "Moto saat sayısı",
     "FL_EQUIPMENT": "Ekipmanlar",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Kullanılamıyor",
     "PLL_AVAILABLE": "Uygun",
     "PLL_DEMAGED": "Hasar görmüş",

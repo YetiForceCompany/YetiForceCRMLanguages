@@ -25,9 +25,8 @@
     "LBL_CARS": "Fahrzeug",
     "PLL_DRAFT": "Entwurf",
     "PLL_CANCELLED": "Abgebrochen",
-    "LBL_USER_NAME": "Benutzername",
-    "LBL_GROUP_NAME": "Gruppenname",
-    "LBL_WORK_DAYS": "Werktage"
+    "LBL_WORK_DAYS": "Werktage",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Fehlerschlüssel: [0-9]",

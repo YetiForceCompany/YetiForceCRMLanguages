@@ -25,13 +25,6 @@
     "BTN_LOAD_ALL_CLIPBOARD": "Carica e salva tutti i dati dell'indirizzo dal modulo agli appunti.",
     "LBL_GROUP_POINTS": "Raggruppa i punti sulla mappa",
     "LBL_GROUP_POINTS_DESC": "Raggruppa i punti sulla mappa a seconda del campo selezionato. Quando selezioanto, è mostrata una legenda con i valori dei campi.",
-    "ERR_ADDRESS_NOT_FOUND": "Indirizzo non trovato",
-    "FL_LAT": "La latitudine",
-    "FL_LON": "La longitudine",
-    "LBL_DECIMAL": "Decimale",
-    "LBL_DEGREES": "Gradi",
-    "LBL_CODE_PLUS": "Codice più",
-    "LBL_SHOW_MAP": "Mostra sulla mappa",
-    "LBL_COORDINATES": "Coordinate"
+    "ERR_ADDRESS_NOT_FOUND": "Indirizzo non trovato"
   }
 }

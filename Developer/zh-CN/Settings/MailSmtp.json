@@ -40,13 +40,6 @@
     "LBL_SAVE_SENT_MESSAGE": "保存已发送的信息",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "将单独为每个收件人发送电子邮件",
     "LBL_UNSUBSCRIBE_INFO": "列表 - 取消订阅标题列表是一个可选择的添加到电子邮件标题的消息。 它允许订阅者看到一个取消按钮，如果想要停止自动收到邮件可以点击它。 该列表的参数，将放置在邮件标题中的尖括号内，如：<...>\n例子：mailto:newsletter@yetiforce.com  <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "参数示例 (Json):\n{\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
-    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
-    "BL_BASE": "Base configuration",
-    "FL_MAIL_ACCOUNT": "Mail account",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
-  },
-  "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "LBL_OPTIONS_INFO": "参数示例 (Json):\n{\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
   }
 }

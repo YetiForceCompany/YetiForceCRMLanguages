@@ -26,7 +26,10 @@
     "LBL_COPY_FROM_INVOICE": "Copiar desde factura inicial",
     "LBL_INVOICE_INFO": "Campos iniciales de factura - antes de las correcciones.",
     "LBL_AFTER_INVOICE_INFO": "Cómo debe verse factura final después de la corrección.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Campos de factura a ser corregidos. Copia todos los campos de la factura inicial y cambia los valores según sea necesario."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Campos de factura a ser corregidos. Copia todos los campos de la factura inicial y cambia los valores según sea necesario.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Seleccione la factura que hay que corregir"

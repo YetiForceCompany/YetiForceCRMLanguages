@@ -9,6 +9,7 @@
     "LBL_NUMBER": "رقم",
     "LBL_CLOSED_TIME": "وقت الإغلاق",
     "FL_PHONE": "الهاتف",
-    "FL_CAPACITY": "السعة"
+    "FL_CAPACITY": "السعة",
+    "FL_COORDINATES": "Coordinates"
   }
 }

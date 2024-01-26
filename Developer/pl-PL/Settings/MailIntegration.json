@@ -12,6 +12,7 @@
     "LBL_OUTLOOK_ACTIVATED_ALERT": "Aktywacja modyfikuje plik 'config/Security.php' i obniża poziom bezpieczeństwa, zmiany:\n- zezwala na ładowanie CRM w ramce inframe,\n- zezwala na ładowanie zewnętrznych skryptów WWW (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com),\n- wyłącza HttpOnly w cookie,\n- zmienia cookie SameSite na None.",
     "LBL_QUICK_CREATE_MODULES": "Lista modułów szybkiego tworzenia",
     "LBL_QUICK_CREATE_MODULES_DESC": "Lista modułów, w których można tworzyć dane z panelu integracyjnego. \nJeśli nie wybrano wartości to system wybierze domyślną listę szybkiego tworzenia.",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Pobierz plik instalacyjny dodatku Outlook"
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Pobierz plik instalacyjny dodatku Outlook",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Dezaktywuj"
   }
 }

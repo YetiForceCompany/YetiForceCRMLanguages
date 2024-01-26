@@ -48,6 +48,7 @@
     "FL_GENDER": "Cinsiyet",
     "PLL_WOMAN": "Kadın",
     "PLL_MAN": "Erkek",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system.",
     "History": "Tarihçe",
     "Overdue Activities": "Overdue activities"
   },

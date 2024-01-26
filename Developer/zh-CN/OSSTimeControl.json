@@ -95,6 +95,8 @@
     "LBL_TIME_CONTROL_USER_GROUP": "具有用户的其他信息的时间控制列表",
     "LBL_TYPE": "事件类型",
     "FL_SUBPROCESS_SECOND_LEVEL": "二级子流程",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "工作天数",
     "Employees Time Control": "员工时间控制",
     "LBL_ALL_TIME_CONTROL": "所有用户总工作时间",

@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Converter para Organização",
     "LBL_DAV_KEYS": "Chaves DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Criar e gerenciar chaves DAV",
-    "LBL_AUTOLOGIN": "Auto Acesso",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuração de auto acesso para o módulo de E-mail",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Configuração geral",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Configuração geral do módulo de E-mail",
     "LBL_SUPPORT_PROCESSES": "Processo de Suporte",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo da empresa visível no sistema",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo da empresa visível no painel de login",
     "LBL_ADD_CUSTOM_FIELD": "Adicionar campo",
-    "LBL_FIELD_NAME": "Nome do campo",
     "LBL_HEIGHT_LOGO": "Altura da Logo",
     "LBL_SECURITY": "Segurança",
     "LBL_LOG_ACCESS_TO_RECORD": "Sem acesso aos registros",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Sistema não registrado. Por favor, registre seu YetiForce CRM para obter acesso à essa parte do sistema.",
     "LBL_REQUIRES_INTERVENTION": "Requer intervenção",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ativar",
-    "LBL_ONLY_TO_FIRST_LIST": "Apenas para o primeiro na lista"
+    "LBL_ONLY_TO_FIRST_LIST": "Apenas para o primeiro na lista",
+    "LBL_SAVE_AND_VERIFY": "Salvar e verificar",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizado com sucesso",

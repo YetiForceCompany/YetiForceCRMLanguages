@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplikatne poruke e-pošte",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokirajte dodavanje / uređivanje zapisa kada jedna od unesenih adresa e-pošte već postoji",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Provjera duplikata adrese e-pošte",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Validator koji provjerava da li je adresa jedinstvena u modulima i svim poljima tipa e-pošte",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Provjera duplikata telefonskog broja",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "Validator koji provjerava je li broj jedinstven u modulima i svim poljima tipa telefonskog broja",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokiranje dodavanja / uređivanja zapisa kada takav PDV ID već postoji",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikatni EAN",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokiraj dodavanje / uređivanje zapisa kada već postoji ista korekcija Prijema robe.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Potvrda radnog vremena, ne može biti duža od 24 sata",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Radno vrijeme ograničeno na 24 sata",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Provjera dostupnosti",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Blokiraj dodavanje/uređivanje zapisa ako već postoji rezervacija za ovaj datum.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

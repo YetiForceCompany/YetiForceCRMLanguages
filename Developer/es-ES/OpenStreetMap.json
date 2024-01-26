@@ -25,13 +25,6 @@
     "BTN_LOAD_ALL_CLIPBOARD": "Load and save all address data from the module to the clipboard.",
     "LBL_GROUP_POINTS": "Group points on the map",
     "LBL_GROUP_POINTS_DESC": "Group map points based on the selected field. When selected, a legend with field values is displayed.",
-    "ERR_ADDRESS_NOT_FOUND": "Dirección no encontrada",
-    "FL_LAT": "La latitud",
-    "FL_LON": "La longitud",
-    "LBL_DECIMAL": "Decimal",
-    "LBL_DEGREES": "Grados",
-    "LBL_CODE_PLUS": "Código más",
-    "LBL_SHOW_MAP": "Mostrar en el mapa",
-    "LBL_COORDINATES": "Coordenadas"
+    "ERR_ADDRESS_NOT_FOUND": "Dirección no encontrada"
   }
 }

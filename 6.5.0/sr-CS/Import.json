@@ -77,7 +77,7 @@
     "skipped": "Preskočeni zapisi",
     "failed": "Neuspjeli zapisi",
     "LBL_SELECT_FILE": "Odaberite datoteku za uvoz",
-    "LBL_MERGE_TYPE_INFO": "Preskoči: postojeći zapisi se preskaču i ne ažuriraju.\n\nPrepiši: postojeći zapisi prepisuju se podacima iz datoteke ili se ispunjavaju zadane vrijednosti ako su potrebne vrijednosti u zapisu i datoteka prazna. Ako nisu označene kao potrebne, vrijednosti se u zapisu prepisuju s praznim vrijednostima iz datoteke.\n\nSpajanje: vrijednosti zapisa se prepisuju s vrijednostima iz datoteke ako vrijednosti iz datoteke nisu prazne (međutim, ako su prazne, vrijednosti iz zapisa se čuvaju).\n\nPopunite: ažuriraju se samo prazna polja u zapisu. Vrijednosti iz polja ne prepisuju se ako u zapisu već postoji vrijednost exisitng.",
+    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing records are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "Uvezena datoteka nalazi se u drugačijem kodiranju nego što je odabrano (%s)"
   }
 }

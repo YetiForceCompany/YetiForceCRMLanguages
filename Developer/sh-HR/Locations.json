@@ -9,7 +9,6 @@
     "LBL_NUMBER": "Broj",
     "LBL_CLOSED_TIME": "Vrijeme zaključenja",
     "FL_PHONE": "Telefon",
-    "FL_CAPACITY": "Kapacitet",
-    "FL_COORDINATES": "Coordinates"
+    "FL_CAPACITY": "Kapacitet"
   }
 }

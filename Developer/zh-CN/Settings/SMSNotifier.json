@@ -19,9 +19,7 @@
     "FL_CALLBACK_URL_FOR_REPORT": "报告 (SMS, MMS)",
     "FL_CALLBACK_URL_FOR_REPLY": "接收 (SMS)",
     "FL_CALLBACK_URL_FOR_REPORT_DESC": "用于交付报告的网址。要直接在提供者输入。",
-    "FL_CALLBACK_URL_FOR_REPLY_DESC": "接收的网址。要在提供者直接输入。",
-    "FL_DEFAULT": "Default",
-    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Selected provider is inactive. Activate it or change the provider."
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "接收的网址。要在提供者直接输入。"
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "确实要删除此设置吗？?",

@@ -6,7 +6,7 @@
     "Analyst": "Analytik",
     "Competitor": "Konkurent",
     "Customer": "Zákazník",
-    "Email": "Výchozí e-mail",
+    "Email": "Primární Email",
     "Employees": "Zaměstnanci",
     "industry": "Obor podnikání",
     "Integrator": "Integrátor",
@@ -75,11 +75,16 @@
     "FL_SUM_ORDERS": "Součet otevřených obchodních objednávek",
     "FL_TAXES": "Daně",
     "FL_AVAILABLE_TAXES": "Dostupné daně",
-    "History": "History",
+    "History": "Historie",
     "LBL_ACCOUNTS_BY_INDUSTRY": "Accounts by industry",
-    "Overdue Activities": "Overdue activities",
+    "Overdue Activities": "Aktivity po termínu",
     "LBL_NEGLECTED_ACCOUNTS": "Neglected Accounts",
-    "LBL_NEW_ACCOUNTS": "New Accounts"
+    "LBL_NEW_ACCOUNTS": "Nové účty",
+    "LBL_COMARCH_BLOCK": "Comarch",
+    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
+    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
+    "FL_ACCOUNT_SHORT_NAME": "Short name",
+    "FL_PAYMENT_TERM_DAYS": "Payment term (in days)"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Název účtu již existuje. Chcete vytvořit duplicitní záznam?",

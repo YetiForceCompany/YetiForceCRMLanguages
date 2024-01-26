@@ -44,7 +44,7 @@
     "LBL_VIEW_TAXCONFIGURATION": "Porezi konfiguracija",
     "LBL_VIEW_DISCOUNTCONFIGURATION": "Konfiguracija popusta",
     "LBL_VIEW_DISCOUNTS": "Osnovica popusta",
-    "LBL_DEFAULT_MODE": "Zadani način",
+    "LBL_DEFAULT_MODE": "Default type",
     "LBL_ALERT_TAX_CONFIG_TITLE": "Opis poreznih postavki:",
     "LBL_ALERT_TAX_CONFIG_DESC": "Vrsta sumiranja:\nUkupno:\n- Ukupna vrijednost svih poreza obračunata na vrijednost proizvoda/usluge.\n[Example]\nOdabrana su dva poreza: prvi 23%, drugi 8%. Sistem zbraja vrijednost oba poreza iz originalnog neto iznosa.\nU gornjem primjeru za neto vrijednost 100zł, bruto iznos će biti (100zł * 1,31) = 131,00zł\n\nKaskada:\n- Iznos poreza se izračunava svaki put od vrijednosti proizvoda/usluge.\n[Example]\nBiraju se dva poreza: prvi 23%, drugi 8%. Sistem izračunava vrijednost za prvi porez, a zatim se dodaje vrijednost drugog poreza.\nU gornjem primjeru za neto vrijednost od 100zł, bruto iznos će biti (100zł * 1,23) * 1,08 = 132,84zł\n\nOpis postavki poreza:\nPorez sa liste dostupnih poreza:\n- Navedeno u postavkama za napredne module.\nPorez sa liste proizvoda/usluga:\n- Specificirano pojedinačno za proizvode u modulu Proizvodi.\nCarinski porez:\n- Navedeno jednom za odabrani zapis.\nPorez na račun:\n- Određuje se pojedinačno za odabranog kupca.",
     "LBL_ALERT_DISCOUNT_CONFIG_TITLE": "Opis postavki popusta:",

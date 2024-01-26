@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "筛选器的颜色",
     "LBL_WIDGET_DOWNLOAD": "下载图",
     "LBL_WIDGET_PRINT": "打印图形",
-    "LBL_WIDGET_SHOW_SUMMARY": "显示概要",
+    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Show columns summary",
     "Upcoming events": "基于所选日期字段的即将发生事件。",
     "Upcoming Activities": "日历 - 待定",
     "ChartFilter": "图表筛选器",
@@ -58,6 +58,8 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "授权的事项",
     "LIST_OF_LAST_UPDATED_RECORD": "上次更新的记录列表",
     "Mails List": "最近期的电子邮件",
-    "Notebook": "记事本"
+    "Notebook": "记事本",
+    "LBL_ROW_SUMMARY": "Summary",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show rows summary"
   }
 }

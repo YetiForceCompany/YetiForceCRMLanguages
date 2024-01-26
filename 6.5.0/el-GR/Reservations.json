@@ -25,9 +25,8 @@
     "LBL_CARS": "Αυτοκίνητα",
     "PLL_DRAFT": "Πρόχειρο",
     "PLL_CANCELLED": "Ακυρώθηκε",
-    "LBL_USER_NAME": "Όνομα χρήστη",
-    "LBL_GROUP_NAME": "Όνομα ομάδας",
-    "LBL_WORK_DAYS": "Εργάσιμες ημέρες"
+    "LBL_WORK_DAYS": "Εργάσιμες ημέρες",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "Επιτρεπτοί χαρακτήρες: [0-9]",

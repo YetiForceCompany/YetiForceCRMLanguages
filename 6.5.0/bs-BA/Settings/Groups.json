@@ -15,7 +15,8 @@
     "FL_PARENT": "Vođa tima",
     "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Prekoračena je granica dozvoljenih grupnih gnijezda.",
     "LBL_INDEFINITE_LOOP": "Trenutne postavke će stvoriti neograničenu petlju. Molimo promijenite članove grupe.",
-    "LBL_GROUP_DUPLICATE": "Duplikat"
+    "LBL_GROUP_DUPLICATE": "Duplikat",
+    "LBL_DELETE_GROUP": "Obriši grupu"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Odaberite najmanje jednog člana za grupu",

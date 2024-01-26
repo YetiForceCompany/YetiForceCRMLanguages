@@ -35,7 +35,6 @@
     "RecurringInvoice": "定期請求書",
     "LBL_MAIL_SCANNER_ACTION": "メールスキャナアクション",
     "LBL_MAIL_SCANNER_VERIFICATION": "メールスキャナーの検証",
-    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "リマインダーを送信",
     "LBL_SCHEDULED_IMPORT": "スケジュールされたインポート",
     "LBL_SCHEDULE_REPORTS": "スケジュールレポート",

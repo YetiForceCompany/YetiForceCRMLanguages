@@ -38,7 +38,6 @@
     "Customization": "カスタマイズ",
     "Training": "トレーニング",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "レコードのリストは、商談に関連する製品とサービスに限定されています",
-    "FL_COST": "コスト",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "コスト"
   }
 }

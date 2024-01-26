@@ -38,6 +38,7 @@
     "Customization": "Налаштування",
     "Training": "Навчання",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Список записів обмежується продуктами та послугами, пов'язаними з можливістю продажу",
-    "FL_COST": "Вартість"
+    "FL_COST": "Вартість",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
   }
 }

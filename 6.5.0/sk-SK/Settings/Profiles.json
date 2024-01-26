@@ -98,7 +98,10 @@
     "CustomViewAdvCond": "Pokročilé vlastné zobrazenia podmienok",
     "RecordActivityNotifier": "Oznamovač aktivity v záznamoch",
     "WorkflowTriggerWhenRecordIsBlocked": "Spúšťač pracovného postupu keď je záznam blokovaný",
-    "LeaderCanManageGroupMembership": "Vedúci môže spravovať členstvo v skupine"
+    "LeaderCanManageGroupMembership": "Vedúci môže spravovať členstvo v skupine",
+    "TilesView": "Tiles view",
+    "CalendarExtraSources": "Calendar - Additional data sources",
+    "CalendarExtraSourcesCreate": "Calendar - Create additional data sources"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profile deleted successfully"

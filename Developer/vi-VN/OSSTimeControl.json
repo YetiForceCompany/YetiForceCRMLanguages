@@ -95,6 +95,8 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Kiểm Soát Thời Gian với thông tin bổ sung về người dùng",
     "LBL_TYPE": "Loại hoạt động",
     "FL_SUBPROCESS_SECOND_LEVEL": "Quy trình cấp độ hai",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "Ngày làm việc",
     "Employees Time Control": "Employees Time Control",
     "LBL_ALL_TIME_CONTROL": "All users total working time",

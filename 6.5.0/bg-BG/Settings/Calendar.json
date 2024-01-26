@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Генериране на случаен цвят",
     "LBL_GENERATED_COLOR": "Цветът е бил генериран",
     "LBL_NOTWORKING_DAYS": "Не работни дни",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Не работни дни",
     "PLL_MONDAY": "Понеделник",
     "PLL_TUESDAY": "Вторник",

@@ -26,7 +26,13 @@
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Ξεχωριστά κουμπιά ενεργειών για την αλλαγή πρόσθετων δεδομένων",
     "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Το κουμπί ορίζει έναν ειδικό τύπο δεδομένων που ανήκει μόνο στις σχέσεις, διαθέσιμες π.χ. στο module Occurrences",
     "LBL_MAX_NUMBER_EXPORT_RECORDS": "Μέγιστος αριθμός εγγραφών εξαγωγής",
-    "LBL_PERFORMANCE": "Performance"
+    "LBL_PERFORMANCE": "Performance",
+    "LBL_BRAND_DATA_NAME": "Όνομα υποσέλιδου",
+    "LBL_TWITTER": "Διαδικτυακή διεύθυνση Twitter",
+    "LBL_FACEBOOK": "Διαδικτυακή διεύθυνση Facebook",
+    "LBL_LINKEDIN": "Διαδικτυακή διεύθυνση LinkedIn",
+    "LBL_BRAND_DATA": "Στοιχεία εμπορικού σήματος",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Οι λεπτομέρειες ρυθμίσεων αποθηκεύτηκαν",

@@ -10,11 +10,7 @@
     "LBL_USERNAME": "Prijava",
     "LBL_PASSWORD": "Lozinka",
     "LBL_SECRET_KEY": "Tajni ključ",
-    "LBL_OUTBOUND_CONTEXT": "Izlazni kontekst",
-    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
-    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
-    "LBL_PBX_DEFAULT": "Zadano",
-    "LBL_PBX_BASE": "Base (default in browser)"
+    "LBL_OUTBOUND_CONTEXT": "Izlazni kontekst"
   },
   "js": {
     "JS_SAVE_SUCCESS": "Promjene su spremljene"

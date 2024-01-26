@@ -48,13 +48,5 @@
     "LBL_STATUS": "Status",
     "LBL_CONDITIONS": "Condities",
     "LBL_TIMES": "Keer"
-  },
-  "js": {
-    "JS_POLICY_NAME": "Naam beleid",
-    "JS_OPERATIONAL_HOURS": "Werktijd",
-    "JS_REACTION_TIME": "Reactie tijd",
-    "JS_IDLE_TIME": "Inactief tijd",
-    "JS_RESOLVE_TIME": "Oplos tijd",
-    "JS_BUSINESS_HOURS": "Openingstijden"
   }
 }

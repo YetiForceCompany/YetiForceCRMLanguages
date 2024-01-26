@@ -66,6 +66,7 @@
     "Configuration": "Konfiguration",
     "LBL_MAIL_REPLY_INTRO": "Am %s, %s schrieb:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Original Nachricht --------",
+    "Graf": "Emails by Type",
     "Today": "Heute",
     "Yesterday": "Gestern",
     "Current week": "Aktuelle Woche",

@@ -98,10 +98,7 @@
     "CustomViewAdvCond": "高级自定义视图条件",
     "RecordActivityNotifier": "记录活动通知器",
     "WorkflowTriggerWhenRecordIsBlocked": "封禁记录时触发工作流程",
-    "LeaderCanManageGroupMembership": "领导可以管理群组成员",
-    "TilesView": "Tiles view",
-    "CalendarExtraSources": "Calendar - Additional data sources",
-    "CalendarExtraSourcesCreate": "Calendar - Create additional data sources"
+    "LeaderCanManageGroupMembership": "领导可以管理群组成员"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "权限配置已被删除"

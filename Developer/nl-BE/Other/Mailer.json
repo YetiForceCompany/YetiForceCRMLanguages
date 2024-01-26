@@ -1,11 +1,6 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Geplande import is voltooid",
-    "LBL_CRON_COMPLETED_IMPORT": "Record import samenvatting voor de module:",
-    "LBL_DEFAULT_IN_BROWSER": "Basis (standaard in browser)",
-    "LBL_GENESYS_WDE": "Genesys WDE door Whirly",
-    "LBL_INTERNAL_CLIENT": "Interne software (Roundcube)",
-    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Er is geen actief e-mailaccount.",
-    "ERR_NO_SMTP_CONFIGURATION": "Geen configuratie."
+    "LBL_CRON_COMPLETED_IMPORT": "Record import samenvatting voor de module:"
   }
 }

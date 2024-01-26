@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicitné emaily",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Zablokovať pridanie/úpravu ak niektorý z vložených emailov už existuje",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Overenie duplicitnej e-mailovej adresy",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "A validator that checks whether the address is unique in modules and all email type fields",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Phone number duplicate validation",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "A validator that checks whether the number is unique in modules and all phone number type fields",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicate VAT ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Block record adding/editing when such VAT ID already exists",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicitný EAN",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Pracovný čas nemôže presiahnuť 24 hodín",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Pracovný čas obmedzený na 24h",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

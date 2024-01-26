@@ -28,7 +28,6 @@
     "LBL_ADD_IMAGE_FILE": "添加图像文件",
     "LBL_TYPE_THE_MESSAGE": "输入消息",
     "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "一次性创建的文本消息限制",
-    "LBL_SERVER_CONFIG": "服务器参数设置",
-    "FL_SMS_PROVIDER": "SMS Provider"
+    "LBL_SERVER_CONFIG": "服务器参数设置"
   }
 }

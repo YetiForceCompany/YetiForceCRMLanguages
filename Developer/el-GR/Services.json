@@ -38,7 +38,6 @@
     "Customization": "Προσαρμογή - Παραμετροποίηση",
     "Training": "Εκπαίδευση",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Λίστα των εγγραφών είναι περιορισμένη στα προϊόντα και τις υπηρεσίες που σχετίζονται με την ευκαιρία της πώλησης",
-    "FL_COST": "Κόστος",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "Κόστος"
   }
 }

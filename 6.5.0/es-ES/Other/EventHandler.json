@@ -1,7 +1,9 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicar correos",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Bloquea la adición/edición de registros cuando ya exista una de las direcciones de correo electrónico ingresadas",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER": "Validación de duplicados de dirección de correo electrónico",
+    "CONTACTS_DUPLICATEEMAILCHECKER_HANDLER_DESC": "Un validador que comprueba si la dirección es única en los módulos y en todos los campos de tipo de correo electrónico",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER": "Validación de duplicados de número de teléfono",
+    "CONTACTS_DUPLICATEPHONECHECKER_HANDLER_DESC": "Un validador que comprueba si el número es único en los módulos y en todos los campos de tipo de número de teléfono",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplicar ID de IVA",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Bloquea la adición/edición de registros cuando dicho ID de IVA ya existe",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplicar ean",
@@ -12,6 +14,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "La validación del tiempo de trabajo, no puede exceder las 24 horas",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Comprobación de disponibilidad",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Bloquear la adición/edición de registro si ya existe una reserva para esta fecha.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

@@ -15,7 +15,7 @@
     "Users|Email": "在特殊情况下（即密码重置）使用的主邮件地址（强制字段）。",
     "Users|Secondary email": "附加的电子邮件地址。",
     "Users|FL_PRIMARY_PHONE": "主手机号码。",
-    "Users|CRM Phone Extension": "该电话号码通常连到电话交换机上，如果不输入，用户不会与 PBX 进行有效整合。",
+    "Users|CRM phone extension": "Additional phone number.",
     "Users|Approval for email": "选择哪些用户同意通过工作流程任务（发送邮件、发送模板邮件、发送带 PDF 打印输出的电子邮件）接收推送信。",
     "Users|Date Format": "此系统支持 9 种日期格式，推荐（已测试）rrrr-mm-dd。我们强烈建议所有用户使用相同的日期格式。",
     "Users|Calendar Hour Format": "系统支持 2 种时间格式，推荐（已测试）的是 24 小时。我们强烈建议所有用户使用相同的时间格式。",

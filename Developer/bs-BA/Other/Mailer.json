@@ -1,11 +1,6 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Planirani uvoz je završen",
-    "LBL_CRON_COMPLETED_IMPORT": "Zabilježite sažetak uvoza za modul:",
-    "LBL_DEFAULT_IN_BROWSER": "Baza (zadano u pregledniku)",
-    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
-    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)",
-    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Nema aktivnog naloga e-pošte.",
-    "ERR_NO_SMTP_CONFIGURATION": "Nema konfiguracije."
+    "LBL_CRON_COMPLETED_IMPORT": "Zabilježite sažetak uvoza za modul:"
   }
 }

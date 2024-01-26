@@ -40,6 +40,13 @@
     "LBL_SAVE_SENT_MESSAGE": "Enregistrez le message envoyé",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "Les emails seront envoyés individuellement pour chaque destinataire",
     "LBL_UNSUBSCRIBE_INFO": "L'en-tête List-Unsubscribe est un en-tête d'e-mail facultatif que vous pouvez ajouter à vos messages. Il permet aux abonnés de voir un bouton de désabonnement sur lequel ils peuvent cliquer s'ils souhaitent arrêter automatiquement de recevoir votre e-mail. La liste des paramètres qui seront placés dans l'en-tête entre crochets, par ex. <...> exemple: mailto: newsletter@yetiforce.com >>> <mailto: newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Exemple de paramètres supplémentaires: 'ssl' => ['verify_peer'  => true,'verify_depth' => 3,'allow_self_signed' => true,'peer_name' => 'smtp.example.com','cafile' => '/etc/ssl/ca_cert.pem',]"
+    "LBL_OPTIONS_INFO": "Exemple de paramètres supplémentaires: 'ssl' => ['verify_peer'  => true,'verify_depth' => 3,'allow_self_signed' => true,'peer_name' => 'smtp.example.com','cafile' => '/etc/ssl/ca_cert.pem',]",
+    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
+    "BL_BASE": "Base configuration",
+    "FL_MAIL_ACCOUNT": "Mail account",
+    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
   }
 }

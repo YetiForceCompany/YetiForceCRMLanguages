@@ -1,6 +1,6 @@
 {
   "php": {
-    "Dependencies": "Vulnerability scanner",
+    "Dependencies": "Сканер уязвимостей",
     "LBL_VULNERABILITIES": "Vulnerability scanner",
     "LBL_VULNERABILITIES_DESCRIPTION": "A tool for detecting vulnerabilities in CRM and the server",
     "LBL_VULNERABILITIES_OK": "No vulnerabilities found",

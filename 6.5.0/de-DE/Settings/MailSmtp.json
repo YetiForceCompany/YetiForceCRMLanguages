@@ -40,6 +40,13 @@
     "LBL_SAVE_SENT_MESSAGE": "Gesendete Nachricht speichern",
     "LBL_INDIVIDUAL_DELIVERY_INFO": "E-Mails werden je Empfänger einzel versendet",
     "LBL_UNSUBSCRIBE_INFO": "Der Header List-Unsubscribe ist ein optionaler E-Mail-Header, den Sie zu Ihren Nachrichten hinzufügen können. Es ermöglicht Abonnenten einen Abmelde-Button zu sehen, den sie anklicken können, wenn sie automatisch Ihre E-Mail nicht mehr erhalten möchten. Die Liste der Parameter, die im Header in Klammern des Winkels platziert werden sollen, z.B. < ... >\nBeispiel: mailto:newsletter@yetiforce.com >>> <mailto:newsletter@yetiforce.com>",
-    "LBL_OPTIONS_INFO": "Beispielhafte zusätzliche Parameter (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}"
+    "LBL_OPTIONS_INFO": "Beispielhafte zusätzliche Parameter (Json):\n {\n\"ssl\": {\n\"verify_peer\":false,\n\"verify_peer_name\";:false,\n\";allow_self_signed\";:true\n   }\n}",
+    "LBL_NO_EMAIL_TEMPLATE": "There is no default email template",
+    "BL_BASE": "Base configuration",
+    "FL_MAIL_ACCOUNT": "Mail account",
+    "LBL_SMTP_MAIL_ACCOUNT": "SMTP from mail account"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
   }
 }

@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "Kolory z filtrów",
     "LBL_WIDGET_DOWNLOAD": "Pobierz wykres",
     "LBL_WIDGET_PRINT": "Drukuj wykres",
-    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Pokaż podsumowanie kolumn",
+    "LBL_WIDGET_SHOW_SUMMARY": "Pokaż podsumowanie",
     "Upcoming events": "Nadchodzące wydarzenia na podstawie wybranych pól dat.",
     "Upcoming Activities": "Sprawy bieżące",
     "ChartFilter": "Filtr wykresów",
@@ -58,8 +58,6 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Sprawy oddelegowane",
     "LIST_OF_LAST_UPDATED_RECORD": "Lista ostatnio zaktualizowanych rekordów",
     "Mails List": "Najnowsze maile",
-    "Notebook": "Notatnik",
-    "LBL_ROW_SUMMARY": "Podsumowanie",
-    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Pokaż podsumowanie rzędów"
+    "Notebook": "Notatnik"
   }
 }

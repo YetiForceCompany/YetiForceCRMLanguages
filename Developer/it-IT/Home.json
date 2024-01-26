@@ -40,7 +40,7 @@
     "LBL_CHART_COLORS_FROM_FILTER": "Colore per filtro",
     "LBL_WIDGET_DOWNLOAD": "Scarica grafico",
     "LBL_WIDGET_PRINT": "Stampa grafico",
-    "LBL_WIDGET_SHOW_COLUMNS_SUMMARY": "Mostra riepilogo delle colonne",
+    "LBL_WIDGET_SHOW_SUMMARY": "Mostra sommario",
     "Upcoming events": "Eventi in arrivo a seconda dei campi di data selezionati.",
     "Upcoming Activities": "Calendario - in sospeso",
     "ChartFilter": "Filtro del Grafico",
@@ -58,8 +58,6 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Questioni delegate",
     "LIST_OF_LAST_UPDATED_RECORD": "Elenco di registri per ultimo aggiornamento",
     "Mails List": "Email più recenti",
-    "Notebook": "Blocco note",
-    "LBL_ROW_SUMMARY": "Riepilogo",
-    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Mostra riepilogo delle righe"
+    "Notebook": "Blocco note"
   }
 }

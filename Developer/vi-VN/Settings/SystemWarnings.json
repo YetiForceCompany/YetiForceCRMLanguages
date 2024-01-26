@@ -57,15 +57,12 @@
     "LBL_HOW_TO_ENABLE_CRON": "Làm thế nào để kích hoạt lịch cron",
     "LBL_CRON_TASKS_LIST": "Danh sách tác vụ cron",
     "LBL_REGISTRATION": "Đăng ký",
-    "LBL_NEWSLETTER_NO_COMPANY_DATA": "Chưa điền địa chỉ email trong thông tin công ty. Điền thông tin được yêu cầu nếu bạn muốn nhận 1 bản tin qua email.",
     "LBL_COMPANY_DATA": "Chuyển tới thông tin công ty",
     "LBL_SYSTEM_UPDATER": "Cập nhật hệ thống",
     "LBL_LANGUAGES_UPDATER": "Cập nhật ngôn ngữ",
     "LBL_LANGUAGES_UPDATER_DESC": "Một bản cập nhật ngôn ngữ trong hệ thống CRM của bạn mới thay đổi. Đi đến vùng quản lý ngôn và nhấn vào nút cập nhật.",
     "LBL_UPDATER_DESC": "Có cập nhật mới cho phiên bản bạn đang dùng. Chúng tôi khuyến nghị cập nhật.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
-    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
+    "Mail": "Mail"
   }
 }

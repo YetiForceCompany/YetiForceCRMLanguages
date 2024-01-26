@@ -38,7 +38,6 @@
     "Customization": "Personalización",
     "Training": "Formación",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "La lista de registros se limita a los productos y servicios asociados en la pestaña de “Productos & Servicios” del Módulo relacionado",
-    "FL_COST": "Costo",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "Costo"
   }
 }

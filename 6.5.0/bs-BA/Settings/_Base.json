@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Pretvori u Klijenta",
     "LBL_DAV_KEYS": "DAV ključevi",
     "LBL_DAV_KEYS_DESCRIPTION": "Stvaranje i upravljanje DAV ključevima",
-    "LBL_AUTOLOGIN": "Automatska prijava",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Konfiguracija automatske prijave email za modul",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Opšta konfiguracija",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Opšta konfiguracija email modula",
     "LBL_SUPPORT_PROCESSES": "Proces podrške",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo firme vidljiv u sistemu",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo firme vidljivi u panelu za prijavu",
     "LBL_ADD_CUSTOM_FIELD": "Dodaj polje",
-    "LBL_FIELD_NAME": "Naziv polja",
     "LBL_HEIGHT_LOGO": "Visina logotipa",
     "LBL_SECURITY": "Sigurnost",
     "LBL_LOG_ACCESS_TO_RECORD": "Nema pristupa zapisima",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "Sistem nije registrovan. Registrirajte svoj YetiForce CRM da biste imali pristup ovom dijelu sistema.",
     "LBL_REQUIRES_INTERVENTION": "Zahtijeva intervenciju",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktiviraj",
-    "LBL_ONLY_TO_FIRST_LIST": "Samo prvom na listi"
+    "LBL_ONLY_TO_FIRST_LIST": "Samo prvom na listi",
+    "LBL_SAVE_AND_VERIFY": "Sačuvaj i potvrdi",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorizacija je uspješna",

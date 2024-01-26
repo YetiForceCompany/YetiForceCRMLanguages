@@ -48,6 +48,7 @@
     "FL_GENDER": "性别",
     "PLL_WOMAN": "女士",
     "PLL_MAN": "男士",
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system.",
     "History": "历史",
     "Overdue Activities": "逾期活动"
   },

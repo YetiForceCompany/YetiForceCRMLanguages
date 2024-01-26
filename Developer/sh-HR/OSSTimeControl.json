@@ -95,6 +95,8 @@
     "LBL_TIME_CONTROL_USER_GROUP": "Lista vremenske kontrole s dodatnim informacijama o korisnicima",
     "LBL_TYPE": "Tip aktivnosti",
     "FL_SUBPROCESS_SECOND_LEVEL": "Podproces drugog nivoa",
+    "LBL_USER_NAME": "User name",
+    "LBL_GROUP_NAME": "Group name",
     "LBL_WORK_DAYS": "Radnih dana",
     "Employees Time Control": "Employees Time Control",
     "LBL_ALL_TIME_CONTROL": "All users total working time",

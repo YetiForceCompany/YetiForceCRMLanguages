@@ -98,10 +98,7 @@
     "CustomViewAdvCond": "Zaawansowane warunki filtrów",
     "RecordActivityNotifier": "Powiadomienia o aktywności na rekordzie",
     "WorkflowTriggerWhenRecordIsBlocked": "Wyzwalacz przepływu pracy, gdy rekord jest zablokowany",
-    "LeaderCanManageGroupMembership": "Leader może zarządzać członkostwem w grupie",
-    "TilesView": "Widok kafelkowy",
-    "CalendarExtraSources": "Kalendarz - Dodatkowe źródła danych",
-    "CalendarExtraSourcesCreate": "Kalendarz - Tworzenie dodatkowych źródeł danych"
+    "LeaderCanManageGroupMembership": "Leader może zarządzać członkostwem w grupie"
   },
   "js": {
     "JS_RECORD_DELETED_SUCCESSFULLY": "Profil zapisano poprawnie"

@@ -26,7 +26,10 @@
     "LBL_COPY_FROM_INVOICE": "Számlamásolat",
     "LBL_INVOICE_INFO": "Eredeti számla mezők - kiigazítás előtt.",
     "LBL_AFTER_INVOICE_INFO": "Végső számla nézet a korrekciót követően.",
-    "LBL_AFTER_INVOICE_INFO_EDIT": "Számla mezőket ki kell javítani. Másolja át az összes mezőt az eredeti számla, illetve értékek módosítása szükséges."
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Számla mezőket ki kell javítani. Másolja át az összes mezőt az eredeti számla, illetve értékek módosítása szükséges.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
   },
   "js": {
     "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Válassza ki a helyesbíteni kívánt számlát"

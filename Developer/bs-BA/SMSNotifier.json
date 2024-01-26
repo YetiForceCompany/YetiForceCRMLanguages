@@ -28,7 +28,6 @@
     "LBL_ADD_IMAGE_FILE": "Dodajte datoteku slike",
     "LBL_TYPE_THE_MESSAGE": "Upišite poruku",
     "LBL_LIMIT_OF_ONETIME_CREATED_TEXT_MESSAGES": "Ograničenje jednokratno kreiranih tekstualnih poruka",
-    "LBL_SERVER_CONFIG": "Konfiguracija servera",
-    "FL_SMS_PROVIDER": "SMS Provider"
+    "LBL_SERVER_CONFIG": "Konfiguracija servera"
   }
 }

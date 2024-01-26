@@ -189,8 +189,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Перетворити в Контрагента",
     "LBL_DAV_KEYS": "Ключі DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Create and manage DAV keys",
-    "LBL_AUTOLOGIN": "Автовхід",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Налаштування автоматичного входу до модуля електорнної пошти",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Загальні налаштування",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Загальна конфігурація модуля електронної пошти",
     "LBL_SUPPORT_PROCESSES": "Процес підтримки",
@@ -277,7 +275,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Логотип компанії видимий у системі",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Логотип компанії видимий в панелі входу",
     "LBL_ADD_CUSTOM_FIELD": "Додати поле",
-    "LBL_FIELD_NAME": "Назва поля",
     "LBL_HEIGHT_LOGO": "Висота логотипу",
     "LBL_SECURITY": "Безпека",
     "LBL_LOG_ACCESS_TO_RECORD": "Немає доступу до записів",
@@ -315,7 +312,9 @@
     "LBL_YETIFORCE_NOT_REGISTRATION_DESC": "The system has not been registered. Please register your YetiForce CRM to have access to this part of the system.",
     "LBL_REQUIRES_INTERVENTION": "Потрібне втручання",
     "LBL_ACTIVATE_FUNCTIONALITY": "Активувати",
-    "LBL_ONLY_TO_FIRST_LIST": "Тільки до першого у списку"
+    "LBL_ONLY_TO_FIRST_LIST": "Тільки до першого у списку",
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Авторизація успішна",

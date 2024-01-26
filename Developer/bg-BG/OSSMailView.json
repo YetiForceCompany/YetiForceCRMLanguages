@@ -66,6 +66,7 @@
     "Configuration": "Конфигурация",
     "LBL_MAIL_REPLY_INTRO": "На %s, %s пише:",
     "LBL_MAIL_FORWARD_INTRO": "-------- Оригинално съобщение --------",
+    "Graf": "Emails by Type",
     "Today": "Днес",
     "Yesterday": "Вчера",
     "Current week": "Текуща седмица",

@@ -35,6 +35,7 @@
     "RecurringInvoice": "فاکتور تکرار شونده",
     "LBL_MAIL_SCANNER_ACTION": "عمل اسکنر ایمیل",
     "LBL_MAIL_SCANNER_VERIFICATION": "تایید اسکنر ایمیل",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "ارسال يادآوری",
     "LBL_SCHEDULED_IMPORT": "ورودی زمانبندی شده",
     "LBL_SCHEDULE_REPORTS": "گزارشات زمان بندی شده",

@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Személyi Sérülés Védelem biztosítási költség",
     "FL_NUMBER_MOTOHOURS": "Üzemórák száma",
     "FL_EQUIPMENT": "Felszerelés",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Nem érhető el",
     "PLL_AVAILABLE": "Elérhető",
     "PLL_DEMAGED": "Sérült",

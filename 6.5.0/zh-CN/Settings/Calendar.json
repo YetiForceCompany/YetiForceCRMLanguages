@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "生成随机颜色",
     "LBL_GENERATED_COLOR": "颜色已生成",
     "LBL_NOTWORKING_DAYS": "非工作日",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "非工作日",
     "PLL_MONDAY": "星期一",
     "PLL_TUESDAY": "星期二",

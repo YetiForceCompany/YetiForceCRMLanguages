@@ -21,6 +21,7 @@
     "LBL_CURRENCIES_SUPPORTED": "この銀行がサポートする通貨のリスト",
     "LBL_CURRENCIES_UNSUPPORTED": "この銀行でサポートされていない通貨のリスト",
     "LBL_SET_BANK_OK": "アクティブな銀行を保存しました。",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "アクティブな銀行の設定に失敗しました。",
     "LBL_INFORMATIONS": "情報",
     "LBL_WARNING": "警告!",

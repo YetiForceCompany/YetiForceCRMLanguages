@@ -38,7 +38,6 @@
     "Customization": "Prilagodba",
     "Training": "Trening",
     "LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO": "Lista zapisa ograničena je na proizvode i usluge povezane sa prodajnom prilikom",
-    "FL_COST": "Koštanje",
-    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION": "Record is related with other record, please confirm the action"
+    "FL_COST": "Koštanje"
   }
 }

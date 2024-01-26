@@ -37,6 +37,8 @@
     "FL_COST_INSURANCE_NW": "Цена на застраховка при лична злополука",
     "FL_NUMBER_MOTOHOURS": "Чаза брой на мотор",
     "FL_EQUIPMENT": "Оборудване",
+    "FL_EMPLOYEE": "Employee",
+    "FL_DEPARTMENT": "Department",
     "PLL_UNAVAILABLE": "Не е налично",
     "PLL_AVAILABLE": "В наличност",
     "PLL_DEMAGED": "Повреден",
