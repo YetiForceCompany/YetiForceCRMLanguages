@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Ime polja",
     "LBL_AUTOMATIC": "Samodejno",
     "LBL_RELATED_RECORDS_LIST": "Seznam sorodnih zapisov",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Danes",
     "LBL_DATE_TOMORROW": "Jutri",
     "LBL_DATE_YESTERDAY": "Včeraj",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Izboljšana tabelo z naprednimi bloki",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabela z naprednimi bloki za povezane module",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabela z naprednim sklopom - pred popravkom",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabela z naprednim blokom - skupaj s fotografijo izdelkov",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabela z naprednim sklopom - kratka različica",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabela z naprednim sklopom - dvojezična daljša različica",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Črtna koda",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

@@ -1,6 +1,11 @@
 {
   "php": {
     "LBL_CRON_EMAIL_SUBJECT": "Planlagt import er ferdig",
-    "LBL_CRON_COMPLETED_IMPORT": "Import sammendrag for modul:"
+    "LBL_CRON_COMPLETED_IMPORT": "Import sammendrag for modul:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "There is no active e-mail account.",
+    "ERR_NO_SMTP_CONFIGURATION": "No configuration."
   }
 }

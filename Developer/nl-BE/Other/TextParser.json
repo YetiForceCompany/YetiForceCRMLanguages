@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Veldnaam",
     "LBL_AUTOMATIC": "Automatisch",
     "LBL_RELATED_RECORDS_LIST": "Lijst van gerelateerde records",
+    "LBL_LINK_LIST": "Actielijst",
     "LBL_DATE_TODAY": "Vandaag",
     "LBL_DATE_TOMORROW": "Morgen",
     "LBL_DATE_YESTERDAY": "Gisteren",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Verbeterde tabel met geavanceerd blok",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabel met geavanceerd blok voor gerelateerde modules",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabel met geavanceerd blok - voor correctie",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabel met geavanceerd blok - samen met de foto van de producten",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabel met geavanceerd blok - korte versie",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabel met geavanceerd blok - tweetalige lange versie",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Barcode",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Gerelateerde records gegevens (array)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

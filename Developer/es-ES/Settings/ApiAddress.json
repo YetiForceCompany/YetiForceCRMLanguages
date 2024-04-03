@@ -30,8 +30,6 @@
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Información del Geocodificador OpenCage",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Geocodificador Nominatim",
     "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Información del Geocodificador Nominatim",
-    "LBL_PROVIDER_YETIFORCEGEOCODER": "Geocodificador YetiForce",
-    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "Información del Geocodificador YetiForce",
     "LBL_SAVE_GLOBAL_SETTINGS": "Guardar la configuración global",
     "LBL_NUMBER_SEARCH_RESULTS": "Número de resultados de búsqueda"
   },

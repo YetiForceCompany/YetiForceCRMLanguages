@@ -1,7 +1,5 @@
 {
   "php": {
-    "LBL_AUTOLOGIN": "Mail – Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Mail – Konfiguracija",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Opšta konfiguracija email modula",
     "LBL_RC_USER": "Korisnik email računa",
@@ -13,9 +11,6 @@
     "LBL_SHOW_MAIL_ACCOUNTS": "Prikaži račune e-pošte koji se odnose na trenutnog korisnika",
     "LBL_NUMBER_UNREAD_EMAILS": "Pokažite broj nepročitanih poruka",
     "LBL_MAIL_ICON_CONFIG": "Mail ikona",
-    "LBL_AUTOLOGIN_ACTIVE": "Enable auto login?",
-    "LBL_ADD_SIGNATURE": "Activate a global footer for all outgoing emails",
-    "LBL_SIGNATURE": "Global signature",
     "LBL_SAVED_SIGNATURE": "Potpis je sačuvan",
     "LBL_VIEW_AUTOLOGIN": "Automatska prijava",
     "LBL_VIEW_CONFIG": "Opšta konfiguracija",
@@ -40,6 +35,26 @@
     "LBL_TO": "Za",
     "LBL_EMAILS_TO_SEND_DESCRIPTION": "Spisak e-poruka koje treba poslati. Slanje e-poruka odvija se u cron-u.",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "Emailovi za poslati",
-    "LBL_EMAIL_WAS_SENT": "Email je poslan, pregled nije dostupan."
+    "LBL_EMAIL_WAS_SENT": "Email je poslan, pregled nije dostupan.",
+    "LBL_TIME_CHECKING_MAIL": "Frekvencija osvježavanja broja nepročitanih poruka [sec]",
+    "LBL_TIME_CHECKING_MAIL_DESC": "Frekvencija osvježavanja u sekundama za broj nepročitanih poruka. Frekvencija ne može biti preniska, jer će usporiti aplikaciju.",
+    "LBL_MAIL_SCANNER": "Mail Skener",
+    "BL_SCANNER_NOTIFICATION": "Napomene",
+    "FL_SCANNER_EMAIL_FOR_NOTIFICATION": "Email",
+    "LBL_SCANNER_EMAIL_FOR_NOTIFICATION_DESC": "E-mail adresa na koju će biti poslano obavještenje o isteku akcije skenera pošte.\n  Opcija zavisi od jednog od cron poslova.",
+    "FL_SCANNER_TIME_FOR_NOTIFICATION": "Vremensko ograničenje [min]",
+    "LBL_SCANNER_TIME_FOR_NOTIFICATION_DESC": "Vrijeme nakon kojeg će biti poslano obavijest o dugotrajnom procesu skeniranja naloga e-pošte. Opcija zavisi od jednog od cron poslova.",
+    "BL_SCANNER_BASIC": "Osnovna konfiguracija",
+    "FL_SCANNER_LIMIT": "Limit",
+    "LBL_SCANNER_LIMIT_DESC": "Broj skeniranih e-poruka u jednom procesu.",
+    "FL_SCANNER_DEACTIVATION_TIME": "Timeout for deactivation account [h]",
+    "LBL_SCANNER_DEACTIVATION_TIME_DESC": "U slučaju problema s pristupom e-mail računu, isti će biti deaktiviran nakon zadanog broja sati.",
+    "FL_SCANNER_FLAG_SEEN": "Označi kao viđeno",
+    "LBL_SCANNER_FLAG_SEEN_DESC": "Skenirana e-pošta bit će automatski označena kao viđena.",
+    "BL_SCANNER_EXCEPTIONS": "Izuzeci",
+    "FL_SCANNER_EMAIL_EXCEPTIONS": "Emailovi",
+    "LBL_SCANNER_EMAIL_EXCEPTIONS_DESC": "Globalni popis adresa e-pošte izostavljenih iz radnji skenera pošte.",
+    "FL_SCANNER_DOMAIN_EXCEPTIONS": "Domene",
+    "LBL_SCANNER_DOMAIN_EXCEPTIONS_DESC": "Globalna lista domena izostavljenih iz akcija skenera pošte."
   }
 }

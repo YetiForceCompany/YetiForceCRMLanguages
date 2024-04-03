@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "フィールド名",
     "LBL_AUTOMATIC": "自動",
     "LBL_RELATED_RECORDS_LIST": "関連レコードの一覧",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "今日",
     "LBL_DATE_TOMORROW": "明日",
     "LBL_DATE_YESTERDAY": "昨日",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "アドバンスブロックを含む改善されたテーブル",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "関連モジュールの高度なブロック付きテーブル",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "高度なブロック付きテーブル- 訂正前",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "高度なブロック付きテーブル - 製品の写真と一緒に",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "高度なブロック付きテーブル - 短いバージョン",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "高度なブロック付きテーブル - バイリンガルの長いバージョン",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Barcode",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

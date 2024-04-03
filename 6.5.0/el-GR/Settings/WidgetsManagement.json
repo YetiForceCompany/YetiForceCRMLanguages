@@ -48,9 +48,9 @@
     "LBL_WIDGET_NAME": "Όνομα Widget",
     "BTN_NEXT": "Επόμενο",
     "LBL_DEFAULT_TIME": "Default call end time (min)",
-    "LBL_MOVE": "Move",
-    "LBL_TRANSFER": "Transfer",
-    "LBL_SAVED_SUCCESSFULLY": "Saved successfully",
+    "LBL_MOVE": "Μετακίνηση",
+    "LBL_TRANSFER": "Μεταφορά",
+    "LBL_SAVED_SUCCESSFULLY": "Αποθηκεύτηκε επιτυχώς",
     "LBL_NOT_SAVED": "Your changes could not be saved",
     "LBL_SELECT_BASE_MODULE_FILTER": "Select base module filter",
     "LBL_SELECT_CUSTOM_FILTERS": "Select additional filter fields"

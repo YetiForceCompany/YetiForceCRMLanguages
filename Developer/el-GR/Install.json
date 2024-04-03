@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "Nόμισμα",
     "LBL_CURRENCY": "Nόμισμα",
     "LBL_DATABASE_INFORMATION": "Πληροφορίες βάσης δεδομένων",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "Τύπος βάσης δεδομένων",
     "LBL_DATE_FORMAT": "Μορφή ημερομηνίας",
     "LBL_DB_NAME": "Όνομα βάσης δεδομένων",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "Το σύστημα YetiForce έχει αυστηρά καθορισμένες απαιτήσεις για το διακομιστή στον οποίο θα εγκατασταθεί. Η επαλήθευσή τους σε πρώιμο στάδιο της διαδικασίας εγκατάστασης διασφαλίζει τα επόμενα βήματα και την επακόλουθη χρήση του συστήματος χωρίς προβλήματα λειτουργίας.\nΌλες οι απαιτήσεις διακομιστή είναι διαθέσιμες στην ιστοσελίδα μας.",
     "LBL_STEP4_DESCRIPTION": "Εισάγετε τα στοιχεία πρόσβασης στη βάση δεδομένων και να δημιουργήστε έναν λογαριασμό Διαχειριστή(Admin), στον οποίο θα συνδεθείτε όταν η εγκατάσταση θα έχει ολοκληρωθεί.",
     "LBL_STEP5_DESCRIPTION": "Επαληθεύστε τα δεδομένα που εισήχθησαν στο προηγούμενο βήμα. Αν όλα είναι σωστά, να προχωρήσουμε.",
-    "LBL_STEP6_DESCRIPTION": "Εισαγάγετε τα στοιχεία της εταιρείας σας. Η συμπλήρωση της φόρμας είναι μια υποχρέωση που προέρχεται από την άδεια. \nΤα δεδομένα που συλλέγονται μέσω της φόρμας εγγραφής δεν θα μεταπωληθούν ποτέ σε τρίτους.\nΧάρη στις πληροφορίες που συλλέγονται, είμαστε σε θέση να επιλέγουμε καλύτερα και να σχεδιάσουμε το εύρος των αλλαγών στο YetiForce, έτσι ώστε το σύστημά μας έτσι ώστε το σύστημά μας να βοηθήσει όσους το χρησιμοποιούν στις καθημερινές τους εργασίες ακόμα καλύτερα.",
-    "LBL_STEP7_DESCRIPTION": "Η εγκατάσταση είναι σε εξέλιξη, παρακαλώ να είστε υπομονετικοί. \nΕν τω μεταξύ, σας συνιστούμε να διαβάσετε τις πιο σημαντικές πληροφορίες σχετικά με το σύστημα μας:",
+    "LBL_STEP6_DESCRIPTION": "Η εγκατάσταση είναι σε εξέλιξη, παρακαλώ να είστε υπομονετικοί. \nΕν τω μεταξύ, σας συνιστούμε να διαβάσετε τις πιο σημαντικές πληροφορίες σχετικά με το σύστημα μας:",
     "LBL_WELCOME": "Καλώς ήρθατε",
     "LBL_ZLIB_SUPPORT": "Υποστήριξη Zlib",
     "MSG_DB_PARAMETERS_INVALID": "Καθορισμένος χρήστης βάσης δεδομένων, κωδικός πρόσβασης, όνομα κεντρικού υπολογιστή, τύπος βάσης δεδομένων ή θύρα δεν είναι έγκυρα",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "Καλώς ήλθατε στο σύστημα μετεγκατάστασης του YetiForce",
     "LBL_MIGRATION_DESC": "Πριν ξεκινήσετε τη μετεγκατάσταση, παρακαλούμε να πάρετε back-up των αρχείων και της βάσης δεδομένων του συστήματος που είστε έτοιμος να μετεγκαταστήσετε.",
     "LBL_HAVE_BACKUP_DATABASE": "Έχω το αντίγραφο ασφαλείας της βάσης δεδομένων",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "Έχω το αντίγραφο ασφαλείας των αρχείων",
     "LBL_LOGIN": "Είσοδος",
     "LBL_PASSWORD": "Κωδικόs πρόσβασης",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "Εγκατάσταση",
     "LBL_MY_SERVER_DESC": "Μπορείτε να εγκαταστήσετε YetiForce οπουδήποτε θέλετε χωρίς καμία χρέωση. Αν ποτέ αντιμετωπίσετε προβλήματα που σχετίζονται με το CRM, μπορείτε να βρείτε δωρεάν υποστήριξη στο GitHub μας ή να αγοράσετε υποστήριξη απευθείας από τη YetiForce.",
     "LBL_SHOW_MORE": "Περισσότερες πληροφορίες για το προϊόν",
-    "LBL_NO_NO_DATA_IN_SESSION": "Σφάλμα κατά τη δημιουργία αρχείων ρυθμίσεων, δεν υπάρχουν δεδομένα στη συνεδρία"
+    "LBL_NO_NO_DATA_IN_SESSION": "Σφάλμα κατά τη δημιουργία αρχείων ρυθμίσεων, δεν υπάρχουν δεδομένα στη συνεδρία",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "Όλες",

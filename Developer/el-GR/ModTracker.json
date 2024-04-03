@@ -51,6 +51,7 @@
     "LBL_UPDATES": "Ιστορικό ενημερώσεων συστήματος",
     "LBL_PERSON_MAKING_CHANGES": "Πρόσωπο που κάνει τις αλλαγές",
     "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Εμφανίστηκαν κρυφά δεδομένα"
+    "LBL_SHOW_HIDDEN_DATA": "Εμφανίστηκαν κρυφά δεδομένα",
+    "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

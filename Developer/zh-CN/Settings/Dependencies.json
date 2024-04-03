@@ -1,17 +1,5 @@
 {
   "php": {
-    "Dependencies": "脆弱性扫描器",
-    "LBL_VULNERABILITIES": "脆弱性扫描器",
-    "LBL_VULNERABILITIES_DESCRIPTION": "用户检测 CRM 和服务器脆弱性的工具",
-    "LBL_VULNERABILITIES_OK": "未找到脆弱性",
-    "LBL_VULNERABILITIES_OK_DESC": "请不要忘记定期检查安装在服务器上的库和应用程序中的脆弱性。",
-    "LBL_VULNERABILITIES_WARNING": "库/应用程序中已检测的脆弱性",
-    "LBL_VULNERABILITIES_WARNING_DESC": "已检测到库或应用程序中的脆弱性，建议快速更新它们",
-    "LBL_SECURITY_DEPENDENCIES": "已使用的库中的安全脆弱性",
-    "LBL_SECURITY_PHP": "PHP 引擎中的安全脆弱性",
-    "LBL_SECURITY_OS": "操作系统中的安全脆弱性",
-    "LBL_SECURITY_SERVERSOFTWARE": "服务器软件中的安全脆弱性",
-    "LBL_SECURITY_SQL": "数据库引擎中的安全脆弱性",
     "LBL_LIB_NAME": "库/应用名",
     "LBL_VULNERABILITY_NAME": "脆弱性名称",
     "LBL_VULNERABILITY_URL": "脆弱性地址",

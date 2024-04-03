@@ -30,8 +30,6 @@
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Site toạ độ của OpenCage",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Toạ độ của Nominatim",
     "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Site toạ độ của Nominatim",
-    "LBL_PROVIDER_YETIFORCEGEOCODER": "Toạ độ của YetiForce",
-    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "Site toạ độ của YetiForce",
     "LBL_SAVE_GLOBAL_SETTINGS": "Lưu thiết lập chung",
     "LBL_NUMBER_SEARCH_RESULTS": "Số kết quả tìm kiếm"
   },

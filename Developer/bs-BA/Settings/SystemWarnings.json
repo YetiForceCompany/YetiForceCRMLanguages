@@ -33,8 +33,6 @@
     "SystemWarnings": "Upozorenja sistema",
     "BTN_CONFIGURE_ENCRYPTION": "Aktiviraj enkripciju",
     "Security": "Sigurnost",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Skener ranjivosti",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Otkrivene su ranjivosti u bibliotekama/aplikacijama, preporučuje se njihovo brzo ažuriranje.\n Ranjivosti:",
     "LBL_MECHANISM_ENCRYPTION": "Mehanizam šifriranja",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Nijedno šifriranje ne uzrokuje da se osjetljivi podaci, poput lozinki do poštanskih sandučića i pristupnih ključeva, pohranjuju u javnom obliku u bazi podataka.",
     "LBL_RECOMMENDED_VALUE": "Preporučeno",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Dostupno je ažuriranje jezika instaliranih na vašem CRM sistemu. Idite na Upravljanje jezikom i kliknite gumb za ažuriranje.",
     "LBL_UPDATER_DESC": "Ažuriranja su dostupna za verziju vašeg sistema. Preporučujemo ažuriranje.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Otkrivene su %s greške prilikom slanja e-pošte u posljednja 24 sata. Provjerite svoje SMTP akreditive.",
-    "Mail": "Pošta"
+    "Mail": "Pošta",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "MailAccount": "Mail računi",
+    "SINGLE_MailAccount": "Mail account",
+    "LBL_CUSTOM_INFORMATION": "Prilagođene informacije",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "BL_MAIL_SCANNER": "Skener",
+    "FL_SUBJECT": "Naziv",
+    "FL_LOGIN": "Prijava",
+    "FL_PASSWORD": "Lozinka",
+    "FL_REFRESH_TOKEN": "Osvježi token",
+    "FL_MAIL_SERVER": "Mail server",
+    "PL_INACTIVE": "Neaktivno",
+    "PLL_ACTIVE": "Aktivan",
+    "PLL_LOCKED": "Zaključaj (automatski)",
+    "FL_LOGS": "Dnevnici",
+    "FL_STATUS": "Status",
+    "FL_EXPIRE_TIME": "Vrijeme isteka",
+    "FL_LAST_LOGIN": "Zadnja prijava",
+    "FL_SCANNER_ACTIONS": "Radnje skenera",
+    "FL_DOMAIN_EXCEPTIONS": "Izuzeci domena",
+    "FL_EMAIL_EXCEPTIONS": "Izuzeci e-pošte",
+    "FL_MAIL_FOLDERS": "Mape",
+    "FL_SCANNER_FIELDS": "Polja za pretragu",
+    "LBL_OAUTH_AUTHORIZATION_DESC": "Jeste li sigurni da želite autorizirati?",
+    "LBL_OAUTH_AUTHORIZATION": "Autorizacija"
+  }
+}

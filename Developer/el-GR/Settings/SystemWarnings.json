@@ -33,8 +33,6 @@
     "SystemWarnings": "Προειδοποιήσεις συστήματος",
     "BTN_CONFIGURE_ENCRYPTION": "Ενεργοποίηση κρυπτογράφησης",
     "Security": "Ασφάλεια",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities scanner",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Vulnerabilities in libraries/applications were detected, it is recommended to update them quickly. \r\n Vulnerabilities:",
     "LBL_MECHANISM_ENCRYPTION": "Μηχανισμός κρυπτογράφησης",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Χωρίς κρυπτογράφηση τα ευαίσθητα δεδομένα όπως κωδικοί πρόσβασης email και κλειδιά πρόσβασης αποθηκεύονται δημόσια στη βάση δεδομένων.",
     "LBL_RECOMMENDED_VALUE": "Συνιστάται",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Υπάρχει διαθέσιμη ενημέρωση των γλωσσών που είναι εγκατεστημένες στο σύστημα CRM. Πηγαίνετε στη Διαχείριση Γλώσσας και κάντε κλικ στο κουμπί ενημέρωσης.",
     "LBL_UPDATER_DESC": "Υπάρχουν διαθέσιμες ενημερώσεις για το σύστημά σας. Σας συνιστούμε να κάνετε ενημέρωση.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Εντοπίστηκαν %s σφάλματα κατά την αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου τις τελευταίες 24 ώρες. Παρακαλώ ελέγξτε τα διαπιστευτήριά σας SMTP. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

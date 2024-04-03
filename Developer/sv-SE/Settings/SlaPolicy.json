@@ -10,9 +10,9 @@
   },
   "js": {
     "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
+    "JS_BUSINESS_HOURS_FROM": "Från",
+    "JS_BUSINESS_HOURS_TO": "Till",
+    "JS_BUSINESS_HOURS_NAME": "Namn",
     "JS_BUSINESS_HOURS_DAYS": "Working days",
     "JS_HOLIDAYS": "Holidays"
   }

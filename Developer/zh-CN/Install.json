@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "币种",
     "LBL_CURRENCY": "币种",
     "LBL_DATABASE_INFORMATION": "数据库信息",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "数据库类型",
     "LBL_DATE_FORMAT": "日期格式",
     "LBL_DB_NAME": "数据库名称",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "YetiForce 系统对安装它的服务器有严格的要求。在安装过程的早期阶段对这些要求的验证，可以确保系统的下一步和后续使用不会出现问题。 \r\n所有的服务器要求在我们的网站上找到。",
     "LBL_STEP4_DESCRIPTION": "输入数据库的访问数据，并创建管理员账号，安装完成后将以此账号登录。",
     "LBL_STEP5_DESCRIPTION": "验证在上一步中输入的数据。 如果一切正确，继续前进。",
-    "LBL_STEP6_DESCRIPTION": "输入您公司的详细信息。 填写表格是许可证中的要求。\r\n通过注册表收集的数据永远不会转售给第三方。\r\n通过收集的信息，我们能够更好地选择和规划YetiForce的变更范围，以便我们的系统能够更好地帮助日常工作。",
-    "LBL_STEP7_DESCRIPTION": "安装正在进行中, 请耐心等待。 \r\n同时, 我们提倡您阅读有关我们系统的最重要的信息:",
+    "LBL_STEP6_DESCRIPTION": "安装正在进行中, 请耐心等待。 \r\n同时, 我们提倡您阅读有关我们系统的最重要的信息:",
     "LBL_WELCOME": "欢迎",
     "LBL_ZLIB_SUPPORT": "支持 Zlib",
     "MSG_DB_PARAMETERS_INVALID": "指定的数据库用户、密码、主机名、数据库类型或端口无效",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "欢迎使用 YetiForce 系统迁移",
     "LBL_MIGRATION_DESC": "在开始迁移之前, 请备份要迁移的系统的文件和数据库。",
     "LBL_HAVE_BACKUP_DATABASE": "我有数据库备份副本",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "我有文件备份副本",
     "LBL_LOGIN": "登录",
     "LBL_PASSWORD": "密码",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "安装",
     "LBL_MY_SERVER_DESC": "您可以随意安装YetiForce，没有任何费用。如果您遇到与 CRM 系统相关的任何问题，您可以在我们的 GitHub 存储库中找到免费支持，或者直接从 YetiForce 购买支持。",
     "LBL_SHOW_MORE": "有关产品的更多信息",
-    "LBL_NO_NO_DATA_IN_SESSION": "生成配置文件错误，会话中不含数据"
+    "LBL_NO_NO_DATA_IN_SESSION": "生成配置文件错误，会话中不含数据",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "全部",

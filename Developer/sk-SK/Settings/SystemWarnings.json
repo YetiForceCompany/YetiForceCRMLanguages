@@ -33,8 +33,6 @@
     "SystemWarnings": "Systémové varovania",
     "BTN_CONFIGURE_ENCRYPTION": "Activate encryption",
     "Security": "Zabezpečenie",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Skener zraniteľnosti",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "V knižniciach/aplikáciách boli zistené zraniteľnosti, odporúča sa ich urýchlene aktualizovať.\n Chyby zabezpečenia:",
     "LBL_MECHANISM_ENCRYPTION": "Encryption mechanism",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "No encryption causes that sensitive data such as passwords to mailboxes and access keys are stored in a public form in the database.",
     "LBL_RECOMMENDED_VALUE": "Recommended",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
     "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Pošta"
+    "Mail": "Pošta",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integrácia - overovanie chyby",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "Integrácia Comarch zaznamenala za posledných 24 hodín nasledujúce chyby:"
   }
 }

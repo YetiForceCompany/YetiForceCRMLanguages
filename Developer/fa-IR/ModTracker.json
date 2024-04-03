@@ -51,6 +51,7 @@
     "LBL_UPDATES": "System update history",
     "LBL_PERSON_MAKING_CHANGES": "فرد ایجاد کننده تغییرات",
     "LBL_MODULES": "ماژول ها",
-    "LBL_SHOW_HIDDEN_DATA": "نمایش داده‌های پنهان"
+    "LBL_SHOW_HIDDEN_DATA": "نمایش داده‌های پنهان",
+    "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

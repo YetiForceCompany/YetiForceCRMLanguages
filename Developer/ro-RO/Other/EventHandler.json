@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blocati adaugarea/editarea inregistrarilor cand aceleasi Corectie Nota marfa expediata exista deja.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Timpul de lucru validat, nu poate depăși 24 de ore",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Timp de lucru limitat la 24 ore",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

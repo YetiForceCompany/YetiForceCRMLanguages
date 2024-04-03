@@ -1,17 +1,5 @@
 {
   "php": {
-    "Dependencies": "Scansione delle vulnerabilità",
-    "LBL_VULNERABILITIES": "Scansione delle vulnerabilità",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Uno strumento per rilevare le vulnerabilità su CRM e sul server",
-    "LBL_VULNERABILITIES_OK": "Nessuna vulnerabilità trovata",
-    "LBL_VULNERABILITIES_OK_DESC": "Non dimenticarti di controllare periodicamente le vulnerabilità nelle tue librerie e applicazioni installate sul server.",
-    "LBL_VULNERABILITIES_WARNING": "Vulnerabilità rilevate in librerie/applicazioni",
-    "LBL_VULNERABILITIES_WARNING_DESC": "Sono state rilevate vulnerabilità nelle librerie o nelle applicazioni, si consiglia di aggiornarle rapidamente.",
-    "LBL_SECURITY_DEPENDENCIES": "Vulnerabilità di sicurezza nelle librerie usate",
-    "LBL_SECURITY_PHP": "Vulnerabilità di sicurezza nel motore PHP",
-    "LBL_SECURITY_OS": "Vulnerabilità di sicurezza nel sistema operativo",
-    "LBL_SECURITY_SERVERSOFTWARE": "Vulnerabilità di sicurezza nel Software del Server",
-    "LBL_SECURITY_SQL": "Vulnerabilità di sicurezza nel motore del database",
     "LBL_LIB_NAME": "Nome libreria/app",
     "LBL_VULNERABILITY_NAME": "Nome vulnerabilità",
     "LBL_VULNERABILITY_URL": "Indirizzo vulnerabilità",

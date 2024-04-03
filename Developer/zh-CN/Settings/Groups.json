@@ -15,7 +15,8 @@
     "FL_PARENT": "队长",
     "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "已超过所允许群组嵌套的限制。",
     "LBL_INDEFINITE_LOOP": "当前设置会创建无限循环。请更改群组成员。",
-    "LBL_GROUP_DUPLICATE": "复制"
+    "LBL_GROUP_DUPLICATE": "复制",
+    "LBL_DELETE_GROUP": "Delete group"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "为每个用户组选择至少一个成员",

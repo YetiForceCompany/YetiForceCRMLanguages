@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Chuyển thành khách hàng",
     "LBL_DAV_KEYS": "Mã DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Tạo và quản lý mã DAV",
-    "LBL_AUTOLOGIN": "Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Cấu hình chung",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Cấu hình chung của mô-đun email",
     "LBL_SUPPORT_PROCESSES": "Quy trình hỗ trợ",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo công ty có thể nhìn thấy trong hệ thống",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo công ty có thể nhìn thấy trong bảng điều khiển đăng nhập",
     "LBL_ADD_CUSTOM_FIELD": "Thêm trường",
-    "LBL_FIELD_NAME": "Field name",
     "LBL_HEIGHT_LOGO": "Chiều cao của logo",
     "LBL_SECURITY": "Bảo mật",
     "LBL_LOG_ACCESS_TO_RECORD": "Không có quyền truy cập hồ sơ",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "Lỗi bảo mật",
     "LBL_ENCRYPTION": "Mã hóa",
     "LBL_YETIFORCE_SHOP": "Gian hàng",
-    "LBL_YETIFORCE_ISSUES": "Hỗ trợ miễn phí",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
-    "LBL_YETIFORCE_ASSISTANCE": "Hỗ trợ có phí",
     "LBL_PICKLIST_VARIABLES": "Biến danh sách chọn",
     "LBL_PICKLIST_VARIABLES_INFO": "Using this variable will result in separate numbering for each picklist value, and a short value will replace the variable.",
     "LBL_BUSINESS_HOURS": "Giờ làm việc",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Kích hoạt",
     "LBL_ONLY_TO_FIRST_LIST": "Chỉ đến thứ nhất trong danh sách",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Ủy quyền thành công",

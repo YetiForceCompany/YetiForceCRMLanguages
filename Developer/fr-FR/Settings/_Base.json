@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Convertir en Compte",
     "LBL_DAV_KEYS": "Clés DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Créer et gérer les clés DAV",
-    "LBL_AUTOLOGIN": "Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Configuration générale",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Configuration générale du module email",
     "LBL_SUPPORT_PROCESSES": "Processus support",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo société visible dans le système",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo société visible dans la mire de connexion",
     "LBL_ADD_CUSTOM_FIELD": "Ajouter un champ",
-    "LBL_FIELD_NAME": "Field name",
     "LBL_HEIGHT_LOGO": "Hauteur Logo",
     "LBL_SECURITY": "Sécurité",
     "LBL_LOG_ACCESS_TO_RECORD": "Pas d'accès aux enregistrements",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "Erreurs de sécurité",
     "LBL_ENCRYPTION": "Chiffrement",
     "LBL_YETIFORCE_SHOP": "Magasin",
-    "LBL_YETIFORCE_ISSUES": "Assistance gratuite",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
-    "LBL_YETIFORCE_ASSISTANCE": "Support payant",
     "LBL_PICKLIST_VARIABLES": "Variables de liste de sélection",
     "LBL_PICKLIST_VARIABLES_INFO": "L'utilisation de cette variable entraînera une numérotation distincte pour chaque valeur de liste de sélection et une valeur courte remplacera la variable.",
     "LBL_BUSINESS_HOURS": "Heures de travail",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Nécessite une intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "Activer",
     "LBL_ONLY_TO_FIRST_LIST": "Seulement au premier de la liste",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autorisation accordée",

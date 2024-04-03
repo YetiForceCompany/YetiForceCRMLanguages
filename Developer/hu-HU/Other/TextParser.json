@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Mező neve",
     "LBL_AUTOMATIC": "Automatikus",
     "LBL_RELATED_RECORDS_LIST": "Lista kapcsolódó bejegyzések",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Ma",
     "LBL_DATE_TOMORROW": "Holnap",
     "LBL_DATE_YESTERDAY": "Tegnap",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Tökéletesített táblázat és speciális blokk",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Táblázat a speciális blokk a kapcsolódó modulok",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Táblázat a speciális blokk - korrekció előtt",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Táblázat a speciális blokk - együtt a fotó a termékek",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Táblázat a speciális blokk - rövid változat",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Táblázat a speciális blokk - kétnyelvű hosszú változat",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Barcode",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

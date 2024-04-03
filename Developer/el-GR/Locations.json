@@ -9,6 +9,7 @@
     "LBL_NUMBER": "Αριθμός",
     "LBL_CLOSED_TIME": "Χρόνος κλεισίματος",
     "FL_PHONE": "Τηλέφωνο",
-    "FL_CAPACITY": "Χωρητικότητα"
+    "FL_CAPACITY": "Χωρητικότητα",
+    "FL_COORDINATES": "Coordinates"
   }
 }

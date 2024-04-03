@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Liste der von der Bank unterstützten Währungen",
     "LBL_CURRENCIES_UNSUPPORTED": "Liste der von der Bank nicht unterstützten Währungen",
     "LBL_SET_BANK_OK": "Bank erfolgreich Aktiv gesetzt.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Bank konnte nicht Aktiv gesetzt werden.",
     "LBL_INFORMATIONS": "Informationen",
     "LBL_WARNING": "Warnung!",
     "NBP": "Der polnischen Nationalbank",
     "ECB": "Europäische Zentralbank",
-    "CBR": "Zentralbank der Russischen Föderation",
-    "NBR": "National Bank of Romania"
+    "CBR": "Zentralbank der Russischen Föderation"
   }
 }

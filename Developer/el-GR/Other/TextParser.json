@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Όνομα πεδίου",
     "LBL_AUTOMATIC": "Αυτόματα",
     "LBL_RELATED_RECORDS_LIST": "Λίστα των συσχετισμένων εγγραφών",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Σήμερα",
     "LBL_DATE_TOMORROW": "Αύριο",
     "LBL_DATE_YESTERDAY": "Χθες",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Βελτιωμένος πίνακας με προηγμένο μπλοκ",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Πίνακας με προηγμένο μπλοκ για σχετιζόμενα modules",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Πίνακας με προηγμένο μπλοκ - πριν από τη διόρθωση",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Πίνακας Προϊόντων/Υπηρεσιών με προηγμένο μπλοκ - μαζί με τη φωτογραφία των προϊόντων",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Πίνακας με προηγμένο μπλοκ - σύντομη εκδοχή",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Πίνακας με προηγμένο μπλοκ - δίγλωσση εκτεταμένη έκδοση",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Barcode",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Δεδομένα σχετικών εγγραφών (πίνακας)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Δεδομένα σχετικών εγγραφών από το εξαρτημένο πεδίο (πίνακας)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Διόρθωση: περίληψη ποσού"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Διόρθωση: περίληψη ποσού",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

@@ -66,7 +66,6 @@
     "Configuration": "设置",
     "LBL_MAIL_REPLY_INTRO": "在 %s，%s 写道：:",
     "LBL_MAIL_FORWARD_INTRO": "----原始消息----",
-    "Graf": "Emails by Type",
     "Today": "今天",
     "Yesterday": "昨天",
     "Current week": "本周",

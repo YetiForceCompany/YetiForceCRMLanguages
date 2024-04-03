@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκη / επεξεργασία όταν το ίδιο διορθωτικό Δελτίο Παραλαβής υπάρχει ήδη.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Ο χρόνος εργασίας σας δεν μπορεί να υπερβαίνει τις 24 ώρες",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Ο χρόνος εργασίας περιορίζεται στις 24 ώρες",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Έλεγχος διαθεσιμότητας",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Αποκλεισμός προσθήκης/επεξεργασίας εγγραφής εάν υπάρχει ήδη μία κράτηση για αυτήν την ημερομηνία.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

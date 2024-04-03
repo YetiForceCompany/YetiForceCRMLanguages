@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Име на поле",
     "LBL_AUTOMATIC": "Автоматично",
     "LBL_RELATED_RECORDS_LIST": "Списък на свързани записи",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Днес",
     "LBL_DATE_TOMORROW": "Утре",
     "LBL_DATE_YESTERDAY": "Вчера",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Подобрена таблица с напреднал блок",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Таблица с напреднал блок за свързани модули",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Таблица със напреднал сектор - преди корекция",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Таблица със напреднал сектор - заедно със снимка на продукта",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Таблица със напреднал сектор - кратка версия",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Таблица със напреднал сектор - дълга двуезична версия",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Баркод",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Related records data (array)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

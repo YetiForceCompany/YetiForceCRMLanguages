@@ -25,6 +25,13 @@
     "BTN_LOAD_ALL_CLIPBOARD": "Φόρτωση και αποθήκευση όλων των δεδομένων διευθύνσεων από την ενότητα στο πρόχειρο.",
     "LBL_GROUP_POINTS": "Ομαδοποίηση σημείων στο χάρτη",
     "LBL_GROUP_POINTS_DESC": "Group map points based on the selected field. When selected, a legend with field values is displayed.",
-    "ERR_ADDRESS_NOT_FOUND": "Διεύθυνση δεν βρέθηκε"
+    "ERR_ADDRESS_NOT_FOUND": "Διεύθυνση δεν βρέθηκε",
+    "FL_LAT": "Το γεωγραφικό πλάτος",
+    "FL_LON": "Το γεωγραφικό μήκος",
+    "LBL_DECIMAL": "Δεκαδικός",
+    "LBL_DEGREES": "Μοίρες",
+    "LBL_CODE_PLUS": "Κωδικός συν",
+    "LBL_SHOW_MAP": "Εμφάνιση στον χάρτη",
+    "LBL_COORDINATES": "Συντεταγμένες"
   }
 }

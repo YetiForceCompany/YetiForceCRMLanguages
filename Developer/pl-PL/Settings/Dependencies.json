@@ -1,17 +1,5 @@
 {
   "php": {
-    "Dependencies": "Skaner podatności",
-    "LBL_VULNERABILITIES": "Skaner podatności",
-    "LBL_VULNERABILITIES_DESCRIPTION": "Narzędzie do wykrywania podatności w CRM i na serwerze",
-    "LBL_VULNERABILITIES_OK": "Nie znaleziono podatności",
-    "LBL_VULNERABILITIES_OK_DESC": "Pamiętaj, aby okresowo sprawdzać, czy w bibliotekach i aplikacjach zainstalowanych na serwerze nie pojawiły się podatności.",
-    "LBL_VULNERABILITIES_WARNING": "Wykryte podatności w bibliotekach/aplikacjach",
-    "LBL_VULNERABILITIES_WARNING_DESC": "Wykryto podatności w bibliotekach lub aplikacjach, zaleca się ich szybką aktualizację.",
-    "LBL_SECURITY_DEPENDENCIES": "Podatności w zabezpieczeniach używanych bibliotek",
-    "LBL_SECURITY_PHP": "Podatności w silniku PHP",
-    "LBL_SECURITY_OS": "Podatności w systemie operacyjnym",
-    "LBL_SECURITY_SERVERSOFTWARE": "Luki w zabezpieczeniach oprogramowania serwerowego",
-    "LBL_SECURITY_SQL": "Podatności w zabezpieczeniach w silniku bazy danych",
     "LBL_LIB_NAME": "Nazwa biblioteki/aplikacji",
     "LBL_VULNERABILITY_NAME": "Nazwa podatności",
     "LBL_VULNERABILITY_URL": "Adres podatności",

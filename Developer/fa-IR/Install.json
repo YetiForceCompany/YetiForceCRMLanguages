@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "واحدپول",
     "LBL_CURRENCY": "واحدپول",
     "LBL_DATABASE_INFORMATION": "اطلاعات پايگاه داده",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "نوع پایگاه داده",
     "LBL_DATE_FORMAT": "قالب تاریخ",
     "LBL_DB_NAME": "نام پایگاه داده",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "سیستم YetiForce الزامات دقیقی را برای سرور نصب شده روی آن تعریف می کند. تأیید الزامات در مراحل اولیه فرآیند نصب ، اطمینان حاصل می کند که مراحل بعدی و استفاده بعدی سیستم بدون مشکل اجرا خواهد شد.\nکلیه نیازهای سرور در وب سایت ما موجود است.",
     "LBL_STEP4_DESCRIPTION": "داده های دسترسی را به دیتابیس وارد کنید و یک اکانت مدیر ایجاد کنید که پس از اتمام نصب ، وارد سامانه شوید.",
     "LBL_STEP5_DESCRIPTION": "داده های وارد شده در مرحله قبل را تأیید کنید. اگر همه چیز درست است ، ادامه دهید.",
-    "LBL_STEP6_DESCRIPTION": "جزئیات شرکت خود را وارد کنید پر کردن فرم تعهدی است که طبق مجوز استفاده الزامی است.\nداده های جمع آوری شده از طریق فرم ثبت نام هرگز به اشخاص ثالث فروخته نمی شوند.\nبا استفاده از اطلاعات جمع آوری شده ، ما قادر به انتخاب بهتر و برنامه ریزی دامنه تغییرات در YetiForce هستیم تا سیستم ما در انجام کارهای روزانه عملکرد بهتری داشته باشد.",
-    "LBL_STEP7_DESCRIPTION": "لطفاً صبور باشید\nدر ضمن ، ما شما را به خواندن مهمترین اطلاعات در مورد سیستم ما تشویق می کنیم:",
+    "LBL_STEP6_DESCRIPTION": "لطفاً صبور باشید\nدر ضمن ، ما شما را به خواندن مهمترین اطلاعات در مورد سیستم ما تشویق می کنیم:",
     "LBL_WELCOME": "خوش آمدید",
     "LBL_ZLIB_SUPPORT": "پشتیبانی از Zlib",
     "MSG_DB_PARAMETERS_INVALID": "کاربر مشخص شده پایگاه داده ، گذرواژه ، نام میزبان ، نوع بانک اطلاعاتی یا پورت نامعتبر است",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "به مهاجرت به سامانه YetiForce خوش آمدید",
     "LBL_MIGRATION_DESC": "قبل از شروع مهاجرت ، لطفاً از فایلها و بانک اطلاعاتی سیستم مورد نظر برای انتقال پشتیبان تهیه نمایید.",
     "LBL_HAVE_BACKUP_DATABASE": "من یک نسخه پشتیبان از پایگاه‌داده دارم",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "من یک نسخه پشتیبان از فایل‌ها دارم",
     "LBL_LOGIN": "ورود",
     "LBL_PASSWORD": "گذرواژه",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "نصب",
     "LBL_MY_SERVER_DESC": "شما می توانید YetiForce را در هر کجا که می خواهید و بدون هیچ گونه هزینه ای نصب کنید. اگر تاکنون مشکلی در رابطه با سیستم CRM را تجربه کردید می توانید پشتیبانی رایگان را در مخزن GitHub یا یافتن پشتیبانی مستقیم از YetiForce پیدا کنید.",
     "LBL_SHOW_MORE": "اطلاعات بیشتر در مورد محصول",
-    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session"
+    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "همه",

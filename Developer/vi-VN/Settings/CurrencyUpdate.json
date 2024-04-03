@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Danh sách tiền tệ hỗ. trợ bởi ngân hàng này",
     "LBL_CURRENCIES_UNSUPPORTED": "Danh sách tiền tệ không hỗ trợ bởi ngân hàng này",
     "LBL_SET_BANK_OK": "Ngân hàng hoạt động đã được lưu thành công.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Thiết lập ngân hàng kích hoạt không thành công.",
     "LBL_INFORMATIONS": "Thông tin",
     "LBL_WARNING": "Cảnh báo!",
     "NBP": "Ngân hàng quốc gia Ba Lan",
     "ECB": "Ngân hàng trung tâm European",
-    "CBR": "Ngân hàng Trung tâm Nga",
-    "NBR": "National Bank of Romania"
+    "CBR": "Ngân hàng Trung tâm Nga"
   }
 }

@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "转换为客户",
     "LBL_DAV_KEYS": "DAV密钥",
     "LBL_DAV_KEYS_DESCRIPTION": "创建和管理DAV密钥",
-    "LBL_AUTOLOGIN": "Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "常规设置",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "邮件模块的常规设置",
     "LBL_SUPPORT_PROCESSES": "技术支持流程",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "公司logo显示在系统中",
     "LBL_COMPANY_LOGO_IN_LOGIN": "公司logo显示在登录面板",
     "LBL_ADD_CUSTOM_FIELD": "添加字段",
-    "LBL_FIELD_NAME": "Field name",
     "LBL_HEIGHT_LOGO": "Logo高度",
     "LBL_SECURITY": "安全设置",
     "LBL_LOG_ACCESS_TO_RECORD": "没有访问记录",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "安全错误",
     "LBL_ENCRYPTION": "加密",
     "LBL_YETIFORCE_SHOP": "商店",
-    "LBL_YETIFORCE_ISSUES": "免费支持",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce 文档",
-    "LBL_YETIFORCE_ASSISTANCE": "付费支持",
     "LBL_PICKLIST_VARIABLES": "选取列表变量",
     "LBL_PICKLIST_VARIABLES_INFO": "使用此变量将导致每个选项列表值单独编号，短值将替换该变量。",
     "LBL_BUSINESS_HOURS": "营业时间",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "需要干预措施",
     "LBL_ACTIVATE_FUNCTIONALITY": "激活",
     "LBL_ONLY_TO_FIRST_LIST": "仅适用于该列表的第一项",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "认证成功",

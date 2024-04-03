@@ -49,11 +49,11 @@
     "FL_MANUAL": "Available from GUI",
     "FL_MODULE_NAME": "Όνομα Module",
     "FL_SUBJECT": "Θέμα",
-    "FL_STATE": "State",
+    "FL_STATE": "Κατάσταση",
     "PLL_ACTIVE": "Ενεργό",
     "PLL_INACTIVE": "Ανενεργό",
     "LBL_DUPLICATE": "Διπλότυπο.\nΤο θέμα της καταχώρησης πρέπει να είναι μοναδικό εντός της module.",
-    "FL_USER_WORKING_HOURS": "Working hours",
+    "FL_USER_WORKING_HOURS": "Ώρες εργασίας",
     "LBL_USER_SELECTION_CONDITIONS": "Selecting this option will verify the working hours defined in the user panel. Users will be available if the record creation time is between `Day start at` and `Day end at`."
   },
   "js": {

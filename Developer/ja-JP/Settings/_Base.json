@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "アカウントに変換",
     "LBL_DAV_KEYS": "DAV キー",
     "LBL_DAV_KEYS_DESCRIPTION": "DAVキーの作成と管理",
-    "LBL_AUTOLOGIN": "Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "一般的な構成",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "メールモジュールの一般的な構成",
     "LBL_SUPPORT_PROCESSES": "サポートプロセス",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "システムに会社のロゴが表示されます",
     "LBL_COMPANY_LOGO_IN_LOGIN": "ログインパネルに会社のロゴが表示されます",
     "LBL_ADD_CUSTOM_FIELD": "フィールドを追加",
-    "LBL_FIELD_NAME": "Field name",
     "LBL_HEIGHT_LOGO": "ロゴの高さ",
     "LBL_SECURITY": "セキュリティ",
     "LBL_LOG_ACCESS_TO_RECORD": "レコードへのアクセス権限がありません",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "セキュリティエラー",
     "LBL_ENCRYPTION": "暗号化",
     "LBL_YETIFORCE_SHOP": "ストア",
-    "LBL_YETIFORCE_ISSUES": "無料サポート",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
-    "LBL_YETIFORCE_ASSISTANCE": "有料サポート",
     "LBL_PICKLIST_VARIABLES": "Picklist変数",
     "LBL_PICKLIST_VARIABLES_INFO": "この変数を使用すると、picklist値ごとに個別の番号が付けられ、短い値が変数を置き換えます。",
     "LBL_BUSINESS_HOURS": "営業時間",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Requires intervention",
     "LBL_ACTIVATE_FUNCTIONALITY": "有効化",
     "LBL_ONLY_TO_FIRST_LIST": "Only to the first one on the list",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "認証に成功しました",

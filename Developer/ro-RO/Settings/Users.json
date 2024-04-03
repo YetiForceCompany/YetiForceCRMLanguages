@@ -4,7 +4,7 @@
     "USER_MAIL_EXIST": "Exista un utilizator cu aceasta adresa de email",
     "LBL_PRIORITY": "Prioritate",
     "LBL_LDAP_RECOMMENDED_INFO": "Nu recomandam selectarea utilizatorilor cu permisiuni de administrator pentru autorizarea LDAP. In cazul problemelor de autorizare trebuie sa existe un utilizator care poate sa se conecteze fara integrare LDAP.",
-    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION": "LDAP and SSO",
     "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Autorizare cu LDAP",
@@ -24,7 +24,12 @@
     "LBL_LOCK_PASTE": "Blocati lipire",
     "LBL_LOCK_RIGHT_MENU": "Blocati click drepata mouse",
     "LBL_LOCK_SELECT_TEXT": "Blocati selectare",
-    "LBL_LOCK_DRAG": "Blocati tragere"
+    "LBL_LOCK_DRAG": "Blocati tragere",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
   },
   "js": {
     "JS_PLEASE_SELECT_MODULE": "Te rog selecteaza modulul",

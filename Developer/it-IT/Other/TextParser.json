@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "nome campo",
     "LBL_AUTOMATIC": "Automatico",
     "LBL_RELATED_RECORDS_LIST": "Moduli relazionati (M:M)",
+    "LBL_LINK_LIST": "Elenco di azioni",
     "LBL_DATE_TODAY": "Oggi",
     "LBL_DATE_TOMORROW": "Domani",
     "LBL_DATE_YESTERDAY": "Ieri",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Tabella migliorata con blocco esteso",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabella con blocco esteso per i moduli relazionati",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabella con blocco esteso - prima della correzione",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Tabella con blocco avanzato, dopo la correzione",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabella con blocco esteso - insieme alla foto dei prodotti",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabella con blocco esteso - versione breve",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabella con blocco esteso - versione bilingue completa",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Codice a barre",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dati dei record correlati (matrice)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dati relativi ai record dal campo dipendente (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correzione: riepilogo importo"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correzione: riepilogo importo",
+    "LBL_CURRENCY_RATE_INVENTORY": "Tasso di cambio valuta dell'inventario"
   }
 }

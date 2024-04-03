@@ -30,8 +30,6 @@
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage 地理编码器网站",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim 地理编码器",
     "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim 地理编码器网站",
-    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce 地理编码器",
-    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "YetiForce 地理编码器网站",
     "LBL_SAVE_GLOBAL_SETTINGS": "保存全局设置",
     "LBL_NUMBER_SEARCH_RESULTS": "搜索结果的数量"
   },

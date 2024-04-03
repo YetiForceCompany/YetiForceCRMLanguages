@@ -30,8 +30,6 @@
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Сайт OpenCage Geocoder",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Геокодер Nominatim",
     "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Сайт Nominatim Geocoder",
-    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce Геокодер",
-    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "Сайт YetiForce Geocoder",
     "LBL_SAVE_GLOBAL_SETTINGS": "Зберегти глобальні налаштування",
     "LBL_NUMBER_SEARCH_RESULTS": "Кількість результатів пошуку"
   },

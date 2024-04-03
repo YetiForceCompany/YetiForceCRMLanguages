@@ -4,7 +4,7 @@
     "USER_MAIL_EXIST": "Użytkownik o podanym adresie email już istnieje",
     "LBL_PRIORITY": "Priorytet",
     "LBL_LDAP_RECOMMENDED_INFO": "Nie zaleca się aby wybierać do autoryzacji użytkowników o uprawnieniach administratora. W razie problemów z autoryzacją LDAP musi być dostępny użytkownik, który ma możliwości logowania się bez integracji LDAP.",
-    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION": "LDAP i SSO",
     "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Autoryzacja za pomocą LDAP",
@@ -24,7 +24,12 @@
     "LBL_LOCK_PASTE": "Blokada wklejania",
     "LBL_LOCK_RIGHT_MENU": "Blokada prawego klawisza myszki",
     "LBL_LOCK_SELECT_TEXT": "Blokada zaznaczania",
-    "LBL_LOCK_DRAG": "Blokada przeciągania elementów strony"
+    "LBL_LOCK_DRAG": "Blokada przeciągania elementów strony",
+    "LBL_SSO_AZURE_ACTIVE": "Uwierzytelnianie z Azure AD",
+    "LBL_SSO": "Logowanie SSO",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Klucz tajny klienta"
   },
   "js": {
     "JS_PLEASE_SELECT_MODULE": "Proszę wybrać moduł",

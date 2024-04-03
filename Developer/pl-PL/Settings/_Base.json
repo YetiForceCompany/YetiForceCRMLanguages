@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Konwersja na kontrahenta",
     "LBL_DAV_KEYS": "Klucze aplikacji DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Tworzenie i zarządzanie kluczami aplikacji DAV",
-    "LBL_AUTOLOGIN": "Autologowanie",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Konfiguracja automatycznego logowania do modułu poczty",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Konfiguracja ogólna",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Ogólna konfiguracja poczty w systemie",
     "LBL_SUPPORT_PROCESSES": "Procesy wsparcia",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Logo firmowe widoczne w systemie",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Logo firmowe widoczne w panelu logowania",
     "LBL_ADD_CUSTOM_FIELD": "Dodaj pole",
-    "LBL_FIELD_NAME": "Nazwa pola",
     "LBL_HEIGHT_LOGO": "Wysokość loga",
     "LBL_SECURITY": "Bezpieczeństwo",
     "LBL_LOG_ACCESS_TO_RECORD": "Braku dostępu do rekordów",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "Błędów bezpieczeństwa",
     "LBL_ENCRYPTION": "Szyfrowanie",
     "LBL_YETIFORCE_SHOP": "Sklep",
-    "LBL_YETIFORCE_ISSUES": "Bezpłatne wsparcie",
     "LBL_YETIFORCE_DOCUMENTATION": "Dokumentacja YetiForce",
-    "LBL_YETIFORCE_ASSISTANCE": "Płatne wsparcie",
     "LBL_PICKLIST_VARIABLES": "Zmienne słownikowe",
     "LBL_PICKLIST_VARIABLES_INFO": "Użycie tej zmiennej spowoduje numerowanie dla każdej wartości słownikowej oddzielnie, a w miejscu zmiennej wprowadzona zostanie wartość skrócona.",
     "LBL_BUSINESS_HOURS": "Godziny pracy",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Wymaga interwencji",
     "LBL_ACTIVATE_FUNCTIONALITY": "Aktywuj",
     "LBL_ONLY_TO_FIRST_LIST": "Tylko do pierwszego na liście",
-    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
+    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj",
+    "LBL_MAIL_REPLY_TO": "Odpowiedz do"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Autoryzacja zakończona pomyślnie",

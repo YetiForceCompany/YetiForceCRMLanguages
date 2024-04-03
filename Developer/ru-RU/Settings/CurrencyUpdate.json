@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Список поддерживаемых валют этим банком",
     "LBL_CURRENCIES_UNSUPPORTED": "Список неподдерживаемых валют этим банком",
     "LBL_SET_BANK_OK": "Настройка банка успешно сохранена",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Ошибка настройки банка",
     "LBL_INFORMATIONS": "Информация",
     "LBL_WARNING": "Предупреждение",
     "NBP": "Национальный Банк Польши",
     "ECB": "Центральный Банк Европы",
-    "CBR": "Центральный банк Российской Федерации",
-    "NBR": "National Bank of Romania"
+    "CBR": "Центральный банк Российской Федерации"
   }
 }

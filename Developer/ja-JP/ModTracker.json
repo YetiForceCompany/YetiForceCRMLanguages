@@ -51,6 +51,7 @@
     "LBL_UPDATES": "System update history",
     "LBL_PERSON_MAKING_CHANGES": "変更を加えている人",
     "LBL_MODULES": "モジュール",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data"
+    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

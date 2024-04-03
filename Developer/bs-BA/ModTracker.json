@@ -51,6 +51,7 @@
     "LBL_UPDATES": "Istorija ažuriranja sistema",
     "LBL_PERSON_MAKING_CHANGES": "Osoba koja vrši promjene",
     "LBL_MODULES": "Moduli",
-    "LBL_SHOW_HIDDEN_DATA": "Prikazani su skriveni podaci"
+    "LBL_SHOW_HIDDEN_DATA": "Prikazani su skriveni podaci",
+    "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokiraj dodavanje / uređivanje zapisa kada već postoji ista korekcija Prijema robe.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Potvrda radnog vremena, ne može biti duža od 24 sata",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Radno vrijeme ograničeno na 24 sata",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Provjera dostupnosti",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Blokiraj dodavanje/uređivanje zapisa ako već postoji rezervacija za ovaj datum.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

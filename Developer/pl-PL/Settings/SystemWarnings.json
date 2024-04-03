@@ -33,8 +33,6 @@
     "SystemWarnings": "Ostrzeżenia systemowe",
     "BTN_CONFIGURE_ENCRYPTION": "Aktywuj szyfrowanie",
     "Security": "Bezpieczeństwo",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Skaner podatności",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Wykryto podatności w bibliotekach/aplikacjach. Zalecamy szybką aktualizację.\n Podatności:",
     "LBL_MECHANISM_ENCRYPTION": "Mechanizm szyfrowania",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Brak szyfrowania powoduje że dane wrażliwe takie jak hasła do poczty, klucze dostępowe są przechowywanie w formie jawnej w bazie danych.",
     "LBL_RECOMMENDED_VALUE": "Zalecane",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Dostępna jest aktualizacja języków zainstalowanych w Twoim systemie CRM. Przejdź do Zarządzani Językami i kliknij na przycisk aktualizuj.",
     "LBL_UPDATER_DESC": "Dostępne są aktualizacje dla Twojej wersji systemu. Zalecamy aktualizację.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Wykryto %s błędów podczas wysyłania wiadomości e-mail w ciągu ostatnich 24 godzin. Sprawdź swoje dane logowania SMTP. ",
-    "Mail": "Poczta"
+    "Mail": "Poczta",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Integracja z Comarch - Weryfikacja błędu",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "W ciągu ostatnich 24 godzin w integracji z Comarch wystąpiły następujące błędy:"
   }
 }

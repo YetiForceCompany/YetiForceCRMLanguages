@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Преобразовать в Контрагента",
     "LBL_DAV_KEYS": "Синхронизация",
     "LBL_DAV_KEYS_DESCRIPTION": "Настройка синхронизации",
-    "LBL_AUTOLOGIN": "Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Общие настройки почты",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Настройка конфигурации почты в системе",
     "LBL_SUPPORT_PROCESSES": "Процесс поддержки",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Логотип компании, видимый в системе.",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Логотип компании, видимый на странице входа",
     "LBL_ADD_CUSTOM_FIELD": "Добавить Поле",
-    "LBL_FIELD_NAME": "Field name",
     "LBL_HEIGHT_LOGO": "Высота логотипа",
     "LBL_SECURITY": "Безопасность",
     "LBL_LOG_ACCESS_TO_RECORD": "Нет доступа к записям",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "Ошибки безопасности",
     "LBL_ENCRYPTION": "Шифрование",
     "LBL_YETIFORCE_SHOP": "Магазин",
-    "LBL_YETIFORCE_ISSUES": "Бесплатная поддержка",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Documentation",
-    "LBL_YETIFORCE_ASSISTANCE": "Платная поддержка",
     "LBL_PICKLIST_VARIABLES": "Переменные списка выбора",
     "LBL_PICKLIST_VARIABLES_INFO": "Использование этой переменной приведет к отдельной нумерации для каждого значения списка выбора, а короткое значение заменит переменную.",
     "LBL_BUSINESS_HOURS": "Рабочие часы",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Требуется вмешательство",
     "LBL_ACTIVATE_FUNCTIONALITY": "Активация",
     "LBL_ONLY_TO_FIRST_LIST": "Только к первому списку",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Успешная авторизация",

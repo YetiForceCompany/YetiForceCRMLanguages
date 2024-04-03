@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Xác nhận thời gian làm việc không vượt quá 24 giờ",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Thời gian làm việc giới hạn trong 24 giờ",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

@@ -1,17 +1,5 @@
 {
   "php": {
-    "Dependencies": "Vulnerability scanner",
-    "LBL_VULNERABILITIES": "Vulnerability scanner",
-    "LBL_VULNERABILITIES_DESCRIPTION": "A tool for detecting vulnerabilities in CRM and the server",
-    "LBL_VULNERABILITIES_OK": "Keine Sicherheitslücken gefunden",
-    "LBL_VULNERABILITIES_OK_DESC": "Do not forget to periodically check for vulnerabilities in your libraries and applications installed on the server.",
-    "LBL_VULNERABILITIES_WARNING": "Erkannte Schwachstellen in Bibliotheken/Anwendungen",
-    "LBL_VULNERABILITIES_WARNING_DESC": "Schwachstellen in Bibliotheken oder Anwendungen wurden entdeckt, es wird empfohlen, sie schnell zu aktualisieren.",
-    "LBL_SECURITY_DEPENDENCIES": "Sicherheitslücken in verwendeten Bibliotheken",
-    "LBL_SECURITY_PHP": "Sicherheitslücken in der PHP-Engine",
-    "LBL_SECURITY_OS": "Sicherheitslücken im Betriebssystem",
-    "LBL_SECURITY_SERVERSOFTWARE": "Sicherheitslücken in Server-Software",
-    "LBL_SECURITY_SQL": "Sicherheitslücken in der Datenbank-Engine",
     "LBL_LIB_NAME": "Bibliothek/App-Name",
     "LBL_VULNERABILITY_NAME": "Name der Sicherheitslücke",
     "LBL_VULNERABILITY_URL": "Sicherheitslücken Adresse",

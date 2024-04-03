@@ -33,8 +33,6 @@
     "SystemWarnings": "Cảnh báo hệ thống",
     "BTN_CONFIGURE_ENCRYPTION": "Kích hoạt mã hoá",
     "Security": "Bảo mật",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities scanner",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Vulnerabilities in libraries/applications were detected, it is recommended to update them quickly. \r\n Vulnerabilities:",
     "LBL_MECHANISM_ENCRYPTION": "Cơ chế mã hoá",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "Không mã hoá gây cho liệu nhạy cảm như mật khẩu của email và mã truy cập được lưu vào biểu mẫu công khai trong cơ sở dữ liệu.",
     "LBL_RECOMMENDED_VALUE": "Khuyến nghị",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "Một bản cập nhật ngôn ngữ trong hệ thống CRM của bạn mới thay đổi. Đi đến vùng quản lý ngôn và nhấn vào nút cập nhật.",
     "LBL_UPDATER_DESC": "Có cập nhật mới cho phiên bản bạn đang dùng. Chúng tôi khuyến nghị cập nhật.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

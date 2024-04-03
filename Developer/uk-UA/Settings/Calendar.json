@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Згенерувати випадковий колір",
     "LBL_GENERATED_COLOR": "Колір згенеровано",
     "LBL_NOTWORKING_DAYS": "Неробочі дні",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Неробочі дні",
     "PLL_MONDAY": "Понеділок",
     "PLL_TUESDAY": "Вівторок",

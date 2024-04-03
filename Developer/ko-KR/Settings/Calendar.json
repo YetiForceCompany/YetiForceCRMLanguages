@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "임의 색상 생성",
     "LBL_GENERATED_COLOR": "색상 생성",
     "LBL_NOTWORKING_DAYS": "작업하지 않는 날",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "작업하지 않는 날",
     "PLL_MONDAY": "월요일",
     "PLL_TUESDAY": "화요일",

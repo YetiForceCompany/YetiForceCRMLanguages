@@ -12,11 +12,11 @@
     "Users": "Χρήστες",
     "Name": "Όνομα ομάδας",
     "Description": "Περιγραφή",
-    "FL_PARENT": "Team leader",
+    "FL_PARENT": "Υπεύθυνος ομάδας",
     "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
     "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
-    "LBL_GROUP_DUPLICATE": "Duplicate",
-    "LBL_DELETE_GROUP": "Delete group"
+    "LBL_GROUP_DUPLICATE": "Διπλότυπο",
+    "LBL_DELETE_GROUP": "Διαγραφή ομάδας"
   },
   "js": {
     "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Παρακαλώ επιλέξτε τουλάχιστον ένα μέλος για την ομάδα",

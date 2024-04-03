@@ -33,8 +33,6 @@
     "SystemWarnings": "هشدارهای سامانه",
     "BTN_CONFIGURE_ENCRYPTION": "فعال کردن رمزنگاری",
     "Security": "امنیت",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities scanner",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Vulnerabilities in libraries/applications were detected, it is recommended to update them quickly. \r\n Vulnerabilities:",
     "LBL_MECHANISM_ENCRYPTION": "مکانیزم رمزنگاری",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "هیچ رمزگذاری باعث می شود که داده های حساس مانند گذرواژه‌ها به صندوق پستی و کلیدهای دسترسی به شکل عمومی در دیتابیس ذخیره شوند.",
     "LBL_RECOMMENDED_VALUE": "پیشنهادی",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
     "LBL_UPDATER_DESC": "به روز رسانی برای سامانه در دسترس است. ما توصیه می کنیم نسخه خود را به روز رسانی نمایید.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

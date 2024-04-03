@@ -33,8 +33,6 @@
     "SystemWarnings": "Rendszer figyelmeztetések",
     "BTN_CONFIGURE_ENCRYPTION": "Activate encryption",
     "Security": "Security",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities scanner",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Vulnerabilities in libraries/applications were detected, it is recommended to update them quickly. \r\n Vulnerabilities:",
     "LBL_MECHANISM_ENCRYPTION": "Encryption mechanism",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "No encryption causes that sensitive data such as passwords to mailboxes and access keys are stored in a public form in the database.",
     "LBL_RECOMMENDED_VALUE": "Recommended",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "A CRM rendszerére telepített nyelvek frissítése elérhető. Lépjen a Nyelvkezelés elemre, és kattintson a frissítés gombra.",
     "LBL_UPDATER_DESC": "Frissítések érhetők el a rendszer verzióját. Javasoljuk, hogy a frissítést.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

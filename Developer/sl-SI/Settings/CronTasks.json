@@ -35,6 +35,7 @@
     "RecurringInvoice": "Ponavljajoči računi",
     "LBL_MAIL_SCANNER_ACTION": "Ukrepi za skeniranje e-pošte",
     "LBL_MAIL_SCANNER_VERIFICATION": "Potrjevanje skeniranja e-pošte",
+    "LBL_MAIL_SCANNER_NOTIFICATION": "Mail Scanner notifications",
     "LBL_SEND_REMINDER": "Pošlji opomnik",
     "LBL_SCHEDULED_IMPORT": "Načrtovani uvozi",
     "LBL_SCHEDULE_REPORTS": "Načrtovana poročila",

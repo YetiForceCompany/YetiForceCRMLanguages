@@ -1,7 +1,7 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicate emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu kiedy już istnieje jeden z wprowadzonych adresów email",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Weryfikacja duplikatu rekordu na podstawie adresu mailowego",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu, kiedy już istnieje jeden z wprowadzonych adresów email.",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Duplikuj NIP",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Blokowanie dodawania/edycji rekordu jeśli już istnieje taki NIP",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Duplikuj EAN",
@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokowanie dodawania/edytowania rekordu, gdy już istnieje taka sama Korekta przyjęć z zewnątrz.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Walidacja czasu pracy, nie może być dłuższy niż 24 godziny.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Czas pracy ograniczony do 24 godzin",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Weryfikacja dostępności terminu",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Blokuj dodawanie/edytowanie rekordu, jeśli istnieje już rezerwacja dla danego terminu.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

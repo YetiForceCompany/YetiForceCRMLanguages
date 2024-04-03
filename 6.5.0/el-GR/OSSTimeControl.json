@@ -99,7 +99,7 @@
     "Employees Time Control": "Έλεγχος Χρόνου Εργαζομένων",
     "LBL_ALL_TIME_CONTROL": "Συνολικός χρόνος εργασίας όλων των χρηστών",
     "LBL_START_TIME_COUNTER": "Ώρα ενάρξης",
-    "LBL_STOP_TIME_COUNTER": "Stop time counter",
+    "LBL_STOP_TIME_COUNTER": "Διακοπή μετρητή χρόνου",
     "LBL_RESET_TIME_COUNTER": "Reset time counter",
     "LBL_ADD_MINUTES": "Add %s minutes to work time"
   },

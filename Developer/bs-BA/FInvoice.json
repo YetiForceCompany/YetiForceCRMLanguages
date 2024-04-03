@@ -45,6 +45,15 @@
     "FL_PAYMENT_SUM": "Ukupna plaćanja",
     "DW_SUM_FIELD": "Zbirno polje",
     "DW_SUMMATION_BY_MONTHS": "Poređenje prodaje po mesecima",
-    "DW_SUMMATION_BY_USER": "Poređenje prodaje po korisniku"
+    "DW_SUMMATION_BY_USER": "Poređenje prodaje po korisniku",
+    "FL_WAPRO_PAID": "WAPRO ERP Paid",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch",
+    "FL_COMARCH_INVOICE_STATUS": "Comarch integration status",
+    "PLL_COMARCH_DRAFT": "Draft",
+    "PLL_COMARCH_TO_SEND": "To send",
+    "PLL_COMARCH_SENT": "Sent",
+    "PLL_FROM_COMARCH": "Loaded from Comarch",
+    "PLL_COMARCH_ERROR": "Error occurred"
   }
 }

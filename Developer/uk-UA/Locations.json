@@ -9,6 +9,7 @@
     "LBL_NUMBER": "Номер",
     "LBL_CLOSED_TIME": "Час закриття",
     "FL_PHONE": "Телефон",
-    "FL_CAPACITY": "Місткість"
+    "FL_CAPACITY": "Місткість",
+    "FL_COORDINATES": "Coordinates"
   }
 }

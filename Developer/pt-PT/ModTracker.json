@@ -51,6 +51,7 @@
     "LBL_UPDATES": "Histórico de atualizações do Sistema",
     "LBL_PERSON_MAKING_CHANGES": "Pessoa que faz as alterações",
     "LBL_MODULES": "Módulos",
-    "LBL_SHOW_HIDDEN_DATA": "Mostrando dados ocultos"
+    "LBL_SHOW_HIDDEN_DATA": "Mostrando dados ocultos",
+    "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

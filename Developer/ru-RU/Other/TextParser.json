@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Название поля",
     "LBL_AUTOMATIC": "Автоматически",
     "LBL_RELATED_RECORDS_LIST": "Список связанных записей",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Сегодня",
     "LBL_DATE_TOMORROW": "Завтра",
     "LBL_DATE_YESTERDAY": "Вчера",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Улучшена таблица с расширенным блоком",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Таблица с расширенным блоком для связанных модулей",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Таблица с расширенным блоком - перед коррекцией",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Таблица с расширенным блоком - вместе с фотографией продуктов",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Таблица с расширенным блоком - короткая версия",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Таблица с расширенным блоком - двуязычная длинная версия",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Штрих-код",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Связанные записи (массив)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Lista monezi suportate de aceasta banca",
     "LBL_CURRENCIES_UNSUPPORTED": "Lista monezi nesuportate de aceasta banca",
     "LBL_SET_BANK_OK": "Banca activa salvata cu succes.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Setare banca activa esuata.",
     "LBL_INFORMATIONS": "Informatie",
     "LBL_WARNING": "Atentie!",
     "NBP": "Banca Nationala a Poloniei",
     "ECB": "Banca Centrala Europeana",
-    "CBR": "Banca Centrala a Rusiei",
-    "NBR": "National Bank of Romania"
+    "CBR": "Banca Centrala a Rusiei"
   }
 }

@@ -33,8 +33,6 @@
     "SystemWarnings": "系统警告",
     "BTN_CONFIGURE_ENCRYPTION": "激活加密",
     "Security": "安全设置",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "脆弱点扫描器",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "检测到库/应用程序的漏洞，建议尽快进行升级。 \n 脆弱性：",
     "LBL_MECHANISM_ENCRYPTION": "加密机制",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "没有加密会导致敏感数据（如邮箱密码和访问密钥）以明文形式存储在数据库中。",
     "LBL_RECOMMENDED_VALUE": "推荐",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "CRM 系统上安装的语言现在可以更新了。请前往“语言管理”然后单击更新按钮。",
     "LBL_UPDATER_DESC": "您的系统版本可以更新。我们建议更新。",
     "LBL_CHECK_ERROR_MAIL_DESC": "在过去 24 小时发送邮件时检测到 %s 个错误。请检查您的 SMTP 凭据。 ",
-    "Mail": "邮件"
+    "Mail": "邮件",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

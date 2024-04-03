@@ -51,6 +51,7 @@
     "LBL_UPDATES": "Cronologia degli aggiornamenti di sistema",
     "LBL_PERSON_MAKING_CHANGES": "Persona che apporta modifiche",
     "LBL_MODULES": "Moduli",
-    "LBL_SHOW_HIDDEN_DATA": "Dati nascosti mostrati"
+    "LBL_SHOW_HIDDEN_DATA": "Dati nascosti mostrati",
+    "LBL_WIDGET_NOT_AVAILABLE": "A causa di una modifica al motore di archiviazione della cronologia, il widget non è ancora disponibile sulla corrente configurazione di sistema."
   }
 }

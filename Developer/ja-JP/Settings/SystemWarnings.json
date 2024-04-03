@@ -33,8 +33,6 @@
     "SystemWarnings": "システム警告",
     "BTN_CONFIGURE_ENCRYPTION": "暗号化を有効にする",
     "Security": "セキュリティ",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES": "Vulnerabilities scanner",
-    "LBL_VULNERABILITIES_IN_DEPENDENCIES_DESC": "Vulnerabilities in libraries/applications were detected, it is recommended to update them quickly. \r\n Vulnerabilities:",
     "LBL_MECHANISM_ENCRYPTION": "暗号化のメカニズム",
     "LBL_CONFIGURE_ENCRYPTION_DESCRIPTION": "暗号化により、メールボックスへのパスワードやアクセスキーなどの機密データはデータベース内の公開フォームに保存されます。",
     "LBL_RECOMMENDED_VALUE": "推奨",
@@ -63,6 +61,8 @@
     "LBL_LANGUAGES_UPDATER_DESC": "CRMシステムにインストールされている言語の更新が可能です。言語管理に行き、更新ボタンをクリックしてください。",
     "LBL_UPDATER_DESC": "お使いのシステムバージョンではアップデートが可能です。アップデートをお勧めします。",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
-    "Mail": "Mail"
+    "Mail": "Mail",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",
+    "LBL_CHECK_COMARCH_INTEGRATION_LOG_DESC": "The Comarch integration experienced the following errors within the past 24 hours:"
   }
 }

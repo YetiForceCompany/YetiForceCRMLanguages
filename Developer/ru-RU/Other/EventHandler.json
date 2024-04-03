@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Блокировать добавление/редактирование записи, когда уже существует Исправление примечания к полученным товарам.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Проверка рабочего времени не может превышать 24 часа",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Время работы ограничено 24 часа",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

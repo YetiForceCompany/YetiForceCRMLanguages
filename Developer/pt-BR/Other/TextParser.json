@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Nome do Campo",
     "LBL_AUTOMATIC": "Automático",
     "LBL_RELATED_RECORDS_LIST": "Lista de registos relacionados",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Hoje",
     "LBL_DATE_TOMORROW": "Amanhã",
     "LBL_DATE_YESTERDAY": "Ontem",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Tabela melhorada com bloco avançado",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabela com bloco avançado para módulos relacionados",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabela com bloco avançado - antes da correção",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabela com bloco avançado - juntamente com a foto dos produtos",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabela com bloco avançado - versão curta",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabela com bloco avançado - versão bilingue longa",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Código de barras",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dados de registros relacionados (matriz)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

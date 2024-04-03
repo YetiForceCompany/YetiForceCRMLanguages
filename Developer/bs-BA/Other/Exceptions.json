@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Nije uspjelo spremanje datoteke skripte metoda toka rada.",
     "ERR_ILLEGAL_FIELD_VALUE": "Za ovu vrstu polja unesena je ilegalna vrijednost. Naziv polja: %s, Modul: %s, Vrijednost: %s",
     "ERR_VALUE_IS_TOO_LONG": "Prekoračeno je ograničenje broja znakova. Naziv polja: %s, Modul: %s, Vrijednost: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Unesena vrijednost je prekratka. Ime polja: %s, Modul: %s, Vrijednost: %s",
     "ERR_TO_MANY_FILES": "Preneseno previše datoteka - prekoračen je limit. Naziv polja: %s, Modul: %s, Vrijednost: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Naziv polja: %s, Modul: %s, Vrijednost: %s",
     "ERR_NOT_ALLOWED_VALUE": "Otkrivena je pogrešna vrijednost, molimo kontaktirajte svog administratora",
@@ -49,6 +50,7 @@
     "ERR_CLASS_MUST_BE": "Klasa mora biti %s",
     "ERR_PAID_FUNCTIONALITY": "%s plaćena funkcionalnost, morate je kupiti",
     "ERR_TOKEN_DOES_NOT_EXIST": "Token ne postoji ili je istekao",
+    "ERR_TOKEN_NOT_EXECUTION_CONDITIONS": "The token does not meet the conditions for execution",
     "ERR_NO_TOKEN": "Nema tokena",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Neispravan 2FA TOTP kod",
     "ERR_NO_2FA_TOTP_CODE": "Nema 2FA TOTP koda",
@@ -57,9 +59,6 @@
     "ERR_FILE_TYPE": "Nevažeća vrsta datoteke",
     "ERR_REQUIRED_VALUE_MISSING": "The field value is missing or is not supported",
     "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Problems or errors have been detected in this record. Please review the following message and modify the data accordingly.",
-    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration.",
-    "ERR_REGISTER_FILES_PERMISSIONS": "Incorrect permissions on files or directory %s",
-    "ERR_PLEASE_USE_LATIN_CHARACTERS": "Please make sure to use Latin characters only",
-    "ERR_RECREATE_APP_ACCESS": "The system has detected a change in the basic registration data. The add-ons you purchased may not be available. Please contact your provider in case of any issues."
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration."
   }
 }

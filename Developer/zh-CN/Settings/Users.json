@@ -4,7 +4,7 @@
     "USER_MAIL_EXIST": "此邮件地址已被其他用户使用",
     "LBL_PRIORITY": "优先级",
     "LBL_LDAP_RECOMMENDED_INFO": "我们不推荐选择具有 LDAP 授权的管理员权限的用户。为了避免授权问题，必须是每月LDAP授权的用户才能登陆.",
-    "LBL_AUTHORIZATION": "轻量目录访问协议",
+    "LBL_AUTHORIZATION": "LDAP and SSO",
     "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "轻量目录访问协议",
     "LBL_ACTIVE_LDAP_AUTH": "使用轻量目录访问协议授权",
@@ -24,7 +24,12 @@
     "LBL_LOCK_PASTE": "锁定粘贴",
     "LBL_LOCK_RIGHT_MENU": "锁定右键",
     "LBL_LOCK_SELECT_TEXT": "锁定选择",
-    "LBL_LOCK_DRAG": "锁定拖拽"
+    "LBL_LOCK_DRAG": "锁定拖拽",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
   },
   "js": {
     "JS_PLEASE_SELECT_MODULE": "请选择模块",

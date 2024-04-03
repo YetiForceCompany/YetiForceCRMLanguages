@@ -4,7 +4,7 @@
     "USER_MAIL_EXIST": "Užívateľ s týmto emailom už existuje",
     "LBL_PRIORITY": "Priorita",
     "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
-    "LBL_AUTHORIZATION": "LDAP",
+    "LBL_AUTHORIZATION": "LDAP and SSO",
     "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Autorizácia s LDAP",
@@ -24,7 +24,12 @@
     "LBL_LOCK_PASTE": "Zamknúť vkladanie",
     "LBL_LOCK_RIGHT_MENU": "Zamknúť pravé tlačidlo myši",
     "LBL_LOCK_SELECT_TEXT": "Zamknúť označovanie",
-    "LBL_LOCK_DRAG": "Zamknúť presúvanie"
+    "LBL_LOCK_DRAG": "Zamknúť presúvanie",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
   },
   "js": {
     "JS_PLEASE_SELECT_MODULE": "Prosím vyberte modul",

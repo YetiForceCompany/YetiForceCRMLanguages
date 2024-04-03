@@ -1,0 +1,42 @@
+{
+  "php": {
+    "MailServers": "Mail servers",
+    "LBL_MAIL_SERVERS": "Mail servers",
+    "FL_SUBJECT": "Subject",
+    "FL_AUTH_METHOD": "Authorization method",
+    "FL_ACTIVE": "Active",
+    "FL_VISIBLE": "Available",
+    "FL_VALIDATE_CERT": "Validate certificate",
+    "FL_IMAP_ENCRYPT": "Encryption",
+    "FL_IMAP_HOST": "Host",
+    "FL_IMAP_PORT": "Port",
+    "FL_SMTP_ENCRYPT": "Encryption",
+    "FL_SMTP_HOST": "Host",
+    "FL_SMTP_PORT": "Port",
+    "FL_SPELL_CHECK": "Spell check",
+    "FL_IP_CHECK": "Check IP address",
+    "FL_OAUTH_PROVIDER": "OAuth provider",
+    "FL_CLIENT_ID": "Client ID",
+    "FL_CLIENT_SECRET": "Client secret",
+    "FL_REDIRECT_URI_ID": "Redirect URI",
+    "LBL_REDIRECT_URI_ID_DESC": "Webservices for OAuth are listed here.\n You must first add the key to the appropriate application in a separate panel. This will generate a URI that will be listed in this field.",
+    "FL_IDENTITIES_LEVEL": "Level of access to identity",
+    "LBL_VISIBLE_DESC": "Available in the user section",
+    "identities_level_0": "many identities with possibility of editing all parameters",
+    "identities_level_1": "many identities with possibility of editing all parameters, but not the email address",
+    "identities_level_2": "one identity with possibility of editing all parameters",
+    "identities_level_3": "one identity with possibility of editing all parameters, but not the email address",
+    "identities_level_4": "one identity with possibility of editing only signature",
+    "LBL_IMAP_HOST_DESC": "Google:\n encrypt: ssl\n host: imap.gmail.com\n port: 993\n Outlook:\n encrypt: ssl\n host: outlook.office365.com\n port: 993",
+    "LBL_SMTP_HOST_DESC": "Google:\n encrypt: ssl\n host: smtp.gmail.com\n port: 465\n Outlook:\n encrypt: tls\n host: smtp.office365.com\n port: 587",
+    "BL_BASE": "Basic",
+    "BL_IMAP": "Imap configuration",
+    "BL_SMTP": "SMTP configuration",
+    "BL_OTHER": "Other settings",
+    "LBL_BASIC_AUTH": "Basic",
+    "LBL_OAUTH2": "OAuth2"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
+  }
+}

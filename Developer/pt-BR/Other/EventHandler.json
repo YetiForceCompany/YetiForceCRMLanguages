@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Bloquear registro de adicionar/editar quando a mesma Correção de Nota de Mercadorias Expedidas já existir.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "O tempo de trabalho não pode exceder 24 horas",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Tempo de trabalho limitado a 24 horas",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Verificar Disponibilidade",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Bloquear inclusão/edição de registro se já houver reserva para esta data.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

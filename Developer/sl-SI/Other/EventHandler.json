@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Blokiraj dodajanje / urejanje zapisov, ko že obstaja isti popravek opombe o prejetem blagu.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Delovni čas ne sme biti daljši od 24 ur",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Delovni čas je omejen na 24 ur",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

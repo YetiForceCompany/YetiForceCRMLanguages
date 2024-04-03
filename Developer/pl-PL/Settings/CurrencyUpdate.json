@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Lista walut wspieranych przez ten bank.",
     "LBL_CURRENCIES_UNSUPPORTED": "Lista walut systemu, które nie są wspierane przez ten bank.",
     "LBL_SET_BANK_OK": "Pomyślnie zapisano aktywny bank.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank pomyślnie dezaktywowany.",
     "LBL_SET_BANK_ERROR": "Nie udało się zapisać zmiany.",
     "LBL_INFORMATIONS": "Informacje",
     "LBL_WARNING": "Uwaga!",
     "NBP": "Narodowy Bank Polski",
     "ECB": "Europejski Bank Centralny",
-    "CBR": "Centralny Bank Rosji",
-    "NBR": "Narodowy Bank Rumunii"
+    "CBR": "Centralny Bank Rosji"
   }
 }

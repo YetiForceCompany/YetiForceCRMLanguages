@@ -23,6 +23,7 @@
     "LBL_GENERATE_COLOR": "Ustvari naključno barvo",
     "LBL_GENERATED_COLOR": "Samodejno ustvarjena barva",
     "LBL_NOTWORKING_DAYS": "Ni delovnih dni",
+    "LBL_RM_SHARING_ON": "Include sharing person in calendar notifications",
     "LBL_NOTWORKEDDAYS_INFO": "Ni delovnih dni",
     "PLL_MONDAY": "Ponedeljek",
     "PLL_TUESDAY": "Torek",

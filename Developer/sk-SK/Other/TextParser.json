@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Názov poľa",
     "LBL_AUTOMATIC": "Automaticky",
     "LBL_RELATED_RECORDS_LIST": "Zoznam súvisiacich záznamov",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Dnes",
     "LBL_DATE_TOMORROW": "Zajtra",
     "LBL_DATE_YESTERDAY": "Včera",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Vylepšená tabuľka s rozšíreným blokom",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabuľka s rozšíreným blokom pre súvisiace moduly",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabuľka s rozšíreným blokom - pred korekciou",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Stôl s rozšíreným blokom - spolu s fotografiou výrobkov",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabuľka s rozšíreným blokom - skrátená verzia",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabuľka s pokročilou blokovou verziou - dvojjazyčná dlhá verzia",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Čiarový kód",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dáta súvisiacich záznamov (pole)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Related records data from dependent field (array)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Correction: amount summary",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

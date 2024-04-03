@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "Para birimleri",
     "LBL_CURRENCY": "Para birimi",
     "LBL_DATABASE_INFORMATION": "Veritabanı bilgileri",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "Veritabanı türü",
     "LBL_DATE_FORMAT": "Tarih formatı",
     "LBL_DB_NAME": "Veri tabanı ismi",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "The YetiForce system has strictly defined requirements for the server on which it will be installed. The verification of requirements at an early stage of the installation process ensures that the next steps and subsequent use of the system will run without problems. \r\nAll server requirements are available on our website.",
     "LBL_STEP4_DESCRIPTION": "Enter the access data to the database and create an Administrator account to which you will log in after the installation has been completed.",
     "LBL_STEP5_DESCRIPTION": "Verify the data entered in the previous step. If everything is correct, move on.",
-    "LBL_STEP6_DESCRIPTION": "Enter your company's details. Filling out the form is an obligation derived from the license. \r\nData collected via the registration form will never be resold to third parties. \r\nThanks to the collected information, we are able to better select and plan the scope of changes in YetiForce, so that our system will help in day-to-day tasks even better.",
-    "LBL_STEP7_DESCRIPTION": "The installation is in progress, please be patient. \r\nIn the meantime, we encourage you to read the most important information about our system:",
+    "LBL_STEP6_DESCRIPTION": "The installation is in progress, please be patient. \r\nIn the meantime, we encourage you to read the most important information about our system:",
     "LBL_WELCOME": "Hoşgeldiniz",
     "LBL_ZLIB_SUPPORT": "Zlib Desteği",
     "MSG_DB_PARAMETERS_INVALID": "Belirtilen veritabanı kullanıcı, parola, ana makine adı, veritabanı türü veya bağlantı noktası geçersiz",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "YetiForce sisteminin Veri geçişi işlemine hoş geldiniz",
     "LBL_MIGRATION_DESC": "Veri geçişi işlemine başlamadan önce lütfen dosyalarınızın ve veritabanınızın yadeklerini alınız.",
     "LBL_HAVE_BACKUP_DATABASE": "Veritabanımın yedek kopyası var",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "Dosyaların yedek kopyam var",
     "LBL_LOGIN": "Oturum aç",
     "LBL_PASSWORD": "Parola",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "Kur",
     "LBL_MY_SERVER_DESC": "You can install YetiForce anywhere you want without any fees. If you ever experience any issues related to the CRM system you can find free support in our GitHub repository or purchase support directly from YetiForce.",
     "LBL_SHOW_MORE": "More information about product",
-    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session"
+    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "Hepsi",

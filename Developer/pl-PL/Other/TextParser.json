@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Nazwa pola",
     "LBL_AUTOMATIC": "Automatyczny",
     "LBL_RELATED_RECORDS_LIST": "Lista rekordów powiązanych",
+    "LBL_LINK_LIST": "Lista akcji",
     "LBL_DATE_TODAY": "Aktualny dzień",
     "LBL_DATE_TOMORROW": "Dzień jutrzejszy",
     "LBL_DATE_YESTERDAY": "Dzień poprzedni",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Ulepszona tabelka z blokiem zaawansowanym",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabelka z blokiem zaawansowanym dla modułów powiązanych",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabela z zaawansowanym blokiem - przed korektą",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Tabela z zaawansowanym blokiem - po korekcie",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabela z zaawansowanym blokiem - wraz ze zdjęciem produktów",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabela z zaawansowanym blokiem - podstawowa wersja",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabela z zaawansowanym blokiem - dwujęzyczna rozszerzona wersja",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Kod kreskowy",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Dane powiązanych rekordów (tablica)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Dane powiązanych rekordów z pola zależnego (tablica)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Korekta: podsumowanie kwoty"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Korekta: podsumowanie kwoty",
+    "LBL_CURRENCY_RATE_INVENTORY": "Kurs waluty bloku zaawansowanego"
   }
 }

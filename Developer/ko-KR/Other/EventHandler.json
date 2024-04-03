@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "동일한 입고 노트 수정(Goods Dispatched Note Correction)이 이미 존재하는 경우, 추가/편집을 차단합니다.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "근무시간 검사, 24시간 초과할 수 없음",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "근무시간은 24시간까지로 제한됨",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

@@ -19,7 +19,9 @@
     "FL_CALLBACK_URL_FOR_REPORT": "Rapporti (SMS,MMS)",
     "FL_CALLBACK_URL_FOR_REPLY": "Ricezione (SMS)",
     "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL per i rapporti di consegna. Da inserire direttamente al fornitore.",
-    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL per le ricezioni. Da inserire direttamente al fornitore."
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL per le ricezioni. Da inserire direttamente al fornitore.",
+    "FL_DEFAULT": "Predefinito",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Il fornitore selezionato è inattivo. Attivalo o cambialo."
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare questo Provider SMS?",

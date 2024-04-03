@@ -12,6 +12,8 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Block record adding/editing when the same Goods Received Note Correction already exists.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "La validación del tiempo de trabajo, no puede exceder las 24 horas",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Work time limited to 24 hours",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Comprobación de disponibilidad",
+    "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Bloquear la adición/edición de registro si ya existe una reserva para esta fecha.",
     "API_CARDDAV_HANDLER": "CardDAV",
     "API_CARDDAV_HANDLER_DESC": "",
     "API_CALDAV_HANDLER": "CalDAV",

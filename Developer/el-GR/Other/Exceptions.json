@@ -5,6 +5,7 @@
     "ERR_FAILED_TO_SAVE_SCRIPT": "Αποτυχία αποθήκευσης αρχείου δέσμης ενεργειών (script) των μεθόδων ροής εργασίας.",
     "ERR_ILLEGAL_FIELD_VALUE": "Έχει εισαχθεί μη έγκυρη τιμή για αυτό τον τύπο πεδίου. Όνομα πεδίου: %s, Module: %s, Τιμή: %s",
     "ERR_VALUE_IS_TOO_LONG": "Υπέρβαση του ορίου χαρακτήρων. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
+    "ERR_VALUE_IS_TOO_SHORT": "Entered value is too short. Field name: %s, Module: %s, Value: %s",
     "ERR_TO_MANY_FILES": "Πολλά αρχεία μεταφέρθηκαν - Υπέρβαση ορίου. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
     "ERR_VALUE_CAN_NOT_BE_LESS_THAN_ZERO": "Η τιμή του πεδίου πρέπει να είναι μεγαλύτερη από μηδέν. Όνομα πεδίου: %s, Module: %s, Tιμή: %s",
     "ERR_NOT_ALLOWED_VALUE": "Εντοπίστηκε εσφαλμένη τιμή, παρακαλώ επικοινωνήστε με τον διαχειριστή σας",
@@ -49,6 +50,7 @@
     "ERR_CLASS_MUST_BE": "Η κλάση πρέπει να είναι %s",
     "ERR_PAID_FUNCTIONALITY": "%s πληρωμένη λειτουργικότητα, θα πρέπει να το αγοράσετε",
     "ERR_TOKEN_DOES_NOT_EXIST": "Το διακριτικό δεν υπάρχει ή έχει λήξει",
+    "ERR_TOKEN_NOT_EXECUTION_CONDITIONS": "The token does not meet the conditions for execution",
     "ERR_NO_TOKEN": "Χωρίς διακριτικό",
     "ERR_INCORRECT_2FA_TOTP_CODE": "Λάθος κωδικός 2FA TOTP",
     "ERR_NO_2FA_TOTP_CODE": "Δεν υπάρχει 2FA κωδικός TOTP",
@@ -57,9 +59,6 @@
     "ERR_FILE_TYPE": "Μη έγκυρος τύπος αρχείου",
     "ERR_REQUIRED_VALUE_MISSING": "The field value is missing or is not supported",
     "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Problems or errors have been detected in this record. Please review the following message and modify the data accordingly.",
-    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration.",
-    "ERR_REGISTER_FILES_PERMISSIONS": "Incorrect permissions on files or directory %s",
-    "ERR_PLEASE_USE_LATIN_CHARACTERS": "Please make sure to use Latin characters only",
-    "ERR_RECREATE_APP_ACCESS": "The system has detected a change in the basic registration data. The add-ons you purchased may not be available. Please contact your provider in case of any issues."
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration."
   }
 }

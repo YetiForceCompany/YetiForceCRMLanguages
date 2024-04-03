@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "通貨",
     "LBL_CURRENCY": "通貨",
     "LBL_DATABASE_INFORMATION": "データベース情報",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "データベースの種類",
     "LBL_DATE_FORMAT": "日付の形式",
     "LBL_DB_NAME": "データベース名",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "YetiForce システムは、インストールされるサーバーの要件を厳密に定義しています。 インストールプロセスの早期段階における要件の検証により、次のステップとそれに続くシステムの使用が問題なく実行されることが保証されます。 \nすべてのサーバー要件は当社のウェブサイトでご利用いただけます。",
     "LBL_STEP4_DESCRIPTION": "データベースへのアクセスデータを入力し、インストールが完了した後にログインする管理者アカウントを作成します。",
     "LBL_STEP5_DESCRIPTION": "前のステップで入力されたデータを確認してください。すべてが正しい場合は、次に進みます。",
-    "LBL_STEP6_DESCRIPTION": "あなたの会社の詳細を入力してください。フォームに記入することは、ライセンスから派生した義務です。\n登録フォームで収集されたデータが第三者に転売されることはありません。\n収集された情報のおかげで、YetiForce の変更範囲をより良く選択し、計画することができ、日々の作業をより良いものにすることができるようになります。",
-    "LBL_STEP7_DESCRIPTION": "インストール中です。しばらくお待ちください。 \nその間、システムに関する最も重要な情報を読むことをお勧めします。",
+    "LBL_STEP6_DESCRIPTION": "インストール中です。しばらくお待ちください。 \nその間、システムに関する最も重要な情報を読むことをお勧めします。",
     "LBL_WELCOME": "ようこそ",
     "LBL_ZLIB_SUPPORT": "Zlib サポート",
     "MSG_DB_PARAMETERS_INVALID": "指定されたデータベースユーザー、パスワード、ホスト名、データベースタイプ、またはポート番号が無効です",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "YetiForce システムの移行へようこそ",
     "LBL_MIGRATION_DESC": "移行を開始する前に、移行しようとしているシステムのファイルとデータベースをバックアップしてください。",
     "LBL_HAVE_BACKUP_DATABASE": "データベースのバックアップコピーがあります",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "ファイルのバックアップコピーがあります",
     "LBL_LOGIN": "ログイン",
     "LBL_PASSWORD": "パスワード",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "インストール",
     "LBL_MY_SERVER_DESC": "YetiForce は手数料なしでどこにでもインストールできます。 CRMシステムに関連する問題が発生した場合は、GitHubリポジトリで無料サポートを見つけるか、YetiForceから直接購入することができます。",
     "LBL_SHOW_MORE": "製品についての詳細情報",
-    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session"
+    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "すべて",

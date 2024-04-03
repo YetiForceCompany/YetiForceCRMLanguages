@@ -187,8 +187,6 @@
     "LBL_CONVERSION_TO_ACCOUNT": "Μετατροπή σε λογαριασμό",
     "LBL_DAV_KEYS": "Κλειδιά DAV",
     "LBL_DAV_KEYS_DESCRIPTION": "Δημιουργία και διαχείριση κλειδιών DAV",
-    "LBL_AUTOLOGIN": "Αυτόματη σύνδεση",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the email module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Γενική διαμόρφωση",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Γενική διαμόρφωση του module Email",
     "LBL_SUPPORT_PROCESSES": "Διαδικασίες υποστήριξης",
@@ -275,7 +273,6 @@
     "LBL_COMPANY_LOGO_IN_SYSTEM": "Το λογότυπο της εταιρείας ορατό στο σύστημα",
     "LBL_COMPANY_LOGO_IN_LOGIN": "Το λογότυπο της εταιρίας εμφανίζεται στον πίνακα σύνδεσης",
     "LBL_ADD_CUSTOM_FIELD": "Προσθήκη πεδίου",
-    "LBL_FIELD_NAME": "Όνομα πεδίου",
     "LBL_HEIGHT_LOGO": "Λογότυπο ύψος",
     "LBL_SECURITY": "Ασφάλεια",
     "LBL_LOG_ACCESS_TO_RECORD": "Καμία πρόσβαση στις εγγραφές",
@@ -299,9 +296,7 @@
     "PLU_SECURITY_2": "Σφάλματα ασφαλείας",
     "LBL_ENCRYPTION": "Κρυπτογράφηση",
     "LBL_YETIFORCE_SHOP": "Κατάστημα",
-    "LBL_YETIFORCE_ISSUES": "Δωρεάν υποστήριξη",
     "LBL_YETIFORCE_DOCUMENTATION": "YetiForce Τεκμηρίωση",
-    "LBL_YETIFORCE_ASSISTANCE": "Υποστήριξη με χρέωση",
     "LBL_PICKLIST_VARIABLES": "Απο λίστα επιλογών",
     "LBL_PICKLIST_VARIABLES_INFO": "Χρησιμοποιώντας αυτήν τη μεταβλητή θα οδηγήσει σε ξεχωριστή αρίθμηση για κάθε τιμή της λίστας επιλογών, και μια σύντομη(short) τιμή θα αντικαταστήσει τη μεταβλητή.",
     "LBL_BUSINESS_HOURS": "Εργάσιμες ώρες",
@@ -314,7 +309,8 @@
     "LBL_REQUIRES_INTERVENTION": "Απαιτεί παρέμβαση",
     "LBL_ACTIVATE_FUNCTIONALITY": "Ενεργοποίηση",
     "LBL_ONLY_TO_FIRST_LIST": "Μόνο το πρώτο στην λίστα",
-    "LBL_SAVE_AND_VERIFY": "Save and verify"
+    "LBL_SAVE_AND_VERIFY": "Save and verify",
+    "LBL_MAIL_REPLY_TO": "Reply-To"
   },
   "js": {
     "JS_AUTHORIZATION_COMPLETE": "Εξοπυσιοδότηση επιτυχημένη",

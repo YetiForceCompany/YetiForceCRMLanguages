@@ -98,7 +98,8 @@
     "LBL_RC_ADDED_RBL_REPORT_IP_WHITE": "Il server del mittente è nella white list, ha creato una richiesta di verifica per l'amministratore",
     "LBL_RC_ADDED_RBL_REPORT_IP_BLACK": "Il server del mittente è nella lista nera, ha creato una richiesta di verifica per l'amministratore",
     "LBL_RC_ERROR_RBL_REPORT": "Si è verificato un errore inviando un rapporto al RBL",
-    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Il messaggio è stato aggiunto"
+    "LBL_RC_MESSAGE_HAS_BEEN_ADDED": "Il messaggio è stato aggiunto",
+    "LBL_SIGNATURES": "Firme"
   },
   "js": {
     "NoFindEmailInRecord": "Il record non ha indirizzo email",

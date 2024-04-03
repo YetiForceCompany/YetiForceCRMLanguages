@@ -30,8 +30,6 @@
     "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage ジオコーダーサイト",
     "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim ジオコーダー",
     "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim ジオコーダーサイト",
-    "LBL_PROVIDER_YETIFORCEGEOCODER": "YetiForce ジオコーダー",
-    "LBL_PROVIDER_INFO_YETIFORCEGEOCODER": "YetiForce ジオコーダーサイト",
     "LBL_SAVE_GLOBAL_SETTINGS": "グローバル設定を保存",
     "LBL_NUMBER_SEARCH_RESULTS": "検索結果の数"
   },

@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Naziv polja",
     "LBL_AUTOMATIC": "Automatsko",
     "LBL_RELATED_RECORDS_LIST": "Lista povezanih zapisa",
+    "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Danas",
     "LBL_DATE_TOMORROW": "Sutra",
     "LBL_DATE_YESTERDAY": "Jučer",
@@ -43,6 +44,7 @@
     "LBL_PRODUCTS_TABLE_NEW": "Poboljšana tablica s naprednim blokom",
     "LBL_PRODUCTS_TABLE_RELATED_MODULE": "Tabela s naprednim blokom za povezane module",
     "LBL_PRODUCTS_TABLE_CORRECTING_BEFORE": "Tabela sa naprednim blokom - prije korekcije",
+    "LBL_PRODUCTS_TABLE_CORRECTING_AFTER": "Table with advanced block - after correction",
     "LBL_PRODUCTS_TABLE_IMAGES": "Tabela sa naprednim blokom - uz fotografiju proizvoda",
     "LBL_PRODUCTS_TABLE_SHORT_VERSION": "Tabela sa naprednim blokom - kratka verzija",
     "LBL_PRODUCTS_TABLE_LONG_TWO_LANG": "Tabela sa naprednim blokom - dvojezična duga verzija",
@@ -73,6 +75,7 @@
     "LBL_DISPLAY_BARCODE": "Barkod",
     "LBL_RECORDS_LIST_DATA_TEMPLATE": "Povezani podaci o zapisima (niz)",
     "LBL_RECORDS_LIST_DATA_FROM_FIELD_TEMPLATE": "Povezani podaci zapisa iz zavisnog polja (polja)",
-    "LBL_CORECTION_AMOUNT_SUMMARY": "Ispravka: ukupan iznos"
+    "LBL_CORECTION_AMOUNT_SUMMARY": "Ispravka: ukupan iznos",
+    "LBL_CURRENCY_RATE_INVENTORY": "Inventory currency rate"
   }
 }

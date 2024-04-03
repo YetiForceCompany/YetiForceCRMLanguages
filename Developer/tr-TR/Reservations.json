@@ -25,9 +25,8 @@
     "LBL_CARS": "Arabalar",
     "PLL_DRAFT": "Taslak",
     "PLL_CANCELLED": "İptal edildi",
-    "LBL_USER_NAME": "User name",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_WORK_DAYS": "İş günleri"
+    "LBL_WORK_DAYS": "İş günleri",
+    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
   },
   "js": {
     "MSG_ERROR_NUMBER": "İzin verilen karakterler: [0-9]",

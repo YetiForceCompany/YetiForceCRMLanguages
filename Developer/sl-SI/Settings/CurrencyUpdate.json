@@ -21,12 +21,12 @@
     "LBL_CURRENCIES_SUPPORTED": "Seznam podprtih valut te banke",
     "LBL_CURRENCIES_UNSUPPORTED": "Seznam nepodprtih valut te banke",
     "LBL_SET_BANK_OK": "Banka uspešno nastavljena kot aktivna.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
     "LBL_SET_BANK_ERROR": "Banke ni bilo mogoče nastaviti kor aktivne.",
     "LBL_INFORMATIONS": "Informacije",
     "LBL_WARNING": "Opozorilo!",
     "NBP": "Narodna Banka Rs",
     "ECB": "Evropska centralna banka",
-    "CBR": "Centralne banke Rusije",
-    "NBR": "National Bank of Romania"
+    "CBR": "Centralne banke Rusije"
   }
 }

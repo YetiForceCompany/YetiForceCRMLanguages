@@ -14,6 +14,8 @@
     "LBL_CURRENCIES": "Валюта",
     "LBL_CURRENCY": "Валюта",
     "LBL_DATABASE_INFORMATION": "Інформація про базу даних",
+    "LBL_MONGO_DATABASE_INFORMATION": "Mongo database information",
+    "ERR_INVALID_MONGO_PARAMETERS": "Invalid MongoDB connection parameters specified",
     "LBL_DATABASE_TYPE": "Тип бази даних",
     "LBL_DATE_FORMAT": "Формат дати",
     "LBL_DB_NAME": "Назва БД",
@@ -65,8 +67,7 @@
     "LBL_STEP3_DESCRIPTION": "Система YetiForce має вимоги до сервера, на якому вона буде встановлена. Перевірка вимог на ранній стадії процес установки гарантує, що всі наступні кроки і подальше використання системи будуть працювати без проблем. \nУсі вимоги до сервера доступні на нашому сайті.",
     "LBL_STEP4_DESCRIPTION": "Введіть дані доступу до бази даних і створіть обліковий запис Адміністратора, під яким ви будете входити після завершення встановлення.",
     "LBL_STEP5_DESCRIPTION": "Перевірте дані, введені на попередньому кроці. Якщо все правильно, рухаємося далі.",
-    "LBL_STEP6_DESCRIPTION": "Введіть реквізити вашої компанії. Заповнити форму-це зобов'язання, що випливають з ліцензії. \nДані які збираються через реєстраційну форму, ніколи не буде передано третім особам. \nЗавдяки зібраній інформації, ми зможемо краще вибирати і планувати обсяг змін в YetiForce, так щоб наша система допомагала в щоденних завданнях якнайкраще.",
-    "LBL_STEP7_DESCRIPTION": "Установка в процесі, будь ласка, будьте терплячими. \nЗа цей час, ми рекомендуємо вам прочитати найбільш важливу інформацію про нашу систему:",
+    "LBL_STEP6_DESCRIPTION": "Установка в процесі, будь ласка, будьте терплячими. \nЗа цей час, ми рекомендуємо вам прочитати найбільш важливу інформацію про нашу систему:",
     "LBL_WELCOME": "Вітаємо",
     "LBL_ZLIB_SUPPORT": "Підтримка Zlib",
     "MSG_DB_PARAMETERS_INVALID": "Зазначений користувач бази даних, пароль, ім'я хоста, тип бази даних, або порт недійсний",
@@ -87,6 +88,8 @@
     "LBL_MIGRATION_HEADER": "Ласкаво просимо до системи міграції YetiForce",
     "LBL_MIGRATION_DESC": "Перед початком міграції, будь ласка зробіть резервне копіювання файлів і баз даних системи, яку ви збираєтеся перенести.",
     "LBL_HAVE_BACKUP_DATABASE": "Я маю резервну копію бази даних",
+    "LBL_CONFIGURE_MONGODB": "Configure MongoDB",
+    "LBL_CONFIGURE_MONGODB_DESCRIPTION": "This step is not required. \r\nSpecifying the MongoDB configuration will cause some system modules to use an additional NoSQL database.\nFilling in or not the following configuration does not affect the amount of available functionality in the system but, may improve performance for large datasets",
     "LBL_HAVE_BACKUP_FILES": "Я маю резервну копію файлів",
     "LBL_LOGIN": "Логін",
     "LBL_PASSWORD": "Пароль",
@@ -125,7 +128,9 @@
     "LBL_INSTALL_YOURSELF": "Встановити",
     "LBL_MY_SERVER_DESC": "Ви можете встановити YetiForce в будь-якому місці без будь-яких платежів. Якщо у вас коли-небудь виникають проблеми, пов’язані з CRM-системою, ви можете знайти безкоштовну підтримку в нашому репозиторії на GitHub або придбати підтримку безпосередньо від YetiForce.",
     "LBL_SHOW_MORE": "Детальніше про продукт",
-    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session"
+    "LBL_NO_NO_DATA_IN_SESSION": "Error generating configuration files, no data in the session",
+    "LBL_BUSINESS_PROFILE": "Specify your business profile",
+    "LBL_STEP_MODULE_PACKAGES_DESCRIPTION": "By specifying the profile of your company you help us tailor the application to your individual needs. Select one or more profiles to enable useful features and modules. You will be able to manage them later in the application settings."
   },
   "js": {
     "JS_ALL": "Всі",
