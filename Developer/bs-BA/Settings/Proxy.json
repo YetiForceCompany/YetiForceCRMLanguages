@@ -9,7 +9,7 @@
     "LBL_PROXY_PORT": "Port",
     "LBL_PROXY_LOGIN": "Prijava",
     "LBL_PROXY_PASSWORD": "Lozinka",
-    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Integration with Magento - Magento server, OpenStreetMap server, servers indicated by the user in the configuration, \n - Communication with the update server - Github server, \n - Communication with the registration server - Yetiforce server, OpenStreetMap server and servers indicated by the user in the configuration, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB), \n - Installation and update of libraries - Github server"
+    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Integration with Magento - Magento server, \n - Coordinate search engine - servers indicated by the user in the configuration, \n - Route search - servers indicated by the user in the configuration, \n - Communication with the update/registration server - Github server, Yetiforce server, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB), \n - Installation and update of libraries - Github server"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Podaci o konfiguraciji su sačuvani"

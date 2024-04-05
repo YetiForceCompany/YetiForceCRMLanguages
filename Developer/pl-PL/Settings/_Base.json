@@ -201,7 +201,7 @@
     "LBL_COLORS_DESCRIPTION": "Zarządzaj kolorami",
     "LBL_MENU_BUILDER": "Menu",
     "LBL_MENU_BUILDER_DESCRIPTION": "Dostosuj menu określając, które moduły mają być dostępne na pasku głównym a które mają być niewidoczne",
-    "LBL_AUTHENTICATION": "Authentication",
+    "LBL_AUTHENTICATION": "Uwierzytelnianie",
     "LBL_AUTHENTICATION_DESCRIPTION": " ",
     "LBL_BACKUP_DESCRIPTION": "Tworzy kopie zapasową plików.",
     "LBL_SCHEDULER_DESCRIPTION": "Zarządzaj harmonogramem",

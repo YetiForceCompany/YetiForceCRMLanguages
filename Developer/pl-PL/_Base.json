@@ -640,7 +640,7 @@
     "Website: ": "WWW: ",
     "Word of mouth": "Z polecenia",
     "SMSNotifier": "Wiadomości SMS",
-    "UserAuth": "Authorization",
+    "UserAuth": "Autoryzacja",
     "Google": "Synchronizacja z Google",
     "Google Contacts": "Kontakty Google",
     "Dashboard": "Strona główna",
@@ -1398,7 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Sklep YetiForce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "Użytkownik aktualnie niezalogowany",
     "LBL_CREATEDMAIL": "Stwórz e-maila",
-    "LBL_BINDMAIL": "Bind email message",
+    "LBL_BINDMAIL": "Powiąż wiadomość e-mail",
     "LBL_LINKBYFIELDS": "Tworzenie linków do e-maila",
     "LBL_SHOW_FULL_NAME": "Pokaż nazwę filtra z nazwą modułu",
     "LBL_FIELD_HREF": "Kolumna linku",
@@ -1542,7 +1542,7 @@
     "LBL_FILTER_EMPTY_VALUE": "Tylko puste wartości",
     "LBL_FIELD_NAME": "Nazwa pola",
     "LBL_VALUE_OF_FIELDS": "Wartość z pola",
-    "LBL_RECORD_ID": "Record id"
+    "LBL_RECORD_ID": "ID rekordu"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

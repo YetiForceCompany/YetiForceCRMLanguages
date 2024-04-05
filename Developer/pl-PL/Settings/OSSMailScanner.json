@@ -30,8 +30,8 @@
     "FL_LAST_LOGIN": "Ostatnie logowanie",
     "FL_LOGS": "Logi",
     "PLL_INACTIVE": "Nieaktywny",
-    "PLL_ACTIVE": "Active",
-    "PLL_LOCKED": "Lock (auto)"
+    "PLL_ACTIVE": "Aktywny",
+    "PLL_LOCKED": "Zablokuj (auto)"
   },
   "js": {
     "start_cron": "Uruchomiono crona",

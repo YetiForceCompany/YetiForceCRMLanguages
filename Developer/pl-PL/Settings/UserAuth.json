@@ -18,7 +18,7 @@
     "LBL_LDAP_PORT": "Port",
     "LBL_LDAP_SERVER": "Adres serwera",
     "LBL_LDAP_DOMAIN": "Domena (automatycznie dodawana do loginu)",
-    "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
+    "LBL_LDAP_RECOMMENDED_INFO": "Nie zalecamy wybierania użytkowników z uprawnieniami administratora do uwierzytelniania LDAP. W przypadku wystąpienia problemów z uwierzytelnieniem musi istnieć użytkownik, który może się zalogować bez integracji LDAP.",
     "LBL_AZURE_INFO": "Aby włączyć SSO, musisz ustawić następujący URI przekierowania w portalu Azure: ",
     "LBL_NO_CREATION": "Tworzenie użytkownika wyłączone",
     "FL_AZURE_BASE_USER": "Użytkownik podstawowy",

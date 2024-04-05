@@ -3,7 +3,7 @@
     "MailServers": "Serwery poczty",
     "LBL_MAIL_SERVERS": "Serwery poczty",
     "FL_SUBJECT": "Temat",
-    "FL_AUTH_METHOD": "Authorization method",
+    "FL_AUTH_METHOD": "Metoda autoryzacji",
     "FL_ACTIVE": "Aktywny",
     "FL_VISIBLE": "Dostępny",
     "FL_VALIDATE_CERT": "Potwierdź certyfikat",
