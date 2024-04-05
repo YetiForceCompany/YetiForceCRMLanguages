@@ -26,6 +26,7 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "НДС",
     "LBL_SALE_DATE": "Дата продажи",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Место и время",
     "LBL_REFUND_AMOUNT": "Refund amount",
     "LBL_SURCHARGE_AMOUNT": "Surcharge amount"

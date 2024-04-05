@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Cambiar la contraseña de acceso",
     "LBL_CHANGE": "Cambiar",
     "LBL_USER_PROFILE": "Perfil de usuario",
-    "MEN_GDPR": "RGPD"
+    "MEN_GDPR": "RGPD",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

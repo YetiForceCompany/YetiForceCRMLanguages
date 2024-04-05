@@ -59,6 +59,11 @@
     "ERR_FILE_TYPE": "Tipo di file non valido",
     "ERR_REQUIRED_VALUE_MISSING": "Il valore del campo è mancante o non supportato",
     "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Sono stati rilevati dei problemi o degli errori in questo registro. Ti preghiamo di revisionare il seguente messaggio e di modificare i dati di conseguenza.",
-    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "L'errore scomparirà soltanto dopo che i meccanismi appropriati sono attivati, dopo aver effettuato la correzione. Ciò potrebbe richiedere svariati minuti a seconda della tua configurazione."
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "L'errore scomparirà soltanto dopo che i meccanismi appropriati sono attivati, dopo aver effettuato la correzione. Ciò potrebbe richiedere svariati minuti a seconda della tua configurazione.",
+    "ERR_NO_FIELD_MAPPING": "No field mapping",
+    "ERR_IMAP_CONNECTION": "There was a problem accessing your e-mail account. Verify the correctness of the e-mail account settings.",
+    "ERR_REGISTER_FILES_PERMISSIONS": "Incorrect permissions on files or directory %s",
+    "ERR_PLEASE_USE_LATIN_CHARACTERS": "Please make sure to use Latin characters only",
+    "ERR_RECREATE_APP_ACCESS": "The system has detected a change in the basic registration data. The add-ons you purchased may not be available. Please contact your provider in case of any issues."
   }
 }

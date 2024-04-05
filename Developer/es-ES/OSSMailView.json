@@ -73,7 +73,6 @@
     "Current month": "Mes actual",
     "Previous month": "Mes previo",
     "LBL_ORGINAL_MAIL_CONTENT": "Contenido del correo original",
-    "BTN_RESET_RELATED_MAILS": "Restablecer correos electrónicos relacionados",
     "LBL_SET_RELOAD_RELATIONS": "Marcar para recargar las relaciones"
   },
   "js": {

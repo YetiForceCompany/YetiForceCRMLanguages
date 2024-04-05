@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Het inlogwachtwoord wijzigen",
     "LBL_CHANGE": "Wijzigen",
     "LBL_USER_PROFILE": "Gebruikersprofiel",
-    "MEN_GDPR": "AVG"
+    "MEN_GDPR": "AVG",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

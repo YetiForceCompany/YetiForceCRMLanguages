@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Thay đổi mật khẩu đăng nhập",
     "LBL_CHANGE": "Thay đổi",
     "LBL_USER_PROFILE": "Thông tin thành viên",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

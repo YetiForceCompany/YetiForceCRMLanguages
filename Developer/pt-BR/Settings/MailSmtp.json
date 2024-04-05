@@ -44,7 +44,19 @@
     "LBL_NO_EMAIL_TEMPLATE": "Não há nenhum modelo de e-mail padrão",
     "BL_BASE": "Configuração básica",
     "FL_MAIL_ACCOUNT": "Conta de email",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP da conta de e-mail"
+    "LBL_CONNECTION_VERIFIED_SUCCESSFULLY": "Connection verified successfully.",
+    "LBL_SAVE_BEFORE_VERIFYING_CONNECTION": "You must save before verifying your connection.",
+    "LBL_RUN_TEST": "Run test",
+    "LBL_LEAVE": "Leave",
+    "BL_ACCESS_DATA": "Access data",
+    "FL_AUTH_METHOD": "Authorization method",
+    "LBL_BASIC_AUTH": "Basic",
+    "LBL_OAUTH2": "OAuth2",
+    "FL_OAUTH_PROVIDER": "OAuth provider",
+    "FL_CLIENT_ID": "Client ID",
+    "FL_CLIENT_SECRET": "Client secret",
+    "FL_REDIRECT_URI_ID": "Redirect URI",
+    "LBL_REDIRECT_URI_ID_DESC": "Webservices for OAuth are listed here.\n You must first add the key to the appropriate application in a separate panel. This will generate a URI that will be listed in this field."
   },
   "js": {
     "JS_SAVE_SUCCESS": "Alterações salvas"

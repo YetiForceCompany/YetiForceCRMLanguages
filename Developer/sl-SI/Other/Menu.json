@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Spremenite geslo za prijavo",
     "LBL_CHANGE": "Spremeni",
     "LBL_USER_PROFILE": "Uporabniški profil",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

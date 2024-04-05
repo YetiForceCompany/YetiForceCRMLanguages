@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "فروشگاه Yetiforce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "کاربران در حال حاضر وارد نشده‌اند",
     "LBL_CREATEDMAIL": "ایجاد یک پیام ایمیل",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "ایجاد لینک به ایمیل پیام",
     "LBL_SHOW_FULL_NAME": "Show filter name with module name",
     "LBL_FIELD_HREF": "ستون لینک",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "تایید",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "در حال بارگذاری میزان رکوردهای در حال انجام است. زمان تکمیل بستگی به تعداد کل رکوردها دارد.",
     "JS_WIDGET_DELETED": "ویجت حذف شد",
     "JS_EMAIL_RESTRICTED_DOMAINS": "دامنه محدود است. لطفاً مورد دیگری را وارد کنید",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "آیا مطمئن هستید که می خواهید بار دیگر نامه های مرتبط را تنظیم مجدد کنید؟",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "آیا مطمئن هستید که می خواهید به روزرسانی های موجود در سوابق انتخاب شده ، علامت گذاری کنید؟",
     "JS_LBL_REVIEW_CHANGES": "علامتگذاری به‌روزرسانی‌ها به عنوان بازبینی شده",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "واحد پول پایه است و غیرفعال است",

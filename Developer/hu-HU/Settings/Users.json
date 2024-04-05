@@ -4,8 +4,6 @@
     "USER_MAIL_EXIST": "Már tartozik ehhez az email címhez felhasználó",
     "LBL_PRIORITY": "Prioritás",
     "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
-    "LBL_AUTHORIZATION": "LDAP and SSO",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Authorization with LDAP",
     "LBL_LDAP_SERVER": "Szerver címe",

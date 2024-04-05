@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Змінити логін та пароль",
     "LBL_CHANGE": "Змінити",
     "LBL_USER_PROFILE": "Профіль користувача",
-    "MEN_GDPR": "Загальний регламент по захисту даних"
+    "MEN_GDPR": "Загальний регламент по захисту даних",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

@@ -26,6 +26,7 @@
     "LBL_EMAIL": "E-mail",
     "LBL_VATID": "ΑΦΜ",
     "LBL_SALE_DATE": "Ημερομηνία Πώλησης",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Τόπος, ημερομηνία",
     "LBL_REFUND_AMOUNT": "Ποσό επιστροφής",
     "LBL_SURCHARGE_AMOUNT": "Ποσό πρόσθετης επιβάρυνσης"

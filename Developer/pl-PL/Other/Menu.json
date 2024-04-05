@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Zmiana hasła logowania",
     "LBL_CHANGE": "Zmień",
     "LBL_USER_PROFILE": "Profil użytkownika",
-    "MEN_GDPR": "RODO"
+    "MEN_GDPR": "RODO",
+    "MEN_REPORT_TEMPLATES": "Szablony raportów"
   }
 }

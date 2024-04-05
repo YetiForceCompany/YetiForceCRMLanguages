@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce المحل",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "المستخدم حاليا تسجيل",
     "LBL_CREATEDMAIL": "Create email message",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SHOW_FULL_NAME": "Show filter name with module name",
     "LBL_FIELD_HREF": "Link column",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "إعتماد",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "تحميل كمية من السجلات في التقدم. وقت الانتهاء يعتمد على مجموع عدد السجلات.",
     "JS_WIDGET_DELETED": "Widget %1$s deleted.",
     "JS_EMAIL_RESTRICTED_DOMAINS": "المجال محدودة. الرجاء إدخال كلمة مرور مختلفة.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "هل أنت متأكد من أنك تريد إعادة تعيين ذات الصلة الرسائل مرة أخرى ؟",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "هل أنت متأكد من أنك تريد وضع علامة التحديثات كما استعرض في اختيار السجلات ؟",
     "JS_LBL_REVIEW_CHANGES": "مارك التحديثات استعراض",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "لا يمكن تعطيل للعملة الأساسية.",

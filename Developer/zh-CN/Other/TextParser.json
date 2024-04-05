@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "字段名称",
     "LBL_AUTOMATIC": "自动",
     "LBL_RELATED_RECORDS_LIST": "相关记录的列表",
+    "LBL_GROSS_AMOUNT_IN_WORDS": "Gross amount in words",
     "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "今天",
     "LBL_DATE_TOMORROW": "明天",

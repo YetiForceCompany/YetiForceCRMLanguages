@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Магазин Yetiforce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "користувач наразі не ввійшов у систему",
     "LBL_CREATEDMAIL": "Створити поштове повідомлення",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Створення посилань на повідомлення електронної пошти",
     "LBL_SHOW_FULL_NAME": "Показувати назву фільтру з назвою модуля",
     "LBL_FIELD_HREF": "Колонка посилання",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Схвалити",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Завантаження записів в прогресі. Час завершення залежить від загальної кількості записів.",
     "JS_WIDGET_DELETED": "Віджет видалено",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Домен заборонений. Будь ласка, введіть інший.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Ви впевнені, що хочете скинути, пов'язану пошту ще раз?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Ви дійсно бажаєте позначити зміни як переглянуті в вибраних записах?",
     "JS_LBL_REVIEW_CHANGES": "Позначити зміни як прочитані",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "є базовою валютою, і не можна вимкнути",

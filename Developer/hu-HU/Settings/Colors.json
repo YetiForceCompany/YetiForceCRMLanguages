@@ -24,6 +24,7 @@
     "LBL_ITEM": "Érték",
     "LBL_MODULE": "Modul",
     "LBL_GROUP_NAME": "Csoport",
-    "LBL_FIELDS_COLORS": "Mező színek"
+    "LBL_FIELDS_COLORS": "Mező színek",
+    "Colors": "Színek"
   }
 }

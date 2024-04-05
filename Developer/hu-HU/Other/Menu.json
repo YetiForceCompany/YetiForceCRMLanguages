@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Bejelentkezési jelszó megváltoztatása",
     "LBL_CHANGE": "Változtat",
     "LBL_USER_PROFILE": "Felhasználói profil",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

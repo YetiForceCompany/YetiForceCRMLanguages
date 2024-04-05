@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "χρήστης δεν είναι συνδεδεμένος αυτήν τη στιγμή",
     "LBL_CREATEDMAIL": "Δημιουργία μηνύματος ηλεκτρονικού ταχυδρομείου",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Δημιουργία συνδέσμων στο μήνυμα ηλεκτρονικού ταχυδρομείου",
     "LBL_SHOW_FULL_NAME": "Εμφάνιση ονόματος φίλτρου με όνομα module",
     "LBL_FIELD_HREF": "Στήλη συνδέσμου",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Έγκριση",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Φόρτωση του αριθμού εγγραφών βρίσκεται σε εξέλιξη. Ο χρόνος ολοκλήρωσης εξαρτάται από τον συνολικό αριθμό εγγραφών.",
     "JS_WIDGET_DELETED": "Widget διαγράφηκε",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domain restricted. Please enter a different one.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να επαναφέρετε τα σχετικά mails ξανά;",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να επισημάνετε τις ενημερώσεις ως αναγνωσμένες στις επιλεγμένες εγγραφές;",
     "JS_LBL_REVIEW_CHANGES": "Σήμανση αλλαγών ως αναγνωσμένες",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "είναι το βασικό νόμισμα και δεν μπορεί να απενεργοποιηθεί",

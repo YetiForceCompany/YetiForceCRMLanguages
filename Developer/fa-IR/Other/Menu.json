@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "تغییر رمز ورود",
     "LBL_CHANGE": "تغییر",
     "LBL_USER_PROFILE": "مشخصات کاربر",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "ログインパスワードの変更",
     "LBL_CHANGE": "変更",
     "LBL_USER_PROFILE": "ユーザープロファイル",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

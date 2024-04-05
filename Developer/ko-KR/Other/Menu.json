@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "로그인 패스워드 수정",
     "LBL_CHANGE": "변경",
     "LBL_USER_PROFILE": "사용자 정보",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

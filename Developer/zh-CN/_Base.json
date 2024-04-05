@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce 商店",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "用户当前未记录",
     "LBL_CREATEDMAIL": "创建电子邮件",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "正在创建邮件链接",
     "LBL_SHOW_FULL_NAME": "显示具有模块名称的筛选器名称",
     "LBL_FIELD_HREF": "链接列",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "同意",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "正在载入记录的数量。完成时间取决于记录的总数.",
     "JS_WIDGET_DELETED": "布局组件被删除",
     "JS_EMAIL_RESTRICTED_DOMAINS": "电子邮件域名被禁用。请输入另外一个.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "你确定你想要再次重置相关的邮件？?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "您确定要在所选记录中标记所查看的更新吗？",
     "JS_LBL_REVIEW_CHANGES": "将更新标记为已审核",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "是基础货币, 不能禁用",

@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Passwort ändern",
     "LBL_CHANGE": "Ändern",
     "LBL_USER_PROFILE": "Benutzerprofil",
-    "MEN_GDPR": "DSGVO"
+    "MEN_GDPR": "DSGVO",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

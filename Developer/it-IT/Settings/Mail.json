@@ -1,5 +1,7 @@
 {
   "php": {
+    "LBL_AUTOLOGIN": "Mail – Auto Login",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Email - Configurazione",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Gestisce le opzioni generali della webmail",
     "LBL_RC_USER": "Indirizzo email utente",

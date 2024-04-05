@@ -26,6 +26,7 @@
     "LBL_EMAIL": "E-mail",
     "LBL_VATID": "Ič dph",
     "LBL_SALE_DATE": "Dátum predaja",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Miesto, dátum",
     "LBL_REFUND_AMOUNT": "Vrátená suma",
     "LBL_SURCHARGE_AMOUNT": "Výška príplatku"

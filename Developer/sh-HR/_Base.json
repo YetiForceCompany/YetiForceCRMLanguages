@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce prodavnica",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "korisnik trenutno nije prijavljen",
     "LBL_CREATEDMAIL": "Kreirajte email poruku",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Stvaranje veza do emaila",
     "LBL_SHOW_FULL_NAME": "Show filter name with module name",
     "LBL_FIELD_HREF": "Link column",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Odobriti",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Učitavanje količine zapisa u toku. Vrijeme završetka ovisi o ukupnom broju zapisa.",
     "JS_WIDGET_DELETED": "Widget obrisan",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domena je ograničena. Unesite drugu.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Jeste li sigurni da želite ponovo resetirati povezane mailove?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Jeste li sigurni da želite označiti ažuriranja kao pregledana u odabranim zapisima?",
     "JS_LBL_REVIEW_CHANGES": "Označi ažuriranja kao pregledane",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "je osnovna valuta i ne može se onemogućiti",

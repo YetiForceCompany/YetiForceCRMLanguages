@@ -4,8 +4,6 @@
     "USER_MAIL_EXIST": "Užívateľ s týmto emailom už existuje",
     "LBL_PRIORITY": "Priorita",
     "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
-    "LBL_AUTHORIZATION": "LDAP and SSO",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Autorizácia s LDAP",
     "LBL_LDAP_SERVER": "Adresa servera",

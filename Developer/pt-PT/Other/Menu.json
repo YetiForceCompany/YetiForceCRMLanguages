@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Alterar a palavra-passe de início de sessão",
     "LBL_CHANGE": "Alterar",
     "LBL_USER_PROFILE": "Perfil do utilizador",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

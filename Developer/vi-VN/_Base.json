@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce cửa hàng",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "dùng hiện đang không đăng nhập",
     "LBL_CREATEDMAIL": "Tạo thông điệp email",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Tạo liên kết để soạn thông điệp email",
     "LBL_SHOW_FULL_NAME": "Hiển thị tên bộ lọc với tên mô-đun",
     "LBL_FIELD_HREF": "Liên kết cột",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Phê duyệt",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Đang tải tổng số biểu ghi trong tiến trình. Thời gian hoàn thành phụ thuộc vào tổng số biểu ghi.",
     "JS_WIDGET_DELETED": "Tiện ích đã bị xoá",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Tên miền bị cấm. Xin hãy điền vào 1 tên miền khác.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Bạn có muốn khởi tạo email liên quan một lần nữa?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Bạn có muốn đánh dấu cập nhật như đã xem xét trong các biểu ghi đã chọn?",
     "JS_LBL_REVIEW_CHANGES": "Đánh dấu cập nhật như đã xem xét",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "là tiền tệ cơ bản và không thể bị tắt",

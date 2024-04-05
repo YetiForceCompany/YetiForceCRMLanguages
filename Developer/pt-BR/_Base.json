@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce shop",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "user currently not logged",
     "LBL_CREATEDMAIL": "Create email message",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Creating links to email message",
     "LBL_SHOW_FULL_NAME": "Show filter name with module name",
     "LBL_FIELD_HREF": "Link column",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Adicionar registros em lote",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Aprovar",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Carregando a quantidad e registros em andamento. O tempo de conclusao depende do numero total de registros.",
     "JS_WIDGET_DELETED": "Widget apagado",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domínio restrito. Por favor, digite um outro diferente.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Tem certeza que deseja redefinir os e-mails relacionados novamente?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Are you sure you want to mark updates as reviewed in the selected records?",
     "JS_LBL_REVIEW_CHANGES": "Mark updates as reviewed",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": " is the base currency and cannot be disabled",

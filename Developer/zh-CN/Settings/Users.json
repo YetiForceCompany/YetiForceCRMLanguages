@@ -4,8 +4,6 @@
     "USER_MAIL_EXIST": "此邮件地址已被其他用户使用",
     "LBL_PRIORITY": "优先级",
     "LBL_LDAP_RECOMMENDED_INFO": "我们不推荐选择具有 LDAP 授权的管理员权限的用户。为了避免授权问题，必须是每月LDAP授权的用户才能登陆.",
-    "LBL_AUTHORIZATION": "LDAP and SSO",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "轻量目录访问协议",
     "LBL_ACTIVE_LDAP_AUTH": "使用轻量目录访问协议授权",
     "LBL_LDAP_SERVER": "服务器地址",

@@ -44,7 +44,19 @@
     "LBL_NO_EMAIL_TEMPLATE": "Brak domyślnego szablonu e-mail",
     "BL_BASE": "Konfiguracja podstawowa",
     "FL_MAIL_ACCOUNT": "Konto pocztowe",
-    "LBL_SMTP_MAIL_ACCOUNT": "SMTP z konta pocztowego"
+    "LBL_CONNECTION_VERIFIED_SUCCESSFULLY": "Połączenie zostało pomyślnie zweryfikowane.",
+    "LBL_SAVE_BEFORE_VERIFYING_CONNECTION": "Musisz zapisać przed weryfikacją połączenia.",
+    "LBL_RUN_TEST": "Wykonaj test",
+    "LBL_LEAVE": "Wyloguj",
+    "BL_ACCESS_DATA": "Dane dostępowe",
+    "FL_AUTH_METHOD": "Metoda autoryzacji",
+    "LBL_BASIC_AUTH": "Basic",
+    "LBL_OAUTH2": "OAuth2",
+    "FL_OAUTH_PROVIDER": "Dostawca uwierzytelniania OAuth",
+    "FL_CLIENT_ID": "Client ID",
+    "FL_CLIENT_SECRET": "Klucz tajny klienta",
+    "FL_REDIRECT_URI_ID": "Przekieruj URI",
+    "LBL_REDIRECT_URI_ID_DESC": "Tutaj wymieniono webservices dla OAuth.\n Najpierw dodaj klucz do odpowiedniej aplikacji w oddzielnym panelu — wygeneruje to URI, który będzie wyświetlany w tym polu."
   },
   "js": {
     "JS_SAVE_SUCCESS": "Zapisano zmiany"

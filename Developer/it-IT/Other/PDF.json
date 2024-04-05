@@ -26,6 +26,7 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "Partita IVA",
     "LBL_SALE_DATE": "Data vendita",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Luogo, data",
     "LBL_REFUND_AMOUNT": "Importo del rimborso",
     "LBL_SURCHARGE_AMOUNT": "Importo del supplemento"

@@ -1,5 +1,7 @@
 {
   "php": {
+    "LBL_AUTOLOGIN": "Mail – Auto Login",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Nastavitve e-pošte",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Splošne nastavitve modula za pošto",
     "LBL_RC_USER": "Uporabniški e-poštni račun",

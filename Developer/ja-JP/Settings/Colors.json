@@ -24,6 +24,7 @@
     "LBL_ITEM": "値",
     "LBL_MODULE": "モジュール",
     "LBL_GROUP_NAME": "グループ",
-    "LBL_FIELDS_COLORS": "フィールドの色"
+    "LBL_FIELDS_COLORS": "フィールドの色",
+    "Colors": "色"
   }
 }

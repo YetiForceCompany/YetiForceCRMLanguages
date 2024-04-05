@@ -1,7 +1,7 @@
 {
   "php": {
-    "ReportTemplate": "Report Templates",
-    "SINGLE_ReportTemplate": "Report Template",
+    "ReportTemplate": "Reporting",
+    "SINGLE_ReportTemplate": "Reporting",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "LBL_NAME": "Name",
@@ -45,9 +45,22 @@
     "LBL_SELECT_REFERENCES_AND_RELATIONS": "Select references and relations",
     "LBL_RELATED_MODULES_WITH": "Related modules with",
     "LBL_ADVANCED_MODULES_RELATED_WITH": "Related advanced modules with",
-    "LBL_REFERENCE_MODULES_WITH": "Reference modules"
+    "LBL_REFERENCE_MODULES_WITH": "Reference modules",
+    "LBL_GROUPS": "Group by",
+    "LBL_ADD_RECORD": "Create report",
+    "LBL_SORT_NONE": "None sort",
+    "LBL_SORT_ASCENDING": "Sort ascending",
+    "LBL_SORT_DESCENDING": "Sort descending",
+    "LBL_REMOVE_COLUMN": "Remove column",
+    "LBL_EDIT_FORMULA": "Edit formula",
+    "LBL_SELECT_SORT_ORDER": "Select sort order"
   },
   "js": {
-    "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Select at leas one report column"
+    "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Select at least one column for report",
+    "JS_FORMULA": "Formula",
+    "sum": "Sum of ",
+    "diff": "Difference of",
+    "quo": "Quotient of",
+    "prod": "Product of"
   }
 }

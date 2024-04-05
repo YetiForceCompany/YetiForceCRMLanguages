@@ -73,7 +73,6 @@
     "Current month": "今月",
     "Previous month": "先月",
     "LBL_ORGINAL_MAIL_CONTENT": "元のメール内容",
-    "BTN_RESET_RELATED_MAILS": "関連するメールをリセット",
     "LBL_SET_RELOAD_RELATIONS": "リレーションの再読み込みをマークしました"
   },
   "js": {

@@ -24,6 +24,7 @@
     "LBL_ITEM": "Vrijednost",
     "LBL_MODULE": "Modul",
     "LBL_GROUP_NAME": "Grupa",
-    "LBL_FIELDS_COLORS": "Boje polja"
+    "LBL_FIELDS_COLORS": "Boje polja",
+    "Colors": "Boje"
   }
 }

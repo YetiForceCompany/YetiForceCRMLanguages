@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "필드항목명",
     "LBL_AUTOMATIC": "자동",
     "LBL_RELATED_RECORDS_LIST": "관련 레코드 목록",
+    "LBL_GROSS_AMOUNT_IN_WORDS": "Gross amount in words",
     "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "오늘",
     "LBL_DATE_TOMORROW": "내일",

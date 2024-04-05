@@ -26,6 +26,7 @@
     "LBL_EMAIL": "Email",
     "LBL_VATID": "PDV broj",
     "LBL_SALE_DATE": "Datum prodaje",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Mjesto, datum",
     "LBL_REFUND_AMOUNT": "Iznos povrata",
     "LBL_SURCHARGE_AMOUNT": "Iznos doplate"

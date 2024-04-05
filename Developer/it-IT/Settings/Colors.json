@@ -24,6 +24,7 @@
     "LBL_ITEM": "Valore",
     "LBL_MODULE": "Modulo",
     "LBL_GROUP_NAME": "Gruppo",
-    "LBL_FIELDS_COLORS": "Colori campo"
+    "LBL_FIELDS_COLORS": "Colori campo",
+    "Colors": "Colori"
   }
 }

@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Negozio di Yetiforce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "utente attualmente non loggato",
     "LBL_CREATEDMAIL": "Crea messaggio email",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Creazione di link al messaggio email",
     "LBL_SHOW_FULL_NAME": "Mostra nome filtro con nome modulo",
     "LBL_FIELD_HREF": "Colonna link",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Aggiunta registri in massa",
     "LBL_FILTER_EMPTY_VALUE": "Solo valori vuoti",
     "LBL_FIELD_NAME": "Nome del campo",
-    "LBL_VALUE_OF_FIELDS": "Valore dal campo"
+    "LBL_VALUE_OF_FIELDS": "Valore dal campo",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Approva",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Caricamento dei record in corso. Il tempo di completamento dipende dal numero totale di record.",
     "JS_WIDGET_DELETED": "Widget eliminato",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Dominio non concesso. Inserisci un altro dominio.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Sei sicuro di voler ripristinare nuovamente le email relazionate?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Sei sicuro di voler impostare le modifiche come visionate?",
     "JS_LBL_REVIEW_CHANGES": "Segna i record come visionati",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "La valuta di base non può essere disabilitata",

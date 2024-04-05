@@ -4,8 +4,6 @@
     "USER_MAIL_EXIST": "このメールアドレスのユーザーはすでに登録済みです",
     "LBL_PRIORITY": "優先度",
     "LBL_LDAP_RECOMMENDED_INFO": "LDAP認証のために管理者権限を持つユーザーを選択することはお勧めしません。 認証の問題が発生した場合は、LDAP統合なしでログインできるユーザーが必要です。",
-    "LBL_AUTHORIZATION": "LDAP and SSO",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "LDAP による認証",
     "LBL_LDAP_SERVER": "サーバーアドレス",

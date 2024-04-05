@@ -26,6 +26,7 @@
     "LBL_EMAIL": "Thư điện tử",
     "LBL_VATID": "Mã VAT",
     "LBL_SALE_DATE": "Ngày bán hàng",
+    "LBL_PAYMENT_METHOD": "Payment method",
     "LBL_PLACE_DATE": "Nơi, ngày",
     "LBL_REFUND_AMOUNT": "Refund amount",
     "LBL_SURCHARGE_AMOUNT": "Surcharge amount"

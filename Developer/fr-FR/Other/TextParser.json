@@ -29,6 +29,7 @@
     "LBL_COPY_LABEL": "Nom du champ",
     "LBL_AUTOMATIC": "Automatique",
     "LBL_RELATED_RECORDS_LIST": "Liste des enregistrements connexes",
+    "LBL_GROSS_AMOUNT_IN_WORDS": "Gross amount in words",
     "LBL_LINK_LIST": "Action list",
     "LBL_DATE_TODAY": "Aujourd'hui",
     "LBL_DATE_TOMORROW": "Demain",

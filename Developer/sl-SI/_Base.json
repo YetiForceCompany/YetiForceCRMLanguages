@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Yetiforce trgovina",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "uporabnik trenutno ni prijavljen",
     "LBL_CREATEDMAIL": "Ustvarite e-poštno sporočilo",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Ustvarjanje povezav do e-poštnih sporočil",
     "LBL_SHOW_FULL_NAME": "Show filter name with module name",
     "LBL_FIELD_HREF": "Link column",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Batch adding records",
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
-    "LBL_VALUE_OF_FIELDS": "Value from field"
+    "LBL_VALUE_OF_FIELDS": "Value from field",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Odobri",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Poizvedba količine zapisov je teku. Čas zaključka je odvisen od skupnega števila zapisov.",
     "JS_WIDGET_DELETED": "Pripomoček je izbrisan",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domena je zaprta. Vnesite drugo.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Ali ste prepričani, da želite povezana e-sporočila še enkrat ponastaviti?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Ali ste prepričani, da želite označiti posodobitve kot pregledane v izbranih zapisih?",
     "JS_LBL_REVIEW_CHANGES": "Označi posodobitve kot pregledane",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "je osnovna valuta in ni mogoče onemogočiti",

@@ -4,8 +4,6 @@
     "USER_MAIL_EXIST": "L'utente con questo indirizzo e-mail esiste",
     "LBL_PRIORITY": "Priorità",
     "LBL_LDAP_RECOMMENDED_INFO": "Sconsigliamo di selezionare gli utenti amministratore per l'autorizzazione LDAP. In caso di problemi di autorizzazione, deve esserci un utente che può accedere senza l'integrazione LDAP.",
-    "LBL_AUTHORIZATION": "LDAP e SSO",
-    "LBL_AUTHORIZATION_DESCRIPTION": " ",
     "LBL_LDAP_AUTH": "LDAP",
     "LBL_ACTIVE_LDAP_AUTH": "Autorizzazione con LDAP",
     "LBL_LDAP_SERVER": "Indirizzo server",

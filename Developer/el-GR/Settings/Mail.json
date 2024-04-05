@@ -1,5 +1,7 @@
 {
   "php": {
+    "LBL_AUTOLOGIN": "Mail – Auto Login",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Mail - Διαμόρφωση",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Γενική διαμόρφωση του module Email",
     "LBL_RC_USER": "Λογαριασμός Email χρήστη",

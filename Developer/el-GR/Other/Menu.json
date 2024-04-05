@@ -23,6 +23,7 @@
     "LBL_CHANGE_LOGIN_PASSWORD": "Αλλαγή του κωδικού πρόσβασης σύνδεσης",
     "LBL_CHANGE": "Αλλαγή",
     "LBL_USER_PROFILE": "Προφίλ χρήστη",
-    "MEN_GDPR": "GDPR"
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Report templates"
   }
 }

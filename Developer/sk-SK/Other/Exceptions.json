@@ -59,6 +59,11 @@
     "ERR_FILE_TYPE": "Nesprávny typ súboru",
     "ERR_REQUIRED_VALUE_MISSING": "The field value is missing or is not supported",
     "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Problems or errors have been detected in this record. Please review the following message and modify the data accordingly.",
-    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration."
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "The error will disappear only after the appropriate mechanisms are activated once the correction is made. This may take several minutes depending on your configuration.",
+    "ERR_NO_FIELD_MAPPING": "No field mapping",
+    "ERR_IMAP_CONNECTION": "There was a problem accessing your e-mail account. Verify the correctness of the e-mail account settings.",
+    "ERR_REGISTER_FILES_PERMISSIONS": "Incorrect permissions on files or directory %s",
+    "ERR_PLEASE_USE_LATIN_CHARACTERS": "Please make sure to use Latin characters only",
+    "ERR_RECREATE_APP_ACCESS": "The system has detected a change in the basic registration data. The add-ons you purchased may not be available. Please contact your provider in case of any issues."
   }
 }

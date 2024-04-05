@@ -48,7 +48,7 @@
     "Discount Amount": "Kwota rabatu",
     "Discount Percent": "Procent rabatu",
     "LBL_DISCOUNT": "Rabat",
-    "LBL_MARKUP": "Marża",
+    "LBL_MARKUP": "Narzut",
     "Documents": "Dokumenty",
     "Due Date & Time": "Czas realizacji",
     "Due Date": "Data realizacji",
@@ -1398,6 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Sklep YetiForce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "Użytkownik aktualnie niezalogowany",
     "LBL_CREATEDMAIL": "Stwórz e-maila",
+    "LBL_BINDMAIL": "Bind email message",
     "LBL_LINKBYFIELDS": "Tworzenie linków do e-maila",
     "LBL_SHOW_FULL_NAME": "Pokaż nazwę filtra z nazwą modułu",
     "LBL_FIELD_HREF": "Kolumna linku",
@@ -1540,7 +1541,8 @@
     "LBL_BATCH_ADDING_RECORDS": "Masowe dodawanie rekordów",
     "LBL_FILTER_EMPTY_VALUE": "Tylko puste wartości",
     "LBL_FIELD_NAME": "Nazwa pola",
-    "LBL_VALUE_OF_FIELDS": "Wartość z pola"
+    "LBL_VALUE_OF_FIELDS": "Wartość z pola",
+    "LBL_RECORD_ID": "Record id"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",
@@ -1830,7 +1832,6 @@
     "JS_GET_PAGINATION_INFO": "Trwa ładowanie ilości rekordów. Czas ukończenia zależy od ilości rekordów.",
     "JS_WIDGET_DELETED": "Usunięto widget",
     "JS_EMAIL_RESTRICTED_DOMAINS": "Domena jest zastrzeżona, należy wprowadzić inną.",
-    "JS_EMAIL_RESET_RELATIONS_CONFIRMATION": "Czy jesteś pewien, że chcesz ponownie zresetować powiązane maile?",
     "JS_MASS_REVIEWING_CHANGES_CONFIRMATION": "Czy na pewno chcesz oznaczyć zmiany jako przeczytane w wybranych rekordach?",
     "JS_LBL_REVIEW_CHANGES": "Oznacz zmiany jako przeczytane",
     "JS_BASE_CURRENCY_CHANGED_TO_DISABLE_CURRENCY": "jest walutą podstawową i nie może zostać wyłączona",

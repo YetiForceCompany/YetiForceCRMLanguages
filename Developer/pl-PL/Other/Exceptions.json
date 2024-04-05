@@ -59,6 +59,11 @@
     "ERR_FILE_TYPE": "Nieprawidłowy typ pliku",
     "ERR_REQUIRED_VALUE_MISSING": "Brak wartości pola lub nie jest ona obsługiwana",
     "ERR_DETECTED_ERRORS_CURRENT_RECORD": "Wykryto problemy lub błędy w rekordzie. Przejrzyj poniższą wiadomość i odpowiednio zmodyfikuj dane.",
-    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "Błąd zniknie dopiero po włączeniu odpowiednich mechanizmów po dokonaniu korekty. Może to potrwać kilka minut w zależności od konfiguracji."
+    "ERR_DETECTED_ERRORS_WILL_DISAPPEAR": "Błąd zniknie dopiero po włączeniu odpowiednich mechanizmów po dokonaniu korekty. Może to potrwać kilka minut w zależności od konfiguracji.",
+    "ERR_NO_FIELD_MAPPING": "Brak mapowania pól",
+    "ERR_IMAP_CONNECTION": "Wystąpił problem z dostępem do Twojego konta e-mail. Sprawdź poprawność ustawień konta e-mail.",
+    "ERR_REGISTER_FILES_PERMISSIONS": "Nieprawidłowe uprawnienia do plików lub katalogu %s",
+    "ERR_PLEASE_USE_LATIN_CHARACTERS": "Używaj tylko łacińskich znaków",
+    "ERR_RECREATE_APP_ACCESS": "System wykrył zmianę podstawowych danych rejestracyjnych. Zakupione dodatki mogą być niedostępne. W razie jakichkolwiek problemów skontaktuj się z dostawcą."
   }
 }
