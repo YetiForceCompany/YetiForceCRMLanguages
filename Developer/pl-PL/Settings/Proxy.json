@@ -9,7 +9,7 @@
     "LBL_PROXY_PORT": "Port",
     "LBL_PROXY_LOGIN": "Login",
     "LBL_PROXY_PASSWORD": "Hasło",
-    "LBL_PROXY_INFORMATION": "System places that communicate with external servers: \n - Secure password search engine - Yetiforce server, \n - Language installation - Github server, \n - Integration with Magento - Magento server, \n - Coordinate search engine - servers indicated by the user in the configuration, \n - Route search - servers indicated by the user in the configuration, \n - Communication with the update/registration server - Github server, Yetiforce server, \n - Update of exchange rates - Bank servers (NBP, CBR, ECB), \n - Installation and update of libraries - Github server"
+    "LBL_PROXY_INFORMATION": "Miejsca w systemie, które komunikują się z serwerami zewnętrznymi: \n - Bezpieczna wyszukiwarka haseł - serwer YetiForce \n - Instalacja języka - serwer GitHub, \n - Integracja z Magento - Serwer Magento\n - Wyszukiwarka współrzędnych - serwery wskazane przez użytkownika w konfiguracji, \n - Wyszukiwanie tras - serwery wskazane przez użytkownika w konfiguracji, \n - Komunikacja z serwerem aktualizacji/rejestracji - serwer GitHub, Serwer YetiForce \n - Aktualizacja kursów wymiany walut - serwery bankowe (NBP, CBR, ECB), \n - Instalacja i aktualizacja bibliotek - serwer GitHub"
   },
   "js": {
     "JS_CONFIGURATION_DETAILS_SAVED": "Szczegóły konfiguracji zostały zapisane"

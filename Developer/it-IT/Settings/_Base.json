@@ -201,7 +201,7 @@
     "LBL_COLORS_DESCRIPTION": "Definisce i colori per utenti, gruppi, moduli e valori menù a tendina",
     "LBL_MENU_BUILDER": "Menù",
     "LBL_MENU_BUILDER_DESCRIPTION": "Gestisci menu",
-    "LBL_AUTHENTICATION": "Authentication",
+    "LBL_AUTHENTICATION": "Autenticazione",
     "LBL_AUTHENTICATION_DESCRIPTION": " ",
     "LBL_BACKUP_DESCRIPTION": "Crea backup dei file",
     "LBL_SCHEDULER_DESCRIPTION": "Gestisce le operazioni CRON",

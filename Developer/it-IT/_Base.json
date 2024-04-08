@@ -1398,7 +1398,7 @@
     "LBL_YETIFORCE_SHOP": "Negozio di Yetiforce",
     "LBL_USER_CURRENTLY_NOT_LOGGED": "utente attualmente non loggato",
     "LBL_CREATEDMAIL": "Crea messaggio email",
-    "LBL_BINDMAIL": "Bind email message",
+    "LBL_BINDMAIL": "Associa messaggio email",
     "LBL_LINKBYFIELDS": "Creazione di link al messaggio email",
     "LBL_SHOW_FULL_NAME": "Mostra nome filtro con nome modulo",
     "LBL_FIELD_HREF": "Colonna link",
@@ -1542,7 +1542,7 @@
     "LBL_FILTER_EMPTY_VALUE": "Solo valori vuoti",
     "LBL_FIELD_NAME": "Nome del campo",
     "LBL_VALUE_OF_FIELDS": "Valore dal campo",
-    "LBL_RECORD_ID": "Record id"
+    "LBL_RECORD_ID": "Id Record"
   },
   "js": {
     "JS_APPROVE": "Approva",
