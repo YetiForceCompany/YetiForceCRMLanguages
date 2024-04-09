@@ -34,6 +34,8 @@
     "LBL_SHIPPING_SERVICE_ID": "Dostavna služba",
     "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Dodatna stavka na računu ili narudžbi kada postoji trošak dostave.\nVrijednost se preuzima iz troška dostave u WooCommerceu.",
     "BTN_RECORD_INFO": "Prikaži informacije i konfiguraciju WooCommercea",
-    "LBL_EDIT_CONFIG": "WooCommerce informacije i konfiguracija"
+    "LBL_EDIT_CONFIG": "WooCommerce informacije i konfiguracija",
+    "LBL_RELOAD_WOOCOMMERCE": "Reload",
+    "LBL_RELOAD_MESSAGE": "Record reloaded"
   }
 }

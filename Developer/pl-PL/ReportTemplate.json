@@ -54,8 +54,9 @@
     "LBL_REMOVE_COLUMN": "Usuń kolumnę",
     "LBL_EDIT_FORMULA": "Edytuj wzór",
     "LBL_SELECT_SORT_ORDER": "Wybierz kolejność sortowania",
-    "LBL_ID": "Id",
-    "LBL_INVENTORY_BLOCK": "Advanced block"
+    "LBL_USER_MODULES": "Powiązane moduły użytkownika",
+    "LBL_ID": "ID",
+    "LBL_INVENTORY_BLOCK": "Blok zaawansowany"
   },
   "js": {
     "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Wybierz co najmniej jedną kolumnę do raportu",

@@ -54,6 +54,7 @@
     "LBL_REMOVE_COLUMN": "Remove column",
     "LBL_EDIT_FORMULA": "Edit formula",
     "LBL_SELECT_SORT_ORDER": "Select sort order",
+    "LBL_USER_MODULES": "Related user modules",
     "LBL_ID": "Id",
     "LBL_INVENTORY_BLOCK": "Advanced block"
   },

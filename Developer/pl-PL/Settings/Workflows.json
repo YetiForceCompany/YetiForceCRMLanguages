@@ -277,7 +277,8 @@
     "LBL_ALL_ATTACHMENTS": "wszystkie załączniki",
     "LBL_LATEST_ATTACHMENTS": "najnowsze załączniki",
     "LBL_MEETING_URL": "Adres URL spotkania",
-    "LBL_SMS_PROVIDER": "Dostawca SMS"
+    "LBL_SMS_PROVIDER": "Dostawca SMS",
+    "LBL_FIND_RECORD_RELATION": "Powiązanie rekordu"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Te same pola zaznaczono więcej niż jedej raz",

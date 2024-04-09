@@ -277,7 +277,8 @@
     "LBL_ALL_ATTACHMENTS": "all attachments",
     "LBL_LATEST_ATTACHMENTS": "últimos anexos",
     "LBL_MEETING_URL": "URL de reunião",
-    "LBL_SMS_PROVIDER": "SMS provider"
+    "LBL_SMS_PROVIDER": "SMS provider",
+    "LBL_FIND_RECORD_RELATION": "Record Relation"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Same fields selected more than once",

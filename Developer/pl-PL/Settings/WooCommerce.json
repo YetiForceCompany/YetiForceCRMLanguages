@@ -34,6 +34,8 @@
     "LBL_SHIPPING_SERVICE_ID": "Usługa wysyłkowa",
     "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Dodatkowa pozycja do zamówienia lub faktury, jeśli istnieje koszt dostawy.\nWartość jest pobierana z WooCommerce z kosztów dostawy.",
     "BTN_RECORD_INFO": "Pokaż informacje i konfigurację WooCommerce",
-    "LBL_EDIT_CONFIG": "Pokaż informacje i konfigurację WooCommerce"
+    "LBL_EDIT_CONFIG": "Pokaż informacje i konfigurację WooCommerce",
+    "LBL_RELOAD_WOOCOMMERCE": "Przeładuj",
+    "LBL_RELOAD_MESSAGE": "Rekord przeładowany"
   }
 }

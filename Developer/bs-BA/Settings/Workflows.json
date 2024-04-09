@@ -277,7 +277,8 @@
     "LBL_ALL_ATTACHMENTS": "svi prilozi",
     "LBL_LATEST_ATTACHMENTS": "najnoviji prilozi",
     "LBL_MEETING_URL": "URL sastanka",
-    "LBL_SMS_PROVIDER": "SMS provider"
+    "LBL_SMS_PROVIDER": "SMS provider",
+    "LBL_FIND_RECORD_RELATION": "Record Relation"
   },
   "js": {
     "JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE": "Ista polja odabrana su više od jednom",

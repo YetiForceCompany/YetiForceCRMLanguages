@@ -54,6 +54,7 @@
     "LBL_REMOVE_COLUMN": "Rimuovi colonna",
     "LBL_EDIT_FORMULA": "Modifica formula",
     "LBL_SELECT_SORT_ORDER": "Selezionare l'ordinamento",
+    "LBL_USER_MODULES": "Related user modules",
     "LBL_ID": "Id",
     "LBL_INVENTORY_BLOCK": "Blocco avanzato"
   },
