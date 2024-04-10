@@ -1,0 +1,41 @@
+{
+	"php": {
+		"Map": "Map",
+		"LBL_MAP": "Map",
+		"LBL_MAP_DESCRIPTION": "",
+		"LBL_TILE_LAYER": "Tile layer",
+		"LBL_TILE_LAYER_INFO": "Select the server from which you want to download tile layers for maps in the system. Each server offers a different look of the map, you can also add your own or public server but pay attention to limits and license restrictions.",
+		"LBL_PROVIDER_NAME": "Provider name",
+		"LBL_API_URL": "Provider API URL",
+		"LBL_DRIVER": "Driver",
+		"LBL_COORDINATES": "Coordinate",
+		"LBL_COORDINATES_INFO": "Select the server to be used for downloading geographical coordinates, the Cron will update the coordinates for address fields. Pay attention to the provider limits, the system will frequently send requests to the servers. Be aware of the fact that free servers have large limits and you share your data with them, always choose trusted servers.",
+		"LBL_PROVIDER_ACTIVE": "Active",
+		"LBL_ROUTING": "Routing",
+		"LBL_ROUTING_INFO": "Select the server to be used to map routes for vehicles, the system will provide coordinates of points for which you want to map the route.",
+		"LBL_PROVIDER_ACTIONS": "Azioni",
+		"LBL_PROVIDER_CONFIG": "Configura il fornitore",
+		"LBL_PROVIDER_WEBPAGE": "WWW",
+		"LBL_API_KEY": "Chiave API",
+		"LBL_TRAVEL_MODE": "Modalità viaggio",
+		"LBL_ROUTING_PREFERENCE": "Preferenze di instradamento",
+		"LBL_PROFILE": "Profilo",
+		"LBL_DOCUMENTATION": "Documentazione",
+		"LBL_COORDINATES_GOOGLE_GEOCODING": "API di Google Geocoding",
+		"LBL_COORDINATES_GRAPH_HOPPER": "GraphHopper",
+		"LBL_COORDINATES_NOMINATIM": "Nominatim",
+		"LBL_COORDINATES_OPEN_CAGE": "OpenCage Geocoding",
+		"LBL_ROUTING_GOOGLE_ROUTES": "API di Google Routes",
+		"LBL_ROUTING_GRAPH_HOPPER": "GraphHopper",
+		"LBL_ROUTING_OSRM": "OSRM - Open Source Routing Machine",
+		"LBL_ROUTING_YOURS": "Yours",
+		"LBL_TILE_LAYER_ESRI_WORLDIMAGERY": "Esri WorldImagery",
+		"LBL_TILE_LAYER_ESRI_WORLDTOPOMAP": "Esri WorldTopoMap",
+		"LBL_TILE_LAYER_GOOGLE_MAPS": "Google Maps",
+		"LBL_TILE_LAYER_OSM_DEFAULT": "OpenStreetMap Default",
+		"LBL_TILE_LAYER_OSM_HOT": "OpenStreetMap HOT"
+	},
+	"js": {
+		"JS_ERROR_VALIDATION": "Chiave API errata. Caratteri consentiti: a-z A-Z 0-9 , . _ = + - e spazi"
+	}
+}

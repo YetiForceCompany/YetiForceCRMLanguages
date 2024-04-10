@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Τραπεζικοί Λογαριασμοί",
+    "SINGLE_BankAccounts": "Τραπεζικός λογαριασμός",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "FL_NAME": "Όνομα",
+    "FL_BANK_ACCOUNT_NUMBER": "Αριθμός λογαριασμού",
+    "FL_CURRENCY": "Νόμισμα",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Όνομα τράπεζας",
+    "FL_STATUS": "Κατάσταση",
+    "FL_MULTICOMPANY": "Τμήμα",
+    "FL_RELATED_TO": "Related to",
+    "PLL_DRAFT": "Πρόχειρο",
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_INACTIVE": "Ανενεργό"
+  }
+}

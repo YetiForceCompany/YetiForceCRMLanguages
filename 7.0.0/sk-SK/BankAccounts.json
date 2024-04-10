@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Bankové účty",
+    "SINGLE_BankAccounts": "Bankový účet",
+    "LBL_CUSTOM_INFORMATION": "Vlastné Informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "FL_NAME": "Názov",
+    "FL_BANK_ACCOUNT_NUMBER": "Číslo účtu",
+    "FL_CURRENCY": "Mena",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Názov banky",
+    "FL_STATUS": "Stav",
+    "FL_MULTICOMPANY": "Oddelenie",
+    "FL_RELATED_TO": "Related to",
+    "PLL_DRAFT": "Koncept",
+    "PLL_ACTIVE": "Aktívny",
+    "PLL_INACTIVE": "Neaktívny"
+  }
+}

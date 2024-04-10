@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "Preguntas frecuentes (FAQ)",
+    "SINGLE_Faq": "Preguntas frecuentes (FAQ)",
+    "Draft": "Borrador",
+    "FL_SUBJECT": "Asunto",
+    "FL_CONTENT": "Contenido",
+    "FL_CATEGORY": "Categoría",
+    "FL_ACCOUNT": "Cuenta",
+    "FL_VIEWS": "Ver",
+    "PLL_PAGE": "Página",
+    "PLL_PRESENTATION": "Presentación",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Base de conocimiento",
+    "LBL_PREVIOUS": "Previo",
+    "LBL_NEXT": "Siguiente",
+    "FL_STATUS": "Estado",
+    "LBL_ARTICLE": "Artículo",
+    "FL_FEATURED": "Featured",
+    "LBL_RELATED_FAQ": "Related entries",
+    "FL_INTRODUCTION": "Introduction",
+    "Faq No": "FAQ number",
+    "General": "General",
+    "LBL_FAQ_INFORMATION": "FAQ information",
+    "LBL_RECORDS_LIST": "FAQs list",
+    "Obsolete": "Obsolete",
+    "Published": "Published",
+    "Question": "Question"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "マイレージログブック",
+    "SINGLE_CMileageLogbook": "マイレージログブック",
+    "LBL_ADDITIONAL_INFORMATION": "追加情報",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "LBL_DESCRIPTION_BLOCK": "説明",
+    "LBL_ATTENTION_BLOCK": "ノート",
+    "FL_SUBJECT": "件名",
+    "FL_STATUS": "状態",
+    "FL_NUMBER_KILOMETERS": "Km数",
+    "PLL_DRAFT": "下書き",
+    "PLL_FOR_APPROVAL": "承認する",
+    "PLL_ACCEPTED": "承認済み",
+    "PLL_CANCELLED": "キャンセルしました"
+  }
+}

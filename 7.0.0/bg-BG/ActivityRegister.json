@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Регистър на дейности",
+    "SINGLE_ActivityRegister": "Регистър на дейности",
+    "LBL_BASIC_INFORMATION": "Основна информация",
+    "FL_SUBJECT": "Тема",
+    "FL_PARENT_ACTIVITY": "Главна активност",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Чернова",
+    "PLL_WAITING_FOR_ACCEPTANCE": "В очакване на одобрение",
+    "PLL_IN_REALIZATION": "В изпълнение",
+    "PLL_COMPLETED": "Завършено",
+    "PLL_CANCELLED": "Прекъснато",
+    "FL_DATA_SET": "Набор от данни",
+    "PLL_ENTRUSTMENT": "Пълномощно",
+    "PLL_SHARING": "Споделяне",
+    "PLL_TRANSFER": "Трансфер",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Приемане на пълномощно",
+    "PLL_INTERNAL": "Вътрешно",
+    "FL_START_DATE": "Начална дата",
+    "FL_END_DATE": "Крайна дата",
+    "LBL_DATES": "Дата на активности",
+    "LBL_DESCRIPTION": "Описание",
+    "FL_DESCRIPTION": "Описание",
+    "FL_COMMENTS": "Коментари",
+    "LBL_COMMENTS": "Коментари",
+    "FL_ACTIVITY_TYPE": "Вид активност"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Onaylama",
+    "SINGLE_Approvals": "Onay",
+    "LBL_CUSTOM_INFORMATION": "Özel Bilgiler",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "FL_NAME": "İsim",
+    "FL_APPROVALS_STATUS": "Durumu",
+    "FL_DESCRIPTION": "Açıklama",
+    "FL_NUMBER": "Sayı",
+    "PLL_DRAFT": "Taslak",
+    "PLL_ACTIVE": "Aktif",
+    "PLL_INACTIVE": "Pasif"
+  }
+}
