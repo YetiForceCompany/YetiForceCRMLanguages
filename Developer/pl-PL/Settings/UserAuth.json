@@ -24,7 +24,7 @@
     "FL_AZURE_BASE_USER": "Użytkownik podstawowy",
     "FL_REDIRECT_URI": "Przekieruj URI",
     "LBL_AZURE_BASE_USER_TOOLTIP": "Wybór podstawowego użytkownika umożliwi automatyczne tworzenie użytkowników. Oznacza to, że za każdym razem, gdy dana osoba loguje się z wykorzystaniem Azure po raz pierwszy, w CRM zostanie utworzony nowy użytkownik.\n\nNowy użytkownik skopiuje wszystkie dane konta podstawowego użytkownika, z wyjątkiem danych osobowych.\n\nUWAGA: NIE ZALECAMY wybierania użytkowników z uprawnieniami administratora jako użytkowników podstawowych, ponieważ wszyscy nowi użytkownicy otrzymają uprawnienia administratora.",
-    "FL_REDIRECT_URI_ID": "Przekieruj URI",
+    "FL_REDIRECT_URI_ID": "URI przekierowania",
     "LBL_REDIRECT_URI_ID_DESC": "Tutaj wymieniono webservices dla OAuth.\n Najpierw dodaj klucz do odpowiedniej aplikacji w oddzielnym panelu — wygeneruje to URI, który będzie wyświetlany w tym polu.",
     "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Skopiuj URI do schowka"
   },
