@@ -20,6 +20,7 @@
     "FL_CLIENT_SECRET": "Klucz tajny klienta",
     "FL_REDIRECT_URI_ID": "Przekieruj URI",
     "LBL_REDIRECT_URI_ID_DESC": "Tutaj wymieniono webservices dla OAuth.\n Najpierw dodaj klucz do odpowiedniej aplikacji w oddzielnym panelu — wygeneruje to URI, który będzie wyświetlany w tym polu.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Skopiuj URI do schowka",
     "FL_IDENTITIES_LEVEL": "Poziom dostępu do tożsamości",
     "LBL_VISIBLE_DESC": "Dostępne w sekcji użytkownika",
     "identities_level_0": "wiele tożsamości z możliwością edycji wszystkich parametrów",

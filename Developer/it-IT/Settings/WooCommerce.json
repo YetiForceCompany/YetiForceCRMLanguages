@@ -35,7 +35,7 @@
     "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Articolo aggiuntivo nella fattura o nell'ordine quando esiste un costo di consegna.\nIl valore è scaricato dal costo di consegna su WooCommerce.",
     "BTN_RECORD_INFO": "Mostra le info e la configurazione di WooCommerce",
     "LBL_EDIT_CONFIG": "Info e configurazione di WooCommerce",
-    "LBL_RELOAD_WOOCOMMERCE": "Reload",
-    "LBL_RELOAD_MESSAGE": "Record reloaded"
+    "LBL_RELOAD_WOOCOMMERCE": "Ricarica",
+    "LBL_RELOAD_MESSAGE": "Record ricaricato"
   }
 }

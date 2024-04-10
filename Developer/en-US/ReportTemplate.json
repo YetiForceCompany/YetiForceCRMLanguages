@@ -53,7 +53,11 @@
     "LBL_SORT_DESCENDING": "Sort descending",
     "LBL_REMOVE_COLUMN": "Remove column",
     "LBL_EDIT_FORMULA": "Edit formula",
-    "LBL_SELECT_SORT_ORDER": "Select sort order"
+    "LBL_SELECT_SORT_ORDER": "Select sort order",
+    "LBL_USER_MODULES": "Related user modules",
+    "LBL_ID": "Id",
+    "LBL_INVENTORY_BLOCK": "Advanced block"
+
   },
   "js": {
     "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Select at least one column for report",

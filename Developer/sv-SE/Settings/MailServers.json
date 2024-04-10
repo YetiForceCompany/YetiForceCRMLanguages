@@ -20,6 +20,7 @@
     "FL_CLIENT_SECRET": "Client secret",
     "FL_REDIRECT_URI_ID": "Redirect URI",
     "LBL_REDIRECT_URI_ID_DESC": "Webservices for OAuth are listed here.\n You must first add the key to the appropriate application in a separate panel. This will generate a URI that will be listed in this field.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Kopiera URI till urklipp",
     "FL_IDENTITIES_LEVEL": "Level of access to identity",
     "LBL_VISIBLE_DESC": "Available in the user section",
     "identities_level_0": "many identities with possibility of editing all parameters",
