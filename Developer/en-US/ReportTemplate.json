@@ -40,7 +40,6 @@
     "LBL_DIFF": "Difference",
     "LBL_QUO": "Quotient",
     "LBL_PROD": "Product",
-    "LBL_AGGREGATE_FIELDS": "Aggregate fields",
     "LBL_REFRESH": "Refresh report",
     "LBL_SELECT_REFERENCES_AND_RELATIONS": "Select references and relations",
     "LBL_RELATED_MODULES_WITH": "Related modules with",
@@ -57,7 +56,6 @@
     "LBL_USER_MODULES": "Related user modules",
     "LBL_ID": "Id",
     "LBL_INVENTORY_BLOCK": "Advanced block"
-
   },
   "js": {
     "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Select at least one column for report",
