@@ -1,25 +1,25 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings",
+    "LBL_BUSINESS_HOURS": "Openingsuren",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Bedrijfsuren is een module waar u de werktijden van uw team kunt instellen.",
+    "LBL_WORKING_HOURS_FROM": "Van",
+    "LBL_WORKING_HOURS_TO": "Aan",
+    "LBL_WORKING_DAYS": "Werkdagen",
+    "LBL_WORKING_HOURS": "Werk uren",
+    "LBL_DEFAULT": "Standaard",
+    "LBL_NAME": "Naam",
+    "LBL_HOLIDAYS": "Vakantie",
+    "LBL_EDIT_BUSINESS_HOURS": "Kantooruren bewerken",
+    "LBL_ADD_BUSINESS_HOURS": "Kantooruren toevoegen",
+    "LBL_DEFAULT_TIMES": "Standaard tijden",
+    "LBL_DEFAULT_REACTION_TIME": "Standaard reactietijd",
+    "LBL_DEFAULT_IDLE_TIME": "Standaard inactieve tijd",
+    "LBL_DEFAULT_RESOLVE_TIME": "Standaard oplossingstijd",
+    "LBL_HOLIDAYS_LINK": "Ga naar instellingen voor feestdagen",
     "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?",
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Weet u zeker dat u dit item wilt verwijderen?",
     "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
   }
 }

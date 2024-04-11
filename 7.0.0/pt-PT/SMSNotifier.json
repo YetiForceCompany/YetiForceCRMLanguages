@@ -20,7 +20,7 @@
     "FL_MESSAGE": "Message",
     "LBL_SMSNOTIFIER_INFORMATION": "SMS information",
     "LBL_ADD_MORE_FIELDS": "Add more fields",
-    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Added SMS messages to the queue",
+    "LBL_MASS_SEND_SMS_QUEUE_INFO": "Adicionadas mensagens SMS à fila",
     "LBL_TEMPLATE": "Template",
     "LBL_SMS_MAX_CHARACTERS_ALLOWED": "SMS max 160 characters allowed",
     "LBL_SEND_SMS_TO_SELECTED_NUMBERS": "Send SMS to the selected numbers",

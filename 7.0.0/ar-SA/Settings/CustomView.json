@@ -9,7 +9,7 @@
     "Delete": "Delete",
     "Delete CustomView": "Custom view has been deleted",
     "Saving CustomView": "View has been saved",
-    "Actions": "Actions",
+    "Actions": "الاجراءت",
     "Edit": "Edit",
     "LBL_FEATURED_LABELS": "In favorites",
     "LBL_CREATED_BY": "Created by",
@@ -25,7 +25,7 @@
     "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Select a field to sort records",
     "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",
     "LBL_SORT_DESCENDING_ORDER": "Sort in descending order",
-    "LBL_ATTENTION": "Warning!",
+    "LBL_ATTENTION": "تحذير!",
     "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
     "LBL_PUBLIC": "Public",
     "LBL_PRIVATE": "Private"

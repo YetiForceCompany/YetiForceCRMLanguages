@@ -1,12 +1,12 @@
 {
   "php": {
-    "ModTracker": "Change history",
-    "LBL_MODTRACKER_SETTINGS": "Modules – Track Changes \/ History",
-    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Manage change history in modules",
-    "LBL_MODULE": "Module",
-    "LBL_ACTIVE": "Track changes",
-    "LBL_TOOLS": "Tools",
-    "LBL_TRACK_CHANGES_ENABLED": "Track changes enabled",
-    "LBL_TRACK_CHANGES_DISABLE": "Track changes disabled"
+    "ModTracker": "Histórico de Alterações",
+    "LBL_MODTRACKER_SETTINGS": "Módulos – Rastrear Alterações \/ Histórico",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Gerenciar o histórico de alterações nos módulos",
+    "LBL_MODULE": "Módulos",
+    "LBL_ACTIVE": "Rastrear Alterações",
+    "LBL_TOOLS": "Ferramentas",
+    "LBL_TRACK_CHANGES_ENABLED": "Rastrear alterações habilitado",
+    "LBL_TRACK_CHANGES_DISABLE": "Rastrear alterações desabilitado"
   }
 }

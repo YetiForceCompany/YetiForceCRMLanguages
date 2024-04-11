@@ -1,6 +1,6 @@
 {
   "php": {
-    "Export": "Export",
-    "LBL_INFO_USER_EXPORT_RECORDS": "It's only possible to export active users"
+    "Export": "Exporteren",
+    "LBL_INFO_USER_EXPORT_RECORDS": "Alleen actieve gebruikers exporteren is mogelijk"
   }
 }

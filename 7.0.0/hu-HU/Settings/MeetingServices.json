@@ -1,10 +1,10 @@
 {
   "php": {
-    "MeetingServices": "Meeting Services",
-    "LBL_MEETING_SERVICES": "Meeting Services",
+    "MeetingServices": "Meeting Szolgáltatás",
+    "LBL_MEETING_SERVICES": "Meeting Szolgáltatás",
     "LBL_MEETING_SERVICES_DESCRIPTION": " ",
     "FL_URL": "URL",
-    "FL_STATUS": "Status",
+    "FL_STATUS": "Állapot",
     "FL_APP_ID": "App ID",
     "FL_SECRET_KEY": "Secret key"
   }

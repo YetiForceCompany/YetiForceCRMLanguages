@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "DAV keys",
     "LBL_DUPLICATE_USER_SERVICES": "Key for this application already exists.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Configuration info",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Примери за настройка на връзката на сървъра на DAV за различни приложения и системи:"
   },
   "js": {
     "Adding a Key": "Add key"

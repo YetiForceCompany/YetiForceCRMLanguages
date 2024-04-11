@@ -1,17 +1,17 @@
 {
   "php": {
     "FL_NAME": "Name",
-    "FL_PROVIDER": "Provider",
+    "FL_PROVIDER": "Furnizor",
     "FL_STATUS": "Status",
     "FL_SMSAPI_FROM": "Sender name",
-    "FL_API_KEY": "Api key",
-    "LBL_ADD_RECORD": "New configuration",
-    "LBL_SMSNOTIFIER": "SMS provider configuration",
+    "FL_API_KEY": "Cheie Api",
+    "LBL_ADD_RECORD": "Configuratie noua",
+    "LBL_SMSNOTIFIER": "Configurare furnizor SMS",
     "LBL_SMSNOTIFIER_DESCRIPTION": " ",
-    "LBL_ADD_CONFIGURATION": "New configuration",
-    "LBL_EDIT_CONFIGURATION": "Edit configuration",
-    "BTN_SAVE": "Save",
-    "BTN_CLOSE": "Cancel",
+    "LBL_ADD_CONFIGURATION": "Configuratie noua",
+    "LBL_EDIT_CONFIGURATION": "Modifica configuratie",
+    "BTN_SAVE": "Salveaza",
+    "BTN_CLOSE": "Anuleaza",
     "LBL_SMSPROVIDER_CREATE": "Add provider",
     "LBL_SMSPROVIDER_EDIT": "Edit provider",
     "LBL_CALLBACK_ADDRESSES": "Callback addresses",
@@ -24,8 +24,8 @@
     "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Selected provider is inactive. Activate it or change the provider."
   },
   "js": {
-    "LBL_DELETE_CONFIRMATION": "Are you sure you want to delete this configuration?",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuration removed successfully",
-    "JS_SAVE_SUCCESS": "Saved"
+    "LBL_DELETE_CONFIRMATION": "Sunteti sigur ca doriti sa stergeti aceasta configuratie?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuratie stearsa cu succes",
+    "JS_SAVE_SUCCESS": "Salvat"
   }
 }

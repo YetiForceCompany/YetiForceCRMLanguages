@@ -1,20 +1,20 @@
 {
   "php": {
-    "IGIN": "Goods Issued Note",
-    "SINGLE_IGIN": "Goods Issued Note",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
-    "FL_ACCEPTANCE_DATE": "Date of acceptance",
-    "FL_SUBJECT": "Subject",
-    "FL_NUMBER": "Number",
-    "FL_STORAGE": "Storage",
-    "FL_STATUS": "Status",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "IGIN": "Áru kiadási bizonylat",
+    "SINGLE_IGIN": "Áru kiadási bizonylat",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "LBL_ATTENTION_BLOCK": "Hozzászólások",
+    "FL_ACCEPTANCE_DATE": "Elfogadás dátuma",
+    "FL_SUBJECT": "Tárgy",
+    "FL_NUMBER": "Sorszám",
+    "FL_STORAGE": "Raktár",
+    "FL_STATUS": "Státusz",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_IN_REALIZATION": "Megvalósulás alatt",
+    "PLL_OBJECTIONS": "Célok",
+    "PLL_FOR_APPROVAL": "Jóváhagyásra",
+    "PLL_CANCELLED": "Megszakítva",
+    "PLL_ACCEPTED": "Elfogadott",
+    "LBL_CHANGE_STATUS": "Állapot módosítása"
   }
 }

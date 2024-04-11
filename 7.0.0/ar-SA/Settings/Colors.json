@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_COLORS": "Colors",
-    "LBL_COLOR": "Color",
+    "LBL_COLOR": "اللون",
     "LBL_PICKLISTS": "Picklists",
     "LBL_SELECT_PICKLIST": "Select picklist",
     "LBL_REMOVE_COLOR": "Remove color",

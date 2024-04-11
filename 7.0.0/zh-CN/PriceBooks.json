@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
-    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
+    "LBL_ADD_TO": "添加到",
+    "LBL_EDIT_LIST_PRICE": "编辑价格表",
+    "LBL_PRICEBOOK_INFORMATION": "价格表详情",
+    "LBL_UNIT_PRICE": "单价",
+    "Price Book Name": "价格表名称",
+    "PriceBook No": "价格表编号",
+    "PriceBooks": "价格表",
+    "SINGLE_PriceBooks": "价格表",
+    "yes": "是",
+    "no": "否",
+    "Unit Price": "单价",
+    "LBL_SPECIFY_THE_MARGIN": "指定边距",
+    "LBL_SPECIFY_THE_MARGINP": "指定边距 （%）"
   }
 }

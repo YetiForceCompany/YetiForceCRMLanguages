@@ -1,19 +1,19 @@
 {
   "php": {
-    "FieldsDependency": "Dependent Fields",
-    "LBL_FIELDS_DEPENDENCY": "Dependent Fields",
-    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration of dynamic fields and blocks depending on specific criteria",
-    "LBL_NAME": "Dependent name",
-    "LBL_EDIT": "Edit dependent",
-    "LBL_CREATE": "Create new dependent",
-    "LBL_SOURCE_MODULE": "Module name",
-    "LBL_VIEWS": "Views",
-    "LBL_VIEWS_INFO": "List of views where fields are to be hidden/shown, if a view is not selected the fields will always be visible",
-    "LBL_FIELDS_INFO": "List of fields that will be visible only if the conditions below are met",
-    "LBL_GUI": "Dynamic fields",
-    "LBL_GUI_INFO": "Enabling it results in a dynamic showing of fields in the form when changing values in fields.\nIf disabled, the changes will only take effect after saving the data.",
-    "LBL_MANDATORY": "Mandatory fields",
-    "LBL_MANDATORY_INFO": "After enabling all fields listed below will be mandatory",
+    "FieldsDependency": "Champs dépendants",
+    "LBL_FIELDS_DEPENDENCY": "Champs dépendants",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration des champs et des blocs dynamiques selon des critères spécifiques",
+    "LBL_NAME": "Nom dépendant",
+    "LBL_EDIT": "Modifier la dépendance",
+    "LBL_CREATE": "Créer une nouvelle dépendance",
+    "LBL_SOURCE_MODULE": "Nom du module",
+    "LBL_VIEWS": "Vues",
+    "LBL_VIEWS_INFO": "Liste des vues où les champs doivent être cachés/affichés, si une vue n'est pas sélectionnée, les champs seront toujours visibles",
+    "LBL_FIELDS_INFO": "Liste des champs qui ne seront visibles que si les conditions ci-dessous sont remplies",
+    "LBL_GUI": "Champs dynamiques",
+    "LBL_GUI_INFO": "L'activation de cette option aboutit à un affichage dynamique des champs dans le formulaire lors du changement de valeurs dans les champs. Si désactivé, les modifications ne prendront effet qu'après avoir enregistré les données.",
+    "LBL_MANDATORY": "Champs obligatoires",
+    "LBL_MANDATORY_INFO": "Après activation, tous les champs listés ci-dessous seront obligatoires",
     "LBL_CONDITIONS": "Conditions"
   }
 }

@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+    "LBL_SLA_POLICY": "Polityka SLA",
+    "LBL_NAME": "Nazwa",
+    "LBL_EDIT": "Edytuj politykę SLA",
+    "LBL_CREATE": "Utwórz nową politykę SLA",
+    "LBL_SOURCE_MODULE": "Moduł",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Dostępne globalnie do wyliczania czasu stanu rekordu",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Jeśli ta opcja jest wybrana, polityka SLA będzie dostępna do wyliczania czasu statusu rekordu, nawet jeśli wpis nie jest powiązany z żadnym SLA."
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Wybierz godziny pracy",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Nazwa",
+    "JS_BUSINESS_HOURS_DAYS": "Dni robocze",
+    "JS_HOLIDAYS": "Święta"
   }
 }

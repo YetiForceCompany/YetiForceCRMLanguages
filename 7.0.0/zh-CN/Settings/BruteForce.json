@@ -1,27 +1,27 @@
 {
   "php": {
-    "BruteForce": "Brute Force",
-    "LBL_NUMBER_OF_ATTEMPTS": "Number of attemps",
-    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
-    "LBL_TIME_LOCK": "Time lock (minutes)",
-    "LBL_SETTINGS": "Settings",
-    "LBL_BLOCKED_IP": "Blocked IP address",
-    "LBL_SAVE_SUCCESS": "Changes have been saved",
-    "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
-    "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
-    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
-    "LBL_IP": "IP address",
-    "LBL_DATE": "Date",
-    "LBL_USERS": "Users",
-    "LBL_BROWSERS": "Browsers",
-    "LBL_UNBLOCK": "Unblock",
-    "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",
-    "LBL_BRUTEFORCE_ACTIVE": "Active",
-    "LBL_VIEW_SHOW": "Brute Force",
-    "LBL_BRUTEFORCE": "Brute Force",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications"
+    "BruteForce": "暴力破解",
+    "LBL_NUMBER_OF_ATTEMPTS": "尝试次数",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "参数包括触发未登录用户的每个操作，例如登录尝试、密码重置",
+    "LBL_TIME_LOCK": "锁定时长（分钟）",
+    "LBL_SETTINGS": "设置",
+    "LBL_BLOCKED_IP": "被阻止的IP地址",
+    "LBL_SAVE_SUCCESS": "更改已保存",
+    "LBL_UNBLOCK_FAIL": "IP地址还未被解锁",
+    "LBL_UNBLOCK_SUCCESS": "IP地址已被解锁",
+    "LBL_BRUTEFORCE_DESCRIPTION": "设置失败的登录尝试或密码更改的最大次数和封禁 IP 的时间限制。",
+    "LBL_IP": "IP 地址",
+    "LBL_DATE": "日期",
+    "LBL_USERS": "用户",
+    "LBL_BROWSERS": "浏览器",
+    "LBL_UNBLOCK": "解除封锁",
+    "LBL_USERS_FOR_NOTIFICATIONS": "要通知的用户",
+    "LBL_BRUTEFORCE_ACTIVE": "启用",
+    "LBL_VIEW_SHOW": "暴力破解",
+    "LBL_BRUTEFORCE": "暴力破解",
+    "LBL_SENT_NOTIFICATIONS": "发送通知"
   },
   "js": {
-    "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."
+    "JS_COULD_NOT_FINNISH_REACTION": "出错了。保存失败."
   }
 }

@@ -1,28 +1,28 @@
 {
   "php": {
-    "WebserviceApps": "Web service - Applications",
-    "LBL_APP_NAME": "Name",
+    "WebserviceApps": "Applications - Web service",
+    "LBL_APP_NAME": "Nom",
     "LBL_PUBLIC_URL": "Public URL address",
     "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
-    "LBL_ALLOWED_IPS": "Allowed IPs",
-    "LBL_ALLOWED_IPS_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
+    "LBL_ALLOWED_IPS": "Adresses IP autorisées",
+    "LBL_ALLOWED_IPS_INFO": "Si valeur vide, accès depuis tous les serveurs.\nSi des adresses IP sont saisies (après le point décimal), l'accès à l'API ne sera autorisé qu'à partir de ces adresses IP.\nExemple :",
     "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
-    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
-    "Mail": "Mail",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit",
+    "LBL_API_KEY": "Clé",
+    "LBL_ADD_APPLICATION": "Ajouter une clé",
+    "LBL_WEBSERVICE_APPS": "Applications - Web service",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Merci de noter que ce module sera pleinement opérationnel en v.3.1",
+    "LBL_MODAL_ALERT": "Les données d'accès doivent être entrées dans l'en-tête de chaque requête API.",
+    "Mail": "Email",
+    "LBL_PASS": "Mot de passe",
+    "LBL_TITLE_ADDED": "Ajouter",
+    "LBL_TITLE_EDIT": "Modifier",
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
-    "Payments": "Payments",
-    "ManageConsents": "Manage consents",
+    "Payments": "Paiements",
+    "ManageConsents": "Gérer les consentements",
     "SMS": "SMS"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Etes-vous sûr de vouloir supprimer cette clé ?"
   }
 }

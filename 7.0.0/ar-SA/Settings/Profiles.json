@@ -1,7 +1,7 @@
 {
   "php": {
     "LBL_ADD_RECORD": "Add record",
-    "LBL_CHOOSE_PROFILES": "Choose profiles",
+    "LBL_CHOOSE_PROFILES": "اختيار ملف شخصي",
     "LBL_CREATE_PROFILE": "Create profile",
     "LBL_DELETE_PROFILE": "Delete profile",
     "LBL_DELETE_RECORD": "Delete",
@@ -88,7 +88,7 @@
     "ActivityComplete": "Set activity status to completed",
     "ActivityPostponed": "Set activity status to postponed",
     "Emails": "Send emails [SMTP]",
-    "ModTracker": "Change history",
+    "ModTracker": "تاريخ التغييرات",
     "AssignToYourself": "Assign to me",
     "AutoAssignRecord": "Automatic transfer of records",
     "RecordConventer": "Record converter",

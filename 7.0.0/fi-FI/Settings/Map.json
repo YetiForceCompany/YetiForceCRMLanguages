@@ -11,7 +11,7 @@
 		"LBL_COORDINATES": "Coordinates",
 		"LBL_COORDINATES_INFO": "Select the server to be used for downloading geographical coordinates, the Cron will update the coordinates for address fields. Pay attention to the provider limits, the system will frequently send requests to the servers. Be aware of the fact that free servers have large limits and you share your data with them, always choose trusted servers.",
 		"LBL_PROVIDER_ACTIVE": "Active",
-		"LBL_ROUTING": "Routing",
+		"LBL_ROUTING": "Reititys",
 		"LBL_ROUTING_INFO": "Select the server to be used to map routes for vehicles, the system will provide coordinates of points for which you want to map the route.",
 		"LBL_PROVIDER_ACTIONS": "Actions",
 		"LBL_PROVIDER_CONFIG": "Configure provider",

@@ -35,7 +35,7 @@
     "LBL_DELETE_PRIVILIGE": "Delete",
     "Import": "Import",
     "Export": "Export",
-    "ConvertLead": "Convert Lead",
+    "ConvertLead": "잠재고객으로 전환",
     "Print": "Print",
     "ReceiveIncomingCalls": "Receive incoming calls",
     "MakeOutgoingCalls": "Make outgoing calls",

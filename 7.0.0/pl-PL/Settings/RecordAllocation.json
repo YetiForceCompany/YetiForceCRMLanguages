@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_OWNER_ALLOCATION": "Assign owner",
+    "LBL_OWNER_ALLOCATION": "Przydział właściciela rekordu",
     "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_MULTIOWNER_ALLOCATION": "Assign sharing users",
+    "LBL_MULTIOWNER_ALLOCATION": "Przydział osób współdzielących",
     "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
-    "LBL_SORTING_SETTINGS_WORNING": "Warning!\r\n The configuration will work only when you enable it in the Roles panel",
-    "LBL_ADD_PANEL_TO_MODULE": "Add allocation to module",
-    "LBL_SELECT_MODULE": "Select module",
-    "LBL_GO_TO_PANEL": "go to the panel",
-    "LBL_USERS_AND_GROUPS": "Users and groups"
+    "LBL_SORTING_SETTINGS_WORNING": "Uwaga!\nPoniższa konfiguracja będzie uwzględniana dopiero po włączeniu jej w panelu roli",
+    "LBL_ADD_PANEL_TO_MODULE": "Dodaj przydział dla modułu",
+    "LBL_SELECT_MODULE": "Wybierz moduł",
+    "LBL_GO_TO_PANEL": "przejdź do panelu",
+    "LBL_USERS_AND_GROUPS": "Użytkownicy i grupy"
   },
   "js": {
-    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Are you sure you want to remove all allocations in this module?"
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Czy jesteś pewien, że chcesz usunąć wszystkie przydziały dla danego modułu?"
   }
 }

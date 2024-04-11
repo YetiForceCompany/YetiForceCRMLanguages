@@ -6,7 +6,7 @@
     "LBL_BASIC_INFORMATION": "Basic Information",
     "BL_MAIL_SCANNER": "Scanner",
     "FL_SUBJECT": "Name",
-    "FL_LOGIN": "Login",
+    "FL_LOGIN": "ورود",
     "FL_PASSWORD": "Password",
     "FL_REFRESH_TOKEN": "Refresh token",
     "FL_MAIL_SERVER": "Mail server",

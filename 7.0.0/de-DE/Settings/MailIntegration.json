@@ -1,18 +1,18 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "LBL_MAIL_INTEGRATION": "Mail integration panel",
-    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
-    "LBL_OUTLOOK": "Outlook add-ins",
-    "LBL_OUTLOOK_ALERT": "Add-ins installation instructions can be found at %s",
-    "LBL_OUTLOOK_ADDRESSES": "Outlook mail server URLs",
-    "LBL_OUTLOOK_ADDRESSES_DESC": "List of addresses where the system will be available as an integration panel, mandatory for Outlook Web App e.g. %s",
-    "LBL_OUTLOOK_SCRIPT": "Allowed CDN servers for JavaScript",
-    "LBL_OUTLOOK_SCRIPT_DESC": "List of allowed CDN server addresses from which JavaScript files can be loaded, e.g. %s",
-    "LBL_OUTLOOK_ACTIVATED_ALERT": "Activation modifies the 'config / Security.php' file and reduces the security level, changes:\n- it allows loading CRM in an inframe\n- it allows loading of external scripts (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- it disables HttpOnly in cookie \n- it changes cookie SameSite to None",
-    "LBL_QUICK_CREATE_MODULES": "List of quick create modules",
-    "LBL_QUICK_CREATE_MODULES_DESC": "List of modules in which data can be created from the integration panel. \n If no value is selected, the system will select the default quick create list",
-    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file",
+    "MailIntegration": "E-Mail-Integrationsbereich",
+    "LBL_MAIL_INTEGRATION": "E-Mail-Integrationsbereich",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM als Integration in einem externen Mailclient",
+    "LBL_OUTLOOK": "Outlook-Add-ins",
+    "LBL_OUTLOOK_ALERT": "Installationsanweisungen für Add-ins finden Sie unter %s",
+    "LBL_OUTLOOK_ADDRESSES": "Outlook Mail-Server-URLs",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Liste der Adressen, unter denen das System als Integration verfügbar sein wird, obligatorisch für Outlook Web App, z.B. %s",
+    "LBL_OUTLOOK_SCRIPT": "Erlaubte CDN-Server für JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "Liste der erlaubten CDN-Server-Adressen, von denen JavaScript-Dateien geladen werden können, z.B. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Die Aktivierung verändert die 'config / Security.php' Datei und reduziert das Sicherheitsniveau, Änderungen:\n- es erlaubt das Laden von CRM innerhalb eines iframes\n- es erlaubt das Laden von externen Skripten (https://appsforoffice. icrosoft.com, https://ajax.aspnetcdn.com)\n- es deaktiviert HttpOnly im Cookie \n- es ändert Cookie SameSite zu None",
+    "LBL_QUICK_CREATE_MODULES": "Liste der Schnellerstellungsmodule",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Liste der Module, in denen Daten aus dem Integrationsbereich erstellt werden können. \n Wenn kein Wert ausgewählt ist, wird das System die Standard-Schnellerstellungsliste auswählen",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Laden Sie die Outlook Add-In-Installationsdatei herunter",
     "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
   }
 }

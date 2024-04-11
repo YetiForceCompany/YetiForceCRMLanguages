@@ -58,6 +58,6 @@
   },
   "js": {
     "JS_STATE_CONFIRMATION": "Are you sure you want to change record state?",
-    "JS_SAVE_SUCCESS": "Changes saved successfully"
+    "JS_SAVE_SUCCESS": "تم حفظ التغييرات بنجاح"
   }
 }

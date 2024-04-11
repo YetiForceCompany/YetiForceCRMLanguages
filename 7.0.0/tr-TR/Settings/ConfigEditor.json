@@ -1,6 +1,6 @@
 {
   "php": {
-    "ConfigEditor": "Config editor",
+    "ConfigEditor": "Konfigurasyon düzenleyici",
     "LBL_DEFAULT_MODULE": "Default module",
     "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximum text length in List View",
     "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum entries per page in List View",

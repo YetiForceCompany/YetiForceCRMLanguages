@@ -7,7 +7,7 @@
     "LBL_PAGE_NUMBER": "Go to page number",
     "CRM Archive": "CRM archive",
     "CRM Archive Sent": "CRM archive sent",
-    "Drafts": "Drafts",
+    "Drafts": "Koncepty",
     "INBOX": "INBOX",
     "Junk": "JUNK",
     "Sent": "SENT",
@@ -34,7 +34,7 @@
     "PLL_LOCKED": "Lock (auto)"
   },
   "js": {
-    "start_cron": "Cron started",
+    "start_cron": "Cron začal",
     "end_cron_ok": "Cron tasks finished successfully",
     "end_cron_error": "While cron was running an error has appeared",
     "JS_mail_error": "Given email address is incorrect",
@@ -43,9 +43,9 @@
     "stop_user": "User that stopped scanning",
     "Manually stopped": "Stopped manually",
     "OK": "ok",
-    "In progress": "In progress",
+    "In progress": "Prebieha",
     "whether_remove_an_identity": "Remove an identity?",
     "removed_identity": "Identity deleted",
-    "LBL_LOADING_LIST_OF_FOLDERS": "Loading folders list in progress.\r\nIt make take up to several minutes..."
+    "LBL_LOADING_LIST_OF_FOLDERS": "Prebieha načítavanie zoznamu priečinkov.\nMôže to trvať niekoľko minút..."
   }
 }

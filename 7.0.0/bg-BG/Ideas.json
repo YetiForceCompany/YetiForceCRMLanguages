@@ -1,15 +1,15 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
-    "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Ideas": "Идеи",
+    "SINGLE_Ideas": "Идея",
+    "LBL_IDEAS_INFORMATION": "Основна информация",
+    "LBL_SUBJECT": "Тема",
+    "LBL_STATUS": "Състояние",
+    "Description": "Основно описание",
+    "LBL_EXTENT_DESCRIPTION": "Подробно описание",
+    "Attention": "Коментари",
+    "LBL_NO": "Номер",
+    "Draft": "Чернова",
+    "Proposition": "Предложение"
   }
 }

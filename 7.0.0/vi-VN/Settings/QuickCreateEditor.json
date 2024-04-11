@@ -1,12 +1,12 @@
 {
   "php": {
-    "QuickCreateEditor": "Quick Create Editor",
-    "LBL_QUICK_CREATE_EDITOR": "Fields – Quick Create",
-    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
-    "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "QuickCreateEditor": "Trình tạo nhanh",
+    "LBL_QUICK_CREATE_EDITOR": "Trường - Tạo nhanh",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Mô-đun cho phép thay đổi bố cục các trường bên trong cửa sổ Tạo nhanh",
+    "LBL_SEQUENCE": "Trình tự trường",
+    "LBL_SAVE_FIELD_SEQUENCE": "Lưu trình tự trường"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "Trình tự trường đã được cập nhật"
   }
 }

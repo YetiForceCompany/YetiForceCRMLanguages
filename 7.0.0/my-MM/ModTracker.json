@@ -50,7 +50,7 @@
     "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
     "LBL_UPDATES": "System update history",
     "LBL_PERSON_MAKING_CHANGES": "Person making changes",
-    "LBL_MODULES": "Modules",
+    "LBL_MODULES": "မော်ဂျူးများ",
     "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
     "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }

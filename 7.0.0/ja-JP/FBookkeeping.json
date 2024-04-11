@@ -1,8 +1,8 @@
 {
   "php": {
-    "FBookkeeping": "Bookkeeping",
-    "SINGLE_FBookkeeping": "Bookkeeping",
-    "FBookkeeping ID": "Bookkeeping ID",
-    "FL_SUBJECT": "Subject"
+    "FBookkeeping": "簿記（簿記）",
+    "SINGLE_FBookkeeping": "簿記（簿記）",
+    "FBookkeeping ID": "簿記ID",
+    "FL_SUBJECT": "件名"
   }
 }

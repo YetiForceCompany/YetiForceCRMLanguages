@@ -3,7 +3,7 @@
     "InterestsConflict": "Conflict of interest",
     "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Conflict of interest",
     "LBL_MAIN_CONFIG": "General configuration",
-    "LBL_MODULES": "Modules",
+    "LBL_MODULES": "Moduly",
     "LBL_UNLOCK_REQUESTS": "Unblocking requests",
     "LBL_CONFIRMATIONS": "Confirmations",
     "LBL_IS_ACTIVE": "Activation of a conflict of interest",
@@ -14,7 +14,7 @@
     "LBL_USERS_CONFIRMATIONS": "Access to confirmation panel",
     "LBL_USERS_UNLOCK": "Access to unblocking requests panel",
     "LBL_RELATIONSHIP": "Relationship",
-    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Send an email when requesting access to the record",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Poslať email pri požiadavke o prístup k záznamu",
     "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail sent to the above people (Email addresses for notifications)",
     "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Send an email with the outcome of the request for access to the record",
     "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail sent to the person requesting access"

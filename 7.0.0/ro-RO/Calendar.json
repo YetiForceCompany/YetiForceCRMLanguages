@@ -197,7 +197,7 @@
     "LBL_SEVEN_DAYS": "7 days",
     "LBL_THIRTY_DAYS": "30 days",
     "LBL_SOURCE_LABEL": "Title",
-    "LBL_SOURCE_TYPE": "Type",
+    "LBL_SOURCE_TYPE": "Tip",
     "LBL_SOURCE_COLOR": "Color",
     "LBL_SOURCE_PUBLIC": "Public",
     "LBL_SOURCE_PUBLIC_DESC": "The data source will be visible to other users",

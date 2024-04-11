@@ -1,6 +1,6 @@
 {
   "php": {
-    "ModTracker": "Change history",
+    "ModTracker": "ModTracker",
     "LBL_MODTRACKER_SETTINGS": "Modules – Track Changes \/ History",
     "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Manage change history in modules",
     "LBL_MODULE": "Module",

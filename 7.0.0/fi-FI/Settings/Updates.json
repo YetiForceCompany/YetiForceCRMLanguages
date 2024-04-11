@@ -11,11 +11,11 @@
     "LBL_UPDATES": "Updates",
     "LBL_UPDATES_DESCRIPTION": "Updates history",
     "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_INSTALL_PACKAGE": "Asenna paketti",
+    "LBL_DOWNLOAD_PACKAGE": "Lataa paketti",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Saatavilla olevat päivityspaketit",
+    "LBL_INSTALLED_PACKAGES": "Asennetut paketit",
+    "LBL_PACKAGE_VERSION": "Paketin versio",
+    "LBL_NAME_PACKAGES": "Paketin nimi"
   }
 }

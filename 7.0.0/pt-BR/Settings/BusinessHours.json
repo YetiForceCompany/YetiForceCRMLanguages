@@ -1,25 +1,25 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings",
+    "LBL_BUSINESS_HOURS": "Horário de funcionamento",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "O horário comercial é um módulo onde você pode definir o horário de trabalho de sua equipe.",
+    "LBL_WORKING_HOURS_FROM": "De",
+    "LBL_WORKING_HOURS_TO": "Para",
+    "LBL_WORKING_DAYS": "Dias úteis",
+    "LBL_WORKING_HOURS": "Horário de funcionamento",
+    "LBL_DEFAULT": "Padrão",
+    "LBL_NAME": "Nome",
+    "LBL_HOLIDAYS": "Feriados",
+    "LBL_EDIT_BUSINESS_HOURS": "Editar horário de funcionamento",
+    "LBL_ADD_BUSINESS_HOURS": "Adicionar entrada de horário comercial",
+    "LBL_DEFAULT_TIMES": "Tempo padrão",
+    "LBL_DEFAULT_REACTION_TIME": "Tempo de reação padrão",
+    "LBL_DEFAULT_IDLE_TIME": "Tempo de inatividade padrão",
+    "LBL_DEFAULT_RESOLVE_TIME": "Tempo de solução padrão",
+    "LBL_HOLIDAYS_LINK": "Ir para configurações de feriados",
     "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?",
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Tem certeza que deseja excluir esta entrada?",
     "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
   }
 }

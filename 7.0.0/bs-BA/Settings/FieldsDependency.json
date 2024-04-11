@@ -1,19 +1,19 @@
 {
   "php": {
-    "FieldsDependency": "Dependent Fields",
-    "LBL_FIELDS_DEPENDENCY": "Dependent Fields",
-    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration of dynamic fields and blocks depending on specific criteria",
-    "LBL_NAME": "Dependent name",
-    "LBL_EDIT": "Edit dependent",
-    "LBL_CREATE": "Create new dependent",
-    "LBL_SOURCE_MODULE": "Module name",
-    "LBL_VIEWS": "Views",
-    "LBL_VIEWS_INFO": "List of views where fields are to be hidden/shown, if a view is not selected the fields will always be visible",
-    "LBL_FIELDS_INFO": "List of fields that will be visible only if the conditions below are met",
-    "LBL_GUI": "Dynamic fields",
-    "LBL_GUI_INFO": "Enabling it results in a dynamic showing of fields in the form when changing values in fields.\nIf disabled, the changes will only take effect after saving the data.",
-    "LBL_MANDATORY": "Mandatory fields",
-    "LBL_MANDATORY_INFO": "After enabling all fields listed below will be mandatory",
-    "LBL_CONDITIONS": "Conditions"
+    "FieldsDependency": "Zavisna polja",
+    "LBL_FIELDS_DEPENDENCY": "Zavisna polja",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Konfiguracija dinamičkih polja i blokova ovisno o određenim kriterijima",
+    "LBL_NAME": "Zavisno ime",
+    "LBL_EDIT": "Uredi zavisno",
+    "LBL_CREATE": "Kreirajte novu zavisnost",
+    "LBL_SOURCE_MODULE": "Naziv modula",
+    "LBL_VIEWS": "Pogledi",
+    "LBL_VIEWS_INFO": "Spisak pogleda u kojima se polja trebaju sakriti / prikazati, ako prikaz nije odabran, polja će uvijek biti vidljiva",
+    "LBL_FIELDS_INFO": "Spisak polja koja će biti vidljiva samo ako su ispunjeni donji uvjeti",
+    "LBL_GUI": "Dinamička polja",
+    "LBL_GUI_INFO": "Omogućavanje rezultira dinamičkim prikazom polja u formi prilikom promjene vrijednosti u poljima.\nAko je onemogućeno, promjene će stupiti na snagu tek nakon spremanja podataka.",
+    "LBL_MANDATORY": "Obavezna polja",
+    "LBL_MANDATORY_INFO": "Nakon omogućavanja sva polja navedena u nastavku bit će obavezna",
+    "LBL_CONDITIONS": "Uslovi"
   }
 }

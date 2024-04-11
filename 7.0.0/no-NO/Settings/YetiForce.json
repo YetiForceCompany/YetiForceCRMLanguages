@@ -9,9 +9,9 @@
     "LBL_REGISTRATION_COMPANY_DETAILS_VARY": "Company details vary, re-registration is required.",
     "LBL_REGISTRATION_PENDING": "Registration pending for verification",
     "LBL_ACTIVATE": "Activate",
-    "LBL_CAT_ALL": "All",
-    "LBL_CAT_ADDONS": "Addons",
-    "LBL_CAT_INTEGRATIONS": "Integrations",
+    "LBL_CAT_ALL": "Alle",
+    "LBL_CAT_ADDONS": "Utvidelser",
+    "LBL_CAT_INTEGRATIONS": "Integrasjoner",
     "LBL_DOWNLOAD_LANG": "Download language",
     "LBL_DOWNLOAD": "Download",
     "LBL_DOWNLOADED_LANGUAGE": "Downloaded language",
@@ -157,7 +157,7 @@
     "LBL_MODULE_PACKAGE_PROJECT_MANAGEMENT_DESCRIPTION": "Enable functionalities related to project management such as projects, tasks, milestones.",
     "LBL_MODULE_PACKAGE_SALES": "Sales",
     "LBL_MODULE_PACKAGE_SALES_DESCRIPTION": "Enable functionalities related to sales: opportunities, calculations, quotes, orders, price books and more.",
-    "LBL_MODULE_PACKAGE_SUPPORT": "Support",
+    "LBL_MODULE_PACKAGE_SUPPORT": "Støtte",
     "LBL_MODULE_PACKAGE_SUPPORT_DESCRIPTION": "Enable support features such as tickets, knowledge base, service contracts.",
     "LBL_INDIVIDUAL_PRICING": "Individual pricing"
   }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_CRON_EMAIL_SUBJECT": "Scheduled import has finished",
-    "LBL_CRON_COMPLETED_IMPORT": "Record import summary for the module:",
+    "LBL_CRON_EMAIL_SUBJECT": "L'importation planifiée est terminée",
+    "LBL_CRON_COMPLETED_IMPORT": "Enregistrer le résumé d'importation pour le module :",
     "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
     "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
     "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)",

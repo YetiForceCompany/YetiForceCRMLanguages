@@ -2,7 +2,7 @@
   "php": {
     "Sharing Rules": "Sharing rules",
     "SharingAccess": "Sharing rules",
-    "Accounts": "Accounts and contacts",
+    "Accounts": "Fiókok és névjegyek",
     "LBL_ADD_CUSTOM_RULE": "Add custom rule",
     "LBL_ADD_CUSTOM_RULE_TO": "Add custom rule to",
     "LBL_ADVANCED_SHARING_RULES": "Advanced sharing rules",
@@ -25,16 +25,16 @@
     "SINGLE_Roles": "Role",
     "SINGLE_Users": "User",
     "Roles": "Roles",
-    "Private": "Private",
+    "Private": "Magán",
     "Public: Read Only": "Public: Read only",
     "Public: Read, Create\/Edit, Delete": "Public: Read, Create\/Edit, Delete",
     "Public: Read, Create\/Edit": "Public: Read, Create\/Edit",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Custom sharing rule saved successfully",
-    "LBL_CUSTOM_RULE_SAVED_FAILED": "Saving sharing access rule failed",
-    "LBL_CUSTOM_RULE_DELETING_FAILED": "Deleting sharing access rule failed"
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "A hozzáférési szabály mentése nem sikerült",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "A hozzáférési szabályt nem sikerült törölni"
   },
   "js": {
-    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Opportunities, Tickets, Quotes & Invoice access must be set to private when the Account access is set to private",
+    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Amikor a Fiókhozzáférés privátra van állítva, a Lehetőségek, Hibajegyek, Ajánlatok és Számla hozzáférést privátnak kell beállítani",
     "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "New sharing rules applied successfully",
     "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Select any other accessing user"
   }

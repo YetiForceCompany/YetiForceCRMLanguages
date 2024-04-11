@@ -15,9 +15,9 @@
     "LBL_URL": "URL",
     "LBL_AGENT": "Agent",
     "LBL_REQUEST": "Request",
-    "LBL_TIME": "Time",
-    "LBL_CATEGORY": "Category",
-    "LBL_CODE": "Code",
+    "LBL_TIME": "Tid",
+    "LBL_CATEGORY": "Kategori",
+    "LBL_CODE": "Kode",
     "LBL_BASE_USER": "Base user",
     "LBL_DEST_USER": "Target user",
     "LBL_MAILS_NOT_SENT": "E-mails not sent",
@@ -25,7 +25,7 @@
     "LBL_PARAMS": "Params",
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
-    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER": "Loggleser",
     "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }

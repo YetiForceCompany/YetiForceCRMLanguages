@@ -1,9 +1,9 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field",
+    "CustomView": "Filters - Configuratie",
+    "LBL_FEATURED": "Toevoegen aan favorieten",
+    "LBL_COLOR_VIEW": "Kleur bekijken",
+    "LBL_ADD_FIELD": "Veld toevoegen",
     "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
     "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
     "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",

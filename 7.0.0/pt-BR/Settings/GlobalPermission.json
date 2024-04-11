@@ -1,14 +1,14 @@
 {
   "php": {
-    "Access to record": "Access to records",
-    "GlobalPermission": "Special access",
-    "LBL_Module_desc": "Here you can define which profiles have access to all records regardless of roles.",
-    "LBL_PROFILE_NAME": "Profile name",
-    "LBL_DESCRIPTION": "Profile description",
-    "LBL_VIEW_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Browsing",
-    "LBL_VIEW_ALL": "Enable preview of all records",
-    "LBL_EDIT_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Create\/Edit.",
-    "LBL_EDIT_ALL": "Enable editing of all records",
-    "LBL_SAVE_OK": "Saved change"
+    "Access to record": "Acesso aos registros",
+    "GlobalPermission": "Acesso aos registros",
+    "LBL_Module_desc": "Aqui você poderá definir quais Perfis terão acesso a todos os registros independente das funções.",
+    "LBL_PROFILE_NAME": "Nome do Perfil",
+    "LBL_DESCRIPTION": "Descrição do Perfil",
+    "LBL_VIEW_ALL_DESC": "Se você marcar esta opção, todos os módulos terão esta opção marcada por: Examinando",
+    "LBL_VIEW_ALL": "Habilitar visaulização de todos os registros",
+    "LBL_EDIT_ALL_DESC": "Se você marcar esta opção, todos os módulos terão esta opção marcada por: Criar\/Editar.",
+    "LBL_EDIT_ALL": "Habilitar edição de todos os registros",
+    "LBL_SAVE_OK": "As alterações foram salvas"
   }
 }

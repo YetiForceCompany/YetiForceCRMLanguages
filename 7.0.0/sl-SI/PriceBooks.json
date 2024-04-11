@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
-    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
+    "LBL_ADD_TO": "Dodaj k",
+    "LBL_EDIT_LIST_PRICE": "Uredi cenik",
+    "LBL_PRICEBOOK_INFORMATION": "Osnovni podatki cenika",
+    "LBL_UNIT_PRICE": "Cena/EM",
+    "Price Book Name": "Ime cenika",
+    "PriceBook No": "Št. cenika",
+    "PriceBooks": "Ceniki",
+    "SINGLE_PriceBooks": "Cenik",
+    "yes": "Da",
+    "no": "Ne",
+    "Unit Price": "Cena/EM",
+    "LBL_SPECIFY_THE_MARGIN": "Določite maržo",
+    "LBL_SPECIFY_THE_MARGINP": "Določite maržo (%)"
   }
 }

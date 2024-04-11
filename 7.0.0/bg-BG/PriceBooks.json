@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
-    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
+    "LBL_ADD_TO": "Добави към",
+    "LBL_EDIT_LIST_PRICE": "Редактиране на ценова листа",
+    "LBL_PRICEBOOK_INFORMATION": "Подробности за ценовата листа",
+    "LBL_UNIT_PRICE": "Цена на артикула",
+    "Price Book Name": "Име на ценовата листа",
+    "PriceBook No": "Номер на ценовата листа",
+    "PriceBooks": "Ценови листи",
+    "SINGLE_PriceBooks": "Ценова листа",
+    "yes": "Да",
+    "no": "Не",
+    "Unit Price": "Цена на артикула",
+    "LBL_SPECIFY_THE_MARGIN": "Разлика",
+    "LBL_SPECIFY_THE_MARGINP": "Разлика (%)"
   }
 }

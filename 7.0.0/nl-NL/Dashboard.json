@@ -1,6 +1,6 @@
 {
   "php": {
-    "Dashboards": "My home page",
+    "Dashboards": "Mijn startpagina",
     "LBL_ADD_FILTER": "Add widget from filter",
     "LBL_ADD_FILTER_DESC": "Only filters with the \"list in metrics\" option enabled are available.",
     "LBL_ADD_CHART_FILTER": "Add chart from filter",

@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_SLA_POLICY": "Dogovor o ravni storitve",
     "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
+    "LBL_EDIT": "Uredi dogovor o ravni storitve",
+    "LBL_CREATE": "Dodaj dogovor o ravni storitve",
     "LBL_SOURCE_MODULE": "Module",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "Izberite delovni čas",
+    "JS_BUSINESS_HOURS_FROM": "Od",
+    "JS_BUSINESS_HOURS_TO": "Do",
+    "JS_BUSINESS_HOURS_NAME": "Ime",
+    "JS_BUSINESS_HOURS_DAYS": "Delovni dnevi",
+    "JS_HOLIDAYS": "Prazniki"
   }
 }

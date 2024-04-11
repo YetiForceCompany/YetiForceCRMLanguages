@@ -1,6 +1,6 @@
 {
   "php": {
-    "FieldsDependency": "Dependent Fields",
+    "FieldsDependency": "Afhankelijke velden",
     "LBL_FIELDS_DEPENDENCY": "Dependent Fields",
     "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration of dynamic fields and blocks depending on specific criteria",
     "LBL_NAME": "Dependent name",

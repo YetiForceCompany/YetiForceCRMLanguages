@@ -17,7 +17,7 @@
     "LBL_END_TIME": "呼叫结束",
     "LBL_COUNTRY_CODE": "国家/地区代码",
     "LBL_IMEI": "国际移动设备识别码(IMEI)",
-    "LBL_IPADDRESS": "IP address",
+    "LBL_IPADDRESS": "IP 地址",
     "LBL_SIMSERIAL": "SIM卡号码",
     "LBL_SUBSCRIBERID": "订阅数",
     "LBL_DESTINATION": "呼叫地点",
@@ -26,7 +26,7 @@
     "Outgoing missed": "未接拨出电话",
     "Outgoing received": "已接拨出电话",
     "Incoming": "已接来电",
-    "Missed": "Incoming missed",
-    "Voicemail": "Incoming voicemail"
+    "Missed": "未接来电",
+    "Voicemail": "收到的语音邮件"
   }
 }

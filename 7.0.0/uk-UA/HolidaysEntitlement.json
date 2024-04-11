@@ -1,12 +1,12 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
-    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
-    "LBL_CUSTOM_INFORMATION": "System Information",
-    "LBL_YEAR": "Year",
-    "LBL_DAYS": "Number of holidays",
-    "LBL_EMPLOYEE": "Employee",
-    "LBL_NUMBER": "Number"
+    "HolidaysEntitlement": "Щорічні відпустки",
+    "SINGLE_HolidaysEntitlement": "Щорічна відпустка",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "Системна інфрмація",
+    "LBL_YEAR": "Рік",
+    "LBL_DAYS": " Кількість вихідних та святкових днів",
+    "LBL_EMPLOYEE": "Співробітники",
+    "LBL_NUMBER": "Номер"
   }
 }

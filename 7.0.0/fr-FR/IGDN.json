@@ -1,22 +1,22 @@
 {
   "php": {
-    "IGDN": "Goods Dispatched Note",
-    "SINGLE_IGDN": "Goods Dispatched Note",
+    "IGDN": "Bons de livraison",
+    "SINGLE_IGDN": "Bon de livraison",
     "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
-    "FL_ACCEPTANCE_DATE": "Date of acceptance",
-    "FL_ACCOUNT": "Account",
-    "FL_SUBJECT": "Subject",
-    "FL_NUMBER": "Number",
-    "FL_STORAGE": "Storage",
-    "FL_STATUS": "Status",
-    "FL_SSIGNLEORDERS": "Purchase Order",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
+    "LBL_ATTENTION_BLOCK": "Commentaires",
+    "FL_ACCEPTANCE_DATE": "Date de réception",
+    "FL_ACCOUNT": "Compte",
+    "FL_SUBJECT": "Sujet",
+    "FL_NUMBER": "Nombre",
+    "FL_STORAGE": "Stockage",
+    "FL_STATUS": "Statut",
+    "FL_SSIGNLEORDERS": "Commande unique",
+    "PLL_DRAFT": "Brouillon",
+    "PLL_IN_REALIZATION": "En cours",
     "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "PLL_FOR_APPROVAL": "Pour approbation",
+    "PLL_CANCELLED": "Annulé",
+    "PLL_ACCEPTED": "Accepté",
+    "LBL_CHANGE_STATUS": "Changer le statut"
   }
 }

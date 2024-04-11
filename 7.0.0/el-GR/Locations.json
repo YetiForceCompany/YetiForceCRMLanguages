@@ -1,15 +1,15 @@
 {
   "php": {
-    "Locations": "Locations",
-    "SINGLE_Locations": "Location",
-    "LBL_LOCATIONS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "FL_PHONE": "Phone",
-    "FL_CAPACITY": "Capacity",
+    "Locations": "Τοποθεσίες",
+    "SINGLE_Locations": "Τοποθεσία",
+    "LBL_LOCATIONS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες Περιγραφής",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Χρόνος κλεισίματος",
+    "FL_PHONE": "Τηλέφωνο",
+    "FL_CAPACITY": "Χωρητικότητα",
     "FL_COORDINATES": "Coordinates"
   }
 }

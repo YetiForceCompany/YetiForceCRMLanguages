@@ -1,15 +1,15 @@
 {
   "php": {
-    "LBL_PROJECT_CONFIGURATION": "Project",
-    "LBL_INFO": "Information",
+    "LBL_PROJECT_CONFIGURATION": "Projekt",
+    "LBL_INFO": "Informacije",
     "LBL_TYPE": "Status",
-    "LBL_PROJECT": "Project",
-    "LBL_PROJECT_STATUS_INFO": "Statuses determining that the project is closed",
-    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",
-    "LBL_PROJECTTASK_STATUS_INFO": "Statuses determining that the task is closed",
-    "LBL_SAVE_CONFIG_OK": "Changes saved successfully.",
-    "LBL_SAVE_CONFIG_ERROR": "Failed to save changes.",
-    "RealizationProcesses": "Realization processes"
+    "LBL_PROJECT": "Projekt",
+    "LBL_PROJECT_STATUS_INFO": "Statusi, ki določajo, da je projekt zaključena",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statusi, ki določajo, da je mejnik zaključen",
+    "LBL_PROJECTTASK_STATUS_INFO": "Statusi, ki določajo, da je naloga zaključena",
+    "LBL_SAVE_CONFIG_OK": "Spremembe so uspešno shranjene.",
+    "LBL_SAVE_CONFIG_ERROR": "Shranjevanje sprememb je spodletelo.",
+    "RealizationProcesses": "Finančni procesi"
   },
   "js": {}
 }

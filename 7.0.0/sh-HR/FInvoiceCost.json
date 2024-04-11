@@ -24,14 +24,14 @@
     "PLL_FULLY_PAID": "U potpunosti plaćeno",
     "PLL_DOMESTIC_INVOICE": "Domaća faktura",
     "PLL_FOREIGN_INVOICE": "Strana faktura",
-    "PLL_IC_INVOICE": "Intra-Community supply of goods invoice",
-    "PLL_UNASSIGNED": "Unassigned",
-    "PLL_AWAITING_REALIZATION": "Awaiting realization",
-    "PLL_FOR_PROCESSING": "For processing",
-    "PLL_IN_PROGRESSING": "In progressing",
-    "PLL_SUBMITTED_COMMENTS": "Submitted comments",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted"
+    "PLL_IC_INVOICE": "Faktura o isporuci robe unutar Zajednice",
+    "PLL_UNASSIGNED": "Nedodijeljeno",
+    "PLL_AWAITING_REALIZATION": "Očekuje se realizacija",
+    "PLL_FOR_PROCESSING": "Za obradu",
+    "PLL_IN_PROGRESSING": "U toku",
+    "PLL_SUBMITTED_COMMENTS": "Potvrđeni komentari",
+    "PLL_FOR_APPROVAL": "Za odobrenje",
+    "PLL_CANCELLED": "Otkazano",
+    "PLL_ACCEPTED": "Prihvaćeno"
   }
 }

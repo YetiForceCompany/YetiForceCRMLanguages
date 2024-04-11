@@ -1,21 +1,21 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
-    "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "Updates": "Ενημερώσεις",
+    "LBL_YES": "Ναι",
+    "LBL_NO": "Όχι",
+    "LBL_TIME": "Ημερομηνία",
+    "LBL_USER": "Όνομα χρήστη",
+    "LBL_FROM_VERSION": "Από την έκδοση",
+    "LBL_TO_VERSION": "Στην έκδοση",
+    "LBL_RESULT": "Κατάσταση",
+    "LBL_UPDATES": "Ενημερώσεις",
+    "LBL_UPDATES_DESCRIPTION": "Ιστορικό ενημερώσεων",
+    "LBL_IMPORT_UPDATE": "Μεταφόρτωση ενημερωμένης έκδοσης",
+    "LBL_INSTALL_PACKAGE": "Εγκατάσταση πακέτου",
+    "LBL_DOWNLOAD_PACKAGE": "Κατεβάστε το πακέτο",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Διαθέσιμη αναβάθμιση των πακέτων",
+    "LBL_INSTALLED_PACKAGES": "Εγκατεστημένα πακέτα",
+    "LBL_PACKAGE_VERSION": "Έκδοση πακέτου",
+    "LBL_NAME_PACKAGES": "Όνομα πακέτου"
   }
 }

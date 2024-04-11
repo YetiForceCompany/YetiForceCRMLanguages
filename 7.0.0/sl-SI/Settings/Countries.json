@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_COUNTRY_NAME": "Country name",
-    "LBL_COUNTRY_SHORTNAME": "Country code",
-    "LBL_COUNTRY_TOGGLE_STATUS": "Is the country avalabile globally in the system?",
-    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Enable or disable all countries",
-    "LBL_VISIBLE_IN_PHONE": "Is the country visible in phone type field?",
-    "LBL_VISIBLE_IN_COUNTRY": "Is the country visible in \"Country\" address field?",
-    "LBL_ROW_TO_TOP": "Move row to the top",
-    "LBL_ROW_TO_BOTTOM": "Move row to the bottom",
-    "LBL_COUNTRY_SETTINGS": "Country settings",
-    "LBL_COUNTRY_DESCRIPTION": "Configure the availability of countries in the system",
-    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
-    "LBL_DEFAULT_PHONE_FROM_USER": "User",
-    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
+    "LBL_COUNTRY_NAME": "Ime države",
+    "LBL_COUNTRY_SHORTNAME": "Šifra države",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Ali naj bo država v celotnem sistemu na voljo?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Omogočite ali onemogočite vse države",
+    "LBL_VISIBLE_IN_PHONE": "Ali je treba državo vključiti v telefonsko številko?",
+    "LBL_VISIBLE_IN_COUNTRY": "Ali naj bo država prikazana v naslovih?",
+    "LBL_ROW_TO_TOP": "Premakni vrstico povsem gor",
+    "LBL_ROW_TO_BOTTOM": "Premakni vrstico povsem dol",
+    "LBL_COUNTRY_SETTINGS": "Nastavitve države",
+    "LBL_COUNTRY_DESCRIPTION": "Nastavitev razpoložljivosti države v sistemu",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Plošča",
+    "LBL_DEFAULT_PHONE_FROM_USER": "Uporabnik",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Izberite, kako želite naložiti privzeto državo:"
   },
   "js": {
-    "JS_COUNTRY_SETTING": "Country settings"
+    "JS_COUNTRY_SETTING": "Nastavitve države"
   }
 }

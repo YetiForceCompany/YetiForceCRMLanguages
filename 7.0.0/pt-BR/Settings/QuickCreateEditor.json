@@ -1,12 +1,12 @@
 {
   "php": {
-    "QuickCreateEditor": "Quick Create Editor",
-    "LBL_QUICK_CREATE_EDITOR": "Fields – Quick Create",
-    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
-    "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "QuickCreateEditor": "Editor de Criação Rápida",
+    "LBL_QUICK_CREATE_EDITOR": "Campos – Criação Rápida",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Este módulo permite alterar o layout dos campos na janela de criação rápida",
+    "LBL_SEQUENCE": "Sequência de Campos",
+    "LBL_SAVE_FIELD_SEQUENCE": "Salvar Sequência de Campos"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "Sequência de Campos Atualizada"
   }
 }

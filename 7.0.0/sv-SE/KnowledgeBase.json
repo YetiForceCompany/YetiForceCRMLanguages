@@ -1,8 +1,8 @@
 {
   "php": {
-    "KnowledgeBase": "Knowledge Base",
-    "SINGLE_KnowledgeBase": "Knowledge Base",
-    "BTN_KNOWLEDGE_BASE": "Knowledge Base",
+    "KnowledgeBase": "Kunskapsbas",
+    "SINGLE_KnowledgeBase": "Kunskapsbas",
+    "BTN_KNOWLEDGE_BASE": "Kunskapsbas",
     "LBL_CUSTOM_INFORMATION": "Custom information",
     "FL_SUBJECT": "Subject",
     "LBL_KNOWLEDGEBASE_INFORMATION": "Basic information",
@@ -11,7 +11,7 @@
     "FL_VIEWS": "View",
     "PLL_PAGE": "Page",
     "PLL_PRESENTATION": "Presentation",
-    "LBL_VIEW_KNOWLEDGE_BASE": "Knowledge base",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Kunskapsbas",
     "LBL_PREVIOUS": "Previous",
     "LBL_NEXT": "Next",
     "LBL_LIST_RECORDS": "Records list",

@@ -1,21 +1,21 @@
 {
   "php": {
-    "Updates": "Updates",
+    "Updates": "Posodobitve",
     "LBL_YES": "Yes",
     "LBL_NO": "No",
-    "LBL_TIME": "Date",
+    "LBL_TIME": "Datum",
     "LBL_USER": "Username",
     "LBL_FROM_VERSION": "From version",
     "LBL_TO_VERSION": "To version",
     "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
+    "LBL_UPDATES": "Posodobitve",
+    "LBL_UPDATES_DESCRIPTION": "Zgodovina posodobitev",
     "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_INSTALL_PACKAGE": "Naloži podosobitev",
+    "LBL_DOWNLOAD_PACKAGE": "Naložene podosobitve",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Na voljo so naslednje posodobitve",
+    "LBL_INSTALLED_PACKAGES": "Inštalirane posodobitve",
+    "LBL_PACKAGE_VERSION": "Verzija posodobitve",
+    "LBL_NAME_PACKAGES": "Ime posodobitve"
   }
 }

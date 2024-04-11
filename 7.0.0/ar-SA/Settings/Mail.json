@@ -24,7 +24,7 @@
     "LBL_WAITING_TO_BE_SENT": "Waiting to be sent",
     "LBL_ERROR_DURING_SENDING": "Error while sending",
     "LBL_EMAIL_DETAIL": "Email message details",
-    "LBL_ACCEPTANCE_RECORD": "Acceptance record",
+    "LBL_ACCEPTANCE_RECORD": "سجل القبول",
     "LBL_ATTACHMENTS": "Attachments",
     "LBL_FROM": "From",
     "LBL_SEND_EMAIL_MANUALLY": "Send email manually",

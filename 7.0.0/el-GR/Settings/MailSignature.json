@@ -1,12 +1,12 @@
 {
   "php": {
-    "MailSignature": "Email signature",
-    "LBL_MAIL_SIGNATURE": "Email signature",
-    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Configure email signatures",
-    "FL_NAME": "Name",
-    "FL_DEFAULT": "Default",
-    "FL_BODY": "Body",
-    "BL_BASE": "Base"
+    "MailSignature": "Υπογραφή ηλεκτρονικού ταχυδρομείου",
+    "LBL_MAIL_SIGNATURE": "Υπογραφή ηλεκτρονικού ταχυδρομείου",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Ρύθμιση υπογραφών ηλεκτρονικού ταχυδρομείου",
+    "FL_NAME": "Όνομα",
+    "FL_DEFAULT": "Προεπιλογή",
+    "FL_BODY": "Κύριο Μέρος",
+    "BL_BASE": "Βάση"
   },
   "js": {}
 }

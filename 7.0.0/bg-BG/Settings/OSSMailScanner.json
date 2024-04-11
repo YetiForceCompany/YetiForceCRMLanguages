@@ -1,16 +1,16 @@
 {
   "php": {
-    "OSSMailScanner_manual": "Mail Scanner",
-    "OSSMailScanner": "Mail Scanner",
-    "Mail Scanner": "Mail – Scanner",
-    "LBL_VIEW_LOGS": "Mail protocol",
-    "LBL_PAGE_NUMBER": "Go to page number",
-    "CRM Archive": "CRM archive",
-    "CRM Archive Sent": "CRM archive sent",
-    "Drafts": "Drafts",
+    "OSSMailScanner_manual": "Mail скенер",
+    "OSSMailScanner": "Mail скенер",
+    "Mail Scanner": "Mail - скенер",
+    "LBL_VIEW_LOGS": "Mail протокол",
+    "LBL_PAGE_NUMBER": "Отиди на страница номер",
+    "CRM Archive": "Архив на CRM",
+    "CRM Archive Sent": "Архив на CRM е изпращен",
+    "Drafts": "Чернови",
     "INBOX": "INBOX",
     "Junk": "JUNK",
-    "Sent": "SENT",
+    "Sent": "Изпратени",
     "ERR_INCORRECT_ACCESS_DATA": "Incorrect access data",
     "LBL_INFO_ABOUT_FOLDERS_TO_REMOVE": "The folders below will be removed after saving",
     "LBL_OAUTH_AUTHORIZATION": "Authorization",
@@ -34,7 +34,7 @@
     "PLL_LOCKED": "Lock (auto)"
   },
   "js": {
-    "start_cron": "Cron started",
+    "start_cron": "Cron започна",
     "end_cron_ok": "Cron tasks finished successfully",
     "end_cron_error": "While cron was running an error has appeared",
     "JS_mail_error": "Given email address is incorrect",
@@ -42,9 +42,9 @@
     "JS_StopCron": "Manually stop the cron",
     "stop_user": "User that stopped scanning",
     "Manually stopped": "Stopped manually",
-    "OK": "ok",
-    "In progress": "In progress",
-    "whether_remove_an_identity": "Remove an identity?",
+    "OK": "ок",
+    "In progress": "В изпълнение",
+    "whether_remove_an_identity": "Изтриване на профил?",
     "removed_identity": "Identity deleted",
     "LBL_LOADING_LIST_OF_FOLDERS": "Loading folders list in progress.\r\nIt make take up to several minutes..."
   }

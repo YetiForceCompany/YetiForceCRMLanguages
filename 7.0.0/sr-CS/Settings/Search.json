@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
-    "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Search Configuration": "Konfiguracija pretrage",
+    "Search Setup": "Etikete i pretraživanje",
+    "Search": "Konfiguracija pretrage",
+    "LBL_Module_desc": "Ova ploča omogućava postavljanje naljepnica za uitype 10 polja i mehanizme za pretraživanje. Ovi mehanizmi funkcioniraju nezavisno - tijekom pretraživanja možete vidjeti mnoge stupce u polju, ali kad odaberete zapis, učitava se ime s naljepnice.",
+    "Module": "Modul",
+    "Table": "Tabela",
+    "LabelFields": "Glavne kolone modula (uključujući oznaku za uitype 10)",
+    "SearchFields": "Kolone za mehanizme pretraživanja",
+    "Tools": "Akcije",
+    "Update labels": "Ažurirajte etikete",
+    "LBL_SAVE_CHANGES_SEARCHING": "Spremljene promjene.",
+    "LBL_SAVE_CHANGES_LABLE": "Promjene u konfiguraciji su spremljene, morate ažurirati ovaj modul da biste vidjeli promjene unutar sustava.",
+    "Update has been completed": "Izabrani modul je uspješno ažuriran. Promjene će se ostvariti putem CRON-a. Vrijeme ažuriranja naljepnica ovisi o količini podataka.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Spremite redoslijed modula",
+    "LBL_TURN_ON": "Uključi",
+    "LBL_TURN_OFF": "Ugasiti"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "Ažuriranje u toku…",
+    "Update labels": "Ažuriraj",
+    "JS_MODULES_SEQUENCE_UPDATED": "Ažuriran je redoslijed modula",
+    "JS_TURN_ON": "Uključi",
+    "JS_TURN_OFF": "Ugasiti"
   }
 }

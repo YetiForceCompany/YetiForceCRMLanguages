@@ -1,10 +1,10 @@
 {
   "php": {
-    "Payments": "Payments",
-    "LBL_RIGHT_CLICK_COPY": "Right click and copy"
+    "Payments": "Paiements",
+    "LBL_RIGHT_CLICK_COPY": "Clic droit et copier"
   },
   "js": {
-    "JS_DELETED_SUCCESSFULLY": "Deleted successfully",
-    "JS_SAVED_SUCCESSFULLY": "Saved successfully"
+    "JS_DELETED_SUCCESSFULLY": "Supprimé avec succès",
+    "JS_SAVED_SUCCESSFULLY": "Sauvegardé avec succès"
   }
 }

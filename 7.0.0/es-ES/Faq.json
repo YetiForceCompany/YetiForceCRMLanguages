@@ -15,15 +15,15 @@
     "LBL_NEXT": "Siguiente",
     "FL_STATUS": "Estado",
     "LBL_ARTICLE": "Artículo",
-    "FL_FEATURED": "Featured",
-    "LBL_RELATED_FAQ": "Related entries",
-    "FL_INTRODUCTION": "Introduction",
-    "Faq No": "FAQ number",
+    "FL_FEATURED": "Destacado",
+    "LBL_RELATED_FAQ": "Entradas relacionadas",
+    "FL_INTRODUCTION": "Introducción",
+    "Faq No": "ID",
     "General": "General",
-    "LBL_FAQ_INFORMATION": "FAQ information",
-    "LBL_RECORDS_LIST": "FAQs list",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question"
+    "LBL_FAQ_INFORMATION": "Información sobre el FAQ",
+    "LBL_RECORDS_LIST": "Lista",
+    "Obsolete": "Obsoleta",
+    "Published": "Publicada",
+    "Question": "Pregunta"
   }
 }

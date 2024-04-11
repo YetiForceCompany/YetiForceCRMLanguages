@@ -1,12 +1,12 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_PARENT_CATEGORY": "Parent category",
-    "LBL_CHILD_PRODUCTCATEGORY": "Subcategories",
-    "FL_ACTIVE": "Active",
-    "FL_CATEGORY_NAME": "Category name"
+    "ProductCategory": "Kategorija proizvoda",
+    "SINGLE_ProductCategory": "Kategorija proizvoda",
+    "LBL_CUSTOM_INFORMATION": "Prilagođene informacije",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "FL_PARENT_CATEGORY": "Nadređena kategorija",
+    "LBL_CHILD_PRODUCTCATEGORY": "Podkategorije",
+    "FL_ACTIVE": "Aktivan",
+    "FL_CATEGORY_NAME": "Naziv kategorije"
   }
 }

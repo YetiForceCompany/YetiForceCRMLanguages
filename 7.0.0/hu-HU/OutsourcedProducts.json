@@ -1,11 +1,11 @@
 {
   "php": {
-    "OutsourcedProducts": "Outsourced Products",
-    "SINGLE_OutsourcedProducts": "Outsourced Product",
-    "LBL_INFORMATION": "Outsourced Products",
-    "Assigned To": "Assigned to",
+    "OutsourcedProducts": "Kiszervezett termékek",
+    "SINGLE_OutsourcedProducts": "Kiszervezett termék",
+    "LBL_INFORMATION": "Kiszervezett termékek",
+    "Assigned To": "Hozzárendelve",
     "LBL_RODZAJUMOWY": "Type of agreement",
-    "LBL_osservicesstatus": "Status",
+    "LBL_osservicesstatus": "Státusz",
     "Individual Agreement": "Individual agreement",
     "In service": "Is supported",
     "Finished support": "Support terminated",
@@ -14,15 +14,15 @@
     "Category": "Category",
     "Date Sold": "Date of sale",
     "Date in Service": "Support termination date",
-    "Description": "Description",
+    "Description": "Leírás",
     "LBL_DESCRIPTION_INFORMATION": "Descriptive information",
-    "LBL_CUSTOM_INFORMATION": "System information",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
     "Where bought": "Where bought",
     "Number": "Number",
-    "Save": "Save",
+    "Save": "Mentés",
     "Selling proposition": "Potential",
     "LBL_GENERATE_EXTENSION": "Generate extension",
-    "Active": "Active",
-    "Inactive": "Inactive"
+    "Active": "Aktív",
+    "Inactive": "Inaktív"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_OTHER": "Other",
-    "Automatic signed off": "Automatic logout",
+    "LBL_OTHER": "その他",
+    "Automatic signed off": "自動ログアウト",
     "LBL_LOGIN_TIME": "Date time",
     "LBL_LOGGED_OUT_TIME": "Sign-out time"
   }

@@ -1,12 +1,12 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_PARENT_CATEGORY": "Parent category",
-    "LBL_CHILD_PRODUCTCATEGORY": "Subcategories",
-    "FL_ACTIVE": "Active",
-    "FL_CATEGORY_NAME": "Category name"
+    "ProductCategory": "Κατηγορία προϊόντος",
+    "SINGLE_ProductCategory": "Κατηγορία προϊόντος",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "FL_PARENT_CATEGORY": "Μητρική κατηγορία",
+    "LBL_CHILD_PRODUCTCATEGORY": "Υποκατηγορίες",
+    "FL_ACTIVE": "Ενεργή",
+    "FL_CATEGORY_NAME": "Όνομα κατηγορίας"
   }
 }

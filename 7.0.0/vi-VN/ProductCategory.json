@@ -1,12 +1,12 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_PARENT_CATEGORY": "Parent category",
-    "LBL_CHILD_PRODUCTCATEGORY": "Subcategories",
-    "FL_ACTIVE": "Active",
-    "FL_CATEGORY_NAME": "Category name"
+    "ProductCategory": "Nhóm hàng hóa",
+    "SINGLE_ProductCategory": "Nhóm hàng hóa",
+    "LBL_CUSTOM_INFORMATION": "Thông tin tuỳ chỉnh",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "FL_PARENT_CATEGORY": "Nhóm cha",
+    "LBL_CHILD_PRODUCTCATEGORY": "Tiểu mục",
+    "FL_ACTIVE": "Hoạt động",
+    "FL_CATEGORY_NAME": "Tên nhóm"
   }
 }

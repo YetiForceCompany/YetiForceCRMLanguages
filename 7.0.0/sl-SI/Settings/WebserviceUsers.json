@@ -1,28 +1,28 @@
 {
   "php": {
-    "WebserviceUsers": "Web service - Users",
-    "LBL_WEBSERVICE_USERS": "Web service - Users",
+    "WebserviceUsers": "Spletne storitve - Uporabniki",
+    "LBL_WEBSERVICE_USERS": "Spletne storitve - Uporabniki",
     "LBL_WEBSERVICE_USERS_DESCRIPTION": " ",
     "LBL_SESSION_RECORD": "API User session list",
-    "FL_SERVER": "Server",
+    "FL_SERVER": "Strežnik",
     "FL_STATUS": "Status",
-    "FL_LOGIN": "Login",
-    "FL_PASSWORD": "Password",
-    "FL_TYPE": "Type",
+    "FL_LOGIN": "Prijava",
+    "FL_PASSWORD": "Geslo",
+    "FL_TYPE": "Vrsta",
     "FL_LOGIN_TIME": "Last login time",
     "FL_LOGOUT_TIME": "Date of last logout",
-    "FL_LANGUAGE": "Language",
+    "FL_LANGUAGE": "Jezik",
     "FL_RECORD_NAME": "Contact",
     "FL_USER": "Permissions profile",
-    "BTN_SAVE": "Save",
-    "BTN_CLOSE": "Cancel",
-    "PLL_USER_PERMISSIONS": "Permissions based on user",
+    "BTN_SAVE": "Shrani",
+    "BTN_CLOSE": "Prekliči",
+    "PLL_USER_PERMISSIONS": "Dovoljenja na podlagi uporabnika",
     "PLL_CONTACT_RELATED_RECORDS": "All related records directly to contact",
-    "PLL_ACCOUNTS_RELATED_RECORDS": "All records of account assigned directly to contact",
-    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts lower in hierarchy",
-    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "All related records of account assigned directly to contact and accounts from hierarchy",
+    "PLL_ACCOUNTS_RELATED_RECORDS": "Vse zapise podjetja dodeli neposredno v stik",
+    "PLL_ACCOUNTS_RELATED_RECORDS_AND_LOWER_IN_HIERARCHY": "Vse sorodne zapise račun dodeljena neposredno v stik in račune, ki so nižje v hierarhiji",
+    "PLL_ACCOUNTS_RELATED_RECORDS_IN_HIERARCHY": "Vse sorodne zapise račun dodeljena neposredno v stik in račune, ki so v hierarhiji",
     "LBL_HISTORY_ACTIVITY": "History of access activity",
-    "LBL_CREATE_RECORD": "Create",
+    "LBL_CREATE_RECORD": "Ustvari",
     "Mail": "Mail",
     "FL_STORAGE": "Storage",
     "FL_TOKEN": "Token",
@@ -58,7 +58,7 @@
     "LBL_RESET_PASSWORD_CHANGED": "Password reset"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_DELETE_CONFIRMATION": "Si prepričan, da želiš zbrisati ključ?",
+    "JS_SAVE_SUCCESS": "Sprembe so uspešno shranjene"
   }
 }

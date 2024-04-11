@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_ADD_USERS_ROLES": "Add Users, Roles...",
-    "LBL_DUPLICATES_EXIST": "Group name already exists",
-    "LBL_GROUP_MEMBERS": "Group members",
-    "LBL_GROUP_NAME": "Group name",
-    "LBL_ROLEANDSUBORDINATE": "Role and subordinates",
-    "LBL_TO_OTHER_GROUP": "To other group ",
-    "LBL_TRANSFORM_OWNERSHIP": "Transfer ownership",
-    "SINGLE_Groups": "Group",
-    "Users": "Users",
-    "Name": "Group name",
-    "Description": "Description",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_ADD_USERS_ROLES": "Dodaj korisnike, uloge ...",
+    "LBL_DUPLICATES_EXIST": "Naziv grupe već postoji",
+    "LBL_GROUP_MEMBERS": "Članovi grupe",
+    "LBL_GROUP_NAME": "Naziv grupe",
+    "LBL_ROLEANDSUBORDINATE": "Uloga i podređeni",
+    "LBL_TO_OTHER_GROUP": "U drugu grupu",
+    "LBL_TRANSFORM_OWNERSHIP": "Prenos vlasništva",
+    "SINGLE_Groups": "Grupa",
+    "Users": "Korisnici",
+    "Name": "Naziv grupe",
+    "Description": "Opis",
     "FL_PARENT": "Team leader",
     "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
     "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
@@ -19,7 +19,7 @@
     "LBL_DELETE_GROUP": "Delete group"
   },
   "js": {
-    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Please select at least one member for a group",
-    "JS_RECORD_DELETED_SUCCESSFULLY": "Group deleted successfully"
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Odaberite najmanje jednog člana za grupu",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Grupa uspješno izbrisana"
   }
 }

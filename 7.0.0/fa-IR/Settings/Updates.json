@@ -1,21 +1,21 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
-    "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "Updates": "به‌روزرسانی‌ها",
+    "LBL_YES": "بله",
+    "LBL_NO": "خیر",
+    "LBL_TIME": "تاریخ",
+    "LBL_USER": "نام کاربری",
+    "LBL_FROM_VERSION": "از نسخه",
+    "LBL_TO_VERSION": "به نسخه",
+    "LBL_RESULT": "وضعیت",
+    "LBL_UPDATES": "به‌روزرسانی‌ها",
+    "LBL_UPDATES_DESCRIPTION": "تاريخچه‌ی بروزرسانی",
+    "LBL_IMPORT_UPDATE": "تاریخ به‌روزرسانی",
+    "LBL_INSTALL_PACKAGE": "نصب بسته",
+    "LBL_DOWNLOAD_PACKAGE": "دانلود بسته",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "بسته‌های ارتقائ موجود",
+    "LBL_INSTALLED_PACKAGES": "بسته های نصب شده",
+    "LBL_PACKAGE_VERSION": "نسخه بسته",
+    "LBL_NAME_PACKAGES": "نام بسته"
   }
 }

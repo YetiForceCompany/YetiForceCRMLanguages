@@ -15,17 +15,17 @@
     "LBL_URL": "URL",
     "LBL_AGENT": "Agent",
     "LBL_REQUEST": "Request",
-    "LBL_TIME": "Time",
-    "LBL_CATEGORY": "Category",
+    "LBL_TIME": "Keer",
+    "LBL_CATEGORY": "Categorie",
     "LBL_CODE": "Code",
-    "LBL_BASE_USER": "Base user",
+    "LBL_BASE_USER": "Standaard gebruiker",
     "LBL_DEST_USER": "Target user",
     "LBL_MAILS_NOT_SENT": "E-mails not sent",
     "LBL_BATCH_NAME": "Method name",
     "LBL_PARAMS": "Params",
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
-    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER": "Log Bekijker",
     "LBL_LOGS_VIEWER_DESCRIPTION": ""
   }
 }

@@ -1,15 +1,15 @@
 {
   "php": {
-    "Partners": "Partners",
-    "SINGLE_Partners": "Partner",
-    "LBL_PARTNERS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "FL_CATEGORY": "Category",
+    "Partners": "شرکا",
+    "SINGLE_Partners": "شریک",
+    "LBL_PARTNERS_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_VAT_ID": "شناسه مالیاتی",
+    "FL_CATEGORY": "دسته بندی",
     "FL_MEMBER_OF": "Parent partner",
     "LBL_SHOW_HIERARCHY": "Hierarchy"
   }

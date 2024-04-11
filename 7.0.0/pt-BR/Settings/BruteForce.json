@@ -1,27 +1,27 @@
 {
   "php": {
-    "BruteForce": "Brute Force",
-    "LBL_NUMBER_OF_ATTEMPTS": "Number of attemps",
+    "BruteForce": "Força Bruta",
+    "LBL_NUMBER_OF_ATTEMPTS": "Número de tentativas",
     "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
-    "LBL_TIME_LOCK": "Time lock (minutes)",
-    "LBL_SETTINGS": "Settings",
-    "LBL_BLOCKED_IP": "Blocked IP address",
-    "LBL_SAVE_SUCCESS": "Changes have been saved",
-    "LBL_UNBLOCK_FAIL": "IP adress has not been unblocked",
-    "LBL_UNBLOCK_SUCCESS": "IP adress has been unblocked",
+    "LBL_TIME_LOCK": "Tempo de bloqueio (minutos)",
+    "LBL_SETTINGS": "Configurações",
+    "LBL_BLOCKED_IP": "Endereços de IP Bloquedos",
+    "LBL_SAVE_SUCCESS": "As Alterações foram salvas",
+    "LBL_UNBLOCK_FAIL": "Endereço de Ip não foi desbloqueado",
+    "LBL_UNBLOCK_SUCCESS": "Endereço de IP foi desbloqueado",
     "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
-    "LBL_IP": "IP address",
-    "LBL_DATE": "Date",
-    "LBL_USERS": "Users",
-    "LBL_BROWSERS": "Browsers",
-    "LBL_UNBLOCK": "Unblock",
-    "LBL_USERS_FOR_NOTIFICATIONS": "Users for notifications",
-    "LBL_BRUTEFORCE_ACTIVE": "Active",
-    "LBL_VIEW_SHOW": "Brute Force",
-    "LBL_BRUTEFORCE": "Brute Force",
-    "LBL_SENT_NOTIFICATIONS": "Send notifications"
+    "LBL_IP": "Endereço de Ip",
+    "LBL_DATE": "Data",
+    "LBL_USERS": "Usuários",
+    "LBL_BROWSERS": "Navegadores",
+    "LBL_UNBLOCK": "Desbloquear",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Usuários para notificações",
+    "LBL_BRUTEFORCE_ACTIVE": "Ativo",
+    "LBL_VIEW_SHOW": "Força Bruta",
+    "LBL_BRUTEFORCE": "Força Bruta",
+    "LBL_SENT_NOTIFICATIONS": "Enviar Notificações"
   },
   "js": {
-    "JS_COULD_NOT_FINNISH_REACTION": "Error. Save failed."
+    "JS_COULD_NOT_FINNISH_REACTION": "Erro. Falhou ao Salvar."
   }
 }

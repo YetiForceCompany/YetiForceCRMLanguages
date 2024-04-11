@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_LOGIN_HISTORY": "Login history",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "A lista a legújabb lehetőségek",
+    "LBL_FOR_VALUE": "az érték",
+    "LBL_UNTIL_DAY": "amíg nap",
+    "LBL_ACTUAL_STATUS": "a tényleges állapota",
+    "LBL_CALENDAR_OVERDUE": "Lejárt tevékenységek",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "A lista a legnagyobb érték lehetőségek",
+    "LBL_NEW_ACCOUNTS": "Új fiók",
+    "LBL_NEW_CONTACTS": "Új kapcsolat",
+    "LBL_CALENDAR_TODAY": "Naptári események ma",
+    "LBL_CALENDAR_THIS_WEEK": "Naptári események ezen a héten",
+    "LBL_LOGIN_HISTORY": "Belépés előzmények",
+    "LBL_HELLO": "Helló",
+    "LBL_REPORT_DAY_CONTENT": "Az alábbiakban egy napi összefoglaló tevékenységek a YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Az alábbiakban egy heti összefoglaló tevékenységek a YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Az alábbiakban egy havi összefoglaló tevékenységek a YetiForce "
   }
 }

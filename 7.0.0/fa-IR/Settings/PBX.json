@@ -1,22 +1,22 @@
 {
   "php": {
-    "LBL_NAME": "Name",
-    "LBL_TYPE": "Type",
-    "LBL_DEFAULT": "Default",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CREATE_RECORD": "Add telephone exchange",
-    "LBL_EDIT_RECORD": "Edit telephone exchange",
-    "LBL_URL": "Server address",
-    "LBL_USERNAME": "Login",
-    "LBL_PASSWORD": "Password",
-    "LBL_SECRET_KEY": "Secret Key",
-    "LBL_OUTBOUND_CONTEXT": "Outbound context",
+    "LBL_NAME": "نام",
+    "LBL_TYPE": "نوع",
+    "LBL_DEFAULT": "پیش‌فرض",
+    "LBL_ADD_RECORD": "افزودن رکورد",
+    "LBL_CREATE_RECORD": "افزودن تبادل تلفنی",
+    "LBL_EDIT_RECORD": "ویرایش تبادل تلفنی",
+    "LBL_URL": "نشانی سرور",
+    "LBL_USERNAME": "ورود",
+    "LBL_PASSWORD": "گذرواژه",
+    "LBL_SECRET_KEY": "کلید مخفی",
+    "LBL_OUTBOUND_CONTEXT": "متن خروجی",
     "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
     "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
-    "LBL_PBX_DEFAULT": "Default",
+    "LBL_PBX_DEFAULT": "پیش‌فرض",
     "LBL_PBX_BASE": "Base (default in browser)"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "تغییرات ذخیره شد"
   }
 }

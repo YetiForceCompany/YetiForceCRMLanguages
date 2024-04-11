@@ -1,22 +1,22 @@
 {
   "php": {
-    "ConfigEditor": "Config editor",
-    "LBL_DEFAULT_MODULE": "Default module",
-    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximum text length in List View",
-    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum entries per page in List View",
-    "LBL_DEFAULT_LAYOUT": "Layout",
-    "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
-    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
-    "LBL_MINIMUM_CRON_FREQUENCY": "Minimum cron frequency [min] ",
-    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum number of records in mass edition",
-    "LBL_BG_CLOSING_MODAL": "Enable closing of modal window by clicking on the background",
-    "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
-    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
-    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
-    "LBL_CONFIG_EDITOR": "System – Configuration",
-    "LBL_CONFIG_EDITOR_DESCRIPTION": "Update configuration file of the application",
-    "LBL_MAX_UPLOAD_SIZE": "Maximum upload size",
-    "LBL_MB": "MB",
+    "ConfigEditor": "Редактор конфігурацій",
+    "LBL_DEFAULT_MODULE": "Стандартний модуль",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Максимальна довжина тексту у вигляді списку",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Максимальна кількість записів на сторінці у вигляді списку",
+    "LBL_DEFAULT_LAYOUT": "Вигляд",
+    "LBL_SHOWING_BREADCRUMBS": "Показати навігаційну смужку",
+    "LBL_TITLE_MAX_LENGTH": "Максимальна довжина символів у заголовку",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Мінімальна частота спрацювання Cron [хв] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Максимальна кількість записів при масовому редагуванні",
+    "LBL_BG_CLOSING_MODAL": "Увімкнути закриття модального вікна натисканням на фон",
+    "LBL_HREF_MAX_LEGTH": "Максимальна довжина тегу href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Показати вибір мови на сторінці входу",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Показати вибір макета на сторінці входу",
+    "LBL_CONFIG_EDITOR": "Конфігурація системи",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Оновити файл конфігурації програми",
+    "LBL_MAX_UPLOAD_SIZE": "Максимальний розмір завантаження",
+    "LBL_MB": "Mб",
     "LBL_RELATION_CONFIG": "Relation",
     "LBL_RELATION_COMMENT_MAX_LENGTH": "Maximum length of a comment visible on the related record",
     "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "These fields are available in some relations, e.g. in the Products & services tab in Account module",
@@ -35,7 +35,7 @@
     "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",
-    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Налаштування збережено",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Будь ласка, введіть значення в діапазоні 1-100"
   }
 }

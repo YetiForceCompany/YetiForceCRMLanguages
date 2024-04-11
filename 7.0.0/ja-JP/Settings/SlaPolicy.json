@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module",
+    "LBL_SLA_POLICY": "SLA ポリシー",
+    "LBL_NAME": "ポリシー名",
+    "LBL_EDIT": "SLAポリシーを編集",
+    "LBL_CREATE": "新しいSLAポリシーを作成",
+    "LBL_SOURCE_MODULE": "モジュール",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "営業時間を選択",
+    "JS_BUSINESS_HOURS_FROM": "から",
+    "JS_BUSINESS_HOURS_TO": "まで",
+    "JS_BUSINESS_HOURS_NAME": "名前",
+    "JS_BUSINESS_HOURS_DAYS": "勤務日",
+    "JS_HOLIDAYS": "休日"
   }
 }

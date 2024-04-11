@@ -19,7 +19,7 @@
     "LBL_SPACEROOT": "Root space",
     "LBL_SPACESTORAGE": "Storage space",
     "LBL_SPACETEMP": "Temporary directory space",
-    "LBL_SPACEBACKUP": "Backup directory space",
+    "LBL_SPACEBACKUP": "Dung lượng trống thư mục sao lưu",
     "LBL_CRMVERSION": "CRM version",
     "LBL_DOMAIN": "CRM system URL",
     "LBL_STABILITY": "System stability configuration",

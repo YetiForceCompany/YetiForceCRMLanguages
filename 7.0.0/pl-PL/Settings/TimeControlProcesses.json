@@ -1,13 +1,13 @@
 {
   "php": {
-    "LBL_TIMECONTROL_PROCESSES": "Workflow",
-    "TimeControlProcesses": "Time control processes",
+    "LBL_TIMECONTROL_PROCESSES": "Przepływ pracy",
+    "TimeControlProcesses": "Procesy czasu pracy",
     "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
-    "LBL_TIME_CONTROL_WIDGET": "Time control widget",
-    "LBL_TCW_INFO": "The options to hide\/display icons in the time control widget can be found here.",
-    "LBL_HOLIDAYS": "Holiday icons",
-    "LBL_WORKING_DAYS": "Working days icons",
-    "LBL_WORKING_TIME": "Working time icons"
+    "LBL_TIME_CONTROL_WIDGET": "Widget czasu pracy",
+    "LBL_TCW_INFO": "Znajdują się tutaj opcje do chowania\/pokazywania ikon w widgecie czasu pracy",
+    "LBL_HOLIDAYS": "Ikony świąt",
+    "LBL_WORKING_DAYS": "Ikony dni pracy",
+    "LBL_WORKING_TIME": "Ikony czasu pracy"
   },
   "js": {}
 }

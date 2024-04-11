@@ -1,21 +1,21 @@
 {
   "php": {
-    "ISTRN": "Storage Transfer Received Notes",
-    "SINGLE_ISTRN": "Storage Transfer Received Notes",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
-    "FL_ACCEPTANCE_DATE": "Date of acceptance",
-    "FL_VENDOR": "Vendor",
-    "FL_SUBJECT": "Subject",
-    "FL_NUMBER": "Number",
-    "FL_STORAGE": "Storage",
+    "ISTRN": "Notas de Transf. Recebidas no Estoque",
+    "SINGLE_ISTRN": "Nota de Transf. Recebida no Estoque",
+    "LBL_DESCRIPTION_BLOCK": "Descrição",
+    "LBL_ATTENTION_BLOCK": "Comentários",
+    "FL_ACCEPTANCE_DATE": "Data de aceitação",
+    "FL_VENDOR": "Fornecedor",
+    "FL_SUBJECT": "Assunto",
+    "FL_NUMBER": "Número",
+    "FL_STORAGE": "Estoque",
     "FL_STATUS": "Status",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "PLL_DRAFT": "Rascunho",
+    "PLL_IN_REALIZATION": "Em execução",
+    "PLL_OBJECTIONS": "Objeções",
+    "PLL_FOR_APPROVAL": "Para aprovação",
+    "PLL_CANCELLED": "Cancelada",
+    "PLL_ACCEPTED": "Aceita",
+    "LBL_CHANGE_STATUS": "Alterar Status"
   }
 }

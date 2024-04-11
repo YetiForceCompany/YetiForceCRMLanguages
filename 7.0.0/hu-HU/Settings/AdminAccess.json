@@ -1,16 +1,16 @@
 {
   "php": {
-    "AdminAccess": "Admin access",
-    "LBL_ADMIN_ACCESS": "Admin access",
-    "LBL_PERMISSIONS": "Permissions",
-    "BTN_MASS_EDIT_ACCESS": "Mass edit",
-    "FL_MODULE_NAME": "Module name",
-    "LBL_ACTIVE": "Active",
+    "AdminAccess": "Admin hozzáférés",
+    "LBL_ADMIN_ACCESS": "Admin hozzáférés",
+    "LBL_PERMISSIONS": "Jogosultságok",
+    "BTN_MASS_EDIT_ACCESS": "Tömeges szerkesztés",
+    "FL_MODULE_NAME": "Modul név",
+    "LBL_ACTIVE": "Aktív",
     "LBL_EDIT_ADMIN_ACCESS": "Editing of admin accesses",
-    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Visits Purpose",
-    "FL_DATE_TIME": "Date",
-    "FL_PURPOSE": "Purpose",
-    "FL_USER": "User",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Látogatók célja",
+    "FL_DATE_TIME": "Dátum",
+    "FL_PURPOSE": "Cél",
+    "FL_USER": "Felhasználó",
     "FL_BASE_USER": "Base user",
     "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
     "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
@@ -18,6 +18,6 @@
     "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "Módosítások elmentve"
   }
 }

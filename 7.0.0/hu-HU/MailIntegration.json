@@ -1,23 +1,23 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
-    "LBL_SEARCH_EMAIL": "Search e-mail address",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
-    "LBL_SELECT_RECORD": "Select related record",
-    "LBL_ADD_RECORD": "Add related record"
+    "MailIntegration": "Mail integráció panel",
+    "SINGLE_MailIntegration": "Mail integráció panel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail nem található az adatbázisban.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importálás",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importálj egy e-mailt a CRM-be, akkor sikerül kapcsolatok jobban menedzselni",
+    "LBL_SEARCH_EMAIL": "Email címek keresése",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Keresés, majd válassza ki az üzenet címzettjét",
+    "LBL_ADD_CALENDAR": "Esemény hozzáadása",
+    "LBL_ADD_MODCOMMENTS": "Új megjegyzés",
+    "LBL_SELECT_RECORD": "Válassza ki a kapcsolódó bejegyzés",
+    "LBL_ADD_RECORD": "Kapcsolat hozzáadása"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "YetiForce üzenet: add-in hiba, kérjük lépjen kapcsolatba a rendszergazdával.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce üzenet: Távolítani kapcsolatban sikeresen.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce üzenet: Hozzáadta. a kapcsolatos sikeresen.",
+    "JS_IMPORT": "YetiForce üzenet: e-mail importálás sikeres.",
     "JS_CC": "CC",
-    "JS_BCC": "BCC"
+    "JS_BCC": "Titkos másolat"
   }
 }

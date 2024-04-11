@@ -3,7 +3,7 @@
     "FL_NAME": "Name",
     "FL_PROVIDER": "Provider",
     "FL_STATUS": "Status",
-    "FL_SMSAPI_FROM": "Sender name",
+    "FL_SMSAPI_FROM": "Lähettäjän nimi",
     "FL_API_KEY": "Api key",
     "LBL_ADD_RECORD": "New configuration",
     "LBL_SMSNOTIFIER": "SMS provider configuration",

@@ -1,8 +1,8 @@
 {
   "php": {
-    "OSSMail": "My mailbox",
+    "OSSMail": "Moj poštanski sandučić",
     "LBL_OSSMAIL": "Mail – RoundCube",
-    "ERR_NO_MODULE_IS_INACTIVE": "\"My mailbox\" module is inactive, it should be enabled before configuration."
+    "ERR_NO_MODULE_IS_INACTIVE": "Modul „Moj poštanski sandučić“ je neaktivan, treba ga omogućiti prije konfiguracije."
   },
   "js": {}
 }

@@ -1,21 +1,21 @@
 {
   "php": {
-    "ConfigEditor": "Config editor",
-    "LBL_DEFAULT_MODULE": "Default module",
-    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximum text length in List View",
-    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum entries per page in List View",
-    "LBL_DEFAULT_LAYOUT": "Layout",
-    "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
+    "ConfigEditor": "設定エディタ",
+    "LBL_DEFAULT_MODULE": "デフォルトモジュール",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "一覧表示での最大文字数",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "一覧表示でのページ毎の最大エントリ数",
+    "LBL_DEFAULT_LAYOUT": "レイアウト",
+    "LBL_SHOWING_BREADCRUMBS": "パンくずリストメニューを表示",
     "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
-    "LBL_MINIMUM_CRON_FREQUENCY": "Minimum cron frequency [min] ",
-    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum number of records in mass edition",
-    "LBL_BG_CLOSING_MODAL": "Enable closing of modal window by clicking on the background",
-    "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
-    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
-    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
-    "LBL_CONFIG_EDITOR": "System – Configuration",
-    "LBL_CONFIG_EDITOR_DESCRIPTION": "Update configuration file of the application",
-    "LBL_MAX_UPLOAD_SIZE": "Maximum upload size",
+    "LBL_MINIMUM_CRON_FREQUENCY": "最小cron頻度 [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "一括編集の最大レコード数",
+    "LBL_BG_CLOSING_MODAL": "背景をクリックしてモーダルウィンドウを閉じることを有効にする",
+    "LBL_HREF_MAX_LEGTH": "Href タグの最大長さ",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "ログインページに言語の選択を表示する",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "ログインページにレイアウトの選択を表示",
+    "LBL_CONFIG_EDITOR": "システム – 設定",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "アプリケーションの設定ファイルを更新",
+    "LBL_MAX_UPLOAD_SIZE": "最大アップロードサイズ",
     "LBL_MB": "MB",
     "LBL_RELATION_CONFIG": "Relation",
     "LBL_RELATION_COMMENT_MAX_LENGTH": "Maximum length of a comment visible on the related record",
@@ -35,7 +35,7 @@
     "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",
-    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100"
+    "JS_CONFIGURATION_DETAILS_SAVED": "設定の詳細が保存されました",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "値を1から100の間で入力してください"
   }
 }

@@ -1,13 +1,13 @@
 {
   "php": {
-    "LBL_TIMECONTROL_PROCESSES": "Workflow",
-    "TimeControlProcesses": "Time control processes",
+    "LBL_TIMECONTROL_PROCESSES": "Radni tok",
+    "TimeControlProcesses": "Procesi kontrole vremena",
     "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
-    "LBL_TIME_CONTROL_WIDGET": "Time control widget",
-    "LBL_TCW_INFO": "The options to hide\/display icons in the time control widget can be found here.",
-    "LBL_HOLIDAYS": "Holiday icons",
-    "LBL_WORKING_DAYS": "Working days icons",
-    "LBL_WORKING_TIME": "Working time icons"
+    "LBL_TIME_CONTROL_WIDGET": "Widget vremenske kontrole",
+    "LBL_TCW_INFO": "Ovdje možete pronaći mogućnosti sakrivanja i prikazivanja ikona u widget-u za kontrolu vremena.",
+    "LBL_HOLIDAYS": "Ikone praznika",
+    "LBL_WORKING_DAYS": "Ikone radnih dana",
+    "LBL_WORKING_TIME": "Ikone radnog vremena"
   },
   "js": {}
 }

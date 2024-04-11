@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
+    "Search Configuration": "Nastavitve iskanja",
+    "Search Setup": "Oznake in iskanje",
+    "Search": "Nastavitve iskanja",
     "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
+    "Module": "Modul",
+    "Table": "Tabela",
     "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
+    "SearchFields": "Mehanizem za iskanje stolpcev",
+    "Tools": "Dejanja",
+    "Update labels": "Posodobitev oznak",
+    "LBL_SAVE_CHANGES_SEARCHING": "Shranjene spremembe.",
     "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
     "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
     "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "LBL_TURN_ON": "Vklopi",
+    "LBL_TURN_OFF": "Izklopi"
   },
   "js": {
     "Saving changes": "Update in progress…",
-    "Update labels": "Update",
+    "Update labels": "Posodobitev",
     "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "JS_TURN_ON": "Vklopi",
+    "JS_TURN_OFF": "Izklopi"
   }
 }

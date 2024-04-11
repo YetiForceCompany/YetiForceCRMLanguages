@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_LOGIN_HISTORY": "Login history",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "Liste der neuesten Verkaufschancen",
+    "LBL_FOR_VALUE": "für Wert",
+    "LBL_UNTIL_DAY": "bis zum Tag",
+    "LBL_ACTUAL_STATUS": "mit aktuellem Status",
+    "LBL_CALENDAR_OVERDUE": "Überfällige Aktivitäten",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Liste der besten Verkaufschancen",
+    "LBL_NEW_ACCOUNTS": "Neue Organisationen",
+    "LBL_NEW_CONTACTS": "Neue Kontakte",
+    "LBL_CALENDAR_TODAY": "Heutige Kalenderereignisse",
+    "LBL_CALENDAR_THIS_WEEK": "Kalenderereignisse diese Woche",
+    "LBL_LOGIN_HISTORY": "Login Historie",
+    "LBL_HELLO": "Hallo",
+    "LBL_REPORT_DAY_CONTENT": "Unten ist eine tägliche Zusammenfassung der Aktivitäten in YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Unten ist eine wöchentliche Zusammenfassung der Aktivitäten in YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Unten ist eine monatliche Zusammenfassung der Aktivitäten in YetiForce "
   }
 }

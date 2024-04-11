@@ -1,28 +1,28 @@
 {
   "php": {
-    "WebserviceApps": "Web service - Applications",
-    "LBL_APP_NAME": "Name",
-    "LBL_PUBLIC_URL": "Public URL address",
-    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
-    "LBL_ALLOWED_IPS": "Allowed IPs",
-    "LBL_ALLOWED_IPS_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
-    "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
-    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "WebserviceApps": "Web service - Applicazioni",
+    "LBL_APP_NAME": "Nome",
+    "LBL_PUBLIC_URL": "Indirizzo URL pubblico",
+    "LBL_PUBLIC_URL_INFO": "L'URL verrà utilizzato per inviare notifiche email e sarà possibile utilizzare l'URL nel contenuto, es. per reimpostare la password nel Portale Clienti, link per visualizzare in anteprima il record nel Portale Cliente",
+    "LBL_ALLOWED_IPS": "IP consentiti",
+    "LBL_ALLOWED_IPS_INFO": "Valore vuoto - accesso da tutti i server.\nSe gli indirizzi IP sono inseriti (dopo il punto decimale), l'accesso alle API sarà consentito solo da questi indirizzi IP.\nEsempio:",
+    "LBL_TYPE_SERVER": "Tipo",
+    "LBL_API_KEY": "Chiave di accesso",
+    "LBL_ADD_APPLICATION": "Aggiungi chiave di accesso",
+    "LBL_WEBSERVICE_APPS": "Web service - Applicazioni",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Definisce le chiavi di accesso delle aziende al portale cliente",
+    "LBL_MODAL_ALERT": "I dati di accesso devono essere inseriti nell'intestazione di ogni richiesta API.",
     "Mail": "Mail",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit",
+    "LBL_PASS": "Chiave di accesso",
+    "LBL_TITLE_ADDED": "Aggiungi",
+    "LBL_TITLE_EDIT": "Modifica",
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
-    "Payments": "Payments",
-    "ManageConsents": "Manage consents",
+    "Payments": "Pagamenti",
+    "ManageConsents": "Gestire i consensi",
     "SMS": "SMS"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Sei sicuro di volere eliminare la chiave di accesso?"
   }
 }

@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_COUNTRY_NAME": "Country name",
-    "LBL_COUNTRY_SHORTNAME": "Country code",
-    "LBL_COUNTRY_TOGGLE_STATUS": "Is the country avalabile globally in the system?",
-    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Enable or disable all countries",
-    "LBL_VISIBLE_IN_PHONE": "Is the country visible in phone type field?",
-    "LBL_VISIBLE_IN_COUNTRY": "Is the country visible in \"Country\" address field?",
-    "LBL_ROW_TO_TOP": "Move row to the top",
-    "LBL_ROW_TO_BOTTOM": "Move row to the bottom",
-    "LBL_COUNTRY_SETTINGS": "Country settings",
-    "LBL_COUNTRY_DESCRIPTION": "Configure the availability of countries in the system",
-    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
-    "LBL_DEFAULT_PHONE_FROM_USER": "User",
-    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
+    "LBL_COUNTRY_NAME": "Länderbezeichnung",
+    "LBL_COUNTRY_SHORTNAME": "Länderschlüssel",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Soll das Land global im System verfügbar sein?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "(De)Aktiviere alle Länder",
+    "LBL_VISIBLE_IN_PHONE": "Soll das Land bei der Telefonnummer berücksichtigt werden?",
+    "LBL_VISIBLE_IN_COUNTRY": "Soll das Land im Adressfeld \"Land\" angezeigt werden?",
+    "LBL_ROW_TO_TOP": "Zeile ganz nach oben verschieben",
+    "LBL_ROW_TO_BOTTOM": "Zeile ganz nach unten verschieben",
+    "LBL_COUNTRY_SETTINGS": "Ländereinstellungen",
+    "LBL_COUNTRY_DESCRIPTION": "Einstellung der Länderverfügbarkeit im System",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Leiste",
+    "LBL_DEFAULT_PHONE_FROM_USER": "Benutzer",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Wählen Sie, wie das Standardland abgerufen werden soll:"
   },
   "js": {
-    "JS_COUNTRY_SETTING": "Country settings"
+    "JS_COUNTRY_SETTING": "Ländereinstellungen"
   }
 }

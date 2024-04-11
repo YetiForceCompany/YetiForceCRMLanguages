@@ -1,21 +1,21 @@
 {
   "php": {
-    "SRequirementsCards": "Sales requirements",
-    "SINGLE_SRequirementsCards": "Sales requirement",
-    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_STATISTICS": "Statistics",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
+    "SRequirementsCards": "Anforderungen",
+    "SINGLE_SRequirementsCards": "Anforderungen",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Informationen",
+    "LBL_CUSTOM_INFORMATION": "System Information",
+    "LBL_DESCRIPTION_INFORMATION": "Details",
+    "LBL_STATISTICS": "Statistiken",
+    "LBL_SUBJECT": "Bezeichnung",
+    "LBL_NUMBER": "Nummer",
+    "LBL_CLOSED_TIME": "Geschlossen am",
     "LBL_STATUS": "Status",
-    "SINGLE_SSalesProcesses": "Opportunity",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_COMPLETED": "Completed",
-    "LBL_CHANGE_STATUS": "Change status"
+    "SINGLE_SSalesProcesses": "Verkaufschance",
+    "PLL_DRAFT": "Entwurf",
+    "PLL_IN_REALIZATION": "In Umsetzung",
+    "PLL_FOR_VERIFICATION": "Zur Validierung",
+    "PLL_CANCELLED": "Abgebrochen",
+    "PLL_COMPLETED": "Vollständig",
+    "LBL_CHANGE_STATUS": "Änderungsstatus"
   }
 }

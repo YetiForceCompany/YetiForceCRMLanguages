@@ -8,7 +8,7 @@
     "LBL_CONNECTOR": "Magento access connector",
     "LBL_STORE_CODE": "Magento store code",
     "LBL_STORE_ID": "Magento store ID",
-    "LBL_STORAGE_ID": "Storage",
+    "LBL_STORAGE_ID": "Sklad",
     "LBL_STORAGE_ID_TOOLTIP": "The storage to which Magento orders are to be linked",
     "LBL_SHIPPING_SERVICE_ID": "Shipping service",
     "LBL_SHIPPING_SERVICE_ID_TOOLTIP": "Additional item in invoice or order when there is a delivery cost.\nThe value is downloaded from the delivery cost in Magento.",

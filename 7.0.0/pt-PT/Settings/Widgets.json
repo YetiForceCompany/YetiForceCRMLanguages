@@ -43,7 +43,7 @@
     "Filter": "Filter",
     "Filter info": "Enable data filtering by selection list",
     "None": "None",
-    "ProductsServices": "Products & services",
+    "ProductsServices": "Produtos e Serviços",
     "LBL_SELECTING_FIELDS": "Selecting fields",
     "LBL_SELECTING_FIELDS_INFO": "Field names from a selected module to be displayed in the view.",
     "LBL_VIEW_TYPE": "View",
@@ -63,13 +63,13 @@
     "UpdatesList": "Field history and duration summary",
     "CountRecords": "Number of records",
     "LBL_LIST_WITH_SUMMARY": "List with summary",
-    "LBL_CURRENT_HISTORY_SWITCH": "Current/History",
-    "RelatedModuleChart": "Related module - chart",
-    "Documents": "Documents",
-    "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
-    "InventoryBlock": "Inventory block",
+    "LBL_CURRENT_HISTORY_SWITCH": "Atual/Histórico",
+    "RelatedModuleChart": "Módulo relacionado - Gráfico",
+    "Documents": "Documentos",
+    "LBL_SHOW_DOC_RELATIONS": "Lista de relações relacionadas",
+    "InventoryBlock": "Bloco de inventário",
     "LBL_DEFAULT_ACTIVE": "Active by default",
-    "LBL_RELATED_FIELDS": "Related fields"
+    "LBL_RELATED_FIELDS": "Campos relacionados"
   },
   "js": {
     "Loading data": "Loading...",

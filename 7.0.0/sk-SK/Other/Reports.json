@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
+    "LBL_NEWEST_SSALESPROCESSES": "Zoznam najnovších príležitosti",
     "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_LOGIN_HISTORY": "Login history",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_UNTIL_DAY": "do dňa",
+    "LBL_ACTUAL_STATUS": "s aktuálnym stavom",
+    "LBL_CALENDAR_OVERDUE": "Činnosti po termíne",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Zoznam najviac hodnotných príležitosti",
+    "LBL_NEW_ACCOUNTS": "Nové účty",
+    "LBL_NEW_CONTACTS": "Nové kontakty",
+    "LBL_CALENDAR_TODAY": "Kalendár - dnešné udalosti",
+    "LBL_CALENDAR_THIS_WEEK": "Kalendár - udalosti v týždni",
+    "LBL_LOGIN_HISTORY": "História prihlásení",
+    "LBL_HELLO": "Ahoj",
+    "LBL_REPORT_DAY_CONTENT": "Nižšie je denný súhrn činnosti v YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Nižšie je týždenný súhrn činnosti v YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Nižšie je mesačný súhrn činnosti v YetiForce "
   }
 }

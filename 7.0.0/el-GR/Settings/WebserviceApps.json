@@ -1,28 +1,28 @@
 {
   "php": {
-    "WebserviceApps": "Web service - Applications",
-    "LBL_APP_NAME": "Name",
-    "LBL_PUBLIC_URL": "Public URL address",
-    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
-    "LBL_ALLOWED_IPS": "Allowed IPs",
-    "LBL_ALLOWED_IPS_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
-    "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
-    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "WebserviceApps": "Υπηρεσία Web - Εφαρμογές",
+    "LBL_APP_NAME": "Όνομα",
+    "LBL_PUBLIC_URL": "Δημόσια διεύθυνση URL",
+    "LBL_PUBLIC_URL_INFO": "Η διεύθυνση URL θα χρησιμοποιείται για την αποστολή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου και θα είναι δυνατή η χρήση της διεύθυνσης URL στο περιεχόμενο, π.χ. επαναφορά κωδικού πρόσβασης στην Πύλη πελατών, σύνδεσμος για προεπισκόπηση της εγγραφής στην Πύλη πελατών",
+    "LBL_ALLOWED_IPS": "Επιτρεπόμενες IPs",
+    "LBL_ALLOWED_IPS_INFO": "Κενή τιμή - πρόσβαση από όλους τους διακομιστές.\nΕάν εισαχθούν διευθύνσεις IP (μετά την υποδιαστολή), η πρόσβαση API θα επιτρέπεται μόνο από αυτές τις διευθύνσεις IP.\nΠαράδειγμα:",
+    "LBL_TYPE_SERVER": "Τύπος",
+    "LBL_API_KEY": "Κλειδί",
+    "LBL_ADD_APPLICATION": "Προσθήκη κλειδιού",
+    "LBL_WEBSERVICE_APPS": "Υπηρεσία Web - Εφαρμογές",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Δημιουργία και διαχείριση κλειδιών εφαρμογών που ενσωματώνονται μέσω του API.",
+    "LBL_MODAL_ALERT": "Τα δεδομένα πρόσβασης θα πρέπει να εισάγονται στην κεφαλίδα σε κάθε αίτηση API.",
     "Mail": "Mail",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit",
+    "LBL_PASS": "Κωδικόs πρόσβασης",
+    "LBL_TITLE_ADDED": "Προσθήκη",
+    "LBL_TITLE_EDIT": "Επεξεργασία",
     "WebservicePremium": "Webservice Premium",
-    "WebserviceStandard": "Webservice Standard",
-    "Payments": "Payments",
-    "ManageConsents": "Manage consents",
+    "WebserviceStandard": "Webservice Τυπικό",
+    "Payments": "Πληρωμές",
+    "ManageConsents": "Διαχείριση συναινέσεις",
     "SMS": "SMS"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το κλειδί;"
   }
 }

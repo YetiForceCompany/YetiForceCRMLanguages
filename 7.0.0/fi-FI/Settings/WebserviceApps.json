@@ -12,14 +12,14 @@
     "LBL_WEBSERVICE_APPS": "Web service - Applications",
     "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
     "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
-    "Mail": "Mail",
+    "Mail": "Sähköposti",
     "LBL_PASS": "Password",
     "LBL_TITLE_ADDED": "Add",
     "LBL_TITLE_EDIT": "Edit",
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
     "Payments": "Payments",
-    "ManageConsents": "Manage consents",
+    "ManageConsents": "Suostumusten hallinta",
     "SMS": "SMS"
   },
   "js": {

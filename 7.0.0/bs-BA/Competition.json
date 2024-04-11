@@ -1,15 +1,15 @@
 {
   "php": {
-    "Competition": "Competition",
-    "SINGLE_Competition": "Competitor",
-    "LBL_COMPETITION_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Name",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "LBL_SHOW_HIERARCHY": "Hierarchy",
-    "LBL_PARENT_ID": "Competitor parent"
+    "Competition": "Konkurencija",
+    "SINGLE_Competition": "Konkurent",
+    "LBL_COMPETITION_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "LBL_SUBJECT": "Naziv",
+    "LBL_NUMBER": "Broj",
+    "LBL_CLOSED_TIME": "Vrijeme zaključenja",
+    "LBL_VAT_ID": "ID broj",
+    "LBL_SHOW_HIERARCHY": "Hijerarhija",
+    "LBL_PARENT_ID": "Nadređeni konkurent"
   }
 }

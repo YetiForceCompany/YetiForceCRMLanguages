@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_OTHER": "Other",
-    "Automatic signed off": "Automatic logout",
+    "LBL_OTHER": "Άλλο",
+    "Automatic signed off": "Αυτόματη αποσύνδεση",
     "LBL_LOGIN_TIME": "Date time",
-    "LBL_LOGGED_OUT_TIME": "Sign-out time"
+    "LBL_LOGGED_OUT_TIME": "Ώρα αποσύνδεσης"
   }
 }

@@ -1,12 +1,12 @@
 {
   "php": {
-    "LBL_EXCEPTIONS": "Exceptions",
-    "LBL_NOTIFICATIONS_CONFIGURATION": "Notifications - configuration",
-    "LBL_ADD_MEMBERS": "Add members to notifications",
-    "LBL_SELECT_MEMBERS": "Select members for notifications",
-    "LBL_MEMBERS": "Members",
-    "LBL_LOCK": "Lock",
-    "LBL_NOTICE_CONFIG_WARNING": "Watching modules is enabled in configuration. Disable it to manage notifications."
+    "LBL_EXCEPTIONS": "Wyjątki",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Powiadomienia - konfiguracja",
+    "LBL_ADD_MEMBERS": "Dodaj członków do powiadomień",
+    "LBL_SELECT_MEMBERS": "Wybierz członków do powiadomień",
+    "LBL_MEMBERS": "Członkowie",
+    "LBL_LOCK": "Blokada",
+    "LBL_NOTICE_CONFIG_WARNING": "Wyłączono opcję obserwacji modułów w konfiguracji. Włącz ją, aby móc zarządzać powiadomieniami."
   },
   "js": {}
 }

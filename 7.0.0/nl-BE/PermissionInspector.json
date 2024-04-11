@@ -2,10 +2,10 @@
   "php": {
     "PermissionInspector": "Permission Inspector",
     "LBL_INSPECTION_PERMISSION_HEADER": "Permission Inspector",
-    "LBL_FULL_USER_NAME": "User",
+    "LBL_FULL_USER_NAME": "Gebruiker",
     "LBL_VIEW_PRVILIGE": "View",
     "LBL_CREATE_PRIVILIGE": "Create",
-    "LBL_EDIT_PRIVILIGE": "Edit",
+    "LBL_EDIT_PRIVILIGE": "Bewerken",
     "LBL_DELETE_PRIVILIGE": "Delete",
     "LBL_PROFILES": "Profile:",
     "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Module/action excluded from verification of permissions",

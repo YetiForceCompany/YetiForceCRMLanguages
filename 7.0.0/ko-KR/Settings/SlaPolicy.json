@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_SLA_POLICY": "SLA Policy",
-    "LBL_NAME": "Policy name",
-    "LBL_EDIT": "Edit SLA policy",
-    "LBL_CREATE": "Create new SLA policy",
-    "LBL_SOURCE_MODULE": "Module",
+    "LBL_SLA_POLICY": "SLA 정책\n(Service Level Agreement - 서비스내용합의서)",
+    "LBL_NAME": "정책 이름",
+    "LBL_EDIT": "SLA 정책 편집",
+    "LBL_CREATE": "SLA 정책 생성",
+    "LBL_SOURCE_MODULE": "모듈",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
     "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
   },
   "js": {
-    "JS_BUSINESS_HOURS": "Select business hours",
-    "JS_BUSINESS_HOURS_FROM": "From",
-    "JS_BUSINESS_HOURS_TO": "To",
-    "JS_BUSINESS_HOURS_NAME": "Name",
-    "JS_BUSINESS_HOURS_DAYS": "Working days",
-    "JS_HOLIDAYS": "Holidays"
+    "JS_BUSINESS_HOURS": "근무시간선택",
+    "JS_BUSINESS_HOURS_FROM": "보낸 사람",
+    "JS_BUSINESS_HOURS_TO": "받는 사람",
+    "JS_BUSINESS_HOURS_NAME": "이름",
+    "JS_BUSINESS_HOURS_DAYS": "근무일",
+    "JS_HOLIDAYS": "휴일"
   }
 }

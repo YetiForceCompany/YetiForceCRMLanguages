@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it.",
+    "LBL_BACKUP_MANAGER": "مدیر پشتیبان گیری",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "ایجاد فایل‌های پشتیبان",
+    "LBL_DOWNLOAD": "دریافت",
+    "LBL_FILE_NAME": "نام فایل",
+    "LBL_FILE_SIZE": "حجم فایل",
+    "LBL_FILE_DATE": "تاریخ اصلاح",
+    "LBL_BACKUP_LIST": "فهرست پشتیبان",
+    "ERR_CONFIG_ALERT_TITLE": "مدیر پشتیبان غیرفعال شده است",
+    "ERR_CONFIG_ALERT_DESC": "مسیر مناسب را در متغیر BACKUP_PATH در پرونده پیکربندی [config\/Components\/Backup.php] تنظیم کنید تا آن را فعال کنید.",
     "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}

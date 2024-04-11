@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_OTHER": "Other",
+    "LBL_OTHER": "기타 사항",
     "Automatic signed off": "Automatic logout",
     "LBL_LOGIN_TIME": "Date time",
     "LBL_LOGGED_OUT_TIME": "Sign-out time"

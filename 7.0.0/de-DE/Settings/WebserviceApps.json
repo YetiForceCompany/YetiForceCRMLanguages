@@ -1,28 +1,28 @@
 {
   "php": {
-    "WebserviceApps": "Web service - Applications",
-    "LBL_APP_NAME": "Name",
-    "LBL_PUBLIC_URL": "Public URL address",
-    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
-    "LBL_ALLOWED_IPS": "Allowed IPs",
-    "LBL_ALLOWED_IPS_INFO": "Empty value - access from all servers.\nIf IP addresses are entered (after the decimal point), API access will be allowed only from these IP addresses.\nExample:",
-    "LBL_TYPE_SERVER": "Type",
-    "LBL_API_KEY": "Key",
-    "LBL_ADD_APPLICATION": "Add key",
-    "LBL_WEBSERVICE_APPS": "Web service - Applications",
-    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
-    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
-    "Mail": "Mail",
-    "LBL_PASS": "Password",
-    "LBL_TITLE_ADDED": "Add",
-    "LBL_TITLE_EDIT": "Edit",
+    "WebserviceApps": "Web service - Applikationen",
+    "LBL_APP_NAME": "Bestandsname",
+    "LBL_PUBLIC_URL": "Öffentliche IP-Adresse",
+    "LBL_PUBLIC_URL_INFO": "Die URL wird verwendet, um E-Mail-Benachrichtigungen zu senden und es wird möglich sein, die URL im Inhalt zu verwenden.. Passwort zurücksetzen im Kundenportal, Link zur Vorschau des Datensatzes im Kundenportal",
+    "LBL_ALLOWED_IPS": "Zulässige IPs",
+    "LBL_ALLOWED_IPS_INFO": "Leerer Wert - Zugriff von allen Servern.\nWenn die IP-Adressen eingegeben werden (nach dem Dezimalpunkt), wird API-Zugriff nur von diesen IP-Adressen erlaubt.\nBeispiel:",
+    "LBL_TYPE_SERVER": "Typ",
+    "LBL_API_KEY": "Schlüssel",
+    "LBL_ADD_APPLICATION": "Schlüssel hinzufügen",
+    "LBL_WEBSERVICE_APPS": "Web service - Applikationen",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Die volle Funktionalität des Moduls steht ab v.3.1 bereit",
+    "LBL_MODAL_ALERT": "Die Zugriffsdaten sollten in dem Header jeder API-Anfrage eingegeben werden.",
+    "Mail": "E-Mail",
+    "LBL_PASS": "Passwort",
+    "LBL_TITLE_ADDED": "Hinzufügen",
+    "LBL_TITLE_EDIT": "Ändern",
     "WebservicePremium": "Webservice Premium",
     "WebserviceStandard": "Webservice Standard",
-    "Payments": "Payments",
-    "ManageConsents": "Manage consents",
+    "Payments": "Zahlungen",
+    "ManageConsents": "Einwilligungen verwalten",
     "SMS": "SMS"
   },
   "js": {
-    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+    "JS_DELETE_CONFIRMATION": "Sind Sie sicher den Schlüssel zu löschen?"
   }
 }

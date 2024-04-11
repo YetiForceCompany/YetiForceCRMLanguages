@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_COUNTRY_NAME": "Country name",
-    "LBL_COUNTRY_SHORTNAME": "Country code",
-    "LBL_COUNTRY_TOGGLE_STATUS": "Is the country avalabile globally in the system?",
-    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Enable or disable all countries",
-    "LBL_VISIBLE_IN_PHONE": "Is the country visible in phone type field?",
-    "LBL_VISIBLE_IN_COUNTRY": "Is the country visible in \"Country\" address field?",
-    "LBL_ROW_TO_TOP": "Move row to the top",
-    "LBL_ROW_TO_BOTTOM": "Move row to the bottom",
-    "LBL_COUNTRY_SETTINGS": "Country settings",
-    "LBL_COUNTRY_DESCRIPTION": "Configure the availability of countries in the system",
-    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
-    "LBL_DEFAULT_PHONE_FROM_USER": "User",
-    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
+    "LBL_COUNTRY_NAME": "국가명",
+    "LBL_COUNTRY_SHORTNAME": "국가코드",
+    "LBL_COUNTRY_TOGGLE_STATUS": "시스템에서 그 나라는 전역적으로 허용됩니까?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "모든 나라를 활성화 또는 비활성화",
+    "LBL_VISIBLE_IN_PHONE": "그 국가가 전화번호 타입 필드항목에서 보여집니까?",
+    "LBL_VISIBLE_IN_COUNTRY": "그 국가가 \"국가\" 주소 필드항목에서 보여집니까?",
+    "LBL_ROW_TO_TOP": "상단에서 행 이동",
+    "LBL_ROW_TO_BOTTOM": "하단에서 행 이동",
+    "LBL_COUNTRY_SETTINGS": "국가 설정",
+    "LBL_COUNTRY_DESCRIPTION": "시스템에서 허용가능한 국가 구성",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "패널",
+    "LBL_DEFAULT_PHONE_FROM_USER": "사용자",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "기본 국가를 검색하는 방법 선택:"
   },
   "js": {
-    "JS_COUNTRY_SETTING": "Country settings"
+    "JS_COUNTRY_SETTING": "국가 설정"
   }
 }

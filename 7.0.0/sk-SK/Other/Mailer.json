@@ -1,10 +1,10 @@
 {
   "php": {
-    "LBL_CRON_EMAIL_SUBJECT": "Scheduled import has finished",
-    "LBL_CRON_COMPLETED_IMPORT": "Record import summary for the module:",
-    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
-    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
-    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)",
+    "LBL_CRON_EMAIL_SUBJECT": "Plánovaný import sa dokončil",
+    "LBL_CRON_COMPLETED_IMPORT": "Zaznamenajte súhrn importu pre modul:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (predvolené v prehliadači)",
+    "LBL_GENESYS_WDE": "Genesys WDE od Whirly",
+    "LBL_INTERNAL_CLIENT": "Interný klient (Roundcube)",
     "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "There is no active e-mail account.",
     "ERR_NO_SMTP_CONFIGURATION": "No configuration."
   }

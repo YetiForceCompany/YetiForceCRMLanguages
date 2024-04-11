@@ -21,7 +21,7 @@
     "LBL_PROVIDER_NAME": "Provider name",
     "LBL_PROVIDER_DEFAULT": "Default provider",
     "LBL_PROVIDER_ACTIVE": "Is provider active",
-    "LBL_PROVIDER_ACTIONS": "Actions",
+    "LBL_PROVIDER_ACTIONS": "الاجراءت",
     "LBL_PROVIDER_CONFIG": "Configure provider",
     "LBL_PROVIDER_UNSET": "Provider is inactive, you have to configure it first in order to enable it",
     "LBL_PROVIDER_GOOGLEGEOCODE": "Google Geocoding",

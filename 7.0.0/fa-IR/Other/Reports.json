@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_LOGIN_HISTORY": "Login history",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "فهرست جدیدترین فرصت‌‌ها",
+    "LBL_FOR_VALUE": "برای مقدار",
+    "LBL_UNTIL_DAY": "تا روز",
+    "LBL_ACTUAL_STATUS": "با وضعیت محقق",
+    "LBL_CALENDAR_OVERDUE": "فعالیت‌های با تاخیر",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "فهرست ارزشمندترین فرصت ‌ها",
+    "LBL_NEW_ACCOUNTS": "حساب‌های جدید",
+    "LBL_NEW_CONTACTS": "مخاطب جدید",
+    "LBL_CALENDAR_TODAY": "رویدادهای امروز",
+    "LBL_CALENDAR_THIS_WEEK": "رویدادهای این هفته",
+    "LBL_LOGIN_HISTORY": "تاریخچه ورود",
+    "LBL_HELLO": "سلام",
+    "LBL_REPORT_DAY_CONTENT": "خلاصه‌ای از فعالیت های روزانه در YetiForce به شرح زیر می‌باشد ",
+    "LBL_REPORT_WEEK_CONTENT": "خلاصه‌ای از فعالیت های هفتگی در YetiForce به شرح زیر می‌باشد ",
+    "LBL_REPORT_MONTH_CONTENT": "خلاصه‌ای از فعالیت های ماهیانه در YetiForce به شرح زیر می‌باشد "
   }
 }

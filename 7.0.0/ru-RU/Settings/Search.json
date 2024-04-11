@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
-    "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Search Configuration": "Редактор конфигурации поиска",
+    "Search Setup": "Метки и поиск",
+    "Search": "Редактор конфигурации поиска",
+    "LBL_Module_desc": "Этот модуль позволяет настраивать механизм поиска для текстовых полей. Механизмы работают независимо друг от друга – во время поиска вы можете получить много данных, результаты которых, являются ссылками на записи.",
+    "Module": "Модуль",
+    "Table": "Таблица",
+    "LabelFields": "Поля модуля по которым проводить поиск",
+    "SearchFields": "Поля выводимые в результатах поиска",
+    "Tools": "Действия",
+    "Update labels": "Обновить",
+    "LBL_SAVE_CHANGES_SEARCHING": "Изменения сохранены",
+    "LBL_SAVE_CHANGES_LABLE": "Изменения в конфигурации поиска сохранены, вы должны обновить этот модуль, чтобы увидеть изменения в системе.",
+    "Update has been completed": "Выбранный модуль был успешно обновлен. Изменения будут реализованы с помощью CRON. Скорость обновления меток зависит от объёма данных.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Сохранить последовательность модулей",
+    "LBL_TURN_ON": "Включить",
+    "LBL_TURN_OFF": "Отключить"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "Обновление…",
+    "Update labels": "Обновить",
+    "JS_MODULES_SEQUENCE_UPDATED": "Последовательность модулей обновлена",
+    "JS_TURN_ON": "Включить",
+    "JS_TURN_OFF": "Отключить"
   }
 }

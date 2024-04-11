@@ -1,21 +1,21 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
+    "Updates": "Actualizaciones",
+    "LBL_YES": "Si",
     "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
-    "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_TIME": "Fecha",
+    "LBL_USER": "Nombre de usuario",
+    "LBL_FROM_VERSION": "Desde la versión",
+    "LBL_TO_VERSION": "A la versión",
+    "LBL_RESULT": "Estado",
+    "LBL_UPDATES": "Actualizaciones",
+    "LBL_UPDATES_DESCRIPTION": "Historial de actualizaciones",
+    "LBL_IMPORT_UPDATE": "Subir actualización",
+    "LBL_INSTALL_PACKAGE": "Instalar paquete",
+    "LBL_DOWNLOAD_PACKAGE": "Descargar paquete",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Paquetes de actualización disponibles",
+    "LBL_INSTALLED_PACKAGES": "Paquetes instalados",
+    "LBL_PACKAGE_VERSION": "Versión del paquete",
+    "LBL_NAME_PACKAGES": "Nombre del paquete"
   }
 }

@@ -1,27 +1,27 @@
 {
   "php": {
-    "Conversion Rate": "Conversion rate",
-    "Currency": "Currency",
-    "Symbol": "Symbol",
-    "Currency Code": "Currency code",
-    "Currency Name": "Currency name",
-    "LBL_ADD_NEW_CURRENCY": "Add new currency",
-    "LBL_ADD_RECORD": "Add record",
-    "LBL_CURRENCY_CODE": "Currency code",
-    "LBL_CURRENCY_NAME": "Currency name",
-    "LBL_CURRENCY_STATUS_DESC": "Enable checkbox to make currency active",
-    "LBL_CURRENCY_SYMBOL": "Symbol",
-    "LBL_CURRENT_CURRENCY": "Current currency",
-    "LBL_EDIT_CURRENCY": "Edit currency",
-    "LBL_ENTER_CONVERSION_RATE": "Enter conversion rate",
-    "LBL_TRANSFER_CURRENCY": "Transfer currency",
-    "Active": "Active",
-    "Inactive": "Inactive",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "Conversion Rate": "نرخ تبدیل",
+    "Currency": "واحدپول",
+    "Symbol": "نماد",
+    "Currency Code": "کد واحد پولی",
+    "Currency Name": "نام واحد پول",
+    "LBL_ADD_NEW_CURRENCY": "افزودن واحد پول جدید",
+    "LBL_ADD_RECORD": "افزودن رکورد",
+    "LBL_CURRENCY_CODE": "کد واحد پول",
+    "LBL_CURRENCY_NAME": "نام واحد پول",
+    "LBL_CURRENCY_STATUS_DESC": "برای فعال نمودن واحد پولی، چک باکس را تیک بزنید",
+    "LBL_CURRENCY_SYMBOL": "نماد",
+    "LBL_CURRENT_CURRENCY": "واحد پول کنونی",
+    "LBL_EDIT_CURRENCY": "ویرایش واحد پول",
+    "LBL_ENTER_CONVERSION_RATE": "نرخ تبدیل را وارد نمایید",
+    "LBL_TRANSFER_CURRENCY": "انتقال واحد پولی",
+    "Active": "فعال",
+    "Inactive": "غیرفعال",
+    "LBL_SET_AS_DEFAULT": "تنظیم به‌عنوان پیش‌فرض"
   },
   "js": {
-    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Currency deleted successfully.",
-    "JS_CURRENCY_DETAILS_SAVED": "Currency details saved.",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "واحد پول با موفقیت حذف شد.",
+    "JS_CURRENCY_DETAILS_SAVED": "جزییات واحد پولی ذخیره شد.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "هشدار! این عملیات واحد پولی را در قسمت‌های زیادی از سامانه تغییر می‌دهد. اسناد مالی ما قبل این تغییر شاید لازم به صدور مجدد داشته باشند. لطفا در صورت صدور این اسناد در زمان نسخه تولید به صورت دستی اقدام به تبدیل نرخ ارز نمایید. محاسبه نرخ تبدیل ارز برای سایر واحد‌های پولی باقی مانده الزامی است."
   }
 }

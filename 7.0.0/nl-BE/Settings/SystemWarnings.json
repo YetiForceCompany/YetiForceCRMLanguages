@@ -1,7 +1,7 @@
 {
   "php": {
     "SystemRequirements": "System requirements",
-    "LBL_CHECK_SERVER_BLACK_LIST_IP": "Checks the server's IP address on a blacklist",
+    "LBL_CHECK_SERVER_BLACK_LIST_IP": "Controleert het IP-adres van de server op een zwarte lijst",
     "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Mail RBL - reports for verification",
     "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Number of potential spam reports awaiting verification: %s",
     "LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - reports in blacklist",
@@ -56,10 +56,10 @@
     "LBL_CRON_TASKS_LIST": "Cron task list",
     "LBL_REGISTRATION": "Registration",
     "LBL_COMPANY_DATA": "Go to company details",
-    "LBL_SYSTEM_UPDATER": "System updater",
-    "LBL_LANGUAGES_UPDATER": "Languages updater",
+    "LBL_SYSTEM_UPDATER": "Systeemupdater",
+    "LBL_LANGUAGES_UPDATER": "Talen updater",
     "LBL_LANGUAGES_UPDATER_DESC": "An update of the languages installed on your CRM system is available. Go to the Language Management and click the update button.",
-    "LBL_UPDATER_DESC": "Updates are available for your system version. We recommend updating.",
+    "LBL_UPDATER_DESC": "Updates zijn beschikbaar voor uw systeemversie. We raden aan om bij te werken.",
     "LBL_CHECK_ERROR_MAIL_DESC": "Detected %s errors while sending emails in the last 24 hours. Please check your SMTP credentials. ",
     "Mail": "Mail",
     "LBL_CHECK_COMARCH_INTEGRATION_LOG": "Comarch integration - Error verification",

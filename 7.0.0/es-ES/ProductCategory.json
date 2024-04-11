@@ -1,12 +1,12 @@
 {
   "php": {
-    "ProductCategory": "Product category",
-    "SINGLE_ProductCategory": "Product category",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_PARENT_CATEGORY": "Parent category",
-    "LBL_CHILD_PRODUCTCATEGORY": "Subcategories",
+    "ProductCategory": "Categoría del producto",
+    "SINGLE_ProductCategory": "Categoría del producto",
+    "LBL_CUSTOM_INFORMATION": "Información Personalizada",
+    "LBL_BASIC_INFORMATION": "Información Básica",
+    "FL_PARENT_CATEGORY": "Categoría padre",
+    "LBL_CHILD_PRODUCTCATEGORY": "Subcategorías",
     "FL_ACTIVE": "Active",
-    "FL_CATEGORY_NAME": "Category name"
+    "FL_CATEGORY_NAME": "Nombre de la categoría"
   }
 }

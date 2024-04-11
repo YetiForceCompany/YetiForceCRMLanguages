@@ -81,10 +81,10 @@
     "LBL_NEGLECTED_ACCOUNTS": "Zanemareni Klijenti",
     "LBL_NEW_ACCOUNTS": "Novi Klijenti",
     "LBL_COMARCH_BLOCK": "Comarch",
-    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
-    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
-    "FL_ACCOUNT_SHORT_NAME": "Short name",
-    "FL_PAYMENT_TERM_DAYS": "Payment term (in days)"
+    "FL_ACCOUNT_SECOND_NAME": "Naziv Klijenta 2",
+    "FL_ACCOUNT_THIRD_NAME": "Naziv Klijenta 3",
+    "FL_ACCOUNT_SHORT_NAME": "Skraćeni naziv",
+    "FL_PAYMENT_TERM_DAYS": "Rok plaćanja (u danima)"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "Naziv Klijenta već postoji. Želite li stvoriti duplikat zapisa?",

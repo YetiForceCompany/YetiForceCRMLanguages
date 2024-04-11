@@ -1,21 +1,21 @@
 {
   "php": {
-    "Updates": "Updates",
-    "LBL_YES": "Yes",
-    "LBL_NO": "No",
-    "LBL_TIME": "Date",
-    "LBL_USER": "Username",
-    "LBL_FROM_VERSION": "From version",
-    "LBL_TO_VERSION": "To version",
+    "Updates": "Ažuriranja",
+    "LBL_YES": "Da",
+    "LBL_NO": "Ne",
+    "LBL_TIME": "Datum",
+    "LBL_USER": "Korisničko ime",
+    "LBL_FROM_VERSION": "Od verzije",
+    "LBL_TO_VERSION": "Do verzije",
     "LBL_RESULT": "Status",
-    "LBL_UPDATES": "Updates",
-    "LBL_UPDATES_DESCRIPTION": "Updates history",
-    "LBL_IMPORT_UPDATE": "Upload update",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_UPDATES": "Ažuriranja",
+    "LBL_UPDATES_DESCRIPTION": "Povijest ažuriranja",
+    "LBL_IMPORT_UPDATE": "Prijenos ažuriranja",
+    "LBL_INSTALL_PACKAGE": "Instaliraj pakete",
+    "LBL_DOWNLOAD_PACKAGE": "Preuzmite paket",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Dostupni paketi za nadogradnju",
+    "LBL_INSTALLED_PACKAGES": "Instalirani paketi",
+    "LBL_PACKAGE_VERSION": "Verzija paketa",
+    "LBL_NAME_PACKAGES": "Naziv paketa"
   }
 }

@@ -1,12 +1,12 @@
 {
   "php": {
-    "QuickCreateEditor": "Quick Create Editor",
-    "LBL_QUICK_CREATE_EDITOR": "Fields – Quick Create",
-    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
-    "LBL_SEQUENCE": "Field sequence",
-    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+    "QuickCreateEditor": "快速创建编辑器",
+    "LBL_QUICK_CREATE_EDITOR": "快速创建字段设置",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "“快速创建”中的字段布局可以更改",
+    "LBL_SEQUENCE": "字段顺序",
+    "LBL_SAVE_FIELD_SEQUENCE": "保存字段顺序"
   },
   "js": {
-    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+    "JS_FIELD_SEQUENCE_UPDATED": "字段顺序已更新"
   }
 }

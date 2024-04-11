@@ -1,12 +1,12 @@
 {
   "php": {
-    "HolidaysEntitlement": "Annual holiday entitlement",
-    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
-    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
-    "LBL_CUSTOM_INFORMATION": "System Information",
-    "LBL_YEAR": "Year",
-    "LBL_DAYS": "Number of holidays",
-    "LBL_EMPLOYEE": "Employee",
-    "LBL_NUMBER": "Number"
+    "HolidaysEntitlement": "Éves szabadságra való jogosultság",
+    "SINGLE_HolidaysEntitlement": "Éves szabadságra való jogosultság",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Egyedi adatok",
+    "LBL_CUSTOM_INFORMATION": "Rendszer információ",
+    "LBL_YEAR": "Év",
+    "LBL_DAYS": "Ünnepek száma",
+    "LBL_EMPLOYEE": "Alkalmazott",
+    "LBL_NUMBER": "Sorszám"
   }
 }

@@ -1,12 +1,12 @@
 {
   "php": {
-    "CustomView": "Filters - Configuration",
-    "LBL_FEATURED": "Add to favorites",
-    "LBL_COLOR_VIEW": "View color",
-    "LBL_ADD_FIELD": "Add field",
+    "CustomView": "Configuration - Filtres",
+    "LBL_FEATURED": "Ajouter aux favoris",
+    "LBL_COLOR_VIEW": "Couleur de la vue",
+    "LBL_ADD_FIELD": "Ajouter un champ",
     "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
-    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtering as an additional column on the record list. It filters on the basis of the entry found in related records. ",
-    "LBL_CUSTOM_CONDITIONS": "Conditions for filtering related records",
-    "LBL_CUSTOM_CONDITIONS_DESC": "Filter the current list of records based on relationships and related records that meet specified criteria.\nFailure to set conditions results in showing lists of records with at least one relation."
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrage en tant que colonne supplémentaire dans la liste des enregistrements. Filtré sur la base de l'entrée trouvée dans les enregistrements liés. ",
+    "LBL_CUSTOM_CONDITIONS": "Conditions de filtrage des enregistrements liés",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtrer la liste actuelle des enregistrements en fonction des relations et des enregistrements associés qui répondent aux critères spécifiés.\nNe pas définir de conditions entraîne l'affichage de listes d'enregistrements avec au moins une relation."
   }
 }
