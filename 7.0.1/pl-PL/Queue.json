@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Kolejka zmian",
+    "SINGLE_Queue": "Kolejka zmian",
+    "LBL_CUSTOM_INFORMATION": "Informacje systemowe",
+    "LBL_BASIC_INFORMATION": "Informacje podstawowe",
+    "FL_SUBJECT": "Temat",
+    "FL_RELATED_TO": "Powiązany z",
+    "FL_CHANGES": "Lista zmian",
+    "LBL_DESCRIPTION_INFORMATION": "Informacje opisowe",
+    "FL_REASON_FOR_CHANGE": "Powód zmiany",
+    "FL_REASON_FOR_REJECTION": "Powód odrzucenia",
+    "FL_STATUS": "Status",
+    "PLL_PLANNED": "Planowane",
+    "PLL_ON_HOLD": "Wstrzymane",
+    "PLL_FOR_VERIFICATION": "Do weryfikacji",
+    "PLL_IN_APPROVAL": "W akceptacji",
+    "PLL_ACCEPTED": "Zaakceptowane",
+    "PLL_COMPLETED": "Wykonane",
+    "PLL_CANCELLED": "Anulowane"
+  }
+}

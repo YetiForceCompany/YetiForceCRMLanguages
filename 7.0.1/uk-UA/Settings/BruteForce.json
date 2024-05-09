@@ -1,0 +1,27 @@
+{
+  "php": {
+    "BruteForce": "Захист від підбору пароля",
+    "LBL_NUMBER_OF_ATTEMPTS": "Кількість спроб",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "Час блокування (хвилини)",
+    "LBL_SETTINGS": "Налаштування",
+    "LBL_BLOCKED_IP": "Заблоковані IP адреси",
+    "LBL_SAVE_SUCCESS": "Зміни збережено",
+    "LBL_UNBLOCK_FAIL": "IP-адреса не був розблокований",
+    "LBL_UNBLOCK_SUCCESS": "IP-адреса розблокований",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_IP": "ІР-адреса",
+    "LBL_DATE": "Дата",
+    "LBL_USERS": "Користувачі",
+    "LBL_BROWSERS": "Браузери",
+    "LBL_UNBLOCK": "Розблокувати",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Користувачі для сповіщень",
+    "LBL_BRUTEFORCE_ACTIVE": "Активний",
+    "LBL_VIEW_SHOW": "Захист від підбору пароля",
+    "LBL_BRUTEFORCE": "Захист від підбору пароля",
+    "LBL_SENT_NOTIFICATIONS": "Надіслати сповіщення"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Помилка. Не вдалося зберегти."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "Yêu cầu bán hàng",
+    "SINGLE_SQuoteEnquiries": "Yêu cầu bán hàng",
+    "LBL_QUOTESENQUIRES_INFORMATION": "Thông tin cơ bản",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "LBL_STATISTICS": "Thống kê",
+    "LBL_SUBJECT": "Chủ đề",
+    "LBL_NUMBER": "Số",
+    "LBL_CLOSED_TIME": "Thời gian đóng",
+    "LBL_STATUS": "Trạng thái",
+    "SINGLE_SSalesProcesses": "Cơ hội",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_FOR_VERIFICATION": "Xác minh dữ liệu",
+    "PLL_CANCELLED": "Đã huỷ",
+    "PLL_COMPLETED": "Hoàn thành",
+    "LBL_CHANGE_STATUS": "Đổi trạng thái",
+    "FL_CAMPAIGN_ID": "Chiến dịch"
+  }
+}

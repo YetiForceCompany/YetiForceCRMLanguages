@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Política SLA",
+    "LBL_NAME": "Nombre de la política",
+    "LBL_EDIT": "Editar política SLA",
+    "LBL_CREATE": "Crear nueva política SLA",
+    "LBL_SOURCE_MODULE": "Módulo",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Seleccionar horario comercial",
+    "JS_BUSINESS_HOURS_FROM": "Desde",
+    "JS_BUSINESS_HOURS_TO": "Para",
+    "JS_BUSINESS_HOURS_NAME": "Nombre",
+    "JS_BUSINESS_HOURS_DAYS": "Días laborables",
+    "JS_HOLIDAYS": "Festivos"
+  }
+}

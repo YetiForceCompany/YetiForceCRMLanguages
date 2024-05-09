@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Aggiungi gruppo",
+    "LBL_ADD_USERS_ROLES": "Seleziona utenti, ruoli, ...",
+    "LBL_DUPLICATES_EXIST": "Il nome esiste già",
+    "LBL_GROUP_MEMBERS": "Membri",
+    "LBL_GROUP_NAME": "Nome",
+    "LBL_ROLEANDSUBORDINATE": "Ruolo e subordinati",
+    "LBL_TO_OTHER_GROUP": "A un altro gruppo",
+    "LBL_TRANSFORM_OWNERSHIP": "Riassegna",
+    "SINGLE_Groups": "Gruppo",
+    "Users": "Utenti",
+    "Name": "Nome",
+    "Description": "Descrizione",
+    "FL_PARENT": "Capogruppo",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Il limite di nidi di gruppo consentiti è stato superato.",
+    "LBL_INDEFINITE_LOOP": "Le impostazioni correnti creeranno un ciclo indefinito. Sei pregato di modificare i membri del gruppo.",
+    "LBL_GROUP_DUPLICATE": "Duplica",
+    "LBL_DELETE_GROUP": "Elimina gruppo"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Seleziona almeno un membro",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Gruppo eliminato"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "Τοποθεσίες",
+    "SINGLE_Locations": "Τοποθεσία",
+    "LBL_LOCATIONS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες Περιγραφής",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Χρόνος κλεισίματος",
+    "FL_PHONE": "Τηλέφωνο",
+    "FL_CAPACITY": "Χωρητικότητα",
+    "FL_COORDINATES": "Coordinates"
+  }
+}

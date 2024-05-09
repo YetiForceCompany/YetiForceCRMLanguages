@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Añadir a",
+    "LBL_EDIT_LIST_PRICE": "Editar Tarifas",
+    "LBL_PRICEBOOK_INFORMATION": "Información sobre Tarifas",
+    "LBL_UNIT_PRICE": "Precio unitario",
+    "Price Book Name": "Nombre de la Tarifa",
+    "PriceBook No": "ID",
+    "PriceBooks": "Tarifas",
+    "SINGLE_PriceBooks": "Tarifa",
+    "yes": "Si",
+    "no": "No",
+    "Unit Price": "Precio unitario",
+    "LBL_SPECIFY_THE_MARGIN": "Especifique el margen",
+    "LBL_SPECIFY_THE_MARGINP": "Especifique el margen (%)"
+  }
+}

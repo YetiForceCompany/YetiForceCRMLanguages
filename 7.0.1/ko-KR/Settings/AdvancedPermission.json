@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "고급 사용 권한",
+    "AdvancedPermission": "고급 사용 권한",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "구성을 부여하거나 철회하는 권한을 기록하는 사용자 지정 권한",
+    "LBL_NAME": "규칙 이름",
+    "LBL_MODULE": "모듈",
+    "LBL_ACTION": "동작",
+    "LBL_STATUS": "상태",
+    "LBL_ROLE": "역할",
+    "LBL_MEMBERS": "구성원",
+    "LBL_PRIORITY": "우선순위",
+    "FL_ACTIVE": "활성",
+    "FL_INACTIVE": "비활성",
+    "FL_UNLOCK_RECORD": "접근 승인",
+    "FL_LOCK_RECORD": "접근 철회",
+    "LBL_SAVE_AND_CONDITIONS": "다음",
+    "ERR_INACTIVE_ALERT_TITLE": "고급 사용 권한 사용 불가됨",
+    "ERR_INACTIVE_ALERT_DESC": "Config\/security.php 파일에서 PERMITTED_BY_ADVANCED_PERMISSION 매개변수를 활성화로 변경",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "권한 재계산",
+    "LBL_RECALCULATE_PERMISSION_BTN": "권한이 재계산되었음",
+    "LBL_RECALCULATE_CRON_INFO": "권한 재계산은 CRON이 필요합니다. 작업이 활성화되었는지 체크해주세요",
+    "LBL_MODULES_LIST": "모듈 목록",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Special permissions have been disabled because they require enabling record permission caching. For the permissions to start working you should enable cron, and set CACHING_PERMISSION_TO_RECORD [config\/security.php] variable to true."
+  }
+}

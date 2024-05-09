@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Възникнаха грешки по време на обновяването на модула",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Възникнаха грешки по време на обновяването",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Моля проверете логовете и обновете системата отново.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Обнови имейл шаблони",
+    "LBL_UPDATE_PDF_TEMPLATES": "Обнови pdf шаблони"
+  }
+}

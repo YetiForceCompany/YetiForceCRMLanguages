@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS": "보안 사건",
+    "LBL_LOGS_DESC": "보안 사건을 보기 위한 패널",
+    "LBL_ACCESS_FOR_ADMIN": "관리자를 위한 접근",
+    "LBL_ACCESS_FOR_API": "API를 위한 접근",
+    "LBL_ACCESS_FOR_USER": "사용자를 위한 접근",
+    "LBL_ACCESS_TO_RECORD": "레코드를 위한 접근",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "사용자명",
+    "LBL_DATE": "날짜",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "레코드 ID",
+    "LBL_MODULE": "모듈",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Request",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_MAILS_NOT_SENT": "E-mails not sent",
+    "LBL_BATCH_NAME": "Method name",
+    "LBL_PARAMS": "Params",
+    "LBL_PROFILING": "Profiling",
+    "LBL_DURATION": "Duration",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+  }
+}

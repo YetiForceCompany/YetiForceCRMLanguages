@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "이름",
+    "LBL_TYPE": "형식",
+    "LBL_DEFAULT": "기본설정",
+    "LBL_ADD_RECORD": "레코드 추가",
+    "LBL_CREATE_RECORD": "전화 교환 추가",
+    "LBL_EDIT_RECORD": "전화 교환 편집",
+    "LBL_URL": "서버주소",
+    "LBL_USERNAME": "로그인",
+    "LBL_PASSWORD": "비밀번호",
+    "LBL_SECRET_KEY": "시크릿 키",
+    "LBL_OUTBOUND_CONTEXT": "아웃바운드 컨텍스트",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "기본설정",
+    "LBL_PBX_BASE": "Base (default in browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "변경 내용 저장"
+  }
+}

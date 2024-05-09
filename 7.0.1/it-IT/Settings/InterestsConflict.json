@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Conflitto di interesse",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Conflitto di interesse",
+    "LBL_MAIN_CONFIG": "Configurazione generale",
+    "LBL_MODULES": "Moduli",
+    "LBL_UNLOCK_REQUESTS": "Richieste di sblocco",
+    "LBL_CONFIRMATIONS": "Conferme",
+    "LBL_IS_ACTIVE": "Attivazione di un conflitto di interesse",
+    "LBL_NOTIFICATIONS_EMAILS": "Indirizzi email per le notifiche",
+    "LBL_INTERVAL_TIME": "Intervallo di tempo",
+    "LBL_INTERVAL_TIME_DESC": "L'intervallo di tempo che definisce quanto spesso il sistema dovrebbe forzare una conferma sull'assenza del conflitto di interessi.",
+    "LBL_INDEFINITELY": "indefinitamente",
+    "LBL_USERS_CONFIRMATIONS": "Accesso al pannello di conferma",
+    "LBL_USERS_UNLOCK": "Accesso al pannello delle richieste di sblocco",
+    "LBL_RELATIONSHIP": "Relazione",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Invia un'email quando richiedi l'accesso al record",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail inviata alle persone sopra (indirizzi email per le notifiche)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Invia un'email con l'esito della richiesta di accesso al record",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail inviata alla persona che richiede l'accesso"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_COUNTRY_NAME": "Назва країни",
+    "LBL_COUNTRY_SHORTNAME": "Код країни",
+    "LBL_COUNTRY_TOGGLE_STATUS": "Чи доступна країна глобально в системі?",
+    "LBL_COUNTRY_TOGGLE_ALL_STATUSES": "Увімкнути або вимкнути всі країни",
+    "LBL_VISIBLE_IN_PHONE": "Чи показувати країну у полі типу телефону?",
+    "LBL_VISIBLE_IN_COUNTRY": "Чи видима країна в полі адреси \"Країна\"?",
+    "LBL_ROW_TO_TOP": "Перемістити рядок вверх",
+    "LBL_ROW_TO_BOTTOM": "Перемістити рядок вниз",
+    "LBL_COUNTRY_SETTINGS": "Налаштування країни",
+    "LBL_COUNTRY_DESCRIPTION": "Налаштування доступності країн в системі",
+    "LBL_DEFAULT_PHONE_FROM_PANEL": "Panel",
+    "LBL_DEFAULT_PHONE_FROM_USER": "User",
+    "LBL_SET_DEFAULT_PHONE_COUNTRY": "Select how to retrieve the default country:"
+  },
+  "js": {
+    "JS_COUNTRY_SETTING": "Налаштування країни"
+  }
+}

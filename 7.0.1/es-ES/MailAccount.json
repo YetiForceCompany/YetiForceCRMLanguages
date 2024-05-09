@@ -1,0 +1,28 @@
+{
+  "php": {
+    "MailAccount": "Cuentas de correo",
+    "SINGLE_MailAccount": "Cuenta de correo",
+    "LBL_CUSTOM_INFORMATION": "Información personalizada",
+    "LBL_BASIC_INFORMATION": "Información básica",
+    "BL_MAIL_SCANNER": "Escáner",
+    "FL_SUBJECT": "Nombre",
+    "FL_LOGIN": "Inicio sesión",
+    "FL_PASSWORD": "Contraseña",
+    "FL_REFRESH_TOKEN": "Token de actualización",
+    "FL_MAIL_SERVER": "Servidor de correo",
+    "PL_INACTIVE": "Inactivo",
+    "PLL_ACTIVE": "Activo",
+    "PLL_LOCKED": "Bloquear (automático)",
+    "FL_LOGS": "Registros",
+    "FL_STATUS": "Estado",
+    "FL_EXPIRE_TIME": "Tiempo de caducidad",
+    "FL_LAST_LOGIN": "Último acceso",
+    "FL_SCANNER_ACTIONS": "Acciones del escáner",
+    "FL_DOMAIN_EXCEPTIONS": "Excepciones de dominio",
+    "FL_EMAIL_EXCEPTIONS": "Excepciones de correo electrónico",
+    "FL_MAIL_FOLDERS": "Carpetas",
+    "FL_SCANNER_FIELDS": "Campos de búsqueda",
+    "LBL_OAUTH_AUTHORIZATION_DESC": "¿Estás seguro de que quieres autorizar?",
+    "LBL_OAUTH_AUTHORIZATION": "Autorización"
+  }
+}

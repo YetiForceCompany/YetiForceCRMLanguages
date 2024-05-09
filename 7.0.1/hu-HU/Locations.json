@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "Helyek",
+    "SINGLE_Locations": "Tartózkodási hely",
+    "LBL_LOCATIONS_INFORMATION": "Alap Információk",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_NUMBER": "Szám",
+    "LBL_CLOSED_TIME": "Zárva tartás",
+    "FL_PHONE": "Telefon",
+    "FL_CAPACITY": "Kapacitás",
+    "FL_COORDINATES": "Coordinates"
+  }
+}

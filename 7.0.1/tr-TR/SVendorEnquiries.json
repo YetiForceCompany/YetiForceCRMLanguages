@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Tedarikçi araştırmaları",
+    "SINGLE_SVendorEnquiries": "Tedarikçi araştırması",
+    "LBL_SCALCULATIONS_INFORMATION": "Temel bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "LBL_STATISTICS": "İstatistikler",
+    "LBL_SUBJECT": "Konu",
+    "LBL_NUMBER": "Sayı",
+    "LBL_CLOSED_TIME": "Kapanış saati",
+    "LBL_STATUS": "Durum",
+    "SINGLE_SSalesProcesses": "Fırsat",
+    "FL_TOTAL_PRICE": "Net toplam",
+    "FL_MARGINP": "Toplam kâr yüzdesi",
+    "FL_MARGIN": "Toplam kazanç",
+    "FL_VENDOR": "Tedarikçi",
+    "FL_SCALCULATIONS": "Hesaplama",
+    "PLL_DRAFT": "Taslak",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_FOR_VERIFICATION": "Doğrulamada",
+    "PLL_CANCELLED": "İptal edildi",
+    "PLL_COMPLETED": "Tamamlandı",
+    "LBL_CHANGE_STATUS": "Durumu değiştir"
+  }
+}

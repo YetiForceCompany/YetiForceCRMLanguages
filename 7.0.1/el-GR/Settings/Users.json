@@ -1,0 +1,37 @@
+{
+  "php": {
+    "Users": "Χρήστες",
+    "USER_MAIL_EXIST": "Χρήστης με αυτό το email υπάρχει ήδη",
+    "LBL_PRIORITY": "Προτεραιότητα",
+    "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "Εξουσιοδότηση με LDAP",
+    "LBL_LDAP_SERVER": "Διεύθυνση διακομιστή",
+    "LBL_LDAP_PORT": "Θύρα(port)",
+    "LBL_SAVE_CONFIG": "Οι ρυθμίσεις έχουν αποθηκευτεί",
+    "LBL_LDAP_DOMAIN": "Τομέας(Domain) (προστίθενται αυτόματα στη σύνδεση)",
+    "LBL_VIEW_AUTH": "Εξουσιοδότηση",
+    "LBL_SWITCH_USERS": "Εναλλαγή χρηστών",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Εργαλείο που επιτρέπει την εναλλαγή χρηστών στο σύστημα.",
+    "LBL_SU_BASE_ACCESS": "Χρήστης",
+    "LBL_SU_AVAILABLE_ACCESS": "Επιτρέπεται να συνδεθείτε",
+    "LBL_LOCKS": "Κλειδώματα",
+    "LBL_LOCKS_DESCRIPTION": "Εργαλείο για μπλοκάρισμα ενεργειών του προγράμματος περιήγησης (αντιγραφή, αποκοπή, κλπ)",
+    "LBL_LOCK_COPY": "Κλείδωμα αντιγραφής",
+    "LBL_LOCK_CUT": "Κλείδωμα αποκοπής",
+    "LBL_LOCK_PASTE": "Κλείδωμα επικόλλησης",
+    "LBL_LOCK_RIGHT_MENU": "Κλείδωμα δεξιού κλικ",
+    "LBL_LOCK_SELECT_TEXT": "Κλείδωμα επιλογής",
+    "LBL_LOCK_DRAG": "Κλείδωμα σύρε και άφησε (drag and drop)",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "Παρακαλώ επιλέξτε module",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Το διαχωριστικό δεκαδικών και το διαχωριστικό ομαδοποίησης δεν μπορεί να είναι το ίδιο",
+    "Changed password successfully": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία"
+  }
+}

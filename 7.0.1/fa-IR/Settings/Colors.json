@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_COLORS": "رنگ ها",
+    "LBL_COLOR": "رنگ",
+    "LBL_PICKLISTS": "فهرست های انتخابی",
+    "LBL_SELECT_PICKLIST": "انتخاب فهرست های انتخابی",
+    "LBL_REMOVE_COLOR": "حذف رنگ",
+    "LBL_GENERATE_COLOR": "تولید رنگ",
+    "LBL_UPDATE_COLOR": "تغییر رنگ",
+    "LBL_REMOVED_COLOR": "رنگ حذف شد",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "ویرایش رنگ",
+    "LBL_CALENDAR_COLORS": "رنگ‌های تقویم",
+    "LBL_CALENDAR_TYPE": "نوع فعالیت",
+    "LBL_SAVE_COLOR": "رنگ ذخیره شد",
+    "Call": "تماس",
+    "Task": "وظیفه",
+    "Meeting": "جلسه",
+    "LBL_GROUPS_COLORS": "رنگ گروه",
+    "LBL_USERS_COLORS": "رنگ های کاربران",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "قابلیت‌های رنگ برای این لیست انتخاب فعال نشده است",
+    "LBL_UPDATE_COLOR_COLUMN": "فعال کردن",
+    "LBL_WARNING": "هشدار",
+    "LBL_ITEM": "مقدار",
+    "LBL_MODULE": "ماژول",
+    "LBL_GROUP_NAME": "گروه",
+    "LBL_FIELDS_COLORS": "رنگ زمینه",
+    "Colors": "رنگ ها"
+  }
+}

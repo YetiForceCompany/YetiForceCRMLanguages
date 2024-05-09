@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "营业时间",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "工作时间模块，您可以设置团队的工作时间。",
+    "LBL_WORKING_HOURS_FROM": "开始于",
+    "LBL_WORKING_HOURS_TO": "结束于",
+    "LBL_WORKING_DAYS": "工作日",
+    "LBL_WORKING_HOURS": "工作时间",
+    "LBL_DEFAULT": "默认",
+    "LBL_NAME": "名称",
+    "LBL_HOLIDAYS": "节假日",
+    "LBL_EDIT_BUSINESS_HOURS": "编辑工作时间",
+    "LBL_ADD_BUSINESS_HOURS": "添加工作时间",
+    "LBL_DEFAULT_TIMES": "默认时间",
+    "LBL_DEFAULT_REACTION_TIME": "默认响应时间",
+    "LBL_DEFAULT_IDLE_TIME": "默认空闲时间",
+    "LBL_DEFAULT_RESOLVE_TIME": "默认解决时间",
+    "LBL_HOLIDAYS_LINK": "转到节假日设置",
+    "LBL_HOLIDAYS_INFO": "检查“假日”会导致计算工作时间时省略假日。"
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "您确定要删除此条目吗？",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "请选择至少一个工作日。"
+  }
+}

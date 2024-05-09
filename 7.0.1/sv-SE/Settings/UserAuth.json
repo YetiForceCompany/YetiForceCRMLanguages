@@ -1,0 +1,36 @@
+{
+  "php": {
+    "FL_NAME": "Namn",
+    "FL_PROVIDER": "Provider",
+    "FL_STATUS": "Status",
+    "LBL_ADD_RECORD": "New configuration",
+    "LBL_ADD_CONFIGURATION": "New configuration",
+    "LBL_EDIT_CONFIGURATION": "Edit configuration",
+    "BTN_SAVE": "Spara",
+    "BTN_CLOSE": "Avbryt",
+    "LBL_USERAUTH_CREATE": "Add provider",
+    "LBL_USERAUTH_EDIT": "Edit provider",
+    "FL_DEFAULT": "Standard",
+    "LBL_NO_RECORDS_FOUND": "No providers found",
+    "FL_AZURE_TENANT_ID": "Tenant ID",
+    "FL_AZURE_CLIENT_ID": "Client ID",
+    "FL_AZURE_CLIENT_SECRET": "Client secret",
+    "LBL_LDAP_PORT": "Port",
+    "LBL_LDAP_SERVER": "Serveradress",
+    "LBL_LDAP_DOMAIN": "Domain (automatically added to login)",
+    "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
+    "LBL_AZURE_INFO": "To enable SSO, you must set redirect URI in the Azure portal",
+    "LBL_NO_CREATION": "User creation disabled",
+    "FL_AZURE_BASE_USER": "Base user",
+    "FL_REDIRECT_URI": "Redirect URI",
+    "LBL_AZURE_BASE_USER_TOOLTIP": "Selecting a base user will enable automatic user creation. This means that whenever a person logs in with Azure for the first time, a new user will be created in the CRM.\n\nThe new user will copy all account details of the base user, except for personal information.\n\nNOTE: It is discouraged to pick admin users as base users, as this will give all new users admin permissions.",
+    "FL_REDIRECT_URI_ID": "Redirect URI",
+    "LBL_REDIRECT_URI_ID_DESC": "Webservices for OAuth are listed here.\n You must first add the key to the appropriate application in a separate panel. This will generate a URI that will be listed in this field.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copy URI to clipboard"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Are you sure you want to delete this configuration?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuration removed successfully",
+    "JS_SAVE_SUCCESS": "Saved"
+  }
+}

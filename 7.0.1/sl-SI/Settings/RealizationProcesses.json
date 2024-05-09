@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Projekt",
+    "LBL_INFO": "Informacije",
+    "LBL_TYPE": "Status",
+    "LBL_PROJECT": "Projekt",
+    "LBL_PROJECT_STATUS_INFO": "Statusi, ki določajo, da je projekt zaključena",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statusi, ki določajo, da je mejnik zaključen",
+    "LBL_PROJECTTASK_STATUS_INFO": "Statusi, ki določajo, da je naloga zaključena",
+    "LBL_SAVE_CONFIG_OK": "Spremembe so uspešno shranjene.",
+    "LBL_SAVE_CONFIG_ERROR": "Shranjevanje sprememb je spodletelo.",
+    "RealizationProcesses": "Finančni procesi"
+  },
+  "js": {}
+}

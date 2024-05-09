@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "Fizetések",
+    "LBL_RIGHT_CLICK_COPY": "Jobb klikk, és másolja"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "Sikeresen törölve",
+    "JS_SAVED_SUCCESSFULLY": "Sikeresen elmentve"
+  }
+}
