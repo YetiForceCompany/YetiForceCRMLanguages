@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Sự cố bảo mật",
     "LBL_LOGS_DESC": "Bảng điều khiển cho xem các sự cố an ninh",
     "LBL_ACCESS_FOR_ADMIN": "Truy cập cho quản trị",
     "LBL_ACCESS_FOR_API": "Truy cập cho API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

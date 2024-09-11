@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Incidentes de seguridad",
     "LBL_LOGS_DESC": "Panel para ver incidentes de seguridad",
     "LBL_ACCESS_FOR_ADMIN": "Acceso del administrador",
     "LBL_ACCESS_FOR_API": "Acceso para API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

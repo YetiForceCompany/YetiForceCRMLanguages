@@ -21,9 +21,9 @@
     "FL_CAMPAIGN": "Campanha Marketing",
     "FL_MEMBER_OF": "Oportunidade de Vendas Pai",
     "FL_START_DATE": "Data de Início",
-    "FL_ESTIMATED_MARGIN": "Estimated margin",
-    "FL_EXPECTED_MARGIN": "Expected margin",
-    "FL_EXPECTED_SALE": "Expected sale",
+    "FL_ESTIMATED_MARGIN": "Margem estimada",
+    "FL_EXPECTED_MARGIN": "Margem esperada",
+    "FL_EXPECTED_SALE": "Venda esperada",
     "PLL_WEBSITE": "Site da Web",
     "PLL_PHONE": "Fone",
     "PLL_MAIL_CAMPAIGN": "Campanha E-mail",
@@ -57,8 +57,8 @@
     "LBL_SWITCHHEADER_OFF_0": "Fechado",
     "LBL_HEADERSWITCH_OPEN_CLOSED": "Aberto/Fechado",
     "LBL_SHOW_HIERARCHY": "Hierarquia",
-    "DW_ACTUAL_SALES_OF_TEAM": "Actual sales of the team",
-    "DW_TEAMS_ESTIMATED_SALES": "Team's estimated sales",
-    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Estimated Opportunity value"
+    "DW_ACTUAL_SALES_OF_TEAM": "Vendas atuais da equipe",
+    "DW_TEAMS_ESTIMATED_SALES": "Vendas estimadas da equipe",
+    "LBL_TOTAL_ESTIMATED_VALUE_BY_STATUS": "Valor estimado da Oportunidade"
   }
 }

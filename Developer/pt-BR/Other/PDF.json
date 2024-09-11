@@ -7,7 +7,7 @@
     "LBL_RECIPIENT": "Destinatário",
     "LBL_ORDER": "Encomenda",
     "LBL_SUBMIT_ORDER": "Pessoa autorizada a enviar pedido",
-    "LBL_TO_PAY": "Total to pay",
+    "LBL_TO_PAY": "Total a pagar",
     "LBL_TO_PAY_WORD": "Total por extenso",
     "LBL_DEALER": "Vendedor",
     "LBL_BUYER": "Comprador",
@@ -23,12 +23,12 @@
     "LBL_FIRST_NAME": "Primeiro Nome",
     "LBL_LAST_NAME": "Último nome",
     "LBL_PHONE": "Telefone",
-    "LBL_EMAIL": "Email",
+    "LBL_EMAIL": "E-mail",
     "LBL_VATID": "Contribuinte",
     "LBL_SALE_DATE": "Data de venda",
-    "LBL_PAYMENT_METHOD": "Payment method",
+    "LBL_PAYMENT_METHOD": "Método de pagamento",
     "LBL_PLACE_DATE": "Local, data",
-    "LBL_REFUND_AMOUNT": "Refund amount",
-    "LBL_SURCHARGE_AMOUNT": "Surcharge amount"
+    "LBL_REFUND_AMOUNT": "Valor do reembolso",
+    "LBL_SURCHARGE_AMOUNT": "Valor da sobretaxa"
   }
 }

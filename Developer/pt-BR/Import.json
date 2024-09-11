@@ -77,7 +77,7 @@
     "skipped": "Registros Ignorados",
     "failed": "Registros Falhos",
     "LBL_SELECT_FILE": "Selecionar arquivo para importação",
-    "LBL_MERGE_TYPE_INFO": "Skip: exisitng records are skipped and not updated.\n\nOverwrite: existing recorda are overwritten with data from file or default values are filled in if required values in record and file are empty. If not marked as required, values are overwritten in the record with empty values from the file. \n\nMerge: record values are overwritten with values from the file if values from the file are not empty (however, if they are empty, values from the record are kept). \n\nFill in: only empty fields in the record are updated. Values from the field are not overwritten if there is already an exisitng value in the record.",
+    "LBL_MERGE_TYPE_INFO": "Ignorar: registros existentes são ignorados e não atualizados.\n\nSobrescrever: registros existentes são substituídos por dados do arquivo ou valores padrão são preenchidos se valores obrigatórios no registro e o arquivo estiverem vazios. Se não for marcado como obrigatório, os valores são substituídos no registro com valores vazios do arquivo. \n\nMesclar: valores de registro são substituídos com valores do arquivo se os valores do arquivo não estiverem vazios (no entanto, se estiverem vazios, os valores do registo são mantidos). \n\nPreenchimento: apenas campos vazios no registro são atualizados. Os valores do campo não são substituídos se já existe um valor existente no registro.",
     "LBL_IMPORT_FILE_DIFFERENT_ENCODING": "O arquivo importado está em uma codificação diferente da que foi selecionada (%s)"
   }
 }

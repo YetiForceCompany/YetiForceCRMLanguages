@@ -17,11 +17,11 @@
     "LBL_TRANSFER_CURRENCY": "Transferir moeda",
     "Active": "Ativo",
     "Inactive": "Inativo",
-    "LBL_SET_AS_DEFAULT": "Set as default"
+    "LBL_SET_AS_DEFAULT": "Definir como padrão"
   },
   "js": {
     "JS_CURRENCY_DELETED_SUCCESSFULLY": "Moeda Apagada com Sucesso",
     "JS_CURRENCY_DETAILS_SAVED": "Detalhes da Moeda Salvo",
-    "JS_CURRENCY_DEFAULT_CONFIRMED": "Warning! This operation will change the currency in many places in the system. Financial documents issued prior to this change might require currency conversion. Please perform manual currency conversion if these documents have been issued in their production versions. Calculating exchange rates for the remaining currencies will be required."
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Aviso! Esta operação alterará a moeda em vários lugares do sistema. Documentos financeiros emitidos antes dessa alteração podem exigir a conversão de moeda. Por favor, realize a conversão manual de moeda, se estes documentos forem emitidos em suas versões de produção. Será necessário calcular as taxas de câmbio para as moedas restantes."
   }
 }

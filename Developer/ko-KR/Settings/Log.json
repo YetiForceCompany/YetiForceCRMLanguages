@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "보안 사건",
     "LBL_LOGS_DESC": "보안 사건을 보기 위한 패널",
     "LBL_ACCESS_FOR_ADMIN": "관리자를 위한 접근",
     "LBL_ACCESS_FOR_API": "API를 위한 접근",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

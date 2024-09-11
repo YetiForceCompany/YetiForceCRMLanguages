@@ -2012,6 +2012,11 @@
     "JS_SPECIAL_CHARACTERS": "Ειδικοί χαρακτήρες όπως",
     "JS_NOT_ALLOWED": "are not allowed",
     "JS_INVALID_COORDINATES": "Εισήχθησαν λάθος συντεταγμένες",
-    "JS_PDF_GENERATED": "Το PDF δημιουργήθηκε"
+    "JS_PDF_GENERATED": "Το PDF δημιουργήθηκε",
+    "JS_OSM_INDIRECT_POINT": "Indirect point",
+    "JS_OSM_SEARCH_IN_RADIUS": "Search in radius",
+    "JS_OSM_START": "Έναρξη",
+    "JS_OSM_END": "Τέλος",
+    "JS_OSM_USE_COORDINATES": "Use coordinates"
   }
 }

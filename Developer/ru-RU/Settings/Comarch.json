@@ -8,7 +8,7 @@
     "LBL_CONNECTOR_TOOLTIP": "Comarch XL - API from elte-s.com was used for the integration",
     "LBL_USER_NAME": "Consumer Key",
     "LBL_PASSWORD": "Consumer Secret",
-    "LBL_VERIFY_SSL": "Verify SSL",
+    "LBL_VERIFY_SSL": "Верифицировать SSL",
     "LBL_LOG_ALL": "Extended logs",
     "LBL_LOG_ALL_TOOLTIP": "If set to 'No', only error logs are recorded.\nIf set to 'Yes', all communication is recorded.\nEnabling this option will cause a large amount of data to be stored, which takes up a lot of space.",
     "LBL_MASTER": "Master System",

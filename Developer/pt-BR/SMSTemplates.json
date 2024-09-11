@@ -1,12 +1,12 @@
 {
   "php": {
-    "SMSTemplates": "SMS templates",
-    "SINGLE_SMSTemplates": "SMS template",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_SUBJECT": "Subject",
-    "FL_MESSAGE": "Message",
-    "FL_TARGET_MODULE": "Module",
-    "BL_SMS_CONTENT": "SMS content"
+    "SMSTemplates": "Modelos de SMS",
+    "SINGLE_SMSTemplates": "Modelo SMS",
+    "LBL_CUSTOM_INFORMATION": "Informações do Sistema",
+    "LBL_BASIC_INFORMATION": "Informação Básica",
+    "FL_SUBJECT": "Assunto",
+    "FL_MESSAGE": "Mensagem",
+    "FL_TARGET_MODULE": "Módulo",
+    "BL_SMS_CONTENT": "Conteúdo SMS"
   }
 }

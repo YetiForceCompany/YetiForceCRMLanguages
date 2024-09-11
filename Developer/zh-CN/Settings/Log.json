@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "安全事件",
     "LBL_LOGS_DESC": "查看安全事件的面板",
     "LBL_ACCESS_FOR_ADMIN": "管理员访问",
     "LBL_ACCESS_FOR_API": "API 的访问",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "分析",
     "LBL_DURATION": "持续时间",
     "LBL_LOGS_VIEWER": "日志查看器",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

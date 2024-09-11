@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Violazioni sicurezza",
     "LBL_LOGS_DESC": "Mostra la lista di eventuali accessi illeciti",
     "LBL_ACCESS_FOR_ADMIN": "Accessi amministratore",
     "LBL_ACCESS_FOR_API": "Accessi web service (API)",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profilazione",
     "LBL_DURATION": "Durata",
     "LBL_LOGS_VIEWER": "Visualizzatore log",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

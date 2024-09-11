@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Incydenty bezpieczeństwa",
     "LBL_LOGS_DESC": "Panel do przegladania incydentów bezpieczeństwa",
     "LBL_ACCESS_FOR_ADMIN": "Naruszenia w panelu konfiguracyjnym",
     "LBL_ACCESS_FOR_API": "Naruszenia w API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profilowanie",
     "LBL_DURATION": "Czas trwania",
     "LBL_LOGS_VIEWER": "Podgląd logów",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

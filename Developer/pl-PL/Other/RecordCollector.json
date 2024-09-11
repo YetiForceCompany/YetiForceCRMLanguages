@@ -42,6 +42,7 @@
     "LBL_UA_YOU_CONTROL": "YouControl [UA]",
     "LBL_UA_YOU_CONTROL_DESC": "Pobieranie danych o ukraińskich firm dostarczone przez YouScore API z bazy YouControl",
     "LBL_CH_ZEFIX": "Swiss Zefix [CH]",
-    "LBL_CH_ZEFIX_DESC": "Pobieranie danych o przedsiębiorstwach Szwajcarii z bazy szwajcarskiego centralnego indeksu nazw firm (Zentraler Firmenindex)"
+    "LBL_CH_ZEFIX_DESC": "Pobieranie danych o przedsiębiorstwach Szwajcarii z bazy szwajcarskiego centralnego indeksu nazw firm (Zentraler Firmenindex)",
+    "LBL_COMPANY_NOT_FOUND": "Nie znaleziono firmy"
   }
 }

@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "Công khai: Đọc, Tạo\/Sửa, Xóa",
     "Public: Read, Create\/Edit": "Công khai: Đọc, Tạo\/Sửa",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Đã lưu quy tắc chia sẻ tùy chỉnh thành công",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "Lưu quy tắc chia sẻ truy cập thất bại",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "Xoá quy tắc chia sẻ truy cập thất bại"
   },

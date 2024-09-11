@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Інциденти в області безпеки",
     "LBL_LOGS_DESC": "Панель для перегляду інцидентів безпеки",
     "LBL_ACCESS_FOR_ADMIN": "Доступ для адміністратора",
     "LBL_ACCESS_FOR_API": "Доступ для API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Профілювання",
     "LBL_DURATION": "Тривалість",
     "LBL_LOGS_VIEWER": "Перегляд логів",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

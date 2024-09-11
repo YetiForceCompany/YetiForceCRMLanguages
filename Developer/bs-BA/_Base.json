@@ -2012,6 +2012,11 @@
     "JS_SPECIAL_CHARACTERS": "Posebni znakovi kao što su",
     "JS_NOT_ALLOWED": "nije dozvoljeno",
     "JS_INVALID_COORDINATES": "Unesene su pogrešne koordinate",
-    "JS_PDF_GENERATED": "PDF je kreiran"
+    "JS_PDF_GENERATED": "PDF je kreiran",
+    "JS_OSM_INDIRECT_POINT": "Indirect point",
+    "JS_OSM_SEARCH_IN_RADIUS": "Search in radius",
+    "JS_OSM_START": "Početak",
+    "JS_OSM_END": "Kraj",
+    "JS_OSM_USE_COORDINATES": "Use coordinates"
   }
 }

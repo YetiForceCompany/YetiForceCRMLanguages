@@ -2012,6 +2012,11 @@
     "JS_SPECIAL_CHARACTERS": "Znaki specjalne, takie jak",
     "JS_NOT_ALLOWED": "nie są dozwolone",
     "JS_INVALID_COORDINATES": "Wprowadzono nieprawidłowe współrzędne",
-    "JS_PDF_GENERATED": "Plik PDF został utworzony"
+    "JS_PDF_GENERATED": "Plik PDF został utworzony",
+    "JS_OSM_INDIRECT_POINT": "Punkt pośredni",
+    "JS_OSM_SEARCH_IN_RADIUS": "Wyszukaj w promieniu",
+    "JS_OSM_START": "Start",
+    "JS_OSM_END": "Koniec",
+    "JS_OSM_USE_COORDINATES": "Użyj współrzędnych"
   }
 }

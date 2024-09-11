@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Varnostnih incidenti",
     "LBL_LOGS_DESC": "Plošča za pregledovanje varnostnih incidentov",
     "LBL_ACCESS_FOR_ADMIN": "Dostop za administratorja",
     "LBL_ACCESS_FOR_API": "Dostop za API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiliranje",
     "LBL_DURATION": "Trajanje",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

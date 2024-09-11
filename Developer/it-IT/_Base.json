@@ -1533,7 +1533,7 @@
     "LBL_IMAGES": "Immagini",
     "FL_WAPRO_ID": "ID WAPRO ERP",
     "LBL_IMAGE_PREVIEW": "Anteprima dell'immagine",
-    "LBL_RECORD_DOES_NOT_EXIST": "Registro inesistente",
+    "LBL_RECORD_DOES_NOT_EXIST": "Il record non esiste",
     "LBL_RECORD_DOES_NOT_EXIST_DESC": "Il registro è stato eliminato e non è possibile visualizzare il nome.",
     "LBL_CONDITION_WIZARD": "Procedura guidata della condizione",
     "LBL_CURRENCY_CONVERTER": "Convertitore di valuta",
@@ -2012,6 +2012,11 @@
     "JS_SPECIAL_CHARACTERS": "I caratteri speciali come",
     "JS_NOT_ALLOWED": "non sono consentiti",
     "JS_INVALID_COORDINATES": "Coordinate errate inserite",
-    "JS_PDF_GENERATED": "PDF creato"
+    "JS_PDF_GENERATED": "PDF creato",
+    "JS_OSM_INDIRECT_POINT": "Indirect point",
+    "JS_OSM_SEARCH_IN_RADIUS": "Search in radius",
+    "JS_OSM_START": "Avvia",
+    "JS_OSM_END": "Fine",
+    "JS_OSM_USE_COORDINATES": "Use coordinates"
   }
 }

@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Περιστατικά ασφαλείας",
     "LBL_LOGS_DESC": "Πίνακας για την προβολή συμβάντων ασφαλείας",
     "LBL_ACCESS_FOR_ADMIN": "Πρόσβασης για admin",
     "LBL_ACCESS_FOR_API": "Πρόσβαση για API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Προφίλ",
     "LBL_DURATION": "Διάρκεια",
     "LBL_LOGS_VIEWER": "Προβολή καταγραφών",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

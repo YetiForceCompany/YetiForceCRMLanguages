@@ -63,6 +63,12 @@
     "sum": "Somma di ",
     "diff": "Differenza di",
     "quo": "Quotiente di",
-    "prod": "Prodotto di"
+    "prod": "Prodotto di",
+    "avg": "Media di ",
+    "max": "Massimo di ",
+    "min": "Minimo di ",
+    "count": "Conteggio di ",
+    "year": "Anno di ",
+    "month": "Mese di "
   }
 }

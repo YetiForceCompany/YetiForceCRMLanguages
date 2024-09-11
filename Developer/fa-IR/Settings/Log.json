@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "حوادث امنیتی",
     "LBL_LOGS_DESC": "پنل برای مشاهده حوادث امنیتی",
     "LBL_ACCESS_FOR_ADMIN": "دسترسی به مدیریت",
     "LBL_ACCESS_FOR_API": "دسترسی به API",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "مدت زمان",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

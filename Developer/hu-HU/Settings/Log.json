@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "Biztonsági események",
     "LBL_LOGS_DESC": "Panel a biztonsági események megtekintéséhez",
     "LBL_ACCESS_FOR_ADMIN": "Hozzáférés az admin számára",
     "LBL_ACCESS_FOR_API": "Hozzáférés az API-hoz",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
     "LBL_LOGS_VIEWER": "Napló megjelenítő",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

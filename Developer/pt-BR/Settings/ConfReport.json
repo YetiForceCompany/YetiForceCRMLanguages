@@ -153,11 +153,11 @@
     "LBL_HELP_FILE_UPLOADS": "Caso o servidor permita o envio de arquivos.",
     "LBL_HELP_SHORT_OPEN_TAG": "Should short form \"&lt;? ?&gt;\" at the beginning and the end of PHP files be allowed.",
     "LBL_HELP_POST_MAX_SIZE": "Maximum size of POST data that can be sent to the server. If the value is too low some data sent to the server may be lost.",
-    "LBL_HELP_UPLOAD_MAX_FILESIZE": "Maximum size of the sent file.",
+    "LBL_HELP_UPLOAD_MAX_FILESIZE": "Tamanho máximo do arquivo enviado.",
     "LBL_HELP_MAX_INPUT_VARS": "Maximum amount of variables that can be sent to the server. This amount applies to each of the  $_GET, $_POST or $_COOKIE tables individually. If the amount is too low some data sent to the server may be lost.",
-    "LBL_HELP_ZLIB_OUTPUT_COMPRESSION": "Should the server compress content sent to the browser.",
-    "LBL_HELP_SESSION_AUTO_START": "Will the session start automatically when the PHP script is executed.",
-    "LBL_HELP_SESSION_GC_MAXLIFETIME": "Time (in seconds) after which the session will be cleared.",
+    "LBL_HELP_ZLIB_OUTPUT_COMPRESSION": "Deve o servidor comprimir o conteúdo enviado ao navegador.",
+    "LBL_HELP_SESSION_AUTO_START": "A sessão inicia automaticamente quando o script PHP é executado.",
+    "LBL_HELP_SESSION_GC_MAXLIFETIME": "Tempo (em segundos) após o qual a sessão será limpa.",
     "LBL_HELP_SESSION_GC_DIVISOR": "This option works together with session.gc_probability and is used to calculate the probability of launching the \"garbage collection\" process. The probability is calculated this way: session.gc_probability/gc_divisor.",
     "LBL_HELP_SESSION_GC_PROBABILITY": "This parameter works together with session.gc_probability and is used to calculate the probability of launching the \"garbage collection\" process. The probability is calculated this way: session.gc_probability/gc_divisor.",
     "LBL_HELP_MBSTRING_FUNC_OVERLOAD": "Set of one-byte functions through their mbstring equivalents. We recommend disabling this setting. From PHP 7.2 on this setting will be marked as \"deprecated\".",
@@ -264,6 +264,6 @@
     "LBL_PATH_VERIFICATION_TITLE": "Verificação do caminho"
   },
   "js": {
-    "JS_SPEED_TEST_START": "Checking speed..."
+    "JS_SPEED_TEST_START": "Verificando velocidade..."
   }
 }

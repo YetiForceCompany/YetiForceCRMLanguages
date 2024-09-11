@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "Public: Read, Create\/Edit, Delete",
     "Public: Read, Create\/Edit": "Public: Read, Create\/Edit",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Custom sharing rule saved successfully",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "A hozzáférési szabály mentése nem sikerült",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "A hozzáférési szabályt nem sikerült törölni"
   },

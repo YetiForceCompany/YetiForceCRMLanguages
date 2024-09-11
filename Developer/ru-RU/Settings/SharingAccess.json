@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "Публичный\r\nЧтение\r\nСоздание\r\nРедактирование\r\nУдаление",
     "Public: Read, Create\/Edit": "Публичный\r\nЧтение\r\nСоздание\r\nРедактирование",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Пользовательские правила совместного доступа",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "Не удалось сохранить правило общего доступа",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "Не удалось удалить правило общего доступа"
   },

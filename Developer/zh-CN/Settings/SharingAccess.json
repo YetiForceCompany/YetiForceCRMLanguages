@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "公开︰ 读取、创建\/编辑、删除",
     "Public: Read, Create\/Edit": "公开︰ 读取、创建\/编辑、删除",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "自定义共享规则已保存",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "保存共享访问规则失败",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "删除共享访问规则失败"
   },

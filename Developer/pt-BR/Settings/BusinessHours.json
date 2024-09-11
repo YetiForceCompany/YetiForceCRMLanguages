@@ -16,10 +16,10 @@
     "LBL_DEFAULT_IDLE_TIME": "Tempo de inatividade padrão",
     "LBL_DEFAULT_RESOLVE_TIME": "Tempo de solução padrão",
     "LBL_HOLIDAYS_LINK": "Ir para configurações de feriados",
-    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+    "LBL_HOLIDAYS_INFO": "Marcar 'Feriados' fará com que as férias sejam omitidos ao calcular o tempo de negócios."
   },
   "js": {
     "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Tem certeza que deseja excluir esta entrada?",
-    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Por favor, selecione pelo menos um dia útil."
   }
 }

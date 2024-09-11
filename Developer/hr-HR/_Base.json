@@ -2012,6 +2012,11 @@
     "JS_SPECIAL_CHARACTERS": "Special characters like",
     "JS_NOT_ALLOWED": "are not allowed",
     "JS_INVALID_COORDINATES": "Wrong coordinates entered",
-    "JS_PDF_GENERATED": "PDF was created"
+    "JS_PDF_GENERATED": "PDF was created",
+    "JS_OSM_INDIRECT_POINT": "Indirect point",
+    "JS_OSM_SEARCH_IN_RADIUS": "Search in radius",
+    "JS_OSM_START": "Početak",
+    "JS_OSM_END": "Kraj",
+    "JS_OSM_USE_COORDINATES": "Use coordinates"
   }
 }

@@ -42,6 +42,7 @@
     "LBL_UA_YOU_CONTROL": "YouControl [UA]",
     "LBL_UA_YOU_CONTROL_DESC": "从 YouScore API 提供的 YouControl 数据库获取乌克兰公司的数据",
     "LBL_CH_ZEFIX": "Swiss Zefix [CH]",
-    "LBL_CH_ZEFIX_DESC": "从 瑞士中心业务名称索引 (Zentraler Firmenindex) 的瑞士公司获取数据"
+    "LBL_CH_ZEFIX_DESC": "从 瑞士中心业务名称索引 (Zentraler Firmenindex) 的瑞士公司获取数据",
+    "LBL_COMPANY_NOT_FOUND": "Company not found"
   }
 }

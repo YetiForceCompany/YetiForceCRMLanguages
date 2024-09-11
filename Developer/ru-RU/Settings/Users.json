@@ -12,7 +12,7 @@
     "LBL_LDAP_DOMAIN": "Домен (Автоматически добавляется к логину)",
     "LBL_VIEW_AUTH": "Авторизация",
     "LBL_SWITCH_USERS": "Переключатель пользователей",
-    "LBL_SWITCH_USERS_DESCRIPTION": "Данная опция, позволяет сменить пользователя в системе, не выходя из нее",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Данная опция, позволяет сменить пользователя в системе, не выходя из неё.",
     "LBL_SU_BASE_ACCESS": "Пользователь",
     "LBL_SU_AVAILABLE_ACCESS": "Разрешено входить под",
     "LBL_LOCKS": "Блокировки",
@@ -23,10 +23,10 @@
     "LBL_LOCK_RIGHT_MENU": "Блокировать правую кнопку мыши",
     "LBL_LOCK_SELECT_TEXT": "Блокировать выбор",
     "LBL_LOCK_DRAG": "Блокировать перемещение",
-    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO_AZURE_ACTIVE": "Аутентификация с Azure ID",
     "LBL_SSO": "Single sign-on",
     "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
-    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "ID Клиента",
     "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
   },
   "js": {

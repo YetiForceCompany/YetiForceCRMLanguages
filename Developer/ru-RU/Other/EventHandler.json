@@ -20,7 +20,7 @@
     "CALENDAR_REPEATEVENTS_HANDLER_DESC": "Check, if given event has got repeat type set",
     "ACCOUNTS_DUPLICATESHORTNAME_HANDLER": "Duplicate short name",
     "ACCOUNTS_DUPLICATESHORTNAME_HANDLER_DESC": "Check, if any other field with given short name exists in module",
-    "SMSNOTIFIER_PARSER_HANDLER": "SMS Notifier",
+    "SMSNOTIFIER_PARSER_HANDLER": "СМС Уведомитель",
     "SMSNOTIFIER_PARSER_HANDLER_DESC": "Check, if all required data was set",
     "RESERVATIONS_DUPLICATECHECKER_HANDLER": "Availability check",
     "RESERVATIONS_DUPLICATECHECKER_HANDLER_DESC": "Block adding/editing record if there is already a reservation for this date.",

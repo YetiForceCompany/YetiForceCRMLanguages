@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_LOGS": "セキュリティインシデント",
     "LBL_LOGS_DESC": "セキュリティインシデントを表示するためのパネル",
     "LBL_ACCESS_FOR_ADMIN": "管理者権限へのアクセス",
     "LBL_ACCESS_FOR_API": "API へのアクセス",
@@ -26,6 +25,7 @@
     "LBL_PROFILING": "Profiling",
     "LBL_DURATION": "Duration",
     "LBL_LOGS_VIEWER": "Logs viewer",
-    "LBL_LOGS_VIEWER_DESCRIPTION": ""
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
   }
 }

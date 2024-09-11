@@ -80,11 +80,11 @@
     "Overdue Activities": "Atividades Atrasadas",
     "LBL_NEGLECTED_ACCOUNTS": "Contas negligenciadas",
     "LBL_NEW_ACCOUNTS": "Novas Contas",
-    "LBL_COMARCH_BLOCK": "Comarch",
-    "FL_ACCOUNT_SECOND_NAME": "Account name 2",
-    "FL_ACCOUNT_THIRD_NAME": "Account name 3",
-    "FL_ACCOUNT_SHORT_NAME": "Short name",
-    "FL_PAYMENT_TERM_DAYS": "Payment term (in days)"
+    "LBL_COMARCH_BLOCK": "Comarca",
+    "FL_ACCOUNT_SECOND_NAME": "Nome da conta 2",
+    "FL_ACCOUNT_THIRD_NAME": "Nome da conta 3",
+    "FL_ACCOUNT_SHORT_NAME": "Nome",
+    "FL_PAYMENT_TERM_DAYS": "Prazo de pagamento (em dias)"
   },
   "js": {
     "JS_DUPLICTAE_CREATION_CONFIRMATION": "O nome da Conta já existe. Deseja criar um registro duplicado?",

@@ -63,6 +63,12 @@
     "sum": "Suma ",
     "diff": "Różnica",
     "quo": "Iloraz",
-    "prod": "Mnożenie"
+    "prod": "Mnożenie",
+    "avg": "Średnia ",
+    "max": "Maksimum ",
+    "min": "Minimum ",
+    "count": "Liczba ",
+    "year": "Rok ",
+    "month": "Miesiąc "
   }
 }

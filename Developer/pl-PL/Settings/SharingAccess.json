@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "Publiczny: Podgląd, Tworzenie\/Edycja, Usuwanie",
     "Public: Read, Create\/Edit": "Publiczny: Podgląd, Tworzenie\/Edycja",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Nowe zasady dostępu zostały zapisane",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Pomyślnie usunięto niestandardową regułę",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "Wystąpił błąd podczas zapisu zasad dostępu",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "Wystąpił błąd podczas usuwania zasad dostępu"
   },

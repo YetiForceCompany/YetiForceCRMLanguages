@@ -25,8 +25,8 @@
     "LBL_CARS": "Carros",
     "PLL_DRAFT": "Rascunho",
     "PLL_CANCELLED": "Cancelado",
-    "LBL_WORK_DAYS": "Work days",
-    "LBL_RESERVATION_EXISTS": "There is already a reservation for the following date: "
+    "LBL_WORK_DAYS": "Dias úteis",
+    "LBL_RESERVATION_EXISTS": "Já existe uma reserva para a seguinte data:"
   },
   "js": {
     "MSG_ERROR_NUMBER": "Caracteres permitidos: [0-9]",
@@ -34,15 +34,15 @@
     "JS_HOURS_SHOULD_BE_SMALLER_THAN": "O número de horas deve ser menor que 24h",
     "JS_START_DATE": "Data Inícial",
     "JS_END_DATE": "Data Final",
-    "JS_COMPANY": "Company",
-    "JS_TOTAL_TIME": "Total time",
-    "PLL_ACCEPTED": "For approval",
-    "PLL_TO_APPROVAL": "Approved",
-    "PLL_DRAFT": "Draft",
-    "PLL_CANCELLED": "Cancelled",
-    "JS_ASSIGNED_TO": "Assigned to",
-    "JS_TYPE": "Type",
-    "JS_YES": "Yes",
-    "JS_NO": "No"
+    "JS_COMPANY": "Empresa",
+    "JS_TOTAL_TIME": "Tempo total",
+    "PLL_ACCEPTED": "Para aprovação",
+    "PLL_TO_APPROVAL": "Aprovado",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_CANCELLED": "Cancelado",
+    "JS_ASSIGNED_TO": "Responsável",
+    "JS_TYPE": "Tipo",
+    "JS_YES": "Sim",
+    "JS_NO": "Não"
   }
 }

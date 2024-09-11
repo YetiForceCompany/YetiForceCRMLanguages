@@ -5,7 +5,7 @@
     "ViewName": "Nome da Visualização",
     "SetDefault": "Padrão",
     "LBL_PRIVILEGES_TO_EDIT": "Editar",
-    "LBL_PRIVILEGES_TO_VIEW": "Availability",
+    "LBL_PRIVILEGES_TO_VIEW": "Disponibilidade",
     "Delete": "Apagar",
     "Delete CustomView": "A visualização customizada foi apagada",
     "Saving CustomView": "A visualização foi salva",
@@ -25,10 +25,10 @@
     "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Selecione uma para classificar os registros",
     "LBL_SORT_ASCENDING_ORDER": "Classificar em ordem ascendente",
     "LBL_SORT_DESCENDING_ORDER": "Classificar em ordem descendente",
-    "LBL_ATTENTION": "Warning!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
-    "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_ATTENTION": "Aviso!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Apenas filtros privados podem ser concedidas permissões parciais",
+    "LBL_PUBLIC": "Público",
+    "LBL_PRIVATE": "Privado"
   },
   "js": {
     "Saving changes": "Salvando as alterações...",

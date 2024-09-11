@@ -63,6 +63,12 @@
     "sum": "Sum of ",
     "diff": "Difference of",
     "quo": "Quotient of",
-    "prod": "Product of"
+    "prod": "Product of",
+    "avg": "Avg of ",
+    "max": "Max of ",
+    "min": "Min of ",
+    "count": "Count of ",
+    "year": "Year of ",
+    "month": "Month of "
   }
 }

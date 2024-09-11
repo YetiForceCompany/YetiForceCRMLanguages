@@ -1,6 +1,6 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicate emails",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Η διπλοτυπία μηνυμάτων στα ηλεκτρονικά ταχυδρομεία",
     "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Διπλότυπο ΑΦΜ",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Αποκλεισμός εγγραφής προσθήκης / επεξεργασίας όταν υπάρχει ήδη τέτοιο αναγνωριστικό ΦΠΑ",

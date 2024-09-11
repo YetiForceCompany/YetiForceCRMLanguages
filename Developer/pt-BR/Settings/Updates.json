@@ -8,14 +8,14 @@
     "LBL_FROM_VERSION": "Da versão",
     "LBL_TO_VERSION": "Para a versão",
     "LBL_RESULT": "Situação",
-    "LBL_UPDATES": "Updates",
+    "LBL_UPDATES": "Atualizações",
     "LBL_UPDATES_DESCRIPTION": "Histórico de Atualizações",
     "LBL_IMPORT_UPDATE": "Enviar Atualização",
-    "LBL_INSTALL_PACKAGE": "Install package",
-    "LBL_DOWNLOAD_PACKAGE": "Download package",
-    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Available upgrade packages",
-    "LBL_INSTALLED_PACKAGES": "Installed packages",
-    "LBL_PACKAGE_VERSION": "Package version",
-    "LBL_NAME_PACKAGES": "Package name"
+    "LBL_INSTALL_PACKAGE": "Pacote de instalação",
+    "LBL_DOWNLOAD_PACKAGE": "Baixar pacote",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Pacotes de atualização disponíveis",
+    "LBL_INSTALLED_PACKAGES": "Pacotes Instalados",
+    "LBL_PACKAGE_VERSION": "Versão do pacote",
+    "LBL_NAME_PACKAGES": "Nome do pacote"
   }
 }

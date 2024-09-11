@@ -30,6 +30,7 @@
     "Public: Read, Create\/Edit, Delete": "Public: Lecture, Création\/Edition, Suppression",
     "Public: Read, Create\/Edit": "Public: Lecture, Création\/Edition",
     "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Règle de partage personnalisée enregistrée avec succès",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
     "LBL_CUSTOM_RULE_SAVED_FAILED": "L'enregistrement de la règle de partage a échoué",
     "LBL_CUSTOM_RULE_DELETING_FAILED": "La suppression de la règle de partage a échoué"
   },

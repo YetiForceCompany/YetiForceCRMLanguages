@@ -1,12 +1,12 @@
 {
   "php": {
-    "SMSTemplates": "SMS templates",
-    "SINGLE_SMSTemplates": "SMS template",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_SUBJECT": "Subject",
-    "FL_MESSAGE": "Message",
-    "FL_TARGET_MODULE": "Module",
-    "BL_SMS_CONTENT": "SMS content"
+    "SMSTemplates": "СМС шаблоны",
+    "SINGLE_SMSTemplates": "СМС шаблон",
+    "LBL_CUSTOM_INFORMATION": "Системная Информация",
+    "LBL_BASIC_INFORMATION": "Основная Информация",
+    "FL_SUBJECT": "Тема",
+    "FL_MESSAGE": "Сообщение",
+    "FL_TARGET_MODULE": "Модуль",
+    "BL_SMS_CONTENT": "Содержимое СМС"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
-    "IPreOrder": "Prenotazioni",
-    "SINGLE_IPreOrder": "Prenotazione",
+    "IPreOrder": "Pre-ordine",
+    "SINGLE_IPreOrder": "Pre-ordine",
     "LBL_DESCRIPTION_BLOCK": "Descrizione",
     "LBL_ATTENTION_BLOCK": "Commenti",
     "FL_ACCEPTANCE_DATE": "Data accettazione",

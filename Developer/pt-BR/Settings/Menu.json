@@ -29,7 +29,7 @@
     "LBL_LABEL_DESC": "Permitir agrupa itens no menu.",
     "LBL_SEPARATOR": "Separador",
     "LBL_SEPARATOR_DESC": "Dividir itens grandes em partes menores.",
-    "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
+    "LBL_SHOW_NUMBER_ENTRIES": "Mostrar número de postagens",
     "LBL_QUICKCREATE": "Criar rápido",
     "LBL_QUICKCREATE_DESC": "Ajuda para criar registros rapidamente.",
     "LBL_HOMEICON": "Ícone da página Principal",
@@ -37,7 +37,7 @@
     "LBL_CUSTOMFILTER": "Filtro",
     "LBL_CUSTOMFILTER_DESC": "Redirecionando item do menu para o filtro selecionado.",
     "LBL_RECYCLEBIN": "Reciclagem",
-    "LBL_RECYCLEBIN_DESC": "Menu item redirecting to recycle bin.",
+    "LBL_RECYCLEBIN_DESC": "Redirecionando item do menu para a lixeira.",
     "LBL_PROFILE": "Perfil",
     "LBL_PROFILE_DESC": "Item do Menu que permite mudanças das configurações do Usuário.",
     "LBL_REMOVED_MENU_ITEM": "O item do menu foi removido",
@@ -49,7 +49,7 @@
     "LBL_CANCEL": "Cancelar",
     "LBL_MORE_INFO": "Clique aqui para mais informações",
     "LBL_COPY_MENU": "Copiar menu",
-    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
+    "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "A aplicação de restrições torna impossível a criação de filtros a partir desta visão de lista."
   },
   "js": {
     "JS_EDIT": "Editar",

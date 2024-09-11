@@ -1,7 +1,7 @@
 {
   "php": {
-    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplicate emails",
-    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Block record adding/editing when one of the entered email addresses already exists",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER": "Duplizierte E-Mails",
+    "CONTACTS_DUPLICATEEMAIL_HANDLER_DESC": "Das Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn eine der eingegebenen E-Mail-Adressen bereits vorhanden ist",
     "ACCOUNTS_DUPLICATEVATID_HANDLER": "Doppelte Umsatzsteuer-ID",
     "ACCOUNTS_DUPLICATEVATID_HANDLER_DESC": "Hinzufügen/Bearbeitung blockieren, wenn eine solche USt-ID bereits existiert",
     "PRODUCTS_DUPLICATEEAN_HANDLER": "Doppelte ean",
@@ -12,13 +12,13 @@
     "IGRNC_IGRNEXIST_HANDLER_DESC": "Hinzufügen/Bearbeiten von Datensätzen blockieren, wenn die selbe erhaltene Notizkorrektur bereits existiert.",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER": "Überprüfung der Arbeitszeit, dies kann die 24 Stunden nicht überschreiten",
     "OSSTIMECONTROL_TIMECONTROL_HANDLER_DESC": "Arbeitszeit begrenzt auf 24 Stunden",
-    "CALENDAR_VERIFYISHOLIDAYDATE_HANDLER": "Check holidays",
-    "CALENDAR_VERIFYISHOLIDAYDATE_HANDLER_DESC": "Check, if any holidays are present in given time period",
-    "FINVOICE_CHECKINGQUANTITYAVAILABLEPRODUCT_HANDLER": "Check product availability",
-    "FINVOICE_CHECKINGQUANTITYAVAILABLEPRODUCT_HANDLER_DESC": "Check if given product is available in given quantity",
-    "CALENDAR_REPEATEVENTS_HANDLER": "Recurring events",
+    "CALENDAR_VERIFYISHOLIDAYDATE_HANDLER": "Feiertage überprüfen",
+    "CALENDAR_VERIFYISHOLIDAYDATE_HANDLER_DESC": "Überprüfen Sie, ob in einem bestimmten Zeitraum Feiertage vorhanden sind",
+    "FINVOICE_CHECKINGQUANTITYAVAILABLEPRODUCT_HANDLER": "Produktverfügbarkeit überprüfen",
+    "FINVOICE_CHECKINGQUANTITYAVAILABLEPRODUCT_HANDLER_DESC": "Überprüfen, ob das angegebene Produkt in der angegebenen Menge verfügbar ist",
+    "CALENDAR_REPEATEVENTS_HANDLER": "Termine mit Wiederholung",
     "CALENDAR_REPEATEVENTS_HANDLER_DESC": "Check, if given event has got repeat type set",
-    "ACCOUNTS_DUPLICATESHORTNAME_HANDLER": "Duplicate short name",
+    "ACCOUNTS_DUPLICATESHORTNAME_HANDLER": "Duplizierter Kurzname",
     "ACCOUNTS_DUPLICATESHORTNAME_HANDLER_DESC": "Check, if any other field with given short name exists in module",
     "SMSNOTIFIER_PARSER_HANDLER": "SMS Notifier",
     "SMSNOTIFIER_PARSER_HANDLER_DESC": "Check, if all required data was set",
@@ -68,9 +68,9 @@
     "OPENSTREETMAP_OPENSTREETMAPHANDLER_HANDLER_DESC": "",
     "VTIGER_AUTOASSIGN_HANDLER": "Automatic record assignment",
     "VTIGER_AUTOASSIGN_HANDLER_DESC": "Modifying the owner of a record before its creation",
-    "APPROVALS_APPROVALS_HANDLER": "Updating consents on contact",
+    "APPROVALS_APPROVALS_HANDLER": "Aktualisierung von Einwilligungen bei Kontakten",
     "APPROVALS_APPROVALS_HANDLER_DESC": "",
-    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details about the product or service",
+    "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER": "Details über das Produkt oder die Dienstleistung",
     "PRODUCTS_INVENTORYRECORDDETAILS_HANDLER_DESC": ""
   }
 }

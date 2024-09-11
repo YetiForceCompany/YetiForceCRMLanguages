@@ -10,7 +10,7 @@
     "LBL_CLOSED_TIME": "Hora Fechamento",
     "LBL_VAT_ID": "CNPJ",
     "FL_CATEGORY": "Categoria",
-    "FL_MEMBER_OF": "Parent partner",
-    "LBL_SHOW_HIERARCHY": "Hierarchy"
+    "FL_MEMBER_OF": "Parceiro pai",
+    "LBL_SHOW_HIERARCHY": "Hierarquia"
   }
 }
