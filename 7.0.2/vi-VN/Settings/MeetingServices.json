@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "Dịch vụ Cuộc họp",
+    "LBL_MEETING_SERVICES": "Dịch vụ Cuộc họp",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "Trạng thái",
+    "FL_APP_ID": "App ID",
+    "FL_SECRET_KEY": "Secret key"
+  }
+}

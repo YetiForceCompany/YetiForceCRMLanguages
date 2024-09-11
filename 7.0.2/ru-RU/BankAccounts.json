@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Банковские счета",
+    "SINGLE_BankAccounts": "Банковский счет",
+    "LBL_CUSTOM_INFORMATION": "Сведения о заказчике",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "FL_NAME": "Имя",
+    "FL_BANK_ACCOUNT_NUMBER": "Номер счета",
+    "FL_CURRENCY": "Валюта",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Название банка",
+    "FL_STATUS": "Статус",
+    "FL_MULTICOMPANY": "Департамент",
+    "FL_RELATED_TO": "Related to",
+    "PLL_DRAFT": "Черновик",
+    "PLL_ACTIVE": "Активно",
+    "PLL_INACTIVE": "Неактивно"
+  }
+}

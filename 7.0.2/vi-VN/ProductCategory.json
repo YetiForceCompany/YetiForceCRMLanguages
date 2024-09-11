@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Nhóm hàng hóa",
+    "SINGLE_ProductCategory": "Nhóm hàng hóa",
+    "LBL_CUSTOM_INFORMATION": "Thông tin tuỳ chỉnh",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "FL_PARENT_CATEGORY": "Nhóm cha",
+    "LBL_CHILD_PRODUCTCATEGORY": "Tiểu mục",
+    "FL_ACTIVE": "Hoạt động",
+    "FL_CATEGORY_NAME": "Tên nhóm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "سجل النشاط",
+    "SINGLE_AuditRegister": "سجل النشاط",
+    "LBL_BASIC_INFORMATION": "معلومات أساسية",
+    "FL_NAME": "الاسم",
+    "FL_LOCATION_REGISTER": "موقع التسجيل",
+    "FL_DATASETREGISTER": "مجموعة بيانات التسجيل",
+    "PLL_DRAFT": "مسودة",
+    "PLL_WAITING_FOR_ACCEPTANCE": "في انتظار القبول",
+    "PLL_IN_REALIZATION": "تحقيق",
+    "PLL_COMPLETED": "إكمال",
+    "PLL_CANCELLED": "ملغى",
+    "FL_STATUS": "الحالة",
+    "FL_TYPE": "نوع",
+    "PLL_INTERNAL": "الداخلي",
+    "PLL_EXTERNAL": "خارجي",
+    "LBL_DESCRIPTION": "الوصف",
+    "FL_DESCRIPTION": "الوصف",
+    "FL_COMMENTS": "تعليقات الاعتدال",
+    "LBL_COMMENTS": "تعليقات الاعتدال"
+  }
+}

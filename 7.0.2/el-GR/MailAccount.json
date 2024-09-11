@@ -1,0 +1,28 @@
+{
+  "php": {
+    "MailAccount": "Λογαριασμοί ηλεκτρονικού ταχυδρομείου",
+    "SINGLE_MailAccount": "Λογαριασμός ηλεκτρονικού ταχυδρομείου",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "BL_MAIL_SCANNER": "Σαρωτής",
+    "FL_SUBJECT": "Όνομα",
+    "FL_LOGIN": "Είσοδος",
+    "FL_PASSWORD": "Κωδικός πρόσβασης",
+    "FL_REFRESH_TOKEN": "Refresh token",
+    "FL_MAIL_SERVER": "Mail server",
+    "PL_INACTIVE": "Μη ενεργό",
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_LOCKED": "Lock (auto)",
+    "FL_LOGS": "Logs",
+    "FL_STATUS": "Κατάσταση",
+    "FL_EXPIRE_TIME": "Ώρα λήξης",
+    "FL_LAST_LOGIN": "Τελευταία σύνδεση",
+    "FL_SCANNER_ACTIONS": "Ενέργειες Σάρωσης",
+    "FL_DOMAIN_EXCEPTIONS": "Domain exceptions",
+    "FL_EMAIL_EXCEPTIONS": "Email exceptions",
+    "FL_MAIL_FOLDERS": "Φάκελοι",
+    "FL_SCANNER_FIELDS": "Πεδία αναζήτησης",
+    "LBL_OAUTH_AUTHORIZATION_DESC": "Είστε βέβαιοι ότι θέλετε να εξουσιοδοτήσετε;",
+    "LBL_OAUTH_AUTHORIZATION": "Εξουσιοδότηση"
+  }
+}

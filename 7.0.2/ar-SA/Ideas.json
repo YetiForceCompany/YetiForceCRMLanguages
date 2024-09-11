@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "أفكار",
+    "SINGLE_Ideas": "فكرة",
+    "LBL_IDEAS_INFORMATION": "معلومات أساسية",
+    "LBL_SUBJECT": "الموضوع",
+    "LBL_STATUS": "الحالة",
+    "Description": "ا يوجد وصف",
+    "LBL_EXTENT_DESCRIPTION": "وصف مفصل",
+    "Attention": "تعليقات الاعتدال",
+    "LBL_NO": "عدد",
+    "Draft": "مسودة",
+    "Proposition": "العرض"
+  }
+}

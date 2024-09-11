@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Competitie",
+    "SINGLE_Competition": "Concurrent",
+    "LBL_COMPETITION_INFORMATION": "Basisinformatie",
+    "LBL_CUSTOM_INFORMATION": "Systeeminformatie",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving details",
+    "LBL_SUBJECT": "Naam",
+    "LBL_NUMBER": "Nummer",
+    "LBL_CLOSED_TIME": "Sluitingstijd",
+    "LBL_VAT_ID": "BTW-nummer",
+    "LBL_SHOW_HIERARCHY": "Hiërarchie",
+    "LBL_PARENT_ID": "Bovenliggende concurrent"
+  }
+}

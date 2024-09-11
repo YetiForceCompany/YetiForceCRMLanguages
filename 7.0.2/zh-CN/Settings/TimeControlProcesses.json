@@ -1,0 +1,13 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "工作流",
+    "TimeControlProcesses": "时间管理流程",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_TIME_CONTROL_WIDGET": "工作时间管理部件",
+    "LBL_TCW_INFO": "在工作时间管理部件中隐藏\/显示图标的选项可以在这里找到.",
+    "LBL_HOLIDAYS": "节日图标",
+    "LBL_WORKING_DAYS": "工作日的图标",
+    "LBL_WORKING_TIME": "工作时间图标"
+  },
+  "js": {}
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Rýchle vytvorenie",
+    "LBL_SEPARATOR": "Oddeľovač",
+    "LBL_OTHER": "Iné",
+    "MEN_VIRTUAL_DESK": "Virtuálny stôl",
+    "MEN_COMPANIES_CONTACTS": "Spoločnosti a Kontakty",
+    "MEN_SALES": "Predaj",
+    "MEN_PROJECTS": "Projektový manažment",
+    "MEN_MARKETING": "Marketing",
+    "MEN_SUPPORT": "Podpora",
+    "MEN_ACCOUNTING": "Účtovníctvo",
+    "MEN_COMPANY": "Spoločnosť",
+    "MEN_ORGANIZATION": "Organizácia",
+    "MEN_DATABESES": "Databázy",
+    "MEN_TEAMWORK": "Tímová práca",
+    "MEN_PRODUCTBASE": "Databázu produktov,",
+    "MEN_LISTS": "Zoznamy",
+    "MEN_SERVICESBASE": "Servisná databáza",
+    "MEN_SALE_PROCESSES": "Predajné procesy",
+    "Menu": "Ponuka",
+    "MEN_LOGISTICS": "Logistika",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Zmena prihlasovacieho hesla",
+    "LBL_CHANGE": "Zmena",
+    "LBL_USER_PROFILE": "Profil užívateľa",
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Reporting"
+  }
+}

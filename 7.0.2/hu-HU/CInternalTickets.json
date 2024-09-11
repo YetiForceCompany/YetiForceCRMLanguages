@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Belső Jegyek",
+    "SINGLE_CInternalTickets": "Belső Jegy",
+    "LBL_ADDITIONAL_INFORMATION": "Kiegészítő információ",
+    "LBL_BASIC_INFORMATION": "Alap Információk",
+    "LBL_TICKET_RESOLUTION": "Megoldás",
+    "LBL_ATTENTION_BLOCK": "Megjegyzések",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "FL_SUBJECT": "Tárgy",
+    "FL_STATUS": "Állapot",
+    "FL_RESOLUTION": "Megoldás",
+    "PLL_UNASSIGNED": "Nincs hozzárendelve",
+    "PLL_AWAITING_REALIZATION": "Megvalósításra vár",
+    "PLL_FOR_PROCESSING": "Megvalósításra",
+    "PLL_IN_PROGRESSING": "Folyamatban",
+    "PLL_SUBMITTED_COMMENTS": "A hozzászólás elküldve",
+    "PLL_FOR_APPROVAL": "Jóváhagyásra",
+    "PLL_CANCELLED": "Törölt",
+    "PLL_ACCEPTED": "Elfogadott"
+  }
+}

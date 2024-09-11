@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Productcategorie",
+    "SINGLE_ProductCategory": "Productcategorie",
+    "LBL_CUSTOM_INFORMATION": "Klantgegevens",
+    "LBL_BASIC_INFORMATION": "Algemene gegevens",
+    "FL_PARENT_CATEGORY": "Bovenliggende categorie",
+    "LBL_CHILD_PRODUCTCATEGORY": "Subcategorie",
+    "FL_ACTIVE": "Aktief",
+    "FL_CATEGORY_NAME": "Categorienaam"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Outsourcing-Produkte",
+    "SINGLE_OutsourcedProducts": "Outsourcing-Produkt",
+    "LBL_INFORMATION": "Ausgelagerte Produkte",
+    "Assigned To": "zuständig",
+    "LBL_RODZAJUMOWY": "Art der Vereinbarung",
+    "LBL_osservicesstatus": "Status",
+    "Individual Agreement": "Individuelle Vereinbarung",
+    "In service": "Wird unterstützt",
+    "Finished support": "Unterstützung beendet",
+    "Product Name": "Produktname",
+    "Sub Category": "Unterkategorie",
+    "Category": "Kategorie",
+    "Date Sold": "Verkaufsdatum",
+    "Date in Service": "Unterstützung Beendigungsdatum",
+    "Description": "Beschreibung",
+    "LBL_DESCRIPTION_INFORMATION": "Beschreibende Information",
+    "LBL_CUSTOM_INFORMATION": "System Information",
+    "Where bought": "Wo gekauft",
+    "Number": "Nummer",
+    "Save": "Speichern",
+    "Selling proposition": "Gelegenheit",
+    "LBL_GENERATE_EXTENSION": "Generiere Verlängerung",
+    "Active": "Aktiv",
+    "Inactive": "Inaktiv"
+  }
+}

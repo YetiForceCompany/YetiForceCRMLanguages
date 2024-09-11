@@ -1,0 +1,27 @@
+{
+  "php": {
+    "BruteForce": "Brute Force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Брой опити",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "Време на изключване (минути)",
+    "LBL_SETTINGS": "Настройки",
+    "LBL_BLOCKED_IP": "Блокиран IP-адрес",
+    "LBL_SAVE_SUCCESS": "Промените са запазени",
+    "LBL_UNBLOCK_FAIL": "IP адресът не е отключен",
+    "LBL_UNBLOCK_SUCCESS": "IP адресът е отключен",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Set the maximum number of failed login attempts or password changes and time limit for IP blocking.",
+    "LBL_IP": "IP адрес",
+    "LBL_DATE": "Дата",
+    "LBL_USERS": "Потребители",
+    "LBL_BROWSERS": "Браузъри",
+    "LBL_UNBLOCK": "Отблокирай",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Потребители за уведомяване",
+    "LBL_BRUTEFORCE_ACTIVE": "Активен",
+    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_BRUTEFORCE": "Brute Force",
+    "LBL_SENT_NOTIFICATIONS": "Изпращане на уведомления"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Грешка. Запазването е неуспешно."
+  }
+}

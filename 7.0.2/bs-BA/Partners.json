@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Partners": "Partneri",
+    "SINGLE_Partners": "Partner",
+    "LBL_PARTNERS_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Broj",
+    "LBL_CLOSED_TIME": "Vrijeme zaključenja",
+    "LBL_VAT_ID": "ID broj",
+    "FL_CATEGORY": "Kategorija",
+    "FL_MEMBER_OF": "Roditelj partner",
+    "LBL_SHOW_HIERARCHY": "Hijerarhija"
+  }
+}

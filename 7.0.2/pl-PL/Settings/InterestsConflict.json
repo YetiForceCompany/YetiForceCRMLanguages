@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Konflikt interesów",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Konflikt interesów",
+    "LBL_MAIN_CONFIG": "Konfiguracja ogólna",
+    "LBL_MODULES": "Moduły",
+    "LBL_UNLOCK_REQUESTS": "Zgłoszenia odblokowania",
+    "LBL_CONFIRMATIONS": "Potwierdzenia",
+    "LBL_IS_ACTIVE": "Aktywacja konfliktu interesów",
+    "LBL_NOTIFICATIONS_EMAILS": "Adresy e-mail do powiadomień",
+    "LBL_INTERVAL_TIME": "Przedział czasowy",
+    "LBL_INTERVAL_TIME_DESC": "Przedział czasu, który określa, jak często system powinien wymuszać potwierdzenie braku konfliktu interesów.",
+    "LBL_INDEFINITELY": "bezterminowo",
+    "LBL_USERS_CONFIRMATIONS": "Dostęp do panelu potwierdzeń",
+    "LBL_USERS_UNLOCK": "Dostep do panelu zgłoszeń odblokowania",
+    "LBL_RELATIONSHIP": "Relacja",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Wyślij wiadomość mailową podczas prośby żądania dostępu do rekordu",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail wysyłany do powyższych osób (Adresy e-mail do powiadomień)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Wyślij wiadomość mailową z wynikiem rozpatrzenia prośby żądania dostępu do rekordu",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail wysyłany do osoby zgłaszającej prośbę dostępu"
+  }
+}

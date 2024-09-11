@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Επιλεγμένες τιμές",
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "PickListDependency": "Λίστα επιλογών - εξάρτηση",
+    "LBL_PICKLIST_DEPENDENCY": "Λίστα επιλογών - εξάρτηση",
+    "LBL_SELECT_FIELD": "Επιλέξτε πεδίο",
+    "LBL_SELECT_MODULE": "Module",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Επιλέξτε τιμές προέλευσης",
+    "LBL_SOURCE_FIELD": "Πεδίο προέλευσης",
+    "LBL_MODULE": "Module"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτή την εξάρτηση της λίστα επιλογών;"
+  }
+}

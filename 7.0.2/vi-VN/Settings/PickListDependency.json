@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Giá trị đã chọn",
+    "LBL_ADD_RECORD": "Thêm hồ sơ",
+    "PickListDependency": "Sự phụ thuộc danh sách chọn",
+    "LBL_PICKLIST_DEPENDENCY": "Sự phụ thuộc danh sách chọn",
+    "LBL_SELECT_FIELD": "Chọn trường",
+    "LBL_SELECT_MODULE": "Mô-đun",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Chọn giá trị danh sách chọn",
+    "LBL_SOURCE_FIELD": "Trường nguồn",
+    "LBL_MODULE": "Mô-đun"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Bạn có chắc chắn muốn xóa tính phụ thuộc danh sách chọn này?"
+  }
+}

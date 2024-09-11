@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Odaberi vrijednost",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "PickListDependency": "Zavisnost liste za odabir",
+    "LBL_PICKLIST_DEPENDENCY": "Zavisnost od popisa",
+    "LBL_SELECT_FIELD": "Odaberite polje",
+    "LBL_SELECT_MODULE": "Modul",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Odaberite vrijednosti izvorne liste za odabir",
+    "LBL_SOURCE_FIELD": "Izvorno polje",
+    "LBL_MODULE": "Modul"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Jeste li sigurni da želite izbrisati ovu zavisnost na listi za odabir?"
+  }
+}

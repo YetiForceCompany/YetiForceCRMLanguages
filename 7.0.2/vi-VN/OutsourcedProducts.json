@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Sản phẩm mua ngoài",
+    "SINGLE_OutsourcedProducts": "Sản phẩm mua ngoài",
+    "LBL_INFORMATION": "Sản phẩm mua ngoài",
+    "Assigned To": "Giao cho",
+    "LBL_RODZAJUMOWY": "Loại thỏa thuận",
+    "LBL_osservicesstatus": "Trạng thái",
+    "Individual Agreement": "Thoả thuận cá nhân",
+    "In service": "Được hỗ trợ",
+    "Finished support": "Hỗ trợ bị chấm dứt",
+    "Product Name": "Tên sản phẩm",
+    "Sub Category": "Tiểu mục",
+    "Category": "Nhóm",
+    "Date Sold": "Ngày bán",
+    "Date in Service": "Ngày dừng hỗ trợ",
+    "Description": "Mô tả",
+    "LBL_DESCRIPTION_INFORMATION": "Thông tin mô tả",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "Where bought": "Nơi đã mua",
+    "Number": "Số",
+    "Save": "Lưu",
+    "Selling proposition": "Tiềm năng",
+    "LBL_GENERATE_EXTENSION": "Tạo mở rộng",
+    "Active": "Hoạt động",
+    "Inactive": "Không hoạt động"
+  }
+}

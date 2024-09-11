@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_COLORS": "Színek",
+    "LBL_COLOR": "Szín",
+    "LBL_PICKLISTS": "Értéklisták",
+    "LBL_SELECT_PICKLIST": "Válasszon értéklistát",
+    "LBL_REMOVE_COLOR": "Szín eltávolítása",
+    "LBL_GENERATE_COLOR": "Szín generálása",
+    "LBL_UPDATE_COLOR": "Szín módosítása",
+    "LBL_REMOVED_COLOR": "Szín eltávolítva",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Szín szerkesztése",
+    "LBL_CALENDAR_COLORS": "Naptár színek",
+    "LBL_CALENDAR_TYPE": "Tevékenység típus",
+    "LBL_SAVE_COLOR": "Szín elmentve",
+    "Call": "Hívás",
+    "Task": "Feladat",
+    "Meeting": "Találkozó",
+    "LBL_GROUPS_COLORS": "Csoport színek",
+    "LBL_USERS_COLORS": "Felhasználói színek",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Színek használata nem engedélyezett ehhez a kiválasztó listához",
+    "LBL_UPDATE_COLOR_COLUMN": "Aktiválás",
+    "LBL_WARNING": "Figyelmeztetés",
+    "LBL_ITEM": "Érték",
+    "LBL_MODULE": "Modul",
+    "LBL_GROUP_NAME": "Csoport",
+    "LBL_FIELDS_COLORS": "Mező színek",
+    "Colors": "Színek"
+  }
+}

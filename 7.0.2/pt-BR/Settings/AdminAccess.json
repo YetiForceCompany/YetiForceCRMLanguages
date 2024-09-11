@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Acesso de administrador",
+    "LBL_ADMIN_ACCESS": "Acesso de administrador",
+    "LBL_PERMISSIONS": "Permissões",
+    "BTN_MASS_EDIT_ACCESS": "Editar em Massa",
+    "FL_MODULE_NAME": "Nome do Módulo",
+    "LBL_ACTIVE": "Ativo",
+    "LBL_EDIT_ADMIN_ACCESS": "Edição de acessos de administrador",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Propósito de visitas",
+    "FL_DATE_TIME": "Data",
+    "FL_PURPOSE": "Propósito",
+    "FL_USER": "Usuário",
+    "FL_BASE_USER": "Usuário base",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Solicite o propósito do login",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Você gostaria de ativar a janela de motivo da visita para administradores quando eles acessarem o sistema?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Pedir o propósito da troca de usuários",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Você quer ativar a janela de propósito visita para administradores quando alternar os usuários no sistema?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Alterações salvas"
+  }
+}

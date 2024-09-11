@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "販売",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "現在選択されている商談に関連するものにのみ製品\/サービスの選択を制限します。 次のモジュールに適用されます。見積書のお問い合わせ、販売条件、計算、見積書、注文書、定期的な販売注文。",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "製品とサービスの選択リスト",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "商談と製品\/サービスの関係が作成された場合、商談内の製品\/サービスからの共有権限を更新します。",
+    "LBL_STATUSES_CLOSED_CALCULATION": "計算が閉じられていることを決定する状態",
+    "LBL_POTENTIALS": "案件",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "案件がクローズされるかどうかを決定するステータス",
+    "LBL_ASSETS": "販売商品",
+    "LBL_STATUSES_CLOSED_ASSETS": "販売された製品がクローズされるかどうかを決定するステータス",
+    "LBL_CREATE_POTENTIALS": "担当がユーザーではないアカウントの商談の作成をブロックしました",
+    "SalesProcesses": "販売プロセス",
+    "LBL_SQUOTEENQUIRIES": "販売に関するお問い合わせ",
+    "LBL_SREQUIREMENTSCARD": "販売条件",
+    "LBL_SCALCULATIONS": "計算",
+    "LBL_SQUOTES": "見積書",
+    "LBL_SSALESORDER": "注文",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "販売注文の終了を定義するステータス",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "見積もりの問い合わせを定義するステータス",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "販売条件の終了を定義するステータス",
+    "LBL_STATUSES_CLOSED_SQUOTES": "見積もりを閉じることを定義するステータス"
+  }
+}

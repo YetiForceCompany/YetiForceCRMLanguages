@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "換算レート",
+    "Currency": "通貨",
+    "Symbol": "記号",
+    "Currency Code": "通貨コード",
+    "Currency Name": "通貨名",
+    "LBL_ADD_NEW_CURRENCY": "新しい通貨を追加",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "LBL_CURRENCY_CODE": "通貨コード",
+    "LBL_CURRENCY_NAME": "通貨名",
+    "LBL_CURRENCY_STATUS_DESC": "通貨を有効にするにはチェックボックスを有効にしてください",
+    "LBL_CURRENCY_SYMBOL": "記号",
+    "LBL_CURRENT_CURRENCY": "現在の通貨",
+    "LBL_EDIT_CURRENCY": "通貨を編集",
+    "LBL_ENTER_CONVERSION_RATE": "換算レートを入力",
+    "LBL_TRANSFER_CURRENCY": "送金通貨",
+    "Active": "有効",
+    "Inactive": "無効",
+    "LBL_SET_AS_DEFAULT": "デフォルトとして設定"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "通貨を削除しました。",
+    "JS_CURRENCY_DETAILS_SAVED": "通貨の詳細を保存しました。",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "警告！ この操作により、システムの多くの場所で通貨が変更されます。 この変更前に発行された財務書類では、通貨換算が必要になる場合があります。 これらのドキュメントが製品版で発行されている場合は、手動で通貨換算を実行してください。 残りの通貨の為替レートを計算する必要があります。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Rejestr czynności",
+    "SINGLE_ActivityRegister": "Rejestr czynności",
+    "LBL_BASIC_INFORMATION": "Informacje podstawowe",
+    "FL_SUBJECT": "Temat",
+    "FL_PARENT_ACTIVITY": "Czynność nadrzędna",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Wersja robocza",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Oczekuje na akceptacje",
+    "PLL_IN_REALIZATION": "W realizacji",
+    "PLL_COMPLETED": "Zakończona",
+    "PLL_CANCELLED": "Anulowana",
+    "FL_DATA_SET": "Rejestr zbiorów",
+    "PLL_ENTRUSTMENT": "Powierzenie",
+    "PLL_SHARING": "Udostępnienie",
+    "PLL_TRANSFER": "Przekazanie",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Przyjęcie powierzenia",
+    "PLL_INTERNAL": "Wewnętrzna",
+    "FL_START_DATE": "Data początkowa",
+    "FL_END_DATE": "Data końcowa",
+    "LBL_DATES": "Daty czynności",
+    "LBL_DESCRIPTION": "Opis",
+    "FL_DESCRIPTION": "Opis",
+    "FL_COMMENTS": "Uwagi",
+    "LBL_COMMENTS": "Uwagi",
+    "FL_ACTIVITY_TYPE": "Rodzaj czynności"
+  }
+}

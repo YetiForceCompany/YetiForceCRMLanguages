@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Projektna naloga",
+    "Project Task": "Projektne naloge",
+    "Start Date": "Datum pričetka",
+    "Target End Date": "Predviden datum zaključka",
+    "End Date": "Datum zaključka",
+    "Related to": "Komitent",
+    "Parent ID": "Nadrejena naloga",
+    "Project Task Number": "Številka projektne naloge",
+    "description": "Opis",
+    "FL_TOTAL_TIME_H": "Skupni delovni čas",
+    "Project Task No": "Št. projektne naloge ",
+    "Project Task Name": "Naziv  projektne naloge ",
+    "LBL_ESTIMATED_WORK_TIME": "Predviden čas",
+    "Add Project Task": "Dodaj projektno nalogo",
+    "LBL_PROJECT_TASK_INFORMATION": "Podrobno o  projektni nalogi",
+    "LBL_PROJECTS_LIST": "Pregled projektov",
+    "LBL_TASKS_LIST": "Pregled nalog",
+    "LBL_MILESTONES_LIST": "Pregled mejnikov",
+    "low": "nizka",
+    "normal": "normalna",
+    "high": "visoka",
+    "administrative": "Interna",
+    "operative": "Zunanja",
+    "other": "Deljeno",
+    "LBL_PROJECT": "Projekt",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+  }
+}

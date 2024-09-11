@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "نقطه عطف پروژه",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "جزییات نقطه عطف پروژه",
+    "Project Milestone Name": "نام نقطه عطف",
+    "Milestone Date": "تاریخ نقطه عطف",
+    "Project Milestone No": "شماره نقطه عطف پروژه",
+    "description": "شرح",
+    "Related to": "پروژه",
+    "FL_PARENT_PROJECT_MILESTONE": "نقطه‌عطف پروژه والد",
+    "FL_STATUS": "وضعیت",
+    "LBL_ESTIMATED_WORK_TIME": "زمان برآورد‌شده کار",
+    "LBL_MILESTONES_LIST": "لیست نقاط عطف",
+    "LBL_TASKS_LIST": "لیست وظایف",
+    "LBL_PROJECTS_LIST": "لیست پروژه‌ها",
+    "LBL_PRIORITY": "اولويت",
+    "LBL_PROGRESS": "پیشرفت",
+    "PLL_INTERNAL": "داخلی",
+    "PLL_EXTERNAL": "خارجی",
+    "PLL_SHARED": "به اشتراک‌گذاری شده",
+    "PLL_LOW": "کم",
+    "PLL_NORMAL": "معمولی",
+    "PLL_HIGH": "بالا"
+  }
+}

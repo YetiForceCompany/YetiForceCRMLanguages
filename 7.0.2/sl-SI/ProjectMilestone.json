@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Mejnik projekta",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Podrobnosti mejnika projekta",
+    "Project Milestone Name": "Naziv mejnika projekta",
+    "Milestone Date": "Datum mejnika",
+    "Project Milestone No": "Številka mejnika projekta",
+    "description": "Opis",
+    "Related to": "Projekt",
+    "FL_PARENT_PROJECT_MILESTONE": "Nadrejeni mejnik",
+    "FL_STATUS": "Status",
+    "LBL_ESTIMATED_WORK_TIME": "Ocenjeni delovni čas",
+    "LBL_MILESTONES_LIST": "Seznam mejnikov",
+    "LBL_TASKS_LIST": "Seznam nalog",
+    "LBL_PROJECTS_LIST": "Seznam projetov",
+    "LBL_PRIORITY": "Proiriteta",
+    "LBL_PROGRESS": "Napredek",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Zunanje",
+    "PLL_SHARED": "V skupni rabi",
+    "PLL_LOW": "Nizka",
+    "PLL_NORMAL": "Normalna",
+    "PLL_HIGH": "Visoka"
+  }
+}

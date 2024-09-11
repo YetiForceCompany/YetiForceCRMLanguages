@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Kanban": "Kanban",
+    "LBL_KANBAN": "Kanban",
+    "LBL_KANBAN_DESCRIPTION": "",
+    "LBL_ADD_BOARD": "Dodaj tablicę",
+    "LBL_NO_BOARDS": "Brak tablic",
+    "LBL_DETAIL_FIELDS": "Pola szczegółowe",
+    "LBL_SUM_FIELDS": "Pola sumowania",
+    "LBL_NO_FIELDS_ADD": "Brak pól do dodania",
+    "LBL_NOT_VISIBLE_KANBAN": "Słownik stracił uprawnienia do szybkiej edycji i nie jest dostępny w widoku Kanban."
+  },
+  "js": {}
+}

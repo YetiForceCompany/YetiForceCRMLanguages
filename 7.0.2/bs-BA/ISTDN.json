@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ISTDN": "Skladišni prenos otpremnica",
+    "SINGLE_ISTDN": "Skladišni prenos otpremnice",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentari",
+    "FL_ACCEPTANCE_DATE": "Datum prihvatanja",
+    "FL_ACCOUNT": "Klijent",
+    "FL_SUBJECT": "Predmet",
+    "FL_NUMBER": "Broj",
+    "FL_STORAGE": "Skladište",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Skica",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_OBJECTIONS": "Primjedbe",
+    "PLL_FOR_APPROVAL": "Za odobrenje",
+    "PLL_CANCELLED": "Otkazano",
+    "PLL_ACCEPTED": "Prihvaćeno",
+    "LBL_CHANGE_STATUS": "Promijeni status"
+  }
+}

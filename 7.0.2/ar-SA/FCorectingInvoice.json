@@ -1,0 +1,38 @@
+{
+  "php": {
+    "FCorectingInvoice": "تصحيح الفواتير",
+    "SINGLE_FCorectingInvoice": "تصحيح الفواتير",
+    "LBL_CUSTOM_INFORMATION": "معلومات النظام",
+    "LBL_INVOICE_ADDRESS": "عنوان الفاتورة",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "عنوان التوصيل",
+    "FL_SUBJECT": "الموضوع",
+    "FL_PAYMENT_DATE": "تاريخ الاستحقاق",
+    "FL_SALE_DATE": "تاريخ الابتداء",
+    "FL_BANK_ACCOUNT": "البنك رقم الحساب",
+    "FL_NUMBER": "رقم الفاتورة:",
+    "FL_ACCOUNT": "حساب",
+    "FL_TOTAL": "صافى",
+    "FL_GROSS": "الإجمالي",
+    "FL_STATUS": "الحالة",
+    "PLL_WIRE_TRANSFER": "التحويل الالكتروني",
+    "LBL_YEAR": "سنة",
+    "FL_INVOICE": "الفاتوره",
+    "LBL_COMMENTS": "تعليقات الاعتدال",
+    "FL_EXTERNAL_COMMENT": " متلقي خارجي",
+    "FL_INTERNAL_COMMENT": "تعليق الداخلي",
+    "LBL_BEFORE_CORRECTION": "تصحيح الألوان",
+    "LBL_AFTER_CORRECTION": "تصحيح الألوان",
+    "LBL_CORRECTION_SUMMARY": "Correction summary",
+    "LBL_CHOOSE_INVOICE": "اختر الفاتورة إلى تصحيح",
+    "LBL_COPY_FROM_INVOICE": "نسخة من الفاتورة الأولية",
+    "LBL_INVOICE_INFO": "الأولي الفاتورة الحقول قبل التصحيحات.",
+    "LBL_AFTER_INVOICE_INFO": "كيف ينبغي أن الفاتورة النهائية تبدو بعد التصحيح.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "فاتورة الحقول إلى تصحيح. نسخ كافة المجالات بدءا من فاتورة تغيير القيم حسب الحاجة.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "اختر الفاتورة إلى تصحيح"
+  }
+}

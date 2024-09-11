@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Remover todos os itens",
+    "RecycleBin": "Lixeira"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Apagar em Massa",
+    "JS_MASS_ACTIVATE": "Ativação em massa",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Excluir todos os registros da Lixeira",
+    "JS_ACTIVATE_RECORD_DESC": "Ativando um registro apenas altera o estado do registro sem alterar o resto das informações. Tem certeza que deseja ativar o registro?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "A exclusão de um registro é permanente e irreversível para todas as informações do registro. Tem certeza de que deseja excluir o registro?",
+    "JS_ADDED_TO_QUEUE": "Adicionado à fila. Todos os elementos serão apagados"
+  }
+}

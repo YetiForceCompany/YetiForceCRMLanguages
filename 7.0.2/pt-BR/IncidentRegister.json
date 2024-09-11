@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Cadastrar Incidente",
+    "SINGLE_IncidentRegister": "Cadastrar Incidente",
+    "LBL_BASIC_INFORMATION": "Informação Básica",
+    "FL_NAME": "Nome",
+    "FL_LOCATION_REGISTER": "Registro de localização",
+    "FL_DATASETREGISTER": "Registro de conjunto de dados",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Aguardando aceitação",
+    "PLL_IN_REALIZATION": "Em realização",
+    "PLL_COMPLETED": "Completo",
+    "PLL_CANCELLED": "Cancelado",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Tipo",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Externo",
+    "LBL_INCIDENT_DATES": "Datas do incidente",
+    "FL_INCIDENT_DATE": "Data do incidente",
+    "FL_INCIDENT_DISCOVERY": "Data de descoberta do incidente",
+    "FL_INCIDENT_REPORT_DATE": " Data do relatório do acidente",
+    "FL_INCIDENT_PUBLICATION_DATE": "Data de publicação do incidente",
+    "FL_PEOPLE_NUMBER": "Número de pessoas",
+    "LBL_BREACH_CIRCUMSTANCES": "Circunstâncias da violação",
+    "FL_BREACH_CIRCUMSTANCES": "Circunstâncias da violação",
+    "LBL_NATURE_OF_BREACH": "Natureza da violação",
+    "FL_NATURE_OF_BREACH": "Natureza da violação",
+    "LBL_POSSIBLE_CONSEQUENCES": "Possíveis consequências",
+    "FL_POSSIBLE_CONSEQUENCES": "Possíveis consequências",
+    "LBL_SECURITY_MEASURES": "Medidas de segurança aplicadas",
+    "FL_SECURITY_MEASURES": "Medidas de segurança aplicadas"
+  }
+}

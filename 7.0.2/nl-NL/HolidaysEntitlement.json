@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Jaarlijkse vakantierecht",
+    "SINGLE_HolidaysEntitlement": "Jaarlijkse vakantierecht",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Standaardinformatie",
+    "LBL_CUSTOM_INFORMATION": "Systeeminformatie",
+    "LBL_YEAR": "Jaar",
+    "LBL_DAYS": "Aantal vakantiedagen",
+    "LBL_EMPLOYEE": "Werknemer",
+    "LBL_NUMBER": "Nummer"
+  }
+}

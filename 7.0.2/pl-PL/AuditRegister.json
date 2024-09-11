@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Rejestr audytów",
+    "SINGLE_AuditRegister": "Rejestr audytów",
+    "LBL_BASIC_INFORMATION": "Podstawowe informacje",
+    "FL_NAME": "Nazwa",
+    "FL_LOCATION_REGISTER": "Rejestr lokalizacji",
+    "FL_DATASETREGISTER": "Rejestr zbiorów",
+    "PLL_DRAFT": "Wersja robocza",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Oczekuje na akceptacje",
+    "PLL_IN_REALIZATION": "W realizacji",
+    "PLL_COMPLETED": "Zakończona",
+    "PLL_CANCELLED": "Anulowana",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Rodzaj",
+    "PLL_INTERNAL": "Wewnętrzny",
+    "PLL_EXTERNAL": "Zewnętrzny",
+    "LBL_DESCRIPTION": "Opis",
+    "FL_DESCRIPTION": "Opis",
+    "FL_COMMENTS": "Uwagi",
+    "LBL_COMMENTS": "Uwagi"
+  }
+}

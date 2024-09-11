@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EventHandler": "Voditelji događaja",
+    "LBL_EVENT_HANDLER": "Voditelji događaja",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Naziv događaja",
+    "LBL_EVENT_DESC": "Opis događaja",
+    "LBL_INCLUDE_MODULES": "Uključuje module",
+    "LBL_EXCLUDE_MODULES": "Isključuje module",
+    "LBL_EVENT_IS_ACTIVE": "Je aktivan",
+    "LBL_EDIT_VIEW_PRESAVE": "Provjera prije snimanja zapisa",
+    "LBL_ENTITY_CHANGE_STATE": "Promjena stanja",
+    "LBL_ENTITY_BEFORE_SAVE": "Prije spremanja",
+    "LBL_ENTITY_AFTER_SAVE": "Nakon spremanja",
+    "LBL_DETAIL_VIEW_BEFORE": "Detaljan prikaz",
+    "LBL_EDIT_VIEW_BEFORE": "Uredi pogled",
+    "LBL_EDIT_VIEW_DUPLICATE": "Pogled za uređivanje (Duplikat)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Učitavanje podataka za inventar"
+  }
+}

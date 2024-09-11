@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Вътрешни запитвания",
+    "SINGLE_CInternalTickets": "Вътрешно запитване",
+    "LBL_ADDITIONAL_INFORMATION": "Допълнителна информация",
+    "LBL_BASIC_INFORMATION": "Основна информация",
+    "LBL_TICKET_RESOLUTION": "Решение",
+    "LBL_ATTENTION_BLOCK": "Бележки",
+    "LBL_DESCRIPTION_BLOCK": "Описание",
+    "FL_SUBJECT": "Тема",
+    "FL_STATUS": "Състояние",
+    "FL_RESOLUTION": "Решение",
+    "PLL_UNASSIGNED": "Неназначен",
+    "PLL_AWAITING_REALIZATION": "Изчакване на валидация",
+    "PLL_FOR_PROCESSING": "За изпълнение на",
+    "PLL_IN_PROGRESSING": "В изпълнение",
+    "PLL_SUBMITTED_COMMENTS": "Добавени коментари",
+    "PLL_FOR_APPROVAL": "За одобрение",
+    "PLL_CANCELLED": "Отхвърлено",
+    "PLL_ACCEPTED": "Одобрено"
+  }
+}

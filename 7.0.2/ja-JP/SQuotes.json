@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SQuotes": "見積書",
+    "SINGLE_SQuotes": "見積書",
+    "LBL_SQUOTES_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_STATISTICS": "統計情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "番号",
+    "LBL_CLOSED_TIME": "終了日時",
+    "LBL_STATUS": "状態",
+    "LBL_COMPANY_NAME": "会社名",
+    "SINGLE_SSalesProcesses": "機会",
+    "FL_TOTAL_PRICE": "正味合計",
+    "FL_MARGINP": "マージン合計の割合",
+    "FL_MARGIN": "マージンの合計",
+    "FL_SUM_GROSS": "総量",
+    "FL_SUM_DISCOUNT": "割引額",
+    "FL_VALID_UNTIL": "有効期限",
+    "PLL_DRAFT": "下書き",
+    "PLL_IN_REALIZATION": "実現のために",
+    "PLL_FOR_VERIFICATION": "検証用",
+    "PLL_AWAITING_DECISION": "決定待ち",
+    "PLL_NEGOTIATIONS": "交渉",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_ACCEPTED": "承認済み",
+    "LBL_CHANGE_STATUS": "ステータスの変更",
+    "FL_PARENT_SQUOTES": "親の見積り"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Mail integratie paneel",
+    "SINGLE_MailIntegration": "Mail integratie paneel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail niet gevonden in de database.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importeren",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importeer een e-mail naar de CRM, het laat u relaties beter beheren",
+    "LBL_SEARCH_EMAIL": "Zoek emailadres",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Zoek en kies ontvanger van berichten",
+    "LBL_ADD_CALENDAR": "Afspraak toevoegen",
+    "LBL_ADD_MODCOMMENTS": "Opmerking toevoegen",
+    "LBL_SELECT_RECORD": "Selecteer gerelateerd record",
+    "LBL_ADD_RECORD": "Voeg gerelateerd record toe"
+  },
+  "js": {
+    "JS_ERROR": "YetiForce bericht: add-in fout, neem alstublieft contact op met de systeembeheerder.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce bericht: Relatie succesvol verwijderd.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce bericht: Relatie succesvol toegevoegd.",
+    "JS_IMPORT": "YetiForce bericht: e-mail succesvol geimporteerd.",
+    "JS_CC": "Cc",
+    "JS_BCC": "BCC"
+  }
+}

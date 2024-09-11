@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "更新",
+    "LBL_YES": "はい",
+    "LBL_NO": "いいえ",
+    "LBL_TIME": "日付",
+    "LBL_USER": "ユーザー名",
+    "LBL_FROM_VERSION": "バージョンから",
+    "LBL_TO_VERSION": "バージョンへ",
+    "LBL_RESULT": "状態",
+    "LBL_UPDATES": "更新",
+    "LBL_UPDATES_DESCRIPTION": "更新履歴",
+    "LBL_IMPORT_UPDATE": "アップデートをアップロード",
+    "LBL_INSTALL_PACKAGE": "パッケージをインストール",
+    "LBL_DOWNLOAD_PACKAGE": "パッケージをダウンロード",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "利用可能なアップグレードパッケージ",
+    "LBL_INSTALLED_PACKAGES": "インストール済みパッケージ",
+    "LBL_PACKAGE_VERSION": "パッケージのバージョン",
+    "LBL_NAME_PACKAGES": "パッケージ名"
+  }
+}

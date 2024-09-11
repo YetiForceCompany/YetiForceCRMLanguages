@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Αλλαγές στην ουρά",
+    "SINGLE_Queue": "Αλλαγές στην ουρά",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_BASIC_INFORMATION": "Βασικές πληροφορίες",
+    "FL_SUBJECT": "Θέμα",
+    "FL_RELATED_TO": "Σχετικό με",
+    "FL_CHANGES": "Λίστα αλλαγών",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες περιγραφής",
+    "FL_REASON_FOR_CHANGE": "Λόγος αλλαγής",
+    "FL_REASON_FOR_REJECTION": "Λόγος απόρριψης",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_PLANNED": "Προγραμματισμένο",
+    "PLL_ON_HOLD": "Σε αναμονή",
+    "PLL_FOR_VERIFICATION": "Για επαλήθευση",
+    "PLL_IN_APPROVAL": "Για έγκριση",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή",
+    "PLL_COMPLETED": "Ολοκληρωμένο",
+    "PLL_CANCELLED": "Ακυρώθηκε"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "IStorages": "Stockages",
+    "SINGLE_IStorages": "Stockage",
+    "LBL_DESCRIPTION_BLOCK": "Description",
+    "LBL_ATTENTION_BLOCK": "Commentaires",
+    "FL_PARENT_STORAGE": "Stockage parent",
+    "FL_SUBJECT": "Sujet",
+    "FL_STATUS": "Statut",
+    "FL_TYPE": "Type ",
+    "FL_NUMBER": "Nombre",
+    "FL_QTY_IN_STOCK": "Quantité de produit en stock",
+    "PLL_ACTIVE": "Actif",
+    "PLL_INACTIVE": "Inactif",
+    "PLL_INTERNAL": "Interne",
+    "PLL_EXTERNAL": "Externe",
+    "LBL_NOT_PARENT_STORAGE": "Vous devez remplir le nom du stockage parent",
+    "LBL_SHOW_HIERARCHY": "Hierarchie",
+    "LBL_PARENT_IS_CHILD": "Le stockage parent séléctionné ne peut être secondaire du stockage actuel ",
+    "LBL_PRODUCTS_CONTROL_TABLE": "Tableau de contrôle des produits",
+    "LBL_PRODUCTS_TABLE": "Tableau avec produits",
+    "LBL_PRODUCTS_TABLE_HIERARCHY": "Tableau avec hiérarchie des produits",
+    "LBL_PRODUCTS_VALUE_TABLE": "Tableau avec la valeur des produits",
+    "LBL_TABLE_HIERARCHY": "Tableau de hiérarchie",
+    "LBL_SECONDARY_STORAGES": "Stockages secondaires",
+    "LBL_ROW_NUM": "N°",
+    "LBL_STORAGE_OWNER": "Propriétaire"
+  }
+}

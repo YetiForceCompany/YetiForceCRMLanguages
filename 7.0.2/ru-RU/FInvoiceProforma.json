@@ -1,0 +1,23 @@
+{
+  "php": {
+    "FInvoiceProforma": "Предварительные счета",
+    "SINGLE_FInvoiceProforma": "Предварительный счет",
+    "LBL_CUSTOM_INFORMATION": "Системная информация",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Адрес доставки",
+    "FL_SUBJECT": "Предмет",
+    "FL_PAYMENT_DATE": "Срок",
+    "FL_SALE_DATE": "Срок продажи",
+    "FL_ACCOUNT": "Контрагент",
+    "FL_STATUS": "Статус",
+    "FL_NUMBER": "Счет №",
+    "FL_TOTAL": "Чистый",
+    "FL_GROSS": "Валовый",
+    "PLL_WIRE_TRANSFER": "Электронный перевод",
+    "FL_PAYMENT_SUM": "Общая сумма платежей",
+    "FL_PAYMENT_STATUS": "Payment status",
+    "PLL_NOT_PAID": "Not paid",
+    "PLL_PAID": "Paid",
+    "PLL_OVERPAID": "Over paid",
+    "PLL_UNDERPAID": "Underpaid"
+  }
+}

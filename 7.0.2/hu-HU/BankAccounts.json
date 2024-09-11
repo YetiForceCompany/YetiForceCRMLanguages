@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Bankszámlák",
+    "SINGLE_BankAccounts": "Bankszámla",
+    "LBL_CUSTOM_INFORMATION": "Egyedi adatok",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "FL_NAME": "Név",
+    "FL_BANK_ACCOUNT_NUMBER": "Számlaszám",
+    "FL_CURRENCY": "Pénznem",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Bank neve",
+    "FL_STATUS": "Státusz",
+    "FL_MULTICOMPANY": "Szervezeti részleg",
+    "FL_RELATED_TO": "Related to",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_ACTIVE": "Aktív",
+    "PLL_INACTIVE": "Inaktív"
+  }
+}
