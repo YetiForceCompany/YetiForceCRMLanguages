@@ -1,0 +1,8 @@
+{
+  "php": {
+    "LBL_OTHER": "Altri",
+    "Automatic signed off": "Disconnessione automatica",
+    "LBL_LOGIN_TIME": "Data ora",
+    "LBL_LOGGED_OUT_TIME": "Orario di disconnessione"
+  }
+}

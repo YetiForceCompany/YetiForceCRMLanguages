@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Moja početna stranica",
+    "LBL_ADD_FILTER": "Dodajte widget iz filtra",
+    "LBL_ADD_FILTER_DESC": "Dostupni su samo filteri sa omogućenom opcijom \"lista u metrici\".",
+    "LBL_ADD_CHART_FILTER": "Dodavanje grafikona iz filtra",
+    "LBL_ADD_CHART_FILTER_DESC": "Dostupni su samo filteri sa omogućenom opcijom \"lista u metrici\".",
+    "LBL_CLEAR_DEVICE_CONF": "Obrišite konfiguraciju widgeta za ovaj uređaj",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Dugme uklanja/resetuje konfiguraciju samo za uređaj koji trenutno koristite i samo za trenutnu karticu.",
+    "LBL_PREDEFINED_WIDGETS": "Unaprijed definisani widgeti",
+    "LBL_EMPTY_DASHBOARD": "Odabrana nadzorna ploča je prazna.",
+    "LBL_WORKING_TIME_COUNTER": "Brojač radnog vremena"
+  }
+}

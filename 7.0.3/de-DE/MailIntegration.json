@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Mail-Integrationsoberfläche",
+    "SINGLE_MailIntegration": "Mail-Integrationsoberfläche",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "E-Mail nicht in der Datenbank gefunden.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Import",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importiere eine E-Mail in das CRM, sie wird dir helfen, Beziehungen besser zu verwalten",
+    "LBL_SEARCH_EMAIL": "Suche e-mail-Adresse",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Nachrichtenempfänger suchen und auswählen",
+    "LBL_ADD_CALENDAR": "Termin hinzufügen",
+    "LBL_ADD_MODCOMMENTS": "Kommentar hinzufügen",
+    "LBL_SELECT_RECORD": "Verknüpften Datensatz auswählen",
+    "LBL_ADD_RECORD": "Verknüpften Datensatz hinzufügen"
+  },
+  "js": {
+    "JS_ERROR": "YetiForce Meldung: Add-In Fehler, bitte wenden Sie sich an Systemadministrator.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce Meldung: Verknüpfung erfolgreich entfernt.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce Meldung: Verknüpfung erfolgreich hinzugefügt.",
+    "JS_IMPORT": "YetiForce Meldung: E-Mail erfolgreich importiert.",
+    "JS_CC": "CC",
+    "JS_BCC": "BCC"
+  }
+}

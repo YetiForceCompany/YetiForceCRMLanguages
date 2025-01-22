@@ -1,0 +1,41 @@
+{
+	"php": {
+		"Map": "Térkép",
+		"LBL_MAP": "Térkép",
+		"LBL_MAP_DESCRIPTION": "",
+		"LBL_TILE_LAYER": "Csempe réteg",
+		"LBL_TILE_LAYER_INFO": "Válassza ki azt a kiszolgálót, ahonnan a térképrészleteket le szeretné tölteni a térképen. Minden szerver másképp mutatja a térképet, hozzáadhat saját vagy nyilvános szervert is, de ügyeljen a korlátozásokra és a licenckorlátozásokra.",
+		"LBL_PROVIDER_NAME": "Szolgáltató neve",
+		"LBL_API_URL": "Szolgáltató API URL",
+		"LBL_DRIVER": "Illesztõprogram",
+		"LBL_COORDINATES": "Coordinates",
+		"LBL_COORDINATES_INFO": "Válassza ki a földrajzi koordináták letöltéséhez használandó szervert. A Cron frissíti a címmezők koordinátáit. Vigyázzon a szolgáltató korlátozására, a rendszer gyakran kéréseket küld a kiszolgálóknak. Légy tudatában annak a ténynek, hogy az ingyenes kiszolgálóknak nagy korlátai vannak, és megosztja velük az adatait. Mindig válasszon megbízható kiszolgálókat.",
+		"LBL_PROVIDER_ACTIVE": "Aktív",
+		"LBL_ROUTING": "Útvonal",
+		"LBL_ROUTING_INFO": "Válassza ki azt a szervert, amelyet a járművek útvonalainak tervezéséhez használ. A rendszer megadja azon pontok koordinátáit, amelyekhez az útvonalat le szeretné illeszteni.",
+		"LBL_PROVIDER_ACTIONS": "Actions",
+		"LBL_PROVIDER_CONFIG": "Configure provider",
+		"LBL_PROVIDER_WEBPAGE": "WWW",
+		"LBL_API_KEY": "API key",
+		"LBL_TRAVEL_MODE": "Travel mode",
+		"LBL_ROUTING_PREFERENCE": "Routing preference",
+		"LBL_PROFILE": "Profile",
+		"LBL_DOCUMENTATION": "Documentation",
+		"LBL_COORDINATES_GOOGLE_GEOCODING": "Google Geocoding API",
+		"LBL_COORDINATES_GRAPH_HOPPER": "GraphHopper",
+		"LBL_COORDINATES_NOMINATIM": "Nominatim",
+		"LBL_COORDINATES_OPEN_CAGE": "OpenCage Geocoding",
+		"LBL_ROUTING_GOOGLE_ROUTES": "Google Routes API",
+		"LBL_ROUTING_GRAPH_HOPPER": "GraphHopper",
+		"LBL_ROUTING_OSRM": "OSRM - Open Source Routing Machine",
+		"LBL_ROUTING_YOURS": "Yours",
+		"LBL_TILE_LAYER_ESRI_WORLDIMAGERY": "Esri WorldImagery",
+		"LBL_TILE_LAYER_ESRI_WORLDTOPOMAP": "Esri WorldTopoMap",
+		"LBL_TILE_LAYER_GOOGLE_MAPS": "Google Maps",
+		"LBL_TILE_LAYER_OSM_DEFAULT": "OpenStreetMap Default",
+		"LBL_TILE_LAYER_OSM_HOT": "OpenStreetMap HOT"
+	},
+	"js": {
+		"JS_ERROR_VALIDATION": "Incorrect Api Key. Allowed chars: a-z A-Z 0-9 , . _ = + - and spaces"
+	}
+}

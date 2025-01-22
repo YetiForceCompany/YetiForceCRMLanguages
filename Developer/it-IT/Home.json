@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Questioni delegate",
     "LIST_OF_LAST_UPDATED_RECORD": "Elenco di registri per ultimo aggiornamento",
     "Mails List": "Email più recenti",
-    "Notebook": "Blocco note"
+    "Notebook": "Blocco note",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Mostra sommario"
   }
 }

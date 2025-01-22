@@ -1,0 +1,42 @@
+{
+  "php": {
+    "LBL_SAVE": "Запази",
+    "ApiAddress": "Търсене на адрес",
+    "LBL_API_ADDRESS": "Address Search",
+    "LBL_API_ADDRESS_DESCRIPTION": "Module дето позволява търсенето/ автоматичното попълване на адрес при създаване/редактиране на системните данни.",
+    "LBL_ENTER_KEY_APPLICATION": "Въведете ключа за приложението",
+    "LBL_MIN_LOOKUP_LENGTH": "Минималният брой символи който потребителят трябва да въведе преди да извърши едно търсене",
+    "LBL_SAVE_NOTIFY_OK": "Запазване на промените.",
+    "LBL_COUNTRY_CODES": "Кодове на страната",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "e.g. gb,fr,pl",
+    "LBL_COUNTRY_CODES_INFO": "Check country code list",
+    "LBL_KEY": "Ключ",
+    "LBL_KEY_PLACEHOLDER": "Enter key application",
+    "LBL_MAP_URL": "Url-адрес карти",
+    "LBL_MAP_URL_PLACEHOLDER": "Въведете Url на карта",
+    "LBL_USE_GOOGLE_GEOCODER": "Използвайте Google Geocoding",
+    "LBL_VALIDATE": "Validate configuration",
+    "LBL_PROVIDER_VALID": "Configuration is correct",
+    "LBL_PROVIDER_INVALID": "Configuration is incorrect",
+    "LBL_PROVIDER_NAME": "Име на доставчик",
+    "LBL_PROVIDER_DEFAULT": "Доставчик по подразбиране",
+    "LBL_PROVIDER_ACTIVE": "Активен ли е доставчикът",
+    "LBL_PROVIDER_ACTIONS": "Действия",
+    "LBL_PROVIDER_CONFIG": "Конфигуриране на доставчикът",
+    "LBL_PROVIDER_UNSET": "Provider is inactive, you have to configure it first in order to enable it",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "Google Geocoding",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Google Geocoding site",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage Geocoder site",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim Geocoder site",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Запазване на глобалните параметри",
+    "LBL_NUMBER_SEARCH_RESULTS": "Брой на резултатите от търсенето"
+  },
+  "js": {
+    "Invalid API key": "Невалиден API ключ",
+    "JS_ERROR": "Грешка",
+    "JS_LOADING_PLEASE_WAIT": "Зарежда се, моля изчакайте.",
+    "JS_WRONG_NUMBER": "Позволени симболи: Цифри по-големи от 1."
+  }
+}

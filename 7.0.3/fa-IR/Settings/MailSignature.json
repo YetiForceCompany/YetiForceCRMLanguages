@@ -1,0 +1,12 @@
+{
+  "php": {
+    "MailSignature": "امضای ایمیل",
+    "LBL_MAIL_SIGNATURE": "امضای ایمیل",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Configure email signatures",
+    "FL_NAME": "نام",
+    "FL_DEFAULT": "پیش‌فرض",
+    "FL_BODY": "متن",
+    "BL_BASE": "Base"
+  },
+  "js": {}
+}

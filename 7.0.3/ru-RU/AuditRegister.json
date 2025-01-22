@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Реестр аудита",
+    "SINGLE_AuditRegister": "Реестр аудита",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "FL_NAME": "Название",
+    "FL_LOCATION_REGISTER": "Реестр местоположения",
+    "FL_DATASETREGISTER": "Набор данных реестра",
+    "PLL_DRAFT": "Черновик",
+    "PLL_WAITING_FOR_ACCEPTANCE": "В ожидании подтверждения",
+    "PLL_IN_REALIZATION": "В процессе",
+    "PLL_COMPLETED": "Завершенный",
+    "PLL_CANCELLED": "Отмененный",
+    "FL_STATUS": "Статус",
+    "FL_TYPE": "Тип",
+    "PLL_INTERNAL": "Внутренний",
+    "PLL_EXTERNAL": "Внешний",
+    "LBL_DESCRIPTION": "Описание",
+    "FL_DESCRIPTION": "Описание",
+    "FL_COMMENTS": "Комментарии",
+    "LBL_COMMENTS": "Комментарии"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "مذكرة استلام البضائع",
+    "SINGLE_IGRN": "مذكرة استلام البضائع",
+    "LBL_DESCRIPTION_BLOCK": "الوصف",
+    "LBL_ATTENTION_BLOCK": "التعليقات",
+    "FL_ACCEPTANCE_DATE": "تاريخ القبول",
+    "FL_VENDOR": "المورد",
+    "FL_SUBJECT": "الموضوع",
+    "FL_NUMBER": "رقم",
+    "FL_STORAGE": "التخزين",
+    "FL_STATUS": "الحالة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_OBJECTIONS": "Objections",
+    "PLL_FOR_APPROVAL": "For approval",
+    "PLL_CANCELLED": "Cancelled",
+    "PLL_ACCEPTED": "Accepted",
+    "LBL_CHANGE_STATUS": "Change Status"
+  }
+}

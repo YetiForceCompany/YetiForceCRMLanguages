@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Šablóny emailov",
+    "SINGLE_EmailTemplates": "Šablóna e-mailu",
+    "LBL_CONTENT_MAIL": "Obsah emailu",
+    "LBL_BASIC_DETAILS": "Základné informácie",
+    "FL_NAME": "Názov",
+    "FL_TYPE": "Typ",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Predmet",
+    "FL_CONTENT": "Obsah",
+    "FL_SMTP_PRIORITY": "SMTP priorita",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Záznam",
+    "PLL_MAIL": "Správa",
+    "PLL_LIST": "Zoznam",
+    "PLL_DEFAULT": "Default company",
+    "FL_SYS_NAME": "Názov systému"
+  }
+}

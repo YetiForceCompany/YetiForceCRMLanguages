@@ -2,10 +2,6 @@
   "php": {
     "SystemRequirements": "Wymagania systemowe",
     "LBL_CHECK_SERVER_BLACK_LIST_IP": "Sprawdza adres IP serwera na czarnej liście",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Poczta RBL - zgłoszenia do weryfikacji",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Liczba potencjalnych zgłoszeń o spamie oczekujących na weryfikację: %s",
-    "LBL_CHECK_BLACKLIST_REPORTS": "Poczta RBL - zgłoszenia na czarnej liście",
-    "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Liczba zaakceptowanych zgłoszeń o spamie na czarnej liście: %s",
     "LBL_CHECK_SUSPENDED_ACCOUNTS": "Zawieszone konta email",
     "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Lista zawieszonych kont email: %s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "Błąd podczas wysyłania wiadomości",

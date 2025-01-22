@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Бележки за оборота на склад",
+    "SINGLE_ISTN": "Бележки за оборота на склад",
+    "LBL_DESCRIPTION_BLOCK": "Описание",
+    "LBL_ATTENTION_BLOCK": "Коментари",
+    "FL_ESTIMATED_DATE": "Предполагаема крайна дата",
+    "FL_SUBJECT": "Тема",
+    "FL_NUMBER": "Номер",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Чернова",
+    "PLL_IN_REALIZATION": "В изпълнение",
+    "PLL_OBJECTIONS": "Възражения",
+    "PLL_FOR_APPROVAL": "За одобрение",
+    "PLL_CANCELLED": "Отхвърлено",
+    "PLL_ACCEPTED": "Одобрено",
+    "PLL_RECEIVED": "Получени",
+    "PLL_TRANSFER": "Трансфер",
+    "PLL_DISPATCHED": "Изпратени",
+    "FL_TYPE": "Вид"
+  }
+}

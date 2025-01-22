@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Út nyilvántartás",
+    "SINGLE_CMileageLogbook": "Út nyilvántartás",
+    "LBL_ADDITIONAL_INFORMATION": "További információk",
+    "LBL_BASIC_INFORMATION": "Alap információk",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "LBL_ATTENTION_BLOCK": "Megjegyzések",
+    "FL_SUBJECT": "Tárgy",
+    "FL_STATUS": "Állapot",
+    "FL_NUMBER_KILOMETERS": "Kilométerek száma",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_FOR_APPROVAL": "Jóváhagyásra",
+    "PLL_ACCEPTED": "Elfogadott",
+    "PLL_CANCELLED": "Törölt"
+  }
+}

@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Sprawy oddelegowane",
     "LIST_OF_LAST_UPDATED_RECORD": "Lista ostatnio zaktualizowanych rekordów",
     "Mails List": "Najnowsze maile",
-    "Notebook": "Notatnik"
+    "Notebook": "Notatnik",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Pokaż podsumowanie wierszy"
   }
 }

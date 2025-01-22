@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_COLORS": "Kleuren",
+    "LBL_COLOR": "Kleur",
+    "LBL_PICKLISTS": "Keuzelijsten",
+    "LBL_SELECT_PICKLIST": "Keuzelijst selecteren",
+    "LBL_REMOVE_COLOR": "Kleur verwijderen",
+    "LBL_GENERATE_COLOR": "Kleur genereren",
+    "LBL_UPDATE_COLOR": "Wijzig Kleur",
+    "LBL_REMOVED_COLOR": "Kleur verwijderd",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Kleur wijzigen",
+    "LBL_CALENDAR_COLORS": "Kleur voor agenda",
+    "LBL_CALENDAR_TYPE": "Activiteit type",
+    "LBL_SAVE_COLOR": "Kleur opgeslagen",
+    "Call": "Bellen",
+    "Task": "Taak",
+    "Meeting": "Overleg",
+    "LBL_GROUPS_COLORS": "Groups colors",
+    "LBL_USERS_COLORS": "Users colors",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "Kleurfunctionaliteit is niet geactiveerd voor deze keuzelijst",
+    "LBL_UPDATE_COLOR_COLUMN": "Activate",
+    "LBL_WARNING": "Warning",
+    "LBL_ITEM": "Value",
+    "LBL_MODULE": "Module",
+    "LBL_GROUP_NAME": "Group",
+    "LBL_FIELDS_COLORS": "Veld kleuren",
+    "Colors": "Kleuren"
+  }
+}

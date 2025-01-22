@@ -1,0 +1,28 @@
+{
+  "php": {
+    "MailAccount": "Почтовые аккаунты",
+    "SINGLE_MailAccount": "Почтовый аккаунт",
+    "LBL_CUSTOM_INFORMATION": "Пользовательская информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "BL_MAIL_SCANNER": "Сканер",
+    "FL_SUBJECT": "Имя",
+    "FL_LOGIN": "Логин",
+    "FL_PASSWORD": "Пароль",
+    "FL_REFRESH_TOKEN": "Обновить токен",
+    "FL_MAIL_SERVER": "Почтовый сервер",
+    "PL_INACTIVE": "Неактивно",
+    "PLL_ACTIVE": "Активно",
+    "PLL_LOCKED": "Lock (auto)",
+    "FL_LOGS": "Логи",
+    "FL_STATUS": "Статус",
+    "FL_EXPIRE_TIME": "Expire time",
+    "FL_LAST_LOGIN": "Последний вход",
+    "FL_SCANNER_ACTIONS": "Действия сканера",
+    "FL_DOMAIN_EXCEPTIONS": "Domain exceptions",
+    "FL_EMAIL_EXCEPTIONS": "Email exceptions",
+    "FL_MAIL_FOLDERS": "Папки",
+    "FL_SCANNER_FIELDS": "Поля поиска",
+    "LBL_OAUTH_AUTHORIZATION_DESC": "Вы уверены, что хотите авторизоваться?",
+    "LBL_OAUTH_AUTHORIZATION": "Авторизация"
+  }
+}

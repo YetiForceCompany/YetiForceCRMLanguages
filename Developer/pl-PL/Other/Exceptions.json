@@ -64,6 +64,7 @@
     "ERR_IMAP_CONNECTION": "Wystąpił problem z dostępem do Twojego konta e-mail. Sprawdź poprawność ustawień konta e-mail.",
     "ERR_REGISTER_FILES_PERMISSIONS": "Nieprawidłowe uprawnienia do plików lub katalogu %s",
     "ERR_PLEASE_USE_LATIN_CHARACTERS": "Używaj tylko łacińskich znaków",
-    "ERR_RECREATE_APP_ACCESS": "System wykrył zmianę podstawowych danych rejestracyjnych. Zakupione dodatki mogą być niedostępne. W razie jakichkolwiek problemów skontaktuj się z dostawcą."
+    "ERR_RECREATE_APP_ACCESS": "System wykrył zmianę podstawowych danych rejestracyjnych. Zakupione dodatki mogą być niedostępne. W razie jakichkolwiek problemów skontaktuj się z dostawcą.",
+    "ERR_IMAP_FOLDER_NOT_EXISTS": "Folder nie istnieje: %s"
   }
 }

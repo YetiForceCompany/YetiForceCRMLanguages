@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Εργασιες/Συμβάντα που ανατίθενται σε κάποιον άλλο",
     "LIST_OF_LAST_UPDATED_RECORD": "Πρόσφατες ενημερώσεις εγγραφών",
     "Mails List": "Πιο πρόσφατα emails",
-    "Notebook": "Σημειωματάριο"
+    "Notebook": "Σημειωματάριο",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show row summary"
   }
 }

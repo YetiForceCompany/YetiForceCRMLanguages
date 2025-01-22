@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Note rotazione magazzini",
+    "SINGLE_ISTN": "Nota rotazione magazzini",
+    "LBL_DESCRIPTION_BLOCK": "Descrizione",
+    "LBL_ATTENTION_BLOCK": "Commenti",
+    "FL_ESTIMATED_DATE": "Data stimata",
+    "FL_SUBJECT": "Oggetto",
+    "FL_NUMBER": "Progressivo",
+    "FL_STATUS": "Stato",
+    "PLL_DRAFT": "Bozza",
+    "PLL_IN_REALIZATION": "In corso",
+    "PLL_OBJECTIONS": "Da verificare",
+    "PLL_FOR_APPROVAL": "Da approvare",
+    "PLL_CANCELLED": "Annullato",
+    "PLL_ACCEPTED": "Accettato",
+    "PLL_RECEIVED": "Ricezione",
+    "PLL_TRANSFER": "Trasferimento",
+    "PLL_DISPATCHED": "Spedizione",
+    "FL_TYPE": "Tipologia"
+  }
+}

@@ -2,10 +2,6 @@
   "php": {
     "SystemRequirements": "Sistemski zahtjevi",
     "LBL_CHECK_SERVER_BLACK_LIST_IP": "Provjerava IP adresu servera na crnoj listi",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Mail RBL - izvještaji za provjeru",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Broj potencijalnih izvještaja o neželjenoj pošti koji čekaju provjeru: %s",
-    "LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - izvještaji na crnoj listi",
-    "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Broj prihvaćenih neželjenih izvještaja na crnoj listi: %s",
     "LBL_CHECK_SUSPENDED_ACCOUNTS": "Obustavljeni računi e-pošte",
     "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Lista suspendovanih naloga e-pošte: %s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "Greške prilikom slanja emaila",

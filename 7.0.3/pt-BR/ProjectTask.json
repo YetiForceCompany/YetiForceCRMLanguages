@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Tarefa do Projeto",
+    "Project Task": "Tarefas do Projeto",
+    "Start Date": "Data inicial",
+    "Target End Date": "Data final da tarefa",
+    "End Date": "Data final",
+    "Related to": "Relacionado a",
+    "Parent ID": "Tarefa relacionada",
+    "Project Task Number": "Número da tarefa do projeto",
+    "description": " Descrição",
+    "FL_TOTAL_TIME_H": "Tempo de trabalho total",
+    "Project Task No": "Sem tarefas no projeto",
+    "Project Task Name": "Nome da tarefa do projeto",
+    "LBL_ESTIMATED_WORK_TIME": "Tempo de trabalho estimado",
+    "Add Project Task": "Adicionar Tarefa ao Projeto",
+    "LBL_PROJECT_TASK_INFORMATION": "Detalhes da Tarefa do Projeto",
+    "LBL_PROJECTS_LIST": "Lista de Projetos",
+    "LBL_TASKS_LIST": "Lista de Tarefas",
+    "LBL_MILESTONES_LIST": "Lista de Etapas",
+    "low": "baixo",
+    "normal": "normal",
+    "high": "alto",
+    "administrative": "interno",
+    "operative": "externo",
+    "other": "compartilhado",
+    "LBL_PROJECT": "Projeto",
+    "LBL_UPCOMING_PROJECT_TASKS": "Próximas tarefas do projeto",
+    "LBL_COMPLETED_PROJECT_TASKS": "Tarefas do projeto concluídas"
+  }
+}

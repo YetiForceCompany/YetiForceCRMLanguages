@@ -1542,7 +1542,8 @@
     "LBL_FILTER_EMPTY_VALUE": "Tylko puste wartości",
     "LBL_FIELD_NAME": "Nazwa pola",
     "LBL_VALUE_OF_FIELDS": "Wartość z pola",
-    "LBL_RECORD_ID": "ID rekordu"
+    "LBL_RECORD_ID": "ID rekordu",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION_IN_INVENTORY": "Ten rekord jest powiązany z innym modułem na warstwie bloku zaawansowanego.\nCzy jesteś pewien, że chcesz usunąć ten rekord?"
   },
   "js": {
     "JS_APPROVE": "Zatwierdź",

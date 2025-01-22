@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Conflict of interest",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "利益相反",
+    "LBL_MAIN_CONFIG": "General configuration",
+    "LBL_MODULES": "Modules",
+    "LBL_UNLOCK_REQUESTS": "Unblocking requests",
+    "LBL_CONFIRMATIONS": "Confirmations",
+    "LBL_IS_ACTIVE": "Activation of a conflict of interest",
+    "LBL_NOTIFICATIONS_EMAILS": "Email addresses for notifications",
+    "LBL_INTERVAL_TIME": "Time interval",
+    "LBL_INTERVAL_TIME_DESC": "Time interval that defines how often the system should force a confirmation about the absence of conflict of interests.",
+    "LBL_INDEFINITELY": "無期限に",
+    "LBL_USERS_CONFIRMATIONS": "確認パネルへのアクセス",
+    "LBL_USERS_UNLOCK": "ブロック解除リクエストパネルへのアクセス",
+    "LBL_RELATIONSHIP": "関係",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "レコードへのアクセスを要求するときに電子メールを送信",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "上記の人にメールが送信されます(通知用のメールアドレス)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "レコードへのアクセスリクエストの結果を含むメールを送信します。",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "アクセスを要求している人にメールが送信されました"
+  }
+}

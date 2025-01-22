@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Cruscotti",
+    "LBL_ADD_FILTER": "Aggiungi widget dal filtro",
+    "LBL_ADD_FILTER_DESC": "Solo i filtri con l'opzione \"elenca in metriche\" abilitata sono disponibili.",
+    "LBL_ADD_CHART_FILTER": "Aggiungi grafico dal filtro",
+    "LBL_ADD_CHART_FILTER_DESC": "Solo i filtri con l'opzione \"elenca in metriche\" abilitata sono disponibili.",
+    "LBL_CLEAR_DEVICE_CONF": "Cancella la configurazione dei widget per questo dispositivo",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Il pulsante rimuove/ripristina la configurazione solo per il dispositivo correntemente in uso e solo per la scheda corrente.",
+    "LBL_PREDEFINED_WIDGETS": "Widget predefiniti",
+    "LBL_EMPTY_DASHBOARD": "Il pannello di controllo selezionato è vuoto.",
+    "LBL_WORKING_TIME_COUNTER": "Contatore orario di lavoro"
+  }
+}

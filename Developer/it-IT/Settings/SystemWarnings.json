@@ -2,10 +2,6 @@
   "php": {
     "SystemRequirements": "Requisiti di sistema",
     "LBL_CHECK_SERVER_BLACK_LIST_IP": "Verifica indirizzo IP sulla blacklist",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Posta RBL - rapporti per la verifica",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Numero di potenziali segnalazioni di spam in attesa di verifica: %s",
-    "LBL_CHECK_BLACKLIST_REPORTS": "Posta RBL - report in lista nera",
-    "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Numero di rapporti di spam inseriti nella lista nera: %s",
     "LBL_CHECK_SUSPENDED_ACCOUNTS": "Profili email sospesi",
     "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Elenco di profili email sospesi: %s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "Errori durante l'invio di un messaggio email",

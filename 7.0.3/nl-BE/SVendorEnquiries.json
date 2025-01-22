@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Leverancier offerte aanvraag",
+    "SINGLE_SVendorEnquiries": "Leverancier offerte aanvraag",
+    "LBL_SCALCULATIONS_INFORMATION": "Algemeen",
+    "LBL_CUSTOM_INFORMATION": "Systeem informatie",
+    "LBL_DESCRIPTION_INFORMATION": "Beschrijving details",
+    "LBL_STATISTICS": "Statistieken",
+    "LBL_SUBJECT": "Onderwerp",
+    "LBL_NUMBER": "Number",
+    "LBL_CLOSED_TIME": "Closed time",
+    "LBL_STATUS": "Status",
+    "SINGLE_SSalesProcesses": "Opportunity",
+    "FL_TOTAL_PRICE": "Net Total",
+    "FL_MARGINP": "Total margin percentage",
+    "FL_MARGIN": "Total margin",
+    "FL_VENDOR": "Vendor",
+    "FL_SCALCULATIONS": "Calculation",
+    "PLL_DRAFT": "Draft",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_FOR_VERIFICATION": "For verification",
+    "PLL_CANCELLED": "Cancelled",
+    "PLL_COMPLETED": "Completed",
+    "LBL_CHANGE_STATUS": "Change status"
+  }
+}

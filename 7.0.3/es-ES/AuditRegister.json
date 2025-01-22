@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Registro de auditoría",
+    "SINGLE_AuditRegister": "Registro de auditoría",
+    "LBL_BASIC_INFORMATION": "Información sobre el Registro de auditoría",
+    "FL_NAME": "Nombre",
+    "FL_LOCATION_REGISTER": "Registro de ubicación",
+    "FL_DATASETREGISTER": "Registro de conjunto de datos",
+    "PLL_DRAFT": "Borrador",
+    "PLL_WAITING_FOR_ACCEPTANCE": "A la espera de aceptación",
+    "PLL_IN_REALIZATION": "En proceso",
+    "PLL_COMPLETED": "Completado",
+    "PLL_CANCELLED": "Cancelado",
+    "FL_STATUS": "Estado",
+    "FL_TYPE": "Tipo",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Externo",
+    "LBL_DESCRIPTION": "Descriptión",
+    "FL_DESCRIPTION": "Descriptión",
+    "FL_COMMENTS": "Comentarios",
+    "LBL_COMMENTS": "Comentarios"
+  }
+}

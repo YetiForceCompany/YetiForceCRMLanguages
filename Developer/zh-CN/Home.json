@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "授权的事项",
     "LIST_OF_LAST_UPDATED_RECORD": "上次更新的记录列表",
     "Mails List": "最近期的电子邮件",
-    "Notebook": "记事本"
+    "Notebook": "记事本",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show row summary"
   }
 }

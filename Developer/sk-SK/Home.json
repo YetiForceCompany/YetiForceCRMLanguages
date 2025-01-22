@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Matters delegated",
     "LIST_OF_LAST_UPDATED_RECORD": "Zoznam posledných aktualizovaných záznamov",
     "Mails List": "Most recent emails",
-    "Notebook": "Poznámkový blok"
+    "Notebook": "Poznámkový blok",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show row summary"
   }
 }

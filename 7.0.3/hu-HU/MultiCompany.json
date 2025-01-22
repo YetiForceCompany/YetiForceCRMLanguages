@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Részlegek",
+    "SINGLE_MultiCompany": "Részleg",
+    "LBL_BASIC_INFORMATION": "Cég Adatai",
+    "LBL_CONTACT_INFORMATION": "Elérhetőség",
+    "LBL_REGISTRATION_INFORMATION": "Regisztráció info",
+    "LBL_ADDRESS_INFORMATION": "Cím adatok",
+    "LBL_SYSTEM_INFORMATION": "Rendszerinformáció",
+    "LBL_ADDITIONAL_INFORMATION": "További info",
+    "FL_COMPANY_NAME": "Cég neve",
+    "FL_PARENT": "Szülő osztály",
+    "FL_STATUS": "Állapot",
+    "FL_EMAIL_1": "Elsődleges e-mail",
+    "FL_EMAIL_2": "Email, másodlagos",
+    "FL_PHONE": "Elsődleges Telefon",
+    "FL_MOBILE": "Másodlagos telefon",
+    "FL_FAX": "Fax",
+    "FL_VATID": "Adószám",
+    "FL_COMPANY_ID1": "Cégjegyzékszám",
+    "FL_COMPANY_ID2": "NCR",
+    "FL_INTERNAL_NOTES": "Belső megjegyzések",
+    "FL_PUBLIC_NOTES": "Nyilvános megjegyzések",
+    "PLL_ACTIVE": "Aktív",
+    "PLL_INACTIVE": "Inactive",
+    "LBL_SHOW_HIERARCHY": "Hierarchia",
+    "FL_WEBSITE": "Weboldal",
+    "FL_LOGO": "Logó"
+  }
+}

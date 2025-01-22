@@ -64,6 +64,7 @@
     "ERR_IMAP_CONNECTION": "Er was een probleem met de toegang tot uw e-mailaccount. Controleer of uw e-mailaccount goed ingesteld is.",
     "ERR_REGISTER_FILES_PERMISSIONS": "Onjuiste rechten voor bestanden in de map %s",
     "ERR_PLEASE_USE_LATIN_CHARACTERS": "Zorg ervoor dat u alleen Latijnse tekens gebruikt",
-    "ERR_RECREATE_APP_ACCESS": "Het systeem heeft een verandering in de basisregistratie van gegevens ontdekt. Mogelijk zijn de add-ons die u hebt gekocht niet beschikbaar. Neem in geval van problemen contact op met uw aanbieder."
+    "ERR_RECREATE_APP_ACCESS": "Het systeem heeft een verandering in de basisregistratie van gegevens ontdekt. Mogelijk zijn de add-ons die u hebt gekocht niet beschikbaar. Neem in geval van problemen contact op met uw aanbieder.",
+    "ERR_IMAP_FOLDER_NOT_EXISTS": "Folder does not exist: %s"
   }
 }

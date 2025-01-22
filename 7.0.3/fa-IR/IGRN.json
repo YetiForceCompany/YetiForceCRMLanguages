@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "رسید تحویل کالاها",
+    "SINGLE_IGRN": "رسید تحویل کالاها",
+    "LBL_DESCRIPTION_BLOCK": "شرح",
+    "LBL_ATTENTION_BLOCK": "نظرات",
+    "FL_ACCEPTANCE_DATE": "تاریخ پذیرش",
+    "FL_VENDOR": "تامین کننده",
+    "FL_SUBJECT": "موضوع",
+    "FL_NUMBER": "شماره",
+    "FL_STORAGE": "محل نگهداری",
+    "FL_STATUS": "وضعیت",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_OBJECTIONS": "اعتراضات",
+    "PLL_FOR_APPROVAL": "برای تایید",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_ACCEPTED": "پذیرفته شد",
+    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+  }
+}

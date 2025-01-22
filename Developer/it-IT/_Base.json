@@ -1542,7 +1542,8 @@
     "LBL_FILTER_EMPTY_VALUE": "Solo valori vuoti",
     "LBL_FIELD_NAME": "Nome del campo",
     "LBL_VALUE_OF_FIELDS": "Valore dal campo",
-    "LBL_RECORD_ID": "Id Record"
+    "LBL_RECORD_ID": "Id Record",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION_IN_INVENTORY": "Questo record è correlato con un altro modulo sul blocco avanzato.\n Sei sicuro di voler eliminare questo record?"
   },
   "js": {
     "JS_APPROVE": "Approva",

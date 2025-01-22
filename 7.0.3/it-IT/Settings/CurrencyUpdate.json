@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Aggiornamento valute",
+    "LBL_CURRENCY_UPDATE": "Aggiornamento valute",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Definisce i parametri per recuperare i tassi di cambio delle valute",
+    "LBL_SELECT_BANK": "Seleziona la banca",
+    "MSG_ONE_CURRENCY": "C'è solo una valuta impostata. Per ottenere tassi di cambio per altre valute devi aggiungere più valute in \"Valute\".",
+    "MSG_NO_NET_CONN": "Nessuna connessione Internet, le informazioni sulle valute non sono state scaricate.",
+    "LBL_HISTORY": "Storico tassi di cambio",
+    "LBL_BANK": "Seleziona la banca da cui recuperare i tassi di cambio",
+    "LBL_CAL_DATE": "Data quotazione",
+    "LBL_MAINCURRENCY": "Valuta principale",
+    "LBL_CODE": "Codice",
+    "LBL_SYMBOL": "Simbolo",
+    "LBL_CURRENCY_NAME": "Nome",
+    "LBL_CURRENCY_SYMBOL": "Simbolo",
+    "LBL_COURSE": "Tasso di cambio",
+    "LBL_DATE": "Data aggiornamento",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Data quotazione",
+    "LBL_SHOW": "Mostra",
+    "LBL_CURRENCIES_SUPPORTED": "Elenco delle valute supportate da questa banca",
+    "LBL_CURRENCIES_UNSUPPORTED": "Elenco delle valute non supportate da questa banca",
+    "LBL_SET_BANK_OK": "Banca attiva salvata",
+    "LBL_SET_BANK_DEACTIVATION": "Banca disattivata correttamente.",
+    "LBL_SET_BANK_ERROR": "Impossibile impostare la banca attiva",
+    "LBL_INFORMATIONS": "Informazioni",
+    "LBL_WARNING": "Avviso!",
+    "NBP": "Banca nazionale della Polonia",
+    "ECB": "Banca centrale europea",
+    "CBR": "Banca centrale della Russia"
+  }
+}

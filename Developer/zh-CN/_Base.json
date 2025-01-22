@@ -1542,7 +1542,8 @@
     "LBL_FILTER_EMPTY_VALUE": "Only empty values",
     "LBL_FIELD_NAME": "Field name",
     "LBL_VALUE_OF_FIELDS": "Value from field",
-    "LBL_RECORD_ID": "Record id"
+    "LBL_RECORD_ID": "Record id",
+    "LBL_CONFIRM_DELETE_WHEN_HAS_RELATION_IN_INVENTORY": "This record is related with another module on the advanced block layer.\n Are you sure you want to delete this record?"
   },
   "js": {
     "JS_APPROVE": "同意",

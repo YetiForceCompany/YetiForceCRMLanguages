@@ -64,6 +64,7 @@
     "ERR_IMAP_CONNECTION": "Houve um problema ao acessar sua conta de e-mail. Verifique as informações de configurações da conta de e-mail.",
     "ERR_REGISTER_FILES_PERMISSIONS": "Permissões incorretas em arquivos ou diretório %s",
     "ERR_PLEASE_USE_LATIN_CHARACTERS": "Por favor, certifique-se de usar apenas caracteres latinos",
-    "ERR_RECREATE_APP_ACCESS": "O sistema detectou uma alteração nos dados básicos do registro. Os complementos comprados podem não estar disponíveis. Por favor, entre em contato com seu provedor em caso de problemas."
+    "ERR_RECREATE_APP_ACCESS": "O sistema detectou uma alteração nos dados básicos do registro. Os complementos comprados podem não estar disponíveis. Por favor, entre em contato com seu provedor em caso de problemas.",
+    "ERR_IMAP_FOLDER_NOT_EXISTS": "Folder does not exist: %s"
   }
 }

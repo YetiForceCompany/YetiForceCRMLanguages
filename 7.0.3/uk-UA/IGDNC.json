@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDNC": "Редагування переліку відвантажених товарів",
+    "SINGLE_IGDNC": "Редагування переліку відвантаженого товару",
+    "LBL_DESCRIPTION_BLOCK": "Опис",
+    "LBL_ATTENTION_BLOCK": "Коментарі",
+    "FL_ACCEPTANCE_DATE": "Дата прийняття",
+    "FL_ACCOUNT": "Контрагент",
+    "FL_SUBJECT": "Тема",
+    "FL_NUMBER": "Номер",
+    "FL_STORAGE": "Склад",
+    "FL_STATUS": "Статус",
+    "FL_IGDN": "Відвантажені товари",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "В реалізації",
+    "PLL_OBJECTIONS": "Заперечення",
+    "PLL_FOR_APPROVAL": "Для затвердження",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_ACCEPTED": "Погоджено",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}

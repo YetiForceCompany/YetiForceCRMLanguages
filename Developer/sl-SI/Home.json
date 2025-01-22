@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Matters delegated",
     "LIST_OF_LAST_UPDATED_RECORD": "List of last updated records",
     "Mails List": "Most recent emails",
-    "Notebook": "Beležnica"
+    "Notebook": "Beležnica",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show row summary"
   }
 }

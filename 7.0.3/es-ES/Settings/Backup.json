@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Gestor de copia de seguridad",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Administrar archivos de respaldo",
+    "LBL_DOWNLOAD": "Descarga",
+    "LBL_FILE_NAME": "Nombre del archivo",
+    "LBL_FILE_SIZE": "Tamaño archivo",
+    "LBL_FILE_DATE": "Fecha de Modificación",
+    "LBL_BACKUP_LIST": "Lista de copias de seguridad",
+    "ERR_CONFIG_ALERT_TITLE": "Gestor de copia de seguridad desactivado",
+    "ERR_CONFIG_ALERT_DESC": "Establezca la ruta apropiada en la variable BACKUP_PATH en el archivo de configuración [config\/Components\/Backup.php] para activarlo.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+  },
+  "js": {}
+}

@@ -58,6 +58,7 @@
     "LBL_CREATED_BY_ME_BUT_NOT_MINE_ACTIVITIES": "Delegirane stvari",
     "LIST_OF_LAST_UPDATED_RECORD": "Lista zadnjih ažuriranih zapisa",
     "Mails List": "Najnoviji emailovi",
-    "Notebook": "Bilježnica"
+    "Notebook": "Bilježnica",
+    "LBL_WIDGET_SHOW_ROWS_SUMMARY": "Show row summary"
   }
 }

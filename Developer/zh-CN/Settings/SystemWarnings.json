@@ -2,10 +2,6 @@
   "php": {
     "SystemRequirements": "系统要求",
     "LBL_CHECK_SERVER_BLACK_LIST_IP": "检查黑名单上服务器的 IP 地址",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "邮件 RBL - 验证的报告",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "等待验证的潜在垃圾邮件报告数量：%s",
-    "LBL_CHECK_BLACKLIST_REPORTS": "邮件 RBL - 黑名单内的报告",
-    "LBL_CHECK_BLACKLIST_REPORTS_DESC": "接受的黑名单垃圾邮件报告数量：%s",
     "LBL_CHECK_SUSPENDED_ACCOUNTS": "挂起的邮件账户",
     "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "挂起的电子邮件账户列表：%s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "发送一封电子邮件消息时出错",

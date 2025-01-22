@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": " Журнал Викликів",
+    "SINGLE_CallHistory": " Журнал Викликів",
+    "LBL_CALLHISTORY_INFORMATION": "Основна інфориація",
+    "LBL_CUSTOM_INFORMATION": "Інформація",
+    "LBL_PHONE_INFORMATION": "Службова інформація",
+    "LBL_RELATED_INFORMATION": " Контактна інформація",
+    "LBL_TYPE": "Тип",
+    "LBL_FROM_NUMBER": "З номера",
+    "LBL_TO_NUMBER": " На номер",
+    "LBL_LOCATION": "Місцезнаходження",
+    "LBL_PHONE_CALL_ID": "Ідентифікатор",
+    "LBL_DURATION": "Тривалість",
+    "LBL_STATUS": "Статус",
+    "LBL_START_TIME": "Початок",
+    "LBL_END_TIME": "Кінець",
+    "LBL_COUNTRY_CODE": " Код країни",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "IP address",
+    "LBL_SIMSERIAL": "Номер SIM карти",
+    "LBL_SUBSCRIBERID": "Абонентський номер",
+    "LBL_DESTINATION": "Контакт",
+    "LBL_SOURCE": "Джерело",
+    "Record Id": "ID Записи",
+    "Outgoing missed": "Скасовано",
+    "Outgoing received": "Вихідний",
+    "Incoming": "Вхідний",
+    "Missed": "Пропущений",
+    "Voicemail": "Голосова пошта"
+  }
+}

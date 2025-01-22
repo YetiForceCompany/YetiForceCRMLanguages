@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Gerenciador de backup",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Gerenciar arquivos de backup",
+    "LBL_DOWNLOAD": "Baixar",
+    "LBL_FILE_NAME": "Nome do arquivo",
+    "LBL_FILE_SIZE": "Tamanho do arquivo",
+    "LBL_FILE_DATE": "Data de Modificação",
+    "LBL_BACKUP_LIST": "Lista de backup",
+    "ERR_CONFIG_ALERT_TITLE": "Gerenciador de backup está desativado",
+    "ERR_CONFIG_ALERT_DESC": "Defina o caminho apropriado na variável BACKUP_PATH no arquivo de configuração [config\/Components\/Backup.php] para ativá-lo.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "O sistema não pode acessar o diretório de backup especificado. Por favor certifique-se que o caminho e as permissões concedidas estão corretas."
+  },
+  "js": {}
+}

@@ -1,0 +1,21 @@
+{
+  "php": {
+    "SRequirementsCards": "販売条件",
+    "SINGLE_SRequirementsCards": "販売条件",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_STATISTICS": "統計情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "数値",
+    "LBL_CLOSED_TIME": "クローズ時間",
+    "LBL_STATUS": "状態",
+    "SINGLE_SSalesProcesses": "機会",
+    "PLL_DRAFT": "ドラフト（下書き）",
+    "PLL_IN_REALIZATION": "実現のために",
+    "PLL_FOR_VERIFICATION": "検証用",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_COMPLETED": "完了",
+    "LBL_CHANGE_STATUS": "状態の変更"
+  }
+}

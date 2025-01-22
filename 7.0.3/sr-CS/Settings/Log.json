@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS_DESC": "Panel za pregled sigurnosnih incidenata",
+    "LBL_ACCESS_FOR_ADMIN": "Pristup za admin",
+    "LBL_ACCESS_FOR_API": "Pristup za API",
+    "LBL_ACCESS_FOR_USER": "Pristup za korisnika",
+    "LBL_ACCESS_TO_RECORD": "Pristup zapisu",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Korisničko ime",
+    "LBL_DATE": "Datum",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "ID zapisa",
+    "LBL_MODULE": "Modul",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Zahtjev",
+    "LBL_TIME": "Time",
+    "LBL_CATEGORY": "Category",
+    "LBL_CODE": "Code",
+    "LBL_BASE_USER": "Base user",
+    "LBL_DEST_USER": "Target user",
+    "LBL_MAILS_NOT_SENT": "E-mails not sent",
+    "LBL_BATCH_NAME": "Method name",
+    "LBL_PARAMS": "Params",
+    "LBL_PROFILING": "Profiling",
+    "LBL_DURATION": "Duration",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referer"
+  }
+}

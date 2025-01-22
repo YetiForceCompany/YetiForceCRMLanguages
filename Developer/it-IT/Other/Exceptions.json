@@ -64,6 +64,7 @@
     "ERR_IMAP_CONNECTION": "Si è verificato un problema nell'accesso al tuo account email. Verifica la correttezza delle impostazioni dell'account di posta elettronica.",
     "ERR_REGISTER_FILES_PERMISSIONS": "Autorizzazioni non corrette su file o directory %s",
     "ERR_PLEASE_USE_LATIN_CHARACTERS": "Assicurati di usare solo caratteri latini",
-    "ERR_RECREATE_APP_ACCESS": "Il sistema ha rilevato una modifica dei dati di registrazione di base. I componenti aggiuntivi che hai acquistato potrebbero non essere disponibili. Per favore contatta il tuo fornitore in caso di problemi."
+    "ERR_RECREATE_APP_ACCESS": "Il sistema ha rilevato una modifica dei dati di registrazione di base. I componenti aggiuntivi che hai acquistato potrebbero non essere disponibili. Per favore contatta il tuo fornitore in caso di problemi.",
+    "ERR_IMAP_FOLDER_NOT_EXISTS": "La cartella non esiste: %s"
   }
 }

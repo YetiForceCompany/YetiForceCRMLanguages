@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Interne tickets",
+    "SINGLE_CInternalTickets": "Interne tickets",
+    "LBL_ADDITIONAL_INFORMATION": "Aanvullende informatie",
+    "LBL_BASIC_INFORMATION": "Basisinformatie",
+    "LBL_TICKET_RESOLUTION": "Oplossing",
+    "LBL_ATTENTION_BLOCK": "Notities",
+    "LBL_DESCRIPTION_BLOCK": "Omschrijving",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_STATUS": "Status",
+    "FL_RESOLUTION": "Oplossing",
+    "PLL_UNASSIGNED": "Niet toegewezen",
+    "PLL_AWAITING_REALIZATION": "Wachtend op realisatie",
+    "PLL_FOR_PROCESSING": "Voor realisatie",
+    "PLL_IN_PROGRESSING": "In uitvoering",
+    "PLL_SUBMITTED_COMMENTS": "Reactie verstuurd",
+    "PLL_FOR_APPROVAL": "In afwachting van goedkeuring",
+    "PLL_CANCELLED": "Geannuleerd",
+    "PLL_ACCEPTED": "Geaccepteerd"
+  }
+}

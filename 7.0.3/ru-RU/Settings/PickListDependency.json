@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Выбранные значения",
+    "LBL_ADD_RECORD": "Добавить зависимость списков",
+    "PickListDependency": "Редактор зависимостей списков",
+    "LBL_PICKLIST_DEPENDENCY": "Редактор зависимостей списков",
+    "LBL_SELECT_FIELD": "Выберите поле",
+    "LBL_SELECT_MODULE": "Выберите модуль",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Выбор значений исходного списка",
+    "LBL_SOURCE_FIELD": "Исходное поле",
+    "LBL_MODULE": "Выберите модуль"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Вы уверены,  что хотите удалить эту зависимость списков?"
+  }
+}

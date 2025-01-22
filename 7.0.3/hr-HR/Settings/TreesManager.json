@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Dodaj",
+    "TreesManager": "Upravitelj stabala",
+    "LBL_TREES_MANAGER": "Polja – Folderi",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Upravitelj predloška stabala",
+    "LBL_NO_RECORDS_FOUND": "Nema predložaka stabala",
+    "LBL_EDIT_TEMPLATE_TREES": "Uređivanje predloška stabla",
+    "LBL_CREATING_TEMPLATE_TREES": "Stvorite predložak stabla",
+    "LBL_NAME": "Naziv šablona",
+    "LBL_MODULE": "Modul",
+    "LBL_ADD_ITEM_TREE": "Dodajte novu stavku",
+    "LBL_ADD_TO_TREES": "Dodaj",
+    "LBL_SAVE": "Spremi",
+    "LBL_SELECT_REPLACE_TREE_ITEM": "Promijenite stavku stabla na:",
+    "Category": "Kategorija",
+    "LBL_MULTICATEGORY": "Spisak kategorija",
+    "Reservations": "Rezervacije",
+    "LBL_SHARE_WITH": "Podijeliti sa"
+  },
+  "js": {
+    "JS_TREE_DELETED_SUCCESSFULLY": "Predložak stabla uspješno je izbrisan",
+    "JS_JSTREE_CREATE": "Dodaj",
+    "JS_JSTREE_RENAME": "Promjena naziva",
+    "JS_JSTREE_REMOVE": "Obriši",
+    "JS_JSTREE_CCP": "Uredi",
+    "JS_JSTREE_CUT": "Isjeci",
+    "JS_JSTREE_COPY": "Kopiraj",
+    "JS_JSTREE_PASTE": "Zalijepi",
+    "JS_JSTREE_CHANGE_ICON": "Promjena ikone",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Polje ne može biti prazno",
+    "JS_NO_ITEM_SELECTED": "Nije odrana nijedna stavka",
+    "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "Ne možete izbrisati sve stavke",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Ne možete izbrisati nadređenu stavku",
+    "JS_NEW_ITEM": "Novi čvor",
+    "JS_ONLY_ONE_ITEM_SELECTED": "Može se odabrati samo jedna stavka."
+  }
+}

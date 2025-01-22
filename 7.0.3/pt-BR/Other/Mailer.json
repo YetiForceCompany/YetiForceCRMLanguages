@@ -1,0 +1,11 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Importação agendada foi concluída",
+    "LBL_CRON_COMPLETED_IMPORT": "Resumo da importação para o módulo:",
+    "LBL_DEFAULT_IN_BROWSER": "Base (padrão no navegador)",
+    "LBL_GENESYS_WDE": "Gênesys WDE por Whirly",
+    "LBL_INTERNAL_CLIENT": "Cliente interno (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Não há nenhuma conta de e-mail ativa.",
+    "ERR_NO_SMTP_CONFIGURATION": "Nenhuma configuração."
+  }
+}

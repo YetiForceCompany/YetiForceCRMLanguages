@@ -1,0 +1,28 @@
+{
+  "php": {
+    "MailAccount": "Conturi de e-mail",
+    "SINGLE_MailAccount": "Cont de e-mail",
+    "LBL_CUSTOM_INFORMATION": "Informații personalizate",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "BL_MAIL_SCANNER": "Scaner",
+    "FL_SUBJECT": "Nume",
+    "FL_LOGIN": "Autentificare",
+    "FL_PASSWORD": "Parola",
+    "FL_REFRESH_TOKEN": "Reîncarcă token",
+    "FL_MAIL_SERVER": "Server email",
+    "PL_INACTIVE": "Inactiv",
+    "PLL_ACTIVE": "Activ",
+    "PLL_LOCKED": "Blochează (auto)",
+    "FL_LOGS": "Jurnale",
+    "FL_STATUS": "Status",
+    "FL_EXPIRE_TIME": "Timp expirare",
+    "FL_LAST_LOGIN": "Ultima autentificare",
+    "FL_SCANNER_ACTIONS": "Acțiuni scanare",
+    "FL_DOMAIN_EXCEPTIONS": "Excepții domeniu",
+    "FL_EMAIL_EXCEPTIONS": "Excepții pentru e-mailuri",
+    "FL_MAIL_FOLDERS": "Dosare",
+    "FL_SCANNER_FIELDS": "Căutare câmp",
+    "LBL_OAUTH_AUTHORIZATION_DESC": "Sigur doriți să autorizați?",
+    "LBL_OAUTH_AUTHORIZATION": "Autorizare"
+  }
+}

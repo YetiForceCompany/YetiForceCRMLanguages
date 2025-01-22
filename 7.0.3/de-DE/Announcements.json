@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Bekanntmachungen",
+    "SINGLE_Announcements": "Bekanntmachung",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Information",
+    "LBL_SUBJECT": "Bezeichnung",
+    "LBL_NUMBER": "Nummer",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Erinnerungszeit",
+    "FL_IS_MANDATORY": "Obligatorisch zum akzeptieren",
+    "PLL_DRAFT": "Entwurf",
+    "PLL_FOR_ACCEPTANCE": "zum Bestätigen",
+    "PLL_PUBLISHED": "Veröffentlicht",
+    "PLL_ARCHIVES": "Archiviert",
+    "LBL_REMIND_ME_LATER": "Später erinnern",
+    "LBL_MARK_AS_READ": "als gelesen markiert",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Wurde akzeptiert?",
+    "LBL_DATE": "gelesen"
+  }
+}

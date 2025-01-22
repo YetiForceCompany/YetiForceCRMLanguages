@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "SLA Policy",
+    "LBL_NAME": "Policy name",
+    "LBL_EDIT": "Edit SLA policy",
+    "LBL_CREATE": "Create new SLA policy",
+    "LBL_SOURCE_MODULE": "Модуль",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Оберіть робочий час",
+    "JS_BUSINESS_HOURS_FROM": "Від",
+    "JS_BUSINESS_HOURS_TO": "До",
+    "JS_BUSINESS_HOURS_NAME": "Ім'я",
+    "JS_BUSINESS_HOURS_DAYS": "Робочі дні",
+    "JS_HOLIDAYS": "Свята"
+  }
+}

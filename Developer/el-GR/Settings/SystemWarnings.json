@@ -2,10 +2,6 @@
   "php": {
     "SystemRequirements": "Απαιτήσεις συστήματος",
     "LBL_CHECK_SERVER_BLACK_LIST_IP": "Ελέγχει τη διεύθυνση IP του διακομιστή στη μαύρη λίστα",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION": "Mail RBL - αναφορές για επαλήθευση",
-    "LBL_CHECK_REPORTS_FOR_FORVERIFICATION_DESC": "Αριθμός πιθανών αναφορών spam εν αναμονή επαλήθευσης: %s",
-    "LBL_CHECK_BLACKLIST_REPORTS": "Mail RBL - αναφορές στη μαύρη λίστα",
-    "LBL_CHECK_BLACKLIST_REPORTS_DESC": "Αριθμός αποδεκτών αναφορών spam στη μαύρη λίστα: %s",
     "LBL_CHECK_SUSPENDED_ACCOUNTS": "Λογαριασμοί email σε αναστολή",
     "LBL_CHECK_SUSPENDED_ACCOUNTS_DESC": "Λίστα λογαριασμών e-mail που έχουν ανασταλεί: %s",
     "LBL_CHECK_MAIL_QUEUE_ERROR": "Σφάλματα κατά την αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου",
