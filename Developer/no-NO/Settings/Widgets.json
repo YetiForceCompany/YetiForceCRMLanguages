@@ -69,7 +69,9 @@
     "LBL_SHOW_DOC_RELATIONS": "List of related relationships",
     "InventoryBlock": "Inventory block",
     "LBL_DEFAULT_ACTIVE": "Active by default",
-    "LBL_RELATED_FIELDS": "Related fields"
+    "LBL_RELATED_FIELDS": "Related fields",
+    "LBL_PDFVIEWER_DEFAULT_HEIGHT": "Default height",
+    "LBL_PDFVIEWER_DEFAULT_HEIGHT_DESC": "Default widget height after document generation [px]"
   },
   "js": {
     "Loading data": "Loading...",

@@ -1,0 +1,30 @@
+{
+  "php": {
+    "LBL_COLORS": "Cores",
+    "LBL_COLOR": "Cor",
+    "LBL_PICKLISTS": "Listas de opções",
+    "LBL_SELECT_PICKLIST": "Selecionar Lista De Opções",
+    "LBL_REMOVE_COLOR": "Remover cor",
+    "LBL_GENERATE_COLOR": "Gerar cor",
+    "LBL_UPDATE_COLOR": "Mudar cor",
+    "LBL_REMOVED_COLOR": "Cor removida",
+    "LBL_COLORS_DESCRIPTION": "",
+    "LBL_EDIT_COLOR": "Editar cor",
+    "LBL_CALENDAR_COLORS": "Cores do calendário",
+    "LBL_CALENDAR_TYPE": "Tipo de Atividade",
+    "LBL_SAVE_COLOR": "Cor salva",
+    "Call": "Chamada",
+    "Task": "Tarefa",
+    "Meeting": "Reunião",
+    "LBL_GROUPS_COLORS": "Cores de grupos",
+    "LBL_USERS_COLORS": "Cores dos usuários",
+    "LBL_PICKLIST_COLOR_COL_NOT_FOUND": "A funcionalidade de cor não foi ativada para esta lista de opções",
+    "LBL_UPDATE_COLOR_COLUMN": "Ativar",
+    "LBL_WARNING": "Aviso",
+    "LBL_ITEM": "Valor",
+    "LBL_MODULE": "Módulo",
+    "LBL_GROUP_NAME": "Grupo",
+    "LBL_FIELDS_COLORS": "Cores do campo",
+    "Colors": "Cores"
+  }
+}

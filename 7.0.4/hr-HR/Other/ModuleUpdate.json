@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Otkrivene su pogreške prilikom ažuriranja modula",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Tijekom ažuriranja pojavile su se neke pogreške",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Preporučujemo provjeru dnevnika i ažuriranje sustava još jednom.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Ažurirajte predloške e-pošte",
+    "LBL_UPDATE_PDF_TEMPLATES": "Ažurirajte pdf predloške"
+  }
+}

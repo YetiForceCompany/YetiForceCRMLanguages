@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Adaugă înregistrare",
+    "LBL_ADD_USERS_ROLES": "Adăugare utilizatori, roluri...",
+    "LBL_DUPLICATES_EXIST": "Denumirea grupului există deja",
+    "LBL_GROUP_MEMBERS": "Membrii grupului",
+    "LBL_GROUP_NAME": "Denumirea grupului",
+    "LBL_ROLEANDSUBORDINATE": "Roluri și subordonați",
+    "LBL_TO_OTHER_GROUP": "Către alt grup ",
+    "LBL_TRANSFORM_OWNERSHIP": "Transferați proprietatea",
+    "SINGLE_Groups": "Grup",
+    "Users": "Utilizatori",
+    "Name": "Denumire grup",
+    "Description": "Descriere",
+    "FL_PARENT": "Conducător de echipă",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "Numărul maxim de niveluri de grupare a fost depășit.",
+    "LBL_INDEFINITE_LOOP": "Setările curente vor crea o buclă indefinită. Vă rugăm schimbați membrii grupului.",
+    "LBL_GROUP_DUPLICATE": "Duplicat",
+    "LBL_DELETE_GROUP": "Șterge grup"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Vă rugăm selectați cel puțin un membru pentru grupul",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Grup șters cu succes"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "php": {
+    "Users": "Uživatelia",
+    "USER_MAIL_EXIST": "Užívateľ s týmto emailom už existuje",
+    "LBL_PRIORITY": "Priorita",
+    "LBL_LDAP_RECOMMENDED_INFO": "We do not recommend selecting users with admin permissions for LDAP authorization. In case of authorization problems there must be a user who is able to log in without LDAP integration.",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "Autorizácia s LDAP",
+    "LBL_LDAP_SERVER": "Adresa servera",
+    "LBL_LDAP_PORT": "Port",
+    "LBL_SAVE_CONFIG": "Konfigurácia bola uložená",
+    "LBL_LDAP_DOMAIN": "Doména (automaticky pridaná do loginu)",
+    "LBL_VIEW_AUTH": "Autorizácia",
+    "LBL_SWITCH_USERS": "Prepínanie užívateľov",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Nástroj, ktorý povoľuje prepínanie užívateľov v systéme.",
+    "LBL_SU_BASE_ACCESS": "Užívateľ",
+    "LBL_SU_AVAILABLE_ACCESS": "Má povolené sa prihlásiť",
+    "LBL_LOCKS": "Zámky funkcií",
+    "LBL_LOCKS_DESCRIPTION": "Nástroj na blokovanie akcií prehliadača (kopírovanie, vystrihovanie, ...)",
+    "LBL_LOCK_COPY": "Zamknúť kopírovanie",
+    "LBL_LOCK_CUT": "Zamknúť vystrihovanie",
+    "LBL_LOCK_PASTE": "Zamknúť vkladanie",
+    "LBL_LOCK_RIGHT_MENU": "Zamknúť pravé tlačidlo myši",
+    "LBL_LOCK_SELECT_TEXT": "Zamknúť označovanie",
+    "LBL_LOCK_DRAG": "Zamknúť presúvanie",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "Prosím vyberte modul",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Decimal separator and Grouping separator cant be the same",
+    "Changed password successfully": "Heslo zmenené"
+  }
+}

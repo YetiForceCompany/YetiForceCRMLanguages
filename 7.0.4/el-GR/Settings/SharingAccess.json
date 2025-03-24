@@ -1,0 +1,42 @@
+{
+  "php": {
+    "Sharing Rules": "Κανόνες κοινής χρήσης",
+    "SharingAccess": "Κανόνες κοινής χρήσης",
+    "Accounts": "Λογαριασμοί και επαφές",
+    "LBL_ADD_CUSTOM_RULE": "Προσθέστε προσαρμοσμένο κανόνα",
+    "LBL_ADD_CUSTOM_RULE_TO": "Προσθέστε προσαρμοσμένο κανόνα για",
+    "LBL_ADVANCED_SHARING_RULES": "Προηγμένοι κανόνες κοινής χρήσης",
+    "LBL_APPLY_NEW_SHARING_RULES": "Εφαρμογή νέων κανόνων κοινής χρήσης",
+    "LBL_CAN_ACCESSED_BY": "Μπορεί να προσπελαστεί από",
+    "LBL_CUSTOM_ACCESS_MESG": "Δεν έχουν οριστεί προσαρμοσμένοι κανόνες πρόσβασης",
+    "LBL_MODULE": "Module",
+    "LBL_PRIVILEGES": "Προνόμια",
+    "LBL_READ": "Ανάγνωση",
+    "LBL_READ_WRITE": "Ανάγνωση και Εγγραφή",
+    "LBL_RULE_NO": "Αριθμός κανόνα",
+    "LBL_SHARING_RULE": "Κανόνες κοινής χρήσης",
+    "LBL_WITH_PERMISSIONS": "Με δικαιώματα",
+    "Read Only": "Μόνο για ανάγνωση",
+    "Read Write": "Ανάγνωση\/εγγραφή",
+    "SINGLE_Groups": "Ομάδα",
+    "Groups": "Ομάδες",
+    "SINGLE_RoleAndSubordinates": "Ρόλος και υπο-ρόλος",
+    "RoleAndSubordinates": "Ρόλος και υπο-ρόλοι",
+    "SINGLE_Roles": "Ρόλος",
+    "SINGLE_Users": "Χρήστης",
+    "Roles": "Ρόλοι",
+    "Private": "Ιδιωτικό",
+    "Public: Read Only": "Δημόσια: Μόνο για ανάγνωση",
+    "Public: Read, Create\/Edit, Delete": "Δημόσια: Ανάγνωση, Δημιουργία\/Επεξεργασία, Διαγραφή",
+    "Public: Read, Create\/Edit": "Δημόσια: Ανάγνωση, Δημιουργία\/Επεξεργασία",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Προσαρμοσμένοι κανόνες κοινής χρήσης αποθηκεύτηκαν με επιτυχία",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Custom sharing rule deleted successfully",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Η αποθήκευση του κανόνα πρόσβασης κοινής χρήσης απέτυχε",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Η διαγραφή κανόνα πρόσβασης κοινής χρήσης απέτυχε"
+  },
+  "js": {
+    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Ευκαιρίες, Αιτήματα υποστήριξης, Προσφορές & Τιμολόγια πρέπει να οριστούν ως ιδιωτικής πρόσβασης όταν η πρόσβαση στον Πελάτη έχει οριστεί ως ιδιωτική",
+    "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Νέοι κανόνες κοινής χρήσης εφαρμόστηκαν με επιτυχία",
+    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Επιλέξτε τουλάχιστον έναν χρήστη"
+  }
+}

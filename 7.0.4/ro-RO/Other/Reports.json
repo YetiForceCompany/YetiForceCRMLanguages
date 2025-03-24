@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Lista celor mai noi oportunități",
+    "LBL_FOR_VALUE": "de valoare",
+    "LBL_UNTIL_DAY": "până în ziua",
+    "LBL_ACTUAL_STATUS": "în situația actuală",
+    "LBL_CALENDAR_OVERDUE": "Activități restante",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Lista celor mai valoroase oportunități",
+    "LBL_NEW_ACCOUNTS": "Cont nou",
+    "LBL_NEW_CONTACTS": "Contact nou",
+    "LBL_CALENDAR_TODAY": "Calendarul evenimentelor de azi",
+    "LBL_CALENDAR_THIS_WEEK": "Calendarul evenimentelor din această săptămână",
+    "LBL_LOGIN_HISTORY": "Istoric autentificări",
+    "LBL_HELLO": "Salut",
+    "LBL_REPORT_DAY_CONTENT": "Mai jos este prezentat un rezumat zilnic al activităților din YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Mai jos este prezentat un rezumat săptămânal al activităților desfășurate în YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Mai jos este prezentat un rezumat lunar al activităților desfășurate în YetiForce "
+  }
+}

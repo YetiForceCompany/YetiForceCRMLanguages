@@ -1,0 +1,41 @@
+{
+	"php": {
+		"Map": "Carte",
+		"LBL_MAP": "Carte",
+		"LBL_MAP_DESCRIPTION": "",
+		"LBL_TILE_LAYER": "Couche affichée",
+		"LBL_TILE_LAYER_INFO": "Sélectionnez le serveur à partir duquel vous souhaitez télécharger les couches de tuiles pour les cartes dans le système. Chaque serveur offre un aspect différent de la carte, vous pouvez également ajouter votre propre serveur ou un serveur public, mais faites attention aux limites et aux restrictions de licence.",
+		"LBL_PROVIDER_NAME": "Nom du fournisseur",
+		"LBL_API_URL": "URL de l'API du fournisseur",
+		"LBL_DRIVER": "Pilote",
+		"LBL_COORDINATES": "Coordinates",
+		"LBL_COORDINATES_INFO": "Sélectionnez le serveur à utiliser pour télécharger les coordonnées géographiques, le Cron mettra à jour les coordonnées des champs d'adresse. Faites attention aux limites du fournisseur, le système enverra fréquemment des demandes aux serveurs. Soyez conscient du fait que les serveurs gratuits ont de grandes limites et que vous partagez vos données avec eux, choisissez toujours des serveurs de confiance.",
+		"LBL_PROVIDER_ACTIVE": "Actif",
+		"LBL_ROUTING": "Acheminement",
+		"LBL_ROUTING_INFO": "Sélectionnez le serveur à utiliser pour cartographier les itinéraires des véhicules, le système fournira les coordonnées des points pour lesquels vous souhaitez cartographier l'itinéraire.",
+		"LBL_PROVIDER_ACTIONS": "Actions",
+		"LBL_PROVIDER_CONFIG": "Configure provider",
+		"LBL_PROVIDER_WEBPAGE": "WWW",
+		"LBL_API_KEY": "API key",
+		"LBL_TRAVEL_MODE": "Travel mode",
+		"LBL_ROUTING_PREFERENCE": "Routing preference",
+		"LBL_PROFILE": "Profile",
+		"LBL_DOCUMENTATION": "Documentation",
+		"LBL_COORDINATES_GOOGLE_GEOCODING": "Google Geocoding API",
+		"LBL_COORDINATES_GRAPH_HOPPER": "GraphHopper",
+		"LBL_COORDINATES_NOMINATIM": "Nominatim",
+		"LBL_COORDINATES_OPEN_CAGE": "OpenCage Geocoding",
+		"LBL_ROUTING_GOOGLE_ROUTES": "Google Routes API",
+		"LBL_ROUTING_GRAPH_HOPPER": "GraphHopper",
+		"LBL_ROUTING_OSRM": "OSRM - Open Source Routing Machine",
+		"LBL_ROUTING_YOURS": "Yours",
+		"LBL_TILE_LAYER_ESRI_WORLDIMAGERY": "Esri WorldImagery",
+		"LBL_TILE_LAYER_ESRI_WORLDTOPOMAP": "Esri WorldTopoMap",
+		"LBL_TILE_LAYER_GOOGLE_MAPS": "Google Maps",
+		"LBL_TILE_LAYER_OSM_DEFAULT": "OpenStreetMap Default",
+		"LBL_TILE_LAYER_OSM_HOT": "OpenStreetMap HOT"
+	},
+	"js": {
+		"JS_ERROR_VALIDATION": "Incorrect Api Key. Allowed chars: a-z A-Z 0-9 , . _ = + - and spaces"
+	}
+}

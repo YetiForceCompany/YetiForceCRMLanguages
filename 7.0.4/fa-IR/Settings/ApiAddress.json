@@ -1,0 +1,42 @@
+{
+  "php": {
+    "LBL_SAVE": "ذخیره",
+    "ApiAddress": "آدرس جستجو",
+    "LBL_API_ADDRESS": "جستجوی نشانی",
+    "LBL_API_ADDRESS_DESCRIPTION": "ماژول اجازه می دهد هنگام جستجو/ تکمیل به صورت خودکار داده ها آدرس را در سیستم ایجاد/ویرایش شود.",
+    "LBL_ENTER_KEY_APPLICATION": "کلید برنامه را وارد کنید",
+    "LBL_MIN_LOOKUP_LENGTH": "حداقل تعداد کاراکترهایی که یک کاربر باید قبل از جستجو انجام دهد",
+    "LBL_SAVE_NOTIFY_OK": "ذخیره‌ی تغییرات.",
+    "LBL_COUNTRY_CODES": "کدهای کشور",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "به عنوان مثال gb,fr,pl",
+    "LBL_COUNTRY_CODES_INFO": "بررسی فهرست کد کشورها",
+    "LBL_KEY": "کلید",
+    "LBL_KEY_PLACEHOLDER": "کلید برنامه را وارد‌نمایید",
+    "LBL_MAP_URL": "Url نقشه",
+    "LBL_MAP_URL_PLACEHOLDER": "Url نقشه را وارد نمایید",
+    "LBL_USE_GOOGLE_GEOCODER": "استفاده از گوگل Geocoding",
+    "LBL_VALIDATE": "اعتبارسنجی پیکربندی",
+    "LBL_PROVIDER_VALID": "پیکربندی درست می‌باشد",
+    "LBL_PROVIDER_INVALID": "پیکربندی نادرست می‌باشد",
+    "LBL_PROVIDER_NAME": "نام سرویس‌دهنده",
+    "LBL_PROVIDER_DEFAULT": "سرویس دهنده پیش فرض",
+    "LBL_PROVIDER_ACTIVE": "آیا سرویس دهنده فعال است",
+    "LBL_PROVIDER_ACTIONS": "عملیات",
+    "LBL_PROVIDER_CONFIG": "پیکربندی سرویس دهنده",
+    "LBL_PROVIDER_UNSET": "ارائه دهنده غیر فعال است شما می‌بایست نخست پیکربندی را به منظور فعال سازی برای آن انجام دهید",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "گوگل Geocoding",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "سایت تعیین مختصات جغرافیایی گوگل",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "OpenCage Geocoder site",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim Geocoder site",
+    "LBL_SAVE_GLOBAL_SETTINGS": "ذخیره تنظیمات سراسری",
+    "LBL_NUMBER_SEARCH_RESULTS": "تعداد نتایج"
+  },
+  "js": {
+    "Invalid API key": "کلید API نامعتبر",
+    "JS_ERROR": "خطا",
+    "JS_LOADING_PLEASE_WAIT": "درحال بارگذاری، لطفاً کمی صبر کنید.",
+    "JS_WRONG_NUMBER": "نویسه‌های مجاز: ارقام بزرگتر از 1."
+  }
+}

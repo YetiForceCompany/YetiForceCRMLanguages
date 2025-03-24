@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "Oferte de vânzări",
+    "SINGLE_SQuoteEnquiries": "Ofertă de vânzare",
+    "LBL_QUOTESENQUIRES_INFORMATION": "Informații de bază",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_DESCRIPTION_INFORMATION": "Detalii descriere",
+    "LBL_STATISTICS": "Statistică",
+    "LBL_SUBJECT": "Subiect",
+    "LBL_NUMBER": "Număr",
+    "LBL_CLOSED_TIME": "Timp închidere",
+    "LBL_STATUS": "Status",
+    "SINGLE_SSalesProcesses": "Oportunitate",
+    "PLL_DRAFT": "Schiță",
+    "PLL_IN_REALIZATION": "În realizare",
+    "PLL_FOR_VERIFICATION": "Pentru verificare",
+    "PLL_CANCELLED": "Anulat",
+    "PLL_COMPLETED": "Complet",
+    "LBL_CHANGE_STATUS": "Schimba starea",
+    "FL_CAMPAIGN_ID": "Campanie"
+  }
+}

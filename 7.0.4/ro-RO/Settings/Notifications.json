@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "Excepții",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Notificări - configurare",
+    "LBL_ADD_MEMBERS": "Adaugă membri pentru notificări",
+    "LBL_SELECT_MEMBERS": "Selectează membrii pentru notificări",
+    "LBL_MEMBERS": "Membrii",
+    "LBL_LOCK": "Blocare",
+    "LBL_NOTICE_CONFIG_WARNING": "Vizionarea modulelor este activă în configurație. Dezactivați-o pentru a gestiona notificările."
+  },
+  "js": {}
+}

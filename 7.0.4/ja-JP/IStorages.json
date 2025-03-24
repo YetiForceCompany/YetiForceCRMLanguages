@@ -1,0 +1,29 @@
+{
+  "php": {
+    "IStorages": "ストレージ",
+    "SINGLE_IStorages": "ストレージ",
+    "LBL_DESCRIPTION_BLOCK": "説明",
+    "LBL_ATTENTION_BLOCK": "コメント",
+    "FL_PARENT_STORAGE": "親ストレージ",
+    "FL_SUBJECT": "件名",
+    "FL_STATUS": "状況",
+    "FL_TYPE": "タイプ",
+    "FL_NUMBER": "番号",
+    "FL_QTY_IN_STOCK": "在庫数：",
+    "PLL_ACTIVE": "有効",
+    "PLL_INACTIVE": "無効",
+    "PLL_INTERNAL": "内部",
+    "PLL_EXTERNAL": "外部",
+    "LBL_NOT_PARENT_STORAGE": "親ストレージ名を入力する必要があります",
+    "LBL_SHOW_HIERARCHY": "階層",
+    "LBL_PARENT_IS_CHILD": "選択した親ストレージは現在のストレージの二次ストレージにすることはできません",
+    "LBL_PRODUCTS_CONTROL_TABLE": "製品管理表",
+    "LBL_PRODUCTS_TABLE": "商品のテーブル",
+    "LBL_PRODUCTS_TABLE_HIERARCHY": "商品階層のテーブル",
+    "LBL_PRODUCTS_VALUE_TABLE": "製品の値を持つテーブル",
+    "LBL_TABLE_HIERARCHY": "階層テーブル",
+    "LBL_SECONDARY_STORAGES": "セカンダリストレージ",
+    "LBL_ROW_NUM": "No.",
+    "LBL_STORAGE_OWNER": "所有者"
+  }
+}

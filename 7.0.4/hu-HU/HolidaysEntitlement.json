@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Éves szabadságra való jogosultság",
+    "SINGLE_HolidaysEntitlement": "Éves szabadságra való jogosultság",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Egyedi adatok",
+    "LBL_CUSTOM_INFORMATION": "Rendszer információ",
+    "LBL_YEAR": "Év",
+    "LBL_DAYS": "Ünnepek száma",
+    "LBL_EMPLOYEE": "Alkalmazott",
+    "LBL_NUMBER": "Sorszám"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "php": {
+    "Users": "Người dùng",
+    "USER_MAIL_EXIST": "Một người dùng với địa chỉ email này đã tồn tại",
+    "LBL_PRIORITY": "Độ ưu tiên",
+    "LBL_LDAP_RECOMMENDED_INFO": "Không tôi không khuyến nghị chọn người dùng có quyền quản trị sử dụng xác thực LDAP. Trong trường hợp có vấn đề xác thực thì cần có 1 người dùng có thể đăng nhập không dùng tích hợp LDAP.",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "Xác thực với LDAP",
+    "LBL_LDAP_SERVER": "Địa chỉ máy chủ",
+    "LBL_LDAP_PORT": "Cổng",
+    "LBL_SAVE_CONFIG": "Cấu hình đã được lưu",
+    "LBL_LDAP_DOMAIN": "Tên miền (tự động thêm khi đăng nhập)",
+    "LBL_VIEW_AUTH": "Xác thực",
+    "LBL_SWITCH_USERS": "Chuyển đổi người dùng",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Công cụ có cho phép chuyển đổi người sử dụng trong hệ thống.",
+    "LBL_SU_BASE_ACCESS": "Người dùng",
+    "LBL_SU_AVAILABLE_ACCESS": "Được phép đăng nhập",
+    "LBL_LOCKS": "Khóa",
+    "LBL_LOCKS_DESCRIPTION": "Công cụ chặn chức năng của trình duyệt (copy, cut, ...)",
+    "LBL_LOCK_COPY": "Khóa sao chép",
+    "LBL_LOCK_CUT": "Khóa cắt",
+    "LBL_LOCK_PASTE": "Khoá dán",
+    "LBL_LOCK_RIGHT_MENU": "Khoá phím phải chuột",
+    "LBL_LOCK_SELECT_TEXT": "Khoá chọn",
+    "LBL_LOCK_DRAG": "Khoá kéo thả",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "Vui lòng chọn mô-đun",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Dấu phân tách thập phân và tách nhóm không thể trùng nhau",
+    "Changed password successfully": "Thay đổi mật khẩu thành công"
+  }
+}

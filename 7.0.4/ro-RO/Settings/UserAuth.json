@@ -1,0 +1,36 @@
+{
+  "php": {
+    "FL_NAME": "Nume",
+    "FL_PROVIDER": "Furnizor",
+    "FL_STATUS": "Status",
+    "LBL_ADD_RECORD": "Configurație nouă",
+    "LBL_ADD_CONFIGURATION": "Configurație nouă",
+    "LBL_EDIT_CONFIGURATION": "Editare configurație",
+    "BTN_SAVE": "Salvează",
+    "BTN_CLOSE": "Renunță",
+    "LBL_USERAUTH_CREATE": "Adăugare furnizor",
+    "LBL_USERAUTH_EDIT": "Editare furnizor",
+    "FL_DEFAULT": "Prestabilit",
+    "LBL_NO_RECORDS_FOUND": "Nu s-a găsit niciun furnizor",
+    "FL_AZURE_TENANT_ID": "ID locatar",
+    "FL_AZURE_CLIENT_ID": "ID Client",
+    "FL_AZURE_CLIENT_SECRET": "Secret client",
+    "LBL_LDAP_PORT": "Port",
+    "LBL_LDAP_SERVER": "Adresa server",
+    "LBL_LDAP_DOMAIN": "Domeniu (adăugat automat la autentificare)",
+    "LBL_LDAP_RECOMMENDED_INFO": "Nu recomandăm selectarea utilizatorilor cu permisiuni de administrator pentru autorizarea LDAP. În cazul unor probleme de autorizare, trebuie să existe un utilizator care să se poată conecta fără integrarea LDAP.",
+    "LBL_AZURE_INFO": "Pentru a activa SSO, trebuie să setați URI de redirecționare în portalul Azure",
+    "LBL_NO_CREATION": "Crearea de utilizator dezactivată",
+    "FL_AZURE_BASE_USER": "Utilizator de bază",
+    "FL_REDIRECT_URI": "URI de redirecționare",
+    "LBL_AZURE_BASE_USER_TOOLTIP": "Selectarea unui utilizator de bază va activa crearea automată de utilizatori. Aceasta înseamnă că ori de câte ori o persoană se conectează cu Azure pentru prima dată, va fi creat un nou utilizator în CRM.\n\nNoul utilizator va copia toate detaliile contului utilizatorului de bază, cu excepția informațiilor personale.\n\nNOTĂ: Nu se recomandă alegerea utilizatorilor administrator ca utilizatori de bază, deoarece acest lucru va acorda tuturor utilizatorilor noi permisiuni de administrator.",
+    "FL_REDIRECT_URI_ID": "URI de redirecționare",
+    "LBL_REDIRECT_URI_ID_DESC": "Serviciile web pentru OAuth sunt listate aici.\nTrebuie mai întâi să adăugați cheia în aplicația corespunzătoare într-un panou separat. Acest lucru va genera un URI care va fi listat în acest câmp.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copiază URI în memorie"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Sunteți sigur ca doriți sa ștergeți aceasta configurație?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configurație ștearsă cu succes",
+    "JS_SAVE_SUCCESS": "Salvat"
+  }
+}

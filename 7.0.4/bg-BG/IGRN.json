@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "Бележка че стоките са получени",
+    "SINGLE_IGRN": "Бележка че стоките са получени",
+    "LBL_DESCRIPTION_BLOCK": "Описание",
+    "LBL_ATTENTION_BLOCK": "Коментари",
+    "FL_ACCEPTANCE_DATE": "Дата на приемане",
+    "FL_VENDOR": "Доставчик",
+    "FL_SUBJECT": "Тема",
+    "FL_NUMBER": "Номер",
+    "FL_STORAGE": "Съхранение",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Чернова",
+    "PLL_IN_REALIZATION": "В изпълнение",
+    "PLL_OBJECTIONS": "Възражения",
+    "PLL_FOR_APPROVAL": "За одобрение",
+    "PLL_CANCELLED": "Отхвърлено",
+    "PLL_ACCEPTED": "Одобрено",
+    "LBL_CHANGE_STATUS": "Промяна на състоянието"
+  }
+}

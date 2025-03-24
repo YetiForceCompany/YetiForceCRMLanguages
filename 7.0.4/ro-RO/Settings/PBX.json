@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Nume",
+    "LBL_TYPE": "Tip",
+    "LBL_DEFAULT": "Implicit",
+    "LBL_ADD_RECORD": "Adaugă înregistrare",
+    "LBL_CREATE_RECORD": "Adaugă telefon de schimb",
+    "LBL_EDIT_RECORD": "Editează telefonul de schimb",
+    "LBL_URL": "Adresă server",
+    "LBL_USERNAME": "Utilizator",
+    "LBL_PASSWORD": "Parola",
+    "LBL_SECRET_KEY": "Cheie secretă",
+    "LBL_OUTBOUND_CONTEXT": "Context de ieșire",
+    "LBL_HTTP_LISTENER_PORT": "Portul de ascultare HTTP",
+    "LBL_HTTP_LISTENER_TOKEN": "Token-ul HTTP",
+    "LBL_PBX_DEFAULT": "Implicit",
+    "LBL_PBX_BASE": "Bază (implicit în browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modificări salvate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_SLA_POLICY": "Politica SLA (Service Level Agreement)",
+    "LBL_NAME": "Termeni și Condiții",
+    "LBL_EDIT": "Modifică politica SLA",
+    "LBL_CREATE": "Creează o nouă politică SLA",
+    "LBL_SOURCE_MODULE": "Modul",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Disponibil global pentru calculul timpului de stare a înregistrării",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Dacă această opțiune este selectată, politica SLA va fi disponibilă pentru calcularea timpilor de stare a înregistrării chiar dacă intrarea nu este asociată cu niciun SLA."
+  },
+  "js": {
+    "JS_BUSINESS_HOURS": "Selectează orele de lucru",
+    "JS_BUSINESS_HOURS_FROM": "De la",
+    "JS_BUSINESS_HOURS_TO": "Către",
+    "JS_BUSINESS_HOURS_NAME": "Nume",
+    "JS_BUSINESS_HOURS_DAYS": "Zile lucrătoare",
+    "JS_HOLIDAYS": "Sărbători"
+  }
+}

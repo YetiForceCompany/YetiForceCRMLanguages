@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Kiszervezett szolgáltatások",
+    "SINGLE_OSSOutsourcedServices": "Kiszervezett szolgáltatás",
+    "LBL_INFORMATION": "Information block",
+    "Assigned To": "Hozzárendelve",
+    "LBL_osservicesstatus": "Státusz",
+    "Individual Agreement": "Individual agreement",
+    "In service": "Is supported",
+    "Finished support": "Support terminated",
+    "Product Name": "Szolgáltatás neve",
+    "Sub Category": "Subcategory",
+    "Category": "Category",
+    "Date Sold": "Date of sale",
+    "Date in Service": "Support termination date",
+    "Description": "Leírás",
+    "LBL_DESCRIPTION_INFORMATION": "Descriptive information",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "Where bought": "Where bought",
+    "Number": "Number",
+    "Save": "Mentés",
+    "LBL_GENERATE_EXTENSION": "Generate extension",
+    "Selling proposition": "Lehetőség",
+    "Active": "Aktív",
+    "Inactive": "Inaktív"
+  }
+}

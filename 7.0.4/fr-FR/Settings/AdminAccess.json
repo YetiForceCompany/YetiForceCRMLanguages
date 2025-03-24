@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Accès administrateur",
+    "LBL_ADMIN_ACCESS": "Accès administrateur",
+    "LBL_PERMISSIONS": "Droits d'accès",
+    "BTN_MASS_EDIT_ACCESS": "Edition en masse",
+    "FL_MODULE_NAME": "Nom du module",
+    "LBL_ACTIVE": "Activé",
+    "LBL_EDIT_ADMIN_ACCESS": "Modification des accès administrateur",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Objectif des visites",
+    "FL_DATE_TIME": "Date",
+    "FL_PURPOSE": "Motif",
+    "FL_USER": "Utilisateur",
+    "FL_BASE_USER": "Utilisateur de base",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changements sauvegardés"
+  }
+}

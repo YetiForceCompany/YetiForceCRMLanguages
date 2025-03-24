@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Belangenconflict",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Belangenconflict",
+    "LBL_MAIN_CONFIG": "Algemene configuratie",
+    "LBL_MODULES": "Modules",
+    "LBL_UNLOCK_REQUESTS": "Aanvragen deblokkeren",
+    "LBL_CONFIRMATIONS": "Bevestigingen",
+    "LBL_IS_ACTIVE": "Activering van een belangenconflict",
+    "LBL_NOTIFICATIONS_EMAILS": "E-mailadressen voor notificaties",
+    "LBL_INTERVAL_TIME": "Tijdsinterval",
+    "LBL_INTERVAL_TIME_DESC": "Tijdsinterval dat definieert hoe vaak het systeem geforceerd een bevestiging dient te sturen over de afwezigheid van een belangenconflict.",
+    "LBL_INDEFINITELY": "onbepaald",
+    "LBL_USERS_CONFIRMATIONS": "Toegang tot bevestigingspaneel",
+    "LBL_USERS_UNLOCK": "Toegang tot het deblokkeren van het verzoek paneel",
+    "LBL_RELATIONSHIP": "Relatie",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Stuur een e-mail indien er een aanvraag wordt gedaan om toegang te krijgen tot het record",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail verzonden naar de bovenstaande personen (E-mailadressen voor notificaties)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Stuur een e-mail met de uitkomst van het verzoek om toegang tot het record",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail verzonden naar de persoon die om toegang vraagt"
+  }
+}

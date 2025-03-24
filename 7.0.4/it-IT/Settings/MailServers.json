@@ -1,0 +1,43 @@
+{
+  "php": {
+    "MailServers": "Server email",
+    "LBL_MAIL_SERVERS": "Server email",
+    "FL_SUBJECT": "Oggetto",
+    "FL_AUTH_METHOD": "Metodo d'autorizzazione",
+    "FL_ACTIVE": "Attivo",
+    "FL_VISIBLE": "Disponibile",
+    "FL_VALIDATE_CERT": "Convalida il certificato",
+    "FL_IMAP_ENCRYPT": "Crittografia",
+    "FL_IMAP_HOST": "Host",
+    "FL_IMAP_PORT": "Porta",
+    "FL_SMTP_ENCRYPT": "Crittografia",
+    "FL_SMTP_HOST": "Host",
+    "FL_SMTP_PORT": "Porta",
+    "FL_SPELL_CHECK": "Controllo ortografico",
+    "FL_IP_CHECK": "Controlla l'indirizzo IP",
+    "FL_OAUTH_PROVIDER": "Fornitore OAuth",
+    "FL_CLIENT_ID": "ID del Client",
+    "FL_CLIENT_SECRET": "Codice segreto del client",
+    "FL_REDIRECT_URI_ID": "URI di reindirizzamento",
+    "LBL_REDIRECT_URI_ID_DESC": "I servizi web per OAuth sono elencati qui.\n Devi prima aggiungere la chiave all'applicazione appropriata in un pannello separato. Questo genererà un URI che sarà elencato in questo campo.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copy URI to clipboard",
+    "FL_IDENTITIES_LEVEL": "Livello d'accesso all'identità",
+    "LBL_VISIBLE_DESC": "Disponibile nella sezione dell'utente",
+    "identities_level_0": "molte identità con possibilità di modifica di tutti i parametri",
+    "identities_level_1": "molte identità con possibilità di modificare tutti i parametri, ma non l'indirizzo email",
+    "identities_level_2": "un'identità con possibilità di modificare tutti i parametri",
+    "identities_level_3": "un'identità con la possibilità di modificare tutti i parametri, ma non l'indirizzo email",
+    "identities_level_4": "un'identità con la possibilità di modificare soltanto la firma",
+    "LBL_IMAP_HOST_DESC": "Google:\n encrypt: ssl\n host: imap.gmail.com\n port: 993\n Outlook:\n encrypt: ssl\n host: outlook.office365.com\n port: 993",
+    "LBL_SMTP_HOST_DESC": "Google:\n encrypt: ssl\n host: smtp.gmail.com\n port: 465\n Outlook:\n encrypt: tls\n host: smtp.office365.com\n port: 587",
+    "BL_BASE": "Base",
+    "BL_IMAP": "Configurazione IMAP",
+    "BL_SMTP": "Configurazione SMTP",
+    "BL_OTHER": "Altre impostazioni",
+    "LBL_BASIC_AUTH": "Base",
+    "LBL_OAUTH2": "OAuth2"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

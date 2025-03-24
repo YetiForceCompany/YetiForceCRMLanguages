@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Sarcină proiect",
+    "Project Task": "Sarcini proiect",
+    "Start Date": "Dată inițială",
+    "Target End Date": "Dată estimată pentru finalizare",
+    "End Date": "Dată finalizare",
+    "Related to": "În legătură cu",
+    "Parent ID": "Sarcina asociată",
+    "Project Task Number": "Număr sarcină proiect",
+    "description": " Descriere",
+    "FL_TOTAL_TIME_H": "Total timp de lucru",
+    "Project Task No": "Număr sarcină proiect",
+    "Project Task Name": "Nume sarcină proiect",
+    "LBL_ESTIMATED_WORK_TIME": "Timpul de lucru estimativ",
+    "Add Project Task": "Adaugă sarcina proiectului",
+    "LBL_PROJECT_TASK_INFORMATION": "Detalii sarcină proiect",
+    "LBL_PROJECTS_LIST": "Listă proiecte",
+    "LBL_TASKS_LIST": "Listă sarcini",
+    "LBL_MILESTONES_LIST": "Listă etape",
+    "low": "scăzut",
+    "normal": "normal",
+    "high": "ridicat",
+    "administrative": "Intern",
+    "operative": "Extern",
+    "other": "Distribuit",
+    "LBL_PROJECT": "Proiect",
+    "LBL_UPCOMING_PROJECT_TASKS": "Sarcinile proiectului viitor",
+    "LBL_COMPLETED_PROJECT_TASKS": "Sarcinile finalizate ale proiect"
+  }
+}

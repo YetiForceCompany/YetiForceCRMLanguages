@@ -1,0 +1,22 @@
+{
+  "php": {
+    "RecordCollector": "Colecționar de înregistrări",
+    "LBL_RECORD_COLLECTOR": "Colecționar de înregistrări",
+    "LBL_RECORD_COLLECTOR_DESCRIPTION": "Panou de configurare pentru datele necesare (ex. cheie API, nume de utilizator) pentru conectarea la servicii care furnizează date despre companii.",
+    "LBL_NAME": "Nume",
+    "LBL_SUCCESSFULLY_UPDATED": "Schimbarea statusului a avut succes",
+    "LBL_DOC_URL": "URL-ul documentației",
+    "LBL_FEATURED": "Recomandate",
+    "LBL_API_KEY": "Cheie API",
+    "LBL_TYPE": "Tip",
+    "LBL_TYPE_FillFields": "Arată și completează",
+    "LBL_TYPE_Summary": "Afișare",
+    "LBL_API_KEY_OPTIONAL": "Cheie API (opțional)",
+    "LBL_SAVE_NOTIFY_OK": "Modificări salvate.",
+    "LBL_PROVIDER_INVALID": "Configurația este incorectă",
+    "LBL_CONFIG": "Configurare date pentru colecția de înregistrări",
+    "LBL_ACCESS_KEY": "Cheia de acces",
+    "LBL_CLIENT_ID": "ID Client",
+    "LBL_VATIFY_EU_NO_AUTH": "Nu s-a putut prelua token-ul de acces."
+  }
+}

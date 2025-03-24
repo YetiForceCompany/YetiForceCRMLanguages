@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Sukob interesa",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Sukob interesa",
+    "LBL_MAIN_CONFIG": "Opšta konfiguracija",
+    "LBL_MODULES": "Moduli",
+    "LBL_UNLOCK_REQUESTS": "Deblokiranje zahtjeva",
+    "LBL_CONFIRMATIONS": "Potvrde",
+    "LBL_IS_ACTIVE": "Aktiviranje sukoba interesa",
+    "LBL_NOTIFICATIONS_EMAILS": "Adrese e-pošte za obavještenja",
+    "LBL_INTERVAL_TIME": "Vremenski interval",
+    "LBL_INTERVAL_TIME_DESC": "Vremenski interval koji definira koliko često sistem treba da iznudi potvrdu o odsustvu sukoba interesa.",
+    "LBL_INDEFINITELY": "neodređeno",
+    "LBL_USERS_CONFIRMATIONS": "Pristup panelu za potvrdu",
+    "LBL_USERS_UNLOCK": "Pristup panelu za deblokiranje zahtjeva",
+    "LBL_RELATIONSHIP": "Relacija",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Pošaljite e-poštu kada tražite pristup zapisu",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-pošta poslana gore navedenim osobama (adrese e-pošte za obavijesti)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Pošaljite e-poštu s ishodom zahtjeva za pristup zapisu",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail upućen osobi koja traži pristup"
+  }
+}

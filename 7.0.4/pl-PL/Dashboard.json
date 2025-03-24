@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Strona główna",
+    "LBL_ADD_FILTER": "Dodaj widget z filtru",
+    "LBL_ADD_FILTER_DESC": "Dostępne są tylko te filtry, które mają zaznaczoną opcję dostępności w widgetach.",
+    "LBL_ADD_CHART_FILTER": "Dodaj wykres z filtru",
+    "LBL_ADD_CHART_FILTER_DESC": "Dostępne są tylko te filtry, które mają zaznaczoną opcję \"Dostępny w widżetach\".",
+    "LBL_CLEAR_DEVICE_CONF": "Wyczyść konfigurację widgetów dla tego urządzenia",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Przycisk usuwa/resetuje konfigurację tylko dla urządzenia, którego aktualnie używasz i tylko dla aktywnej zakładki.",
+    "LBL_PREDEFINED_WIDGETS": "Predefiniowane widgety",
+    "LBL_EMPTY_DASHBOARD": "Wybrany panel jest pusty.",
+    "LBL_WORKING_TIME_COUNTER": "Licznik czasu pracy"
+  }
+}

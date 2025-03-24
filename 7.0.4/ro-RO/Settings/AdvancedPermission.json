@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Permisiuni avansate",
+    "AdvancedPermission": "Permisiune avansata",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Configurare permisiune customizata, acorda sau retrage permisiune pentru inregistrari.",
+    "LBL_NAME": "Denumire regulă",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTION": "Acțiune",
+    "LBL_STATUS": "Status",
+    "LBL_ROLE": "Rol",
+    "LBL_MEMBERS": "Membrii",
+    "LBL_PRIORITY": "Prioritate",
+    "FL_ACTIVE": "Activ",
+    "FL_INACTIVE": "Inactiv",
+    "FL_UNLOCK_RECORD": "Acord acces",
+    "FL_LOCK_RECORD": "Retrage acces",
+    "LBL_SAVE_AND_CONDITIONS": "Următorul",
+    "ERR_INACTIVE_ALERT_TITLE": "Permisiunile avansate sunt dezactivate",
+    "ERR_INACTIVE_ALERT_DESC": "Modifică parametrul  PERMITTED_BY_ADVANCED_PERMISSION în fișierul config\/security.php pentru a activa.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Recalculare permisiune",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Recalculare permisiuni",
+    "LBL_RECALCULATE_CRON_INFO": "Recalcularea permisiunilor necesită CRON activat, verificați dacă acțiunea este activă.",
+    "LBL_MODULES_LIST": "Lista module",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Permisiunile speciale au fost dezactivate deoarece au nevoie de activarea caching-ului permisiunilor de înregistrare Pentru ca permisiunile să înceapă să funcționeze trebuie să activezi Cron și să setezi variabila CACHING_PERMISSION_TO_RECORD [config\/security.php] la True."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "Rss Feed订阅源",
+    "LBL_ADD_FEED_SOURCE": "添加Feed订阅源",
+    "LBL_FEEDS_LIST_FROM": "Feed列表表格",
+    "LBL_SET_AS_DEFAULT": "设为默认",
+    "LBL_SENDER": "发件人",
+    "LBL_FEED_SOURCE": "Rss订阅源",
+    "LBL_ENTER_FEED_SOURCE": "输入Feed地址",
+    "SINGLE_Rss": "Rss Feed",
+    "LBL_CHANGE_RSS_CHANNEL": "更改RSS渠道"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss 已保存",
+    "JS_INVALID_RSS_URL": "无效的RSS链接",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss 作为默认"
+  }
+}

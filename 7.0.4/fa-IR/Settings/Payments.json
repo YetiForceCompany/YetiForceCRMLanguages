@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "پرداخت‌ها",
+    "LBL_RIGHT_CLICK_COPY": "کلیک راست و کپی"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "با موفقیت حذف شد",
+    "JS_SAVED_SUCCESSFULLY": "با موفقیت ذخیره شد"
+  }
+}

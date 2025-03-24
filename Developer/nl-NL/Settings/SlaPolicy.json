@@ -5,8 +5,8 @@
     "LBL_EDIT": "SLA-beleid bewerken",
     "LBL_CREATE": "Maak een nieuw SLA beleid",
     "LBL_SOURCE_MODULE": "Module",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Available globally for record status time calculation",
-    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "If this option is selected, the SLA policy will be available for calculating record status times even if the entry is not related to any SLA."
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION": "Globaal bereikbaar voor calculatie van record status",
+    "LBL_AVAILABLE_FOR_RECORD_TIME_CALCULATION_INFO": "Als deze optie is geselecteerd, zal de SLA policy beschikbaar zijn voor het berekenen van de statustijden van records, ook als de invoer niet gerelateerd is aan een SLA."
   },
   "js": {
     "JS_BUSINESS_HOURS": "Selecteer kantooruren",

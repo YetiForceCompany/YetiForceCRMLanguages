@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Tên",
+    "LBL_TYPE": "Loại",
+    "LBL_DEFAULT": "Mặc định",
+    "LBL_ADD_RECORD": "Thêm bản ghi",
+    "LBL_CREATE_RECORD": "Thêm trao đổi điện thoại",
+    "LBL_EDIT_RECORD": "Sửa trao đổi điện thoại",
+    "LBL_URL": "Địa chỉ máy chủ",
+    "LBL_USERNAME": "Đăng nhập",
+    "LBL_PASSWORD": "Mật khẩu",
+    "LBL_SECRET_KEY": "Khoá bí mật",
+    "LBL_OUTBOUND_CONTEXT": "Ngữ cảnh bên ngoài",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "Mặc định",
+    "LBL_PBX_BASE": "Base (default in browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Đã lưu thay đổi"
+  }
+}

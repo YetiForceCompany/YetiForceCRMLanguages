@@ -1,0 +1,7 @@
+{
+  "php": {
+    "DELETE_REGISTRATION_QUESTION": "Sei sicuro di voler eliminare i dati di registrazione? Questo comporterà la perdita di tutti gli abbonamenti.",
+    "REGISTRATION_DELETED": "I dati di registrazione sono stati cancellati",
+    "OPERATION_CANCELED": "L'operazione è stata annullata"
+  }
+}

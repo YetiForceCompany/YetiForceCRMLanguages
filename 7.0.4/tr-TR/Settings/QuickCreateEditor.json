@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Hızlı Düzenleyici",
+    "LBL_QUICK_CREATE_EDITOR": "Alan - Hızlı oluştur",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Module allowing to change the layout of fields within Quick Create window",
+    "LBL_SEQUENCE": "Field sequence",
+    "LBL_SAVE_FIELD_SEQUENCE": "Save field sequence"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Field sequence updated"
+  }
+}

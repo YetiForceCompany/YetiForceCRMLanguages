@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Πρόσβαση Διαχειριστή",
+    "LBL_ADMIN_ACCESS": "Πρόσβαση Διαχειριστή",
+    "LBL_PERMISSIONS": "Δικαιώματα",
+    "BTN_MASS_EDIT_ACCESS": "Μαζική επεξεργασία",
+    "FL_MODULE_NAME": "Ονομασία ενότητας",
+    "LBL_ACTIVE": "Ενεργός",
+    "LBL_EDIT_ADMIN_ACCESS": "Επεξεργασία προσβάσεων διαχειριστή",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Σκοπός επισκέψεων",
+    "FL_DATE_TIME": "Ημερομηνία",
+    "FL_PURPOSE": "Σκοπός",
+    "FL_USER": "Χρήστης",
+    "FL_BASE_USER": "Βασικός χρήστης",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ρωτήστε για το σκοπό σύνδεσης",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Θέλετε να ενεργοποιήσετε το παράθυρο σκοπού επίσκεψης για διαχειριστές όταν συνδεθούν στο σύστημα;",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ερώτηση για τον λόγω αλλαγής χρήστη",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Θέλετε να ενεργοποιήσετε το παράθυρο σκοπού επίσκεψης για διαχειριστές όταν συνδεθούν στο σύστημα;"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Οι αλλαγές αποθηκεύτηκαν"
+  }
+}

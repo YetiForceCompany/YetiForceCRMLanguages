@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Logboek Kilometerstand",
+    "SINGLE_CMileageLogbook": "Logboek Kilometerstand",
+    "LBL_ADDITIONAL_INFORMATION": "Extra informatie",
+    "LBL_BASIC_INFORMATION": "Algemeen",
+    "LBL_DESCRIPTION_BLOCK": "Beschrijving",
+    "LBL_ATTENTION_BLOCK": "Notities",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_STATUS": "Status",
+    "FL_NUMBER_KILOMETERS": "Aantal kilometers",
+    "PLL_DRAFT": "Ontwerp",
+    "PLL_FOR_APPROVAL": "Voor goedkeuring",
+    "PLL_ACCEPTED": "Geaccepteerd",
+    "PLL_CANCELLED": "Geannuleerd"
+  }
+}

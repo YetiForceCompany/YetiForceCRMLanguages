@@ -1,0 +1,41 @@
+{
+  "php": {
+    "ConfigEditor": "Editor de configurații",
+    "LBL_DEFAULT_MODULE": "Modul implicit",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Lungimea maxima a textului din Vizualizare lista",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Numărul maxim de intrări pe pagină în Lista de Afișare",
+    "LBL_DEFAULT_LAYOUT": "Aspect, machetă",
+    "LBL_SHOWING_BREADCRUMBS": "Afișare meniu cu firimituri",
+    "LBL_TITLE_MAX_LENGTH": "Lungimea maxima a caracterelor pentru titlu",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Frecvența minimă cron [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Numărul maxim de înregistrări în editarea de masă",
+    "LBL_BG_CLOSING_MODAL": "Activați închiderea ferestrei modale făcând clic pe fundal",
+    "LBL_HREF_MAX_LEGTH": "Lungimea maximă pentru eticheta href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Arată selecția limbii pe pagina de conectare",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Arată selecția aspectului în pagina de autentificare",
+    "LBL_CONFIG_EDITOR": "Configurație sistem",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Actualizează fișierul de configurare al aplicației",
+    "LBL_MAX_UPLOAD_SIZE": "Dimensiune maximă de încărcare",
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "Relație",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "Lungimea maxima a comentariului vizibil in înregistrarea asociata",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "Aceste câmpuri sunt disponibile în unele relații, de exemplu în fila Produse și Servicii din modulul Cont",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "Arată numele modulelor asociate în file",
+    "LBL_RELATION_SHOW_RELATED_ICON": "Arată pictograma modulelor asociate în file",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "Arată numărul de înregistrări in filele modulelor asociate",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Butoane de acțiune separate pentru a schimba datele suplimentare",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Butonul definește un tip de date special care aparține numai relațiilor, disponibil de exemplu în modulul Apariții",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Numărul maxim de înregistrări de exportat",
+    "LBL_PERFORMANCE": "Performanța",
+    "LBL_BRAND_DATA_NAME": "Numele subsolului",
+    "LBL_TWITTER": "URL Twitter",
+    "LBL_FACEBOOK": "URL Facebook",
+    "LBL_LINKEDIN": "URL LinkedIn",
+    "LBL_BRAND_DATA": "Date marcă",
+    "LBL_BRAND_DATA_INFO": "Un bloc folosit când ați cumpărat YetiForce Branding și care iți permite să introduci date personalizate vizibile în subsol."
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Detalii configurație salvate",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Introduceți o valoare în intervalul 1-100"
+  }
+}

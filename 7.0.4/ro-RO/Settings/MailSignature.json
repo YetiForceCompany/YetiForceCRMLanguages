@@ -1,0 +1,12 @@
+{
+  "php": {
+    "MailSignature": "Semnătură în email",
+    "LBL_MAIL_SIGNATURE": "Semnătură email",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Configurare semnături în e-mail",
+    "FL_NAME": "Nume",
+    "FL_DEFAULT": "Implicit",
+    "FL_BODY": "Conținut",
+    "BL_BASE": "Bază"
+  },
+  "js": {}
+}

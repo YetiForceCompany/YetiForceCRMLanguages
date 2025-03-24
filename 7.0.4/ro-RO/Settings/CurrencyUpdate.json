@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Actualizare monedă",
+    "LBL_CURRENCY_UPDATE": "Actualizare monedă",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Opțiuni pentru setarea sistemelor construite în rate de conversie valutară.",
+    "LBL_SELECT_BANK": "Selectează banca",
+    "MSG_ONE_CURRENCY": "Există doar o singură monedă principală. Pentru a obține rate de schimb valutar pentru alte valute, vă rugăm să adăugați mai multe valute în setările CRM.",
+    "MSG_NO_NET_CONN": "Nu există conexiune la internet, informațiile valutare nu au putut fi descărcate.",
+    "LBL_HISTORY": "Istoricul ratei de conversie",
+    "LBL_BANK": "Selectați banca de la care să se obțină informații despre ratele de schimb",
+    "LBL_CAL_DATE": "Data cursului",
+    "LBL_MAINCURRENCY": "Monedă principală",
+    "LBL_CODE": "Cod",
+    "LBL_SYMBOL": "Simbol",
+    "LBL_CURRENCY_NAME": "Denumire monedă",
+    "LBL_CURRENCY_SYMBOL": "Simbol monedă",
+    "LBL_COURSE": "Rată de schimb",
+    "LBL_DATE": "Data descărcării cursului",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Data cursului",
+    "LBL_SHOW": "Arată",
+    "LBL_CURRENCIES_SUPPORTED": "Lista valutelor acceptate de această bancă",
+    "LBL_CURRENCIES_UNSUPPORTED": "Lista valutelor nesuportate de această bancă",
+    "LBL_SET_BANK_OK": "Banca activă salvată cu succes.",
+    "LBL_SET_BANK_DEACTIVATION": "Banca s-a dezactivat cu succes.",
+    "LBL_SET_BANK_ERROR": "Setarea băncii active nu a reușit.",
+    "LBL_INFORMATIONS": "Informație",
+    "LBL_WARNING": "Atenție!",
+    "NBP": "Banca Națională a Poloniei",
+    "ECB": "Banca Centrală Europeană",
+    "CBR": "Banca Centrală a Rusiei"
+  }
+}

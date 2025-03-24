@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Погодження",
+    "SINGLE_Approvals": "Погодження",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "LBL_BASIC_INFORMATION": "Основна інформція",
+    "LBL_DESCRIPTION_INFORMATION": "Детальний опис",
+    "FL_NAME": "Назва",
+    "FL_APPROVALS_STATUS": "Статус",
+    "FL_DESCRIPTION": "Опис",
+    "FL_NUMBER": "Номер",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_ACTIVE": "Активна",
+    "PLL_INACTIVE": "Неактивна"
+  }
+}

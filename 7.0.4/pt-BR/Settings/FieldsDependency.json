@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Campos dependentes",
+    "LBL_FIELDS_DEPENDENCY": "Campos dependentes",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuração de campos e blocos dinâmicos dependendo de critérios específicos",
+    "LBL_NAME": "Nome dependente",
+    "LBL_EDIT": "Editar dependente",
+    "LBL_CREATE": "Criar novo dependente",
+    "LBL_SOURCE_MODULE": "Nome do módulo",
+    "LBL_VIEWS": "Visualizações",
+    "LBL_VIEWS_INFO": "Lista de visualizações onde os campos devem ser ocultados/mostrados, se uma visão não estiver selecionada, os campos serão sempre visíveis",
+    "LBL_FIELDS_INFO": "Lista de campos que só serão visíveis se as condições abaixo forem atendidas",
+    "LBL_GUI": "Campos dinâmicos",
+    "LBL_GUI_INFO": "Habilitar resulta em uma exibição dinâmica de campos no formulário ao alterar valores em campos.\nSe desabilitado, as alterações só terão efeito após salvar os dados.",
+    "LBL_MANDATORY": "Campo obrigatório",
+    "LBL_MANDATORY_INFO": "Depois de ativar todos os campos listados abaixo será obrigatório",
+    "LBL_CONDITIONS": "Condições"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Program de lucru",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Orele de program sunt un modul în care puteți seta programul de lucru al echipei dumneavoastră.",
+    "LBL_WORKING_HOURS_FROM": "De la",
+    "LBL_WORKING_HOURS_TO": "Către",
+    "LBL_WORKING_DAYS": "Zile lucrătoare",
+    "LBL_WORKING_HOURS": "Orar de lucru",
+    "LBL_DEFAULT": "Prestabilit",
+    "LBL_NAME": "Nume",
+    "LBL_HOLIDAYS": "Sărbători",
+    "LBL_EDIT_BUSINESS_HOURS": "Editați orele de lucru",
+    "LBL_ADD_BUSINESS_HOURS": "Adaugă ora de început de lucru",
+    "LBL_DEFAULT_TIMES": "Ora implicită",
+    "LBL_DEFAULT_REACTION_TIME": "Timpul de reacție implicit",
+    "LBL_DEFAULT_IDLE_TIME": "Timp de inactivitate implicit",
+    "LBL_DEFAULT_RESOLVE_TIME": "Timp de rezolvare implicit",
+    "LBL_HOLIDAYS_LINK": "Mergeți la setările de vacanță",
+    "LBL_HOLIDAYS_INFO": "Verificarea „vacanțelor” va face ca zilele libere să fie scoase din calculul timpului de lucru."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Ești sigur că vrei să ștergi această intrare?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Vă rog selectați cel puțin o zi lucrătoare."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Rozšírené oprávnenia",
+    "AdvancedPermission": "Rozšírené oprávnenia",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Custom permission configuration, grant or withdraw permissions to records.",
+    "LBL_NAME": "Názov pravidla",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTION": "Akcia",
+    "LBL_STATUS": "Stav",
+    "LBL_ROLE": "Rola",
+    "LBL_MEMBERS": "Členovia",
+    "LBL_PRIORITY": "Priorita",
+    "FL_ACTIVE": "Aktívny",
+    "FL_INACTIVE": "Neaktívny",
+    "FL_UNLOCK_RECORD": "Povoliť prístup",
+    "FL_LOCK_RECORD": "Odobrať prístup",
+    "LBL_SAVE_AND_CONDITIONS": "Ďalej",
+    "ERR_INACTIVE_ALERT_TITLE": "Rozšírené oprávnenia sú zakázané",
+    "ERR_INACTIVE_ALERT_DESC": "Zmeň PERMITTED_BY_ADVANCED_PERMISSION  parameter v config\/security.php súbor e pre aktiváciu.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Permission recalculation",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Recalculate permissions",
+    "LBL_RECALCULATE_CRON_INFO": "Permission recalculations requires enabled CRON, please check if the task is active.",
+    "LBL_MODULES_LIST": "Zoznam modulov",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Special permissions have been disabled because they require enabling record permission caching. For the permissions to start working you should enable cron, and set CACHING_PERMISSION_TO_RECORD [config\/security.php] variable to true."
+  }
+}

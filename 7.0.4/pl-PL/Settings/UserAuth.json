@@ -1,0 +1,36 @@
+{
+  "php": {
+    "FL_NAME": "Nazwa",
+    "FL_PROVIDER": "Dostawca",
+    "FL_STATUS": "Status",
+    "LBL_ADD_RECORD": "Nowa konfiguracja",
+    "LBL_ADD_CONFIGURATION": "Nowa konfiguracja",
+    "LBL_EDIT_CONFIGURATION": "Edytuj konfigurację",
+    "BTN_SAVE": "Zapisz",
+    "BTN_CLOSE": "Anuluj",
+    "LBL_USERAUTH_CREATE": "Dodaj dostawcę",
+    "LBL_USERAUTH_EDIT": "Edytuj dostawcę",
+    "FL_DEFAULT": "Domyślny",
+    "LBL_NO_RECORDS_FOUND": "Nie znaleziono dostawców",
+    "FL_AZURE_TENANT_ID": "Tenant ID",
+    "FL_AZURE_CLIENT_ID": "ID klienta",
+    "FL_AZURE_CLIENT_SECRET": "Klucz tajny klienta",
+    "LBL_LDAP_PORT": "Port",
+    "LBL_LDAP_SERVER": "Adres serwera",
+    "LBL_LDAP_DOMAIN": "Domena (automatycznie dodawana do loginu)",
+    "LBL_LDAP_RECOMMENDED_INFO": "Nie zalecamy wybierania użytkowników z uprawnieniami administratora do uwierzytelniania LDAP. W przypadku wystąpienia problemów z uwierzytelnieniem musi istnieć użytkownik, który może się zalogować bez integracji LDAP.",
+    "LBL_AZURE_INFO": "Aby włączyć SSO, musisz ustawić przekierowanie URI w portalu Azure",
+    "LBL_NO_CREATION": "Tworzenie użytkownika wyłączone",
+    "FL_AZURE_BASE_USER": "Użytkownik podstawowy",
+    "FL_REDIRECT_URI": "Przekieruj URI",
+    "LBL_AZURE_BASE_USER_TOOLTIP": "Wybór podstawowego użytkownika umożliwi automatyczne tworzenie użytkowników. Oznacza to, że za każdym razem, gdy dana osoba loguje się z wykorzystaniem Azure po raz pierwszy, w CRM zostanie utworzony nowy użytkownik.\n\nNowy użytkownik skopiuje wszystkie dane konta podstawowego użytkownika, z wyjątkiem danych osobowych.\n\nUWAGA: NIE ZALECAMY wybierania użytkowników z uprawnieniami administratora jako użytkowników podstawowych, ponieważ wszyscy nowi użytkownicy otrzymają uprawnienia administratora.",
+    "FL_REDIRECT_URI_ID": "URI przekierowania",
+    "LBL_REDIRECT_URI_ID_DESC": "Tutaj wymieniono webservices dla OAuth.\n Najpierw dodaj klucz do odpowiedniej aplikacji w oddzielnym panelu — wygeneruje to URI, który będzie wyświetlany w tym polu.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Skopiuj URI do schowka"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć tę konfigurację?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Konfiguracja została poprawnie usunięta",
+    "JS_SAVE_SUCCESS": "Zapisano"
+  }
+}

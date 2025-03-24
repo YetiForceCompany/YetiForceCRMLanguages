@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "汇率",
+    "Currency": "币种",
+    "Symbol": "货币符号",
+    "Currency Code": "货币代码",
+    "Currency Name": "货币名称",
+    "LBL_ADD_NEW_CURRENCY": "添加新货币",
+    "LBL_ADD_RECORD": "添加货币",
+    "LBL_CURRENCY_CODE": "货币代码",
+    "LBL_CURRENCY_NAME": "货币名称",
+    "LBL_CURRENCY_STATUS_DESC": "勾选复选框启用货币",
+    "LBL_CURRENCY_SYMBOL": "货币符号",
+    "LBL_CURRENT_CURRENCY": "当前货币",
+    "LBL_EDIT_CURRENCY": "编辑货币",
+    "LBL_ENTER_CONVERSION_RATE": "输入汇率",
+    "LBL_TRANSFER_CURRENCY": "转换货币",
+    "Active": "启用",
+    "Inactive": "禁用",
+    "LBL_SET_AS_DEFAULT": "设为默认"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "货币已删除.",
+    "JS_CURRENCY_DETAILS_SAVED": "货币信息已保存.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "警告！ 此操作将更改系统中许多位置的货币。 在此更改之前发布的财务凭证可能需要货币转换。 如果这些文件已在其生产版本中发布，请执行手动货币转换。 需要计算剩余货币的汇率。"
+  }
+}

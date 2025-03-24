@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "Sprejem blaga",
+    "SINGLE_IGRN": "Sprejem blaga",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentar",
+    "FL_ACCEPTANCE_DATE": "Datum prejema",
+    "FL_VENDOR": "Dobavitelj",
+    "FL_SUBJECT": "Zadeva",
+    "FL_NUMBER": "Številka",
+    "FL_STORAGE": "Skladišče",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V obdelavi",
+    "PLL_OBJECTIONS": "Reklamacija",
+    "PLL_FOR_APPROVAL": "V potrjevanju",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_ACCEPTED": "Zaključeno",
+    "LBL_CHANGE_STATUS": "Spremeni status"
+  }
+}

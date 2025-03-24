@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "Питання / Відповідь",
+    "SINGLE_Faq": "Питання / Відповідь",
+    "Draft": "Чернетка",
+    "FL_SUBJECT": "Тема",
+    "FL_CONTENT": "Зміст",
+    "FL_CATEGORY": "Категорія",
+    "FL_ACCOUNT": "Акаунт",
+    "FL_VIEWS": "Візуалізація",
+    "PLL_PAGE": "Сторінка",
+    "PLL_PRESENTATION": "Презентація",
+    "LBL_VIEW_KNOWLEDGE_BASE": "База знань",
+    "LBL_PREVIOUS": "Попереднє",
+    "LBL_NEXT": "Далі",
+    "FL_STATUS": "Статус",
+    "LBL_ARTICLE": "Стаття",
+    "FL_FEATURED": "Рекомендоване",
+    "LBL_RELATED_FAQ": "Пов'язані записи",
+    "FL_INTRODUCTION": "Вступ",
+    "Faq No": "Номер",
+    "General": "Загальне ",
+    "LBL_FAQ_INFORMATION": "Основна інформація",
+    "LBL_RECORDS_LIST": "Список",
+    "Obsolete": "Застаріло",
+    "Published": " Опубліковано",
+    "Question": "Питання"
+  }
+}

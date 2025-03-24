@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Currency Update",
+    "LBL_CURRENCY_UPDATE": "Currency Update",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Options for setting systems built in currency conversion rates.",
+    "LBL_SELECT_BANK": "Bank kiválasztása",
+    "MSG_ONE_CURRENCY": "There is only one main currency set. To get currency rates for other currencies please add more currencies in CRM settings.",
+    "MSG_NO_NET_CONN": "No Internet connection, currency information was not downloaded.",
+    "LBL_HISTORY": "Exchange rate history",
+    "LBL_BANK": "Select the bank from which to retrieve information about exchange rates",
+    "LBL_CAL_DATE": "Árfolyam dátuma",
+    "LBL_MAINCURRENCY": "Fő pénznem",
+    "LBL_CODE": "Kód",
+    "LBL_SYMBOL": "Szimbólum",
+    "LBL_CURRENCY_NAME": "Pénznem név",
+    "LBL_CURRENCY_SYMBOL": "Pénznem szimbólum",
+    "LBL_COURSE": "Árfolyam",
+    "LBL_DATE": "Árfolyam letöltés dátuma",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Árfolyam dátuma",
+    "LBL_SHOW": "Mutat",
+    "LBL_CURRENCIES_SUPPORTED": "A bank által támogatott pénznemek listája",
+    "LBL_CURRENCIES_UNSUPPORTED": "A bank által nem támogatott valuták listája",
+    "LBL_SET_BANK_OK": "Az aktív bank sikeresen mentve.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
+    "LBL_SET_BANK_ERROR": "Nem sikerült beállítani az aktív bankot.",
+    "LBL_INFORMATIONS": "Információ",
+    "LBL_WARNING": "Figyelmeztetés!",
+    "NBP": "Lengyel Nemzeti Bank",
+    "ECB": "Európai Központi Bank",
+    "CBR": "Oroszországi Központi Bank"
+  }
+}

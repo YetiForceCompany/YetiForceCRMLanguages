@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Heures d'ouverture",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Le module d'heures d'ouverture est un module où vous pouvez définir les heures de travail de votre équipe.",
+    "LBL_WORKING_HOURS_FROM": "De",
+    "LBL_WORKING_HOURS_TO": "A",
+    "LBL_WORKING_DAYS": "Jours ouvrables",
+    "LBL_WORKING_HOURS": "Horaire de travail",
+    "LBL_DEFAULT": "Défaut",
+    "LBL_NAME": "Nom",
+    "LBL_HOLIDAYS": "Vacances",
+    "LBL_EDIT_BUSINESS_HOURS": "Modifier les heures d'ouverture",
+    "LBL_ADD_BUSINESS_HOURS": "Ajouter des heures d'entrée",
+    "LBL_DEFAULT_TIMES": "Heure par défaut",
+    "LBL_DEFAULT_REACTION_TIME": "Temps de réaction par défaut",
+    "LBL_DEFAULT_IDLE_TIME": "Temps d'inactivité par défaut",
+    "LBL_DEFAULT_RESOLVE_TIME": "Temps de résolution par défaut",
+    "LBL_HOLIDAYS_LINK": "Accéder aux paramètres des vacances",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Êtes-vous sûr de vouloir supprimer cette entrée ?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "Locaţii",
+    "SINGLE_Locations": "Locație",
+    "LBL_LOCATIONS_INFORMATION": "Informații de bază",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_DESCRIPTION_INFORMATION": "Detalii descriere",
+    "LBL_SUBJECT": "Subiect",
+    "LBL_NUMBER": "Număr",
+    "LBL_CLOSED_TIME": "Timp închidere",
+    "FL_PHONE": "Telefon",
+    "FL_CAPACITY": "Capacitate",
+    "FL_COORDINATES": "Coordonate"
+  }
+}

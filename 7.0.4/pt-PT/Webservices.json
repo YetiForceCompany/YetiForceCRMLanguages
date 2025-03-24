@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webservices",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Falha a alterar a palavra-passe",
+    "LBL_DATABASE_QUERY_ERROR": "Erro da base de dados ao executar a operação solicitada",
+    "LBL_INVALID_OLD_PASSWORD": "Palavra-passe antiga inválida.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Nova palavra-passe e confirmação da palavra-passe não coincidem"
+  }
+}

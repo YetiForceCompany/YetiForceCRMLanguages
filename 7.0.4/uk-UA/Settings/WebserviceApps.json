@@ -1,0 +1,28 @@
+{
+  "php": {
+    "WebserviceApps": "Веб-сервіс - Додатки",
+    "LBL_APP_NAME": "Назва",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Дозволені IP адреси",
+    "LBL_ALLOWED_IPS_INFO": "Порожнє значення - доступ до всіх серверів.\nЯкщо введені IP-адреси (після точки), доступ до API буде дозволений тільки з цих IP-адрес.\nПриклад:",
+    "LBL_TYPE_SERVER": "Тип",
+    "LBL_API_KEY": "Ключ",
+    "LBL_ADD_APPLICATION": "Додати ключ",
+    "LBL_WEBSERVICE_APPS": "Веб-сервіс - Додатки",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Створення та управління ключами програми, які інтегруються через API.",
+    "LBL_MODAL_ALERT": "Дані доступу потрібно вводити в заголовку під час кожного запиту API.",
+    "Mail": "Mail",
+    "LBL_PASS": "Пароль",
+    "LBL_TITLE_ADDED": "Додати",
+    "LBL_TITLE_EDIT": "Редагувати",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "Платежі",
+    "ManageConsents": "Управління згодами",
+    "SMS": "SMS"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Ви впевнені, що хочете видалити ключ?"
+  }
+}

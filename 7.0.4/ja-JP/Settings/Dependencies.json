@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_LIB_NAME": "Library/app name",
+    "LBL_VULNERABILITY_NAME": "脆弱性名",
+    "LBL_VULNERABILITY_URL": "脆弱性アドレス",
+    "LBL_LIBRARY_HOMEPAGE": "ライブラリのウェブサイトを開く",
+    "LBL_LICENSE_ERROR": "ライセンスエラー",
+    "LBL_SHOW_MORE": "詳細を表示",
+    "LBL_MISSING_PACKAGE_FILE": "ライブラリファイルがありません",
+    "LBL_MORE_LIBRARY_INFO": "ライブラリの詳細",
+    "LBL_MISSING_FILE": "ファイルがありません",
+    "LBL_LIBRARY_NAME": "名前",
+    "LBL_VERSION": "バージョン",
+    "LBL_LICENSE": "ライセンス",
+    "LBL_MISSING_LICENSE_FILE": "ライセンスファイルがありません",
+    "LBL_SUGAR_DESCRIPTION": "VtigerはSugar CRMに基づいていました。現在、YetiForceにはいくつかのSugarファイルしか残っていません。",
+    "LBL_VTIGER_DESCRIPTION": "Vtigerのorginalコードの約30%が残されています。残りのコードは書き換えられ、拡張されました。",
+    "LBL_CHAT_SOUND_DESCRIPTION": "チャットの音",
+    "License": "ライセンス",
+    "LBL_LICENSE_DESCRIPTION": " "
+  },
+  "js": {}
+}

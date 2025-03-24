@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Registru activități",
+    "SINGLE_ActivityRegister": "Registru activități",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "FL_SUBJECT": "Subiect",
+    "FL_PARENT_ACTIVITY": "Activitate părinte",
+    "FL_STATUS": "Statut",
+    "PLL_DRAFT": "Schiţă",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Se așteaptă acceptarea",
+    "PLL_IN_REALIZATION": "În realizare",
+    "PLL_COMPLETED": "Completat",
+    "PLL_CANCELLED": "Anulat",
+    "FL_DATA_SET": "Set date",
+    "PLL_ENTRUSTMENT": "Delegare",
+    "PLL_SHARING": "Distribuire",
+    "PLL_TRANSFER": "Transfer",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Acceptare încredințare",
+    "PLL_INTERNAL": "Intern",
+    "FL_START_DATE": "Data start",
+    "FL_END_DATE": "Dată sfârșit",
+    "LBL_DATES": "Date activitate",
+    "LBL_DESCRIPTION": "Descriere",
+    "FL_DESCRIPTION": "Descriere",
+    "FL_COMMENTS": "Comentarii",
+    "LBL_COMMENTS": "Comentarii",
+    "FL_ACTIVITY_TYPE": "Tip activitate"
+  }
+}

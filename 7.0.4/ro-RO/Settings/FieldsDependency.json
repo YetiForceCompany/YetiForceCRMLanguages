@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Câmpuri dependente",
+    "LBL_FIELDS_DEPENDENCY": "Domenii dependente",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configurarea câmpurilor dinamice și a blocurilor în funcție de criterii specifice",
+    "LBL_NAME": "Numele dependenței",
+    "LBL_EDIT": "Editați dependența",
+    "LBL_CREATE": "Creează o nouă dependență",
+    "LBL_SOURCE_MODULE": "Nume modul",
+    "LBL_VIEWS": "Vizualizări",
+    "LBL_VIEWS_INFO": "Lista de vizualizări unde câmpurile urmează să fie ascunse/afișate, dacă o vizualizare nu este selectată, câmpurile vor fi întotdeauna vizibile",
+    "LBL_FIELDS_INFO": "Lista câmpurilor care vor fi vizibile doar dacă sunt îndeplinite condițiile de mai jos",
+    "LBL_GUI": "Câmpuri dinamice",
+    "LBL_GUI_INFO": "Activarea acestei opțiuni permite afișarea dinamică a câmpurilor în formular atunci când se modifică valorile altor câmpuri.\nDacă este dezactivată, modificările vor avea efect doar după salvarea datelor.",
+    "LBL_MANDATORY": "Câmpuri obligatorii",
+    "LBL_MANDATORY_INFO": "După activarea tuturor câmpurilor listate mai jos va fi obligatorie",
+    "LBL_CONDITIONS": "Condiții"
+  }
+}
