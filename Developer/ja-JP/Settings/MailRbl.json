@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Eメールトラッキング",
     "LBL_MAIL_SENDERS": "差出人",
     "LBL_MAIL_SENDER": "差出人",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "The email address in the From field has been forged.",
     "LBL_SERVER_NAME_FROM_DESC": "送信コンピュータが自分のために与えたサーバー名 (しばしば送信ソフトウェア名)",
     "LBL_SERVER_NAME_BY_DESC": "受信側のコンピュータが自身のために与えたサーバー名 (送信側のソフトウェア名がない場合、メッセージは内部的に渡されます)",

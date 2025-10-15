@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Praćenje e-pošte",
     "LBL_MAIL_SENDERS": "Pošiljaoci",
     "LBL_MAIL_SENDER": "Pošiljatelj",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "Adresa e-pošte u polju Od je krivotvorena.",
     "LBL_SERVER_NAME_FROM_DESC": "Ime servera koje je računar pošiljalac dao za sebe (često naziv softvera za slanje)",
     "LBL_SERVER_NAME_BY_DESC": "Ime servera koje je računar primalac dao za sebe (često se naziva softver za slanje, ako nema pošiljatelja, poruka se interno prosljeđuje)",

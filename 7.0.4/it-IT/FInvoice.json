@@ -29,7 +29,7 @@
     "PLL_UNASSIGNED": "Non assegnato",
     "PLL_AWAITING_REALIZATION": "Bozza",
     "PLL_CANCELLED": "Annullato",
-    "PLL_ACCEPTED": "Issued",
+    "PLL_ACCEPTED": "Emesso",
     "LBL_YEAR": "Anno",
     "FL_ISSUE_TIME": "Data documento",
     "FL_OPPORTUNITY": "Opportunità",

@@ -702,7 +702,7 @@
     "Address details": "Indirizzo principale",
     "Contact details": "Informazioni contatto",
     "Registration details": "Dettagli registrazione",
-    "LBL_SUMMARY_LICENSE": "YetiForce Public License 7.0",
+    "LBL_SUMMARY_LICENSE": "Licenza Pubblica di YetiForce 7.0",
     "LBL_REGISTERING_INFORMATION": "Informazioni registrazione",
     "Created By": "Creato da",
     "Parent ID": "Relativo a",
@@ -2014,10 +2014,10 @@
     "JS_NOT_ALLOWED": "non sono consentiti",
     "JS_INVALID_COORDINATES": "Coordinate errate inserite",
     "JS_PDF_GENERATED": "PDF creato",
-    "JS_OSM_INDIRECT_POINT": "Indirect point",
-    "JS_OSM_SEARCH_IN_RADIUS": "Search in radius",
+    "JS_OSM_INDIRECT_POINT": "Punto indiretto",
+    "JS_OSM_SEARCH_IN_RADIUS": "Cerca nel raggio",
     "JS_OSM_START": "Avvia",
     "JS_OSM_END": "Fine",
-    "JS_OSM_USE_COORDINATES": "Use coordinates"
+    "JS_OSM_USE_COORDINATES": "Usa coordinate"
   }
 }

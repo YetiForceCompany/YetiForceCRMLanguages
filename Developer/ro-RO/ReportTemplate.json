@@ -55,7 +55,9 @@
     "LBL_SELECT_SORT_ORDER": "Selectați ordinea sortării",
     "LBL_USER_MODULES": "Module asociate utilizatorului",
     "LBL_ID": "Id-ul",
-    "LBL_INVENTORY_BLOCK": "Bloc avansat"
+    "LBL_INVENTORY_BLOCK": "Bloc avansat",
+    "LBL_REPORT_GENERATED_SUCCESS": "A fost generat %s",
+    "LBL_REPORT_GENERATED_FAIL": "Nu s-a putut genera %s"
   },
   "js": {
     "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Selectează cel puțin o coloană pentru raport",

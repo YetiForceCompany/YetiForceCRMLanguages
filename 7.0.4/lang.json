@@ -108,8 +108,8 @@
         "prefix": "it-IT",
         "crowdinCode": "it",
         "name": "Italian",
-        "progress": 99,
-        "time": "2025-03-24 15:15:40"
+        "progress": 100,
+        "time": "2025-10-15 13:39:56"
     },
     "ja-JP": {
         "prefix": "ja-JP",
@@ -179,14 +179,14 @@
         "crowdinCode": "ro",
         "name": "Romanian",
         "progress": 100,
-        "time": "2025-03-24 15:16:56"
+        "time": "2025-10-15 13:41:20"
     },
     "ru-RU": {
         "prefix": "ru-RU",
         "crowdinCode": "ru",
         "name": "Russian",
         "progress": 56,
-        "time": "2025-03-24 15:17:06"
+        "time": "2025-10-15 13:41:36"
     },
     "sh-HR": {
         "prefix": "sh-HR",

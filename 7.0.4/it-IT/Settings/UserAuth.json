@@ -19,14 +19,14 @@
     "LBL_LDAP_SERVER": "Indirizzo del server",
     "LBL_LDAP_DOMAIN": "Dominio (aggiunto automaticamente all'accesso)",
     "LBL_LDAP_RECOMMENDED_INFO": "Sconsigliamo la selezione degli utenti con permessi da admin per l'autorizzazione LDAP. Nel caso di problemi di autorizzazione, deve esistere un utente che sia capace di accedere senza l'integrazione di LDAP.",
-    "LBL_AZURE_INFO": "To enable SSO, you must set redirect URI in the Azure portal",
+    "LBL_AZURE_INFO": "Per abilitare SSO è necessario impostare l'URI di reindirizzamento nel portale Azure",
     "LBL_NO_CREATION": "Creazione dell'utente disabilitataa",
     "FL_AZURE_BASE_USER": "Utente di base",
     "FL_REDIRECT_URI": "URI di reindirizzamento",
     "LBL_AZURE_BASE_USER_TOOLTIP": "La selezione di un utente di base abiliterà la creazione automatica dell'utente. Ciò significa che, ogni qual volta una persona accedere con Azure per la prima volta, sarà creato un nuovo utente nella CRM.\n\nIl nuovo utente copierà tutti i dettagli del profilo dell'utente di base, tranne le informazioni personali.\n\nNOTA: Si sconsiglia di selezionare gli utenti admin come utenti di base, poiché questo darebbe a tutti i nuovi utenti le autorizzazioni da admin.",
-    "FL_REDIRECT_URI_ID": "Redirect URI",
-    "LBL_REDIRECT_URI_ID_DESC": "Webservices for OAuth are listed here.\n You must first add the key to the appropriate application in a separate panel. This will generate a URI that will be listed in this field.",
-    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copy URI to clipboard"
+    "FL_REDIRECT_URI_ID": "URI di reindirizzamento",
+    "LBL_REDIRECT_URI_ID_DESC": "I webservice per OAuth sono elencati qui.\n Devi prima aggiungere la \"chiave\" all'applicazione in un pannello separato. Questo genererà un URI che sarà elencato in questo campo.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copia URI negli appunti"
   },
   "js": {
     "LBL_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questa configurazione?",

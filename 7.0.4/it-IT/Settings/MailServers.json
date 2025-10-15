@@ -20,7 +20,7 @@
     "FL_CLIENT_SECRET": "Codice segreto del client",
     "FL_REDIRECT_URI_ID": "URI di reindirizzamento",
     "LBL_REDIRECT_URI_ID_DESC": "I servizi web per OAuth sono elencati qui.\n Devi prima aggiungere la chiave all'applicazione appropriata in un pannello separato. Questo genererà un URI che sarà elencato in questo campo.",
-    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copy URI to clipboard",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copia URI negli appunti",
     "FL_IDENTITIES_LEVEL": "Livello d'accesso all'identità",
     "LBL_VISIBLE_DESC": "Disponibile nella sezione dell'utente",
     "identities_level_0": "molte identità con possibilità di modifica di tutti i parametri",

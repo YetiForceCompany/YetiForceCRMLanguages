@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Urmărire e-mail",
     "LBL_MAIL_SENDERS": "Expeditori",
     "LBL_MAIL_SENDER": "Expeditor",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "Adresa de e-mail din câmpul -De la- a fost falsificată.",
     "LBL_SERVER_NAME_FROM_DESC": "Numele serverului furnizat de computerul expeditor (adesea numele software-ului expeditor)",
     "LBL_SERVER_NAME_BY_DESC": "Numele serverului furnizat de computerul destinatar pentru sine (adesea numele software-ului de trimitere, dacă nu există expeditor, mesajul este transmis intern)",
