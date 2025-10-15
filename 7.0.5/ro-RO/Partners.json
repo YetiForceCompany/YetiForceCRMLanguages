@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Partners": "Parteneri",
+    "SINGLE_Partners": "Partener",
+    "LBL_PARTNERS_INFORMATION": "Informații de bază",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_DESCRIPTION_INFORMATION": "Descriere detalii",
+    "LBL_SUBJECT": "Subiect",
+    "LBL_NUMBER": "Număr",
+    "LBL_CLOSED_TIME": "Timp de închidere",
+    "LBL_VAT_ID": "ID TVA",
+    "FL_CATEGORY": "Categorie",
+    "FL_MEMBER_OF": "Partener principal",
+    "LBL_SHOW_HIERARCHY": "Ierarhie"
+  }
+}

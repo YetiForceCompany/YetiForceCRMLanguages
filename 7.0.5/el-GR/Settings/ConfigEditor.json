@@ -1,0 +1,41 @@
+{
+  "php": {
+    "ConfigEditor": "Επεξεργαστής ρυθμίσεων",
+    "LBL_DEFAULT_MODULE": "Προεπιλεγμένο module",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Μέγιστο μήκος κειμένου σε προβολή λίστας",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Μέγιστος αριθμός εγγραφών ανά σελίδα στην προβολή λίστας",
+    "LBL_DEFAULT_LAYOUT": "Διάταξη",
+    "LBL_SHOWING_BREADCRUMBS": "Εμφάνιση μενού breadcrumbs",
+    "LBL_TITLE_MAX_LENGTH": "Μέγιστο μήκος χαρακτήρων για τον τίτλο",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Ελάχιστη συχνότητα του cron [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Μέγιστος αριθμός εγγραφών για μαζική επεξεργασία",
+    "LBL_BG_CLOSING_MODAL": "Ενεργοποιήστε το κλείσιμο του παραθύρου κάνοντας κλικ στο φόντο",
+    "LBL_HREF_MAX_LEGTH": "Μέγιστο μήκος ετικέτας href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Να εμφανίζεται η επιλογή γλώσσας στη σελίδα σύνδεσης",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Εμφάνιση επιλογής διάταξης στη σελίδα σύνδεσης",
+    "LBL_CONFIG_EDITOR": "Σύστημα - Διαμόρφωση",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Ενημέρωση του αρχείου ρύθμισης παραμέτρων της εφαρμογής",
+    "LBL_MAX_UPLOAD_SIZE": "Μέγιστο μέγεθος αρχείου ανεβάσματος",
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "Σχέση",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "Μέγιστο μήκος ενός σχολίου που είναι ορατό στη σχετική εγγραφή",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "Αυτά τα πεδία είναι διαθέσιμα σε ορισμένες σχέσεις, π.χ. στην καρτέλα Προϊόντα και Υπηρεσίες στην ενότητα Λογαριασμός",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "Εμφάνιση ονομάτων σχετιζόμενων modules στις καρτέλες",
+    "LBL_RELATION_SHOW_RELATED_ICON": "Εμφάνιση εικονιδίου σχετιζόμενων modules στις καρτέλες",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "Εμφάνιση αριθμού εγγραφών στις καρτέλες σχετιζόμενων modules",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Ξεχωριστά κουμπιά ενεργειών για την αλλαγή πρόσθετων δεδομένων",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "Το κουμπί ορίζει έναν ειδικό τύπο δεδομένων που ανήκει μόνο στις σχέσεις, διαθέσιμες π.χ. στο module Occurrences",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Μέγιστος αριθμός εγγραφών εξαγωγής",
+    "LBL_PERFORMANCE": "Performance",
+    "LBL_BRAND_DATA_NAME": "Όνομα υποσέλιδου",
+    "LBL_TWITTER": "Διαδικτυακή διεύθυνση Twitter",
+    "LBL_FACEBOOK": "Διαδικτυακή διεύθυνση Facebook",
+    "LBL_LINKEDIN": "Διαδικτυακή διεύθυνση LinkedIn",
+    "LBL_BRAND_DATA": "Στοιχεία εμπορικού σήματος",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Οι λεπτομέρειες ρυθμίσεων αποθηκεύτηκαν",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Παρακαλώ εισαγάγετε μία τιμή από το 1 έως το 100"
+  }
+}

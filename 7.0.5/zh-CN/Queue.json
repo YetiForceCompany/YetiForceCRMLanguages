@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "队列中的更改",
+    "SINGLE_Queue": "队列中的更改",
+    "LBL_CUSTOM_INFORMATION": "系统信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "FL_SUBJECT": "标题",
+    "FL_RELATED_TO": "有关于",
+    "FL_CHANGES": "更改列表",
+    "LBL_DESCRIPTION_INFORMATION": "详细说明",
+    "FL_REASON_FOR_CHANGE": "更改原因",
+    "FL_REASON_FOR_REJECTION": "撤回原因",
+    "FL_STATUS": "状态",
+    "PLL_PLANNED": "计划中的",
+    "PLL_ON_HOLD": "保持",
+    "PLL_FOR_VERIFICATION": "用于验证",
+    "PLL_IN_APPROVAL": "审批中",
+    "PLL_ACCEPTED": "已接受",
+    "PLL_COMPLETED": "已完成",
+    "PLL_CANCELLED": "已取消"
+  }
+}

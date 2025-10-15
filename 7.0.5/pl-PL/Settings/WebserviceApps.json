@@ -1,0 +1,28 @@
+{
+  "php": {
+    "WebserviceApps": "Web service - Aplikacje",
+    "LBL_APP_NAME": "Nazwa",
+    "LBL_PUBLIC_URL": "Publiczny adres URL",
+    "LBL_PUBLIC_URL_INFO": "Adres URL będzie używany do wysyłania powiadomień mailowych gdzie w treści będzie można używać adresu URL np. reset hasła w Portalu Klienta, link do podglądu rekordu w Portalu Klienta",
+    "LBL_ALLOWED_IPS": "Dozwolone adresy IP",
+    "LBL_ALLOWED_IPS_INFO": "Pusta wartość - dostęp ze wszystkich serwerów.\nJeśli adresy IP zostaną wprowadzone (po przecinku), to dostęp do API będzie dozwolony tylko z tych adresów IP.\nPrzykład:",
+    "LBL_TYPE_SERVER": "Typ",
+    "LBL_API_KEY": "Klucz",
+    "LBL_ADD_APPLICATION": "Dodaj klucz",
+    "LBL_WEBSERVICE_APPS": "Web service - Aplikacje",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Tworzenie i zarządzanie kluczami aplikacji integrującymi się poprzez interfejs API.",
+    "LBL_MODAL_ALERT": "Dane dostępowe należy wprowadzić do nagłówka podczas każdego odpytania API.",
+    "Mail": "Mail",
+    "LBL_PASS": "Hasło",
+    "LBL_TITLE_ADDED": "Dodaj",
+    "LBL_TITLE_EDIT": "Edytuj",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "Płatności (funkcjonalność płatna)",
+    "ManageConsents": "Zarządzaj zgodami",
+    "SMS": "SMS"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Czy na pewno chcesz usunąć klucz?"
+  }
+}

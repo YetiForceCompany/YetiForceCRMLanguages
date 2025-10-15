@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Hỗ trợ",
+    "LBL_GENERAL_CONFIGURATION": "Cấu hình chung",
+    "LBL_OTHER": "Khác",
+    "LBL_INFO": "Thông tin",
+    "LBL_TYPE": "Loại",
+    "LBL_TICKET_STATUS_INFO": "Trạng thái xác định rằng vé hỗ trợ đã được đóng",
+    "LBL_SAVE_CONFIG_OK": "Các thay đổi đã được lưu",
+    "LBL_SAVE_CONFIG_ERROR": "Các thay đổi đã được lưu.",
+    "SupportProcesses": "Quá trình hỗ trợ"
+  },
+  "js": {}
+}

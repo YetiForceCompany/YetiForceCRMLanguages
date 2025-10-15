@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_CONVERSION": "Conversion",
+    "LBL_CONVERSION_TO_ACCOUNT": "Change Assigned To",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "이 옵션을 선택하면 잠재고객을 고객사로 변환하는 사용자가 할당 대상자가 됨",
+    "LBL_LEADS": "잠재고객",
+    "LBL_INFO": "Information",
+    "LBL_VALUES": "Values",
+    "LBL_GROUPS_INFO": "Groups with no Assigned To",
+    "LBL_LEAD_STATUS": "잠재고객과 협력 종료를 나타내는 상태",
+    "LBL_LEAD_CONVERT_STATUS": "Statuses that allow for converting Lead to Account",
+    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "이 옵션을 사용하면 시스템에서 변환된 레코드를 이미 존재하는 계정과 자동으로 연결할 수 있으며, 새 계정은 생성되지 않으며, 대신 모든 기존 레코드 데이터가 잠재고객으로부터 전송됨",
+    "LBL_CONDITION": "Add condition",
+    "MarketingProcesses": "Marketing processes"
+  },
+  "js": {
+    "JS_NO_CONDITIONS": "At least one condition is required"
+  }
+}

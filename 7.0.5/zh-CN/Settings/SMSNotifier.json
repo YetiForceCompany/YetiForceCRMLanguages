@@ -1,0 +1,31 @@
+{
+  "php": {
+    "FL_NAME": "名称",
+    "FL_PROVIDER": "供应商",
+    "FL_STATUS": "状态",
+    "FL_SMSAPI_FROM": "发送人姓名",
+    "FL_API_KEY": "Api密钥",
+    "LBL_ADD_RECORD": "新建设置",
+    "LBL_SMSNOTIFIER": "短信提供商设置",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "新建设置",
+    "LBL_EDIT_CONFIGURATION": "编辑设置",
+    "BTN_SAVE": "保存",
+    "BTN_CLOSE": "取消",
+    "LBL_SMSPROVIDER_CREATE": "添加提供者",
+    "LBL_SMSPROVIDER_EDIT": "编辑提供者",
+    "LBL_CALLBACK_ADDRESSES": "回调地址",
+    "LBL_CALLBACK_ADDRESSES_DESC": "为了产生 SMS 通信的回调地址，这对首次建立 SMS 的网页连接非常必要。\n以下网址必须直接输入提供者的回调部分。",
+    "FL_CALLBACK_URL_FOR_REPORT": "报告 (SMS, MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "接收 (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "用于交付报告的网址。要直接在提供者输入。",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "接收的网址。要在提供者直接输入。",
+    "FL_DEFAULT": "Default",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Selected provider is inactive. Activate it or change the provider."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "确实要删除此设置吗？?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "已成功删除设置",
+    "JS_SAVE_SUCCESS": "已保存"
+  }
+}

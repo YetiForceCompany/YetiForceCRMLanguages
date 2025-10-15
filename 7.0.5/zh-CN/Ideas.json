@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "创意/点子/灵感",
+    "SINGLE_Ideas": "创意/点子/灵感",
+    "LBL_IDEAS_INFORMATION": "基本信息",
+    "LBL_SUBJECT": "标题",
+    "LBL_STATUS": "状态",
+    "Description": "基本信息",
+    "LBL_EXTENT_DESCRIPTION": "详细描述",
+    "Attention": "评论",
+    "LBL_NO": "编号",
+    "Draft": "草稿",
+    "Proposition": "方案"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "WebserviceApps": "Serviciu web - Aplicații",
+    "LBL_APP_NAME": "Nume",
+    "LBL_PUBLIC_URL": "Adresa URL publică",
+    "LBL_PUBLIC_URL_INFO": "URL-ul va fi folosit pentru a trimite notificări prin e-mail și va putea fi folosit în conținutul acestora, de exemplu, resetarea parolei în Portalul Clientului, link către previzualizarea înregistrării în Portalul Clientului",
+    "LBL_ALLOWED_IPS": "IP-uri permise",
+    "LBL_ALLOWED_IPS_INFO": "Valoare nulă - acces permis de pe toate serverele.\nDacă se introduc adrese IP (după punctul zecimal), accesul API va fi permis doar de pe aceste adrese IP.\nExemplu:",
+    "LBL_TYPE_SERVER": "Tip",
+    "LBL_API_KEY": "Cheie acces",
+    "LBL_ADD_APPLICATION": "Adăugare cheie acces",
+    "LBL_WEBSERVICE_APPS": "Serviciu web - Aplicații",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Please note that the module will become fully functional in v.3.1",
+    "LBL_MODAL_ALERT": "Datele de acces ar trebui introduse în antet la fiecare solicitare API.",
+    "Mail": "Email",
+    "LBL_PASS": "Parolă",
+    "LBL_TITLE_ADDED": "Adaugă",
+    "LBL_TITLE_EDIT": "Editează",
+    "WebservicePremium": "Servicii web premium",
+    "WebserviceStandard": "Servicii web standard",
+    "Payments": "Plăți",
+    "ManageConsents": "Gestionați consimțământul",
+    "SMS": "SMS"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Sigur doriți sa ștergeți aceasta cheie?"
+  }
+}

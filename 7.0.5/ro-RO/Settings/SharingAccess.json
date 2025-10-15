@@ -1,0 +1,42 @@
+{
+  "php": {
+    "Sharing Rules": "Reguli de partajare",
+    "SharingAccess": "Reguli de partajare",
+    "Accounts": "Conturi și contacte",
+    "LBL_ADD_CUSTOM_RULE": "Adaugă regulă personalizată",
+    "LBL_ADD_CUSTOM_RULE_TO": "Adăugare regulă personalizată la",
+    "LBL_ADVANCED_SHARING_RULES": "Reguli de partajare avansată",
+    "LBL_APPLY_NEW_SHARING_RULES": "Aplică reguli noi de partajare",
+    "LBL_CAN_ACCESSED_BY": "Poate fi accesat de",
+    "LBL_CUSTOM_ACCESS_MESG": "Nu au fost definite reguli de acces personalizate",
+    "LBL_MODULE": "Modul",
+    "LBL_PRIVILEGES": "Privilegii",
+    "LBL_READ": "Citește",
+    "LBL_READ_WRITE": "Citiți și scrie",
+    "LBL_RULE_NO": "Număr regulă",
+    "LBL_SHARING_RULE": "Reguli de partajare",
+    "LBL_WITH_PERMISSIONS": "Cu permisiuni",
+    "Read Only": "Doar citire",
+    "Read Write": "Citire\/Scriere",
+    "SINGLE_Groups": "Grup",
+    "Groups": "Grupuri",
+    "SINGLE_RoleAndSubordinates": "Rol și subordonare",
+    "RoleAndSubordinates": "Roluri și subordonare",
+    "SINGLE_Roles": "Rol",
+    "SINGLE_Users": "Utilizator",
+    "Roles": "Roluri",
+    "Private": "Privat",
+    "Public: Read Only": "Public: Doar citire",
+    "Public: Read, Create\/Edit, Delete": "Public: Citește, Crează\/Modifică, Șterge",
+    "Public: Read, Create\/Edit": "Public: Citește, Crează\/Modifică",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regulamentul de partajare personalizat a fost salvat cu succes",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Regula de partajare personalizată ștearsă cu succes",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Salvarea regulii de acces partajat a eșuat",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Ștergerea regulii de acces partajat a eșuat"
+  },
+  "js": {
+    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "Oportunitățile, Tichete, Ofertele și accesul la Factură trebuie să fie setate la privat atunci când accesul la Cont este setat pe privat",
+    "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Regulile de partajare noi au fost aplicate pe succes",
+    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Selectează orice alt utilizator care accesează"
+  }
+}

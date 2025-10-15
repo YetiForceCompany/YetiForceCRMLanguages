@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Adaugă",
+    "TreesManager": "Manager arbore",
+    "LBL_TREES_MANAGER": "Câmpuri – Dosare",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Manager de șablon arbore",
+    "LBL_NO_RECORDS_FOUND": "Fără șabloane arbore",
+    "LBL_EDIT_TEMPLATE_TREES": "Editare șablon arbore",
+    "LBL_CREATING_TEMPLATE_TREES": "Creează șablon arbore",
+    "LBL_NAME": "Nume de șablon",
+    "LBL_MODULE": "Modul",
+    "LBL_ADD_ITEM_TREE": "Adaugă articol nou",
+    "LBL_ADD_TO_TREES": "Adaugă",
+    "LBL_SAVE": "Salvează",
+    "LBL_SELECT_REPLACE_TREE_ITEM": "Schimbă elementul arborelui în:",
+    "Category": "Categorie",
+    "LBL_MULTICATEGORY": "Lista categoriilor",
+    "Reservations": "Rezervări",
+    "LBL_SHARE_WITH": "Partajează cu"
+  },
+  "js": {
+    "JS_TREE_DELETED_SUCCESSFULLY": "Șablon arbore șters cu succes",
+    "JS_JSTREE_CREATE": "Adaugă",
+    "JS_JSTREE_RENAME": "Schimbă nume",
+    "JS_JSTREE_REMOVE": "Ștergere",
+    "JS_JSTREE_CCP": "Editează",
+    "JS_JSTREE_CUT": "Decupează",
+    "JS_JSTREE_COPY": "Copiază",
+    "JS_JSTREE_PASTE": "Lipește",
+    "JS_JSTREE_CHANGE_ICON": "Schimbă pictograma",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Câmpul nu poate fi gol",
+    "JS_NO_ITEM_SELECTED": "Nu a fost selectat niciun articol",
+    "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "Nu se pot șterge toate articolele",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Nu poți șterge articolul părinte",
+    "JS_NEW_ITEM": "Nod nou",
+    "JS_ONLY_ONE_ITEM_SELECTED": "Poate fi selectat doar un singur articol."
+  }
+}

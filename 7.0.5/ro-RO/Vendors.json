@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "la",
+    "LBL_EXPORT_TO_PDF": "Exporta în PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Informații Adresa",
+    "LBL_VENDORS_ADD_TASK": "Adaugă Sarcina",
+    "LBL_VENDORS_ADD_EVENT": "Adaugă Eveniment",
+    "300-Sales-Software": "300-Vânzări-Software",
+    "301-Sales-Hardware": "301-Vânzări-Hardware",
+    "302-Rental-Income": "302-Închiriere-Venit",
+    "303-Interest-Income": "303-Interes-Venit",
+    "304-Sales-Software-Support": "304-Vânzări-Software-Suport",
+    "305-Sales Other": "305-Alte vânzări",
+    "306-Internet Sales": "306-Vânzări internet",
+    "307-Service-Hardware Labor": "307-Service-Lucrări Hardware",
+    "308-Sales-Books": "308-Vânzări-Cărți",
+    "Email": "Email principal",
+    "GL Account": "Cont GL",
+    "LBL_VENDOR_INFORMATION": "Detalii furnizor",
+    "Phone": "Telefon principal",
+    "SINGLE_Vendors": "Furnizor",
+    "Vendor Name": "Denumire furnizor",
+    "Vendor No": "Număr vânzător",
+    "Vendors": "Furnizori",
+    "Website": "Website",
+    "LBL_BUILDING_NUMBER": "Număr clădire",
+    "LBL_LOCAL_NUMBER": "Număr birou"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Ștergerea acestui furnizor va elimina comenzile de cumpărare aferente. Sigur doriți să ștergeți acest furnizor?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Ștergerea acestui furnizor (i) va elimina comenzile de achiziție aferente. Sigur doriți sa ștergeți înregistrările selectate?"
+  }
+}

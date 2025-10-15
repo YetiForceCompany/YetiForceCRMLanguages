@@ -1,0 +1,41 @@
+{
+  "php": {
+    "ConfigEditor": "配置编辑器",
+    "LBL_DEFAULT_MODULE": "默认模块",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "“列表视图”中最大文本长度",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "“列表视图”中每页最大条目数",
+    "LBL_DEFAULT_LAYOUT": "布局",
+    "LBL_SHOWING_BREADCRUMBS": "显示面包屑菜单",
+    "LBL_TITLE_MAX_LENGTH": "标题的最大字符长度",
+    "LBL_MINIMUM_CRON_FREQUENCY": "定时任务最小频率 [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "批量编辑的最大记录数",
+    "LBL_BG_CLOSING_MODAL": "通过单击背景启用模式窗口关闭功能",
+    "LBL_HREF_MAX_LEGTH": "href 标签最大长度",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "在登录页面显示语言选择",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "在登录页面显示布局选择",
+    "LBL_CONFIG_EDITOR": "系统 - 配置",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "更新应用程序的配置文件",
+    "LBL_MAX_UPLOAD_SIZE": "最大上传大小",
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "关系",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "相关记录上可见评论的最大长度",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "这些字段在某些关系中有效，例如在“账户”模块的“产品与服务”选项卡中",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "在选项卡中显示相关模块名称",
+    "LBL_RELATION_SHOW_RELATED_ICON": "在选项卡中显示相关模块图标",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "在相关模块的选项卡中显示记录计数",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "用于单独修改附加数据的操作按钮",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "此按钮定义了仅属于关系、有效的特殊数据类型（例如，在“事件”模块中）",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "最大导出记录数",
+    "LBL_PERFORMANCE": "性能",
+    "LBL_BRAND_DATA_NAME": "Footer's name",
+    "LBL_TWITTER": "Twitter URL",
+    "LBL_FACEBOOK": "Facebook URL",
+    "LBL_LINKEDIN": "LinkedIn URL",
+    "LBL_BRAND_DATA": "Brand data",
+    "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "已保存的配置详情",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "请输入范围在 1 - 100 的值"
+  }
+}

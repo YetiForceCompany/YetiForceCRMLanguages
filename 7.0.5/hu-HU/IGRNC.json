@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGRNC": "Áru bevételi bizonylat korrekció",
+    "SINGLE_IGRNC": "Áru bevételi bizonylat korrekció",
+    "LBL_DESCRIPTION_BLOCK": "Leírás",
+    "LBL_ATTENTION_BLOCK": "Hozzászólások",
+    "FL_ACCEPTANCE_DATE": "Elfogadás dátuma",
+    "FL_VENDOR": "Beszállító",
+    "FL_SUBJECT": "Tárgy",
+    "FL_NUMBER": "Sorszám",
+    "FL_STORAGE": "Raktár",
+    "FL_STATUS": "Státusz",
+    "FL_IGRN": "Áru bevételi dokumentum",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_IN_REALIZATION": "Megvalósulás alatt",
+    "PLL_OBJECTIONS": "Célok",
+    "PLL_FOR_APPROVAL": "Jóváhagyásra",
+    "PLL_CANCELLED": "Megszakítva",
+    "PLL_ACCEPTED": "Elfogadott",
+    "LBL_CHANGE_STATUS": "Állapot módosítása"
+  }
+}

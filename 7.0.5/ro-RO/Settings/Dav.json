@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_DAV_KEYS": "Aplicații DAV",
+    "LBL_DAV_KEYS_DESCRIPTION": "Creează și gestionează cheile DAV",
+    "LBL_KEY": "Cheie",
+    "LBL_TOOLS": "Unelte",
+    "LBL_DELETE_KEY": "Ștergere cheie",
+    "LBL_ADD_KEY": "Adaugă cheie",
+    "LBL_DISPLAY_NAME": "Utilizator",
+    "LBL_EMAIL": "Email",
+    "LBL_LOGIN": "Logare",
+    "LBL_SELECT_USER": "Selectați utilizator:",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Aplicația DAV nu este activă.",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "Aplicația DAV nu a fost activată încă, activează-l în config/api.php",
+    "LBL_SUCCESS_SAVE_KEY": "Noua cheie a fost adăugată cu succes",
+    "LBL_ERROR_SAVE_KEY": "Eroare salvare cheie",
+    "LBL_SUCCESS_SAVE_CHANGES": "Modificări salvate",
+    "LBL_ACTIVE_USER": "Status utilizator",
+    "LBL_KEY_HAS_BEEN_REMOVED": "Cheia a fost ștearsă",
+    "LBL_SELECT_TYPE": "Tip",
+    "LBL_COUNT_CARD": "Numărul de contacte",
+    "LBL_COUNT_CAL": "Numărul de evenimente",
+    "Dav": "Chei DAV",
+    "LBL_VIEW_KEYS": "Chei DAV",
+    "LBL_DUPLICATE_USER_SERVICES": "Cheia acestei aplicații există deja.",
+    "LBL_ALERT_DAV_CONFIG_TITLE": "Informații despre configurare",
+    "LBL_ALERT_DAV_CONFIG_DESC": "Exemple de configurare a conexiunii serverului DAV pentru diverse aplicații și sisteme:"
+  },
+  "js": {
+    "Adding a Key": "Adaugă cheia"
+  }
+}

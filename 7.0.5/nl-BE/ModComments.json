@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Opmerking",
+    "LBL_RECORDS_LIST": "Comments List",
+    "LBL_MODCOMMENTS_INFORMATION": "Opmerkingen",
+    "LBL_OTHER_INFORMATION": "Other Information",
+    "LBL_ADDING_COMMENT": "Opmerking toevoegen",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Reacties hier invoeren",
+    "Comment": "Opmerking",
+    "Creator": "Maker",
+    "Related To Comments": "Related To",
+    "ReasonToEdit": "Reason To Edit",
+    "UserId": "Gebruikers-id",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Opmerking toegevoegd aan het ticket",
+    "LBL_NEW_COMMENT_FOR_TICKET": "A comment was added to the ticket, the content of the comment can be found below",
+    "LBL_NOTICE_WELCOME": "Welkom bij platform",
+    "LBL_NOTICE_CREATED": "Het is gemaakt door",
+    "LBL_COMMENTS_0": "Huidige record",
+    "LBL_COMMENTS_SEARCH": "Zoeken",
+    "LBL_ALL_RECORDS": "Gerelateerde records"
+  }
+}

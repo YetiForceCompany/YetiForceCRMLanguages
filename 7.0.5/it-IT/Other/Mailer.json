@@ -1,0 +1,11 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Importazione pianificata completata",
+    "LBL_CRON_COMPLETED_IMPORT": "Sommario record importati per il modulo",
+    "LBL_DEFAULT_IN_BROWSER": "Base (predefinita nel browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE di Whirly",
+    "LBL_INTERNAL_CLIENT": "Client interno (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Nessun profilo email attivo.",
+    "ERR_NO_SMTP_CONFIGURATION": "Nessuna configurazione."
+  }
+}

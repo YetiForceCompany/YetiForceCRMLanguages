@@ -1,0 +1,42 @@
+{
+  "php": {
+    "Sharing Rules": "Regole di condivisione",
+    "SharingAccess": "Regole di condivisione",
+    "Accounts": "Aziende e contatti",
+    "LBL_ADD_CUSTOM_RULE": "Aggiungi regola di condivisione",
+    "LBL_ADD_CUSTOM_RULE_TO": "Aggiungi regola di condivisione a",
+    "LBL_ADVANCED_SHARING_RULES": "Regole di condivisione",
+    "LBL_APPLY_NEW_SHARING_RULES": "Applica nuove regole di condivisione",
+    "LBL_CAN_ACCESSED_BY": "Possono essere accedute da",
+    "LBL_CUSTOM_ACCESS_MESG": "Nessuna regola definita",
+    "LBL_MODULE": "Modulo",
+    "LBL_PRIVILEGES": "Con permessi di",
+    "LBL_READ": "Lettura",
+    "LBL_READ_WRITE": "Lettura e scrittura",
+    "LBL_RULE_NO": "Numero",
+    "LBL_SHARING_RULE": "Regole",
+    "LBL_WITH_PERMISSIONS": "Con permessi di",
+    "Read Only": "Sola lettura",
+    "Read Write": "Lettura \/ scrittura",
+    "SINGLE_Groups": "Gruppo",
+    "Groups": "Gruppi",
+    "SINGLE_RoleAndSubordinates": "Ruolo e subordinati",
+    "RoleAndSubordinates": "Ruoli e subordinati",
+    "SINGLE_Roles": "Ruolo",
+    "SINGLE_Users": "Utente",
+    "Roles": "Ruoli",
+    "Private": "Privato",
+    "Public: Read Only": "Pubblico: sola lettura",
+    "Public: Read, Create\/Edit, Delete": "Pubblico: lettura, creazione \/ modifica, eliminazione",
+    "Public: Read, Create\/Edit": "Pubblico: lettura, creazione \/ modifica",
+    "LBL_CUSTOM_RULE_SAVED_SUCCESSFULLY": "Regola di condivisione salvata con successo",
+    "LBL_CUSTOM_RULE_DELETED_SUCCESSFULLY": "Regola di condivisione personalizzata cancellata correttamente",
+    "LBL_CUSTOM_RULE_SAVED_FAILED": "Salvataggio regola di accesso di condivisione fallito",
+    "LBL_CUSTOM_RULE_DELETING_FAILED": "Impossibile eliminare regola di accesso condivisione"
+  },
+  "js": {
+    "JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE": "L'accesso a opportunità, ticket, preventivi e fatture deve essere impostato a privato se l'accesso all'azienda relazionata è impostato a privato",
+    "JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY": "Nuove regole di condivisione applicate con successo",
+    "JS_SELECT_ANY_OTHER_ACCESSING_USER": "Seleziona qualsiasi altro utente per l'accesso"
+  }
+}

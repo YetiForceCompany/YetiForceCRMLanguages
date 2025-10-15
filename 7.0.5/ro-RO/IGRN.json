@@ -1,0 +1,21 @@
+{
+  "php": {
+    "IGRN": "Notă marfă recepționată",
+    "SINGLE_IGRN": "Notă marfă recepționată",
+    "LBL_DESCRIPTION_BLOCK": "Descriere",
+    "LBL_ATTENTION_BLOCK": "Comentarii",
+    "FL_ACCEPTANCE_DATE": "Data acceptării",
+    "FL_VENDOR": "Furnizor",
+    "FL_SUBJECT": "Subiect",
+    "FL_NUMBER": "Număr",
+    "FL_STORAGE": "Depozit",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Schiţă",
+    "PLL_IN_REALIZATION": "În realizare",
+    "PLL_OBJECTIONS": "Obiecții",
+    "PLL_FOR_APPROVAL": "Pentru aprobare",
+    "PLL_CANCELLED": "Anulat",
+    "PLL_ACCEPTED": "Acceptat",
+    "LBL_CHANGE_STATUS": "Schimbă status"
+  }
+}

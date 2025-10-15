@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_OWNER_ALLOCATION": "Phân công người phụ trách",
+    "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_MULTIOWNER_ALLOCATION": "Phân công người cộng tác",
+    "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_SORTING_SETTINGS_WORNING": "Cảnh báo!\n Cấu hình sẽ chỉ làm việc khi bạn bật nó trong vùng Vai trò",
+    "LBL_ADD_PANEL_TO_MODULE": "Thêm phân bổ vào mô-đun",
+    "LBL_SELECT_MODULE": "Chọn mô-đun",
+    "LBL_GO_TO_PANEL": "đi đến bảng điều khiển",
+    "LBL_USERS_AND_GROUPS": "Người dùng và nhóm"
+  },
+  "js": {
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Bạn có chắc chắn muốn loại bỏ tất cả các phân bổ trong mô-đun này?"
+  }
+}

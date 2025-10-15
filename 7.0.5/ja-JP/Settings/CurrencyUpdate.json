@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "通貨の更新",
+    "LBL_CURRENCY_UPDATE": "通貨の更新",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "システムに組み込まれた通貨換算レートを設定するためのオプション。",
+    "LBL_SELECT_BANK": "銀行を選択",
+    "MSG_ONE_CURRENCY": "メイン通貨設定は1つだけです。 他の通貨の通貨レートを取得するには、CRM設定で通貨を追加してください。",
+    "MSG_NO_NET_CONN": "インターネット接続がありません。通貨情報はダウンロードされませんでした。",
+    "LBL_HISTORY": "為替レートの履歴",
+    "LBL_BANK": "為替レートに関する情報を取得する銀行を選択してください",
+    "LBL_CAL_DATE": "コースの日付",
+    "LBL_MAINCURRENCY": "主な通貨",
+    "LBL_CODE": "コード",
+    "LBL_SYMBOL": "記号",
+    "LBL_CURRENCY_NAME": "通貨名",
+    "LBL_CURRENCY_SYMBOL": "通貨記号",
+    "LBL_COURSE": "為替レート",
+    "LBL_DATE": "ダウンロードコースの日付",
+    "LBL_ACTUAL_DATE_OF_COURSE": "コース日付",
+    "LBL_SHOW": "表示",
+    "LBL_CURRENCIES_SUPPORTED": "この銀行がサポートする通貨のリスト",
+    "LBL_CURRENCIES_UNSUPPORTED": "この銀行でサポートされていない通貨のリスト",
+    "LBL_SET_BANK_OK": "アクティブな銀行を保存しました。",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
+    "LBL_SET_BANK_ERROR": "アクティブな銀行の設定に失敗しました。",
+    "LBL_INFORMATIONS": "情報",
+    "LBL_WARNING": "警告!",
+    "NBP": "ポーランド国立銀行",
+    "ECB": "欧州中央銀行",
+    "CBR": "ロシア中央銀行"
+  }
+}

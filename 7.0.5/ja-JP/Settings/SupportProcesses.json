@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "サポート",
+    "LBL_GENERAL_CONFIGURATION": "一般的な構成",
+    "LBL_OTHER": "その他",
+    "LBL_INFO": "情報",
+    "LBL_TYPE": "タイプ",
+    "LBL_TICKET_STATUS_INFO": "チケットがクローズされると判断される状態",
+    "LBL_SAVE_CONFIG_OK": "変更が保存されました",
+    "LBL_SAVE_CONFIG_ERROR": "変更が保存されました。",
+    "SupportProcesses": "サポートプロセス"
+  },
+  "js": {}
+}

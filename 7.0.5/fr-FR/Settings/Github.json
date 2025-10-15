@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_TOKEN": "Jeton",
+    "LBL_NOT_AUTHORIZED": "Autorisation requise pour accéder à l'ensemble des fonctionnalités.",
+    "LBL_TITLE": "Titre",
+    "LBL_AUTHOR": "Auteur",
+    "LBL_ADD_ISSUES": "Ajouter",
+    "LBL_TITLE_ADD_ISSUE": "Ajouter",
+    "LBL_CLOSED": "Fermé",
+    "LBL_OPEN": "Ouverte",
+    "closed": "Fermer",
+    "open": "Ouvert",
+    "LBL_ME": "Seulement pour moi",
+    "LBL_ERROR_CONNECTED": "Une erreur s'est produite lors de la connexion à www.api.github.com, vérifiez votre connection Internet et vos paramètres firewall",
+    "LBL_CONFIRM_REGULATIONS": "J'ai lu les règles d'ajout de nouveaux problèmes : %s",
+    "LBL_DEFAULT_DESCRIPTION": "Généré par YetiforceCRM ver. ",
+    "LBL_CHANGE_AUTHORIZATION": "Modifier autorisation",
+    "LBL_USERNAME_DESCRIPTION": "Votre nom utilisateur www.github.com",
+    "LBL_TOKEN_DESCRIPTION": "Code d'accès au compte unique de 40 caractères. Le manuel de création de jetons peut être trouvé %s",
+    "LBL_NO_ISSUES": "Pas de questions rapportées",
+    "LBL_PHP_VERSION": "PHP"
+  }
+}

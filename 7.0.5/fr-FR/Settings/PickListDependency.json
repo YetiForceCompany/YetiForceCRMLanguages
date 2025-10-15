@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Valeurs sélectionnées",
+    "LBL_ADD_RECORD": "Ajouter un enregistrement",
+    "PickListDependency": "PickList Dépendance",
+    "LBL_PICKLIST_DEPENDENCY": "PickList Dépendance",
+    "LBL_SELECT_FIELD": "Sélectionnez le champ",
+    "LBL_SELECT_MODULE": "Module",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Sélectionner les valeurs de liste de sélection de source",
+    "LBL_SOURCE_FIELD": "Champ Source",
+    "LBL_MODULE": "Module"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Êtes-vous sûr de vouloir supprimer cette dépendance de liste de sélection?"
+  }
+}

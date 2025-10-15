@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Access to record": "Pristup zapisima",
+    "GlobalPermission": "Poseban pristup",
+    "LBL_Module_desc": "Ovdje možete definirati koji profili imaju pristup svim zapisima bez obzira na uloge.",
+    "LBL_PROFILE_NAME": "Naziv profila",
+    "LBL_DESCRIPTION": "Opis profila",
+    "LBL_VIEW_ALL_DESC": "Ako označite ovu opciju, svi moduli će imati označenu opciju: Pregledavanje",
+    "LBL_VIEW_ALL": "Omogući pregled svih zapisa",
+    "LBL_EDIT_ALL_DESC": "Ako označite ovu opciju, svi moduli će imati označenu opciju: Kreiraj \/ Uredi.",
+    "LBL_EDIT_ALL": "Omogući uređivanje svih zapisa",
+    "LBL_SAVE_OK": "Promjena spremljena"
+  }
+}

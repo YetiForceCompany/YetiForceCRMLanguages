@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Istorija poziva",
+    "SINGLE_CallHistory": "Istorija poziva",
+    "LBL_CALLHISTORY_INFORMATION": "Informacija istorije poziva",
+    "LBL_CUSTOM_INFORMATION": "Dodatne informacije",
+    "LBL_PHONE_INFORMATION": "Informacije o telefonu",
+    "LBL_RELATED_INFORMATION": "Povezane informacije",
+    "LBL_TYPE": "Tip",
+    "LBL_FROM_NUMBER": "OD broja",
+    "LBL_TO_NUMBER": "DO broja",
+    "LBL_LOCATION": "Lokacija",
+    "LBL_PHONE_CALL_ID": "ID poziva na telefonu",
+    "LBL_DURATION": "Trajanje poziva",
+    "LBL_STATUS": "Status",
+    "LBL_START_TIME": "Poziv je počeo",
+    "LBL_END_TIME": "Poziv je završen",
+    "LBL_COUNTRY_CODE": "Pozivni broj države",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "IP Adresa",
+    "LBL_SIMSERIAL": "SIM broj",
+    "LBL_SUBSCRIBERID": "Broj pretplatnika",
+    "LBL_DESTINATION": "Gdje je zvao",
+    "LBL_SOURCE": "Izvor poziva",
+    "Record Id": "ID zapisa",
+    "Outgoing missed": "Odlaznio propušten",
+    "Outgoing received": "Odlazni primljen",
+    "Incoming": "Dolazni primljen",
+    "Missed": "Dolazna propušten",
+    "Voicemail": "Dolazna govorna pošta"
+  }
+}

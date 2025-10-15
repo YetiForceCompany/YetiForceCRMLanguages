@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Au fost detectate erori în momentul actualizării modulului",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Au apărut unele erori în momentul actualizării",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Vă recomandăm să verificați jurnalele și să actualizați din nou sistemul.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Actualizare șabloane de e-mail",
+    "LBL_UPDATE_PDF_TEMPLATES": "Actualizează șabloanele pdf"
+  }
+}

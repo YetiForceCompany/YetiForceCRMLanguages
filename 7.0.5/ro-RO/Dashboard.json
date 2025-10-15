@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Pagina de start",
+    "LBL_ADD_FILTER": "Adaugă widget din filtru",
+    "LBL_ADD_FILTER_DESC": "Sunt disponibile doar filtrele cu opțiunea \"afișează în metrici\" activată.",
+    "LBL_ADD_CHART_FILTER": "Adaugă grafic din filtru",
+    "LBL_ADD_CHART_FILTER_DESC": "Sunt disponibile doar filtrele cu opțiunea \"afișează în metrici\" activată.",
+    "LBL_CLEAR_DEVICE_CONF": "Șterge configurarea widget-urilor pentru acest dispozitiv",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Butonul şterge/restabileşte configurația numai pentru dispozitivul pe care îl utilizați în prezent și numai pentru fila curentă.",
+    "LBL_PREDEFINED_WIDGETS": "Widget-uri predefinite",
+    "LBL_EMPTY_DASHBOARD": "Panoul de control selectat este gol.",
+    "LBL_WORKING_TIME_COUNTER": "Contor timp de lucru"
+  }
+}

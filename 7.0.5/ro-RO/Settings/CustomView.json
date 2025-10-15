@@ -1,0 +1,37 @@
+{
+  "php": {
+    "CustomView": "Filtre - Configurare",
+    "LBL_CUSTOMVIEW_DESCRIPTION": "Acest instrument permite setarea de vizualizări personalizate pentru module. Aceste module trebuie să conțină înregistrări și să folosească filtrele standard in YetiForce CRM.",
+    "ViewName": "Denumire vizualizare",
+    "SetDefault": "Implicit",
+    "LBL_PRIVILEGES_TO_EDIT": "Modifică",
+    "LBL_PRIVILEGES_TO_VIEW": "Disponibilitatea",
+    "Delete": "Șterge",
+    "Delete CustomView": "Vizualizarea personalizată a fost ștearsă",
+    "Saving CustomView": "Vizualizare salvată",
+    "Actions": "Acțiuni",
+    "Edit": "Editează",
+    "LBL_FEATURED_LABELS": "La favorite",
+    "LBL_CREATED_BY": "Creat de",
+    "LBL_ADD_FILTER": "Adaugă filtru",
+    "LBL_ALL_GROUP_LIST": "Opțiuni disponibile",
+    "LBL_GROUP_MEMBERS": "Inclusă în acțiune",
+    "LBL_ADD_PERMISSIONS": "Adaugă permisiuni",
+    "LBL_RECEIVE_PERMISSION": "Primește permisiuni",
+    "LBL_SAVE_SEQUENCES": "Secvențe salvate cu succes",
+    "LBL_SORTING": "Sortare",
+    "LBL_SORTING_SETTINGS": "Sortare setări",
+    "LBL_SORTING_SETTINGS_WORNING": "Sortarea înregistrărilor ar putea crește semnificativ timpul de încărcare a paginii.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Selectați un câmp pentru a sorta înregistrările",
+    "LBL_SORT_ASCENDING_ORDER": "Sortare ascendentă",
+    "LBL_SORT_DESCENDING_ORDER": "Sortare descendent",
+    "LBL_ATTENTION": "Avertizare!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Numai filtrele private pot fi acordate permisiuni parțiale",
+    "LBL_PUBLIC": "Public",
+    "LBL_PRIVATE": "Privată"
+  },
+  "js": {
+    "Saving changes": "Se salvează modificările...",
+    "Update labels": "Actualizează"
+  }
+}

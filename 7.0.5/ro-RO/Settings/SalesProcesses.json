@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "Vânzări",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limitați alegerea produselor\/serviciilor doar la cele legate de Oportunitatea selectată în prezent. Se aplică la modulele: Cereri de ofertă, Cerințe de vânzări, Calcule, Oferte, Comenzi de cumpărare, Comenzi de vânzări recurente.",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "Lista de selecție Produse și Servicii",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "Actualizarea permisiunilor de partajare a actualizărilor de la produs\/serviciu în oportunitate atunci când se creează o relație între oportunitate și produs\/serviciu.",
+    "LBL_STATUSES_CLOSED_CALCULATION": "Statusuri care determină încheierea calculelor",
+    "LBL_POTENTIALS": "Oportunități",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "Statusul precizează că oportunitatea este închisă",
+    "LBL_ASSETS": "Produse vândute",
+    "LBL_STATUSES_CLOSED_ASSETS": "Statusuri care determină închiderea de produse vândute",
+    "LBL_CREATE_POTENTIALS": "Este blocată crearea de oportunități pentru conturi în care -Atribuit către- nu este un utilizator",
+    "SalesProcesses": "Procese de vânzări",
+    "LBL_SQUOTEENQUIRIES": "Oferte de vânzări",
+    "LBL_SREQUIREMENTSCARD": "Cerințe de vânzări",
+    "LBL_SCALCULATIONS": "Calcule",
+    "LBL_SQUOTES": "Cotații",
+    "LBL_SSALESORDER": "Comenzi vânzare",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "Statusuri care determina închiderea unei comenzi de vânzări",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Statusuri care definesc închiderea unei anchete privind cotația",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Statusuri care definesc închiderea cerințelor de vânzare",
+    "LBL_STATUSES_CLOSED_SQUOTES": "Statusuri care definesc închiderea unei oferte"
+  }
+}

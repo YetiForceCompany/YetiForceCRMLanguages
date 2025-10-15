@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "Exceptions",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Notifikácie - konfigurácia",
+    "LBL_ADD_MEMBERS": "Pridať členov do notifikácii",
+    "LBL_SELECT_MEMBERS": "Vybrať členov pre notifikácie",
+    "LBL_MEMBERS": "Members",
+    "LBL_LOCK": "Zamknúť",
+    "LBL_NOTICE_CONFIG_WARNING": "Watching modules is enabled in configuration. Disable it to manage notifications."
+  },
+  "js": {}
+}

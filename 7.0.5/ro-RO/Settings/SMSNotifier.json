@@ -1,0 +1,31 @@
+{
+  "php": {
+    "FL_NAME": "Nume",
+    "FL_PROVIDER": "Furnizor",
+    "FL_STATUS": "Status",
+    "FL_SMSAPI_FROM": "Nume expeditor",
+    "FL_API_KEY": "Cheie Api",
+    "LBL_ADD_RECORD": "Configurație nouă",
+    "LBL_SMSNOTIFIER": "Configurație furnizor SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Configurație nouă",
+    "LBL_EDIT_CONFIGURATION": "Salvează configurația",
+    "BTN_SAVE": "Salvează",
+    "BTN_CLOSE": "Anulează",
+    "LBL_SMSPROVIDER_CREATE": "Adăugare furnizor",
+    "LBL_SMSPROVIDER_EDIT": "Editează furnizor",
+    "LBL_CALLBACK_ADDRESSES": "Adrese de apel",
+    "LBL_CALLBACK_ADDRESSES_DESC": "Pentru a genera adresele de callback pentru comunicarea SMS, este necesar să se creeze mai întâi o conexiune web service pentru SMS.\nUrmătoarele URL-uri trebuie introduse în secțiunea de callback direct la furnizorul de servicii.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Rapoarte (SMS, MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Recepție (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL-ul pentru rapoartele de livrare. Se introduc direct la furnizor.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL-ul pentru recepții. Se introduce direct la furnizor.",
+    "FL_DEFAULT": "Prestabilit",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Furnizorul selectat este inactiv. Activați-l sau modificați furnizorul."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Sigur doriți să ștergeți această configurație?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configurație ștearsă cu succes",
+    "JS_SAVE_SUCCESS": "Salvat"
+  }
+}

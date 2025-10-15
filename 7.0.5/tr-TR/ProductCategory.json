@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Ürün Kategorisi",
+    "SINGLE_ProductCategory": "Ürün Kategorisi",
+    "LBL_CUSTOM_INFORMATION": "Özel Bilgiler",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "FL_PARENT_CATEGORY": "Kaynak kategori",
+    "LBL_CHILD_PRODUCTCATEGORY": "Alt kategoriler",
+    "FL_ACTIVE": "Aktif",
+    "FL_CATEGORY_NAME": "Kategori ismi"
+  }
+}

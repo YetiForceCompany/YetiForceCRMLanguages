@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Suport",
+    "LBL_GENERAL_CONFIGURATION": "Configurație generală",
+    "LBL_OTHER": "Altul",
+    "LBL_INFO": "Informații",
+    "LBL_TYPE": "Tip",
+    "LBL_TICKET_STATUS_INFO": "Starea determina ca tichetul este închis",
+    "LBL_SAVE_CONFIG_OK": "Modificările au fost salvate",
+    "LBL_SAVE_CONFIG_ERROR": "Modificările au fost salvate.",
+    "SupportProcesses": "Procese de asistență / suport"
+  },
+  "js": {}
+}

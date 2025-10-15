@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "العطلة السنوية استحقاق",
+    "SINGLE_HolidaysEntitlement": "العطلة السنوية استحقاق",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "المعلومات المخصصة",
+    "LBL_CUSTOM_INFORMATION": "نظام المعلومات",
+    "LBL_YEAR": "سنة",
+    "LBL_DAYS": "عدد أيام العطل",
+    "LBL_EMPLOYEE": "الموظف",
+    "LBL_NUMBER": "عدد"
+  }
+}

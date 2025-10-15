@@ -1,0 +1,41 @@
+{
+	"php": {
+		"Map": "Mapa",
+		"LBL_MAP": "Mapa",
+		"LBL_MAP_DESCRIPTION": "",
+		"LBL_TILE_LAYER": "Nivel de sección",
+		"LBL_TILE_LAYER_INFO": "Selecciona el servidor desde el que deseas descargar niveles de sección para mapas en el sistema. Cada servidor ofrece un aspecto diferente del mapa, también puedes agregar tu propio servidor público o prestar atención a los límites y restricciones de licencia.",
+		"LBL_PROVIDER_NAME": "Nombre del proveedor",
+		"LBL_API_URL": "URL de la API del proveedor",
+		"LBL_DRIVER": "Driver",
+		"LBL_COORDINATES": "Coordinates",
+		"LBL_COORDINATES_INFO": "Seleccione el servidor que se utilizará para descargar coordenadas geográficas, el Cron actualizará las coordenadas para los campos de dirección. Preste atención a los límites del proveedor, el sistema enviará frecuentemente solicitudes a los servidores. Tenga en cuenta el hecho de que los servidores gratuitos tienen grandes límites y comparte sus datos con ellos, siempre elija servidores de confianza.",
+		"LBL_PROVIDER_ACTIVE": "Activo",
+		"LBL_ROUTING": "Enrutamiento",
+		"LBL_ROUTING_INFO": "Seleccione el servidor que se utilizará para mapear rutas para vehículos, el sistema proporcionará coordenadas de puntos para los cuales desea mapear la ruta.",
+		"LBL_PROVIDER_ACTIONS": "Actions",
+		"LBL_PROVIDER_CONFIG": "Configure provider",
+		"LBL_PROVIDER_WEBPAGE": "WWW",
+		"LBL_API_KEY": "API key",
+		"LBL_TRAVEL_MODE": "Travel mode",
+		"LBL_ROUTING_PREFERENCE": "Routing preference",
+		"LBL_PROFILE": "Profile",
+		"LBL_DOCUMENTATION": "Documentation",
+		"LBL_COORDINATES_GOOGLE_GEOCODING": "Google Geocoding API",
+		"LBL_COORDINATES_GRAPH_HOPPER": "GraphHopper",
+		"LBL_COORDINATES_NOMINATIM": "Nominatim",
+		"LBL_COORDINATES_OPEN_CAGE": "OpenCage Geocoding",
+		"LBL_ROUTING_GOOGLE_ROUTES": "Google Routes API",
+		"LBL_ROUTING_GRAPH_HOPPER": "GraphHopper",
+		"LBL_ROUTING_OSRM": "OSRM - Open Source Routing Machine",
+		"LBL_ROUTING_YOURS": "Yours",
+		"LBL_TILE_LAYER_ESRI_WORLDIMAGERY": "Esri WorldImagery",
+		"LBL_TILE_LAYER_ESRI_WORLDTOPOMAP": "Esri WorldTopoMap",
+		"LBL_TILE_LAYER_GOOGLE_MAPS": "Google Maps",
+		"LBL_TILE_LAYER_OSM_DEFAULT": "OpenStreetMap Default",
+		"LBL_TILE_LAYER_OSM_HOT": "OpenStreetMap HOT"
+	},
+	"js": {
+		"JS_ERROR_VALIDATION": "Incorrect Api Key. Allowed chars: a-z A-Z 0-9 , . _ = + - and spaces"
+	}
+}

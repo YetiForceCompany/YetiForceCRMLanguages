@@ -1,0 +1,38 @@
+{
+  "php": {
+    "FCorectingInvoice": "Facturi ștorno",
+    "SINGLE_FCorectingInvoice": "Facturi ștorno",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_INVOICE_ADDRESS": "Adresă facturare",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresă de livrare",
+    "FL_SUBJECT": "Subiect",
+    "FL_PAYMENT_DATE": "Data scadenței",
+    "FL_SALE_DATE": "Data emiterii",
+    "FL_BANK_ACCOUNT": "Cont IBAN",
+    "FL_NUMBER": "Număr factură",
+    "FL_ACCOUNT": "Organizație",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Brut",
+    "FL_STATUS": "Statut",
+    "PLL_WIRE_TRANSFER": "Transfer electronic",
+    "LBL_YEAR": "An",
+    "FL_INVOICE": "Factură",
+    "LBL_COMMENTS": "Comentarii",
+    "FL_EXTERNAL_COMMENT": "Comentariu extern",
+    "FL_INTERNAL_COMMENT": "Comentariu intern",
+    "LBL_BEFORE_CORRECTION": "Înainte de corecție",
+    "LBL_AFTER_CORRECTION": "După corecție",
+    "LBL_CORRECTION_SUMMARY": "Rezumat corecție",
+    "LBL_CHOOSE_INVOICE": "Selectați factura pentru a fi corectată",
+    "LBL_COPY_FROM_INVOICE": "Copiază factura inițială",
+    "LBL_INVOICE_INFO": "Câmpuri inițiale de facturare - înainte de corecții.",
+    "LBL_AFTER_INVOICE_INFO": "Cum trebuie să arate factura finală după corectare.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Câmpurile pentru factură care trebuie corectate. Copiați toate câmpurile de pe factura inițială și modificați valorile după cum este nevoie.",
+    "FL_ISSUE_TIME": "Data facturii de ștorno",
+    "LBL_COMARCH_BLOCK": "Informații de integrare la Comarch",
+    "FL_COMARCH_NUMBER": "Număr din Comarch"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Selectează factura pentru a fi corectată"
+  }
+}

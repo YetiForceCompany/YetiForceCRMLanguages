@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS_DESC": "Panou pentru vizualizarea incidentelor de siguranță",
+    "LBL_ACCESS_FOR_ADMIN": "Acces pentru administrator",
+    "LBL_ACCESS_FOR_API": "Acces pentru API",
+    "LBL_ACCESS_FOR_USER": "Acces pentru utilizator",
+    "LBL_ACCESS_TO_RECORD": "Acces la înregistrare",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Utilizator",
+    "LBL_DATE": "Dată",
+    "LBL_IP": "IP-ul",
+    "LBL_RECORD": "ID-ul înregistrării",
+    "LBL_MODULE": "Modul",
+    "LBL_URL": "URL-ul",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Solicitare",
+    "LBL_TIME": "Timp",
+    "LBL_CATEGORY": "Categorie",
+    "LBL_CODE": "Cod",
+    "LBL_BASE_USER": "Utilizator de bază",
+    "LBL_DEST_USER": "Utilizator țintă",
+    "LBL_MAILS_NOT_SENT": "E-mailurile nu au fost trimise",
+    "LBL_BATCH_NAME": "Denumire metodă",
+    "LBL_PARAMS": "Parametri",
+    "LBL_PROFILING": "Analiza performanței",
+    "LBL_DURATION": "Durată",
+    "LBL_LOGS_VIEWER": "Vizualizare jurnal",
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referent"
+  }
+}

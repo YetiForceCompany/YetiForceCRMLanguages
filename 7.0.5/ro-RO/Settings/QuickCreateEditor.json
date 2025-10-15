@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Editor creare rapidă",
+    "LBL_QUICK_CREATE_EDITOR": "Câmpuri – Creare rapidă",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Modul care permite schimbarea aspectului câmpurilor din fereastra Creare rapidă",
+    "LBL_SEQUENCE": "Secvență câmp",
+    "LBL_SAVE_FIELD_SEQUENCE": "Salvează secvență câmp"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Secvență câmp actualizată"
+  }
+}

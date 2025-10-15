@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_TOKEN": "Token-ul",
+    "LBL_NOT_AUTHORIZED": "Autorizarea este necesara pentru a accesa toate caracteristicile modulelor.",
+    "LBL_TITLE": "Titlu",
+    "LBL_AUTHOR": "Autor",
+    "LBL_ADD_ISSUES": "Adaugă",
+    "LBL_TITLE_ADD_ISSUE": "Adaugă",
+    "LBL_CLOSED": "Închis",
+    "LBL_OPEN": "Deschis",
+    "closed": "Închis",
+    "open": "Deschis",
+    "LBL_ME": "Doar eu",
+    "LBL_ERROR_CONNECTED": "A apărut o eroare la conectarea cu www.api.github.com, verificați conexiunea la internet și setările firewall",
+    "LBL_CONFIRM_REGULATIONS": "Am citit regulile de adăugare a noilor probleme: %s",
+    "LBL_DEFAULT_DESCRIPTION": "Generat de YetiforceCRM vers. ",
+    "LBL_CHANGE_AUTHORIZATION": "Schimbă autorizarea",
+    "LBL_USERNAME_DESCRIPTION": "Numele dvs de utilizator www.github.com",
+    "LBL_TOKEN_DESCRIPTION": "Cod de acces unic pentru cont, cu o lungime de 40 de caractere. Manualul de creare a token-ului poate fi găsit aici: %s",
+    "LBL_NO_ISSUES": "Nu s-au raportat probleme",
+    "LBL_PHP_VERSION": "PHP"
+  }
+}

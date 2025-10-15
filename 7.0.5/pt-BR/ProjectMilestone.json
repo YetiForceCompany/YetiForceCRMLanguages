@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Etapas de Projeto",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Detalhes das Etapas de Projeto",
+    "Project Milestone Name": "Nome da Etapa",
+    "Milestone Date": "Data da Etapa",
+    "Project Milestone No": "No. da Etapa",
+    "description": "Descrição",
+    "Related to": "Projeto",
+    "FL_PARENT_PROJECT_MILESTONE": "Marco do projeto pai",
+    "FL_STATUS": "Status",
+    "LBL_ESTIMATED_WORK_TIME": "Tempo de trabalho estimado",
+    "LBL_MILESTONES_LIST": "Lista de Etapas",
+    "LBL_TASKS_LIST": "Lista de Tarefas",
+    "LBL_PROJECTS_LIST": "Lista de Projetos",
+    "LBL_PRIORITY": "Prioridade",
+    "LBL_PROGRESS": "Progresso",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Externo",
+    "PLL_SHARED": "Compartilhado",
+    "PLL_LOW": "Baixo",
+    "PLL_NORMAL": "Normal",
+    "PLL_HIGH": "Alto"
+  }
+}

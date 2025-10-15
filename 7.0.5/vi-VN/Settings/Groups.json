@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Thêm bản ghi",
+    "LBL_ADD_USERS_ROLES": "Thêm người dùng, Vai trò...",
+    "LBL_DUPLICATES_EXIST": "Tên nhóm đã tồn tại",
+    "LBL_GROUP_MEMBERS": "Thành viên của nhóm",
+    "LBL_GROUP_NAME": "Tên nhóm",
+    "LBL_ROLEANDSUBORDINATE": "Vai trò và phân cấp",
+    "LBL_TO_OTHER_GROUP": "Đến nhóm khác ",
+    "LBL_TRANSFORM_OWNERSHIP": "Chuyển đổi quyền sở hữu",
+    "SINGLE_Groups": "Nhóm",
+    "Users": "Người dùng",
+    "Name": "Tên nhóm",
+    "Description": "Mô tả",
+    "FL_PARENT": "Team leader",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
+    "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
+    "LBL_GROUP_DUPLICATE": "Duplicate",
+    "LBL_DELETE_GROUP": "Delete group"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Chọn ít nhất 1 thành viên cho 1 nhóm",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Nhóm đã xoá thành công"
+  }
+}

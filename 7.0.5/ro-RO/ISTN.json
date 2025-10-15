@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Rapoarte privind rotația stocurilor",
+    "SINGLE_ISTN": "Rapoarte privind rotația stocurilor",
+    "LBL_DESCRIPTION_BLOCK": "Descriere",
+    "LBL_ATTENTION_BLOCK": "Comentarii",
+    "FL_ESTIMATED_DATE": "Data estimată",
+    "FL_SUBJECT": "Subiect",
+    "FL_NUMBER": "Număr",
+    "FL_STATUS": "Statut",
+    "PLL_DRAFT": "Schiță",
+    "PLL_IN_REALIZATION": "În realizare",
+    "PLL_OBJECTIONS": "Obiecții",
+    "PLL_FOR_APPROVAL": "Spre aprobare",
+    "PLL_CANCELLED": "Anulat",
+    "PLL_ACCEPTED": "Acceptat",
+    "PLL_RECEIVED": "Primit",
+    "PLL_TRANSFER": "Transfer",
+    "PLL_DISPATCHED": "Expediat",
+    "FL_TYPE": "Tip"
+  }
+}

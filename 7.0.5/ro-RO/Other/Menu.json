@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_QUICK_CREATE_MODULE": "Creare rapidă",
+    "LBL_SEPARATOR": "Separator",
+    "LBL_OTHER": "Altul",
+    "MEN_VIRTUAL_DESK": "Departament Ofertare",
+    "MEN_COMPANIES_CONTACTS": "Companii și Contacte",
+    "MEN_SALES": "Vânzări",
+    "MEN_PROJECTS": "Management de Proiect",
+    "MEN_MARKETING": "Marketing",
+    "MEN_SUPPORT": "Suport",
+    "MEN_ACCOUNTING": "Contabilitate",
+    "MEN_COMPANY": "Companie",
+    "MEN_ORGANIZATION": "Organizație",
+    "MEN_DATABESES": "Bază de date",
+    "MEN_TEAMWORK": "Activitatea echipei",
+    "MEN_PRODUCTBASE": "Catalog produse",
+    "MEN_LISTS": "Liste",
+    "MEN_SERVICESBASE": "Catalog Servicii",
+    "MEN_SALE_PROCESSES": "Procese vânzări",
+    "Menu": "Meniu",
+    "MEN_LOGISTICS": "Logistică",
+    "LBL_CHANGE_LOGIN_PASSWORD": "Schimbarea parolei de conectare",
+    "LBL_CHANGE": "Modificări",
+    "LBL_USER_PROFILE": "Profil utilizator",
+    "MEN_GDPR": "GDPR",
+    "MEN_REPORT_TEMPLATES": "Raportare"
+  }
+}

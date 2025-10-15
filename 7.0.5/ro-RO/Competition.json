@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Concurența",
+    "SINGLE_Competition": "Concurent",
+    "LBL_COMPETITION_INFORMATION": "Informații de bază",
+    "LBL_CUSTOM_INFORMATION": "Informații despre Sistem",
+    "LBL_DESCRIPTION_INFORMATION": "Detalii descriere",
+    "LBL_SUBJECT": "Nume",
+    "LBL_NUMBER": "Număr",
+    "LBL_CLOSED_TIME": "Timp închidere",
+    "LBL_VAT_ID": "Cod de TVA",
+    "LBL_SHOW_HIERARCHY": "Ierarhie",
+    "LBL_PARENT_ID": "Concurentul părinte"
+  }
+}

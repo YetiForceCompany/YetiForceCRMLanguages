@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "アクティビティ登録",
+    "SINGLE_ActivityRegister": "アクティビティ登録",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "FL_SUBJECT": "件名",
+    "FL_PARENT_ACTIVITY": "親のアクティビティ",
+    "FL_STATUS": "状態",
+    "PLL_DRAFT": "下書き",
+    "PLL_WAITING_FOR_ACCEPTANCE": "承認待ち",
+    "PLL_IN_REALIZATION": "実現のために",
+    "PLL_COMPLETED": "完了",
+    "PLL_CANCELLED": "キャンセルしました",
+    "FL_DATA_SET": "データセット",
+    "PLL_ENTRUSTMENT": "委託",
+    "PLL_SHARING": "共有",
+    "PLL_TRANSFER": "転送",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "受託処理の承認",
+    "PLL_INTERNAL": "内部",
+    "FL_START_DATE": "開始日",
+    "FL_END_DATE": "終了日",
+    "LBL_DATES": "アクティビティの日付",
+    "LBL_DESCRIPTION": "説明",
+    "FL_DESCRIPTION": "説明",
+    "FL_COMMENTS": "コメント",
+    "LBL_COMMENTS": "コメント",
+    "FL_ACTIVITY_TYPE": "アクティブタイプ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "选定的列表项",
+    "LBL_ADD_RECORD": "添加",
+    "PickListDependency": "选择列表依赖项",
+    "LBL_PICKLIST_DEPENDENCY": "选择列表依赖关系",
+    "LBL_SELECT_FIELD": "选择字段",
+    "LBL_SELECT_MODULE": "模块",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "选择源选取列表值",
+    "LBL_SOURCE_FIELD": "源字段",
+    "LBL_MODULE": "模块"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "确实要删除此选择列表依赖吗？?"
+  }
+}

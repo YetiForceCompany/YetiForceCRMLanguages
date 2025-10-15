@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "承認",
+    "SINGLE_Approvals": "承認",
+    "LBL_CUSTOM_INFORMATION": "カスタム情報",
+    "LBL_BASIC_INFORMATION": "基本情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "FL_NAME": "名前",
+    "FL_APPROVALS_STATUS": "ステータス",
+    "FL_DESCRIPTION": "説明",
+    "FL_NUMBER": "番号",
+    "PLL_DRAFT": "ドラフト",
+    "PLL_ACTIVE": "有効",
+    "PLL_INACTIVE": "無効"
+  }
+}

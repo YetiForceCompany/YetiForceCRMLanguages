@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Ανταγωνισμός",
+    "SINGLE_Competition": "Ανταγωνιστής",
+    "LBL_COMPETITION_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_SUBJECT": "Όνομασία",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_VAT_ID": "ΑΦΜ",
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία",
+    "LBL_PARENT_ID": "Ανταγωνιστής γονέας"
+  }
+}

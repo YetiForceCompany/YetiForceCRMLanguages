@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "Actualizări",
+    "LBL_YES": "Da",
+    "LBL_NO": "Nu",
+    "LBL_TIME": "Data",
+    "LBL_USER": "Utilizator",
+    "LBL_FROM_VERSION": "De la versiunea",
+    "LBL_TO_VERSION": "La versiunea",
+    "LBL_RESULT": "Status",
+    "LBL_UPDATES": "Actualizări",
+    "LBL_UPDATES_DESCRIPTION": "Istoric actualizări",
+    "LBL_IMPORT_UPDATE": "Încarcă actualizare",
+    "LBL_INSTALL_PACKAGE": "Instalare pachet",
+    "LBL_DOWNLOAD_PACKAGE": "Descarcă pachetul",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "Pachete de upgrade disponibile",
+    "LBL_INSTALLED_PACKAGES": "Pachete instalate",
+    "LBL_PACKAGE_VERSION": "Versiunea pachetului",
+    "LBL_NAME_PACKAGES": "Numele pachetului"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Revision Register",
+    "SINGLE_AuditRegister": "Revision Register",
+    "LBL_BASIC_INFORMATION": "Grund oplysninger",
+    "FL_NAME": "Navn",
+    "FL_LOCATION_REGISTER": "Beliggenhed register",
+    "FL_DATASETREGISTER": "Datasæt register",
+    "PLL_DRAFT": "Kladde",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Venter på godkendelse",
+    "PLL_IN_REALIZATION": "Under gennemførelse",
+    "PLL_COMPLETED": "Udført",
+    "PLL_CANCELLED": "Annulleret",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Type",
+    "PLL_INTERNAL": "Intern",
+    "PLL_EXTERNAL": "Ekstern",
+    "LBL_DESCRIPTION": "Beskriveslse",
+    "FL_DESCRIPTION": "Beskrivelse",
+    "FL_COMMENTS": "Kommentarer",
+    "LBL_COMMENTS": "Kommentarer"
+  }
+}
