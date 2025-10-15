@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "E-Mail-Tracking",
     "LBL_MAIL_SENDERS": "Absender",
     "LBL_MAIL_SENDER": "Absender",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "Die E-Mail-Adresse im Absender-Feld wurde gefälscht.",
     "LBL_SERVER_NAME_FROM_DESC": "Der Servername, den der sendende Computer für sich selbst gab (oft der sendende Software-Name)",
     "LBL_SERVER_NAME_BY_DESC": "Der Server-Name, den der Empfängercomputer für sich selbst gab (oft der sendende Software-Name, wenn es keinen Absender gibt, wird die Nachricht intern übergeben)",

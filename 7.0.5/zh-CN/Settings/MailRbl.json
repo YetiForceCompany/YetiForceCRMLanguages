@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "电子邮件跟踪",
     "LBL_MAIL_SENDERS": "发件人",
     "LBL_MAIL_SENDER": "发件人",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "“发出”字段的邮件地址已被伪造。",
     "LBL_SERVER_NAME_FROM_DESC": "发件电脑为自己指定的服务器名称（通常是发送软件名称）",
     "LBL_SERVER_NAME_BY_DESC": "收件人计算机给自己的服务器名称（通常是发件软件名称，如果没有发件人，在消息在内部传递）",
