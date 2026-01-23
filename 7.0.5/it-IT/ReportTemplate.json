@@ -55,7 +55,9 @@
     "LBL_SELECT_SORT_ORDER": "Selezionare l'ordinamento",
     "LBL_USER_MODULES": "Moduli relati all'utente",
     "LBL_ID": "Id",
-    "LBL_INVENTORY_BLOCK": "Blocco avanzato"
+    "LBL_INVENTORY_BLOCK": "Blocco avanzato",
+    "LBL_REPORT_GENERATED_SUCCESS": "%s has been generated",
+    "LBL_REPORT_GENERATED_FAIL": "%s could not be generated"
   },
   "js": {
     "JS_SELECT_AT_LEAST_ONE_REPORT_COLUMN": "Seleziona almeno una colonna per il report",

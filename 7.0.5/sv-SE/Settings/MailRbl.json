@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "E-mail tracking",
     "LBL_MAIL_SENDERS": "Senders",
     "LBL_MAIL_SENDER": "Sender",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "The email address in the From field has been forged.",
     "LBL_SERVER_NAME_FROM_DESC": "The server name that the sending computer gave for itself (often the sending software name)",
     "LBL_SERVER_NAME_BY_DESC": "The server name that the recipient computer gave for itself (often the sending software name, if there is no sender, the message is passed internally)",

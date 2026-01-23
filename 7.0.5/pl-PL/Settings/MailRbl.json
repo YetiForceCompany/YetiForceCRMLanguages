@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Śledzenie wiadomości e-mail",
     "LBL_MAIL_SENDERS": "Nadawcy",
     "LBL_MAIL_SENDER": "Nadawca",
+    "LBL_MAIL_RECIPIENTS": "Odbiorcy",
     "LBL_ALERT_FAKE_SENDER": "Adres e-mail podany w polu \"Od\" został zfałszowany",
     "LBL_SERVER_NAME_FROM_DESC": "Nazwa serwera, którą nadał sobie komputer wysyłający (często nazwa oprogramowania wysyłającego)",
     "LBL_SERVER_NAME_BY_DESC": "Nazwa serwera, którą nadał sobie komputer odbiorcy (często nazwa oprogramowania wysyłającego, w przypadku braku nadawcy, wiadomość jest przekazywana wewnętrznie)",

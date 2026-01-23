@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "E-mail tracking",
     "LBL_MAIL_SENDERS": "Senders",
     "LBL_MAIL_SENDER": "Sender",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "Het e-mailadres in het Van-veld is vervalst.",
     "LBL_SERVER_NAME_FROM_DESC": "De servernaam die de verzendcomputer voor zichzelf heeft gegeven (vaak de naam van de verzendende software)",
     "LBL_SERVER_NAME_BY_DESC": "De servernaam die de computer van de ontvanger voor zichzelf heeft gegeven (vaak de naam van de software. Als er geen afzender is word het bericht intern doorgegeven)",

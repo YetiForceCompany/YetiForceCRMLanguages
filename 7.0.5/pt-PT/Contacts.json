@@ -44,13 +44,13 @@
     "LBL_SWITCH_OFF_DECISION_MAKER": "Todos",
     "LBL_SHOW_HIERARCHY": "Hierarquia de contactos",
     "FL_APPROVALS": "Aprovações",
-    "LBL_PARTICIPANTS": "Participants",
+    "LBL_PARTICIPANTS": "Participantes",
     "FL_GENDER": "Sexo",
     "PLL_WOMAN": "Mulher",
     "PLL_MAN": "Homem",
-    "LBL_DUPLICATE_EMAIL_ADDRESS": "A contact with this email address already exists in the system.",
-    "History": "History",
-    "Overdue Activities": "Overdue activities"
+    "LBL_DUPLICATE_EMAIL_ADDRESS": "Um contato com este endereço de e-mail já existe no sistema.",
+    "History": "Histórico",
+    "Overdue Activities": "Atividades Atrasadas"
   },
   "js": {}
 }

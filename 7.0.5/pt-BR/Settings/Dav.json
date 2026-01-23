@@ -10,7 +10,7 @@
     "LBL_EMAIL": "Email",
     "LBL_LOGIN": "Acesso",
     "LBL_SELECT_USER": "Escolha um Usuário:",
-    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active.",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "Aplicação DAV não está ativa.",
     "LBL_ALERT_DAV_NO_ACTIVE_DESC": "A aplicação DAV ainda não foi ativada, por favor, ative o \"DAV\" no arquivo config/api.php",
     "LBL_SUCCESS_SAVE_KEY": "Nova chave foi adicionada",
     "LBL_ERROR_SAVE_KEY": "Erro na chave adicionada",
@@ -24,7 +24,7 @@
     "LBL_VIEW_KEYS": "Chaves DAV",
     "LBL_DUPLICATE_USER_SERVICES": "A chave para esta aplicação já existe.",
     "LBL_ALERT_DAV_CONFIG_TITLE": "Informação de Configuração",
-    "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
+    "LBL_ALERT_DAV_CONFIG_DESC": "Exemplos de configuração de conexão do servidor DAV para diferentes aplicativos e sistemas:"
   },
   "js": {
     "Adding a Key": "Adicionar Chave"

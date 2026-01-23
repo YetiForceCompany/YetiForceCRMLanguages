@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Suivi des e-mails",
     "LBL_MAIL_SENDERS": "Expéditeurs",
     "LBL_MAIL_SENDER": "Expéditeur",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "L'adresse e-mail dans le champ De a été falsifiée.",
     "LBL_SERVER_NAME_FROM_DESC": "The server name that the sending computer gave for itself (often the sending software name)",
     "LBL_SERVER_NAME_BY_DESC": "The server name that the recipient computer gave for itself (often the sending software name, if there is no sender, the message is passed internally)",

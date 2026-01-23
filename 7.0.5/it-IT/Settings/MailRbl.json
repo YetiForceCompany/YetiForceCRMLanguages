@@ -59,6 +59,7 @@
     "LBL_MAIL_TRACE_TITLE": "Tracciamento e-mail",
     "LBL_MAIL_SENDERS": "Mittente",
     "LBL_MAIL_SENDER": "Mittente",
+    "LBL_MAIL_RECIPIENTS": "Recipients",
     "LBL_ALERT_FAKE_SENDER": "L'indirizzo email nel campo Da è stato falsificato.",
     "LBL_SERVER_NAME_FROM_DESC": "Il nome del server che il computer di invio ha dato per sé (spesso il nome del software di invio)",
     "LBL_SERVER_NAME_BY_DESC": "Il nome del server che il computer destinatario ha dato per sé (spesso il nome del software di invio, se non c'è mittente, il messaggio viene passato internamente)",
