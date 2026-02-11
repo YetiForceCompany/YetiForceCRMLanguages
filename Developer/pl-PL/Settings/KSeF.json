@@ -1,0 +1,29 @@
+{
+  "php": {
+    "LBL_KSEF": "KSeF",
+    "LBL_KSEF_ACTIVATE": "Aktywuj",
+    "LBL_KSEF_ACTIVATE_CONFIRM": "W ramach aktywacji integracji z Krajowym Systemem e-Faktur (KSeF) do modułów Koszty oraz Faktury zostaną dodane nowe pola, w tym:\n- pola wymagane do prawidłowej obsługi e-faktur,\n- stawki podatkowe (VAT) zgodne z wymaganiami KSeF.\nZmiany strukturalne są nieodwracalne. Czy na pewno chcesz aktywować KSeF?",
+    "FL_NAME": "Nazwa",
+    "FL_STATUS": "Status",
+    "PLL_ACTIVE": "Aktywny",
+    "PLL_BLOCKED": "Zablokowany",
+    "PLL_REVOKED": "Unieważniony",
+    "PLL_EXPIRED": "Wygasły",
+    "FL_PASSPHRASE": "Hasło",
+    "FL_CERTIFICATE": "Certyfikat",
+    "FL_PRIVATE_KEY": "Klucz prywatny",
+    "FL_COMPANY": "Organizacja",
+    "FL_IDENTIFIER_CODE": "NIP",
+    "FL_IDENTIFIER_CODE_DESC": "NIP powinien zawierać 10 cyfr i być identyczny, jak wskazany w przypisanej Organizacji.",
+    "FL_DATE_VALID_FROM": "Ważny od",
+    "FL_EXPIRATION_DATE": "Ważny do",
+    "FL_CONTACT_EMAIL": "Mail kontaktowy",
+    "FL_CONTACT_EMAIL_DESC": "Mail kontaktowy do powiadomień o zbliżającej się dacie wygaśnięcia certyfikatu.",
+    "LBL_CHECK_CONNECTION": "Sprawdź połączenie",
+    "LBL_CHECK_CONNECTION_SUCCESS": "Połączenie nawiązane poprawnie",
+    "LBL_INVALID_CONNECTION_DATA": "Niepoprawne dane połączenia",
+    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Dla wybranej organizacji istnieje już połączenie."
+  },
+  "js": {}
+}
+
