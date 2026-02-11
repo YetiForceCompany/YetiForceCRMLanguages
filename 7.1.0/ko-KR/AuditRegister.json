@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Audit Register",
+    "SINGLE_AuditRegister": "Audit Register",
+    "LBL_BASIC_INFORMATION": "기본 정보",
+    "FL_NAME": "Name",
+    "FL_LOCATION_REGISTER": "Location register",
+    "FL_DATASETREGISTER": "Data set register",
+    "PLL_DRAFT": "Draft",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Waiting for acceptance",
+    "PLL_IN_REALIZATION": "In realization",
+    "PLL_COMPLETED": "완료",
+    "PLL_CANCELLED": "취소됨",
+    "FL_STATUS": "현재상태",
+    "FL_TYPE": "Type",
+    "PLL_INTERNAL": "Internal",
+    "PLL_EXTERNAL": "External",
+    "LBL_DESCRIPTION": "Description",
+    "FL_DESCRIPTION": "Description",
+    "FL_COMMENTS": "Comments",
+    "LBL_COMMENTS": "Comments"
+  }
+}

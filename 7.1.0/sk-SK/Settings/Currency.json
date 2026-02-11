@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Konverzný kurz",
+    "Currency": "Mena",
+    "Symbol": "Symbol",
+    "Currency Code": "Kód meny",
+    "Currency Name": "Názov meny",
+    "LBL_ADD_NEW_CURRENCY": "Pridať novú menu",
+    "LBL_ADD_RECORD": "Pridať záznam",
+    "LBL_CURRENCY_CODE": "Kód meny",
+    "LBL_CURRENCY_NAME": "Názov meny",
+    "LBL_CURRENCY_STATUS_DESC": "Povoliť zaškrtávacie pole, aby bola mena aktívna",
+    "LBL_CURRENCY_SYMBOL": "Symbol",
+    "LBL_CURRENT_CURRENCY": "Aktuálna mena",
+    "LBL_EDIT_CURRENCY": "Úprava meny",
+    "LBL_ENTER_CONVERSION_RATE": "Vložiť konverzný kurz",
+    "LBL_TRANSFER_CURRENCY": "Previesť menu",
+    "Active": "Aktívna",
+    "Inactive": "Neaktívna",
+    "LBL_SET_AS_DEFAULT": "Nastaviť ako predvolené"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Mena úspešne vymazaná.",
+    "JS_CURRENCY_DETAILS_SAVED": "Podrobnosti o Mene uložené.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Varovanie! Táto operácia zmení menu na mnohých miestach v systéme. Finančné dokumenty vystavené pred touto zmenou môžu požadovať konverziu meny. Prosím urobte manuálnu konverziu meny ak tieto dokumenty boli vystavené v ich produkčných verziách. Prepočítanie kurzu pre ostatné meny bude požadované."
+  }
+}

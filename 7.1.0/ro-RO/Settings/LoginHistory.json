@@ -1,0 +1,8 @@
+{
+  "php": {
+    "LBL_OTHER": "Altul",
+    "Automatic signed off": "Deconectare automată",
+    "LBL_LOGIN_TIME": "Oră",
+    "LBL_LOGGED_OUT_TIME": "Timp deconectare"
+  }
+}

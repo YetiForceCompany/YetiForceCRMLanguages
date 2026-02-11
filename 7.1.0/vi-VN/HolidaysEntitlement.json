@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Kỳ nghỉ hàng năm được hưởng",
+    "SINGLE_HolidaysEntitlement": "Kỳ nghỉ hàng năm được hưởng",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Thông tin tuỳ chỉnh",
+    "LBL_CUSTOM_INFORMATION": "Thông tin hệ thống",
+    "LBL_YEAR": "Năm",
+    "LBL_DAYS": "Số ngày nghỉ",
+    "LBL_EMPLOYEE": "Nhân viên",
+    "LBL_NUMBER": "Số"
+  }
+}

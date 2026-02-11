@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Conflit d'intérêts",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Conflit d'intérêts",
+    "LBL_MAIN_CONFIG": "Configuration générale",
+    "LBL_MODULES": "Modules",
+    "LBL_UNLOCK_REQUESTS": "Débloquer les demandes",
+    "LBL_CONFIRMATIONS": "Confirmations",
+    "LBL_IS_ACTIVE": "Activation d'un conflit d'intérêts",
+    "LBL_NOTIFICATIONS_EMAILS": "Adresses e-mail pour les notifications",
+    "LBL_INTERVAL_TIME": "Intervalle de temps",
+    "LBL_INTERVAL_TIME_DESC": "Intervalle de temps qui définit la fréquence à laquelle le système devrait forcer une confirmation de l'absence de conflit d'intérêts.",
+    "LBL_INDEFINITELY": "indéfiniment",
+    "LBL_USERS_CONFIRMATIONS": "Accès au panneau de confirmation",
+    "LBL_USERS_UNLOCK": "Accès au panneau des requêtes de déblocage",
+    "LBL_RELATIONSHIP": "Relation",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Envoyer un email lors de la demande d'accès à l'enregistrement",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail envoyé aux personnes ci-dessus (adresses e-mail pour les notifications)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Envoyer un email avec le résultat de la demande d'accès à l'enregistrement",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail envoyé à la personne demandant l'accès"
+  }
+}

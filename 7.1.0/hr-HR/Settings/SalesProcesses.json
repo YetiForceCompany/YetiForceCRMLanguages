@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "Prodaja",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Ograničite izbor proizvoda \/ usluga samo na one koji su u vezi s trenutno odabranom Prilikom. Odnosi se na module: Upiti za ponude, Prodajni zahtjevi, Kalkulacije, Ponude, Narudžbenice, Ponavljajuće se narudžbe.",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "Lista proizvoda i usluga",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "Ažurira dopuštenja za dijeljenje proizvoda \/ usluge u prilici kada se stvori odnos između mogućnosti i proizvoda \/ usluge.",
+    "LBL_STATUSES_CLOSED_CALCULATION": "Statusi koji određuju da je kalkulacija zatvorena",
+    "LBL_POTENTIALS": "Prilike",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "Statusi koji određuju da je Prilika zatvorena",
+    "LBL_ASSETS": "Prodani proizvodi",
+    "LBL_STATUSES_CLOSED_ASSETS": "Statusi koji određuju da je prodati proizvod zatvoren",
+    "LBL_CREATE_POTENTIALS": "Blokirano je stvaranje Prilika za Klijente u kojima Dodijeljen za - nije korisnik",
+    "SalesProcesses": "Prodajni procesi",
+    "LBL_SQUOTEENQUIRIES": "Prodajni upiti",
+    "LBL_SREQUIREMENTSCARD": "Prodajni zahtjevi",
+    "LBL_SCALCULATIONS": "Kalkulacije",
+    "LBL_SQUOTES": "Ponude",
+    "LBL_SSALESORDER": "Prodajni nalog",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "Statusi koji definiraju zatvaranje naloga za prodaju",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Statusi koji definiraju zatvaranje upita za ponude",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Statusi koji definiraju zatvaranje zahtjeva o prodaji",
+    "LBL_STATUSES_CLOSED_SQUOTES": "Statusi koji definiraju zatvaranje ponude"
+  }
+}

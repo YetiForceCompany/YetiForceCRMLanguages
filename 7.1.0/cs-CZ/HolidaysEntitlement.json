@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Annual holiday entitlement",
+    "SINGLE_HolidaysEntitlement": "Annual holiday entitlement",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Custom Information",
+    "LBL_CUSTOM_INFORMATION": "Systémové Informace",
+    "LBL_YEAR": "Rok",
+    "LBL_DAYS": "Počet prázdnin",
+    "LBL_EMPLOYEE": "Zaměstnanec",
+    "LBL_NUMBER": "Číslo"
+  }
+}

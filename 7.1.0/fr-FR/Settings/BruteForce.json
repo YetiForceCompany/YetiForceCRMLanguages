@@ -1,0 +1,27 @@
+{
+  "php": {
+    "BruteForce": "Brute Force",
+    "LBL_NUMBER_OF_ATTEMPTS": "Nombre de tentatives",
+    "LBL_NUMBER_OF_ATTEMPTS_DESC": "The parameter includes triggering each action for non-logged in users, e.g. login attempt, password reset",
+    "LBL_TIME_LOCK": "Temps bloqué (minutes)",
+    "LBL_SETTINGS": "Réglages",
+    "LBL_BLOCKED_IP": "Adresse IP bloquée",
+    "LBL_SAVE_SUCCESS": "Les modifications ont été sauvegardées",
+    "LBL_UNBLOCK_FAIL": "L'adresse IP n'a pas été débloquée",
+    "LBL_UNBLOCK_SUCCESS": "L'adresse IP a été débloquée",
+    "LBL_BRUTEFORCE_DESCRIPTION": "Définissez le nombre maximal d'échecs de tentatives de connexion ou de changements de mot de passe et la limite de temps pour le blocage IP.",
+    "LBL_IP": "Adresse IP",
+    "LBL_DATE": "Date",
+    "LBL_USERS": "Utilisateurs",
+    "LBL_BROWSERS": "Navigateur",
+    "LBL_UNBLOCK": "Débloquer",
+    "LBL_USERS_FOR_NOTIFICATIONS": "Notifier les utilisateurs",
+    "LBL_BRUTEFORCE_ACTIVE": "Actif",
+    "LBL_VIEW_SHOW": "Brute Force",
+    "LBL_BRUTEFORCE": "Brute Force",
+    "LBL_SENT_NOTIFICATIONS": "Envoyer des notifications"
+  },
+  "js": {
+    "JS_COULD_NOT_FINNISH_REACTION": "Erreur. Échec de la sauvegarde."
+  }
+}

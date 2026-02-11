@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Permessi avanzati",
+    "AdvancedPermission": "Permessi avanzati",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Configurazione dei permessi personalizzati: concede \/ revoca i permessi per i record. Non in tempo reale, ma via CRON.",
+    "LBL_NAME": "Nome",
+    "LBL_MODULE": "Modulo",
+    "LBL_ACTION": "Azione",
+    "LBL_STATUS": "Stato",
+    "LBL_ROLE": "Ruolo",
+    "LBL_MEMBERS": "Membri",
+    "LBL_PRIORITY": "Priorità",
+    "FL_ACTIVE": "Attivo",
+    "FL_INACTIVE": "Inattivo",
+    "FL_UNLOCK_RECORD": "Concedi accesso",
+    "FL_LOCK_RECORD": "Nega accesso",
+    "LBL_SAVE_AND_CONDITIONS": "Successivo",
+    "ERR_INACTIVE_ALERT_TITLE": "I permessi avanzati sono disabilitati",
+    "ERR_INACTIVE_ALERT_DESC": "Imposta la variabile PERMITTED_BY_ADVANCED_PERMISSION a \"true\" nel file config\/security.php per attivare i permessi speciali.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Ricalcolo permessi",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Ricalcola permessi",
+    "LBL_RECALCULATE_CRON_INFO": "Il ricalcolo dei permesi richiede che il CRON sia attivo e funzionante.",
+    "LBL_MODULES_LIST": "Moduli",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "I permessi speciali sono disabilitati perché richiedono l'attivazione della cache dei permessi sui record. Per abilitare i permessi speciali, il CRON deve essere attivo e funzionante e, inoltre, devi impostare la variabile CACHING_PERMISSION_TO_RECORD [config\/security.php] a \"true\"."
+  }
+}

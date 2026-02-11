@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "クイック作成エディター",
+    "LBL_QUICK_CREATE_EDITOR": "フィールド – クイック作成",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "クイック作成ウィンドウ内のフィールドのレイアウトを変更できるモジュール",
+    "LBL_SEQUENCE": "フィールドシーケンス",
+    "LBL_SAVE_FIELD_SEQUENCE": "フィールドシーケンスを保存"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "フィールドシーケンスが更新されました"
+  }
+}

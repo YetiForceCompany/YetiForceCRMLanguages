@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Kontrolni register",
+    "SINGLE_AuditRegister": "Kontrolni register",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "FL_NAME": "Naziv",
+    "FL_LOCATION_REGISTER": "Lokacija registrov",
+    "FL_DATASETREGISTER": "Register podatkovnih zapisov",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Počakaj na potrditev",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_COMPLETED": "Zaključeno",
+    "PLL_CANCELLED": "Prekinjeno",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Vrsta",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Zunanje",
+    "LBL_DESCRIPTION": "Opis",
+    "FL_DESCRIPTION": "Opis",
+    "FL_COMMENTS": "Komentarji",
+    "LBL_COMMENTS": "Komentarji"
+  }
+}

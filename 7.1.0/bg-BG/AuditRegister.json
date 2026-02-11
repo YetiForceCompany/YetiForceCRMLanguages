@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Финансов одит",
+    "SINGLE_AuditRegister": "Финансов одит",
+    "LBL_BASIC_INFORMATION": "Основна информация",
+    "FL_NAME": "Име",
+    "FL_LOCATION_REGISTER": "Регистър на местоположение",
+    "FL_DATASETREGISTER": "Регистър на набор от дани",
+    "PLL_DRAFT": "Чернова",
+    "PLL_WAITING_FOR_ACCEPTANCE": "В очакване на одобрение",
+    "PLL_IN_REALIZATION": "В изпълнение",
+    "PLL_COMPLETED": "Завършено",
+    "PLL_CANCELLED": "Прекъснато",
+    "FL_STATUS": "Статус",
+    "FL_TYPE": "Вид",
+    "PLL_INTERNAL": "Вътрешно",
+    "PLL_EXTERNAL": "Външно",
+    "LBL_DESCRIPTION": "Описание",
+    "FL_DESCRIPTION": "Описание",
+    "FL_COMMENTS": "Коментари",
+    "LBL_COMMENTS": "Коментари"
+  }
+}

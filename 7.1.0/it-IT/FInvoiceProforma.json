@@ -1,0 +1,23 @@
+{
+  "php": {
+    "FInvoiceProforma": "Fatture proforma",
+    "SINGLE_FInvoiceProforma": "Fattura proforma",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di Sistema",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Indirizzo recapito",
+    "FL_SUBJECT": "Oggetto",
+    "FL_PAYMENT_DATE": "Data scadenza",
+    "FL_SALE_DATE": "Data vendita",
+    "FL_ACCOUNT": "Azienda",
+    "FL_STATUS": "Stato",
+    "FL_NUMBER": "Progressivo",
+    "FL_TOTAL": "Netto",
+    "FL_GROSS": "Totale",
+    "PLL_WIRE_TRANSFER": "Elettronico",
+    "FL_PAYMENT_SUM": "Totale pagamenti",
+    "FL_PAYMENT_STATUS": "Stato di pagamento",
+    "PLL_NOT_PAID": "Non pagato",
+    "PLL_PAID": "Pagato",
+    "PLL_OVERPAID": "Sovrappagato",
+    "PLL_UNDERPAID": "Sottopagato"
+  }
+}

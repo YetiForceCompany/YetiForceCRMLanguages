@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDNC": "اصلاحیه‌های یادداشت‌های اعزام کالا",
+    "SINGLE_IGDNC": "اصلاحیه یادداشت‌های اعزام کالا",
+    "LBL_DESCRIPTION_BLOCK": "شرح",
+    "LBL_ATTENTION_BLOCK": "نظرات",
+    "FL_ACCEPTANCE_DATE": "تاریخ پذیرش",
+    "FL_ACCOUNT": "حساب",
+    "FL_SUBJECT": "موضوع",
+    "FL_NUMBER": "شماره",
+    "FL_STORAGE": "محل انبار و نگهداری",
+    "FL_STATUS": "وضعیت",
+    "FL_IGDN": "یادداشت اعزام کالا",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_OBJECTIONS": "اعتراضات",
+    "PLL_FOR_APPROVAL": "برای تایید",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_ACCEPTED": "پذیرفته شد",
+    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "Prodajni upiti",
+    "SINGLE_SQuoteEnquiries": "Prodajni upit",
+    "LBL_QUOTESENQUIRES_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "LBL_STATISTICS": "Statistika",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Broj",
+    "LBL_CLOSED_TIME": "Vrijeme zaključenja",
+    "LBL_STATUS": "Status",
+    "SINGLE_SSalesProcesses": "Prilika",
+    "PLL_DRAFT": "Skica",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_FOR_VERIFICATION": "Za verifikaciju",
+    "PLL_CANCELLED": "Otkazano",
+    "PLL_COMPLETED": "Kompletirano",
+    "LBL_CHANGE_STATUS": "Promijeni status",
+    "FL_CAMPAIGN_ID": "Kampanja"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "دفترچه ثبت مسافت",
+    "SINGLE_CMileageLogbook": "دفترچه ثبت مسافت",
+    "LBL_ADDITIONAL_INFORMATION": "اطلاعات بیشتر",
+    "LBL_BASIC_INFORMATION": "اطلاعات اولیه",
+    "LBL_DESCRIPTION_BLOCK": "شرح",
+    "LBL_ATTENTION_BLOCK": "یادداشت‌ها",
+    "FL_SUBJECT": "موضوع",
+    "FL_STATUS": "وضعیت",
+    "FL_NUMBER_KILOMETERS": "تعداد کیلومتر",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_FOR_APPROVAL": "برای تایید",
+    "PLL_ACCEPTED": "پذیرفته شده",
+    "PLL_CANCELLED": "لغو شده"
+  }
+}

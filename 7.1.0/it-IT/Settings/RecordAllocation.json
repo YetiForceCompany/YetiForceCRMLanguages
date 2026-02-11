@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_OWNER_ALLOCATION": "Vincoli assegnazione",
+    "LBL_OWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_MULTIOWNER_ALLOCATION": "Vincoli condivisione",
+    "LBL_MULTIOWNER_ALLOCATION_DESCRIPTION": " ",
+    "LBL_SORTING_SETTINGS_WORNING": "Avviso!\n(Nota: è necessario qualche secondo per la propagazione a sistema)\nI vincoli funzionano solo nel caso in cui, nel ruolo, si sia selezionata la voce \"In base ai vincoli definiti\"",
+    "LBL_ADD_PANEL_TO_MODULE": "Aggiungi vincolo al modulo",
+    "LBL_SELECT_MODULE": "Seleziona modulo",
+    "LBL_GO_TO_PANEL": "vai alla configurazione ruoli",
+    "LBL_USERS_AND_GROUPS": "Utenti e gruppi"
+  },
+  "js": {
+    "JS_ARE_YOU_SURE_YOU_WANT_TO_DELETE_PANEL": "Sei sicuro di volere eliminare tutti i vincoli per questo modulo?"
+  }
+}

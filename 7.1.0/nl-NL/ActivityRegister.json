@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Activiteitenregistratie",
+    "SINGLE_ActivityRegister": "Activiteitenregistratie",
+    "LBL_BASIC_INFORMATION": "Basisinformatie",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_PARENT_ACTIVITY": "Ouder activiteit",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Concept",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Wachten op acceptatie",
+    "PLL_IN_REALIZATION": "Realisatie",
+    "PLL_COMPLETED": "Voltooid",
+    "PLL_CANCELLED": "Geannuleerd",
+    "FL_DATA_SET": "Gegevensset",
+    "PLL_ENTRUSTMENT": "Vermenging",
+    "PLL_SHARING": "Delen",
+    "PLL_TRANSFER": "Overdracht",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Invoer acceptatie",
+    "PLL_INTERNAL": "Intern",
+    "FL_START_DATE": "Startdatum",
+    "FL_END_DATE": "Einddatum",
+    "LBL_DATES": "Activiteitendata",
+    "LBL_DESCRIPTION": "Beschrijving",
+    "FL_DESCRIPTION": "Omschrijving",
+    "FL_COMMENTS": "Opmerkingen",
+    "LBL_COMMENTS": "Opmerkingen",
+    "FL_ACTIVITY_TYPE": "Type activiteit"
+  }
+}

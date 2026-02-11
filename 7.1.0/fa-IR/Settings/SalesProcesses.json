@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "فروش",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limit the choice of products\/services only to the ones related to currently selected Opportunity. Applies to modules: Quote Enquiries, Sales requirements, Calculations, Quotes, Purchase Orders, Recurring Sales Orders.",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "لیست انتخاب محصولات و خدمات",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "وقتی رابطه بین فرصت و محصول \/ خدمات ایجاد شود ، مجوزهای به اشتراک گذاری مجوز را از محصول \/ خدمات به روز می کند.",
+    "LBL_STATUSES_CLOSED_CALCULATION": "وضعیت تعیین که بسته شدن محاسبه است",
+    "LBL_POTENTIALS": "فرصت های فروش",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "وضعیت تعیین که بسته شدن فرصت است",
+    "LBL_ASSETS": "محصولات فروخته شده",
+    "LBL_STATUSES_CLOSED_ASSETS": "وضعیت تعیین که بسته شدن محصول فروش رفته است",
+    "LBL_CREATE_POTENTIALS": "مسدود شدن ایجاد فرصت‌ها برای حساب‌هایی که در آن‌ها اختصاص یافته یک کاربر نمی‌باشد",
+    "SalesProcesses": "فرآیند‌های فروش",
+    "LBL_SQUOTEENQUIRIES": "درخواست‌‌های فروش",
+    "LBL_SREQUIREMENTSCARD": "نیازمندیهای فروش",
+    "LBL_SCALCULATIONS": "محاسبات",
+    "LBL_SQUOTES": "استعلام‌ها",
+    "LBL_SSALESORDER": "سفارش فروش",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "وضعیت هایی بسته شدن سفارش فروش را تعریف می‌کنند",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "وضعیت هایی بسته شدن یک درخواست را تعریف می‌کنند",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "وضعیت هایی بسته شدن الزامات فروش‌ را تعریف می‌کنند",
+    "LBL_STATUSES_CLOSED_SQUOTES": "وضعیت هایی بسته شدن یک استعلام را تعریف می‌کنند"
+  }
+}

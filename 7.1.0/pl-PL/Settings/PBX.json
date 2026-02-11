@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Nazwa",
+    "LBL_TYPE": "Typ",
+    "LBL_DEFAULT": "Domyślna",
+    "LBL_ADD_RECORD": "Dodaj centrale",
+    "LBL_CREATE_RECORD": "Dodaj centrale telefoniczną",
+    "LBL_EDIT_RECORD": "Edycja centrali telefonicznej",
+    "LBL_URL": "Adres serwera",
+    "LBL_USERNAME": "Login",
+    "LBL_PASSWORD": "Hasło",
+    "LBL_SECRET_KEY": "Klucz",
+    "LBL_OUTBOUND_CONTEXT": "Kontekst wyjścia",
+    "LBL_HTTP_LISTENER_PORT": "Port nasłuchu HTTP",
+    "LBL_HTTP_LISTENER_TOKEN": "Token HTTP",
+    "LBL_PBX_DEFAULT": "Domyślna",
+    "LBL_PBX_BASE": "Podstawowy (domyślnie w przeglądarce)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Zapisano zmiany"
+  }
+}

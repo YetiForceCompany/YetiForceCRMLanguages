@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Odobrenja",
+    "SINGLE_Approvals": "Odobrenje",
+    "LBL_CUSTOM_INFORMATION": "Prilagođene informacije",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "FL_NAME": "Naziv",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Opis",
+    "FL_NUMBER": "Broj",
+    "PLL_DRAFT": "Skica",
+    "PLL_ACTIVE": "Aktivan",
+    "PLL_INACTIVE": "Neaktivan"
+  }
+}

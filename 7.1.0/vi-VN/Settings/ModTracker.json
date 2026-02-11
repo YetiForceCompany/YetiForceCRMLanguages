@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Thay đổi lịch sử",
+    "LBL_MODTRACKER_SETTINGS": "Module – Theo Dõi Thay Đổi \/ Lịch Sử",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Quản lý lịch sử thay đổi trong các mô-đun",
+    "LBL_MODULE": "Mô-đun",
+    "LBL_ACTIVE": "Theo dõi thay đổi",
+    "LBL_TOOLS": "Công cụ",
+    "LBL_TRACK_CHANGES_ENABLED": "Theo dõi thay đổi được mở",
+    "LBL_TRACK_CHANGES_DISABLE": "Theo dõi thay đổi đăng tắt"
+  }
+}

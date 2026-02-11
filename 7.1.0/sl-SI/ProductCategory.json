@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Kategorija izdelkov",
+    "SINGLE_ProductCategory": "Kategorija izdelkov",
+    "LBL_CUSTOM_INFORMATION": "Custom Information",
+    "LBL_BASIC_INFORMATION": "Basic Information",
+    "FL_PARENT_CATEGORY": "Parent category",
+    "LBL_CHILD_PRODUCTCATEGORY": "Podkategorija",
+    "FL_ACTIVE": "Active",
+    "FL_CATEGORY_NAME": "Category name"
+  }
+}

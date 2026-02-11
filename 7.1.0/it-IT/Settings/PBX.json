@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Nome",
+    "LBL_TYPE": "Tipo",
+    "LBL_DEFAULT": "Predefinito",
+    "LBL_ADD_RECORD": "Aggiungi centralino",
+    "LBL_CREATE_RECORD": "Aggiungi centralino",
+    "LBL_EDIT_RECORD": "Modifica centralino",
+    "LBL_URL": "Indirizzo server",
+    "LBL_USERNAME": "Nome utente",
+    "LBL_PASSWORD": "Password",
+    "LBL_SECRET_KEY": "Chiave segreta",
+    "LBL_OUTBOUND_CONTEXT": "Contesto di uscita",
+    "LBL_HTTP_LISTENER_PORT": "Porta d'ascolto HTTP",
+    "LBL_HTTP_LISTENER_TOKEN": "Token HTTP",
+    "LBL_PBX_DEFAULT": "Predefinito",
+    "LBL_PBX_BASE": "Base (predefinita nel browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
+  }
+}

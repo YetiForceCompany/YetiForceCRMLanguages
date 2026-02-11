@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "Servicii de întâlnire",
+    "LBL_MEETING_SERVICES": "Servicii de întâlnire",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "Status",
+    "FL_APP_ID": "ID aplicație",
+    "FL_SECRET_KEY": "Cheie secretă"
+  }
+}

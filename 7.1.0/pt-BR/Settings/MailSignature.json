@@ -1,0 +1,12 @@
+{
+  "php": {
+    "MailSignature": "Assinatura de e-mail",
+    "LBL_MAIL_SIGNATURE": "Assinatura de e-mail",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Configurar assinaturas de e-mail",
+    "FL_NAME": "Nome",
+    "FL_DEFAULT": "Padrão",
+    "FL_BODY": "Corpo",
+    "BL_BASE": "Base"
+  },
+  "js": {}
+}

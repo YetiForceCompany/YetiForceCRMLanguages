@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "ثبت فعالیت",
+    "SINGLE_ActivityRegister": "ثبت فعالیت",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_SUBJECT": "موضوع",
+    "FL_PARENT_ACTIVITY": "فعالیت والد",
+    "FL_STATUS": "وضعیت",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_WAITING_FOR_ACCEPTANCE": "در انتظار تایید",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_COMPLETED": "کامل شده",
+    "PLL_CANCELLED": "لغو شده",
+    "FL_DATA_SET": "مجموعه داده",
+    "PLL_ENTRUSTMENT": "در امانت",
+    "PLL_SHARING": "اشتراک گذاری",
+    "PLL_TRANSFER": "انتقال",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "پذیرش به امانتگذاری",
+    "PLL_INTERNAL": "داخلی",
+    "FL_START_DATE": "تاریخ شروع",
+    "FL_END_DATE": "تاریخ پایان",
+    "LBL_DATES": "تاریخ‌های فعالیت",
+    "LBL_DESCRIPTION": "شرح",
+    "FL_DESCRIPTION": "شرح",
+    "FL_COMMENTS": "نظرات",
+    "LBL_COMMENTS": "نظرات",
+    "FL_ACTIVITY_TYPE": "نوع فعالیت"
+  }
+}

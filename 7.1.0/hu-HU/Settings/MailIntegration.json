@@ -1,0 +1,18 @@
+{
+  "php": {
+    "MailIntegration": "Mail integration panel",
+    "LBL_MAIL_INTEGRATION": "Mail integration panel",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
+    "LBL_OUTLOOK": "Outlook add-ins",
+    "LBL_OUTLOOK_ALERT": "Add-ins installation instructions can be found at %s",
+    "LBL_OUTLOOK_ADDRESSES": "Outlook mail server URLs",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Címek listája, ahol a rendszer integrációs panelként elérhető lesz, kötelező az Outlook Web App számára pl. %s",
+    "LBL_OUTLOOK_SCRIPT": "Allowed CDN servers for JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "List of allowed CDN server addresses from which JavaScript files can be loaded, e.g. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Az aktiválás módosítja a 'config / Security.php' fájlt, és csökkenti a biztonsági szintet, megváltoztatja:\n- lehetővé teszi a CRM betöltését inframe-ben\n- lehetővé teszi a külső szkriptek betöltését (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- letiltja a HttpOnly-t a cookie-kban\n- a SameSite cookie-t Semmire változtatja",
+    "LBL_QUICK_CREATE_MODULES": "List of quick create modules",
+    "LBL_QUICK_CREATE_MODULES_DESC": "List of modules in which data can be created from the integration panel. \n If no value is selected, the system will select the default quick create list",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Download the outlook add-in installation file",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Deactivate"
+  }
+}

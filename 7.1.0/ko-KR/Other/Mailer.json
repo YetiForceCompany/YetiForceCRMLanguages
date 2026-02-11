@@ -1,0 +1,11 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "일정 가져오기 완료",
+    "LBL_CRON_COMPLETED_IMPORT": "모듈에 대한 레코드 가져오기 요약",
+    "LBL_DEFAULT_IN_BROWSER": "Base (default in browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE by Whirly",
+    "LBL_INTERNAL_CLIENT": "Internal client (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "There is no active e-mail account.",
+    "ERR_NO_SMTP_CONFIGURATION": "No configuration."
+  }
+}

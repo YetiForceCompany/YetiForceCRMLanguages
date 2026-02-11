@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "Projekt Feladat",
+    "Project Task": "Projekt Feladatok",
+    "Start Date": "Kezdő dátum",
+    "Target End Date": "Befejezés kitűzött dátuma",
+    "End Date": "Befejezés dátuma",
+    "Related to": "Kapcsolódó",
+    "Parent ID": "Kapcsolódó feladat",
+    "Project Task Number": "Projekt feladat száma",
+    "description": " Leírás",
+    "FL_TOTAL_TIME_H": "Összes időráfordítás",
+    "Project Task No": "Projekt Feladat No.",
+    "Project Task Name": "Projekt Feladat neve",
+    "LBL_ESTIMATED_WORK_TIME": "Becsült munkaidő",
+    "Add Project Task": "Projekt feladat hozzáadása",
+    "LBL_PROJECT_TASK_INFORMATION": "Projekt Feladat adatai",
+    "LBL_PROJECTS_LIST": "Projektek listája",
+    "LBL_TASKS_LIST": "Feladatok listája",
+    "LBL_MILESTONES_LIST": "Mérföldkövek listája",
+    "low": "alacsony",
+    "normal": "normál",
+    "high": "magas",
+    "administrative": "Belső",
+    "operative": "Külső",
+    "other": "Megosztott",
+    "LBL_PROJECT": "Projekt",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+  }
+}

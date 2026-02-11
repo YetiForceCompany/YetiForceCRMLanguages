@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IGIN": "発行された商品",
+    "SINGLE_IGIN": "発行された商品",
+    "LBL_DESCRIPTION_BLOCK": "説明",
+    "LBL_ATTENTION_BLOCK": "コメント",
+    "FL_ACCEPTANCE_DATE": "受理日",
+    "FL_SUBJECT": "件名",
+    "FL_NUMBER": "番号",
+    "FL_STORAGE": "ストレージ",
+    "FL_STATUS": "状態",
+    "PLL_DRAFT": "下書き",
+    "PLL_IN_REALIZATION": "実現",
+    "PLL_OBJECTIONS": "異議あり",
+    "PLL_FOR_APPROVAL": "承認する",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_ACCEPTED": "承認済み",
+    "LBL_CHANGE_STATUS": "ステータスの変更"
+  }
+}

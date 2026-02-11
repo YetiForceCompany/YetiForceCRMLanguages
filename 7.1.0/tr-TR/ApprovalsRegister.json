@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "Onay kayıt",
+    "SINGLE_ApprovalsRegister": "Onay kaydı",
+    "LBL_CUSTOM_INFORMATION": "Özel Bilgiler",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "FL_SUBJECT": "Konu",
+    "FL_APPROVALS_STATUS": "Durum",
+    "FL_DESCRIPTION": "Açıklama",
+    "FL_APPROVAL": "Onay",
+    "FL_TYPE": "Tür",
+    "FL_STATUS": "Durum",
+    "FL_REGISTRATION_DATE": "Kayıt tarihi",
+    "PLL_FOR_VERIFICATION": "Doğrulama için",
+    "PLL_ACCEPTED": "Kabul edildi",
+    "PLL_REJECTED": "Reddedildi",
+    "PLL_ACCEPTANCE": "Onaylama",
+    "PLL_RESIGNATION": "Çekilme"
+  }
+}

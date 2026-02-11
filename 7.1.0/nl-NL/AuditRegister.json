@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Activiteitenregistratie",
+    "SINGLE_AuditRegister": "Activiteitenregistratie",
+    "LBL_BASIC_INFORMATION": "Basisinformatie",
+    "FL_NAME": "Naam",
+    "FL_LOCATION_REGISTER": "Locatie register",
+    "FL_DATASETREGISTER": "Gegevensset register",
+    "PLL_DRAFT": "Concept",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Wachten op acceptatie",
+    "PLL_IN_REALIZATION": "Realisatie",
+    "PLL_COMPLETED": "Voltooid",
+    "PLL_CANCELLED": "Geannuleerd",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Type",
+    "PLL_INTERNAL": "Intern",
+    "PLL_EXTERNAL": "Extern",
+    "LBL_DESCRIPTION": "Beschrijving",
+    "FL_DESCRIPTION": "Omschrijving",
+    "FL_COMMENTS": "Opmerkingen",
+    "LBL_COMMENTS": "Opmerkingen"
+  }
+}

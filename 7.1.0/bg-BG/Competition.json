@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Конкурс",
+    "SINGLE_Competition": "Конкурент",
+    "LBL_COMPETITION_INFORMATION": "Основна информация",
+    "LBL_CUSTOM_INFORMATION": "Информация за системата",
+    "LBL_DESCRIPTION_INFORMATION": "Описание",
+    "LBL_SUBJECT": "Име",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Време на затваряне",
+    "LBL_VAT_ID": "Данъчен номер",
+    "LBL_SHOW_HIERARCHY": "Йерархия",
+    "LBL_PARENT_ID": "Конкурент-родител"
+  }
+}

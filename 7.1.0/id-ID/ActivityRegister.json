@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Mendaftarkan Aktivitas",
+    "SINGLE_ActivityRegister": "Mendaftarkan Aktivitas",
+    "LBL_BASIC_INFORMATION": "Informasi Dasar",
+    "FL_SUBJECT": "Perihal",
+    "FL_PARENT_ACTIVITY": "Kegiatan orang tua",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Konsep",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Menunggu penerimaan",
+    "PLL_IN_REALIZATION": "Dalam realisasi",
+    "PLL_COMPLETED": "Selesai",
+    "PLL_CANCELLED": "Dibatalkan",
+    "FL_DATA_SET": "Kumpulan Data",
+    "PLL_ENTRUSTMENT": "Percayakan",
+    "PLL_SHARING": "Berbagi",
+    "PLL_TRANSFER": "Transfer",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Pengambilalihan penerimaan",
+    "PLL_INTERNAL": "Intern",
+    "FL_START_DATE": "Tanggal mulai",
+    "FL_END_DATE": "Tanggal akhir",
+    "LBL_DATES": "Tanggal kegiatan",
+    "LBL_DESCRIPTION": "Deskripsi",
+    "FL_DESCRIPTION": "Deskripsi",
+    "FL_COMMENTS": "Komentar-komentar",
+    "LBL_COMMENTS": "Komentar-komentar",
+    "FL_ACTIVITY_TYPE": "Tipe kegiatan"
+  }
+}

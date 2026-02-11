@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDN": "Goods Dispatched Note",
+    "SINGLE_IGDN": "Goods Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
+    "LBL_ATTENTION_BLOCK": "Komentáre",
+    "FL_ACCEPTANCE_DATE": "Date of acceptance",
+    "FL_ACCOUNT": "Účet",
+    "FL_SUBJECT": "Predmet",
+    "FL_NUMBER": "Number",
+    "FL_STORAGE": "Sklad",
+    "FL_STATUS": "Stav",
+    "FL_SSIGNLEORDERS": "Purchase Order",
+    "PLL_DRAFT": "Koncept",
+    "PLL_IN_REALIZATION": "V realizácii",
+    "PLL_OBJECTIONS": "Objections",
+    "PLL_FOR_APPROVAL": "Na schválenie",
+    "PLL_CANCELLED": "Zrušené",
+    "PLL_ACCEPTED": "Akceptované",
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
+  }
+}

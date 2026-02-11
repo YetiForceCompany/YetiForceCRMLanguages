@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "رقابت",
+    "SINGLE_Competition": "رقیب",
+    "LBL_COMPETITION_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزئیات",
+    "LBL_SUBJECT": "نام",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_VAT_ID": "شناسه مالیاتی",
+    "LBL_SHOW_HIERARCHY": "سلسه مراتب",
+    "LBL_PARENT_ID": "والد رقیب"
+  }
+}

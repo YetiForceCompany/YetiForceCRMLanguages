@@ -1,0 +1,23 @@
+{
+  "php": {
+    "FInvoiceProforma": "Facturas Proforma ",
+    "SINGLE_FInvoiceProforma": "Factura Proforma",
+    "LBL_CUSTOM_INFORMATION": "Información adicional",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Información sobre la Dirección de Entrega",
+    "FL_SUBJECT": "Asunto",
+    "FL_PAYMENT_DATE": "Fecha de vencimiento",
+    "FL_SALE_DATE": "Fecha de venta",
+    "FL_ACCOUNT": "Empresa",
+    "FL_STATUS": "Estado",
+    "FL_NUMBER": "ID Factura",
+    "FL_TOTAL": "Total",
+    "FL_GROSS": "Subtotal",
+    "PLL_WIRE_TRANSFER": "Transferencia electrónica",
+    "FL_PAYMENT_SUM": "Total payments",
+    "FL_PAYMENT_STATUS": "Payment status",
+    "PLL_NOT_PAID": "Not paid",
+    "PLL_PAID": "Paid",
+    "PLL_OVERPAID": "Over paid",
+    "PLL_UNDERPAID": "Underpaid"
+  }
+}

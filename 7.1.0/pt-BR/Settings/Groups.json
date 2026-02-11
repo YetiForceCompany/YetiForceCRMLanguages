@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Adicionar Grupo",
+    "LBL_ADD_USERS_ROLES": "Adicionar Usuários, Funções...",
+    "LBL_DUPLICATES_EXIST": "Nome do Grupo já Existe",
+    "LBL_GROUP_MEMBERS": "Membros do Grupo",
+    "LBL_GROUP_NAME": "Nome Grupo",
+    "LBL_ROLEANDSUBORDINATE": "Função e Subordinados",
+    "LBL_TO_OTHER_GROUP": "Para Outro Grupo ",
+    "LBL_TRANSFORM_OWNERSHIP": "Transferir Propriedade",
+    "SINGLE_Groups": "Grupo",
+    "Users": "Usuários",
+    "Name": "Nome Grupo",
+    "Description": "Descrição",
+    "FL_PARENT": "Líder da equipe",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "O limite de ninhos de grupo permitidos foi excedido.",
+    "LBL_INDEFINITE_LOOP": "As configurações atuais criarão um loop indefinido. Por favor, altere os membros do grupo.",
+    "LBL_GROUP_DUPLICATE": "Duplicar",
+    "LBL_DELETE_GROUP": "Apagar Grupo"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Por favor, selecione pelo menos um membro de um Grupo",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "O Grupo foi apagado com sucesso"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "php": {
+    "FCorectingInvoice": "Popravljeni računi",
+    "SINGLE_FCorectingInvoice": "Popravljen račun",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_INVOICE_ADDRESS": "Naslov za račun",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Naslov za dobavo",
+    "FL_SUBJECT": "Zadeva",
+    "FL_PAYMENT_DATE": "Datum plačila",
+    "FL_SALE_DATE": "Prodano dne",
+    "FL_BANK_ACCOUNT": "TRR",
+    "FL_NUMBER": "Številka računa",
+    "FL_ACCOUNT": "Stranka",
+    "FL_TOTAL": "Neto",
+    "FL_GROSS": "Bruto",
+    "FL_STATUS": "Status",
+    "PLL_WIRE_TRANSFER": "Elektronski prenos",
+    "LBL_YEAR": "Leto",
+    "FL_INVOICE": "Račun",
+    "LBL_COMMENTS": "Opomba",
+    "FL_EXTERNAL_COMMENT": "Javna opomba",
+    "FL_INTERNAL_COMMENT": "Interna opomba",
+    "LBL_BEFORE_CORRECTION": "Pred popravkom",
+    "LBL_AFTER_CORRECTION": "Po popravku",
+    "LBL_CORRECTION_SUMMARY": "Correction summary",
+    "LBL_CHOOSE_INVOICE": "Izberi račun, ki ga treba popraviti",
+    "LBL_COPY_FROM_INVOICE": "Kopiranje iz začetnega računa",
+    "LBL_INVOICE_INFO": "Polja začetnega računa - pred popravki.",
+    "LBL_AFTER_INVOICE_INFO": "Kako naj bi izgledal končni račun po popravku.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Polja računa, ki jih je potrebno popraviti. Kopiraj vsa polja iz prvotnega računa in po potrebi spremenite vrednosti.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Izberi račun, ki ga treba popraviti"
+  }
+}

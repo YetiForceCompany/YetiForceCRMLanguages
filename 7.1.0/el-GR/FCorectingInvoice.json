@@ -1,0 +1,38 @@
+{
+  "php": {
+    "FCorectingInvoice": "Διορθωτικά Τιμολόγια",
+    "SINGLE_FCorectingInvoice": "Διορθωτικό Τιμολόγιο",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες συστήματος",
+    "LBL_INVOICE_ADDRESS": "Διεύθυνση τιμολογίου",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Διεύθυνση παράδοσης",
+    "FL_SUBJECT": "Θέμα",
+    "FL_PAYMENT_DATE": "Ημερομηνία πληρωμής μέχρι",
+    "FL_SALE_DATE": "Ημερομηνία Πώλησης",
+    "FL_BANK_ACCOUNT": "Αριθμός τραπεζικού λογαριασμού",
+    "FL_NUMBER": "Αριθμός τιμολογίου",
+    "FL_ACCOUNT": "Πελάτης",
+    "FL_TOTAL": "Καθαρό ποσό",
+    "FL_GROSS": "Μικτό ποσό",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_WIRE_TRANSFER": "Ηλεκτρονική μεταφορά",
+    "LBL_YEAR": "Έτος",
+    "FL_INVOICE": "Τιμολόγιο",
+    "LBL_COMMENTS": "Σχόλια",
+    "FL_EXTERNAL_COMMENT": "Εξωτερικό σχόλιο",
+    "FL_INTERNAL_COMMENT": "Εσωτερικό σχόλιο",
+    "LBL_BEFORE_CORRECTION": "Πριν από τη διόρθωση",
+    "LBL_AFTER_CORRECTION": "Μετά τη διόρθωση",
+    "LBL_CORRECTION_SUMMARY": "Correction summary",
+    "LBL_CHOOSE_INVOICE": "Επιλέξτε τιμολόγιο που πρέπει να διορθωθεί",
+    "LBL_COPY_FROM_INVOICE": "Αντιγραφή από το αρχικό τιμολόγιο",
+    "LBL_INVOICE_INFO": "Πεδία αρχικού τιμολογίου - προ διορθώσεων.",
+    "LBL_AFTER_INVOICE_INFO": "Πώς πρέπει θα είναι το τελικό τιμολόγιο μετά τη διόρθωση.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Πεδία Τιμολογίου που πρέπει να διορθωθούν. Αντιγράψτε όλα τα πεδία από το αρχικό τιμολόγιο και αλλάξτε τις τιμές, όπως απαιτείται.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Επιλέξτε τιμολόγιο που πρέπει να διορθωθεί"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "项目里程碑",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "细目里程碑详情",
+    "Project Milestone Name": "项目里程碑名称",
+    "Milestone Date": "里程碑日期",
+    "Project Milestone No": "项目里程碑编号",
+    "description": "说明",
+    "Related to": "项目",
+    "FL_PARENT_PROJECT_MILESTONE": "上级项目里程碑",
+    "FL_STATUS": "状态",
+    "LBL_ESTIMATED_WORK_TIME": "预计工作时间",
+    "LBL_MILESTONES_LIST": "里程碑列表",
+    "LBL_TASKS_LIST": "任务列表",
+    "LBL_PROJECTS_LIST": "项目列表",
+    "LBL_PRIORITY": "优先级",
+    "LBL_PROGRESS": "进度",
+    "PLL_INTERNAL": "内部",
+    "PLL_EXTERNAL": "外部",
+    "PLL_SHARED": "已共享",
+    "PLL_LOW": "低",
+    "PLL_NORMAL": "普通",
+    "PLL_HIGH": "高"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Konkurencija",
+    "SINGLE_Competition": "Konkurent",
+    "LBL_COMPETITION_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "LBL_SUBJECT": "Naziv",
+    "LBL_NUMBER": "Broj",
+    "LBL_CLOSED_TIME": "Vrijeme zaključenja",
+    "LBL_VAT_ID": "ID broj",
+    "LBL_SHOW_HIERARCHY": "Hijerarhija",
+    "LBL_PARENT_ID": "Nadređeni konkurent"
+  }
+}

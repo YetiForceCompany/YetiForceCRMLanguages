@@ -157,7 +157,7 @@
         "prefix": "pl-PL",
         "crowdinCode": "pl",
         "name": "Polish",
-        "progress": 100,
+        "progress": 0,
         "time": "2026-02-11 06:17:10"
     },
     "pt-BR": {
@@ -178,7 +178,7 @@
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
-        "progress": 28,
+        "progress": 0,
         "time": "2026-02-11 06:17:44"
     },
     "ru-RU": {

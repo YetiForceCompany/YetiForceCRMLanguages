@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Phát hiện lỗi khi cập nhật các mô-đun",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Một số sai sót xuất hiện khi cập nhật",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Chúng tôi đề nghị kiểm tra bản ghi và cập nhật các hệ thống một lần nữa.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Tạo email mẫu",
+    "LBL_UPDATE_PDF_TEMPLATES": "Cập nhật mẫu PDF"
+  }
+}

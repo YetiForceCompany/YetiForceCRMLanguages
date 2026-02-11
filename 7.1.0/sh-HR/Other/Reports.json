@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Lista najnovijih prilika",
+    "LBL_FOR_VALUE": "za vrijednost",
+    "LBL_UNTIL_DAY": "do dana",
+    "LBL_ACTUAL_STATUS": "sa aktuelnim statusom",
+    "LBL_CALENDAR_OVERDUE": "Zakašnjele aktivnosti",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Lista mogućnosti najviše vrijednosti",
+    "LBL_NEW_ACCOUNTS": "Novi Klijenti",
+    "LBL_NEW_CONTACTS": "Novi Kontakti",
+    "LBL_CALENDAR_TODAY": "Kalendar događanja danas",
+    "LBL_CALENDAR_THIS_WEEK": "Kalendar događanja ove sedmice",
+    "LBL_LOGIN_HISTORY": "Login history",
+    "LBL_HELLO": "Zdravo",
+    "LBL_REPORT_DAY_CONTENT": "Ispod je dnevni sažetak aktivnosti u YetiForceu",
+    "LBL_REPORT_WEEK_CONTENT": "Ispod je sedmični sažetak aktivnosti u YetiForceu",
+    "LBL_REPORT_MONTH_CONTENT": "Ispod je mjesečni sažetak aktivnosti u YetiForceu"
+  }
+}

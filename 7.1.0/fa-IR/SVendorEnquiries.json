@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "درخواست‌های فروشنده‌",
+    "SINGLE_SVendorEnquiries": "درخواست‌ فروشنده‌ها",
+    "LBL_SCALCULATIONS_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزییات",
+    "LBL_STATISTICS": "آمارها",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "LBL_STATUS": "وضعیت",
+    "SINGLE_SSalesProcesses": "فرصت",
+    "FL_TOTAL_PRICE": "جمع خالص",
+    "FL_MARGINP": "مجموع درصد حاشیه سود",
+    "FL_MARGIN": "حاشیه سود کل",
+    "FL_VENDOR": "تامین کننده",
+    "FL_SCALCULATIONS": "محاسبه",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_FOR_VERIFICATION": "برای تایید",
+    "PLL_CANCELLED": "لغو شده",
+    "PLL_COMPLETED": "کامل شده",
+    "LBL_CHANGE_STATUS": "تغییر وضعیت"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Registar aktivnosti",
+    "SINGLE_ActivityRegister": "Registar aktivnosti",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "FL_SUBJECT": "Predmet",
+    "FL_PARENT_ACTIVITY": "Izvorna aktivnost",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Skica",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Očekuje se prihvatanje",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_COMPLETED": "Kompletirano",
+    "PLL_CANCELLED": "Otkazano",
+    "FL_DATA_SET": "Skup podataka",
+    "PLL_ENTRUSTMENT": "Povjeravanje",
+    "PLL_SHARING": "Dijeljenje",
+    "PLL_TRANSFER": "Transfer",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Prihvatanje povjerenja",
+    "PLL_INTERNAL": "Interno",
+    "FL_START_DATE": "Datum početka",
+    "FL_END_DATE": "Datum završetka",
+    "LBL_DATES": "Datumi aktivnosti",
+    "LBL_DESCRIPTION": "Opis",
+    "FL_DESCRIPTION": "Opis",
+    "FL_COMMENTS": "Komentari",
+    "LBL_COMMENTS": "Komentari",
+    "FL_ACTIVITY_TYPE": "Tip aktivnosti"
+  }
+}

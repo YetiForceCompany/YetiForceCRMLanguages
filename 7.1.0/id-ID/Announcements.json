@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Pengumuman",
+    "SINGLE_Announcements": "Pengumuman",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Informasi dasar",
+    "LBL_SUBJECT": "Perihal",
+    "LBL_NUMBER": "Nomor",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Waktu pengingat",
+    "FL_IS_MANDATORY": "Kewajiban untuk menerima",
+    "PLL_DRAFT": "Konsep",
+    "PLL_FOR_ACCEPTANCE": "Untuk persetujuan",
+    "PLL_PUBLISHED": "Telah terbit",
+    "PLL_ARCHIVES": "Diarsipkan",
+    "LBL_REMIND_ME_LATER": "Ingatkan saya nanti",
+    "LBL_MARK_AS_READ": "Tandai sudah dibaca",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Diterima?",
+    "LBL_DATE": "Baca terus"
+  }
+}

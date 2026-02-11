@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Zoznam najnovších príležitosti",
+    "LBL_FOR_VALUE": "for value",
+    "LBL_UNTIL_DAY": "do dňa",
+    "LBL_ACTUAL_STATUS": "s aktuálnym stavom",
+    "LBL_CALENDAR_OVERDUE": "Činnosti po termíne",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Zoznam najviac hodnotných príležitosti",
+    "LBL_NEW_ACCOUNTS": "Nové účty",
+    "LBL_NEW_CONTACTS": "Nové kontakty",
+    "LBL_CALENDAR_TODAY": "Kalendár - dnešné udalosti",
+    "LBL_CALENDAR_THIS_WEEK": "Kalendár - udalosti v týždni",
+    "LBL_LOGIN_HISTORY": "História prihlásení",
+    "LBL_HELLO": "Ahoj",
+    "LBL_REPORT_DAY_CONTENT": "Nižšie je denný súhrn činnosti v YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Nižšie je týždenný súhrn činnosti v YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Nižšie je mesačný súhrn činnosti v YetiForce "
+  }
+}

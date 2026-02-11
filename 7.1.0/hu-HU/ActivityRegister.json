@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Tevékenység nyilvántartás",
+    "SINGLE_ActivityRegister": "Tevékenység nyilvántartás",
+    "LBL_BASIC_INFORMATION": "Alapinformációk",
+    "FL_SUBJECT": "Tárgy",
+    "FL_PARENT_ACTIVITY": "Szülő tevékenység",
+    "FL_STATUS": "Állapot",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Elfogadásra vár",
+    "PLL_IN_REALIZATION": "Megvalósítás alatt",
+    "PLL_COMPLETED": "Teljesítve",
+    "PLL_CANCELLED": "Megszakitva",
+    "FL_DATA_SET": "Adatbeállítás",
+    "PLL_ENTRUSTMENT": "Megbízás",
+    "PLL_SHARING": "Megosztás",
+    "PLL_TRANSFER": "Átvezetés",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Megbízás elfogadása",
+    "PLL_INTERNAL": "Belső",
+    "FL_START_DATE": "Induló dátum",
+    "FL_END_DATE": "Befejezés dátuma",
+    "LBL_DATES": "Tevékenység dátumok",
+    "LBL_DESCRIPTION": "Leírás",
+    "FL_DESCRIPTION": "Leírás",
+    "FL_COMMENTS": "Hozzászólások",
+    "LBL_COMMENTS": "Hozzászólások",
+    "FL_ACTIVITY_TYPE": "Tevékenység típus"
+  }
+}

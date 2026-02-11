@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Напреднали разрешения",
+    "AdvancedPermission": "Напреднали разрешения",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Настройки на потребителски разрешения, да се предостави или да се отегли разрешение на запис.",
+    "LBL_NAME": "Име на Правило",
+    "LBL_MODULE": "Модул",
+    "LBL_ACTION": "Действие",
+    "LBL_STATUS": "Статус",
+    "LBL_ROLE": "Роля",
+    "LBL_MEMBERS": "Членове",
+    "LBL_PRIORITY": "Приоритет",
+    "FL_ACTIVE": "Активен",
+    "FL_INACTIVE": "Неактивен",
+    "FL_UNLOCK_RECORD": "Предоставяне на достъп",
+    "FL_LOCK_RECORD": "Затвори достъп",
+    "LBL_SAVE_AND_CONDITIONS": "Следващ",
+    "ERR_INACTIVE_ALERT_TITLE": "Напреднали разрешения са изключени",
+    "ERR_INACTIVE_ALERT_DESC": "Променете параметърът PERMITTED_BY_ADVANCED_PERMISSION във файла config\/security.php за да го активирате.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Преизчисляване на разрешение",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Преизчисляване на разрешение",
+    "LBL_RECALCULATE_CRON_INFO": "За преизчисляването на разрешения, CRON трябва да бъде активен, моля проверете дали задачата е активна.",
+    "LBL_MODULES_LIST": "Списък с модули",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "Специалните разрешения са били изключени, тъй като те изискват включването на запис на разрешение. За да може разрешенията да почнат да работят, cron трябва да се активира, и променливата CACHING_PERMISSION_TO_RECORD_ [config\/security.php] да се зададе на true."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "WebserviceApps": "Web service - Applications",
+    "LBL_APP_NAME": "Name",
+    "LBL_PUBLIC_URL": "Public URL address",
+    "LBL_PUBLIC_URL_INFO": "The URL will be used to send e-mail notifications and it will be possible to use the URL in the content, e.g. password reset in the Customer Portal, link to preview the record in the Customer Portal",
+    "LBL_ALLOWED_IPS": "Toegestane IP-adressen",
+    "LBL_ALLOWED_IPS_INFO": "Lege waarde - toegang van alle servers.\nAls IP-adressen worden ingevoerd (na de komma), dan wordt de toegang tot de API alleen toegestaan vanaf deze IP-adressen.\nVoorbeeld:",
+    "LBL_TYPE_SERVER": "Type",
+    "LBL_API_KEY": "Key",
+    "LBL_ADD_APPLICATION": "Add key",
+    "LBL_WEBSERVICE_APPS": "Web service - Applications",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "Create and manage application keys that integrate via API.",
+    "LBL_MODAL_ALERT": "The access data should be entered in the header in each API request.",
+    "Mail": "E-mail",
+    "LBL_PASS": "Wachtwoord",
+    "LBL_TITLE_ADDED": "Add",
+    "LBL_TITLE_EDIT": "Bewerken",
+    "WebservicePremium": "Webservice Premium",
+    "WebserviceStandard": "Webservice Standard",
+    "Payments": "Payments",
+    "ManageConsents": "Manage consents",
+    "SMS": "SMS"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "Are you sure you want to delete the key?"
+  }
+}

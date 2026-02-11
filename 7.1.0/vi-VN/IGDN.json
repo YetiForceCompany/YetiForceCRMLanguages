@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDN": "Goods Dispatched Note",
+    "SINGLE_IGDN": "Goods Dispatched Note",
+    "LBL_DESCRIPTION_BLOCK": "Mô tả",
+    "LBL_ATTENTION_BLOCK": "Nhận xét",
+    "FL_ACCEPTANCE_DATE": "Ngày chấp nhận",
+    "FL_ACCOUNT": "Khách hàng",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_NUMBER": "Số",
+    "FL_STORAGE": "Kho lưu trữ",
+    "FL_STATUS": "Trạng thái",
+    "FL_SSIGNLEORDERS": "Đơn mua hàng",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_IN_REALIZATION": "Thực hiện",
+    "PLL_OBJECTIONS": "Mục tiêu",
+    "PLL_FOR_APPROVAL": "Chờ chấp thuận",
+    "PLL_CANCELLED": "Đã huỷ",
+    "PLL_ACCEPTED": "Đã chấp nhận",
+    "LBL_CHANGE_STATUS": "Đổi trạng thái"
+  }
+}

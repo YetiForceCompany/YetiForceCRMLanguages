@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "Posizioni",
+    "SINGLE_Locations": "Posizione",
+    "LBL_LOCATIONS_INFORMATION": "Informazioni di base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione dettagli",
+    "LBL_SUBJECT": "Oggetto",
+    "LBL_NUMBER": "Numero",
+    "LBL_CLOSED_TIME": "Ora di chiusura",
+    "FL_PHONE": "Telefono",
+    "FL_CAPACITY": "Capacità",
+    "FL_COORDINATES": "Coordinate"
+  }
+}

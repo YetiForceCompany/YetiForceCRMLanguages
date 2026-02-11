@@ -1,0 +1,12 @@
+{
+  "php": {
+    "CustomView": "Filtre - Configurare",
+    "LBL_FEATURED": "Adaugă la favorite",
+    "LBL_COLOR_VIEW": "Vezi culoare",
+    "LBL_ADD_FIELD": "Adaugă câmp",
+    "LBL_CUSTOM_RELATION_COLUMN": "Coloană personalizată cu relație",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrare unei coloane suplimentare în lista de înregistrări. Filtrează pe baza intrărilor găsite în înregistrările asociate. ",
+    "LBL_CUSTOM_CONDITIONS": "Condiții de filtrare a înregistrărilor corelate",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtrează lista curentă de înregistrări pe baza relațiilor și a înregistrărilor corelate care îndeplinesc criteriile specificate."
+  }
+}

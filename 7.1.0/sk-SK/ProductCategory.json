@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Kategória produktu",
+    "SINGLE_ProductCategory": "Kategória produktu",
+    "LBL_CUSTOM_INFORMATION": "Vlastné Informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "FL_PARENT_CATEGORY": "Nadradená kategória",
+    "LBL_CHILD_PRODUCTCATEGORY": "Podkategórie",
+    "FL_ACTIVE": "Aktívna",
+    "FL_CATEGORY_NAME": "Názov kategórie"
+  }
+}

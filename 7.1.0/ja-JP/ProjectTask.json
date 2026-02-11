@@ -1,0 +1,31 @@
+{
+  "php": {
+    "SINGLE_ProjectTask": "プロジェクトタスク",
+    "Project Task": "プロジェクトタスク",
+    "Start Date": "開始日",
+    "Target End Date": "目標の終了日",
+    "End Date": "終了日",
+    "Related to": "関連",
+    "Parent ID": "関連するタスク",
+    "Project Task Number": "プロジェクトタスク番号",
+    "description": " 説明",
+    "FL_TOTAL_TIME_H": "合計作業時間",
+    "Project Task No": "プロジェクト タスク番号",
+    "Project Task Name": "プロジェクト タスク名",
+    "LBL_ESTIMATED_WORK_TIME": "推定作業時間",
+    "Add Project Task": "プロジェクトタスクを追加",
+    "LBL_PROJECT_TASK_INFORMATION": "プロジェクトタスク詳細",
+    "LBL_PROJECTS_LIST": "プロジェクト一覧",
+    "LBL_TASKS_LIST": "タスク一覧",
+    "LBL_MILESTONES_LIST": "マイルストーン一覧",
+    "low": "低",
+    "normal": "標準",
+    "high": "高",
+    "administrative": "内部",
+    "operative": "外部",
+    "other": "共有",
+    "LBL_PROJECT": "プロジェクト",
+    "LBL_UPCOMING_PROJECT_TASKS": "Upcoming project tasks",
+    "LBL_COMPLETED_PROJECT_TASKS": "Completed project tasks"
+  }
+}

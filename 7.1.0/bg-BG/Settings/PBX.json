@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Име",
+    "LBL_TYPE": "Вид",
+    "LBL_DEFAULT": "Основна",
+    "LBL_ADD_RECORD": "Добавяне на запис",
+    "LBL_CREATE_RECORD": "Добавяне на телефон",
+    "LBL_EDIT_RECORD": "Редактиране на телефонен номер",
+    "LBL_URL": "Адрес на сървъра",
+    "LBL_USERNAME": "Вход",
+    "LBL_PASSWORD": "Парола",
+    "LBL_SECRET_KEY": "Секретен ключ",
+    "LBL_OUTBOUND_CONTEXT": "Изходящ Контекст",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "Основна",
+    "LBL_PBX_BASE": "Base (default in browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Промените са запазени"
+  }
+}

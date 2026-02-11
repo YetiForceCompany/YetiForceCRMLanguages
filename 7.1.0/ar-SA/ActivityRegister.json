@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "سجل النشاط",
+    "SINGLE_ActivityRegister": "سجل النشاط",
+    "LBL_BASIC_INFORMATION": "معلومات أساسية",
+    "FL_SUBJECT": "الموضوع",
+    "FL_PARENT_ACTIVITY": "النشاط الرئيسي",
+    "FL_STATUS": "الحالة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_WAITING_FOR_ACCEPTANCE": "في انتظار القبول",
+    "PLL_IN_REALIZATION": "تحقيق",
+    "PLL_COMPLETED": "إكمال",
+    "PLL_CANCELLED": "ملغى",
+    "FL_DATA_SET": "تم تحديد البيانات",
+    "PLL_ENTRUSTMENT": "تكليف",
+    "PLL_SHARING": "المشاركة",
+    "PLL_TRANSFER": "تحويل",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "تكليف القبول",
+    "PLL_INTERNAL": "الداخلي",
+    "FL_START_DATE": "تاريخ الابتداء",
+    "FL_END_DATE": "نهاية التاريخ",
+    "LBL_DATES": "النشاط التواريخ",
+    "LBL_DESCRIPTION": "الوصف",
+    "FL_DESCRIPTION": "الوصف",
+    "FL_COMMENTS": "تعليقات الاعتدال",
+    "LBL_COMMENTS": "تعليقات الاعتدال",
+    "FL_ACTIVITY_TYPE": "نوع النشاط"
+  }
+}

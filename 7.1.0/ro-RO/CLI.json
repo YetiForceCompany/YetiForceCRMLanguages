@@ -1,0 +1,7 @@
+{
+  "php": {
+    "DELETE_REGISTRATION_QUESTION": "Sunteți sigur că doriți să ștergeți datele de înregistrare? Aceasta va duce la pierderea tuturor abonamentelor.",
+    "REGISTRATION_DELETED": "Datele înregistrării au fost șterse",
+    "OPERATION_CANCELED": "Operațiunea a fost anulată"
+  }
+}

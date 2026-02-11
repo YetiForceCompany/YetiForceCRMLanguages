@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "依赖字段",
+    "LBL_FIELDS_DEPENDENCY": "依赖字段",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "依据特定标准配置动态字段和块",
+    "LBL_NAME": "依赖名称",
+    "LBL_EDIT": "编辑依赖",
+    "LBL_CREATE": "创建新依赖",
+    "LBL_SOURCE_MODULE": "模块名称",
+    "LBL_VIEWS": "视图",
+    "LBL_VIEWS_INFO": "字段要隐藏/显示的视图列表，如果未选择视图，则此字段会始终可见",
+    "LBL_FIELDS_INFO": "仅当满足以下条件时，字段列表才可见",
+    "LBL_GUI": "动态字段",
+    "LBL_GUI_INFO": "启用此功能后，当更改字段的值时，会动态显示表格中的字段。\n如果禁用此功能，则变更仅在保存数据后生效。",
+    "LBL_MANDATORY": "必填字段",
+    "LBL_MANDATORY_INFO": "启用所有在以下列出的字段是强制性的",
+    "LBL_CONDITIONS": "条件"
+  }
+}

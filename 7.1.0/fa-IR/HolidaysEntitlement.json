@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "تعطیلات سالیانه استحقاقی",
+    "SINGLE_HolidaysEntitlement": "تعطیلات سالیانه استحقاقی",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "اطلاعات سفارشی",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_YEAR": "سال",
+    "LBL_DAYS": "تعداد تعطیلات",
+    "LBL_EMPLOYEE": "کارمند",
+    "LBL_NUMBER": "شماره"
+  }
+}

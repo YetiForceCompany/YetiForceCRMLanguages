@@ -1,0 +1,38 @@
+{
+  "php": {
+    "FCorectingInvoice": "Korrekciós Számlák",
+    "SINGLE_FCorectingInvoice": "Helyesbítő Számla",
+    "LBL_CUSTOM_INFORMATION": "Rendszer információ",
+    "LBL_INVOICE_ADDRESS": "Számlázási cím",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Postázási cím",
+    "FL_SUBJECT": "Tárgy",
+    "FL_PAYMENT_DATE": "Határidő",
+    "FL_SALE_DATE": "Értékesítés dátuma",
+    "FL_BANK_ACCOUNT": "Bankszámla szám",
+    "FL_NUMBER": "Számla sorszáma",
+    "FL_ACCOUNT": "Számlaszám",
+    "FL_TOTAL": "Netto",
+    "FL_GROSS": "Bruttó",
+    "FL_STATUS": "Státusz",
+    "PLL_WIRE_TRANSFER": "Elektronikus átutalás",
+    "LBL_YEAR": "Év",
+    "FL_INVOICE": "Számla",
+    "LBL_COMMENTS": "Hozzászólások",
+    "FL_EXTERNAL_COMMENT": "Külső hozzászólás",
+    "FL_INTERNAL_COMMENT": "Belső hozzászólás",
+    "LBL_BEFORE_CORRECTION": "A korrekció előtt",
+    "LBL_AFTER_CORRECTION": "Korrekció után",
+    "LBL_CORRECTION_SUMMARY": "Correction summary",
+    "LBL_CHOOSE_INVOICE": "Válassza ki a helyesbíteni kívánt számlát",
+    "LBL_COPY_FROM_INVOICE": "Számlamásolat",
+    "LBL_INVOICE_INFO": "Eredeti számla mezők - kiigazítás előtt.",
+    "LBL_AFTER_INVOICE_INFO": "Végső számla nézet a korrekciót követően.",
+    "LBL_AFTER_INVOICE_INFO_EDIT": "Számla mezőket ki kell javítani. Másolja át az összes mezőt az eredeti számla, illetve értékek módosítása szükséges.",
+    "FL_ISSUE_TIME": "Correcting invoice date",
+    "LBL_COMARCH_BLOCK": "Comarch integration information",
+    "FL_COMARCH_NUMBER": "Number from comarch"
+  },
+  "js": {
+    "JS_FCORECTINGINVOICE_CHOOSE_INVOICE": "Válassza ki a helyesbíteni kívánt számlát"
+  }
+}

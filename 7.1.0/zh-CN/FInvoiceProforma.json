@@ -1,0 +1,23 @@
+{
+  "php": {
+    "FInvoiceProforma": "形式发票",
+    "SINGLE_FInvoiceProforma": "形式发票",
+    "LBL_CUSTOM_INFORMATION": "系统信息",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "收信人地址",
+    "FL_SUBJECT": "标题",
+    "FL_PAYMENT_DATE": "截止日期",
+    "FL_SALE_DATE": "销售日期",
+    "FL_ACCOUNT": "客户",
+    "FL_STATUS": "状态",
+    "FL_NUMBER": "付款通知单号码",
+    "FL_TOTAL": "净总额",
+    "FL_GROSS": "毛总额",
+    "PLL_WIRE_TRANSFER": "电子转账",
+    "FL_PAYMENT_SUM": "支付总额",
+    "FL_PAYMENT_STATUS": "支付状态",
+    "PLL_NOT_PAID": "未支付",
+    "PLL_PAID": "已支付",
+    "PLL_OVERPAID": "超额支付",
+    "PLL_UNDERPAID": "未足额支付"
+  }
+}

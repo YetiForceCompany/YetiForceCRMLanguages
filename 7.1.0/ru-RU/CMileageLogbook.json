@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Журнал учета пробега",
+    "SINGLE_CMileageLogbook": "Журнал учета пробега",
+    "LBL_ADDITIONAL_INFORMATION": "Дополнительная информация",
+    "LBL_BASIC_INFORMATION": "Основная информация",
+    "LBL_DESCRIPTION_BLOCK": "Описание",
+    "LBL_ATTENTION_BLOCK": "Примечания",
+    "FL_SUBJECT": "Тема",
+    "FL_STATUS": "Статус",
+    "FL_NUMBER_KILOMETERS": "Количество км",
+    "PLL_DRAFT": "Драфт",
+    "PLL_FOR_APPROVAL": "На утверждении",
+    "PLL_ACCEPTED": "Утверждено",
+    "PLL_CANCELLED": "Отклонено"
+  }
+}

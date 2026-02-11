@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Conflict de interese",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Conflict de interese",
+    "LBL_MAIN_CONFIG": "Configurație generală",
+    "LBL_MODULES": "Module",
+    "LBL_UNLOCK_REQUESTS": "Deblochează cererile",
+    "LBL_CONFIRMATIONS": "Confirmări",
+    "LBL_IS_ACTIVE": "Activează un conflict de interese",
+    "LBL_NOTIFICATIONS_EMAILS": "Adresă de e-mail pentru notificări",
+    "LBL_INTERVAL_TIME": "Interval de timp",
+    "LBL_INTERVAL_TIME_DESC": "Intervalul de timp care definește cât de des sistemul ar trebui să forțeze confirmarea cu privire la absența conflictelor de interese.",
+    "LBL_INDEFINITELY": "nedefinit",
+    "LBL_USERS_CONFIRMATIONS": "Acces la panou de confirmare",
+    "LBL_USERS_UNLOCK": "Acces la deblocarea panoului de solicitări",
+    "LBL_RELATIONSHIP": "Relații",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Se trimite un e-mail atunci când se solicită acces la înregistrare",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-mail trimis celor de mai sus (adrese de e-mail pentru notificări)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Trimite un email cu rezultatul cererii de acces la înregistrare",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-mail trimis persoanei care solicită accesul"
+  }
+}

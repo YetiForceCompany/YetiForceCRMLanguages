@@ -1,0 +1,23 @@
+{
+  "php": {
+    "FInvoiceProforma": "Facturi proforme",
+    "SINGLE_FInvoiceProforma": "Factura proformă",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_ADDRESS_DELIVERY_INFORMATION": "Adresă de livrare",
+    "FL_SUBJECT": "Subiect",
+    "FL_PAYMENT_DATE": "Data scadenței",
+    "FL_SALE_DATE": "Data emiterii",
+    "FL_ACCOUNT": "Cont",
+    "FL_STATUS": "Status",
+    "FL_NUMBER": "Numar factura",
+    "FL_TOTAL": "Net",
+    "FL_GROSS": "Brut",
+    "PLL_WIRE_TRANSFER": "Transfer electronic",
+    "FL_PAYMENT_SUM": "Total plăti",
+    "FL_PAYMENT_STATUS": "Situația plăților",
+    "PLL_NOT_PAID": "Neplătită",
+    "PLL_PAID": "Plătită",
+    "PLL_OVERPAID": "Supraplătită",
+    "PLL_UNDERPAID": "Plătit excesiv"
+  }
+}

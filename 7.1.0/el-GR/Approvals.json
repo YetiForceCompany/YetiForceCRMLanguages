@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Εγκρίσεις",
+    "SINGLE_Approvals": "Έγκριση",
+    "LBL_CUSTOM_INFORMATION": "Προσαρμοσμένες Πληροφορίες",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
+    "LBL_DESCRIPTION_INFORMATION": "Λεπτομέρειες Περιγραφής",
+    "FL_NAME": "Όνομα",
+    "FL_APPROVALS_STATUS": "Κατάσταση",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_NUMBER": "Αριθμός",
+    "PLL_DRAFT": "Σχέδιο",
+    "PLL_ACTIVE": "Ενεργό",
+    "PLL_INACTIVE": "Ανενεργό"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Interessenkonflikt",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Interessenkonflikt",
+    "LBL_MAIN_CONFIG": "Allgemeine Konfiguration",
+    "LBL_MODULES": "Module",
+    "LBL_UNLOCK_REQUESTS": "Anfragen entsperren",
+    "LBL_CONFIRMATIONS": "Bestätigungen",
+    "LBL_IS_ACTIVE": "Aktivierung eines Interessenkonflikts",
+    "LBL_NOTIFICATIONS_EMAILS": "E-Mail-Adressen für Benachrichtigungen",
+    "LBL_INTERVAL_TIME": "Zeitintervall",
+    "LBL_INTERVAL_TIME_DESC": "Zeitintervall definiert, wie oft das System eine Bestätigung über das Fehlen von Interessenkonflikten erzwingen sollte.",
+    "LBL_INDEFINITELY": "unbegrenzt",
+    "LBL_USERS_CONFIRMATIONS": "Zugang zum Bestätigungsfeld",
+    "LBL_USERS_UNLOCK": "Zugriff auf das Request-Panel",
+    "LBL_RELATIONSHIP": "Beziehung",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Senden Sie eine E-Mail, wenn Sie Zugriff auf den Datensatz anfordern",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "E-Mail an die oben genannten Personen gesendet (E-Mail-Adressen für Benachrichtigungen)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Senden Sie eine E-Mail mit dem Ergebnis der Anfrage für den Zugriff auf den Datensatz",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "E-Mail an die Person gesendet, die Zugang anfordert"
+  }
+}

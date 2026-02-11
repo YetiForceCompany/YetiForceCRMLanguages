@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Aprovações",
+    "SINGLE_Approvals": "Aprovação",
+    "LBL_CUSTOM_INFORMATION": "Informações personalizadas",
+    "LBL_BASIC_INFORMATION": "Informações básicas",
+    "LBL_DESCRIPTION_INFORMATION": "Detalhes da descrição",
+    "FL_NAME": "Nome",
+    "FL_APPROVALS_STATUS": "Estado",
+    "FL_DESCRIPTION": "Descrição",
+    "FL_NUMBER": "Número",
+    "PLL_DRAFT": "Rascunho",
+    "PLL_ACTIVE": "Ativo",
+    "PLL_INACTIVE": "Inativo"
+  }
+}
