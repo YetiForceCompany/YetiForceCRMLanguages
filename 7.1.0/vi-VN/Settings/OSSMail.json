@@ -1,8 +1,8 @@
 {
   "php": {
-    "OSSMail": "My mailbox",
+    "OSSMail": "Hộp thư của tôi",
     "LBL_OSSMAIL": "Mail – RoundCube",
-    "ERR_NO_MODULE_IS_INACTIVE": "\"My mailbox\" module is inactive, it should be enabled before configuration."
+    "ERR_NO_MODULE_IS_INACTIVE": "Mô-đun \"Hộp thư của tôi\" không hoạt động, nó cần được bật trước khi cấu hình."
   },
   "js": {}
 }

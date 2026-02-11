@@ -35,7 +35,7 @@
     "LBL_ADDED": "added",
     "LBL_UNLINK": "removed relation",
     "LBL_REMOVED": "removed",
-    "LBL_CONVERTED_FROM_LEAD": "Converted from lead",
+    "LBL_CONVERTED_FROM_LEAD": "잠재고객에서 전환",
     "LBL_DELETED": "Deleted record",
     "LBL_DELETED_VALUE": "Deleted value",
     "LBL_ACTIVE": "Restored record",

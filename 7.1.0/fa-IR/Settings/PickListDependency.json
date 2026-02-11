@@ -1,16 +1,16 @@
 {
   "php": {
-    "Selected Values": "Selected values",
-    "LBL_ADD_RECORD": "Add record",
-    "PickListDependency": "PickList Dependency",
-    "LBL_PICKLIST_DEPENDENCY": "Picklist dependency",
-    "LBL_SELECT_FIELD": "Select field",
-    "LBL_SELECT_MODULE": "Module",
-    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",
-    "LBL_SOURCE_FIELD": "Source field",
-    "LBL_MODULE": "Module"
+    "Selected Values": "مقادیر انتخاب شده",
+    "LBL_ADD_RECORD": "افزودن رکورد",
+    "PickListDependency": "وابستگی فهرست انتخابی",
+    "LBL_PICKLIST_DEPENDENCY": "وابستگی لیست انتخاب",
+    "LBL_SELECT_FIELD": "انتخاب فیلد",
+    "LBL_SELECT_MODULE": "ماژول",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "انتخاب منبع مقادیر لیست انتخاب",
+    "LBL_SOURCE_FIELD": "منبع فیلد",
+    "LBL_MODULE": "ماژول"
   },
   "js": {
-    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure you want to delete this picklist dependency?"
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "آیا شما مطمئن می‌باشید که می خواهید وابستگی ایجاد شده میان این فهرست انتخابی را حذف کنید؟"
   }
 }

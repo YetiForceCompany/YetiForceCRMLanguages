@@ -14,7 +14,7 @@
     "LBL_DURATION": "Duration",
     "Id": "Id",
     "Last End": "Last scan ended",
-    "Last update": "Last update",
+    "Last update": "Última atualização",
     "Last Start": "Last scan started",
     "LBL_ACTIVE": "Active",
     "LBL_COMPLETED": "Completed",
@@ -55,7 +55,7 @@
     "LBL_RECORD_LABEL_UPDATER": "Update labels",
     "Activity state": "Activity State",
     "LBL_MAILER": "Emails sender",
-    "LBL_MAGENTO": "Integration with Magento",
+    "LBL_MAGENTO": "Integração com Magento",
     "LBL_CARD_DAV": "CardDav integration",
     "LBL_CAL_DAV": "CalDav integration",
     "LBL_CLEAR_ATTACHMENTS_TABLE": "Clear attachments table",
@@ -71,7 +71,7 @@
     "LBL_ARCHIVE_OLD_RECORDS": "Archive old records",
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "The CRON mechanism has not been enabled, it is required for the correct operation of the system.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Download messages from social media",
-    "LBL_MAIL_RBL": "RBL servers update",
+    "LBL_MAIL_RBL": "Atualização de servidores RBL",
     "LBL_INTEGRATION_PL_GUS_REGON": "Creating newly added companies from the PL GUS REGON database"
   },
   "js": {

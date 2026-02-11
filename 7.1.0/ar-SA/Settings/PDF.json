@@ -1,7 +1,7 @@
 {
   "php": {
-    "PLL_TEXT": "Text",
-    "PLL_IMAGE": "Image",
+    "PLL_TEXT": "النص",
+    "PLL_IMAGE": "صورة",
     "LBL_PDF": "PDF",
     "LBL_PDF_DESCRIPTION": "Test version of the PDF template configuration",
     "LBL_CREATING_PDF": "Create PDF template",
@@ -28,7 +28,7 @@
     "LBL_META_AUTHOR": "Author",
     "LBL_META_SUBJECT": "Subject",
     "LBL_META_KEYWORDS": "Keywords",
-    "PLL_COMPANY_NAME": "Company name",
+    "PLL_COMPANY_NAME": "اسم الشركة",
     "PLL_USER_CREATING": "User who generates the document",
     "LBL_METATAGS": "Automatic meta tags",
     "LBL_PAGE_FORMAT": "Format",
@@ -56,7 +56,7 @@
     "LBL_RELATED_MODULES": "Related modules",
     "LBL_RELATED_MODULES_FIELDS": "Related module fields",
     "LBL_SPECIAL_FUNCTIONS": "Special functions",
-    "LBL_COMPANY_FIELDS": "Company details",
+    "LBL_COMPANY_FIELDS": "تفاصيل الشركة",
     "LBL_LABEL": "Label",
     "LBL_FIELD": "Value",
     "LBL_HEADER_DETAILS": "Edit header",

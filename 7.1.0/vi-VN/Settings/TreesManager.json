@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_ADD_RECORD": "Add",
-    "TreesManager": "Tree manager",
-    "LBL_TREES_MANAGER": "Fields – Folders",
+    "LBL_ADD_RECORD": "Thêm",
+    "TreesManager": "Quản lý cây",
+    "LBL_TREES_MANAGER": "Trường - Thư mục",
     "LBL_TREES_MANAGER_DESCRIPTION": "Tree template manager",
     "LBL_NO_RECORDS_FOUND": "No tree templates",
     "LBL_EDIT_TEMPLATE_TREES": "Edit tree template",

@@ -35,7 +35,7 @@
     "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",
-    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Configurations sauvegardés",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Merci de saisir une valeur entre 1-100"
   }
 }

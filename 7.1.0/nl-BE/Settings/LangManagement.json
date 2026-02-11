@@ -14,14 +14,14 @@
     "LBL_Lang_active": "Language available for",
     "LBL_Lang_ac_admin": "Administrator",
     "LBL_Lang_ac_user": "Users",
-    "LBL_Lang_action": "Actions",
+    "LBL_Lang_action": "Acties",
     "LBL_LAST_UPDATE": "Update date",
     "LBL_SaveDataOK": "Changes saved",
     "LBL_DeleteDataOK": "Language deleted",
     "LBL_AddDataOK": "New language added",
     "LBL_ADD_LANG": "Add new language",
     "LBL_ADD_Translate": "Add translation",
-    "LBL_Cancel": "Cancel",
+    "LBL_Cancel": "Annuleren",
     "LBL_AddLanguage": "Add",
     "LBL_Delete": "Delete",
     "LBL_LangExist": "This language code already exists, enter a new one.",
@@ -39,9 +39,9 @@
     "Modules": "Modules",
     "Module": "Module",
     "Language": "Language",
-    "LBL_TranslationType": "Translation type",
+    "LBL_TranslationType": "Translation Type",
     "LBL_KeyExists": "This language variable already exists",
-    "Export": "Export",
+    "Export": "Exporteren",
     "LBL_SHOW_MISSING_TRANSLATIONS": "Show missing translations",
     "LBL_DEFAULT": "Default",
     "LBL_DO_NOT_POSSIBLE_TO_MAKE_CHANGES": "Cannot make changes",
@@ -68,6 +68,6 @@
     "Search": "Search:",
     "No data available in table": "No translations",
     "JS_NOTRANSLATION": "--No Translation--",
-    "JS_EXPORT": "Export"
+    "JS_EXPORT": "Exporteren"
   }
 }

@@ -10,11 +10,11 @@
     "LBL_EVENT_IS_ACTIVE": "Is active",
     "LBL_EDIT_VIEW_PRESAVE": "Validation before saving the record",
     "LBL_ENTITY_CHANGE_STATE": "Change state",
-    "LBL_ENTITY_BEFORE_SAVE": "Before save",
-    "LBL_ENTITY_AFTER_SAVE": "After save",
-    "LBL_DETAIL_VIEW_BEFORE": "Detail View",
-    "LBL_EDIT_VIEW_BEFORE": "Edit View",
-    "LBL_EDIT_VIEW_DUPLICATE": "Edit View (Duplicate)",
-    "LBL_INVENTORY_RECORD_DETAILS": "Loading data for inventory"
+    "LBL_ENTITY_BEFORE_SAVE": "Pred uložením",
+    "LBL_ENTITY_AFTER_SAVE": "Po uložení",
+    "LBL_DETAIL_VIEW_BEFORE": "Detailné zobrazenie",
+    "LBL_EDIT_VIEW_BEFORE": "Upraviť Zobrazenie",
+    "LBL_EDIT_VIEW_DUPLICATE": "Upraviť Zobrazenie (Duplikát)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Načítanie dát pre inventár"
   }
 }

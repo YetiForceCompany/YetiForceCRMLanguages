@@ -1,11 +1,11 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
-    "RecycleBin": "Trash bin"
+    "LBL_RECYCLE_DELETE_ALL": "Odstrániť všetko v koši",
+    "RecycleBin": "Kôš"
   },
   "js": {
-    "JS_MASS_DELETE": "Mass delete",
-    "JS_MASS_ACTIVATE": "Mass activate",
+    "JS_MASS_DELETE": "Hromadné vymazanie",
+    "JS_MASS_ACTIVATE": "Hromadná aktivácia",
     "JS_DELETE_ALL_RECYCLE_RECORD": "Delete all records from Recycle Bin",
     "JS_ACTIVATE_RECORD_DESC": "Activating a record only changes the record's state without changing the rest of information. Are you sure you want to activate the record?",
     "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Deleting a record is permanent and irreversible for all record's information. Are you sure you want to delete the record?",

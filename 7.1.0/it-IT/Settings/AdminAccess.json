@@ -1,23 +1,23 @@
 {
   "php": {
-    "AdminAccess": "Admin access",
-    "LBL_ADMIN_ACCESS": "Admin access",
-    "LBL_PERMISSIONS": "Permissions",
-    "BTN_MASS_EDIT_ACCESS": "Mass edit",
-    "FL_MODULE_NAME": "Module name",
-    "LBL_ACTIVE": "Active",
-    "LBL_EDIT_ADMIN_ACCESS": "Editing of admin accesses",
-    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Visits Purpose",
-    "FL_DATE_TIME": "Date",
-    "FL_PURPOSE": "Purpose",
-    "FL_USER": "User",
-    "FL_BASE_USER": "Base user",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
-    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
-    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+    "AdminAccess": "Accesso amministratore",
+    "LBL_ADMIN_ACCESS": "Accesso amministratore",
+    "LBL_PERMISSIONS": "Permessi",
+    "BTN_MASS_EDIT_ACCESS": "Modifica massiva",
+    "FL_MODULE_NAME": "Nome modulo",
+    "LBL_ACTIVE": "Attivo",
+    "LBL_EDIT_ADMIN_ACCESS": "Modifica degli accessi di amministrazione",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Scopo Visite",
+    "FL_DATE_TIME": "Data",
+    "FL_PURPOSE": "Scopo",
+    "FL_USER": "Utente",
+    "FL_BASE_USER": "Utente base",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Chiedi lo scopo dell'accesso",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Vuoi attivare la richiesta di inserimento dello scopo della visita per gli amministratori quando accedono al sistema?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Chiedi il cambio dello scopo degli utenti",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Vuoi attivare la finestra dello scopo della visita per amministratori quando gli utenti cambiano nel sistema?"
   },
   "js": {
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "Modifiche salvate"
   }
 }

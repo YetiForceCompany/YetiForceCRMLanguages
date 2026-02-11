@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
-    "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Search Configuration": "設定を検索",
+    "Search Setup": "ラベルと検索",
+    "Search": "設定を検索",
+    "LBL_Module_desc": "このパネルでは、10 項目を出力するラベルと検索メカニズムを設定できます。 これらのメカニズムは独立して動作します。検索中にフィールドに複数の列を表示できます。 レコードを選択するとラベルの名前が読み込まれます",
+    "Module": "モジュール",
+    "Table": "表",
+    "LabelFields": "モジュールのメインカラム（10の表示ラベルを含む）",
+    "SearchFields": "検索メカニズムの列",
+    "Tools": "アクション",
+    "Update labels": "ラベルを更新",
+    "LBL_SAVE_CHANGES_SEARCHING": "保存された変更。",
+    "LBL_SAVE_CHANGES_LABLE": "設定の変更が保存されました。システム内の変更を確認するには、このモジュールを更新する必要があります。",
+    "Update has been completed": "選択したモジュールは正常に更新されました。変更はCRONを介して実現されます。ラベルの更新時間はデータの量によって異なります。",
+    "LBL_SAVE_MODULE_SEQUENCE": "モジュールのシーケンスを保存",
+    "LBL_TURN_ON": "オンにする",
+    "LBL_TURN_OFF": "OFFにする"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "更新中…",
+    "Update labels": "更新",
+    "JS_MODULES_SEQUENCE_UPDATED": "モジュールのシーケンスが更新されました",
+    "JS_TURN_ON": "オンにする",
+    "JS_TURN_OFF": "OFFにする"
   }
 }

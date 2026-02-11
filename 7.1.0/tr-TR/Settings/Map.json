@@ -1,11 +1,11 @@
 {
 	"php": {
-		"Map": "Map",
-		"LBL_MAP": "Map",
+		"Map": "Harita",
+		"LBL_MAP": "Harita",
 		"LBL_MAP_DESCRIPTION": "",
 		"LBL_TILE_LAYER": "Tile layer",
 		"LBL_TILE_LAYER_INFO": "Select the server from which you want to download tile layers for maps in the system. Each server offers a different look of the map, you can also add your own or public server but pay attention to limits and license restrictions.",
-		"LBL_PROVIDER_NAME": "Provider name",
+		"LBL_PROVIDER_NAME": "Sağlayıcı adı",
 		"LBL_API_URL": "Provider API URL",
 		"LBL_DRIVER": "Driver",
 		"LBL_COORDINATES": "Coordinates",

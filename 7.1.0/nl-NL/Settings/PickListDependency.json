@@ -1,13 +1,13 @@
 {
   "php": {
-    "Selected Values": "Selected values",
+    "Selected Values": "Selected Values",
     "LBL_ADD_RECORD": "Add record",
     "PickListDependency": "PickList Dependency",
-    "LBL_PICKLIST_DEPENDENCY": "Picklist dependency",
+    "LBL_PICKLIST_DEPENDENCY": "Picklist Dependency",
     "LBL_SELECT_FIELD": "Select field",
     "LBL_SELECT_MODULE": "Module",
-    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",
-    "LBL_SOURCE_FIELD": "Source field",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select Source Picklist Values",
+    "LBL_SOURCE_FIELD": "Source Field",
     "LBL_MODULE": "Module"
   },
   "js": {

@@ -1,8 +1,8 @@
 {
   "php": {
-    "OSSMail": "My mailbox",
+    "OSSMail": "صندوق پستی من",
     "LBL_OSSMAIL": "Mail – RoundCube",
-    "ERR_NO_MODULE_IS_INACTIVE": "\"My mailbox\" module is inactive, it should be enabled before configuration."
+    "ERR_NO_MODULE_IS_INACTIVE": "ماژول «صندوق پستی من» غیرفعال می‌باشد، برای تنظیم مجدد باید فعال گردد."
   },
   "js": {}
 }

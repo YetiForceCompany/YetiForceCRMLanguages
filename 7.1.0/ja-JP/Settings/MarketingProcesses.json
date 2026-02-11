@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_CONVERSION": "Conversion",
-    "LBL_CONVERSION_TO_ACCOUNT": "Change Assigned To",
-    "LBL_CONVERSION_TO_ACCOUNT_INFO": "When this option is ticked, a user who converts a Lead to an Account becomes its Assigned To",
-    "LBL_LEADS": "Leads",
-    "LBL_INFO": "Information",
-    "LBL_VALUES": "Values",
-    "LBL_GROUPS_INFO": "Groups with no Assigned To",
-    "LBL_LEAD_STATUS": "Statuses indicating end of work with Leads",
-    "LBL_LEAD_CONVERT_STATUS": "Statuses that allow for converting Lead to Account",
-    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
-    "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
-    "LBL_CONDITION": "Add condition",
-    "MarketingProcesses": "Marketing processes"
+    "LBL_CONVERSION": "変換",
+    "LBL_CONVERSION_TO_ACCOUNT": "担当を変更",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "このオプションがチェックされている場合、リードをアカウントに変換するユーザーが担当になります",
+    "LBL_LEADS": "リード",
+    "LBL_INFO": "情報",
+    "LBL_VALUES": "値",
+    "LBL_GROUPS_INFO": "割り当てられていないグループ",
+    "LBL_LEAD_STATUS": "リードの作業終了を示すステータス",
+    "LBL_LEAD_CONVERT_STATUS": "リードをアカウントに変換できるステータス",
+    "LBL_CONVERT_LEAD_MERGE": "リードからアカウントへの変換中に記録のミーティング指定の要件をリンクする",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "このオプションを使用すると、変換されたレコードを既存のレコードと自動的にリンクすることができます - 新しいアカウントは作成されません。 代わりに、既存のレコードデータはすべてリードから転送されます",
+    "LBL_CONDITION": "条件の追加",
+    "MarketingProcesses": "マーケティングプロセス"
   },
   "js": {
-    "JS_NO_CONDITIONS": "At least one condition is required"
+    "JS_NO_CONDITIONS": "少なくとも 1 つの条件が必要です"
   }
 }

@@ -1,7 +1,7 @@
 {
   "php": {
     "Selected Values": "Selected values",
-    "LBL_ADD_RECORD": "Add record",
+    "LBL_ADD_RECORD": "Kayıt ekle",
     "PickListDependency": "PickList Dependency",
     "LBL_PICKLIST_DEPENDENCY": "Picklist dependency",
     "LBL_SELECT_FIELD": "Select field",

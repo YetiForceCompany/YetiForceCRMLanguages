@@ -1,8 +1,8 @@
 {
   "php": {
-    "FBookkeeping": "Bookkeeping",
-    "SINGLE_FBookkeeping": "Bookkeeping",
-    "FBookkeeping ID": "Bookkeeping ID",
-    "FL_SUBJECT": "Subject"
+    "FBookkeeping": "Kế toán",
+    "SINGLE_FBookkeeping": "Kế toán",
+    "FBookkeeping ID": "Mã Kế toán",
+    "FL_SUBJECT": "Chủ đề"
   }
 }

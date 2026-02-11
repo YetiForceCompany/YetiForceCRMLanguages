@@ -1,15 +1,15 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
-    "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Ideas": "Ötletek",
+    "SINGLE_Ideas": "Ötlet",
+    "LBL_IDEAS_INFORMATION": "Alapinformációk",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_STATUS": "Állapot",
+    "Description": "Általános leírás",
+    "LBL_EXTENT_DESCRIPTION": "Részetes leírás",
+    "Attention": "Hozzászólások",
+    "LBL_NO": "Szám",
+    "Draft": "Vázlat",
+    "Proposition": "Javaslat"
   }
 }

@@ -1,17 +1,17 @@
 {
   "php": {
-    "LBL_ADD_TO": "Add to",
-    "LBL_EDIT_LIST_PRICE": "Edit list price",
-    "LBL_PRICEBOOK_INFORMATION": "Price Book details",
-    "LBL_UNIT_PRICE": "Unit price",
-    "Price Book Name": "Price Book name",
-    "PriceBook No": "Price Book number",
-    "PriceBooks": "Price Books",
-    "SINGLE_PriceBooks": "Price Book",
-    "yes": "Yes",
-    "no": "No",
-    "Unit Price": "Unit price",
-    "LBL_SPECIFY_THE_MARGIN": "Specify the margin",
-    "LBL_SPECIFY_THE_MARGINP": "Specify the margin (%)"
+    "LBL_ADD_TO": "Hozzáadás",
+    "LBL_EDIT_LIST_PRICE": "Listaár módosítása",
+    "LBL_PRICEBOOK_INFORMATION": "Árlista adatai",
+    "LBL_UNIT_PRICE": "Egységár",
+    "Price Book Name": "Árlista neve",
+    "PriceBook No": "Árlista száma",
+    "PriceBooks": "Árlisták",
+    "SINGLE_PriceBooks": "Árlista",
+    "yes": "Igen",
+    "no": "Nem",
+    "Unit Price": "Egységár",
+    "LBL_SPECIFY_THE_MARGIN": "Árrés megadása",
+    "LBL_SPECIFY_THE_MARGINP": "Árrés megadása (%)"
   }
 }

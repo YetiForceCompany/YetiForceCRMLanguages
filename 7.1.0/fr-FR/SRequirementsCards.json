@@ -1,21 +1,21 @@
 {
   "php": {
-    "SRequirementsCards": "Sales requirements",
-    "SINGLE_SRequirementsCards": "Sales requirement",
-    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_STATISTICS": "Statistics",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_STATUS": "Status",
-    "SINGLE_SSalesProcesses": "Opportunity",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_COMPLETED": "Completed",
-    "LBL_CHANGE_STATUS": "Change status"
+    "SRequirementsCards": "Exigences de vente",
+    "SINGLE_SRequirementsCards": "Exigence de vente",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Détails exigence de vente",
+    "LBL_CUSTOM_INFORMATION": "Information systèmes",
+    "LBL_DESCRIPTION_INFORMATION": "Description",
+    "LBL_STATISTICS": "Statistiques",
+    "LBL_SUBJECT": "Sujet",
+    "LBL_NUMBER": "Nombre",
+    "LBL_CLOSED_TIME": "Heure de clôture",
+    "LBL_STATUS": "Statut",
+    "SINGLE_SSalesProcesses": "Opportunités",
+    "PLL_DRAFT": "Brouillon",
+    "PLL_IN_REALIZATION": "En cours",
+    "PLL_FOR_VERIFICATION": "A vérifier",
+    "PLL_CANCELLED": "Annulé",
+    "PLL_COMPLETED": "Terminé",
+    "LBL_CHANGE_STATUS": "Modifier le statut"
   }
 }

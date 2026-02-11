@@ -11,7 +11,7 @@
     "LBL_PASSWORD": "Consumer Secret",
     "LBL_VERIFY_SSL": "Verify SSL",
     "LBL_MASTER": "Master System",
-    "LBL_ASSIGNED_USER_ID": "Assigned To",
+    "LBL_ASSIGNED_USER_ID": "Ανατέθηκε σε",
     "LBL_SYSTEM_YETIFORCE": "YetiForce",
     "LBL_SYSTEM_WOOCOMMERCE": "WooCommerce",
     "LBL_SYNC_CURRENCY": "Synchronize currencies",

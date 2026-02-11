@@ -1,22 +1,22 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
-    "LBL_SEARCH_EMAIL": "Search e-mail address",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
-    "LBL_SELECT_RECORD": "Select related record",
-    "LBL_ADD_RECORD": "Add related record"
+    "MailIntegration": "Panel de integración de correo",
+    "SINGLE_MailIntegration": "Panel de integración de correo",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Correo no encontrado en la base de datos.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importar",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importa un correo electrónico al CRM, te permitirá administrar mejor las relaciones",
+    "LBL_SEARCH_EMAIL": "Buscar correo electrónico",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Buscar y seleccionar destinatario del mensaje",
+    "LBL_ADD_CALENDAR": "Añadir evento",
+    "LBL_ADD_MODCOMMENTS": "Añadir comentario",
+    "LBL_SELECT_RECORD": "Seleccionar registro relacionado",
+    "LBL_ADD_RECORD": "Añadir registro relacionado"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "Mensaje de YetiForce: error de complemento, comuníquese con el administrador del sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Mensaje de YetiForce: Relación eliminada con éxito.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Mensaje de YetiForce: Relación agregada con éxito.",
+    "JS_IMPORT": "Mensaje de YetiForce: correo electrónico importado con éxito.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

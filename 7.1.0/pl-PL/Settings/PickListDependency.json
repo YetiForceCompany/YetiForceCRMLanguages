@@ -1,16 +1,16 @@
 {
   "php": {
-    "Selected Values": "Selected values",
-    "LBL_ADD_RECORD": "Add record",
-    "PickListDependency": "PickList Dependency",
-    "LBL_PICKLIST_DEPENDENCY": "Picklist dependency",
-    "LBL_SELECT_FIELD": "Select field",
-    "LBL_SELECT_MODULE": "Module",
-    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",
-    "LBL_SOURCE_FIELD": "Source field",
-    "LBL_MODULE": "Module"
+    "Selected Values": "Wybrano wartości",
+    "LBL_ADD_RECORD": "Dodaj zależność między słownikami",
+    "PickListDependency": "Zależności słownikowe",
+    "LBL_PICKLIST_DEPENDENCY": "Zależności między słownikami",
+    "LBL_SELECT_FIELD": "Zaznacz pole",
+    "LBL_SELECT_MODULE": "Moduł",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Wybierz wartości ze słownika źródłowego",
+    "LBL_SOURCE_FIELD": "Pole żródłowe",
+    "LBL_MODULE": "Moduł"
   },
   "js": {
-    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure you want to delete this picklist dependency?"
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Czy na pewno chcesz usunąć tą zależność"
   }
 }

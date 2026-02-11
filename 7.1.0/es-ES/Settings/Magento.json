@@ -2,7 +2,7 @@
   "php": {
     "LBL_MAGENTO": "Magento",
     "LBL_MAGENTO_DESCRIPTION": "",
-    "LBL_MAGENTO_SETTINGS": "Magento settings",
+    "LBL_MAGENTO_SETTINGS": "Ajustes de Magento",
     "LBL_MAGENTO_ALERT": "It is recommended to perform all configuration changes before starting synchronization. Changes performed while synchronization is in progress may cause errors. ",
     "LBL_URL": "Magento page URL",
     "LBL_CONNECTOR": "Magento access connector",
@@ -44,9 +44,9 @@
     "LBL_CUSTOMERS_LIMIT": "The maximum number of customers that can be downloaded at a time",
     "LBL_ORDERS_LIMIT": "The maximum number of orders that can be downloaded at a time",
     "LBL_INVOICES_LIMIT": "The maximum number of invoices that can be downloaded at a time",
-    "LBL_PARAM_NOT_ALLOWED": "Parameter not allowed",
-    "LBL_VALUE_NOT_ALLOWED": "Value not allowed",
+    "LBL_PARAM_NOT_ALLOWED": "Parámetro no permitido",
+    "LBL_VALUE_NOT_ALLOWED": "Valor no permitido",
     "LBL_RELOAD_MESSAGE": "The data will be downloaded once again the next time cron is triggered",
-    "LBL_RELOAD_MAGENTO": "Restart synchronization"
+    "LBL_RELOAD_MAGENTO": "Reiniciar sincronización"
   }
 }

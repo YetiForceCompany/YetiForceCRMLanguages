@@ -1,22 +1,22 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
-    "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
-    "LBL_SEARCH_EMAIL": "Search e-mail address",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
-    "LBL_SELECT_RECORD": "Select related record",
-    "LBL_ADD_RECORD": "Add related record"
+    "MailIntegration": "Mail integracijski panel",
+    "SINGLE_MailIntegration": "Mail integracijski panel",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Pošta nije pronađena u bazi podataka.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Uvezi",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Uvozite email u CRM, to će vam omogućiti da bolje upravljate odnosima",
+    "LBL_SEARCH_EMAIL": "Pretraga email adrese",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Pretražite i odaberite primatelja poruke",
+    "LBL_ADD_CALENDAR": "Dodaj događaj",
+    "LBL_ADD_MODCOMMENTS": "Dodajte komentar",
+    "LBL_SELECT_RECORD": "Odaberi povezani zapis",
+    "LBL_ADD_RECORD": "Dodaj povezani zapis"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "Poruka YetiForce: pogreška u dodavanju, molimo kontaktirajte administratora sistema.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Poruka YetiForce: veza je uspješno uklonjena.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Poruka YetiForce: veza je dodana uspješno.",
+    "JS_IMPORT": "Poruka YetiForce: email je uspješno uvezen.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

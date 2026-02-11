@@ -1,24 +1,24 @@
 {
   "php": {
-    "Calendar": "Calendar",
+    "Calendar": "Koledar",
     "LBL_ACTIVITY_TYPES": "Calendar – Types",
     "LBL_ACTIVITY_TYPES_DESCRIPTION": "Management of activity types.",
     "LBL_ACTIVITY_NAME": "Activity types name",
     "LBL_MODULE": "Module",
     "LBL_COLOR": "Color",
-    "LBL_TOOLS": "Tools",
+    "LBL_TOOLS": "Araçlar",
     "LBL_ACTIVE": "Active",
-    "LBL_SAVE_ACTIVE_TYPE": "Saved change",
+    "LBL_SAVE_ACTIVE_TYPE": "Değişiklik kaydedildi",
     "LBL_UPDATE_COLOR": "Change Color",
     "LBL_EDIT_COLOR": "Edit color",
     "LBL_SELECT_COLOR": "Select color:",
-    "LBL_SAVE_COLOR": "Color saved",
+    "LBL_SAVE_COLOR": "Renk kaydedildi",
     "LBL_CALENDAR_CONFIG": "Calendar - Configuration",
     "LBL_CALENDAR_CONFIG_DESCRIPTION": " ",
     "LBL_USER_COLORS": "User colors",
     "PLL_BREAK_TIME": "Break from work",
     "PLL_HOLIDAY_TIME": "Holiday",
-    "LBL_SAVE_CHANGES": "Saved changes",
+    "LBL_SAVE_CHANGES": "Değişiklikler kaydedildi",
     "LBL_UPDATE_EVENT": "Update event in the Calendar when rescheduled.",
     "LBL_GENERATE_COLOR": "Generate random color",
     "LBL_GENERATED_COLOR": "Color generated",
@@ -34,9 +34,9 @@
     "PLL_SUNDAY": "Sunday",
     "LBL_VIEW_USERCOLORS": "Calendar configuration",
     "LBL_VIEW_ACTIVITYTYPES": "Activity Types",
-    "Task": "Task",
+    "Task": "Görev",
     "Meeting": "Meeting",
-    "Call": "Call"
+    "Call": "Çağrı"
   },
   "js": {}
 }

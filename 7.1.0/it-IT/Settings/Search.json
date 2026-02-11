@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
-    "Module": "Module",
-    "Table": "Table",
-    "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Search Configuration": "Configurazione ricerca",
+    "Search Setup": "Etichette e ricerca",
+    "Search": "Configurazione ricerca",
+    "LBL_Module_desc": "Imposta, per ogni modulo, i campi su cui viene effettuata la ricerca. Inoltre definisce quali colonne visualizzare nei risultati.",
+    "Module": "Modulo",
+    "Table": "Tabella",
+    "LabelFields": "Colonne risultato (incluso proprietario)",
+    "SearchFields": "Campi su cui viene effettuata la ricerca",
+    "Tools": "Azioni",
+    "Update labels": "Aggiorna colonne e campi",
+    "LBL_SAVE_CHANGES_SEARCHING": "Modifiche salvate",
+    "LBL_SAVE_CHANGES_LABLE": "Le modifiche sono state salvate, ma devi fare clic su \"Aggiorna colonne e campi\" per vedere le modifiche operative a sistema.",
+    "Update has been completed": "Richiesta di aggiornamento inviata: le modifiche saranno applicate via CRON. I tempi di esecuzione dipendono anche dalla quantità di dati da elaborare.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Salva ordine di ricerca",
+    "LBL_TURN_ON": "Abilita",
+    "LBL_TURN_OFF": "Disabilita"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "Aggiornamento in corso ...",
+    "Update labels": "Aggiorna",
+    "JS_MODULES_SEQUENCE_UPDATED": "Ordine di ricerca salvato",
+    "JS_TURN_ON": "Abilita",
+    "JS_TURN_OFF": "Disabilita"
   }
 }

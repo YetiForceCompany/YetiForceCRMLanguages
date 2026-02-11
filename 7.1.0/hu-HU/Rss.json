@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
-    "LBL_ADD_FEED_SOURCE": "Add Feed Source",
-    "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
-    "LBL_SENDER": "Sender",
-    "LBL_FEED_SOURCE": "Feed Source",
-    "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
-    "SINGLE_Rss": "Rss Feed",
-    "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
+    "LBL_RSS_FEED_SOURCES": "Rss hírcsatorna források",
+    "LBL_ADD_FEED_SOURCE": "Hírcsatorna hozzáadása",
+    "LBL_FEEDS_LIST_FROM": "Hírcsatornák listája",
+    "LBL_SET_AS_DEFAULT": "Beállítás alapértelmezettként",
+    "LBL_SENDER": "Feladó",
+    "LBL_FEED_SOURCE": "Hírcsatorna forrás",
+    "LBL_ENTER_FEED_SOURCE": "Adja meg a hírcsatorna forrást",
+    "SINGLE_Rss": "Rss hírcsatorna",
+    "LBL_CHANGE_RSS_CHANNEL": "RSS csatorna módosítása"
   },
   "js": {
-    "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
-    "JS_INVALID_RSS_URL": "Invalid Rss URL",
-    "JS_RSS_MADE_AS_DEFAULT": "Rss made as default"
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss Sikeresen mentve",
+    "JS_INVALID_RSS_URL": "Érvénytelen Rss URL",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss alapértelmezetté tétele"
   }
 }

@@ -2,19 +2,19 @@
   "php": {
     "IIDN": "Internal Delivery Notes",
     "SINGLE_IIDN": "Internal Delivery Notes",
-    "LBL_DESCRIPTION_BLOCK": "Description",
-    "LBL_ATTENTION_BLOCK": "Comments",
+    "LBL_DESCRIPTION_BLOCK": "Popis",
+    "LBL_ATTENTION_BLOCK": "Komentáre",
     "FL_ACCEPTANCE_DATE": "Date of acceptance",
-    "FL_SUBJECT": "Subject",
+    "FL_SUBJECT": "Predmet",
     "FL_NUMBER": "Number",
-    "FL_STORAGE": "Storage",
-    "FL_STATUS": "Status",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
+    "FL_STORAGE": "Sklad",
+    "FL_STATUS": "Stav",
+    "PLL_DRAFT": "Koncept",
+    "PLL_IN_REALIZATION": "V realizácii",
     "PLL_OBJECTIONS": "Objections",
-    "PLL_FOR_APPROVAL": "For approval",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_ACCEPTED": "Accepted",
-    "LBL_CHANGE_STATUS": "Change Status"
+    "PLL_FOR_APPROVAL": "Na schválenie",
+    "PLL_CANCELLED": "Zrušené",
+    "PLL_ACCEPTED": "Akceptované",
+    "LBL_CHANGE_STATUS": "Zmeniť stav"
   }
 }

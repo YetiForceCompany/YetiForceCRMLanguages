@@ -2,12 +2,12 @@
   "php": {
     "LBL_DAV_KEYS": "DAV Applications",
     "LBL_DAV_KEYS_DESCRIPTION": "Create and manage DAV keys",
-    "LBL_KEY": "Key",
-    "LBL_TOOLS": "Tools",
+    "LBL_KEY": "Anahtar",
+    "LBL_TOOLS": "Araçlar",
     "LBL_DELETE_KEY": "Delete key",
-    "LBL_ADD_KEY": "Add key",
-    "LBL_DISPLAY_NAME": "User",
-    "LBL_EMAIL": "E-mail",
+    "LBL_ADD_KEY": "Anahtar ekle",
+    "LBL_DISPLAY_NAME": "Kullanıcı",
+    "LBL_EMAIL": "Email",
     "LBL_LOGIN": "Login",
     "LBL_SELECT_USER": "Select user:",
     "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV application is not active.",
@@ -17,7 +17,7 @@
     "LBL_SUCCESS_SAVE_CHANGES": "Changes saved",
     "LBL_ACTIVE_USER": "User status",
     "LBL_KEY_HAS_BEEN_REMOVED": "Key has been deleted",
-    "LBL_SELECT_TYPE": "Type",
+    "LBL_SELECT_TYPE": "Tür",
     "LBL_COUNT_CARD": "Number of contacts",
     "LBL_COUNT_CAL": "Number of events",
     "Dav": "DAV keys",
@@ -27,6 +27,6 @@
     "LBL_ALERT_DAV_CONFIG_DESC": "Examples of DAV server connection configuration for different apps and systems:"
   },
   "js": {
-    "Adding a Key": "Add key"
+    "Adding a Key": "Anahtar ekle"
   }
 }

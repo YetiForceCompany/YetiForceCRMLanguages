@@ -60,7 +60,7 @@
     "LBL_RELATIONS_EXTEND": "Contacts",
     "LBL_PROCESS": "Processes",
     "LBL_SUB_PROCESS": "Subprocesses",
-    "FL_SUBPROCESS_SECOND_LEVEL": "Second level subprocess",
+    "FL_SUBPROCESS_SECOND_LEVEL": "Subprocesso de segundo nível",
     "LBL_REMOVE_RELATION": "Remove relation",
     "LBL_SELECT_RECORD": "Relate to existing record",
     "LBL_ADD_CALENDAR": "Add event",
@@ -105,6 +105,6 @@
     "NoFindEmailInRecord": "Record does not have email address",
     "AddFindEmailInRecord": "Downloaded email",
     "StartedDownloadingEmail": "Started downloading email",
-    "JS_DOCUMENTS_ADDED": "Documents have been added"
+    "JS_DOCUMENTS_ADDED": "Os documentos foram adicionados"
   }
 }

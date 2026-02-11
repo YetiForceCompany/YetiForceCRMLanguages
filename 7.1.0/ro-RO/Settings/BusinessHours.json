@@ -1,25 +1,25 @@
 {
   "php": {
-    "LBL_BUSINESS_HOURS": "Business hours",
-    "LBL_BUSINESS_HOURS_DESCRIPTION": "Business hours is a module where you can set working hours of your team.",
-    "LBL_WORKING_HOURS_FROM": "From",
-    "LBL_WORKING_HOURS_TO": "To",
-    "LBL_WORKING_DAYS": "Working days",
-    "LBL_WORKING_HOURS": "Working hours",
-    "LBL_DEFAULT": "Default",
-    "LBL_NAME": "Name",
-    "LBL_HOLIDAYS": "Holidays",
-    "LBL_EDIT_BUSINESS_HOURS": "Edit business hours",
-    "LBL_ADD_BUSINESS_HOURS": "Add business hours entry",
-    "LBL_DEFAULT_TIMES": "Default times",
-    "LBL_DEFAULT_REACTION_TIME": "Default reaction time",
-    "LBL_DEFAULT_IDLE_TIME": "Default idle time",
-    "LBL_DEFAULT_RESOLVE_TIME": "Default resolve time",
-    "LBL_HOLIDAYS_LINK": "Go to holidays settings",
-    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+    "LBL_BUSINESS_HOURS": "Program de lucru",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Orele de program sunt un modul în care puteți seta programul de lucru al echipei dumneavoastră.",
+    "LBL_WORKING_HOURS_FROM": "De la",
+    "LBL_WORKING_HOURS_TO": "Către",
+    "LBL_WORKING_DAYS": "Zile lucrătoare",
+    "LBL_WORKING_HOURS": "Orar de lucru",
+    "LBL_DEFAULT": "Prestabilit",
+    "LBL_NAME": "Nume",
+    "LBL_HOLIDAYS": "Sărbători",
+    "LBL_EDIT_BUSINESS_HOURS": "Editați orele de lucru",
+    "LBL_ADD_BUSINESS_HOURS": "Adaugă ora de început de lucru",
+    "LBL_DEFAULT_TIMES": "Ora implicită",
+    "LBL_DEFAULT_REACTION_TIME": "Timpul de reacție implicit",
+    "LBL_DEFAULT_IDLE_TIME": "Timp de inactivitate implicit",
+    "LBL_DEFAULT_RESOLVE_TIME": "Timp de rezolvare implicit",
+    "LBL_HOLIDAYS_LINK": "Mergeți la setările de vacanță",
+    "LBL_HOLIDAYS_INFO": "Verificarea „vacanțelor” va face ca zilele libere să fie scoase din calculul timpului de lucru."
   },
   "js": {
-    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Are your sure you want to delete this entry?",
-    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Ești sigur că vrei să ștergi această intrare?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Vă rog selectați cel puțin o zi lucrătoare."
   }
 }

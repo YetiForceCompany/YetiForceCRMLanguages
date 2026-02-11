@@ -67,7 +67,7 @@
     "No matching records found": "Nie znaleziono tłumaczenia",
     "Search": "Szukaj:",
     "No data available in table": "Brak tłumaczeń",
-    "JS_NOTRANSLATION": "--No Translation--",
-    "JS_EXPORT": "Export"
+    "JS_NOTRANSLATION": "--Brak tłumaczenia--",
+    "JS_EXPORT": "Eksportuj"
   }
 }

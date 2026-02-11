@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_PROJECT_CONFIGURATION": "Project",
-    "LBL_INFO": "Information",
-    "LBL_TYPE": "Status",
-    "LBL_PROJECT": "Project",
-    "LBL_PROJECT_STATUS_INFO": "Statuses determining that the project is closed",
+    "LBL_PROJECT_CONFIGURATION": "Проект",
+    "LBL_INFO": "Інформація",
+    "LBL_TYPE": "Статус",
+    "LBL_PROJECT": "Проект",
+    "LBL_PROJECT_STATUS_INFO": "Статуси які визначають, що проект закритий",
     "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",
     "LBL_PROJECTTASK_STATUS_INFO": "Statuses determining that the task is closed",
-    "LBL_SAVE_CONFIG_OK": "Changes saved successfully.",
-    "LBL_SAVE_CONFIG_ERROR": "Failed to save changes.",
+    "LBL_SAVE_CONFIG_OK": "Зміни успішно збережено.",
+    "LBL_SAVE_CONFIG_ERROR": "Не вдалося зберегти зміни.",
     "RealizationProcesses": "Realization processes"
   },
   "js": {}

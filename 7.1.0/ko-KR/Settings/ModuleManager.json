@@ -9,7 +9,7 @@
     "LBL_FAILED": "Failed",
     "LBL_FINISH": "Finish",
     "LBL_IMPORTED_MODULE": "%s module has been imported successfully.",
-    "LBL_IMPORTED_UPDATE": "%s System has been updated successfully.",
+    "LBL_IMPORTED_UPDATE": "%s 시스템이 업데이트 되었습니다.",
     "LBL_IMPORTED_EXTENSION": "Extension has been installed successfully.",
     "LBL_IMPORTED_LANGUAGE": "Language has been installed successfully.",
     "LBL_IMPORTED_FONT": "Font has been installed successfully.",
@@ -78,10 +78,10 @@
     "LBL_ERROR_NO_VALID_PREFIX": "Invalid language prefix",
     "LBL_ERROR_MODULE_NAME_CONTAINS_SETTINGS": "Module name must not contain the word Settings",
     "LBL_SAMPLE_FIELD_NAME": "sample_name",
-    "LBL_DELETE_MODULE": "Delete module",
-    "LBL_EXPORT_MODULE": "Export module",
-    "LBL_PREMIUM_MODULE": "Premium module",
-    "LBL_SETTINGS": "Settings",
+    "LBL_DELETE_MODULE": "모듈 삭제",
+    "LBL_EXPORT_MODULE": "모듈 저장",
+    "LBL_PREMIUM_MODULE": "프리미엄 모듈",
+    "LBL_SETTINGS": "설정",
     "LBL_SAMPLE_LABEL": "Sample name"
   },
   "js": {

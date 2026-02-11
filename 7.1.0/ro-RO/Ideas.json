@@ -1,15 +1,15 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
+    "Ideas": "Idei",
+    "SINGLE_Ideas": "Idee",
+    "LBL_IDEAS_INFORMATION": "Informații de bază",
+    "LBL_SUBJECT": "Subiect",
     "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Description": "Descriere de bază",
+    "LBL_EXTENT_DESCRIPTION": "Descriere detaliată",
+    "Attention": "Comentarii",
+    "LBL_NO": "Număr",
+    "Draft": "Schiță",
+    "Proposition": "Propunere"
   }
 }

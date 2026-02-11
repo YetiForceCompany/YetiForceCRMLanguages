@@ -1,21 +1,21 @@
 {
   "php": {
-    "ConfigEditor": "Config editor",
-    "LBL_DEFAULT_MODULE": "Default module",
-    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximum text length in List View",
-    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum entries per page in List View",
-    "LBL_DEFAULT_LAYOUT": "Layout",
-    "LBL_SHOWING_BREADCRUMBS": "Show breadcrumbs menu",
-    "LBL_TITLE_MAX_LENGTH": "Maximum length of characters for title",
-    "LBL_MINIMUM_CRON_FREQUENCY": "Minimum cron frequency [min] ",
-    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum number of records in mass edition",
-    "LBL_BG_CLOSING_MODAL": "Enable closing of modal window by clicking on the background",
-    "LBL_HREF_MAX_LEGTH": "Maximum length for href tag",
-    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Show language selection on the login page",
-    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Show layout selection on the login page",
-    "LBL_CONFIG_EDITOR": "System – Configuration",
-    "LBL_CONFIG_EDITOR_DESCRIPTION": "Update configuration file of the application",
-    "LBL_MAX_UPLOAD_SIZE": "Maximum upload size",
+    "ConfigEditor": "Configuratie editor",
+    "LBL_DEFAULT_MODULE": "Standaard Module",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Maximale tekstlengte in lijstweergave",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Maximum aantal items per pagina in de lijstweergave",
+    "LBL_DEFAULT_LAYOUT": "Lay-out",
+    "LBL_SHOWING_BREADCRUMBS": "Toon breadcrumbs menu",
+    "LBL_TITLE_MAX_LENGTH": "Maximum lengte van tekens voor de titel",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Minimale Cron-frequentie [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Maximum aantal records in bulkbewerking",
+    "LBL_BG_CLOSING_MODAL": "Schakel het sluiten van het modale venster in door op de achtergrond te klikken",
+    "LBL_HREF_MAX_LEGTH": "Maximale lengte voor href tag",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Toon taalselectie op de inlogpagina",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Lay-out selectie weergeven op de inlogpagina",
+    "LBL_CONFIG_EDITOR": "Systeem – Configuratie",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Configuratiebestand van de applicatie bijwerken",
+    "LBL_MAX_UPLOAD_SIZE": "Maximale uploadgrootte",
     "LBL_MB": "MB",
     "LBL_RELATION_CONFIG": "Relation",
     "LBL_RELATION_COMMENT_MAX_LENGTH": "Maximum length of a comment visible on the related record",
@@ -35,7 +35,7 @@
     "LBL_BRAND_DATA_INFO": "Block used when YetiForce Branding is purchased allows you to enter custom data visible in the footer."
   },
   "js": {
-    "JS_CONFIGURATION_DETAILS_SAVED": "Configuration details saved",
-    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Please enter value in the range 1-100"
+    "JS_CONFIGURATION_DETAILS_SAVED": "Configuratieinstellingen opgeslagen",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Voer een waarde in binnen het bereik 1-100"
   }
 }

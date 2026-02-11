@@ -2,7 +2,7 @@
   "php": {
     "LBL_PROJECT_CONFIGURATION": "Project",
     "LBL_INFO": "Information",
-    "LBL_TYPE": "Status",
+    "LBL_TYPE": "Státusz",
     "LBL_PROJECT": "Project",
     "LBL_PROJECT_STATUS_INFO": "Statuses determining that the project is closed",
     "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",

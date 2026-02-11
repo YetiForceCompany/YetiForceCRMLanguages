@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it.",
+    "LBL_BACKUP_MANAGER": "Backup manager",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Управляване на резервните копия",
+    "LBL_DOWNLOAD": "Сваляне",
+    "LBL_FILE_NAME": "Име на файла",
+    "LBL_FILE_SIZE": "Размер на файла",
+    "LBL_FILE_DATE": "Дата на модифициране",
+    "LBL_BACKUP_LIST": "Backup списък",
+    "ERR_CONFIG_ALERT_TITLE": "Backup Manager е изключен",
+    "ERR_CONFIG_ALERT_DESC": "Изберете съответния начин в променливата стойност на BACKUP_PATH в конфигурационния файл [config\/Components\/Backup.php], за да го включите.",
     "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
   },
   "js": {}
