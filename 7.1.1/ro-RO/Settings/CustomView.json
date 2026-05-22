@@ -15,23 +15,23 @@
     "LBL_CREATED_BY": "Creat de",
     "LBL_ADD_FILTER": "Adaugă filtru",
     "LBL_ALL_GROUP_LIST": "Opțiuni disponibile",
-    "LBL_GROUP_MEMBERS": "Included in action",
-    "LBL_ADD_PERMISSIONS": "Add permissions",
-    "LBL_RECEIVE_PERMISSION": "Receive permissions",
-    "LBL_SAVE_SEQUENCES": "Sequences saved successfully",
-    "LBL_SORTING": "Sorting",
-    "LBL_SORTING_SETTINGS": "Sorting settings",
-    "LBL_SORTING_SETTINGS_WORNING": "Record sorting might significantly increase the page loading time.",
-    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Select a field to sort records",
-    "LBL_SORT_ASCENDING_ORDER": "Sort in ascending order",
-    "LBL_SORT_DESCENDING_ORDER": "Sort in descending order",
-    "LBL_ATTENTION": "Warning!",
-    "LBL_PRIVILEGES_TO_VIEW_DESC": "Only private filters can be granted partial permissions",
+    "LBL_GROUP_MEMBERS": "Inclusă în acțiune",
+    "LBL_ADD_PERMISSIONS": "Adaugă permisiuni",
+    "LBL_RECEIVE_PERMISSION": "Primește permisiuni",
+    "LBL_SAVE_SEQUENCES": "Secvențe salvate cu succes",
+    "LBL_SORTING": "Sortare",
+    "LBL_SORTING_SETTINGS": "Sortare setări",
+    "LBL_SORTING_SETTINGS_WORNING": "Sortarea înregistrărilor ar putea crește semnificativ timpul de încărcare a paginii.",
+    "LBL_SELECT_FIELD_TO_SORT_RECORDS": "Selectați un câmp pentru a sorta înregistrările",
+    "LBL_SORT_ASCENDING_ORDER": "Sortare ascendentă",
+    "LBL_SORT_DESCENDING_ORDER": "Sortare descendent",
+    "LBL_ATTENTION": "Avertizare!",
+    "LBL_PRIVILEGES_TO_VIEW_DESC": "Numai filtrele private pot fi acordate permisiuni parțiale",
     "LBL_PUBLIC": "Public",
-    "LBL_PRIVATE": "Private"
+    "LBL_PRIVATE": "Privată"
   },
   "js": {
-    "Saving changes": "Saving changes...",
-    "Update labels": "Update"
+    "Saving changes": "Se salvează modificările...",
+    "Update labels": "Actualizează"
   }
 }

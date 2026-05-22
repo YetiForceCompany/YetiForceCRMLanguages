@@ -30,7 +30,7 @@
     "LBL_SEPARATOR": "Separator",
     "LBL_SEPARATOR_DESC": "Divides large items into smaller parts.",
     "LBL_SHOW_NUMBER_ENTRIES": "Show number of entries",
-    "LBL_QUICKCREATE": "Quick create",
+    "LBL_QUICKCREATE": "Snel aanmaken",
     "LBL_QUICKCREATE_DESC": "Helps to create records quickly.",
     "LBL_HOMEICON": "Home icon",
     "LBL_HOMEICON_DESC": "Menu item redirecting to home page.",
@@ -46,13 +46,13 @@
     "LBL_REMOVE_TITLE": "Remove menu item",
     "LBL_REMOVE_DESC": "Selected item contains submenus. All submenus will be also deleted together with this menu item.",
     "LBL_REMOVE": "Remove",
-    "LBL_CANCEL": "Cancel",
+    "LBL_CANCEL": "Annuleren",
     "LBL_MORE_INFO": "Click here for more information",
     "LBL_COPY_MENU": "Copy menu",
     "LBL_CUSTOM_VIEW_FILTER_RESTRICTIONS_DESC": "Applying restrictions makes it impossible to create filters from this list view."
   },
   "js": {
-    "JS_EDIT": "Edit",
+    "JS_EDIT": "Bewerken",
     "JS_REMOVE": "Remove",
     "JS_NO_DATA": "No menu",
     "JS_TEST_HOTKEY_OK": "Hot key works properly."

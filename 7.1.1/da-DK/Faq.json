@@ -2,7 +2,7 @@
   "php": {
     "Faq": "FAQ",
     "SINGLE_Faq": "FAQ",
-    "Draft": "Draft",
+    "Draft": "Kladde",
     "FL_SUBJECT": "Subject",
     "FL_CONTENT": "Content",
     "FL_CATEGORY": "Category",
@@ -18,12 +18,12 @@
     "FL_FEATURED": "Featured",
     "LBL_RELATED_FAQ": "Related entries",
     "FL_INTRODUCTION": "Introduction",
-    "Faq No": "FAQ number",
-    "General": "General",
+    "Faq No": "FAQ nummer",
+    "General": "Generelt",
     "LBL_FAQ_INFORMATION": "FAQ information",
-    "LBL_RECORDS_LIST": "FAQs list",
-    "Obsolete": "Obsolete",
-    "Published": "Published",
-    "Question": "Question"
+    "LBL_RECORDS_LIST": "FAQs liste",
+    "Obsolete": "Forældet",
+    "Published": "Publiceret",
+    "Question": "Spørgsmål"
   }
 }

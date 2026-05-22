@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
-    "LBL_ADD_FEED_SOURCE": "Add Feed Source",
-    "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
-    "LBL_SENDER": "Sender",
-    "LBL_FEED_SOURCE": "Feed Source",
-    "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
+    "LBL_RSS_FEED_SOURCES": "Rss Feed订阅源",
+    "LBL_ADD_FEED_SOURCE": "添加Feed订阅源",
+    "LBL_FEEDS_LIST_FROM": "Feed列表表格",
+    "LBL_SET_AS_DEFAULT": "设为默认",
+    "LBL_SENDER": "发件人",
+    "LBL_FEED_SOURCE": "Rss订阅源",
+    "LBL_ENTER_FEED_SOURCE": "输入Feed地址",
     "SINGLE_Rss": "Rss Feed",
-    "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
+    "LBL_CHANGE_RSS_CHANNEL": "更改RSS渠道"
   },
   "js": {
-    "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
-    "JS_INVALID_RSS_URL": "Invalid Rss URL",
-    "JS_RSS_MADE_AS_DEFAULT": "Rss made as default"
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss 已保存",
+    "JS_INVALID_RSS_URL": "无效的RSS链接",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss 作为默认"
   }
 }
