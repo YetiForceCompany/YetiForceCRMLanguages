@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
-    "RecycleBin": "Trash bin"
+    "LBL_RECYCLE_DELETE_ALL": "Eliminați tot gunoiul",
+    "RecycleBin": "Coș de gunoi"
   },
   "js": {
-    "JS_MASS_DELETE": "Mass delete",
-    "JS_MASS_ACTIVATE": "Mass activate",
-    "JS_DELETE_ALL_RECYCLE_RECORD": "Delete all records from Recycle Bin",
-    "JS_ACTIVATE_RECORD_DESC": "Activating a record only changes the record's state without changing the rest of information. Are you sure you want to activate the record?",
-    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Deleting a record is permanent and irreversible for all record's information. Are you sure you want to delete the record?",
-    "JS_ADDED_TO_QUEUE": "Added to the queue. All elements will be deleted"
+    "JS_MASS_DELETE": "Șterge în masă",
+    "JS_MASS_ACTIVATE": "Activează în masă",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Șterge toate înregistrările din Coșul de gunoi",
+    "JS_ACTIVATE_RECORD_DESC": "Activarea unei înregistrări modifică doar starea acesteia, fără a afecta restul informațiilor. Sunteți sigur că doriți să activați înregistrarea?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Ștergerea unei înregistrări este permanentă și ireversibilă pentru toate informațiile acesteia. Sunteți sigur că doriți să ștergeți înregistrarea?",
+    "JS_ADDED_TO_QUEUE": "Adăugă listei de așteptare. Toate elementele vor fi eliminate"
   }
 }

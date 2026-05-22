@@ -25,13 +25,13 @@
     "LBL_SELECTED_VALUES": "Selected values",
     "LBL_SELECT_PICKLIST_IN": "Select picklist in",
     "LBL_VALUES_ASSIGNED_TO_A_ROLE": "Values assigned to a Role",
-    "LBL_CLOSES_RECORD": "Is the record supposed to be blocked?",
+    "LBL_CLOSES_RECORD": "O registo deve ser bloqueado?",
     "LBL_PREFIX": "Prefix",
-    "LBL_BLOCKED_RECORD_INFO": "Selecting this option will prevent the record from being edited. If you want to unblock the record you have to accept the assigned permissions in the profile",
+    "LBL_BLOCKED_RECORD_INFO": "A seleção desta opção impedirá o registo de ser editado. Se quiser desbloquear o registo, tem que aceitar as permissões atribuídas no perfil",
     "LBL_RECORD_STATE": "Record state",
-    "LBL_RECORD_STATE_NO_CONCERN": "Not applicable",
-    "LBL_RECORD_STATE_OPEN": "Open",
-    "LBL_RECORD_STATE_CLOSED": "Closed",
+    "LBL_RECORD_STATE_NO_CONCERN": "Não aplicável",
+    "LBL_RECORD_STATE_OPEN": "Aberto",
+    "LBL_RECORD_STATE_CLOSED": "Fechado",
     "LBL_RECORD_STATE_INFO": "This value might be taken into account in some record state mechanisms",
     "LBL_TIME_COUNTING": "Time counting",
     "LBL_TIME_COUNTING_INFO": "You can group several statuses into categories in which the system summarizes the times of these statuses. The system can then perform some action when the time is exceeded.",
@@ -42,7 +42,7 @@
     "LBL_IMPORT_VALUE": "Import values",
     "LBL_CONFIRM_BEFORE_MODIFY": "The selected field is interdependent with other modules: %s. Are you sure you want to proceed?",
     "LBL_CSV_DESC": "Import csv file with each value per line",
-    "LBL_ICON": "Icon"
+    "LBL_ICON": "Ícone"
   },
   "js": {
     "JS_ITEMS_DELETED_SUCCESSFULLY": "Items deleted successfully",

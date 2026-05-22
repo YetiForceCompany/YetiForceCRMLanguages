@@ -1,18 +1,18 @@
 {
   "php": {
-    "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
-    "LBL_ADD_FEED_SOURCE": "Add Feed Source",
-    "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
-    "LBL_SENDER": "Sender",
-    "LBL_FEED_SOURCE": "Feed Source",
-    "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
-    "SINGLE_Rss": "Rss Feed",
-    "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
+    "LBL_RSS_FEED_SOURCES": "منابع فید Rss",
+    "LBL_ADD_FEED_SOURCE": "اضافه کردن منبع جدید",
+    "LBL_FEEDS_LIST_FROM": "لیست مطالب فیلد",
+    "LBL_SET_AS_DEFAULT": "تنظیم به‌عنوان پیش‌فرض",
+    "LBL_SENDER": "فرستنده",
+    "LBL_FEED_SOURCE": "منبع فید",
+    "LBL_ENTER_FEED_SOURCE": "منبع فید را وارد نمایید",
+    "SINGLE_Rss": "خوراک Rss",
+    "LBL_CHANGE_RSS_CHANNEL": "تغییر کانال RSS"
   },
   "js": {
-    "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
-    "JS_INVALID_RSS_URL": "Invalid Rss URL",
-    "JS_RSS_MADE_AS_DEFAULT": "Rss made as default"
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss با موفقیت ذخیره شد",
+    "JS_INVALID_RSS_URL": "نشانی RSS معتبر نیست",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss به صورت پیش‌فرض ساخته شد"
   }
 }

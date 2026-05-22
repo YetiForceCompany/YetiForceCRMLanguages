@@ -1,15 +1,15 @@
 {
   "php": {
-    "Ideas": "Ideas",
-    "SINGLE_Ideas": "Idea",
-    "LBL_IDEAS_INFORMATION": "Basic Information",
-    "LBL_SUBJECT": "Subject",
+    "Ideas": "Ideje",
+    "SINGLE_Ideas": "Ideja",
+    "LBL_IDEAS_INFORMATION": "Osnovni podatki",
+    "LBL_SUBJECT": "Zadeva",
     "LBL_STATUS": "Status",
-    "Description": "Basic description",
-    "LBL_EXTENT_DESCRIPTION": "Detailed description",
-    "Attention": "Comments",
-    "LBL_NO": "Number",
-    "Draft": "Draft",
-    "Proposition": "Proposal"
+    "Description": "Opis",
+    "LBL_EXTENT_DESCRIPTION": "Podroben opis ideje",
+    "Attention": "Komentarji",
+    "LBL_NO": "Številka",
+    "Draft": "Osnutek",
+    "Proposition": "Predlog"
   }
 }

@@ -1,22 +1,22 @@
 {
   "php": {
-    "MailIntegration": "Mail integration panel",
-    "SINGLE_MailIntegration": "Mail integration panel",
-    "LBL_MAIL_NOT_FOUND_IN_DB": "Mail not found in the database.",
+    "MailIntegration": "Panou de integrare a e-mailurilor",
+    "SINGLE_MailIntegration": "Panou de integrare a e-mailurilor",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Email-ul nu a fost găsit în baza de date.",
     "LBL_IMPORT_MAIL_MANUALLY": "Import",
-    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Import an email to the CRM, it will let you manage relations better",
-    "LBL_SEARCH_EMAIL": "Search e-mail address",
-    "LBL_SEARCH_AND_COPY_EMAIL": "Search and select message recipient",
-    "LBL_ADD_CALENDAR": "Add event",
-    "LBL_ADD_MODCOMMENTS": "Add comment",
-    "LBL_SELECT_RECORD": "Select related record",
-    "LBL_ADD_RECORD": "Add related record"
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importați un e-mail în CRM și veți putea gestiona mai bine relațiile",
+    "LBL_SEARCH_EMAIL": "Căutare adresă de e-mail",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Căutare și selectare destinatar mesaj",
+    "LBL_ADD_CALENDAR": "Adaugă eveniment",
+    "LBL_ADD_MODCOMMENTS": "Adaugă comentariu",
+    "LBL_SELECT_RECORD": "Selectează înregistrare asociată",
+    "LBL_ADD_RECORD": "Actualizare înregistrare asociată"
   },
   "js": {
-    "JS_ERROR": "YetiForce message: add-in error, please contact system administrator.",
-    "JS_REMOVED_RELATION_SUCCESSFULLY": "YetiForce message: Removed relation successfully.",
-    "JS_ADDED_RELATION_SUCCESSFULLY": "YetiForce message: Added relation successfully.",
-    "JS_IMPORT": "YetiForce message: e-mail imported successfully.",
+    "JS_ERROR": "Mesaj YetiForce: eroare suplimentară, vă rugăm să contactați administratorul sistemului.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Mesaj YetiForce: Relație eliminată cu succes.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Mesaj YetiForce: Asociere adăugată cu succes.",
+    "JS_IMPORT": "Mesaj YetiForce: e-mail importat cu succes.",
     "JS_CC": "CC",
     "JS_BCC": "BCC"
   }

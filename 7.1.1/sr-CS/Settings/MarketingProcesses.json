@@ -1,20 +1,20 @@
 {
   "php": {
-    "LBL_CONVERSION": "Conversion",
-    "LBL_CONVERSION_TO_ACCOUNT": "Change Assigned To",
-    "LBL_CONVERSION_TO_ACCOUNT_INFO": "When this option is ticked, a user who converts a Lead to an Account becomes its Assigned To",
-    "LBL_LEADS": "Leads",
-    "LBL_INFO": "Information",
-    "LBL_VALUES": "Values",
-    "LBL_GROUPS_INFO": "Groups with no Assigned To",
-    "LBL_LEAD_STATUS": "Statuses indicating end of work with Leads",
-    "LBL_LEAD_CONVERT_STATUS": "Statuses that allow for converting Lead to Account",
-    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
-    "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
-    "LBL_CONDITION": "Add condition",
-    "MarketingProcesses": "Marketing processes"
+    "LBL_CONVERSION": "Ne možete odabrati iste module",
+    "LBL_CONVERSION_TO_ACCOUNT": "Promjeni Dodijeljen za",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "Kada se označi ova opcija, korisnik koji pretvori Trag u Klijenta postaje dodijeljen za račun",
+    "LBL_LEADS": "Tragovi",
+    "LBL_INFO": "Informacije",
+    "LBL_VALUES": "Vrijednosti",
+    "LBL_GROUPS_INFO": "Grupe bez dodeljenog",
+    "LBL_LEAD_STATUS": "Statusi koji ukazuju na završetak rada s Tragovima",
+    "LBL_LEAD_CONVERT_STATUS": "Statusi koji omogućavaju pretvaranje Traga u Klijenta",
+    "LBL_CONVERT_LEAD_MERGE": "Povežite zapis koji ispunjava određene zahtjeve prilikom konverzije s Klijenta u Trag",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "Ova opcija omogućuje sustavu da automatski poveže pretvoreni zapis s već postojećim - novi Klijent neće biti stvoren, umjesto toga, svi postojeći podaci zapisa biće preneseni s Traga",
+    "LBL_CONDITION": "Dodaj uslov",
+    "MarketingProcesses": "Marketing proces"
   },
   "js": {
-    "JS_NO_CONDITIONS": "At least one condition is required"
+    "JS_NO_CONDITIONS": "Barem jedan uslov je potreban"
   }
 }

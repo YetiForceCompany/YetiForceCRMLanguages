@@ -1,15 +1,15 @@
 {
   "php": {
-    "Partners": "Partners",
-    "SINGLE_Partners": "Partner",
-    "LBL_PARTNERS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "FL_CATEGORY": "Category",
+    "Partners": "Партнеры",
+    "SINGLE_Partners": "Партнер",
+    "LBL_PARTNERS_INFORMATION": "Основная информация",
+    "LBL_CUSTOM_INFORMATION": "Дополнительная информация",
+    "LBL_DESCRIPTION_INFORMATION": "Описание",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Время закрытия",
+    "LBL_VAT_ID": "ИНН",
+    "FL_CATEGORY": "Категория",
     "FL_MEMBER_OF": "Parent partner",
     "LBL_SHOW_HIERARCHY": "Hierarchy"
   }

@@ -1,27 +1,27 @@
 {
   "php": {
-    "Search Configuration": "Search configuration",
-    "Search Setup": "Labels and searching",
-    "Search": "Search configuration",
-    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
+    "Search Configuration": "Ρύθμιση παραμέτρων αναζήτησης",
+    "Search Setup": "Ετικέτες και αναζήτηση",
+    "Search": "Αναζήτηση - Διαμόρφωση",
+    "LBL_Module_desc": "Αυτός ο πίνακας σας επιτρέπει να ορίσετε ετικέτες για πεδία uitype 10 και μηχανισμούς αναζήτησης. Οι μηχανισμοί αυτοί λειτουργούν ανεξάρτητα-μπορείτε να δείτε πολλές στήλες σε ένα πεδίο κατά την αναζήτηση, αλλά όταν επιλέγετε μια εγγραφή, ένα όνομα από μια ετικέτα θα φορτωθεί.",
     "Module": "Module",
-    "Table": "Table",
-    "LabelFields": "Main columns for a module (including a label for uitype 10)",
-    "SearchFields": "Columns for search mechanisms",
-    "Tools": "Actions",
-    "Update labels": "Update labels",
-    "LBL_SAVE_CHANGES_SEARCHING": "Saved changes.",
-    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this module to see the changes within the system.",
-    "Update has been completed": "Selected module updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
-    "LBL_SAVE_MODULE_SEQUENCE": "Save modules sequence",
-    "LBL_TURN_ON": "Turn on",
-    "LBL_TURN_OFF": "Turn off"
+    "Table": "Πίνακας",
+    "LabelFields": "Κύριες στήλες για module (συμπεριλαμβανομένης μιας ετικέτας για uitype 10)",
+    "SearchFields": "Στήλες για μηχανισμούς αναζήτησης",
+    "Tools": "Ενέργειες",
+    "Update labels": "Ενημέρωση ετικετών",
+    "LBL_SAVE_CHANGES_SEARCHING": "Αποθήκευση αλλαγών.",
+    "LBL_SAVE_CHANGES_LABLE": "Αποθηκεύτηκαν οι αλλαγές στη ρύθμιση παραμέτρων, πρέπει να ενημερώσετε αυτό το module για να δείτε τις αλλαγές στο σύστημα.",
+    "Update has been completed": "Επιλεγμένο module ενημερώθηκε με επιτυχία. Οι αλλαγές θα πραγματοποιηθούν μέσω CRON. Ο χρόνος ενημέρωσης εξαρτάται από την ποσότητα των δεδομένων.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Αποθηκεύσετε τη σειρά των πεδίων",
+    "LBL_TURN_ON": "Ενεργοποίηση",
+    "LBL_TURN_OFF": "Απενεργοποίηση"
   },
   "js": {
-    "Saving changes": "Update in progress…",
-    "Update labels": "Update",
-    "JS_MODULES_SEQUENCE_UPDATED": "Modules sequence updated",
-    "JS_TURN_ON": "Turn on",
-    "JS_TURN_OFF": "Turn off"
+    "Saving changes": "Ενημέρωση σε εξέλιξη…",
+    "Update labels": "Ενημέρωση",
+    "JS_MODULES_SEQUENCE_UPDATED": "Σειρά των πεδίων ενημερώθηκε",
+    "JS_TURN_ON": "Ενεργοποίηση",
+    "JS_TURN_OFF": "Απενεργοποίηση"
   }
 }

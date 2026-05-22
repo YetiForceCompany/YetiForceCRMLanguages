@@ -2,8 +2,8 @@
   "php": {
     "Selected Values": "Selected values",
     "LBL_ADD_RECORD": "Add record",
-    "PickListDependency": "PickList Dependency",
-    "LBL_PICKLIST_DEPENDENCY": "Picklist dependency",
+    "PickListDependency": "Értéklista Függőség",
+    "LBL_PICKLIST_DEPENDENCY": "Értéklista Függőség",
     "LBL_SELECT_FIELD": "Select field",
     "LBL_SELECT_MODULE": "Module",
     "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Select source picklist values",

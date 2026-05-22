@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_TOTP_AUTHY_MODE": "Authentication modes",
-    "LBL_TOTP_OFF": "TOTP - OFF",
-    "LBL_TOTP_OPTIONAL": "TOTP - optional, user-defined",
-    "LBL_TOTP_OBLIGATORY": "TOTP - mandatory, each user must have this option configured",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Number of failed attempts",
-    "LBL_2FA_CONF": "Multi-factor authentication",
-    "LBL_TOTP": "Time-based One-time Password algorithm",
-    "LBL_TOTP_AUTHY_MODE_DESC": "Select authentication modes",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Max number of failed attempts to enter verification code",
-    "LBL_TOTP_WHITE_LIST": "IP white list"
+    "LBL_TOTP_AUTHY_MODE": "Режимы аутентификации",
+    "LBL_TOTP_OFF": "TOTP - ВЫКЛ",
+    "LBL_TOTP_OPTIONAL": "TOTP - дополнительные, задано пользователем",
+    "LBL_TOTP_OBLIGATORY": "TOTP - обязательный, должно быть настроено у каждого пользователя",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Количество неудачных попыток",
+    "LBL_2FA_CONF": "Многофакторная аутентификация",
+    "LBL_TOTP": "Основанный на времени алгоритм одноразового пароля",
+    "LBL_TOTP_AUTHY_MODE_DESC": "Выберите режимы аутентификации",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Максимальное количество неудачных попыток ввести проверочный код",
+    "LBL_TOTP_WHITE_LIST": "Белый список IP-адресов"
   }
 }

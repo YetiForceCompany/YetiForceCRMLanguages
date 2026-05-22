@@ -1,19 +1,19 @@
 {
   "php": {
-    "LBL_NEWEST_SSALESPROCESSES": "List of newest opportunities",
-    "LBL_FOR_VALUE": "for value",
-    "LBL_UNTIL_DAY": "until day",
-    "LBL_ACTUAL_STATUS": "with actual status",
-    "LBL_CALENDAR_OVERDUE": "Overdue activities",
-    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "List of highest value opportunities",
-    "LBL_NEW_ACCOUNTS": "New accounts",
-    "LBL_NEW_CONTACTS": "New contacts",
-    "LBL_CALENDAR_TODAY": "Calendar events today",
-    "LBL_CALENDAR_THIS_WEEK": "Calendar events this week",
-    "LBL_LOGIN_HISTORY": "Login history",
-    "LBL_HELLO": "Hi",
-    "LBL_REPORT_DAY_CONTENT": "Below is a daily summary of activities in YetiForce ",
-    "LBL_REPORT_WEEK_CONTENT": "Below is a weekly summary of activities in YetiForce ",
-    "LBL_REPORT_MONTH_CONTENT": "Below is a monthly summary of activities in YetiForce "
+    "LBL_NEWEST_SSALESPROCESSES": "最新机会列表",
+    "LBL_FOR_VALUE": "用于价值",
+    "LBL_UNTIL_DAY": "直到天",
+    "LBL_ACTUAL_STATUS": "具有实际状态",
+    "LBL_CALENDAR_OVERDUE": "过期活动",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "最高价值机会列表",
+    "LBL_NEW_ACCOUNTS": "新账户",
+    "LBL_NEW_CONTACTS": "新联系人",
+    "LBL_CALENDAR_TODAY": "今天的日历事件",
+    "LBL_CALENDAR_THIS_WEEK": "本周日历事件",
+    "LBL_LOGIN_HISTORY": "登录历史",
+    "LBL_HELLO": "你好",
+    "LBL_REPORT_DAY_CONTENT": "以下是 YetiForce 的每日活动摘要 ",
+    "LBL_REPORT_WEEK_CONTENT": "以下是 YetiForce 活动的每周摘要 ",
+    "LBL_REPORT_MONTH_CONTENT": "以下是 YetiForce 活动的月度摘要 "
   }
 }

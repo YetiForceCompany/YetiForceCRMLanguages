@@ -24,7 +24,7 @@
     "LBL_HISTORY_ACTIVITY": "History of access activity",
     "LBL_CREATE_RECORD": "Create",
     "Mail": "Mail",
-    "FL_STORAGE": "Storage",
+    "FL_STORAGE": "Памет",
     "FL_TOKEN": "Token",
     "FL_AUTHY_METHODS": "2FA authentication method",
     "FL_LOGIN_METHOD": "Authentication method",

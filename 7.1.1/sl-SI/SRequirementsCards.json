@@ -1,21 +1,21 @@
 {
   "php": {
-    "SRequirementsCards": "Sales requirements",
-    "SINGLE_SRequirementsCards": "Sales requirement",
-    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_STATISTICS": "Statistics",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
+    "SRequirementsCards": "Prodajne zahteve",
+    "SINGLE_SRequirementsCards": "Prodajna zahteva",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Osnovni podatki",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Podroben opis",
+    "LBL_STATISTICS": "Statistika",
+    "LBL_SUBJECT": "Zadeva",
+    "LBL_NUMBER": "Številka",
+    "LBL_CLOSED_TIME": "Zaključeno",
     "LBL_STATUS": "Status",
-    "SINGLE_SSalesProcesses": "Opportunity",
-    "PLL_DRAFT": "Draft",
-    "PLL_IN_REALIZATION": "In realization",
-    "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_CANCELLED": "Cancelled",
-    "PLL_COMPLETED": "Completed",
-    "LBL_CHANGE_STATUS": "Change status"
+    "SINGLE_SSalesProcesses": "Prodajne možnosti",
+    "PLL_DRAFT": "Predloga",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_FOR_VERIFICATION": "V potrjevanju",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_COMPLETED": "Zaključeno",
+    "LBL_CHANGE_STATUS": "Status spremembe"
   }
 }

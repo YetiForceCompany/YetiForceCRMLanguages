@@ -37,7 +37,7 @@
     "LBL_REMOVED": "removed",
     "LBL_CONVERTED_FROM_LEAD": "Converted from lead",
     "LBL_DELETED": "Deleted record",
-    "LBL_DELETED_VALUE": "Deleted value",
+    "LBL_DELETED_VALUE": "Slettet verdi",
     "LBL_ACTIVE": "Restored record",
     "LBL_ARCHIVED": "Archived record",
     "LBL_TRANSFER_EDIT": "record was changed in the transfer process",
@@ -47,11 +47,11 @@
     "LBL_INV_ADDED": "Added",
     "LBL_INV_UPDATED": "Updated",
     "LBL_INV_DELETED": "Deleted",
-    "LBL_UPDATES_WIDGET_CONFIGURATION": "Updates widget config",
+    "LBL_UPDATES_WIDGET_CONFIGURATION": "Oppdaterer dings dings oppsett",
     "LBL_UPDATES": "System update history",
-    "LBL_PERSON_MAKING_CHANGES": "Person making changes",
+    "LBL_PERSON_MAKING_CHANGES": "Hvem redigerer",
     "LBL_MODULES": "Modules",
-    "LBL_SHOW_HIDDEN_DATA": "Showed hidden data",
+    "LBL_SHOW_HIDDEN_DATA": "Vis skjulte data",
     "LBL_WIDGET_NOT_AVAILABLE": "Due to a change in the history storage engine, widget is not yet available on current system configuration."
   }
 }

@@ -1,19 +1,19 @@
 {
   "php": {
-    "BankAccounts": "Bank accounts",
-    "SINGLE_BankAccounts": "Bank account",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_NAME": "Name",
-    "FL_BANK_ACCOUNT_NUMBER": "Account number",
-    "FL_CURRENCY": "Currency",
-    "FL_SWIFT": "SWIFT",
-    "FL_BANK_NAME": "Bank name",
+    "BankAccounts": "Konta bankowe",
+    "SINGLE_BankAccounts": "Konto bankowe",
+    "LBL_CUSTOM_INFORMATION": "Informacje dodatkowe",
+    "LBL_BASIC_INFORMATION": "Informacje podstawowe",
+    "FL_NAME": "Nazwa",
+    "FL_BANK_ACCOUNT_NUMBER": "Numer konta",
+    "FL_CURRENCY": "Waluta",
+    "FL_SWIFT": "Kod SWIFT",
+    "FL_BANK_NAME": "Nazwa banku",
     "FL_STATUS": "Status",
-    "FL_MULTICOMPANY": "Department",
-    "FL_RELATED_TO": "Related to",
-    "PLL_DRAFT": "Draft",
-    "PLL_ACTIVE": "Active",
-    "PLL_INACTIVE": "Inactive"
+    "FL_MULTICOMPANY": "Dział",
+    "FL_RELATED_TO": "Powiązany z",
+    "PLL_DRAFT": "Wersja robocza",
+    "PLL_ACTIVE": "Aktywny",
+    "PLL_INACTIVE": "Nieaktywny"
   }
 }

@@ -1,10 +1,10 @@
 {
   "php": {
-    "Comarch": "Comarch",
-    "LBL_COMARCH": "Comarch",
-    "LBL_COMARCH_DESCRIPTION": "Integration with the Comarch ERP",
+    "Comarch": "Comarca",
+    "LBL_COMARCH": "Comarca",
+    "LBL_COMARCH_DESCRIPTION": "Integração com o Comarch ERP",
     "LBL_URL": "API URL",
-    "LBL_CONNECTOR": "Connector",
+    "LBL_CONNECTOR": "Conector",
     "LBL_CONNECTOR_TOOLTIP": "Comarch XL - API from elte-s.com was used for the integration",
     "LBL_USER_NAME": "Consumer Key",
     "LBL_PASSWORD": "Consumer Secret",

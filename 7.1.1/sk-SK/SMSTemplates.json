@@ -1,12 +1,12 @@
 {
   "php": {
-    "SMSTemplates": "SMS templates",
-    "SINGLE_SMSTemplates": "SMS template",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "FL_SUBJECT": "Subject",
-    "FL_MESSAGE": "Message",
-    "FL_TARGET_MODULE": "Module",
-    "BL_SMS_CONTENT": "SMS content"
+    "SMSTemplates": "SMS šablóny",
+    "SINGLE_SMSTemplates": "SMS šablóna",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "FL_SUBJECT": "Predmet",
+    "FL_MESSAGE": "Správa",
+    "FL_TARGET_MODULE": "Modul",
+    "BL_SMS_CONTENT": "SMS obsah"
   }
 }

@@ -11,7 +11,7 @@
     "FL_TYPE": "Type",
     "FL_LOGIN_TIME": "Last login time",
     "FL_LOGOUT_TIME": "Date of last logout",
-    "FL_LANGUAGE": "Language",
+    "FL_LANGUAGE": "اللّغة",
     "FL_RECORD_NAME": "Contact",
     "FL_USER": "Permissions profile",
     "BTN_SAVE": "Save",
@@ -59,6 +59,6 @@
   },
   "js": {
     "JS_DELETE_CONFIRMATION": "Are you sure you want to remove the key?",
-    "JS_SAVE_SUCCESS": "Changes saved"
+    "JS_SAVE_SUCCESS": "تم حفظ التغييرات"
   }
 }

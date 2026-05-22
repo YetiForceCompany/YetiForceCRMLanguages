@@ -1,15 +1,15 @@
 {
   "php": {
-    "Partners": "Partners",
+    "Partners": "Partnerji",
     "SINGLE_Partners": "Partner",
-    "LBL_PARTNERS_INFORMATION": "Basic information",
-    "LBL_CUSTOM_INFORMATION": "System information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "LBL_SUBJECT": "Subject",
-    "LBL_NUMBER": "Number",
-    "LBL_CLOSED_TIME": "Closed time",
-    "LBL_VAT_ID": "Tax ID",
-    "FL_CATEGORY": "Category",
+    "LBL_PARTNERS_INFORMATION": "Osnovni podatki",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Podroben opis",
+    "LBL_SUBJECT": "Ime / Naziv",
+    "LBL_NUMBER": "Številka",
+    "LBL_CLOSED_TIME": "Zaključeno",
+    "LBL_VAT_ID": "ID za DDV",
+    "FL_CATEGORY": "Kategorija",
     "FL_MEMBER_OF": "Parent partner",
     "LBL_SHOW_HIERARCHY": "Hierarchy"
   }

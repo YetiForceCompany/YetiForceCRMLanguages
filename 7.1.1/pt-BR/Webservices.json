@@ -1,9 +1,9 @@
 {
   "php": {
-    "Webservices": "Webservices",
-    "LBL_CHANGE_PASSWORD_FAILURE": "Failed to change password",
-    "LBL_DATABASE_QUERY_ERROR": "Database error while performing requested operation",
-    "LBL_INVALID_OLD_PASSWORD": "Invalid value given for old password.",
-    "LBL_NEW_PASSWORD_MISMATCH": "New Password and confirm password don't match"
+    "Webservices": "Serviços web",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Falha ao alterar a senha",
+    "LBL_DATABASE_QUERY_ERROR": "Erro de banco de dados durante a execução da operação solicitada",
+    "LBL_INVALID_OLD_PASSWORD": "Valor inválido fornecido para senha antiga.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Nova Senha e Senha de Confirmação não são idênticas"
   }
 }

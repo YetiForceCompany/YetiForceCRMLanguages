@@ -1,15 +1,15 @@
 {
   "php": {
-    "LBL_BACKUP_MANAGER": "Backup Manager",
-    "LBL_BACKUP_MANAGER_DESCRIPTION": "Manage backup files",
-    "LBL_DOWNLOAD": "Download",
-    "LBL_FILE_NAME": "File name",
-    "LBL_FILE_SIZE": "File size",
-    "LBL_FILE_DATE": "Modified date",
-    "LBL_BACKUP_LIST": "Backup list",
-    "ERR_CONFIG_ALERT_TITLE": "Backup Manager is disabled",
-    "ERR_CONFIG_ALERT_DESC": "Set the appropriate path in BACKUP_PATH variable in the configuration file [config\/Components\/Backup.php] to enable it.",
-    "ERR_CONFIG_PATH_ALERT_DESC": "The system cannot access the specified backup directory. Please make sure the path and granted permissions are correct."
+    "LBL_BACKUP_MANAGER": "Διαχείριση αντιγράφων ασφαλείας",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Διαχείριση αρχείων αντιγράφων ασφαλείας",
+    "LBL_DOWNLOAD": "Λήψη",
+    "LBL_FILE_NAME": "Όνομα αρχείου",
+    "LBL_FILE_SIZE": "Μέγεθος αρχείου",
+    "LBL_FILE_DATE": "Ημερομηνία τροποποίησης",
+    "LBL_BACKUP_LIST": "Λίστα αντιγράφων ασφαλείας",
+    "ERR_CONFIG_ALERT_TITLE": "Η διαχείριση των αντιγράφων ασφαλείας είναι απενεργοποιημένη",
+    "ERR_CONFIG_ALERT_DESC": "Ορίστε την κατάλληλη διαδρομή στη μεταβλητή BACKUP_PATH στο αρχείο παραμέτρων [config\/Components\/Backup.php] για να το ενεργοποιήσετε.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "Το σύστημα δεν μπορεί να έχει πρόσβαση στον καθορισμένο κατάλογο αντιγράφων ασφαλείας. Παρακαλώ σιγουρευτείτε ότι η διαδρομή και τα εκχωρημένα δικαιώματα είναι σωστά."
   },
   "js": {}
 }

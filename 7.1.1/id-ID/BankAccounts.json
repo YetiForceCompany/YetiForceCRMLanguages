@@ -1,7 +1,7 @@
 {
   "php": {
-    "BankAccounts": "Bank accounts",
-    "SINGLE_BankAccounts": "Bank account",
+    "BankAccounts": "Rekening bank",
+    "SINGLE_BankAccounts": "Rekening bank (satu)",
     "LBL_CUSTOM_INFORMATION": "Custom Information",
     "LBL_BASIC_INFORMATION": "Basic Information",
     "FL_NAME": "Name",

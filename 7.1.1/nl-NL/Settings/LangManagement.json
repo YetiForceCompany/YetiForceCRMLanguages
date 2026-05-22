@@ -39,7 +39,7 @@
     "Modules": "Modules",
     "Module": "Module",
     "Language": "Language",
-    "LBL_TranslationType": "Translation type",
+    "LBL_TranslationType": "Translation Type",
     "LBL_KeyExists": "This language variable already exists",
     "Export": "Export",
     "LBL_SHOW_MISSING_TRANSLATIONS": "Show missing translations",

@@ -45,13 +45,13 @@
     "LBL_BLOCK_CUT": "Bloquear cortar",
     "LBL_BLOCK_PASTE": "Bloquear pegar",
     "LBL_AUTO_ASSIGN_RECORDS": "Asignar registros automáticamente",
-    "LBL_UPLOAD_LOGO": "Upload logo",
-    "LBL_UPLOAD_ERROR": "Error during upload",
-    "LBL_UPLOAD_SUCCESS": "Uploaded successfully",
-    "LBL_MULTI_COMPANY": "Organizational structure"
+    "LBL_UPLOAD_LOGO": "Cargar logo",
+    "LBL_UPLOAD_ERROR": "Error al subir el archivo",
+    "LBL_UPLOAD_SUCCESS": "Cargado exitosamente",
+    "LBL_MULTI_COMPANY": "Estructura organizacional"
   },
   "js": {
-    "JS_NO_PERMISSIONS_TO_MOVE": "No permissions to move",
-    "JS_PERMISSION_DENIED": "Permissions denied"
+    "JS_NO_PERMISSIONS_TO_MOVE": "No tiene permisos para mover",
+    "JS_PERMISSION_DENIED": "Permisos denegados"
   }
 }

@@ -2,8 +2,8 @@
   "php": {
     "LBL_RSS_FEED_SOURCES": "Rss Feed Sources",
     "LBL_ADD_FEED_SOURCE": "Add Feed Source",
-    "LBL_FEEDS_LIST_FROM": "Feeds list from",
-    "LBL_SET_AS_DEFAULT": "Set as default",
+    "LBL_FEEDS_LIST_FROM": "Feeds List From",
+    "LBL_SET_AS_DEFAULT": "Set As Default",
     "LBL_SENDER": "Sender",
     "LBL_FEED_SOURCE": "Feed Source",
     "LBL_ENTER_FEED_SOURCE": "Enter Feed Source",
@@ -11,8 +11,8 @@
     "LBL_CHANGE_RSS_CHANNEL": "Change RSS channel"
   },
   "js": {
-    "JS_RSS_SUCCESSFULLY_SAVED": "Rss successfully saved",
-    "JS_INVALID_RSS_URL": "Invalid Rss URL",
-    "JS_RSS_MADE_AS_DEFAULT": "Rss made as default"
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss Successfully saved",
+    "JS_INVALID_RSS_URL": "Invalid Rss Url",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss Made as Default"
   }
 }

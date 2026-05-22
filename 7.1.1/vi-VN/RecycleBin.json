@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_RECYCLE_DELETE_ALL": "Remove all trash",
-    "RecycleBin": "Trash bin"
+    "LBL_RECYCLE_DELETE_ALL": "Làm sạch rác",
+    "RecycleBin": "Thùng rác"
   },
   "js": {
-    "JS_MASS_DELETE": "Mass delete",
-    "JS_MASS_ACTIVATE": "Mass activate",
-    "JS_DELETE_ALL_RECYCLE_RECORD": "Delete all records from Recycle Bin",
-    "JS_ACTIVATE_RECORD_DESC": "Activating a record only changes the record's state without changing the rest of information. Are you sure you want to activate the record?",
-    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Deleting a record is permanent and irreversible for all record's information. Are you sure you want to delete the record?",
-    "JS_ADDED_TO_QUEUE": "Added to the queue. All elements will be deleted"
+    "JS_MASS_DELETE": "Xóa lượng lớn",
+    "JS_MASS_ACTIVATE": "Kích hoạt khối lượng lớn",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Xoá toàn bộ biểu ghi từ thùng rác",
+    "JS_ACTIVATE_RECORD_DESC": "Kích hoạt một hồ sơ chỉ thay đổi các hồ sơ của nhà nước mà không thay đổi phần còn lại của thông tin. Anh có chắc là muốn để kích hoạt các hồ sơ?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Xóa một hồ sơ là vĩnh viễn không thể đảo ngược và cho tất cả các hồ sơ của thông tin. Bạn có chắc chắn muốn loại bỏ các hồ sơ?",
+    "JS_ADDED_TO_QUEUE": "Thêm vào hàng đợi. Tất cả các phần tử sẽ bị xóa"
   }
 }

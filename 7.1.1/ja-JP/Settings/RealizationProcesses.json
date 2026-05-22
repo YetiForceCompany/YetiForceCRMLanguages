@@ -1,15 +1,15 @@
 {
   "php": {
-    "LBL_PROJECT_CONFIGURATION": "Project",
-    "LBL_INFO": "Information",
-    "LBL_TYPE": "Status",
-    "LBL_PROJECT": "Project",
-    "LBL_PROJECT_STATUS_INFO": "Statuses determining that the project is closed",
-    "LBL_PROJECTMILESTONE_STATUS_INFO": "Statuses determining that the milestone is closed",
-    "LBL_PROJECTTASK_STATUS_INFO": "Statuses determining that the task is closed",
-    "LBL_SAVE_CONFIG_OK": "Changes saved successfully.",
-    "LBL_SAVE_CONFIG_ERROR": "Failed to save changes.",
-    "RealizationProcesses": "Realization processes"
+    "LBL_PROJECT_CONFIGURATION": "プロジェクト",
+    "LBL_INFO": "情報",
+    "LBL_TYPE": "状態",
+    "LBL_PROJECT": "プロジェクト",
+    "LBL_PROJECT_STATUS_INFO": "プロジェクトが閉じられるかどうかを決定する状態",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "プロジェクトが閉じられるかどうかを決定する状態",
+    "LBL_PROJECTTASK_STATUS_INFO": "プロジェクトが閉じられるかどうかを決定する状態",
+    "LBL_SAVE_CONFIG_OK": "変更は正常に保存されました。",
+    "LBL_SAVE_CONFIG_ERROR": "変更の保存に失敗しました。",
+    "RealizationProcesses": "実現プロセス"
   },
   "js": {}
 }

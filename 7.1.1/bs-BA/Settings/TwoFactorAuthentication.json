@@ -1,14 +1,14 @@
 {
   "php": {
-    "LBL_TOTP_AUTHY_MODE": "Authentication modes",
-    "LBL_TOTP_OFF": "TOTP - OFF",
-    "LBL_TOTP_OPTIONAL": "TOTP - optional, user-defined",
-    "LBL_TOTP_OBLIGATORY": "TOTP - mandatory, each user must have this option configured",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Number of failed attempts",
-    "LBL_2FA_CONF": "Multi-factor authentication",
-    "LBL_TOTP": "Time-based One-time Password algorithm",
-    "LBL_TOTP_AUTHY_MODE_DESC": "Select authentication modes",
-    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Max number of failed attempts to enter verification code",
+    "LBL_TOTP_AUTHY_MODE": "Modovi authentifikacije",
+    "LBL_TOTP_OFF": "TOTP - S",
+    "LBL_TOTP_OPTIONAL": "TOTP - opcionalno, korisnički definirano",
+    "LBL_TOTP_OBLIGATORY": "TOTP - obavezno, svaki korisnik mora imati ovu opciju konfiguriranu",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Broj neuspjelih pokušaja",
+    "LBL_2FA_CONF": "Multi-faktor autentifikacija",
+    "LBL_TOTP": "Vremenski utemeljen algoritam jednokratne lozinke",
+    "LBL_TOTP_AUTHY_MODE_DESC": "Odaberite načine provjere autentičnosti",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Maksimalni broj neuspjelih pokušaja unošenja verifikacijskog koda",
     "LBL_TOTP_WHITE_LIST": "IP white list"
   }
 }

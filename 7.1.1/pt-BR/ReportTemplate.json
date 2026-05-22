@@ -1,9 +1,9 @@
 {
   "php": {
-    "ReportTemplate": "Reporting",
-    "SINGLE_ReportTemplate": "Reporting",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
+    "ReportTemplate": "Relatórios",
+    "SINGLE_ReportTemplate": "Relatórios",
+    "LBL_CUSTOM_INFORMATION": "Informação Personalizada",
+    "LBL_BASIC_INFORMATION": "Informação Básica",
     "LBL_NAME": "Name",
     "LBL_DESCRIPTION": "Description",
     "LBL_SELECT_DATA_SOURCES": "Select data sources",

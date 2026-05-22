@@ -1,14 +1,14 @@
 {
   "php": {
-    "Access to record": "Access to records",
-    "GlobalPermission": "Special access",
-    "LBL_Module_desc": "Here you can define which profiles have access to all records regardless of roles.",
-    "LBL_PROFILE_NAME": "Profile name",
-    "LBL_DESCRIPTION": "Profile description",
-    "LBL_VIEW_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Browsing",
-    "LBL_VIEW_ALL": "Enable preview of all records",
-    "LBL_EDIT_ALL_DESC": "If you tick this option, all the modules will have a marked option of: Create\/Edit.",
-    "LBL_EDIT_ALL": "Enable editing of all records",
-    "LBL_SAVE_OK": "Saved change"
+    "Access to record": "レコードへのアクセス",
+    "GlobalPermission": "特別なアクセス",
+    "LBL_Module_desc": "ここでは、ロールに関係なくすべてのレコードにアクセスできるプロファイルを定義できます。",
+    "LBL_PROFILE_NAME": "プロファイル名",
+    "LBL_DESCRIPTION": "プロファイルの説明",
+    "LBL_VIEW_ALL_DESC": "このオプションにチェックを入れると、すべてのモジュールに以下のマークが付いています: 参照",
+    "LBL_VIEW_ALL": "すべてのレコードのプレビューを有効にする",
+    "LBL_EDIT_ALL_DESC": "このオプションにチェックを入れると、すべてのモジュールに以下のマークが付いています: 作成\/編集。",
+    "LBL_EDIT_ALL": "すべてのレコードの編集を有効にする",
+    "LBL_SAVE_OK": "変更を保存"
   }
 }
