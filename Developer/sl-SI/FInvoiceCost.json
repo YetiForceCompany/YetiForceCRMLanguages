@@ -58,6 +58,7 @@
     "PLL_UPR": "Simplified",
     "PLL_KOR": "Correction",
     "PLL_KOR_ZAL": "Advance payment correction",
+    "PLL_KOR_ROZ": "Settlement correction",
     "FL_TAX_EXEMPTION_TYPE": "Tax exemption type",
     "PLL_ACT": "Act",
     "PLL_DIRECTIVE": "Directive",
@@ -66,6 +67,7 @@
     "LBL_SETTLEMENT": "Settlement",
     "PLL_ORIGINAL": "Original",
     "PLL_CORRECTIVE": "Corrective",
-    "LBL_KSEF": "KSeF"
+    "LBL_KSEF": "KSeF",
+    "FL_PREPAYMENT": "Prepayment"
   }
 }

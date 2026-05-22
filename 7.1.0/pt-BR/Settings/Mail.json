@@ -1,7 +1,7 @@
 {
   "php": {
-    "LBL_AUTOLOGIN": "Mail – Auto Login",
-    "LBL_AUTOLOGIN_DESCRIPTION": "Configuration of auto login for the Mailbox module",
+    "LBL_AUTOLOGIN": "Mensagens -  Auto entrada",
+    "LBL_AUTOLOGIN_DESCRIPTION": "Configuração de auto entrada para módulo de caixa de entrada ",
     "LBL_MAIL_GENERAL_CONFIGURATION": "Correio – Configuração",
     "LBL_MAIL_GENERAL_CONFIGURATION_DESCRIPTION": "Configuração geral do módulo Caixa de Correio",
     "LBL_RC_USER": "Conta e-mail do Usuário",
@@ -34,7 +34,7 @@
     "LBL_MANUAL_SENDING": "Envio Manual",
     "LBL_EMAILS_TO_SEND": "E-mails para envio",
     "LBL_RECORD_ACCEPTED": "Registro aceito",
-    "LBL_TO": "To",
+    "LBL_TO": "Para",
     "LBL_EMAILS_TO_SEND_DESCRIPTION": "Lita de e-mail para envio. O envio de e-mails é feito no CRON.",
     "LBL_MAIL_QUEUE_PAGE_TITLE": "E-mails para enviar",
     "LBL_EMAIL_WAS_SENT": "E-mail foi enviado, visualização não disponível.",
@@ -49,7 +49,7 @@
     "BL_SCANNER_BASIC": "Configuração básica",
     "FL_SCANNER_LIMIT": "Limite",
     "LBL_SCANNER_LIMIT_DESC": "Número de e-mails escaneados em um único processo.",
-    "FL_SCANNER_DEACTIVATION_TIME": "Timeout for deactivation account [h]",
+    "FL_SCANNER_DEACTIVATION_TIME": "Passado o tempo para desativação de conta [h]",
     "LBL_SCANNER_DEACTIVATION_TIME_DESC": "Em caso de problemas com o acesso à conta de e-mail, ele será desativado após o número definido de horas.",
     "FL_SCANNER_FLAG_SEEN": "Marcar como lido",
     "LBL_SCANNER_FLAG_SEEN_DESC": "E-mails escaneados serão marcados como vistos automaticamente.",

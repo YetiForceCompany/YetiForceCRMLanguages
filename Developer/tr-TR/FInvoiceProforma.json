@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Ödenmedi",
     "PLL_PAID": "Ücretli",
     "PLL_OVERPAID": "Fazla ödenmiş",
-    "PLL_UNDERPAID": "Eksik ödenmiş"
+    "PLL_UNDERPAID": "Eksik ödenmiş",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

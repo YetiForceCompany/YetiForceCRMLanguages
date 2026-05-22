@@ -24,8 +24,8 @@
         "prefix": "cs-CZ",
         "crowdinCode": "cs",
         "name": "Czech",
-        "progress": 12,
-        "time": "2026-02-11 12:01:28"
+        "progress": 23,
+        "time": "2026-05-22 10:20:22"
     },
     "da-DK": {
         "prefix": "da-DK",
@@ -158,14 +158,14 @@
         "crowdinCode": "pl",
         "name": "Polish",
         "progress": 100,
-        "time": "2026-02-11 12:03:42"
+        "time": "2026-05-22 10:24:06"
     },
     "pt-BR": {
         "prefix": "pt-BR",
         "crowdinCode": "pt-BR",
         "name": "Portuguese, Brazilian",
-        "progress": 72,
-        "time": "2026-02-11 12:03:58"
+        "progress": 81,
+        "time": "2026-05-22 10:24:34"
     },
     "pt-PT": {
         "prefix": "pt-PT",
@@ -178,8 +178,8 @@
         "prefix": "ro-RO",
         "crowdinCode": "ro",
         "name": "Romanian",
-        "progress": 99,
-        "time": "2026-02-11 12:04:10"
+        "progress": 100,
+        "time": "2026-05-22 10:24:58"
     },
     "ru-RU": {
         "prefix": "ru-RU",

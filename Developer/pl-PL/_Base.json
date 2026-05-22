@@ -879,6 +879,8 @@
     "after": "po",
     "between": "pomiędzy",
     "is today": "dzisiaj",
+    "has added": "dodano",
+    "has removed": "usunięto",
     "less than hours before": "mniej niż godziny przed",
     "less than hours later": "mniej niż godziny po",
     "more than hours before": "więcej niż godzina przed",

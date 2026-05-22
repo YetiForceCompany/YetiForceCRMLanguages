@@ -24,6 +24,8 @@
     "LBL_INVALID_CONNECTION_DATA": "Niepoprawne dane połączenia",
     "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Dla wybranej organizacji istnieje już połączenie."
   },
-  "js": {}
+  "js": {
+    "JS_SAVE_SUCCESS": "Zapisano"
+  }
 }
 

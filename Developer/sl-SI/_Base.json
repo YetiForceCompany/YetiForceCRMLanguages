@@ -879,6 +879,8 @@
     "after": "potem",
     "between": "medtem",
     "is today": "danes",
+    "has added": "has added",
+    "has removed": "has removed",
     "less than hours before": "manj kot nekaj ur prej",
     "less than hours later": "manj kot nekaj ur pozneje",
     "more than hours before": "več kot nekaj ur prej",

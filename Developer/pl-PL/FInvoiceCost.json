@@ -58,6 +58,7 @@
     "PLL_UPR": "Uproszczona",
     "PLL_KOR": "Korygująca podstawową",
     "PLL_KOR_ZAL": "Korygująca zaliczkową",
+    "PLL_KOR_ROZ": "Korekta rozliczenia",
     "FL_TAX_EXEMPTION_TYPE": "Podstawa zwolnienia z podatku",
     "PLL_ACT": "Ustawa",
     "PLL_DIRECTIVE": "Dyrektywa",
@@ -66,6 +67,7 @@
     "LBL_SETTLEMENT": "Rozliczenie",
     "PLL_ORIGINAL": "W dacie ujęcia faktury pierwotnej",
     "PLL_CORRECTIVE": "W dacie ujęcia faktury korygującej",
-    "LBL_KSEF": "KSeF"
+    "LBL_KSEF": "KSeF",
+    "FL_PREPAYMENT": "Kwota zaliczki"
   }
 }

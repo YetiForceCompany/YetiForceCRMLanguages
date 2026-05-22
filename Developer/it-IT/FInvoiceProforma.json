@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Non pagato",
     "PLL_PAID": "Pagato",
     "PLL_OVERPAID": "Sovrappagato",
-    "PLL_UNDERPAID": "Sottopagato"
+    "PLL_UNDERPAID": "Sottopagato",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

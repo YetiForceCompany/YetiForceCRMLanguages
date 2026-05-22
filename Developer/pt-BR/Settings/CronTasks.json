@@ -72,7 +72,10 @@
     "LBL_CRON_HAS_NOT_BEEN_ENABLED": "O mecanismo CRON não foi ativado, ele é necessário para a operação correta do sistema.",
     "LBL_GET_SOCIAL_MEDIA_MESSAGES": "Baixar mensagens de mídias sociais",
     "LBL_MAIL_RBL": "Atualização de servidores RBL",
-    "LBL_INTEGRATION_PL_GUS_REGON": "Criação de novas empresas adicionadas a partir da base de dados PL GUS REGON"
+    "LBL_KSEF_CERTIFICATE_EXPIRATION_NOTIFICATION": "KSeF certificate expiration notification",
+    "LBL_KSEF_BATCH_SEND_NEW_INVOICES": "Send invoices to KSeF",
+    "LBL_KSEF_IMPORT_INVOICES_DOWNLOAD": "Download invoices from KSeF",
+    "LBL_KSEF_IMPORT_INVOICES_REQUEST": "Requesting invoices from KSeF"
   },
   "js": {
     "Recommended frequency for Scheduled Import is 15 mins": "Frequência recomendada para a Importação Agendada é 15 minutos",

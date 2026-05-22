@@ -85,6 +85,12 @@
     "LBL_ACCEPT_INVOICE_ADDED_TO_QUEUE": "The invoice has been added to the queue to be sent to KSeF.",
     "LBL_SEND_TO_KSEF": "Send to KSeF",
     "LBL_ADD_TO_KSEF_QUEUE_CONFIRM": "Are you sure you want to send the invoice to KSeF?",
-    "LBL_RESEND_TO_KSEF": "Resend to KSeF"
+    "LBL_RESEND_TO_KSEF": "Resend to KSeF",
+    "LBL_KSEF": "KSeF",
+    "FL_TP": "TP",
+    "FL_PREPAYMENT": "预付款",
+    "FL_PROFORMA": "形式发票",
+    "FL_LAST_PAYMENT_DATE": "最后付款日期",
+    "LBL_KSEF_FIELDS_REQUIRED": "填写必填字段：%s"
   }
 }

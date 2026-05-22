@@ -879,6 +879,8 @@
     "after": "successivo al",
     "between": "compreso (estremi esclusi)",
     "is today": "è oggi",
+    "has added": "has added",
+    "has removed": "has removed",
     "less than hours before": "nelle ultime n-ore",
     "less than hours later": "nelle prossime n-ore",
     "more than hours before": "precedente a n-ore fa",

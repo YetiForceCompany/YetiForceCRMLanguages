@@ -24,6 +24,8 @@
     "LBL_INVALID_CONNECTION_DATA": "Invalid connection data",
     "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Connection already exists for the selected company."
   },
-  "js": {}
+  "js": {
+    "JS_SAVE_SUCCESS": "Salvato"
+  }
 }
 

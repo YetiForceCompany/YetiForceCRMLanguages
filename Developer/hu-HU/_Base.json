@@ -879,6 +879,8 @@
     "after": "after",
     "between": "between",
     "is today": "is today",
+    "has added": "has added",
+    "has removed": "has removed",
     "less than hours before": "kevesebb mint egy órával előbb",
     "less than hours later": "kevesebb mint egy órával később",
     "more than hours before": "több mint egy órával előbb",

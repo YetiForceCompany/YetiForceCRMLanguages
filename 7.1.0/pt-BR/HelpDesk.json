@@ -45,7 +45,7 @@
     "LBL_TICKET_RESOLUTION": "Solução",
     "LBL_USERNAME": "Nome de Usuário:",
     "LBL_CLOSED_TICKETS_BY_PRIORITY": "Chamado fechado por Prioridade",
-    "LBL_CLOSED_TICKETS_BY_USER": "Closed ticket by user",
+    "LBL_CLOSED_TICKETS_BY_USER": "Bilhete fechado pelo usuário ",
     "Major": "Maior",
     "Minor": "Menor",
     "Normal": "Normal",
@@ -87,14 +87,14 @@
     "LBL_SHOW_HIERARCHY": "Hierarquia",
     "LBL_MASS_STATUS_CHANGE": "Mudança de estado em massa",
     "LBL_RECORDS": "Registos a alterar",
-    "LBL_CHILD_RECORDS": "Child records to current one",
+    "LBL_CHILD_RECORDS": "Registros da criança para o atual ",
     "LBL_MASS_STATUS_UPDATED": "Status atualizado nos registos selecionados",
     "LBL_UPDATE": "Atualizar",
-    "LBL_ADD_TIME_CONTROL": "Add working time before you close the ticket",
+    "LBL_ADD_TIME_CONTROL": "Tempo de trabalho adicional antes de fechar o bilhete",
     "LBL_CLOSE_RELATED_TICKETS": "Antes de fechar este ticket, feche os tickets relacionados",
     "LBL_HELPDESK_DEPENDENTS": "Pedidos",
-    "LBL_HELPDESK_RELATED": "Tickets (M:M)",
-    "Tickets by Status": "Tickets by status",
-    "Open Tickets": "Open Tickets"
+    "LBL_HELPDESK_RELATED": "Bilhetes (M:M)",
+    "Tickets by Status": "Bilhetes por \"status\"",
+    "Open Tickets": "Bilhetes abertos"
   }
 }

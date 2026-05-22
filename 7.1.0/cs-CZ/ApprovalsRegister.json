@@ -1,21 +1,21 @@
 {
   "php": {
-    "ApprovalsRegister": "Approvals register",
-    "SINGLE_ApprovalsRegister": "Approval Register",
-    "LBL_CUSTOM_INFORMATION": "Custom Information",
-    "LBL_BASIC_INFORMATION": "Basic Information",
-    "LBL_DESCRIPTION_INFORMATION": "Description details",
-    "FL_SUBJECT": "Subject",
-    "FL_APPROVALS_STATUS": "Status",
-    "FL_DESCRIPTION": "Description",
-    "FL_APPROVAL": "Approval",
-    "FL_TYPE": "Type",
-    "FL_STATUS": "Status",
-    "FL_REGISTRATION_DATE": "Registration date",
-    "PLL_FOR_VERIFICATION": "For verification",
-    "PLL_ACCEPTED": "Accepted",
-    "PLL_REJECTED": "Rejected",
-    "PLL_ACCEPTANCE": "Acceptance",
-    "PLL_RESIGNATION": "Resignation"
+    "ApprovalsRegister": "Registr schválení",
+    "SINGLE_ApprovalsRegister": "Registr schválení",
+    "LBL_CUSTOM_INFORMATION": "Vlastní informace",
+    "LBL_BASIC_INFORMATION": "Základní informace",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobnosti popisu",
+    "FL_SUBJECT": "Předmět",
+    "FL_APPROVALS_STATUS": "Stav",
+    "FL_DESCRIPTION": "Popis",
+    "FL_APPROVAL": "Schválení",
+    "FL_TYPE": "Typ",
+    "FL_STATUS": "Stav",
+    "FL_REGISTRATION_DATE": "Datum registrace",
+    "PLL_FOR_VERIFICATION": "K ověření",
+    "PLL_ACCEPTED": "Přijato",
+    "PLL_REJECTED": "Zamítnuto",
+    "PLL_ACCEPTANCE": "Přijetí",
+    "PLL_RESIGNATION": "Odstoupení"
   }
 }

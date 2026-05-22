@@ -1,29 +1,31 @@
 {
   "php": {
     "LBL_KSEF": "KSeF",
-    "LBL_KSEF_ACTIVATE": "Activate",
-    "LBL_KSEF_ACTIVATE_CONFIRM": "As part of the activation of integration with the National e-Invoice System (KSeF-Poland), new fields will be added to the Costs and Invoices modules, including: \n- fields required for the correct handling of e-invoices,\n- tax rates (VAT) in accordance with KSeF requirements.\n Structural changes cannot be reversed. Are you sure you want to activate KSeF?",
-    "FL_NAME": "Name",
-    "FL_STATUS": "Status",
-    "PLL_ACTIVE": "Active",
-    "PLL_BLOCKED": "Blocked",
-    "PLL_REVOKED": "Revoked",
-    "PLL_EXPIRED": "Expired",
-    "FL_PASSPHRASE": "Password",
-    "FL_CERTIFICATE": "Certificate",
-    "FL_PRIVATE_KEY": "Private key",
-    "FL_COMPANY": "Company",
-    "FL_IDENTIFIER_CODE": "TAX ID",
-    "FL_IDENTIFIER_CODE_DESC": "The TAX ID should contain 10 digits and be identical to the one in the Company field.",
-    "FL_DATE_VALID_FROM": "Valid from",
-    "FL_EXPIRATION_DATE": "Valid until",
-    "FL_CONTACT_EMAIL": "Contact email",
-    "FL_CONTACT_EMAIL_DESC": "Contact email for notifications about the upcoming expiration of the certificate.",
-    "LBL_CHECK_CONNECTION": "Check connection",
-    "LBL_CHECK_CONNECTION_SUCCESS": "Connection established successfully",
-    "LBL_INVALID_CONNECTION_DATA": "Invalid connection data",
-    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Connection already exists for the selected company."
+    "LBL_KSEF_ACTIVATE": "Ativado ",
+    "LBL_KSEF_ACTIVATE_CONFIRM": "Como parte da ativação da integração com Sistema Nacional de E-Invoice (KSeF-Polônia), novos campos serão adicionado aos custos e módulos de faturas, incluindo: \n- campos necessários para o correto processamento de faturas eletrônicas\n-  Impostos (VAT) em acordo com KSeF requisitos. \nMudanças estruturais não podem ser alteradas. Você tem certeza que deseja ativar o KSeF?",
+    "FL_NAME": "Nome ",
+    "FL_STATUS": "\"Status\"",
+    "PLL_ACTIVE": "Ativa",
+    "PLL_BLOCKED": "Bloqueada",
+    "PLL_REVOKED": "Revogada",
+    "PLL_EXPIRED": "Expirada",
+    "FL_PASSPHRASE": "Senha ",
+    "FL_CERTIFICATE": "Certificado ",
+    "FL_PRIVATE_KEY": "Chave privada ",
+    "FL_COMPANY": "Empresa ",
+    "FL_IDENTIFIER_CODE": "ID do Imposto ",
+    "FL_IDENTIFIER_CODE_DESC": "O Id do Imposto deve conter 10 dígitos e ser idêntico ao único no campo da empresa. ",
+    "FL_DATE_VALID_FROM": "Válido a partir de",
+    "FL_EXPIRATION_DATE": "Válido até ",
+    "FL_CONTACT_EMAIL": "\"Email\" de contato ",
+    "FL_CONTACT_EMAIL_DESC": "Envie um \"e-mail\" de contato para receber notificações sobre o vencimento próximo do certificado.",
+    "LBL_CHECK_CONNECTION": "Verificar a conexão ",
+    "LBL_CHECK_CONNECTION_SUCCESS": "Conexão estabelecida com sucesso",
+    "LBL_INVALID_CONNECTION_DATA": "Conexão de informação inválida ",
+    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Conexão já existe para a empresa selecionada "
   },
-  "js": {}
+  "js": {
+    "JS_SAVE_SUCCESS": "Saved"
+  }
 }
 

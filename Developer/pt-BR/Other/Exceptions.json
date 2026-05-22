@@ -11,7 +11,7 @@
     "ERR_NOT_ALLOWED_VALUE": "Valor incorreto detectado, entre em contato com seu administrador",
     "ERR_PASSWORD_HAS_ALREADY_BEEN_USED": "Esta senha já foi utilizada. O sistema não permite usar a mesma senha por razões de segurança.",
     "ERR_USER_EXISTS": "Usuário com o mesmo nome de usuário e função já existe (%s)",
-    "ERR_NOT_ACCESSIBLE": "Acesso Negado",
+    "ERR_NOT_ACCESSIBLE": "Acesso negado",
     "ERR_DUPLICATE_LOGIN": "Este nome de usuário já existe.",
     "ERR_NO_PERMISSIONS_FOR_THE_RECORD": "Você não tem as permissões necessárias para ver/editar este registro. Entre em contato com o administrador se você deve ter a permissão para visualizá-lo.",
     "ERR_CONTENTS_VARIABLE_CANT_CALLED_FUNCTION": "Variável (%s) conteúdo não pode ser acionado como função",

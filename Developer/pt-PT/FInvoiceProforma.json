@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Não pago",
     "PLL_PAID": "Pago",
     "PLL_OVERPAID": "Pago em excesso",
-    "PLL_UNDERPAID": "Pagamento incompleto"
+    "PLL_UNDERPAID": "Pagamento incompleto",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

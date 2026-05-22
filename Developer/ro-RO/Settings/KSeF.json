@@ -1,29 +1,31 @@
 {
   "php": {
     "LBL_KSEF": "KSeF",
-    "LBL_KSEF_ACTIVATE": "Activate",
-    "LBL_KSEF_ACTIVATE_CONFIRM": "As part of the activation of integration with the National e-Invoice System (KSeF-Poland), new fields will be added to the Costs and Invoices modules, including: \n- fields required for the correct handling of e-invoices,\n- tax rates (VAT) in accordance with KSeF requirements.\n Structural changes cannot be reversed. Are you sure you want to activate KSeF?",
-    "FL_NAME": "Name",
+    "LBL_KSEF_ACTIVATE": "Activează",
+    "LBL_KSEF_ACTIVATE_CONFIRM": "Ca parte a activării integrării în sistemul național de facturare electronică (KSeF-Polonia), se vor adăuga noi câmpuri la modulele de costuri și facturi, inclusiv: \n- câmpuri necesare pentru manipularea corectă a facturilor electronice,\n- rate de impozitare (TVA) în conformitate cu cerinţele KSeF.\n modificări structurale nu pot fi inversate. Ești sigur că vrei să activezi KSeF?",
+    "FL_NAME": "Nume",
     "FL_STATUS": "Status",
-    "PLL_ACTIVE": "Active",
-    "PLL_BLOCKED": "Blocked",
-    "PLL_REVOKED": "Revoked",
-    "PLL_EXPIRED": "Expired",
-    "FL_PASSPHRASE": "Password",
-    "FL_CERTIFICATE": "Certificate",
-    "FL_PRIVATE_KEY": "Private key",
-    "FL_COMPANY": "Company",
-    "FL_IDENTIFIER_CODE": "TAX ID",
-    "FL_IDENTIFIER_CODE_DESC": "The TAX ID should contain 10 digits and be identical to the one in the Company field.",
-    "FL_DATE_VALID_FROM": "Valid from",
-    "FL_EXPIRATION_DATE": "Valid until",
-    "FL_CONTACT_EMAIL": "Contact email",
-    "FL_CONTACT_EMAIL_DESC": "Contact email for notifications about the upcoming expiration of the certificate.",
-    "LBL_CHECK_CONNECTION": "Check connection",
-    "LBL_CHECK_CONNECTION_SUCCESS": "Connection established successfully",
-    "LBL_INVALID_CONNECTION_DATA": "Invalid connection data",
-    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Connection already exists for the selected company."
+    "PLL_ACTIVE": "Activă",
+    "PLL_BLOCKED": "Blocată",
+    "PLL_REVOKED": "Respinsă",
+    "PLL_EXPIRED": "Expirată",
+    "FL_PASSPHRASE": "Parolă",
+    "FL_CERTIFICATE": "Certificatul",
+    "FL_PRIVATE_KEY": "Cheie privată",
+    "FL_COMPANY": "Compania",
+    "FL_IDENTIFIER_CODE": "CIF / CUI",
+    "FL_IDENTIFIER_CODE_DESC": "ID-ul de TVA trebuie să conțină 10 cifre și să fie identic cu cel din câmpul companiei.",
+    "FL_DATE_VALID_FROM": "Valabil de la",
+    "FL_EXPIRATION_DATE": "Valabil până la",
+    "FL_CONTACT_EMAIL": "E-mail de contact",
+    "FL_CONTACT_EMAIL_DESC": "Contactați e-mailul pentru notificări despre expirarea viitoare a certificatului.",
+    "LBL_CHECK_CONNECTION": "Verificați conexiunea",
+    "LBL_CHECK_CONNECTION_SUCCESS": "Conexiune stabilită cu succes",
+    "LBL_INVALID_CONNECTION_DATA": "Date conexiune nevalide",
+    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Conexiunea există deja pentru firma selectată."
   },
-  "js": {}
+  "js": {
+    "JS_SAVE_SUCCESS": "Saved"
+  }
 }
 

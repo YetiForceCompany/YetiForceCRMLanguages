@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Nije plaćeno",
     "PLL_PAID": "Plaćeno",
     "PLL_OVERPAID": "Preplaćeno",
-    "PLL_UNDERPAID": "Nedovoljno plaćeno"
+    "PLL_UNDERPAID": "Nedovoljno plaćeno",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

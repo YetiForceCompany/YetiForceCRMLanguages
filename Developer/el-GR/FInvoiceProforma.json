@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Δεν πληρώθηκε",
     "PLL_PAID": "Πληρωμένο",
     "PLL_OVERPAID": "Πληρώθηκε μεγαλύτερο ποσό",
-    "PLL_UNDERPAID": "Μερικώς εξοφλημένο"
+    "PLL_UNDERPAID": "Μερικώς εξοφλημένο",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

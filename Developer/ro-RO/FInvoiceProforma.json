@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "Neplătită",
     "PLL_PAID": "Plătită",
     "PLL_OVERPAID": "Supraplătită",
-    "PLL_UNDERPAID": "Plătit excesiv"
+    "PLL_UNDERPAID": "Plătit excesiv",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

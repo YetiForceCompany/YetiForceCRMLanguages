@@ -18,6 +18,9 @@
     "PLL_NOT_PAID": "未支付",
     "PLL_PAID": "已支付",
     "PLL_OVERPAID": "超额支付",
-    "PLL_UNDERPAID": "未足额支付"
+    "PLL_UNDERPAID": "未足额支付",
+    "FL_MULTICOMPANY": "Department",
+    "LBL_ADDITIONAL_INFO": "Additional information",
+    "FL_BANK_ACCOUNT": "Bank account"
   }
 }

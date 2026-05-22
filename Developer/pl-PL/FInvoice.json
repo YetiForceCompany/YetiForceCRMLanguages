@@ -64,7 +64,7 @@
     "PLL_WORKS_OF_ART": "Dzieła sztuki",
     "PLL_TRAVEL_AGENCIES": "Biura podróży",
     "PLL_COLLECTIBLES_AND_ANTIQUES": "Przedmioty kolekcjonerskie i antyki",
-    "FL_TYPE_KSEF": "Rodzaj faktury",
+    "FL_TYPE_KSEF": "Typ faktury",
     "PLL_VAT": "Podstawowa",
     "PLL_ZAL": "Zaliczkowa",
     "PLL_ROZ": "Rozliczeniowa",
@@ -85,6 +85,12 @@
     "LBL_ACCEPT_INVOICE_ADDED_TO_QUEUE": "Faktura została dodana do kolejki wysyłki do KSeF.",
     "LBL_SEND_TO_KSEF": "Wyślij do KSeF",
     "LBL_ADD_TO_KSEF_QUEUE_CONFIRM": "Czy na pewno chcesz wysłać tę fakturę do KSeF?",
-    "LBL_RESEND_TO_KSEF": "Wyślij do KSeF"
+    "LBL_RESEND_TO_KSEF": "Wyślij do KSeF",
+    "LBL_KSEF": "KSeF",
+    "FL_TP": "TP",
+    "FL_PREPAYMENT": "Kwota zaliczki",
+    "FL_PROFORMA": "Proforma",
+    "FL_LAST_PAYMENT_DATE": "Data ostatniej płatności",
+    "LBL_KSEF_FIELDS_REQUIRED": "Wypełnij wymagane pola: %s"
   }
 }
