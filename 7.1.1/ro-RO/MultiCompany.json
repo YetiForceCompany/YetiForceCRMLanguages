@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Departamente",
+    "SINGLE_MultiCompany": "Departament",
+    "LBL_BASIC_INFORMATION": "Detalii companie",
+    "LBL_CONTACT_INFORMATION": "Informații de contact",
+    "LBL_REGISTRATION_INFORMATION": "Info înregistrare",
+    "LBL_ADDRESS_INFORMATION": "Detalii adresă",
+    "LBL_SYSTEM_INFORMATION": "Informații sistem",
+    "LBL_ADDITIONAL_INFORMATION": "Informații adiționale",
+    "FL_COMPANY_NAME": "Denumire companie",
+    "FL_PARENT": "Departament principal",
+    "FL_STATUS": "Status",
+    "FL_EMAIL_1": "Email principal",
+    "FL_EMAIL_2": "Email secundar",
+    "FL_PHONE": "Telefon principal",
+    "FL_MOBILE": "Telefon secundar",
+    "FL_FAX": "Fax",
+    "FL_VATID": "Număr TVA",
+    "FL_COMPANY_ID1": "Numărul Registrul Comerțului",
+    "FL_COMPANY_ID2": "ONRC",
+    "FL_INTERNAL_NOTES": "Note interne",
+    "FL_PUBLIC_NOTES": "Note publice",
+    "PLL_ACTIVE": "Activă",
+    "PLL_INACTIVE": "Inactivă",
+    "LBL_SHOW_HIERARCHY": "Ierarhie",
+    "FL_WEBSITE": "Site",
+    "FL_LOGO": "Logo"
+  }
+}

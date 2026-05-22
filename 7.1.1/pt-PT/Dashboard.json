@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "A minha página inicial",
+    "LBL_ADD_FILTER": "Adicionar cartão do filtro",
+    "LBL_ADD_FILTER_DESC": "Apenas os filtros com a opção \"lista em métricas\" estão disponíveis.",
+    "LBL_ADD_CHART_FILTER": "Editar gráfico a partir do filtro",
+    "LBL_ADD_CHART_FILTER_DESC": "Apenas os filtros com a opção \"lista em métricas\" estão disponíveis.",
+    "LBL_CLEAR_DEVICE_CONF": "Limpar configuração de cartão para este dispositivo",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "O botão remove/redefine a configuração somente para o dispositivo que você está utilizando atualmente, e somente para a aba atual.",
+    "LBL_PREDEFINED_WIDGETS": "Cartões predefinidos",
+    "LBL_EMPTY_DASHBOARD": "O painel selecionado está vazio.",
+    "LBL_WORKING_TIME_COUNTER": "Contador de tempo de trabalho"
+  }
+}

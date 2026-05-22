@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Ανακοινώσεις",
+    "SINGLE_Announcements": "Ανακοίνωση",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_NUMBER": "Αριθμός",
+    "FL_STATUS": "Κατάσταση",
+    "FL_INTERVAL": "Ώρα υπενθύμισης",
+    "FL_IS_MANDATORY": "Υποχρεωτική η αποδοχή",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_FOR_ACCEPTANCE": "Για έγκριση",
+    "PLL_PUBLISHED": "Δημοσιευμένο",
+    "PLL_ARCHIVES": "Αρχειοθετημένο",
+    "LBL_REMIND_ME_LATER": "Υπενθύμιση αργότερα",
+    "LBL_MARK_AS_READ": "Σήμανση ως αναγνωσμένο",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Έγινε αποδεκτή;",
+    "LBL_DATE": "Ημερομηνία ανάγνωσης"
+  }
+}

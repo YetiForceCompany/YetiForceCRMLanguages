@@ -1,0 +1,6 @@
+{
+  "php": {
+    "Export": "Export",
+    "LBL_INFO_USER_EXPORT_RECORDS": "Csak aktív felhasználókat lehet exportálni"
+  }
+}

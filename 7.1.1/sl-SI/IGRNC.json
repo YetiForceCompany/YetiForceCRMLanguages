@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGRNC": "Popravek prejema blaga",
+    "SINGLE_IGRNC": "Popravek prevzemnice",
+    "LBL_DESCRIPTION_BLOCK": "Opis",
+    "LBL_ATTENTION_BLOCK": "Komentar",
+    "FL_ACCEPTANCE_DATE": "Datum prevzema",
+    "FL_VENDOR": "Prodajalec",
+    "FL_SUBJECT": "Zadeva",
+    "FL_NUMBER": "Številka",
+    "FL_STORAGE": "Skladišče",
+    "FL_STATUS": "Status",
+    "FL_IGRN": "Prevzemnica",
+    "PLL_DRAFT": "Osnutek",
+    "PLL_IN_REALIZATION": "V realizaciji",
+    "PLL_OBJECTIONS": "Pripombe",
+    "PLL_FOR_APPROVAL": "Za odobritev",
+    "PLL_CANCELLED": "Prekinjeno",
+    "PLL_ACCEPTED": "Sprejeto",
+    "LBL_CHANGE_STATUS": "Spremenjen status"
+  }
+}

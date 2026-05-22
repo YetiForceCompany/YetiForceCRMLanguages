@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Tỷ lệ quy đổi",
+    "Currency": "Tiền tệ",
+    "Symbol": "Ký hiệu",
+    "Currency Code": "Mã tiền tệ",
+    "Currency Name": "Tên tiền tệ",
+    "LBL_ADD_NEW_CURRENCY": "Thêm tiền tệ mới",
+    "LBL_ADD_RECORD": "Thêm mới",
+    "LBL_CURRENCY_CODE": "Mã tiền tệ",
+    "LBL_CURRENCY_NAME": "Tên tiền tệ",
+    "LBL_CURRENCY_STATUS_DESC": "Tích vào hộp kiểm để kích hoạt tiền tệ",
+    "LBL_CURRENCY_SYMBOL": "Ký hiệu",
+    "LBL_CURRENT_CURRENCY": "Loại tiền hiện tại",
+    "LBL_EDIT_CURRENCY": "Sửa tiền tệ",
+    "LBL_ENTER_CONVERSION_RATE": "Nhập tỷ giá hối đoái",
+    "LBL_TRANSFER_CURRENCY": "Chuyển tiền tệ",
+    "Active": "Bật",
+    "Inactive": "Tắt",
+    "LBL_SET_AS_DEFAULT": "Đặt làm mặc định"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Xóa tiền tệ thành công.",
+    "JS_CURRENCY_DETAILS_SAVED": "Đã lưu thông tin chi tiết tiền tệ.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Cảnh báo! Hoạt động này sẽ thay đổi tiền ở nhiều nơi trong hệ thống. Tài liệu tài chính đã tạo trước thời điểm thay đổi này có thể yêu cầu chuyển đổi tiền tệ. Xin vui lòng thực hiện chuyển đổi tiền tệ thủ công nếu các tài liệu này đã được phát hành trong phiên bản chính thức. Tính toán tỷ giá cho những tiền tệ còn lại là cần thiết."
+  }
+}

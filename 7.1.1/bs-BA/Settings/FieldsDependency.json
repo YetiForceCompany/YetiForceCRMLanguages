@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Zavisna polja",
+    "LBL_FIELDS_DEPENDENCY": "Zavisna polja",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Konfiguracija dinamičkih polja i blokova ovisno o određenim kriterijima",
+    "LBL_NAME": "Zavisno ime",
+    "LBL_EDIT": "Uredi zavisno",
+    "LBL_CREATE": "Kreirajte novu zavisnost",
+    "LBL_SOURCE_MODULE": "Naziv modula",
+    "LBL_VIEWS": "Pogledi",
+    "LBL_VIEWS_INFO": "Spisak pogleda u kojima se polja trebaju sakriti / prikazati, ako prikaz nije odabran, polja će uvijek biti vidljiva",
+    "LBL_FIELDS_INFO": "Spisak polja koja će biti vidljiva samo ako su ispunjeni donji uvjeti",
+    "LBL_GUI": "Dinamička polja",
+    "LBL_GUI_INFO": "Omogućavanje rezultira dinamičkim prikazom polja u formi prilikom promjene vrijednosti u poljima.\nAko je onemogućeno, promjene će stupiti na snagu tek nakon spremanja podataka.",
+    "LBL_MANDATORY": "Obavezna polja",
+    "LBL_MANDATORY_INFO": "Nakon omogućavanja sva polja navedena u nastavku bit će obavezna",
+    "LBL_CONDITIONS": "Uslovi"
+  }
+}

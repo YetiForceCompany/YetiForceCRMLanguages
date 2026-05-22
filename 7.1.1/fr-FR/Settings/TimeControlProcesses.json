@@ -1,0 +1,13 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "Flux de travail",
+    "TimeControlProcesses": "Processus des contrôles de temps",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_TIME_CONTROL_WIDGET": "Widget de contrôle des temps",
+    "LBL_TCW_INFO": "L'option pour afficher\/cacher les icônes dans le contrôle des temps se trouve ici.",
+    "LBL_HOLIDAYS": "Icônes congés",
+    "LBL_WORKING_DAYS": "Icônes jours ouvrés",
+    "LBL_WORKING_TIME": "Icônes heures ouvrées"
+  },
+  "js": {}
+}

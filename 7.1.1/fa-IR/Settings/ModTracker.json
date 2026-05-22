@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "تغییر تاریخچه",
+    "LBL_MODTRACKER_SETTINGS": "ماژول – پیگیری تغییرات \/ تاریخچه",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "مدیریت تغییر تاریخچه در ماژول",
+    "LBL_MODULE": "ماژول",
+    "LBL_ACTIVE": "رهگیری تغییرات",
+    "LBL_TOOLS": "ابزارها",
+    "LBL_TRACK_CHANGES_ENABLED": "پیگیری تغییرات فعال شده",
+    "LBL_TRACK_CHANGES_DISABLE": "پیگیری تغییرات غیر فعال شده"
+  }
+}

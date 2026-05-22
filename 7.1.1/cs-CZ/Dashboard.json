@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Moje domovská stránka",
+    "LBL_ADD_FILTER": "Přidat widget z filtru",
+    "LBL_ADD_FILTER_DESC": "K dispozici jsou pouze filtry s povolenou možností \"list in metric\".",
+    "LBL_ADD_CHART_FILTER": "Přidat graf z filtru",
+    "LBL_ADD_CHART_FILTER_DESC": "K dispozici jsou pouze filtry s povolenou možností \"list in metric\".",
+    "LBL_CLEAR_DEVICE_CONF": "Vymazat nastavení widgetů pro toto zařízení",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Tlačítko odstraňuje/obnoví konfiguraci pouze pro zařízení, které právě používáte, a pouze pro aktuální panel.",
+    "LBL_PREDEFINED_WIDGETS": "Předdefinované widgety",
+    "LBL_EMPTY_DASHBOARD": "Vybraný dashboard je prázdný.",
+    "LBL_WORKING_TIME_COUNTER": "Počítadlo pracovní doby"
+  }
+}

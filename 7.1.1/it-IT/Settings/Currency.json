@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Tasso di conversione",
+    "Currency": "Valuta",
+    "Symbol": "Simbolo",
+    "Currency Code": "Codice",
+    "Currency Name": "Nome",
+    "LBL_ADD_NEW_CURRENCY": "Aggiungi valuta",
+    "LBL_ADD_RECORD": "Aggiungi valuta",
+    "LBL_CURRENCY_CODE": "Codice",
+    "LBL_CURRENCY_NAME": "Nome",
+    "LBL_CURRENCY_STATUS_DESC": "Attivo",
+    "LBL_CURRENCY_SYMBOL": "Simbolo",
+    "LBL_CURRENT_CURRENCY": "Valuta corrente",
+    "LBL_EDIT_CURRENCY": "Modifica",
+    "LBL_ENTER_CONVERSION_RATE": "Inserisci tasso di conversione",
+    "LBL_TRANSFER_CURRENCY": "Trasferisci valuta",
+    "Active": "Attivo",
+    "Inactive": "Inattivo",
+    "LBL_SET_AS_DEFAULT": "Imposta come predefinito"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Valuta eliminata",
+    "JS_CURRENCY_DETAILS_SAVED": "Valuta salvata",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Attenzione! Questa operazione cambierà la valuta base nel sistema. I documenti, emessi prima di questa modifica, potrebbero richiedere la conversione in valuta. Eseguire la conversione manuale se questi documenti sono stati rilasciati nelle loro versioni di produzione. Sarà necessario calcolare i tassi di cambio per le valute rimanenti."
+  }
+}

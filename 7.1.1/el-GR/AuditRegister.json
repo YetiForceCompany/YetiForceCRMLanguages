@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AuditRegister": "Μητρώο ελέγχων",
+    "SINGLE_AuditRegister": "Μητρώο ελέγχου",
+    "LBL_BASIC_INFORMATION": "Βασικές Πληροφορίες",
+    "FL_NAME": "Όνομασία",
+    "FL_LOCATION_REGISTER": "Μητρώο τοποθεσίας",
+    "FL_DATASETREGISTER": "Μητρώο συνόλου δεδομένων",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Αναμονή για αποδοχή",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_COMPLETED": "Ολοκληρώθηκε",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "FL_STATUS": "Κατάσταση",
+    "FL_TYPE": "Τύπος",
+    "PLL_INTERNAL": "Εσωτερικό",
+    "PLL_EXTERNAL": "Εξωτερικό",
+    "LBL_DESCRIPTION": "Περιγραφή",
+    "FL_DESCRIPTION": "Περιγραφή",
+    "FL_COMMENTS": "Παρατηρήσεις",
+    "LBL_COMMENTS": "Παρατηρήσεις"
+  }
+}

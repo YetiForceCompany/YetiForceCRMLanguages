@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "Εντοπίστηκαν σφάλματα κατά την ενημέρωση του module",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "Κάποια λάθη εμφανίστηκαν κατά τη διάρκεια της ενημέρωσης",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "Σας προτείνουμε την επαλήθευση των logs αρχείων καταγραφής και την ενημέρωση του συστήματος για άλλη μια φορά.",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "Ενημέρωση πρότυπου Email",
+    "LBL_UPDATE_PDF_TEMPLATES": "Ενημέρωση πρότυπου pdf"
+  }
+}

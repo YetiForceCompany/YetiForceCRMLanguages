@@ -1,0 +1,9 @@
+{
+  "php": {
+    "LBL_DETECTED_ERRORS_WHILE_UPDATING": "更新模块是检测错误",
+    "LBL_SOME_ERRORS_APPEARED_DURING": "更新时出现了一些错误",
+    "LBL_WE_RECOMMEND_VERIFYING_LOGS": "我们建议再次验证日志和更新系统。",
+    "LBL_UPDATE_EMAIL_TEMPLATES": "更新邮件模板",
+    "LBL_UPDATE_PDF_TEMPLATES": "更新 pdf 模板"
+  }
+}

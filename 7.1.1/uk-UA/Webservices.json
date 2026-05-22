@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Сервіс",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Не вдалося змінити пароль",
+    "LBL_DATABASE_QUERY_ERROR": "Помилка бази даних",
+    "LBL_INVALID_OLD_PASSWORD": "Невірно вказано старий пароль",
+    "LBL_NEW_PASSWORD_MISMATCH": "Пароль і підтвердження пароля не збігаються"
+  }
+}

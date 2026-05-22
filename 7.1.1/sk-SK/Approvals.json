@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Schválenia",
+    "SINGLE_Approvals": "Schválenie",
+    "LBL_CUSTOM_INFORMATION": "Vlastné Informácie",
+    "LBL_BASIC_INFORMATION": "Základné informácie",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobný popis",
+    "FL_NAME": "Názov",
+    "FL_APPROVALS_STATUS": "Stav",
+    "FL_DESCRIPTION": "Popis",
+    "FL_NUMBER": "Číslo",
+    "PLL_DRAFT": "Koncept",
+    "PLL_ACTIVE": "Aktívny",
+    "PLL_INACTIVE": "Neaktívny"
+  }
+}

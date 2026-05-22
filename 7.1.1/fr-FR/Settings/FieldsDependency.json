@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Champs dépendants",
+    "LBL_FIELDS_DEPENDENCY": "Champs dépendants",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Configuration des champs et des blocs dynamiques selon des critères spécifiques",
+    "LBL_NAME": "Nom dépendant",
+    "LBL_EDIT": "Modifier la dépendance",
+    "LBL_CREATE": "Créer une nouvelle dépendance",
+    "LBL_SOURCE_MODULE": "Nom du module",
+    "LBL_VIEWS": "Vues",
+    "LBL_VIEWS_INFO": "Liste des vues où les champs doivent être cachés/affichés, si une vue n'est pas sélectionnée, les champs seront toujours visibles",
+    "LBL_FIELDS_INFO": "Liste des champs qui ne seront visibles que si les conditions ci-dessous sont remplies",
+    "LBL_GUI": "Champs dynamiques",
+    "LBL_GUI_INFO": "L'activation de cette option aboutit à un affichage dynamique des champs dans le formulaire lors du changement de valeurs dans les champs. Si désactivé, les modifications ne prendront effet qu'après avoir enregistré les données.",
+    "LBL_MANDATORY": "Champs obligatoires",
+    "LBL_MANDATORY_INFO": "Après activation, tous les champs listés ci-dessous seront obligatoires",
+    "LBL_CONDITIONS": "Conditions"
+  }
+}

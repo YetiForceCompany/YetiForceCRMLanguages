@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Istoricul modificărilor",
+    "LBL_MODTRACKER_SETTINGS": "Module - Urmărire schimbări \/ Istoric",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Gestionați istoricul schimbărilor din module",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTIVE": "Urmărește modificările",
+    "LBL_TOOLS": "Unelte",
+    "LBL_TRACK_CHANGES_ENABLED": "Urmărire schimbări activată",
+    "LBL_TRACK_CHANGES_DISABLE": "Urmărire schimbări dezactivată"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "php": {
+    "MailSignature": "Firma email",
+    "LBL_MAIL_SIGNATURE": "Firma email",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Configura firme email",
+    "FL_NAME": "Nome",
+    "FL_DEFAULT": "Predefinito",
+    "FL_BODY": "Corpo",
+    "BL_BASE": "Base"
+  },
+  "js": {}
+}

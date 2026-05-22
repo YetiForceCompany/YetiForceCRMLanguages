@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Liste des nouvelles opportunités",
+    "LBL_FOR_VALUE": "pour la valeur",
+    "LBL_UNTIL_DAY": "jusqu'au jour",
+    "LBL_ACTUAL_STATUS": "avec statut réel",
+    "LBL_CALENDAR_OVERDUE": "Activités en retard",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Liste des opportunités de plus grande valeur",
+    "LBL_NEW_ACCOUNTS": "Nouveaux comptes",
+    "LBL_NEW_CONTACTS": "De nouveaux contacts",
+    "LBL_CALENDAR_TODAY": "Calendrier des événements aujourd'hui",
+    "LBL_CALENDAR_THIS_WEEK": "Calendrier des événements cette semaine",
+    "LBL_LOGIN_HISTORY": "Historique de la connexion",
+    "LBL_HELLO": "Bonjour",
+    "LBL_REPORT_DAY_CONTENT": "Ci-dessous un résumé quotidien des activités de YetiForce",
+    "LBL_REPORT_WEEK_CONTENT": "Voici un résumé hebdomadaire des activités de YetiForce",
+    "LBL_REPORT_MONTH_CONTENT": "Ci-dessous un résumé mensuel des activités de YetiForce"
+  }
+}

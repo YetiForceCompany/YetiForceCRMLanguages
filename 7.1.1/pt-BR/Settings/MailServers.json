@@ -1,0 +1,43 @@
+{
+  "php": {
+    "MailServers": "Servidores de correio",
+    "LBL_MAIL_SERVERS": "Servidores de correio",
+    "FL_SUBJECT": "Assunto",
+    "FL_AUTH_METHOD": "Método de autorização",
+    "FL_ACTIVE": "Ativo",
+    "FL_VISIBLE": "Disponível",
+    "FL_VALIDATE_CERT": "Validar certificado",
+    "FL_IMAP_ENCRYPT": "Encriptação",
+    "FL_IMAP_HOST": "Servidor",
+    "FL_IMAP_PORT": "Porta",
+    "FL_SMTP_ENCRYPT": "Encriptação",
+    "FL_SMTP_HOST": "Servidor",
+    "FL_SMTP_PORT": "Porta",
+    "FL_SPELL_CHECK": "Verificação ortográfica",
+    "FL_IP_CHECK": "Verificar endereço IP",
+    "FL_OAUTH_PROVIDER": "Provedor OAuth",
+    "FL_CLIENT_ID": "ID do Cliente",
+    "FL_CLIENT_SECRET": "Segredo do cliente",
+    "FL_REDIRECT_URI_ID": "Redirecionar o URI",
+    "LBL_REDIRECT_URI_ID_DESC": "Os webservices para OAuth estão listados aqui.\n Você deve primeiro adicionar a chave para o aplicativo apropriado em um painel separado. Isto irá gerar um URI que será listado neste campo.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copiar URI para área de transferência",
+    "FL_IDENTITIES_LEVEL": "Nível de acesso para identidade",
+    "LBL_VISIBLE_DESC": "Disponível na seção do usuário",
+    "identities_level_0": "muitas identidades com possibilidade de edição de todos os parâmetros",
+    "identities_level_1": "muitas identidades com possibilidade de edição de todos os parâmetros, mas não o endereço de email",
+    "identities_level_2": "uma identidade com possibilidade de edição de todos os parâmetros",
+    "identities_level_3": "uma identidade com possibilidade de edição de todos os parâmetros, mas não o endereço de email",
+    "identities_level_4": "uma identidade com possibilidade de edição somente da assinatura",
+    "LBL_IMAP_HOST_DESC": "Google:\n encriptação: ssl\n servidor: imap.gmail.com\n porta: 993\n Outlook:\n encriptação: ssl\n servidor: outlook.office365.com\n porta: 993",
+    "LBL_SMTP_HOST_DESC": "Google:\n encriptação: ssl\n servidor: smtp.gmail.com\n porta: 465\n Outlook:\n encriptação: tls\n servidor: smtp.office365.com\n porta: 587",
+    "BL_BASE": "Básico",
+    "BL_IMAP": "Configuração do Imap",
+    "BL_SMTP": "Configurações do SMTP",
+    "BL_OTHER": "Outras configurações",
+    "LBL_BASIC_AUTH": "Básico",
+    "LBL_OAUTH2": "OAuth2"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Alterações salvas"
+  }
+}

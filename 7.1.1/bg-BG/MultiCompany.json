@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Отдели",
+    "SINGLE_MultiCompany": "Отдел",
+    "LBL_BASIC_INFORMATION": "Детайли на фирмата",
+    "LBL_CONTACT_INFORMATION": "Информация за контакт",
+    "LBL_REGISTRATION_INFORMATION": "Данни за регистрация",
+    "LBL_ADDRESS_INFORMATION": "Подробности за адреса",
+    "LBL_SYSTEM_INFORMATION": "Информация за системата",
+    "LBL_ADDITIONAL_INFORMATION": "Допълнителна информация",
+    "FL_COMPANY_NAME": "Име на фирмата",
+    "FL_PARENT": "Главен отдел",
+    "FL_STATUS": "Състояние",
+    "FL_EMAIL_1": "Основен имейл",
+    "FL_EMAIL_2": "Допълнителен имейл",
+    "FL_PHONE": "Основен телефон",
+    "FL_MOBILE": "Допълнителен телефон",
+    "FL_FAX": "Fax",
+    "FL_VATID": "Данъчен номер",
+    "FL_COMPANY_ID1": "Регистрационен Номер",
+    "FL_COMPANY_ID2": "NCR",
+    "FL_INTERNAL_NOTES": "Вътрешни бележки",
+    "FL_PUBLIC_NOTES": "Публични бележки",
+    "PLL_ACTIVE": "Активен",
+    "PLL_INACTIVE": "Неактивен",
+    "LBL_SHOW_HIERARCHY": "Йерархия",
+    "FL_WEBSITE": "Страница",
+    "FL_LOGO": "Лого"
+  }
+}

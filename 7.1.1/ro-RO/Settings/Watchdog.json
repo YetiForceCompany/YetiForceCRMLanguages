@@ -1,0 +1,33 @@
+{
+  "php": {
+    "Watchdog": "Câine de pază",
+    "LBL_YETIFORCE_WATCHDOG_HEADER": "Monitorizare supraveghere YetiForce",
+    "LBL_YETIFORCE_WATCHDOG_DESC": "Pagina de configurare a serviciului de supraveghere YetiForce",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "Mecanismul de supraveghere monitorizează funcționarea sistemului CRM și transferă informații selectate către YetiForce S.A. Toate informațiile colectate nu vor fi publicate și sunt destinate exclusiv monitorizării sistemului CRM pentru operare incorectă și a mediului pe care este instalat.",
+    "LBL_PARAM_NAME": "Parametru",
+    "LBL_PARAM_VAL": "Valoare",
+    "LBL_PARAM_NOT_ALLOWED": "Parametru nepermis",
+    "LBL_SAVED": "Schimbări salvate",
+    "LBL_WATCHDOGURL": "URL serviciu",
+    "LBL_SYSTEMVERSION": "Versiune sistem YetiForce",
+    "LBL_PHPVERSION": "Versiune PHP",
+    "LBL_OSVERSION": "Versiune sistem",
+    "LBL_DBVERSION": "Versiunea bazei de date",
+    "LBL_DATABASE": "Informații bază de date",
+    "LBL_SAPIVERSION": "Versiune server API",
+    "LBL_LASTCRONTIME": "Ultima dată de la Cron",
+    "LBL_SPACEROOT": "Spațiu rădăcină",
+    "LBL_SPACESTORAGE": "Spațiu de stocare",
+    "LBL_SPACETEMP": "Spațiu director temporar",
+    "LBL_SPACEBACKUP": "Spațiu director de backup",
+    "LBL_CRMVERSION": "Versiunea de CRM",
+    "LBL_DOMAIN": "URL sistem CRM",
+    "LBL_STABILITY": "Configurarea stabilității sistemului",
+    "LBL_LIBRARIES": "Suport pentru biblioteci",
+    "LBL_PERFORMANCE": "Verificare performanță",
+    "LBL_PUBLICDIRECTORYACCESS": "Director public",
+    "LBL_ENVIRONMENT": "Informații despre mediu",
+    "LBL_WRITABLEFILESANDFOLDERS": "Fișiere și dosare care pot fi scrise",
+    "LBL_PATHVERIFICATION": "Verificare cale"
+  }
+}

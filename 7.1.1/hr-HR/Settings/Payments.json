@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "Plaćanja",
+    "LBL_RIGHT_CLICK_COPY": "Kliknite desnim tasterom miša i kopirajte"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "Uspješno izbrisano",
+    "JS_SAVED_SUCCESSFULLY": "Uspješno spremljeno"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Аутсорсинг продукти",
+    "SINGLE_OutsourcedProducts": "Аутсорсинг продукт",
+    "LBL_INFORMATION": "Аутсорсинг продукти",
+    "Assigned To": "Прикачен към",
+    "LBL_RODZAJUMOWY": "Вид на съгласие",
+    "LBL_osservicesstatus": "Състояние",
+    "Individual Agreement": "Индивидуално споразумение",
+    "In service": "Подържано е",
+    "Finished support": "Поддръжката е прекратена",
+    "Product Name": "Име на продукта",
+    "Sub Category": "Подкатегория",
+    "Category": "Категория",
+    "Date Sold": "Дата на продажба",
+    "Date in Service": "Поддръжка на датата на прекратяване",
+    "Description": "Описание",
+    "LBL_DESCRIPTION_INFORMATION": "Дескриптивна информация",
+    "LBL_CUSTOM_INFORMATION": "Информация за системата",
+    "Where bought": "Къде e купено",
+    "Number": "Брой",
+    "Save": "Запази",
+    "Selling proposition": "Потенциал",
+    "LBL_GENERATE_EXTENSION": "Генериране на разширяване",
+    "Active": "Активен",
+    "Inactive": "Неактивен"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "php": {
+    "LBL_CRON_EMAIL_SUBJECT": "Importul programat s-a terminat",
+    "LBL_CRON_COMPLETED_IMPORT": "Rezumatul importului de înregistrări pentru modulul:",
+    "LBL_DEFAULT_IN_BROWSER": "Bază (implicit în browser)",
+    "LBL_GENESYS_WDE": "Genesys WDE de Whirly",
+    "LBL_INTERNAL_CLIENT": "Client intern (Roundcube)",
+    "ERR_MAIL_ACCOUNT_NOT_ACTIVE": "Nu există nici un cont de e-mail activ.",
+    "ERR_NO_SMTP_CONFIGURATION": "Nicio configurare."
+  }
+}

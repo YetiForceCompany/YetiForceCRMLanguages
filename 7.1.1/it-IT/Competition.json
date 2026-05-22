@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Concorrenti",
+    "SINGLE_Competition": "Concorrente",
+    "LBL_COMPETITION_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_SUBJECT": "Nome",
+    "LBL_NUMBER": "Progressivo",
+    "LBL_CLOSED_TIME": "Data chiusura",
+    "LBL_VAT_ID": "Partita IVA",
+    "LBL_SHOW_HIERARCHY": "Gerarchia",
+    "LBL_PARENT_ID": "Membro di"
+  }
+}

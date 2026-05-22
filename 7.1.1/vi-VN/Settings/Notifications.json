@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "Trường hợp ngoại lệ",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Thông báo - Cấu hình",
+    "LBL_ADD_MEMBERS": "Thêm thành viên cần thông báo",
+    "LBL_SELECT_MEMBERS": "Chọn thành viên cần thông báo",
+    "LBL_MEMBERS": "Thành viên",
+    "LBL_LOCK": "Khoá",
+    "LBL_NOTICE_CONFIG_WARNING": "Mô đun theo dõi đang được mở trong cấu hình. Cần phải tắt nó để quản lý các thông báo."
+  },
+  "js": {}
+}

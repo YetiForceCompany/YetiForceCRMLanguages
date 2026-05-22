@@ -1,0 +1,31 @@
+{
+  "php": {
+    "FL_NAME": "Nome",
+    "FL_PROVIDER": "Provedor",
+    "FL_STATUS": "\"Status\"",
+    "FL_SMSAPI_FROM": "Nome enviado",
+    "FL_API_KEY": "Chave API",
+    "LBL_ADD_RECORD": "Nova configuração",
+    "LBL_SMSNOTIFIER": "Configuração de provedor SMS",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nova configuração",
+    "LBL_EDIT_CONFIGURATION": "Editar configuração",
+    "BTN_SAVE": "Salvar",
+    "BTN_CLOSE": "Cancelar",
+    "LBL_SMSPROVIDER_CREATE": "Adicionar provedor",
+    "LBL_SMSPROVIDER_EDIT": "Editar provedor",
+    "LBL_CALLBACK_ADDRESSES": "Endereço de retorno de chamada",
+    "LBL_CALLBACK_ADDRESSES_DESC": "Para gerar endereços de retorno de chamada para comunicação SMS, é necessário primeiro criar uma conexão de serviço web para SMS.\nOs seguintes URLs devem ser inseridos na seção de retorno de chamada diretamente no provedor",
+    "FL_CALLBACK_URL_FOR_REPORT": "Relatórios (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Recepção (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL para relatórios de entrega. Para inserir diretamente ao provedor. ",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL para recepção. Para ser inserido diretamente no fornecedor. ",
+    "FL_DEFAULT": "Padrão",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Provedor selecionado é inativo. Ativar isso ou alterar o provedor. "
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Você tem certeza que deseja remover essa configuração?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Configuração removida com sucesso",
+    "JS_SAVE_SUCCESS": "Salvo"
+  }
+}

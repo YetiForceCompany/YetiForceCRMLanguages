@@ -1,0 +1,25 @@
+{
+  "php": {
+    "Wapro": "Wapro ERP",
+    "LBL_WAPRO_ERP": "Wapro ERP",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integracja z systemem Asseco Wapro ERP",
+    "LBL_SYNCHRONIZER_LIST": "Lista elementów do synchronizacji",
+    "FL_NAME": "Nazwa",
+    "FL_STATUS": "Status",
+    "FL_SERVER": "Serwer",
+    "FL_PORT": "Port",
+    "FL_DATABASE": "Nazwa bazy danych",
+    "FL_USERNAME": "Nazwa użytkownika",
+    "FL_PASSWORD": "Hasło",
+    "LBL_NUMBER_OF_ENTRIES": "Liczba wpisów",
+    "LBL_MULTI_COMPANY": "Oddziały/Firma (tylko do odczytu)",
+    "LBL_COMPANY_BANK_ACCOUNTS": "Konta bankowe firmy (tylko do odczytu)",
+    "LBL_ACCOUNTS": "Kontrahenci (tylko do odczytu)",
+    "LBL_CONTACTS": "Kontakty (tylko do odczytu)",
+    "LBL_PRODUCTS": "Produkty (tylko do odczytu)",
+    "LBL_INVOICE": "Faktury (tylko do odczytu)",
+    "LBL_CORRECTING_INVOICE": "Faktury korygujące (tylko do odczytu)",
+    "LBL_LOGS_VIEWER": "Podgląd logów",
+    "LBL_SAVE_AND_VERIFY": "Zapisz i zweryfikuj"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "الإعلانات",
+    "SINGLE_Announcements": "إعلان",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "معلومات أساسية",
+    "LBL_SUBJECT": "الموضوع",
+    "LBL_NUMBER": "عدد",
+    "FL_STATUS": "الحالة",
+    "FL_INTERVAL": "وقت التذكير",
+    "FL_IS_MANDATORY": "وجوب قبول",
+    "PLL_DRAFT": "مسودة",
+    "PLL_FOR_ACCEPTANCE": "للموافقة عليها",
+    "PLL_PUBLISHED": "تم نشره",
+    "PLL_ARCHIVES": "تمّت أرشفتها",
+    "LBL_REMIND_ME_LATER": "ذكرني لاحقاً",
+    "LBL_MARK_AS_READ": "وضع علامة مقروء",
+    "LBL_ACCEPT_ANNOUNCEMENT": "كانت تقبل ؟",
+    "LBL_DATE": "قراءة في"
+  }
+}

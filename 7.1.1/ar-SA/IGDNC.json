@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDNC": "السلع إرسال الملاحظات والتصحيحات",
+    "SINGLE_IGDNC": "السلع إرسال الملاحظات والتصحيحات",
+    "LBL_DESCRIPTION_BLOCK": "الوصف",
+    "LBL_ATTENTION_BLOCK": "تعليقات الاعتدال",
+    "FL_ACCEPTANCE_DATE": "تاريخ القبول",
+    "FL_ACCOUNT": "حساب",
+    "FL_SUBJECT": "الموضوع",
+    "FL_NUMBER": "عدد",
+    "FL_STORAGE": "التخزين",
+    "FL_STATUS": "الحالة",
+    "FL_IGDN": "السلع أرسلت مذكرة",
+    "PLL_DRAFT": "مسودة",
+    "PLL_IN_REALIZATION": "تحقيق",
+    "PLL_OBJECTIONS": "الاعتراض",
+    "PLL_FOR_APPROVAL": "للموافقة عليها",
+    "PLL_CANCELLED": "ملغى",
+    "PLL_ACCEPTED": "مقبول",
+    "LBL_CHANGE_STATUS": "تغيير الحالة"
+  }
+}

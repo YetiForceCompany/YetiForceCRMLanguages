@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Оголошення",
+    "SINGLE_Announcements": "Оголошення",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Основна інформація",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Число",
+    "FL_STATUS": "Статус",
+    "FL_INTERVAL": "Час нагадування",
+    "FL_IS_MANDATORY": "Обов'язкове до прийняття",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_FOR_ACCEPTANCE": "Для підтвердження",
+    "PLL_PUBLISHED": "Опубліковане",
+    "PLL_ARCHIVES": "Архівовано",
+    "LBL_REMIND_ME_LATER": "Нагадати пізніше",
+    "LBL_MARK_AS_READ": "Позначити прочитаним",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Було прийнято?",
+    "LBL_DATE": "Читати далі"
+  }
+}

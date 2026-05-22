@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "تسجيل الموافقات",
+    "SINGLE_ApprovalsRegister": "سجل الموافقة",
+    "LBL_CUSTOM_INFORMATION": "المعلومات المخصصة",
+    "LBL_BASIC_INFORMATION": "المعلومات الأساسية",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "FL_SUBJECT": "الموضوع",
+    "FL_APPROVALS_STATUS": "الحالة",
+    "FL_DESCRIPTION": "الوصف",
+    "FL_APPROVAL": "موافقة",
+    "FL_TYPE": "النوع",
+    "FL_STATUS": "الحالة",
+    "FL_REGISTRATION_DATE": "تاريخ التسجيل",
+    "PLL_FOR_VERIFICATION": "بإنتظار التدقيق",
+    "PLL_ACCEPTED": "تم قبوله",
+    "PLL_REJECTED": "تم رفضه",
+    "PLL_ACCEPTANCE": "القبول",
+    "PLL_RESIGNATION": "الاستقالة"
+  }
+}

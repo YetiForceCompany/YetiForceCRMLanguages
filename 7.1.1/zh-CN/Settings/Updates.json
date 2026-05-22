@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "更新",
+    "LBL_YES": "是",
+    "LBL_NO": "否",
+    "LBL_TIME": "日期",
+    "LBL_USER": "用户名",
+    "LBL_FROM_VERSION": "原版本",
+    "LBL_TO_VERSION": "目标版本",
+    "LBL_RESULT": "状态",
+    "LBL_UPDATES": "更新",
+    "LBL_UPDATES_DESCRIPTION": "更新历史",
+    "LBL_IMPORT_UPDATE": "上传更新",
+    "LBL_INSTALL_PACKAGE": "安装软件包",
+    "LBL_DOWNLOAD_PACKAGE": "下载软件包",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "可升级的软件包",
+    "LBL_INSTALLED_PACKAGES": "已安装的软件包",
+    "LBL_PACKAGE_VERSION": "软件包版本",
+    "LBL_NAME_PACKAGES": "软件包名称"
+  }
+}

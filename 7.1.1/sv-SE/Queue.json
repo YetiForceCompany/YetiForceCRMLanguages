@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Köade ändringar",
+    "SINGLE_Queue": "Köade ändringar",
+    "LBL_CUSTOM_INFORMATION": "Systeminformation",
+    "LBL_BASIC_INFORMATION": "Allmän information",
+    "FL_SUBJECT": "Ämne",
+    "FL_RELATED_TO": "Avseende",
+    "FL_CHANGES": "Lista över ändringar",
+    "LBL_DESCRIPTION_INFORMATION": "Uppgiftssdetaljer",
+    "FL_REASON_FOR_CHANGE": "Anledning till förändring",
+    "FL_REASON_FOR_REJECTION": "Anledning till avslag",
+    "FL_STATUS": "Status",
+    "PLL_PLANNED": "Planerad",
+    "PLL_ON_HOLD": "Parkerad",
+    "PLL_FOR_VERIFICATION": "För verifiering",
+    "PLL_IN_APPROVAL": "Väntar godkännande",
+    "PLL_ACCEPTED": "Godkänd",
+    "PLL_COMPLETED": "Avslutad",
+    "PLL_CANCELLED": "Avbruten"
+  }
+}

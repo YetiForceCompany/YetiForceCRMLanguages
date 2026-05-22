@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Radno vrijeme",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Radno vrijeme je modul u kojem možete podesiti radno vrijeme svog tima.",
+    "LBL_WORKING_HOURS_FROM": "Od",
+    "LBL_WORKING_HOURS_TO": "Do",
+    "LBL_WORKING_DAYS": "Radni dani",
+    "LBL_WORKING_HOURS": "Radni sati",
+    "LBL_DEFAULT": "Zadano",
+    "LBL_NAME": "Naziv",
+    "LBL_HOLIDAYS": "Praznici",
+    "LBL_EDIT_BUSINESS_HOURS": "Uredite radno vrijeme",
+    "LBL_ADD_BUSINESS_HOURS": "Dodajte unos radnog vremena",
+    "LBL_DEFAULT_TIMES": "Zadana vremena",
+    "LBL_DEFAULT_REACTION_TIME": "Zadano vrijeme reakcije",
+    "LBL_DEFAULT_IDLE_TIME": "Zadano vrijeme mirovanja",
+    "LBL_DEFAULT_RESOLVE_TIME": "Zadano vrijeme rješavanja",
+    "LBL_HOLIDAYS_LINK": "Idite na postavke za praznike",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovaj unos?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

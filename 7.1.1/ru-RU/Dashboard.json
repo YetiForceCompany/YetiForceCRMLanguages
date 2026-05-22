@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Dashboards": "Главная",
+    "LBL_ADD_FILTER": "Добавить Виджет",
+    "LBL_ADD_FILTER_DESC": "Доступны только фильтры с включенной опцией \"list in metrics\".",
+    "LBL_ADD_CHART_FILTER": "Добавить диаграмму из фильтра",
+    "LBL_ADD_CHART_FILTER_DESC": "Доступны только фильтры с включенной опцией \"list in metrics\".",
+    "LBL_CLEAR_DEVICE_CONF": "Очистить конфигурацию виджетов для этого устройства",
+    "LBL_CLEAR_DEVICE_CONF_DESC": "Кнопка удаляет /сбрасывает конфигурацию только для используемого вами устройства и только для текущей вкладки.",
+    "LBL_PREDEFINED_WIDGETS": "Предопределенные виджеты",
+    "LBL_EMPTY_DASHBOARD": "Выбранная панель мониторинга пуста.",
+    "LBL_WORKING_TIME_COUNTER": "Working time counter"
+  }
+}

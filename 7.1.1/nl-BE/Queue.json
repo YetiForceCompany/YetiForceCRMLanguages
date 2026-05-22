@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Wachtrij wijzigingen",
+    "SINGLE_Queue": "Wachtrij wijzigingen",
+    "LBL_CUSTOM_INFORMATION": "Systeem informatie",
+    "LBL_BASIC_INFORMATION": "Basis Informatie",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_RELATED_TO": "Gerelateerd aan",
+    "FL_CHANGES": "Wijzigingsschiedenis",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving Details",
+    "FL_REASON_FOR_CHANGE": "Reden van status verandering",
+    "FL_REASON_FOR_REJECTION": "Reden voor afwijzing",
+    "FL_STATUS": "Status",
+    "PLL_PLANNED": "Gepland",
+    "PLL_ON_HOLD": "In de wacht ",
+    "PLL_FOR_VERIFICATION": "Voor verificatie",
+    "PLL_IN_APPROVAL": "Ter goedkeuring",
+    "PLL_ACCEPTED": "Geaccepteerd",
+    "PLL_COMPLETED": "Voltooid",
+    "PLL_CANCELLED": "Geannuleerd"
+  }
+}

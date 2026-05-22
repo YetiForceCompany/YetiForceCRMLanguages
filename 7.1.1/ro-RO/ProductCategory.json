@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "Categorie produse",
+    "SINGLE_ProductCategory": "Categorie produse",
+    "LBL_CUSTOM_INFORMATION": "Informații personalizate",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "FL_PARENT_CATEGORY": "Categorie părinte",
+    "LBL_CHILD_PRODUCTCATEGORY": "Subcategorii",
+    "FL_ACTIVE": "Activa",
+    "FL_CATEGORY_NAME": "Nume categorie"
+  }
+}

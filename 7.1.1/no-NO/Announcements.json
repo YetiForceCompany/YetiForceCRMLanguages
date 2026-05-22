@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Kunngjøringer",
+    "SINGLE_Announcements": "Kunngjøring",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Grunninformasjon",
+    "LBL_SUBJECT": "Emne",
+    "LBL_NUMBER": "Nummer",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Påminnelse",
+    "FL_IS_MANDATORY": "Obligatorisk",
+    "PLL_DRAFT": "Utkast",
+    "PLL_FOR_ACCEPTANCE": "Til godkjenning",
+    "PLL_PUBLISHED": "Publisert",
+    "PLL_ARCHIVES": "Arkivert",
+    "LBL_REMIND_ME_LATER": "Påminn meg senere",
+    "LBL_MARK_AS_READ": "Marker som lest",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Ble akseptert?",
+    "LBL_DATE": "Lest"
+  }
+}

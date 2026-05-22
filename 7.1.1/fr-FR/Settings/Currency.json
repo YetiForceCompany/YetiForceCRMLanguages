@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Conversion Rate": "Taux de change",
+    "Currency": "Devise",
+    "Symbol": "Symbole",
+    "Currency Code": "Code devise",
+    "Currency Name": "Nom devise",
+    "LBL_ADD_NEW_CURRENCY": "Ajouter une nouvelle devise",
+    "LBL_ADD_RECORD": "Ajouter un enregistrement",
+    "LBL_CURRENCY_CODE": "Code devise",
+    "LBL_CURRENCY_NAME": "Nom devise",
+    "LBL_CURRENCY_STATUS_DESC": "Cocher la case pour passer la devise active",
+    "LBL_CURRENCY_SYMBOL": "Symbole",
+    "LBL_CURRENT_CURRENCY": "Devise courante",
+    "LBL_EDIT_CURRENCY": "Editer la devise",
+    "LBL_ENTER_CONVERSION_RATE": "Saisir le taux de change",
+    "LBL_TRANSFER_CURRENCY": "Transférer la devise",
+    "Active": "Actif",
+    "Inactive": "Inactif",
+    "LBL_SET_AS_DEFAULT": "Choisir comme défaut"
+  },
+  "js": {
+    "JS_CURRENCY_DELETED_SUCCESSFULLY": "Devise supprimée avec succès.",
+    "JS_CURRENCY_DETAILS_SAVED": "Détails de la devise sauvegardés.",
+    "JS_CURRENCY_DEFAULT_CONFIRMED": "Avertissement! Cette opération changera la devise à de nombreux endroits du système. Les documents financiers émis avant ce changement peuvent nécessiter une conversion monétaire. Veuillez effectuer une conversion manuelle des devises si ces documents ont été émis dans leurs versions de production. Le calcul des taux de change pour les autres devises sera nécessaire."
+  }
+}

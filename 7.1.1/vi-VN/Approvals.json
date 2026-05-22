@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Chấp thuận",
+    "SINGLE_Approvals": "Chấp thuận",
+    "LBL_CUSTOM_INFORMATION": "Thông tin tuỳ chỉnh",
+    "LBL_BASIC_INFORMATION": "Thông tin cơ bản",
+    "LBL_DESCRIPTION_INFORMATION": "Mô tả chi tiết",
+    "FL_NAME": "Tên",
+    "FL_APPROVALS_STATUS": "Trạng thái",
+    "FL_DESCRIPTION": "Mô tả",
+    "FL_NUMBER": "Số",
+    "PLL_DRAFT": "Dự thảo",
+    "PLL_ACTIVE": "Bật",
+    "PLL_INACTIVE": "Tắt"
+  }
+}

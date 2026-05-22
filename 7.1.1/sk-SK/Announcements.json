@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Oznámenia",
+    "SINGLE_Announcements": "Oznámenie",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Základné informácie",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Číslo",
+    "FL_STATUS": "Stav",
+    "FL_INTERVAL": "Čas pripomenutia",
+    "FL_IS_MANDATORY": "Povinnosť akceptovať",
+    "PLL_DRAFT": "Koncept",
+    "PLL_FOR_ACCEPTANCE": "Na schválenie",
+    "PLL_PUBLISHED": "Zverejnené",
+    "PLL_ARCHIVES": "Archivované",
+    "LBL_REMIND_ME_LATER": "Pripomenúť neskôr",
+    "LBL_MARK_AS_READ": "Označiť ako prečítané",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Bolo akceptované?",
+    "LBL_DATE": "Read on"
+  }
+}

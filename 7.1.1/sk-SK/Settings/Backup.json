@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Správa záloh",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Spravuj záložne súbory",
+    "LBL_DOWNLOAD": "Download",
+    "LBL_FILE_NAME": "Názov súboru",
+    "LBL_FILE_SIZE": "Veľkosť súboru",
+    "LBL_FILE_DATE": "Dátum modifikácie",
+    "LBL_BACKUP_LIST": "Zoznam záloh",
+    "ERR_CONFIG_ALERT_TITLE": "Spravovanie záloh je zablokované",
+    "ERR_CONFIG_ALERT_DESC": "Nastavte príslušnú cestu v BACKUP_PATH premennej v konfiguračnom súbore [config\/Components\/Backup.php] na zapnutie.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "Systém nemôže získať prístup k zadanému záložnému adresáru. Uistite sa, že cesta a udelené povolenia sú správne."
+  },
+  "js": {}
+}

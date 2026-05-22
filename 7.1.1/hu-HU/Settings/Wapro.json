@@ -1,0 +1,25 @@
+{
+  "php": {
+    "Wapro": "Wapro ERP",
+    "LBL_WAPRO_ERP": "Wapro ERP",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integration with the Asseco Wapro ERP system",
+    "LBL_SYNCHRONIZER_LIST": "Tételek listája szinkronizáláshoz",
+    "FL_NAME": "Név",
+    "FL_STATUS": "Státusz",
+    "FL_SERVER": "Szerver",
+    "FL_PORT": "Port",
+    "FL_DATABASE": "Databázis név",
+    "FL_USERNAME": "Felhasználónév",
+    "FL_PASSWORD": "Jelszó",
+    "LBL_NUMBER_OF_ENTRIES": "Kapcsolatok száma",
+    "LBL_MULTI_COMPANY": "Részlegek/Cég (csak olvasás)",
+    "LBL_COMPANY_BANK_ACCOUNTS": "Cégi bank fiókok (csak olvasás)",
+    "LBL_ACCOUNTS": "Fiókok (csak olvasás)",
+    "LBL_CONTACTS": "Kontaktok (csak olvasás)",
+    "LBL_PRODUCTS": "Termékek (csak olvasás)",
+    "LBL_INVOICE": "Számlák (csak olvasás)",
+    "LBL_CORRECTING_INVOICE": "Korrekciós számlák (csak olvasás)",
+    "LBL_LOGS_VIEWER": "Napló megtekintő",
+    "LBL_SAVE_AND_VERIFY": "Mentés és jóváhagyás"
+  }
+}

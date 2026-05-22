@@ -1,0 +1,26 @@
+{
+  "php": {
+    "LBL_ADVANCED_PERMISSION": "Speciális engedélyek",
+    "AdvancedPermission": "Speciális engedélyek",
+    "LBL_ADVANCED_PERMISSION_DESCRIPTION": "Egyéni engedély konfiguráció, megadásáról vagy visszavonásáról engedélyeket, jegyzőkönyveket.",
+    "LBL_NAME": "Szabály neve",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTION": "Művelet",
+    "LBL_STATUS": "Állapot",
+    "LBL_ROLE": "Szerepkör",
+    "LBL_MEMBERS": "Tagok",
+    "LBL_PRIORITY": "Fontosság",
+    "FL_ACTIVE": "Aktív",
+    "FL_INACTIVE": "Inaktív",
+    "FL_UNLOCK_RECORD": "Hozzáférés megadása",
+    "FL_LOCK_RECORD": "Visszavonja hozzáférés",
+    "LBL_SAVE_AND_CONDITIONS": "Következő",
+    "ERR_INACTIVE_ALERT_TITLE": "Speciális engedélyek le vannak tiltva",
+    "ERR_INACTIVE_ALERT_DESC": "Változás a PERMITTED_BY_ADVANCED_PERMISSION paraméter config\/security.php fájl lehetővé teszi.",
+    "LBL_RECALCULATE_PERMISSION_TITLE": "Engedélyt újraszámítás",
+    "LBL_RECALCULATE_PERMISSION_BTN": "Újratervezés engedélyek",
+    "LBL_RECALCULATE_CRON_INFO": "Engedélyt recalculations igényel engedélyezve van, CRON, kérjük, ellenőrizze, hogy a feladat az aktív.",
+    "LBL_MODULES_LIST": "Modullista",
+    "ERR_INACTIVE_CACHING_PERM_ALERT_DESC": "A speciális engedélyeket letiltottuk, mert engedélyezniük kell a rekordengedélyek gyorsítótárazását. Ahhoz, hogy az engedélyek működni tudjanak, engedélyeznie kell a cront, és a CACHING_PERMISSION_TO_RECORD [config \/ security.php] változót igazra kell állítani."
+  }
+}

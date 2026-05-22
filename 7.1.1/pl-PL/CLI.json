@@ -1,0 +1,7 @@
+{
+  "php": {
+    "DELETE_REGISTRATION_QUESTION": "Czy na pewno chcesz usunąć dane rejestracyjne? To spowoduje utratę wszystkich subskrypcji.",
+    "REGISTRATION_DELETED": "Dane rejestracyjne zostały usunięte",
+    "OPERATION_CANCELED": "Operacja została anulowana"
+  }
+}

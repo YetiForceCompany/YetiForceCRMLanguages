@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Predloge E-pošte",
+    "SINGLE_EmailTemplates": "Predloga E-pošte",
+    "LBL_CONTENT_MAIL": "Vsebina e-pošte",
+    "LBL_BASIC_DETAILS": "Osnovne informacije",
+    "FL_NAME": "Naziv",
+    "FL_TYPE": "Vrsta",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Zadeva",
+    "FL_CONTENT": "Vsebina",
+    "FL_SMTP_PRIORITY": "SMTP prioriteta",
+    "PLL_MODULE": "Moduli",
+    "PLL_RECORD": "Zapis",
+    "PLL_MAIL": "Sporočilo",
+    "PLL_LIST": "Seznam",
+    "PLL_DEFAULT": "Privzeto podjetje",
+    "FL_SYS_NAME": "Naziv sistema"
+  }
+}

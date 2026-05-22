@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Аутсорсинг товарів",
+    "SINGLE_OutsourcedProducts": "Аутсорсинг товару",
+    "LBL_INFORMATION": "Аутсорсинг товарів",
+    "Assigned To": "Відповідальний",
+    "LBL_RODZAJUMOWY": "Тип угоди",
+    "LBL_osservicesstatus": "Статус",
+    "Individual Agreement": "Індивідуальна угода",
+    "In service": "Підтримується",
+    "Finished support": "Підтримка припинена",
+    "Product Name": "Назва товару",
+    "Sub Category": "Підкатегорія",
+    "Category": "Категорія",
+    "Date Sold": "Дата продажі",
+    "Date in Service": "Дата закінчення підтримки",
+    "Description": "Опис",
+    "LBL_DESCRIPTION_INFORMATION": "Описова інформація",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "Where bought": "Де придбано",
+    "Number": "Номер",
+    "Save": "Зберегти",
+    "Selling proposition": "Пропозиція з продажу",
+    "LBL_GENERATE_EXTENSION": "Створити пропозицію",
+    "Active": "Активний",
+    "Inactive": "Неактивний"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "php": {
+    "MailIntegration": "Panou de integrare a e-mailurilor",
+    "LBL_MAIL_INTEGRATION": "Panou de integrare a e-mailurilor",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM ca panou de integrare într-un client extern de mail",
+    "LBL_OUTLOOK": "Extensii Outlook",
+    "LBL_OUTLOOK_ALERT": "Instrucțiunile de instalare pentru extensii pot fi găsite la %s",
+    "LBL_OUTLOOK_ADDRESSES": "URL-uri ale serverului de e-mail Outlook",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "Listă de adrese unde sistemul va fi disponibil ca panou de integrare, obligatoriu pentru Outlook Web App ex. %s",
+    "LBL_OUTLOOK_SCRIPT": "Servere CDN permise pentru JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "Lista adreselor permise ale serverului CDN de la care se pot încarcă fișiere JavaScript, ex. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Activarea modifică fișierul 'config / Security.php' și reduce nivelul de securitate, vor apărea schimbările:\n- permite încărcarea CRM într-o fereastră\n- permite încărcarea scripturilor externe (https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- dezactivează HttpOnly în cookie \n- modifică cookie SameSite la niciunul",
+    "LBL_QUICK_CREATE_MODULES": "Lista modulelor de creare rapidă",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Lista modulelor în care datele pot fi create prin panoul de integrare. \n Dacă nu este selectată nici o valoare, sistemul va selecta lista implicită de creare rapidă",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Descărcați fișierul de instalare a suplimentului de Outlook",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Dezactivare"
+  }
+}

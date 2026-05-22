@@ -1,0 +1,8 @@
+{
+  "php": {
+    "LBL_OTHER": "Otro",
+    "Automatic signed off": "Cierre de sesión automático",
+    "LBL_LOGIN_TIME": "Date time",
+    "LBL_LOGGED_OUT_TIME": "Sign-out time"
+  }
+}

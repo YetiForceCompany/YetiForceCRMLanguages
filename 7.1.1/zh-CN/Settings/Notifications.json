@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "例外",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "通知-设置",
+    "LBL_ADD_MEMBERS": "添加通知的人员",
+    "LBL_SELECT_MEMBERS": "选择通知的人员",
+    "LBL_MEMBERS": "成员",
+    "LBL_LOCK": "锁定",
+    "LBL_NOTICE_CONFIG_WARNING": "监控模块已经在配置启用，管理通知时需要禁用它."
+  },
+  "js": {}
+}

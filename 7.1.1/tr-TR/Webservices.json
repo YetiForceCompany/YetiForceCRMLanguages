@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webservisler",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Parola değiştirme başarısız",
+    "LBL_DATABASE_QUERY_ERROR": "İstenen işlemi yaparken veritabanı hatası",
+    "LBL_INVALID_OLD_PASSWORD": "Eski şifre için geçersiz değer.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Parolalar Eşleşmiyor"
+  }
+}

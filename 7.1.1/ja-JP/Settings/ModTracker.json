@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "変更履歴",
+    "LBL_MODTRACKER_SETTINGS": "モジュール–変更\/履歴の追跡",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "モジュールの変更履歴を管理",
+    "LBL_MODULE": "モジュール",
+    "LBL_ACTIVE": "変更を追跡",
+    "LBL_TOOLS": "ツール",
+    "LBL_TRACK_CHANGES_ENABLED": "変更の追跡を有効にしました",
+    "LBL_TRACK_CHANGES_DISABLE": "変更の追跡を無効にしました"
+  }
+}

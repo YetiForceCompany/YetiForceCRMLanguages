@@ -1,0 +1,29 @@
+{
+  "php": {
+    "PermissionInspector": "Inspetor de permissão",
+    "LBL_INSPECTION_PERMISSION_HEADER": "Inspetor de permissão",
+    "LBL_FULL_USER_NAME": "Usuário",
+    "LBL_VIEW_PRVILIGE": "Visualizar",
+    "LBL_CREATE_PRIVILIGE": "Criar",
+    "LBL_EDIT_PRIVILIGE": "Editar",
+    "LBL_DELETE_PRIVILIGE": "Remover",
+    "LBL_PROFILES": "Perfil:",
+    "SEC_MODULE_DONT_HAVE_SECURITY_RIGHT": "Módulo/ ação excluída das permissões",
+    "SEC_USER_IS_ADMIN": "Usuário como administrador",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_YES": "Permissão do módulo, usuário tem acesso a informação do módulo",
+    "SEC_MODULE_VIEW_ALL_PERMISSION": "Permissão global para visualizar a informação",
+    "SEC_MODULE_EDIT_ALL_PERMISSION": "Permissão global para editar informação",
+    "SEC_RECORD_ID_IS_NULL": "Acesso geral as ações do módulo",
+    "SEC_MODULE_RIGHTS_TO_ACTION": "Acesso baseado na permissão para performar ações no módulo",
+    "SEC_RECORD_BY_SHARING_YES": "Acesso baseado no (regras) de acesso (Entrada do módulo)",
+    "SEC_RECORD_OWNER_CURRENT_USER": "Acesso baseado no proprietário %s",
+    "SEC_RECORD_OWNER_CURRENT_GROUP": "Acesso baseado no grupo %s",
+    "SEC_RECORD_OWNER_SUBORDINATE_USER": "Acesso baseado na hierarquia da empresa (papéis), usurário é alto na hierarquia que o registro do proprietário",
+    "SEC_RECORD_HIERARCHY_USER": "Acesso baseado na permissão hierárquica",
+    "SEC_NO_ACTION_MODULE_PERMISSIONS_NO": "Sem permissão para módulo, usuário não tem acesso ao módulo",
+    "SEC_MODULE_PERMISSIONS_NO": "Sem permissão para módulo, usuário não acesso para módulo",
+    "SEC_MODULE_NO_RIGHTS_TO_ACTION": "Sem permissão para performar ações no módulo",
+    "SEC_RECORD_BY_SHARING_NO": "Sem permissão baseada nas regras de acesso (Modulo de acesso)",
+    "SEC_MODULE_NO_ACTION_TOOL": "Sem permissão para atuar — ação não encontrada"
+  }
+}

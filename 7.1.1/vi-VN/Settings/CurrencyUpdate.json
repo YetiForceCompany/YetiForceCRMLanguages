@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Cập nhật tỷ giá",
+    "LBL_CURRENCY_UPDATE": "Cập nhật tỷ giá",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Tuỳ chọn cho thiết lập hệ thống xây dựng trong trạng thái chuyển đổi tiền tệ.",
+    "LBL_SELECT_BANK": "Chọn ngân hàng",
+    "MSG_ONE_CURRENCY": "Chỉ có tiền tệ chính được thiết lập. Để nhận tỷ giá cho loại tiền tệ khác xin hãy thêm tiền tệ khác trong Thiết lập CRM.",
+    "MSG_NO_NET_CONN": "Không có Internet, không tin tiền tệ đã không được tải về.",
+    "LBL_HISTORY": "Lịch sử trao đổi tỉ giá tiền tệ",
+    "LBL_BANK": "Chọn ngân hàng từ nơi để nhận thông tin về tỉ giá hối đoái",
+    "LBL_CAL_DATE": "Ngày của khoá học",
+    "LBL_MAINCURRENCY": "Tiền tệ chính",
+    "LBL_CODE": "Mã",
+    "LBL_SYMBOL": "Ký hiệu",
+    "LBL_CURRENCY_NAME": "Tên tiền tệ",
+    "LBL_CURRENCY_SYMBOL": "Ký hiệu tiền tệ",
+    "LBL_COURSE": "Tỉ giá trao đổi",
+    "LBL_DATE": "Ngày tải khoá học",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Ngày khoá học",
+    "LBL_SHOW": "Hiển thị",
+    "LBL_CURRENCIES_SUPPORTED": "Danh sách tiền tệ hỗ. trợ bởi ngân hàng này",
+    "LBL_CURRENCIES_UNSUPPORTED": "Danh sách tiền tệ không hỗ trợ bởi ngân hàng này",
+    "LBL_SET_BANK_OK": "Ngân hàng hoạt động đã được lưu thành công.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
+    "LBL_SET_BANK_ERROR": "Thiết lập ngân hàng kích hoạt không thành công.",
+    "LBL_INFORMATIONS": "Thông tin",
+    "LBL_WARNING": "Cảnh báo!",
+    "NBP": "Ngân hàng quốc gia Ba Lan",
+    "ECB": "Ngân hàng trung tâm European",
+    "CBR": "Ngân hàng Trung tâm Nga"
+  }
+}

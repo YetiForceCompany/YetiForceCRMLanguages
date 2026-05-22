@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Завдання",
+    "SINGLE_ActivityRegister": "Завдання",
+    "LBL_BASIC_INFORMATION": "Основна інформація",
+    "FL_SUBJECT": "Тема",
+    "FL_PARENT_ACTIVITY": "Основне завдання",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Чeрнетка",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Очікує підтвердження",
+    "PLL_IN_REALIZATION": "В роботі",
+    "PLL_COMPLETED": "Виконане",
+    "PLL_CANCELLED": "Відхилене",
+    "FL_DATA_SET": "Дані",
+    "PLL_ENTRUSTMENT": "Доручити",
+    "PLL_SHARING": "Поділитись",
+    "PLL_TRANSFER": "Передати",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Підтвердження доручення",
+    "PLL_INTERNAL": "Внутрішній",
+    "FL_START_DATE": "Дата початку",
+    "FL_END_DATE": "Дата завершення",
+    "LBL_DATES": "Дати завдань",
+    "LBL_DESCRIPTION": "Опис",
+    "FL_DESCRIPTION": "Опис",
+    "FL_COMMENTS": "Коментарі",
+    "LBL_COMMENTS": "Коментарі",
+    "FL_ACTIVITY_TYPE": "Тип завдання"
+  }
+}

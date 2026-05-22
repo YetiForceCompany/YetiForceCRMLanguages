@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "产品类别",
+    "SINGLE_ProductCategory": "产品类别",
+    "LBL_CUSTOM_INFORMATION": "自定义信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "FL_PARENT_CATEGORY": "上级分类",
+    "LBL_CHILD_PRODUCTCATEGORY": "子类别",
+    "FL_ACTIVE": "活动",
+    "FL_CATEGORY_NAME": "类别名称"
+  }
+}

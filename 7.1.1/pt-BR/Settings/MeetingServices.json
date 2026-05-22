@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "Serviço de chamadas ",
+    "LBL_MEETING_SERVICES": "Serviço de Chamadas ",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "\"Status\"",
+    "FL_APP_ID": "ID do aplicativo ",
+    "FL_SECRET_KEY": "Chave secreta "
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Yıllık tatil hakkı",
+    "SINGLE_HolidaysEntitlement": "Yıllık tatil hakkı",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Özel Bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_YEAR": "Yıl",
+    "LBL_DAYS": "Tatil sayısı",
+    "LBL_EMPLOYEE": "İşçi",
+    "LBL_NUMBER": "Numara"
+  }
+}

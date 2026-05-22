@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_KSEF": "KSeF",
+    "LBL_KSEF_ACTIVATE": "Activate",
+    "LBL_KSEF_ACTIVATE_CONFIRM": "As part of the activation of integration with the National e-Invoice System (KSeF-Poland), new fields will be added to the Costs and Invoices modules, including: \n- fields required for the correct handling of e-invoices,\n- tax rates (VAT) in accordance with KSeF requirements.\n Structural changes cannot be reversed. Are you sure you want to activate KSeF?",
+    "FL_NAME": "Name",
+    "FL_STATUS": "Status",
+    "PLL_ACTIVE": "Active",
+    "PLL_BLOCKED": "Blocked",
+    "PLL_REVOKED": "Revoked",
+    "PLL_EXPIRED": "Expired",
+    "FL_PASSPHRASE": "Password",
+    "FL_CERTIFICATE": "Certificate",
+    "FL_PRIVATE_KEY": "Private key",
+    "FL_COMPANY": "Company",
+    "FL_IDENTIFIER_CODE": "TAX ID",
+    "FL_IDENTIFIER_CODE_DESC": "The TAX ID should contain 10 digits and be identical to the one in the Company field.",
+    "FL_DATE_VALID_FROM": "Valid from",
+    "FL_EXPIRATION_DATE": "Valid until",
+    "FL_CONTACT_EMAIL": "Contact email",
+    "FL_CONTACT_EMAIL_DESC": "Contact email for notifications about the upcoming expiration of the certificate.",
+    "LBL_CHECK_CONNECTION": "Check connection",
+    "LBL_CHECK_CONNECTION_SUCCESS": "Connection established successfully",
+    "LBL_INVALID_CONNECTION_DATA": "Invalid connection data",
+    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Connection already exists for the selected company."
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Zapisano"
+  }
+}
+

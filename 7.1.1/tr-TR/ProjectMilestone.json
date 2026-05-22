@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Proje Kilometre Taşı",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Proje Kilometre Taşı Detayları",
+    "Project Milestone Name": "Proje Kilometre Taşı Adı",
+    "Milestone Date": "Kilometre Taşı Tarihi",
+    "Project Milestone No": "Proje Kilometre Taşı Numarası",
+    "description": "Açıklama",
+    "Related to": "Proje",
+    "FL_PARENT_PROJECT_MILESTONE": "Ana proje milestone",
+    "FL_STATUS": "Durum",
+    "LBL_ESTIMATED_WORK_TIME": "Tahmini çalışma süresi",
+    "LBL_MILESTONES_LIST": "Proje Kilometre Taşıları Listesi",
+    "LBL_TASKS_LIST": "Görevler Listesi",
+    "LBL_PROJECTS_LIST": "Projeler Listesi",
+    "LBL_PRIORITY": "Öncelik",
+    "LBL_PROGRESS": "İlerleme",
+    "PLL_INTERNAL": "İç",
+    "PLL_EXTERNAL": "Harici",
+    "PLL_SHARED": "Paylaşılan",
+    "PLL_LOW": "Düşük",
+    "PLL_NORMAL": "Normal",
+    "PLL_HIGH": "Yüksek"
+  }
+}

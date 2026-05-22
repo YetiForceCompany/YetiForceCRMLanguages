@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Praćenje istorije",
+    "LBL_MODTRACKER_SETTINGS": "Moduli – Prati Promjene \/ Istorija",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Upravljajte istorijom promjena u modulima",
+    "LBL_MODULE": "Modul",
+    "LBL_ACTIVE": "Pratite promjene",
+    "LBL_TOOLS": "Alati",
+    "LBL_TRACK_CHANGES_ENABLED": "Omogućeno praćenje promjena",
+    "LBL_TRACK_CHANGES_DISABLE": "Onemogućeno praćenje promjena"
+  }
+}

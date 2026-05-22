@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Mijlpaal",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Algemeen",
+    "Project Milestone Name": "Mijlpaal",
+    "Milestone Date": "Mijlpaal Datum",
+    "Project Milestone No": "Mijlpaalnummer",
+    "description": "Beschrijving",
+    "Related to": "Project",
+    "FL_PARENT_PROJECT_MILESTONE": "Bovenliggende Mijlpaal",
+    "FL_STATUS": "Status",
+    "LBL_ESTIMATED_WORK_TIME": "Geschatte werktijd",
+    "LBL_MILESTONES_LIST": "Mijlpalen Lijst",
+    "LBL_TASKS_LIST": "Taken Lijst",
+    "LBL_PROJECTS_LIST": "Projecten Lijst",
+    "LBL_PRIORITY": "Prioriteit",
+    "LBL_PROGRESS": "Voortgang",
+    "PLL_INTERNAL": "Intern",
+    "PLL_EXTERNAL": "Extern",
+    "PLL_SHARED": "Gedeeld",
+    "PLL_LOW": "Laag",
+    "PLL_NORMAL": "Normaal",
+    "PLL_HIGH": "Hoog"
+  }
+}

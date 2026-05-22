@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Obaveštenja",
+    "SINGLE_Announcements": "Obaveštenje",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Osnovne informacije",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Broj",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Vrijeme podsjećanja",
+    "FL_IS_MANDATORY": "Obavezno prihvatiti",
+    "PLL_DRAFT": "Skica",
+    "PLL_FOR_ACCEPTANCE": "Za odobrenje",
+    "PLL_PUBLISHED": "Objavljeno",
+    "PLL_ARCHIVES": "Arhivirano",
+    "LBL_REMIND_ME_LATER": "Podsjeti me kasnije",
+    "LBL_MARK_AS_READ": "Označi kao pročitano",
+    "LBL_ACCEPT_ANNOUNCEMENT": "Je li prihvaćen?",
+    "LBL_DATE": "Pročitajte dalje"
+  }
+}
