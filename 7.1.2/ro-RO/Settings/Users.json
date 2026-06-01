@@ -1,0 +1,37 @@
+{
+  "php": {
+    "Users": "Utilizatori",
+    "USER_MAIL_EXIST": "Mai există un utilizator cu aceasta adresă de email",
+    "LBL_PRIORITY": "Prioritate",
+    "LBL_LDAP_RECOMMENDED_INFO": "Nu recomandam selectarea utilizatorilor cu permisiuni de administrator pentru autorizarea LDAP. În cazul problemelor de autorizare trebuie să existe un utilizator care poate să se conecteze fără integrarea cu LDAP.",
+    "LBL_LDAP_AUTH": "LDAP - Lightweight Directory Access Protocol",
+    "LBL_ACTIVE_LDAP_AUTH": "Autorizare prin LDAP",
+    "LBL_LDAP_SERVER": "Adresa serverului",
+    "LBL_LDAP_PORT": "Port",
+    "LBL_SAVE_CONFIG": "Configurația a fost salvată",
+    "LBL_LDAP_DOMAIN": "Domeniul (adăugat automat la autentificare)",
+    "LBL_VIEW_AUTH": "Autorizare",
+    "LBL_SWITCH_USERS": "Schimbă utilizatorii",
+    "LBL_SWITCH_USERS_DESCRIPTION": "Unelte care va permite schimbarea utilizatorilor in sistem.",
+    "LBL_SU_BASE_ACCESS": "Utilizator",
+    "LBL_SU_AVAILABLE_ACCESS": "Este permisa autentificarea",
+    "LBL_LOCKS": "Blocări",
+    "LBL_LOCKS_DESCRIPTION": "Unelte pentru a bloca acțiunile din browser (copiere, decupare, etc)",
+    "LBL_LOCK_COPY": "Blochează copiere",
+    "LBL_LOCK_CUT": "Blochează decupare",
+    "LBL_LOCK_PASTE": "Blochează lipire",
+    "LBL_LOCK_RIGHT_MENU": "Blochează buton dreapta mouse",
+    "LBL_LOCK_SELECT_TEXT": "Blochează selectarea",
+    "LBL_LOCK_DRAG": "Blochează tragerea",
+    "LBL_SSO_AZURE_ACTIVE": "Autentificare cu Azure AD",
+    "LBL_SSO": "Autentificare unică",
+    "LBL_SSO_AZURE_TENANT_ID": "ID chiriaș",
+    "LBL_SSO_AZURE_CLIENT_ID": "ID Client",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Codul secret al clientului"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "Vă rugăm să selectezi modulul",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "Separatorul zecimal și separatorul de grupare nu pot fi identice",
+    "Changed password successfully": "Parolă schimbată cu succes"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "승인목록",
+    "SINGLE_Approvals": "승인",
+    "LBL_CUSTOM_INFORMATION": "맞춤 정보",
+    "LBL_BASIC_INFORMATION": "기본 정보",
+    "LBL_DESCRIPTION_INFORMATION": "구체적인 설명",
+    "FL_NAME": "이름",
+    "FL_APPROVALS_STATUS": "상태",
+    "FL_DESCRIPTION": "설명",
+    "FL_NUMBER": "번호",
+    "PLL_DRAFT": "초안",
+    "PLL_ACTIVE": "활성",
+    "PLL_INACTIVE": "비활성"
+  }
+}

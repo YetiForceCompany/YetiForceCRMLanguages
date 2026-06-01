@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "Δελτία κύκλου αποθήκης",
+    "SINGLE_ISTN": "Δελτίο κύκλου αποθήκης",
+    "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
+    "LBL_ATTENTION_BLOCK": "Σχόλια",
+    "FL_ESTIMATED_DATE": "Εκτιμώμενη ημερομηνία",
+    "FL_SUBJECT": "Θέμα",
+    "FL_NUMBER": "Αριθμός",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_DRAFT": "Πρόχειρο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_OBJECTIONS": "Ενστάσεις",
+    "PLL_FOR_APPROVAL": "Για έγκριση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή",
+    "PLL_RECEIVED": "Παραλαβή",
+    "PLL_TRANSFER": "Μεταφορά",
+    "PLL_DISPATCHED": "Αποστολή",
+    "FL_TYPE": "Τύπος"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "SQuoteEnquiries": "Запити",
+    "SINGLE_SQuoteEnquiries": "Запит",
+    "LBL_QUOTESENQUIRES_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "Системна інформація",
+    "LBL_DESCRIPTION_INFORMATION": "Опис",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Час закриття",
+    "LBL_STATUS": "Статус",
+    "SINGLE_SSalesProcesses": "Угода",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "В роботі",
+    "PLL_FOR_VERIFICATION": "Перевірка ",
+    "PLL_CANCELLED": " скасовано",
+    "PLL_COMPLETED": "Виконано",
+    "LBL_CHANGE_STATUS": "Змінити статус",
+    "FL_CAMPAIGN_ID": "Кампанія"
+  }
+}

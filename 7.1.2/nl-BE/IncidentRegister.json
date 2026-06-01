@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Incident Registreren",
+    "SINGLE_IncidentRegister": "Incident Registreren",
+    "LBL_BASIC_INFORMATION": "Algemeen",
+    "FL_NAME": "Naam",
+    "FL_LOCATION_REGISTER": "Locatie register",
+    "FL_DATASETREGISTER": "Gegevensset register",
+    "PLL_DRAFT": "Concept",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Wachten op acceptatie",
+    "PLL_IN_REALIZATION": "In realisatie",
+    "PLL_COMPLETED": "Voltooid",
+    "PLL_CANCELLED": "Geannuleerd",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Type",
+    "PLL_INTERNAL": "Intern",
+    "PLL_EXTERNAL": "Extern",
+    "LBL_INCIDENT_DATES": "Incident bijgewerkt",
+    "FL_INCIDENT_DATE": "Datum Incident",
+    "FL_INCIDENT_DISCOVERY": "Incident ontdekkingsdatum",
+    "FL_INCIDENT_REPORT_DATE": " Rapportdatum van Incident",
+    "FL_INCIDENT_PUBLICATION_DATE": "Incident publicatiedatum",
+    "FL_PEOPLE_NUMBER": "Aantal mensen",
+    "LBL_BREACH_CIRCUMSTANCES": "Schending omstandigheden",
+    "FL_BREACH_CIRCUMSTANCES": "Schending omstandigheden",
+    "LBL_NATURE_OF_BREACH": "Aard van de inbreuk",
+    "FL_NATURE_OF_BREACH": "Aard van de inbreuk",
+    "LBL_POSSIBLE_CONSEQUENCES": "Mogelijke gevolgen",
+    "FL_POSSIBLE_CONSEQUENCES": "Mogelijke gevolgen",
+    "LBL_SECURITY_MEASURES": "Toegepaste beveiligingsmaatregelen",
+    "FL_SECURITY_MEASURES": "Toegepaste beveiligingsmaatregelen"
+  }
+}

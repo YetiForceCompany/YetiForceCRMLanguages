@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Partners": "Συνεργάτες",
+    "SINGLE_Partners": "Συνεργάτης",
+    "LBL_PARTNERS_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφή - Σχόλια",
+    "LBL_SUBJECT": "Ονομασία",
+    "LBL_NUMBER": "Αριθμός",
+    "LBL_CLOSED_TIME": "Ώρα κλεισίματος",
+    "LBL_VAT_ID": "ΑΦΜ",
+    "FL_CATEGORY": "Κατηγορία",
+    "FL_MEMBER_OF": "Γονιός συνεργάτης",
+    "LBL_SHOW_HIERARCHY": "Ιεραρχία"
+  }
+}

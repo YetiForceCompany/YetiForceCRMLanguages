@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_KSEF": "KSeF",
+    "LBL_KSEF_ACTIVATE": "Activează",
+    "LBL_KSEF_ACTIVATE_CONFIRM": "Ca parte a activării integrării în sistemul național de facturare electronică (KSeF-Polonia), se vor adăuga noi câmpuri la modulele de costuri și facturi, inclusiv: \n- câmpuri necesare pentru manipularea corectă a facturilor electronice,\n- rate de impozitare (TVA) în conformitate cu cerinţele KSeF.\n modificări structurale nu pot fi inversate. Ești sigur că vrei să activezi KSeF?",
+    "FL_NAME": "Nume",
+    "FL_STATUS": "Status",
+    "PLL_ACTIVE": "Activă",
+    "PLL_BLOCKED": "Blocată",
+    "PLL_REVOKED": "Respinsă",
+    "PLL_EXPIRED": "Expirată",
+    "FL_PASSPHRASE": "Parolă",
+    "FL_CERTIFICATE": "Certificatul",
+    "FL_PRIVATE_KEY": "Cheie privată",
+    "FL_COMPANY": "Compania",
+    "FL_IDENTIFIER_CODE": "CIF / CUI",
+    "FL_IDENTIFIER_CODE_DESC": "ID-ul de TVA trebuie să conțină 10 cifre și să fie identic cu cel din câmpul companiei.",
+    "FL_DATE_VALID_FROM": "Valabil de la",
+    "FL_EXPIRATION_DATE": "Valabil până la",
+    "FL_CONTACT_EMAIL": "E-mail de contact",
+    "FL_CONTACT_EMAIL_DESC": "Contactați e-mailul pentru notificări despre expirarea viitoare a certificatului.",
+    "LBL_CHECK_CONNECTION": "Verificați conexiunea",
+    "LBL_CHECK_CONNECTION_SUCCESS": "Conexiune stabilită cu succes",
+    "LBL_INVALID_CONNECTION_DATA": "Date conexiune nevalide",
+    "ERR_ACTIVE_SETTINGS_EXISTS_FOR_COMPANY": "Conexiunea există deja pentru firma selectată."
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Saved"
+  }
+}
+

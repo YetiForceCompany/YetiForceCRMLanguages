@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EventHandler": "Manipuladores de eventos",
+    "LBL_EVENT_HANDLER": "Manipuladores de eventos",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Nome do evento",
+    "LBL_EVENT_DESC": "Descrição do evento",
+    "LBL_INCLUDE_MODULES": "Incluir módulos",
+    "LBL_EXCLUDE_MODULES": "Excluir módulos",
+    "LBL_EVENT_IS_ACTIVE": "Está ativo",
+    "LBL_EDIT_VIEW_PRESAVE": "Validação antes de salvar o registro",
+    "LBL_ENTITY_CHANGE_STATE": "Alterar estado",
+    "LBL_ENTITY_BEFORE_SAVE": "Antes de salvar",
+    "LBL_ENTITY_AFTER_SAVE": "Depois de salvar",
+    "LBL_DETAIL_VIEW_BEFORE": "Visão detalhada",
+    "LBL_EDIT_VIEW_BEFORE": "Editar visualização",
+    "LBL_EDIT_VIEW_DUPLICATE": "Editar Visualização (Duplicar)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Carregando dados para o inventário"
+  }
+}

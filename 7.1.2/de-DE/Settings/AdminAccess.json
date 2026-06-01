@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Admin-Zugriff",
+    "LBL_ADMIN_ACCESS": "Admin Zugriff",
+    "LBL_PERMISSIONS": "Berechtigungen",
+    "BTN_MASS_EDIT_ACCESS": "Massenbearbeitung",
+    "FL_MODULE_NAME": "Modulname",
+    "LBL_ACTIVE": "Aktiv",
+    "LBL_EDIT_ADMIN_ACCESS": "Bearbeiten von Admin-Zugriffen",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Besuchszweck",
+    "FL_DATE_TIME": "Datum",
+    "FL_PURPOSE": "Zweck",
+    "FL_USER": "Benutzer",
+    "FL_BASE_USER": "Basisbenutzer",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Nach dem Anmeldezweck fragen",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Möchten Sie das Besuchszweck-Fenster für Administratoren aktivieren, wenn sie sich im System anmelden?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Nach dem Wechseln des Benutzers fragen",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Möchten Sie das Besuchszweck-Fenster für Administratoren aktivieren, wenn Sie Benutzer im System wechseln?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Änderungen gespeichert"
+  }
+}

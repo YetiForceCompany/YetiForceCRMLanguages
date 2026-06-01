@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Thêm vào",
+    "LBL_EDIT_LIST_PRICE": "Sửa báo giá",
+    "LBL_PRICEBOOK_INFORMATION": "Chi tiết Bảng giá",
+    "LBL_UNIT_PRICE": "Đơn giá",
+    "Price Book Name": "Tên Bảng giá",
+    "PriceBook No": "Số Bảng giá",
+    "PriceBooks": "Bảng giá",
+    "SINGLE_PriceBooks": "Bảng giá",
+    "yes": "Có",
+    "no": "Không",
+    "Unit Price": "Đơn giá",
+    "LBL_SPECIFY_THE_MARGIN": "Xác định lợi nhuận biên",
+    "LBL_SPECIFY_THE_MARGINP": "Xác định lợi nhuận biên (%)"
+  }
+}

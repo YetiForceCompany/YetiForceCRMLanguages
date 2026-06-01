@@ -1,0 +1,7 @@
+{
+  "php": {
+    "DELETE_REGISTRATION_QUESTION": "Tem certeza que deseja excluir os dados de registro? Isso resultará na perda de todas as assinaturas.",
+    "REGISTRATION_DELETED": "Os dados de registro foram excluídos",
+    "OPERATION_CANCELED": "A operação foi cancelada"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Servizi esternalizzati",
+    "SINGLE_OSSOutsourcedServices": "Servizio esternalizzato",
+    "LBL_INFORMATION": "Informazioni base",
+    "Assigned To": "Assegnato a",
+    "LBL_osservicesstatus": "Stato",
+    "Individual Agreement": "Accordo personale",
+    "In service": "È supportato",
+    "Finished support": "Supporto terminato",
+    "Product Name": "Nome",
+    "Sub Category": "Sotto-categoria",
+    "Category": "Categoria",
+    "Date Sold": "Data vendita",
+    "Date in Service": "Data fine supporto",
+    "Description": "Descrizione",
+    "LBL_DESCRIPTION_INFORMATION": "Descrizione",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "Where bought": "Acquistato da",
+    "Number": "Progressivo",
+    "Save": "Salva",
+    "LBL_GENERATE_EXTENSION": "Genera estensione",
+    "Selling proposition": "Opportunità",
+    "Active": "Attivo",
+    "Inactive": "Inattivo"
+  }
+}

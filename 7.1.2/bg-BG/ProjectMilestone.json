@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Project Milestone",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Project Milestone Details",
+    "Project Milestone Name": "Project Milestone Name",
+    "Milestone Date": "Milestone Date",
+    "Project Milestone No": "Project Milestone Number",
+    "description": "Description",
+    "Related to": "Project",
+    "FL_PARENT_PROJECT_MILESTONE": "Parent project milestone",
+    "FL_STATUS": "Статус",
+    "LBL_ESTIMATED_WORK_TIME": "Планирано време на работа",
+    "LBL_MILESTONES_LIST": "Списък с етапи",
+    "LBL_TASKS_LIST": "Списък със задачи",
+    "LBL_PROJECTS_LIST": "Списък с проекти",
+    "LBL_PRIORITY": "Приоритет",
+    "LBL_PROGRESS": "Напредък",
+    "PLL_INTERNAL": "Вътрешно",
+    "PLL_EXTERNAL": "Външно",
+    "PLL_SHARED": "Споделяно",
+    "PLL_LOW": "Ниско",
+    "PLL_NORMAL": "Нормално",
+    "PLL_HIGH": "Високо"
+  }
+}

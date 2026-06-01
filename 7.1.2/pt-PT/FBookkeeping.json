@@ -1,0 +1,8 @@
+{
+  "php": {
+    "FBookkeeping": "Registo Contabilistico",
+    "SINGLE_FBookkeeping": "Registo Contabilistico",
+    "FBookkeeping ID": "ID de Registo Contabilistico",
+    "FL_SUBJECT": "Assunto"
+  }
+}

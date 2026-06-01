@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Запитвания на доставчика",
+    "SINGLE_SVendorEnquiries": "Запитване на доставчик",
+    "LBL_SCALCULATIONS_INFORMATION": "Основна информация",
+    "LBL_CUSTOM_INFORMATION": "Информация за системата",
+    "LBL_DESCRIPTION_INFORMATION": "Описание",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Време на затваряне",
+    "LBL_STATUS": "Състояние",
+    "SINGLE_SSalesProcesses": "Възможност",
+    "FL_TOTAL_PRICE": "Общо нето",
+    "FL_MARGINP": "Процент на общия марж",
+    "FL_MARGIN": "Общата граница (финансова)",
+    "FL_VENDOR": "Доставчик",
+    "FL_SCALCULATIONS": "Изчисление",
+    "PLL_DRAFT": "Чернова",
+    "PLL_IN_REALIZATION": "В изпълнение",
+    "PLL_FOR_VERIFICATION": "За потвържаване",
+    "PLL_CANCELLED": "Отхвърлено",
+    "PLL_COMPLETED": "Завършено",
+    "LBL_CHANGE_STATUS": "Промяна на статуса"
+  }
+}

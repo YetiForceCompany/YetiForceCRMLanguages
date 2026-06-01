@@ -1,0 +1,21 @@
+{
+  "php": {
+    "SRequirementsCards": "Satış gereksinimleri",
+    "SINGLE_SRequirementsCards": "Satış gereksinimi",
+    "LBL_SREQUIREMENTSCARDS_INFORMATION": "Temel bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "LBL_STATISTICS": "İstatistikler",
+    "LBL_SUBJECT": "Konu",
+    "LBL_NUMBER": "Sayı",
+    "LBL_CLOSED_TIME": "Kapanış saati",
+    "LBL_STATUS": "Durum",
+    "SINGLE_SSalesProcesses": "Fırsat",
+    "PLL_DRAFT": "Taslak",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_FOR_VERIFICATION": "Doğrulamada",
+    "PLL_CANCELLED": "İptal edildi",
+    "PLL_COMPLETED": "Tamamlandı",
+    "LBL_CHANGE_STATUS": "Durumu değiştir"
+  }
+}

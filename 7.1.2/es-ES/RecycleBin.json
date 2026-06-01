@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Vaciar papelera",
+    "RecycleBin": "Papelera de reciclaje"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Borrado masivo",
+    "JS_MASS_ACTIVATE": "Activar en masa",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Eliminar todos los registros en la papelera de reciclaje",
+    "JS_ACTIVATE_RECORD_DESC": "Activar un registro solo cambia el estado del registro sin cambiar el resto de la información. ¿Seguro que quieres activar el registro?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Eliminar un registro es permanente e irreversible para toda la información del registro. ¿Seguro que quieres borrar el registro?",
+    "JS_ADDED_TO_QUEUE": "Añadido a la cola. Todos los elementos serán eliminados"
+  }
+}

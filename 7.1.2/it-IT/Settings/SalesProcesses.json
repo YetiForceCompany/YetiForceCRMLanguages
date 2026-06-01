@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "Vendite",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limita la selezione di prodotti \/ servizi a quelli presenti nell'opportunità: la limitazione è valida per richieste di preventivo, requisiti di vendita, còmputi, preventivi, ordini di vendita e ordini di vendita periodici",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "Limiti su prodotti \/ servizi",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "Aggiorna i permessi di condivisione dal prodotto\/servizio in opportunità quando viene creata una relazione tra opportunità e prodotto\/servizio.",
+    "LBL_STATUSES_CLOSED_CALCULATION": "Stati che definiscono il còmputo come chiuso",
+    "LBL_POTENTIALS": "Opportunità",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "Stati che definiscono l'opportunità come chiusa",
+    "LBL_ASSETS": "Risorse cedute",
+    "LBL_STATUSES_CLOSED_ASSETS": "Stati che definiscono la risorsa ceduta come chiusa",
+    "LBL_CREATE_POTENTIALS": "Blocca la creazione di opportunità per le aziende non assegnate a un utente",
+    "SalesProcesses": "Processi di vendita",
+    "LBL_SQUOTEENQUIRIES": "Richieste di preventivo",
+    "LBL_SREQUIREMENTSCARD": "Requisiti di vendita",
+    "LBL_SCALCULATIONS": "Còmputi",
+    "LBL_SQUOTES": "Preventivi",
+    "LBL_SSALESORDER": "Ordini di vendita",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "Stati che definiscono l'ordine di vendita come chiuso",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Stati che definiscono la richiesta di preventivo come chiusa",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Stati che definiscono i requisiti di vendita come chiuso",
+    "LBL_STATUSES_CLOSED_SQUOTES": "Stati che definiscono il preventivo come chiuso"
+  }
+}

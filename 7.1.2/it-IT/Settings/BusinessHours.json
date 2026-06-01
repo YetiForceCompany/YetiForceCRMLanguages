@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Ore Lavorative",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Ore lavorative è un modulo in cui puoi impostare l'orario di lavoro del tuo team.",
+    "LBL_WORKING_HOURS_FROM": "Da",
+    "LBL_WORKING_HOURS_TO": "A",
+    "LBL_WORKING_DAYS": "Giorni lavorativi",
+    "LBL_WORKING_HOURS": "Ore di lavoro",
+    "LBL_DEFAULT": "Predefinito",
+    "LBL_NAME": "Nome",
+    "LBL_HOLIDAYS": "Festività",
+    "LBL_EDIT_BUSINESS_HOURS": "Modifica orario di lavoro",
+    "LBL_ADD_BUSINESS_HOURS": "Aggiungi ore di lavoro",
+    "LBL_DEFAULT_TIMES": "Orari predefiniti",
+    "LBL_DEFAULT_REACTION_TIME": "Tempo di risposta/reazione predefinito",
+    "LBL_DEFAULT_IDLE_TIME": "Tempo di inattività predefinito",
+    "LBL_DEFAULT_RESOLVE_TIME": "Tempo di risoluzione predefinito",
+    "LBL_HOLIDAYS_LINK": "Vai alle impostazioni vacanze/festività",
+    "LBL_HOLIDAYS_INFO": "Spuntare 'Vacanze', farà sì che queste vengano omesse calcolando l'Orario lavorativo."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Sei sicuro di voler eliminare questo inserimento?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Sei pregato di selezionare almeno un giorno lavorativo."
+  }
+}

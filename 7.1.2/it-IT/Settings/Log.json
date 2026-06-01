@@ -1,0 +1,31 @@
+{
+  "php": {
+    "LBL_LOGS_DESC": "Mostra la lista di eventuali accessi illeciti",
+    "LBL_ACCESS_FOR_ADMIN": "Accessi amministratore",
+    "LBL_ACCESS_FOR_API": "Accessi web service (API)",
+    "LBL_ACCESS_FOR_USER": "Accessi utente",
+    "LBL_ACCESS_TO_RECORD": "Accessi ai record",
+    "LBL_CSRF": "CSRF",
+    "LBL_USERNAME": "Utente",
+    "LBL_DATE": "Data",
+    "LBL_IP": "IP",
+    "LBL_RECORD": "Identificativo record",
+    "LBL_MODULE": "Modulo",
+    "LBL_URL": "URL",
+    "LBL_AGENT": "Agent",
+    "LBL_REQUEST": "Richiesta",
+    "LBL_TIME": "Ora",
+    "LBL_CATEGORY": "Categoria",
+    "LBL_CODE": "Codice",
+    "LBL_BASE_USER": "Utente base",
+    "LBL_DEST_USER": "Utente destinatario",
+    "LBL_MAILS_NOT_SENT": "E-mail non inviate",
+    "LBL_BATCH_NAME": "Nome metodo",
+    "LBL_PARAMS": "Parametri",
+    "LBL_PROFILING": "Profilazione",
+    "LBL_DURATION": "Durata",
+    "LBL_LOGS_VIEWER": "Visualizzatore log",
+    "LBL_LOGS_VIEWER_DESCRIPTION": "",
+    "LBL_REFERER": "Referrer"
+  }
+}

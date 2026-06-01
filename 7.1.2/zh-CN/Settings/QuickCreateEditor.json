@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "快速创建编辑器",
+    "LBL_QUICK_CREATE_EDITOR": "快速创建字段设置",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "“快速创建”中的字段布局可以更改",
+    "LBL_SEQUENCE": "字段顺序",
+    "LBL_SAVE_FIELD_SEQUENCE": "保存字段顺序"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "字段顺序已更新"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "名前",
+    "LBL_TYPE": "タイプ",
+    "LBL_DEFAULT": "デフォルト",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "LBL_CREATE_RECORD": "電話交換を追加",
+    "LBL_EDIT_RECORD": "電話交換を編集",
+    "LBL_URL": "サーバーアドレス",
+    "LBL_USERNAME": "ログイン",
+    "LBL_PASSWORD": "パスワード",
+    "LBL_SECRET_KEY": "Secret Key",
+    "LBL_OUTBOUND_CONTEXT": "Outbound context",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "デフォルト",
+    "LBL_PBX_BASE": "Base (default in browser)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Changes saved"
+  }
+}

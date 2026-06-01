@@ -1,0 +1,37 @@
+{
+  "php": {
+    "Users": "ユーザー",
+    "USER_MAIL_EXIST": "このメールアドレスのユーザーはすでに登録済みです",
+    "LBL_PRIORITY": "優先度",
+    "LBL_LDAP_RECOMMENDED_INFO": "LDAP認証のために管理者権限を持つユーザーを選択することはお勧めしません。 認証の問題が発生した場合は、LDAP統合なしでログインできるユーザーが必要です。",
+    "LBL_LDAP_AUTH": "LDAP",
+    "LBL_ACTIVE_LDAP_AUTH": "LDAP による認証",
+    "LBL_LDAP_SERVER": "サーバーアドレス",
+    "LBL_LDAP_PORT": "ポート",
+    "LBL_SAVE_CONFIG": "設定が保存されました",
+    "LBL_LDAP_DOMAIN": "ドメイン (ログインに自動的に追加)",
+    "LBL_VIEW_AUTH": "承認",
+    "LBL_SWITCH_USERS": "ユーザーの切り替え",
+    "LBL_SWITCH_USERS_DESCRIPTION": "システム内のユーザーを切り替えることができるツール。",
+    "LBL_SU_BASE_ACCESS": "ユーザー",
+    "LBL_SU_AVAILABLE_ACCESS": "ログイン許可",
+    "LBL_LOCKS": "ロック",
+    "LBL_LOCKS_DESCRIPTION": "ブラウザーのアクションをブロックするツール (コピー、カットなど)",
+    "LBL_LOCK_COPY": "コピーをロック",
+    "LBL_LOCK_CUT": "切断をロック",
+    "LBL_LOCK_PASTE": "貼り付けをロック",
+    "LBL_LOCK_RIGHT_MENU": "マウスの右ボタン",
+    "LBL_LOCK_SELECT_TEXT": "ロックの選択",
+    "LBL_LOCK_DRAG": "ドラッグをロック",
+    "LBL_SSO_AZURE_ACTIVE": "Authentication with Azure AD",
+    "LBL_SSO": "Single sign-on",
+    "LBL_SSO_AZURE_TENANT_ID": "Tenant ID",
+    "LBL_SSO_AZURE_CLIENT_ID": "Client ID",
+    "LBL_SSO_AZURE_CLIENT_SECRET": "Client secret"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_MODULE": "モジュールを選択してください",
+    "JS_DECIMAL_SEPARATOR_AND_GROUPING_SEPARATOR_CANT_BE_SAME": "小数点とグループ化区切りは同じにはできません",
+    "Changed password successfully": "パスワードを変更しました"
+  }
+}

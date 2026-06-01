@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Search Configuration": "Cấu hình tìm kiếm",
+    "Search Setup": "Nhãn và tìm kiếm",
+    "Search": "Cấu hình tìm kiếm",
+    "LBL_Module_desc": "This panel allows for setting labels for uitype 10 fields and for search mechanisms. These mechanisms work independently – you can see many columns in a field while searching, but when you select a record, a name from a label will be loaded.",
+    "Module": "Mô-đun",
+    "Table": "Bảng",
+    "LabelFields": "Các cột chính cho mô-đun (bao gồm 1 nhãn cho 10 uitype)",
+    "SearchFields": "Các cột cơ chế tìm kiếm",
+    "Tools": "Hành động",
+    "Update labels": "Cập nhật nhãn",
+    "LBL_SAVE_CHANGES_SEARCHING": "Thay đổi đã được lưu.",
+    "LBL_SAVE_CHANGES_LABLE": "Changes in configuration have been saved, you have to update this mô-đun to see the changes within the system.",
+    "Update has been completed": "Selected mô-đun updated successfully. Changes will be realized via CRON. Label update time depends on the amount of data.",
+    "LBL_SAVE_MODULE_SEQUENCE": "Lưu trình tự các mô đun",
+    "LBL_TURN_ON": "Bật",
+    "LBL_TURN_OFF": "Tắt"
+  },
+  "js": {
+    "Saving changes": "Đang cập nhật…",
+    "Update labels": "Cập nhật",
+    "JS_MODULES_SEQUENCE_UPDATED": "Trình tự các mô-đun đã được cập nhật",
+    "JS_TURN_ON": "Bật",
+    "JS_TURN_OFF": "Tắt"
+  }
+}

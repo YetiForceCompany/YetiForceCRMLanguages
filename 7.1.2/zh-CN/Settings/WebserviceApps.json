@@ -1,0 +1,28 @@
+{
+  "php": {
+    "WebserviceApps": "网络服务-应用程序",
+    "LBL_APP_NAME": "名称",
+    "LBL_PUBLIC_URL": "公共网址地址",
+    "LBL_PUBLIC_URL_INFO": "此网址用来发送电子邮件通知且其可能在内容中使用该网址，即客户门户的密码重置，预览客户门户记录的连接",
+    "LBL_ALLOWED_IPS": "允许的 IP",
+    "LBL_ALLOWED_IPS_INFO": "空值 - 从所有服务器访问。\n如果输入了 IP 地址（小数点后），则访问的 API 只可从这些 IP 地址中选择。\n例如：",
+    "LBL_TYPE_SERVER": "类型",
+    "LBL_API_KEY": "秘钥",
+    "LBL_ADD_APPLICATION": "添加秘钥",
+    "LBL_WEBSERVICE_APPS": "网络服务-应用程序",
+    "LBL_WEBSERVICE_APPS_DESCRIPTION": "创建和管理通过 API 集成的应用程序密钥。",
+    "LBL_MODAL_ALERT": "应该在每个 API 请求的头部输入访问数据。",
+    "Mail": "邮件",
+    "LBL_PASS": "密码",
+    "LBL_TITLE_ADDED": "添加",
+    "LBL_TITLE_EDIT": "编辑",
+    "WebservicePremium": "网络服务高级版",
+    "WebserviceStandard": "网页服务标准版",
+    "Payments": "付款",
+    "ManageConsents": "管理同意",
+    "SMS": "SMS"
+  },
+  "js": {
+    "JS_DELETE_CONFIRMATION": "您确定您要删除秘钥吗？?"
+  }
+}

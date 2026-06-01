@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "Kjørebok",
+    "SINGLE_CMileageLogbook": "Kjørebok",
+    "LBL_ADDITIONAL_INFORMATION": "Tilleggsinformasjon",
+    "LBL_BASIC_INFORMATION": "Grunninformasjon",
+    "LBL_DESCRIPTION_BLOCK": "Beskrivelse",
+    "LBL_ATTENTION_BLOCK": "Notater",
+    "FL_SUBJECT": "Emne",
+    "FL_STATUS": "Status",
+    "FL_NUMBER_KILOMETERS": "Antall kilometer",
+    "PLL_DRAFT": "Utkast",
+    "PLL_FOR_APPROVAL": "Til godkjenning",
+    "PLL_ACCEPTED": "Godkjent",
+    "PLL_CANCELLED": "Kansellert"
+  }
+}

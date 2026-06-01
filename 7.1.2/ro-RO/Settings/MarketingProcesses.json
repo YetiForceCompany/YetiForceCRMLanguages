@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_CONVERSION": "Conversie",
+    "LBL_CONVERSION_TO_ACCOUNT": "Modifica Repartizat la",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "Când această opțiune este bifată, un utilizator care convertește Oportunitatea la Organizație devine atribuit acestuia către",
+    "LBL_LEADS": "Oportunități",
+    "LBL_INFO": "Informație",
+    "LBL_VALUES": "Valori",
+    "LBL_GROUPS_INFO": "Grupuri fără atribute la",
+    "LBL_LEAD_STATUS": "Statusuri care indica sfârșitul activității de conversie a oportunității",
+    "LBL_LEAD_CONVERT_STATUS": "Statusuri care permit conversia din Oportunitățile în Client",
+    "LBL_CONVERT_LEAD_MERGE": "Conectează cerințele de întâlnire specificate în timpul conversiei din oportunitate la client",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "Această opțiune permite sistemului să conecteze automat înregistrările convertite cu una deja existentă - noul Cont nu va fi creat, în schimb, toate datele de înregistrare existente vor fi transferate din Oportunitate",
+    "LBL_CONDITION": "Adaugă condiție",
+    "MarketingProcesses": "Procese de marketing"
+  },
+  "js": {
+    "JS_NO_CONDITIONS": "Cel puțin o condiție este necesară"
+  }
+}

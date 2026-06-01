@@ -1,0 +1,12 @@
+{
+  "php": {
+    "CustomView": "Filteri - Konfiguracija",
+    "LBL_FEATURED": "Dodaj u favorite",
+    "LBL_COLOR_VIEW": "Boja pogleda",
+    "LBL_ADD_FIELD": "Dodaj polje",
+    "LBL_CUSTOM_RELATION_COLUMN": "Odnos kao prilagođena kolona",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtriranje kao dodatna kolona na listi zapisa. Filtrira se na osnovu unosa koji se nalazi u povezanim zapisima. ",
+    "LBL_CUSTOM_CONDITIONS": "Uslovi za filtriranje povezanih zapisa",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtrirajte trenutnu listu zapisa na osnovu odnosa i povezanih zapisa koji ispunjavaju određene kriterije.\nNeuspjeh postavljanja uvjeta rezultira prikazivanjem lista zapisa sa najmanje jednom relacijom."
+  }
+}

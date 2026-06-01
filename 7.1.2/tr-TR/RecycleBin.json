@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Çöp kutusunu boşalt",
+    "RecycleBin": "Çöp kutusu"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Toplu sil",
+    "JS_MASS_ACTIVATE": "Toplu aktif et",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Tüm kayıtları çöp kutusundan sil",
+    "JS_ACTIVATE_RECORD_DESC": "Bir kaydın etkinleştirilmesi, bilgilerin geri kalanını değiştirmeden yalnızca kaydın durumunu değiştirir. Kaydı etkinleştirmek istediğinizden emin misiniz?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Bir kaydın silinmesi kalıcıdır ve tüm kayıt bilgileri için geri alınamaz. Kaydı silmek istediğinizden emin misiniz?",
+    "JS_ADDED_TO_QUEUE": "Sıraya eklendi, tüm öğeler silinecek"
+  }
+}

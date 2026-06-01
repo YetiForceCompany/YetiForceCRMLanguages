@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "자주 묻는 질문들(FAQ)",
+    "SINGLE_Faq": "자주 묻는 질문(FAQ)",
+    "Draft": "초안",
+    "FL_SUBJECT": "제목",
+    "FL_CONTENT": "내용",
+    "FL_CATEGORY": "분류",
+    "FL_ACCOUNT": "계정",
+    "FL_VIEWS": "보기",
+    "PLL_PAGE": "페이지",
+    "PLL_PRESENTATION": "프레젠테이션",
+    "LBL_VIEW_KNOWLEDGE_BASE": "지식창고",
+    "LBL_PREVIOUS": "이전",
+    "LBL_NEXT": "다음",
+    "FL_STATUS": "상태",
+    "LBL_ARTICLE": "게시글",
+    "FL_FEATURED": "주요점",
+    "LBL_RELATED_FAQ": "관련 항목",
+    "FL_INTRODUCTION": "소개",
+    "Faq No": "FAQ 번호",
+    "General": "일반 정보",
+    "LBL_FAQ_INFORMATION": "FAQ 정보",
+    "LBL_RECORDS_LIST": "FAQ 목록",
+    "Obsolete": "오래됨",
+    "Published": "게시됨",
+    "Question": "질문"
+  }
+}

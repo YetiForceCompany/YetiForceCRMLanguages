@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_BACKUP_MANAGER": "Gestionare backup",
+    "LBL_BACKUP_MANAGER_DESCRIPTION": "Gestionează fișierele de backup",
+    "LBL_DOWNLOAD": "Descarcă",
+    "LBL_FILE_NAME": "Nume fișier",
+    "LBL_FILE_SIZE": "Dimensiune fișier",
+    "LBL_FILE_DATE": "Data modificării",
+    "LBL_BACKUP_LIST": "Listă de backup",
+    "ERR_CONFIG_ALERT_TITLE": "Gestionarea backup-ului este dezactivată",
+    "ERR_CONFIG_ALERT_DESC": "Setați calea corespunzătoare în variabila BACKUP_PATH din fișierul de configurare [config\/Components\/Backup.php] pentru a o activa.",
+    "ERR_CONFIG_PATH_ALERT_DESC": "Sistemul nu poate accesa directorul de backup specificat. Vă rugăm să verificați dacă permisiunile și calea acordate sunt corecte."
+  },
+  "js": {}
+}

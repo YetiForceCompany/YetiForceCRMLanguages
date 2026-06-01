@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "ثبت حادثه",
+    "SINGLE_IncidentRegister": "ثبت حادثه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "FL_NAME": "نام",
+    "FL_LOCATION_REGISTER": "ثبت مکان",
+    "FL_DATASETREGISTER": "ثبت مجموعه داده‌ها",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_WAITING_FOR_ACCEPTANCE": "در انتظار برای پذیرش",
+    "PLL_IN_REALIZATION": "در مرحله تحقق",
+    "PLL_COMPLETED": "کامل شده",
+    "PLL_CANCELLED": "لغو شده",
+    "FL_STATUS": "وضعیت",
+    "FL_TYPE": "نوع",
+    "PLL_INTERNAL": "داخلی",
+    "PLL_EXTERNAL": "خارجی",
+    "LBL_INCIDENT_DATES": "تاریخ‌های حادثه",
+    "FL_INCIDENT_DATE": "تاریخ حادثه",
+    "FL_INCIDENT_DISCOVERY": "تاریخ کشف حادثه",
+    "FL_INCIDENT_REPORT_DATE": " تاریخ گزارش حادثه",
+    "FL_INCIDENT_PUBLICATION_DATE": "تاریخ انتشار حادثه",
+    "FL_PEOPLE_NUMBER": "تعداد افراد",
+    "LBL_BREACH_CIRCUMSTANCES": "نقض شرایط",
+    "FL_BREACH_CIRCUMSTANCES": "نقض شرایط",
+    "LBL_NATURE_OF_BREACH": "طبیعت نقض",
+    "FL_NATURE_OF_BREACH": "طبیعت نقض",
+    "LBL_POSSIBLE_CONSEQUENCES": "عواقب محتمل",
+    "FL_POSSIBLE_CONSEQUENCES": "عواقب محتمل",
+    "LBL_SECURITY_MEASURES": "اقدامات امنیتی اعمال شده",
+    "FL_SECURITY_MEASURES": "اقدامات امنیتی اعمال شده"
+  }
+}

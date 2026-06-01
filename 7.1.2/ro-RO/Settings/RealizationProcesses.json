@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Proiect",
+    "LBL_INFO": "Informație",
+    "LBL_TYPE": "Status",
+    "LBL_PROJECT": "Proiect",
+    "LBL_PROJECT_STATUS_INFO": "Status care determina daca proiectul este închis",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Status care determina daca etapa este închisă",
+    "LBL_PROJECTTASK_STATUS_INFO": "Status care determina daca sarcina este închisă",
+    "LBL_SAVE_CONFIG_OK": "Modificare salvată cu succes.",
+    "LBL_SAVE_CONFIG_ERROR": "Salvarea modificărilor nu a reușit.",
+    "RealizationProcesses": "Procese de realizări"
+  },
+  "js": {}
+}

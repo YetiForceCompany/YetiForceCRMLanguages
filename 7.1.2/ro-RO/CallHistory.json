@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Istoric apeluri",
+    "SINGLE_CallHistory": "Istoric apel telefonic",
+    "LBL_CALLHISTORY_INFORMATION": "Informații istoric apel",
+    "LBL_CUSTOM_INFORMATION": "Informații adiționale",
+    "LBL_PHONE_INFORMATION": "Informații telefon",
+    "LBL_RELATED_INFORMATION": "Informații asociate",
+    "LBL_TYPE": "Tip",
+    "LBL_FROM_NUMBER": "De La numărul",
+    "LBL_TO_NUMBER": "Către numărul",
+    "LBL_LOCATION": "Locație",
+    "LBL_PHONE_CALL_ID": "ID apel pe telefon",
+    "LBL_DURATION": "Durata apel telefonic",
+    "LBL_STATUS": "Statut",
+    "LBL_START_TIME": "Apel pornit",
+    "LBL_END_TIME": "Apel terminat",
+    "LBL_COUNTRY_CODE": "Prefix de țară",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "Adresă IP",
+    "LBL_SIMSERIAL": "Număr SIM",
+    "LBL_SUBSCRIBERID": "Număr abonat",
+    "LBL_DESTINATION": "Unde a sunat",
+    "LBL_SOURCE": "Sursa apel",
+    "Record Id": "Id înregistrare",
+    "Outgoing missed": "Ieșire ratată",
+    "Outgoing received": "Ieșiri recepționate",
+    "Incoming": "Intrări recepționate",
+    "Missed": "Intrări ratate",
+    "Voicemail": "Intrări căsuță vocală"
+  }
+}

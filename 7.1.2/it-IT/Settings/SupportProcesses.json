@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_SUPPORT_PROCESSES": "Supporto",
+    "LBL_GENERAL_CONFIGURATION": "Impostazioni generali",
+    "LBL_OTHER": "Altro",
+    "LBL_INFO": "Opzione",
+    "LBL_TYPE": "Impostazione",
+    "LBL_TICKET_STATUS_INFO": "Stati che definiscono il ticket come chiuso",
+    "LBL_SAVE_CONFIG_OK": "Modifiche salvate",
+    "LBL_SAVE_CONFIG_ERROR": "Impossibile salvare",
+    "SupportProcesses": "Processi di supporto"
+  },
+  "js": {}
+}

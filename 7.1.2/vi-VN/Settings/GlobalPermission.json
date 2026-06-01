@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Access to record": "Truy cập vào hồ sơ",
+    "GlobalPermission": "Truy cập đặc biệt",
+    "LBL_Module_desc": "Tại đây bạn có thể định nghĩa cấu hình sơ đã truy cập tất cả các hồ sơ bất kể vai trò nào.",
+    "LBL_PROFILE_NAME": "Tên hồ sơ",
+    "LBL_DESCRIPTION": "Chi tiết hồ sơ",
+    "LBL_VIEW_ALL_DESC": "Nếu bạn đánh dấu tuỳ chọn này, mọi hồ sơ sẽ có tuỳ chọn đánh dấu: Browsing",
+    "LBL_VIEW_ALL": "Mở xem trước mọi hồ sơ",
+    "LBL_EDIT_ALL_DESC": "Nếu bạn đánh dấu truỳ chọn này, toàn bộ mô-đun sẽ phải tuỳ chọn đánh dấu: Tạo\/Sửa.",
+    "LBL_EDIT_ALL": "Bật chỉnh sửa mọi hồ sơ",
+    "LBL_SAVE_OK": "Thay đổi đã lưu"
+  }
+}

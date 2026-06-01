@@ -1,0 +1,22 @@
+{
+  "php": {
+    "ISTN": "ストレージターノバーノート",
+    "SINGLE_ISTN": "ストレージターノバーノート",
+    "LBL_DESCRIPTION_BLOCK": "説明",
+    "LBL_ATTENTION_BLOCK": "コメント",
+    "FL_ESTIMATED_DATE": "予想終了日",
+    "FL_SUBJECT": "件名",
+    "FL_NUMBER": "番号",
+    "FL_STATUS": "状態",
+    "PLL_DRAFT": "下書き",
+    "PLL_IN_REALIZATION": "実現",
+    "PLL_OBJECTIONS": "異議あり",
+    "PLL_FOR_APPROVAL": "承認する",
+    "PLL_CANCELLED": "キャンセルしました",
+    "PLL_ACCEPTED": "承認済み",
+    "PLL_RECEIVED": "受信済み",
+    "PLL_TRANSFER": "転送",
+    "PLL_DISPATCHED": "送信済み",
+    "FL_TYPE": "タイプ"
+  }
+}

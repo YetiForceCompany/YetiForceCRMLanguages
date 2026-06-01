@@ -1,0 +1,26 @@
+{
+  "php": {
+    "SVendorEnquiries": "Szállítói ajánlatkérések",
+    "SINGLE_SVendorEnquiries": "Szállítói ajánlatkérés",
+    "LBL_SCALCULATIONS_INFORMATION": "Alap információk",
+    "LBL_CUSTOM_INFORMATION": "Rendszerinformáció",
+    "LBL_DESCRIPTION_INFORMATION": "Leírás részletek",
+    "LBL_STATISTICS": "Statisztikák",
+    "LBL_SUBJECT": "Tárgy",
+    "LBL_NUMBER": "Sorszám",
+    "LBL_CLOSED_TIME": "Zárás ideje",
+    "LBL_STATUS": "Állapot",
+    "SINGLE_SSalesProcesses": "Lehetőség",
+    "FL_TOTAL_PRICE": "Nettó összesen",
+    "FL_MARGINP": "Teljes haszon %",
+    "FL_MARGIN": "Teljes haszon",
+    "FL_VENDOR": "Beszállító",
+    "FL_SCALCULATIONS": "Kalkuláció",
+    "PLL_DRAFT": "Vázlat",
+    "PLL_IN_REALIZATION": "Megvalósulás alatt",
+    "PLL_FOR_VERIFICATION": "Ellenőrzésre",
+    "PLL_CANCELLED": "Megszakítva",
+    "PLL_COMPLETED": "Teljesítve",
+    "LBL_CHANGE_STATUS": "Állapot módosítása"
+  }
+}

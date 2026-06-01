@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webservices",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Wijzigen wachtwoord mislukt",
+    "LBL_DATABASE_QUERY_ERROR": "Database fout opgetreden tijdens het uitvoeren van de aangevraagde bewerking",
+    "LBL_INVALID_OLD_PASSWORD": "Ongeldige waarde opgegeven voor het oude wachtwoord.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Nieuw wachtwoord en bevestig wachtwoord komen niet overeen"
+  }
+}

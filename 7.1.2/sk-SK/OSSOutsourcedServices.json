@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Outsourcované služby",
+    "SINGLE_OSSOutsourcedServices": "Outsourcovaná služba",
+    "LBL_INFORMATION": "Information block",
+    "Assigned To": "Priradené k",
+    "LBL_osservicesstatus": "Stav",
+    "Individual Agreement": "Individual agreement",
+    "In service": "Is supported",
+    "Finished support": "Support terminated",
+    "Product Name": "Názov služby",
+    "Sub Category": "Subcategory",
+    "Category": "Kategória",
+    "Date Sold": "Date of sale",
+    "Date in Service": "Support termination date",
+    "Description": "Popis",
+    "LBL_DESCRIPTION_INFORMATION": "Descriptive information",
+    "LBL_CUSTOM_INFORMATION": "Systémové informácie",
+    "Where bought": "Where bought",
+    "Number": "Number",
+    "Save": "Uložiť",
+    "LBL_GENERATE_EXTENSION": "Vygenerovať rozšírenie",
+    "Selling proposition": "Opportunity",
+    "Active": "Aktívny",
+    "Inactive": "Neaktívny"
+  }
+}

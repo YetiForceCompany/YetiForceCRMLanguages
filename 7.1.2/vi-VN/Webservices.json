@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Dịch Vụ Web",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Thất bại trong việc thay đổi mật khẩu",
+    "LBL_DATABASE_QUERY_ERROR": "Lỗi cơ sở dữ liệu trong khi thực hiện hoạt động yêu cầu",
+    "LBL_INVALID_OLD_PASSWORD": "Giá trị không hợp lệ cho cho mật khẩu cũ.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Mật khẩu mới và xác nhận mật khẩu không phù hợp"
+  }
+}

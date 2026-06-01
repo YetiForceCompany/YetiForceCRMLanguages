@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "お知らせ",
+    "SINGLE_Announcements": "お知らせ",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "基本情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "番号",
+    "FL_STATUS": "状態",
+    "FL_INTERVAL": "通知の時間",
+    "FL_IS_MANDATORY": "受け入れるべき義務",
+    "PLL_DRAFT": "下書き",
+    "PLL_FOR_ACCEPTANCE": "承認する",
+    "PLL_PUBLISHED": "公開済み",
+    "PLL_ARCHIVES": "アーカイブ済み",
+    "LBL_REMIND_ME_LATER": "後で再通知する",
+    "LBL_MARK_AS_READ": "既読にする",
+    "LBL_ACCEPT_ANNOUNCEMENT": "承認されましたか？",
+    "LBL_DATE": "既読："
+  }
+}

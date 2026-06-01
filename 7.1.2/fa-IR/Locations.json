@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "مکان‌ها",
+    "SINGLE_Locations": "مکان",
+    "LBL_LOCATIONS_INFORMATION": "اطلاعات اولیه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سامانه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزئیات",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_NUMBER": "شماره",
+    "LBL_CLOSED_TIME": "زمان بسته شدن",
+    "FL_PHONE": "تلفن",
+    "FL_CAPACITY": "ظرفیت",
+    "FL_COORDINATES": "مختصات"
+  }
+}

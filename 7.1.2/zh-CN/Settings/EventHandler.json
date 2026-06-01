@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EventHandler": "事件处理器",
+    "LBL_EVENT_HANDLER": "事件处理器",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "事件名称",
+    "LBL_EVENT_DESC": "事件描述",
+    "LBL_INCLUDE_MODULES": "包含模块",
+    "LBL_EXCLUDE_MODULES": "排除模块",
+    "LBL_EVENT_IS_ACTIVE": "已激活",
+    "LBL_EDIT_VIEW_PRESAVE": "保存记录前验证",
+    "LBL_ENTITY_CHANGE_STATE": "更改状态",
+    "LBL_ENTITY_BEFORE_SAVE": "保存之前",
+    "LBL_ENTITY_AFTER_SAVE": "保存之后",
+    "LBL_DETAIL_VIEW_BEFORE": "详情视图",
+    "LBL_EDIT_VIEW_BEFORE": "编辑视图",
+    "LBL_EDIT_VIEW_DUPLICATE": "编辑视图（复制）",
+    "LBL_INVENTORY_RECORD_DETAILS": "正在为库存加载数据"
+  }
+}

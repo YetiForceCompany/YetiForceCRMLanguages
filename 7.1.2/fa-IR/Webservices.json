@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "وب سرویس",
+    "LBL_CHANGE_PASSWORD_FAILURE": "تغییر گذرواژه ناموفق بود",
+    "LBL_DATABASE_QUERY_ERROR": "خطا در پایگاه داده در هنگام اجرای عملیات درخواست شده",
+    "LBL_INVALID_OLD_PASSWORD": "گذرواژه قدیمی نامعتبر می‌باشد.",
+    "LBL_NEW_PASSWORD_MISMATCH": "گذرواژه جدید و تکرار آن مطابقت ندارد"
+  }
+}

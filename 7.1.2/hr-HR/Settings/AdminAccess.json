@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Admin pristup",
+    "LBL_ADMIN_ACCESS": "Admin pristup",
+    "LBL_PERMISSIONS": "Dozvole",
+    "BTN_MASS_EDIT_ACCESS": "Masovno uređivanje",
+    "FL_MODULE_NAME": "Naziv modula",
+    "LBL_ACTIVE": "Aktivan",
+    "LBL_EDIT_ADMIN_ACCESS": "Uređivanje administratorskih pristupa",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Svrha posjeta",
+    "FL_DATE_TIME": "Datum",
+    "FL_PURPOSE": "Svrha",
+    "FL_USER": "Korisnik",
+    "FL_BASE_USER": "Osnovni korisnik",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Ask for the logging in purpose",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Do you want to activate the visit purpose window for administrators when they log into the system?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Ask for the switching users purpose",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Do you want to activate the visit purpose window for administrators when switch users in the system?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Promjene su spremljene"
+  }
+}

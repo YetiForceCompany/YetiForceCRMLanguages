@@ -1,0 +1,12 @@
+{
+  "php": {
+    "CustomView": "Configuration - Filtres",
+    "LBL_FEATURED": "Ajouter aux favoris",
+    "LBL_COLOR_VIEW": "Couleur de la vue",
+    "LBL_ADD_FIELD": "Ajouter un champ",
+    "LBL_CUSTOM_RELATION_COLUMN": "Relationship as a custom column",
+    "LBL_CUSTOM_RELATION_COLUMN_DESC": "Filtrage en tant que colonne supplémentaire dans la liste des enregistrements. Filtré sur la base de l'entrée trouvée dans les enregistrements liés. ",
+    "LBL_CUSTOM_CONDITIONS": "Conditions de filtrage des enregistrements liés",
+    "LBL_CUSTOM_CONDITIONS_DESC": "Filtrer la liste actuelle des enregistrements en fonction des relations et des enregistrements associés qui répondent aux critères spécifiés.\nNe pas définir de conditions entraîne l'affichage de listes d'enregistrements avec au moins une relation."
+  }
+}

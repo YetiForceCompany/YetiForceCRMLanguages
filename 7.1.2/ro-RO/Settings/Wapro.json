@@ -1,0 +1,25 @@
+{
+  "php": {
+    "Wapro": "Wapro ERP",
+    "LBL_WAPRO_ERP": "Wapro ERP",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integrare cu sistemul Asseco Wapro ERP",
+    "LBL_SYNCHRONIZER_LIST": "Lista de elemente pentru sincronizare",
+    "FL_NAME": "Nume",
+    "FL_STATUS": "Status",
+    "FL_SERVER": "Server",
+    "FL_PORT": "Port",
+    "FL_DATABASE": "Nume bază de date",
+    "FL_USERNAME": "Utilizator",
+    "FL_PASSWORD": "Parolă",
+    "LBL_NUMBER_OF_ENTRIES": "Număr intrări",
+    "LBL_MULTI_COMPANY": "Departamente/Companie (numai în citire)",
+    "LBL_COMPANY_BANK_ACCOUNTS": "Conturi bancare ale firmei (numai în citire)",
+    "LBL_ACCOUNTS": "Conturi (numai în citire)",
+    "LBL_CONTACTS": "Contacte (doar citire)",
+    "LBL_PRODUCTS": "Produse (numai citire)",
+    "LBL_INVOICE": "Facturi (numai citire)",
+    "LBL_CORRECTING_INVOICE": "Facturi de corecție (numai citire)",
+    "LBL_LOGS_VIEWER": "Vizualizare jurnal",
+    "LBL_SAVE_AND_VERIFY": "Salvează și verifică"
+  }
+}

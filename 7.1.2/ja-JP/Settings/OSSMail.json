@@ -1,0 +1,8 @@
+{
+  "php": {
+    "OSSMail": "メールボックス",
+    "LBL_OSSMAIL": "Mail – RoundCube",
+    "ERR_NO_MODULE_IS_INACTIVE": "「メールボックス」モジュールが非アクティブで、設定の前に有効にする必要があります。"
+  },
+  "js": {}
+}

@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "Zdroje RSS informačných kanálov",
+    "LBL_ADD_FEED_SOURCE": "Pridať zdroj informačného kanála",
+    "LBL_FEEDS_LIST_FROM": "Zoznam informačných kanálov z",
+    "LBL_SET_AS_DEFAULT": "Nastaviť ako predvolené",
+    "LBL_SENDER": "Odosielateľ",
+    "LBL_FEED_SOURCE": "Zdroj informačného kanála",
+    "LBL_ENTER_FEED_SOURCE": "Vložiť zdroj informačného kanála",
+    "SINGLE_Rss": "RSS informačný kanál",
+    "LBL_CHANGE_RSS_CHANNEL": "Zmeniť RSS kanál"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "RSS úspešne uložená",
+    "JS_INVALID_RSS_URL": "Neplatná URL pre RSS",
+    "JS_RSS_MADE_AS_DEFAULT": "RSS nastavené ako predvolené"
+  }
+}

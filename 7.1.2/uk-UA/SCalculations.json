@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SCalculations": "Розрахунки",
+    "SINGLE_SCalculations": "Розрахунок",
+    "LBL_SCALCULATIONS_INFORMATION": "Основна інформація",
+    "LBL_CUSTOM_INFORMATION": "Додаткова інформація",
+    "LBL_DESCRIPTION_INFORMATION": "Опис",
+    "LBL_STATISTICS": "Статистика",
+    "LBL_SUBJECT": "Тема",
+    "LBL_NUMBER": "Номер",
+    "LBL_CLOSED_TIME": "Час закриття",
+    "LBL_STATUS": "Статус",
+    "SINGLE_SSalesProcesses": "Угода",
+    "FL_TOTAL_PRICE": "Разом",
+    "FL_MARGINP": "Прибуток %",
+    "FL_MARGIN": "Прибуток",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "Обробка",
+    "PLL_FOR_VERIFICATION": "На перевірці",
+    "PLL_CANCELLED": "Скасований",
+    "PLL_COMPLETED": "Завершений",
+    "LBL_CHANGE_STATUS": "Змінити статус",
+    "FL_PARENT_SCALCULATIONS": "Первинний розрахунок"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "Платежи",
+    "LBL_RIGHT_CLICK_COPY": "Щелкните правой кнопкой мыши и скопируйте"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "Удалено успешно",
+    "JS_SAVED_SUCCESSFULLY": "Сохранено успешно"
+  }
+}

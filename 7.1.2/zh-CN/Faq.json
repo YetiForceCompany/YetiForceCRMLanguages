@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "常见问题",
+    "SINGLE_Faq": "常见问题",
+    "Draft": "草稿",
+    "FL_SUBJECT": "标题",
+    "FL_CONTENT": "内容",
+    "FL_CATEGORY": "分类",
+    "FL_ACCOUNT": "客户",
+    "FL_VIEWS": "视图",
+    "PLL_PAGE": "页面",
+    "PLL_PRESENTATION": "演示文稿",
+    "LBL_VIEW_KNOWLEDGE_BASE": "知识库",
+    "LBL_PREVIOUS": "上一步",
+    "LBL_NEXT": "下一步",
+    "FL_STATUS": "状态",
+    "LBL_ARTICLE": "文章",
+    "FL_FEATURED": "精选",
+    "LBL_RELATED_FAQ": "相关条目",
+    "FL_INTRODUCTION": "介绍",
+    "Faq No": "常见问题编号",
+    "General": "常规",
+    "LBL_FAQ_INFORMATION": "常见问题详情",
+    "LBL_RECORDS_LIST": "模块列表",
+    "Obsolete": "已过期",
+    "Published": "已发布",
+    "Question": "问题"
+  }
+}

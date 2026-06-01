@@ -1,0 +1,19 @@
+{
+  "php": {
+    "FieldsDependency": "Abhängige Felder",
+    "LBL_FIELDS_DEPENDENCY": "Abhängige Felder",
+    "LBL_FIELDS_DEPENDENCY_DESCRIPTION": "Konfiguration dynamischer Felder und Blöcke je nach Kriterien",
+    "LBL_NAME": "Abhängiger Name",
+    "LBL_EDIT": "Abhängigkeit bearbeiten",
+    "LBL_CREATE": "Neue Abhängigkeit erstellen",
+    "LBL_SOURCE_MODULE": "Modulname",
+    "LBL_VIEWS": "Ansichten",
+    "LBL_VIEWS_INFO": "Liste der Ansichten, in denen Felder versteckt/angezeigt werden sollen, wenn keine Ansicht ausgewählt ist, werden die Felder immer sichtbar sein",
+    "LBL_FIELDS_INFO": "Liste der Felder, die nur sichtbar sind, wenn unten stehende Bedingungen erfüllt sind",
+    "LBL_GUI": "Dynamische Felder",
+    "LBL_GUI_INFO": "Das Aktivieren führt zu einer dynamischen Darstellung von Feldern im Formular, wenn Werte in Feldern geändert werden.\nWenn deaktiviert, werden die Änderungen erst nach dem Speichern der Daten wirksam.",
+    "LBL_MANDATORY": "Pflichtfelder",
+    "LBL_MANDATORY_INFO": "Nach dem Aktivieren werden alle unten aufgeführten Felder zu Pflichtfeldern",
+    "LBL_CONDITIONS": "Bedingungen"
+  }
+}

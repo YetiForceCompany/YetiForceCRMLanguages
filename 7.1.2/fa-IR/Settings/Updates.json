@@ -1,0 +1,21 @@
+{
+  "php": {
+    "Updates": "به‌روزرسانی‌ها",
+    "LBL_YES": "بله",
+    "LBL_NO": "خیر",
+    "LBL_TIME": "تاریخ",
+    "LBL_USER": "نام کاربری",
+    "LBL_FROM_VERSION": "از نسخه",
+    "LBL_TO_VERSION": "به نسخه",
+    "LBL_RESULT": "وضعیت",
+    "LBL_UPDATES": "به‌روزرسانی‌ها",
+    "LBL_UPDATES_DESCRIPTION": "تاريخچه‌ی بروزرسانی",
+    "LBL_IMPORT_UPDATE": "تاریخ به‌روزرسانی",
+    "LBL_INSTALL_PACKAGE": "نصب بسته",
+    "LBL_DOWNLOAD_PACKAGE": "دانلود بسته",
+    "LBL_AVAILABLE_UPGRADE_PACKAGES": "بسته‌های ارتقائ موجود",
+    "LBL_INSTALLED_PACKAGES": "بسته های نصب شده",
+    "LBL_PACKAGE_VERSION": "نسخه بسته",
+    "LBL_NAME_PACKAGES": "نام بسته"
+  }
+}

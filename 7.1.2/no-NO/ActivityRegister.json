@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Aktivitetsregister",
+    "SINGLE_ActivityRegister": "Aktivitetsregister",
+    "LBL_BASIC_INFORMATION": "Grunninformasjon",
+    "FL_SUBJECT": "Emne",
+    "FL_PARENT_ACTIVITY": "Foreldre aktivitet",
+    "FL_STATUS": "Status",
+    "PLL_DRAFT": "Utkast",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Venter på godkjenning",
+    "PLL_IN_REALIZATION": "Under implementering",
+    "PLL_COMPLETED": "Fullført",
+    "PLL_CANCELLED": "Kansellert",
+    "FL_DATA_SET": "Datasett",
+    "PLL_ENTRUSTMENT": "Delegering",
+    "PLL_SHARING": "Deling",
+    "PLL_TRANSFER": "Overfør",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Delegering aksept",
+    "PLL_INTERNAL": "Intern",
+    "FL_START_DATE": "Startdato",
+    "FL_END_DATE": "Sluttdato",
+    "LBL_DATES": "Aktivitetsdatoer",
+    "LBL_DESCRIPTION": "Beskrivelse",
+    "FL_DESCRIPTION": "Beskrivelse",
+    "FL_COMMENTS": "Kommentarer",
+    "LBL_COMMENTS": "Kommentarer",
+    "FL_ACTIVITY_TYPE": "Type aktivitet"
+  }
+}

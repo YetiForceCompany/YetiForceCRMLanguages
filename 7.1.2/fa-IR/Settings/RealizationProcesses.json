@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "پروژه",
+    "LBL_INFO": "اطلاعات",
+    "LBL_TYPE": "وضعیت",
+    "LBL_PROJECT": "پروژه",
+    "LBL_PROJECT_STATUS_INFO": "وضعیت‌های تعیین کننده بسته بودن پروژه",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "وضعیت‌های تعیین کننده بسته بودن نقطه عطف",
+    "LBL_PROJECTTASK_STATUS_INFO": "وضعیت‌های تعیین کننده بسته بودن وظیفه",
+    "LBL_SAVE_CONFIG_OK": "تغییرات با موفقیت ذخیره شد.",
+    "LBL_SAVE_CONFIG_ERROR": "عدم موفقیت در ذخیره‌ی تغییرات.",
+    "RealizationProcesses": "فرآیند تحقق"
+  },
+  "js": {}
+}

@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_LIB_NAME": "Library/app name",
+    "LBL_VULNERABILITY_NAME": "Názov zraniteľnosti",
+    "LBL_VULNERABILITY_URL": "Vulnerability address",
+    "LBL_LIBRARY_HOMEPAGE": "Otvoriť stránku knižnice",
+    "LBL_LICENSE_ERROR": "Chyba licencie",
+    "LBL_SHOW_MORE": "Zobraziť viac",
+    "LBL_MISSING_PACKAGE_FILE": "Chýbajú súbory knižnice",
+    "LBL_MORE_LIBRARY_INFO": "Detaily knižnice",
+    "LBL_MISSING_FILE": "Chýbajúci súbor",
+    "LBL_LIBRARY_NAME": "Názov",
+    "LBL_VERSION": "Verzia",
+    "LBL_LICENSE": "Licencia",
+    "LBL_MISSING_LICENSE_FILE": "Chýbajúci licenčný súbor",
+    "LBL_SUGAR_DESCRIPTION": "Vtiger bol založený na Sugar CRM. Momentálne iba zopár Sugar súborov ostalo v YetiForce.",
+    "LBL_VTIGER_DESCRIPTION": "Zostalo približne 30% originálnych Vtiger súborov. Zvyšný kód bol prepísaný a rozšírený.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Chat sound",
+    "License": "Licencie",
+    "LBL_LICENSE_DESCRIPTION": " "
+  },
+  "js": {}
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "RecordCollector": "Kolektor rekordów",
+    "LBL_RECORD_COLLECTOR": "Kolektor rekordów",
+    "LBL_RECORD_COLLECTOR_DESCRIPTION": "Panel konfiguracji dla wymaganych danych (np. API Key, Username) dla połączenia z usługami dostarczającymi dane firm.",
+    "LBL_NAME": "Nazwa",
+    "LBL_SUCCESSFULLY_UPDATED": "Zmiana statusu powiodła się",
+    "LBL_DOC_URL": "Adres URL dokumentacji",
+    "LBL_FEATURED": "Wyróżniony",
+    "LBL_API_KEY": "Klucz API",
+    "LBL_TYPE": "Typ",
+    "LBL_TYPE_FillFields": "Pokaż i wypełnij",
+    "LBL_TYPE_Summary": "Wyświetl",
+    "LBL_API_KEY_OPTIONAL": "Klucz API (opcjonalnie)",
+    "LBL_SAVE_NOTIFY_OK": "Zapisane zmiany.",
+    "LBL_PROVIDER_INVALID": "Nieprawidłowa konfiguracja",
+    "LBL_CONFIG": "Dane konfiguracyjne kolektora rekordów",
+    "LBL_ACCESS_KEY": "Klucz dostępu (Access Key)",
+    "LBL_CLIENT_ID": "ID klienta",
+    "LBL_VATIFY_EU_NO_AUTH": "Nie pobrano Token Bearer "
+  }
+}

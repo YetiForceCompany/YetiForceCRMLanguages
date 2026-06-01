@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Enlever tous les déchets",
+    "RecycleBin": "Corbeille"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Suppression de masse",
+    "JS_MASS_ACTIVATE": "Activation de masse",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Supprimer tous les enregistrements de la corbeille",
+    "JS_ACTIVATE_RECORD_DESC": "L'activation d'un enregistrement modifie uniquement l'état de l'enregistrement sans modifier le reste des informations. Êtes-vous sûr de vouloir activer l'enregistrement?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "La suppression d'un enregistrement est permanente et irréversible pour toutes les informations d'enregistrement. Êtes-vous sûr de vouloir supprimer l'enregistrement?",
+    "JS_ADDED_TO_QUEUE": "Ajouté à la file d'attente. Tous les éléments seront supprimés"
+  }
+}

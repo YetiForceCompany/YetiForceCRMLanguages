@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SINGLE_ProjectMilestone": "Контрольна точка",
+    "LBL_PROJECT_MILESTONE_INFORMATION": "Основна інформація",
+    "Project Milestone Name": " Найменування",
+    "Milestone Date": "Дата",
+    "Project Milestone No": "№",
+    "description": "Опис",
+    "Related to": "Проект",
+    "FL_PARENT_PROJECT_MILESTONE": " Віха батьківського проекту",
+    "FL_STATUS": "Статус",
+    "LBL_ESTIMATED_WORK_TIME": "Розрахунковий час роботи",
+    "LBL_MILESTONES_LIST": "Контрольні точки",
+    "LBL_TASKS_LIST": "Проектні завдання",
+    "LBL_PROJECTS_LIST": "Список проектів",
+    "LBL_PRIORITY": "Пріоритет",
+    "LBL_PROGRESS": "Прогрес",
+    "PLL_INTERNAL": "Внутрішній",
+    "PLL_EXTERNAL": "Зовнішній",
+    "PLL_SHARED": "Загальний",
+    "PLL_LOW": "Низький",
+    "PLL_NORMAL": "Нормальний",
+    "PLL_HIGH": "Високий"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Registro violazioni",
+    "SINGLE_IncidentRegister": "Violazione (GDPR)",
+    "LBL_BASIC_INFORMATION": "Informazioni base",
+    "FL_NAME": "Oggetto",
+    "FL_LOCATION_REGISTER": "Sito",
+    "FL_DATASETREGISTER": "Gruppo dati",
+    "PLL_DRAFT": "Bozza",
+    "PLL_WAITING_FOR_ACCEPTANCE": "In accettazione",
+    "PLL_IN_REALIZATION": "In corso",
+    "PLL_COMPLETED": "Completato",
+    "PLL_CANCELLED": "Annullato",
+    "FL_STATUS": "Stato",
+    "FL_TYPE": "Tipo",
+    "PLL_INTERNAL": "Interno",
+    "PLL_EXTERNAL": "Esterno",
+    "LBL_INCIDENT_DATES": "Informazioni cronologiche",
+    "FL_INCIDENT_DATE": "Avvenuto in data",
+    "FL_INCIDENT_DISCOVERY": "Data rilevazione",
+    "FL_INCIDENT_REPORT_DATE": "Data notifica",
+    "FL_INCIDENT_PUBLICATION_DATE": "Data pubblicazione",
+    "FL_PEOPLE_NUMBER": "Numero di persone",
+    "LBL_BREACH_CIRCUMSTANCES": "Circostanze",
+    "FL_BREACH_CIRCUMSTANCES": "Circostanze",
+    "LBL_NATURE_OF_BREACH": "Natura",
+    "FL_NATURE_OF_BREACH": "Natura",
+    "LBL_POSSIBLE_CONSEQUENCES": "Possibili conseguenze",
+    "FL_POSSIBLE_CONSEQUENCES": "Possibili conseguenze",
+    "LBL_SECURITY_MEASURES": "Misure applicate",
+    "FL_SECURITY_MEASURES": "Misure applicate"
+  }
+}

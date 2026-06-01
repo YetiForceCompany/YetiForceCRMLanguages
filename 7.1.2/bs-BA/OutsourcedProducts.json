@@ -1,0 +1,28 @@
+{
+  "php": {
+    "OutsourcedProducts": "Vanjski proizvodi",
+    "SINGLE_OutsourcedProducts": "Vanjski proizvod",
+    "LBL_INFORMATION": "Vanjski proizvodi",
+    "Assigned To": "Dodijeljeno",
+    "LBL_RODZAJUMOWY": "Vrsta ugovora",
+    "LBL_osservicesstatus": "Status",
+    "Individual Agreement": "Individualni ugovor",
+    "In service": "Je podržan",
+    "Finished support": "Podrška je ukinuta",
+    "Product Name": "Naziv proizvoda",
+    "Sub Category": "Podkategorija",
+    "Category": "Kategorija",
+    "Date Sold": "Datum prodaje",
+    "Date in Service": "Datum prekida podrške",
+    "Description": "Opis",
+    "LBL_DESCRIPTION_INFORMATION": "Opisna informacija",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "Where bought": "Gdje se kupuje",
+    "Number": "Broj",
+    "Save": "Spremi",
+    "Selling proposition": "Potencijal",
+    "LBL_GENERATE_EXTENSION": "Generiranje ekstenzije",
+    "Active": "Aktivan",
+    "Inactive": "Neaktivan"
+  }
+}

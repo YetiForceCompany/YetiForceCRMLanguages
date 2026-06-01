@@ -1,0 +1,22 @@
+{
+  "php": {
+    "IGDN": "Note merci spedite",
+    "SINGLE_IGDN": "Nota merce spedita",
+    "LBL_DESCRIPTION_BLOCK": "Descrizione",
+    "LBL_ATTENTION_BLOCK": "Commenti",
+    "FL_ACCEPTANCE_DATE": "Data accettazione",
+    "FL_ACCOUNT": "Azienda",
+    "FL_SUBJECT": "Oggetto",
+    "FL_NUMBER": "Progressivo",
+    "FL_STORAGE": "Magazzino",
+    "FL_STATUS": "Stato",
+    "FL_SSIGNLEORDERS": "Ordine di vendita",
+    "PLL_DRAFT": "Bozza",
+    "PLL_IN_REALIZATION": "In corso",
+    "PLL_OBJECTIONS": "Da verificare",
+    "PLL_FOR_APPROVAL": "Da approvare",
+    "PLL_CANCELLED": "Annullato",
+    "PLL_ACCEPTED": "Accettato",
+    "LBL_CHANGE_STATUS": "Cambia stato"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "Întrebări frecvente",
+    "SINGLE_Faq": "Întrebări frecvente",
+    "Draft": "Ciorna",
+    "FL_SUBJECT": "Subiect",
+    "FL_CONTENT": "Conținut",
+    "FL_CATEGORY": "Categorie",
+    "FL_ACCOUNT": "Organizație",
+    "FL_VIEWS": "Vezi",
+    "PLL_PAGE": "Pagină",
+    "PLL_PRESENTATION": "Prezentare",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Baza de cunoștințe",
+    "LBL_PREVIOUS": "Anterior",
+    "LBL_NEXT": "Următor",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Articol",
+    "FL_FEATURED": "Recomandat",
+    "LBL_RELATED_FAQ": "Intrări similare",
+    "FL_INTRODUCTION": "Introducere",
+    "Faq No": "Numar FAQ",
+    "General": "Generale",
+    "LBL_FAQ_INFORMATION": "Informatii FAQ",
+    "LBL_RECORDS_LIST": "Lista FAQ",
+    "Obsolete": "Invechit",
+    "Published": "Publicat",
+    "Question": "Intrebare"
+  }
+}

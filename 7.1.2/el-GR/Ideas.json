@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Ιδέες",
+    "SINGLE_Ideas": "Ιδέα",
+    "LBL_IDEAS_INFORMATION": "Βασικές Πληροφορίες",
+    "LBL_SUBJECT": "Θέμα",
+    "LBL_STATUS": "Κατάσταση",
+    "Description": "Βασική περιγραφή",
+    "LBL_EXTENT_DESCRIPTION": "Λεπτομερής περιγραφή",
+    "Attention": "Σχόλια",
+    "LBL_NO": "Αριθμός",
+    "Draft": "Προσχέδιο",
+    "Proposition": "Πρόταση"
+  }
+}

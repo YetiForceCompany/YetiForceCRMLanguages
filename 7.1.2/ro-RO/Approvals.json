@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Aprobări",
+    "SINGLE_Approvals": "Aprobare",
+    "LBL_CUSTOM_INFORMATION": "Informații client",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "LBL_DESCRIPTION_INFORMATION": "Descriere detalii",
+    "FL_NAME": "Nume",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Descriere",
+    "FL_NUMBER": "Număr",
+    "PLL_DRAFT": "Ciornă",
+    "PLL_ACTIVE": "Activă",
+    "PLL_INACTIVE": "Inactivă"
+  }
+}

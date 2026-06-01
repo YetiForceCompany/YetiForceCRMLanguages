@@ -1,0 +1,12 @@
+{
+  "php": {
+    "SMSTemplates": "Șabloane SMS",
+    "SINGLE_SMSTemplates": "Șablon SMS",
+    "LBL_CUSTOM_INFORMATION": "Informații sistem",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "FL_SUBJECT": "Subiect",
+    "FL_MESSAGE": "Mesaj",
+    "FL_TARGET_MODULE": "Modul",
+    "BL_SMS_CONTENT": "Conținut SMS"
+  }
+}

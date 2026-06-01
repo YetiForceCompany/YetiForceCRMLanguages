@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ProductCategory": "製品カテゴリー",
+    "SINGLE_ProductCategory": "製品カテゴリー",
+    "LBL_CUSTOM_INFORMATION": "Custom Information",
+    "LBL_BASIC_INFORMATION": "Basic Information",
+    "FL_PARENT_CATEGORY": "親カテゴリー",
+    "LBL_CHILD_PRODUCTCATEGORY": "サブカテゴリー",
+    "FL_ACTIVE": "Active",
+    "FL_CATEGORY_NAME": "カテゴリー名"
+  }
+}

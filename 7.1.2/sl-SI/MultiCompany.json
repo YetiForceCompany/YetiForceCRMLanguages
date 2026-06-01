@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Poslovalnice",
+    "SINGLE_MultiCompany": "Poslovalnica",
+    "LBL_BASIC_INFORMATION": "Podatki o poslovalnici",
+    "LBL_CONTACT_INFORMATION": "Kontaktni podatki",
+    "LBL_REGISTRATION_INFORMATION": "Register",
+    "LBL_ADDRESS_INFORMATION": "Naslov",
+    "LBL_SYSTEM_INFORMATION": "Sistemski podatki",
+    "LBL_ADDITIONAL_INFORMATION": "Dodatni podatki",
+    "FL_COMPANY_NAME": "Ime podjetja",
+    "FL_PARENT": "Matično podjetje",
+    "FL_STATUS": "Status",
+    "FL_EMAIL_1": "E-naslov",
+    "FL_EMAIL_2": "E-naslov dodatni",
+    "FL_PHONE": "Telefonska št.",
+    "FL_MOBILE": "Telefonska št. dodatna",
+    "FL_FAX": "Telefax",
+    "FL_VATID": "Davek",
+    "FL_COMPANY_ID1": "ID za DDV",
+    "FL_COMPANY_ID2": "IBAN",
+    "FL_INTERNAL_NOTES": "Interne opombe",
+    "FL_PUBLIC_NOTES": "Javne opombe",
+    "PLL_ACTIVE": "Aktiven",
+    "PLL_INACTIVE": "Neaktiven",
+    "LBL_SHOW_HIERARCHY": "Stuktura",
+    "FL_WEBSITE": "Spletna stran",
+    "FL_LOGO": "Logotip"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Conturi bancare",
+    "SINGLE_BankAccounts": "Cont bancar",
+    "LBL_CUSTOM_INFORMATION": "Informații client",
+    "LBL_BASIC_INFORMATION": "Informații de bază",
+    "FL_NAME": "Nume",
+    "FL_BANK_ACCOUNT_NUMBER": "Număr cont",
+    "FL_CURRENCY": "Monedă",
+    "FL_SWIFT": "SWIFT",
+    "FL_BANK_NAME": "Numele băncii",
+    "FL_STATUS": "Status",
+    "FL_MULTICOMPANY": "Departament",
+    "FL_RELATED_TO": "Asociat cu",
+    "PLL_DRAFT": "Ciornă",
+    "PLL_ACTIVE": "Activ",
+    "PLL_INACTIVE": "Inactiv"
+  }
+}

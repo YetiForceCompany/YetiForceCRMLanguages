@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Registr aktivit",
+    "SINGLE_ActivityRegister": "Registr aktivit",
+    "LBL_BASIC_INFORMATION": "Základní informace",
+    "FL_SUBJECT": "Předmět",
+    "FL_PARENT_ACTIVITY": "Nadřazená aktivita",
+    "FL_STATUS": "Stav",
+    "PLL_DRAFT": "Koncept",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Čeká na schválení",
+    "PLL_IN_REALIZATION": "V realizaci",
+    "PLL_COMPLETED": "Dokončeno",
+    "PLL_CANCELLED": "Zrušeno",
+    "FL_DATA_SET": "Data nastavena",
+    "PLL_ENTRUSTMENT": "Pověření",
+    "PLL_SHARING": "Sdílení",
+    "PLL_TRANSFER": "Přenos",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Schválení pověření",
+    "PLL_INTERNAL": "Interní",
+    "FL_START_DATE": "Datum zahájení",
+    "FL_END_DATE": "Datum ukončení",
+    "LBL_DATES": "Termíny činnosti",
+    "LBL_DESCRIPTION": "Popis",
+    "FL_DESCRIPTION": "Popis",
+    "FL_COMMENTS": "Poznámky",
+    "LBL_COMMENTS": "Poznámky",
+    "FL_ACTIVITY_TYPE": "Typ aktivity"
+  }
+}

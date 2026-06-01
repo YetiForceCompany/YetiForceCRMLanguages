@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_CONFIG_PROXY": "Proxy",
+    "LBL_PROXY_CONFIGRATION": "Configurare proxy",
+    "LBL_CONFIG_PROXY_DESCRIPTION": "Proxy",
+    "LBL_PROXY_CONNECTION": "Conexiune",
+    "LBL_PROXY_PROTOCOL": "Protocol",
+    "LBL_PROXY_HOST": "Gazdă",
+    "LBL_PROXY_PORT": "Port",
+    "LBL_PROXY_LOGIN": "Autentificare",
+    "LBL_PROXY_PASSWORD": "Parolă",
+    "LBL_PROXY_INFORMATION": "Motor de căutare parole securizate: Server extern (specificat în configurație)\n-Instalație limbă: Server Github\n-Integrare cu Magento: Server Magento\n-Motor de căutare coordonate: Servere externe (specificate de utilizator în configurație)\n-Căutare rute: Servere externe (specificate de utilizator în configurație)\n-Comunicare cu serverul de actualizare/înregistrare: Server Github, Server Yetiforce\n-Actualizare rate de schimb: Servere bancare (NBP, CBR, ECB)\n-Instalație și actualizare biblioteci: Server Github"
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Detalii configurație salvate"
+  }
+}

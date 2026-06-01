@@ -1,0 +1,21 @@
+{
+  "php": {
+    "ApprovalsRegister": "审核注册",
+    "SINGLE_ApprovalsRegister": "审核注册",
+    "LBL_CUSTOM_INFORMATION": "自定义信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "LBL_DESCRIPTION_INFORMATION": "详细介绍",
+    "FL_SUBJECT": "标题",
+    "FL_APPROVALS_STATUS": "状态",
+    "FL_DESCRIPTION": "描述",
+    "FL_APPROVAL": "核准",
+    "FL_TYPE": "类型",
+    "FL_STATUS": "状态",
+    "FL_REGISTRATION_DATE": "注册日期",
+    "PLL_FOR_VERIFICATION": "验证",
+    "PLL_ACCEPTED": "已接受",
+    "PLL_REJECTED": "已拒绝",
+    "PLL_ACCEPTANCE": "验收",
+    "PLL_RESIGNATION": "放弃"
+  }
+}

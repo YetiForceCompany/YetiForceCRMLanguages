@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Idéias",
+    "SINGLE_Ideas": "Idéia",
+    "LBL_IDEAS_INFORMATION": "Informações Básicas",
+    "LBL_SUBJECT": "Assunto",
+    "LBL_STATUS": "Status",
+    "Description": "Descrição básica",
+    "LBL_EXTENT_DESCRIPTION": "Descrição detalhada",
+    "Attention": "Comentários",
+    "LBL_NO": "Número",
+    "Draft": "Rascunho",
+    "Proposition": "Proposta"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "php": {
+    "LBL_SAVE": "Shrani",
+    "ApiAddress": "Iskanje naslovov",
+    "LBL_API_ADDRESS": "Iskanje naslovov",
+    "LBL_API_ADDRESS_DESCRIPTION": "Modul omogoča iskanje / samodokončanje naslova v sistemu med ustvarjanjem / urejanjem podatkov.",
+    "LBL_ENTER_KEY_APPLICATION": "Vnesi ključ aplikacije",
+    "LBL_MIN_LOOKUP_LENGTH": "Najmanjše število znakov, ki jih mora vnesti uporabnik, preden se izvede iskanje",
+    "LBL_SAVE_NOTIFY_OK": "Shranjene spremembe.",
+    "LBL_COUNTRY_CODES": "Šifra države",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "npr gb,sr,mo",
+    "LBL_COUNTRY_CODES_INFO": "Preverite seznam kod držav",
+    "LBL_KEY": "Ključ",
+    "LBL_KEY_PLACEHOLDER": "Vnesi ključ aplikacije",
+    "LBL_MAP_URL": "Url zemljevida",
+    "LBL_MAP_URL_PLACEHOLDER": "Vnesite url zemljevida",
+    "LBL_USE_GOOGLE_GEOCODER": "Uporaba Google geokodiranje",
+    "LBL_VALIDATE": "Koledar - konfiguracijo",
+    "LBL_PROVIDER_VALID": "Konfiguracija je pravilna",
+    "LBL_PROVIDER_INVALID": "Konfiguracija je nepravilna",
+    "LBL_PROVIDER_NAME": "Ime ponudnika",
+    "LBL_PROVIDER_DEFAULT": "Privzeti ponudnik",
+    "LBL_PROVIDER_ACTIVE": "Je ponudnik aktiven",
+    "LBL_PROVIDER_ACTIONS": "Dejanja",
+    "LBL_PROVIDER_CONFIG": "Konfiguriraj ponudnika",
+    "LBL_PROVIDER_UNSET": "Ponudnik je neaktiven, najprej ga morate konfigurirati, da ga omogočite",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "Geokodiranje Google",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Geokodiranje Google",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "Uporabi OpenCage Geocoder",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Uporabi OpenCage Geocoder",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Nominatim Geocoder",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Shranite splošne nastavitve",
+    "LBL_NUMBER_SEARCH_RESULTS": "Število rezultatov iskanja"
+  },
+  "js": {
+    "Invalid API key": "Neveljaven ključ API",
+    "JS_ERROR": "Napaka",
+    "JS_LOADING_PLEASE_WAIT": "Nalaganje ... počakajte.",
+    "JS_WRONG_NUMBER": "Dovoljeni znaki: številke, večje od 1."
+  }
+}

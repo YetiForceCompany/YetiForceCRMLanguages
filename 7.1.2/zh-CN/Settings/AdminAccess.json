@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "管理员访问",
+    "LBL_ADMIN_ACCESS": "管理员访问",
+    "LBL_PERMISSIONS": "权限",
+    "BTN_MASS_EDIT_ACCESS": "批量编辑",
+    "FL_MODULE_NAME": "模块名称",
+    "LBL_ACTIVE": "活动",
+    "LBL_EDIT_ADMIN_ACCESS": "编辑管理员访问权限",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "访问目的",
+    "FL_DATE_TIME": "日期",
+    "FL_PURPOSE": "目的",
+    "FL_USER": "用户",
+    "FL_BASE_USER": "基本用户",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "请求登录目的",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "当管理员登录系统时，您是否需要激活访问目的窗口？",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "请求切换用户目的",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "当在系统种切换用户时，您是否需要激活管理员的访问目的窗口？"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "保存的更改"
+  }
+}

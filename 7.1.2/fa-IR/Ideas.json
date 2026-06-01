@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "ایده‌ها",
+    "SINGLE_Ideas": "ایده",
+    "LBL_IDEAS_INFORMATION": "اطلاعات اوليه",
+    "LBL_SUBJECT": "موضوع",
+    "LBL_STATUS": "وضعیت",
+    "Description": "شرح اولیه",
+    "LBL_EXTENT_DESCRIPTION": "شرح مفصل",
+    "Attention": "نظرات",
+    "LBL_NO": "شماره",
+    "Draft": "پیش‌نویس",
+    "Proposition": "پیشنهاد"
+  }
+}

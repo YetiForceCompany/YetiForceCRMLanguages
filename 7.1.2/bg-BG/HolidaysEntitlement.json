@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Годишна почивка",
+    "SINGLE_HolidaysEntitlement": "Годишна почивка",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Потребителска Информация",
+    "LBL_CUSTOM_INFORMATION": "Системна информация",
+    "LBL_YEAR": "Година",
+    "LBL_DAYS": "Брой празници",
+    "LBL_EMPLOYEE": "Служител",
+    "LBL_NUMBER": "Номер"
+  }
+}

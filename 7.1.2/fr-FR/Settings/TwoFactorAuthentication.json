@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_TOTP_AUTHY_MODE": "Mode d'authentification",
+    "LBL_TOTP_OFF": "TOTP - OFF",
+    "LBL_TOTP_OPTIONAL": "TOTP - optionnel, défini par l'utilisateur",
+    "LBL_TOTP_OBLIGATORY": "TOTP - obligatoire, chaque utilisateur doit avoir cette option configurée",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS": "Nombre de tentatives échouées",
+    "LBL_2FA_CONF": "Authentification multi-facteurs",
+    "LBL_TOTP": "Algorithme de mot de passe unique basé sur le temps",
+    "LBL_TOTP_AUTHY_MODE_DESC": "Sélectionner les modes d'authentification",
+    "LBL_TOTP_NUMBER_OF_WRONG_ATTEMPTS_DESC": "Nombre maximum de tentatives de vérification échouées",
+    "LBL_TOTP_WHITE_LIST": "Liste blanche IP"
+  }
+}

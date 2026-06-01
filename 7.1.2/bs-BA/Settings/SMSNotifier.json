@@ -1,0 +1,31 @@
+{
+  "php": {
+    "FL_NAME": "Naziv",
+    "FL_PROVIDER": "Provajder",
+    "FL_STATUS": "Status",
+    "FL_SMSAPI_FROM": "Naziv pošiljaoca",
+    "FL_API_KEY": "Api ključ",
+    "LBL_ADD_RECORD": "Nova konfiguracija",
+    "LBL_SMSNOTIFIER": "Konfiguracija SMS davaoca usluge",
+    "LBL_SMSNOTIFIER_DESCRIPTION": " ",
+    "LBL_ADD_CONFIGURATION": "Nova konfiguracija",
+    "LBL_EDIT_CONFIGURATION": "Uredi konfiguraciju",
+    "BTN_SAVE": "Spremi",
+    "BTN_CLOSE": "Otkaži",
+    "LBL_SMSPROVIDER_CREATE": "Dodajte davatelja usluga",
+    "LBL_SMSPROVIDER_EDIT": "Uredi davatelja usluga",
+    "LBL_CALLBACK_ADDRESSES": "Adrese za povratni poziv",
+    "LBL_CALLBACK_ADDRESSES_DESC": "Kako bi se generirale povratne adrese za SMS komunikaciju, potrebno je prvo kreirati vezu web usluge za SMS.\nSljedeći URL-ovi moraju se unijeti u odjeljak povratnog poziva izravno kod pružatelja usluga.",
+    "FL_CALLBACK_URL_FOR_REPORT": "Reports (SMS,MMS)",
+    "FL_CALLBACK_URL_FOR_REPLY": "Prijem (SMS)",
+    "FL_CALLBACK_URL_FOR_REPORT_DESC": "URL za izvješća o isporuci. Upisuje se izravno kod davatelja usluga.",
+    "FL_CALLBACK_URL_FOR_REPLY_DESC": "URL za prijeme. Upisuje se izravno kod davatelja usluga.",
+    "FL_DEFAULT": "Default",
+    "LBL_SELECTED_PROVIDER_NOT_ACTIVE": "Selected provider is inactive. Activate it or change the provider."
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Jeste li sigurni da želite izbrisati ovu konfiguraciju?",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Konfiguracija je uspješno uklonjena",
+    "JS_SAVE_SUCCESS": "Spremljeno"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "InterestsConflict": "Σύγκρουση συμφερόντων",
+    "LBL_CONFLICT_OF_INTEREST_DESCRIPTION": "Σύγκρουση συμφερόντων",
+    "LBL_MAIN_CONFIG": "Γενική διαμόρφωση",
+    "LBL_MODULES": "Πρόσθετα",
+    "LBL_UNLOCK_REQUESTS": "Αιτήματα ξεμπλοκαρίσματος",
+    "LBL_CONFIRMATIONS": "Επιβεβαιώσεις",
+    "LBL_IS_ACTIVE": "Ενεργοποίηση σύγκρουσης συμφερόντων",
+    "LBL_NOTIFICATIONS_EMAILS": "Διευθύνσεις ηλεκτρονικού ταχυδρομείου για ειδοποιήσεις",
+    "LBL_INTERVAL_TIME": "Χρονικό διάστημα",
+    "LBL_INTERVAL_TIME_DESC": "Χρονικό διάστημα που καθορίζει πόσο συχνά το σύστημα θα πρέπει να επιβάλλει μια επιβεβαίωση σχετικά με την απουσία σύγκρουσης συμφερόντων.",
+    "LBL_INDEFINITELY": "επ' αόριστον",
+    "LBL_USERS_CONFIRMATIONS": "Πρόσβαση στον πίνακα επιβεβαίωσης",
+    "LBL_USERS_UNLOCK": "Πρόσβαση στον πίνακα αιτημάτων ξεμπλοκαρίσματος",
+    "LBL_RELATIONSHIP": "Σχέση",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST": "Αποστολή email όταν ζητείται πρόσβαση στην εγγραφή",
+    "LBL_SEND_MAIL_DURING_ACCESS_REQUEST_INFO": "Αποστολή e-mail στα παρακάτω άτομα (διευθύνσεις email για ειδοποιήσεις)",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE": "Στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου με το αποτέλεσμα της αίτησης για πρόσβαση στην εγγραφή",
+    "LBL_SEND_MAIL_DURING_ACCESS_RESPONSE_INFO": "Το e-mail αποστέλλεται στο άτομο που ζητά πρόσβαση"
+  }
+}

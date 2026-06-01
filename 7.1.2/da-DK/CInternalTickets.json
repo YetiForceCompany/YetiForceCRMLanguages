@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Intern support nummer",
+    "SINGLE_CInternalTickets": "Intern support nummer",
+    "LBL_ADDITIONAL_INFORMATION": "Yderligere oplysninger",
+    "LBL_BASIC_INFORMATION": "Grund oplysninger",
+    "LBL_TICKET_RESOLUTION": "Løsning",
+    "LBL_ATTENTION_BLOCK": "Noter",
+    "LBL_DESCRIPTION_BLOCK": "Beskriveslse",
+    "FL_SUBJECT": "Emne",
+    "FL_STATUS": "Status",
+    "FL_RESOLUTION": "Løsning",
+    "PLL_UNASSIGNED": "Ikke tildelt",
+    "PLL_AWAITING_REALIZATION": "Afventer gennemførelse",
+    "PLL_FOR_PROCESSING": "Under gennemførelse",
+    "PLL_IN_PROGRESSING": "Igangværende",
+    "PLL_SUBMITTED_COMMENTS": "Kommentaren er sendt",
+    "PLL_FOR_APPROVAL": "Til godkendelse",
+    "PLL_CANCELLED": "Annulleret",
+    "PLL_ACCEPTED": "Accepteret"
+  }
+}

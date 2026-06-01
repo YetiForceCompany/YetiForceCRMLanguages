@@ -1,0 +1,27 @@
+{
+  "php": {
+    "Search Configuration": "設定を検索",
+    "Search Setup": "ラベルと検索",
+    "Search": "設定を検索",
+    "LBL_Module_desc": "このパネルでは、10 項目を出力するラベルと検索メカニズムを設定できます。 これらのメカニズムは独立して動作します。検索中にフィールドに複数の列を表示できます。 レコードを選択するとラベルの名前が読み込まれます",
+    "Module": "モジュール",
+    "Table": "表",
+    "LabelFields": "モジュールのメインカラム（10の表示ラベルを含む）",
+    "SearchFields": "検索メカニズムの列",
+    "Tools": "アクション",
+    "Update labels": "ラベルを更新",
+    "LBL_SAVE_CHANGES_SEARCHING": "保存された変更。",
+    "LBL_SAVE_CHANGES_LABLE": "設定の変更が保存されました。システム内の変更を確認するには、このモジュールを更新する必要があります。",
+    "Update has been completed": "選択したモジュールは正常に更新されました。変更はCRONを介して実現されます。ラベルの更新時間はデータの量によって異なります。",
+    "LBL_SAVE_MODULE_SEQUENCE": "モジュールのシーケンスを保存",
+    "LBL_TURN_ON": "オンにする",
+    "LBL_TURN_OFF": "OFFにする"
+  },
+  "js": {
+    "Saving changes": "更新中…",
+    "Update labels": "更新",
+    "JS_MODULES_SEQUENCE_UPDATED": "モジュールのシーケンスが更新されました",
+    "JS_TURN_ON": "オンにする",
+    "JS_TURN_OFF": "OFFにする"
+  }
+}

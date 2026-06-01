@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webové služby",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Nepodarilo sa zmeniť heslo",
+    "LBL_DATABASE_QUERY_ERROR": "Databázová chyba pri vykonávaní požadovanej operácie",
+    "LBL_INVALID_OLD_PASSWORD": "Neplatná hodnota vzhľadom na staré heslo.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Nové heslo a potvrdenie hesla sa nezhodujú"
+  }
+}

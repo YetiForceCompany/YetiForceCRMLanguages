@@ -1,0 +1,43 @@
+{
+  "php": {
+    "MailServers": "Server de e-mail",
+    "LBL_MAIL_SERVERS": "Server de e-mail",
+    "FL_SUBJECT": "Subiect",
+    "FL_AUTH_METHOD": "Metodă de autorizare",
+    "FL_ACTIVE": "Activ",
+    "FL_VISIBLE": "Disponibil",
+    "FL_VALIDATE_CERT": "Validează certificatul",
+    "FL_IMAP_ENCRYPT": "Criptare",
+    "FL_IMAP_HOST": "Gazdă",
+    "FL_IMAP_PORT": "Port",
+    "FL_SMTP_ENCRYPT": "Criptare",
+    "FL_SMTP_HOST": "Gazdă",
+    "FL_SMTP_PORT": "Port",
+    "FL_SPELL_CHECK": "Corector ortografic",
+    "FL_IP_CHECK": "Adresa IP utilizator",
+    "FL_OAUTH_PROVIDER": "Furnizor OAuth",
+    "FL_CLIENT_ID": "ID-ul clientului",
+    "FL_CLIENT_SECRET": "Codul secret al clientului",
+    "FL_REDIRECT_URI_ID": "URL de redirecționare",
+    "LBL_REDIRECT_URI_ID_DESC": "Serviciile web pentru OAuth sunt listate aici. Trebuie mai întâi să adăugați cheia în aplicația corespunzătoare într-un panou separat. Aceasta va genera un URI care va fi listat în acest câmp.",
+    "BTN_REDIRECT_URI_ID_COPY_TO_CLIPBOARD": "Copiază URI în memorie",
+    "FL_IDENTITIES_LEVEL": "Nivelul de acces la identificare",
+    "LBL_VISIBLE_DESC": "Disponibil în secțiunea Utilizator",
+    "identities_level_0": "multe identități cu posibilitatea de a edita toți parametrii",
+    "identities_level_1": "multe identități cu posibilitatea de a edita toți parametrii, dar nu adresa de email",
+    "identities_level_2": "o identitate cu posibilitatea editării tuturor parametrilor",
+    "identities_level_3": "o identitate cu posibilitatea de a edita toți parametrii, dar nu adresa de email",
+    "identities_level_4": "o identitate cu posibilitatea de a edita numai semnătura",
+    "LBL_IMAP_HOST_DESC": "Google:\n criptare: ssl\n host: imap.gmail.com\n port: 993\n Outlook:\n criptare: ssl\n host: outlook.office365.com\n port: 993",
+    "LBL_SMTP_HOST_DESC": "Google:\n criptare: ssl\n host: smtp.gmail.com\n port: 465\n Outlook:\n criptare: tls\n host: smtp.office365.com\n port: 587",
+    "BL_BASE": "Setări de bază",
+    "BL_IMAP": "Configurare Imap (cu salvare, descărcare și ștergere de pe serverul de email)",
+    "BL_SMTP": "Configurare SMTP",
+    "BL_OTHER": "Alte setări",
+    "LBL_BASIC_AUTH": "Setări de bază",
+    "LBL_OAUTH2": "OAuth2"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modificări salvate"
+  }
+}

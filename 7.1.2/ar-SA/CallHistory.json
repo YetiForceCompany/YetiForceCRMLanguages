@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "سجل المكالمات",
+    "SINGLE_CallHistory": "سجل المكالمات",
+    "LBL_CALLHISTORY_INFORMATION": "تاريخ الدعوة المعلومات",
+    "LBL_CUSTOM_INFORMATION": "معلومات إضافية",
+    "LBL_PHONE_INFORMATION": "معلومات الهاتف",
+    "LBL_RELATED_INFORMATION": "معلومات ذات صلة",
+    "LBL_TYPE": "نوع",
+    "LBL_FROM_NUMBER": "من عدد",
+    "LBL_TO_NUMBER": "من عدد",
+    "LBL_LOCATION": "الموقع",
+    "LBL_PHONE_CALL_ID": "هوية الاتصال على هاتف",
+    "LBL_DURATION": "مدة المكالمة:",
+    "LBL_STATUS": "الحالة",
+    "LBL_START_TIME": "بدء الاتّصال",
+    "LBL_END_TIME": "تم إنهاء الاتصال",
+    "LBL_COUNTRY_CODE": "رمز الدولة",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "IP address",
+    "LBL_SIMSERIAL": "من عدد",
+    "LBL_SUBSCRIBERID": "رقم المشترك",
+    "LBL_DESTINATION": "حيث دعا",
+    "LBL_SOURCE": "دعوة المصدر",
+    "Record Id": "المعرف الوحيد للسجل",
+    "Outgoing missed": "ملف فيديو صادر",
+    "Outgoing received": "ملقم البريد الصادر",
+    "Incoming": "ملقم البريد الصادر",
+    "Missed": "حذف المراسلات",
+    "Voicemail": "الواردة إلى البريد الصوتي"
+  }
+}

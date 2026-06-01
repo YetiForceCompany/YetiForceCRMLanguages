@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "営業時間",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "営業時間はチームの勤務時間を設定できるモジュールです。",
+    "LBL_WORKING_HOURS_FROM": "From",
+    "LBL_WORKING_HOURS_TO": "To",
+    "LBL_WORKING_DAYS": "就業日",
+    "LBL_WORKING_HOURS": "就業時間",
+    "LBL_DEFAULT": "既定",
+    "LBL_NAME": "名前",
+    "LBL_HOLIDAYS": "休日",
+    "LBL_EDIT_BUSINESS_HOURS": "営業時間を編集",
+    "LBL_ADD_BUSINESS_HOURS": "営業時間のエントリを追加",
+    "LBL_DEFAULT_TIMES": "既定の時間",
+    "LBL_DEFAULT_REACTION_TIME": "既定の反応時間",
+    "LBL_DEFAULT_IDLE_TIME": "既定のアイドル時間",
+    "LBL_DEFAULT_RESOLVE_TIME": "既定の解決時間",
+    "LBL_HOLIDAYS_LINK": "休日の設定に移動",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "このエントリを削除してもよろしいですか？",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

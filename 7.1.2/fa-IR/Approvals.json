@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "مصوبات",
+    "SINGLE_Approvals": "مصوبه",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات دلخواه",
+    "LBL_BASIC_INFORMATION": "اطلاعات اوليه",
+    "LBL_DESCRIPTION_INFORMATION": "شرح جزئیات",
+    "FL_NAME": "نام",
+    "FL_APPROVALS_STATUS": "وضعیت",
+    "FL_DESCRIPTION": "شرح",
+    "FL_NUMBER": "شماره",
+    "PLL_DRAFT": "پیش‌نویس",
+    "PLL_ACTIVE": "فعال",
+    "PLL_INACTIVE": "غیرفعال"
+  }
+}

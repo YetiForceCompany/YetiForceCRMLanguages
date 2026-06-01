@@ -1,0 +1,20 @@
+{
+  "php": {
+    "Announcements": "Anunțuri",
+    "SINGLE_Announcements": "Anunț",
+    "LBL_ANNOUNCEMENTS_INFORMATION": "Informații de bază",
+    "LBL_SUBJECT": "Subiect",
+    "LBL_NUMBER": "Număr",
+    "FL_STATUS": "Status",
+    "FL_INTERVAL": "Timp memento",
+    "FL_IS_MANDATORY": "Obligatoriu de acceptat",
+    "PLL_DRAFT": "Schiță",
+    "PLL_FOR_ACCEPTANCE": "Spre aprobare",
+    "PLL_PUBLISHED": "Publicat",
+    "PLL_ARCHIVES": "Arhivat",
+    "LBL_REMIND_ME_LATER": "Reaminteste-mi mai tarziu",
+    "LBL_MARK_AS_READ": "Marchează ca fiind citit",
+    "LBL_ACCEPT_ANNOUNCEMENT": "A fost acceptat?",
+    "LBL_DATE": "Citește pe"
+  }
+}

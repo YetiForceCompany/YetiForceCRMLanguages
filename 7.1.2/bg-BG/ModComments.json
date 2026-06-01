@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "Коментар",
+    "LBL_RECORDS_LIST": "Списък с коментари",
+    "LBL_MODCOMMENTS_INFORMATION": "Коментари",
+    "LBL_OTHER_INFORMATION": "Друга информация",
+    "LBL_ADDING_COMMENT": "Добавяне на коментар",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "Въведете коментарите тук",
+    "Comment": "Коментар",
+    "Creator": "Създател",
+    "Related To Comments": "Свързано с",
+    "ReasonToEdit": "Причина за редактиране",
+    "UserId": "Идентификатор на потребител",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "Добавен коментар към запитването",
+    "LBL_NEW_COMMENT_FOR_TICKET": "Нов коментар е добавен на запитването",
+    "LBL_NOTICE_WELCOME": "Добре дошли в платформата",
+    "LBL_NOTICE_CREATED": "Бе създаден от",
+    "LBL_COMMENTS_0": "Текущ запис",
+    "LBL_COMMENTS_SEARCH": "Търсене",
+    "LBL_ALL_RECORDS": "Свързани записи"
+  }
+}

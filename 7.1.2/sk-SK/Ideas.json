@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "Nápady",
+    "SINGLE_Ideas": "Nápad",
+    "LBL_IDEAS_INFORMATION": "Základné informácie",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_STATUS": "Stav",
+    "Description": "Základný popis",
+    "LBL_EXTENT_DESCRIPTION": "Podrobný popis",
+    "Attention": "Komentáre",
+    "LBL_NO": "Číslo",
+    "Draft": "Koncept",
+    "Proposition": "Návrh"
+  }
+}

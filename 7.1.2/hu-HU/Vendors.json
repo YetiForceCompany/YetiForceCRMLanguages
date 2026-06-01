@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "neki:",
+    "LBL_EXPORT_TO_PDF": "Exportálás PDF-be",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Címadatok",
+    "LBL_VENDORS_ADD_TASK": "Feladat hozzáadása",
+    "LBL_VENDORS_ADD_EVENT": "Esemény hozzáadása",
+    "300-Sales-Software": "300-Szoftver-eladás",
+    "301-Sales-Hardware": "301-Hardver-eladás",
+    "302-Rental-Income": "302-Bérbeadás-bevétele",
+    "303-Interest-Income": "303-Kamat-bevétel",
+    "304-Sales-Software-Support": "304-Szoftver-Támogatás-Eladása",
+    "305-Sales Other": "305-Egyéb értékesítés",
+    "306-Internet Sales": "306-Internetes értékesítés",
+    "307-Service-Hardware Labor": "307-Hardver-Javítás",
+    "308-Sales-Books": "308-Könyv-Értékesítés",
+    "Email": "Elsődleges e-mail",
+    "GL Account": "Főkönyvi szám",
+    "LBL_VENDOR_INFORMATION": "Beszállító adatai",
+    "Phone": "Elsődleges Telefon",
+    "SINGLE_Vendors": "Beszállító",
+    "Vendor Name": "Beszállító neve",
+    "Vendor No": "Beszállító No.",
+    "Vendors": "Beszállítók",
+    "Website": "Weboldal",
+    "LBL_BUILDING_NUMBER": "Épület száma",
+    "LBL_LOCAL_NUMBER": "Iroda száma"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "A Beszállító törlése el fogja távolítani a hozzá kapcsolódó Beszerzéseket is az adatbázisból. Biztos, hogy el akarod távolítani a Beszállítót?",
+    "LBL_MASS_DELETE_CONFIRMATION": "A kiválasztott Beszállítók törlése el fogja távolítani a hozzájuk kapcsolódó Beszerzéseket is az adatbázisból. Biztos, hogy el akarod távolítani a Beszállítókat?"
+  }
+}

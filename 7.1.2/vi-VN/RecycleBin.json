@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Làm sạch rác",
+    "RecycleBin": "Thùng rác"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Xóa lượng lớn",
+    "JS_MASS_ACTIVATE": "Kích hoạt khối lượng lớn",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Xoá toàn bộ biểu ghi từ thùng rác",
+    "JS_ACTIVATE_RECORD_DESC": "Kích hoạt một hồ sơ chỉ thay đổi các hồ sơ của nhà nước mà không thay đổi phần còn lại của thông tin. Anh có chắc là muốn để kích hoạt các hồ sơ?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Xóa một hồ sơ là vĩnh viễn không thể đảo ngược và cho tất cả các hồ sơ của thông tin. Bạn có chắc chắn muốn loại bỏ các hồ sơ?",
+    "JS_ADDED_TO_QUEUE": "Thêm vào hàng đợi. Tất cả các phần tử sẽ bị xóa"
+  }
+}

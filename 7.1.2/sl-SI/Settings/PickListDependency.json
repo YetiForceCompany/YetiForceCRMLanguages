@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Izbrane vrednosti",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "PickListDependency": "Odvisnost izbirnega seznama",
+    "LBL_PICKLIST_DEPENDENCY": "Odvisnost izbirnega seznama",
+    "LBL_SELECT_FIELD": "Izberi polje",
+    "LBL_SELECT_MODULE": "Modul",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Izberi vir vrednosti izbirnega seznama",
+    "LBL_SOURCE_FIELD": "Izvorno polje",
+    "LBL_MODULE": "Modul"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure you want to delete this picklist dependency?"
+  }
+}

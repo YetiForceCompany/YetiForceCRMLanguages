@@ -1,0 +1,24 @@
+{
+  "php": {
+    "SINGLE_ModComments": "评论",
+    "LBL_RECORDS_LIST": "评论列表",
+    "LBL_MODCOMMENTS_INFORMATION": "评论",
+    "LBL_OTHER_INFORMATION": "其他信息",
+    "LBL_ADDING_COMMENT": "添加评论",
+    "LBL_WRITE_YOUR_COMMENT_HERE": "此处输入评论",
+    "Comment": "评论",
+    "Creator": "创建者",
+    "Related To Comments": "关联到",
+    "ReasonToEdit": "编辑的理由",
+    "UserId": "用户编号",
+    "Customer": "Contact",
+    "FL_PARENTS": "Hierarchy of comments",
+    "LBL_ADDED_COMMENT_TO_TICKET": "添加评论到服务单",
+    "LBL_NEW_COMMENT_FOR_TICKET": "服务单新增了一个评论",
+    "LBL_NOTICE_WELCOME": "欢迎来到平台",
+    "LBL_NOTICE_CREATED": "创建于",
+    "LBL_COMMENTS_0": "当前记录",
+    "LBL_COMMENTS_SEARCH": "搜索",
+    "LBL_ALL_RECORDS": "相关记录"
+  }
+}

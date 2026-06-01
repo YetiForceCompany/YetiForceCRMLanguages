@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Payments": "Thanh toán",
+    "LBL_RIGHT_CLICK_COPY": "Nhấp chuột phải và sao chép"
+  },
+  "js": {
+    "JS_DELETED_SUCCESSFULLY": "Xóa thành công",
+    "JS_SAVED_SUCCESSFULLY": "Lưu thành công"
+  }
+}

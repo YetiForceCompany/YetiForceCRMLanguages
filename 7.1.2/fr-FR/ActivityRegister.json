@@ -1,0 +1,29 @@
+{
+  "php": {
+    "ActivityRegister": "Registre Des Activités",
+    "SINGLE_ActivityRegister": "Registre Des Activités",
+    "LBL_BASIC_INFORMATION": "Informations générales",
+    "FL_SUBJECT": "Sujet",
+    "FL_PARENT_ACTIVITY": "Activité Parente",
+    "FL_STATUS": "Statut",
+    "PLL_DRAFT": "Brouillon",
+    "PLL_WAITING_FOR_ACCEPTANCE": "En attente d'acceptation",
+    "PLL_IN_REALIZATION": "En cours",
+    "PLL_COMPLETED": "Terminé",
+    "PLL_CANCELLED": "Annulé",
+    "FL_DATA_SET": "Jeu de données",
+    "PLL_ENTRUSTMENT": "Mandatement",
+    "PLL_SHARING": "Partage",
+    "PLL_TRANSFER": "Transfert",
+    "PLL_ENTRUSTMENT_ACCEPTANCE": "Acceptation du mandatement",
+    "PLL_INTERNAL": "Interne",
+    "FL_START_DATE": "Date de début",
+    "FL_END_DATE": "Date de fin",
+    "LBL_DATES": "Dates d'activité",
+    "LBL_DESCRIPTION": "Description",
+    "FL_DESCRIPTION": "Description",
+    "FL_COMMENTS": "Commentaires",
+    "LBL_COMMENTS": "Commentaires",
+    "FL_ACTIVITY_TYPE": "Type d'activité"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "Veelgestelde vragen (FAQ)",
+    "SINGLE_Faq": "Veelgestelde vragen (FAQ)",
+    "Draft": "Concept",
+    "FL_SUBJECT": "Onderwerp",
+    "FL_CONTENT": "Inhoud",
+    "FL_CATEGORY": "Categorie",
+    "FL_ACCOUNT": "Rekening",
+    "FL_VIEWS": "Weergave",
+    "PLL_PAGE": "Pagina",
+    "PLL_PRESENTATION": "Presentatie",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Kennisbank",
+    "LBL_PREVIOUS": "Vorige",
+    "LBL_NEXT": "Volgende",
+    "FL_STATUS": "Status",
+    "LBL_ARTICLE": "Artikel",
+    "FL_FEATURED": "Aanbevolen",
+    "LBL_RELATED_FAQ": "Gerelateerde items",
+    "FL_INTRODUCTION": "Inleiding",
+    "Faq No": "Faq Number",
+    "General": "Algemeen",
+    "LBL_FAQ_INFORMATION": "FAQ Information",
+    "LBL_RECORDS_LIST": "FAQs List",
+    "Obsolete": "Verouderd",
+    "Published": "Gepubliceerd",
+    "Question": "Vraag"
+  }
+}

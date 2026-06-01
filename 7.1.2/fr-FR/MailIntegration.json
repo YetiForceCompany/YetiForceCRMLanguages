@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Panneau d'intégration de messagerie",
+    "SINGLE_MailIntegration": "Panneau d'intégration de messagerie",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Courrier introuvable dans la base de données.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Importer",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importez un e-mail dans le CRM, il vous permettra de mieux gérer les relations",
+    "LBL_SEARCH_EMAIL": "Rechercher une adresse e-mail",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Rechercher et sélectionner le destinataire du message",
+    "LBL_ADD_CALENDAR": "Ajouter un évènement",
+    "LBL_ADD_MODCOMMENTS": "Ajouter un commentaire",
+    "LBL_SELECT_RECORD": "Sélectionner l'enregistrement associé",
+    "LBL_ADD_RECORD": "Ajouter un enregistrement associé"
+  },
+  "js": {
+    "JS_ERROR": "Message YetiForce : erreur de complément, veuillez contacter l'administrateur système.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Message YetiForce : relation supprimée avec succès.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Message YetiForce : relation ajoutée avec succès.",
+    "JS_IMPORT": "Message YetiForce : e-mail importé avec succès.",
+    "JS_CC": "Copie",
+    "JS_BCC": "Copie cachée"
+  }
+}

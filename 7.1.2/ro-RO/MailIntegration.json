@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "Panou de integrare a e-mailurilor",
+    "SINGLE_MailIntegration": "Panou de integrare a e-mailurilor",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "Email-ul nu a fost găsit în baza de date.",
+    "LBL_IMPORT_MAIL_MANUALLY": "Import",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "Importați un e-mail în CRM și veți putea gestiona mai bine relațiile",
+    "LBL_SEARCH_EMAIL": "Căutare adresă de e-mail",
+    "LBL_SEARCH_AND_COPY_EMAIL": "Căutare și selectare destinatar mesaj",
+    "LBL_ADD_CALENDAR": "Adaugă eveniment",
+    "LBL_ADD_MODCOMMENTS": "Adaugă comentariu",
+    "LBL_SELECT_RECORD": "Selectează înregistrare asociată",
+    "LBL_ADD_RECORD": "Actualizare înregistrare asociată"
+  },
+  "js": {
+    "JS_ERROR": "Mesaj YetiForce: eroare suplimentară, vă rugăm să contactați administratorul sistemului.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "Mesaj YetiForce: Relație eliminată cu succes.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "Mesaj YetiForce: Asociere adăugată cu succes.",
+    "JS_IMPORT": "Mesaj YetiForce: e-mail importat cu succes.",
+    "JS_CC": "CC",
+    "JS_BCC": "BCC"
+  }
+}

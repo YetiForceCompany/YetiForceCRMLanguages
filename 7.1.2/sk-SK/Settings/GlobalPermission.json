@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Access to record": "Prístup k záznamom",
+    "GlobalPermission": "Špeciálny pristup",
+    "LBL_Module_desc": "Tu môžete definovať, ktoré profily majú prístup ku všetkým záznamov bez ohľadu na rolu užívateľa.",
+    "LBL_PROFILE_NAME": "Názov profilu",
+    "LBL_DESCRIPTION": "Popis profilu",
+    "LBL_VIEW_ALL_DESC": "Ak zaškrtnete túto možnosť, všetky moduly budú mať označenú možnost: Prehľadávanie",
+    "LBL_VIEW_ALL": "Povoliť náhľad všetkých záznamov",
+    "LBL_EDIT_ALL_DESC": "Ak zaškrtnete túto možnosť, všetky moduly budú mať označenú možnost: Vytvoriť\/Upraviť.",
+    "LBL_EDIT_ALL": "Povoliť úprava všetkých záznamov",
+    "LBL_SAVE_OK": "Zmena uložená"
+  }
+}

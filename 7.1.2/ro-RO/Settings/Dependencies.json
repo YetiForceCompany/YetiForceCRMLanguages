@@ -1,0 +1,23 @@
+{
+  "php": {
+    "LBL_LIB_NAME": "Nume librărie/aplicație",
+    "LBL_VULNERABILITY_NAME": "Nume vulnerabilitate",
+    "LBL_VULNERABILITY_URL": "Adresă vulnerabilitate",
+    "LBL_LIBRARY_HOMEPAGE": "Deschide site-ul librăriei",
+    "LBL_LICENSE_ERROR": "Eroare licență",
+    "LBL_SHOW_MORE": "Arată mai mult",
+    "LBL_MISSING_PACKAGE_FILE": "Fișiere lipsă din bibliotecă",
+    "LBL_MORE_LIBRARY_INFO": "Detalii bibliotecă",
+    "LBL_MISSING_FILE": "Fișier lipsă",
+    "LBL_LIBRARY_NAME": "Nume",
+    "LBL_VERSION": "Versiune",
+    "LBL_LICENSE": "Licență",
+    "LBL_MISSING_LICENSE_FILE": "Lipsește fișierul cu licența",
+    "LBL_SUGAR_DESCRIPTION": "Vtiger s-a bazat pe SugarCRM. In prezent, doar câteva fișiere SugarCRM rămân în YetiForce.",
+    "LBL_VTIGER_DESCRIPTION": "Doar 30% din codul original al Vtiger a mai rămas. Restul de cod a fost rescris și extins.",
+    "LBL_CHAT_SOUND_DESCRIPTION": "Sunet de chat",
+    "License": "Licențe",
+    "LBL_LICENSE_DESCRIPTION": " "
+  },
+  "js": {}
+}

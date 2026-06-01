@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IIDN": "内部发货单",
+    "SINGLE_IIDN": "内部发货单",
+    "LBL_DESCRIPTION_BLOCK": "说明",
+    "LBL_ATTENTION_BLOCK": "评论",
+    "FL_ACCEPTANCE_DATE": "验收日期",
+    "FL_SUBJECT": "标题",
+    "FL_NUMBER": "编号",
+    "FL_STORAGE": "仓库",
+    "FL_STATUS": "状态",
+    "PLL_DRAFT": "草稿",
+    "PLL_IN_REALIZATION": "执行中",
+    "PLL_OBJECTIONS": "拒绝/反对/异议",
+    "PLL_FOR_APPROVAL": "等待审批",
+    "PLL_CANCELLED": "已取消",
+    "PLL_ACCEPTED": "已接受",
+    "LBL_CHANGE_STATUS": "更改状态"
+  }
+}

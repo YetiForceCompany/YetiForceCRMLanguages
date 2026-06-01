@@ -1,0 +1,30 @@
+{
+  "php": {
+    "MultiCompany": "Odsjeci",
+    "SINGLE_MultiCompany": "Odsjek",
+    "LBL_BASIC_INFORMATION": "Podaci o kompaniji",
+    "LBL_CONTACT_INFORMATION": "Kontakt informacija",
+    "LBL_REGISTRATION_INFORMATION": "Podaci o registraciji",
+    "LBL_ADDRESS_INFORMATION": "Pojedinosti o adresi",
+    "LBL_SYSTEM_INFORMATION": "Informacije o sistemu",
+    "LBL_ADDITIONAL_INFORMATION": "Dodatne informacije",
+    "FL_COMPANY_NAME": "Naziv kompanije",
+    "FL_PARENT": "Nadređeni odjel",
+    "FL_STATUS": "Status",
+    "FL_EMAIL_1": "Primarni email",
+    "FL_EMAIL_2": "Sekundarni email",
+    "FL_PHONE": "Primarni telefon",
+    "FL_MOBILE": "Sekundarni telefon",
+    "FL_FAX": "Fax",
+    "FL_VATID": "ID broj",
+    "FL_COMPANY_ID1": "Registracijski broj preduzeća",
+    "FL_COMPANY_ID2": "Imtec šifra",
+    "FL_INTERNAL_NOTES": "Interne bilješke",
+    "FL_PUBLIC_NOTES": "Javne bilješke",
+    "PLL_ACTIVE": "Aktivan",
+    "PLL_INACTIVE": "Neaktivan",
+    "LBL_SHOW_HIERARCHY": "Hijerarhija",
+    "FL_WEBSITE": "Web stranica",
+    "FL_LOGO": "Logo"
+  }
+}

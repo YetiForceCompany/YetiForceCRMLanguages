@@ -1,0 +1,42 @@
+{
+  "php": {
+    "LBL_SAVE": "Salvează",
+    "ApiAddress": "Caută adresă",
+    "LBL_API_ADDRESS": "Caută adresă",
+    "LBL_API_ADDRESS_DESCRIPTION": "Modulul permite căutarea/ autocompletarea adresei pe parcursul crearii/modificarii datelor in sistem.",
+    "LBL_ENTER_KEY_APPLICATION": "Introdu cheia aplicației",
+    "LBL_MIN_LOOKUP_LENGTH": "Numărul minim de caractere pe care utilizatorul trebuie sa le scrie înainte de efectuarea unei căutări",
+    "LBL_SAVE_NOTIFY_OK": "Modificări salvate.",
+    "LBL_COUNTRY_CODES": "Prefix de țară",
+    "LBL_COUNTRY_CODES_PLACEHOLDER": "ex. gb, fr, pl",
+    "LBL_COUNTRY_CODES_INFO": "Verifică lista codurilor de țară",
+    "LBL_KEY": "Cheie",
+    "LBL_KEY_PLACEHOLDER": "Introdu cheia aplicației",
+    "LBL_MAP_URL": "Url hartă",
+    "LBL_MAP_URL_PLACEHOLDER": "Introduceți Url-ul hărții",
+    "LBL_USE_GOOGLE_GEOCODER": "Utilizează Google Geocoding",
+    "LBL_VALIDATE": "Validare configurație",
+    "LBL_PROVIDER_VALID": "Configurația este corectă",
+    "LBL_PROVIDER_INVALID": "Configurația este incorectă",
+    "LBL_PROVIDER_NAME": "Nume furnizor",
+    "LBL_PROVIDER_DEFAULT": "Furnizor implicit",
+    "LBL_PROVIDER_ACTIVE": "Este furnizor activ",
+    "LBL_PROVIDER_ACTIONS": "Acțiuni",
+    "LBL_PROVIDER_CONFIG": "Configurați furnizorul",
+    "LBL_PROVIDER_UNSET": "Furnizorul este inactiv, trebuie să îl configurați mai întâi pentru a-l activa",
+    "LBL_PROVIDER_GOOGLEGEOCODE": "Geocodare Google",
+    "LBL_PROVIDER_INFO_GOOGLEGEOCODE": "Pagină geocodare Google",
+    "LBL_PROVIDER_OPENCAGEGEOCODER": "Geocoder OpenCage",
+    "LBL_PROVIDER_INFO_OPENCAGEGEOCODER": "Pagină Geocoder OpenCage",
+    "LBL_PROVIDER_NOMINATIMGEOCODER": "Geocoder Nominatim",
+    "LBL_PROVIDER_INFO_NOMINATIMGEOCODER": "Pagină Geocoder Nominatim",
+    "LBL_SAVE_GLOBAL_SETTINGS": "Salvați setările globale",
+    "LBL_NUMBER_SEARCH_RESULTS": "Numărul de rezultate de căutare"
+  },
+  "js": {
+    "Invalid API key": "Cheie API invalidă",
+    "JS_ERROR": "Eroare",
+    "JS_LOADING_PLEASE_WAIT": "Se încarcă, vă rugam așteptați.",
+    "JS_WRONG_NUMBER": "Caractere permise: cifre mai mari de 1."
+  }
+}

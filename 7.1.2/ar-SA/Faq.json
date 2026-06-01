@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "الأسئلة المتداولة",
+    "SINGLE_Faq": "الأسئلة المتداولة",
+    "Draft": "مسودة",
+    "FL_SUBJECT": "الموضوع",
+    "FL_CONTENT": "محتوى",
+    "FL_CATEGORY": "فئة",
+    "FL_ACCOUNT": "حساب",
+    "FL_VIEWS": "المشهد",
+    "PLL_PAGE": "الصفحة",
+    "PLL_PRESENTATION": "العرض",
+    "LBL_VIEW_KNOWLEDGE_BASE": "قاعدة المعرفة",
+    "LBL_PREVIOUS": "السابق",
+    "LBL_NEXT": "التالي",
+    "FL_STATUS": "الحالة",
+    "LBL_ARTICLE": "مقالة",
+    "FL_FEATURED": "المتميز",
+    "LBL_RELATED_FAQ": "إدخالات ذات صلة",
+    "FL_INTRODUCTION": "مقدمة",
+    "Faq No": "من عدد",
+    "General": "عام",
+    "LBL_FAQ_INFORMATION": "معلومات السؤال والجواب",
+    "LBL_RECORDS_LIST": "قائمة الاسئلة و الاجوبة",
+    "Obsolete": "عفا عليها الزمن",
+    "Published": "تم نشره",
+    "Question": "سؤال"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "Flux de lucru",
+    "TimeControlProcesses": "Procesele controlului timpului",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_TIME_CONTROL_WIDGET": "Widget-ul pentru controlul timpului",
+    "LBL_TCW_INFO": "Opțiunea care ascunde\/afișează pictogramele din widget-ul de control al timpului pot fi găsite aici.",
+    "LBL_HOLIDAYS": "Pictograme pentru vacanță",
+    "LBL_WORKING_DAYS": "Pictograme pentru zile lucrătoare",
+    "LBL_WORKING_TIME": "Pictograme pentru timp de lucru"
+  },
+  "js": {}
+}

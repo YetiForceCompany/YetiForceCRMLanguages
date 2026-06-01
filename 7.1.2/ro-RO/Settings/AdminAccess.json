@@ -1,0 +1,23 @@
+{
+  "php": {
+    "AdminAccess": "Acces administrator",
+    "LBL_ADMIN_ACCESS": "Acces administrator",
+    "LBL_PERMISSIONS": "Drepturi",
+    "BTN_MASS_EDIT_ACCESS": "Editare în masă",
+    "FL_MODULE_NAME": "Denumire modul",
+    "LBL_ACTIVE": "Activ",
+    "LBL_EDIT_ADMIN_ACCESS": "Editarea accesului administratorului",
+    "LBL_HISTORY_ADMINS_VISIT_PURPOSE": "Scopul vizitelor",
+    "FL_DATE_TIME": "Dată",
+    "FL_PURPOSE": "Scop",
+    "FL_USER": "Utilizator",
+    "FL_BASE_USER": "Utilizator de bază",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE": "Cere un scop la logare",
+    "LBL_LOGIN_ADMIN_VISIT_PURPOSE_DESC": "Doriți să activați fereastra de vizitare pentru administratori atunci când se conectează în sistem?",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS": "Cere motivul de a schimba utilizatorii",
+    "LBL_LOGIN_ADMIN_VISIT_SWITCH_USERS_DESC": "Doriți să activați fereastra de vizitare pentru administratori atunci când comutați utilizatorii din sistem?"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Modificări salvate"
+  }
+}

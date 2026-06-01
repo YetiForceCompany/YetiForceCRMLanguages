@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "RSS джерело",
+    "LBL_ADD_FEED_SOURCE": "Додати джерело ",
+    "LBL_FEEDS_LIST_FROM": "RSS-стрічка",
+    "LBL_SET_AS_DEFAULT": "Встановити за замовчанням",
+    "LBL_SENDER": "Джерело",
+    "LBL_FEED_SOURCE": "RSS джерело",
+    "LBL_ENTER_FEED_SOURCE": "Введіть джерело",
+    "SINGLE_Rss": "RSS-стрічка",
+    "LBL_CHANGE_RSS_CHANNEL": "Змінити RSS адресу"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "RSS  успішно збережені",
+    "JS_INVALID_RSS_URL": "Невірна RSS адреса",
+    "JS_RSS_MADE_AS_DEFAULT": "RSS Зроблено Використовувати за замовчанням"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "php": {
+    "SCalculations": "Hesaplamalar",
+    "SINGLE_SCalculations": "Hesaplama",
+    "LBL_SCALCULATIONS_INFORMATION": "Temel bilgiler",
+    "LBL_CUSTOM_INFORMATION": "Sistem bilgisi",
+    "LBL_DESCRIPTION_INFORMATION": "Açıklama ayrıntıları",
+    "LBL_STATISTICS": "istatistikler",
+    "LBL_SUBJECT": "Konu",
+    "LBL_NUMBER": "Numara",
+    "LBL_CLOSED_TIME": "Kapanış saati",
+    "LBL_STATUS": "Durumu",
+    "SINGLE_SSalesProcesses": "Fırsat",
+    "FL_TOTAL_PRICE": "Net toplam",
+    "FL_MARGINP": "Toplam marj yüzdesi",
+    "FL_MARGIN": "Toplam marj",
+    "PLL_DRAFT": "Taslak",
+    "PLL_IN_REALIZATION": "Gerçekleşmede",
+    "PLL_FOR_VERIFICATION": "Doğrulama için",
+    "PLL_CANCELLED": "İptal edildi",
+    "PLL_COMPLETED": "Tamamlandı",
+    "LBL_CHANGE_STATUS": "Durumu değiştir",
+    "FL_PARENT_SCALCULATIONS": "Üst hesaplama"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "php": {
+    "Access to record": "Acces la înregistrări",
+    "GlobalPermission": "Acces special",
+    "LBL_Module_desc": "Aici puteți defini ce profiluri au acces la toate înregistrările, indiferent de roluri.",
+    "LBL_PROFILE_NAME": "Denumire profil",
+    "LBL_DESCRIPTION": "Descrierea profilului",
+    "LBL_VIEW_ALL_DESC": "Daca bifați aceasta opțiune, toate modulele vor avea o opțiune marcata: Navigare",
+    "LBL_VIEW_ALL": "Activați previzualizarea tuturor înregistrărilor",
+    "LBL_EDIT_ALL_DESC": "Daca bifați aceasta opțiune, toate modulele vor avea o opțiune marcata: Crează\/Editează.",
+    "LBL_EDIT_ALL": "Activați editarea tuturor înregistrărilor",
+    "LBL_SAVE_OK": "Modificare salvată"
+  }
+}

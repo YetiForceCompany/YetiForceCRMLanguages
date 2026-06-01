@@ -1,0 +1,19 @@
+{
+  "php": {
+    "BankAccounts": "Banka hesapları",
+    "SINGLE_BankAccounts": "Banka hesabı",
+    "LBL_CUSTOM_INFORMATION": "Özel Bilgiler",
+    "LBL_BASIC_INFORMATION": "Temel Bilgiler",
+    "FL_NAME": "İsim",
+    "FL_BANK_ACCOUNT_NUMBER": "Hesap numarası",
+    "FL_CURRENCY": "Para birimi",
+    "FL_SWIFT": "SWIFT Code",
+    "FL_BANK_NAME": "Banka Adı",
+    "FL_STATUS": "Durum",
+    "FL_MULTICOMPANY": "Bölüm",
+    "FL_RELATED_TO": "Related to",
+    "PLL_DRAFT": "Taslak",
+    "PLL_ACTIVE": "Aktif",
+    "PLL_INACTIVE": "Pasif"
+  }
+}

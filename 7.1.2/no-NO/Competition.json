@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Competition": "Konkurranse",
+    "SINGLE_Competition": "Konkurrent",
+    "LBL_COMPETITION_INFORMATION": "Grunninformasjon",
+    "LBL_CUSTOM_INFORMATION": "Systeminformasjon",
+    "LBL_DESCRIPTION_INFORMATION": "Beskrivelse detaljer",
+    "LBL_SUBJECT": "Navn",
+    "LBL_NUMBER": "Nummer",
+    "LBL_CLOSED_TIME": "Stengetid",
+    "LBL_VAT_ID": "Org.nr.",
+    "LBL_SHOW_HIERARCHY": "Hierarki",
+    "LBL_PARENT_ID": "Konkurrent forelder"
+  }
+}

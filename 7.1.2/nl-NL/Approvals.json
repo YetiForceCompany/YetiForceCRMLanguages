@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "Goedkeuringen",
+    "SINGLE_Approvals": "Goedkeuring",
+    "LBL_CUSTOM_INFORMATION": "Aangepaste Information",
+    "LBL_BASIC_INFORMATION": "Algemene gegevens",
+    "LBL_DESCRIPTION_INFORMATION": "Omschrijving Details",
+    "FL_NAME": "Naam",
+    "FL_APPROVALS_STATUS": "Status",
+    "FL_DESCRIPTION": "Omschrijving",
+    "FL_NUMBER": "Nummer",
+    "PLL_DRAFT": "Concept",
+    "PLL_ACTIVE": "Aktief",
+    "PLL_INACTIVE": "Inactief"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "php": {
+    "Watchdog": "Watchdog",
+    "LBL_YETIFORCE_WATCHDOG_HEADER": "YetiForce Watchdog",
+    "LBL_YETIFORCE_WATCHDOG_DESC": "Strona konfiguracyjna usługi YetiForce Watchdog",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "Mechanizm YetiForce Watchdog monitoruje działanie systemu CRM i przekazuje wybrane informacje do YetiForce S.A. Zebrane informacje nie będą publikowane, mają one na celu jedynie monitorowanie systemu CRM pod kątem niewłaściwego działania oraz środowiska, w którym jest zainstalowany.",
+    "LBL_PARAM_NAME": "Parametr",
+    "LBL_PARAM_VAL": "Wartość",
+    "LBL_PARAM_NOT_ALLOWED": "Niedozwolony parametr",
+    "LBL_SAVED": "Zapisano zmiany",
+    "LBL_WATCHDOGURL": "Adres usługi",
+    "LBL_SYSTEMVERSION": "Wersja systemu YetiForce",
+    "LBL_PHPVERSION": "Wersja PHP",
+    "LBL_OSVERSION": "Wersja systemu",
+    "LBL_DBVERSION": "Wersja bazy danych",
+    "LBL_DATABASE": "Informacje o bazie danych",
+    "LBL_SAPIVERSION": "Wersja servera API",
+    "LBL_LASTCRONTIME": "Ostatnie uruchomienie Crona",
+    "LBL_SPACEROOT": "Przestrzeń główna",
+    "LBL_SPACESTORAGE": "Przestrzeń dyskowa",
+    "LBL_SPACETEMP": "Pojemność katalogu tymczasowego",
+    "LBL_SPACEBACKUP": "Pojemność folderu kopii zapasowej",
+    "LBL_CRMVERSION": "Wersja systemu CRM",
+    "LBL_DOMAIN": "Adres URL systemu CRM",
+    "LBL_STABILITY": "Konfiguracja stabilności systemu",
+    "LBL_LIBRARIES": "Wsparcie dla bibliotek",
+    "LBL_PERFORMANCE": "Weryfikacja wydajności",
+    "LBL_PUBLICDIRECTORYACCESS": "Katalog publiczny",
+    "LBL_ENVIRONMENT": "Informacje o środowisku",
+    "LBL_WRITABLEFILESANDFOLDERS": "Uprawnienia zapisu do plików i folderów",
+    "LBL_PATHVERIFICATION": "Weryfikacja ścieżki"
+  }
+}

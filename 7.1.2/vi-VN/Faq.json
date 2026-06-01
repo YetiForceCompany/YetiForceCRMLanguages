@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "FAQ",
+    "SINGLE_Faq": "FAQ",
+    "Draft": "Dự thảo",
+    "FL_SUBJECT": "Chủ đề",
+    "FL_CONTENT": "Nội dung",
+    "FL_CATEGORY": "Nhóm",
+    "FL_ACCOUNT": "Tài khoản",
+    "FL_VIEWS": "Xem",
+    "PLL_PAGE": "Trang",
+    "PLL_PRESENTATION": "Trình chiếu",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Kiến thức cơ bản",
+    "LBL_PREVIOUS": "Trước",
+    "LBL_NEXT": "Tiếp",
+    "FL_STATUS": "Trạng thái",
+    "LBL_ARTICLE": "Đăng",
+    "FL_FEATURED": "Nổi bật",
+    "LBL_RELATED_FAQ": "Mục từ có liên quan",
+    "FL_INTRODUCTION": "Giới thiệu",
+    "Faq No": "Số FAQ",
+    "General": "Chung",
+    "LBL_FAQ_INFORMATION": "Thông tin FAQ",
+    "LBL_RECORDS_LIST": "Danh sách FAQ",
+    "Obsolete": "Lỗi thời",
+    "Published": "Đã công khai",
+    "Question": "Câu Hỏi"
+  }
+}

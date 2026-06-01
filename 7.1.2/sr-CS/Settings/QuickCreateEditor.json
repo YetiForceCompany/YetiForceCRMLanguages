@@ -1,0 +1,12 @@
+{
+  "php": {
+    "QuickCreateEditor": "Uređivač brzog kreiranja",
+    "LBL_QUICK_CREATE_EDITOR": "Polja - Brzo kreiranje",
+    "LBL_QUICK_CREATE_EDITOR_DESCRIPTION": "Modul koji omogućava promjenu izgleda polja u prozoru za Brzo kreiranje",
+    "LBL_SEQUENCE": "Sekvenca polja",
+    "LBL_SAVE_FIELD_SEQUENCE": "Spremite redoslijed polja"
+  },
+  "js": {
+    "JS_FIELD_SEQUENCE_UPDATED": "Ažuriran je redoslijed polja"
+  }
+}

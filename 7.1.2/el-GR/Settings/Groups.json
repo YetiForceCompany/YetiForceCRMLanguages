@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Προσθήκη εγγραφής",
+    "LBL_ADD_USERS_ROLES": "Προσθήκη χρηστών, ρόλων...",
+    "LBL_DUPLICATES_EXIST": "Υπάρχει ήδη το όνομα ομάδας",
+    "LBL_GROUP_MEMBERS": "Μέλη Ομάδας",
+    "LBL_GROUP_NAME": "Όνομα Ομάδας",
+    "LBL_ROLEANDSUBORDINATE": "Ρόλος και υπο-ρόλοι",
+    "LBL_TO_OTHER_GROUP": "Σε άλλη ομάδα ",
+    "LBL_TRANSFORM_OWNERSHIP": "Μεταβίβαση κυριότητας",
+    "SINGLE_Groups": "Ομάδα",
+    "Users": "Χρήστες",
+    "Name": "Όνομα ομάδας",
+    "Description": "Περιγραφή",
+    "FL_PARENT": "Υπεύθυνος ομάδας",
+    "LBL_ALLOWED_GROUP_NESTS_EXCEEDED": "The limit of allowed group nests has been exceeded.",
+    "LBL_INDEFINITE_LOOP": "The current settings will create an indefinite loop. Please change group members.",
+    "LBL_GROUP_DUPLICATE": "Διπλότυπο",
+    "LBL_DELETE_GROUP": "Διαγραφή ομάδας"
+  },
+  "js": {
+    "JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP": "Παρακαλώ επιλέξτε τουλάχιστον ένα μέλος για την ομάδα",
+    "JS_RECORD_DELETED_SUCCESSFULLY": "Ομάδα διαγράφηκε επιτυχώς"
+  }
+}

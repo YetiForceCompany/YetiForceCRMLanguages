@@ -1,0 +1,41 @@
+{
+  "php": {
+    "ConfigEditor": "Editor de configuração",
+    "LBL_DEFAULT_MODULE": "Módulo Padrão",
+    "LBL_MAX_TEXT_LENGTH_IN_LISTVIEW": "Comprimento Máximo do texto na Lista de Registros",
+    "LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW": "Máximo de itens por página na Lista de Registros",
+    "LBL_DEFAULT_LAYOUT": "Layout",
+    "LBL_SHOWING_BREADCRUMBS": "Exibir menu de atalhos",
+    "LBL_TITLE_MAX_LENGTH": "Tamanho máximo de caracteres para o título",
+    "LBL_MINIMUM_CRON_FREQUENCY": "Frequência mínima do Cron [min] ",
+    "LBL_LIST_MAX_ENTRIES_MASSEDIT": "Número máximo de registros para edição em massa",
+    "LBL_BG_CLOSING_MODAL": "Habilitar modo de fechamento da janela clicando no background",
+    "LBL_HREF_MAX_LEGTH": "Comprimento máximo para tag href",
+    "LBL_SHOW_LANG_IN_LOGIN_PAGE": "Exibir seleção de idioma na página de acesso",
+    "LBL_SHOW_LAYOUT_IN_LOGIN_PAGE": "Exibir seleção de layout na página de acesso",
+    "LBL_CONFIG_EDITOR": "Sistema – Configuração",
+    "LBL_CONFIG_EDITOR_DESCRIPTION": "Atualizar arquivo de configuração do aplicativo",
+    "LBL_MAX_UPLOAD_SIZE": "Tamanho máximo para upload",
+    "LBL_MB": "MB",
+    "LBL_RELATION_CONFIG": "Relação",
+    "LBL_RELATION_COMMENT_MAX_LENGTH": "Comprimento máximo de um comentário visível no registro relacionado",
+    "LBL_RELATION_COMMENT_MAX_LENGTH_DESC": "Estes campos estão disponíveis em algumas relações, por exemplo, na guia Produtos e Serviços no módulo de Conta",
+    "LBL_RELATION_SHOW_RELATED_MODULE_NAME": "Mostrar nomes de módulos relacionados nas abas",
+    "LBL_RELATION_SHOW_RELATED_ICON": "Mostrar ícone de módulos relacionados nas abas",
+    "LBL_RELATION_SHOW_RECORDS_COUNT": "Mostrar contagem de registros em abas de módulos relacionados",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON": "Separar botões de ação para alterar dados adicionais",
+    "LBL_RELATION_SEPARATE_CHANGE_RELATION_BUTTON_DESC": "O botão define um tipo de dado especial que pertence apenas a relações, disponíveis, por exemplo, no módulo de ocorrências",
+    "LBL_MAX_NUMBER_EXPORT_RECORDS": "Número máximo de registros de exportação",
+    "LBL_PERFORMANCE": "Desempenho",
+    "LBL_BRAND_DATA_NAME": "Nome do Rodapé",
+    "LBL_TWITTER": "URL do Twitter",
+    "LBL_FACEBOOK": "URL do Facebook",
+    "LBL_LINKEDIN": "LinkedIn URL",
+    "LBL_BRAND_DATA": "Dados de marca",
+    "LBL_BRAND_DATA_INFO": "O bloco usado quando a marca YetiForce é comprada permite que você insira dados personalizados visíveis no rodapé."
+  },
+  "js": {
+    "JS_CONFIGURATION_DETAILS_SAVED": "Detalhes de configuração salvos",
+    "JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100": "Por favor, digite um valor entre 1-100"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Partners": "パートナー",
+    "SINGLE_Partners": "パートナー",
+    "LBL_PARTNERS_INFORMATION": "基本情報",
+    "LBL_CUSTOM_INFORMATION": "システム情報",
+    "LBL_DESCRIPTION_INFORMATION": "説明の詳細",
+    "LBL_SUBJECT": "件名",
+    "LBL_NUMBER": "番号",
+    "LBL_CLOSED_TIME": "終了日時",
+    "LBL_VAT_ID": "税ID",
+    "FL_CATEGORY": "カテゴリー",
+    "FL_MEMBER_OF": "Parent partner",
+    "LBL_SHOW_HIERARCHY": "Hierarchy"
+  }
+}

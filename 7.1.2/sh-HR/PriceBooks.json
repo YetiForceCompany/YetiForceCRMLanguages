@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Dodaj",
+    "LBL_EDIT_LIST_PRICE": "Uredi cijenu iz cjenovnika",
+    "LBL_PRICEBOOK_INFORMATION": "Detalji cjevovnika",
+    "LBL_UNIT_PRICE": "Jedinična cijena",
+    "Price Book Name": "Naziv cjenovnika",
+    "PriceBook No": "Broj cjenovnika",
+    "PriceBooks": "Cjenovnici",
+    "SINGLE_PriceBooks": "Cjenovnik",
+    "yes": "Da",
+    "no": "Ne",
+    "Unit Price": "Jedinična cijena",
+    "LBL_SPECIFY_THE_MARGIN": "Navedite maržu",
+    "LBL_SPECIFY_THE_MARGINP": "Navedite maržu (%)"
+  }
+}

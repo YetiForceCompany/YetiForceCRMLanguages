@@ -1,0 +1,22 @@
+{
+  "php": {
+    "CInternalTickets": "Внутрішні тікети",
+    "SINGLE_CInternalTickets": "Тікет",
+    "LBL_ADDITIONAL_INFORMATION": "Додаткова інформація",
+    "LBL_BASIC_INFORMATION": " Основна інформація",
+    "LBL_TICKET_RESOLUTION": "Рішення ",
+    "LBL_ATTENTION_BLOCK": "Нотатки",
+    "LBL_DESCRIPTION_BLOCK": "Опис",
+    "FL_SUBJECT": "Тема",
+    "FL_STATUS": "Статус",
+    "FL_RESOLUTION": "Рішення",
+    "PLL_UNASSIGNED": " Відповідальний не призначено",
+    "PLL_AWAITING_REALIZATION": "Очікує реалізації",
+    "PLL_FOR_PROCESSING": "На реалізацію",
+    "PLL_IN_PROGRESSING": "В процесі",
+    "PLL_SUBMITTED_COMMENTS": "Додані коментарі",
+    "PLL_FOR_APPROVAL": "На схвалення",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_ACCEPTED": " Підтверджено"
+  }
+}

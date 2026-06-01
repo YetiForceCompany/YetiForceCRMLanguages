@@ -1,0 +1,19 @@
+{
+  "php": {
+    "LBL_NEWEST_SSALESPROCESSES": "Cơ hội mới nhất",
+    "LBL_FOR_VALUE": "cho giá trị",
+    "LBL_UNTIL_DAY": "cho tới ngày",
+    "LBL_ACTUAL_STATUS": "với thực trạng",
+    "LBL_CALENDAR_OVERDUE": "Hoạt động quá hạn",
+    "LBL_HIGHEST_VALUE_SSALESPROCESSES": "Cơ hội giá trị cao nhất",
+    "LBL_NEW_ACCOUNTS": "Khách hàng mới",
+    "LBL_NEW_CONTACTS": "Liên lạc mới",
+    "LBL_CALENDAR_TODAY": "Sự kiện hôm nay",
+    "LBL_CALENDAR_THIS_WEEK": "Sự kiện tuần này",
+    "LBL_LOGIN_HISTORY": "Lịch sử đăng nhập",
+    "LBL_HELLO": "Xin chào",
+    "LBL_REPORT_DAY_CONTENT": "Dưới đây là bảng tóm tắt hoạt động trong YetiForce ",
+    "LBL_REPORT_WEEK_CONTENT": "Dưới đây là bản tóm tắt hành động hàng tuần trong YetiForce ",
+    "LBL_REPORT_MONTH_CONTENT": "Dưới dây là bảng tóm tắt hoạt động hàng tháng trên YetiForce "
+  }
+}

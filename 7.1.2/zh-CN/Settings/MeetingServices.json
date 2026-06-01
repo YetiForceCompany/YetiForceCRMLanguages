@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "会议服务",
+    "LBL_MEETING_SERVICES": "会议服务",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "网址",
+    "FL_STATUS": "状态",
+    "FL_APP_ID": "应用 ID",
+    "FL_SECRET_KEY": "密钥"
+  }
+}

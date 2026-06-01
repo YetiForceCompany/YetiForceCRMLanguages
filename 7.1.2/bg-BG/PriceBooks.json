@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Добави към",
+    "LBL_EDIT_LIST_PRICE": "Редактиране на ценова листа",
+    "LBL_PRICEBOOK_INFORMATION": "Подробности за ценовата листа",
+    "LBL_UNIT_PRICE": "Цена на артикула",
+    "Price Book Name": "Име на ценовата листа",
+    "PriceBook No": "Номер на ценовата листа",
+    "PriceBooks": "Ценови листи",
+    "SINGLE_PriceBooks": "Ценова листа",
+    "yes": "Да",
+    "no": "Не",
+    "Unit Price": "Цена на артикула",
+    "LBL_SPECIFY_THE_MARGIN": "Разлика",
+    "LBL_SPECIFY_THE_MARGINP": "Разлика (%)"
+  }
+}

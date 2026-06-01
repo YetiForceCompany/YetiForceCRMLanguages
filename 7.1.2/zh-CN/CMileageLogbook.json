@@ -1,0 +1,17 @@
+{
+  "php": {
+    "CMileageLogbook": "里程日志",
+    "SINGLE_CMileageLogbook": "里程日志",
+    "LBL_ADDITIONAL_INFORMATION": "附加信息",
+    "LBL_BASIC_INFORMATION": "基本信息",
+    "LBL_DESCRIPTION_BLOCK": "说明",
+    "LBL_ATTENTION_BLOCK": "备注",
+    "FL_SUBJECT": "标题",
+    "FL_STATUS": "状态",
+    "FL_NUMBER_KILOMETERS": "公里数",
+    "PLL_DRAFT": "草稿",
+    "PLL_FOR_APPROVAL": "等待审批",
+    "PLL_ACCEPTED": "已接受",
+    "PLL_CANCELLED": "已取消"
+  }
+}

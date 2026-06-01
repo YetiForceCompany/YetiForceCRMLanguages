@@ -1,0 +1,12 @@
+{
+  "php": {
+    "LBL_EXCEPTIONS": "Izjeme",
+    "LBL_NOTIFICATIONS_CONFIGURATION": "Nastavitve obvestil",
+    "LBL_ADD_MEMBERS": "Dodaj člane v obvestila",
+    "LBL_SELECT_MEMBERS": "Izberi člane v obvestila",
+    "LBL_MEMBERS": "Člani",
+    "LBL_LOCK": "Zaklepanje",
+    "LBL_NOTICE_CONFIG_WARNING": "Gledanje modulov je omogočeno v nastavitvah. Onemogočite jih, če želite upravljati obvestila."
+  },
+  "js": {}
+}

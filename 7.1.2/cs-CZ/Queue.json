@@ -1,0 +1,22 @@
+{
+  "php": {
+    "Queue": "Čekající změny",
+    "SINGLE_Queue": "Čekající změny",
+    "LBL_CUSTOM_INFORMATION": "Systémové Informace",
+    "LBL_BASIC_INFORMATION": "Základní informace",
+    "FL_SUBJECT": "Předmět",
+    "FL_RELATED_TO": "Souvisí s",
+    "FL_CHANGES": "Seznam změn",
+    "LBL_DESCRIPTION_INFORMATION": "Podrobnosti popisu",
+    "FL_REASON_FOR_CHANGE": "Důvod změny",
+    "FL_REASON_FOR_REJECTION": "Důvod zamítnutí",
+    "FL_STATUS": "Status",
+    "PLL_PLANNED": "Plánované",
+    "PLL_ON_HOLD": "Pozastavené",
+    "PLL_FOR_VERIFICATION": "K ověření",
+    "PLL_IN_APPROVAL": "Ke schválení",
+    "PLL_ACCEPTED": "Přijato",
+    "PLL_COMPLETED": "Dokončeno",
+    "PLL_CANCELLED": "Zrušeno"
+  }
+}

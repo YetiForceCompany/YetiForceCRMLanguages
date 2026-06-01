@@ -1,0 +1,20 @@
+{
+  "php": {
+    "LBL_CONVERSION": "Chuyển đổi",
+    "LBL_CONVERSION_TO_ACCOUNT": "Thay Phụ trách",
+    "LBL_CONVERSION_TO_ACCOUNT_INFO": "Khi tuỳ chọn này được đánh dấu, một người sử dụng thực hiện chuyển đổi một Cơ hội thành Khách hàng sẽ trở thành Phụ trách",
+    "LBL_LEADS": "Khách hàng tiềm năng",
+    "LBL_INFO": "Thông tin",
+    "LBL_VALUES": "Giá trị",
+    "LBL_GROUPS_INFO": "Nhóm không có Phụ trách",
+    "LBL_LEAD_STATUS": "Trạng thái xác định công việc kết thúc với khách hàng tiềm năng",
+    "LBL_LEAD_CONVERT_STATUS": "Trạng thái cho phép chuyển đổi từ Khách hàng tiềm năng thành Khách hàng",
+    "LBL_CONVERT_LEAD_MERGE": "Link the record meeting specified requirements while converting from Lead to Account",
+    "LBL_CONVERT_LEAD_MERGE_ALERT": "This option allows the system to automatically link converted record with an already existing one - new Account will not be created, instead, all existing record data will be transferred from Lead",
+    "LBL_CONDITION": "Thêm điều kiện",
+    "MarketingProcesses": "Quá trình tiếp thị"
+  },
+  "js": {
+    "JS_NO_CONDITIONS": "Cần ít nhất 1 điều kiện"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Approvals": "الموافقات",
+    "SINGLE_Approvals": "موافقة",
+    "LBL_CUSTOM_INFORMATION": "المعلومات المخصصة",
+    "LBL_BASIC_INFORMATION": "معلومات أساسية",
+    "LBL_DESCRIPTION_INFORMATION": "تفاصيل الوصف",
+    "FL_NAME": "الإسم",
+    "FL_APPROVALS_STATUS": "الحالة",
+    "FL_DESCRIPTION": "الوصف",
+    "FL_NUMBER": "رقم",
+    "PLL_DRAFT": "مسودة",
+    "PLL_ACTIVE": "مفعل",
+    "PLL_INACTIVE": "غير نشط"
+  }
+}

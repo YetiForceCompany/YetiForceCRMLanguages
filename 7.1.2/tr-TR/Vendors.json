@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "kime",
+    "LBL_EXPORT_TO_PDF": "PDF'e Aktar",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Adres bilgileri",
+    "LBL_VENDORS_ADD_TASK": "Görev Ekle",
+    "LBL_VENDORS_ADD_EVENT": "Etkinlik Ekle",
+    "300-Sales-Software": "300-Satış-Yazılım",
+    "301-Sales-Hardware": "301-Satış-Donanım",
+    "302-Rental-Income": "302-Kiralama-Gelir",
+    "303-Interest-Income": "303-Faiz-Gelir",
+    "304-Sales-Software-Support": "304-Satış-Yazılım-Destek",
+    "305-Sales Other": "305-Satış Diğer",
+    "306-Internet Sales": "306-İnternet Satışları",
+    "307-Service-Hardware Labor": "307-Hizmet-Donanım İşçiliği",
+    "308-Sales-Books": "308-Satış-Kitap",
+    "Email": "Öncelikli e-posta adresiniz",
+    "GL Account": "GL hesabı",
+    "LBL_VENDOR_INFORMATION": "Tedarikçi Bilgisi",
+    "Phone": "Birincil telefon",
+    "SINGLE_Vendors": "Tedarikçi",
+    "Vendor Name": "Tedarikçi adı",
+    "Vendor No": "Tedarikçi No",
+    "Vendors": "Tedarikçiler",
+    "Website": "Web sitesi",
+    "LBL_BUILDING_NUMBER": "Bina numarası",
+    "LBL_LOCAL_NUMBER": "Ofis numarası"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Bu Satıcının silinmesi, ilgili Satın Alma Siparişlerini kaldıracaktır. Bu Satıcıyı silmek istediğinizden emin misiniz?",
+    "LBL_MASS_DELETE_CONFIRMATION": "Bu satıcıları silmek, ilgili Satın Alma Siparişlerini kaldıracaktır. Seçili Kayıtları silmek istediğinizden emin misiniz?"
+  }
+}

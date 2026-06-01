@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": "アイデア",
+    "SINGLE_Ideas": "アイデア",
+    "LBL_IDEAS_INFORMATION": "基本情報",
+    "LBL_SUBJECT": "件名",
+    "LBL_STATUS": "ステータス",
+    "Description": "基本説明",
+    "LBL_EXTENT_DESCRIPTION": "詳細説明",
+    "Attention": "コメント",
+    "LBL_NO": "番号",
+    "Draft": "ドラフト",
+    "Proposition": "提案"
+  }
+}

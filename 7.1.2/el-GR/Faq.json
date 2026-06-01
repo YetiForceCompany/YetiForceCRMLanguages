@@ -1,0 +1,29 @@
+{
+  "php": {
+    "Faq": "Συχνές Ερωτήσεις",
+    "SINGLE_Faq": "Συχνή Ερώτηση",
+    "Draft": "Προσχέδιο",
+    "FL_SUBJECT": "Θέμα",
+    "FL_CONTENT": "Περιεχόμενο",
+    "FL_CATEGORY": "Κατηγορία",
+    "FL_ACCOUNT": "Πελάτης",
+    "FL_VIEWS": "Προβολή",
+    "PLL_PAGE": "Σελίδα",
+    "PLL_PRESENTATION": "Παρουσίαση",
+    "LBL_VIEW_KNOWLEDGE_BASE": "Γνωσιακή Βάση",
+    "LBL_PREVIOUS": "Προηγούμενο",
+    "LBL_NEXT": "Επόμενο",
+    "FL_STATUS": "Κατάσταση",
+    "LBL_ARTICLE": "Άρθρο",
+    "FL_FEATURED": "﻿Προτεινόμενα",
+    "LBL_RELATED_FAQ": "Σχετικές καταχωρήσεις",
+    "FL_INTRODUCTION": "Eισαγωγή",
+    "Faq No": "Αριθμός",
+    "General": "Γενικά",
+    "LBL_FAQ_INFORMATION": "Βασικές πληροφορίες",
+    "LBL_RECORDS_LIST": "Λίστα Συχνών Ερωτήσεων",
+    "Obsolete": "Ξεπερασμένο",
+    "Published": "Δημοσιευμένο",
+    "Question": "Ερώτηση"
+  }
+}

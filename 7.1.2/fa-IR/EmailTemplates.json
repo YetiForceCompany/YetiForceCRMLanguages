@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "قالب‌های ایمیل",
+    "SINGLE_EmailTemplates": "قالب ایمیل",
+    "LBL_CONTENT_MAIL": "محتوای ایمیل",
+    "LBL_BASIC_DETAILS": "اطلاعات اولیه",
+    "FL_NAME": "نام",
+    "FL_TYPE": "نوع",
+    "FL_MODULE": "ماژول",
+    "FL_SUBJECT": "موضوع",
+    "FL_CONTENT": "محتوا",
+    "FL_SMTP_PRIORITY": "اولویت SMTP",
+    "PLL_MODULE": "ماژول",
+    "PLL_RECORD": "ضبط",
+    "PLL_MAIL": "پیام",
+    "PLL_LIST": "لیست",
+    "PLL_DEFAULT": "شرکت پیش‌فرض",
+    "FL_SYS_NAME": "نام سیستم"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "php": {
+    "LBL_ADD_RECORD": "Aggiungi",
+    "TreesManager": "Gestore cartelle / categorie",
+    "LBL_TREES_MANAGER": "Campi - Cartelle / categorie",
+    "LBL_TREES_MANAGER_DESCRIPTION": "Gestisce i valori tipo cartella / categoria",
+    "LBL_NO_RECORDS_FOUND": "Nessun record",
+    "LBL_EDIT_TEMPLATE_TREES": "Modifica",
+    "LBL_CREATING_TEMPLATE_TREES": "Crea",
+    "LBL_NAME": "Nome",
+    "LBL_MODULE": "Modulo",
+    "LBL_ADD_ITEM_TREE": "Nuova voce",
+    "LBL_ADD_TO_TREES": "Aggiungi",
+    "LBL_SAVE": "Salva",
+    "LBL_SELECT_REPLACE_TREE_ITEM": "Sostituisci voce con",
+    "Category": "Categoria",
+    "LBL_MULTICATEGORY": "Elenco delle categorie",
+    "Reservations": "Prenotazioni",
+    "LBL_SHARE_WITH": "Condividi con"
+  },
+  "js": {
+    "JS_TREE_DELETED_SUCCESSFULLY": "Eliminato con successo",
+    "JS_JSTREE_CREATE": "Aggiungi",
+    "JS_JSTREE_RENAME": "Cambia nome",
+    "JS_JSTREE_REMOVE": "Elimina",
+    "JS_JSTREE_CCP": "Modifica",
+    "JS_JSTREE_CUT": "Taglia",
+    "JS_JSTREE_COPY": "Copia",
+    "JS_JSTREE_PASTE": "Incolla",
+    "JS_JSTREE_CHANGE_ICON": "Cambia icona",
+    "JS_FIELD_CAN_NOT_BE_EMPTY": "Il campo non può essere vuoto",
+    "JS_NO_ITEM_SELECTED": "Nessuna voce selezionata",
+    "JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS": "Non puoi eliminare tutte le voci",
+    "JS_YOU_CANNOT_DELETE_PERENT_ITEM": "Non puoi eliminare la voce padre",
+    "JS_NEW_ITEM": "Nuovo nodo",
+    "JS_ONLY_ONE_ITEM_SELECTED": "Solo una voce può essere selezionata"
+  }
+}

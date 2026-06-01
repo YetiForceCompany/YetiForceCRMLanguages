@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "RSS Feed Quellen",
+    "LBL_ADD_FEED_SOURCE": "RSS Feed Quelle hinzufügen",
+    "LBL_FEEDS_LIST_FROM": "RSS Feeds Liste Von",
+    "LBL_SET_AS_DEFAULT": "Als Standard festlegen",
+    "LBL_SENDER": "Absender",
+    "LBL_FEED_SOURCE": "RSS Feed Quelle",
+    "LBL_ENTER_FEED_SOURCE": "RSS Feed Quelle eingeben",
+    "SINGLE_Rss": "RSS Feed",
+    "LBL_CHANGE_RSS_CHANNEL": "RSS Kanal ändern"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "RSS erfolgreich gespeichert",
+    "JS_INVALID_RSS_URL": "Ungültige RSS Url",
+    "JS_RSS_MADE_AS_DEFAULT": "RSS gesetzt als Standard"
+  }
+}

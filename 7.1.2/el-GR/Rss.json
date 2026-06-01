@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "Πηγές ροών RSS",
+    "LBL_ADD_FEED_SOURCE": "Προσθήκη πηγής ροής",
+    "LBL_FEEDS_LIST_FROM": "Λίστα ροών από",
+    "LBL_SET_AS_DEFAULT": "Ορισμός ως προεπιλογή",
+    "LBL_SENDER": "Αποστολέας",
+    "LBL_FEED_SOURCE": "Πηγή ροής",
+    "LBL_ENTER_FEED_SOURCE": "Εισάγετε πηγή ροής",
+    "SINGLE_Rss": "Ροή RSS",
+    "LBL_CHANGE_RSS_CHANNEL": "Αλλαγή καναλιού RSS"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "Επιτυχής αποθήκευση",
+    "JS_INVALID_RSS_URL": "Μη έγκυρη διεύθυνση URL",
+    "JS_RSS_MADE_AS_DEFAULT": "Η ροή RSS ορίστηκε ως προεπιλεγμένη"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "php": {
+    "LBL_NAME": "Naziv",
+    "LBL_TYPE": "Tip",
+    "LBL_DEFAULT": "Zadano",
+    "LBL_ADD_RECORD": "Dodaj zapis",
+    "LBL_CREATE_RECORD": "Dodajte telefonsku centralu",
+    "LBL_EDIT_RECORD": "Uredite telefonsku centralu",
+    "LBL_URL": "Adresa servera",
+    "LBL_USERNAME": "Prijava",
+    "LBL_PASSWORD": "Lozinka",
+    "LBL_SECRET_KEY": "Tajni ključ",
+    "LBL_OUTBOUND_CONTEXT": "Izlazni kontekst",
+    "LBL_HTTP_LISTENER_PORT": "HTTP listener port",
+    "LBL_HTTP_LISTENER_TOKEN": "HTTP token",
+    "LBL_PBX_DEFAULT": "Zadano",
+    "LBL_PBX_BASE": "Baza (zadano u pregledniku)"
+  },
+  "js": {
+    "JS_SAVE_SUCCESS": "Promjene su spremljene"
+  }
+}

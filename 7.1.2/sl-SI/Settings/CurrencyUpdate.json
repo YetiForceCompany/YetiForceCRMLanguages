@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CurrencyUpdate": "Posodobitev valut",
+    "LBL_CURRENCY_UPDATE": "Posodobitev valut",
+    "LBL_CURRENCY_UPDATE_DESCRIPTION": "Sistemske nastavitve za definiranje menjalnih tečajev.",
+    "LBL_SELECT_BANK": "Izberi banko",
+    "MSG_ONE_CURRENCY": "Obstaja samo ena glavna valuta. Če želite dobiti menjalne tečaje še za druge valute, v nastavitvah CRM dodajte še več valut.",
+    "MSG_NO_NET_CONN": "Ni internetne povezave, informacije o valutah niso bile prenesene.",
+    "LBL_HISTORY": "Zgodovina menjalnih tečajev",
+    "LBL_BANK": "Izberite banko, od katere želite pridobivati informacije o menjalnih tečajih",
+    "LBL_CAL_DATE": "Datum tečaja",
+    "LBL_MAINCURRENCY": "Glavna valuta",
+    "LBL_CODE": "Koda",
+    "LBL_SYMBOL": "Simbol",
+    "LBL_CURRENCY_NAME": "Ime valute",
+    "LBL_CURRENCY_SYMBOL": "Simbol valute",
+    "LBL_COURSE": "Menjalni tečaj",
+    "LBL_DATE": "Datum prenesenega tečaja",
+    "LBL_ACTUAL_DATE_OF_COURSE": "Datum tečaja",
+    "LBL_SHOW": "Prikaži",
+    "LBL_CURRENCIES_SUPPORTED": "Seznam podprtih valut te banke",
+    "LBL_CURRENCIES_UNSUPPORTED": "Seznam nepodprtih valut te banke",
+    "LBL_SET_BANK_OK": "Banka uspešno nastavljena kot aktivna.",
+    "LBL_SET_BANK_DEACTIVATION": "Bank successfully deactivated.",
+    "LBL_SET_BANK_ERROR": "Banke ni bilo mogoče nastaviti kor aktivne.",
+    "LBL_INFORMATIONS": "Informacije",
+    "LBL_WARNING": "Opozorilo!",
+    "NBP": "Narodna Banka Rs",
+    "ECB": "Evropska centralna banka",
+    "CBR": "Centralne banke Rusije"
+  }
+}

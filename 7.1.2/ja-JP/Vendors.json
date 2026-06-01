@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "宛先",
+    "LBL_EXPORT_TO_PDF": "PDF にエクスポート",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "住所情報",
+    "LBL_VENDORS_ADD_TASK": "タスクを追加",
+    "LBL_VENDORS_ADD_EVENT": "イベントを追加",
+    "300-Sales-Software": "300-販売-ソフトウェア",
+    "301-Sales-Hardware": "301-販売-ハードウェア",
+    "302-Rental-Income": "302-レンタル-収入",
+    "303-Interest-Income": "303-利子-収入",
+    "304-Sales-Software-Support": "304-販売-ソフトウェア-サポート",
+    "305-Sales Other": "305-販売 その他",
+    "306-Internet Sales": "306-インターネット販売",
+    "307-Service-Hardware Labor": "307-サービス-ハードウェア 作業費用",
+    "308-Sales-Books": "308-販売-本",
+    "Email": "メール（主）",
+    "GL Account": "総勘定元帳",
+    "LBL_VENDOR_INFORMATION": "ベンダーの詳細",
+    "Phone": "電話（主）",
+    "SINGLE_Vendors": "ベンダー",
+    "Vendor Name": "ベンダー名",
+    "Vendor No": "ベンダー番号",
+    "Vendors": "ベンダー",
+    "Website": "Webサイト",
+    "LBL_BUILDING_NUMBER": "建物番号",
+    "LBL_LOCAL_NUMBER": "勤務先番号"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "この仕入先を削除すると関連する発注も削除されます。本当に削除しますか？",
+    "LBL_MASS_DELETE_CONFIRMATION": "この仕入先を削除すると関連する発注も削除されます。続けますか？"
+  }
+}

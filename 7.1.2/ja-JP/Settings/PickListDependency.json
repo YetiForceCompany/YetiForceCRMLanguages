@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "選択した値",
+    "LBL_ADD_RECORD": "レコードを追加",
+    "PickListDependency": "選択リストの依存関係",
+    "LBL_PICKLIST_DEPENDENCY": "選択リストの依存関係",
+    "LBL_SELECT_FIELD": "フィールドを選択",
+    "LBL_SELECT_MODULE": "モジュール",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "ソース選択リストの値を選択",
+    "LBL_SOURCE_FIELD": "ソースフィールド",
+    "LBL_MODULE": "モジュール"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "この選択リスト依存関係を削除してもよろしいですか？"
+  }
+}

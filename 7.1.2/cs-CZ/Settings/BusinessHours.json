@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Úřední hodiny",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Pracovní doba je modul, ve kterém můžete nastavit pracovní dobu svého týmu.",
+    "LBL_WORKING_HOURS_FROM": "Od",
+    "LBL_WORKING_HOURS_TO": "Do",
+    "LBL_WORKING_DAYS": "Pracovní dny",
+    "LBL_WORKING_HOURS": "Pracovní doba",
+    "LBL_DEFAULT": "Výchozí",
+    "LBL_NAME": "Název",
+    "LBL_HOLIDAYS": "Svátky",
+    "LBL_EDIT_BUSINESS_HOURS": "Upravit pracovní dobu",
+    "LBL_ADD_BUSINESS_HOURS": "Přidat vstup do otevírací doby",
+    "LBL_DEFAULT_TIMES": "Výchozí čas",
+    "LBL_DEFAULT_REACTION_TIME": "Výchozí reakční doba",
+    "LBL_DEFAULT_IDLE_TIME": "Výchozí doba nečinnosti",
+    "LBL_DEFAULT_RESOLVE_TIME": "Výchozí doba vyřešení",
+    "LBL_HOLIDAYS_LINK": "Přejděte na nastavení svátků",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Opravdu chcete tuto položku smazat?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

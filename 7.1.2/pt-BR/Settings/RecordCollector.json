@@ -1,0 +1,22 @@
+{
+  "php": {
+    "RecordCollector": "Coletor de registro",
+    "LBL_RECORD_COLLECTOR": "Coletor de registro",
+    "LBL_RECORD_COLLECTOR_DESCRIPTION": "Painel de configuração para informações exigidas (ex. chave API, nome de usuário), para conectar com serviços que fornecem dados a empresas.",
+    "LBL_NAME": "Nome",
+    "LBL_SUCCESSFULLY_UPDATED": "O \"status\" alterou com sucesso",
+    "LBL_DOC_URL": "URL da documentação",
+    "LBL_FEATURED": "Apresentou",
+    "LBL_API_KEY": "Chave API",
+    "LBL_TYPE": "Tipo",
+    "LBL_TYPE_FillFields": "Mostrar e encher",
+    "LBL_TYPE_Summary": "Mostrar",
+    "LBL_API_KEY_OPTIONAL": "Chave API (Opcional)",
+    "LBL_SAVE_NOTIFY_OK": "Alterações salvas",
+    "LBL_PROVIDER_INVALID": "Configuração está incorreta",
+    "LBL_CONFIG": "Configuração de data para coletor de registro",
+    "LBL_ACCESS_KEY": "Chave de Acesso",
+    "LBL_CLIENT_ID": "ID do cliente",
+    "LBL_VATIFY_EU_NO_AUTH": "Token do portador não obtido."
+  }
+}

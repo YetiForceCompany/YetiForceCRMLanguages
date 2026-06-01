@@ -1,0 +1,41 @@
+{
+	"php": {
+		"Map": "Hartă",
+		"LBL_MAP": "Hartă",
+		"LBL_MAP_DESCRIPTION": "",
+		"LBL_TILE_LAYER": "Strat de plăci",
+		"LBL_TILE_LAYER_INFO": "Selectează serverul de pe care vrei să descarci straturi pentru hărți din sistem. Fiecare server oferă o imagine diferită a hărții, puteți de asemenea adăuga propriul server public, dar fiți atenți la limite și restricții cu licențele.",
+		"LBL_PROVIDER_NAME": "Nume furnizor",
+		"LBL_API_URL": "Furnizor API URL",
+		"LBL_DRIVER": "Driver",
+		"LBL_COORDINATES": "Coordonate",
+		"LBL_COORDINATES_INFO": "Selectați serverul care va fi utilizat pentru descărcarea coordonatelor geografice, iar Cron va actualiza coordonatele pentru câmpurile de adresă. Acordați atenție limitelor furnizorului, deoarece sistemul va trimite frecvent solicitări către servere. Fiți conștienți de faptul că serverele gratuite au limite mari, dar dacă vă împărtășiți datele cu ele, alegeți întotdeauna servere de încredere.",
+		"LBL_PROVIDER_ACTIVE": "Activă",
+		"LBL_ROUTING": "Rutare",
+		"LBL_ROUTING_INFO": "Selectați serverul folosit pentru a cartografia rutele pentru vehicule, sistemul va furniza coordonatele punctelor pentru care doriți să cartografiați ruta.",
+		"LBL_PROVIDER_ACTIONS": "Acțiuni",
+		"LBL_PROVIDER_CONFIG": "Configurați furnizorul",
+		"LBL_PROVIDER_WEBPAGE": "WWW",
+		"LBL_API_KEY": "Cheie API",
+		"LBL_TRAVEL_MODE": "Mod călătorie",
+		"LBL_ROUTING_PREFERENCE": "Preferințe de redirecționare",
+		"LBL_PROFILE": "Profil",
+		"LBL_DOCUMENTATION": "Documentație",
+		"LBL_COORDINATES_GOOGLE_GEOCODING": "API de la Google Geocoding",
+		"LBL_COORDINATES_GRAPH_HOPPER": "GraphHopper",
+		"LBL_COORDINATES_NOMINATIM": "Nominatim",
+		"LBL_COORDINATES_OPEN_CAGE": "OpenCage Geocoding",
+		"LBL_ROUTING_GOOGLE_ROUTES": "API de la Google Routes",
+		"LBL_ROUTING_GRAPH_HOPPER": "GraphHopper",
+		"LBL_ROUTING_OSRM": "OSRM - Mașină de rutare cu sursă deschisă",
+		"LBL_ROUTING_YOURS": "Ale tale",
+		"LBL_TILE_LAYER_ESRI_WORLDIMAGERY": "Esri WorldImagery",
+		"LBL_TILE_LAYER_ESRI_WORLDTOPOMAP": "Esri WorldTopoMap",
+		"LBL_TILE_LAYER_GOOGLE_MAPS": "Hărţi Google",
+		"LBL_TILE_LAYER_OSM_DEFAULT": "Implicit OpenStreetMap",
+		"LBL_TILE_LAYER_OSM_HOT": "OpenStreetMap HOT"
+	},
+	"js": {
+		"JS_ERROR_VALIDATION": "Api Key incorecte. Caractere permise: a-z A-Z 0-9 , . _ = + - și spații"
+	}
+}

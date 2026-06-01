@@ -1,0 +1,33 @@
+{
+  "php": {
+    "IncidentRegister": "Registar incidenata",
+    "SINGLE_IncidentRegister": "Registar incidenata",
+    "LBL_BASIC_INFORMATION": "Osnovne informacije",
+    "FL_NAME": "Naziv",
+    "FL_LOCATION_REGISTER": "Lokacija registra",
+    "FL_DATASETREGISTER": "Registar skupa podataka",
+    "PLL_DRAFT": "Skica",
+    "PLL_WAITING_FOR_ACCEPTANCE": "Čeka se prihvatanje",
+    "PLL_IN_REALIZATION": "U realizaciji",
+    "PLL_COMPLETED": "Završeno",
+    "PLL_CANCELLED": "Otkazano",
+    "FL_STATUS": "Status",
+    "FL_TYPE": "Tip",
+    "PLL_INTERNAL": "Interni",
+    "PLL_EXTERNAL": "Externi",
+    "LBL_INCIDENT_DATES": "Datumi incidenata",
+    "FL_INCIDENT_DATE": "Datum incidenta",
+    "FL_INCIDENT_DISCOVERY": "Datum otkrića incidenta",
+    "FL_INCIDENT_REPORT_DATE": "Datum izvještaja o incidentu",
+    "FL_INCIDENT_PUBLICATION_DATE": "Datum objavljivanja slučaja",
+    "FL_PEOPLE_NUMBER": "Broj ljudi",
+    "LBL_BREACH_CIRCUMSTANCES": "Okolnosti ispada",
+    "FL_BREACH_CIRCUMSTANCES": "Okolnosti ispada",
+    "LBL_NATURE_OF_BREACH": "Priroda ispada",
+    "FL_NATURE_OF_BREACH": "Priroda ispada",
+    "LBL_POSSIBLE_CONSEQUENCES": "Moguće posljedice",
+    "FL_POSSIBLE_CONSEQUENCES": "Moguće posljedice",
+    "LBL_SECURITY_MEASURES": "Primijenjene sigurnosne mjere",
+    "FL_SECURITY_MEASURES": "Primijenjene sigurnosne mjere"
+  }
+}

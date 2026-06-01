@@ -1,0 +1,8 @@
+{
+  "php": {
+    "FBookkeeping": "Счетоводство",
+    "SINGLE_FBookkeeping": "Счетоводство",
+    "FBookkeeping ID": "ID номер на счетоводство",
+    "FL_SUBJECT": "Тема"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "php": {
+    "OSSOutsourcedServices": "Εξωτερικές υπηρεσίες",
+    "SINGLE_OSSOutsourcedServices": "Εξωτερική υπηρεσία",
+    "LBL_INFORMATION": "Βεσικές πληροφορίες",
+    "Assigned To": "Ανατέθηκε σε",
+    "LBL_osservicesstatus": "Κατάσταση",
+    "Individual Agreement": "Ατομική σύμβαση",
+    "In service": "Υποστηρίζεται",
+    "Finished support": "Υποστήριξη τερματίστηκε",
+    "Product Name": "Όνομα υπηρεσίας",
+    "Sub Category": "Υποκατηγορία",
+    "Category": "Κατηγορία",
+    "Date Sold": "Ημερομηνία πώλησης",
+    "Date in Service": "Ημερομηνία λήξης υποστήριξης",
+    "Description": "Περιγραφή",
+    "LBL_DESCRIPTION_INFORMATION": "Περιγραφικές πληροφορίες",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορίες Συστήματος",
+    "Where bought": "Από πού αγοράστηκε",
+    "Number": "Αριθμός",
+    "Save": "Αποθήκευση",
+    "LBL_GENERATE_EXTENSION": "Δημιουργία επέκτασης",
+    "Selling proposition": "Ευκαιρία",
+    "Active": "Ενεργή",
+    "Inactive": "Ανενεργή"
+  }
+}

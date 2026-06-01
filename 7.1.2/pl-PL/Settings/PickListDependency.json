@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Wybrano wartości",
+    "LBL_ADD_RECORD": "Dodaj zależność między słownikami",
+    "PickListDependency": "Zależności słownikowe",
+    "LBL_PICKLIST_DEPENDENCY": "Zależności między słownikami",
+    "LBL_SELECT_FIELD": "Zaznacz pole",
+    "LBL_SELECT_MODULE": "Moduł",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Wybierz wartości ze słownika źródłowego",
+    "LBL_SOURCE_FIELD": "Pole żródłowe",
+    "LBL_MODULE": "Moduł"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Czy na pewno chcesz usunąć tą zależność"
+  }
+}

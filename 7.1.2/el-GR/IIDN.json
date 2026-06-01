@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IIDN": "Δελτία εσωτερικής διακίνησης",
+    "SINGLE_IIDN": "Δελτίο εσωτερικής διακίνησης",
+    "LBL_DESCRIPTION_BLOCK": "Περιγραφή",
+    "LBL_ATTENTION_BLOCK": "Σχόλια",
+    "FL_ACCEPTANCE_DATE": "Ημερομηνία αποδοχής",
+    "FL_SUBJECT": "Θέμα",
+    "FL_NUMBER": "Αριθμός",
+    "FL_STORAGE": "Αποθήκη",
+    "FL_STATUS": "Κατάσταση",
+    "PLL_DRAFT": "Προσχέδιο",
+    "PLL_IN_REALIZATION": "Σε υλοποίηση",
+    "PLL_OBJECTIONS": "Ενστάσεις",
+    "PLL_FOR_APPROVAL": "Για έγκριση",
+    "PLL_CANCELLED": "Ακυρώθηκε",
+    "PLL_ACCEPTED": "Έγινε Αποδοχή",
+    "LBL_CHANGE_STATUS": "Αλλαγή Κατάστασης"
+  }
+}

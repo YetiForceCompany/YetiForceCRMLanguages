@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "E-post maler",
+    "SINGLE_EmailTemplates": "E-post mal",
+    "LBL_CONTENT_MAIL": "E-post innhold",
+    "LBL_BASIC_DETAILS": "Grunninformasjon",
+    "FL_NAME": "Navn",
+    "FL_TYPE": "Type",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Emne",
+    "FL_CONTENT": "Innhold",
+    "FL_SMTP_PRIORITY": "SMTP-prioritet",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Post",
+    "PLL_MAIL": "Melding",
+    "PLL_LIST": "Liste",
+    "PLL_DEFAULT": "Standard selskap",
+    "FL_SYS_NAME": "System name"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "php": {
+    "HolidaysEntitlement": "Ferie annuali",
+    "SINGLE_HolidaysEntitlement": "Ferie annuali",
+    "LBL_HOLIDAYSENTITLEMENT_INFORMATION": "Informazioni base",
+    "LBL_CUSTOM_INFORMATION": "Informazioni di sistema",
+    "LBL_YEAR": "Anno",
+    "LBL_DAYS": "Giorni di ferie",
+    "LBL_EMPLOYEE": "Dipendente",
+    "LBL_NUMBER": "Progressivo"
+  }
+}

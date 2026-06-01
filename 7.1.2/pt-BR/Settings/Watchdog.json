@@ -1,0 +1,33 @@
+{
+  "php": {
+    "Watchdog": "Monitoramento ",
+    "LBL_YETIFORCE_WATCHDOG_HEADER": "YetiForce monitor de monitoramento ",
+    "LBL_YETIFORCE_WATCHDOG_DESC": "Página de configuração do monitor de supervisão do \"YetiForce\"",
+    "LBL_YETIFORCE_WATCHDOG_FULL_DESC": "O mecanismo de monitoramento do sistema CRM trabalha e transfere informações selecionados para \"YetiForce S.A\" e armazena informações que não serão publicadas, apenas com intenção de monitorar o sistema CRM para operações incorretas e o ambiente em que está instalado. ",
+    "LBL_PARAM_NAME": "Parâmetro",
+    "LBL_PARAM_VAL": "Valor",
+    "LBL_PARAM_NOT_ALLOWED": "Parâmetro não permitido ",
+    "LBL_SAVED": "Alterações Salvas",
+    "LBL_WATCHDOGURL": "Serviço de URL",
+    "LBL_SYSTEMVERSION": "Versão do sistema \"YetiForce\"",
+    "LBL_PHPVERSION": "Versão PHP",
+    "LBL_OSVERSION": "Versão do sistema ",
+    "LBL_DBVERSION": "Versão do banco de dados",
+    "LBL_DATABASE": "Versão do banco de dados",
+    "LBL_SAPIVERSION": "Versão do servidor API",
+    "LBL_LASTCRONTIME": "Ultimo tempo Cron",
+    "LBL_SPACEROOT": "Espaço raíz",
+    "LBL_SPACESTORAGE": "Espaço de armazenamento ",
+    "LBL_SPACETEMP": "Espaço do diretório temporário ",
+    "LBL_SPACEBACKUP": "\"Backup\" para o espaço do diretório ",
+    "LBL_CRMVERSION": "Versão CRM ",
+    "LBL_DOMAIN": "URL do sistema CRM ",
+    "LBL_STABILITY": "Configuração do sistema de estabilidade",
+    "LBL_LIBRARIES": "Suporte de bibliotecas ",
+    "LBL_PERFORMANCE": "Verificação de perfomance ",
+    "LBL_PUBLICDIRECTORYACCESS": "Diretório Público",
+    "LBL_ENVIRONMENT": "Informações do ambiente",
+    "LBL_WRITABLEFILESANDFOLDERS": "Arquivos e pastas gravavéis",
+    "LBL_PATHVERIFICATION": "Caminho de verificação"
+  }
+}

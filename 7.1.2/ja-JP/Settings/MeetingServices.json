@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "ミーティングサービス",
+    "LBL_MEETING_SERVICES": "ミーティングサービス",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "ステータス",
+    "FL_APP_ID": "App ID",
+    "FL_SECRET_KEY": "Secret key"
+  }
+}

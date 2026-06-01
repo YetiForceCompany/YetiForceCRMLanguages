@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Eliminați tot gunoiul",
+    "RecycleBin": "Coș de gunoi"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Șterge în masă",
+    "JS_MASS_ACTIVATE": "Activează în masă",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Șterge toate înregistrările din Coșul de gunoi",
+    "JS_ACTIVATE_RECORD_DESC": "Activarea unei înregistrări modifică doar starea acesteia, fără a afecta restul informațiilor. Sunteți sigur că doriți să activați înregistrarea?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "Ștergerea unei înregistrări este permanentă și ireversibilă pentru toate informațiile acesteia. Sunteți sigur că doriți să ștergeți înregistrarea?",
+    "JS_ADDED_TO_QUEUE": "Adăugă listei de așteptare. Toate elementele vor fi eliminate"
+  }
+}

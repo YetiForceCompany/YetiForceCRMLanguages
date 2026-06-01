@@ -1,0 +1,14 @@
+{
+  "php": {
+    "LBL_RECYCLE_DELETE_ALL": "Összes lomtár eltávolítása",
+    "RecycleBin": "Lomtár"
+  },
+  "js": {
+    "JS_MASS_DELETE": "Tömeges törlés",
+    "JS_MASS_ACTIVATE": "Tömeges aktiválás",
+    "JS_DELETE_ALL_RECYCLE_RECORD": "Összes rekord törlése a lomtárból",
+    "JS_ACTIVATE_RECORD_DESC": "Egy rekord aktiválása csak a rekord állapotát változtatja meg a többi információ megváltoztatása nélkül. Biztos benne, hogy aktiválja a rekordot?",
+    "JS_DELETE_ALL_RECYCLE_RECORD_DESC": "A rekord törlése állandó és visszafordíthatatlan a rekord összes információja szempontjából. Biztosan törli a rekordot?",
+    "JS_ADDED_TO_QUEUE": "Hozzáadva a sorhoz. Minden elem törlődik"
+  }
+}

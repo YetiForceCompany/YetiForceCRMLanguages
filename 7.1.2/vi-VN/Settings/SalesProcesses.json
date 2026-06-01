@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_SALES_PROCESSES": "Bán hàng",
+    "LBL_SALES_PROCESSES_DESCRIPTION": " ",
+    "LBL_LIMIT_PRODUCT_AND_SERVICE": "Limit the choice of products\/services only to the ones related to currently selected Opportunity. Applies to mô-đuns: Quote Enquiries, Sales requirements, Calculations, Quotes, Purchase Orders, Recurring Sales Orders.",
+    "LBL_PRODUCTS_AND_SERVICES_POPUP": "Danh sách lựa chọn Sản phẩm và Dịch vụ",
+    "LBL_UPDATE_SHARED_PERMISSIONS": "Updates sharing permissions from product\/service in opportunity when relation between opportunity and product\/service is created.",
+    "LBL_STATUSES_CLOSED_CALCULATION": "Statuses determining that calculation is closed",
+    "LBL_POTENTIALS": "Cơ hội",
+    "LBL_STATUSES_CLOSED_POTENTIAL": "Statuses determining that opportunity is closed",
+    "LBL_ASSETS": "Sản phẩm đã bán",
+    "LBL_STATUSES_CLOSED_ASSETS": "Statuses determining that sold product is closed",
+    "LBL_CREATE_POTENTIALS": "Blocked the creation of Opportunities for Accounts in which Assigned To is not a user",
+    "SalesProcesses": "Quy trình bán hàng",
+    "LBL_SQUOTEENQUIRIES": "Yêu cầu mua hàng",
+    "LBL_SREQUIREMENTSCARD": "Yêu cầu bán hàng",
+    "LBL_SCALCULATIONS": "Tính toán",
+    "LBL_SQUOTES": "Báo giá",
+    "LBL_SSALESORDER": "Đơn đặt hàng",
+    "LBL_STATUSES_CLOSED_SSALESORDER": "Statuses that define closing a sales order",
+    "LBL_STATUSES_CLOSED_SQUOTEENQUIRIES": "Statuses that define closing a quote enquiry",
+    "LBL_STATUSES_CLOSED_SREQUIREMENTSCARD": "Statuses that define closing a sales requirements",
+    "LBL_STATUSES_CLOSED_SQUOTES": "Statuses that define closing a quote"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "php": {
+    "Selected Values": "Valores seleccionados",
+    "LBL_ADD_RECORD": "Añadir",
+    "PickListDependency": "Dependencia del desplegable",
+    "LBL_PICKLIST_DEPENDENCY": "Dependencia del desplegable",
+    "LBL_SELECT_FIELD": "Seleccionar campo",
+    "LBL_SELECT_MODULE": "Módulo",
+    "LBL_SELECT_SOURCE_PICKLIST_VALUES": "Seleccionar valores del desplegable de origen",
+    "LBL_SOURCE_FIELD": "Campo de origen",
+    "LBL_MODULE": "Módulo"
+  },
+  "js": {
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "¿Está seguro de que desea eliminar esta dependencia del desplegable?"
+  }
+}

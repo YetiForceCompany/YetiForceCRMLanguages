@@ -1,0 +1,23 @@
+{
+  "php": {
+    "MailIntegration": "پنل همگام سازی ایمیل",
+    "SINGLE_MailIntegration": "پنل همگام سازی ایمیل",
+    "LBL_MAIL_NOT_FOUND_IN_DB": "ایمیل در پایگاه‌داده یافت نشد.",
+    "LBL_IMPORT_MAIL_MANUALLY": "وارد کردن",
+    "LBL_IMPORT_MAIL_MANUALLY_DESC": "یک ایمیل به CRM وارد نمایید، این امر منجر به مدیریت بهتر روابط می‌گردد",
+    "LBL_SEARCH_EMAIL": "جستجوی نشانی ایمیل",
+    "LBL_SEARCH_AND_COPY_EMAIL": "جستجو و انتخاب گیرنده پیام",
+    "LBL_ADD_CALENDAR": "افزودن رویداد",
+    "LBL_ADD_MODCOMMENTS": "افزودن نظر",
+    "LBL_SELECT_RECORD": "انتخاب رکورد مرتبط",
+    "LBL_ADD_RECORD": "افزودن رکورد مرتبط"
+  },
+  "js": {
+    "JS_ERROR": "پیام YetiForce: خطای افزودنی ، لطفاً با مدیر سامانه تماس بگیرید.",
+    "JS_REMOVED_RELATION_SUCCESSFULLY": "پیام YetiForce: رابطه با موفقیت حذف شد.",
+    "JS_ADDED_RELATION_SUCCESSFULLY": "پیام YetiForce: رابطه با موفقیت اضافه شد.",
+    "JS_IMPORT": "پیام YetiForce: ایمیل با موفقیت وارد شد.",
+    "JS_CC": "CC",
+    "JS_BCC": "BCC"
+  }
+}

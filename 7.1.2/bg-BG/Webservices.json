@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Уеб услуги",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Неуспешна промяна на парола",
+    "LBL_DATABASE_QUERY_ERROR": "Грешка в базата данни при провеждане на операцията",
+    "LBL_INVALID_OLD_PASSWORD": "Невалидна стойност за стара парола.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Новата парола и паролата за потвърждаване не съвпадат"
+  }
+}

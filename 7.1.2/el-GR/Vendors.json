@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "προς",
+    "LBL_EXPORT_TO_PDF": "Εξαγωγή σε PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "Πληροφορίες Διεύθυνσης",
+    "LBL_VENDORS_ADD_TASK": "Προσθήκη εργασίας",
+    "LBL_VENDORS_ADD_EVENT": "Προσθήκη συμβάντος",
+    "300-Sales-Software": "300- Πωλήσεις Software",
+    "301-Sales-Hardware": "301- Πωλήσεις Hardware",
+    "302-Rental-Income": "302--εισόδημα από ενοίκια",
+    "303-Interest-Income": "303-τόκοι-έσοδα",
+    "304-Sales-Software-Support": "304-Πωλήσεις υποστήριξης λογισμικού",
+    "305-Sales Other": "305-πωλήσεις άλλες",
+    "306-Internet Sales": "306- Πωλήσεις μέσω Διαδικτύου",
+    "307-Service-Hardware Labor": "307-υπηρεσίες συντήρησης Hardware",
+    "308-Sales-Books": "308-πωλήσεις-βιβλία",
+    "Email": "Κύριο email",
+    "GL Account": "Λογαριασμός Γενικής Λογιστικής",
+    "LBL_VENDOR_INFORMATION": "Βασικές πληροφορίες",
+    "Phone": "Κύριο τηλέφωνο",
+    "SINGLE_Vendors": "Προμηθευτής",
+    "Vendor Name": "Ονομασία προμηθευτή",
+    "Vendor No": "Αριθμός προμηθευτή",
+    "Vendors": "Προμηθευτές",
+    "Website": "Ιστοσελίδα",
+    "LBL_BUILDING_NUMBER": "Αριθμός κτιρίου",
+    "LBL_LOCAL_NUMBER": "Αριθμός γραφείου"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "Η διαγραφή του Προμηθευτών θα καταργήσει τις συσχετισμένες με αυτόν Παραγγελίες. Είστε βέβαιοι για τη διαγραφή;",
+    "LBL_MASS_DELETE_CONFIRMATION": "Η διαγραφή του(ων) Προμηθευτών(ων) θα καταργήσει τις συσχετισμένες Παραγγελίες. Είστε βέβαιοι για τη διαγραφή;"
+  }
+}

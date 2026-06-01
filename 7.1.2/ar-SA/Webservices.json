@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "خدمة ويب",
+    "LBL_CHANGE_PASSWORD_FAILURE": "فشل في تغيير كلمة المرور",
+    "LBL_DATABASE_QUERY_ERROR": "خطأ في قاعدة البيانات أثناء تنفيذ العملية المطلوبة",
+    "LBL_INVALID_OLD_PASSWORD": "قيمة غير صالحة نظرا لكلمة المرور القديمة.",
+    "LBL_NEW_PASSWORD_MISMATCH": "كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقين"
+  }
+}

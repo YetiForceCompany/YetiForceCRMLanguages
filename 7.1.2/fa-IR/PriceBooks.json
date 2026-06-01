@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "افزودن به",
+    "LBL_EDIT_LIST_PRICE": "ویرایش لیست قیمت",
+    "LBL_PRICEBOOK_INFORMATION": "جزئیات دفترچه قیمت",
+    "LBL_UNIT_PRICE": "قیمت واحد",
+    "Price Book Name": "نام دفترچه قیمت",
+    "PriceBook No": "شماره دفترچه قیمت",
+    "PriceBooks": "دفترچه قیمت",
+    "SINGLE_PriceBooks": "دفترچه قیمت",
+    "yes": "بله",
+    "no": "خیر",
+    "Unit Price": "قیمت واحد",
+    "LBL_SPECIFY_THE_MARGIN": "مشخص کردن حاشیه سود",
+    "LBL_SPECIFY_THE_MARGINP": "مشخص کردن حاشیه سود (%)"
+  }
+}

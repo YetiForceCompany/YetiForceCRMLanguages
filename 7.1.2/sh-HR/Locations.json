@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Locations": "Lokacije",
+    "SINGLE_Locations": "Lokacija",
+    "LBL_LOCATIONS_INFORMATION": "Osnovne informacije",
+    "LBL_CUSTOM_INFORMATION": "Sistemske informacije",
+    "LBL_DESCRIPTION_INFORMATION": "Opis detalji",
+    "LBL_SUBJECT": "Predmet",
+    "LBL_NUMBER": "Broj",
+    "LBL_CLOSED_TIME": "Vrijeme zaključenja",
+    "FL_PHONE": "Telefon",
+    "FL_CAPACITY": "Kapacitet",
+    "FL_COORDINATES": "Coordinates"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "php": {
+    "MailIntegration": "Correspondência de painel de integração",
+    "LBL_MAIL_INTEGRATION": "Correspondência de painel de integração",
+    "LBL_MAIL_INTEGRATION_DESCRIPTION": "CRM as an integration panel in an external mail client",
+    "LBL_OUTLOOK": "Outlook add-ins",
+    "LBL_OUTLOOK_ALERT": "Add-ins installation instructions can be found at %s",
+    "LBL_OUTLOOK_ADDRESSES": "Outlook mail server URLs",
+    "LBL_OUTLOOK_ADDRESSES_DESC": "List of addresses where the system will be available as an integration panel, mandatory for Outlook Web App e.g. %s",
+    "LBL_OUTLOOK_SCRIPT": "Permitir servidores CDN para o JavaScript",
+    "LBL_OUTLOOK_SCRIPT_DESC": "List of allowed CDN server addresses from which JavaScript files can be loaded, e.g. %s",
+    "LBL_OUTLOOK_ACTIVATED_ALERT": "Ativação modifica  o arquivo 'config / Security.php' e reduz o nível de segurança, alteração:\n-  isto permite carregar CRM a um \"inframe\"\n-  isto permite carregar os \"scripts\" externos\n(https://appsforoffice.microsoft.com, https://ajax.aspnetcdn.com)\n- isto desabilita \"HttpOnly\" em \"cookie\"\n- isto altera cookie \"Samesite\" para nenhum \n\n",
+    "LBL_QUICK_CREATE_MODULES": "Lista de criação rápida de módulos ",
+    "LBL_QUICK_CREATE_MODULES_DESC": "Lista de módulos em cada data que pode ser criados pelo painel de integração. Se não há valor selecionado, o sistema será selecionado pelo padrão de criação rápida. ",
+    "BTN_DOWNLOAD_OUTLOOK_INSTALLATION_FILE": "Baixar o panorama de arquivos de instalação adicionados",
+    "LBL_DEACTIVATE_FUNCTIONALITY": "Desativado "
+  }
+}

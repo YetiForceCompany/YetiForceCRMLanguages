@@ -1,0 +1,12 @@
+{
+  "php": {
+    "ModTracker": "Tracciamento modifiche",
+    "LBL_MODTRACKER_SETTINGS": "Moduli - Traccia modifiche",
+    "LBL_MODTRACKER_SETTINGS_DESCRIPTION": "Gestisce il tracciamento delle modifiche nei moduli",
+    "LBL_MODULE": "Modulo",
+    "LBL_ACTIVE": "Traccia modifiche",
+    "LBL_TOOLS": "Strumenti",
+    "LBL_TRACK_CHANGES_ENABLED": "Tracciamento modifiche abilitato",
+    "LBL_TRACK_CHANGES_DISABLE": "Tracciamento modifiche disabilitato"
+  }
+}

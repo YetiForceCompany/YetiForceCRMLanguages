@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Adaugă la",
+    "LBL_EDIT_LIST_PRICE": "Modifica lista preț",
+    "LBL_PRICEBOOK_INFORMATION": "Detalii listă de preț",
+    "LBL_UNIT_PRICE": "Preț unitar",
+    "Price Book Name": "Denumire listă de prețuri",
+    "PriceBook No": "Număr listă de preț",
+    "PriceBooks": "Listă de preț",
+    "SINGLE_PriceBooks": "Listă de preț",
+    "yes": "Da",
+    "no": "Nu",
+    "Unit Price": "Preț unitar",
+    "LBL_SPECIFY_THE_MARGIN": "Specifică marja de profit",
+    "LBL_SPECIFY_THE_MARGINP": "Specifică marja de profit (%)"
+  }
+}

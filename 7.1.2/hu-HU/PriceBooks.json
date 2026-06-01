@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_ADD_TO": "Hozzáadás",
+    "LBL_EDIT_LIST_PRICE": "Listaár módosítása",
+    "LBL_PRICEBOOK_INFORMATION": "Árlista adatai",
+    "LBL_UNIT_PRICE": "Egységár",
+    "Price Book Name": "Árlista neve",
+    "PriceBook No": "Árlista száma",
+    "PriceBooks": "Árlisták",
+    "SINGLE_PriceBooks": "Árlista",
+    "yes": "Igen",
+    "no": "Nem",
+    "Unit Price": "Egységár",
+    "LBL_SPECIFY_THE_MARGIN": "Árrés megadása",
+    "LBL_SPECIFY_THE_MARGINP": "Árrés megadása (%)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Журнал Вызовов",
+    "SINGLE_CallHistory": "Журнал Вызовов",
+    "LBL_CALLHISTORY_INFORMATION": "Основная информация",
+    "LBL_CUSTOM_INFORMATION": "Дополнительная информация",
+    "LBL_PHONE_INFORMATION": "Служебная информация",
+    "LBL_RELATED_INFORMATION": "Контактная информация",
+    "LBL_TYPE": "Тип",
+    "LBL_FROM_NUMBER": "С номера",
+    "LBL_TO_NUMBER": "На номер",
+    "LBL_LOCATION": "Местоположение",
+    "LBL_PHONE_CALL_ID": "Идентификатор",
+    "LBL_DURATION": "Продолжительность",
+    "LBL_STATUS": "Статус",
+    "LBL_START_TIME": "Начало",
+    "LBL_END_TIME": "Конец",
+    "LBL_COUNTRY_CODE": "Код страны",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "IP address",
+    "LBL_SIMSERIAL": "Номер SIM карты",
+    "LBL_SUBSCRIBERID": "Абонентский номер",
+    "LBL_DESTINATION": "Контакт",
+    "LBL_SOURCE": "Источник",
+    "Record Id": "ID Записи",
+    "Outgoing missed": "Отменен",
+    "Outgoing received": "Исходящий",
+    "Incoming": "Входящий",
+    "Missed": "Пропущенный",
+    "Voicemail": "Голосовая почта"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "php": {
+    "Wapro": "Wapro ERP",
+    "LBL_WAPRO_ERP": "Wapro ERP",
+    "LBL_WAPRO_ERP_DESCRIPTION": "Integration with the Asseco Wapro ERP system",
+    "LBL_SYNCHRONIZER_LIST": "Λίστα στοιχείων για συγχρονισμό",
+    "FL_NAME": "Όνομα",
+    "FL_STATUS": "Κατάσταση",
+    "FL_SERVER": "Διακομιστής",
+    "FL_PORT": "Θύρα",
+    "FL_DATABASE": "Όνομα βάσης δεδομένων",
+    "FL_USERNAME": "Όνομα χρήστη",
+    "FL_PASSWORD": "Κωδικός πρόσβασης",
+    "LBL_NUMBER_OF_ENTRIES": "Αριθμός καταχωρήσεων",
+    "LBL_MULTI_COMPANY": "Τμήματα/Εταιρεία (μόνο για ανάγνωση)",
+    "LBL_COMPANY_BANK_ACCOUNTS": "Εταιρικοί τραπεζικοί λογαριασμοί (μόνο για ανάγνωση)",
+    "LBL_ACCOUNTS": "Λογαριασμοί (μόνο για ανάγνωση)",
+    "LBL_CONTACTS": "Επαφές (μόνο για ανάγνωση)",
+    "LBL_PRODUCTS": "Προϊόντα (μόνο για ανάγνωση)",
+    "LBL_INVOICE": "Τιμολόγια (μόνο για ανάγνωση)",
+    "LBL_CORRECTING_INVOICE": "Διόρθωση τιμολογίων (μόνο για ανάγνωση)",
+    "LBL_LOGS_VIEWER": "Logs viewer",
+    "LBL_SAVE_AND_VERIFY": "Αποθήκευση και επαλήθευση"
+  }
+}

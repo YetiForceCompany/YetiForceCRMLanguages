@@ -1,0 +1,12 @@
+{
+  "php": {
+    "MailSignature": "Podpis e-mail",
+    "LBL_MAIL_SIGNATURE": "Podpis e-mail",
+    "LBL_MAIL_SIGNATURE_DESCRIPTION": "Konfiguruj podpisy e-mail",
+    "FL_NAME": "Nazwa",
+    "FL_DEFAULT": "Domyślny",
+    "FL_BODY": "Treść",
+    "BL_BASE": "Podstawowy"
+  },
+  "js": {}
+}

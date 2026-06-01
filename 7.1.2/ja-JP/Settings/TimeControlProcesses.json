@@ -1,0 +1,13 @@
+{
+  "php": {
+    "LBL_TIMECONTROL_PROCESSES": "ワークフロー",
+    "TimeControlProcesses": "時間管理プロセス",
+    "LBL_TIMECONTROL_PROCESSES_DESCRIPTION": " ",
+    "LBL_TIME_CONTROL_WIDGET": "タイムコントロールウィジェット",
+    "LBL_TCW_INFO": "タイムコントロールウィジェットのアイコンを表示\/非表示にするオプションは、こちらをご覧ください。",
+    "LBL_HOLIDAYS": "ホリデーアイコン",
+    "LBL_WORKING_DAYS": "営業日のアイコン",
+    "LBL_WORKING_TIME": "作業時間アイコン"
+  },
+  "js": {}
+}

@@ -1,0 +1,12 @@
+{
+  "php": {
+    "SMSTemplates": "قالب‌های پیامک",
+    "SINGLE_SMSTemplates": "قالب پیامک",
+    "LBL_CUSTOM_INFORMATION": "اطلاعات سیستم",
+    "LBL_BASIC_INFORMATION": "اطلاعات پایه",
+    "FL_SUBJECT": "موضوع",
+    "FL_MESSAGE": "پیام",
+    "FL_TARGET_MODULE": "ماژول",
+    "BL_SMS_CONTENT": "محتوای پیامک"
+  }
+}

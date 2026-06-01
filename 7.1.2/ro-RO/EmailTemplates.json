@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "Șabloane de e-mail",
+    "SINGLE_EmailTemplates": "Șablon e-mail",
+    "LBL_CONTENT_MAIL": "Conținut e-mail",
+    "LBL_BASIC_DETAILS": "Informații de bază",
+    "FL_NAME": "Nume",
+    "FL_TYPE": "Tip",
+    "FL_MODULE": "Modul",
+    "FL_SUBJECT": "Subiect",
+    "FL_CONTENT": "Conținut",
+    "FL_SMTP_PRIORITY": "Prioritate SMTP",
+    "PLL_MODULE": "Modul",
+    "PLL_RECORD": "Înregistrare",
+    "PLL_MAIL": "Mesaj",
+    "PLL_LIST": "Listă",
+    "PLL_DEFAULT": "Companie implicită",
+    "FL_SYS_NAME": "Nume sistem"
+  }
+}

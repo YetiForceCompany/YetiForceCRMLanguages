@@ -1,0 +1,33 @@
+{
+  "php": {
+    "LBL_TO_LC": "الى",
+    "LBL_EXPORT_TO_PDF": "تصدير إلى PDF",
+    "LBL_VENDOR_ADDRESS_INFORMATION": "معلومات العنوان",
+    "LBL_VENDORS_ADD_TASK": "مُـهـمَّة جديدة",
+    "LBL_VENDORS_ADD_EVENT": "حدث جديد",
+    "300-Sales-Software": "300-مبيعات-برامج",
+    "301-Sales-Hardware": "301-مبيعات-برامج",
+    "302-Rental-Income": "302-تأجير-الدخل",
+    "303-Interest-Income": "303-الفائدة-الدخل",
+    "304-Sales-Software-Support": "304-مبيعات-برامج-دعم",
+    "305-Sales Other": "305-المبيعات الأخرى",
+    "306-Internet Sales": "306-مبيعات الإنترنت",
+    "307-Service-Hardware Labor": "307-خدمة-الأجهزة العاملة",
+    "308-Sales-Books": "308-مبيعات الكتب",
+    "Email": "البريد",
+    "GL Account": "GL حساب",
+    "LBL_VENDOR_INFORMATION": "تفاصيل التذكير",
+    "Phone": "الهاتف الرئيسي",
+    "SINGLE_Vendors": "المورد",
+    "Vendor Name": "إسم البائع",
+    "Vendor No": "إسم البائع",
+    "Vendors": "الباعة",
+    "Website": "موقع على شبكة الإنترنت",
+    "LBL_BUILDING_NUMBER": "رقم المبنى",
+    "LBL_LOCAL_NUMBER": "رقم الفاتورة:"
+  },
+  "js": {
+    "LBL_DELETE_CONFIRMATION": "حذف هذا المورد سيزيل الارتباط بطلبات الشراء‫.‬ هل انت متاكد انك تريد الحذف؟",
+    "LBL_MASS_DELETE_CONFIRMATION": "حذف هؤلاء المورديين سيزيل ارتباطهم بطلبات الشراء‫.‬ هل انت متاكد بانك تريد حذف السجلات المحددة؟"
+  }
+}

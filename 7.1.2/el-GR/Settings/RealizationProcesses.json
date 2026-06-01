@@ -1,0 +1,15 @@
+{
+  "php": {
+    "LBL_PROJECT_CONFIGURATION": "Έργο",
+    "LBL_INFO": "Πληροφορίες",
+    "LBL_TYPE": "Κατάσταση",
+    "LBL_PROJECT": "Έργο",
+    "LBL_PROJECT_STATUS_INFO": "Καταστάσεις που καθορίζουν ότι το έργο έκλεισε",
+    "LBL_PROJECTMILESTONE_STATUS_INFO": "Καταστάσεις που καθορίζουν ότι το ορόσημο έκλεισε",
+    "LBL_PROJECTTASK_STATUS_INFO": "Καταστάσεις που καθορίζουν ότι η εργασία έργου έκλεισε",
+    "LBL_SAVE_CONFIG_OK": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία.",
+    "LBL_SAVE_CONFIG_ERROR": "Απέτυχε η αποθήκευση αλλαγών.",
+    "RealizationProcesses": "Διαδικασίες υλοποίησης"
+  },
+  "js": {}
+}

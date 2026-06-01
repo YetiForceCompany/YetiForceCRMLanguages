@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EmailTemplates": "电子邮件模板",
+    "SINGLE_EmailTemplates": "邮件模板",
+    "LBL_CONTENT_MAIL": "邮件内容",
+    "LBL_BASIC_DETAILS": "基本信息",
+    "FL_NAME": "名称",
+    "FL_TYPE": "类型",
+    "FL_MODULE": "模块",
+    "FL_SUBJECT": "标题",
+    "FL_CONTENT": "内容",
+    "FL_SMTP_PRIORITY": "SMTP优先",
+    "PLL_MODULE": "模块",
+    "PLL_RECORD": "记录",
+    "PLL_MAIL": "信息",
+    "PLL_LIST": "列表",
+    "PLL_DEFAULT": "默认公司",
+    "FL_SYS_NAME": "System name"
+  }
+}

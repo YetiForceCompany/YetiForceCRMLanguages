@@ -1,0 +1,32 @@
+{
+  "php": {
+    "LBL_DAV_KEYS": "DAV aplikacije",
+    "LBL_DAV_KEYS_DESCRIPTION": "Stvaranje i upravljanje DAV ključevima",
+    "LBL_KEY": "Ključ",
+    "LBL_TOOLS": "Alati",
+    "LBL_DELETE_KEY": "Obriši ključ",
+    "LBL_ADD_KEY": "Dodaj ključ",
+    "LBL_DISPLAY_NAME": "Korisnik",
+    "LBL_EMAIL": "Email",
+    "LBL_LOGIN": "Prijava",
+    "LBL_SELECT_USER": "Odaberite korisnika:",
+    "LBL_ALERT_DAV_NO_ACTIVE_TITLE": "DAV aplikacija nije aktivna.",
+    "LBL_ALERT_DAV_NO_ACTIVE_DESC": "DAV aplikacija još nije aktivirana, omogućite je u config / api.php",
+    "LBL_SUCCESS_SAVE_KEY": "Novi ključ je uspešno dodan",
+    "LBL_ERROR_SAVE_KEY": "Pogreška prilikom spremanja ključa",
+    "LBL_SUCCESS_SAVE_CHANGES": "Promjene su spremljene",
+    "LBL_ACTIVE_USER": "Korisnićki status",
+    "LBL_KEY_HAS_BEEN_REMOVED": "Ključ je obrisan",
+    "LBL_SELECT_TYPE": "Tip",
+    "LBL_COUNT_CARD": "Broj kontakata",
+    "LBL_COUNT_CAL": "Broj događaja",
+    "Dav": "DAV ključevi",
+    "LBL_VIEW_KEYS": "DAV ključevi",
+    "LBL_DUPLICATE_USER_SERVICES": "Ključ za ovu aplikaciju već postoji.",
+    "LBL_ALERT_DAV_CONFIG_TITLE": "Informacije o konfiguraciji",
+    "LBL_ALERT_DAV_CONFIG_DESC": "Primjeri konfiguracije veze DAV servera za različite aplikacije i sisteme:"
+  },
+  "js": {
+    "Adding a Key": "Dodaj ključ"
+  }
+}

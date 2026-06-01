@@ -1,0 +1,20 @@
+{
+  "php": {
+    "EventHandler": "Manipulator evenimente",
+    "LBL_EVENT_HANDLER": "Manipulator evenimente",
+    "LBL_EVENT_HANDLER_DESC": "",
+    "LBL_EVENT_NAME": "Denumire eveniment",
+    "LBL_EVENT_DESC": "Descriere eveniment",
+    "LBL_INCLUDE_MODULES": "Include module",
+    "LBL_EXCLUDE_MODULES": "Exclude module",
+    "LBL_EVENT_IS_ACTIVE": "Este activ",
+    "LBL_EDIT_VIEW_PRESAVE": "Validare înainte de a salva înregistrare",
+    "LBL_ENTITY_CHANGE_STATE": "Schimba status",
+    "LBL_ENTITY_BEFORE_SAVE": "Înainte de salvare",
+    "LBL_ENTITY_AFTER_SAVE": "După salvare",
+    "LBL_DETAIL_VIEW_BEFORE": "Vedere detaliată",
+    "LBL_EDIT_VIEW_BEFORE": "Editare vizualizare",
+    "LBL_EDIT_VIEW_DUPLICATE": "Editare vizualizare (duplicate)",
+    "LBL_INVENTORY_RECORD_DETAILS": "Încărcarea datelor pentru inventar"
+  }
+}

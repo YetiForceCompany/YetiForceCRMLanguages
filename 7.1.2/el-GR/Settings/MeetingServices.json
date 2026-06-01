@@ -1,0 +1,11 @@
+{
+  "php": {
+    "MeetingServices": "Υπηρεσίες Συνεδριάσεων",
+    "LBL_MEETING_SERVICES": "Υπηρεσίες Συνεδριάσεων",
+    "LBL_MEETING_SERVICES_DESCRIPTION": " ",
+    "FL_URL": "URL",
+    "FL_STATUS": "Κατάσταση",
+    "FL_APP_ID": "App ID",
+    "FL_SECRET_KEY": "Secret key"
+  }
+}

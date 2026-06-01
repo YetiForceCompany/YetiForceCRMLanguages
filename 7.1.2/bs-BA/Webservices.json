@@ -1,0 +1,9 @@
+{
+  "php": {
+    "Webservices": "Webservisi",
+    "LBL_CHANGE_PASSWORD_FAILURE": "Promjena lozinke nije uspjela",
+    "LBL_DATABASE_QUERY_ERROR": "Pogreška baze podataka tijekom izvođenja zatražene operacije",
+    "LBL_INVALID_OLD_PASSWORD": "Nevažeća vrijednost je data za staru lozinku.",
+    "LBL_NEW_PASSWORD_MISMATCH": "Nova lozinka i lozinka za potvrdu ne odgovaraju"
+  }
+}

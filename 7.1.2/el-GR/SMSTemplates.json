@@ -1,0 +1,12 @@
+{
+  "php": {
+    "SMSTemplates": "Πρότυπα SMS",
+    "SINGLE_SMSTemplates": "Πρότυπο SMS",
+    "LBL_CUSTOM_INFORMATION": "Πληροφορία συστήματος",
+    "LBL_BASIC_INFORMATION": "Βασική πληροφορία",
+    "FL_SUBJECT": "Θέμα",
+    "FL_MESSAGE": "Μήνυμα",
+    "FL_TARGET_MODULE": "Ενότητα",
+    "BL_SMS_CONTENT": "Περιεχόμενο μήνυματος"
+  }
+}

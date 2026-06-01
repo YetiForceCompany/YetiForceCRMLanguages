@@ -1,0 +1,15 @@
+{
+  "php": {
+    "Ideas": " Ідеї",
+    "SINGLE_Ideas": " Ідея",
+    "LBL_IDEAS_INFORMATION": "Основна інформція",
+    "LBL_SUBJECT": "Тема",
+    "LBL_STATUS": "Статус",
+    "Description": "Короткий опис",
+    "LBL_EXTENT_DESCRIPTION": "Повний опис",
+    "Attention": "Коментарі",
+    "LBL_NO": "Номер",
+    "Draft": "Чернетка",
+    "Proposition": "Пропозиція"
+  }
+}

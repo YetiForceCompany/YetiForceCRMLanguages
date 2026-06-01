@@ -1,0 +1,32 @@
+{
+  "php": {
+    "CallHistory": "Ιστορικό κλήσεων",
+    "SINGLE_CallHistory": "Ιστορικό κλήσεων",
+    "LBL_CALLHISTORY_INFORMATION": "Πληροφορίες ιστορικού κλήση",
+    "LBL_CUSTOM_INFORMATION": "Πρόσθετες πληροφορίες",
+    "LBL_PHONE_INFORMATION": "Πληροφορίες τηλεφώνου",
+    "LBL_RELATED_INFORMATION": "Σχετιζόμενες πληροφορίες",
+    "LBL_TYPE": "Τύπος",
+    "LBL_FROM_NUMBER": "ΑΠΟ αριθμό",
+    "LBL_TO_NUMBER": "ΣΤΟΝ αριθμό",
+    "LBL_LOCATION": "Τοποθεσία",
+    "LBL_PHONE_CALL_ID": "Αναγνωριστικό κλήσης στο τηλέφωνο",
+    "LBL_DURATION": "Διάρκεια κλήσης",
+    "LBL_STATUS": "Κατάσταση",
+    "LBL_START_TIME": "Κλήση ξεκίνησε",
+    "LBL_END_TIME": "Κλήση έληξε",
+    "LBL_COUNTRY_CODE": "Κώδικας χώρας",
+    "LBL_IMEI": "IMEI",
+    "LBL_IPADDRESS": "IP address",
+    "LBL_SIMSERIAL": "Αριθμός SIM",
+    "LBL_SUBSCRIBERID": "Αριθμός Συνδρομητή",
+    "LBL_DESTINATION": "Απο που έγινε η κλήση",
+    "LBL_SOURCE": "Προέλευση κλήσης",
+    "Record Id": "Αναγνωριστικό εγγραφής",
+    "Outgoing missed": "Εξερχόμενες αναπάντητες",
+    "Outgoing received": "Εξερχόμενες απαντημένες",
+    "Incoming": "Εισερχόμενες απαντημένες",
+    "Missed": "Εισερχόμενες αναπάντητες",
+    "Voicemail": "Εισερχόμενες στον τηλεφωνητή"
+  }
+}

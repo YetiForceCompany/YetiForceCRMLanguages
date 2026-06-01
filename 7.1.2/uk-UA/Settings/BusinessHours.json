@@ -1,0 +1,25 @@
+{
+  "php": {
+    "LBL_BUSINESS_HOURS": "Робочі години",
+    "LBL_BUSINESS_HOURS_DESCRIPTION": "Робочі години - це модуль, в якому можна встановити робочі години вашої команди.",
+    "LBL_WORKING_HOURS_FROM": "Від",
+    "LBL_WORKING_HOURS_TO": "До",
+    "LBL_WORKING_DAYS": "Робочі дні",
+    "LBL_WORKING_HOURS": "Робочі години",
+    "LBL_DEFAULT": "За замовчанням",
+    "LBL_NAME": "Ім`я",
+    "LBL_HOLIDAYS": "Свята",
+    "LBL_EDIT_BUSINESS_HOURS": "Редагувати робочі години",
+    "LBL_ADD_BUSINESS_HOURS": "Додати запис робочих годин",
+    "LBL_DEFAULT_TIMES": "Час за замовчуванням",
+    "LBL_DEFAULT_REACTION_TIME": "Час відповіді за замовчуванням",
+    "LBL_DEFAULT_IDLE_TIME": "Час простою за замовчуванням",
+    "LBL_DEFAULT_RESOLVE_TIME": "Час рішення за замовчуванням",
+    "LBL_HOLIDAYS_LINK": "Зайдіть в налаштування свят",
+    "LBL_HOLIDAYS_INFO": "Checking 'Holidays' will cause holidays to be omitted when calculating Business time."
+  },
+  "js": {
+    "JS_BUSINESSHOURS_DELETE_CONFIRMATION": "Ви впевнені у тому, що хочете видалити цей запис?",
+    "JS_PLEASE_SELECT_ONE_WORKING_DAYS": "Please select at least one working day."
+  }
+}

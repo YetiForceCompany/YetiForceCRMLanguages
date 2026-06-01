@@ -1,0 +1,20 @@
+{
+  "php": {
+    "IGIN": "Видача з складу",
+    "SINGLE_IGIN": "Видача з складу",
+    "LBL_DESCRIPTION_BLOCK": "Опис",
+    "LBL_ATTENTION_BLOCK": "Коментарі",
+    "FL_ACCEPTANCE_DATE": "Запланована дата",
+    "FL_SUBJECT": "Найменування",
+    "FL_NUMBER": "Номер",
+    "FL_STORAGE": "Склад",
+    "FL_STATUS": "Статус",
+    "PLL_DRAFT": "Чернетка",
+    "PLL_IN_REALIZATION": "Обробка",
+    "PLL_OBJECTIONS": "Не затверджено",
+    "PLL_FOR_APPROVAL": "Для затвердження",
+    "PLL_CANCELLED": "Скасовано",
+    "PLL_ACCEPTED": "Погоджено",
+    "LBL_CHANGE_STATUS": "Змінити статус"
+  }
+}

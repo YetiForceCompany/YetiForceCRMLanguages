@@ -1,0 +1,18 @@
+{
+  "php": {
+    "LBL_RSS_FEED_SOURCES": "Izvori RSS feeda",
+    "LBL_ADD_FEED_SOURCE": "Dodaj izvor RSS feeda",
+    "LBL_FEEDS_LIST_FROM": "Lista feedova sa",
+    "LBL_SET_AS_DEFAULT": "Postavi kao zadano",
+    "LBL_SENDER": "Pošiljatelj",
+    "LBL_FEED_SOURCE": "Izvor RSS feeda",
+    "LBL_ENTER_FEED_SOURCE": "Dodaj izvor feeda",
+    "SINGLE_Rss": "Rss Feed",
+    "LBL_CHANGE_RSS_CHANNEL": "Promijeni RSS channel"
+  },
+  "js": {
+    "JS_RSS_SUCCESSFULLY_SAVED": "Rss je uspješno spremljen",
+    "JS_INVALID_RSS_URL": "Neispravan RSS URL",
+    "JS_RSS_MADE_AS_DEFAULT": "Rss je napravljen kao zadani"
+  }
+}
